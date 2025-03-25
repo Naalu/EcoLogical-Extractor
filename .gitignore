@@ -158,6 +158,7 @@ cython_debug/
 *.xlsx
 *.xls
 *.tsv
+*.txt
 
 # zip files
 *.zip
@@ -165,8 +166,9 @@ cython_debug/
 # Logs
 *.log
 
-# pdf files in data directory or subdirectories
+# pdf/mp3 files in data directory or subdirectories
 data/**/*.pdf
+data/**/*.mp3
 
 # MAC OS
 .DS_Store

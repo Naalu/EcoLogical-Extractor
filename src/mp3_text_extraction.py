@@ -11,15 +11,13 @@ OUTPUT_DIR = os.path.join(BASE_DIR, "data", "text_output")
 # Ensure output directory exists
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# Load Whisper model
-model = whisper.load_model("turbo")
-
-def extract_text_from_mp3(mp3_path):
+def extract_text_from_mp3(mp3_path, model):
     """
     Extract text from a given MP3 file using Whisper model.
 
     Args:
         mp3_path (str): The path to the MP3 file.
+        model (whisper_obj): The model used to transcribe the MP3 file.
 
     Returns:
         str: The extracted text from the MP3, or None if an error occurs.
@@ -61,6 +59,9 @@ def process_all_mp3s(force_extract=False):
 
     print(f"📂 Processing {num_files} MP3s...\n")
 
+    # Load Whisper model
+    model = whisper.load_model("turbo")
+
     for filename in tqdm(mp3_files, desc="Extracting MP3s", unit="file"):
         mp3_path = os.path.join(DATA_DIR, filename)
         output_filename = os.path.splitext(filename)[0] + ".txt"
@@ -70,7 +71,7 @@ def process_all_mp3s(force_extract=False):
         if os.path.exists(output_path) and not force_extract:
             continue  # Skip without printing, since tqdm provides progress feedback
 
-        text = extract_text_from_mp3(mp3_path)
+        text = extract_text_from_mp3(mp3_path, model)
 
         # Skip saving if extraction failed
         if text is None:
