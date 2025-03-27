@@ -139,7 +139,17 @@ source .venv/bin/activate  # macOS/Linux
 
    - Verify installation: `tesseract --version`
 
-2. **FastText Installation**:
+2. **Install ffmpeg** (required for audio transcription):
+   - Download from [ffmpeg.org](https://ffmpeg.org/download.html)
+   - Extract files and add the bin folder to your PATH
+   - Verify installation: `ffmpeg -version`
+
+3. **Install Ghostscript** (required for table extraction):
+   - Download from [Ghostscript Downloads](https://ghostscript.com/releases/gsdnld.html)
+   - Run the installer (it will add to PATH automatically)
+   - Verify installation: `gswin64c -version`
+
+4. **FastText Installation**:
    The standard fasttext installation may fail on Windows. Try these alternatives:
 
    ```bash
@@ -158,26 +168,48 @@ source .venv/bin/activate  # macOS/Linux
    brew install tesseract
    ```
 
-2. **Verify installation**:
+2. **Install ffmpeg** (required for audio transcription):
+
+   ```bash
+   brew install ffmpeg
+   ```
+
+3. **Verify installations**:
 
    ```bash
    tesseract --version
+   ffmpeg -version
    ```
 
 #### Linux (Ubuntu/Debian)
 
-1. **Install Tesseract OCR**:
+1. **Install Tesseract OCR and ffmpeg**:
 
    ```bash
    sudo apt-get update
-   sudo apt-get install -y tesseract-ocr libtesseract-dev
+   sudo apt-get install -y tesseract-ocr libtesseract-dev ffmpeg
    ```
 
-2. **Verify installation**:
+2. **Verify installations**:
 
    ```bash
    tesseract --version
+   ffmpeg -version
    ```
+
+### Verifying External Dependencies
+
+Run the setup test script with the `--debug` flag to get detailed information about your environment:
+
+```bash
+python src/setup_test.py --debug
+```
+
+This will check for:
+
+- Python package requirements
+- Virtual environment activation
+- External dependencies (Tesseract OCR, ffmpeg, Ghostscript on Windows)
 
 ## 📊 Usage Examples
 
@@ -306,6 +338,18 @@ EcoLogical-Extractor/
    pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
    ```
 
+#### ffmpeg Not Found Error
+
+**Symptoms**: `FileNotFoundError: [Errno 2] No such file or directory: 'ffmpeg'`
+
+**Solutions**:
+
+1. Verify ffmpeg is installed: `ffmpeg -version`
+2. Ensure it's in your PATH
+3. On Windows, download from [ffmpeg.org](https://ffmpeg.org/download.html) and add to PATH
+4. On macOS: `brew install ffmpeg`
+5. On Linux: `sudo apt-get install ffmpeg`
+
 #### FastText Installation Issues
 
 **Symptoms**: `ModuleNotFoundError: No module named 'fasttext'` or compilation errors
@@ -325,7 +369,7 @@ EcoLogical-Extractor/
    ```bash
    # macOS
    brew install cmake
-   
+
    # Ubuntu/Debian
    sudo apt-get install build-essential cmake
    ```
@@ -356,6 +400,16 @@ EcoLogical-Extractor/
    doc = fitz.open("problematic.pdf")
    print(doc.metadata)  # Check if PDF is valid
    ```
+
+#### Table Extraction Issues on Windows
+
+**Symptoms**: Table extraction fails on Windows with Camelot
+
+**Solutions**:
+
+1. Verify Ghostscript is installed: `gswin64c -version`
+2. Download from [Ghostscript Downloads](https://ghostscript.com/releases/gsdnld.html)
+3. If using Camelot directly, ensure you have poppler-utils installed as well
 
 #### Virtual Environment Issues
 
