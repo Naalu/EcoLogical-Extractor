@@ -2,69 +2,26 @@
 name = "ecological-extractor"
 version = "0.1.0"
 description = "A tool for extracting geographic and keyword data from forestry PDFs"
-requires-python = ">=3.12"
-license = {file = "LICENSE"}
-authors = [
-    {name = "Chris Reger", email = "kcr28@nau.edu"}
-]
-readme = "README.md"
-
 dependencies = [
-    # Core dependencies
-    "numpy>=2.2.3",
-    "pandas>=2.2.3",
-    "duckdb>=1.2.0",
-    "sqlite-utils>=3.38",
-    
-    # PDF processing
-    "pymupdf>=1.25.3",
-    "pdfplumber>=0.11.5",
-    
-    # OCR processing
-    "pytesseract>=0.3.13",
-    "opencv-python>=4.11.0",
-    
-    # NLP and text processing
-    "spacy>=3.8.4",
-    "fuzzywuzzy>=0.18.0",
-    
-    # API and web
-    "flask>=3.1.0",
-    "requests>=2.32.3",
-    
-    # Visualization
-    "plotly>=6.0.0",
-    "geopandas>=1.0.1",
-    "folium>=0.19.4",
-    
-    # Audio transcription
-    "openai-whisper>=20231117",
+    "pymupdf",       # Fast PDF text extraction
+    "pdfplumber",    # Extract structured text and tables
+    "pytesseract",   # OCR for scanned PDFs
+    "opencv-python", # Image preprocessing for OCR
+    "spacy",         # NLP for named entity recognition
+    "fuzzywuzzy",    # Fuzzy string matching
+    "fasttext",      # Embeddings for improved entity recognition
+    "numpy",         # Numerical processing
+    "pandas",        # Data manipulation
+    "duckdb",        # Fast SQL-based storage
+    "sqlite-utils",  # SQLite-based metadata storage
+    "requests",      # API integration (if needed for ContentDM)
+    "flask",         # Lightweight web API for metadata integration
+    "plotly",        # Interactive visualizations
+    "geopandas",     # GIS-based processing
+    "folium",        # Map visualizations
+    "pytest",        # Unit testing framework
 ]
-
-[project.optional-dependencies]
-dev = [
-    "pytest>=8.3.4",
-    "pre-commit>=3.5.0",
-    "black>=23.11.0",
-    "isort>=5.12.0",
-    "mypy>=1.7.0",
-]
-
-[project.scripts]
-eco-extract = "ecological_extractor.main:main"
 
 [build-system]
-requires = ["setuptools>=65.0.0", "wheel>=0.37.0"]
-build-backend = "setuptools.build_meta"
-
-[tool.black]
-line-length = 88
-target-version = ["py312"]
-
-[tool.isort]
-profile = "black"
-line_length = 88
-
-[tool.pytest]
-testpaths = ["tests"]
-python_files = "test_*.py"
+requires = ["uv"]
+build-backend = "uv"
