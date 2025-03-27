@@ -9,6 +9,11 @@ Thank you for your interest in contributing to EcoLogical Extractor! This docume
   - [Development Environment](#development-environment)
     - [Virtual Environment Best Practices](#virtual-environment-best-practices)
     - [Required Development Tools](#required-development-tools)
+    - [External Dependencies](#external-dependencies)
+      - [1. Tesseract OCR (Required for OCR Processing)](#1-tesseract-ocr-required-for-ocr-processing)
+      - [2. ffmpeg (Required for Audio Transcription)](#2-ffmpeg-required-for-audio-transcription)
+      - [3. Ghostscript (Required for Table Extraction on Windows)](#3-ghostscript-required-for-table-extraction-on-windows)
+      - [Verifying External Dependencies](#verifying-external-dependencies)
   - [Development Workflow](#development-workflow)
   - [Code Style Guidelines](#code-style-guidelines)
   - [Testing](#testing)
@@ -61,11 +66,82 @@ Always use a virtual environment for development to ensure consistent dependenci
 ### Required Development Tools
 
 - **Python 3.12+**: Core language requirement
-- **Tesseract OCR**: Required for document processing
 - **Git**: For version control
 - **pytest**: For running tests
 - **Black**: For code formatting (optional but recommended)
 - **Flake8**: For linting (optional but recommended)
+
+### External Dependencies
+
+In addition to Python packages, EcoLogical Extractor requires several external tools for full functionality:
+
+#### 1. Tesseract OCR (Required for OCR Processing)
+
+**Windows**:
+
+- Download from [UB-Mannheim Tesseract](https://github.com/UB-Mannheim/tesseract/wiki)
+- Add to PATH: `setx PATH "%PATH%;C:\Program Files\Tesseract-OCR"`
+- Verify: `tesseract --version`
+
+**macOS**:
+
+- Install: `brew install tesseract`
+- Verify: `tesseract --version`
+
+**Linux**:
+
+- Install: `sudo apt-get install tesseract-ocr libtesseract-dev`
+- Verify: `tesseract --version`
+
+#### 2. ffmpeg (Required for Audio Transcription)
+
+**Windows**:
+
+- Download from [ffmpeg.org](https://ffmpeg.org/download.html)
+- Extract files and add bin folder to PATH
+- Verify: `ffmpeg -version`
+
+**macOS**:
+
+- Install: `brew install ffmpeg`
+- Verify: `ffmpeg -version`
+
+**Linux**:
+
+- Install: `sudo apt-get install ffmpeg`
+- Verify: `ffmpeg -version`
+
+#### 3. Ghostscript (Required for Table Extraction on Windows)
+
+**Windows**:
+
+- Download from [Ghostscript Downloads](https://ghostscript.com/releases/gsdnld.html)
+- Run the installer (it will add to PATH automatically)
+- Verify: `gswin64c -version`
+
+**macOS**:
+
+- Install: `brew install ghostscript`
+- Verify: `gs --version`
+
+**Linux**:
+
+- Install: `sudo apt-get install ghostscript`
+- Verify: `gs --version`
+
+#### Verifying External Dependencies
+
+Run the setup test script to verify all dependencies are correctly installed:
+
+```bash
+python src/setup_test.py
+```
+
+This will perform basic checks and provide information about any missing dependencies. For detailed debugging information, add the `--debug` flag:
+
+```bash
+python src/setup_test.py --debug
+```
 
 ## Development Workflow
 
@@ -97,7 +173,7 @@ Always use a virtual environment for development to ensure consistent dependenci
 
      ```
      Add UTM coordinate extraction regex pattern
-     
+
      - Implement regex for UTM zone identification
      - Add conversion function from UTM to lat/long
      - Add unit tests for various UTM formats
@@ -164,7 +240,7 @@ def test_extract_utm_coordinates():
     """Test extraction of UTM coordinates."""
     sample_text = "The study site is located at 12S 429500E 3897400N in Arizona."
     coordinates = extract_coordinates(sample_text)
-    
+
     assert len(coordinates) == 1
     assert coordinates[0]["type"] == "utm"
     assert coordinates[0]["utm_zone"] == "12S"
@@ -201,10 +277,10 @@ pytest --cov=src
 def extract_coordinates(text: str) -> List[Dict[str, Any]]:
     """
     Extract UTM and latitude/longitude coordinates from text.
-    
+
     Args:
         text: The text to analyze for coordinate patterns.
-        
+
     Returns:
         A list of dictionaries containing the extracted coordinates with the following fields:
         - text: The original extracted text
@@ -212,7 +288,7 @@ def extract_coordinates(text: str) -> List[Dict[str, Any]]:
         - coordinates: Dictionary with "latitude" and "longitude" fields
         - confidence: Confidence score between 0 and 1
         - context: Surrounding text for verification
-        
+
     Raises:
         ValueError: If the input text is empty or None.
     """
@@ -254,6 +330,7 @@ Fixes #[issue number]
 - [ ] I have added tests that prove my fix/feature works
 - [ ] All new and existing tests pass
 - [ ] I have updated the documentation accordingly
+- [ ] I have verified all required external dependencies are properly installed
 ```
 
 ## Dependency Management
@@ -277,6 +354,12 @@ Fixes #[issue number]
    # Using pip
    pip install -r requirements.txt
    ```
+
+4. **Adding external dependencies**:
+   - Document the dependency in README.md, DEVELOPMENT.md, and CONTRIBUTING.md
+   - Add installation verification to setup_test.py
+   - Provide clear installation instructions for all supported platforms
+   - Consider environment variable configuration for paths
 
 ---
 
