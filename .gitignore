@@ -165,13 +165,33 @@ cython_debug/
 # Logs
 *.log
 
-# pdf/mp3/txt files in data directory or subdirectories
+
+
+# pdf files in data directory or subdirectories
 data/**/*.pdf
+
+# mp3 files in data directory
 data/**/*.mp3
+
+# text output files
 data/**/*.txt
 
+# IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.vs/
+*.swp
+*.swo
+
+# OS specific files
 # MAC OS
 .DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
 
 # Windows
 Thumbs.db
@@ -179,5 +199,34 @@ ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
 # Linux
 lost+found/
+.directory
+.Trash-*
+
+# External dependencies cache
+.tesseract-cache/
+.whisper-cache/
+.spacy-models/
+.fasttext-models/
+
+# Visualization outputs
+*.html
+data/visualizations/**/*
+!data/visualizations/.gitkeep
+
+# Generated documentation
+docs/generated/
+
+# Test outputs
+tests/outputs/
+
+# Data files
+data/
+!data/.gitkeep

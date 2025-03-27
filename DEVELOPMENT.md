@@ -26,7 +26,7 @@
 
 ## 🌟 Overview
 
-Developed for the [Ecological Restoration Institute (ERI)](https://eri.nau.edu/) at Northern Arizona University, EcoLogical Extractor addresses a critical need to make their extensive research library (1,134+ publications) more accessible and searchable within their ContentDM system.
+Developed for the [Ecological Restoration Institute (ERI)](https://nau.edu/eri/) at Northern Arizona University, EcoLogical Extractor addresses a critical need to make their extensive research library (1,134+ publications) more accessible and searchable within their ContentDM system.
 
 **Key Problem**: ERI researchers currently struggle to find studies based on locations or ecological concepts, requiring time-consuming manual searches through hundreds of documents.
 
@@ -67,7 +67,7 @@ This transformation unlocks hidden connections between studies and dramatically 
 
 ### Prerequisites
 
-- Python >= 3.8 & <= 3.11
+- Python 3.12+
 - Git
 - Tesseract OCR (see platform-specific setup below)
 
@@ -153,8 +153,8 @@ source .venv/bin/activate  # macOS/Linux
    The standard fasttext installation may fail on Windows. Try these alternatives:
 
    ```bash
-   # Option 1: Install pre-built wheel
-   pip install "build-resources\fasttext-0.9.2-cp311-cp311-win_amd64.whl"
+   # Option 1: Install with no dependencies
+   pip install fasttext --no-deps
 
    # Option 2: Use fasttext-wheel
    pip install fasttext-wheel
@@ -373,6 +373,29 @@ EcoLogical-Extractor/
    # Ubuntu/Debian
    sudo apt-get install build-essential cmake
    ```
+
+#### numba/llvmlite (for Whisper) Installation Errors
+
+**Symptoms**: `Error: Failed building wheel for numba` or `ERROR: Failed building wheel for llvmlite`
+
+**Solutions**:
+
+1. For macOS/ Linux, try one of these alternatives:
+
+   ```bash
+    # Option 1: Install with no dependencies
+    pip install fasttext --no-deps
+
+    # Option 2: Use fasttext-wheel instead
+    pip install fasttext-wheel
+   ```
+
+Then set environment variables before installing:
+
+```bash
+    export LLVM_CONFIG=/opt/homebrew/opt/llvm/bin/llvm-config
+    pip install llvmlite numba
+```
 
 #### PDF Processing Errors
 

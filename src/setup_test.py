@@ -1,10 +1,13 @@
 import importlib.metadata
 import os
+import shutil
+import subprocess
 import sys
 from pathlib import Path
+from typing import Dict
 
 
-def check_virtual_env():
+def check_virtual_env() -> bool:
     """Check if running in a virtual environment.
 
     Returns:
@@ -28,7 +31,7 @@ def check_virtual_env():
     return True
 
 
-def check_requirements(debug=False):
+def check_requirements(debug: bool = False) -> bool:
     """Check if all required packages are installed.
 
     Args:
@@ -103,7 +106,7 @@ def check_requirements(debug=False):
     return True
 
 
-def check_git_repo():
+def check_git_repo() -> bool:
     """Check if the current directory is a git repository.
 
     Returns:
@@ -120,24 +123,157 @@ def check_git_repo():
     return True
 
 
-def main(debug=False):
+def check_external_dependencies() -> Dict[str, bool]:
+    """Check if recommended external dependencies are installed.
+
+    These checks are informational and won't cause the setup test to fail,
+    but they indicate which tools will be needed for specific features.
+
+    Returns:
+        Dict[str, bool]: Dictionary of dependency names and whether they're installed.
+    """
+    print("\nChecking external dependencies (informational):")
+
+    results = {}
+
+    # Check for Tesseract OCR (needed for OCR processing)
+    try:
+        result = subprocess.run(
+            ["tesseract", "--version"], capture_output=True, text=True, check=False
+        )
+        if result.returncode == 0:
+            print("✅ Tesseract OCR is installed")
+            results["tesseract"] = True
+        else:
+            print("ℹ️ Tesseract OCR not found (needed for OCR processing)")
+            _print_install_instructions("tesseract")
+            results["tesseract"] = False
+    except (FileNotFoundError, subprocess.SubprocessError):
+        print("ℹ️ Tesseract OCR not found (needed for OCR processing)")
+        _print_install_instructions("tesseract")
+        results["tesseract"] = False
+
+    # Check for ffmpeg (needed for audio transcription)
+    try:
+        result = subprocess.run(
+            ["ffmpeg", "-version"], capture_output=True, text=True, check=False
+        )
+        if result.returncode == 0:
+            print("✅ ffmpeg is installed")
+            results["ffmpeg"] = True
+        else:
+            print("ℹ️ ffmpeg not found (needed for audio transcription)")
+            _print_install_instructions("ffmpeg")
+            results["ffmpeg"] = False
+    except (FileNotFoundError, subprocess.SubprocessError):
+        print("ℹ️ ffmpeg not found (needed for audio transcription)")
+        _print_install_instructions("ffmpeg")
+        results["ffmpeg"] = False
+
+    # Check for Ghostscript (needed for table extraction on Windows)
+    if os.name == "nt":  # Windows check
+        try:
+            # Try to find gswin64c.exe or gswin32c.exe in PATH
+            gs_path = shutil.which("gswin64c") or shutil.which("gswin32c")
+            if gs_path:
+                print("✅ Ghostscript is installed")
+                results["ghostscript"] = True
+            else:
+                print(
+                    "ℹ️ Ghostscript not found (needed for table extraction on Windows)"
+                )
+                _print_install_instructions("ghostscript")
+                results["ghostscript"] = False
+        except Exception:
+            print("ℹ️ Ghostscript not found (needed for table extraction on Windows)")
+            _print_install_instructions("ghostscript")
+            results["ghostscript"] = False
+
+    return results
+
+
+def _print_install_instructions(dependency: str) -> None:
+    """Print installation instructions for a specific dependency.
+
+    Args:
+        dependency (str): Name of the dependency to show instructions for.
+    """
+    if dependency == "tesseract":
+        if os.name == "nt":  # Windows
+            print("   To install Tesseract OCR on Windows:")
+            print("   1. Download from https://github.com/UB-Mannheim/tesseract/wiki")
+            print(
+                '   2. Add to PATH: setx PATH "%PATH%;C:\\Program Files\\Tesseract-OCR"'
+            )
+            print("   3. Verify with: tesseract --version")
+        elif os.name == "posix":  # Linux/macOS
+            if sys.platform == "darwin":  # macOS
+                print("   To install Tesseract OCR on macOS:")
+                print("   1. Run: brew install tesseract")
+                print("   2. Verify with: tesseract --version")
+            else:  # Linux
+                print("   To install Tesseract OCR on Linux:")
+                print(
+                    "   1. Run: sudo apt-get update && sudo apt-get install -y tesseract-ocr"
+                )
+                print("   2. Verify with: tesseract --version")
+
+    elif dependency == "ffmpeg":
+        if os.name == "nt":  # Windows
+            print("   To install ffmpeg on Windows:")
+            print("   1. Download from https://ffmpeg.org/download.html")
+            print("   2. Extract files and add bin folder to PATH")
+            print("   3. Verify with: ffmpeg -version")
+        elif os.name == "posix":  # Linux/macOS
+            if sys.platform == "darwin":  # macOS
+                print("   To install ffmpeg on macOS:")
+                print("   1. Run: brew install ffmpeg")
+                print("   2. Verify with: ffmpeg -version")
+            else:  # Linux
+                print("   To install ffmpeg on Linux:")
+                print(
+                    "   1. Run: sudo apt-get update && sudo apt-get install -y ffmpeg"
+                )
+                print("   2. Verify with: ffmpeg -version")
+
+    elif dependency == "ghostscript":
+        if os.name == "nt":  # Windows
+            print("   To install Ghostscript on Windows:")
+            print("   1. Download from https://ghostscript.com/releases/gsdnld.html")
+            print("   2. Run the installer (it will add to PATH automatically)")
+            print("   3. Verify with: gswin64c -version")
+
+
+def main(debug: bool = False) -> int:
     """Main function to check the development environment setup.
 
     Args:
         debug (bool): If True, print debug information.
+
+    Returns:
+        int: 0 if all required checks passed, 1 otherwise.
     """
     print("\n🔍 Checking development environment setup...\n")
 
-    checks = [check_git_repo(), check_virtual_env(), check_requirements(debug)]
+    # Required checks (these must pass)
+    required_checks = [check_git_repo(), check_virtual_env(), check_requirements(debug)]
+
+    # Informational checks (these don't have to pass)
+    external_deps = check_external_dependencies()
 
     print("\n" + "=" * 50)
-    if all(checks):
-        print("✨ All checks passed! You're ready to start development!")
+    if all(required_checks):
+        print("✨ All required checks passed! You're ready to start development!")
+        if not all(external_deps.values()):
+            print("\nℹ️  Note: Some recommended external dependencies are missing.")
+            print("   These are not required for all features, but you may need")
+            print("   to install them later depending on which parts of the project")
+            print("   you're working with.")
     else:
         print("⚠️  Some checks failed. Please address the issues above.")
     print("=" * 50 + "\n")
 
-    return 0 if all(checks) else 1
+    return 0 if all(required_checks) else 1
 
 
 if __name__ == "__main__":
