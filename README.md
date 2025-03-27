@@ -26,7 +26,7 @@
 
 ## 🌟 Overview
 
-Developed for the [Ecological Restoration Institute (ERI)](https://nau.edu/eri/) at Northern Arizona University, EcoLogical Extractor addresses a critical need to make their extensive research library (1,134+ publications) more accessible and searchable within their ContentDM system.
+Developed for the [Ecological Restoration Institute (ERI)](https://eri.nau.edu/) at Northern Arizona University, EcoLogical Extractor addresses a critical need to make their extensive research library (1,134+ publications) more accessible and searchable within their ContentDM system.
 
 **Key Problem**: ERI researchers currently struggle to find studies based on locations or ecological concepts, requiring time-consuming manual searches through hundreds of documents.
 
