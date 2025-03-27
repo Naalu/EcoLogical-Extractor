@@ -67,7 +67,7 @@ This transformation unlocks hidden connections between studies and dramatically 
 
 ### Prerequisites
 
-- Python 3.12+
+- Python >= 3.8 & <= 3.11
 - Git
 - Tesseract OCR (see platform-specific setup below)
 
@@ -153,8 +153,8 @@ source .venv/bin/activate  # macOS/Linux
    The standard fasttext installation may fail on Windows. Try these alternatives:
 
    ```bash
-   # Option 1: Install with no dependencies
-   pip install fasttext --no-deps
+   # Option 1: Install pre-built wheel
+   pip install "build-resources\fasttext-0.9.2-cp311-cp311-win_amd64.whl"
 
    # Option 2: Use fasttext-wheel
    pip install fasttext-wheel
