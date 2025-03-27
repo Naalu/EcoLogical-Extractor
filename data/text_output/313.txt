@@ -1,0 +1,6578 @@
+ 
+ PRE-FIRE TREATMENTS HAVE PERSISTENT EFFECTS ON POST-FIRE PLANT COMMUNITIES 
+ 
+By Kristen L. Shive 
+A Thesis  
+Submitted in Partial Fulfillment  
+Of the Requirements for the Degree of  
+Master of Science  
+in Forestry  
+ 
+ 
+Northern Arizona University  
+May 2012 
+ 
+ 
+Approved: 
+Peter Z. Fulé, Ph.D., Co-Chair 
+Carolyn Hull-Sieg, Ph.D., Co-Chair 
+Margaret M. Moore, Ph.D. 
+  
+ 
+ 
+
+2 
+ 
+ABSTRACT 
+PRE-FIRE TREATMENTS HAVE PERSISTENT EFFECTS ON POST-FIRE PLANT COMMUNITIES 
+Kristen L. Shive  
+ 
+Wildfires characterized by large areas of high severity are increasingly occurring in 
+ponderosa pine (Pinus ponderosa P. & C. Lawson) forests of the Southwest to extents that are 
+out of the natural range of variability.  Managers are now routinely applying thinning and/or 
+burning treatments to reduce fire severity.  To investigate the effects of pre-fire treatments and 
+fire severity on post-fire vegetation recovery, we re-measured established plots on the 2002 
+Rodeo-Chediski Fire on the White Mountain Apache Tribal (WMAT) lands eight years post-fire 
+and the Apache-Sitgreaves National Forest (ASNF) nine years post-fire. 
+ 
+On the WMAT lands we re-measured 70 plots stratified by fire severity (high, low) and 
+pre-fire treatment (untreated, and cut/burned).  We found significantly higher overall plant 
+cover, exotic forb cover (although this was still low, <1%) and pine regeneration frequency in 
+high severity areas, and highly significant overall differences in plant community composition 
+and abundance between severity classes.  Pre-fire treatment also influenced vegetation 
+response within fire severity class.  In particular, pine regeneration was more frequent in pre-
+fire treated areas than untreated areas for both severity classes, which we linked to a generally 
+more open canopy in treated low severity fire areas and to a more heterogeneous 
+neighborhood severity pattern in treated high severity areas. 
+ 
+On the ASNF portion of the study, we re-measured 80 plots in paired pre-fire thinned 
+sites, which were less severely burned, and pre-fire unthinned sites that were more severely 
+burned.  Plant community composition and abundance in thinned and unthinned areas were 
+
+3 
+ 
+converging nine years post-fire; however, persistent differences included significantly higher 
+overall plant cover, as well as higher mean shrub cover in the untreated areas. 
+ 
+A low exotic species response was observed on both study areas, but we did detect an 
+increased frequency of some exotic species compared to the initial observations. Studies 
+throughout the Southwest have documented varying rates of exotic species invasions, 
+suggesting there is no clear pattern between fire severity and exotic species response. Although 
+high severity fire can increase growing space for exotic species, post-fire management practices, 
+on-site propagules and weather patterns may be the more important drivers of exotic response. 
+ 
+ 
+
+4 
+ 
+ACKNOWLEDGEMENTS 
+ 
+I would like to thank my co-advisors, Dr. Peter Z. Fulé and Dr. Carolyn Hull-Sieg for their 
+guidance and direction throughout the entire project, particularly for their amazingly fast 
+turnaround times with drafts, emails and ideas. I also want to thank committee member 
+Margaret Moore for providing excellent feedback and support.  Thanks also to my lab mates 
+Katie Ireland, Larissa Yocom, Amanda Stan and Rachel Sheridan for their support, feedback and 
+giggles over the years.   
+ 
+I am grateful to thank the White Mountain Apache Tribal Council for access to their 
+land, as well as Tribal Forester Jonathan Brooks.  Amanda Kuenzi provided information about 
+the initial investigations on which this project was based.  Her willingness to try and recall the 
+tiniest of details from five years ago was greatly appreciated. 
+ 
+I thank my 2011 field crew for their hard work and laughter: Brooke Benson, Nick 
+Fransioli, Adam Polinko, Allison Skrehart and Lindsay Wallis.  I also thank my 2010 ERI field crews 
+and staff, particularly Susan Nyoka and Justy Leppert for their botanical skills.  In both years, 
+Don Normandin was an incredible asset in planning and executing the logistics of this project – I 
+think he literally made it all possible.  I also thank Scott Curran for his work on designing and 
+maintaining the master database and the field databases, as well as for his patience in teaching 
+me how to query my data.   
+ 
+Finally, I thank my all of family and friends for supporting me through this and every 
+other endeavor I embark on.  I am constantly full of awe and gratitude that I have been blessed 
+with such amazing people in my life.  Thanks peeps! 
+ 
+ 
+
+5 
+ 
+TABLE OF CONTENTS 
+ 
+List of Tables .................................................................................................................................... 6 
+List of Figures ................................................................................................................................... 7 
+Preface ............................................................................................................................................. 9 
+Chapter 1: Introduction ................................................................................................................. 10 
+Chapter 2: The influence of pre-fire fuels reduction treatments on post-wildfire plant                                                   
+community dynamics through time ............................................................................................... 16 
+Abstract ..................................................................................................................................... 16 
+Introduction ............................................................................................................................... 17 
+Methods .................................................................................................................................... 20 
+Results ....................................................................................................................................... 24 
+Discussion .................................................................................................................................. 29 
+Conclusions ................................................................................................................................ 34 
+Chapter 3: Pre-fire management treatments have lasting effects on post-fire plant                             
+community response ..................................................................................................................... 53 
+Abstract ..................................................................................................................................... 53 
+Introduction ............................................................................................................................... 54 
+Methods .................................................................................................................................... 57 
+Results ....................................................................................................................................... 61 
+Discussion .................................................................................................................................. 65 
+Conclusions ................................................................................................................................ 73 
+Chapter 4: Management implications ........................................................................................... 90 
+Appendices ..................................................................................................................................... 96 
+Appendix i: Species observed in 2004, 2005 and/or 2011 in the Apache-Sitgreaves National 
+Forest study area.. ..................................................................................................................... 96 
+Appendix ii: Species list for 2010 measurements on White Mountain Apache Tribal lands .. 105 
+ 
+ 
+ 
+ 
+
+6 
+ 
+LIST OF TABLES 
+ 
+Chapter 2 
+Table 1. Exotic species by number of plots (out of a total of 80) and year. Species in bold are 
+those found on at least 5% of the total number of plots when all years are combined (i.e. 240).  
+Species life history strategies are abbreviated as A: annual, B: biennial and P: perennial. .......... 42 
+Table 2.  P-values for year, treatment and interaction for univariate variables, including total 
+cover, cover by lifeform and richness.  Where year was significant, we included the p-values for 
+pairwise comparisons.  All p-values are given to two significant digits. ........................................ 44 
+Table 3.  Indicator species by treatment and year. ....................................................................... 44 
+Table 4.  P-values for year, treatment and the interaction for exotic cover and richness.  We 
+included the p-values for pairwise comparisons among years where the main effect was 
+significant. ...................................................................................................................................... 45 
+ 
+Chapter 3 
+Table 1. Exotic graminoid and forb species by severity class. Seeded species include species 
+known to have been seeded on the WMAT lands, not necessarily after the Rodeo-Chediski Fire 
+(Kuenzi et al. 2008). Bolded species were found on at least 5% of plots. ..................................... 79 
+Table 2.  Results of perMANOVA tests for differences in univariate response variables.  
+Significance is denoted by bold type and asterisk.  Where the p-value for the interaction was 
+significant or approached significance, we separated the data by severity to test for treatment 
+effects. ........................................................................................................................................... 80 
+Table 3.  High severity indicator species.  No indicator species were found for low severity.  
+Exotic species are in bold. .............................................................................................................. 81 
+Table 4. Pine regeneration mean relative frequency and mean density (standard errors are in 
+parentheses).  Presented by severity and treatment, in the 0-40cm and 41-137cm height classes, 
+as well as the two classes combined (“All seedlings”). .................................................................. 82 
+ 
+ 
+
+7 
+ 
+LIST OF FIGURES 
+ 
+Chapter 2 
+Figure 1. Precipitation data by water year from the Heber Ranger Station, Heber, AZ.  Water year 
+for a given year includes October through December of the previous year, and January through 
+September of that year. The black line represents the 60-year average, and the grey dashed 
+lines are one standard deviation.  Solid black bars denote measurement years. ......................... 46 
+Figure 2.  NMDS ordinations showing communities at the plot-level for each year with basal 
+area, tree density and canopy openness overlaid as vectors.  Vectors in the ordinations for 2004 
+(a) and 2005 (b) both use 2004 stand structure data, and show 78 of our 80 plots since canopy 
+openness data was missing from two plots. 2011 ordination (c) uses 2011 stand structure data, 
+and show 79 of our 80 plots, also due to missing canopy data.  Stress levels and final 
+dimensionality are: (a) 2004: 15.81, 4 dimensions; (b) 2005: 15.93, 4 dimensions; (c) 2004: 
+15.60, 4 dimensions. ...................................................................................................................... 47 
+Figure 3. Basal area and tree density from variable-radius prism plots (basal area factor 
+2.3m2/ha) and percent canopy openness from hemispherical photographs by treatment and 
+year, with standard error.  Shaded bars are pre-fire treated areas. ............................................. 48 
+Figure 4.  Total plant cover, species richness and cover by lifeform by treatment and year, with 
+standard error.  Shaded bars represent pre-fire treated areas. .................................................... 49 
+Figure 5.  Cover of perennials and annuals/biennials by treatment and year with standard error.  
+Perennial to annual/biennial ratios are above bars by pre-fire treatment for each year. ............ 51 
+Figure 6.  Cover of exotic forbs and graminoids as well as exotic species richness by treatment 
+and year with standard error.  Shaded bars represent pre-fire treated areas. ............................. 50 
+Figure 7. Photograph series of untreated plot in 2004 (two years post-fire) (a), and 2011 (nine 
+years post-fire) (b) above; below, pre-fire treated plot in 2004 (c) and 2011 (d). ........................ 52 
+ 
+Chapter 3 
+Figure 1.  Precipitation data by water year from the period of post-fire recovery.  Water year for 
+a given year includes October through December of the previous year, and January through 
+September of that year.  Data are from the Heber Ranger Station in Heber, AZ, 12 km north of 
+the study site. Solid line represents the 60-year average and dashed lines are one standard 
+deviation.. ...................................................................................................................................... 83 
+Figure 2.  Example of how neighborhood severity analysis was conducted on pre-fire untreated 
+(a) and treated (b) sites.  Dots represent site centers and circles represent the area of potential 
+seed contribution.  The darkest shade of grey represents high severity, the lighter shade 
+represents moderate severity and the lightest shade represents low severity. ........................... 84 
+Figure 3.  Ordination of 2010 plant communities by severity class with tree density, basal area 
+and canopy openness overlaid as vectors. Stress: 8.435, p-value = 0.004, 3 dimensions. ........... 85 
+
+8 
+ 
+Figure 4.  Overstory variables: basal area, tree density, canopy openness.  Shaded bars represent 
+pre-fire treated areas.  All were significantly different by severity class, but none were 
+significantly different by treatment within severity class. ............................................................ 86 
+Figure 5.  Species richness, total plant canopy cover, and cover by life form.  Shaded bars 
+represent pre-fire treated areas.  Note differences in scale on the y-axis. ................................... 87 
+Figure 6.  Neighborhood severity distribution for high severity treated and untreated areas. .... 88 
+Figure 7.  NMDS ordination of plant communities in high severity areas, by pre-fire treatment.  
+Stress: 6.228, p-value = 0.028, 2 dimensions. ................................................................................ 89 
+ 
+ 
+ 
+
+9 
+ 
+PREFACE 
+ 
+This thesis contains two manuscripts intended for publication, and these chapters both 
+use “we” instead of “I” because they will include co-authors.  These manuscripts are Chapter 2: 
+“The influence of pre-fire treatment on post-fire plant community dynamics through time” and 
+Chapter 3: “Pre-fire management treatments have lasting effects on post-fire plant community 
+response.”  The literature cited in each chapter is listed at the end of that chapter. 
+ 
+ 
+
+10 
+ 
+CHAPTER 1 
+Introduction 
+ 
+In much of the western United States, global climate change has been linked to 
+increased fire severity (Miller et al., 2009), frequency and extent (Westerling et al., 2006; Littell 
+et al., 2009). This trend is expected to continue in the Southwest, where a warmer and drier 
+climate is predicted (Seager et al., 2007). Southwestern ponderosa pine (Pinus ponderosa P. & C. 
+Lawson) forests are at particularly high risk, since these forests are now characterized by high 
+densities of small trees with closed canopies (Cooper 1960, Covington and Moore 1994). Large 
+scale, stand-replacing fires are of concern because they are out of the range of natural variability 
+for these ecosystems (Fulé et al. 2003), which means that the post-fire landscapes are 
+necessarily recovering under novel conditions, and their future trajectories are not easily 
+predicted.  
+Rather than regenerate as forest, these areas have the potential to persist as vegetation 
+type conversions to shrublands or grasslands (Savage and Mast, 2005), for several reasons. First, 
+pine recruitment may decline under warming climate, since successful seedling establishment is 
+sensitive to moisture and temperature (Puhlick et al., 2012). Second, high severity fire may 
+promote species that have the ability to resprout post-fire. Early site capture by sprouting 
+species may limit the establishment of seeder species such as ponderosa pine through 
+competition for resources (Fulé and Covington, 1998; Barton, 2002). In addition, these novel 
+post-fire communities may be more susceptible to frequent high severity fire, which could limit 
+tree recruitment and create positive feedbacks between climate, vegetation and fire (Fried et 
+al., 2004). Even where forest structure eventually does re-establish, it is likely to take decades 
+(Haire and McGarigal, 2008, 2010), and the plant communities in severely burned areas are 
+
+11 
+ 
+likely to remain distinct from those in forested areas for many years (Bataineh et al., 2006). Such 
+changes to native vegetation could have significant ramifications for many trophic levels, 
+including herbivores, pollinators, as well as native wildlife communities (Beier et al., 2008). 
+High severity fire may also promote exotic species invasions, which are of concern 
+because they can negatively impact native plant communities (Levine et al., 2003) and alter 
+future fire regimes (Brooks et al., 2004). These high severity disturbances are extensive enough 
+to open up growing space for early seral colonizers that are generally ruderal, annual/biennial, 
+shade-intolerant species (Egler, 1954; Grime, 1977; Keeley et al., 1981). Although exotic species 
+exhibit a myriad of plant strategies and tolerances, many of them are well-suited to fill this role 
+(Sutherland, 2004; Martin et al., 2009). In addition, the degree to which invasions occur is not 
+limited to disturbance severity; weather patterns and propagule pressure are also important 
+factors (Lockwood et al., 2005; McGlone et al., 2009). In the Southwest, several studies have 
+linked high severity fire with exotic species invasions in semi-arid ecosystems (Crawford et al., 
+2001; Floyd et al., 2006; Dodge et al., 2008; Rew and Johnson, 2010). However, other studies 
+have documented minor responses by exotic species (Huisinga et al., 2005; Kuenzi et al., 2008; 
+McMaster, 2010), thus limiting our ability to predict exotic species invasions in relation to fire.  
+In response to the threat of high severity fire and these undesirable consequences, 
+managers are increasing applying fuels treatments, such as thinning and burning, in ponderosa 
+pine forests. These treatments generally reduce fire severity where applied (Pollet and Omi, 
+2002; Finney et al., 2005; Fulé et al., 2012). Unfortunately, the disturbance caused by the fuels 
+reduction treatments can also lead to exotic species invasions (Keeley, 2006; McGlone et al., 
+2009; Sabo et al., 2009). 
+ 
+The 2002 Rodeo-Chediski Fire of east-central Arizona burned approximately 189,000 
+hectares in ponderosa pine forests and pinyon-juniper (Pinus edulis Engelm.–Juniperus 
+
+12 
+ 
+deppeana Steud.) woodlands. At the time, this fire was the largest fire on record in the 
+Southwest by an order of magnitude, and much of it burned severely. Since the fire burned over 
+areas where landscape-scale fuels treatments were conducted, it offered an exceptional 
+opportunity to examine the effects of fire severity and pre-fire treatment on vegetation 
+response. We re-measured existing plots in the Rodeo-Chediski Fire in order to examine longer-
+term trends, specifically focusing on patterns of exotic species invasions and pine regeneration. 
+The plots were originally established in 2004, when both overstory, understory and fuels 
+characteristics were measured, and re-visited in 2005, when the understory characteristics were 
+measured again (Strom, 2005; Kuenzi, 2006; Strom and Fulé, 2007; Kuenzi et al., 2008).  
+Chapter 2 presents data from the Apache-Sitgreaves National Forest portion of the fire, 
+where we re-measured paired pre-fire thinned and unthinned sites in 2011. In order to assess 
+how pre-fire treatment, and the resultant severity, influenced plant communities through time 
+we conducted a repeated measures analysis on the three years for which we have data (2004, 
+2005, 2011). Chapter 3 presents data from the White Mountain Apache Tribal land, where we 
+re-measured plots stratified by fire severity (low and high) and pre-fire treatment (untreated, or 
+cut and burned). This allowed us to more discretely quantify vegetation response in relation to 
+severity. It also enabled us to examine how treatment influenced the vegetation response 
+within both low and high severity burned areas. Finally, Chapter 4 offers management 
+recommendations based on our findings. We hope our analyses of these longer-term datasets 
+help managers to better understand how pre-fire treatments may influence post-fire plant 
+communities and future forest regeneration. 
+ 
+ 
+ 
+
+13 
+ 
+REFERENCES 
+Barton, A.M., 2002. Intense wildfire in southeastern Arizona: transformation of a Madrean oak-
+pine forest to oak woodland. Forest Ecology and Management 165, 205-212. 
+ 
+Bataineh, A.L., Oswald, B.P., Bataineh, M.M., Williams, H.M., Coble, D.W., 2006. Changes in 
+understory vegetation of a ponderosa pine forest in northern Arizona 30 years after a wildfire. 
+Forest Ecology and Management 235, 283-294. 
+ 
+Beier, P., Rogan, E.C., Ingraldi, M.F., Rosenstock, S.S., 2008. Does forest structure affect 
+reproduction of northern goshawks in ponderosa pine forests? Journal of Applied Ecology 45, 
+342-350. 
+ 
+Brooks, M.L., D'Antonio, C.M., Richardson, D.M., Grace, J.B., Keeley, J.E., DiTomaso, J.M., Hobbs, 
+R.J., Pellant, M., Pyke, D., 2004. Effects of invasive alien plants on fire regimes. Bioscience 54, 
+677-688. 
+ 
+Crawford, J.S., Wahren, C.H.A., Kyle, S., Moir, W.H., 2001. Responses of exotic plant species to 
+fires in Pinus ponderosa forests in northern Arizona. Journal of Vegetation Science 12, 261-268. 
+ 
+Cooper, C.F., 1960. Changes in vegetation, structure, and growth of south-western pine forests 
+since white settlement. Ecological Monographs 30, 130-164. 
+ 
+Covington, W.W., Moore, M.M., 1994. Southwestern ponderosa forest structure - changes since 
+Euro-American settlement. Journal of Forestry 92, 39-47. 
+ 
+Dodge, R.S., Fulé, P.Z., Sieg, C.H., 2008. Dalmatian toadflax (Linaria dalmatica) response to 
+wildfire in a southwestern USA forest. Ecoscience 15, 213-222. 
+ 
+Egler, R.E., 1954. Vegetation science concepts I. Initial floristic composition: A factor in old-field 
+vegetation development. Vegetatio 4, 412-417. 
+ 
+Finney, M.A., McHugh, C.W., Grenfell, I.C., 2005. Stand- and landscape-level effects of 
+prescribed burning on two Arizona wildfires. Canadian Journal of Forest Research-Revue 
+Canadienne De Recherche Forestiere 35, 1714-1722. 
+ 
+Floyd, M.L., Hanna, D., Romme, W.H., Crews, T.E., 2006. Predicting and mitigating weed 
+invasions to restore natural post-fire succession in Mesa Verde National Park, Colorado, USA. 
+International Journal of Wildland Fire 15, 247-259. 
+ 
+Fried, J.S., Torn, M.S., Mills, E., 2004. The impact of climate change on wildfire severity: A 
+regional forecast for northern California. Climatic Change 64, 169-191. 
+ 
+Fulé, P.Z., Covington, W.W., 1998. Spatial patterns of Mexican pine-oak forests under different 
+recent fire regimes. Plant Ecol. 134, 197-209. 
+ 
+
+14 
+ 
+Fulé, P.Z., Heinlein, T.A., Covington, W.W., Moore, M.M., 2003. Assessing fire regimes on Grand 
+Canyon landscapes with fire-scar and fire-record data. International Journal of Wildland Fire 12, 
+129-145. 
+ 
+Fulé, P.Z., Crouse, J.E., Roccaforte, J.P., Kalies, E.L., 2012. Do thinning and/or burning treatments 
+in western USA ponderosa or Jeffrey pine-dominated forests help restore natural fire behavior? 
+Forest Ecology and Management 269, 68-81. 
+ 
+Grime, J.P., 1977. Evidence for existence of 3 primary strategies in plants and its relevance to 
+ecological and evolutionary theory. American Naturalist 111, 1169-1194. 
+ 
+Haire, S.L., McGarigal, K., 2008. Inhabitants of landscape scars: Succession of woody plants after 
+large, severe forest fires in Arizona and New Mexico. Southwestern Naturalist 53, 146-161. 
+ 
+Haire, S.L., McGarigal, K., 2010. Effects of landscape patterns of fire severity on regenerating 
+ponderosa pine forests (Pinus ponderosa) in New Mexico and Arizona, USA. Landscape Ecology 
+25, 1055-1069. 
+ 
+Huisinga, K.D., Laughlin, D.C., Fulé, P.Z., Springer, J.D., McGlone, C.M., 2005. Effects of an 
+intense prescribed fire on understory vegetation in a mixed conifer forest. Journal of the Torrey 
+Botanical Society 132, 590-601. 
+ 
+Keeley, J.E., 2006. Fire management impacts on invasive plants in the western United States. 
+Conservation Biology 20, 375-384. 
+ 
+Keeley, S.C., Keeley, J.E., Hutchinson, S.M., Johnson, A.W., 1981. Postfire succession of the 
+herbaceous flora in southern-California chaparral. Ecology 62, 1608-1621. 
+ 
+Kuenzi, A.M., 2006. Pre-fire treatment effects and understory plant community response on the 
+Rodeo-Chediski fire, Arizona. M.S. Thesis, School of Forestry, Flagstaff, AZ, Northern Arizona 
+University. 
+ 
+Kuenzi, A.M., Fulé, P.Z., Sieg, C.H., 2008. Effects of fire severity and pre-fire stand treatment on 
+plant community recovery after a large wildfire. Forest Ecology and Management 255, 855-865. 
+ 
+Levine, J.M., Vila, M., D'Antonio, C.M., Dukes, J.S., Grigulis, K., Lavorel, S., 2003. Mechanisms 
+underlying the impacts of exotic plant invasions. Proceedings of the Royal Society of London 
+Series B-Biological Sciences 270, 775-781. 
+ 
+Littell, J.S., McKenzie, D., Peterson, D.L., Westerling, A.L., 2009. Climate and wildfire area burned 
+in western U. S. ecoprovinces, 1916-2003. Ecological Applications 19, 1003-1021. 
+ 
+Lockwood, J.L., Cassey, P., Blackburn, T., 2005. The role of propagule pressure in explaining 
+species invasions. Trends in Ecology & Evolution 20, 223-228. 
+ 
+Martin, P.H., Canham, C.D., Marks, P.L., 2009. Why forests appear resistant to exotic plant 
+invasions: intentional introductions, stand dynamics, and the role of shade tolerance. Frontiers 
+in Ecology and the Environment 7, 142-149. 
+
+15 
+ 
+ 
+McGlone, C.M., Springer, J.D., Laughlin, D.C., 2009. Can pine forest restoration promote a 
+diverse and abundant understory and simultaneously resist nonnative invasion? Forest Ecology 
+and Management 258, 2638-2646. 
+ 
+McMaster, M.A., 2010. Effects of fire and post-fire seeding on plant communities in a ponderosa 
+pine forest. M.S. Thesis, School of Forestry, Flagstaff, AZ, Northern Arizona University. 
+ 
+Miller, J.D., Safford, H.D., Crimmins, M., Thode, A.E., 2009. Quantitative evidence for increasing 
+forest fire severity in the Sierra Nevada and southern Cascade Mountains, California and 
+Nevada, USA. Ecosystems 12, 16-32. 
+ 
+Pollet, J., Omi, P.N., 2002. Effect of thinning and prescribed burning on crown fire severity in 
+ponderosa pine forests. International Journal of Wildland Fire 11, 1-10. 
+ 
+Puhlick, J.J., Laughlin, D.C., Moore, M.M., 2012. Factors influencing ponderosa pine regeneration 
+in the southwestern USA. Forest Ecology and Management 264, 10-19. 
+ 
+Rew, L.J., Johnson, M.P., 2010. Reviewing the Role of Wildfire on the Occurrence and Spread of 
+Invasive Plant Species in Wildland Areas of the Intermountain Western United States. Invasive 
+Plant Science and Management 3, 347-364. 
+ 
+Sabo, K.E., Sieg, C.H., Hart, S.C., Bailey, J.D., 2009. The role of disturbance severity and canopy 
+closure on standing crop of understory plant species in ponderosa pine stands in northern 
+Arizona, USA. Forest Ecology and Management 257, 1656-1662. 
+ 
+Savage, M., Mast, J.N., 2005. How resilient are southwestern ponderosa pine forests after crown 
+fires? Canadian Journal of Forest Research-Revue Canadienne De Recherche Forestiere 35, 967-
+977. 
+ 
+Seager, R., Ting, M.F., Held, I., Kushnir, Y., Lu, J., Vecchi, G., Huang, H.P., Harnik, N., Leetmaa, A., 
+Lau, N.C., Li, C.H., Velez, J., Naik, N., 2007. Model projections of an imminent transition to a 
+more arid climate in southwestern North America. Science 316, 1181-1184. 
+ 
+Strom, B.A., 2005. Pre-fire treatment effects and post-fire forest dynamics on the Rodeo-
+Chediski burn area, Arizona. M.S. Thesis, School of Forestry, Flagstaff, AZ, Northern Arizona 
+University. 
+ 
+Strom, B.A., Fulé, P.Z., 2007. Pre-wildfire fuel treatments affect long-term ponderosa pine forest 
+dynamics. International Journal of Wildland Fire 16, 128-138. 
+ 
+Sutherland, S., 2004. What makes a weed a weed: life history traits of native and exotic plants in 
+the USA. Oecologia 141, 24-39. 
+ 
+Westerling, A.L., Hidalgo, H.G., Cayan, D.R., Swetnam, T.W., 2006. Warming and earlier spring 
+increase western US forest wildfire activity. Science 313, 940-943. 
+ 
+ 
+
+16 
+ 
+CHAPTER 2 
+ 
+The influence of pre-fire fuel reduction treatments on post-wildfire plant community dynamics 
+through time 
+ 
+ABSTRACT 
+We used a multi-year dataset from the 2002 Rodeo-Chediski Fire to detect post-fire 
+trends in plant community response in burned ponderosa pine (Pinus ponderosa P. & C. Lawson) 
+forests of east-central Arizona. Within the burn perimeter, we examined the effects of pre-fire 
+fuels treatments on post-fire vegetation recovery by comparing paired thinned and unthinned 
+sites on the Apache-Sitgreaves National Forest. We sampled these paired sites in 2004, 2005 
+and 2011. There were significant differences in plant community composition by species cover 
+data in 2004 and 2005, but community composition in treated and untreated plots was 
+beginning to converge in 2011. Total plant cover was significantly higher in untreated areas for 
+all three years. Plant cover generally increased between 2004 and 2005 and markedly decreased 
+in 2011, with the exception of shrubs which steadily increased through time. The sharp decrease 
+in forb and graminoid cover in 2011 is likely due in part to the well below-average precipitation 
+in the previous year. Annual/biennial forb and graminoid cover decreased relative to perennial 
+cover through time, consistent with the patterns predicted by the initial floristics hypothesis. In 
+contrast to our expectations, exotic plant response on these sites was highly variable and not 
+limited to the immediate post-fire, annual/biennial community. Mean exotic species cover was 
+slightly higher in the untreated areas, and this difference approached significance, but the 
+overall cover values were quite low for all years (<2.5%). Despite these low cover values, 
+Tragopogon dubius (yellow salsify), Verbascum thapsus (common mullien), Bromus inermis 
+(smooth brome) and Eragrostis curvula (weeping lovegrass) increased in frequency and the 
+
+17 
+ 
+relative cover of exotic to native forbs and graminoids also increased through time. These 
+patterns may be cause for concern, since a continual build-up ofpropagules could enable 
+significant invasions in the future. 
+ 
+INTRODUCTION 
+Throughout the western U.S., fuels treatments such as thinning and burning are being 
+increasingly applied in ponderosa pine (Pinus ponderosa P. & C. Lawson) forests to reduce overly 
+dense stands and reduce crown fire risk. Several studies have documented significant reductions 
+in fire severity where pre-fire fuels treatments had been conducted (Pollet and Omi, 2002; 
+Finney et al., 2005; Fulé et al., 2012). Reducing the risk of high severity burning in ponderosa 
+pine forests is of particular concern because these ecosystems are poorly adapted to such large-
+scale stand replacing fires, due to their evolutionary history of frequent, low severity surface 
+fires (Cooper, 1960; Covington and Moore, 1994; Fulé et al., 2003). 
+Large, stand replacing fires in southwestern ponderosa pine forests are creating novel 
+conditions, and thus future plant community trajectories are not easily predicted. These areas 
+have the potential to convert to persistent shrublands or grasslands (Savage and Mast, 2005), 
+and even if pines do recapture these sites, it could take decades (Haire and McGarigal, 2008, 
+2010). Plant communities in severely burned areas are likely to remain distinct from those in 
+forested areas for many years (Bataineh et al., 2006) and such changes to native vegetation 
+could have significant ramifications on a number of trophic levels, including herbivores, 
+pollinators, as well as on native wildlife communities (Beier et al., 2008). 
+Given the predictions for a warmer and drier climate in the Southwest (Seager et al., 
+2007), these large-scale high severity fire events are likely to continue, which means that fuels 
+treatments are also likely to become more and more prevalent on the landscape. A number of 
+
+18 
+ 
+studies have examined plant community responses to fire severity (Foxx, 1996; Crawford et al., 
+2001; Griffis et al., 2001; Barclay et al., 2004; Laughlin and Fulé, 2008), or to fuels reduction 
+treatments (Laughlin et al., 2004; Moore et al., 2006; Stoddard et al., 2011). However, few 
+studies have examined post-wildfire plant community response relative to pre-fire treatment 
+(but see Hunter et al. 2006 and Kuenzi et al. 2008). In addition, most of these previous studies 
+were carried out only in the first few years post-fire, limiting our understanding of post-fire 
+successional change through time (but see Foxx 1996 and Bataineh et al. 2006). 
+The initial floristics hypothesis predicts that post-disturbance plant community dynamics 
+are determined in large part by life history characteristics (Egler, 1954). Under this hypothesis, 
+early post-disturbance communities are dominated by annual/biennial forbs and graminoids 
+that are well suited to the immediate post-disturbance environment. The dominance of these 
+species then give way to the slower growing, later successional species such as perennial 
+herbaceous plants and woody shrubs. Observational studies generally support this hypothesis, 
+at least in terms of the prevalence of annual/biennial species in the early post-fire environment 
+(Keeley et al., 1981; Turner et al., 1997; Crawford et al., 2001; Barclay et al., 2004; Schoennagel 
+et al., 2004; Bataineh et al., 2006; Laughlin and Fulé, 2008; Sabo et al., 2009). Similarly, 
+annual/biennial species can also respond positively to lower-severity disturbances such as 
+prescribed fire (Laughlin et al., 2004; Moore et al., 2006; Sabo et al., 2009), although this 
+response is less consistent, since at least one study did not detect differences between areas 
+that were or were not treated with prescribed fire (Scudieri et al., 2010). 
+ 
+This successional pattern is important in part because some exotic species may fill such 
+opportunistic roles immediately post-fire.  Although exotic species exhibit a myriad of plant 
+strategies and tolerances (Martin et al., 2009), many are ruderal, annual or biennial species, that 
+are well adapted to colonizing disturbed areas (Grime, 1977; Sutherland, 2004). In addition, 
+
+19 
+ 
+many exotic species are also shade-intolerant, making severely burned sites more suitable 
+habitat than forests with an intact canopy for these species (Weaver et al., 2001; Sutherland, 
+2004). A recent review by Moles et al. (2012) found that changes to a disturbance regime 
+explained more variation in exotic response than disturbance per se. Ponderosa pine forests of 
+the Southwest have indeed experienced a change in the disturbance regime with the onset of 
+large-scale, high severity fires. Numerous studies have linked high severity fire with exotic 
+species invasions in semi-arid ecosystems (Crawford et al., 2001; Floyd et al., 2006; Dodge et al., 
+2008; Rew and Johnson, 2010), but others have documented a limited exotic response (Fornwalt 
+et al., 2003; Huisinga et al., 2005; Kuenzi et al., 2008; McMaster, 2010), making predictions 
+about exotic response to fire difficult. In addition to fire severity, disturbances associated with 
+fuels reduction treatments may also facilitate exotic species response (Sieg et al., 2003; Korb et 
+al., 2005; McGlone et al., 2009; Sabo et al., 2009). Increasing our understanding of exotic 
+response to fire and fuels treatments is crucial, because exotic species invasions have the 
+potential to displace native species (Rejmanék et al., 2005) and some can alter future fire 
+regimes (Brooks et al., 2004). 
+In this study, we examine the effects of pre-fire treatment on plant community response 
+over time. We build on an investigation by Strom and Fulé (2007), who examined the effects of 
+pre-fire treatment on fire severity and post-fire forest structure on the 2002 Rodeo-Chediski fire 
+of east-central Arizona. They observed that the untreated areas were generally severely burned, 
+where there were few surviving overstory trees and the associated near-total loss of canopy 
+cover (Strom and Fulé, 2007). To examine understory plant community response to treatment, 
+we measured understory plant community characteristics in 2004, 2005 and 2011, using a 
+subset of the plots installed by Strom and Fulé (2007). Our objective was to address the 
+following questions:  
+
+20 
+ 
+1)  How did understory plant community response differ between the pre-fire treated  
+areas that generally burned less severely, and the pre-fire untreated areas that were 
+generally more severely burned? Were these differences consistent through time?  
+2)  Did annual/biennial cover decrease relative to perennial cover as expected under the 
+initial floristics hypothesis, and was this pattern more pronounced in the pre-fire 
+untreated areas?  
+3)  Was exotic species response stronger in the early post-fire community, or was it 
+persistent through time?  
+ 
+METHODS 
+Study area 
+The study area lies south of the Mogollon Rim in east-central Arizona in the Black Mesa 
+and Pinedale Ranger Districts of the Apache-Sitgreaves National Forest. Precipitation by water 
+year was well below the 60-year average for measurement years 2004 and 2011, above average 
+for 2005, and generally below average for the nine years of post-fire vegetation recovery (Figure 
+1). The average water year precipitation was 45.0 cm, and individual measurement year 
+precipitation was as follows: 31.6 cm in 2004, 54.1 cm in 2005 and 30.6 cm in 2011. Average 
+annual snowfall for 1950-2011 was 102.4 cm. Winter snowfall was significantly lower than the 
+61-year average for all three measurement years, ranging from approximately 49% of average in 
+the winter of 2003/2004, 22% of average for 2004/2005 and 18% of average for 2010/2011. The 
+maximum average monthly temperature was 29.2° C, which occurred in July and the minimum 
+average monthly temperature was -8.7° C, which occurred in January. Weather data from 1950-
+2011 recorded at the Heber Ranger Station are available from the Western Regional Climate 
+Center (www.wrcc.dri.edu). 
+
+21 
+ 
+ 
+Site selection 
+We used the same 14 paired sites sampled by Strom and Fulé (2007). The treated sites 
+were originally selected where treatment had occurred within 12 years prior to the fire. The 
+untreated sites were in adjacent untreated areas of similar topography with no natural firebreak 
+between the treated and untreated areas. The treatments were non-commercial thinning, 
+followed by pile burning of the slash (except for one site where slash was lopped and scattered 
+and one where slash was crushed) (Strom and Fulé, 2007). In addition, ongoing fuelwood 
+collection and salvage logging has taken place in some of these areas, as well as intermittent 
+livestock grazing (Gayle Richardson, U.S. Forest Service, Apache-Sitgreaves National Forest, 
+personal communication). 
+The entire burn area on the Apache-Sitgreaves National Forest was seeded immediately 
+after the wildfire in 2002 and again in 2003. In 2002 the seed mix contained: Hordeum vulgare L. 
+(common barley), Lolium perenne L. (annual rye), Elymus trachycaulus (Link) Gould ex Shinners 
+(slender wheatgrass), and Bromus marginatus Nees ex Steud. (mountain brome) (B. marginatus 
+= B. carinatus Hook. & Arn. (Welsh et al., 1993)). In 2003 the seed mix where our plots were 
+located contained: Pascopyrum smithii (Rydb.) A. Löve (western wheatgrass), Bouteloua 
+curtipendula (Michx.) Torr. (sideoats grama), Festuca ovina L. (sheep fescue), Koeleria 
+macrantha (Ledeb.) J.A. Schultes (prairie junegrass), Penstemon palmeri Gray (Palmer’s 
+penstemon), and H. vulgare (Kuenzi, 2006).  
+Measurement  
+We measured overstory structure in 2004 and 2011, and understory plant community 
+characteristics in 2004, 2005 and 2011. Understory characteristics were measured on a subset of 
+the plots established by Strom and Fulé (2007). Each of the 14 sites originally had six subsample 
+
+22 
+ 
+plots, for a total of 42 plots per pre-fire treatment (84 plots total). In 2005 one plot was not re-
+located, and in 2011 we were unable to re-locate three additional plots, so that two untreated 
+sites had five subsample plots and one site had only four, for a total of 80 plots. We used a 
+variable-radius prism plot (basal area factor 2.3 m2/ha) for overstory trees, on which we 
+recorded the tree species and measured diameter at breast height (DBH, 1.37 m) for each tree 
+in the plot. We used a hemispherical fisheye lens (Nikon CoolPix E4300 and FC-E8 Fisheye 
+Converter Lens) to photograph canopy cover, and analyzed these photographs using the Gap 
+Light Analyzer (Institute of Ecosystem Studies, 1999) to quantify percent canopy openness. In 
+addition, we re-photographed the plot overview to record a series of plot images through time. 
+We measured understory characteristics using two perpendicular 44.8-m transects to 
+create the 1000-m2 plot. Along each transect, we measured plant canopy by six cover classes in 
+ten 20- X 50-cm quadrats, for a total of 20 quadrats per plot (Daubenmire, 1959). Cover data 
+was recorded by life form and nativity as well as by species, including trees shorter than 1.37 m. 
+We estimated cover by species and by life forms separately, so cover of overlapping plants was 
+not counted twice. We estimated cover by life history strategy (annual/biennial, perennial) post-
+hoc by adding the individual species cover data, so totals may include overlapping plants. Finally, 
+we generated a species occurrence list for the entire plot area. 
+Plant nomenclature and nativity followed the USDA-NRCS PLANTS Database (USDA-
+NRCS, 2011). One exception was Portulaca oleracea L. (little hogweed), which was listed as 
+“introduced” on the PLANTS database, but along with Kuenzi et al. (2008) we classified it as 
+“native” based on Byrne and McAndrews (1975). When we were unable to identify plants to 
+species, we classified them to the lowest taxonomic level we could identify with certainty, 
+generally to the genus level.  
+ 
+
+23 
+ 
+Statistical Methods 
+Since the measurement plots at each site were subsamples, we averaged them to the 
+site level for all analyses (total n = 14). We based all plant community analyses on the subset of 
+species that occurred in at least 5% of the plant cover quadrats, and richness analyses on 
+species that occurred on at least 5% of the plot species lists, in order to reduce the influence of 
+uncommon species (McCune and Grace, 2002). We conducted multivariate analyses of plant 
+community differences for each year separately. We analyzed each year with a one-way 
+perMANOVA, a non-parametric permutation procedure, on pre-fire treatment (treated, 
+untreated) in PC-ORD (McCune and Mefford, 1999) using the Bray-Curtis dissimilarity measure 
+with 9999 permutations at an alpha level of 0.05 (n = 14). 
+We graphically displayed the plant community data at the plot level in ordination space, 
+using non-metric multidimensional scaling (NMDS). We conducted 250 runs with real data and 
+250 runs on randomizations from a random starting point, with an instability criterion of 
+0.00001. We chose the final number of axes based on stress levels <15 with p-values <0.05 
+(Peck, 2010). Finally, we used PC-ORD to identify indicator species for each treatment, based on 
+relative frequency and percent cover for each species. Species with an indicator value ≥ 25 and a 
+p-value (based on a Monte Carlo test) < 0.05 were considered indicator species for that 
+treatment (Dufrene and Legendre, 1997). Since we suspected that plant community differences 
+may be related to overstory structure variables, we overlaid tree density, basal area and canopy 
+openness on the multivariate ordinations of the sampling plots. 
+For all univariate response variables, such as cover by life form and life history strategy, 
+species richness, tree density, canopy openness and basal area, we used a generalized linear 
+model to perform repeated-measures tests on year and treatment in SAS, Version 9.2 (SAS 
+Institute, 1999). Based on inspection of the data, we selected distributions for tree density 
+
+24 
+ 
+(negative binomial), richness (Poisson) and basal area (lognormal). For plant canopy cover data, 
+we used a beta distribution since it is customarily used to model continuous percentages. 
+Because this distribution is not inclusive of the end points (0 or 1), we re-scaled the data to 
+eliminate zero values, using the transformation method described in Smithson and Verkuilen 
+(2006). We evaluated pairwise comparisons for year when the main effect was significant. 
+Where an interaction was significant at alpha = 0.05 (or approached significance at alpha ≤ 
+0.10), we generated post-hoc contrasts for treatment within year, and between years for a given 
+treatment. 
+ 
+RESULTS 
+We documented the presence of a total of 384 species from 199 genera and 51 families; 
+of these, there were a total of 39 exotic species from 11 families, mostly from Poaceae (14). For 
+multivariate plant community analyses on cover we focused on the 104 species found on at 
+least 5% of the quadrats, and for richness analyses we focused on the 163 species found on at 
+least 5% of the plots, of which 16 were exotic species (Table 1).  
+Overall plant community response 
+To assess treatment effects on the overall plant community, we focused on plant 
+composition from species cover data, the related overstory structure variables, species richness 
+and cover by life form. We detected significant differences in plant cover by species between 
+treated and untreated plant communities in 2004 (p = 0.039) and 2005 (p = 0.025), but this 
+difference waned in 2011 (p = 0.10). The ordinations for each year reflect the distinction 
+between treated and untreated plant communities of 2004 and 2005 and the less distinct plant 
+communities in 2011 (Figure 2). The overstory structure variables we overlaid on these 
+
+25 
+ 
+ordinations (basal area, tree density and canopy openness) varied in how they changed between 
+the 2004 and 2011 measurements. 
+Basal area was significantly lower in untreated areas (p = 0.0004) but did not differ by 
+year (Figure 3). Since there were significant treatment-by-year interactions for both tree density 
+and canopy openness (Table 2), we investigated contrasts for treatment differences within years 
+and within treatment through time. Canopy openness was significantly greater in untreated 
+areas in both 2004 (p = 0.0017) and 2011 (p = 0.0007); however when looking at treatments 
+through time, canopy openness did not differ between years in untreated areas, but the canopy 
+openness decreased from 2004 to 2011 in treated areas (p = 0.0029; Figure 3). Tree density was 
+significantly lower in untreated areas in 2004 (p = 0.0001) when compared to treated areas. In 
+2011, this trend reversed in terms of mean tree density, but the difference was not significant (p 
+= 0.89, Figure 3). This reversal was driven by one plot each at two of the sites, where the density 
+counts of Juniperus deppeana Steud. (alligator juniper) were exceptionally high (271 trees ha-1 at 
+one plot and 2,955 trees ha-1 on another). Tree density in treated areas did not change 
+significantly between 2004 and 2011 (p =1.00). 
+Total plant cover was significantly higher in untreated than treated areas, and was 
+highest in 2005 and lowest in 2011, and these differences were also significant (Table 2, Figure 
+4). We also examined plant cover differences by life form. Since the treatment-by-year 
+interaction was significant for tree regeneration cover, we conducted post-hoc contrasts and 
+found significantly higher cover in untreated areas in 2011 over 2004 (p = 0.0054) and 2005 (p = 
+0.0018). Mean shrub cover was higher in untreated areas, although this difference only 
+approached significance (p = 0.058); however, mean shrub cover increased through time and in 
+2011 was significantly higher than in 2004 and 2005 (Table 2, Figure 4). Shrub species 
+dominance shifted from slightly higher cover of Ceanothus fendleri A. Gray (Fendler’s ceanothus) 
+
+26 
+ 
+over Arctostaphylos pungens Kunth (pointleaf manzanita) in 2004, to five times greater cover of 
+A. pungens relative to C. fendleri in 2011. 
+Forb cover was significantly higher in untreated areas (p = 0.0046). This was driven 
+primarily by four annual or annual/biennial species, Bahia dissecta (A. Gray) Britton (ragleaf 
+bahia), Chenopodium graveolens Willd. (fetid goosefoot), Conyza canadensis (L.) Cronquist 
+(Canadian horseweed) and Polygonum douglasii Greene (Douglas’ knotweed), as well as the 
+perennial Heliomeris mulitflora Nutt. (showy goldeneye). H. multiflora was an indicator species 
+of untreated areas for all three years. Forb cover was also significantly different for all years, 
+where the mean trend followed that of total cover (highest in 2005, lowest in 2011). Forb 
+species with the highest cover values generally followed this trend with the exception of annual 
+species P. douglasii and C. graveolens, which steadily declined over time.  
+Graminoids also followed this general pattern of mean cover over time (highest in 2005, 
+lowest in 2011), and this difference was significant among all years. Of the individual graminoid 
+species, only the annual Muhlenbergia minutissima (Steud.) Swallen (annual muhly), 
+consistently declined in cover over the years. Of the higher cover graminoid species (>1%), the 
+seeded B. carinatus did increase in 2005 but declined much more markedly in 2011 than the 
+other graminoids, to <0.1%. Although mean graminoid cover was slightly higher for untreated 
+areas, this difference was not significant (p = 0.44).  
+Overall species richness was not significantly different by treatment, but was 
+significantly higher in 2005 than 2004 (p = 0.0011).The indicator species for each treatment 
+varied through time (Table 3). As noted above, the only consistent indicator species for all three 
+years was the perennial forb H. multiflora for untreated areas. The untreated areas had more 
+indicator species than untreated areas, including one seeded species (B. carinatus) in 2005, and 
+one exotic species, Tragopogon dubius Scop. (yellow salsify), in 2011. Treated sites had no 
+
+27 
+ 
+indicators for 2004, the seeded perennial grass, K. macrantha, for 2005, and the perennial forb, 
+Packera neomexicana (A. Gray) W.A. Weber & Á. Löve (New Mexico groundsel), for 2011. 
+Annual/biennial and perennial response 
+Mean annual/biennial cover (both forbs and graminoids) was significantly lower in 2011 
+than in the previous measurements, and the higher mean response in untreated areas 
+approached significance (p = 0.073) (Figure 5, Table 2). Perennial plant cover was significantly 
+higher in untreated than treated areas, and also significantly different for each year. The ratio of 
+perennial cover to annual/biennial cover changed dramatically over time, from the 2004 ratios 
+1.6:1 and 1.7:1 in untreated and treated areas, respectively, to 9.0:1 and 10.4:1 in 2011 (Figure 
+5). The changes in annual/biennial cover relative to perennial cover was not markedly more 
+pronounced in the untreated areas, but the perennials to annual/biennial ratio was slightly 
+lower in the untreated areas. For all years and both treatments, the majority of annual plant 
+cover was from forb species, but the majority of perennial cover was from graminoid species. 
+Exotic species response 
+Exotic forb cover was significantly higher in 2005 than in 2004 or 2011, and the higher 
+mean exotic forb cover in untreated areas approached significance (p = 0.071) (Figure 6, Table 
+4). Mean exotic forb cover values for all years were consistently low, <2.5%. Exotic graminoid 
+cover did not differ significantly by treatment or among years, and mean cover values were all 
+<1%. Exotic species richness was not significantly different among years, but higher mean exotic 
+species richness in untreated areas approached significance (p = 0.071) (Figure 5, Table 4). Mean 
+exotic species richness was more similar between treatments in 2004 and 2005, but was 
+somewhat higher in untreated areas (4.9) versus treated areas (3.0) in 2011. 
+In addition to cover, we also examined turnover of exotic species in terms of frequency 
+(presence/absence by plot) (Table 1). Several exotic forb species decreased between 2004 and 
+
+28 
+ 
+2011, including Chenopodium album L. (lambsquarters), Cirsium vulgare (Savi) Ten. (bull thistle), 
+and Lactuca serriola L. (prickly lettuce). We note that identification uncertainties may confuse 
+the trend for C. album. This species may have still been present in 2011, but along with Huisinga 
+et al. (2005), the Chenopodium plants we encountered were juveniles that were not 
+distinguishable from native Chenopodium species. If we were to assume our Chenopodium 
+species were indeed C. album, then there was still an overall decrease from 34 of 80 plots in 
+2004 and 15 of 80 plots in 2011. Verbascum thapsus L. (common mullein) and Taraxacum 
+officionale F.H. Wigg. (common dandelion) frequency remained relatively constant, although 
+mean V. thapsus cover increased slightly through time in untreated areas. T. dubius had the 
+greatest consistent increase in frequency through time, from 37 of 80 plots in 2004 to 49 of 80 
+plots in 2011, although overall cover changes were minimal. 
+Exotic graminoid species decreasing in frequency between 2004 and 2011 were the 
+annuals Bromus arvensis L. (field brome) and Bromus tectorum L. (cheatgrass), despite the slight 
+increase in B. tectorum frequency in 2005. The perennial grasses Poa pratensis L. (Kentucky 
+bluegrass) decreased while Poa compressa L. (Canada bluegrass) increased, but we suspect 
+there may have been identification errors between these similar species; when combined, there 
+was an increase from 10 to 26 of 80 plots. In addition, two other perennial grass species strongly 
+increased in frequency. The strongly rhizomatous Bromus inermis Leyss. (smooth brome) 
+increased from 4 to 19 of 80 plots, and Eragrostis curvula (Shrad.) Nees (weeping lovegrass) was 
+first detected in 2011 on a total of 18 of 80 plots. Of the two exotic species seeded as part of the 
+post-fire rehabilitation effort the annual L. perrene was detected in early years, but was absent 
+from any plots by 2011. In contrast, the seeded perennial F. ovina was first detected on 2 plots 
+in 2011. 
+ 
+
+29 
+ 
+DISCUSSION 
+Overall plant community response 
+Plant community composition by species cover data was distinct between pre-fire 
+treated and untreated areas in 2004 and 2005 but not in 2011, and ordinations reflected this 
+trend toward convergence. We suspected that the differences in the plant communities were 
+driven by overstory structure differences, yet these overstory structure variables did not change 
+much through time, with the exception of slightly less canopy openness in treated areas and 
+increased tree density in untreated areas (which was driven by two plots). Since the relative 
+differences between these plant communities did change, other factors likely influenced this 
+convergence through time. 
+We speculate that our study design may be one of these factors. First, unlike some of 
+the high severity burn areas sampled on the White Mountain Apache Tribal lands (Chapter 3), 
+the Apache-Sitgreaves National Forest study design is based on paired sites, where the 
+untreated areas are all in close proximity to areas that burned less severely. This proximity likely 
+facilitated faster colonization than may have occurred in the interior of larger high severity burn 
+patches (Turner et al., 1998). However, the convergence in the understory herbaceous 
+communities is only part of the picture. The lack of overstory structure and shrub dominance 
+still indicate a different overall vegetation community compared to the treated areas, when 
+considering all strata.  
+We also suspect that our sampling protocols, which were adequate in 2004 and 2005, 
+may have underestimated the regeneration of several important tree species in 2011. Our cover 
+transects only sampled tree regeneration under breast height, because of the intention to 
+sample species defined as trees, that are also above breast height, in the variable radius plots. 
+Several important species in this community are sprouting species that are considered trees as 
+
+30 
+ 
+adults but have a shrub-like habit during early growth stages (such as Quercus gambelii Nutt. 
+(Gambel oak), J. deppeana, and Robinia neomexicana A. Gray (New Mexico locust)), as shown in 
+the photographs in Figure 7. Because many of these species were over breast height in 2011, 
+they were not included in our understory cover estimates. However, because of their shrub-like 
+habit at this stage of growth, the small diameter leaders were rarely included in the variable 
+radius plots, and thus this component of the vegetation community was probably under-
+represented in our results. If these were species had been included in the quadrat cover 
+estimates, this may have resulted in a significantly different plant community in 2011. 
+Alternatively, if they had been accounted for in the overstory structure estimates, we may have 
+detected greater and clearer trends in the overstory data used as vectors. We recommend an 
+additional protocol to estimate this intermediate stratum in the future. Despite these caveats, in 
+terms of future trajectories of these severely burned, untreated areas, it is encouraging that the 
+understory herbaceous community is becoming more similar to that of the less severely burned, 
+treated areas. 
+We detected consistently higher total plant cover in the more severely burned areas, 
+similar to patterns observed by Baitenah et al. (2006). Over time, mean total plant cover and 
+cover by life form increased between 2004 and 2005, when higher plant cover in untreated 
+areas was mostly forb species. The dramatic decrease in total plant, forb and graminoid cover in 
+2011 may be related to competitive effects from increasing shrub cover on the untreated sites. 
+The continual increase in shrub cover may be due to the slower-growing strategy of many shrub 
+species that are likely to become stronger competitors later in time. Whereas A. pungens 
+dominated the 2011 shrub community, C. fendleri was more strongly established in the first 
+years post-fire, which may be related to heat-stimulated germination (Huffman and Moore, 
+2004).  
+
+31 
+ 
+In addition to competition with shrubby species, several other factors are likely related 
+to the dramatic decrease in forb and graminoid cover in 2011. First, droughty conditions in the 
+years post-fire (Figure 1) likely further suppressed herbaceous response over time. Many studies 
+in the Southwest have detected decreases in cover which they have linked with persistent 
+drought (Bataineh et al., 2006; Moore et al., 2006). Second, herbaceous plants can respond 
+positively to nitrogen pulses that occur in the first few years post-fire (Esque et al., 2010), and it 
+is possible that the higher cover on our sites was responding to some degree to increased 
+nutrient availability in 2004 and 2005 that may have been unavailable in 2011. Third, 
+intermittent grazing in the area by both livestock and wild ungulates may also have reduced 
+understory cover, but detailed records of grazing history were unavailable.  
+Annual/perennial response 
+The first interesting trend in annual/biennial forb and graminoid cover was higher mean 
+annual/biennial cover in the untreated areas. Although this difference only approached 
+significance, it is consistent with our expectations of a greater ruderal response in more heavily 
+disturbed areas. It may also be related to the ongoing fuelwood collection and salvage logging 
+that has taken place in some of these areas, which has likely created an ongoing, low-intensity 
+disturbance.  
+The second finding is that annual/biennial cover decreased relative to perennial species 
+over time. In untreated areas, this offers general support for Egler’s initial floristics hypothesis, 
+and emphasizes the importance of life history strategies in trends of secondary succession 
+(Egler, 1954). In treated areas that were not set back to such an early seral stage, the post-fire 
+response was similar to that observed in other ponderosa pine forests with more open stand 
+structures that burned less severely. Moore et al. (2006) observed an increase in the standing 
+crop of annuals/biennial forbs in thinned ponderosa pine stands that had forest floor 
+
+32 
+ 
+manipulation and burning, followed by a subsequent decline. In addition, in two studies from 
+the North Rim of the Grand Canyon found increases in annual/biennial forb richness (Laughlin et 
+al., 2004) as well as increases in annual/biennial forbs and grass cover (Laughlin and Fulé, 2008) 
+in the first few years post-fire. 
+Exotic species cover and richness  
+Exotic species response was not limited to a ruderal, immediate post-fire role. In 
+general, the exotic response was quite low (≤2.5% for all years) and highly variable, making the 
+comparison of trends by life history strategy interesting, but not definitive. One general trend 
+worth reporting, despite these limitations, is the higher proportion of mean exotic 
+annual/biennial cover relative to native annual/biennial cover in 2011, particularly in untreated 
+areas. This may suggest that the annual/biennial exotic species are more persistent than the 
+native annual/biennial species through time.  
+When considering exotic cover by life form, exotic forb cover was significantly higher in 
+2005 than either of the other two years. These species were likely responding to increased 
+moisture in 2005 and to droughty conditions in 2011, just as native forbs were. This is consistent 
+with studies that demonstrate that exotic species generally respond to the same environmental 
+conditions as native species (Meiners, 2007), although exotic graminoids did not show any 
+consistent trend.  
+The low overall exotic response on our sites is consistent with some other studies on 
+high severity fires in the region (Foxx, 1996; Huisinga et al., 2005; Kuenzi et al., 2008; McMaster, 
+2010). With the exception of Kuenzi et al. (2008), many of these areas were not as heavily 
+managed as our study sites, which have been subjected to grazing, recreation, logging and road-
+building (Kuenzi, 2006). When this is coupled with disturbance, our results are somewhat 
+surprising as a number of studies have documented exotic species invasions in severely burned 
+
+33 
+ 
+ponderosa pine forests (Crawford et al., 2001; Griffis et al., 2001; Barclay et al., 2004; Dodge et 
+al., 2008). However, it is problematic to compare the exotic response in our study to other 
+studies in this region, because of differences in species classification. Some studies do not 
+provide lists of observed exotic species (Griffis et al., 2001), and still others classified species 
+such as Conyza canadensis (L.) Cronquist (Canadian horseweed) as exotic (Crawford et al., 2001; 
+Barclay et al., 2004), which we consider native based on the USDA Plants database (USDA-NRCS, 
+2011), local floras (Kearney et al., 1961) and field guides (Springer et al., 2009).  
+Despite the overall low cover values we observed, there may be some cause for concern 
+about exotic species on these sites. First, we detected an increase in the amount of exotic cover 
+relative to overall cover by life form in untreated areas. The portion of exotic forb cover that 
+comprises the overall forb cover increased from 1.6% in 2004 to 7.9% in 2011; relative exotic 
+graminoid cover increases were slightly smaller, from 4.2% in 2004 to 5.9% in 2011. Although 
+these numbers are not exceptionally large, these increases may allow exotic species to build up 
+enough propagule pressure to facilitate a stronger invasion following another, future 
+disturbance event, or significant precipitation (McGlone et al., 2009).  
+The increase in frequency of certain exotic species through time also raises concerns. An 
+experimental study in semi-arid sagebrush ecosystems found that T. dubius, a deeply tap-rooted 
+perennial forb, could out-compete native grasses after disturbance due to its ability to access 
+deep water resources that were available after the loss of the foundation species (Prevey et al., 
+2010a; Prevey et al., 2010b). This species was an indicator species in 2011 and had the greatest 
+increase in frequency on untreated sites during our study; since droughty conditions are 
+expected to continue in the Southwest (Seager et al., 2007), this species may further proliferate 
+in the future. Finally, the appearance of the exotic perennial bunchgrass, E. curvula, in 2011 may 
+also be of concern. This species was seeded on the Dude Fire, and remained the dominant cover 
+
+34 
+ 
+(93%) 15 years post-fire, suggesting it can persist on the landscape (Leonard, 2007). In addition, 
+it responds well to burning (McFarland and Mitchell, 2000), and since it is now established in the 
+area, future fires may greatly increase the presence of this species on the local landscape. 
+ 
+CONCLUSIONS 
+ 
+There is now a substantial body of research on exotic species invasions after severe fire 
+in the Southwest, yet no clear patterns have emerged. Studies have found varying rates of 
+invasion on landscapes that both were and were not heavily managed (disturbed pre-fire). Given 
+the differences in exotic species composition and abundance across such fires, local site-specific 
+factors are likely driving exotic response. Although the disturbance of high severity fire can open 
+up growing space for exotic species, on-site propagules, post-fire management practices and 
+weather patterns may be the more important drivers of exotic response. 
+Our data dosuggest that even if exotic species do not heavily invade such an intensely 
+disturbed ecosystem immediately post-fire, they have the potential to increase over time. These 
+sites should be monitored for further increases in exotic cover, since they are at risk for heavier 
+invasions in the future. In addition, many of the exotic species we observed have been either 
+seeded as part of post-fire rehabilitation or otherwise intentionally introduced (E. curvula, P. 
+pratensis, Melilotus officinalis (L.) Lam. (sweetclover), D. glomerata ) (Fowler et al., 2008; 
+Wolfson and Sieg, In prep); more generally, since seed mixes can be contaminated with exotic 
+species, past seeding practices in the area may have introduced some of the exotics we detected 
+(Fowler et al., 2008; Peppin et al., 2010). Seeding exotic species in the future is not 
+recommended, and even native seed should be applied with caution due to the potential for 
+exotic seed contamination. 
+
+35 
+ 
+Finally, Strom and Fulé (2007) detected significant reductions in fire severity in areas 
+treated before the Rodeo-Chediski Fire, and our data show that those treatments also had a 
+persistent effect on vegetation response nine years post-fire. Our data suggest that pre-fire 
+treatments can help maintain native plant communities associated with an intact ponderosa 
+pine forest.  
+ 
+ 
+ 
+
+36 
+ 
+REFERENCES 
+Barclay, A.D., Betancourt, J.L., Allen, C.D., 2004. Effects of seeding ryegrass (Lolium multiflorum) 
+on vegetation recovery following fire in a ponderosa pine (Pinus ponderosa) forest. International 
+Journal of Wildland Fire 13, 183-194. 
+ 
+Bataineh, A.L., Oswald, B.P., Bataineh, M.M., Williams, H.M., Coble, D.W., 2006. Changes in 
+understory vegetation of a ponderosa pine forest in northern Arizona 30 years after a wildfire. 
+Forest Ecology and Management 235, 283-294. 
+ 
+Beier, P., Rogan, E.C., Ingraldi, M.F., Rosenstock, S.S., 2008. Does forest structure affect 
+reproduction of northern goshawks in ponderosa pine forests? Journal of Applied Ecology 45, 
+342-350. 
+ 
+Brooks, M.L., D'Antonio, C.M., Richardson, D.M., Grace, J.B., Keeley, J.E., DiTomaso, J.M., Hobbs, 
+R.J., Pellant, M., Pyke, D., 2004. Effects of invasive alien plants on fire regimes. Bioscience 54, 
+677-688. 
+ 
+Byrne, R., McAndrews, J.H., 1975. Pre-Columbian Purslane (Portulaca-Oleracea L) in New World. 
+Nature 253, 726-727. 
+ 
+Cooper, C.F., 1960. Changes in vegetation, structure, and growth of south-western pine forests 
+since white settlement. Ecological Monographs 30, 130-164. 
+ 
+Covington, W.W., Moore, M.M., 1994. Southwestern ponderosa forest structure - changes since 
+Euro-American settlement. Journal of Forestry 92, 39-47. 
+ 
+Crawford, J.S., Wahren, C.H.A., Kyle, S., Moir, W.H., 2001. Responses of exotic plant species to 
+fires in Pinus ponderosa forests in northern Arizona. Journal of Vegetation Science 12, 261-268. 
+ 
+Daubenmire, R.F., 1959. A canopy-coverage method. Northwest Science 33, 43-64. 
+Dodge, R.S., Fulé, P.Z., Sieg, C.H., 2008. Dalmatian toadflax (Linaria dalmatica) response to 
+wildfire in a southwestern USA forest. Ecoscience 15, 213-222. 
+ 
+Dufrene, M., Legendre, P., 1997. Species assemblages and indicator species: The need for a 
+flexible asymmetrical approach. Ecological Monographs 67, 345-366. 
+ 
+Egler, R.E., 1954. Vegetation science concepts I. Initial floristic composition: A factor in old-field 
+vegetation development. Vegetatio 4, 412-417. 
+ 
+Esque, T.C., Kaye, J.P., Eckert, S.E., DeFalco, L.A., Tracy, C.R., 2010. Short-term soil inorganic N 
+pulse after experimental fire alters invasive and native annual plant production in a Mojave 
+Desert shrubland. Oecologia 164, 253-263. 
+ 
+Finney, M.A., McHugh, C.W., Grenfell, I.C., 2005. Stand- and landscape-level effects of 
+prescribed burning on two Arizona wildfires. Canadian Journal of Forest Research-Revue 
+Canadienne De Recherche Forestiere 35, 1714-1722. 
+
+37 
+ 
+ 
+Floyd, M.L., Hanna, D., Romme, W.H., Crews, T.E., 2006. Predicting and mitigating weed 
+invasions to restore natural post-fire succession in Mesa Verde National Park, Colorado, USA. 
+International Journal of Wildland Fire 15, 247-259. 
+ 
+Fornwalt, P.J., Kaufmann, M.R., Huckaby, L.S., Stoker, J.A., Stohlgren, T.J., 2003. Non-native plant 
+invasions in managed and protected ponderosa pine Douglas-fir forests of the Colorado Front 
+Range. Forest Ecology and Management 177, 515-527. 
+ 
+Fowler, J.F., Sieg, C.H., Dickson, B.G., Saab, V., 2008. Exotic plant species diversity: Influence of 
+roads and prescribed fire in Arizona ponderosa pine forests. Rangeland Ecology & Management 
+61, 284-293. 
+ 
+Foxx, T.S., 1996. Vegetation succession after the La Mesa fire at Bandelier National Monument. 
+In: Allen, C.D. (Ed.), Fire Effects in Southwestern Forests: Proceedings of the Second La Mesa Fire 
+Symposium, 29-31 March 1994. USDA Forest Service, Rocky Mountain Forest and Range 
+Experiment Station, Fort Collins, CO, Los Alamos, NM, pp. 47-69. 
+ 
+Fulé, P.Z., Crouse, J.E., Roccaforte, J.P., Kalies, E.L., 2012. Do thinning and/or burning treatments 
+in western USA ponderosa or Jeffrey pine-dominated forests help restore natural fire behavior? 
+Forest Ecology and Management 269, 68-81. 
+ 
+Fulé, P.Z., Heinlein, T.A., Covington, W.W., Moore, M.M., 2003. Assessing fire regimes on Grand 
+Canyon landscapes with fire-scar and fire-record data. International Journal of Wildland Fire 12, 
+129-145. 
+ 
+Griffis, K.L., Crawford, J.A., Wagner, M.R., Moir, W.H., 2001. Understory response to 
+management treatments in northern Arizona ponderosa pine forests. Forest Ecology and 
+Management 146, 239-245. 
+ 
+Grime, J.P., 1977. Evidence for existence of 3 primary strategies in plants and its relevance to 
+ecological and evolutionary theory. American Naturalist 111, 1169-1194. 
+ 
+Haire, S.L., McGarigal, K., 2008. Inhabitants of landscape scars: Succession of woody plants after 
+large, severe forest fires in Arizona and New Mexico. Southwestern Naturalist 53, 146-161. 
+ 
+Haire, S.L., McGarigal, K., 2010. Effects of landscape patterns of fire severity on regenerating 
+ponderosa pine forests (Pinus ponderosa) in New Mexico and Arizona, USA. Landscape Ecology 
+25, 1055-1069. 
+ 
+Huffman, D.W., Moore, M.M., 2004. Responses of Fendler ceanothus to overstory thinning, 
+prescribed fire, and drought in an Arizona ponderosa pine forest. Forest Ecology and 
+Management 198, 105-115. 
+ 
+Huisinga, K.D., Laughlin, D.C., Fulé, P.Z., Springer, J.D., McGlone, C.M., 2005. Effects of an 
+intense prescribed fire on understory vegetation in a mixed conifer forest. Journal of the Torrey 
+Botanical Society 132, 590-601. 
+ 
+
+38 
+ 
+Hunter, M.E., Omi, P.N., Martinson, E.J., Chong, G.W., 2006. Establishment of non-native plant 
+species after wildfires: effects of fuel treatments, abiotic and biotic factors, and post-fire grass 
+seeding treatments. International Journal of Wildland Fire 15, 271-281. 
+ 
+Institute of Ecosystem Studies, 1999. Gap Light Analyzer (Computer Program). Simon Fraser 
+University http://www.ecostudies.org/gla. 
+ 
+Kearney, T.H., Peebles, R.H., Howell, H.T., McClintok, E., 1961. Arizona Flora. University of 
+California Press, Berkeley, CA. 
+ 
+Keeley, S.C., Keeley, J.E., Hutchinson, S.M., Johnson, A.W., 1981. Postfire succession of the 
+herbaceous flora in southern-California chaparral. Ecology 62, 1608-1621. 
+ 
+Korb, J.E., Springer, J.D., Powers, S.R., Moore, M.M., 2005. Soil seed banks in Pinus ponderosa 
+forests in Arizona: Clues to site history and restoration potential. Applied Vegetation Science 8, 
+103-112. 
+ 
+Kuenzi, A.M., 2006. Pre-fire treatment effects and understory plant community response on the 
+Rodeo-Chediski fire, Arizona. M.S. Thesis, School of Forestry, Flagstaff, AZ, Northern Arizona 
+University. 
+ 
+Kuenzi, A.M., Fulé, P.Z., Sieg, C.H., 2008. Effects of fire severity and pre-fire stand treatment on 
+plant community recovery after a large wildfire. Forest Ecology and Management 255, 855-865. 
+ 
+Laughlin, D.C., Bakker, J.D., Stoddard, M.T., Daniels, M.L., Springer, J.D., Gildar, C.N., Green, 
+A.M., Covington, W.W., 2004. Toward reference conditions: wildfire effects on flora in an old-
+growth ponderosa pine forest. Forest Ecology and Management 199, 137-152. 
+ 
+Laughlin, D.C., Fulé, P.Z., 2008. Wildland fire effects on understory plant communities in two 
+fire-prone forests. Canadian Journal of Forest Research-Revue Canadienne De Recherche 
+Forestiere 38, 133-142. 
+ 
+Leonard, J.M., 2007. The influence of parent material on vegetation response 15 years after the 
+Dude Fire, Arizona. M.S. Thesis, School of Forestry, Flagstaff, AZ Northern Arizona University. 
+ 
+Martin, P.H., Canham, C.D., Marks, P.L., 2009. Why forests appear resistant to exotic plant 
+invasions: intentional introductions, stand dynamics, and the role of shade tolerance. Frontiers 
+in Ecology and the Environment 7, 142-149. 
+ 
+McCune, B., Grace, J.B., 2002. Analysis of Ecological Communities. MjM Software Design, 
+Gleneden Beach, Oregon. 
+ 
+McCune, B., Mefford, M.J., 1999. PC-ORD (Computer Software).  Multivariate Analysis of 
+Ecological Data, Version 4. MjM Software Design, Gleneden Beach, OR. 
+ 
+McFarland, J.B., Mitchell, R., 2000. Fire effects on weeping lovegrass tiller density and 
+demographics. Agronomy Journal 92, 42-47. 
+ 
+
+39 
+ 
+McGlone, C.M., Springer, J.D., Laughlin, D.C., 2009. Can pine forest restoration promote a 
+diverse and abundant understory and simultaneously resist nonnative invasion? Forest Ecology 
+and Management 258, 2638-2646. 
+ 
+McMaster, M.A., 2010. Effects of fire and post-fire seeding on plant communities in a ponderosa 
+pine forest. M.S. Thesis, School of Forestry, Flagstaff, AZ, Northern Arizona University. 
+ 
+Meiners, S.J., 2007. Native and exotic plant species exhibit similar population dynamics during 
+succession. Ecology 88, 1098-1104. 
+ 
+Moles, A.T., Flores-Moreno, H., Bonser, S.P., Warton, D.I., Helm, A., Warman, L., Eldridge, D.J., 
+Jurado, E., Hemmings, F.A., Reich, P.B., Cavender-Bares, J., Seabloom, E.W., Mayfield, M.M., 
+Sheil, D., Djietror, J.C., Peri, P.L., Enrico, L., Cabido, M.R., Setterfield, S.A., Lehmann, C.E.R., 
+Thomson, F.J., 2012. Invasions: the trail behind, the path ahead, and a test of a disturbing idea. 
+Journal of Ecology 100, 116-127. 
+ 
+Moore, M.M., Casey, C.A., Bakker, J.D., Springer, J.D., Fulé, P.Z., Covington, W.W., Laughlin, D.C., 
+2006. Herbaceous vegetation responses (1992-2004) to restoration treatments in a Ponderosa 
+pine forest. Rangeland Ecology & Management 59, 135-144. 
+ 
+Peck, J.E., 2010. Multivariate Analysis for Community Ecologists: Step-by-Step using PC-ORD. 
+MjM Software Design, Gleneden Beach, OR. 
+ 
+Peppin, D., Fulé, P.Z., Sieg, C.H., Beyers, J.L., Hunter, M.E., 2010. Post-wildfire seeding in forests 
+of the western United States: An evidence-based review. Forest Ecology and Management 260, 
+573-586. 
+ 
+Pollet, J., Omi, P.N., 2002. Effect of thinning and prescribed burning on crown fire severity in 
+ponderosa pine forests. International Journal of Wildland Fire 11, 1-10. 
+ 
+Prevey, J.S., Germino, M.J., Huntly, N.J., 2010a. Loss of foundation species increases population 
+growth of exotic forbs in sagebrush steppe. Ecological Applications 20, 1890-1902. 
+ 
+Prevey, J.S., Germino, M.J., Huntly, N.J., Inouye, R.S., 2010b. Exotic plants increase and native 
+plants decrease with loss of foundation species in sagebrush steppe. Plant Ecol. 207, 39-51. 
+ 
+Rejmanék, M., Richardson, D.M., Higgins, S.I., Pitcairn, M.J., Grotkopp, E., 2005. Ecology of 
+Invasive Plants: State of the Art. In: Mooney, H.A., Mack, R.N., McNeely, J.A., Neville, L.E., Schei, 
+P.J., Waage, J.K. (Eds.), Invasive Alien Species: A New Synthesis. 
+ 
+Rew, L.J., Johnson, M.P., 2010. Reviewing the Role of Wildfire on the Occurrence and Spread of 
+Invasive Plant Species in Wild land Areas of the Intermountain Western United States. Invasive 
+Plant Science and Management 3, 347-364. 
+ 
+Sabo, K.E., Sieg, C.H., Hart, S.C., Bailey, J.D., 2009. The role of disturbance severity and canopy 
+closure on standing crop of understory plant species in ponderosa pine stands in northern 
+Arizona, USA. Forest Ecology and Management 257, 1656-1662. 
+ 
+
+40 
+ 
+SAS Institute, 1999. The SAS System, Version 8.02. In. SAS Institute, Inc., Cary, NC. 
+ 
+Savage, M., Mast, J.N., 2005. How resilient are southwestern ponderosa pine forests after crown 
+fires? Canadian Journal of Forest Research-Revue Canadienne De Recherche Forestiere 35, 967-
+977. 
+ 
+Schoennagel, T., Waller, D.M., Turner, M.G., Romme, W.H., 2004. The effect of fire interval on 
+post-fire understorey communities in Yellowstone National Park. Journal of Vegetation Science 
+15, 797-806. 
+ 
+Scudieri, C.A., Sieg, C.H., Haase, S.M., Thode, A.E., Sackett, S.S., 2010. Understory vegetation 
+response after 30 years of interval prescribed burning in two ponderosa pine sites in northern 
+Arizona, USA. Forest Ecology and Management 260, 2134-2142. 
+ 
+Seager, R., Ting, M.F., Held, I., Kushnir, Y., Lu, J., Vecchi, G., Huang, H.P., Harnik, N., Leetmaa, A., 
+Lau, N.C., Li, C.H., Velez, J., Naik, N., 2007. Model projections of an imminent transition to a 
+more arid climate in southwestern North America. Science 316, 1181-1184. 
+ 
+Sieg, C.H., Phillips, B.G., Moser, L.P., 2003. Exotic invasive plants. In: Frederici, P. (Ed.), Ecological 
+Restoration of Southwestern Ponderosa Pine Forests. Island Press, Washington, DC, pp. 251-
+267. 
+ 
+Smithson, M., Verkuilen, J., 2006. A better lemon squeezer? Maximum-likelihood regression 
+with beta-distributed dependent variables. Psychological Methods 11, 54-71. 
+ 
+Springer, J.D., Daniels, M.L., Nazaire, M., 2009. Field Guide to Forest and Mountain Plants of 
+Northern Arizona. Ecological Restoration Institue, Flagstaff, AZ. 
+ 
+Stoddard, M.T., McGlone, C.M., Fulé, P.Z., Laughlin, D.C., Daniels, M.L., 2011. Native plants 
+dominate understory vegetation following ponderosa pine forest restoration treatments. 
+Western North American Naturalist 71, 206-214. 
+ 
+Strom, B.A., Fulé, P.Z., 2007. Pre-wildfire fuel treatments affect long-term ponderosa pine forest 
+dynamics. International Journal of Wildland Fire 16, 128-138. 
+ 
+Sutherland, S., 2004. What makes a weed a weed: life history traits of native and exotic plants in 
+the USA. Oecologia 141, 24-39. 
+ 
+Turner, M.G., Romme, W.H., Gardner, R.H., Hargrove, W.W., 1997. Effects of fire size and 
+pattern on early succession in Yellowstone National Park. Ecological Monographs 67, 411-433. 
+ 
+Turner, M.G., Baker, W.L., Peterson, C.J., Peet, R.K., 1998. Factors influencing succession: 
+Lessons from large, infrequent natural disturbances. Ecosystems 1, 511-523. 
+ 
+USDA-NRCS, 2011. The PLANTS Database (http://plants.usda.gov, 15 November 2011). In. 
+National Plant Data Center, Baton Rouge, LA 70874-4490, USA. 
+ 
+
+41 
+ 
+Weaver, T., Gusafson, D., Lichthardt, J., 2001. Exotic plants in early and late seral vegetation of 
+fifteen northern Rocky Mountain environments (HTs). Western North American Naturalist 61, 
+417-427. 
+ 
+Welsh, S.L., Atwood, N.D., Goodrich, S., Higgins, L.C., 1993. A Utah Flora. Brigham Young 
+University, Provo, UT. 
+ 
+Wolfson, B.A.S., Sieg, C.H., In prep. 40-year post fire seeding trends in Arizona and New Mexico. 
+U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station, Fort Collins, 
+CO. 
+ 
+
+42 
+ 
+Table 1. Exotic species by number of plots (out of a total of 80) and year. Species in bold are 
+those found on at least 5% of the total number of plots when all years are combined (i.e. 240).  
+Species life history strategies are abbreviated as A: annual, B: biennial and P: perennial.   
+Species 
+Life History 
+2004 
+2005 
+2011 
+Forbs 
+Amaranthus blitoides 
+A 
+1 
+Bassia hyssopifolia 
+A 
+1 
+Bassia scoparia 
+A 
+1 
+Chenopodium album 
+A 
+34 
+5 
+Chenopodium botrys 
+A 
+4 
+Cirsium vulgare 
+B 
+19 
+24 
+10 
+Erodium cicutarium 
+A 
+15 
+14 
+13 
+Lactuca serriola 
+P 
+43 
+59 
+36 
+Malva neglecta 
+ABP 
+1 
+2 
+1 
+Medicago lupulina 
+P 
+2 
+3 
+5 
+Medicago sativa 
+P 
+1 
+2 
+Melilotus officinalis 
+P 
+7 
+7 
+11 
+Polygonum aviculare 
+AP 
+4 
+5 
+1 
+Polygonum convolvulus 
+A 
+1 
+Rorippa sylvestris 
+P 
+1 
+1 
+Rumex acetosella 
+P 
+3 
+2 
+1 
+Rumex crispus 
+P 
+2 
+1 
+1 
+Salsola tragus 
+A 
+1 
+1 
+Sanguisorba minor 
+P 
+1 
+2 
+Sisymbrium altissimum 
+AB 
+3 
+3 
+Sonchus sp. 
+P 
+4 
+Taraxacum officinale 
+P 
+21 
+23 
+20 
+Tragopogon dubius 
+AB 
+37 
+45 
+49 
+Verbascum thapsus 
+B 
+47 
+51 
+48 
+Graminoids 
+Agropyron desertorum 
+P 
+2 
+Avena fatua 
+A 
+1 
+Bromus inermis 
+P 
+4 
+6 
+19 
+Bromus japonicas 
+A 
+9 
+7 
+5 
+Bromus racemosus 
+A 
+1 
+Bromus tectorum 
+A 
+11 
+23 
+16 
+Dactylis glomerata 
+P 
+2 
+3 
+1 
+Echinochloa crus-galli 
+A 
+1 
+Eragrostis curvula 
+P 
+18 
+ 
+Festuca ovina 
+P 
+ 
+ 
+1 
+Lolium perenne 
+AP 
+24 
+10 
+Poa compressa 
+P 
+11 
+23 
+Poa pratensis 
+P 
+10 
+4 
+3 
+Schedonorus pratensis 
+P 
+3 
+Triticum aestivum 
+A 
+12 
+2 
+
+43 
+ 
+Table 2.  P-values for year, treatment and interaction for univariate variables, including total 
+cover, cover by lifeform and richness.  Where year was significant, we included the p-values for 
+pairwise comparisons.  All p-values are given to two significant digits. 
+ 
+Variable 
+Year 
+Treatment 
+Interaction 
+ 
+ 
+ 
+ 
+Total cover 
+0.0001* 
+0.0011* 
+0.73 
+2004-2005 
+        0.047* 
+ 
+ 
+2004-2011 
+0.0004* 
+ 
+ 
+2005-2011 
+0.0002* 
+ 
+ 
+ 
+ 
+ 
+ 
+Tree regeneration 
+0.0091* 
+0.27 
+0.02* 
+cover        2004-2005 
+0.0001* 
+ 
+ 
+                    2004-2011 
+0.0001* 
+ 
+ 
+                    2005-2011 
+0.0001* 
+ 
+ 
+ 
+ 
+ 
+ 
+Shrub cover 
+0.029* 
+0.058 
+0.72 
+2004-2005 
+0.041* 
+ 
+ 
+2004-2011 
+0.041* 
+ 
+ 
+2005-2011 
+            0.40 
+ 
+ 
+ 
+ 
+ 
+ 
+Forb cover 
+0.0001* 
+0.0046 
+0.72 
+2004-2005 
+0.0059* 
+ 
+ 
+2004-2011 
+0.0001* 
+ 
+ 
+2005-2011 
+          0.0001* 
+ 
+ 
+ 
+ 
+ 
+ 
+Graminoid cover 
+0.0001* 
+0.44 
+0.94 
+2004-2005 
+0.0007* 
+ 
+ 
+2004-2011 
+0.0001* 
+ 
+ 
+2005-2011 
+          0.0001* 
+ 
+ 
+ 
+ 
+ 
+ 
+Annual/Biennial 
+0.0001* 
+0.073 
+0.51 
+cover           2004-2005 
+          0.18 
+ 
+ 
+2004-2011 
+          0.20 
+ 
+ 
+2005-2011 
+          0.0001* 
+ 
+ 
+ 
+ 
+ 
+ 
+Perennial cover 
+0.0001* 
+0.0048* 
+0.17 
+2004-2005 
+0.0001* 
+ 
+ 
+2004-2011 
+0.0001* 
+ 
+ 
+2005-2011 
+0.0001* 
+ 
+ 
+ 
+ 
+ 
+ 
+Richness 
+0.0037* 
+0.19 
+0.21 
+2004-2005 
+          0.0024* 
+ 
+ 
+2004-2011 
+          0.69 
+ 
+ 
+2005-2011 
+          0.98 
+ 
+ 
+ 
+ 
+ 
+
+44 
+ 
+Table 3. Indicator species by treatment and year. 
+2004 
+  2005 
+  2011 
+Untreated 
+Bahia dissecta 
+Bromus carinatusa 
+Cirsium wheeleri  
+  
+Erigeron divergens 
+  Erigeron divergens 
+  Epilobium brachycarpum 
+  
+Eriogonum racemosum 
+Heliomeris multiflora 
+Heliomeris multiflora 
+  
+Heliomeris multiflora  
+Juniperus depeanna 
+Tragopogon dubiusb 
+  
+Packera neomexicana 
+ 
+ 
+  
+ 
+ 
+ 
+  
+Treated 
+none 
+Koeleria macranthaa 
+Packera neomexicana 
+a Species seeded after the Rodeo-Chediski Fire on the Apache-Sitgreaves National Forest in 2002 and 2003. 
+b  Exotic species. 
+ 
+ 
+ 
+ 
+
+45 
+ 
+Table 4.  P-values for year, treatment and the interaction for exotic cover and richness.  We 
+included the p-values for pairwise comparisons among years where the main effect was 
+significant. 
+ 
+ 
+ 
+Variable 
+Year 
+Treatment 
+Interaction 
+Exotic forb cover 
+0.0039* 
+0.071 
+0.97 
+2004-2005 
+          0.0023* 
+ 
+ 
+2004-2011 
+          0.87 
+ 
+ 
+2005-2011 
+          0.016* 
+ 
+ 
+ 
+ 
+ 
+ 
+Exotic graminoid cover 
+0.60 
+0.67 
+0.51 
+ 
+ 
+ 
+ 
+Exotic richness 
+0.28 
+0.071 
+0.18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+46 
+ 
+ 
+ 
+ 
+Figure 1. Precipitation data by water year from the Heber Ranger Station, Heber, AZ.  Water year 
+for a given year includes October through December of the previous year, and January through 
+September of that year. The black line represents the 60-year average, and the grey dashed 
+lines are one standard deviation.  Solid black bars denote measurement years. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+100
+200
+300
+400
+500
+600
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+Precipitation (mm) 
+
+47 
+ 
+(a)  2004 
+(b)  2005 
+ 
+ 
+ 
+(c)  2011 
+ 
+ 
+ 
+ 
+Figure 2.  NMDS ordinations showing communities at the plot-level for each year with basal 
+area, tree density and canopy openness overlaid as vectors.  Vectors in the ordinations for 2004 
+(a) and 2005 (b) both use 2004 stand structure data, and show 78 of our 80 plots since canopy 
+openness data was missing from two plots. 2011 ordination (c) uses 2011 stand structure data, 
+and show 79 of our 80 plots, also due to missing canopy data.  Stress levels and final 
+dimensionality are: (a) 2004: 15.81, 4 dimensions; (b) 2005: 15.93, 4 dimensions; (c) 2004: 
+15.60, 4 dimensions. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+48 
+ 
+ 
+ 
+ 
+Figure 3.  Basal area and tree density from variable-radius prism plots (basal area factor 2.3 
+m2/ha) and percent canopy openness from hemispherical photographs by treatment and year, 
+with standard error.  Shaded bars are pre-fire treated areas. 
+ 
+ 
+ 
+ 
+ 
+0
+5
+10
+15
+20
+2004
+2011
+Basal area (m2/ha) 
+0
+50
+100
+150
+200
+250
+2004
+2011
+Trees density (#/ha) 
+0
+10
+20
+30
+40
+50
+60
+70
+2004
+2011
+% Canopy Openness 
+
+49 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4.  Total plant cover, species richness and cover by lifeform by treatment and year, with 
+standard error.  Shaded bars represent pre-fire treated areas. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+2004
+2005
+2011
+Species richness 
+0
+10
+20
+30
+40
+50
+60
+70
+2004
+2005
+2011
+Total plant 
+(% cover) 
+0
+10
+20
+30
+40
+50
+60
+2004
+2005
+2011
+Tree regeneration 
+(% cover) 
+0
+10
+20
+30
+40
+50
+60
+2004
+2005
+2011
+Shrubs 
+(% cover) 
+0
+10
+20
+30
+40
+50
+60
+2004
+2005
+2011
+Forbs 
+(% cover) 
+0
+10
+20
+30
+40
+50
+60
+2004
+2005
+2011
+Graminoids 
+(% cover) 
+
+50 
+ 
+ 
+Figure 5.  Cover of perennials and annuals/biennials by treatment and year with standard error.  
+Perennial to annual/biennial ratios are above bars by pre-fire treatment for each year. 
+ 
+ 
+ 
+ 
+1.6:1 
+1.7:1 
+2.5:1 
+2.5:1 
+9.0:1 
+10.4:1 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+Untreated
+Treated
+Untreated
+Treated
+Untreated
+Treated
+Percent cover 
+Perennials
+Annuals/biennials
+             2004                                2005                                  2011 
+
+51 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 6.  Cover of exotic forbs and graminoids as well as exotic species richness by treatment 
+and year with standard error.  Shaded bars represent pre-fire treated areas. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+2004
+2005
+2011
+Exotic forbs 
+(% cover) 
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+2004
+2005
+2011
+Exotic graminoids 
+(%cover) 
+0
+1
+2
+3
+4
+5
+6
+2004
+2005
+2011
+ 
+Exotic species richness 
+
+52 
+ 
+ (a) 
+(b) 
+(c) 
+(d) 
+ 
+ 
+Figure 7. Photograph series of pre-fire untreated plot in 2004 (two years post-fire) (a), and 2011 
+(nine years post-fire) (b) above; below, pre-fire treated plot in 2004 (c) and 2011 (d).   
+ 
+ 
+ 
+ 
+ 
+ 
+
+53 
+ 
+CHAPTER 3 
+Pre-fire management treatments have lasting effects on post-fire plant community response 
+ 
+ABSTRACT 
+High severity fires in ponderosa pine forests of the Southwest have been increasing in 
+frequency and extent. Severely burned areas have the potential to result in persistent type 
+conversions to shrublands or grasslands, and they have also been associated with exotic species 
+invasions. In response to the risk of high severity fire, land managers are routinely applying fuel 
+reduction treatments to increase forest resilience, yet how these treatments may influence 
+post-fire recovery in the longer-term is not well known. We re-measured existing plots on the 
+2002 Rodeo-Chediski Fire eight years after burning to detect longer-term trends in pine 
+regeneration, as well as plant community and exotic species response. We compared high and 
+low severity burned areas, and also examined how pre-fire treatment (cutting in an uneven-
+aged harvesting system with prescribed fire) modified vegetation response within severity class. 
+We detected persistent differences between low and high severity areas, including significantly 
+higher overall plant cover and shrub cover, and higher species richness on high severity areas. 
+We also detected significantly higher exotic forb cover in high severity areas than in low severity 
+areas, although overall exotic response was generally quite low (<1%). This represents a slight 
+decrease in exotic cover since the initial 2004/2005 measurements; however, the frequency of 
+several exotic species increased through time. On finer scales, pre-fire treatments modified 
+several vegetation response variables that are ecologically important due to their influence on 
+future reforestation in high severity areas. Where the burning conditions resulted in high 
+severity fire in pre-fire treated areas, the overall patch size of high severity was reduced and 
+resulted in a more heterogeneous mixture of low and moderate severity burning in the 
+
+54 
+ 
+neighborhood. This pattern decreased distance to seed source and was linked to higher 
+frequency of pine regeneration. Fuels treatments are important because they reduce fire 
+severity where applied. Our data provide additional support for conducting these treatments, 
+because even where treated areas do burn severely, pre-fire treatments modify the 
+heterogeneity of severity patterns to include more low and moderate severity areas in the 
+neighborhood, which can influence forest regeneration. 
+ 
+INTRODUCTION 
+Severe large-scale fires, linked to uncharacteristically high fuels (Covington and Moore, 
+1994) and climate warming (Westerling et al., 2006), have raised several important concerns 
+about post-fire plant communities in the ponderosa pine (Pinus ponderosa P. & C. Lawson) 
+forests of the Southwest, three of which we examine here. First, extensive forest areas that 
+have burned severely may result in persistent conversions to shrublands or grasslands, rather 
+than regenerate as forest (Savage and Mast, 2005), particularly under a warmer and drier 
+climate (Seager et al., 2007). The unprecedented size of high severity burned areas necessarily 
+means that post-fire pine regeneration in these areas is not well understood, because it is 
+occurring in relatively novel conditions. In addition, high severity fire may promote sprouting 
+species over seeding species (such as ponderosa pine), because early site capture by sprouting 
+species may limit seeder species establishment through competition for resources (Fulé and 
+Covington, 1998; Barton, 2002). Furthermore, ponderosa pine can be considered a foundation 
+species in these communities because it defines community structure by creating locally stable 
+conditions for other species, and modulates fundamental ecosystem processes. The loss of a 
+foundation species over large, landscape-scale areas can create novel species assemblages and 
+degrade native habitats (Ellison et al., 2005). 
+
+55 
+ 
+Exotic species invasions are another important concern since numerous studies have 
+documented invasions following high severity fire events (Crawford et al., 2001; Griffis et al., 
+2001; Floyd et al., 2006; Dodge et al., 2008), which may not only impact native plant 
+communities, but may also alter future fire regimes (Brooks et al., 2004). Yet these invasions are 
+not entirely predictable, since other high severity fire studies in the Southwest have 
+documented a low exotic response (Foxx, 1996; Huisinga et al., 2005; Kuenzi et al., 2008). Lastly, 
+the extent to which pre-fire treatments will influence post-fire successional pathways is of 
+concerns as land managers are routinely applying fuel reduction treatments (thinning and/or 
+burning) to increase forest resilience and reduce high severity fire risk (Baron et al., 2009). These 
+treatments generally reduce fire severity by reducing surface fuels, and reducing tree density 
+and canopy connectivity (Pollet and Omi, 2002; Finney et al., 2005; Strom and Fulé, 2007; 
+Cochrane et al., 2012; Fulé et al., 2012), yet the influence of extreme fire weather conditions 
+and topography can occasionally result in high severity fire in treated areas. Whether they burn 
+under low or high severity, pre-fire treatments are likely to have long-term influences on post-
+fire recovery.  
+To investigate the longer-term effects of pre-wildfire treatments on pine regeneration 
+and exotic response, we re-measured existing plots established after the 2002 Rodeo-Chediski 
+Fire of northeastern Arizona (Strom, 2005; Kuenzi et al., 2008). These plots were originally 
+installed in 2004, when herbaceous understory, fuels, and forest structure response variables 
+were measured in relation to fire severity and pre-fire treatment. Kuenzi et al. (2008) found that 
+low and high severity areas had markedly different plant communities two and three years post-
+fire, which they primarily attributed to the near-complete loss of overstory trees in high severity 
+areas (Kuenzi et al., 2008). These early differences indicated two drastically different vegetation 
+types on the landscape: (1) in the absence of another high severity fire event, the low severity 
+
+56 
+ 
+areas are likely to remain pine-dominated systems, whereas (2) high severity areas have the 
+potential to convert to other vegetation types (Savage and Mast, 2005; Strom and Fulé, 2007; 
+Haire and McGarigal, 2010). Our first hypothesis was that marked differences in plant 
+communities between low and high severity areas would persist eight years post-fire 
+(Hypothesis 1: Low versus high severity fire areas). 
+The 2004 data also show that low severity treated areas that were treated pre-fire had a 
+more open structure (lower tree density and basal area, and higher canopy openness) than 
+untreated low severity areas (Kuenzi et al., 2008). We hypothesized that these trends in 
+overstory structure variables would persist through 2010, leading to higher plant canopy cover, 
+greater species richness, and higher frequencies of pine regeneration in relation to reduced tree 
+canopy cover and a lower density of competing trees (Hypothesis 2: Treatment effects in low 
+severity areas). 
+Third, the initial investigations documented that pre-fire treated areas had a lower 
+percentage of high severity burning than untreated areas (Strom, 2005). We hypothesized that 
+pre-fire treatment mitigated high severity fire and resulted in a more diverse mosaic of low and 
+moderate severity in the “neighborhood” of our sampling sites. We then predicted that 
+vegetation retention in low and moderate severity areas would provide both more seed sources 
+and greater competition for resources in the neighborhood of treated sites, which would result 
+in lower total plant cover, higher species richness and a higher relative frequency of pine 
+regeneration (Hypothesis 3: Treatment effects in high severity fire areas). 
+We deliberately discuss some of the same response variables (pine regeneration relative 
+frequency, plant foliar cover, etc.) in separate hypotheses because, as noted above, we predict 
+some response variables will behave differently based on treatment within each severity class. 
+ 
+
+57 
+ 
+METHODS  
+Study area 
+The study area lies south of the Mogollon Rim in east-central Arizona on the White 
+Mountain Apache Tribal (WMAT) lands. For the eight years of post-fire vegetation recovery, 
+precipitation by water year has generally been below the 60-year average (Figure 1). The 60-
+year average by water year during this period was 45.0 cm, and total precipitation during 2010 
+was 35.2 cm. Average annual snowfall in the area was 102.4 cm, and there were 99.8 cm of 
+snow over the winter of 2009/2010, which is only slightly below the 60-year average. The 
+average maximum and minimum monthly temperatures were 29.2° C in July and -8.7° C in 
+January. Weather data were recorded at the Heber Ranger Station by the Western Regional 
+Climate Center (www.wrcc.dri.edu). This weather station is located above the Rim at an 
+elevation of 1,984 m (16-311 m lower than the range of our study sites), approximately 12 km 
+north of the study sites, on the edge of a ponderosa pine/pinyon-juniper transition zone and so 
+may have recorded less precipitation and higher temperatures than our study sites experienced.  
+The study sites were selected in 2004, ranging in elevation from 2,000 to 2,295 m, on 
+slopes <45% (average slope was 17.6%) (Strom, 2005; Kuenzi et al., 2008). Study sites were 
+stratified by severity classes (low and high), and by pre-fire management of (1) no treatment or 
+(2) cut in an uneven-aged harvesting system and subsequently burned under prescription 
+(hereafter: untreated, treated). Fire severity classes were determined by a combination of 
+remotely sensed Differenced Normalized Burn Ratio (ΔNBR) maps and ground-truthing (Strom 
+2005). Pre-fire treatment areas were selected using treatment history data provided by the tribe 
+and only included treatments conducted within 11 years prior to the Rodeo-Chediski Fire.  
+The high severity study areas were seeded immediately post-fire. The seed mix used on 
+the WMAT lands included Triticum aestivum L. (common wheat), an exotic, but sterile, species 
+
+58 
+ 
+applied at a rate of 16.8 kg ha-1. The remainder of the seed mix included species native to the 
+region, but the seed source is unknown and therefore may not represent locally native 
+genotypes: Elymus trachycaulus (Link) Gould ex Shinners (slender wheatgrass), Pascopyrum 
+smithii (Rydb.) A. Löve (western wheatgrass), Panicum virgatum L. (switchgrass), Nassella 
+viridula (Trin.) Barkworth (green needlegrass), Bromus marginatus Nees ex Steud. (mountain 
+brome) (Bromus marginatus = Bromus carinatus H. & A. (Welsh et al. 1993)), Bouteloua 
+curtipendula (Michx.) Torr. (sideoats grama), Sporobolus cryptandrus (Torr.) Gray (sand 
+dropseed), Coreopsis tinctoria Nutt. (plains coreopsis), Dalea purpurea Vent. (purple prairie 
+clover), Linum lewisii Pursh (blue flax), and Rudbeckia hirta L. (black-eyed susan) (Kuenzi et al., 
+2008).  
+Measurement  
+Six sites were originally installed within each of four treatment and severity 
+combinations (total N = 24), with three subsample plots at each site. In 2010 we re-located 70 of 
+the 72 original plots, such that two sites had only two subsample plots. All field protocols follow 
+the original studies (Strom, 2005; Kuenzi et al., 2008). We used a variable-radius prism plot 
+(basal area factor 2.3 m2/ha) for overstory trees, on which we measured diameter at breast 
+height (DBH, 1.37 m) and tree height. We tallied all pine regeneration shorter than breast height 
+in a 3.1-m radius circle. Since smaller seedlings generally have high mortality rates (Smith et al., 
+1997), we were interested in separating the more established seedlings from the very small 
+seedlings, and so divided them into two height classes, 0-40 cm and 41-137 cm. We used a 
+hemispherical fisheye lens (Nikon CoolPix E4300 and FC-E8 Fisheye Converter Lens) to 
+photograph canopy cover, and then quantified canopy openness using the Gap Light Analyzer 
+(Institute of Ecosystem Studies, 1999). In addition, we re-took the plot overview photos in order 
+to create a photograph series through time. 
+
+59 
+ 
+We measured understory characteristics using two perpendicular 44.8-m transects to 
+create the 1000-m2 plot. Along each transect, we measured plant canopy cover from ten 20- X 
+50-cm quadrats, for a total of 20 quadrats per plot (Daubenmire, 1959). We recorded cover data 
+by life form and nativity as well as by species, including trees shorter than 1.37 m, and recorded 
+a species list for the entire plot area.  
+To directly compare our data, we followed Kuenzi et al.’s (2008) taxonomic and nativity 
+classification which was based on the USDA-NRCS PLANTS database (USDA-NRCS, 2006). One 
+exception they made was Portulaca oleracea L. (little hogweed), which was listed as 
+“introduced” on the PLANTS database, but Kuenzi et al. (2008) classified it as “native” based on 
+Byrne and McAndrews (1975). For species that were first detected in 2010, we used the more 
+current USDA-NRCS PLANTS database (USDA-NRCS, 2011). When we were unable to identify 
+plants to species, we classified them to the lowest taxonomic level we could identify with 
+certainty, generally to the genus level.  
+To quantify neighborhood severity surrounding high severity sampling sites, we defined 
+the potential seed contribution area for a site based on seed dispersal distances, which have 
+been estimated at 1.5 times tree height (McDonald, 1980). Since there is some variability in the 
+literature regarding the minimum seed tree size (Pearson, 1950; Larson and Schubert, 1970) we 
+selected an intermediate DBH of those reported, 40.6 cm (16 in). We calculated the average 
+height of trees this size or larger across our entire study area and calculated the estimated 
+dispersal distance to be approximately 36 m. We then generated a buffer at least 36 m from any 
+subsample plot at each study site, which resulted in an overall circular site buffer of 180 m from 
+site center (Figure 2). Then we used the dNBR severity map to count the number of low, 
+moderate and high severity pixels within the potential seed contribution area, and averaged 
+
+60 
+ 
+these by treatment. For consistency, all pixels that partially intersected the buffer were also 
+included in the pixel counts. 
+Statistical Methods 
+For all analyses, we used site level means (n = 24). For Hypothesis 1 (Low versus high 
+severity), we analyzed plant community data using a combination of univariate and multivariate 
+statistical tests as well as ordination techniques. All plant community analyses were based on 
+the subset of species that occurred in at least 5% of the plant cover quadrats, and richness 
+analyses were based on species that occurred on at least 5% of the plot species lists, in order to 
+reduce the influence of uncommon species (McCune and Grace, 2002). For overall plant 
+community composition we used PC-ORD software (McCune and Mefford, 1999) to perform 
+two-way PerMANOVA tests, a non-parametric permutation procedure, on burn severity (high, 
+low) and pre-fire treatment (untreated, treated). We used the Bray-Curtis dissimilarity measure 
+with 9999 permutations, with α = 0.05. We analyzed differences among univariate response 
+variables such as cover by life form and nativity, species richness and pine regeneration relative 
+frequency with PerMANOVAs in PC-ORD, using Euclidean distance (Anderson, 2001). 
+To further examine our first hypothesis, that low and high severity areas remain distinct 
+eight years post-fire, we graphically displayed community data in ordination space, using non-
+metric multidimensional scaling (NMDS). We conducted 250 runs with real data and 250 runs on 
+randomizations from a random starting point, with an instability criterion of 0.00001. We chose 
+the final number of axes based on stress levels <15 with p-values <0.05 (Peck, 2010). Finally, we 
+also used PC-ORD to identify indicator species by severity, since the previous study documented 
+that severity class had the strongest influence on the plant community (Kuenzi et al., 2008). 
+Indicator species analysis yields a value based on relative frequency and percent cover for each 
+
+61 
+ 
+species. Species with an indicator value > 25 and a p-value (based on a Monte Carlo test) of < 
+0.05 were considered indicator species for that severity class (Dufrene and Legendre, 1997).  
+We examined the same vegetation response variables in hypotheses two (Treatment 
+effects in low severity) and three (Treatment effects in high severity) as we did for hypothesis 
+one. However, since we were interested in treatment effects within severity class, here we first 
+examined the interaction of treatment and severity. Where the interaction was significant (α = 
+0.05) or approached significance, we tested treatment effects within severity class with a 
+PerMANOVA and generated an NMDS ordination, both with the same parameters outlined 
+above for the full model. We used a liberal definition of approaching significance because we 
+were concerned about missing important differences by treatment within severity class, so we 
+further explored any variable with an interaction p-value ≤ 0.20.  
+Finally, to test for differences in neighborhood severity for hypothesis 3 (Treatment 
+effects in high severity), we lumped the low and moderate severity pixel percentages, since both 
+severity classes were considered proxies for seed sources. We then tested the differences in the 
+proportion of low/moderate severity area between treated and untreated areas with a t test 
+using JMP (JMP, Version 7). 
+ 
+RESULTS 
+We documented the presence of a total of 329 species from 190 genera and 60 families. 
+For multivariate plant community analyses on cover we focused on the 104 species found on at 
+least 5% of the cover quadrats, and for richness analyses we focused on the 172 species found 
+on at least 5% of the plot census data. There was a total of 22 exotic species from 8 families, 
+most from Poaceae (9) and Asteraceae (5); 10 of these were found on at least 5% of the plots 
+(Table 1). The results below are presented as they relate to each hypothesis. 
+
+62 
+ 
+Hypothesis 1: Low versus High Severity Fire Areas 
+Low and high severity plant communities had significant differences in composition 
+based on cover data by species (p = 0.0001). The NMDS ordination displays this distinction 
+between low and high severity plant communities and how they align with differences in tree 
+density, basal area and canopy openness, which are overlaid as vectors (Figure 3). PerMANOVA 
+univariate tests for these vectors were all highly significant (p = 0.0001) between low and high 
+severity areas, due to the loss of most overstory trees in high severity areas (Figure 4). These 
+overstory structure drivers were linked with significantly higher total cover in high severity than 
+low severity areas, a pattern reflected in the mean values for all life forms other than exotic 
+graminoids. Shrub cover was a substantial component of the high severity area plant 
+community, comprising nearly half of the mean total cover (Table 2, Figure 5). Additionally, the 
+indicator species analysis included three shrub species for high severity areas: Arctostaphylos 
+pringlei Parry (Pringle manzanita), Arctostaphylos pungens Kunth (pointleaf manzanita) and 
+Ceanothus fendleri A. Gray (Fendler’s ceanothus). Other indicator species for high severity 
+included three native graminoid species seeded post-fire: P. smithii, Panicum virgatum, B. 
+curtipendula. Notably, no indicator species were detected for low severity areas due to highly 
+variable plant community composition.  
+Cover of exotic forbs was significantly higher (p = 0.004) in high severity areas but 
+averaged <1% in both severities (0.66% in high severity areas and 0.008% in low severity areas). 
+This difference was driven primarily by two species, Tragopogon dubius Scop. (yellow salsify) 
+and Verbascum thapsus L. (common mullein), that were commonly found on high severity plots 
+(32 of 35 plots and 30 of 35 plots, respectively). Although their overall cover values were low, 
+the prevalence of these species is reflected in their designation as an indicator species of high 
+severity areas (Table 3). 
+
+63 
+ 
+High severity areas also had significantly higher species richness than low severity areas 
+(p = 0.0071). This was driven primarily by greater forb richness in high severity areas, where 
+approximately 37 forb species were observed, versus 31 forb species in low severity areas. Pine 
+regeneration density was highly variable. For the combined height classes, seedlings ha-1 ranged 
+from 0 to 4283.2 in high severity areas and from 0 to 659.0 in low severity areas. In the 41-137 
+cm height class, density averaged 888.9 (S.E. 309.5) seedlings ha-1 in high severity areas and 
+13.73 (S.E. 13.73) seedlings ha-1 in low severity areas. To test our hypothesis, we focused on 
+relative frequency of seedlings in the 41-137 cm height class, which were significantly more 
+frequent (p = 0.0056) in high severity areas (0.51) compared to low severity areas (0.31) (Table 
+4). 
+Hypothesis 2: Treatment Effects in Low Severity Areas 
+None of the forest structure variables in low severity areas were significantly different 
+between treated and untreated areas (Table 2). However, treated areas had lower mean tree 
+density and basal area, and higher mean percent canopy openness (Figure 4). Significant 
+differences were detected for plant community composition based on cover data by species 
+between treated and untreated areas in low severity (p = 0.047). We attempted to generate an 
+NMDS ordination and list of indicator species, but the data were too variable to detect patterns 
+in either case. 
+Only forb cover was significantly higher in treated areas (p = 0.039), although mean 
+cover values were higher in treated areas for all other metrics other than shrubs. Higher mean 
+exotic graminoid cover in treated areas did approach significance (p = 0.057). This was driven 
+primarily by one site with high cover values of Eragrotis curvula (Shrad.) Nees (weeping 
+lovegrass), and several other sites with relatively high cover of Poa pratensis L. (Kentucky 
+bluegrass).  
+
+64 
+ 
+Mean species richness was only slightly higher in treated areas (approximately 48 
+species versus 45 in untreated) and this difference was not significant (p = 0.57). Pine seedling 
+density was extremely variable in the combined height classes, ranging from 82.4 to 659.0 
+seedlings ha-1 on treated sites versus 0 to 329.47 on untreated sites. In the 41-137 cm size class, 
+there was an average of 123.6 (S.E. 84.4) in treated areas and 13.7 (S.E. 13.7) in untreated areas 
+(Table 4). To test our hypothesis we focused on the average relative frequency of seedlings in 
+the 41-137 cm height class, which was higher (0.17) in treated areas compared to untreated 
+areas (0.06), although this difference was not significant (p = 0.73) (Table 4).  
+Hypothesis 3: Treatment Effects in High Severity Areas 
+The combined amount of low and moderate severity areas averaged 47.2% of the 
+projected seed contribution area for untreated sites. This was significantly lower (p = 0.03) than 
+the average of low and moderately burned areas (73.1%) at the treated high severity sites 
+(Figure 6). Plant community composition based on cover data by species was significantly 
+different between treated and untreated areas in high severity areas (p = 0.01), which is 
+reflected in the NMDS ordination (Figure 7). Total cover was significantly higher in untreated 
+areas (p = 0.03). The cover of other life forms did not differ significantly by treatment, although 
+the means for all were higher in untreated areas as predicted (Table 2, Figure 5). Exotic forb and 
+exotic graminoid cover also followed this trend, but the differences in means were < 0.07% and 
+the standard errors were greater than their means, indicating exceptionally high variability. 
+There was no significant difference in plant species richness between high severity 
+treated and untreated areas, although mean richness was slightly higher in treated areas 
+(approximately 59 species) versus untreated areas (approximately 53 species) (Table 2, Figure 
+5). Pine seedling density in the combined height classes on treated sites ranged from 164.7 to 
+4283.2 seedlings ha-1 versus 0 to 2347.5 seedlings ha-1 on untreated sites. In the 41-137 cm size 
+
+65 
+ 
+class, there was an average of 1345.4 (S.E. 435.7) seedlings ha-1 in treated areas and 432.44 (S.E. 
+385.1) in untreated areas (Table 4). To test our hypothesis, we focused on relative pine 
+regeneration frequency in the 41-137 cm height class, and found significantly more frequent 
+pine regeneration in treated areas (0.67) than untreated areas (0.19) (p = 0.027) (Tables 2, 4).  
+ 
+DISCUSSION  
+Hypothesis 1: Low versus High Severity Areas 
+Our hypothesis that fire severity had a persistent impact on post-fire vegetation 
+characteristics eight years post-fire was upheld. We observed large and significant differences 
+between low and high severity areas for almost all variables measured. In high severity areas, 
+the resources made available after the loss of mature trees likely enabled higher understory 
+plant canopy cover, of which nearly half was comprised of shrubs. The combination of few to no 
+overstory trees and high shrub cover has resulted in shrub-dominated communities, unlike low 
+severity areas where mature ponderosa pine dominance was maintained post-fire.  
+These distinct high severity fire areas are of particular concern in part because high 
+severity fires have been implicated in exotic species invasions in the ponderosa pine forests of 
+the Southwest (Crawford et al., 2001; Griffis et al., 2001; Barclay et al., 2004; Dodge et al., 
+2008). We found very low cover of exotic species overall, similar to findings by Huisinga et al. 
+(2005) on the North Rim of the Grand Canyon and Foxx (1996) in northern New Mexico. Our 
+2010 overall exotic cover value for all severity/treatment combinations was <2%, which is 
+slightly lower than the <3% observed in 2004 and 2005 (Kuenzi et al., 2008), yet this difference is 
+certainly within the range of potential observer differences. Drought conditions for the period of 
+recovery may be contributing to the overall low exotic response, and low propagule pressure 
+may also play a role (Lockwood et al., 2005).  
+
+66 
+ 
+In addition to low exotic cover, we found slightly lower exotic species richness than that 
+reported in the initial investigation by Kuenzi et al. (2008). We observed a total of 23 exotic 
+species, 11 of which were on at least 5% of the plots, whereas Kuenzi et al. (2008) observed 35 
+species overall and 13 that occurred on at least 5% of the plots. Of the exotic species found on 
+at least 5% of the plots, five species observed in 2004 and 2005 were not included on the 5% 
+subset list in 2010: Agropyron desertorum (Fisch. ex Link) Schult. (desert wheatgrass), Dactylis 
+gomerata L. (orchardgrass), T. aestivum, Cirsium vulgare (Savi) Ten. (bull thistle), and 
+Chenopodium album L. (lambsquarters). Our lack of detection of C. album may not represent an 
+actual change, since the Chenopodium plants we encountered were in a juvenile stage that did 
+not allow us to distinguish between native and exotic Chenopodium species. The common wheat 
+seeded immediately post-fire was frequent in 2004, infrequent in 2005 (Kuenzi et al. 2008), and 
+entirely absent in 2010. Our data show that the annual cereal grain did quickly exit the system 
+as intended by managers (Peppin et al., 2010). The remaining three exotic species from the 
+2004/2005 observations were still observed in 2010, but they occurred on less than 5% of the 
+plots. In addition, four exotic species that were observed infrequently in 2004/2005 were 
+detected on at least 5% of plots in 2010: E. curvula, Poa compressa L. (Canada bluegrass), P. 
+pratensis, and Erodium cicutarium (L.) L'Hér. ex Aiton (redstem stork's bill). Only the perennial 
+forb, Sanguisorba minor Scop. (small burnet), was completely new in 2010, yet it occurred on 
+only two plots. The perennial grass E. curvula was seeded in the course of past management 
+activities before the Rodeo-Chediski Fire (Kuenzi et al. 2008). Many of the other exotic species 
+we found are known to have been seeded as part of management activities throughout the 
+Southwest: P. pratensis, S. minor, Melilotus officinalis (L.) Lam. (sweetclover), D. glomerata 
+(Fowler et al., 2008; Wolfson and Sieg, in prep). Also, seed mixes can be contaminated with 
+
+67 
+ 
+exotic species, so past seeding practices in the area may have introduced some of the exotics we 
+detected (Keeley, 2006; Fowler et al., 2008; Peppin et al., 2010). 
+In contrast to earlier measurements, exotic forb cover was significantly higher in high 
+severity fire areas, although it was still quite low at <1%. This difference was driven by the 
+prevalence of two exotic forbs, T. dubius and V. thapsus. Although cover values for each were 
+relatively low, the number of plots with these species steadily increased since the initial 
+investigation in 2004, particularly for T. dubius. This species was found on 51.4% more high 
+severity plots in 2010 than in 2004, and V. thapsus was found on 11.4% more high severity plots. 
+This pattern is further reflected in by the designation of both species as indicator species for 
+high severity in 2010, which was not the case in 2004 or 2005. The increase of V. thapsus 
+through time in cover and frequency among plots was also observed on the Apache-Sitgreaves 
+National Forest portion of this fire (discussed in Chapter 2), but is in contrast to the reductions 
+detected elsewhere on the Rodeo-Chediski Fire. Ffolliot et al. (2011) found reductions in V. 
+thapsus by five years post-fire, which is consistent with the reductions observed by Stoddard et 
+al. (2010) after low severity restoration treatments. On our sites, the current prevalence of 
+either T. dubius or V. thapsus may become cause for concern in the future if it enables 
+widespread buildup of sufficient propagule pressure that could facilitate more significant 
+invasions (Lockwood et al., 2005; Moles et al., 2012).  
+Tracking these exotic species on high severity fires through time is important for 
+management and for our understanding of invasion patterns, since the prevalent notion that 
+high severity fire results in exotic species invasions is not always the case. Not only have several 
+studies documented a low exotic response, but our ability to compare our data with other 
+studies is limited because several studies that documented heavier invasions in the Southwest 
+did not explicitly state which exotic species were observed (Griffis et al., 2001) and some used 
+
+68 
+ 
+different definitions of species’ nativity (Crawford et al., 2001; Barclay et al., 2004). Finally, the 
+degree to which exotic species invasions are facilitated by disturbance has been called into 
+question. A recent review by Moles et al. (2012) found that changes to disturbance regimes in a 
+given ecosystem explained nearly twice as much variation in invasion events than historical 
+disturbance regimes, but that the total variation explained by any sort of disturbance was <7%. 
+Although we did find higher exotic cover in the high severity areas that would represent the 
+changed disturbance regime, this difference was small, making the link with a changed 
+disturbance regime unclear on our sites. 
+Hypothesis 2: Treatment Effects in Low Severity Areas 
+Our hypothesis that forest structure was more open in pre-fire treated areas than 
+untreated areas within low severity was not upheld, so it is not surprising that the subsequent 
+predictions about the effects of a more open structure were also generally not upheld. 
+However, although not significantly different, trends in mean tree density, basal area, and 
+canopy openness did indicate a more open structure. In turn, mean understory response was 
+more abundant as expected, similar to what has been reported in previous studies (Moore and 
+Deiter, 1992; Moore et al., 2006). 
+Finally, although also not significant, the higher frequency of pine regeneration in low 
+severity treated areas versus low severity untreated areas may be important for concerns about 
+seedling recruitment in post-settlement forests. In addition to reducing forest fire risk, thinning 
+and burning treatments are also applied to promote recruitment of the next cohort of the 
+shade-intolerant ponderosa pine. We detected no significant differences in relative frequency of 
+regeneration in the 41-137 cm height class (“established” seedlings). However, when both 
+classes were combined, the mean relative frequency was higher in treated areas, where every 
+
+69 
+ 
+site had regeneration on at least one plot. In contrast, four of the six untreated low severity sites 
+completely lacked ponderosa pine regeneration.  
+The pine regeneration densities we detected are difficult to compare directly to other 
+studies due to differences in the definition of seedling size and so we report them along with 
+their seedling definitions. Studies on the 2000 Jasper Fire in the Black Hills observed ponderosa 
+pine regeneration densities up to 2,000 seedlings ha-1 five years post-fire (Keyser et al., 2008), 
+and 612 seedlings ha-1 three years post-fire (Lentile et al., 2005) in low severity burned areas. 
+Both studies defined seedlings as <1.4 m tall, which is most similar to our definition. In the 
+Southwest, Puhlick et al. (2012) observed 536-14,184 seedlings ha-1, but defined seedlings as 
+≥20 cm in height and < 2.54 cm DBH, considerably larger than our upper limit. Bailey and 
+Covington (2002) examined regeneration in thinned as well as in thinned and burned stands and 
+found much lower rates of regeneration, from 18-60 seedlings ha-1 in two study areas. These 
+numbers are considerably lower than we observed, despite their more inclusive definition (≥ 20 
+cm in height, ≤ 5 cm DBH). In contrast to these studies, we detected an average of 96 seedlings 
+ha-1 in untreated low severity areas and 288 seedlings ha-1 in treated low severity areas, for both 
+classes combined. Although these numbers are higher than Bailey and Covington’s (2002), they 
+are much lower than other studies included here. However, a historical ecology study by Mast et 
+al. (1999) near Flagstaff, AZ determined that ponderosa pine trees recruited into the overstory 
+at a rate of 0.4-3.6 trees ha-1, per decade under the pre-European fire regime. Although 
+significant mortality is likely, our seedling densities may be adequate to provide for future 
+recruitment into the overstory in the treated areas (Mast et al., 1999). 
+Hypothesis 3: Treatment Effects in High Severity Areas 
+Our hypothesis that treated high severity areas would have more low and moderate 
+severity in proximity of our sampling sites was upheld. Our related hypothesis that this would 
+
+70 
+ 
+result in lower overall plant cover, and higher plant species richness and relative frequency of 
+pine regeneration, was also predominantly upheld. There was significantly lower total cover and 
+higher relative frequency of pine regeneration in treated areas, and the remaining variable 
+mean responses were as predicted (although not significant). On the basis of relative frequency 
+of pine regeneration, which likely best reflects broader landscape patterns, our data indicate 
+that untreated areas are more likely to remain shrub-dominated, whereas treated areas have a 
+better chance of recruitment back to pine-dominated forest.  
+Relative frequency is a good reflection of pine regeneration across the landscape, but 
+density estimates may provide insights on localized patterns. Specifically, two of the treated 
+sites had relatively high pine seedling densities, which may indicate a trajectory towards dog-
+hair thickets. The densities at these sites (>2000 seedlings ha-1) greatly exceed the ~809 
+seedlings ha-1 Pearson (1950) recommended to fully re-stock clearcut areas. These numbers are 
+well beyond those required for current goals of uneven-aged stands with historical structures 
+(although we note that Pearson does not specify size class in this recommendation). Similarly 
+high densities have also been reported in two longer-term investigations. Savage and Mast 
+(2005) examined ten high severity fires 24-53 years post-fire and found exceptionally dense 
+ponderosa pine stands in four sites. In order to directly compare our data with Savage and 
+Mast’s (2005), which is reported by adult, sapling and seedling densities, we summed these 
+three categories for a total of 1,597 to 7,912 stems ha-1 (however, two of these sites had minor 
+tree planting post-fire). Finally, Haire and McGarigal (2010) also reported relatively high 
+densities on two fires that burned 28 and 45 years prior: 8,000 and 2,000 ha-1, respectively. They 
+defined pine regeneration was defined via quantification of tree ages and included any trees 
+that established in the post-fire years (Haire and McGarigal, 2010). These studies suggest that 
+
+71 
+ 
+without management intervention, our high-density high severity treated sites are likely to 
+remain dense doghair thickets, and therefore at risk of high severity re-burning in the future. 
+Both the frequency and density measures of seedlings on untreated high severity sites 
+indicate a high likelihood of conversion to shrublands. In the larger 41-137 cm size class, only 
+two of six sites had any ponderosa pine regeneration. For both sizes combined, regeneration 
+occurred on three of six sites, averaging 446 seedlings ha-1 for both size classes (14 of which 
+were in the 0-40 cm class). Two of the three sites had densities < 250 seedlings ha-1. Since these 
+areas are devoid of overstory trees, these numbers may be too low to regenerate a forested 
+landscape in the near future. This number is slightly higher than those reported in several other 
+studies in the ponderosa pine type. On the La Mesa Fire in northern New Mexico, Foxx (1994) 
+reported roughly 81-121 seedlings ha-1; whereas in high severity areas of the 2000 Jasper Fire in 
+the Black Hills, no seedlings were detected in severely burned areas in either year five post-fire 
+(Keyser et al., 2008) or year three post-fire (Lentile et al., 2005).  
+We attribute the low relative frequency and density of pine recruitment in our high 
+severity untreated sites in part to distance to seed source and early site-capture by shrubs and 
+sprouting species. Other studies in ponderosa pine have shown decreased recruitment with 
+increasing distance from unburned, or lightly burned, edge (Bonnet et al., 2005; Lentile et al., 
+2005; Haire and McGarigal, 2008, 2010). Like other studies of high severity fire in ponderosa 
+pine, we observed lower rates of recruitment in areas farther from lesser-burned edges (in our 
+study, the proxy for this was the low and moderate severity areas that were less prevalent 
+around the untreated sites). By increasing high severity patch size, these recent “mega-fires” are 
+increasing the distance to edge/seed source, which may impact future forest regeneration, 
+particularly given predictions of warmer and drier conditions in the future (Seager et al., 2007). 
+
+72 
+ 
+However, it is important to note that patterns of both burning and regeneration are 
+complex processes that are not entirely predictable, and all high severity patches may not face 
+the same limitations. Several studies in historically frequent-fire systems have noted the 
+difficulties in modeling post-fire long-distance seed dispersal, which may be important for long-
+term recruitment patterns by minimizing distance to seed source in the interior of high severity 
+patches (Bonnet et al., 2005; Haire and McGarigal, 2010). Similarly, some overstory trees 
+occasionally survive within a high severity patch, which may act to reduce the effective patch 
+size in terms of distance to seed source. 
+In addition to recruitment limitations due to distance to seed source, site capture by 
+shrubs or grasses may inhibit future regeneration. Several studies have linked increased shrub 
+cover to decreased pine regeneration (Strom and Fulé, 2007; Haire and McGarigal, 2008, 2010). 
+We observed significantly higher total plant canopy cover on untreated high severity sites, 
+where regeneration was lower. Means by life form suggest this is primarily driven by trees, 
+shrubs and graminoids. We note that we used the same protocols to define “tree” species as the 
+initial study but observed that much of the cover of “trees” under breast height is from 
+sprouting species that are considered trees as adults but have a shrub-like habit during early 
+growth stages (such as Quercus gambelii Nutt. (Gambel oak), Juniperus deppeana Steud. 
+(alligator juniper) and Robinia neomexicana A. Gray (New Mexico locust)). These values then 
+may be more complementary than distinct from the shrub cover values. Additionally, trees 
+above breast height were not measured in the cover quadrats because they were intended to be 
+sampled in the variable radius prism plots. However, these plots often will not include the 
+extremely small diameter leaders of these young trees that are growing into the overstory. In 
+that sense, our measurements may have underestimated the strength of this early site capture 
+by sprouting species on our sites. 
+
+73 
+ 
+ 
+CONCLUSIONS 
+Not only did we detect important, persistent differences in vegetation response by 
+severity, we also found important differences by pre-fire treatment within severity class. This 
+demonstrates that landscapes that burned under a given severity class are not necessarily alike. 
+As such, managing post-fire landscapes under the assumptions that all low or high severity areas 
+are the same may ignore important differences in plant communities, exotic response and 
+future trajectories. 
+Given the likelihood of more intense and severe fires in the future, concerns about 
+exotic species invasions and future reforestation are mounting. Our data fit into a body of 
+literature that does not indicate a straightforward or easily predictable pattern of exotic 
+response, suggesting more intensive investigations are needed. Where existing plots burn over 
+on public lands, managers and scientists should make re-measurements a priority in order to 
+better understand how pre-fire species assemblages interact with severity and management 
+treatments to influence post-fire plant communities and exotic response.  
+Re-measurements into the future, beyond the first few years post-fire, will be necessary 
+to better understand future successional trajectories. Although future forest regeneration is not 
+always predictable, our data are supported by other studies that show treatments such as 
+thinning and burning are important to the persistence of ponderosa pine forests for two 
+reasons. First, these treatments generally reduce fire severity and therefore retain the 
+foundation tree species post-fire. Second, even where burning conditions permit high severity 
+fire in treated areas, patch size is likely to be small, which may significantly impact post-fire 
+trajectories through increased rates of pine regeneration.  
+ 
+ 
+
+74 
+ 
+REFERENCES 
+Anderson, M.J., 2001. Permutation tests for univariate or multivariate analysis of variance and 
+regression. Canadian Journal of Fisheries and Aquatic Sciences 58, 626-639. 
+ 
+Bailey, J.D., Covington, W.W., 2002. Evaluating ponderosa pine regeneration rates following 
+ecological restoration treatments in northern Arizona, USA. Forest Ecology and Management 
+155, 271-278. 
+ 
+Barclay, A.D., Betancourt, J.L., Allen, C.D., 2004. Effects of seeding ryegrass (Lolium multiflorum) 
+on vegetation recovery following fire in a ponderosa pine (Pinus ponderosa) forest. International 
+Journal of Wildland Fire 13, 183-194. 
+ 
+Baron, J.S., Gunderson, L., Allen, C.D., Fleishman, E., McKenzie, D., Meyerson, L.A., Oropeza, J., 
+Stephenson, N., 2009. Options for National Parks and Reserves for Adapting to Climate Change. 
+Environmental Management 44, 1033-1042. 
+ 
+Barton, A.M., 2002. Intense wildfire in southeastern Arizona: transformation of a Madrean oak-
+pine forest to oak woodland. Forest Ecology and Management 165, 205-212. 
+ 
+Bonnet, V.H., Schoettle, A.W., Shepperd, W.D., 2005. Postfire environmental conditions 
+influence the spatial pattern of regeneration for Pinus ponderosa. Canadian Journal of Forest 
+Research-Revue Canadienne De Recherche Forestiere 35, 37-47. 
+ 
+Brooks, M.L., D'Antonio, C.M., Richardson, D.M., Grace, J.B., Keeley, J.E., DiTomaso, J.M., Hobbs, 
+R.J., Pellant, M., Pyke, D., 2004. Effects of invasive alien plants on fire regimes. Bioscience 54, 
+677-688. 
+ 
+Byrne, R., McAndrews, J.H., 1975. Pre-Columbian Purslane (Portulaca-Oleracea L) in New World. 
+Nature 253, 726-727. 
+ 
+Cochrane, M.A., Morgan, C.J., Wimberly, M.C., Baer, A.D., Finney, M.A., Beckendorf, K.L., 
+Eidenshink, J., Zhu, Z., 2012. Estimation of wildfire size and risk changes due to fuel treatments. 
+International Journal of Wildland Fire Open access: http://dx.doi.org/10.1071/WF11079. 
+ 
+Covington, W.W., Moore, M.M., 1994. Southwestern ponderosa forest structure - changes since 
+Euro-American settlement. Journal of Forestry 92, 39-47. 
+ 
+Crawford, J.S., Wahren, C.H.A., Kyle, S., Moir, W.H., 2001. Responses of exotic plant species to 
+fires in Pinus ponderosa forests in northern Arizona. Journal of Vegetation Science 12, 261-268. 
+ 
+Daubenmire, R.F., 1959. A canopy-coverage method. Northwest Science 33, 43-64. 
+ 
+Dodge, R.S., Fulé, P.Z., Sieg, C.H., 2008. Dalmatian toadflax (Linaria dalmatica) response to 
+wildfire in a southwestern USA forest. Ecoscience 15, 213-222. 
+ 
+
+75 
+ 
+Dufrene, M., Legendre, P., 1997. Species assemblages and indicator species: The need for a 
+flexible asymmetrical approach. Ecological Monographs 67, 345-366. 
+ 
+Ellison, A.M., Bank, M.S., Clinton, B.D., Colburn, E.A., Elliott, K., Ford, C.R., Foster, D.R., Kloeppel, 
+B.D., Knoepp, J.D., Lovett, G.M., Mohan, J., Orwig, D.A., Rodenhouse, N.L., Sobczak, W.V., 
+Stinson, K.A., Stone, J.K., Swan, C.M., Thompson, J., Von Holle, B., Webster, J.R., 2005. Loss of 
+foundation species: consequences for the structure and dynamics of forested ecosystems. 
+Frontiers in Ecology and the Environment 3, 479-486. 
+ 
+Ffolliott, P.F., Stropki, C.L., Chen, H., Neary, D.G., 2011. The 2002 Rodeo-Chediski Wildfire's 
+Impacts on Southwestern Ponderosa Pine Ecosystems, Hydrology and Fuels. United States 
+Department of Agriculture / Forest Service Research Paper RMRS-RP-85. 
+ 
+Finney, M.A., McHugh, C.W., Grenfell, I.C., 2005. Stand- and landscape-level effects of 
+prescribed burning on two Arizona wildfires. Canadian Journal of Forest Research-Revue 
+Canadienne De Recherche Forestiere 35, 1714-1722. 
+ 
+Floyd, M.L., Hanna, D., Romme, W.H., Crews, T.E., 2006. Predicting and mitigating weed 
+invasions to restore natural post-fire succession in Mesa Verde National Park, Colorado, USA. 
+International Journal of Wildland Fire 15, 247-259. 
+ 
+Fowler, J.F., Sieg, C.H., Dickson, B.G., Saab, V., 2008. Exotic plant species diversity: Influence of 
+roads and prescribed fire in Arizona ponderosa pine forests. Rangeland Ecology & Management 
+61, 284-293. 
+ 
+Foxx, T.S., 1996. Vegetation succession after the La Mesa fire at Bandelier National Monument. 
+In: Allen, C.D. (Ed.), Fire Effects in Southwestern Forests: Proceedings of the Second La Mesa Fire 
+Symposium, 29-31 March 1994. USDA Forest Service, Rocky Mountain Forest and Range 
+Experiment Station, Fort Collins, CO, Los Alamos, NM, pp. 47-69. 
+ 
+Fulé, P.Z., Covington, W.W., 1998. Spatial patterns of Mexican pine-oak forests under different 
+recent fire regimes. Plant Ecol. 134, 197-209. 
+ 
+Fulé, P.Z., Crouse, J.E., Roccaforte, J.P., Kalies, E.L., 2012. Do thinning and/or burning treatments 
+in western USA ponderosa or Jeffrey pine-dominated forests help restore natural fire behavior? 
+Forest Ecology and Management 269, 68-81. 
+ 
+Griffis, K.L., Crawford, J.A., Wagner, M.R., Moir, W.H., 2001. Understory response to 
+management treatments in northern Arizona ponderosa pine forests. Forest Ecology and 
+Management 146, 239-245. 
+ 
+Haire, S.L., McGarigal, K., 2008. Inhabitants of landscape scars: Succession of woody plants after 
+large, severe forest fires in Arizona and New Mexico. Southwestern Naturalist 53, 146-161. 
+ 
+Haire, S.L., McGarigal, K., 2010. Effects of landscape patterns of fire severity on regenerating 
+ponderosa pine forests (Pinus ponderosa) in New Mexico and Arizona, USA. Landscape Ecology 
+25, 1055-1069. 
+ 
+
+76 
+ 
+Huisinga, K.D., Laughlin, D.C., Fulé, P.Z., Springer, J.D., McGlone, C.M., 2005. Effects of an 
+intense prescribed fire on understory vegetation in a mixed conifer forest. Journal of the Torrey 
+Botanical Society 132, 590-601. 
+ 
+Institute of Ecosystem Studies, 1999. Gap Light Analyzer (Computer Program). Simon Fraser 
+University http://www.ecostudies.org/gla. 
+ 
+JMP, Version 7. SAS Institute Inc. In, Cary, NC, 1989-2007. 
+ 
+Keeley, J.E., 2006. Fire management impacts on invasive plants in the western United States. 
+Conservation Biology 20, 375-384. 
+ 
+Keyser, T.L., Lentile, L.B., Smith, F.W., Shepperd, W.D., 2008. Changes in forest structure after a 
+large, mixed-severity wildfire in ponderosa pine forests of the Black Hills, South Dakota, USA. 
+Forest Science 54, 328-338. 
+ 
+Kuenzi, A.M., Fulé, P.Z., Sieg, C.H., 2008. Effects of fire severity and pre-fire stand treatment on 
+plant community recovery after a large wildfire. Forest Ecology and Management 255, 855-865. 
+ 
+Larson, M.M., Schubert, G.H., 1970. Cone crops of ponderosa pine in central Arizona including 
+the influence of Albert squirrels. USDA Forest Service Research Paper RM-58. 
+ 
+Lentile, L.B., Smith, F.W., Shepperd, W.D., 2005. Patch structure, fire-scar formation, and tree 
+regeneration in a large mixed-severity fire in the South Dakota Black Hills, USA. Canadian Journal 
+of Forest Research-Revue Canadienne De Recherche Forestiere 35, 2875-2885. 
+ 
+Lockwood, J.L., Cassey, P., Blackburn, T., 2005. The role of propagule pressure in explaining 
+species invasions. Trends in Ecology & Evolution 20, 223-228. 
+ 
+Mast, J.N., Fulé, P.Z., Moore, M.M., Covington, W.W., Waltz, A.E.M., 1999. Restoration of 
+presettlement age structure of an Arizona ponderosa pine forest. Ecological Applications 9, 228-
+239. 
+ 
+McCune, B., Grace, J.B., 2002. Analysis of Ecological Communities. MjM Software Design, 
+Gleneden Beach, Oregon. 
+ 
+McCune, B., Mefford, M.J., 1999. PC-ORD (Computer Software). Multivariate Analysis of 
+Ecological Data, Version 4. MjM Software Design, Gleneden Beach, OR. 
+ 
+McDonald, P.M., 1980. Seed dissemination in small clearcuttings in north-central California. 
+USDA Forest Service Research Paper PSW-150, 5. 
+ 
+Moles, A.T., Flores-Moreno, H., Bonser, S.P., Warton, D.I., Helm, A., Warman, L., Eldridge, D.J., 
+Jurado, E., Hemmings, F.A., Reich, P.B., Cavender-Bares, J., Seabloom, E.W., Mayfield, M.M., 
+Sheil, D., Djietror, J.C., Peri, P.L., Enrico, L., Cabido, M.R., Setterfield, S.A., Lehmann, C.E.R., 
+Thomson, F.J., 2012. Invasions: the trail behind, the path ahead, and a test of a disturbing idea. 
+Journal of Ecology 100, 116-127. 
+ 
+
+77 
+ 
+Moore, M.M., Casey, C.A., Bakker, J.D., Springer, J.D., Fulé, P.Z., Covington, W.W., Laughlin, D.C., 
+2006. Herbaceous vegetation responses (1992-2004) to restoration treatments in a Ponderosa 
+pine forest. Rangeland Ecology & Management 59, 135-144. 
+ 
+Moore, M.M., Deiter, D.A., 1992. Stand density index as a predictor of forage production in 
+northern Arizona pine forest. Journal of Range Management 45, 267-271. 
+ 
+Pearson, G.A., 1950. Management of Ponderosa Pine the Southwest. United States Forest 
+Service Agricultural Monograph 6, 217. 
+ 
+Peck, J.E., 2010. Multivariate Analysis for Community Ecologists: Step-by-Step using PC-ORD. 
+MjM Software Design, Gleneden Beach, OR. 
+ 
+Peppin, D., Fule, P.Z., Sieg, C.H., Beyers, J.L., Hunter, M.E., 2010. Post-wildfire seeding in forests 
+of the western United States: An evidence-based review. Forest Ecology and Management 260, 
+573-586. 
+ 
+Pollet, J., Omi, P.N., 2002. Effect of thinning and prescribed burning on crown fire severity in 
+ponderosa pine forests. International Journal of Wildland Fire 11, 1-10. 
+ 
+Puhlick, J.J., Laughlin, D.C., Moore, M.M., 2012. Factors influencing ponderosa pine regeneration 
+in the southwestern USA. Forest Ecology and Management 264, 10-19. 
+ 
+Savage, M., Mast, J.N., 2005. How resilient are southwestern ponderosa pine forests after crown 
+fires? Canadian Journal of Forest Research-Revue Canadienne De Recherche Forestiere 35, 967-
+977. 
+ 
+Seager, R., Ting, M.F., Held, I., Kushnir, Y., Lu, J., Vecchi, G., Huang, H.P., Harnik, N., Leetmaa, A., 
+Lau, N.C., Li, C.H., Velez, J., Naik, N., 2007. Model projections of an imminent transition to a 
+more arid climate in southwestern North America. Science 316, 1181-1184. 
+ 
+Smith, D.M., Larson, B.C., Kelty, M.J., Ashton, P.M.S., 1997. The Practice of Silviculture: Applied 
+Forest Ecology. John Wiley & Sons, New York. 
+ 
+Stoddard, M.T., McGlone, C.M., Fulé, P.Z., Laughlin, D.C., Daniels, M.L., 2011. Native plants 
+dominate understory vegetation following ponderosa pine forest restoration treatments. 
+Western North American Naturalist 71, 206-214. 
+ 
+Strom, B.A., 2005. Pre-fire treatment effects and post-fire forest dynamics on the Rodeo-
+Chediski burn area, Arizona. M.S. Thesis, School of Forestry, Flagstaff AZ, Northern Arizona 
+University. 
+ 
+Strom, B.A., Fulé, P.Z., 2007. Pre-wildfire fuel treatments affect long-term ponderosa pine forest 
+dynamics. International Journal of Wildland Fire 16, 128-138. 
+ 
+USDA-NRCS, 2006. The PLANTS Database (http://plants.usda.gov, 29 November 2006). National 
+Plant Data Center, Baton Rouge, LA 70874-4490, USA. 
+ 
+
+78 
+ 
+USDA-NRCS, 2011. The PLANTS Database (http://plants.usda.gov, 15 November 2011). National 
+Plant Data Center, Baton Rouge, LA 70874-4490, USA. 
+ 
+Welsh, S.L., Atwood, N.D., Goodrich, S., Higgins, L.C., 1993. A Utah Flora. Brigham Young 
+University, Provo, UT. 
+ 
+Westerling, A.L., Hidalgo, H.G., Cayan, D.R., Swetnam, T.W., 2006. Warming and earlier spring 
+increase western US forest wildfire activity. Science 313, 940-943. 
+ 
+Wolfson, B.A.S., Sieg, C.H., In prep. 40-year post fire seeding trends in Arizona and New Mexico. 
+U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station, Fort Collins, 
+CO. 
+ 
+ 
+ 
+
+79 
+ 
+Table 1. Exotic graminoid and forb species by severity class. Seeded species include species 
+known to have been seeded on the WMAT lands, not necessarily after the Rodeo-Chediski Fire 
+(Kuenzi et al. 2008). Bolded species were found on at least 5% of plots. 
+Graminoids 
+ 
+ 
+ 
+Severity 
+Seeded 
+Other 
+ 
+High 
+Agropyron desertoruma 
+Bromus japonicusa 
+ 
+  
+Dactylis glomerataa 
+Bromus tectoruma 
+ 
+  
+Eragrostis curvulaa 
+Echinochloa crus-galli 
+ 
+  
+ 
+Poa compressa 
+ 
+  
+ 
+Poa pratensisa 
+ 
+  
+ 
+Setaria viridis 
+ 
+ 
+ 
+ 
+ 
+Low 
+Dactylis glomerataa 
+Bromus tectoruma 
+ 
+  
+Eragrostis curvulaa 
+Poa compressa 
+ 
+  
+ 
+Poa pratensisa 
+ 
+ 
+ 
+ 
+Forbs 
+ 
+ 
+ 
+Severity 
+Seeded 
+Other 
+ 
+High 
+none 
+Cirsium vulgarea 
+ 
+  
+  
+Erodium cicutariuma 
+ 
+  
+ 
+Lactuca serriolaa 
+ 
+  
+ 
+Malva neglecta 
+ 
+ 
+ 
+Medicago lupulinaa 
+ 
+  
+ 
+Melilotus officinalisa 
+ 
+  
+ 
+Onopordum acanthium 
+ 
+  
+ 
+Polygonum aviculareb 
+ 
+ 
+ 
+Rumex acetosella 
+ 
+ 
+ 
+Taraxacum officinale 
+ 
+ 
+ 
+Tragopogon dubius 
+ 
+ 
+ 
+Verbascum thapsus 
+ 
+ 
+ 
+ 
+ 
+Low 
+none 
+Cirsium vulgarea 
+ 
+  
+  
+Erodium cicutariuma 
+ 
+  
+ 
+Lactuca serriolaa 
+ 
+ 
+ 
+Medicago lupulinaa 
+ 
+ 
+ 
+Melilotus officinalisa 
+ 
+ 
+ 
+Rumex acetosella 
+ 
+ 
+ 
+Rumex crispus 
+ 
+ 
+ 
+Sanguisorba minor 
+ 
+ 
+ 
+Verbascum thapsus 
+             a Species that have been seeded as part of management practices in the  
+           Southwest (Fowler et al., 2008; Wolfson and Sieg, in prep). 
+           
+
+80 
+ 
+Table 2.  Results of perMANOVA tests for differences in univariate response variables.  
+Significance is denoted by bold type and asterisk.  Where the p-value for the interaction was 
+significant or approached significance, we separated the data by severity to test for treatment 
+effects. 
+ 
+ 
+Response variable 
+Severity 
+Treatment Interaction 
+Treatment in 
+High Severity 
+Treatment in 
+Low Severity 
+Overstory tree density 
+0.0001* 
+0.40 
+0.34 
+NA* 
+ 
+Basal area 
+0.0001* 
+0.14 
+0.059 
+NA* 
+0.12 
+Canopy openness 
+0.0001* 
+0.14 
+0.39 
+NA* 
+0.42 
+Total plant cover 
+0.0001* 
+0.02* 
+0.019* 
+0.033* 
+0.25 
+Tree regeneration 
+0.0045* 
+0.45 
+0.03* 
+0.12 
+0.067 
+Shrub cover 
+0.0001* 
+0.07* 
+0.32 
+ 
+ 
+Forb cover 
+0.0015* 
+0.45 
+0.075 
+0.49 
+0.039* 
+Graminoid cover 
+0.0081* 
+0.57 
+0.14 
+0.3416 
+0.1853 
+Exotic forb cover 
+0.0040* 
+0.97 
+0.91 
+ 
+ 
+Exotic graminoid cover 
+0.65 
+0.23 
+0.16 
+0.95 
+0.057 
+Total plant species 
+i h
+0.0071* 
+0.20 
+0.63 
+ 
+ 
+Exotic species richness 
+0.07 
+0.36 
+0.14 
+0.6313 
+0.1818 
+Native species 
+i h
+0.10 
+0.61 
+0.33 
+ 
+ 
+Pine regeneration (40-
+137 cm) frequency 
+0.0056* 
+0.0081* 
+0.079 
+0.027* 
+0.73 
+ 
+ *We did not test overstory variables for treatment effects in high severity since they were not relevant to  
+   our hypotheses. 
+ 
+ 
+
+81 
+ 
+Table 3.  High severity indicator species.  No indicator species were found for low severity.  
+Exotic species are in bold. 
+ 
+Species     
+Indicator 
+Value (IV) 
+p-value 
+Mean Cover 
+S.E. 
+Arctostaphylos pringlei 
+46.7    
+0.036 
+2.87 
+0.83 
+Arctostaphylos pungens 
+55.6    
+0.032 
+3.29 
+0.95 
+Bouteloua curtipendulaa 
+73.1    
+0.004 
+1.55 
+0.45 
+Carex sp.           
+65.3    
+0.024 
+1.03 
+0.30 
+Ceanothus fendleri          
+79.7    
+0.004 
+14.25 
+4.11 
+Cirsium wheeleri 
+84.5    
+0.004 
+0.81 
+0.23 
+Dyssodia papposa 
+41.7    
+0.036 
+0.06 
+0.017 
+Lotus wrightii 
+87.9    
+0.004 
+0.55 
+0.16 
+Panicum virgatum 
+41.7    
+0.048 
+0.30 
+0.09 
+Pascopyrum smithiia 
+74.9    
+0.004 
+3.20 
+0.92 
+Robinia neomexicana 
+65.6    
+0.004 
+4.25 
+1.23 
+Tragopogon dubiusb 
+75.0    
+0.004 
+0.05 
+0.016 
+Verbascum thapsusb 
+73.8    
+0.016 
+0.55 
+0.16 
+aseeded; bexotic 
+ 
+ 
+
+82 
+ 
+Table 4. Pine regeneration mean relative frequency and mean density (standard errors are in 
+parentheses).  Presented by severity and treatment, in the 0-40 cm and 41-137 cm height 
+classes, as well as the two classes combined (“All seedlings”). 
+ 
+ 
+Relative frequency 
+Density (seedlings ha-1) 
+Severity/ 
+Treatment 
+0-40 cm 
+41-137 cm 
+All 
+seedlings 
+0-40 cm 
+41-137 cm 
+All 
+seedlings 
+Low 
+ 
+ 
+ 
+ 
+ 
+ 
+Untreated 
+0.17(0.11) 
+0.06(0.06) 
+0.17(0.14) 
+82.4(56.3) 
+13.7(13.7) 
+96.1(61.7) 
+Treated 
+0.39(0.06) 
+0.17(0.11) 
+0.44(0.07) 
+164.7(56.3) 
+123.6(84.4) 
+288.3(107.9) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+High 
+ 
+ 
+ 
+ 
+ 
+ 
+Untreated 
+0.06(0.06) 
+0.19(0.12) 
+0.25(0.12) 
+13.7(13.7) 
+432.4(385.1) 
+446.2(382.3) 
+Treated 
+0.28(0.10) 
+0.67(0.09) 
+0.78(0.07) 
+288.3(209.2) 
+1345.4(435.7) 
+1633.6(617.6) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+83 
+ 
+ 
+ 
+ 
+Figure 1.  Precipitation data by water year from the period of post-fire recovery.  Water year for 
+a given year includes October through December of the previous year, and January through 
+September of that year.  Data are from the Heber Ranger Station in Heber, AZ, 12 km north of 
+the study site. Solid line represents the 60-year average and dashed lines are one standard 
+deviation. 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+100
+200
+300
+400
+500
+600
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+Precipitation (mm) 
+
+84 
+ 
+(a) 
+ 
+(b) 
+ 
+ 
+Figure 2.  Example of how neighborhood severity analysis was conducted on pre-fire untreated 
+(a) and treated (b) sites.  Dots represent site centers and circles represent the area of potential 
+seed contribution.  The darkest shade of grey represents high severity, the lighter shade 
+represents moderate severity and the lightest shade represents low severity. 
+ 
+ 
+ 
+ 
+
+85 
+ 
+ 
+ 
+ 
+ 
+Figure 3.  Ordination of 2010 plant communities by severity class with tree density, basal area 
+and canopy openness overlaid as vectors. Stress: 8.435, p-value = 0.004, 3 dimensions. 
+ 
+ 
+ 
+
+86 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4.  Overstory variables: basal area, tree density, canopy openness.  Shaded bars represent 
+pre-fire treated areas.  All were significantly different by severity class, but none were 
+significantly different by treatment within severity class. 
+ 
+ 
+ 
+ 
+0
+5
+10
+15
+20
+25
+High
+Low
+Basal Area 
+(m2/ha) 
+0
+20
+40
+60
+80
+100
+120
+High
+Low
+Tree Density 
+(trees ha-1) 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+High
+Low
+% Canopy Openness 
+
+87 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 5.  Species richness, total plant canopy cover, and cover by life form.  Shaded bars 
+represent pre-fire treated areas.  Note differences in scale on the y-axis. 
+0
+10
+20
+30
+40
+50
+60
+70
+High
+Low
+Species Richness 
+0
+10
+20
+30
+40
+50
+60
+High
+Low
+% Total Cover 
+ 
+0
+5
+10
+15
+20
+25
+30
+High
+Low
+Tree Regeneration  
+% Cover 
+0
+5
+10
+15
+20
+25
+30
+High
+Low
+Shrubs  
+% Cover 
+0
+5
+10
+15
+20
+25
+30
+High
+Low
+Forbs 
+% Cover 
+0
+5
+10
+15
+20
+25
+30
+High
+Low
+Graminoids 
+% Cover 
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+High
+Low
+Exotic Forbs 
+% Cover 
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+High
+Low
+Exotic Graminoids 
+% Cover 
+
+88 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 6.  Neighborhood severity distribution for high severity treated and untreated areas. 
+ 
+ 
+ 
+ 
+0.00
+0.10
+0.20
+0.30
+0.40
+0.50
+0.60
+0.70
+0.80
+0.90
+1.00
+Untreated
+Treated
+Pixel distribution 
+High
+Moderate
+Low
+
+89 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 7.  NMDS ordination of plant communities in high severity areas, by pre-fire treatment.  
+Stress: 6.228, p-value = 0.028, 2 dimensions.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+90 
+ 
+CHAPTER 4 
+Management Implications  
+ 
+ 
+Changes in vegetation structure and composition as a result of the 2002 Rodeo-Chediski 
+Fire offer strong support for fuels reduction treatments in ponderosa pine (Pinus ponderosa P. & 
+C. Lawson) forests of the Southwest. The post-fire effects of these treatments have important 
+management implications at a number of scales. At the broadest scale, pre-fire treatments 
+generally reduced fire severity, whereas untreated areas more often burned under high severity 
+crown fire (Strom, 2005; Strom and Fulé, 2007). The preceding chapters documented how lower 
+severity areas maintained overstory structure and mature ponderosa pine dominance. Severely 
+burned areas generally lack overstory structure and many are shrub-dominated, some of which 
+may remain persistent shrublands (Savage and Mast, 2005). This is significant because the loss 
+of ponderosa pine as a foundation species in these areas may have significant cascading effects 
+on other trophic levels (Ellison et al., 2005). Furthermore, a few high severity areas have the 
+potential to become doghair thickets of high density pine. These forests are at risk of another 
+episode of high severity fire, thus perpetuating the cycle and potentially altering fire regimes. 
+ 
+High severity areas may also be an avenue for exotic species invasions, yet patterns of 
+invasion in the Southwest have been highly variable. We observed significantly higher cover of 
+exotic forbs in high severity areas compared to low severity burned areas on the White 
+Mountain Apache Tribal (WMAT) land in 2010, whereas no difference was detected between 
+high and low severity areas for 2004 or 2005. Although exotic cover was <3% for all years, this 
+trend through time suggests that these species are maintaining a greater presence in the highly 
+disturbed, high severity areas where there is generally more sunlight and potentially reduced 
+competition from overstory trees for resources. On the Apache-Sitgreaves National Forest 
+
+91 
+ 
+(ASNF), mean exotic forb cover was also quite low for all years, at < 2.5%, but generally higher in 
+untreated areas than in treated areas, and this difference approached significance. In addition, 
+although overall exotic forb cover did not change dramatically in either study over time, there 
+was an increase in the presence of several species across sampling plots. Tragopogon dubius 
+Scop. (yellow salsify) increased in frequency by plot over the three measurement years in both 
+study areas. Verbascum thapsus (common mullein) also increased in frequency on WMAT lands.  
+Overall exotic graminoid cover was highly variable in both study areas, and through 
+time. Two species increased in either frequency or cover and may be cause for concern in the 
+future. Eragrostis curvula (Shrad.) Nees (weeping lovegrass) increased in cover on WMAT lands 
+in low severity areas. On ASNF lands, it first appeared on 18 of 80 measured plots in 2011. This 
+grass is a robust perennial species that responds positively to fire (McFarland and Mitchell, 
+2000). In addition, the highly rhizomatous smooth brome (Bromus inermis Leyss.) increased in 
+frequency on the ASNF in 2011. These two species are among the suite of cool-season 
+graminoids that have been seeded in past decades in the Southwest (Wolfson and Sieg, In prep). 
+Therefore, in areas where the goal is to maintain native species composition, we recommend 
+using native seed only. However, any seeding has the potential to introduce exotic species as 
+seed contaminants, and should be applied with caution (Keeley, 2006; Fowler et al., 2008; 
+Peppin et al., 2010). In addition, these increases in exotic forb and graminoid frequency and 
+cover over time suggest that long-term monitoring of high severity fire areas is important, 
+particularly in order to track potentially problematic species.  
+ 
+Overall, the vegetative communities of more severely burned areas were relatively 
+distinct from low severity areas. Yet, composition of understory herbaceous plant communities 
+on the treated ASNF sites, which generally burned more severely than untreated sites, was 
+converging with composition on untreated areas nine years post-fire. This convergence is likely 
+
+92 
+ 
+related to the proximity of the paired treated and untreated sites, such that the untreated, 
+higher severity areas were never far from a lesser-burned edge. This suggests that treatments 
+which minimize high severity patch size, and therefore distance to lesser-burned edge, may also 
+minimize overall vegetation differences between severely burned and less severely burned 
+areas. Therefore, conducting strategic treatments may be particularly important when 
+treatment across an entire landscape is not feasible (Finney et al., 2007).  
+ 
+These considerations relate to the broad scale effects of fire severity, which is generally 
+mitigated by pre-fire treatment. The WMAT study design offers an exceptional opportunity to 
+examine finer scale effects of treatment within severity class. Since weather conditions, 
+topography and time of day also affect how severely areas burn, occasionally treated areas may 
+burn severely. Ponderosa pine regeneration was less frequent in high severity areas that had not 
+been treated before the wildfire than in the high severity pre-fire treated sites. In addition, pre-
+fire untreated sites had higher total plant cover and higher shrub cover. Lower frequency of pine 
+regeneration in severely burned untreated areas was likely linked to the neighborhood severity 
+surrounding the sampling sites, where untreated sites were surrounded by significantly greater 
+area that burned severely than treated sites. Even within high severity fire areas, pre-fire 
+treatments mitigated the effects of high severity fire by mitigating high severity patch size and 
+increasing heterogeneity in the neighborhood of these sites. Ultimately, the untreated sites, 
+which were generally in larger patches of high severity, are more likely to remain persistent 
+shrublands. These areas, therefore, may be priorities for tree planting if the ultimate goal is to 
+re-forest these areas.  
+Finally, post-fire seeding may have impacted native plant communities at both the 
+broader scale of fire severity and the finer scale of treatment effects within severity class. Seed 
+mixes were applied only in high severity fire areas on the WMAT lands, but throughout the ASNF 
+
+93 
+ 
+lands. Two exotic annual grass species, Triticum aestivum L. (common wheat) (seeded on the 
+WMAT) and Lolium perenne L. (annual rye) (seeded on the A-S) were infrequent by 2005 and 
+absent by 2010 and 2011. The exotic perennial grass Festuca ovina L. (sheep fescue) was also 
+seeded on the ASNF, but was not detected until 2011, and then on only two plots. The 
+remaining seeded species were native to the region, making it difficult to attribute their 
+presence to either post-fire seeding or natural assembly. Further, we do not have any data from 
+unseeded areas to assess how and if the early presence of these seeded species impacted the 
+native plant communities in the long run. In light of this, the fact that the seeded annual cereal 
+grains did exit the system as intended should not be simplistically interpreted as a success story; 
+instead other studies that better evaluate the differences between seeded and non-seeded 
+areas should be relied on for guidance (Stella et al. 2010; Peppin et al., 2010). 
+Climate change has been linked with increases in high severity fire, and these fires are 
+likely to continue to increase in the ponderosa pine type under the warmer and drier climate 
+predicted for the Southwest (Westerling et al., 2006; Seager et al., 2007). In order to avoid the 
+problematic outcomes examined in the last two chapters, such as exotic species proliferation or 
+potential vegetation type conversions, management actions that reduce the incidence and 
+extent of high severity crown fire and increase forest resilience will best protect native plant 
+communities and vegetation types, on both broader and finer scales. Although restoring 
+historical stand structures is one important way of creating more resilient ponderosa pine 
+ecosystems, given the variability of the landscapes in the Southwest and the changing climate, a 
+certain amount of flexibility may improve future successes. Adaptive management that 
+incorporates a wide range of approaches to creating resilience can give managers a valuable 
+toolbox for managing forests into the future (Millar et al., 2007; Baron et al., 2009).  
+ 
+ 
+ 
+
+94 
+ 
+REFERENCES 
+Baron, J.S., Gunderson, L., Allen, C.D., Fleishman, E., McKenzie, D., Meyerson, L.A., Oropeza, J., 
+Stephenson, N., 2009. Options for National Parks and Reserves for Adapting to Climate Change. 
+Environmental Management 44, 1033-1042. 
+ 
+Ellison, A.M., Bank, M.S., Clinton, B.D., Colburn, E.A., Elliott, K., Ford, C.R., Foster, D.R., Kloeppel, 
+B.D., Knoepp, J.D., Lovett, G.M., Mohan, J., Orwig, D.A., Rodenhouse, N.L., Sobczak, W.V., 
+Stinson, K.A., Stone, J.K., Swan, C.M., Thompson, J., Von Holle, B., Webster, J.R., 2005. Loss of 
+foundation species: consequences for the structure and dynamics of forested ecosystems. 
+Frontiers in Ecology and the Environment 3, 479-486. 
+ 
+Finney, M.A., Selia, R.C., McHugh, C.W., Ager, A.A., Bahro, B., Agee, J.K., 2007. Simulation of 
+long-term landscape-level fuel treatment effects on large wildfires. International Journal of 
+Wildland Fire 16, 712-727. 
+ 
+Fowler, J.F., Sieg, C.H., Dickson, B.G., Saab, V., 2008. Exotic plant species diversity: Influence of 
+roads and prescribed fire in Arizona ponderosa pine forests. Rangeland Ecology & Management 
+61, 284-293. 
+ 
+Keeley, J.E., 2006. Fire management impacts on invasive plants in the western United States. 
+Conservation Biology 20, 375-384. 
+ 
+McFarland, J.B., Mitchell, R., 2000. Fire effects on weeping lovegrass tiller density and 
+demographics. Agronomy Journal 92, 42-47. 
+ 
+Millar, C.I., Stephenson, N.L., Stephens, S.L., 2007. Climate change and forests of the future: 
+Managing in the face of uncertainty. Ecological Applications 17, 2145-2151. 
+ 
+Peppin, D., Fulé, P.Z., Sieg, C.H., Beyers, J.L., Hunter, M.E., 2010. Post-wildfire seeding in forests 
+of the western United States: An evidence-based review. Forest Ecology and Management 260, 
+573-586. 
+ 
+Savage, M., Mast, J.N., 2005. How resilient are southwestern ponderosa pine forests after crown 
+fires? Canadian Journal of Forest Research-Revue Canadienne De Recherche Forestiere 35, 967-
+977. 
+ 
+Seager, R., Ting, M.F., Held, I., Kushnir, Y., Lu, J., Vecchi, G., Huang, H.P., Harnik, N., Leetmaa, A., 
+Lau, N.C., Li, C.H., Velez, J., Naik, N., 2007. Model projections of an imminent transition to a 
+more arid climate in southwestern North America. Science 316, 1181-1184. 
+ 
+Stella, K.A., Sieg, C.H., Fulé, P.Z., 2010. Minimal effectiveness of native and non-native seeding 
+following three high-severity wildfires. International Journal of Wildland Fire 19, 746-758. 
+ 
+Strom, B.A., 2005. Pre-fire treatment effects and post-fire forest dynamics on the Rodeo-
+Chediski burn area, Arizona. M.S. Thesis, School of Forestry, Flagstaff, AZ, Northern Arizona 
+University. 
+
+95 
+ 
+ 
+Strom, B.A., Fulé, P.Z., 2007. Pre-wildfire fuel treatments affect long-term ponderosa pine forest 
+dynamics. International Journal of Wildland Fire 16, 128-138. 
+ 
+Westerling, A.L., Hidalgo, H.G., Cayan, D.R., Swetnam, T.W., 2006. Warming and earlier spring 
+increase western US forest wildfire activity. Science 313, 940-943. 
+ 
+Wolfson, B.A.S., Sieg, C.H., In prep. 40-year post fire seeding trends in Arizona and New Mexico. 
+U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station, Fort Collins, 
+CO. 
+
+96 
+ 
+APPENDICES 
+ 
+Appendix i. Species observed in 2004, 2005 and/or 2011 on the Apache-Sitgreaves National 
+Forest study area. Life history strategies reported are from the USDA Plants database, 
+abbreviated as A: annual or biennial, B: biennial, P: perennial. Exotic species have asterisks. 
+Species name 
+Authority 
+Life 
+history 2004 2005 
+2011 
+Trees 
+ 
+ 
+ 
+ 
+ 
+Abies concolor 
+(Gord. & Glend.) Lindl. ex Hildebr. 
+P 
+X 
+Juniperus deppeana 
+Sted. 
+P 
+X 
+X 
+X 
+Pinus ponderosa 
+P.& C. Lawson 
+P 
+X 
+X 
+X 
+Quercus gambelii 
+Ntt. 
+P 
+X 
+X 
+X 
+Rhus glabra 
+L. 
+P 
+X 
+X 
+Robinia neomexicana 
+Gray 
+P 
+X 
+X 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+Shrubs 
+ 
+ 
+ 
+ 
+ 
+Agave parryi 
+Engelm. 
+P 
+X 
+X 
+X 
+Amelanchier alnifolia 
+(Ntt.) Ntt. ex M. Roemer 
+P 
+X 
+Amelanchier utahensis 
+Koehne 
+P 
+X 
+Amorpha fruticosa 
+L. 
+P 
+X 
+X 
+X 
+Arctostaphylos pringlei 
+Parry 
+P 
+X 
+X 
+X 
+Arctostaphylos pungens 
+Knth 
+P 
+X 
+X 
+X 
+Carphochaete bigelovii 
+Gray 
+P 
+X 
+Ceanothus fendleri 
+Gray 
+P 
+X 
+X 
+X 
+Cercocarpus montanus 
+Raf. 
+P 
+X 
+X 
+X 
+Chrysothamnus depressus 
+Ntt. 
+P 
+X 
+X 
+X 
+Eriogonum wrightii 
+Torr. ex Benth 
+P 
+X 
+Fallugia paradoxa 
+(D. Don) Endl. ex Torr. 
+P 
+X 
+Gutierrezia sarothrae 
+(Prsh) Britt. & Rsby 
+P 
+X 
+X 
+X 
+Mahonia repens 
+(Lindl.) G. Don 
+P 
+X 
+X 
+X 
+Nolina microcarpa 
+S. Wats. 
+P 
+X 
+X 
+X 
+Purshia tridentata 
+(Prsh) DC. 
+P 
+X 
+Quercus sp. 
+L. 
+P 
+X 
+X 
+X 
+Rhus trilobata 
+Ntt. 
+P 
+X 
+Rosa woodsii 
+Lindl. 
+P 
+X 
+X 
+X 
+Yucca angustissima 
+Engelm. ex Trel. 
+P 
+X 
+X 
+X 
+Yucca elata 
+(Engelm.) Engelm. 
+P 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+Forbs 
+ 
+ 
+ 
+ 
+ 
+Achillea millefolium 
+L. 
+P 
+X 
+X 
+X 
+Ageratina herbacea 
+(Gray) King & H.E. Robins. 
+P 
+X 
+X 
+X 
+Allium cernuum 
+Roth 
+P 
+X 
+Allium sp. 
+L. 
+P 
+X 
+Amaranthus blitoides* 
+S. Wats. 
+A 
+X 
+Amaranthus sp. 
+L. 
+A 
+X 
+X 
+X 
+
+97 
+ 
+Species name 
+Authority 
+Life 
+history 2004 2005 
+2011 
+Ambrosia acanthicarpa 
+Hook. 
+A 
+X 
+X 
+Ambrosia psilostachya 
+DC. 
+P 
+X 
+X 
+X 
+Antennaria marginata 
+Greene 
+P 
+X 
+X 
+Antennaria parviflora 
+Ntt. 
+P 
+X 
+X 
+X 
+Antennaria rosulata 
+Rydb. 
+P 
+X 
+Arabis sp. 
+L. 
+U 
+X 
+Arenaria lanuginosa 
+(Michx.) Rohrb. 
+P 
+X 
+X 
+X 
+Argemone minuta ssp. 
+rotundata 
+Dr. & Hilg. 
+P 
+X 
+X 
+Artemisia campestris 
+L. 
+P 
+X 
+X 
+X 
+Artemisia carruthii 
+Wood ex Carrth. 
+P 
+X 
+X 
+X 
+Artemisia dracunculus 
+L. 
+P 
+X 
+X 
+Artemisia ludoviciana 
+(Ntt.) Keck 
+P 
+X 
+X 
+X 
+Asclepias asperula ssp. 
+asperula 
+(Dcne.) Woods. 
+P 
+X 
+X 
+X 
+Asclepias subverticillata 
+(Gray) Vail 
+P 
+X 
+Asclepias tuberosa 
+L. 
+P 
+X 
+Astragalus gilensis 
+Greene 
+P 
+X 
+X 
+Astragalus hallii 
+Gray 
+P 
+X 
+X 
+X 
+Astragalus humistratus 
+Gray 
+P 
+X 
+X 
+X 
+Astragalus mollissimus 
+Torr. 
+P 
+X 
+X 
+X 
+Astragalus sp. 
+L. 
+P 
+X 
+X 
+X 
+Astragalus tephrodes 
+Gray 
+P 
+X 
+X 
+X 
+Bahia dissecta 
+(Gray) Britt. 
+B 
+X 
+X 
+X 
+Bassia hyssopifolia* 
+(Pallas) Kntz 
+A 
+X 
+Bassia scoparia* 
+(L.) A.J. Scott 
+A 
+X 
+Brickellia betonicifolia 
+Gray 
+P 
+X 
+X 
+Brickellia californica 
+(Torr. & Gray) Gray 
+P 
+X 
+Brickellia euptarioides var. 
+chlorolepis 
+(L.) Shinners 
+P 
+X 
+X 
+X 
+Brickellia grandiflora 
+(Hook.) Ntt. 
+P 
+X 
+X 
+X 
+Calliandra humilis 
+Benth. 
+P 
+X 
+X 
+X 
+Calochortus nuttallii 
+Torr. & Gray 
+P 
+X 
+Castilleja sulphurea 
+Rydb. 
+P 
+X 
+Castilleja sp. 
+Mtis ex L. f. 
+P 
+X 
+X 
+X 
+Chaetopappa ericoides 
+(Torr.) Nesom 
+P 
+X 
+X 
+X 
+Chamaesyce glyptosperma 
+(Engelm.) Small 
+A 
+X 
+Chamaesyce serpyllifolia 
+(Pers.) Small 
+A 
+X 
+X 
+X 
+Chenopodium album* 
+L. 
+A 
+X 
+X 
+Chenopodium botrys* 
+L. 
+A 
+X 
+Chenopodium desiccatum 
+A. Nels. 
+A 
+X 
+Chenopodium graveolens 
+Willd. 
+A 
+X 
+X 
+X 
+Chenopodium leptophyllum 
+(Moq.) Ntt. ex S. Wats. 
+A 
+X 
+X 
+
+98 
+ 
+Species name 
+Authority 
+Life 
+history 2004 2005 
+2011 
+Chenopodium sp. 
+L. 
+A 
+X 
+X 
+Cirsium arizonicum 
+(Gray) Petrak 
+P 
+X 
+Cirsium rothrockii 
+(Gray) Petrak 
+B 
+X 
+X 
+Cirsium sp. 
+ P. Mill. 
+X 
+X 
+Cirsium vulgare* 
+(Savi) Ten 
+B 
+X 
+X 
+X 
+Cirsium wheeleri 
+(Gray) Petrak 
+P 
+X 
+X 
+X 
+Cologania angustifolia 
+Knth 
+P 
+X 
+X 
+X 
+Comandra umbellata 
+(L.) Ntt. 
+P 
+X 
+X 
+X 
+Commelina dianthifolia 
+Delile 
+P 
+X 
+X 
+X 
+Conyza canadensis 
+(L.) Cronq. 
+A 
+X 
+X 
+X 
+Cordylanthus wrightii 
+Gray 
+A 
+X 
+X 
+X 
+Coreopsis tinctoria 
+Ntt. 
+ABP 
+X 
+X 
+Cryptantha cinerea 
+(Greene) Cronq. 
+P 
+X 
+X 
+X 
+Cryptantha fendleri 
+(Gray) Greene 
+A 
+X 
+X 
+X 
+Dalea albiflora 
+Gray 
+P 
+X 
+X 
+X 
+Dalea candida 
+Michx. ex Willd. 
+P 
+X 
+X 
+X 
+Dalea sp. 
+L. 
+U 
+X 
+Dalea filiformis 
+Gray 
+A 
+X 
+Dalea polygonoides 
+Gray 
+A 
+X 
+Descurainia sp. 
+Webb & Berth. 
+U 
+X 
+Descurainia incana 
+(Bernh. ex Fisch. & C.A. Mey.) 
+Dorn 
+AB 
+X 
+X 
+X 
+Desmanthus cooleyi 
+(Eat.) Trel. 
+P 
+X 
+X 
+X 
+Desmodium grahamii 
+Gray 
+P 
+X 
+Dracocephalum parviflorum 
+Ntt. 
+AB 
+X 
+X 
+Drymaria leptophylla 
+(Cham. & Schlecht.) Fenzl ex 
+Rohrb. 
+A 
+X 
+X 
+Dyssodia papposa 
+(Vent.) A.S. Hitchc. 
+A 
+X 
+X 
+X 
+Echeandia flavescens 
+(J.A. & J.H. Schltes) Crden 
+P 
+X 
+X 
+X 
+Epilobium brachycarpum 
+K. Presl. 
+A 
+X 
+X 
+X 
+Erigeron canus 
+Gray 
+P 
+X 
+X 
+Erigeron colomexicanus 
+A. Nels. 
+B 
+X 
+X 
+X 
+Erigeron divergens 
+Torr. & Gray 
+B 
+X 
+X 
+X 
+Erigeron flagellaris 
+Gray 
+B 
+X 
+X 
+X 
+Erigeron formosissimus 
+Greene 
+P 
+X 
+X 
+Erigeron sp. 
+L. 
+P 
+X 
+Erigeron neomexicanus 
+Gray 
+P 
+X 
+X 
+X 
+Erigeron speciosus 
+(Lindl.) DC. 
+P 
+X 
+X 
+X 
+Eriogonum alatum 
+Torr. 
+P 
+X 
+X 
+X 
+Eriogonum corymbosum 
+Benth 
+P 
+X 
+Eriogonum polycladon 
+Benth. 
+A 
+X 
+X 
+X 
+Eriogonum racemosum 
+Ntt. 
+P 
+X 
+X 
+X 
+Erodium cicutarium* 
+(L.) L'Hér. ex Ait. 
+A 
+X 
+X 
+X 
+
+99 
+ 
+Species name 
+Authority 
+Life 
+history 2004 2005 
+2011 
+Escobaria vivpara 
+(Ntt.) Bxbam 
+P 
+X 
+X 
+X 
+Euphorbia brachycera 
+Engelm. 
+P 
+X 
+Euphorbia dentata 
+Michx. 
+A 
+X 
+X 
+Evolvulus sericeus 
+Sw. 
+P 
+X 
+X 
+X 
+Frasera speciosa 
+Dogl. ex Griseb. 
+P 
+X 
+Froelichia gracilis 
+(Ntt.) Moq. 
+A 
+X 
+X 
+Gaura hexandra 
+Ortega 
+A 
+X 
+X 
+X 
+Gayophytum diffusum 
+Torr. & Gray 
+A 
+X 
+X 
+X 
+Geranium caespitosum 
+James 
+P 
+X 
+X 
+X 
+Hedeoma drummondii 
+Benth. 
+P 
+X 
+X 
+X 
+Hedeoma hyssopifolia 
+Gray 
+P 
+X 
+X 
+X 
+Helianthus annuus 
+L. 
+A 
+X 
+X 
+X 
+Heliomeris multiflora 
+Ntt. 
+P 
+X 
+X 
+X 
+Heterosperma pinnatum 
+Cav. 
+A 
+X 
+Heterotheca subaxillaris 
+(Lam.) Britt. & Rsby 
+A 
+X 
+X 
+X 
+Heterotheca villosa 
+(Prsh) Shinners 
+P 
+X 
+X 
+X 
+Hieracium fendleri 
+Schltz-Bip. 
+P 
+X 
+X 
+X 
+Houstonia wrightii 
+Gray 
+P 
+X 
+X 
+X 
+Hymenopappus filifolius 
+Hook. 
+P 
+X 
+X 
+X 
+Hymenopappus mexicanus 
+Gray 
+P 
+X 
+X 
+X 
+Hymenothrix wrightii 
+Gray 
+PB 
+X 
+X 
+X 
+Hymenoxys bigelovii 
+(Gray) Parker 
+P 
+X 
+X 
+X 
+Hymenoxys cooperi 
+(Gray) Cockerell 
+P 
+X 
+Hymenoxys hoopesii 
+(Gray) Bierner 
+P 
+X 
+Ipomoea costellata 
+Torr. 
+A 
+X 
+X 
+X 
+Ipomoea cristulata 
+Hallier f. 
+A 
+X 
+X 
+X 
+Ipomoea sp. 
+L. 
+X 
+X 
+X 
+Ipomoea plummerae 
+Gray 
+P 
+X 
+X 
+X 
+Ipomopsis aggregata 
+(Prsh) V. Grant 
+B 
+X 
+X 
+X 
+Ipomopsis multiflora 
+(Ntt.) V. Grant 
+P 
+X 
+X 
+X 
+Iris missouriensis 
+Ntt. 
+P 
+X 
+Lactuca serriola* 
+L. 
+P 
+X 
+X 
+X 
+Lactuca tatarica 
+(L.) C.A. Mey. 
+PB 
+X 
+X 
+Laennecia scheideana 
+(Less.) Nesom 
+A 
+X 
+X 
+X 
+Lappula occidentalis 
+(S. Wats.) Greene 
+AB 
+X 
+X 
+Lathyrus eucosmus 
+Btters & St. John 
+P 
+X 
+X 
+X 
+Lathyrus gaminifolius 
+(S. Wats.) White 
+P 
+X 
+Lathyrus sp. 
+L. 
+P 
+X 
+Lathyrus laetivirens 
+Greene ex Rydb. 
+P 
+X 
+X 
+Lathyrus lanszwertii var. 
+leucanthus 
+Kellogg 
+P 
+X 
+X 
+Lepidium densiflorum 
+Schrad. 
+A 
+X 
+X 
+X 
+Linum aristatum 
+Engelm. 
+A 
+X 
+
+100 
+ 
+Species name 
+Authority 
+Life 
+history 2004 2005 
+2011 
+Linum australe 
+Heller 
+A 
+X 
+Linum lewisii var. lewisii 
+Prsh 
+P 
+X 
+Linum neomexicanum 
+Greene 
+ABP 
+X 
+X 
+X 
+Lithospermum cobrense 
+Greene 
+P 
+X 
+X 
+Lithospermum sp. 
+L. 
+P 
+X 
+X 
+Lithospermum incisum 
+Lehm. 
+P 
+X 
+Lithospermum multiflorum 
+Torr. ex Gray 
+P 
+X 
+X 
+X 
+Lotus plebeius 
+(Brandeg.) Barneby 
+P 
+X 
+Lotus sp. 
+L. 
+P 
+X 
+Lotus wrightii 
+(Gray) Greene 
+P 
+X 
+X 
+X 
+Lupinus hillii 
+Greene 
+P 
+X 
+X 
+X 
+Lupinus kingii 
+S. Wats. 
+A 
+X 
+X 
+Machaeranthera canescens 
+(Prsh) Gray 
+P 
+X 
+X 
+Machaeranthera gracilis 
+(Ntt.) Shinners 
+A 
+X 
+X 
+X 
+Malva neglecta* 
+Wallr. 
+ABP 
+X 
+X 
+X 
+Medicago lupulina* 
+L. 
+P 
+X 
+X 
+X 
+Medicago sativa* 
+L. 
+P 
+X 
+X 
+Melilotus officinalis* 
+(L.) Lam. 
+ABP 
+X 
+X 
+X 
+Microsteris gracilis 
+(Hook.) Green 
+A 
+X 
+X 
+Mimulus rubellus 
+Gray 
+A 
+X 
+Mirabilis decipiens 
+(Standl.) Standl. 
+P 
+X 
+X 
+X 
+Mirabilis linearis 
+(Prsh) Heimerl. 
+P 
+X 
+X 
+X 
+Monarda pectinata 
+Ntt. 
+P 
+X 
+X 
+X 
+Monardella glauca 
+Greene 
+P 
+X 
+Nicotiana attenuata 
+Torr. ex S. Wats. 
+A 
+X 
+X 
+Noccaea montana 
+(L.) F.K. Mey.  
+P 
+X 
+X 
+X 
+Oenothera coronopifolia 
+Torr. & Gray 
+P 
+X 
+Oenothera elata 
+Knth 
+PB 
+X 
+X 
+Oenothera laciniata 
+Hill 
+AP 
+X 
+Oenothera sp. 
+L. 
+P 
+X 
+Oenothera pubescens 
+Willd. ex Spreng. 
+AP 
+X 
+X 
+Opuntia sp. 
+P. Mill. 
+P 
+X 
+X 
+X 
+Oreochrysum parryi 
+(Gray) Rydb. 
+P 
+X 
+Orobanche ludoviciana 
+Ntt. 
+A 
+X 
+Oxalis decaphylla 
+Knth 
+P 
+X 
+X 
+X 
+Oxalis sp. 
+L. 
+U 
+X 
+X 
+Packera multilobata 
+(Torr. & Gray ex Gray) W.A. 
+Weber & A. Löve 
+P 
+X 
+Packera neomexicana 
+(Gray) W.A. Weber & A. Löve 
+P 
+X 
+X 
+X 
+Pedicularis centranthera 
+Gray 
+P 
+X 
+X 
+X 
+Pennellia longifolia 
+(Benth.) Rollins 
+B 
+X 
+X 
+X 
+Penstemon barbatus 
+(Cav.) Roth 
+P 
+X 
+X 
+X 
+Penstemon linarioides 
+Gray 
+P 
+X 
+X 
+X 
+
+101 
+ 
+Species name 
+Authority 
+Life 
+history 2004 2005 
+2011 
+Penstemon pachyphyllus 
+Gray ex Rydb. 
+P 
+X 
+Penstemon palmeri 
+Gray 
+P 
+X 
+X 
+Penstemon sp. 
+Schmidel 
+P 
+X 
+Penstemon virgatus 
+Gray 
+P 
+X 
+X 
+X 
+Pericome caudata 
+Gray 
+P 
+X 
+Phacelia egena 
+(Greene ex Brand) Greene ex J.T. 
+Howell 
+P 
+X 
+Phacelia heterophylla 
+Prsh 
+PB 
+X 
+X 
+Phaseolus angustissimus 
+Gray 
+P 
+X 
+X 
+X 
+Phaseolus grayanus 
+Woot. & Stadl. 
+P 
+X 
+X 
+Phemeranthus parviflorus 
+(Ntt.) Kiger 
+P 
+X 
+Phemeranthus confertiflorus 
+(Greene) Hershkovitz 
+P 
+X 
+X 
+Phlox longifolia 
+Ntt. 
+P 
+X 
+X 
+X 
+Phlox speciosa 
+Prsh 
+P 
+X 
+X 
+Physalis hederifolia 
+Gray 
+P 
+X 
+X 
+X 
+Plantago argyraea 
+Morris 
+A 
+X 
+X 
+X 
+Plantago patagonica 
+Jacq. 
+A 
+X 
+X 
+Polygala obscura 
+Benth. 
+P 
+X 
+Polygonum aviculare* 
+L. 
+AP 
+X 
+X 
+X 
+Polygonum convolvulus* 
+L. 
+A 
+X 
+Polygonum douglasii 
+Greene 
+A 
+X 
+X 
+X 
+Polygonum lapathifolium 
+L. 
+A 
+X 
+Portulaca halimoides 
+L. 
+A 
+X 
+Portulaca oleracea 
+L. 
+A 
+X 
+X 
+X 
+Potentilla crinite 
+Gray 
+P 
+X 
+X 
+X 
+Potentilla sp. 
+L. 
+P 
+X 
+Potentilla subviscosa 
+Greene 
+P 
+X 
+Potentilla thurberi 
+Gray 
+P 
+X 
+Pseudocymopterus 
+montanus 
+(Gray) Colt. & Rose 
+P 
+X 
+X 
+X 
+Pseudognaphalium macounii 
+(Greene) Kartesz 
+AB 
+X 
+X 
+X 
+Psoralidium lanceolatum 
+(Prsh) Rydb. 
+P 
+X 
+X 
+X 
+Psoralidium tenuiflorum 
+(Prsh) Rydb. 
+P 
+X 
+X 
+X 
+Pyrrocoma crocea 
+(Gray) Greene 
+P 
+X 
+X 
+Rorippa sylvestris* 
+(L.) Bess. 
+P 
+X 
+X 
+Rudbeckia hirta 
+L. 
+ABP 
+X 
+Rumex acetosella* 
+L. 
+P 
+X 
+X 
+X 
+Rumex crispus* 
+L. 
+P 
+X 
+X 
+X 
+Salsola tragus* 
+L. 
+A 
+X 
+X 
+Sanguisorba minor* 
+Scop. 
+P 
+X 
+X 
+Saxifraga rhomboidea 
+Greene 
+P 
+X 
+X 
+Schkuhria mulitflora 
+Hook. & Arn. 
+A 
+X 
+Schoenocrambe linearifolia 
+(Gray) Rollins 
+P 
+X 
+X 
+X 
+
+102 
+ 
+Species name 
+Authority 
+Life 
+history 2004 2005 
+2011 
+Senecio eremophilus 
+Richards 
+P 
+X 
+Senecio flaccidus 
+Less. 
+P 
+X 
+X 
+X 
+Senecio spartioides 
+Torr. & Gray 
+P 
+X 
+Senecio wootonii 
+Greene 
+P 
+X 
+Silene antirrhina 
+L. 
+A 
+X 
+X 
+X 
+Silene lacinata 
+Cav. 
+P 
+X 
+X 
+X 
+Sisymbrium altissimum* 
+L. 
+AB 
+X 
+X 
+Solanum americanum 
+P. Mill. 
+P 
+X 
+X 
+Solidago sp. 
+L. 
+P 
+X 
+X 
+X 
+Sonchus sp.* 
+L. 
+P 
+X 
+Sphaeralcea sp. 
+St.-Hil. 
+P 
+X 
+X 
+Sphaeralcea coccinea 
+(Ntt.) Rydb. 
+P 
+X 
+Sphaeralcea fendleri 
+Gray 
+P 
+X 
+X 
+X 
+Sphaeralcea parviflora 
+A. Nels. 
+P 
+X 
+X 
+Symphyotrichum falcatum 
+(Lindl.) Nesom. 
+P 
+X 
+X 
+X 
+Tagetes micrantha 
+Cav. 
+A 
+X 
+X 
+Taraxacum officinale* 
+G.H.Weber ex Wiggers 
+P 
+X 
+X 
+X 
+Tetraneuris acaulis 
+(Prsh) Greene 
+P 
+X 
+Tetraneuris ivesiana 
+Greene 
+P 
+X 
+X 
+X 
+Thalictrum fendleri 
+Engelm. ex Gray 
+P 
+X 
+X 
+Thelesperma   
+     megapotamicum 
+(Spreng.) Kntze 
+P 
+X 
+X 
+X 
+Thermopsis montana var.  
+     montana 
+Ntt. 
+P 
+X 
+X 
+X 
+Townsendia exscapa 
+(Richards.) Porter 
+P 
+X 
+X 
+X 
+Tradescantia pinetorum 
+Greene 
+P 
+X 
+X 
+X 
+Tragia ramosa 
+Torr. 
+P 
+X 
+X 
+X 
+Tragopogon dubius* 
+Scop. 
+AB 
+X 
+X 
+X 
+Trifolium sp. 
+L. 
+P 
+X 
+Verbascum thapsus* 
+L. 
+B 
+X 
+X 
+X 
+Verbena bracteata 
+Cav. ex Lag. & Rodr. 
+P 
+X 
+X 
+X 
+Vicia Americana 
+Mhl. ex Willd. 
+P 
+X 
+X 
+X 
+Vicia pulchella 
+Knth 
+P 
+X 
+X 
+X 
+Wyethia arizonica 
+Gray 
+P 
+X 
+X 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+Graminoids 
+ 
+ 
+ 
+ 
+ 
+Achnatherum hymenoides 
+(Roemer & J.A. Schltes) 
+Barkworth 
+P 
+X 
+Achnatherum nelsonii 
+(Scribn.) Barkworth 
+P 
+X 
+Agropyron desertorum* 
+(Fisch. ex Link) J.A. Schltes 
+P 
+X 
+Agrostis sp. 
+L. 
+U 
+X 
+Agrostis scabra 
+Willd. 
+P 
+X 
+X 
+X 
+Andropogon gerardii 
+Vitman 
+P 
+X 
+
+103 
+ 
+Species name 
+Authority 
+Life 
+history 2004 2005 
+2011 
+Aristida arizonica 
+Vasey 
+P 
+X 
+X 
+X 
+Aristida purpurea 
+Ntt. 
+P 
+X 
+X 
+Aristida schiedeana var. 
+orcuttiana 
+Trin. & Rpr. 
+P 
+X 
+X 
+X 
+Avena fatua* 
+L. 
+A 
+X 
+Blepharoneuron tricholepis 
+(Torr.) Nash 
+P 
+X 
+X 
+X 
+Bouteloua curtipendula 
+(Michx.) Torr. 
+P 
+X 
+X 
+X 
+Bouteloua eriopoda 
+(Torr.) Torr. 
+P 
+X 
+Bouteloua gracilis 
+(Willd. ex Knth) Lag. ex Griffiths 
+P 
+X 
+X 
+X 
+Bouteloua hirsuta 
+Lag. 
+P 
+X 
+X 
+Bromus carinatus 
+Hook. & Arn. 
+P 
+X 
+X 
+X 
+Bromus ciliates 
+L. 
+P 
+X 
+X 
+Bromus inermis* 
+Leyss. 
+P 
+X 
+X 
+X 
+Bromus japonicus* 
+Thnb. 
+A 
+X 
+X 
+X 
+Bromus racemosus* 
+L. 
+A 
+X 
+Bromus tectorum* 
+L. 
+A 
+X 
+X 
+X 
+Bulbostylis funckii 
+(Sted.) C.B. Clarke 
+A 
+X 
+Carex sp. 
+L. 
+P 
+X 
+X 
+X 
+Carex geophila 
+Mackenzie 
+P 
+X 
+Cyperus sp. 
+L. 
+P 
+X 
+X 
+Cyperus fendlerianus 
+Boeckl. 
+P 
+X 
+X 
+X 
+Dactylis glomerata* 
+L. 
+P 
+X 
+X 
+X 
+Dichanthelium linearifolium 
+(Scribn. ex Nash) Gold 
+P 
+X 
+Dichanthelium oligosanthes 
+(J. A. Schltes) Gold 
+P 
+X 
+X 
+Echinochloa crus-galli* 
+(L.) Beav. 
+A 
+X 
+Elymus elymoides 
+(Raf.) Swezey 
+P 
+X 
+X 
+X 
+Elymus glaucus 
+Bckl. 
+P 
+X 
+Elymus trachycaulus 
+(Link) Gold ex Shinners 
+P 
+X 
+X 
+X 
+Eragrostis curvula* 
+(Schrad.) Nees 
+P 
+X 
+Eragrostis mexicana 
+(Hornem.) Link 
+A 
+X 
+X 
+Eragrostis pectinacea var. 
+pectinacea 
+(Michx.) Nees ex Sted 
+A 
+X 
+X 
+X 
+Festuca arizonica 
+Vasey 
+P 
+X 
+Festuca ovina 
+L. 
+P 
+X 
+Festuca sororia 
+Piper 
+P 
+X 
+Festuca sp. 
+L. 
+P 
+X 
+Hesperostipa comata 
+(Trin. & Rpr.) Barkworth 
+P 
+X 
+X 
+X 
+Hordeum jubatum 
+L. 
+P 
+X 
+X 
+X 
+Juncus bufonius 
+L. 
+A 
+X 
+Juncus confuses 
+Coville 
+P 
+X 
+X 
+Juncus mexicanus 
+Willd. ex J.A. & J.H. Schltes 
+P 
+X 
+Juncus tenuis 
+Willd. 
+P 
+X 
+Koeleria macrantha 
+(Ledeb.) J.A. Schltes 
+P 
+X 
+X 
+X 
+
+104 
+ 
+Species name 
+Authority 
+Life 
+history 2004 2005 
+2011 
+Lolium perenne* 
+L. 
+AP 
+X 
+X 
+Lycurus phleoides 
+Knth 
+P 
+X 
+Lycurus setosus 
+(Ntt.) C.G. Reeder 
+P 
+X 
+Monroa squarrosa 
+(Ntt.) Torr. 
+A 
+X 
+Muhlenbergia longiligula 
+A.S. Hitchc. 
+P 
+X 
+X 
+X 
+Muhlenbergia minutissima 
+(Sted.) Swallen 
+A 
+X 
+X 
+X 
+Muhlenbergia montana 
+(Ntt.) A.S. Hitchc. 
+P 
+X 
+X 
+X 
+Muhlenbergia rigens 
+(Benth.) A.S. Hitchc. 
+P 
+X 
+X 
+X 
+Muhlenbergia virescens 
+(Knth) Knth 
+P 
+X 
+X 
+X 
+Muhlenbergia wrightii 
+Vasey ex Colt. 
+P 
+X 
+X 
+X 
+Nassella viridula 
+(Trin.) Barkworth 
+P 
+X 
+Panicum bulbosum 
+Knth 
+P 
+X 
+X 
+X 
+Panicum virgatum 
+L. 
+P 
+X 
+Pascopyrum smithii 
+(Rydb.) A. Löve 
+P 
+X 
+X 
+X 
+Piptochaetium pringlei 
+(Beal) Parodi 
+P 
+X 
+X 
+X 
+Pleuraphis jamesii 
+Torr. 
+P 
+X 
+Poa compressa* 
+L. 
+P 
+X 
+X 
+Poa fendleriana 
+(Sted.) Vasey 
+P 
+X 
+X 
+X 
+Poa pratensis* 
+L. 
+P 
+X 
+X 
+X 
+Schedonorus pratensis* 
+(Hds.) Beav. 
+P 
+X 
+Schizachyrium scoparium 
+(Michx.) Nash 
+P 
+X 
+X 
+X 
+Sorghastrum nutans 
+(L.) Nash 
+P 
+X 
+X 
+Sporobolus cryptandrus 
+(Torr.) Gray 
+P 
+X 
+X 
+X 
+Sporobolus interruptus 
+Vasey 
+P 
+X 
+X 
+X 
+Triticum aestivum* 
+L. 
+A 
+X 
+X 
+Vulpia octoflora 
+(Walt.) Rydb. 
+A 
+X 
+X 
+X 
+ 
+ 
+ 
+ 
+
+105 
+ 
+Appendix ii. Species list for 2010 measurements on White Mountain Apache Tribal lands. 
+Exotic species are asterisked. 
+         Species name 
+Authority 
+Trees 
+ 
+ 
+Abies concolor 
+(Gord. & Glend.) Lindl. ex Hildebr. 
+ 
+Frangula californica 
+(Eschsch) A. Gray 
+ 
+Juglans major 
+(Torr.) Heller 
+ 
+Juniperus deppeana 
+Steud. 
+ 
+Pinus leiophylla var. chihuahuana 
+Schiede & Deppe 
+ 
+Pinus ponderosa 
+P.& C. Lawson 
+ 
+Pseudotsuga menziesii 
+(Mirbel) Franco 
+ 
+Quercus gambelii 
+Nutt. 
+ 
+Quercus sp. 
+L. 
+ 
+Rhus glabra 
+L. 
+ 
+Robinia neomexicana 
+Gray 
+ 
+ 
+Shrubs 
+ 
+ 
+Amelanchier utahensis 
+Koehne 
+ 
+Arctostaphylos  pringlei 
+Parry 
+ 
+Arctostaphylos pungens 
+Kunth 
+ 
+Baccharis pteronioides 
+DC. 
+ 
+Carphochaete bigelovii 
+Gray 
+ 
+Ceanothus fendleri 
+Gray 
+ 
+Cercocarpus montanus 
+Raf. 
+ 
+Garrya flavescens 
+S. Wats. 
+ 
+Lonicera arizonica 
+Rehd. 
+ 
+Mahonia repens 
+(Lindl.) G. Don 
+ 
+Nolina microcarpa 
+S. Wats. 
+ 
+Paxistima myrsinites 
+(Pursh) Raf. 
+ 
+Purshia tridentata 
+(Pursh) DC. 
+ 
+Quercus grisea 
+Liebm. 
+ 
+Rhus trilobata 
+Nutt. 
+ 
+Rosa woodsii 
+Lindl. 
+ 
+Rubus idaeus 
+L. 
+ 
+Rubus parviflorus 
+Nutt. 
+ 
+Symphoricarpos oreophilus 
+Gray 
+ 
+Tetradymia sp. 
+DC. 
+ 
+Yucca angustissima 
+Engelm. ex Trel. 
+ 
+Yucca baccata 
+Torr. 
+Forbs 
+  
+ 
+Acalypha neomexicanum 
+Mull. Arg. 
+ 
+Achillea millefolium 
+L. 
+ 
+Ageratina herbacea 
+(Gray) King & H.E. Robins. 
+
+106 
+ 
+ 
+         Species name 
+Authority 
+ 
+Ageratina sp. 
+  
+ 
+Amaranthus powellii 
+S. Wats. 
+ 
+Amaranthus sp. 
+L. 
+ 
+Ambrosia acanthicarpa 
+Hook. 
+ 
+Ambrosia psilostachya 
+DC. 
+ 
+Anaphalis margaritacea 
+(L.) Benth. 
+ 
+Antennaria marginata 
+Greene 
+ 
+Antennaria parviflora 
+Nutt. 
+ 
+Apocynum androsaemifolium 
+L. 
+ 
+Arabis sp. 
+L. 
+ 
+Arenaria lanuginosa 
+(Michx.) Rohrb. 
+ 
+Arenaria lanuginosa ssp. saxosa 
+(Michx.) Rohrb. 
+ 
+Argemone munita 
+Dur. & Hilg. 
+ 
+Artemisia capestris 
+L. 
+ 
+Artemisia carruthii 
+Wood ex Carruth. 
+ 
+Artemisia ludoviciana 
+(Nutt.) Keck 
+ 
+Asclepias asperula 
+(Dcne.) Woods. 
+ 
+Asclepias sp. 
+L. 
+ 
+Asclepias tuberosa 
+L. 
+ 
+Astragalus fucatus 
+Barneby 
+ 
+Astragalus hallii 
+Gray 
+ 
+Astragalus sp. 
+L. 
+ 
+Astragalus tephrodes 
+Gray 
+ 
+Bahia dissecta 
+(Gray) Britt. 
+ 
+Brickellia betonicifolia 
+Gray 
+ 
+Brickellia eupatorioides var. 
+chlorolepis 
+(L.) Shinners 
+ 
+Brickellia grandiflora 
+(Hook.) Nutt. 
+ 
+Calliandra humilis 
+Benth. 
+ 
+Calliandra humilis var. humilis 
+Benth. 
+ 
+Calliandra humilis var. recitulata 
+Benth. 
+ 
+Castilleja miniata 
+Dougl. ex Hook. 
+ 
+Castilleja sp. 
+Mutis ex L. f. 
+ 
+Chaetopappa ericoides 
+(Torr.) Nesom 
+ 
+Chamaesyce revoluta 
+(Engelm.) Small 
+ 
+Chamaesyce serpyllifloia 
+(Pers.) Small 
+ 
+Chenopodium graveolens 
+Willd. 
+ 
+Chenopodium sp. 
+L. 
+ 
+Cirsium arizonicum 
+(Gray) Petrak 
+ 
+Cirsium vulgare* 
+(Savi) Ten 
+ 
+Cirsium wheeleri 
+(Gray) Petrak 
+ 
+Collinsia parviflora 
+Lindl. 
+
+107 
+ 
+ 
+         Species name 
+Authority 
+ 
+Cologania angustifolia 
+Kunth 
+ 
+Comandra umbellata 
+(L.) Nutt. 
+ 
+Commelina dianthifolia 
+Delile 
+ 
+Conyza canadensis 
+(L.) Cronq. 
+ 
+Cordylanthus wrightii 
+Gray 
+ 
+Cylindropuntia sp. 
+  
+ 
+Dalea albiflora 
+Gray 
+ 
+Dalea candida 
+Michx. ex Willd. 
+ 
+Dalea sp. 
+L. 
+ 
+Desmanthus cooleyi 
+(Eat.) Trel. 
+ 
+Desmodium arizonicum 
+S. Watson 
+ 
+Desmodium grahamii 
+Gray 
+ 
+Drymaria leptophylla 
+(Cham. & Schlecht.) Fenzl ex Rohrb. 
+ 
+Dyssodia papposa 
+(Vent.) A.S. Hitchc. 
+ 
+Echeandia flavescens 
+(J.A. & J.H. Schultes) Cruden 
+ 
+Epilobium brachycarpum 
+K. Presl. 
+ 
+Epilobium ciliatum ssp. ciliatum 
+Raf. 
+ 
+Epilobium sp. 
+  
+ 
+Equisetum laevigatum 
+A. Braun 
+ 
+Erigeron colomexicanus 
+A. Nels. 
+ 
+Erigeron divergens 
+Torr. & Gray 
+ 
+Erigeron flagellaris 
+Gray 
+ 
+Erigeron formosissimus 
+Greene 
+ 
+Erigeron neomexicanus 
+Gray 
+ 
+Erigeron speciosus 
+(Lindl.) DC. 
+ 
+Eriogonum alatum 
+Torr. 
+ 
+Eriogonum racemosum 
+Nutt. 
+ 
+Erodium cicutarium* 
+(L.) L'Hér. ex Ait. 
+ 
+Escobaria vivipara 
+(Nutt.) Buxbaum 
+ 
+Euphorbia sp. 
+L. 
+ 
+Fragaria vesca 
+L. 
+ 
+Frasera speciosa 
+Dougl. ex Griseb. 
+ 
+Galium aparine 
+L. 
+ 
+Galium wrightii 
+Gray 
+ 
+Gayophytum diffusum 
+Torr. & Gray 
+ 
+Geranium sp. 
+L. 
+ 
+Geranium caespitosum 
+James 
+ 
+Glandularia gooddingii 
+(Briq.) Solbrig 
+ 
+Hedeoma drummondii 
+Benth. 
+ 
+Hedeoma hyssopifolia 
+Gray 
+ 
+Heliomeris multiflora 
+Nutt. 
+ 
+Heterotheca villosa 
+(Pursh) Shinners 
+
+108 
+ 
+ 
+         Species name 
+Authority 
+ 
+Hieracium fendleri 
+Schultz-Bip. 
+ 
+Houstonia wrightii 
+Gray 
+ 
+Hymenopappus filifolius 
+Hook. 
+ 
+Hymenopappus mexicanus 
+Gray 
+ 
+Hymenothrix wrightii 
+Gray 
+ 
+Hymenoxys bigelovii 
+(Gray) Parker 
+ 
+Ipomoea costellata 
+Torr. 
+ 
+Ipomoea plummerae 
+Gray 
+ 
+Ipomopsis aggregata 
+(Pursh) V. Grant 
+ 
+Ipomopsis sp. 
+Michx. 
+ 
+Ipomopsis multiflora 
+(Nutt.) V. Grant 
+ 
+Iris missouriensis 
+Nutt. 
+ 
+Lactuca serriola* 
+L. 
+ 
+Lactuca tatarica 
+(L.) C.A. Mey. 
+ 
+Laennecia schiedeana 
+(Less.) Nesom 
+ 
+Lathyrus sp. 
+L. 
+ 
+Lathyrus lanszwertii 
+Kellogg 
+ 
+Lathyrus lanszwertii var. leucanthus 
+Kellogg 
+ 
+Lathyrus laetivirens 
+Greene ex Rybd. 
+ 
+Leibnitzia lyrata 
+(D. Don) G.L. Nesom 
+ 
+Lepidium densiflorum 
+Schrad. 
+ 
+Linum lewisii 
+Pursh 
+ 
+Linum neomexicanum 
+Greene 
+ 
+Linum sp.  
+L. 
+ 
+Lithospermum cobrense 
+Greene 
+ 
+Lithospermum sp.  
+L. 
+ 
+Lithospermum incisum 
+Lehm. 
+ 
+Lithospermum multiflorum 
+Torr. ex Gray 
+ 
+Lotus sp. 
+L. 
+ 
+Lotus wrightii 
+(Gray) Greene 
+ 
+Lupinus hillii 
+Greene 
+ 
+Machaeranthera canescens 
+(Pursh) Gray 
+ 
+Machaeranthera gracilis 
+(Nutt.) Shinners 
+ 
+Malaxis soulei 
+L.O. Williams 
+ 
+Malva neglecta* 
+Wallr. 
+ 
+Medicago lupulina* 
+L. 
+ 
+Melilotus officinalis* 
+(L.) Lam. 
+ 
+Microsteris gracilis 
+(Hook.) Greene 
+ 
+Mirabilis decipiends 
+(Standl.) Standl. 
+ 
+Mirabilis linearis 
+(Pursh) Heimerl. 
+ 
+Mirabilis multiflora 
+(Torr.) Gray 
+ 
+ 
+ 
+
+109 
+ 
+ 
+         Species name 
+Authority 
+ 
+Monarda fistulosa ssp. fistulosa var. 
+menthifolia 
+L. 
+ 
+Monotropa hypopithys 
+L. 
+ 
+Nama dichotomum 
+(Ruiz & Pavón) Choisy 
+ 
+Navarretia sp. 
+Ruiz & Pav. 
+ 
+Noccaea montana 
+(L.) F.K. Mey.  
+ 
+Oenothera albicaulis 
+Pursh 
+ 
+Oenothera coronopifolia 
+Torr. & Gray 
+ 
+Oenothera elata 
+Kunth 
+ 
+Oenothera pubescens 
+Willd. ex Spreng. 
+ 
+Onopordum acanthium* 
+L. 
+ 
+Opuntia sp. 
+P. Mill. 
+ 
+Oxalis sp. 
+L. 
+ 
+Packera multilobata 
+(Torr. & Gray ex Gray) W.A. Weber & A. Löve 
+ 
+Packera neomexicana 
+(Gray) W.A. Weber & A. Löve 
+ 
+Pedicularis centranthera 
+Gray 
+ 
+Pennellia longifolia 
+(Benth.) Rollins 
+ 
+Penstemon barbatus 
+(Cav.) Roth 
+ 
+Penstemon linarioides 
+Gray 
+ 
+Penstemon pachyphyllus 
+Gray ex Rydb. 
+ 
+Penstemon sp. 
+Schmidel 
+ 
+Penstemon virgatus 
+Gray 
+ 
+Phacelia sp. 
+Juss. 
+ 
+Phacelia egena 
+(Greene ex Brand) Greene ex J.T. Howell 
+ 
+Phacelia heterophylla 
+Pursh 
+ 
+Phaseolus angustissimus 
+Gray 
+ 
+Phaseolus grayanus 
+Woot. & Stadl. 
+ 
+Physalis hederifolia 
+Gray 
+ 
+Plantago argyraea 
+Morris 
+ 
+Polygala alba 
+Nutt. 
+ 
+Polygala obscura 
+Benth. 
+ 
+Polygonum aviculare* 
+L. 
+ 
+Polygonum douglasii 
+Greene 
+ 
+Portulaca oleracea 
+L. 
+ 
+Potentilla sp. 
+L. 
+ 
+Potentilla hippiana 
+Lehm. 
+ 
+Potentilla norvegica 
+L. 
+ 
+Potentilla thurberi 
+Gray 
+ 
+Prunella vulgaris 
+L. 
+ 
+Pseudocymopterus montanus 
+(Gray) Coult. & Rose 
+ 
+Pseudognaphalium canescens 
+(DC.) W.A. Weber 
+ 
+Pseudognaphalium macounii 
+(Greene) Kartesz 
+
+110 
+ 
+ 
+         Species name 
+Authority 
+ 
+Psoralidium tenuiflorum 
+(Pursh) Rydb. 
+ 
+Pteridium aquilinum 
+(L.) Kuhn 
+ 
+Pterospora andomedea 
+Nutt. 
+ 
+Rudbeckia hirta 
+L. 
+ 
+Rumex acetosella* 
+L. 
+ 
+Rumex crispus* 
+L. 
+ 
+Sanguisorba minor* 
+Scop. 
+ 
+Saxifraga rhomboidea 
+Greene 
+ 
+Schoenocrambe linearifolia 
+(Gray) Rollins 
+ 
+Senecio wootonii 
+Greene 
+ 
+Silene lacinata 
+Cav. 
+ 
+Solanum americanum 
+P. Mill. 
+ 
+Solidago sp. 
+L. 
+ 
+Solidago missouriensis 
+Nutt. 
+ 
+Solidago velutina 
+DC. 
+ 
+Sphaeralcea sp. 
+St.-Hil. 
+ 
+Stevia plummerae 
+Gray 
+ 
+Stevia serrate 
+Cav. 
+ 
+Symphyotrichum falcatum 
+(Lindl.) Nesom. 
+ 
+Taraxacum officinale* 
+G.H.Weber ex Wiggers 
+ 
+Tetraneuris acaulis 
+(Pursh) Greene 
+ 
+Tetraneuris argentea 
+(Gray) Greene 
+ 
+Tetraneuris ivesiana 
+Greene 
+ 
+Thalictrum fendleri 
+Engelm. ex Gray 
+ 
+Thermopsis montana var. montana  
+Nutt. 
+ 
+Townsendia exscapa 
+(Richards.) Porter 
+ 
+Toxicodendron rydbergii 
+(Small ex Rydb.) Greene 
+ 
+Tradescantia pinetorum 
+Greene 
+ 
+Tragia ramosa 
+Torr. 
+ 
+Tragopogon dubius* 
+Scop. 
+ 
+Trifolium sp. 
+L. 
+ 
+Valeriana arizonica 
+Gray 
+ 
+Verbascum thapsus* 
+L. 
+ 
+Verbena bracteata 
+Cav. ex Lag. & Rodr. 
+ 
+Veronica anagallis-aquatica 
+L. 
+ 
+Vicia americana 
+Muhl. ex Willd. 
+ 
+Vicia pulchella 
+Kunth 
+ 
+Vitis arizonica 
+Engelm. 
+ 
+Wyethia arizonica 
+Gray 
+ 
+ 
+Graminoids 
+ 
+ 
+Achnatherum nelsonii 
+(Scribn.) Barkworth 
+
+111 
+ 
+ 
+         Species name 
+Authority 
+ 
+Agropyron desertorum* 
+(Fisch. ex Link) J.A. Schultes 
+ 
+Agrostis scabra 
+Willd. 
+ 
+Aristida arizonica 
+Vasey 
+ 
+Aristida purpurea 
+Nutt. 
+ 
+Aristida schiedeana var. orcuttiana 
+Trin. & Rupr. 
+ 
+Blepharoneuron tricholepis 
+(Torr.) Nash 
+ 
+Bouteloua curtipendula 
+(Michx.) Torr. 
+ 
+Bouteloua gracilis 
+(Willd. ex Kunth) Lag. ex Griffiths 
+ 
+Bouteloua sp. 
+Lag. 
+ 
+Bromus carinatus 
+Hook. & Arn. 
+ 
+Bromus ciliatus 
+L. 
+ 
+Bromus japonicus* 
+Thunb. 
+ 
+Bromus tectorum* 
+L. 
+ 
+Carex sp. 
+L. 
+ 
+Carex geophila 
+Mackenzie 
+ 
+Carex leucodonta 
+T. Holm 
+ 
+Cyperus sp. 
+L. 
+ 
+Cyperus fendlerianus 
+Boeckl. 
+ 
+Cyperus niger 
+Ruiz & Pav. 
+ 
+Dactylis glomerata* 
+L. 
+ 
+Danthonia californica 
+Boland. 
+ 
+Dichanthelium oligosanthes 
+(J. A. Schultes) Gould 
+ 
+Echinochloa crus-galli* 
+(L.) Beauv. 
+ 
+Eleocharis macrostachya 
+Britton. 
+ 
+Elymus elymoides 
+(Raf.) Swezey 
+ 
+Elymus trachycaulus 
+(Link) Gould ex Shinners 
+ 
+Eragrostis curvula* 
+(Schrad.) Nees 
+ 
+Eragrostis sp. 
+von Wolf 
+ 
+Festuca arizonica 
+Vasey 
+ 
+Hesperostipa comata 
+(Trin. & Rupr.) Barkworth 
+ 
+Juncus ensifolius 
+Wikstr. 
+ 
+Koeleria macrantha 
+(Ledeb.) J.A. Schultes 
+ 
+Lycurus phleoides 
+Kunth 
+ 
+Muhlenbergia sp. 
+Schreb. 
+ 
+Muhlenbergia longiligula 
+A.S. Hitchc. 
+ 
+Muhlenbergia minutissima 
+(Steud.) Swallen 
+ 
+Muhlenbergia montana 
+(Nutt.) A.S. Hitchc. 
+ 
+Muhlenbergia rigens 
+(Benth.) A.S. Hitchc. 
+ 
+Muhlenbergia virescens 
+(Kunth) Kunth 
+ 
+Nassella viridula 
+(Trin.) Barkworth 
+ 
+Pancium sp. 
+L. 
+ 
+Panicum bulbosum 
+Kunth 
+
+112 
+ 
+ 
+         Species name 
+Authority 
+ 
+Panicum virgatum 
+L. 
+ 
+Pascopyrum smithii 
+(Rydb.) A. Löve 
+ 
+Piptochaetium pringlei 
+(Beal) Parodi 
+ 
+Poa compressa* 
+L. 
+ 
+Poa fendleriana 
+(Steud.) Vasey 
+ 
+Poa pratensis* 
+L. 
+ 
+Schizachyrium scoparium 
+(Michx.) Nash 
+ 
+Setaria viridis* 
+(L.) Beauv. 
+ 
+Sporobolus cryptandrus 
+(Torr.) Gray 
+ 
+Sporobolus interruptus 
+Vasey 
+ 
+Sporobolus sp. 
+R. Br. 
+ 
+ 
+ 
+ 

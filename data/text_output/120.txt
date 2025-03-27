@@ -1,0 +1,1347 @@
+I 
+for n r 
+01"'1 
+e c 
+r......... ·~, ..· had edu 
+n
+n 
+for r ' 
+r 
+1I Po 
+"dunlO 205. cc... '-2. to -'-'Iy 2007 
+ISSH 0304-3800 
+il e 
+ECOLOGICAL  
+MODELLING  
+An International lournal on 
+ECOlOGICAL MODELLING AND 
+SYSTEMS ECOLOGY 
+Editor-in-chief 
+SYen&ikJ~ 
+hi 
+icle 
+a originally published In a Journal publi 
+ed by  
+Is vier d o th att 
+h d c 
+Y s prOVI ed 
+Is vier for he  
+u r 
+oer eut and or t e be ef 
+0 
+h 
+uthor 
+i stuuno 1 or  
+1 11-
+mm rcral research n educa lanai use mcruoin 
+WI 
+ou 
+Iimitation u e In ms rue Ion at your institution sendln 
+It 0 speci I 
+II 
+9 J S hal you know and prnvi ing a co v to your ins I U Ion s 
+drrn rstra 
+r 
+II other rses reproduction and dl tribution mctudinq without 
+II Ita I '1 commercial reprints 
+elling r ticen 1119 copies or il 
+S 
+o 
+CJ 
+111 
+on open ant I 
+SI e. you pers nal 0 
+nst 
+Ion 
+webst e 
+epositot y. ar crotubi ed. For excep Ion 
+p rrni sro 
+rnav b 
+'ought lor sucl use tnrouqr ElseVier s permissions rte a 
+ww.elsevi r corn locate pe mrssionusematen I 
+
+EC OL O GICAL M ODELLING 205 ( 2 0 0 7) 23'-240 
+available at www .sciencedirec!.com 
+-; .... , 
+-.. cienceDirect 
+jou rn a I h om e p a ge : www .elsevier .comlloca te/ecol model 
+Abiotic and biotic factors explain independent gradients of 
+plant community composition in ponderosa pine forests 
+Daniel C. Laughlina,*, Scott R. Abella b 
+a Ecological Restoration Institute, Northem Arizona University, P.o. Box 15017, Flagstaff, AZ 86011, USA 
+b Public Lands Institute and School oj Life Sciences, University oj Nevada, Las Vegas, 4505 South Maryland Parl1way, Las Vegas, NV 
+89154, USA 
+ARTICLE INFO 
+ABSTRACT 
+Article history: 
+Received 20 June 2006 
+Received in revised form 
+12 February 2007 
+Accepted 20 February 2007 
+Published on line 29 March 2007 
+Keywords: 
+Structural equation modeling (SEM) 
+Path analysis 
+Nitrogen 
+Organic matter 
+Elevation 
+Abiotic filter 
+Biotic filter 
+Disturbance 
+Soil texture 
+Composite variable 
+Multivariate model 
+General multivariate models have appeal when analyzing ecological systems because they 
+have the potential to shed light on the relative importance of multifaceted factors. We 
+hypothesized that plant community composition is a function of the interactions among 
+three general constructs: abiotic and biotic factors and disturbance history. We sampled veg­
+etation and soils on 75 randomly located 0.05 ha plots across a broad soil gradient within a 
+110,000 ha ponderosa pine forest landscape in northern Arizona to evaluate this hypothesis. 
+The variation in abundances of 271 understory plant species was reduced to two orthog­
+onal axes using non-metric multidimensional scaling. We evaluated the relationships 
+between ordination results and environmental conditions using two types of structural 
+equation models. 'Specific' models provided a det ailed perspective of hypothesized rela ­
+tionships among observed vari ables. A 'general' model was evaluated to address the general 
+hypothesis stated above. The general model employed composite variables, which specify 
+the combined effects of multiple factors on a response, in order to evaluate the relative 
+importance of the three theoretical constructs. 
+The results of the final specific model suggested that organic mailer and nitrogen 
+explained unique variation in composition, but the 'total effects' of organic matter were 
+not significant due to offsetting direct and indirect pathways. Soil texture and pH also con­
+strained where m any plant species occurred. Elevation was a strong determinant of species 
+distributions, and its effects could be propagated through a network of processes involving 
+soil mineral and organic properties. Liller depth explained unique variation in community 
+com position, suggesting that plant species differ in their ability to colonize sites with differ­
+ent litter depths independent of the density of pine trees. Composition als o differed under 
+varying densities of pine trees since species vary in their tolerance of a competitive over­
+story. Finally, heavy grazing tended to favor the abundance of non-palatable species in the 
+community. 
+The results of the general model provided new insight into the underlying structu re of 
+independent plant community gradients in ponderosa pine forests. The model suggested 
+that abiotic factors generated one gradient in community composition, whereas biotic fac ­
+tors, and to a lesser degree, disturbance history, generated a second independent gradient 
+in community composition. Future evaluations of this composition model across a diversity 
+of ecosystems could determine the generality and utility of this multivariate hypothesis. 
+© 2007 Elsevier BV. All rights reserved. 
+• Corresponding author. Tel.: +1 928 523 5919 ; fax: +1 928 523 0296. 
+E-mail address : daniel.laughlinwnau.edu (D.C. Laughlin). 
+0304-3800/$ - see front matter © 2007 Elsevier B.Y.All rights reserved. 
+doi:10. 1016/j .ecolmodeI.2007.02.018 
+
+232 
+ECO LO GI CAL M ODELLIN G 2 05 (2 0 07) 23 1- 240 
+1. 
+Introduction 
+A fundamental interest in community ecology is to under­
+stand the main drivers of community composition. Debate 
+over the existence and importance of assembly rules that 
+determine the composition of natural communities is decades 
+old (Diamond. J975; Stone el al., 1996; Booth and Larson, 1999; 
+Sim berlotf et al., 1999), and much progress has been made 
+(Weiher and Keddy, 1999b). It is generally agreed that both 
+abiotic factors (e.g., elevation, soil texture) and biotic factors 
+(e.g., shading, herbivory, interspecific competition) determine 
+which species from the regional species pool can exist in a 
+com munity (Booth an d Larson,1999;Weiher and Keddy, 1999a; 
+but see Wilson, 1999). However, the debate over the relative 
+importance of abiotic and biotic factors in regulating composi­
+tion has not been adequately resolved (Simberloff et al., 1999), 
+nor has the relative importance of disturbance (such as graz­
+ing) in relation to abiotic and biotic factors been addressed 
+(Diaz et al., J999). Moreover, a multivariate model of compo­
+sition that permits an evaluation of the relative importance 
+of abiotic and biotic factors and disturbance has not been for­
+mally proposed or evaluated. General models such as those 
+proposed by Grace and Pugesek (1997) are useful because they 
+provide ecologists with the ability to test the generality of a 
+theory across systems (Grace, 2006), which is becoming an 
+increasingly important activity in ecology (e.g., Weiher, 2003; 
+Knapp et al., 2004). Such a model could advance current under­
+standing of the main drivers of plant community structure. 
+Abiotic factors such as climate-driven responses to ele­
+vation (Diaz et aI., 1999) and soil properties (Grace, 2003) 
+can determine which plant species will colonize a site 
+(Keddy and Weiher, 1999) because plant species differ in 
+their tolerance and utilization of resources. These differences 
+have been proposed as a driving mechanism of species co­
+existence in similar environments (Tilman, 1982) and can also 
+explain broad-scale compositional differences along multiple 
+resource gradients (Grace, 2003; Kas hian et al., 2003). Once the 
+regional species pool passes through the abiotic filters, the 
+remaining species undergo further filtering by biotic interac­
+tions and disturbance effects. Biotic factors such as overstory 
+tree density can influence community composition because 
+understory species differ in their ability to tolerate stresses 
+imposed by competitive trees (Grime, 1979; Riegel et al., 1995; 
+Nau mburg and DeWald, 1999; Lau ghlin et al., 2(05). Further­
+more, disturbances can influence community composition by 
+favoring stress-tolerant species (Grime, 1979) and increasing 
+the abundance of annual and biennial plants (Hayes and Holl, 
+2003; l.aughlin et aI., 2004, 2005). 
+Evaluating community-environment 
+relationships 
+is 
+quantitatively challenging since community matrices rep­
+resent a complex multivariate response (Legendre and 
+Legen dre, 1998). Analyses that simply regress multiple envi­
+ronmental variables on axis scores derived from ordinations 
+may satisfy distributional properties of the data (e.g., Lee 
+an d Sam pso n, 2000). but these analyses have all the same 
+problems of interpretation that befall multiple regression 
+(Grace and Bollen, 2005). These problems include, but are not 
+limited to (1) the unanalyzed and unresolved covariances 
+among interacting explanatory variables and (2) the inability 
+.-................... 
+. 
+.  
+: 
+\biolic 
+.. 
+.: Community 
+(
+~ .... ~~~to.':':.....: 
+: Composition 
+(Iii;;~;';;;'::;--\ 
+(---B;,;,;~----7-------­
+: 
+lIiston 
+: 
+: 
+Factors 
+: 
+............:.... ... 
+. 
+.  
+Fig. 1 - Generalized conceptual model of factors influencing 
+community composition. Model structure follows from 
+diversity models developed in grasslands (Grace an d 
+Pugesek, 1997; Weiher et al., 2004). savannas (Weiher, 
+2003) and pine forests (Laughlin and Grace, 2006; Laughlin 
+et al., 2007). 
+to assign unique explanatory capacity to individual factors 
+(P dhazur, 1997; Grace and Bollen, 2005). To avoid these 
+problems, structural equation modeling has been proposed 
+for testing multivariate theories of community composition 
+(McCune and Grac e, 2002; .race, 2003). 
+We developed a generalized conceptual model illustrated 
+in Fig. 1. This model hypothesizes that community compo­
+sition is controlled by the interactions of abiotic and biotic 
+factors and disturbance history (Weiher and Keddy, 1999b).We 
+included the possibilities that abiotic factors can have recipro­
+cal relations with biotic factors, that disturbance history and 
+abiotic factors could be associated because of land-use pat­
+terns, and that disturbance might influence biotic factors. 
+The a priori specific structural equation model is presented 
+in Fig. 2. Following from the logic conceptualized in Fig. I, 
+we hypothesized that community composition is associated 
+with variations in elevation (Whittaker, 1960), soil properties 
+(Crace, 2003; Kashian et al., 2003), tree density (Riegel t 31., 
+1995; Naumburg an d DeWald, 1999; Laugh lin et 31., 2005), litter 
+depth (Beatty and Sho les, 1988) and grazing (Stohlgren 
+t a ., 
+J999; Cingolani et al., 2005). Our primary purpose was to gain 
+insight into the rela tive importance of processes that influence 
+plant community composition by incorporating the potential 
+interactions between system components into the model. In 
+conjunction with this analysis, we sought to address a number 
+of specific questions: 
+(_············1 
+................: 
+L:1'llImUllil~ 
+C'lOlpnsi ti.,n 
+Billlichu:IClN 
+......... 
+....................... .....................: 
+Fig. 2 - A priori multivariate hypothesis of specific factors 
+that influence plant community composition in ponderosa 
+pine forest ecosystems. 
+
+233 
+ECOLO G ICA L M OD ELLIN G 20 5 ( 2 0 07) 23 1-24 0 
+1.  Can organic matter and nitrogen have independent effects 
+on composition? 
+2.  Are associations between soil texture and composition 
+explained entirely by indirect effects mediated through 
+organic soil properties? 
+3.  Can the effects of elevation on composition be propagated 
+through a network of processes involving soil mineral and 
+organic properties? 
+4. Does  litter depth uniquely contribute to the variation 
+observed in composition or is it merely a function of pine 
+density? 
+5.  Does composition differ under varying densities of pine 
+trees? 
+6.  Can grazing affect the composition of the community? 
+2. 
+Methods 
+2.1. 
+Study system 
+The ponderosa pine (Pinusponderosa P. & C. Lawson var. scopu­
+lorum Engelm.) forest ecosystem covers millions ofhectares in 
+the southwestern United States and occurs on a wide variety of 
+soil parent materials including basalt, limestone, sandstone, 
+and cinder soils. In this study we sampled vegetation within a 
+110,000 ha landscape on the Northern Arizona University Cen­
+tennial Forest and on the Coconino National Forest between 
+the elevations of 1920-2660m. In the sampled area, pon­
+derosa pine is the dominant tree species and forms extensive 
+pure stands, but sometimes occurs with Gambel oak (Quercus 
+gambelii Nutt.) or quaking aspen (Populus tremuloides Michx.). 
+Precipitation ranges from 42 to 56 em yearr ", snowfall from 
+152 to 233 em year-I. and mean maximum daily temperatures 
+from 15.7 to 17.5 °C (Western Regional Climate Center. Reno, 
+NY, USA).Topography is primarily flat or undulating (slope gra­
+dients <10%). occa sionally dissected by cinder cones, ravines, 
+and low hills . Volcanic activity has been widespread, with the 
+most recent eruptions occurring ~900 years ago in the Sun­
+set Crater Volcanic Field in the northeastern part of the study 
+area (Moore et al., 1976). Soil parent materials include basalt, 
+volcanic cinders, benmoreite, mixed igneous rocks, and lime­
+stone (Welch and Klemmedson, 1975). Major soil subgroups 
+are 1)rpic and Udic Argiborolls, Typic and Mollie Eutroboralfs, 
+Typic Ustorthents, and Vitrandic Ustochrepts (Miller et ;]1., 
+1995). 
+2.2. 
+Data collection 
+We used a digital Terrestrial Ecosystem Survey (TES) map 
+(Miller et al., 1995) in a Geographic Information System to 
+randomly select mapping units for sampling in each of 11 
+TES types that encompass a range of soil types. We randomly 
+located 0.05 ha (20m x 25 m) plots within each mapping unit 
+for a total of 75 plots. 
+Plots were sampled during the period May-August 2003. 
+At each plot. we collected composite soil samples of 0-15 em 
+depths from two pits per plot. Samples were air dried, sieved 
+(2mm), and analyzed for texture (hydrometer method), pH 
+(1:2 soil:0.01 M CaCh), total nitrogen (with an elemental car­
+bon/nitrogen analyzer), and organic matter (estimated from 
+loss-on-ignition at 300°C for 2h), following methods outlined 
+in Sparks (1996) and Dane an d Topp (2002). 
+We sampled litter (Oihorizon) thickness and plant species 
+composition in fifteen 1 m 2 subplots in each 0.05 ha plot. We 
+visually categorized areal percent cover of each species rooted 
+in each subplot as 0.1, 0.25, 0.5, and 1% up to 1% cover, at 1% 
+intervals to 10%cover, and at 5%intervals above 10%cover. We 
+also measured diameters at 1.4m of all live ponderosa pine 
+>1em diameter on each plot to calculate pine basal area. 
+Evidence of grazing was used to produce a coarse cat­
+egorical variable where O=evidence of light grazing and 
+1 = evidence of heavy grazing. This determination was based 
+on field observations of severely grazed vegetation, proxim­
+ity of plots to livestock tanks, and known areas where sheep 
+and cattle are herded or kept. These determinations resulted 
+in 4{)% of the plots being coded as having experienced recent 
+heavy grazing. 
+2.3. 
+Data analysis 
+If continuous soil properties could accurately predict the cor­
+rect soil type from which the sample was taken. we decided 
+it could be appropriate to use the continuous soil properties 
+to explain patterns of composition across the landscape in 
+lieu of the less informative alternative of simply using soil 
+types as nominal predictors. To accomplish this, we used dis ­
+criminant analysis (SASIns titut e. 2005). Discriminant analysis 
+showed that continuous soil properties correctly predicted the 
+soil type 88% of the time. An alternative, non-parametric dis­
+criminant analysis test indicated that predictions were correct 
+100% of the time. As a result of these findings, we felt justified 
+in using continuous soil variables in lieu ofsoil types to repre­
+sent the relationship between soil gradients and community 
+composition. 
+Many data reduction methods (e.g., detrended correspon­
+dence analysis, and canonical correspondence analysis) used 
+to analyze associations between community and environ­
+mental gradients have been shown to perform poorly when 
+applied to ecological community data (Beals, 1984; Min 'hi , 
+1987; Jackso n and Somer s, 1991; Legendre an d Legend re, 
+1998; McCune and Grace, 2002). Non-metric multidimensional 
+scaling (NMS)has been suggested over other ordination tech­
+niques for community analysis because it does not ignore 
+community structure that is unrelated to environmental vari­
+ables and it does not assume multivariate normality (McCune 
+and Grace, 2002). Therefore, with cover values as a measure 
+of species abundance, we used NMS using PC-OROsoftware 
+(Version 4.25; M Cune and Mefford , 1999) to reduce the dimen­
+sionality of the community matrix. We used the Bray-Curtis 
+distance measure (Faith et al., 1987) with random starting 
+configurations, 100 runs with real data, a maximum of 400 
+iterations per run, and a stability criterion of0.00001. A Monte 
+Carlo test with 99 randomizations was used to determine how 
+likely the observed stress value of the final solution would 
+be by chance alone. Species that occurred on <5% of the 
+plots were omitted from the ordination following guidelines 
+in McCune an d Grace (2002). 
+We used PC-ORO to determine which continuous soil 
+variables could explain at least 10%of the variation of an ordi­
+nation axis, expressed as a vector on the ordination diagram 
+
+234 
+ECOLOGI C AL M ODEL LING 2 0 5 (2 0 0 7) 23 1-240 
+(Me .une an d Grace, 2002). We included in this analysis the 
+following environmental variables: elevation, total nitrogen, 
+organic matter, clay and sand concentrations, pH, pine basal 
+area (rn? ha - 1) , and litter depth (em). We used Varimax rota­
+tion on the ordination axes to maximize variance explained by 
+pH and elevation following the procedure described by Grace 
+(2003). 
+Prior to evaluating multivariate models, bivariate rela­
+tions between all variables in the model were assessed. We 
+examined scatt erplots for the presence of outliers, evidence 
+of skewness or kurtosis, and non-linear relationships up to 
+second-order polynomials. Non-linear relationships between 
+an explanatory variable and one ordination axis were mod­
+eled by freeing paths from the explanatory variable to both 
+ordination axes. 
+2.4. 
+Structural equation modeling 
+Collinearity among explanatory variables can be problem­
+atic in multiple regression analysis (Asher, 1983; Myers, 1990). 
+However, SEM allows a researcher to theorize about why 
+explanatory variables are correlated and to build directional 
+relationships into their models of a system. For example, 
+explanatory variables are often correlated because they have 
+a common cause or because one factor influences th e other 
+(Shipley, 2000). Indeed, these situations often occur in obser­
+vational studies of complex systems. Therefore, in this study, 
+we took such a systems approach to the analysis and interpre­
+tation of composition in an ecosystem where driving forces 
+interact to produce observed compositional patterns across 
+the landscape. 
+Th e use of structural equation models to understand 
+ecological systems has gained momentum in recent years 
+(Shipley, 2000; Pugesek et al., 2003; Grace, 2006; Arhonditsis et 
+al., 2006). Structural equation modeling (SEM) is an extension 
+ofregression and path analysis that can be used to model mul­
+tivariate relations and to test multivariate hypotheses (Bollen, 
+1989). Good-fitting structural equa tion models do not prove 
+causal relationships (Bollen, 1989). Inferences about the sign 
+and strength of directional paths in SEM can only be m ade if 
+sound theory guides both the model building and the model­
+fitting processes (Grace, 2006). 
+We evaluated two types of structural equation models in 
+this stu dy: 'specific' and 'general' models. 'Specific' models 
+were evaluated to give a detailed perspective of relationships. 
+The initial specific model (Fig. 2) represents what we believed 
+to be the most plausible structural relations based on a pri ­
+ori knowledge. We acknowledge that not all processes that 
+act on composition in this system are represented in Fig. 2. 
+Rather, our objective was to determine whether the data were 
+consistent with the expectations of th e proposed model. Ulti­
+mately, our goal was to arrive at a model consistent with the 
+data using the fewest modifications of the initial model as 
+possible, thereby preserving as much as possibl e th e ability 
+to draw inferences from model parameters. We used maxi­
+mum likelihood solution procedures and employed chi -square 
+goodness of fit measures to evaluate model adequacy. Residu­
+als and modification indices were also exami ned to determine 
+if there were apparent model-data discrepancies, which in 
+tum were used to identify alternative models for considera­
+tion. Analyses were performed using Mplus software (Muthen 
+and Muthen , 2005). The final structural equation model had 
+a covariance structure th at was consistent with the covari­
+ance structure of the data; therefore, we used theory to guide 
+our interpretation of the mechanistic nature of the directional 
+paths. 
+The second type of structural equation model examined 
+in this study was a 'general' model. These models are of the 
+form in Fig. 1 and include composite variables in which com­
+binations of effects are aggregated to address more general 
+hypotheses. Generalized multivariate models such as these 
+offer tremendous promise to ecology because they permit 
+consideration of general constructs (e.g., disturbance) while 
+allowing the specific factors (e.g., grazing versus flooding) to 
+differ among systems (Grace, 2006). Moreover, ecological con­
+structs such as 'abiotic factors' are very often multifaceted in 
+nature (Gla ce and Bollen , in pr ess). Th e effects of elevation, 
+pH, clay, organic matter, and nitrogen were composited into 
+effects of 'abiotic factors'. The effects of pine density and lit­
+ter depth were composited into effects of'biotic factors'. Since 
+only one disturbance type was measured in this study, graz­
+ing represented the effec t of recent 'disturba nce history'. We 
+followed the general principles developed by Heise (1972) and 
+refined by Grace and Bolle n (in press) for developing compos­
+ites that represent general constructs. Composites estimate 
+the combined effects of multiple factors on a single response 
+variable. These procedures use a two-stage approach in which 
+models are estimated without composites in the first stage. In 
+the second stage, composites are included with zero error vari­
+ance and with one incoming path fixed to a value of 1 so as to 
+set the scale for the composites. Abiotic factors were scaled to 
+elevation and biotic factors were scaled to pine density. 
+Finally, we calculated the so-called 'total effects', which are 
+the sum of direct and indirect pathways from the explanatory 
+variables to composition (Grace, 2006). Indirect effects equal 
+the total sum of th e products of all path segments from an 
+explanatory variable to composition. Total effects are a simple 
+summary of the complex and sometimes dual nature (oppos­
+ing signs) of the relationship between the causal factors and 
+community composition and they provide a calculation of the 
+net effect (i.e., strength and sign ) of a relationship. 
+3. 
+Results 
+We identified 271 plant species within the plots across the 
+study area. We included the 156 species that were found on 
+>5% of the plots. A satisfactory two-dimensional solution was 
+obtained using NMS ordination (Fig. 3). Thus, each ordination 
+axis represented an independent gradient in species space. 
+Nine variables, expressed as vectors in Fig. 3, appeared to be 
+correlated with composition. 
+Bivariate correlation analysis determined that axis 1 was 
+significantly (p< 0.05) correlated with five of the nine variables 
+in the model. Axis 1 exhibited positive linear relationships 
+with nitrogen, organic matter, and elevation and negative lin­
+ear relationships with pH and sand (Fig. 4). Axis 2 exhibited 
+positive linear relationships with sand and pine basal area, 
+negative linear relationships with nitrogen and clay, and non­
+linear relations with litter (Fig. 5). Many of the factors proposed 
+
+235 
+E CO L OG IC AL MO D E L LI N G 2 05 ( 2 0 0 7) 2 3 1- 240 
+• • 
+• 
+• 
+• 
+••
+•• 
+• 
+L.tt~.r; • • 
+• 
+Pin. 
+• 
+. .. 
+'­
+Sand _ 
+• 
+• 
+••• 
+• 
+pH ---­
+.... 
+• •••• 
+•• 
+~ 
+• 
+.....E. ~ f:j '1I. 
+,;- O~ • 
+• 
+• 
+• 
+• 
+•• 
+• 
+GrazIng . 
+Cla y 
+•• 
+• 
+• 
+• • 
+N.:rogen 
+• 
+• 
+_ 
+• 
+• • 
+• 
+• 
+••• 
+Axis 1 
+Fig. 3 - Non-metric multidimensional scaling ordination of 
+plant community composition sampled across a 110,OOOha 
+northern Arizona ponderosa pine forest landscape. The 
+plot was constructed using 156 species that were found in 
+75 plots. The final solution had two-dimensions 
+(stress'" 20.1, P'"0.01). 
+..... 
+· .,... ..
+~J."-. ",-A'".... 
+.. .  .
+·.. . -.. . 
+~ .. ·. 
+o 1 234 567 
+Litterdepth (em) 
+... 
+•:«ff. -.­
+• ,,,\V ..
+. ....
+· .:
+.. .. .. .. 
+·.· 
+.=J ~.
+to influence composition were also correlated with each other 
+(Table 1), suggesting that the factors themselves interacted 
+and that indirect effects on composition were likely in this 
+system. 
+The a priori specific structural equation model (Fig. 2) 
+wa s found to be inconsistent with the data (x2 = 176 , 31 d.f., 
+P <0.001). After controlling for other variables, sand did not 
+explain unique vari ation in axis 1 despite its strong bivariate 
+correlation (Table 1). and was therefore dropped to simplify 
+the model. We added paths from clay to litter and nitrogen, 
+and a path from litter to axis 1 (which accounted for the non ­
+linear association with axis 2), since these were indicated to 
+be missingbased on modification indices. The resulting model 
+was found to not differ sign ificantly from the data (x2 =25.5, 22 
+d.f., P=0.27) and explained 71% of the variation in axis 1, 61% 
+of the vari ation in axis 2, 36% of th e vari ati on in litter, 80% 
+of the variation in nitrogen , 48% of the vari ation in organic 
+matter, and 20% of the variation in pH (Fig. 6). 
+Elevation exhibited the strongest 'total effect' on axis 1 
+(Table 2) due to its direct and many indirect relationsh ips with 
+axis 1 (Fig. 6). The negative indirect effects of organic mat­
+ter on ax is 1 (standardized path coefficient = -0.28) offset th e 
+relatively strong pos itive direct effect (standardized path coef­
+ficient = 0.44), yielding a non- significant 'total effect' (Table 2). 
+.-'. "­ ·s-·.
+... 
+..-. 
+~:. . 
+o 10 20 30 40 50 60 70 
+Pine Basal Area (m2/ha) 
+r =-0.55 
+.· : .-. . 
+.,... ··.. 
+Light 
+Heavy  
+Grazing Imenslty  
+r =-0 .58 
+..  
+". ..­.  
+... .: . 
+o
+10
+20
+30
+40
+50 
+20 
+40 
+60 
+80 
+100 
+Clay(%) 
+r =0 .69 
+....... 
+• .•  
+.  
+. ......  
+.. ..  
+.". 
+t 
+Sand(%) 
+r =0.60 
+•::;&t.. 
+--0. 
+.­
+o 
+~ .. 
+5.6 6.0 6.4 6.8 7.2 
+pH 
+....." 
+-.$;r •
+--Ai ••
+..... 
+r = 0.38 
+.... 
+...".~ . 
+1800 2000 2200 2400 2600 o 
+2 
+4 
+6 
+8 
+10 
+0.0 
+0.1 
+0.2 
+0.3 
+0.4 
+Elevation(m) 
+Organie Matter (% LOI) 
+Total Nitrogen (%) 
+Fig. 4 - Bivariate relationships between explanatory variables and NMS axis 1. Correlation coefficients are shown for 
+significant relationships. 
+
+236 
+EC O LO GI C A L M OD E L LI N G 205 ( 20 0 7 ) 23 1-240 
+r=0.77. 
+N 
+lJ) 
+·x 
+« 
+.. 
+.. 
+0
+1
+2
+3
+4
+5
+6
+7 
+Litter depth (cm) 
+r = -0.44 
+0 
+10
+20
+30
+40
+50 
+ClaY(°h) 
+.. \. 
+..;.. 
+.1......
+.. .. ... 
+..,.," . 
+00
+..-. i-· . ...  
+.
+~ 
+r= 0.57 
+0 
+·.. .r. 
+·.. 
+0".., 
+•
+0
+_. 0" · · 
+o 10 20 30 40 50 60 70 
+Pine Basal Area (m 2/ha) 
+r =0.24 0 
+o ·  
+..  
+20 
+40 
+60 
+80
+100 
+Sand (%) 
+-. .. 
+•
+0.. 
+. -(e:
+:\e. 
+.  
+·fI".. .. 
+o
+•  
+..: 
+. ,:. . 
+o 
+•• 
+1800 2000 2200 2400 2600 o 
+2
+4
+6
+8 
+10 
+Elevation (m) 
+Organic Matter (% LOI) 
+r = -0.40 
+I
+I 
+N
+I 
+Ught 
+Heavy  
+Grazing Intensity  
+.~ ...- . 
+~~ .. 
+• 
+III· A .c
+... .. . .
+... :~ 
+. 
+00 
+• 
+... 
+5.6 6.0 6.4 
+6.8 7.2 
+pH 
+r = -0.30 
+.­
+00 
+01
+02
+03
+04 
+Total Nitrogen (%) 
+Fig. 5 - Bivariate relationships between explanatory variables and NMS axis 2. Correlation coefficients are shown for 
+significant relationships and include non-linear terms. 
+Table 1 - Bivariate correlation coefficients (r) 
+Axis 1 
+Axis 2 
+Litter 
+N 
+OM 
+Sand 
+Clay 
+Elev 
+pH 
+Pine 
+Graz 
+luis 1 
+1.0 
+Axis 2 
+0.04 
+1.0 
+Litter 
+0.16 
+0.60 
+1.0 
+N 
+0.38 
+- 0. 30 
+- 0.12 
+10 
+OM 
+0.60 
+-0.19 
+-0.03 
+0.8 3 
+1.0 
+Sand 
+- 0.55 
+0.24 
+015 
+- 0.28 
+- 0.46 
+1.0 
+Clay 
+0.13 
+~0. 44 
+-0.37 
+0.11 
+0.17 
+-0.73 
+1.0 
+Elev 
+0.69 
+002 
+0 00 
+0.66 
+0.70 
+- 0.44 
+0.07 
+1.0 
+pH 
+-0.58 
+~0 . 0 3 
+- 0.06 
+- 0.03 
+- 022 
+0. 51 
+- 0.25 
+- 0.26 
+10 
+Pine 
+0 19 
+0.58 
+0.47 
+-0.35 
+- 0.17 
+-0.21 
+0.01 
+-0.06 
+-· 0.35 
+1.0 
+Graz 
+0.02 
+-0.40 
+-0.23 
+-0.06 
+- 0.04 
+-0.42 
+0.4 6 
+-0.11 
+-0.17 
+- 0.03 
+1.0 
+Significant (P< 0.05) correlations are in bold. 
+Pine density ex hibi ted the stronges t 'total effect' on axis 2 
+(Table 2j due to its dir ect rela tionship and indirect relationship 
+mediated through litter depth (Fig. 6). 
+Th e analysis of th e general model (Fig. 1) in which some 
+effects were composited produced a broader perspective of 
+relationships (Fig. 7). The general model results show that 
+abiotic factors were strongly related to axis 1, biotic factors 
+were strongly related to axis 2, and disturbance exhibited a 
+moderate relationship with axis 2. 
+4. 
+Discussion 
+We identified two independen t com positional gradients in 
+ponderosa pine forest understory plant com m unities, sug­
+gesting th at there were at least two underlying ecological 
+processes that generated these gradients. Interestingly, the 
+general model suggests that abiotic factors genera ted one 
+compositional gradient and biotic factors and disturbance 
+
+ECOL O G I CAL M ODE LLIN G 2 05 (200 7) 2 3 1-240 
+237 
+Cornm unitv 
+( :llmpllsitil)n 
+.................. 
+niulk Facturs 
+(_ 
+~ 
+r--.,...--.........----........ 
+Fig. 6 - Final structural equation model results (x2 =25.5, 22 
+d.f., P= 0.27) with standardized coefficients. All pathways 
+were significant (P< 0.05). 
+Table 2 - Standardized total effects (sum of direct and 
+indirect effects) of factors that influence community 
+composition 
+Factor 
+Axis 1 
+Axis 2 
+Abiotic filters 
+Nitrogen 
+Organi c matter 
+pH 
+Clay 
+Elevation 
+Biotic filters 
+Litter 
+Pine 
+Disturbance 
+Grazin g 
+- 0.32" 
+0.16 ns 
+-0.38'" 
+0.03 ns 
+o.zz: 
+o.iz 
+0.22' '' 
+-0.21 
+Blank cells indicate that no direct or indirect associations were 
+detected between the factor and the NMSordination axes. ns: non­
+significant. 
+• P <0.05. 
+"P <O.Ol. 
+"'P < 0.001. 
+R' =0.7 1 
+.....-..---..-
+.....~..... 
+Axis2 :
+.
+, 
+...............  
+R'= O.61 
+ns  
+...................... 
+·w 
+•  
+Fig. 7 - Final general model results (x2 =25.5,22 d.f., 
+P=0.27) with standaniized coeffi cients in which specific 
+paths were composited into general constructs. 
+history generated the second compositional gradient in this 
+system. 
+4.1. 
+Abioticfactors 
+The regional species pool can be strongly filtered by abi ­
+otic factors. Variations in total nitrogen, which is primarily 
+a function of organic matter in ponderosa pine forests (Welc h 
+and lem medson, 1975), have been shown to have profound 
+influences on community composition in many systems 
+(Bradshaw, J969; Silvertown, J980; Tilman, 1982; Kirkham 
+et al., 1996; Boyer and Zedler, 1999). This important abiotic 
+gradient influences biotic interactions. Enrichment studies 
+have demonstrated that plant dominance increases and even­
+ness decreases with mineral fertilization (Lawes et al., 1882; 
+Thu rston, 1969; Kirchner, 1977; Bakelaa r and Odurn , 1978). 
+Interestingly, the bivariate relationship between nitrogen and 
+axis 1 is positive, yet when organic matter is statistically 
+controlled , the residual relationship between nitrogen and 
+axis 1 was negative. This suggests that if we were to hold 
+organic matter constant and increased levels of nitrogen, 
+we might se e a shift in composition toward the negative 
+end of axis 1 instead of toward the positive end. The struc­
+ture of the model suggests that organic matter has unique 
+effects on composition independent of soil nitrogen. How­
+ever, the total effect of organic matter was not significant 
+(Table 2), suggesting that the direct effects and indirect effects 
+mediated through nitrogen were offsetting. Organic matter 
+wa s a function of elevation because more organic matter is 
+produced at elevations that receive more precipitation and 
+because the higher elevation soils in the study area are finer 
+textured. 
+Soil moisture availability is determined largely by soil 
+texture, which can influence the compo sition of the 
+plant community (Rainer, J990; Barton, 1994) by affecting 
+seedling germination, establishment and growth (Coffin and 
+Lauenroth, 1994). Clay concentration was more important 
+than sand concentration in this model because elevation 
+explained the same information as sand concentration. Soil 
+pH often affects plant community composition because plants 
+differ in nutrient availability requirements and soil acid­
+ity/basicity tole rances (van Raamsdo nk, 1988; Bridgham and 
+Richardson, 1993). Soil pH was found to be influenced by ele­
+vation in our study because soil parent materials of higher pH 
+(e.g., limestone) occurred at lower elevations than soil parent 
+materials oflower pH (e.g., basalt and benmoreite) (Abella an d 
+covington , 2006a). It also is possible that lea ching rates were 
+slower on low-elevation sites receiving less precipitation. 
+Elevation has long been known to influence the compo­
+sition of plant comm unities (Whittaker, 1960), and in this 
+analysis elevation had the strongest total effects on one com­
+pos itional gradient (Table 2). Changes in forest types are often 
+observed along broad elevation gradients (f isher an d rule, 
+2004),but thi s study was limited to a 740 m elevation zone that 
+encompassed th e ponderosa pine ecosystem.The direct effect 
+of elevation is likely due to a precipitation gradient. Thus, 
+plant species that occurred at lower elevations are generally 
+more drought tolerant (Abella and 
+evington. 2006b). How­
+ever, th e model suggests th at three indirect effects of elevation 
+on composition were mediated through pH, organic matter, 
+
+238 
+EC OLO G I C A L MODEL LtNG 205 ( 2 0 07) 231-240 
+and total nitrogen. Thus, the effects of elevation on composi­
+tion are complex and involve many indirect pathways. 
+4.2. 
+Bioticfacrors 
+Species that pass through the abiotic filters are further 
+affected by biotic interactions. The biotic filters in this model 
+are driven by the density of the overstory pine trees and 
+the amount of needle cast that these pine trees produce. 
+Plant species appeared to respond to varying levels of pine 
+litter depth. This association was independent of pine abun­
+dance, suggesting that if pine was held constant, variations 
+in litter depth could shift community composition. Plants 
+are known to respond to experimental manipulation of litter 
+depths (Beatty and Sho les, 1988; Facelli a nd Pickett , 1991), and 
+the mechanism behind these effects likely involves germina­
+bon requirements of plants (Sydes nd Grime, 1981). Annual 
+species, for instance, have been suggested to respond to lit­
+ter consumption after fires due to increased availability of 
+exposed mineral soil (Laughlin er al., 2004, 2005). This relation 
+deserves further study, however, since experimental removals 
+of ponderosa pine litter have not induced short-term plant 
+community responses (Abella and Covington, in press). 
+Pine basal area had the strongest total effect on axis 2 
+(Table 2). Understory species tolerate different levels of shad ­
+ing ( a umb urg and DeWald, 1999), and water and mineral 
+resources (Riegel et al., 1995), both of which vary with pine 
+density (Welch a nd Kle mmedson, 1975; Kaye and Han , 1998). 
+In addition, pine basal area indirectly affected composition by 
+driving the variation in litter depth. 
+4.3. 
+Disturbance 
+Grazing effects appeared less important than abiotic and biotic 
+factors in explaining the observed spatial variation in vegeta­
+tion.The model results imply that ungulate (cattle, sheep, deer 
+and elk) grazing might directly influence plant community 
+composition. Heavy gra zing can shift the com m u nity toward 
+greater abundance of unpalatable species (Westoby et a!., 1989; 
+O'Connor, 1991). A few unpalatable species, including broom 
+snakeweed (Gutierrez ia sarothrae (Pursh) Britt. & Rusby) and 
+spreading fleabane (Erigeron diuergens Torr. & Gray) , were most 
+abundant in the heavily grazed plots (Abella and Covington, 
+2006a). 
+Ponderosa pine forest structure and plant community com­
+position are strongly influenced by frequent surface fires 
+(Covingt on and Moore, 1994; Fule et al., 1997; Moore et al., 
+2006). Fire as a disturbance process is conspicuously absent 
+from this model due to a lack of data. Future composition mod­
+els in this system should include fire effects, which have been 
+shown to shift composition by increasing the abundances of 
+annual and biennial forbs (Craw ford " I al., 2001; Laughlin p I 
+al. , 2004). 
+4.4. 
+Conclusions 
+The model provides an adequate explanation of the vari­
+ance in composition, but it has limited predictive capacities at 
+present due to the complicated dimensionality of the compo­
+sitional response variables and to the descriptive nature of the 
+s tudy de sign. Nevertheless, this model suggests that commu­
+nity composition is under multivariate control in ponderosa 
+pine forests in the southwestern United States. It seems that 
+the regional species pool is filtered by abiotic gradients, biotic 
+gradients and grazing effects to produce the plant commu­
+nity assemblages that occur across the landscape. Our general 
+model results suggest that abiotic factors drive one composi­
+tional gradient and that biotic factors and, to a lesser degree, 
+disturbance history, drive the other independent composi­
+tional gradient. Evaluations of multivariate models of s pecies 
+richness across a wide variety of systems have advanced our 
+understanding of the general factors th at drive diversity (e.g., 
+Grace an d Pugesek, 1997; Weiher, 2003; Laugh lin and Grac e, 
+2006; Laughlin et al., 2007). Likewise, future evaluations of the 
+general composition model proposed here across a variety of 
+different systems could determine the generality and utility 
+of this multivariate hypothesis. 
+Acknowledgments 
+We thank J. Grace for helpful comments on a draft of this 
+manuscript and for discussions about the use of composite 
+variables in modeling ecological phenomena. We also thank 
+P. Pule, WW Covington, J. Springer, K. Christie, A. Bair, and 
+s taff and students at the Ecological Restoration Institute for 
+assistance and support. We appreciate help with soil analyses 
+from B. Zimmer, S. Overby, L. Hertz, and the U.S. Forest Service, 
+Rocky Mountain Research Station Analytical Lab. S. Sandusky 
+of the Coconino National Forest and J.J, Smith and K. Pajkos 
+of the Centennial Forest permitted us to collect samples. This 
+s tudy was funded by the U.S. Forest Service and the Ecological 
+Restoration Institute. 
+REFERENCES 
+Abella, S.R., Covington, W.W., 2006a. Forest ecosystems of an 
+Arizona Pinus ponderosa landscape: multifactor classification 
+and implications for ecological restoration. J. Biogeogr. 33, 
+1368-1383. 
+Abella, S.R., Covington, W.W, 2006b. Vegetation-environment 
+relationships and ecological species groups of an Arizona 
+Pinus ponderosa landscape. Plant Ecol. 185, 255-268. 
+Abella, S.R.,Covington, W.W., in press. Forest-floor treatments in 
+Arizona ponderosa pine restoration ecosystems: no 
+short-term effects on plant communities. Western North 
+American Naturalist. 
+Arhonditsis, G.B., Stow, C.A., Steinberg, L.]., Kenney, M.A, 
+Lathrop, R.C.,McBride, S.]., Reckhow, K.].,2006. Exploring 
+ecological patterns with structural equation modeling and 
+Bayesian analysis. Ecol. Modell. 192, 385-409. 
+Asher, H.B., 1983. Causal Modeling. Sage Publications, Newbury 
+Park, California. 
+Bakelaar, R., Odum , E., 1978. Community and population level 
+responses to fertilization in an old-field ecosystem. Ecology 
+59, 660-671. 
+Barton, A.M., 1994. Gradient analysis of relationships among fire, 
+environment, and vegetation in a south western USA 
+mountain range.]. Torrey Bot. Soc. 121,251-265. 
+Beals, E.W., 1984. Bray-Curtis ordination: an effective strategy for 
+analysis of multivariate ecological data . Adv. Ecol. Res. 14, 
+1-55. 
+
+239 
+ECOLOGICAL MODELLING 2 0 5 (2 007) 23T-240 
+Beatty, S.W, Sholes, O.D.V.,1988. Leaf litter effect on plant species 
+composition of deciduous forest treefall pits. Can. J. For. Res. 
+18, 553--559. 
+Bollen, K.A., 1989. Structural Equations with Latent Variables. 
+John Wiley & Sons, New York. 
+Booth, B.D., Larson, D.W., 1999. Impact oflanguage, history, and 
+choice of system on the study of assembly rules. In: Weiher, 
+E., Keddy, P. (Eds.), Ecological Assembly Rules. Cambridge 
+University Press, Cambridge, UK, pp. 206-229. 
+Boyer, K.E., Zedler, J.E., 1999. Nitrogen addition could shift plant 
+community composition in a restored California salt marsh. 
+Restor. Ecol. 7, 74-85. 
+Bradshaw, A., 1969 . An ecologist's viewpoint. In: Rorison, I. (Ed.), 
+Ecological Aspects of the Mineral Nutrition in Plants. 
+Blackwell, Oxford, pp. 415-427. 
+Bridgham, S.D., Richardson, C.J., 1993. Hydrology and nutrient 
+gradients in North Carolina peatlands. Wetlands 13, 207-218. 
+Cingolani, A.M., Posse, G., Collantes, M.B., 2005. Plant functional 
+traits, herbivore selectivity and response to sheep grazing in 
+Patagonian steppe grasslands.]. Appl. Ecol. 42, 50-59. 
+Coffin, D.P.,Lauenroth, WK ., 1994. Successional dynamics of a 
+semiarid grassland: effects of soil texture and disturbance 
+size. Plant Ecol. 110, 67~2 . 
+Covington, W.W., Moore, M.M., 1994. Southwestern ponderosa 
+pine forest structure: changes since Euro-American 
+settlement J. For. 92, 39-47. 
+Crawford, JA, Wahren, c.-H.A., Kyle, S., Moir, WH., 2001. 
+Responses of exotic plant species to fires in Pinus ponderosa 
+forests in northern Arizona. J. Veg. Sci. 12, 261-268. 
+Dane, J.H., Topp, G.C. (Eds.), 2002. Methods of Soil Analysis. Part 4: 
+Physical Methods. Soil Science Society of America, Madison, 
+Wl. 
+Diamond, ].M., 1975. The assembly of species communities. In: 
+Cody, M.L., Diamond, ].M. (Eds.), Ecology and Evolution of 
+Communities. Belknap Press of Harvard University Press, 
+Cambridge, MA, pp. 342-444. 
+Diaz, S., Cabido, M., Casanoves, F.,1999. Functional implications 
+of trait-environment linkages in plant communities. In: 
+Weiher, E., Keddy, P. (Eds.), Ecological Assembly Rules. 
+Cambridge University Press, Cambridge, UK, pp. 338-362. 
+Facelli, ].M., Pickett, S.T.A., 1991. Plant litter: its dynamics and 
+effects on plant community structure. Bot. Rev. 57, 1-32. 
+Faith, D.P., Minchin, P.R., Belbin, L., 1987. Compositional 
+dissimilarity as a robust measure of ecological distance. 
+Vegetation 69, 57~8. 
+Fisher, M.A., Fule, P.Z., 2004. Changes in forest vegetation and 
+arb~scular mycorrhizae along a steep elevation gradient in 
+Arizona. For. Ecol. Manage. 200, 293-311. 
+Fule, P.Z., Covington, W.W., Moore, M.M., 1997. Determining 
+reference conditions for ecosystem management of 
+southwestern ponderosa pine forests. Ecol. Appl. 7, 895-908. 
+Grace, J.B., 2003. Examining the relationship between 
+environmental variables and ordination axes using latent 
+variables and structural equation modeling. In: Pugesek, B.H., 
+Tomer, A., von Eye, A. (Eds.), Structural Equation Modeling: 
+Applications in Ecological and Evolutionary Biology. 
+Cambridge University Press, Cambridge, UK, pp. 171-193 
+(Chapter 7). 
+Grace, ].B., 2006. Structural Equation Modeling and Natural 
+Systems. Cambridge University Press, Cambridge. 
+Grace, ].B., Pugesek, B.H., 1997. A structural equation model of 
+plant species richness and its application to a coastal 
+wetland. A.m. Natural. 149, 436-460. 
+Grace, J.B., Bollen, K.A., 2005. Interpreting the results from 
+multiple regression and structural equation models. Bull. 
+Ecol. Soc. A.m. 86, 283-295. 
+Grace, ].B., Bollen, K.A., in press. Representing general theoretical 
+concepts in structural equation models: the role of composite 
+variables. Environ. Ecol. Stat. 
+Grime, ].P., 1979 . Plant Strategies and Vegetation Proc esses. John 
+Wiley & Sons, London, UK. 
+Hayes, G.F., Holl, K.D., 2003. Cattle grazing impacts on annual 
+forbs and vegetation composition of mesic grasslands in 
+California. Conserv. BioI. 17, 1694-1702. 
+Heise, D.R., 1972 . Employing nominal variables, induced 
+variables, and block variables in path analysis. Sociol. Meth. 
+Res . 1, 147-173. 
+Jackson, D.A., Somers, K.M., 1991. Putting things in order: the ups 
+and downs of de trended correspondence analysis. A.m. 
+Natural. 137, 704-712. 
+Kashian, D.M., Barnes, BV., Walker, WS., 2003 . Ecological 
+species groups of landform-level ecosystems dominated by 
+jack pine in northern Lower Michigan, USA. Plant Ecol. 166 , 
+75-91. 
+Kaye, J.P., Hart, S.C., 1998. Ecological restoration alters nitrogen 
+transformations in a ponderosa pine-bunchgrass ecosystem. 
+Ecol. Appl. 8, 1052-1060. 
+Keddy, P.,Weiher, E., 1999. Introduction: the scope and goals of 
+research on assembly rules. In: Weiher, E., Keddy, P. (Eds.), 
+Ecological Assembly Rules: Perspectives, Advances, Retreats. 
+Cambridge University Press, Cambridge, UK, pp. 1-20. 
+Kirchner, T., 1977. The effects of resource enrichment on the 
+diversity of plants and arthropods in a shortgrass prairie. 
+Ecology 58, 1334-1344. 
+Kirkham, F.W., Mountford, J.O., Wilkins, R.]., 1996. Th e effects of 
+nitrogen, potassium and phosphorus addition on the 
+vegetation of a Somerset peet moor under cutting 
+management. J. Appl. Ecol. 33, 1013--1029. 
+Knapp, A.K., Smith, M.D., Collins, S.L., Zambatis, N., Peel, M., 
+Emery, S., Wojdak, J., Homer-Devine, M.C., Biggs, H., Kruger,J., 
+Andelman, S.J., 2004. Gen erality in ecology: testing North 
+American grassland rules in South African savannas. Front. 
+Ecol. Environ. 2, 483--491. 
+Laughlin, D.C., Bakker, J.D., Stoddard, M.T., Daniels, M.L., Springer, 
+J.D., Gildar, C.N., Green, A.M., Covington, W.W, 2004 . Toward 
+reference conditions: wildfire effects on flora in an old-growth 
+ponderosa pine fore st. For. Ecol. Manage. 199, 137-152. 
+Laughlin, D.C., Bakker, J.D., Fule, P.Z., 2005. Understorey plant 
+community structure in lower montane and subalpine forests, 
+Grand Canyon National Park, USA. J. Biogeogr. 32, 2083--2102. 
+Laughlin, D.C., Grace, J.B., 2006. A multivariate model of plant 
+species richness in forested systems: old-growth montane 
+forests with a long history of fire. Oikos 114, 60-70. 
+Laughlin, D.C., Abella, S.R., Covington, WW, Grace, J.B., 2007. 
+Plant species richness and soil properties in a Pinus 
+ponderosa forest: a structural equation modeling analysis. J. 
+Veg. Sci. 18, 229-240. 
+Lawes, J., Gilbert, J., Masters, M., 1882. Agricultural, botanical, and 
+chemical results of experiments on the mixed herbage of 
+permanent meadow, conducted for more than 20 years on the 
+sam e land. II. The botanical results. Philos. Transact R Soc. 
+173, 1181-1413. 
+Lee, Y.W , Sampson, D.B., 2000 . Spatial and temporal stability of 
+commercial groundfish assemblages off Oregon and 
+Washington as in ferred from Oregon trawl logbooks. Can. J. 
+Fish. Aquat, Sci. 57, 2443--2454. 
+Legendre, P., Legendre, L., 1998 . Numerical Ecology, 2nd English 
+ed . Elsevier Science B.V,Amsterdam, The Netherlands, 853 pp. 
+McCune, B., Mefford, M.J., 1999. PC-ORO: Multivariate Analysis of 
+Ecological Data. Version 4.25. MjM Softw are Design, Gleneden 
+Beach, OR. 
+McCune, B., Grace, J.B., 2002 . Analysis of Ecological Communities. 
+M]M Press, 302 pp. 
+Miller, G., A.mbos, N., Boness, P., Reyher, D., Robertson, G., 
+Scalzone, K., Steinke, R., Subirge, T., 1995. Terrestrial 
+Ecosystems Survey of the Coconino National Forest U.S. 
+Department of Agriculture, Forest Service, Southwestern 
+Region. 
+
+240 
+ECOL OGI CAL M ODELLIN G 2 05 (2 00 7 ) 231-240 
+Minchin, P.R., 1987. An evaluation of the relative robustness of 
+techniques for ecological ordination. Vegetation 69, 8'}--107. 
+Moore, RB., Wolfe, E.W., Ulrich, G.E., 1976. Volcanic rocks of the 
+eastern and northern parts of the San Francisco Volcanic 
+Field, Arizona.]. Res. U.S. Geol. Surv. 4, 54'}--560. 
+Moore, M.M., Casey, C.A., Bakker, ].D., Springer, ].D., Fule, P.Z., 
+Covington, W.W., Laughlin, D.C., 2006. Herbaceous response to 
+restoration treatments in a ponderosa pine forest, 1992-2004. 
+Rangeland Ecol. Manage. 59, 135-144. 
+Muthen, L.K., Muthen, B.O., 2005. Mplus User's Guide, 3rd ed. Los 
+Angeles, California, 558 pp. 
+Myers, R.H., 1990. Classical and Modem Regression with 
+Applications, 2nd ed . McGraw-Hill, New York. 
+Naumburg, E., DeWald, L.E., 1999. Relationships between Pinus 
+ponderosa forest structure, light characteristics, and 
+understory graminoid species presence and abundance. For. 
+Ecol. Manage. 124, 205-215. 
+O'Connor, TG., 1991. Local extinction in perennial grasslands: a 
+life-history approach. Am. Natural. 137, 753-773. 
+Pedhazur, E.]., 1997. Multiple Regression in Behavioral Research: 
+Explanation and Prediction, 3rd ed. Thompson Learning, Inc. 
+Pugesek, B.H., von Eye, A., Tomer, A., 2003. Structural Equation 
+Modeling: Applications in Ecological and Evolutionary Biology 
+Research. Cambridge University Press, Cambridge, UK. 
+Rainer, H., 1990. Community composition and soil properties 
+in northern Bolivian savanna vegetation. ]. Veg. Sci. I, 
+345-352. 
+Riegel, G.M., Miller, RF., Krueger, w.e., 1995. The effects of 
+aboveground and belowground competition on understory 
+species composition in a Pinus ponderosa forest. For. Sci. 41, 
+864-889. 
+SAS Institute Inc. , 2005. SAS/STATUser's Guide. SAS Institute, 
+Inc., Cary, North Carolina. 
+Shipley, B., 2000. Cause and Correlation in Biology: A User's Guide 
+to Path Analysis, Structural Equations, and Causal Inference. 
+Cambridge University Press, Cambridge, UK. 
+Silvertown, ]., 1980. The dynamics of a grassland ecosystem: 
+botanical equilibrium in the park grass experiment. ]. Appl. 
+Ecol. 17,491-504. 
+Simberloff, D., Stone, L., Dayan, T., 1999. Ruling out a community 
+assembly rule: the method of favored states. In: Weiher, E., 
+Keddy, P.(Eds.), Ecological Assembly Rules. Cambridge 
+University Press, Cambridge, UK, pp. 58-74. 
+Sparks, D.L. (Ed.), 1996. Methods of Soil Analysis. Part 3. Chemical 
+Methods. Soil Science Society of America and American 
+Society of Agronomy, Madison, WI. 
+Stohlgren, T]., Schell, L.D., Vanden Heuvel, B., 1999. How grazing 
+and soil quality affect native and exotic plant diversity in 
+Rocky Mountain grasslands. Ecol. Appl. 9, 45-64. 
+Stone, L., Dayan, T., Simberloff, D., 1996. Community-wide 
+assembly patterns unmasked: the importance of species' 
+differing geographic ranges. Am. Natural. 148, 997-1015. 
+Sydes, C., Grime, ].P.• 1981. Effects of tree leaf litter on herbaceous 
+vegetation in deciduous woodland. II. An experimental 
+investigation. ]. Ecol. 69, 24,}--262. 
+Thurston, ]., 1969. The effect of liming and fertilizers on the 
+botanical composition or permanent grassland, and on the 
+yield of hay. In: Rorison, I. (Ed.), Ecological Aspects of the 
+Mineral Nutrition of Plants. Blackwell, Oxford, pp. 3-10. 
+Tilman, D., 1982. Resource Competition and Community 
+Structure. Monographs in Population Biology. Princeton 
+University Press, Princeton, N]. 
+van Raamsdonk, L.W.D., 1988. Principal component analysis of 
+ecological indicator values of swiss alpine flora . Bot. Helvet. 
+98, 195-205. 
+Weiher, E., 2003. Species richness along multiple gradients: 
+testing a general multivariate model in oak savannas. Oikos 
+101,311-316. 
+Weiher, E., Keddy, P., 1999a. Assembly rules as general constraints 
+on community composition. In: Weiher, E., Keddy, P.(Eds.), 
+Ecological Assembly Rules : Perspectives, Advances, Retreats. 
+Cambridge University Press, Cambridge, UK, pp . 251-271. 
+Weiher, E., Keddy, P., 1999b. Ecological Assembly Rules : 
+Perspectives, Advances, Retreats. Cambridge University Press, 
+Cambridge, UK. 
+Weiher, E., Forbes, S., Schauwecker, T., Grace, ].B., 2004. 
+Multivariate control of plant species richness in a blackland 
+prairie. Oikos 106, 151-157. 
+Welch, TG., Klemmedson, ].0., 1975. Influence of the biotic factor 
+and parent material on distribution of nitrogen and carbon in 
+ponderosa pine ecosystems. In: Bernier, B.,Winget, C.H. (Eds.), 
+Forest Soils and Forest Land Management. Les Presses de 
+l'Universite' Laval, Quebec, pp. 15'}--178. 
+Westoby, M., Walker, B., Noy-Mier, I., 1989. Opportunistic 
+management for rangelands not at equilibrium. ]. Range 
+Manage. 42, 266--274. 
+Whittaker, RH., 1960. Vegetation of the Siskiyou Mountains, 
+Oregon and California. Ecol. Monogr. 30, 27,}--338. 
+Wilson, ].B., 1999. Assembly rules in plant communities. In: 
+Weiher, E., Keddy, P. (Eds.), Ecological Assembly Rules: 
+Perspectives, Advances, Retreats. Cambridge University Press, 
+Cambridge, UK, pp. 130-164. 

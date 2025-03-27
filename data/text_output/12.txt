@@ -1,0 +1,1401 @@
+1 3
+Oecologia
+DOI 10.1007/s00442-014-2951-5
+POPULATION ECOLOGY - ORIGINAL RESEARCH
+Slow lifelong growth predisposes Populus tremuloides trees 
+to mortality
+Kathryn B. Ireland · Margaret M. Moore · 
+Peter Z. Fulé · Thomas J. Zegler · Robert E. Keane 
+Received: 11 July 2013 / Accepted: 16 April 2014 
+© Springer-Verlag Berlin Heidelberg 2014
+and dead trees were signiﬁcant (α = 0.05) across all time 
+periods tested. Our best logistical model of aspen mortality 
+indicates that younger aspen trees with lower recent growth 
+rates and higher frequencies of abrupt growth declines had 
+an increased risk of mortality. Our ﬁndings highlight the 
+need for species-speciﬁc mortality functions in forest suc-
+cession models. Size-dependent mortality functions suit-
+able for late successional species may not be appropriate 
+for species with different life history strategies. For some 
+early successional species, like aspen, slow growth at vari-
+ous stages of the tree’s life is associated with increased 
+mortality risk.
+Keywords Quaking aspen · Populus tremuloides · Tree 
+mortality · Growth pattern · Decline · Dendroecology
+Introduction
+A growing body of evidence shows that forest dieback 
+and tree mortality rates have increased in recent decades, 
+both globally and in the western United States (Allen et al. 
+2010; Anderegg et al. 2012). This increase in tree mortality 
+has been linked to drought conditions, which are expected 
+to become more frequent and severe with climate change 
+(Breshears et al. 2008; Gitlin et al. 2006; van Mantgem 
+et al. 2009). Rapid and widespread tree mortality, driven by 
+changing climate conditions, has the potential to alter forest 
+structure and composition with implications for ecosystem 
+services and ecological functions (Anderegg et al. 2012; van 
+Mantgem et al. 2009). High mortality rates could result in 
+rapid contraction of some species’ distributions (Rehfeldt 
+et al. 2006, 2009). Understanding the processes of tree mor-
+tality is critical to predicting and managing forest change 
+under future climate conditions (van Mantgem et al. 2009).
+Abstract Widespread dieback of aspen forests, some-
+times called sudden aspen decline, has been observed 
+throughout much of western North America, with the 
+highest mortality rates in the southwestern United States. 
+Recent aspen mortality has been linked to drought stress 
+and elevated temperatures characteristic of conditions 
+expected under climate change, but the role of individual 
+aspen tree growth patterns in contributing to recent tree 
+mortality is less well known. We used tree-ring data to 
+investigate the relationship between an individual aspen 
+tree’s lifetime growth patterns and mortality. Surviving 
+aspen trees had consistently higher average growth rates for 
+at least 100 years than dead trees. Contrary to observations 
+from late successional species, slow initial growth rates 
+were not associated with a longer lifespan in aspen. Aspen 
+trees that died had slower lifetime growth and slower 
+growth at various stages of their lives than those that sur-
+vived. Differences in average diameter growth between live 
+Communicated by Ines Ibanez.
+Electronic supplementary material The online version of this 
+article (doi:10.1007/s00442-014-2951-5) contains supplementary 
+material, which is available to authorized users.
+K. B. Ireland (*) 
+Department of Ecology, Montana State University,  
+PO Box 173460, Bozeman, MT 59717-3460, USA
+e-mail: kathryn.ireland@montana.edu
+M. M. Moore · P. Z. Fulé · T. J. Zegler 
+School of Forestry, Northern Arizona University, Flagstaff,  
+AZ 86011, USA
+R. E. Keane 
+Fire Sciences Laboratory, Forest Service, Rocky Mountain 
+Research Station, United States Department of Agriculture, 
+Missoula, MT 59807, USA
+
+ 
+Oecologia
+1 3
+Although the processes leading to individual tree mor-
+tality play an important role in predicting future forest 
+dieback, mechanisms of tree death remain poorly under-
+stood (Bigler and Bugman 2004b; Keane et al. 2001). Tree 
+growth at different times during a tree’s lifespan has been 
+linked to mortality (Bigler and Bugman 2004b; Bigler and 
+Veblen 2009; Das et al. 2007; Pedersen 1998). However, 
+many models of forest dynamics, including gap models, 
+treat mortality as a function of slow growth, age or size 
+without consideration of how variable growth at differ-
+ent stages of a tree’s life may contribute to the probabil-
+ity of mortality (Keane et al. 2001; Manusch et al. 2012). 
+Decreased growth in the 5–50 years preceding tree death 
+has been correlated with increased risk of mortality across 
+many different tree species, including several conifer spe-
+cies, oaks, and aspen (e.g., Bigler and Bugman 2003; Das 
+et al. 2007; Kane 2012; Ogle et al. 2000; Pedersen 1998). 
+Fast growth in the ﬁrst 50 years of a tree’s life has been 
+associated with a shorter lifespan (Bigler and Veblen 2009; 
+Black and Colbert 2008). Consistently slow lifetime growth 
+rates are associated with increased longevity, especially in 
+long-lived shade-tolerant species (Loehle 1988).
+Between species, a trade-off between growth rates and 
+longevity has been well-documented (Bigler and Bugman 
+2004a; Bigler and Veblen 2009; Black and Colbert 2008; 
+Loehle 1988). Late successional species invest more in 
+defensive compounds and structural support (i.e., higher 
+wood density) and reach sexual maturity at a later age, but 
+grow more slowly than fast-growing pioneer species (Loe-
+hle 1988). A similar trend has been observed within spe-
+cies, where slower-growing individuals are often the old-
+est trees and trees that initially grow fast frequently die at 
+younger ages (Bigler and Veblen 2009; Black and Colbert 
+2008). Much of the work linking intraspeciﬁc tree growth 
+patterns to the probability of mortality has focused on late 
+successional, shade-tolerant conifers (e.g., Bigler and Bug-
+man 2004a; Bigler and Veblen 2009; Das et al. 2007). But, 
+some studies have also shown support for an inverse rela-
+tionship between growth rate and longevity in shade-intol-
+erant, pioneer species, such as ponderosa pine (Pinus pon-
+derosa) and bigtooth aspen (Populus grandidentata) (e.g., 
+Black and Colbert 2008; Johnson and Abrams 2009).
+Aspen (Populus tremuloides) provide a good opportunity 
+to investigate the broad applicability of the relationships 
+between tree growth rates and mortality because they offer 
+another example of a shade-intolerant, pioneer species. 
+Additionally, aspen serve as a good example of the need to 
+better understand tree mortality because aspen forests are 
+currently experiencing extensive forest dieback (Worrall 
+et al. 2013). Rapid and severe canopy dieback and mortal-
+ity in aspen forests, termed sudden aspen decline (SAD), 
+has been observed across much of North America, includ-
+ing southwestern Canada, the Great Lakes, throughout 
+much of the Rocky Mountains, and in the southwestern US 
+(Fairweather et al. 2008; Frey et al. 2004; Huang and Ande-
+regg 2012; Worrall et al. 2008, 2010; Zegler et al. 2012).
+Aspen overstory tree mortality is particularly high in 
+northern Arizona, which is near the southwestern limit of 
+the species’ contiguous range in North America. In the San 
+Francisco Peaks in northern Arizona, aspen stands sus-
+tained cumulative mortality levels of 55 % from 2000 to 
+2007 (Fairweather et al. 2008). Based on stand conditions 
+sampled between 2009 and 2010 on the Kaibab National 
+Forest, Zegler et al. (2012) reported the highest overstory 
+aspen mortality for the western US (50 % by tree density; 
+44 % by basal area). Aspen sustained the highest overstory 
+(45 %) mortality rates of four tree species studied in mixed 
+conifer forests that were sampled in 2008 in this region 
+(Kane 2012). Sixty-two percent of the measured aspen 
+mortality in these stands occurred between 1996 and 2008 
+(Kane 2012). Following a period of severe drought, aspen 
+sustained relative overstory mortality rates (dead trees as a 
+proportion of live trees) of 85 % between 2002 and 2007 in 
+northern Arizona (Ganey and Votja 2011). As other authors 
+have suggested, these high mortality rates may represent 
+early indications of aspen’s response to climate warming 
+near the southern edge of its distribution (Ganey and Votja 
+2011; Gitlin et al. 2006).
+Factors related to site and stand conditions, as well as 
+the prevalence of insect attacks and tree diseases have been 
+linked to SAD. Spatial settings with higher moisture stress, 
+such as lower elevations, ﬂatter slope angles, and southern 
+and western facing slopes are associated with SAD (Huang 
+and Anderegg 2012; Worrall et al. 2008, 2010). Forest type 
+and conifer basal area interact with drought and late-spring 
+frosts to contribute toward aspen mortality (Fairweather 
+et al. 2008; Zegler et al. 2012). For example, aspen over-
+story mortality in northern Arizona was higher in lower ele-
+vation ponderosa pine-Gambel oak (Pinus ponderosa and 
+Quercus gambelii) dominated forests (57 % of aspen basal 
+area) than in nearby mixed conifer forests (38 % by basal 
+area; Zegler et al. 2012). In the same study, the most impor-
+tant factors explaining aspen overstory mortality were con-
+tributing factors, especially wood-boring insects and canker 
+diseases (Zegler et al. 2012).
+Although the links between site and stand factors, cli-
+mate, insects, diseases and recent aspen mortality have been 
+investigated, the contribution of individual aspen growth 
+patterns to recent tree mortality has received relatively little 
+attention. In the two studies to examine the impact of previ-
+ous growth on aspen mortality, multiple years of reduced 
+growth and abrupt growth decreases were associated with 
+mortality (Hanna and Kulakowski 2012; Kane 2012). How-
+ever, both of these studies focused on a single forest type, 
+either pure aspen stands (Hanna and Kulakowski 2012) 
+or mixed-conifer forests (Kane 2012). To our knowledge, 
+
+Oecologia 
+1 3
+this is the ﬁrst study to examine the links between aspen 
+mortality and growth across a range of forest types over the 
+elevational gradient of aspen’s distribution and at multiple 
+different stages of a tree’s lifespan.
+In this study, we use tree-ring data to examine the rela-
+tionship between growth patterns at different stages of an 
+aspen tree’s life and individual tree mortality. We com-
+pare growth patterns between trees that died and those that 
+survived across the tree’s entire lifespan, at the beginning 
+of life, and in the years preceding death. Speciﬁcally, our 
+objectives were to determine whether trees that died and 
+those that survived exhibited different growth patterns (1) 
+across their entire lifespan, (2) within the initial 50 years of 
+growth, and (3) in the 5–100 years prior to death. Finally, 
+we built models of tree mortality using growth pattern vari-
+ables at these different periods within a tree’s life to explore 
+the utility of tree growth variables in predicting aspen tree 
+mortality.
+Materials and methods
+Study area
+The study area was the 248,234 hectare Williams Ranger 
+District of the Kaibab National Forest, in northern Arizona 
+in the United States. Aspen occupies <1 % of the study 
+area and occurs primarily as small and patchy stands, with 
+larger stands (approximately 30–40 ha) at higher eleva-
+tions (>2,400 m) on Bill Williams Mountain, Kendrick 
+Peak, and Sitgreaves Mountain (Zegler et al. 2012). At 
+the lowest elevations, aspen stands are often surrounded 
+or mixed with ponderosa pine and Gambel oak. At middle 
+elevations and north-facing slopes, aspen co-occur with 
+Douglas-ﬁr (Pseudotsuga menziesii var. glauca), south-
+western white pine (Pinus strobiformis), and ponderosa 
+pine. In addition to Douglas-ﬁr and southwestern white 
+pine, the highest elevation aspen stands are also mixed 
+with white ﬁr (Abies concolor) and corkbark ﬁr (Abies 
+lasiocarpa var. arizonica).
+Elevations within the study area range from 1,435 to 
+3,175 m, and aspen stands are found between 1,900 and 
+3,125 m. Precipitation in the study area is bimodal with 
+peaks during the summer monsoon (July–September) and 
+winter (January–March). Climate summaries from the 
+Williams, Arizona weather station 1897–2012 show that 
+total precipitation averages 549 mm annually, 199 mm 
+during the monsoon and 161 mm during the winter 
+(WRCC 2012). June is the driest month, with an average 
+of 12 mm precipitation. The coldest month is typically 
+January and the warmest month is July, with average mini-
+mum and maximum temperatures of −6.9 °C and 28.7 °C, 
+respectively.
+Sampling design
+Zegler et al. (2012) previously sampled 48 aspen stands 
+within our study area. We randomly selected a subset of 
+their stands, stratiﬁed by three forest types, described 
+below. We chose to sample by forest type because differ-
+ences in species composition reﬂect differences in slope, 
+soils, stand history, or other factors not accounted for by 
+elevation alone. Within each forest type, we randomly 
+selected a subset of their sites that had never been exclosed 
+and had at least ﬁve live overstory aspen and nine dead 
+overstory aspen from which to take increment cores. We 
+classiﬁed sites as ponderosa pine forest (Pinus ponderosa, 
+abbreviated as PIPO using the ﬁrst two letters of the spe-
+cies and genus name) if aspen were present with ponder-
+osa pine as the only conifer species present. If ponderosa 
+pine and Douglas-ﬁr were present in the absence of white 
+ﬁr or subalpine ﬁr, sites were classiﬁed as ponderosa pine 
+and Douglas-ﬁr forest (Pinus ponderosa/Pseudotsuga 
+menziessii, abbreviated as PIPO/PSME). When white ﬁr 
+or subalpine ﬁr was present with Douglas-ﬁr, sites were 
+classiﬁed as Douglas-ﬁr and white ﬁr forest (Pseudotsuga 
+menziesii/Abies concolor, abbreviated as PSME/ABCO). 
+PIPO forests were at the lowest elevations, followed by 
+PIPO/PSME and PSME/ABCO forests, but there were 
+overlaps in elevation ranges (Table 1). We randomly 
+selected 5 sites each within PIPO/PSME and PSME/ABCO 
+forests, but only 4 sites within the PIPO forest had enough 
+living overstory aspen to meet our criteria, giving us a total 
+of 14 sites. We accepted fewer samples from live trees to 
+include sites from the PIPO forest, where mortality was so 
+high that only four of the sites with sufﬁcient dead trees 
+had ﬁve or more living overstory aspen.
+Table 1  Site characteristics for aspen sites sampled in three forest 
+types
+PIPO Ponderosa pine dominated forest; PIPO/PSME ponderosa pine/
+Douglas-ﬁr dominated forest; PSME/ABCO Douglas-ﬁr/white ﬁr 
+dominated forest) in northern Arizona
+BA basal area, values reported are mean (standard error); 4 sites were 
+originally sampled in the PIPO forest type, but only 2 sites had live 
+trees with at least 50 years growth and could be used in statistical 
+analyses
+Characteristic
+Forest type
+PIPO
+PIPO/PSME
+PSME/ABCO
+Number of sites
+2
+5
+5
+Elevation range (m)
+2,158–2,2207
+2,446–2,716
+2,547–2,888
+Slope range (%)
+4–7
+10–43
+18–54
+Aspects
+N, W
+Flat, E, W
+Flat, N, W
+Total BA (m2 ha−1)
+24.5 (13.7)
+29.6 (3.1)
+58.6 (5.1)
+Conifer BA
+20.0 (12.8)
+16.2 (3.3)
+25.0 (3.7)
+Aspen BA
+4.5 (0.9)
+13.4 (3.3)
+33.6 (5.0)
+
+ 
+Oecologia
+1 3
+Plot design and overstory sampling methods are 
+described in detail in Zegler et al. (2012). Brieﬂy, Zegler 
+et al. (2012) sampled overstory trees on four 8-m radius 
+(~0.02 ha) plots at each site. Overstory trees were deﬁned 
+as those trees ≥10 cm in diameter at 1.37 m above the 
+ground (diameter at breast height, DBH). Trees were per-
+manently marked with metal tags and tree species, DBH, 
+and condition class were recorded. We reclassiﬁed the con-
+dition classes measured by Zegler et al. (2012) into two 
+classes: live and dead. Trees that we classiﬁed as dead fell 
+into the following categories, as classiﬁed by Zegler et al. 
+(2012): (1) loose-bark snag, (2) clean-bark snag, (3) snag 
+broken above breast height (BH), (4) snag broken below 
+BH, and (5) dead and down.
+Tree-ring analysis
+Increment cores were collected from all live aspen trees 
+≥20 cm DBH and a 10 % random sample of smaller aspen 
+(>5 cm DBH), to sample a minimum of ﬁve live aspen 
+cores per site. The majority of live tree cores were collected 
+during initial site visits by Zegler et al. (2012), in 2009 and 
+2010, although we collected a few supplemental cores in 
+2012 to bring the sample size up to our minimum of ﬁve 
+live aspen cores per site. We revisited the sites in 2012 and 
+collected increment cores from any standing dead aspen 
+or aspen logs that were not too rotten to sample (approxi-
+mately 10.5 % of snags/logs attempted), for a minimum of 
+9 and up to a maximum of 15 dead aspen cores per site. 
+We used data collected by Zegler et al. (2012) to ensure 
+that all sampled dead aspen had been dead when the site 
+was initially sampled, in 2009 or 2010. Whenever possi-
+ble, we took cores at 40 cm above the ground, but occa-
+sionally sampled at BH when cores taken from the lower 
+sampling height were too rotten; we recorded the height at 
+which cores were sampled. If a selected tree was too rotten, 
+we sampled the closest aspen tree of similar size (DBH). 
+We attempted to reach pith whenever possible. Because our 
+goal was to investigate relationships between growth and 
+mortality, it was most important to us to have intact outer 
+rings, so we accepted cores that did not reach the pith due 
+to rot, but had at least 50 years of growth preceding the 
+outer ring. When cores were on a slope, we collected cores 
+perpendicular to the slope of the plot to avoid compression 
+wood.
+Increment cores were prepared and crossdated using 
+standard dendrochronology techniques (Stokes and Smi-
+ley 1968), as described below. All cores were mounted 
+and sanded with progressively ﬁner grit sandpaper, ﬁnish-
+ing with ANSI 400-grit (20.6–23.6 µm) and then hand-
+polished using 40, 30, and ﬁnally 15 µm sanding ﬁlm until 
+rings were clearly visible under a microscope. All cores 
+from live trees were visually crossdated, ring widths were 
+measured for a maximum of ten samples for live aspen 
+from each site, and we veriﬁed our crossdating using the 
+COFECHA software program (Holmes 1983). Once we 
+had developed a reliable chronology for live aspen trees 
+from each site, we visually crossdated the dead aspen trees. 
+We also measured ring widths for a maximum of ten dead 
+aspen samples at each site and assessed our crossdating 
+against the live samples using COFECHA.
+For those trees that either had pith or came within an 
+estimated 20 rings of the pith, we estimated age as the num-
+ber of rings from pith to the outermost ring. We estimated 
+the number of missing rings using a pith locator based on 
+the curvature of the inner rings (Applequist 1958). Because 
+aspen can elongate to at least 1 m in height in their ﬁrst 
+growing season (Romme et al. 1995), we did not adjust age 
+for coring height. All ages presented in this study are age at 
+coring height.
+We converted ring width measurements to inside-bark 
+basal area increments (BAI) to remove any age-related 
+growth trends, using the dpIR package in R (Bunn 2008). 
+As has been frequently shown in studies of tree mortality, 
+BAI is considered a better measure of overall tree growth 
+than ring width because it reliably reduces the trend of 
+declining growth as trees age (Bigler and Bugman 2003, 
+2004a, b; Biondi and Qeadan 2008). Since conversion 
+from ring-widths to BAI assumes that ring widths decline 
+with age, we examined plots of both raw ring widths and 
+BAI against tree ages for those trees with at least 50 years 
+growth and whose age we could estimate within 20 rings 
+of pith (Table 2). We found that, within a given age class, 
+mean ring width did decline with age and that converting 
+to BAI reduced this age related growth trend; therefore, 
+we concluded that converting ring widths to BAI repre-
+sented the most appropriate measure of overall tree growth 
+(Appendix S1 in Online Resources).
+Comparing lifetime and initial growth
+Our ﬁrst goal was to determine whether lifetime growth 
+patterns differed between trees that ultimately died (hence-
+forth, dead trees) and those that survived (live trees). Sec-
+ondly, we were interested in testing whether dead trees had 
+higher initial growth rates than live trees. To characterize 
+average lifetime growth of each tree, we calculated mean 
+BAI from the pith to the last annual ring. For comparisons 
+of early growth rates, we summarized average BAI during 
+the ﬁrst 50 years of each tree’s life. We decided to use the 
+ﬁrst 50 years to represent early growth because previous 
+authors have linked fast growth during this early stage of 
+a tree’s life to reduced longevity (Bigler and Veblen 2009; 
+Black and Colbert 2008). To meet assumptions of normal-
+ity in statistical tests and to reduce the weight of very high 
+BAI values, we transformed our average BAI measurement 
+
+Oecologia 
+1 3
+over each time period (bai_Lifetime, bai_ﬁrst50) using the 
+natural logarithm (lnbai_Lifetime, lnbai_ﬁrst50) (Bigler 
+and Bugman 2003). Since an accurate measure of the ini-
+tial 50 years of growth requires that all of the ﬁrst years of 
+growth are present, we restricted this analysis to those trees 
+that actually had pith (not estimated) and at least 50 years 
+of growth (Table 1). Two sites from the lowest elevation 
+forest type (PIPO) had no live trees with 50 years of growth 
+and had to be excluded from all statistical analyses.
+We tested for differences in average lifetime growth and 
+average initial growth of live and dead aspen trees using 
+multivariate analysis of variance (MANOVA) (SAS Proc 
+GLM; SAS Institute 2011). Dependent variables were each 
+tree’s average lifetime growth (lnbai_Lifetime) and aver-
+age growth over the ﬁrst 50 years of life (lnbai_ﬁrst50). We 
+considered the effects of status (live or dead), forest type 
+(PIPO, PSME/PIPO, and PSME/ABCO), and the interac-
+tion between status and forest type.
+We used a MANOVA model in order to test multiple 
+dependent variables while controlling for multicollinear-
+ity and the overall alpha level. Normality and homosceda-
+sity assumptions were tested graphically prior to ﬁtting the 
+ﬁnal MANOVA models, which were reduced to only sig-
+niﬁcant factors (α = 0.05) in the ﬁnal model. When over-
+all MANOVA models were signiﬁcant, we tested for sig-
+niﬁcant differences for each growth interval using separate 
+ANOVAs.
+Testing growth differences at the end of life
+To compare how growth differed between live and dead 
+trees later in life, we calculated average BAI over seven 
+time-periods of 5, 10, 20, 30, 40, 50, and 100 years prior 
+to death (dead trees). Following the example of Bigler and 
+Bugman (2003), we used the last annual growth ring as the 
+last year in live trees. We also analyzed the data using the 
+mean year of death (2002) as the last ring for live trees, 
+but since the results show the same trends we do not report 
+them here.
+In addition to average growth, we also calculated the 
+frequency of abrupt declines, which has been an important 
+predictor of tree mortality in previous studies of growth 
+characteristics preceding tree death (Das et al. 2007; Ped-
+ersen 1998). The frequency of abrupt declines was calcu-
+lated by summing the number of times that BAI declined 
+by more than 50 % from 1 year to the next over each time 
+period (Das et al. 2007; Pedersen 1998). We converted 
+the number of abrupt declines over a given time period to 
+the proportion of years in each time period with an abrupt 
+growth decline (abrupt_last5, abrupt_last10….abrupt_
+last50), to meet assumptions of normality.
+Again, we used multivariate analysis of variance 
+(MANOVA) to test for differences between growth charac-
+teristics of live and dead aspen trees and among forest types 
+(SAS Proc GLM; SAS Institute 2011). Dependent variables 
+were the vectors of growth characteristics for each time 
+period preceding death or sampling date (e.g., lnbai_last5, 
+lnbai_last10, 
+lnbai_last20, 
+lnbai_last30, 
+lnbai_last40, 
+lnbai_last50) and factors were status (live or dead), forest 
+type (PIPO, PSME/PIPO, and PSME/ABCO) and the inter-
+action between status and forest type. Separate MANOVA 
+models were ﬁt for the two different growth characteristics 
+(average BAI and abrupt declines).
+For this analysis, we did not require trees to have pith, 
+since we were interested in growth rates at the end of life. 
+However, we used only cores with at least 50 years of 
+growth in our analyses. Since we did not need pith, we had 
+a larger sample size than in our analysis of lifetime and ini-
+tial growth (Table 2) and we averaged the growth character-
+istics for each individual tree by status and site. Thus, site 
+represented the unit of analysis for this MANOVA (n = 24; 
+n = 12 site averages for live trees; n = 12 site averages for 
+dead trees). As before, we used separate ANOVAs to test 
+for signiﬁcant differences in each time period when overall 
+MANOVA models were signiﬁcant.
+Using a smaller subset of cores, we also tested differ-
+ences in growth characteristics between live and dead trees 
+with at least 100 years of growth prior to death. However, 
+Table 2  Sample sizes of aspen increment cores used in growth analyses
+a Trees with at least 50 years of growth and which actually had pith (not estimated) were used to calculate and test differences between live and 
+dead trees’ average basal area increment across trees’ entire lifespan and the ﬁrst 50 years of growth
+b Trees with at least 50 years of growth prior to death (or sample date) were used to calculate and test differences in growth characteristics (aver-
+age basal area increment and proportion of abrupt declines) between live and dead trees at the end of life
+c Only those trees with at least 50 years of growth and which had pith (or were within an estimated 20 years of pith) and could be accurately 
+aged were used to develop logistic regression models predicting the probability of aspen survival
+d Trees with at least 100 years of growth prior to death (or sample date) were used to test long-term differences in growth characteristics 
+between live and dead trees
+Status
+Total sampled
+Crossdated
+Measured
+50 years growth, with pitha
+50 years growthb
+Agedc
+100 years growthd
+Live
+267
+261
+125
+35
+112
+99
+67
+Dead
+166
+165
+132
+44
+108
+87
+56
+
+ 
+Oecologia
+1 3
+since the sample size for trees with at least 100 years of 
+growth was small compared to those with 50 years of 
+growth, we analyzed the 100-year growth differences sepa-
+rately from the other time-periods of growth (see below). 
+None of the trees from sites in the PIPO forests had at least 
+100-years of growth, so PIPO forests were not included in 
+the analysis of 100-year growth differences. Nine sites had 
+some live and dead trees with at least 100 years of growth.
+We tested longer-term (100-year) differences in growth 
+characteristics (average BAI and abrupt declines) between 
+live and dead trees, by forest type, using ANOVA tech-
+niques (R Statistical Package; R Development Core Team 
+2012). Because fewer trees overall (n = 123 trees; 67 live, 
+56 dead) and fewer trees per site had at least 100 years of 
+growth to test, we used individual trees, rather than sites, as 
+the unit of analysis for the ANOVAs and ran the tests sepa-
+rately from the MANOVAs described above. If the ANOVA 
+test for differences in each growth characteristic was signif-
+icant, we tested pairwise differences between forest types 
+using t tests.
+Modeling aspen mortality
+We applied logistic regression techniques to model the 
+probability of aspen survival, where a probability of one 
+indicated the tree was alive. Independent predictor vari-
+ables included each of the growth characteristic variables 
+for each time period, live conifer BA (as a proxy for com-
+petition with conifer), forest type (PIPO, PIPO/PSME, and 
+PSME/ABCO), tree age and tree DBH at the time of death 
+or at the sampling date for live trees. We randomly split the 
+data into model development (n = 99; 53 live, 46 dead) and 
+validation (n = 87; 46 live, 41 dead) datasets.
+Because we included tree age and DBH in our models, 
+we tested overall differences in these variables between live 
+and dead trees, by forest type, using ANOVA techniques (R 
+Statistical Package; R Development Core Team 2012). We 
+followed signiﬁcant ANOVAs with pairwise t tests for dif-
+ferences among live and dead trees by forest type.
+We used Akaike’s Information Criterion, adjusted for 
+small sample size (AICc), to select both the best univari-
+ate growth characteristic models and the most parsimoni-
+ous combined model (Burnham and Anderson 1998). Our 
+model selection followed methods described by Das et al. 
+(2007). We selected the best two variables for each growth 
+characteristic category (e.g., lnbai_last5, lnbai_last10…., 
+lnbai_Lifetime), as well as any variables within two AIC 
+units (∆AICc) of the best variable or those with Akaike 
+weights (wi) of 0.10 or greater. We considered growth char-
+acteristics for time periods up to 50 years prior to death 
+or sampling and also included average growth (BAI) over 
+each tree’s entire lifetime (lnbai_Lifetime). However, we 
+did not use growth characteristics for the 100-year time 
+period, because restricting the analysis to only trees with 
+at least 100 years of growth would have reduced our sam-
+ple size by nearly half. Next, we developed models with all 
+the selected variables and any of the additional independ-
+ent predictor variables (conifer BA, forest type, tree age, 
+tree DBH). Candidate models were restricted such that 
+no model could have more than one growth characteristic 
+category (e.g., no more than one abrupt decline variable). 
+We used the R package glmulti (Calcagno and de Mazan-
+court 2010) to perform automated model selection using 
+AICc and package AICcmodavg (Mazerolle 2012) to gener-
+ate tables of AICc, ∆AICc and wi. Multicollinearity in the 
+independent variables was assessed by calculating variance 
+inﬂation factors (VIFs) and models were excluded if VIFs 
+exceeded 10 (Neter et al. 1996). We report the area under 
+the receiver operating characteristic (ROC) curve for each 
+model as a ﬁt criterion for model comparison (calculated 
+using ROCR package in R; Sing et al. 2012). The ROC sta-
+tistic is a measure of the ability of the model to accurately 
+discriminate between classes with values below 0.5 sug-
+gesting no discrimination, 0.7–0.8 suggesting acceptable 
+discrimination, and 0.8–0.9 suggesting excellent discrimi-
+nation (Hosmer and Lemeshow 2000).
+To validate our best model, we applied it to the valida-
+tion dataset and classiﬁed trees as dead when the predicted 
+probability fell beneath a speciﬁc threshold, which was 
+selected as follows. We determined an “optimal” threshold 
+by plotting the speciﬁcity (proportion of correctly classiﬁed 
+live trees in the model development dataset) and the sen-
+sitivity (proportion of correctly classiﬁed dead trees in the 
+model development dataset) curves and selecting the point 
+at which they intersect as the threshold (Hosmer and Leme-
+show 2000). Finally, the percent of correctly classiﬁed live 
+and dead trees in the validation dataset and the kappa coef-
+ﬁcient (κ), a measure of how well the classiﬁcation per-
+forms as compared to random assignment, were calculated 
+for the best model (R package caret; Kuhn 2013).
+Results
+Aspen overstory mortality was higher in the two lower ele-
+vations forest types, PIPO and PIPO/PSME forests than in 
+the higher, more mesic PSME/ABCO forests (see Appen-
+dix S2 in Online Resources). Although live conifer basal 
+area did not differ among forest types, live aspen basal area 
+was highest in the PSME/ABCO forests (Appendix S2).
+The majority of the dead trees we sampled died in recent 
+decades. Our earliest recorded death date was 1963 and the 
+most recent death date was in 2008. Across all of our sites, 
+the mean death date was 2001, but the modal year of death 
+was 2004. Ninety percent of the sampled snags died since 
+1991 (between 1991 and 2008), while 63 % died since the 
+
+Oecologia 
+1 3
+severely dry year of 2002. A major pulse of aspen mortality 
+began around 2000 and continued through 2008.
+We sampled a total of 267 live and 166 dead aspen trees, 
+of which we were able to crossdate 261 (98 %) and 165 
+(99 %), respectively (Table 2). Live and dead aspen trees 
+exhibited large and persistent differences in BAI (Fig. 1). 
+Differences were apparent over approximately 130 years 
+(since 1879). A large increase in mean BAI is apparent in 
+both live and dead trees starting in 1905 (Fig. 1). Although 
+beyond the scope of this study, this rise may be due to the 
+persistent drought conditions of the preceding decade. The 
+Palmer Drought Severity Index—an index of moisture 
+availability where negative values represent drier than aver-
+age conditions—was negative in every year from 1895 to 
+1904 and switched to positive in 1905 (Cook et al. 2004).
+Lifetime and initial growth differences
+Live trees had higher average growth rates across their 
+lifetime and in the ﬁrst 50 years of growth than dead trees 
+(Fig. 2a, c; MANOVA Wilk’s λ(2,72) = 0.67, P < 0.0001). 
+The univariate ANOVAs showed that live trees had higher 
+average growth rates than dead trees for both lifetime 
+growth (Fstatus = 18.46, P < 0.0001) and initial growth  
+(Fstatus = 4.45, P = 0.04).
+The effect of forest type was also signiﬁcant, with the 
+highest average growth rates in PIPO/PSME forests (Fig. 2; 
+MANOVA Wilk’s λ(4,144) = 0.72, P < 0.0001). PIPO/PSME 
+forests also had higher growth rates than the other two 
+forest types in univariate tests for both lifetime growth  
+(Fforest type = 8.56, P = 0.0003) and initial growth  
+(Fforest type = 3.88, P = 0.02).
+Differences between live and dead trees varied by for-
+est type, with a signiﬁcant multivariate effect of the inter-
+action between status and forest type (Fig. 2; MANOVA 
+Wilk’s λ(4,144) = 0.85, P < 0.02). However, these differ-
+ences were signiﬁcant in univariate tests for lifetime aver-
+age growth rate (Fstatus × forest type = 0.73, P = 0.05), but not 
+for initial growth (Fstatus × forest type = 0.95, P = 0.39). The 
+univariate tests revealed that live trees had higher lifetime 
+growth rates than dead trees in both PIPO/PSME (Fig. 2b; 
+P < 0.004) and PSME/ABCO (Fig. 2b; P < 0.0001) for-
+ests when comparison were made within forest types. But, 
+within PIPO forests live and dead trees’ lifetime growth 
+rates were the same (Fig. 2b; P = 1.0).
+Growth differences at the end of life
+Later in life, average BAI showed larger and more consist-
+ent differences between live and dead aspen trees across 
+time periods than the proportion of abrupt declines (Fig. 3). 
+Live trees in PIPO forests had much higher average BAI 
+in recent years (most recent 5–10 years) than either of the 
+other two forest types, but converged toward average BAI 
+in PIPO/PSME forests over longer time periods.
+Live trees had higher average BAI across all time peri-
+ods than dead trees. Forest type and the interaction between 
+status (live/dead) and forest type were nonsigniﬁcant, so 
+Fig. 1  Time series plots from 
+1879 to 2006 of live and dead 
+aspen (Populus tremuloides) 
+trees for a number of measured 
+trees and b mean basal area 
+increment (BAI; x ± SE). We 
+had a total of 135 measured 
+dead trees and 141 measured 
+live trees. For clarity, only the 
+time frame (1879–2006) where 
+we had measurements for at 
+least 10 % of measured live 
+and dead trees (14 trees in each 
+category) is shown
+0
+25
+50
+75
+100
+125
+150
+Number of trees
+Live trees
+Dead trees
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1880
+1890
+1900
+1910
+1920
+1930
+1940
+1950
+1960
+1970
+1980
+1990
+2000
+Mean basal area  increment (mm2 yr -1)
+Year
+(a)
+(b)
+
+ 
+Oecologia
+1 3
+they were removed from the MANOVA model. However, 
+differences between live and dead trees’ average BAI for 
+each time period were signiﬁcant (MANOVA; Table 3). 
+Univariate analyses for each time period indicated that live 
+trees’ average BAI was higher than that of dead trees across 
+all time periods (Table 3).
+There was no difference in the proportion of abrupt 
+declines across tree status (MANOVA Wilk’s λ(6,13) = 0.45, 
+P = 0.07), forest type (Wilk’s λ(12,26) = 0.48, P = 0.49), or 
+their interaction (Wilk’s λ(12,26) = 0.31, P = 0.12). Because 
+none of the factors in the overall MANOVA for abrupt 
+declines were signiﬁcant, no further multivariate or univari-
+ate analyses for each time period were examined.
+Dead trees exhibited slower average growth than live 
+tree over long time frames. Dead trees had lower aver-
+age BAI (by 201.2 mm2 year−1) than live trees over the 
+100 years preceding death (ANOVA F(2, 120) = 24.9, 
+P < 0.0001). The effect of forest type was signiﬁcant 
+(P = 0.0001). However, with α = 0.025 to control the Type 
+I error rate of conducting two t tests, differences between 
+live and dead trees were not signiﬁcant in PIPO/PSME 
+forests (P = 0.05) and signiﬁcant in PSME/ABCO forests 
+(P < 0.0001). In PSME/ABCO forests, the average BAI of 
+dead trees was 182.0 mm2 year−1 lower than that of live 
+trees over the previous 100 years. Differences between live 
+and dead trees in the proportion of abrupt declines dur-
+ing the preceding 100 years were not signiﬁcant (ANOVA 
+F(2, 120) = 0.54, P = 0.58).
+Predicting aspen mortality
+Trees that died were generally younger and smaller than 
+those that survived. The average age of dead trees was lower 
+(by 19.5 years) than live trees (df = 3, 175; F = 93.65; 
+P < 0.0001) and the average DBH of live trees was larger 
+(by 8.9 cm) than that of dead trees (df = 3,175; F = 37.2; 
+P < 0.0001). For both age and DBH, the effect of forest 
+type in the overall ANOVAs was signiﬁcant (P < 0.0001 for 
+age; P = 0.0002 for DBH), as was the effect of status (live/
+dead; P < 0.0001 for age and DBH). Differences between 
+live and dead trees’ ages were driven by the PSME/ABCO 
+forest type, and differences in tree DBH were signiﬁcant 
+for the PIPO/PSME and PSME/ABCO forest types (see 
+Appendix S3 in Online Resource 1).
+The best univariate model of aspen mortality for the 
+average BAI category was average BAI over the past 
+40 years (lnbai40). Lifetime BAI and BAI over the most 
+recent 10 years had ∆AICc > 2 and wi < 0.10 and were 
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+All
+PIPO
+PIPO/PSME
+PSME/ABCO
+Mean basal area increment (ln [mm2 yr-1])
+Forest type
+A
+B
+A
+B
+A
+B
+C
+B
+C
+A
+B
+A
+B
+(a)
+(b)
+(c)
+(d)
+Dead trees
+Live trees    
+A
+Fig. 2  Differences between live and dead trees in a lifetime mean 
+BAI over all forest types, b lifetime mean BAI for three forest types, 
+c initial (ﬁrst 50 years) mean BAI over forest types and d initial mean 
+BAI for three types. Bars Mean ± SE. Mean BAI is shown on a natu-
+ral logarithmic scale. Bars that share a capital letter are not signiﬁ-
+cantly different (α = 0.05) from one another. Letters denoting signiﬁ-
+cant differences are not shown in panel (d) because the interaction 
+between forest type and status (live/dead) was not signiﬁcant for ini-
+tial growth (Fstatus × forest type = 0.95, P = 0.39)
+
+Oecologia 
+1 3
+not used to construct multiple variable models. All of the 
+remaining average BAI variables were considered in our 
+multiple variable models. For abrupt declines, the best 
+model was the 5 year time period (abrupt5), followed by 
+the 30 year (abrupt30), 50 year (abrupt50) and 40 year 
+(abrupt40) time periods, which all had wi > 0.10 and were 
+included for consideration in our multiple variable models.
+Growth patterns in the most recent 5 years were strong 
+predictors of aspen mortality. Five models fell within 
+two AICc units of the best model (Table 4). All ﬁve of 
+these models included average BAI over the most recent 
+5 years. In addition, the variables abrupt decline over the 
+most recent 5 years, tree age, and tree DBH were each 
+included in three out of the ﬁve best models. Forest type 
+was included in two of the best models. The area under the 
+ROC curve ranged from 0.88 to 0.90 for the best ﬁve mod-
+els, suggesting excellent discrimination among live and 
+dead trees. Multicollinearity was not apparent in any of the 
+best models (VIF < 3.0).
+The selected model included average BAI and abrupt 
+declines over the most recent 5 years, as well as age 
+(Table 5). When applied to the validation dataset, this 
+model had an overall accuracy of 77 % and κ = 0.54. The 
+model correctly classiﬁed 85 % (35/41) of dead trees and 
+70 % (32/46) of live trees at a threshold level of 0.59.
+Discussion
+The relationship between tree growth and mortality is 
+used widely to predict risk of tree mortality. A large num-
+ber of studies have reported a decline in growth rates in 
+the years preceding the death of an individual tree (Bigler 
+and Bugman 2004b; Das et al. 2007; Ogle et al. 2000; Ped-
+ersen 1998). Another commonly reported relationship is 
+the trade-off between high growth rates at the beginning 
+of a tree’s life and reduced longevity (Bigler and Bugman 
+2004a; Bigler and Veblen 2009; Black and Colbert 2008). 
+We present here an analysis of the relationship between 
+an individual aspen tree’s lifetime growth patterns and 
+mortality.
+Differences in average growth between live and dead 
+aspen were apparent over both long and short time periods, 
+0.00
+0.05
+0.10
+0.15
+0.20
+0.25
+5
+10
+20
+30
+40
+50
+100
+Time periods (yrs)
+(a)
+(b)
+Mean basal area increment (mm2 yr-1)
+Proportion of abrupt declines
+0
+100
+200
+300
+400
+500
+600
+700
+800
+Live trees
+Dead trees
+Fig. 3  Temporal trends of live and dead aspen trees, a basal area 
+increment (x ± SE) and b proportion of abrupt declines in growth 
+over the 100 years preceding death (dead trees) or sampling (live 
+trees). For the 5–50 year time periods, average values are shown for 
+trees with at least 50 years of growth preceding death (or sample date 
+for live trees; n = 112 live trees and n = 108 dead trees). Dashed 
+lines indicate that a smaller subset of trees were used to calculate 
+average values for this time period because fewer trees had 100 years 
+of growth (n = 67 live trees, n = 56 dead trees)
+Table 3  Results of multivariate analysis of variance (MANOVA) 
+test for differences in average growth rates (natural log of basal area 
+increment) between live and dead trees across different time periods 
+in 12 sites (n = 12 site averages for dead trees, n = 12 site averages 
+for live trees; df = 23)
+Only trees with at least 50 years of growth prior to death (sample date in live trees) were included. Because the MANOVA test was signiﬁcant at 
+α = 0.05, results of univariate ANOVAs for status (live/dead) (Type III sums-of-squares, status: live/dead) for each time period are also shown
+a Type III sums-of-squares for the model (status: live/dead)
+Overall MANOVA
+Univariate ANOVAs
+5 years
+10 years
+20 years
+30 years
+40 years
+50 years
+SS type IIIa
+6.58
+4.21
+3.28
+3.05
+2.73
+2.38
+Wilk’s λ
+0.334
+F
+5.66
+17.83
+11.59
+8.41
+9.69
+9.7
+9.68
+p
+0.002
+0.0004
+0.0025
+0.0083
+0.0051
+0.0051
+0.0051
+
+ 
+Oecologia
+1 3
+extending across entire tree life spans and sometimes as 
+far back as 100 years prior to death. Across all stages of 
+a tree’s life, live aspen trees had higher growth rates than 
+trees that ultimately died. For the years leading up to tree 
+death, our results support previous work in other tree spe-
+cies linking reduced growth in the years prior to death to 
+an increased probability of mortality (Bigler and Bugman 
+2004b; Das et al. 2007; Ogle et al. 2000; Pedersen 1998). 
+However, our ﬁndings that live trees had higher lifetime 
+and initial average growth rates than dead trees contradict 
+previous work suggesting a trade-off between growth rates 
+and longevity (e.g., Bigler and Bugman 2004a; Black and 
+Colbert 2008; Johnson and Abrams 2009).
+For shade-tolerant conifers, rapid average growth dur-
+ing the ﬁrst 50 years of the tree’s life reduced tree longev-
+ity, possibly as a result of trade-offs between growth and 
+defense (Bigler and Veblen 2009). Our results suggest the 
+opposite trend for aspen, with slow growth over long time 
+frames leading to increased mortality. Even when compar-
+ing the ﬁrst 50 years of growth, trees that died had slower 
+growth rates than those which survived. For fast-growing, 
+shade-intolerant species like aspen, investment in rapid 
+growth may provide a stronger advantage than investment 
+in defense (Bigler and Bugman 2003).
+A major limitation of many forest succession models is 
+the lack of species-speciﬁc, empirically derived relation-
+ships between growth and tree mortality (Bigler and Bug-
+man 2004b; Keane et al. 2001). Although models that use 
+size-dependent mortality functions may be able to produce 
+the negative relationship between tree growth rate and 
+longevity observed for many tree species (Manusch et al. 
+2012), our results indicate the need for implementation of 
+different mortality functions for trees with different life his-
+tory strategies. For some pioneer species, like aspen, slow 
+growth at various stages in the tree’s lifecycle is linked to a 
+higher probability of mortality.
+Although aspen tree mortality differed by forest type 
+(Appendix S2), variation in growth rates was related more 
+strongly to whether trees had died or survived than to dif-
+ferences among forest types. Only lifetime average growth 
+Table 4  Logistic regression results for the ﬁve best performing models of aspen mortality based on growth characteristics for a given time 
+period
+Variables in models: lnbai mean natural log transformed basal area increment, abrupt proportion of years with abrupt declines, tree age (years), 
+DBH diameter at breast height (cm),  ForType forest type
+Models were developed using a subset of the data (n = 99; n = 53 live and n = 46 dead) by combining variables from the best single variable 
+models, with the restriction that no more than one variable from each growth characteristic category (mean BAI and abrupt declines) could be 
+included in a model
+a Akaike’s information criterion; corrected for ﬁnite sample size
+b ∆AICc = Difference in AIC relative to the best model
+c wi = AIC weights, which represent the probability that the given model is the best model
+d Area under the ROC curve, a ﬁt criterion where 0.5 indicates no discrimination, 0.7–0.8 indicates moderate discrimination, and >0.8 represents 
+excellent discrimination (Hosmer and Lemeshow 2000; Das et al. 2007)
+Model
+df
+AICc
+a
+∆AICc
+b
+wi
+c
+Area under ROC curved
+lnbai5 + abrupt5 + age
+88
+85.87
+0.00
+0.47
+0.89
+lnbai5 + age
+89
+86.94
+0.07
+0.09
+0.88
+lnbai5 + abrupt5 + age + DBH
+87
+87.27
+0.35
+0.07
+0.90
+ForType + lnbai5 + abrupt5 + DBH
+87
+87.38
+0.52
+0.07
+0.90
+ForType + lnbai5 + DBH
+88
+87.69
+0.89
+0.06
+0.89
+Table 5  Estimates of model coefﬁcients for the best performing logistic regression model of the probability of aspen mortality (1 = live; 
+0 = dead)
+Reported results include the difference in deviance between the best model and a model including only the intercept term (G2), degrees of free-
+dom (df) and P value for a Pearson χ2 test for how well the model ﬁts the data relative to a model including only the intercept
+a Degrees of freedom (df) for the Pearson χ2 test are calculated as the difference between the df for a model with only the intercept (df = 91) 
+and the df for the best model (df = 88)
+Estimate
+SE
+Pr (>|z|)
+G2
+df a
+P
+(Intercept)
+−13.21
+2.93
+<0.0001
+49.736
+3
+<0.0001
+ln_bai5
+1.80
+0.40
+<0.0001
+Abrupt_prop5
+−3.17
+1.78
+0.0744
+Age
+0.03
+0.01
+0.0007
+
+Oecologia 
+1 3
+rates differed by forest type, early growth rates and growth 
+rates in all the time periods prior to death were similar 
+across forest types. These results are consistent with pre-
+vious work in other tree species suggesting that reduced 
+growth in the years preceding death is a reliable predictor 
+of mortality (e.g., Bigler and Bugman 2004b; Das et al. 
+2007; Ogle et al. 2000; Pedersen 1998), but our results 
+showed a much longer growth difference than has been 
+reported previously. Longer-term differences in growth 
+between live and dead trees, extending 20–25 years prior 
+to death, have been documented in Norway spruce (Picea 
+abies), white ﬁr, and oak-hickory forests (Bigler and Bug-
+man 2004a; Das et al. 2007; Pedersen 1998). Similar to our 
+study, Kane (2012) found growth differences between live 
+and dead aspen up to 50 years prior to death. Our record 
+of tree measurements extended further back in time than 
+any previous study of aspen growth and mortality and 
+documented persistent differences in average growth for 
+50–100 years prior to the present, as well as over the entire 
+lifespan of the trees.
+Predicting tree mortality
+Short-term growth characteristics are also associated with 
+aspen mortality. Aspen mortality was correlated with lower 
+average growth and higher variability in growth (frequency 
+of abrupt declines) in the most recent 5 years, as well as 
+with younger age. Our results indicate that trees with lower 
+recent (past 5 years) growth were more likely to die. Simi-
+lar to our ﬁndings, the most recent 5 years of growth was an 
+important predictor of aspen mortality in models for three 
+of ten sites in Colorado (Hanna and Kulakowski 2012) and 
+was an important predictor in three of the four best models 
+of aspen mortality in northern Arizona mixed-conifer for-
+ests (Kane 2012). Our model’s success rate at classifying 
+live and dead aspen trees (77 % overall accuracy) is simi-
+lar to those of Hanna and Kulakowski (2012; 72 % overall 
+accuracy) and Kane (2012; live trees: 75–77 %; dead trees: 
+76–84 %).
+Trees that had died experienced more abrupt growth 
+declines than surviving trees, as indicated by the inclusion 
+of the frequency of abrupt declines in the past 5 years as 
+an important predictor in our best model of aspen mortal-
+ity. Multiple drought events in a short period of time, such 
+as the 2000 and 2002 drought events, may stress trees that 
+are already growing slowly to the point that they cannot 
+recover, causing death. Abrupt growth declines have been 
+found to improve predictions of tree mortality models in 
+previous work (Das et al. 2007; Pedersen 1998). In mixed-
+conifer aspen forests, the frequency of abrupt declines over 
+the most recent 20 years was an important predictor of 
+aspen mortality (Kane 2012).
+Dead trees were younger than live trees, a result consist-
+ent with ﬁndings from Colorado (Hanna and Kulakowski 
+2012). However, differences in age between live and dead 
+trees in our study area were associated primarily with 
+PSME/ABCO forests and not the other two forest types. 
+Although age was not a signiﬁcant predictor of aspen mor-
+tality in overall aspen models in Colorado, it was an impor-
+tant predictor at four out of the ten sites studied (Hanna 
+and Kulakowski 2012). Age differences between live and 
+dead trees could be a sampling artifact resulting from decay 
+that prevented us from adequately sampling the age range 
+of dead trees. Dead trees were more likely to be rotten in 
+the center, so our data could be biased toward trees that 
+were smaller and younger when they died. Although we 
+were able to crossdate some very old trees (oldest live tree: 
+231 years, oldest dead tree: 199 years), we may not have a 
+complete sample of the age range of trees that died.
+We found that dead trees were smaller than live trees 
+for the two higher elevation forest types (PIPO/PSME and 
+PSME/ABCO). Aspen DBH was an important predictor of 
+aspen mortality in three out of ten sites in Colorado, but not 
+in overall aspen mortality models (Hanna and Kulakowski 
+2012). Although our results show some parallels with those 
+of Hanna and Kulakowski (2012), it is worth noting that 
+other studies of aspen mortality have not found a relation-
+ship between aspen mortality and either tree size or age 
+(Worrall et al. 2008). The larger size of live trees could be a 
+result of their higher growth rates, on average, or that they 
+had more years of continued growth than the trees which 
+had died (Hanna and Kulakowski 2012).
+Since we found no signiﬁcant differences in conifer 
+basal area between forest types (see Appendix S2), there 
+may not have been enough variability in conifer basal 
+area for it to be an important predictor of aspen mortality 
+in our sites. Across sites, conifer basal area ranged from 1 
+to 34 m2 ha−1, with an average basal area of 10 m2 ha−1 
+(standard deviation = 10 m2 ha−1). But, average conifer 
+basal area by forest type ranged from 13 to 25 m2 ha−1, 
+with an average basal area of 18 m2 ha−1 (standard 
+deviation = 10 m2 ha−1).
+Conclusions and management implications
+Growth patterns of individual trees are strong predictors of 
+whether an individual tree will survive. Forest managers 
+who wish to predict aspen mortality for a stand would need 
+at least some rough estimate of growth rates, such as an 
+estimate of BAI over the past 5–10 years calculated from 
+an increment core in the ﬁeld, to apply our models. Manag-
+ers could ﬁnd other important variables such as tree size, 
+age, or forest type in forest inventory data. However, aver-
+age BAI or the frequency of abrupt declines were included 
+
+ 
+Oecologia
+1 3
+in all of our best models, emphasizing the importance of 
+measuring these variables to accurately predict aspen 
+mortality.
+Two different trajectories of aspen decline may be 
+occurring within our study area. Long-term aspen decline, 
+driven largely by successional processes, competition, and 
+ﬁre exclusion (Romme et al. 1995) could account for most 
+of the aspen mortality in the higher elevation PSME/ABCO 
+forests. In these forests, trees that died exhibited slower 
+long-term growth and were smaller and younger than trees 
+that survived, suggesting that mortality could be driven by 
+intraspeciﬁc competition and shading. The high rates of 
+overstory mortality in the lower elevation forest types and 
+strong associations between recent (5-year) growth charac-
+teristics and death suggest that SAD may be most impor-
+tant here. Zegler et al. (2012) also suggested that overstory 
+aspen mortality was consistent with both long-term gradual 
+decline and SAD.
+Since our study area lies near the southern edge of 
+aspen’s distribution in North America, recent aspen tree 
+mortality and reductions in aspen growth, especially in the 
+lower elevation forest types, may be indicative of aspen’s 
+response to future climate change. Most instances of recent 
+aspen dieback in North America occurred in areas projected 
+to be outside of aspen’s distribution under future climate 
+scenarios (Rehfeldt et al. 2009; Worrall et al. 2013). As cli-
+mate change progresses and moisture availability decreases 
+in the Southwest, climatically suitable aspen habitat is pro-
+jected to decrease at the southern edge of its distribution 
+(Worrall et al. 2013).
+Climate change may slow average growth rates in the 
+future. Trees with higher average growth rates were better 
+able to recover from pronounced periods of growth reduc-
+tion. So, the identiﬁcation of trees with higher average 
+growth rates and management strategies aimed at maintain-
+ing these individuals may offer a means of mitigating the 
+potential effects of future climate change on aspen forests 
+in the Southwest. Testing different management strategies 
+will be important to maintaining aspen forests in the face 
+of future drying trends. One possibility might be to experi-
+mentally reduce tree density in different combinations 
+of the conifers and some of the smallest, slowest-grow-
+ing aspen trees in aspen stands in an attempt to promote 
+increased growth of the remaining trees.
+Acknowledgments We thank staff and students at the Ecological 
+Restoration Institute at Northern Arizona University, especially Don 
+Normandin and Scott Curran. The US Forest Service (USFS) Wil-
+liams Ranger District of the Kaibab National Forest provided logisti-
+cal assistance. We beneﬁted from statistical advice from Roy St. Lau-
+rent with Northern Arizona University’s Statistical Consulting Lab. 
+We thank Larissa Yocom and Amanda Stan for editorial assistance 
+and Signe Leirfallom USFS Missoula Fire Sciences Laboratory for 
+lab assistance. Mary Lou Fairweather with the USFS Arizona Zone 
+of Forest Health Protection and Carolyn Sieg with the USFS Rocky 
+Mountain Research Station provided logistical assistance. This work 
+was supported by Northern Arizona University’s School of Forestry 
+Mission Research program (McIntire-Stennis), a fellowship through 
+Science Foundation Arizona, USDA Forest Service, Rocky Mountain 
+Research Station Award #08-JV-11221633-244 and USDA Forest Ser-
+vice, Forest Health Monitoring Program, Award #INT-EM-B-10-04, 
+and the Lucking Family Foundation. We also thank three anonymous 
+reviewers for their thoughtful comments, which improved the quality 
+of this manuscript. The sampling and all research complies with the 
+current laws of the country (United States) in which the study was 
+performed.
+References
+Allen CD et al (2010) A global overview of drought and heat-induced 
+tree mortality reveals emerging climate change risk for forests. 
+For Ecol Manag 259:660–684
+Anderegg WRL, Kane JM, Anderegg LDL (2012) Consequences of 
+widespread tree mortality triggered by drought and temperature 
+stress. Nat Clim Chang 635:1–7
+Applequist MB (1958) A simple pith locator for use with off-center 
+increment cores. J For 56:141
+Bigler C, Bugman H (2003) Growth-dependent tree mortality models 
+based on tree rings. Can J For Res 33:210–221
+Bigler C, Bugman H (2004a) Assessing the performance of theoreti-
+cal and empirical tree mortality models using tree-ring series of 
+Norway spruce. Ecol Model 174:225–239
+Bigler C, Bugman H (2004b) Predicting the time of tree death using 
+dendrochronological data. Ecol Appl 14:902–914
+Bigler C, Veblen TT (2009) Increased early growth rates decrease lon-
+gevities of conifers in subalpine forests. Oikos 118:1130–1138
+Biondi F, Qeadan F (2008) A theory-driven approach to tree-ring 
+standardization: deﬁning the biological trend from expected basal 
+area increment. Tree-Ring Res 64:81–96
+Black BA, Colbert JJ (2008) Relationships between radial growth 
+rates and lifespan within North American tree species. Ecosci-
+ence 15:349–357
+Breshears DD, Huxman TE, Adams HD, Zou CB, Davison JE (2008) 
+Vegetation synchronously leans upslope as climate warms. Proc 
+Natl Acad Sci USA 105:11591–11592
+Bunn AG (2008) A dendrochronology program library in R (dpIR). 
+Dendrochronologia 26:115–124
+Burnham KP, Anderson DR (1998) Model selection and inference: a 
+practical information-theoretic approach. Springer, New York
+Calcagno V, de Mazancourt C (2010) glmulti: an R package for easy 
+automated model selection with (generalized) liner models. J Stat 
+Softw 34:1–29
+Cook ER, Woodhouse CA, Eakin CM, Meko DM, Stahle DW (2004) 
+Long-term aridity changes in the western United States. Science 
+306:1015–1018
+Das AJ, Battles JJ, Stephenson NL, van Mantgem PJ (2007) The rela-
+tionship between tree growth patterns and likelihood of mortality: 
+a study of two tree species in the Sierra Nevada. Can J For Res 
+37:580–597
+Fairweather ML, Geils BW, Manthei M (2008) Aspen decline on the 
+Coconino National Forest. In: McWilliams MG (ed) Proceedings 
+of the 55th western international forest disease work conference. 
+Oregon Department of Forestry, Sedona, Salem, pp 53–62
+Frey BR, Lieffers VJ, Hogg EH, Landhausser SM (2004) Predicting 
+landscape patterns of aspen dieback: mechanisms and knowledge 
+gaps. Can J For Res 34:1379–1390
+Ganey JL, Votja SC (2011) Tree mortality in drought-stressed mixed-
+conifer and ponderosa pine forest, Arizona, USA. For Ecol Man-
+age 261:162–168
+
+Oecologia 
+1 3
+Gitlin AR et al (2006) Mortality gradients within and among domi-
+nant plant populations as barometers of ecosystem change during 
+extreme drought. Conserv Biol 20:1477–1486
+Hanna P, Kulakowski D (2012) The inﬂuences of climate on aspen 
+dieback. For Ecol Manage 274:91–98
+Holmes RL (1983) Computer-assisted quality control in tree-ring dat-
+ing and measurements. Tree-Ring Bull 43:69–78
+Hosmer DW, Lemeshow S (2000) Applied logistic regression. Wiley, 
+New York
+Huang H-P, Anderegg LDL (2012) Large drought-induced above-
+ground live biomass losses in southern Rocky Mountain aspen 
+forests. Glob Change Biol 18:1016–1027
+Institute SAS (2011) The SAS system for windows, Release 9.3. SAS 
+Institute Inc, Cary
+Johnson SE, Abrams MD (2009) Age class, longevity and growth rate 
+relationships: protracted growth increases in old trees in the east-
+ern United States. Tree Physiol 29:1317–1328
+Kane JM (2012) Patterns and processes of tree mortality in montane 
+forests of northern Arizona PhD Dissertation, Northern Arizona 
+University, Flagstaff, AZ
+Keane RE et al (2001) Tree mortality in gap models: applications to 
+climate change. Clim Change 51:509–540
+Kuhn M (2013) Contributions from Jed Wind, Steve Weston, Andre 
+Williams, Chris Keefer, Allan Engelhardt and Tony Cooper. 
+caret: Classiﬁcation and Regression Training. R package version 
+5.15-61
+Loehle C (1988) Tree life-history strategies—the role of defenses. 
+Can J For Res 18:209–222
+Manusch C, Bugman H, Heiri C, Wolf A (2012) Tree mortality in 
+dynamic vegetation models—a key feature for accurately simu-
+lating forest properties. Ecol Model 243:101–111
+Mazerolle MJ (2012) AICcmodavg: model selection and multimodel 
+inference based on (Q) AIC (c). R package version 1.26
+Neter J, Kutner MH, Nachtscheim CJ, Wasserman W (1996) Applied 
+linear statistical models, 4th edn. Times Mirror Higher Education 
+Group, Chicago
+Ogle K, Whitham TG, Cobb NS (2000) Tree-ring variation in pinyon 
+predicts likelihood of death following severe drought. Ecology 
+81:3237–3243
+Pedersen BS (1998) The role of stress in the mortality of mid-western 
+oaks as indicated by growth prior to death. Ecology 79:79–93
+R Development Core Team (2012) R: a language and environment 
+for statistical computing, 2.15.2 edn. R foundation for statistical 
+computing, Vienna, Austria
+Rehfeldt GE, Crookston NL, Warwell MV, Evans JS (2006) Empiri-
+cal analyses of plant-climate relationships for the western United 
+States. Int J Plant Sci 167:1123–1150
+Rehfeldt GE, Ferguson DE, Crookston NL (2009) Aspen, cli-
+mate, and sudden decline in western USA. For Ecol Manage 
+258:2353–2364
+Romme WH, Turner MG, Wallace LL, Walker JS (1995) Aspen, 
+elk, and ﬁre in Northern Yellowstone National Park. Ecology 
+76:2097–3010
+Sing T, Sander O, Beerenwinkel N, Lengauer T (2012) ROCR: visual-
+izing the performance of scoring classiﬁers. R package version 
+1.0-4.
+Stokes MA, Smiley TL (1968) An introduction to tree ring dating. 
+University of Chicago Press, Chicago
+van Mantgem PJ et al (2009) Widespread increase of tree mortality 
+rates in the western United States. Science 323:521–524
+Worrall JJ et al (2008) Rapid mortality of Populus tremuloides in 
+southwestern Colorado, USA. For Ecol Manage 255:686–696
+Worrall JJ, Marchetti SB, Egeland L, Mask RA, Eager T, Howell B 
+(2010) Effects and etiology of sudden aspen decline in south-
+western Colorado, USA. For Ecol Manage 260:638–648
+Worrall JJ et al (2013) Recent declines of Populus tremuloides in 
+North America linked to climate. For Ecol Manag 299:35–51. 
+doi:10.1016/j.foreco.2012.12.033
+WRCC 
+(2012) 
+Cooperative 
+climatological 
+data 
+summa-
+ries, NOAA cooperative stations, Williams, AZ; available: 
+http://www.wrcc.dri.edu/cgi-bin/cliMAIN.pl?az9359
+Zegler TJ, Moore MM, Fairweather ML, Ireland KB, Fulé PZ (2012) 
+Populus tremuloides mortality near the southwestern edge of its 
+range. For Ecol Manage 282:196–207

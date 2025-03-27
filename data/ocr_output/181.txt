@@ -1,0 +1,613 @@
+Page 1:
+Abatrect—ie dinero an driasliove merle thal sees conkeenpoeaty fut
+(ents “pow toes backward?” andl rovonninuct pint te dutmosers and stand
+suche 1 pondenats pane dowanated starch of the Soustvwesl. Model inputs ate
+contemporary suchas) pmasuremnents of AB naps. logs, sharps, and kang trees,
+and rackal growth mawuseenents, b avalible. Key steps wchale the spphcatron of
+ewerie decay huncton to etenate snag and fog deuth dates, and the esteraton
+8 uve sare a the peconstruclin year wut rachal growth data or accrued bisa) ae
+_ncoenneed, The trodel 9 prowrded as a hanctzn Jos Rand can be mackbved foe othe
+spree and repens.
+
+Introduction
+
+‘Understanding stand Gevelopancal is on important line of evidence about refer:
+‘pace comditinms thal cam guide cwrrend restoration activities Perthrrmare, Biometric
+emconarements mich a Ghamcter o breast heaght (DAS21) caa be refsted to wee bio-
+mene, metrical storage. amd other aipocts of crosyiicm sirectwre sad fuaction
+(Oeakiag 6 al 2008). We often tack cmparical information sbow! stead development
+ad are therefore requited to war models to estumadc how stumde developed. Siend
+ecomatraction made gee ce mesns to obtein information on pat forest stractuee
+sanch on tre Gemsity oad Giameter claaacs (arrod et ol. 1999; Groves et ol 2002;
+Everea etal 2007),
+
+eg a et cae Na ee A
+SS ee ee
+
+
+Page 2:
+Feld otal (1997) and Huftengn ct al. (2001) cuttined » method of recomerecting,
+[Pett Fores strectee in sovtivweater pomderats pine forests om the bets of comics
+over mceumremcnts. Their model, wich x byt wpon ia is paper. overestimeted
+twee size aad fare density by ~ 7% (Hefimen ef at 2001). Made! accuracy wos
+‘muscuaed by comparing rocanatrected foscst srectwee with actal dete from he
+‘Wonkary plots, 6 waigee st of bisoricel sem-mapped plot om the Fort Volley
+‘Esperimeatal Fare (FVEF) sad @rovghowt Ariane and New Mexico (Moare €t
+a 2004), However, tar made! wiry is Kmided by how i woe paremmetcrizod. First,
+he sBcametric equations wiod éa he model were compiled from a variety of soweces
+‘rather then being locally poremcterined, wad thcecfore did mot 6 tae etn ot grad 98
+possible. For example, DAH and diameter amp height (DSH) were regreanod,
+bt the peblihod regression wre beard om 2 styanp height of $0 ca (17°; Hoan
+1976) while the eee weed to velidete che madel were obtsimod of 40 cm stump
+Ibcight. Second, tae mage! wre wrince yaing ¢ softwere language thetic no Langer
+‘Commonly vied. ond the its wiley wes grcetly diminished We Reve porta’ the
+‘made! to Ram opce-souree satiaticel languope (R Development Core Towm 2007),
+‘end hve poblidhed the cade as 9 acipl (Append 1) the cam be epdntod for ockcr
+species ond forest types.
+
+Here, we memmerize the model strectere inchesing the improvemncats me hove
+made 00 i We stan mate soume of the Kamitations off the cel es i i currently
+fexmeleted.
+
+Model Requirements
+
+‘Thc madel operates on on individeel-tree basis Ie requires dots om 2 wees ia the
+sagnd, bode live ead deed. A member of tekd-collected veriables are recanted for
+och tee (Tobe 1; Table 3) Wf avaiable, redid growts dete trom increment cores
+‘cee alao be iacorporited to provide accurate informatio about individwel toes
+Although (he origins madel iacheded mase specirs, he revived model presented
+there is poremetcrined for ponderade pine (Pins ponsderesd (gw. ver. scupelonaas
+
+Engel} snd Gembel ooh (Garrat qambellé Nutt). All varichles mast be in met
+ic wees,
+
+‘Bile 1, ars nh nasi, and alee vahan fos oath,
+
+ed ee Comme
+Speco —
+Connon (Regpiod Sew Tae tor deta,
+
+ikt-called Age Clas Repre O peat pi, -100 yours bb, 1 ye ps,
+S100 year ob a» 2 ypre-snaioment, >110 yaar
+Se Moc ota 200K x dot
+
+oo Onan ha, com Cis GH oF DSH w eeparent
+DH (Ona ha, even Chas OH oF DSH epee
+creer Core (Opmenal Ma core m taken the lowe varuies should
+
+To ented a 1 Center atc crm
+(every yous tack i Waar. Cm ta al cramer
+thao mrenry yous hack ph inc
+
+A ee Sorem es ae w
+
+
+Page 3:
+Model Structure
+
+Step 1: Parameter Specification
+
+Peremesers wo be specified inchede the inventory yer (yer whhen aucouyrements
+‘were obtained: con differ emong tees}, reconstruction yees (Your X. a coment: al
+tect will be recanairected beck ko chia yeor), aad deed dees of stomps, if ome
+
+‘Step 2: Populate Requiced inventory Year Variables
+
+18 is oftca mot practical to meauure ofl noqeired variebtes for ol were. For ex-
+‘ample, we generully mesuere DOH on live Gece but DSH om deed tees, anags,
+aad log. Therefane, we weed DEH-DSH regressinas to eatimate minsing dete val-
+‘wea. The regreations (Table 2) were developed thom trea on the Wockacy plot «
+series of permanent plots om the Fort Veley Experimental Forest sad Guoughowt
+Arizane pad New Mesica (Moore ¢t el. 2004). Far each apecies, multiple regret
+sion enakysia indicated thet this velationahip de mot differ hetwoce wees of dtherest
+Gckd-calied age cleates.
+
+‘Second, all woes were ausigued in the held to ane of tee fckd-colied age cleat
+4. bat ovr made ia based om reo age clantes. Ja pomderose pine, Gaac age clanes
+roughly correapand to black jeck (wees < 150 yours olf) amd yellow pime (trees
+> 130 year old: Monge ef al. 2004). Calcvlated age cleascs are edjeated bescd cm
+ag dela, wees availeble, or om the eldvcolied age cleat aad size of the tree.
+
+‘Wile 2, Reyrrtans etwwen cutie ad dismatar at must Neigh DOH, fcr ane ama a ae hang
+(20 .cm (D4 cms ara er O529 ane aril sal arama Awasal BAL i Cy or ponarans pane
+(70s ana Car ook QUEAS bon. Data av am Wostary Pa emighend vison and Mare Menara,
+
+tc Ad
+ladepeatead — Gopesbest
+eset srl
+
+S11 O25maey sopmiores
+eh OF 77.98 O35 m72.M
+
+027 tyme oom Ise
+0314 7amsro 04707297
+0784 1405257 OO7 MLO
+01 S7mers ostmier
+
+anand oto he neti,
+: porneeperay
+sad roma kl id esa.
+
+
+
+Page 4:
+(able 2, Condnen claus and deczy ann applied to ewes cn the Wnkay pm. The uz
+thien he elated daa trv 2 SO om O8H bee easatrec in ZOO Fs watanae, 2 $0 cm
+(Deb condince 1 ut autre have deel 700 whale 2 conden 7 logo he Soe ne
+fe hae des 184.
+
+conan Dower Ao emits rte foal
+’ ed :
+2 hang i
++ Rcaaly nad ag 2 ame a heer dt i
+eraery yea)
+2 tamer wg m
+$ Gamba Condinen 4 + 15%
+Sag techn iene brat ge BS Canine § ¢ Dhamater
+‘depart sng al ote
+7 Lam arog tre ow OF Condiaen 5+ }Duma iss
+‘depart snag alr
+8 Weethee idea and done: og Dusen capers ng, se0
+peren ‘aa
+ts Dah date = Cad tet incron,
+pupewry sera)
+—
+10 Samp hate Same a Condecn 7 ws
+mary Saome t Condon 7 is
+
+‘Step 3: Estimating Snag and Log Death Dates
+
+(Deed wot, snags. and logs ore ‘wacdecomponed” to catmate thei death ates
+(Table 3). Decey rates ore boned cm Ragers cf al (1984) ead samemed the SU* de-
+‘componitica rae pexcentile ac this percentile hes berm shown lo werk well (Haftinen,
+aol 2001),
+
+Step 4: Back-growth of Trees
+
+‘Troee are bach-grown from thee inventory or death dete (whichever is corlier)
+ta Your X. Throc methods orc wand. depending on the avoilability of increment
+data. Hf 2 complete increameal cove (ic. rediel increment from Yeor X to preseat
+‘and from pith to prescat) ia avaiieble, diemeter in Year X i reconatnected wing.
+te proportional recosairecton method (Behier 2005). 1f only che redial incro-
+meat from Yeor X ko preacat ia aveiieble, diometer in Voor X it reconatrected by
+sabaructing twice the rede iacsemnent from the iacide hark diameter. lnie bark,
+dlomesers were colcvletod sing published cqvetions for ponderase pine (Myers
+1943) and auaming tao bert thickens cquoted 5% of stem diemcter for Gombe!
+‘oak. Finally, if mn imcremeal date are aveiieble, iometc im Yoor X is recomatnectod
+bby calcvdeting the expected bawal eres increment for the interval between Your X.
+and the inventory year and wabarecting thet increment from fic etal ence ia the
+iaveatory your. Diameter-BA! regreuions were cokcutsted fram treet om Wankary
+Plats cheough Arizons aad New Mesica (Table 2). Advantages of those regressions,
+are thet cy are on 2 log tog acole, ane boned am large sample ines from 9 wide
+(geographic range. end epen 2 muuch larger DESH renge then peeviows rogreations.
+Alt heck grow celcvlotions ore comdhected of DSH since that nt height 9 which
+incoemeat cores aad BAI data were obtained.
+
+Ae Sore RS Re »
+
+
+Page 5:
+Discussion
+
+‘Thc accamcy with which imfividual mees are mateled Geectly affects the
+poracy of tnad-level series apc as tree demtty aad Tapcal area. Thee are tee
+msin clement that affect made! accumncy. Fie, recomairwctines peeusmne that il
+nce urvctares i the stand, inchoding highty decompoard snegs hogs, ond stomps,
+‘were ideneiied. Theis teemibie in ari cavienmmcats like the Sousiwest: dering.
+sampling ia 1997-1999, Monee otal. (2004) munsod only 9% of the wees present
+21 plot catblinhencal (1909-191). fa cavircaments wish more mesic climetes of
+ater decompenition res, this model mey not le applicable over at lng of time
+(period. Samia, stand deaortnaces such ws tres Gal commyme woody deharie will
+edece tat member of Getectahie wee sractares.
+
+‘Second, there arc a mumbes of known imme retsted to catimates of ung sad log.
+death tea. Fin, these rates were derived for ponderosa pine bul ere applied 12
+all epecies since we lack specitic mies for otber species. Second, woe comtion 6
+tamags broken below BH) is poorty linked to age (Washacwicz ef al. 2007) Thad.
+dex aes of combition I Yiogs with root bells) ees apponr to be waderestamated
+since they ae calculated toe of an age intermediate heteece comitions $ aad 6
+(Table 3) Fourth, conditions 10(anemp hoke) ond 11 (massing) were not included ia
+Rogen ct al. (1984): we have samemed thet trees of these condtions are a Least at
+old es condition 7 (og: snag henkza below B21) wees. Finally, tie decey foartiogs
+ee linear and deterministic, ond do mot capuere the nage olf veriality observed
+(Waakaewicr etal 2097)
+
+‘Thand, the throe hack growth methods yield Gificent catanptes of histone! DAH.
+‘To eaacss thin, we idcatiind 36S live ponderosa pane tocs om tae Wookary plots
+es have complete increment cares sad for wach we kaew Geir scteal DRH at
+plot cxtablishecat These particeier trees arc located om tc Cocamiac aad Prescott
+‘Notional Forests (Stacker Meador aad Moore, ese proccedangs, De Blbis eal,
+tear proceedings). Flats cm the Cocamiaa were eateblshed 1909-1913 white
+(teac athe Preacot were catablishod in 1924-1930. We estimated the DEH of cock,
+face ot plot csteblishenent wing oll thive eecamstrectinn methnds, and calculated the
+precision of exch extmmale othe devieiina between the calameted sad actual DH
+‘devidod by the acteal DEH. Ox average. the proportioned reconatrection method
+‘underestimated the actonl DOH by 3.3% (8 ~ 16.5%) wide the radial increment
+method umereatinated DBH by 15.2% (8 160%). Using the BAT method, 6.4%
+of tet weee extimated to have bees too mall ks Ie prescat at plot euipblhaneat
+(he. their emtimated diameter were acpaive) For those iecs lange enough to be
+prescat, DOH was underestimated by 12.7% (4 = 29.1%).
+
+Frumee research should wives the mae! lamidetinms identified bere sad x-
+plane the effect of tame interval on recomairection accuracy. Fawr enbmcements
+‘eld dachede the incorporation of variable stump heights sad spatial informeticn
+such on diutpace-dependeat competition from mcighbort la nbdition, eahowgh the
+model is corcatly parmmcterined far only two species in the Sousheven, the cove
+(Appendis 1) com be edited to pamneterene it for other species or repinaa. Ia spike
+of hear lamitntvoms had recomairections permit wt visweline stnad developement,
+‘itimate reference conditions thed guide carread reaarntion activities, ead quaatify
+he effect of and development om ecosystem function.
+
+
+
+Page 6:
+Acknowledgments.
+
+‘We maak R Evesee and W.W. Covington for neviewing om crties version of this
+oper. Camtemparery mceayremcats of he Woolsey plots were uypported ty USFS,
+Rocky Movaaan Rescerch Staion (RMRS) total Ventuee Agreement 22-7V7-999
+and USDA Coopensive Sime Rescarch, Education aad Esteasion Service great
+2003-5101-12919. Additional fending was provided by Mclatire-Sicania
+‘appropriations tothe School of Fonesiry aad great from the Ecological Restormicn
+{acsityte (EAL) a Nortacrn Arizone. University. We arc groefil to mymcrova people
+fromm the ERI who provided Meld, Iabarstory, dats catry masisnace, and Inga
+cal support We theak he USFS RLMRS, Cocommo Nesingel Fares, and Preicot,
+‘National Fareu for permisaion to sample this tance.
+
+References
+
+(Rakkcr 1D. 305, Are, roperncnal meted for emmsracong hsorcal eer
+deme. Comte mre of Fare Rome 35: 2515-2530.
+
+ror, B: Ragmgwrecr.D.; Obiem, P Schima R; Herod, A. 2007. Developement
+of coat and rere in ry pe fern of ecm Weng. fore of
+{anry Seemed Say 134 198214
+
+Feld PZ: Cormpen, WW: Moare MAM. 1997, Orem refercacs comb
+for comyue meget of anne pire pe fers cael
+Appice 7 218008
+
+eoven.R: Rada. 1: Sema, KO; Reka E2002. (mn Srv send
+tremerereame i amen tyre of acer cone br g-ecmaal Sp
+Fact Ecko md Memmgnment. 164: 9654
+
+Hamm, DW 1998. Raney of sp demarcate hgh Sx oven
+tro spre mt Att nd New Mesto le. Nate INT.212. USDA Fara Serve.
+erate Fare a Rag Expeteerat Seton. Open UT.
+
+Meee, RO Mefine, BLM: Hn E1999. nga ed errr pom
+os tran pede hrc preacoyaaen Fara Eckagy and Management 114
+‘3.46.
+
+eines, OW: Mone, MLL: Covmgim, WW: Cros, 2E-: Fl, PZ 2001
+ee
+AK Vinee. CR Edmemner WW. Covmgian. md A. Blake (ecm) Peder
+Fa scopes rss af camera cy kewl ewan. 2D
+‘Ape 28:27, Pogue AZ. Pracocdngs RMRS-P-22. USDA Fare Serv. Racky
+‘uaa Rewerch See, Option. OT
+
+‘en, 10: Cheer, DC: Month, |: Mery, BA. 204, Comprebcmy dae
+of emcee bee rom tr Neh Amica wos spin Gon Te
+icp. NE-319, USDA Foret Service Nerthomters Rach State, Newtown Spm.
+7
+
+‘Mary, MLM, Mafia. DW; Feld, PZ: Covmguem, WW: Cm E2004,
+Comperace cf hacer and cope) barat racer and compo om
+(tment plots ape catem pmcoron pane forrats Fated Srnmre. 4:
+
+A a Seren eS AD et “
+
+
+Page 7:
+Ayer CA, 1963. Essien post dimen of pfs pen i Arty wa) New
+‘Meas. Rea. Note BM-7. USDA Patt fares, Recky Mapatest Fara wal Reage
+Eaperaneat Seg, Ft Calin, CO.
+
+0 Develapeneat Cate Tew 2007. B: Leageage we coviscmerat fa wptatical
+acpsing. P Pepadetion fr Setatcel Comparing. Virwin, Attn.
+
+(Remgors 1): Prams, J: Gorce, D- Rywm, MLO. 1984. ECOSIM: » ysis Sor
+rejecting melarraceece enapat mabe sheraeie farst menagoasrat types
+‘Adbaiamatgtre Popes, Rocky Mpc Fete wad Resge Experutnoat Siptes Fart
+Cali, CO.
+
+‘Wenkorwicz. 1D: Pelt, PZ.; cit. P2087. Competing chemaicatam rym fat
+(tema pay meg tars Aiea. Wests Joma of Appl Reeaty. 22:
+0240,
+
+
+Page 8:
+Append |. 8 fesction, Test following a ou. lins we comsmeus, net execumble code,
+
+9 code ta calculate peter fareet etevctuce (a AortbArs Arisone poagarces
+tne forente
+9 ‘meses om contanparecy a4te.
+# 3.0. nanbec, Mey 10, 2008
+Rises! on R coge fron Aid, Sancnar Mnsene ane 4 R-Rase maces Seem,
+9 LE, Tula, A. tates, J. Ceouse, 0. Buftaes, ane A.J. Sanchar Mester.
+
+# Format tog sovens
+
+TAAL} Date muse a (a mauete ante,
+2 Fibete mest we comme Ontiniteg fear), 10h Mesgnce om Une Sleay than,
+4 Nat eesces (o cotuen besgioge fuse ".” aptees!
+
+mogel Arquanens (vectanionl +
+9 tcon-eun = Unique tees muaber. Raquised.
+# CCg.teen.un - aunbar anatpand at plot eateelienmeet oF comeenurenent.
+optional.
+Freee - Specten comm. Voile comme: PIPO, QUGA. AL} OLAME wpacten oniLLed ot
+peaeeen. Raquared.
+Peena teen conaition, Vaile summers conga foam 1 18 11 .
+# sge - Flaia call af age clase, Valle comme ate 0 (peat-piotly | (Dee tet),
+3 ipee-eateionent). Raquared.
+F aen 7 Dae, cutetan Bark, te om, Optional, ut @LUMMe Mh OF Beh te
+coquices.
+Pek OEM, (a om, Uaustty ovtaion Been, Optional, mut atthe aoe oe Gan te
+coquices.
+Preace ~ 0 (a0 core) oF 1 (cores). Cptional.
+9 conten dete - Centar Gate. Opn toned.
+
+(ec.a.76 ~ Taccomeut fom (avestaey 7#ee 10 Genleed cecoamteuct ion ree
+AYase Zi, ba omy Opetamat
+# tecwenci.7e - Tecremaet F608 laventory reer 40 Shee aaciuaion reer, te ca.
+optvonas.
+sec. 9UUe ~ Seccemmar fom Laveatory ress Lo BILE Of wien, (a Om. Ope tonal.
+# cut .aete — Cot wate Of stump ce aeath Gate OF Lowe. Optional.
+# lavize - taveataey rests .
+9 aun. lav - Calculate Dall (ovtnien Beck! La laventory reer f06 ven ta mogel.
+Ratuened 7 moat.
+Pee. (ae = Calculated O4N (ovtnien Beck! La laventory reer £06 ven ta mogel.
+Ratuened 7 moons.
+Piseetae ” Calculated ope clase (a (aveniory rese S00 use (a angel, Rewurane
+arco.
+Tesatnare — Colewiavees 148 rese be aAtch Leen mae alive (hawentary ree
+for iiee teens) Returned 37 mognt.
+Penn Calevisted 06m (ovtaten Beek) ta Toor x, Rawwened ay moons.
+# gels | Calevisted Onl lovtalen Been) Ga Year x, Ratueueg ay meee:
+
+4 revues Eangacemeetes
+9 “pecemeterte for ctbae apecten
+9 -lecorparete etunp beaten
+
+9 RECALL meio 9708
+eves wesel:stenetion Date, mys, enelyey |
+
+OA Len ernie SCD Py
+
+
+Page 9:
+Forth tn b nrowibete) {
+Oatascona[ | - 2) {
+{CHie,natDatasconter catel$|> 4 Ostacenter.cetel $1
+Oates bne.omeh ye F 1)? {
+Oatasege.
+
+exetaye U1
+
+3.44 Oatasegels! - 01 Detatage. tev bier
+
+HO" At Oeaioanat 4] ow 8A etabaert
+ana ar Datei $7) Owtasege. tei
+
+nt
+
+}
+bee
+
+cheek tor age bnenratetenctoe™. “W872
+1 root Date!) t
+iaiDetascanter satel) 14 Oetescanter.dotet t+ wnttave>
+me
+DetaSege[b] - 0 44 Outascanar ti oat Detaseonter.cetel$1) tt
+Eni er oatal sx, Satasbne pelt) At (4s-ortOatasOne-nvei61> UL
+inca. ¥eT FI om 01> tf
+
+IC. Ibe, nalDatesennter .aatel 61) 16 Oetascenter date[| - exlaye 46
+
+Dutaicentor deters! -  Oetesin.yeIb1> Oatesege, trois 1=0
+
+}
+Cati"Age/Shz0 Chane deterainetion complete. “A077
+
+(490 “Wn-DECOWOSE™ OEAD TREES 10 OETEMMINE OEATH OATES soe
+catsup 4; thawte Death Deten of Deed Teese”. “07s
+cati™tnnet
+
+Datasceatn,
+
+‘etaicona[ | > 4) { Oetatdoathive[] = Oetesbnr.yeT 61 + «ctogtactl
+
+boget2>/togtt.22> F
+{Oetescondl 6] a= $) { Oatesawatn.ve[s] » Oatestev.yelb] + (clogipetl
+
+Jog 13 >/Togt 1.982)
+
+Rt 3foget
+bagita3 tout tc1t 72" (Detesaen, tae 186840999}
+i etascana tl 7) { Oataiaoetn. yes > Outastny. et
+Be PAOgLT) 1 Hoyt 382) = 2 CHog BERET
+bagtta9 tout ttt 7¢2" cDatesaen, beet 18684399}
+{Datescona[ 6] ov @) { Oatesaeatn.yel |  Oatasbev.yelb] © (clogtpett
+bagi) Togt tat1c@ CDatasean, bee 612,849)
+Datascona[ b| am 9) {
+‘Rai Detaicut date b|>> { Detaideath.yeib| = Oeteteut.ceteltl }
+
+nai Detasortg.tewe.mvai$|>> { Oetaideatn.ys[t] = 1940 }
+jae { Datesdeatn.ye[$] = 1980 31)
+At Datekenndl 6] = 10) { Oatasdeatn.yel bo Oatasber.yelbl + (clogpet
+
+
+
+Page 10:
+exetaye U1
+
+{
+
+(Datesconal b] + 244 Oetesegelt] - 0) Oatatege. tori t1
+
+10° 24 Outescondl b| a= 9 24 Outesegeltl - 91 1
+}
+
+me
+97) Oatasege. toviti=t
+
+cheek tor age bnenratetenctoe™. “W872
+1 root Date!) t
+na Detasconter.cete[$]) 21 Oeteicenter.detel 6] <= wactyri
+
+att
+sDetaseoertl; © M4 Detareantt1 oat Detaseonter.cetel$1) tt
+Ct nat Datastne.a.yeTb> 1
+
+Qutetcanter tals = Satestie.
+Oetesinc.x.ve{t] r= 01) Oatategy.
+
+mal butascontes,cotel tTy At Datasewnter eter |= wae
+Dutaicentor deters! -  Oetesin.yeIb1> Oatesege, trois 1=0
+
+rec
+}
+Cati"Age/Shz0 Chane deterainetion complete. “A077
+
+(490 “Wn-DECOWOSE™ OEAD TREES 10 OETEMMINE OEATH OATES soe
+
+Condi tien 3 sssuned (0 have dled In toventory
+‘etaicona[ | > 4) { Oetatdoathive[] = Oetesbnr.yeT 61 + «ctogtactl
+retogtt.23) }
+Getascandt| = $) i Oateranutnye[t1 = Ostattmr.yeT61 + «ctoutoeth
+Detogtt.d}} = joutt.38) }
+
+utes tee. yel 61
+WL 9 Togtt 981) = 2 Cc togt pete
+Jog t7¢2" Gatelaon, beet b18:80) 9999
+
+Dutascona[ | om #) { Oateiaeatn.yels| « Oatasbev.yelb] - (clogipett
+DeHoget«(1/¢@" Dataseen. bev 6] 2.84999) }
+
+Datascona[ b| am 9) {
+
+‘Rai Detaicut date b|>> { Detaideath.yeib| = Oeteteut.ceteltl }
+
+nai Detasortg.tewe.mvai$|>> { Oetaideatn.ys[t] = 1940 }
+jae { Datesdeatn.ye[$] = 1980 31)
+At Datekenndl 6] = 10) { Oatasdeatn.yel bo Oatasber.yelbl + (clogpet
+
+A a Seren eS AD et “
+
+
+Page 11:
+NHoget) >/togt1.98)> » 2 Cclogcoeett
+
+W128»? »
+
+Lb] we 99) { Ontascaetn.yelb] « Ostasbev.yelb] + (ctogcoet
+1) >Hogtt 98> + 2 CC toptett
+
+xis
+
+1091) >/togt
+Detescond
+
+Oetesgeetn.ye - Cover (Qatesaeetn.yr)
+catc"Deterabnation of Oeuth Oates Complete, “\n7)
+
+(490 (GRO ALL TEES TO YEAR x 908
+CatTtep $, Un-tree Trews to Yer IT, "WNT
+
+YnromcDers) > {
+na Ostatcenter.cete[t]> 2 Ostescenter.cete(t] - x.yr) |
+Sayeh t
+°
+
+macDetastac.a.yeih]>> {
+eClie.mecDetastac.NER[S]>> { € Proportional reconstruction methed b¢
+Increment fo phth measured.
+900, Oates tne. pbtA/S] - Oetastne.x.ytTH]> / Oetastnc.phtni 1
+Betesden.a[b] = Oetesgen.imvit] ~ pron
+
+,
+Wee {6 For freee eithout increment te pith measured
+LecDetesege.tevit] a 3) @ Yellow pine Bark ehbchnees scpuatione.
+(uyare 1983)
+Oetescen.a[$] = 3.0824 - (110.0008 * Oetesen.tmeit]> - 2.0000) -
+2+ Oetastncaayitty> = 9.0272
+
+Shee ( 6 stachpach bark tnlcsnees eguations (Uyers 1963)
+Oetesden.alt] = 3.0008” (1(0,0860 ~ Oetesgan.tmw[6]) - 9.020) -
+(27 Derestncsayeit]>> ~
+’
+
+4 teeBetarenn.at 1 - 01'¢ Ostasaen.a[t] <= 6}
+
+se 6 Far trees ebthout incewment date
+Gme[ 6] a 31 (6 Yellow pine equation trom Noottey plots:
+772 N= 2014
+
+Oatasoen.a[] = sartcOeteseun.brvit]'2 - ce/pt ° npc-3.2000 +
+1.84040  togcDetasawn. bavi b]>> * (Oateidestn.yel$] - 2.701)
+tect omn(Dateiaen.a[b]>> { Dateseen.ah] = 0}
+
+tse | ¢ Bhachback equation fron Woottey plete: 102 = 0.9812: M = 32008
+Oatasaun.a[t] = sare cOetesaen. beri b]'@ = (4/pt ” enp(-3.718087 »
+
+oa(Detasaah. tat t] > * Ostesgeath-re1 1 - 2.7019
+‘omn(Datesgen.a[b]>> { Deteaen.aib] = 0}
+
+Oetesepel §] we *OU0A") {
+faa(Detastac.a.yelb]>> { @ For trees wbth increment ae
+ENTE ADE formutas bere attime SA Bark thickness for QUGA (ne Biterature)
+
+
+
+Page 12:
+Jap OA hark thickness equations
+macDetastnc.p4tR[b])) { © Proportional reconstruction mathed bf
+
+Increment to phth seaaured
+(prope (Detastnc.p4taih] - Oetattnc.x.yeit]> / Oetetnc.ebenlh]
+Gatasdan.tnvit] * prop’
+
+Oatasaan.x[t] =
+se (6 For trace ebthout increment to pith measured
+Oatascan.x[h] © (10.96 * Oatesaen.tew(b]> - cP * Oatestac.x.ye( b> /
+
+,
+
+Oatesoun.x{t] © (Detaicen.a[h] - 1.0828) / ».009682
+
+ Formuta fron weoleey plots: 62 = 0.906: M = 1400
+Dates. x74] » 9) { Oateiaen.x[t] © O°}
+
+,
+hve | foe traee without inereant sate
+Jav[¥] ww 3) {8 Largevobd tree ecpation tron weotvey
+fear)
+‘o martcDatesgen. bavi b] 2 = (4/pl - enp(-3.00068
+1.90692 * topcDataiaen. bavi h])> © CDetaidestn.yei¥] - x.771))
+Dateien. x[4]>> { Oatesaen.c[t] « 0}
+
+1.sm0e wiSstDetabewn tori t}p) = Datangeatmyyet 1 x.ye19)
+CHa -omn( Dateien. aL 41>) { Oataaen.s[h] © 0}
+
+ Orner speciee cnbtted at present
+Eat"UR-drwetn oF Tews to Your X Complote™, “\7)
+
+ge Claes jth sodel agestze classes”, “\n7)
+RebbecDeoteletage", “age. tier, "apSmI # Creates a Siotogency tabbe, by
+specie
+
+Ese CDeteroun.x[DetesaDn.e - 01>
+
+‘rity. covcdets,
+TKemwabir to wpechty a "cov" erating to tite name, othereite & ei
+Speclty to file estenatens
+
+catc"Oate Saved to CIV fhlen, WW)
+
+aetach (Data)
+,
+oeee BD OF RECON WODEL FUNCTION seeee
+
+ie ceed paper race de vere eds met who me empl
+hee and areneacy fs inert prone bers,

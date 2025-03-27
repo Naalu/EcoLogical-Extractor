@@ -1,0 +1,1413 @@
+Soil compaction associated with cut-to-length and
+whole-tree harvesting of a coniferous forest
+Sang-Kyun Han, Han-Sup Han, Deborah S. Page-Dumroese, and
+Leonard R. Johnson
+Abstract: The degree and extent of soil compaction, which may reduce productivity of forest soils, is believed to vary by
+the type of harvesting system, and a field-based study was conducted to compare soil compaction from cut-to-length
+(CTL) and whole-tree (WT) harvesting operations. The CTL harvesting system used less area to transport logs to the land-
+ings than did the WT harvesting system (19%–20% vs. 24%–25%). At high soil moisture levels (25%–30%), both CTL
+and WT harvestings caused a significant increase of soil resistance to penetration (SRP) and bulk density (BD) in the track
+compared with the undisturbed area (p < 0.05). In the center of trails, however, only WT harvesting resulted in a signifi-
+cant increase of SRP and BD compared with the undisturbed area (p < 0.05). Slash covered 69% of the forwarding trail
+area in the CTL harvesting units; 37% was covered by heavy slash (40 kgm–2) while 32% was covered by light slash
+(7.3 kgm–2). Heavy slash was more effective in reducing soil compaction in the CTL units (p < 0.05). Prediction models
+were developed that can be used to estimate percent increases in SRP and BD over undisturbed areas for both CTL and
+WT harvesting systems.
+Re´sume´ : Le degre´ et l’e´tendue de la compaction du sol susceptibles de re´duire la productivite´ des sols forestiers pour-
+raient varier selon le type de syste`me de re´colte. Une e´tude sur le terrain a e´te´ re´alise´e dans le but de comparer la compac-
+tion du sol a` la suite d’ope´rations de re´colte de billes de longueur pre´e´tablie (LP) et par arbres entiers (AE). Le syste`me
+LP utilise une moins grande superficie pour le transport des billes vers les jete´es que le syste`me AE (19–20% versus 24–
+25%). Avec une teneur en eau du sol e´leve´e (25–30%), les deux syste`mes de re´colte ont cause´ une augmentation significa-
+tive de la re´sistance du sol a` la pe´ne´tration (RSP) et de la densite´ apparente (DA) dans les ornie`res comparativement a` une
+zone non perturbe´e (p < 0,05). Au milieu des sentiers, cependant, seul le syste`me AE a cause´ une augmentation significa-
+tive de la RSP et de la DA comparativement a` un zone non perturbe´e (p < 0,05). Les de´chets de coupe couvraient 69% de
+la surface des sentiers de de´bardage dans les blocs re´colte´s avec le syste`me LP; 37% e´taient des de´chets lourds (40 kgm–2)
+tandis que 32% e´taient des de´chets le´gers (7,3 kgm–2). Les de´chets lourds e´taient plus efficaces pour re´duire la com-
+paction du sol dans les blocs re´colte´s avec le syste`me LP (p < 0,05). Nous avons de´veloppe´ des mode`les de pre´dic-
+tion qui peuvent eˆtre utilise´s pour estimer le pourcentage d’augmentation de la RSP et de la DA dans les zones non
+perturbe´es pour les syste`mes de re´colte LP et AE.
+[Traduit par la Re´daction]
+Introduction
+With an increasing demand for fire hazard reduction and
+ecosystem restoration treatments in the Inland Northwest,
+USA, multiple entries of heavy equipment into forest stands
+are often required to achieve forest management objectives
+(Han et al. 2006). Managers faced with choosing between
+different harvesting equipment options and methods in di-
+verse soil conditions require information on expected soil
+impacts in order to minimize the impact on soil physical
+properties (Wronski and Murphy 1994). Soil compaction oc-
+curs as a result of applied loads, vibration, and pressure
+from equipment that is used during harvesting and site prep-
+aration activities (Adams and Froehlich 1984). Soil compac-
+tion can be characterized as a breakdown of surface
+aggregates, which leads to decreased macropore space in
+the soil and a subsequent increase in the volume of soil rel-
+ative to air space, leading to an increase in bulk density
+(BD) and soil resistance to penetration (SRP) (Adams and
+Froehlich 1984; Pritchett and Fisher 1987; Gomez et al.
+2002). A decrease in soil macroporosity can impede root
+penetration, water infiltration, and gas and nutrient exchange
+(Quesnel and Curran 2000), and these changes can result in
+a reduction, increase, or no change in tree regeneration and
+growth.
+In the Inland Northwest, whole-tree (WT) and cut-to-
+length (CTL) harvesting systems are commonly used in
+mechanized harvesting operations. CTL harvesting is be-
+coming increasingly popular, but about 65% of the current
+infrastructure continues to be based on WT harvesting
+Received 22 August 2008. Accepted 18 February 2009. Published on the NRC Research Press Web site at cjfr.nrc.ca on 13 May 2009.
+S.-K. Han.1 Department of Forest Engineering, Resources and Management, Oregon State University, Corvallis, OR 97331-5706, USA.
+H.-S. Han. Department of Forestry and Wildland Resources, Humboldt State University, Arcata, CA 95521, USA.
+D.S. Page-Dumroese. USDA Forest Service, Rocky Mountain Research Station, Moscow, ID 83843, USA.
+L.R. Johnson. College of Natural Resources, University of Idaho, Moscow, ID 83844, USA.
+1Corresponding author (e-mail: SKHan@oregonstate.edu).
+976
+Can. J. For. Res. 39: 976–989 (2009)
+doi:10.1139/X09-027
+Published by NRC Research Press
+
+(Ponsse 2005). Debate over the relative merits of each sys-
+tem has recently been renewed in relation to fuel reduction
+treatments and small wood harvesting. CTL harvesting has
+the potential to significantly reduce site-related problems
+such as soil compaction and loss of nutrients that can occur
+with WT harvesting. The CTL harvesting process creates a
+slash mat in front of the machine with tree limbs removed
+during tree processing at the stump. This slash mat distrib-
+utes the weight of the harvester or forwarder over a larger
+area and reduces direct contact between the machine tire
+and the soil surface. In addition, CTL harvesting can mini-
+mize ruts by using slash to reinforce skid trails and protect
+against compaction (Eliasson and Wa¨sterlund 2007). The
+WT harvesting system uses a skidder to drag the entire tree
+to the landing for processing after felling. The use of WT
+harvesting is popular among fuel reduction proponents be-
+cause fire hazard is effectively reduced by removing whole
+trees from high-density stands. WT harvesting, however,
+has high potential for soil compaction and disturbance be-
+cause skidder travel tends to sweep duff and litter from
+trails, exposing bare mineral soil (Hartsough et al. 1997).
+Overall, soil impacts are a function of both the degree of
+soil impact (percent change in soil condition) and the extent
+of soil impact (percentage of area affected). The degree of
+soil compaction is related to soil texture (Page-Dumroese et
+al. 2006), soil moisture, harvesting system (Adams and
+Froehlich 1984), amount of logging slash (Wronski 1980;
+McMahon and Evanson 1994), and number of machine
+passes (Soane 1986; McDonald and Seixas 1997). William-
+son and Neilsen (2000) indicated that soils in dry forests or
+those formed on coarser gravelly parent material resisted
+compaction more than soils in wet forests or those formed
+from finer-grained materials. Soil moisture at the time of
+machine traffic also has a major influence on the reduction
+and redistribution of pore space as soils are compacted
+(Adams and Froehlich 1984). Dry soils are more resistant to
+changes in pore size and distribution but this resistance is
+reduced as soil moisture increases (McDonald and Seixas
+1997; Han et al. 2006). One of the critical factors affecting
+the degree of soil compaction is the number of machine
+passes in a ground-based system. Maximum soil compaction
+normally occurs within the first 10 passes of a harvesting
+machine (Gent and Ballard 1984), with the greatest impact
+occurring in the first few passes (Froehlich et al. 1980; Han
+et al. 2006).
+The extent of soil impact is also influenced by the har-
+vesting equipment and system used. For example, a single
+logging operation using crawler tractors or rubber-tired skid-
+ders typically produces compacted soils on 20% to 35% of
+the area harvested (Adams 1990). Steinbrenner and Gessel
+(1955) found that skid roads comprised 26% of a tractor-
+logged site. Lanford and Stokes (1995) compared skidder
+systems with forwarder systems and found that skidder sys-
+tems disturbed a greater area and compacted more soil than
+forwarder systems. McNeel and Ballard (1992) found that in
+units using CTL harvesting, trails occupied less than 20% of
+the harvested area, and more than 13% of the area experi-
+enced only light disturbance. Bettinger et al. (1994) ob-
+served
+that
+logging trails
+occupied
+23%
+of the
+total
+harvested area in a CTL unit.
+Our field-based study was performed to broaden existing
+knowledge of the degree and extent of impacts of CTL and
+WT harvesting systems on fine-textured soils in northern
+Idaho. The specific objectives were to (1) quantify the ex-
+tent of trail area used for primary wood transport, (2) meas-
+ure the degree of soil compaction caused by harvesting
+activities, (3) assess the potential of a slash mat to reduce
+soil compaction on CTL harvesting fields, and (4) develop
+prediction models to estimate the percent increase in soil
+compaction from baseline data after CTL or WT harvesting.
+Methods
+Site description
+The study site was established on a Potlatch Company
+forest stand about 4 miles northwest of Deary in northern
+Idaho (46850’27@N, 116840’42@W), USA. The forest stand
+was
+composed
+of
+Douglas-fir
+(Pseudotsuga
+menziesii
+(Mirb.) Franco), grand fir (Abies grandis (Dougl. ex D.
+Don) Lindl.), lodgepole pine (Pinus contorta Dougl. ex
+Loud.), and Western larch (Larix occidentalis Nutt.). The
+study site was 19.5 ha with an average tree diameter at
+breast height (DBH) of 27 cm, an average tree height of
+20 m, and a ground slope ranging from 2% to 32%.
+Study area soils were Andosols in the WRB (FAO) classi-
+fication and consisted of the Helmer series (ashy over
+loamy, amorphic over mixed superactive, firigid, Alfic Un-
+divitrand) or the Vassar series (ashy over loamy, amorphic
+over isotic, Typic Vitricryand) (Soil Survey Staff 1999).
+Helmer soils are located at toeslopes and footslopes and are
+moderately
+well
+drained
+with
+a
+shallow
+fragipan
+on
+slopes >25%. Vassar soils, formed in loess and volcanic ash
+overlying material weathered from granite, gneiss, or schist,
+were usually found on slopes <15%. The bedrock in the
+study stands was situated at 130–140 cm. The study site
+had a mean annual precipitation of 750 mm and an average
+annual air temperature of 6 8C. This area was first harvested
+in 1943 using manual felling and tractor skidding.
+Study design and harvesting operations
+Two units within the study area were selected. Each unit
+was divided into two subunits for the two different harvest-
+ing systems (Fig. 1). CTL and WT harvesting systems were
+randomly assigned within each unit (CTL 1 and WT 1; CTL
+2 and WT 2). Harvest units and subunits were selected to
+have similar slope, aspect, soil, and stand composition.
+The harvest prescription for the study area was clear-
+cutting. Harvesting took place between May and June
+2005 using either CTL or WT harvesting. CTL harvesting
+operations used a Valmet 500T harvester (machine mass
+21 800 kg) and a Valmet 890 forwarder (machine mass
+16 800 kg, maximum permissible load 18 000 kg). For the
+WT harvesting operations, a Timbco T435 feller-buncher
+(machine mass 26 000 kg), a CAT D-518 track-based skid-
+der (machine mass 12 600 kg), a PC 220 Komatsu pro-
+cessor (machine mass 23 400 kg), and a PC 200 Komatsu
+loader (machine mass 21 400 kg) were used. General har-
+vesting trails were laid out by harvester and feller-buncher
+operators before harvesting based on topography and land-
+ing locations along the hauling road. Because of changes
+in technology since the last harvesting operation, only two
+of the old skid trails could be effectively used for this op-
+Han et al.
+977
+Published by NRC Research Press
+
+eration; other old trails were not readily useable with the
+newer CTL and WT harvesting systems. Farbo (1996) pro-
+vides a detailed chronological and geographical record of
+185 Potlatch logging camps from 1903 to 1986, but this
+record does not contain detailed information on old skid
+trails.
+Data collection and analysis
+After harvester and feller-buncher operations, all trails in-
+stalled by harvesting equipment (feller-buncher and har-
+vester) were sketched on the map to count the number of
+machine passes on each trail. Trails were divided into inter-
+vals of 15 to 30 m prior to skidding and forwarding activ-
+ities. The lengths of the intervals were marked on nearby
+landmarks such as stumps, logs, and residual trees and were
+also marked on the trail map. We followed the forwarder
+and skidder at a safe distance and counted the number of
+passes over each section of the trail. In this study, move-
+ments of the harvester and feller-buncher were not included
+in the number of machine passes, since one pass of a
+tracked machine does not significantly impact this soil type
+(Han et al. 2006). A machine pass was defined as one round
+trip (one round trip = one trip empty + one trip loaded) re-
+gardless of whether the forwarder or skidder was fully or
+partially loaded with wood.
+After harvesting, GPS data were collected with a Trimble
+Geo XT unit at every 15 m along the centerline of the trails
+to create a post-harvest trail map. The width of each trail
+was measured every 15 m to determine the average width.
+In the CTL block, width of the trail center and width of the
+wheel track were also measured, since the forwarder tended
+to repeatedly travel the same track. The skidder tracks of the
+WT subunits were more diffuse and not easily delineated,
+but there were good indications (i.e., ruts) of the wheel track
+and center area within the trails. The GPS and trail width
+data were used to calculate trail area used for primary wood
+transport in each harvest unit. From GPS data and the
+sketched map including number of passes, a trail map by
+machine pass category was created using ArcGIS 9.1 (ESRI
+Inc. 1999; Fig. 1).
+A Rimik CP40 recording cone penetrometer (Agridry,
+Toowoomba, Australia) with a base cone area of 113 mm2
+was used to measure SRP. Readings in kilopascals (kPa)
+were automatically recorded at 25 mm increments as the pe-
+netrometer was manually inserted to a depth of 300 mm.
+Transects were installed across the center on all skid trails
+every 30 m. On each transect, we measured SRP at the trail
+center, in both tracks, and in reference sampling points (off-
+trail area). Three replicates of SRP were taken at each point.
+A total of 2907 SRP measurements were collected in all
+subunits (Table 1). Davidson (1965) reported that SRP can
+be measured correctly only when the cone penetrometer is
+used at or near soil field capacity. Our SRP measurements
+were collected when soil moisture conditions (25%–30% at
+7.5 cm soil depth) were close to field capacity.
+Soil bulk density was sampled along the same transects as
+Fig. 1. Map of the study site and the trails used by cut-to-length (CTL) and whole-tree (WT) harvesting systems.
+978
+Can. J. For. Res. Vol. 39, 2009
+Published by NRC Research Press
+
+SRP, but transects were located at every 90 m across the
+centerline. On each transect, BD samples were collected at
+the center, from one of the tracks (left or right), and from
+the reference area (off-trail area). We assumed that the refer-
+ence area had not been driven on by harvesting machines
+because the forest floor was intact and there was no indica-
+tion of soil compression. A core sampler (147 cm3) was
+used to collect BD samples at depths of 7.5 cm, 15 cm, and
+22.5 cm. Soil cores were placed in plastic bags for transport
+from the field. In the laboratory, soil samples were weighed,
+oven-dried at 105 8C for 24 h, and reweighed. Net wet and
+dry masses were recorded to the nearest 0.01 g. BD was cal-
+culated with the gross soil dry mass and volume of the tube
+and was reported in megagrams per cubic metre. Soil mois-
+ture contents were calculated from each BD sample and ad-
+ditional soil cores were taken to monitor soil moisture
+during harvesting operations. A total of 954 soil BD samples
+were collected (Table 1).
+During harvesting operations and data collection, soil
+moisture contents were relatively constant, ranging from
+25% to 30% at 7.5 cm soil depth. However, soil moisture
+contents in CTL subunits were slightly lower than those in
+WT subunits (23%–25% vs. 29%–30%). In all subunits,
+average soil moisture contents were highest in the upper
+soil layers and decreased with increasing soil depth. There
+was intermittent light rain for 4 days during the harvesting
+operation, but it did not cause significant changes in soil
+moisture at any soil depth.
+Logging slash was also surveyed along the same transects
+as the BD samples and SRP data. Slash was classified into
+three different levels: bare (no slash), light (<7.3 kgm–2),
+and heavy (<40.0 kgm–2). Slash mass was calculated using
+the downed woody debris survey method outlined by Brown
+(1974).
+Data analysis was performed using Statistical Analysis
+System (SAS) (SAS Institute Inc. 2001) and Statistical Pack-
+age for the Social Sciences (SPSS) (SPSS Inc. 1998). Data
+analysis was performed separately for units 1 and 2, since
+the reference values of the two units were clearly different
+(Table 2). Data were evaluated for normality before running
+the analyses. The Wilcoxon rank-sum test was used to com-
+pare the degree of soil compaction between the two different
+harvesting systems. The Kruskal–Wallis and multiple com-
+parison tests were performed to test for differences among
+Table 2. Mean soil resistance to penetration and bulk density in the reference areas.
+Unit 1
+Unit 2
+Soil depth (cm)
+n
+Mean
+SD
+n
+Mean
+SD
+p value*
+Soil resistance to penetration (kPa)
+7.5
+182
+980
+441
+141
+1132
+390
+<0.001
+15.0
+182
+1204
+466
+141
+1440
+568
+<0.001
+22.5
+182
+1320
+576
+141
+1570
+666
+0.004
+Bulk density (Mgm–3)
+7.5
+60
+0.87
+0.12
+46
+0.90
+0.12
+0.278
+15.0
+60
+1.06
+0.16
+46
+1.17
+0.17
+<0.001
+22.5
+60
+1.16
+0.16
+46
+1.27
+0.20
+0.004
+Note: n, sample size; SD, standard deviation.
+*Wilcoxon rank-sum test, p < 0.05.
+Table 1. Description of data collection from cut-to-length (CTL) and whole-tree (WT) harvest
+units.
+Treatment
+Sampling
+locations
+Soil
+depths
+Sampling
+points
+Measurements per
+sampling point
+Total
+measurements
+Soil resistance to penetration
+Unit 1
+CTL 1
+3
+3
+82
+3
+738
+WT 1
+3
+3
+100
+3
+900
+Unit 2
+CTL 2
+3
+3
+61
+3
+549
+WT 2
+3
+3
+80
+3
+720
+Bulk density
+Unit 1
+CTL 1
+3
+3
+27
+3
+243
+WT 1
+3
+3
+33
+3
+297
+Unit 2
+CTL 2
+3
+3
+20
+3
+180
+WT 2
+3
+3
+26
+3
+234
+Note: The three sampling locations were reference, center, and track. The three soil depths were 7.5 cm,
+15.0 cm, and 22.5 cm.
+Han et al.
+979
+Published by NRC Research Press
+
+the three sampling regions (track, center, and reference).
+These tests were performed separately for each harvesting
+system (CTL and WT) and at each soil depth (7.5 cm,
+15 cm, and 22.5 cm). The effect of slash was tested using a
+one-way analysis of variance (ANOVA), and regression
+analysis was used to develop the models that estimate the
+percent increase of SRP or BD. In prediction models, the
+forward selection method was used to search a suitable sub-
+set of explanatory variables. The significance level was set
+to 5% (a = 0.05).
+Results and discussion
+Degree of soil compaction in the trails
+Soil resistance to penetration (SRP)
+In the reference areas, SRP readings ranged from 913 to
+1191 kPa at 7.5 cm soil depth and increased with increasing
+soil depth in both units (Table 3). At all soil depths, there
+was a significant difference in SRP readings between units
+1 and 2 (Tables 2 and 3) although both units had the same
+forest stand and soil texture (ashy silt loam). However,
+within each unit, CTL and WT subunits had similar SRP
+readings at all soil depths except for 7.5 cm. At this depth,
+SRP in the WT subunits was significantly higher than that in
+the CTL subunits (p < 0.05). Because of this initial differ-
+ence between CTL and WT subunits at 7.5 cm soil depth,
+we used the percent increase of SRP resulting from harvest-
+ing activities to compare SRP readings between CTL and
+WT subunits.
+In both units and with both types of harvesting, we noted
+an increase of SRP in the center and track of the trails com-
+pared with the reference area (Table 3 and Fig. 2). WT har-
+vesting resulted in a significant increase of SRP in both the
+center and the track areas as compared with the reference
+area (p < 0.05). In the CTL subunits, however, only the
+SRP readings in the track area were significantly higher
+than those in the reference area at all soil depths (p < 0.05).
+In the center of the trail, WT subunits had higher SRP
+values than CTL subunits at all soil depths except for
+7.5 cm in unit 2 (Fig. 2). In unit 1, SRP in the CTL subunit
+increased 24%–28% at all soil depths, compared with the
+reference area. In the WT subunit, SRP increases ranged
+from 39% to 42% for all soil depths (Fig. 2). In unit 2, we
+found similar percent increases of SRP but the values were
+lower than those for unit 1, where initial SRP readings were
+lower than those in unit 2. This result indicated that initial
+soil compaction level strongly affected the degree of soil
+compaction following harvesting operations. In both units,
+WT harvesting caused more soil compaction at the center
+of trails than CTL harvesting, particularly below 15 cm soil
+depth. In harvesting operations, the forwarder in the CTL
+blocks remained in the wheel tracks created during previous
+trips and did not drive on the center of the trails. These re-
+sults are consistent with those of other studies (Allbrook
+1986; Han et al. 2006; Page-Dumroese et al. 2006). Han et
+al. (2006) found similar results on other fine-textured soils
+in the Inland Northwest, USA, where CTL harvesting did
+not create significant soil compaction in the center of the
+trail compared with the reference areas. However, the skid-
+der used in WT harvesting did not use the same tracks and
+Table 3. Mean values (±standard deviation) for soil resistance to penetration (kPa) collected from the reference, trail center, and track areas.
+CTL
+WT
+Soil depth (cm)
+n
+Reference
+Center
+Track
+p value*
+n
+Reference
+Center
+Track
+p value*
+Unit 1
+7.5
+82
+913±434a
+981±617a
+1877±609b
+<0.001
+100
+1035±385a
+1281±651b
+1898±729c
+<0.001
+15.0
+82
+1130±465a
+1319±745a
+2261±805b
+<0.001
+100
+1266±462a
+1627±666b
+2294±756c
+<0.001
+22.5
+82
+1220±526a
+1421±798a
+2355±834b
+<0.001
+100
+1402±606a
+1778±830b
+2324±796c
+<0.001
+Unit 2
+7.5
+61
+1055±470a
+1176±513a
+2182±622b
+<0.001
+80
+1191±305a
+1404±654b
+1793±534c
+<0.001
+15.0
+61
+1559±695a
+1545±592a
+2620±621b
+<0.001
+80
+1350±432a
+1739±617b
+2166±698c
+<0.001
+22.5
+61
+1764±819a
+1960±864a
+2779±658b
+<0.001
+80
+1424±477a
+1761±621b
+2279±760c
+<0.001
+Note: Means in the same row with the same letter are not significantly different (p > 0.05).
+*Kruskal–Wallis test, p < 0.05.
+980
+Can. J. For. Res. Vol. 39, 2009
+Published by NRC Research Press
+
+caused a high degree of soil disturbance across the entire
+skid trail. Allbrook (1986) also found that WT harvesting
+on a sandy loam soil at high soil moisture contents caused a
+significant increase of SRP in the center of the trails.
+In the wheel track, percent increases of SRP were higher
+in CTL blocks than in WT blocks (p < 0.05; Fig. 2). In both
+units, the CTL subunit had an SRP increase of 90%–150%,
+while the increase in SRP in the WT subunit was 59%–
+101%. Additionally, increases of SRP were larger in the top
+soil layer (within 7.5 cm of the soil surface) and smaller in
+deeper soil layers (Fig. 2). Other studies have reported the
+percent change of SRP following CTL and WT harvesting.
+Han et al. (2006) reported that in fine-loamy soils with
+21%–30% soil moisture, SRP readings increased up to
+260% in the track after CTL harvesting. Allbrook (1986)
+found that on a sandy loam soil with a moisture content of
+38%, WT harvesting resulted in a 157% increase of SRP in
+the track. Williamson and Neilsen (2000) reported that SRP
+after WT harvesting increased by 167% under wet condi-
+tions on a sandy loam soil. Compared with past studies, this
+study found a smaller increase of SRP. Although soil mois-
+ture conditions were comparable between this study and past
+studies, this study was performed on a silt loam soil while
+past studies were conducted mostly on sandy loam soils.
+Sandy loam, loam, and sandy clay loam soils are more
+easily compacted than silt loam, silty clay loam, or clay
+soils under similar soil moisture conditions (USDA 1996).
+In this study, SRP readings in the track of the trail ranged
+from 1877 to 2779 kPa in the CTL subunits and from 1793
+to 2324 kPa in the WT subunits. High SRP readings such as
+those found in our study may be close to the limiting level
+for root and seedling growth. For example, seedling growth
+is restricted at SRP values of 2500 kPa in dry soil conditions
+(Greacen and Sands 1980). Sands and Bowen (1978) re-
+ported that a critical soil resistance of 3000 kPa in sandy
+soils was sufficient to prevent radiata pine root growth.
+Based on our results, root and seedling growth could be re-
+stricted in the wheel tracks of both harvesting systems, par-
+ticularly when the soil is dry.
+Soil bulk density (BD)
+Average BD values for the trail center, wheel track, and
+reference area are summarized in Table 4. In the reference
+area, BD values were similar between CTL and WT sub-
+units at all three soil depths (p > 0.05). In both units, the
+top soil layer had the lowest BD value, ranging from 0.86
+to 0.91 Mgm–3, and the values increased steadily with in-
+creasing soil depth, up to 1.27 Mgm–3 at 22.5 cm (Table 4).
+In CTL subunits there were no significant differences in
+BD between the center of the trail and the reference area at
+any soil depth (Table 4). In the wheel tracks, however, both
+harvesting systems caused significant increases of BD com-
+pared with the reference area. The largest increase in BD
+was observed at the 7.5 cm soil depth: 34%–39% in the
+WT subunits and 27%–28% in the CTL subunits (Fig. 3).
+In wheel tracks in both units, WT harvesting resulted in a
+greater increase in soil compaction at all soil depths than
+CTL harvesting, but differences between CTL and WT har-
+vesting were not significant (p > 0.05). The different trends
+of SRP and BD could be explained by slight differences in
+soil moisture content between CTL and WT subunits.
+Although SRP and BD were measured at CTL and WT sub-
+units during the same periods, the CTL subunits had lower
+moisture contents than the WT subunits. Lower moisture
+contents in the CTL subunits could contribute to higher
+SRP owing to higher frictional forces. The percent increase
+of BD in this study was comparable to those reported in past
+studies (McNeel and Ballard 1992; Williamson and Neilsen
+2000). In CTL harvesting, McNeel and Ballard (1992) re-
+ported that the average wheel track BD increased up to
+20% more than the measurement from the adjacent control
+sites on a sandy loam soil. Williamson and Neilsen (2000)
+reported that after WT harvesting, BD increased by 40% in
+wet soil conditions. However, other studies (Allbrook 1986;
+McNeel and Ballard 1992; Lanford and Stokes 1995) ob-
+served a slightly lower percent increase in BD than this
+study. Allbrook (1986) found that WT harvesting on soil
+with 38% moisture resulted in a 23% increase in soil BD in
+the wheel track of trails. The differences from past studies
+may have been caused by a combined effect of soil mois-
+ture, soil texture, harvesting system, and initial soil proper-
+ties (i.e., initial BD) (Froese 2004). Han et al. (2006)
+investigated the effect of soil moisture on soil compaction
+by running CTL harvesting machines at three different lev-
+els of soil moisture. They reported that soil moisture was a
+major factor affecting the compactability of soils.
+Heavy harvesting equipment may decrease soil macro-
+porosity, leading to poor water infiltration and gas exchange
+and thus negatively affecting soil biological activity and root
+Fig. 2. Percent increase of soil resistance to penetration after har-
+vesting using CTL and WT systems. Means with the same letter are
+not significantly different (p > 0.05)
+Han et al.
+981
+Published by NRC Research Press
+
+growth. Lacey and Ryan (2000) reported that if bulk density
+is increased more than 15%, soil compaction may restrict
+root growth. Bulk density values that may limit root growth
+appear to vary with soil texture, tree species, and experi-
+mental conditions (Miller et al. 2004). Forristal and Gessel
+(1955) estimated that 1.25 Mgm–3 was the upper limit of
+BD for root growth in sandy loam soils, whereas Heilman
+(1981) suggested that root-limiting BD was closer to 1.7–
+1.8 Mgm–3 in sandy loam to loam-textured soils. Cullen et
+al. (1991) observed no root penetration at BD over 1.9 Mgm–3.
+In this study, BD measurements in the wheel track after har-
+vesting ranged from 1.10 to 1.36 Mgm–3 in the CTL subunits
+and from 1.13 to 1.43 Mgm–3 in the WT subunits, indicating
+that new trees growing in the track area of the skidding and
+forwarding trails may have difficulty achieving root penetra-
+tion in the compacted soils.
+The relationship between soil resistance to penetration
+(SRP) and bulk density (BD)
+For this study, soil resistance to penetration and bulk den-
+sity were measured to estimate the degree of soil compac-
+tion in each harvesting unit. Although the two different
+methods were applied at the same sampling points, results
+from SRP readings in the wheel tracks were not consistent
+with those from our BD cores. In several past studies, the
+relationship between SRP and BD was reported for several
+soil texture classes (Allbrook 1986; Clayton 1990; Vazquez
+et al. 1991; Froese 2004; Ampoorter et al. 2007). Allbrook
+(1986) and Clayton (1990) stated that SRP was related pos-
+Table 4. Mean values (±standard deviation) for bulk density (Mgm–3) collected from the reference, trail center, and track areas.
+CTL
+WT
+Soil depth (cm)
+n
+Reference
+Center
+Track
+p value
+n
+Reference
+Center
+Track
+p value
+Unit 1
+7.5
+27
+0.89±0.13a
+0.97±0.18a
+1.11±0.16b
+<0.001
+33
+0.86±0.12a
+0.98±0.16b
+1.13±0.13c
+<0.001
+15.0
+27
+1.08±0.16a
+1.16±0.18ab
+1.27±0.19b
+0.003
+33
+1.05±0.16a
+1.17±0.16b
+1.24±0.16b
+<0.001
+22.5
+27
+1.19±0.17a
+1.25±0.19ab
+1.36±0.20b
+0.026
+33
+1.13±0.15a
+1.24±0.16b
+1.32±0.22b
+<0.001
+Unit 2
+7.5
+20
+0.88±0.13a
+0.96±0.17a
+1.10±0.16b
+<0.001
+26
+0.91±0.11a
+1.08±0.18b
+1.26±0.19c
+<0.001
+15.0
+20
+1.13±0.21a
+1.20±0.21a
+1.28±0.17a
+0.089
+26
+1.20±0.13a
+1.32±0.15b
+1.38±0.16b
+<0.001
+22.5
+20
+1.26±0.26a
+1.30±0.24a
+1.35±0.21a
+0.586
+26
+1.27±0.14a
+1.36±0.15b
+1.43±0.15b
+<0.001
+Note: Means in the same row with the same letter are not significantly different (Kruskal–Wallis test, p > 0.05).
+Fig. 3. Percent increase of soil bulk density after harvesting using
+CTL and WT systems. Means with the same letter are not signifi-
+cantly different (p > 0.05).
+982
+Can. J. For. Res. Vol. 39, 2009
+Published by NRC Research Press
+
+itively to BD. They also found that compacted soils exhib-
+ited high increases in SRP, yet only small increases in BD.
+In our study, we found trends similar to those of past stud-
+ies, but BD was not strongly correlated with SRP (r2 = 0.30;
+Fig. 4). The poor correlation between SRP and BD could be
+explained by soil moisture, organic matter content, rock
+fragments, and field variability. Vazquez et al. (1991) sug-
+gested that strong correlations between SRP and BD are lim-
+ited to homogeneous soils under controlled conditions. Soil
+resistance to penetration is measured as the friction between
+the cone and soil particles when a cone penetrometer is
+pushed into the soil. Therefore, the most important factor af-
+fecting soil resistance to penetration is soil moisture (Bennie
+and Burger 1988). In our study, the low correlation could be
+attributed to slight differences in soil moisture content be-
+tween CTL and WT subunits.
+The poor correlation between SRP and BD could also be
+explained by high spatial variability. In our study, measured
+Fig. 4. Correlation between soil resistance to penetration and bulk density.
+Fig. 5. Percent increase of soil resistance to penetration in the track
+with different levels of slash in the CTL harvesting units. Means
+with the same letter are not significantly different (p > 0.05).
+Fig. 6. Percent increase of soil bulk density in the track with dif-
+ferent levels of slash in the CTL harvesting units. Means with the
+same letter are not significantly different (p > 0.05).
+Han et al.
+983
+Published by NRC Research Press
+
+SRP and BD had large standard deviations within each sub-
+unit despite three subsamples per sampling point and about
+1000 samplings (Tables 1, 3, and 4). Although three replica-
+tions for SRP were performed at the same sampling point,
+values of SRP among three replications varied without an
+apparent cause at some sampling points. Silva et al. (1989)
+suggested that field analyses of soil data are difficult be-
+cause of spatial variability. For example, organic matter con-
+tent and its distribution in a soil would affect soil physical
+properties including compactability (Zhang et al. 1997).
+Importance of slash to mitigate compaction
+CTL harvesting and the creation of a slash mat could be
+an effective way to minimize soil compaction (McMahon
+and Evanson 1994; McDonald and Seixas 1997; Han et al.
+2006). However, the trail area that is not covered by slash
+may be more severely impacted owing to direct contact be-
+tween the machine track and the soil surface. In our study,
+slash covered 69% of the forwarding trail area in the CTL
+harvesting subunits, with 37% of the trail area covered by
+heavy slash (<40.0 kgm–2) and 32% of the trail area cov-
+ered by light slash (<7.3 kgm–2).
+In measurements of SRP, the buffering effect of slash on
+mineral soil compaction was found when heavy or light
+slash was added to the equipment track in unit 1, but slash
+was not effective in unit 2 (Fig. 5). In unit 1, heavy slash
+reduced the impacts of ground traffic by 210% at 7.5 cm
+and 113% at 15 cm as compared with bare ground (no
+slash). In terms of BD, only heavy slash helped to reduce
+the machine-caused impacts at up to 15 cm soil depth in the
+track of forwarding trails (Fig. 6). In both units, light slash
+appeared to be effective in minimizing soil surface impacts
+from harvesting activities, but this result was not significant
+(p > 0.05; Figs. 5 and 6). A small amount of slash did not
+provide enough cushioning in wet soil to absorb the ground
+pressure and vibration of the harvesting equipment. Light
+slash tended to be crushed into pieces and could no longer
+distribute and absorb the impact of the machine. Han et al.
+(2006) reported similar results when a light slash mat
+(<7.5 kgm–2) was left in a CTL harvesting on wet soil. Ja-
+kobsen and Moore (1981) reported that the critical amount
+of slash required to protect soil is 18 kgm–2. It appears that
+slash levels will likely have to be adjusted for each soil tex-
+ture class and moisture level (Han et al. 2006). Other studies
+have shown that the effectiveness of slash is an interaction
+of the amount of slash and the number of machine passes
+(McDonald and Seixas 1997; Han et al. 2006). Initially,
+slash mats provide an adequate soil buffer, but with increas-
+ing machine passes the slash mat breaks down and becomes
+less effective at minimizing soil impacts from machine traf-
+fic. In our study, no significant effect of slash on SRP read-
+ings was shown in the center of forwarding trails (p > 0.05).
+Spatial extent of skid and forwarding trails
+Knowledge of the area used for skidding or forwarding
+trails is important in assessing damage to the soil from har-
+vesting operations. The trail area usually varies with terrain,
+tree size and volume, harvesting methods, moisture condi-
+tions at harvesting, equipment type, and harvesting system
+(Bettinger et al. 1994; Landsberg et al. 2003; Miller et al.
+2004).
+In this study, only the trail areas used for primary wood
+transport (i.e., skidding or forwarding) were used to quantify
+the extent of trails and soil compaction (Fig. 1). Although
+the two different harvesting systems were applied in similar
+terrain, tree density, and moisture conditions, CTL harvest-
+ing created less trail area for primary wood transport (19%–
+20% of total harvest block) than did WT harvesting (24%–
+26% of total harvest block) in both units (p < 0.05). The pri-
+mary difference in trail area between the two harvesting sys-
+tems is due to the post-harvest trail width. In both units trail
+length was not significantly different between CTL (532–
+561 mha–1) and WT (534–553 mha–1) harvesting, but the
+average trail width in the WT subunits (4.47–4.63 m) was
+greater than that in the CTL subunits (3.61–3.63 m) (p <
+0.05; Table 5).
+In the CTL blocks, track width was easily discernable,
+since the forwarder repeatedly traversed the same area
+within the trail and did not cross the center area. It was dif-
+ficult to delineate the track area from the rest of the skid
+trail area in the WT harvesting units because when the trees
+were skidded the previous track was erased. The average
+width of the center area between tracks in the forwarding
+trails was 1.78–1.80 m.
+When past studies evaluated compacted areas at a CTL
+harvesting site, they generally included the entire trail, not
+distinguishing between the center and the track of the trail
+(McNeel and Ballard 1992; Gingras 1994; Lanford and
+Stokes 1995). However, this study found that the center of
+the trail and the undisturbed area were not significantly dif-
+ferent in terms of SRP and BD (Tables 3 and 4). Therefore,
+although the whole forwarding trail after CTL harvesting oc-
+cupied a large area of the unit, when only the impacted track
+Table 5. Average trail width, track width, and area of trails in cut-to-length (CTL) and whole-tree
+(WT) harvesting units.
+Trail width
+Trail area in
+harvesting block
+Harvesting
+system
+Block
+Area
+(ha)
+n
+Mean
+(m)
+Mean track
+width (m)
+Trail length
+(mha–1)
+ha
+%
+CTL
+1
+4.88
+75
+3.63
+1.80
+532
+0.95
+19
+2
+6.01
+78
+3.61
+1.78
+561
+1.21
+20
+WT
+1
+4.00
+117
+4.47
+—
+553
+1.04
+26
+2
+4.55
+82
+4.63
+—
+534
+1.09
+24
+Note: The trail width includes tracks and the center area between tracks of the skid trails. The track width of
+the WT units was often not obvious, since trees being skidded erased any previous tracks.
+984
+Can. J. For. Res. Vol. 39, 2009
+Published by NRC Research Press
+
+Table 6. Prediction model to estimate percent increase of soil resistance to penetration when soil moisture content is 25%–30%.
+Harvesting
+system
+Soil depth
+(cm)
+Prediction model
+F value
+p value
+Cp
+r2
+n
+CTL
+7.5
+% increase = 1819.74 + 32.64 ln M – 20.23 ln D – 233.16 ln I – 84.62(S1) – 43.35(S2)
+38.89
+<0.001
+6.00
+0.59
+144
+15.0
+% increase = 1221.59 + 46.38 ln M – 16.30 ln D – 151.04 ln I – 55.03(S1) – 34.56(S2)
+49.92
+<0.001
+6.00
+0.65
+144
+22.5
+% increase = 1260.51 + 50.83 ln M – 20.96 ln D – 155.62 ln I – 25.97(S1) – 17.98(S2)
+55.14
+<0.001
+6.08
+0.67
+144
+WT
+7.5
+% increase = 1156.59 + 13.19 ln M – 17.69 ln D – 145.92 ln I
+65.81
+<0.001
+4.00
+0.53
+180
+15.0
+% increase = 1272.28 + 23.01 ln M – 16.41 ln D – 161.66 ln I
+66.45
+<0.001
+4.00
+0.53
+180
+22.5
+% increase = 1213.78 + 19.64 ln M – 20.85 ln D – 148.86 ln I
+69.14
+<0.001
+4.00
+0.54
+180
+Note: M, number of machine passes; D, distance (m) from landing area; S1, heavy slash = 1 and others (light slash or bare ground) = 0; S2, light slash = 1 and others (heavy slash or bare ground) = 0; and
+I, initial values for soil resistance to penetration (kPa). Cp, Mallows’ Cp statistic (Mallows 1964, 1973).
+Table 7. Prediction model to estimate percent increase of soil bulk density when soil moisture is 25%–30%.
+Harvesting
+system
+Soil depth
+(cm)
+Prediction model
+F value
+p value
+Cp
+r2
+n
+CTL
+7.5
+% increase = 68.28 + 0.11 ln M – 9.35 ln D – 104.63 ln I – 13.63(S1) – 12.62(S2)
+12.61
+<0.001
+4.00
+0.55
+47
+15.0
+% increase = 32.67 + 3.63 ln M – 2.78 ln D – 51.93 ln I – 8.49(S1) – 3.02 ln S2
+10.60
+<0.001
+4.40
+0.37
+47
+22.5
+% increase = 48.50 – 4.86 ln D – 65.98 ln I
+14.28
+<0.001
+2.27
+0.40
+47
+WT
+7.5
+% increase = 16.24 + 5.72 ln M – 1.14 ln D – 106.50 ln I
+16.14
+<0.001
+4.00
+0.47
+59
+15.0
+% increase = 49.35 + 3.57 ln M – 6.82 ln D – 47.96 ln I
+17.30
+<0.001
+4.00
+0.49
+59
+22.5
+% increase = 52.91 +3.73 ln M – 7.61 ln D – 41.65 ln I
+10.33
+<0.001
+4.00
+0.36
+59
+Note: M, number of machine passes; D, distance (m) from landing area; S1, heavy slash = 1 and others (light slash or bare ground) = 0; S2, light slash = 1 and others (heavy slash or bare ground) = 0; and
+I, initial values for soil bulk density (Mgm–3). Cp, Mallows’ Cp statistic (Mallows 1964, 1973).
+Han et al.
+985
+Published by NRC Research Press
+
+area was considered, the spatial extent of the compacted
+area was only 10% of the harvested area.
+In both units, GIS analysis allowed us to determine the
+percentage of trail area in each of the number of machine
+pass categories (Fig. 1). The collection of machine pass
+data is difficult, but provides a visual representation of heav-
+ily trafficked areas and the extent of the most severe soil
+compaction. It also provides a database representing historic
+use of the site for managers. This information may be used
+to select harvesting systems and trails in future logging op-
+erations, and can also assist in establishing plans for tree re-
+generation in the harvested area. In this study, the highest
+percentage of trail area in the CTL subunits fell in the 4 to
+5 pass category (32%), while the ‘‘less than 5’’ pass cate-
+gory was highest (34%) in the WT subunits. The combined
+0 to 20 pass categories accounted for about 85% of the total
+trail area in the WT subunits. In the CTL subunits, the com-
+bined 3 to 10 pass categories accounted for 75% of the total
+trail area (Fig. 1). In both harvesting units, about 70% of the
+total trail area was defined as severely compacted because
+most soil compaction occurred after a few passes of a laden
+logging machine; approximately 80% of soil compaction
+was in the top soil layer.
+Prediction models to estimate potential soil impacts
+For both harvesting systems, we developed prediction
+models to estimate the percent increase of SRP and BD
+based on the number of machine passes, distance from land-
+ing area, initial SRP or BD, and slash added to the trail (Ta-
+bles 6 and 7). This information is useful when forest
+managers develop strategies to prevent unacceptable levels
+of soil damage that may degrade soil productivity.
+In both harvesting units, our models for SRP (r2 = 0.53 to
+0.67) provided better fits to the data than those for BD (r2 =
+0.36 to 0.55) (Tables 6 and 7). The percent increase of SRP
+and BD increased with an increase in the number of ma-
+chine passes. However, the distance from the landing area
+and initial SRP showed a negative relationship with the per-
+cent increase of SRP, meaning the percent change was less
+pronounced as distance from the landing increased.
+For all three soil depths, our models indicate that the
+number of machine passes is highly correlated with in-
+creases in SRP in both CTL and WT harvesting systems
+(Fig. 7). However, this is not the case for BD: in the wheel
+track, most soil compaction occurred after a few passes of a
+laden logging machine, and 70% of soil compaction in the
+top soil sampling level was achieved after only five machine
+Fig. 7. Percent increase in soil resistance to penetration (SRP) as a function of the number of machine passes in CTL (A) and WT (B)
+harvesting based on prediction models.
+986
+Can. J. For. Res. Vol. 39, 2009
+Published by NRC Research Press
+
+passes in the CTL block (Fig. 7). In the WT block, 80% of
+soil compaction in the top 7.5 cm of soil occurred after only
+10 machine passes (Fig. 7). Soil compaction continued to in-
+crease with additional passes in both harvesting units, but
+there was a lower level of increase or no further increase
+after five passes in the CTL harvesting sites and 10 passes
+in the WT harvesting sites. Rollerson (1990) reported similar
+results (most soil compaction occurred during the first 10–20
+passes) after WT harvesting, whereas Williamson and Neil-
+sen (2000) found that 62% of final soil compaction occurred
+after only one pass on skid trails. Han et al. (2006) also
+found that there was a rapid increase in SRP up to the sec-
+ond pass of a fully loaded forwarder during CTL harvesting.
+The initial values of SRP and BD were highly negatively
+correlated with their respective percent increases in the pre-
+diction models (Fig. 8). Percent increases were greater in
+soils with lower initial SRP and BD. Page-Dumroese et al.
+(2006) also reported that as initial BD increased, the level
+of change decreased. These results can be useful in deter-
+mining the limitations on harvesting as a function of soil
+moisture content and initial soil BD or SRP readings. High
+initial SRP and BD values under dry-season conditions may
+result
+in
+less
+soil
+compaction
+after
+operations
+(Page-
+Dumroese et al. 2006). Similar results were observed by
+Williamson and Neilsen (2000) and Han et al. (2006).
+They also suggested that scheduling harvesting operations
+during drier conditions could minimize soil impacts.
+The prediction model we developed shows that the per-
+cent increases in SRP and BD are negatively correlated
+with the distance from the landing area (Fig. 9). Trails close
+to the landing area receive higher density machine traffic,
+which results in greater compaction, than areas farther from
+the landing area.
+Conclusion and management implications
+Soil compaction is a common consequence of mechanized
+forest harvesting operations, especially when soil moisture is
+high (around 30%). This study was conducted to compare
+the degree and extent of soil compaction between CTL and
+WT harvesting systems in northern Idaho, USA. At high
+moisture levels, both CTL and WT harvesting caused a high
+degree of soil compaction in the track of the trails. CTL har-
+vesting caused less soil compaction in the trail center and
+Fig. 8. Percent increase in soil bulk density as a function of initial soil bulk density in CTL (A) and WT (B) harvesting based on prediction
+models.
+Han et al.
+987
+Published by NRC Research Press
+
+used less area for primary wood transport compared with
+WT harvesting. Therefore, WT harvesting may require more
+careful planning and layout than CTL harvesting when forest
+managers design a harvesting plan using a ground-based har-
+vesting system. Slash in the CTL harvesting unit appears to
+be effective in minimizing soil compaction, but only 37% of
+the CTL forwarding trails were covered by heavy slash
+(<40.0 kgm–2). Therefore, careful planning of the slash mat
+and ensuring its continuity on the skid or forwarding trails is
+critical to limiting the severity of compaction.
+Although harvesting technology changes, this study sup-
+ports the use of designated and historic skid trails. Soils
+with high initial BD were compacted less than those with
+low initial BD. Since most soil compaction occurred after
+the first few passes of machines used for skidding or for-
+warding, restriction of traffic to designated skid trails would
+be an effective strategy to minimize soil compaction on ash-
+cap or fine-textured soils that have low initial BD. There-
+fore, designing harvesting operations with due consideration
+to strategies such as slash treatments could help limit soil
+compaction in areas close to log landings.
+References
+Adams, P.W. 1990. Soil compaction in woodland properties: the
+woodland workbook. Oregon State University, Corvallis, Oreg.
+Adams, P.W., and Froehlich, H.A. 1984. Compaction of forest
+soils. USDA For. Serv. Res. Pap. PNW-217.
+Allbrook, R.F. 1986. Effect of skid trail compaction on a volcanic
+soil in central Oregon. Soil Sci. Soc. Am. J. 50: 1344–1346.
+Ampoorter, E., Goris, R., Cornelis, W.M., and Verheyen, K. 2007.
+Impact of mechanized logging on compaction status of sandy
+forest soils. For. Ecol. Manage. 241: 162–174. doi:10.1016/j.
+foreco.2007.01.019.
+Bennie, A.T.P., and Burger, R.D.T. 1988. Penetration resistance of
+fine sandy apedal soils as affected by relative bulk density,
+water content and texture. S. Afr. J. Plant Soil, 5: 5–10.
+Bettinger, P., Armlovich, D., and Kellogg, L.D. 1994. Evaluating
+area in logging trails with a geographic information system.
+Trans. ASAE, 37(4): 1327–1330.
+Brown, J.K. 1974. Handbook for inventorying downed woody ma-
+terial. USDA For. Serv. Gen. Tech. Rep. INT-16.
+Clayton, J.L. 1990. Soil disturbance resulting from skidding logs on
+granite soils in central Idaho. USDA For. Serv. Res. Pap. INT-
+436.
+Cullen, S.J., Montagne, C., and Ferguson, H. 1991. Timber harvest-
+ing trafficking and soil compaction in western Montana. Soil
+Sci. Soc. Am. J. 55: 1416–1421.
+Davidson, D.T. 1965. Penetrometer measurements. In Methods of
+soil analysis. Part 1. 2nd ed. Edited by A. Klute. Agron.
+Monogr. 9. ASA and SSSA, Madison, Wis. pp. 463–478.
+Eliasson, L., and Wa¨sterlund, I. 2007. Effects of slash reinforce-
+ment of strip roads on rutting and soil compaction on a moist
+fine-grained soil. For. Ecol. Manage. 252: 118–123. doi:10.
+1016/j.foreco.2007.06.037.
+ESRI, Inc. 1999. ArcGIS 9.1. Redlands, Calif.
+Farbo, T. 1996. White pine, wobblies and wannigans. In A history
+of Potlatch logging camps, north central Idaho 1903–1986. Stee-
+ley Print and Binding, Lewiston, Idaho.
+Forristal, F.F., and Gessel, S.P. 1955. Soil properties related to for-
+est cover type and productivity on the Lee Forest, Snohomish
+County, Washington. Soil Sci. Soc. Am. Proc. 19: 384–389.
+Froehlich, H.A., Azevedo, P., Cafferata, P., and Lysne, D. 1980.
+Predicting soil compaction on forested land. USDA For. Serv.
+Fin. Rep. Equip. Dev. Centre, Missoula, Mont.
+Froese, K. 2004. Bulk density, soil strength, and soil disturbance
+impacts from a cut-to-length harvest operation in north central
+Idaho. M.Sc. thesis, University of Idaho, Moscow, Idaho.
+Gent, J.A., and Ballard, R. 1984. Impact of intensive forest man-
+agement practices on the bulk density of lower Coastal Plain
+and Piedmont soils. South J. Appl. For. 9: 44–48.
+Gingras, J.F. 1994. A comparison of full-tree versus cut-to-length
+systems in the Manitoba model forest. FERIC, Que. SR-92.
+Gomez, G.A., Powers, R.F., Singer, M.J., and Horwath, W.R. 2002.
+Soil compaction effects on growth of young ponderosa pine fol-
+lowing litter removal in California’s Sierra Nevada. Soil Sci.
+Soc. Am. J. 66: 1334–1343.
+Greacen, E.L., and Sands, R. 1980. Compaction of forest soils: a
+review. Aust. J. Soil Res. 18: 163–189. doi:10.1071/SR9800163.
+Han, H.-S., Page-Dumroese, D., Han, S.-K., and Tirocke, J. 2006.
+Effect of slash, machine passes, and soil moisture on penetration
+resistance in a cut-to-length harvesting. Int. J. For. Eng. 17(2):
+11–24.
+Hartsough, B.R., Drews, E.S., McNeel, J.F., Durston, T.A., and
+Stokes, B.J. 1997. Comparison of mechanized systems for thin-
+ning ponderosa pine and mixed conifer stands. For. Prod. J.
+47(11/12): 59–68.
+Heilman, P.E. 1981. Minerals, chemical properties and fertility of
+forest soils. In Forest soils of the Douglas-fir region. Washing-
+ton State University Cooperative Extension Service, Pullman,
+Wa. pp. 121–136.
+Jakobsen, B.F., and Moore, G.A. 1981. Effects of two types of
+skidders and of slash cover on soil compaction by logging of
+mountain ash. Aust. J. For. Res. 11: 247–255.
+Lacey, S.T., and Ryan, P.J. 2000. Cumulative management impacts
+on soil physical properties and early growth of Pinus radiata.
+For. Ecol. Manage. 138: 321–333. doi:10.1016/S0378-1127(00)
+00422-9.
+Landsberg, J.D., Miller, R.E., Anderson, H.W., and Tepp, J.S.
+2003. Bulk density and soil resistance to penetration as affected
+by commercial thinning in north eastern Washington. USDA
+For. Serv. Res. Pap. PNW-RP-551.
+Lanford, B.L., and Stokes, B.J. 1995. Compaction of two thinning
+systems: Part 1. Stand and site impacts. For. Prod. J. 45(5): 74–
+79.
+Mallows, C.L. 1964. Choosing variables in a linear regression: a
+graphical aid. Presented at the Central Regional Meeting of the
+Fig. 9. Percent increase in soil resistance to penetration (SRP) as a
+function of the distance from the landing area in CTL and WT har-
+vesting based on prediction models.
+988
+Can. J. For. Res. Vol. 39, 2009
+Published by NRC Research Press
+
+Institute of Mathematical Statistics, Manhattan, Kansas, 7–9
+May 1964.
+Mallows, C.L. 1973. Some comments on Cp. Technometrics, 15:
+661–675. doi:10.2307/1267380.
+McDonald, T.P., and Seixas, F. 1997. Effect of slash on forwarder
+soil compaction. Int. J. For. Eng. 8(2): 15–26.
+McMahon, S., and Evanson, T. 1994. The effect of slash cover in
+reducing soil compaction resulting from vehicle passage. Log-
+ging Industry Research Organization Report, 19(1): 1–8.
+McNeel, J.F., and Ballard, T.M. 1992. Analysis of site stand im-
+pacts from thinning with a harvester-forwarder system. Int. J.
+For. Eng. 4(1): 23–29.
+Miller, R.E., Colbert, S.R., and Morris, L.A. 2004. Effects of heavy
+equipment on physical properties of soils and on long-term pro-
+ductivity: a review of literature and current research. NCASI
+Technical Bulletin 887. National Council for Air and Stream
+Improvement.
+Page-Dumroese, D.S., Jurgensen, M.F., Tiarks, A.E., Ponder, F.,
+Sanchez,
+F.G.,
+Fleming,
+R.L.,
+Kranabetter,
+J.M.,
+Powers,
+R.F., Stone, D.M., Elioff, J.D., and Scott, D.A. 2006. Soil
+physical property changes at the North American Long-Term
+Soil Productivity study sites: 1 and 5 years after compaction.
+Can. J. For. Res. 36: 551–564. doi:10.1139/x05-273.
+Ponsse. 2005. Mechanical harvesting methods. In PONSSE OYJ
+Annual Report. PONSSE OYJ, Finland. pp. 14–17.
+Pritchett, W.L., and Fisher, R.F. 1987. Properties and management
+of forest soils. 2nd ed. John Wiley and Sons, New York.
+Quesnel, H., and Curran, M. 2000. Shelterwood harvesting in root-
+disease infected stands — post-harvest soil disturbance and
+compaction. For. Ecol. Manage. 133: 89–113. doi:10.1016/
+S0378-1127(99)00301-1.
+Rollerson, T.P. 1990. Influence of wide-tire skidder operations on
+soils. Int. J. For. Eng. 2: 23–30.
+Sands, R., and Bowen, G.D. 1978. Compaction of sandy soils in
+radiata pine forests. II. Effects of compaction on root configura-
+tion and growth of radiata pine seedlings. Aust. For. Res. 8:
+163–170.
+SAS Institute Inc. 2001. SAS for Windows. Version 8.2. SAS Insti-
+tute, Cary, N.C.
+Silva, A.P., Libardi, P.L., and Vieira, S.R. 1989. Variabilidade
+espacial da resisteˆncia a` penetrac¸a˜o de um latossolo vermelho-
+escuro ao longo de uma transec¸a˜o. Rev. Bras. Cieˆnc. Solo, 13:
+1–5.
+Soane, B.D. 1986. Processes of soil compaction under vehicular
+traffic and means of alleviating it. In Land clearing and develop-
+ment in the tropics. Balkema Publishers, Rotterdam, Boston.
+pp. 265–283.
+Soil Survey Staff. 1999. Soil taxonomy: a basic system of soil clas-
+sification for making and interpreting soil surveys. 2nd ed. Agri-
+cultural
+Handbook
+436,
+Natural
+Resources
+Conservation
+Service, USDA, Washington, D.C.
+SPSS Inc. 1998. SPSS for Windows. Version 9.0.0. SPSS Inc., Chi-
+cago, Ill.
+Steinbrenner, E.C., and Gessel, S.P. 1955. The effect of tractor log-
+ging on physical properties of some forest soils in southwestern
+Washington. Soil Sci. Soc. Am. Proc. 19(3): 372–376.
+USDA. 1996. Soil quality resource concerns: compaction. USDA
+Natural Resources Conservation Service.
+Vazquez, L., Myhre, D.L., Hanlon, E.A., and Gallaher, R.N. 1991.
+Soil penetrometer resistance and bulk density relationships after
+long-term no tillage. Commun. Soil. Sci. Plant Anal. 22: 2101–
+2117. doi:10.1080/00103629109368561.
+Williamson, J.R., and Neilsen, W.A. 2000. The influence of forest
+site on rate and extent of soil compaction and profile distur-
+bance of skid trails during ground-based harvesting. Can. J. For.
+Res. 30: 1196–1205. doi:10.1139/cjfr-30-8-1196.
+Wronski, E.B. 1980. Logging trials near Tumut. Logger, April/
+May: 10–14.
+Wronski, E.B., and Murphy, G. 1994. Responses of forest crops to
+soil compaction. In Soil compaction in crop production. Else-
+vier, Amsterdam. pp. 317–342.
+Zhang, H., Hartge, K.H., and Ringe, H. 1997. Effectiveness of or-
+ganic matter incorporation in reducing soil compactibility. Soil
+Sci. Soc. Am. J. 61: 239–245.
+Han et al.
+989
+Published by NRC Research Press

@@ -1,0 +1,737 @@
+ 
+ 
+ 
+An Evaluation of Spatial Structure in the Ft. Valley Restoration 
+Blocks and the Pre-Treatment 4FRI Chimney Springs Project Area 
+ 
+September 2020 
+ 
+ 
+Prepared for 
+USDA Forest Service 
+Four Forest Restoration Initiative (4FRI) Team 
+ 
+ 
+Prepared by 
+Amy Waltz 
+Jonathon Donager  
+Caleb Stotts  
+Andrew Sánchez Meador 
+Bryce Esch 
+Ecological Restoration Institute 
+Northern Arizona University 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NAU is an equal opportunity provider. 
+This report was funded by a grant from the USDA Forest Service. 
+ 
+
+Table of Contents 
+Executive Summary ...........................................................................................................1 
+Introduction ........................................................................................................................1 
+Methods ...............................................................................................................................4 
+Study Site .....................................................................................................................4 
+Classification of Imagery ............................................................................................5 
+Spatial Metrics Assessment .........................................................................................5 
+Results .................................................................................................................................7 
+Spatial Metrics ............................................................................................................7 
+Discussion..........................................................................................................................11 
+Management and Collaborative Partnership Implications .........................................13 
+Caveats and Limitations ..................................................................................................13 
+Acknowledgments ............................................................................................................14 
+Literature Cited ...............................................................................................................14 
+
+Executive Summary 
+Forest restoration on western public lands have been increasing in scope and scale since the early 
+2000s. These efforts restore attributes of forest structure to emulate historical reference 
+conditions. Remote sensing applications can be used to quantify spatial structure for the purpose 
+of informing silvicultural prescriptions and evaluating treatments. However, there are limited 
+studies of reference conditions (and limited reference conditions at large scales) to develop the 
+restoration spatial metrics ranges that could help define goals and appropriate monitoring 
+metrics. There is also a lack of observations of how spatial structure metrics might change as a 
+result of restoration treatments. This report develops metrics for a set of small, 20-year-old 
+restoration treatments and develops baseline, pre-treatment conditions for the Chimney Springs 
+task order, one of the first Four Forest Restoration Initiative task orders, in a high-visibility 
+project area near Flagstaff, Arizona. We used resource-grade photography (RGP) that was 
+contracted for about half of this 2-million-acre project. Important findings from this analysis 
+include recognizing the need to determine the ecologically appropriate data resolution for spatial 
+metric assessments. The RGP data set, at 0.3m resolution (pixel size), was too fine of scale to 
+capture multi-tree clumps. The RGP is compared to more recently available imagery to display 
+the changes in canopy cover and subsequent spatial metrics just due to resolution. More 
+information is needed to vet the spatial metrics outcomes at different resolutions by comparing 
+spatial analysis outcomes with the known variability found based on other monitoring metrics, 
+such as forest structural attributes. 
+ 
+ 
+Introduction 
+Throughout western dry forest landscapes, dense and homogenous forest conditions have 
+resulted in uncharacteristically large and severe wildfires and insect/disease outbreaks 
+(Covington and Moore 1994, Hessburg et al. 2005, Addington et al. 2018). The Four Forest 
+Restoration Initiative (4FRI) is a collaborative effort addressing these issues through restoration 
+of forest ecosystems across 2.5 million acres on portions of the four national forests along the 
+southern Colorado Plateau in northern Arizona. Forest restoration efforts seek to restore 
+attributes of forest structure to emulate historical reference conditions, including tree density, 
+age, and size distributions, and spatial arrangements of trees and openings (Reynolds et al. 2013, 
+Sanchez Meador et al. 2011, 4FRI EIS or Monitoring Plan 2014). To achieve ecological and 
+collaborative goals for restoring spatial patterns, silvicultural prescriptions often create a mosaic 
+of fine-scale spatial structure, made up of individual trees and variably sized groups of trees 
+within a matrix of variably sized openings (Sánchez Meador et al. 2011, Reynolds et al. 2013, 
+Rodman et al. 2017). While a natural range of variability for spatial patterns in southwestern 
+ponderosa pine forests is not well defined at stand and landscape scales, restoring known patterns 
+of fine-scale spatial heterogeneity is thought to be crucial for restoring forest conditions that are 
+resistant and resilient to disturbances (Churchill et al. 2013, 2017, 2018, Egan 2008, Reynolds et 
+al. 2013, Sánchez Meador et al. 2011). 
+ 
+ 
+1
+
+In 2010, the Four Forests Restoration Initiative (4FRI) project was selected for funding under the 
+Collaborative Forest Landscape Restoration Program (CFLRP), which came with a mandate and 
+funding for multi-party monitoring. The collaborative multi-party monitoring focused on 
+effectiveness monitoring, which has been accomplished through a partnership of US Forest 
+Service and collaborator funding and staff. The 4FRI is one of several landscape collaborative 
+projects that has interest in using remote sensing methods to quantify spatial patterns and assess 
+the efficacy of meeting ecologically based spatial structure and fuel treatment goals (Hamilton et 
+al. 2013, 4FRI Adaptive Management and Monitoring Plan 2014, Zachman and Dickson 2017). 
+Remote sensing applications can be used to quantify spatial structure for the purpose of 
+informing silvicultural prescriptions and evaluating the efficacy of treatments for meeting 
+restoration objectives (Cannon et al. 2017, 2018, Jeronimo et al. 2017, Wiggins et al. 2019). 
+These analyses may provide relatively low-cost monitoring options while enabling larger-scale 
+evaluations that can provide landscape context (Jeronimo et al. 2017). However, there are limited 
+studies of reference conditions (and limited reference conditions at large scales) to develop the 
+restoration spatial metrics ranges that could help define goals and appropriate metrics for 
+practitioners and external stakeholders. There is also a lack of observations of how spatial 
+structure metrics might change as a result of restoration treatments (Esch and Waltz 2019). This 
+report develops metrics for a set of small, 20-year-old restoration treatments, and develops 
+baseline, pre-treatment conditions for the Chimney Springs task order, one of the first 4FRI task 
+orders, in a high-visibility project area near Flagstaff, Arizona (Figure 1).  
+ 
+This report addresses the following questions, using and testing the resource-grade photography 
+(RGP) and classification system, found in Zachman and Dickson (2017) for its applicability to 
+assess these questions: 1) What are the range of values found in a set of eight spatial metrics in 
+the pre-treatment Chimney Springs project area?; 2) What are spatial structure metric ranges in 
+three, 20-year-old restored forest blocks?; 3) How does metric sensitivity to differences between 
+restored and non-restored landscapes vary (i.e., what metrics are most appropriate to measure 
+restoration-based forest structural change?); and 4) How does the RGP data resolution, grain and 
+extent influence the classification methods and metrics of interest? Primary spatial structure 
+metrics used in this analysis were based on the 4FRI Monitoring Plan and include canopy cover 
+percentage, and a series of patch metrics that have the potential to be sensitive to the restoration 
+treatments of thinning and burning. The set of metrics included area and edge metrics, shape 
+metrics, and aggregation (and isolation) metrics (see Table 1). By using remote sensing methods, 
+this report quantifies baseline spatial structure metrics that may be used to evaluate unit-level 
+silvicultural treatments and the landscape effects of treatments.  
+2
+
+ 
+Figure 1. Resource Grade Photography of the Chimney Springs task order, north of Flagstaff, AZ. The 17 
+treatment units, which are outlined in black, make up this 4FRI project and add up to 1,621 acres. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3
+
+Methods 
+Study Site 
+This study was conducted within and adjacent to 
+the Fort Valley Experimental Forest, an 
+approximately 5,000-acre mixed-age ponderosa 
+pine reserve located approximately 9 miles 
+northwest of Flagstaff, AZ in the Coconino 
+National Forest. The restored blocks were initiated 
+in 1997 using restoration methods described in 
+Fulé et al. 1997. Three experimental blocks were 
+established; each containing three randomly 
+assigned thinning levels and a control of 
+approximately 35 acres per unit. While all tree 
+thinning levels were based on historical 
+reconstruction of site-specific overstory, for the 
+purposes of this study, only the “full restoration” 
+blocks were used. This thinning protocol retained 
+all living pre-settlement trees and all trees with 
+>16 inches diameter at breast height (Covington 
+and Moore 1994; Fulé et al. 2001). In addition, 
+remnant evidence of missing or dead pre-
+settlement trees (e.g., snags, logs, stumps) were 
+replaced with live post-1876 trees. Replacement 
+trees were retained using 1.5–3 trees per remnant 
+pre-settlement evidence. The 4FRI Chimney 
+Springs project area surrounds this experiment 
+consisting of 1,621 total acres, with 17 separate 
+units varying in size from 32 acres to 341 acres. 
+ 
+Thinning operations began in the Chimney Springs 
+project area in the fall of 2017, with treatment 
+implementation due for completion by 2020.The 
+development of this project area through 4FRI 
+includes innovative stewardship contracting 
+through The Nature Conservancy, who has been 
+working with Forest Service partners to promote 
+restoration efficiencies and innovations. This pre-
+treatment report will be complemented by a post-
+treatment assessment following completion of the 
+task order. The pre-treatment stands in Chimney 
+Springs are not untouched, but have been an active 
+part of timber management practices over the last 
+Remote Sensing Terminology* 
+Canopy cover – the percentage of an 
+area occupied by patches that are 
+classified as canopy. This is also known 
+as the canopy intercept, or the proportion 
+of stand area covered by vertical 
+projections of tree crowns (Reynolds et 
+al. 2013). 
+Passive remote sensing – Remote 
+sensing of energy naturally reflected or 
+radiated from the terrain (e.g., aerial 
+photography, satellite imagery). 
+Active remote sensing – remote sensing 
+methods that provide their own source of 
+electromagnetic radiation to illuminate 
+the terrain (e.g., LiDAR). 
+Nadir – Point on the ground directly in 
+line with the remote sensing system.  
+Orthomosaic – Composite image or 
+photograph made by piecing together 
+individual images or photographs 
+covering adjacent areas. 
+Georeference – The association of 
+something with locations in physical 
+space. Imagery is typically 
+georeferenced to spatially referenced 
+basemaps. 
+Orthorectify – The process of stretching 
+the image to match the spatial accuracy 
+of a map by considering location, 
+elevation, and sensor information 
+(ArcMap Help). 
+Supervised classification – Digital-
+information extraction technique in 
+which the operator provides training-site 
+information that the computer uses to 
+assign pixels to categories. 
+* Definition taken directly from 
+https://quizlet.com/191681362/remote-sensing-
+vocabulary-terms-flash-cards/aken unless 
+otherwise specified. 
+4
+
+70 years. These stands are predominately trees aged less than 100 years old, and have been pre-
+commercially thinned creating a more even-aged, evenly distributed stand with a mean diameter 
+of around 17 inches. There are few pre-Euro-American settlement trees left in the unit. 
+ 
+Classification of Imagery 
+In 2014, the 4FRI Multi-Party Monitoring Board prioritized the acquisition of resource-grade 
+photography (RGP) over the Coconino and Kaibab portion of the 4FRI landscape. The RGP 
+imagery used in this analysis was collected in June of 2014. The 0.98-feet (0.3-meter) nominal 
+resolution imagery consists of four bands (red, green, blue, and near infrared), and has been 
+orthorectified and georeferenced. The imagery was collected with attention to maintaining nadir 
+(Zachman and Dickson 2017).  
+ 
+In this report, we use classification outputs created by Zachman and Dickson (2017). This 
+classification was a simple three-category classification: canopy cover, shadow, and “other.” The 
+classification was conducted in Google Earth Engine (Goerlick et al. 2017) using a suite of 
+predictors in a random forest model. Predictors included spectral values and derivatives, 
+including the normalized difference vegetation index (NDVI), as well as digital elevation and 
+derivatives, such as slope and aspect. Inputs representing texture and edge detection were also 
+calculated, including entropy and difference-of-Gaussians (see Zachmann and Dickson, 2017 for 
+further details: https://lzachmann.github.io/4fri-lpa-report/).  
+ 
+Spatial Metrics Assessment  
+Zachmann and Dickson (2017) calculated a suite of landscape metrics and then created a second 
+set of calibrated metrics, which took into account the effect of shadow within the the areal extent. 
+We did not pursue the use of these calibrated metrics as they are not easily comparible to metrics 
+from other data sets and times. Therefore, we calcuated a suite of landscape metrics from the 
+classified canopy cover class only, separating that class from both shadow and other categories. 
+It should be noted that while this classification captures canopy cover well, the elimination of 
+shadow also precludes the detection of interlocking crowns in many cases. Zachmann and 
+Dickson (2017) modeled correction factors for various landscape metrics based on solar zenith 
+angle at the time of image acquisition, but this was beyond the scope of this study.  
+ 
+Metrics were selected based on the 4FRI Multi-Party Monitoring Board’s initial review; they are 
+listed and defined in Table 1. We calculated metric values using the landscape metrics package 
+in R (Hesselbarth et al. 2019), which calcuates the same metrics as FRAGSTATS (McGarigal et 
+al. 2012). Patches were identified as canopy positive pixel classifications connected using the 
+eight-neighbor rule (queen’s case).  
+ 
+ 
+ 
+ 
+5
+
+Table 1. The metrics examined for this project, their associated metric type, how they are calculated, and 
+some implications of their usefulness to assess ponderosa pine landscapes. Words in bold correspond to 
+labels used in subsequent Tables. 
+Metric Class 
+Landscape 
+metric 
+Definition 
+Implications 
+Area and Edge 
+Metrics 
+Proportion of 
+landscape 
+(PLAND) 
+(Canopy Cover) Total 
+proportion of extent covered by 
+individual patches 
+The total canopy cover, varies 
+with data grain and resolution 
+Patch area (mean) 
+(AREA) 
+Summary of areas of individual 
+patches within extent 
+Tree density and basal area, 
+habitat suitability 
+Edge density (ED) 
+Quantity of patch edge relative 
+to total area 
+Related to the density and 
+complexity of patches 
+Shape Metrics 
+Perimeter-area 
+ratio (PARA) 
+(Edge - Area) The patch 
+perimeter divided by the patch 
+area 
+Simplistic shape metric, but 
+varies with patch size 
+Patch density 
+(PD) 
+The number of patches relative 
+to the total extent area. 
+How many individual forest 
+patches within a landscape, 
+regardless of size. 
+Aggregation 
+Metrics 
+Euclidean nearest 
+neighbor distance 
+(ENN) 
+The shortest straight-line 
+distance between the focal patch 
+and nearest neighbor 
+Simplest measure of 
+aggregation/isolation 
+Aggregation 
+Index (AI) 
+Measures aggregation by ratio 
+of observed adjacent patches to 
+maximum potential adjacencies. 
+Measures aggregation at 
+landscape scale, but clumpiness 
+may be better for Class-scale. 
+Landscape shape 
+index (LSI) 
+LSI is the total patch perimeter 
+divided by the total patch area, 
+for the landscape as a whole 
+A landscape metric of perimeter 
+and area, a measure of total 
+geometric complexity. 
+        
+Some landscape metrics are sensitive to extent, in that the values within the same landscape will 
+vary when larger extents are considered. For example, mean and standard deviation of patch size 
+will change with extent in the same landscape, as the data are able to include larger patches with 
+larger extents considered. To ensure a fair comparison among landscape metrics, we randomly 
+sampled extents from within the pre-thinning boundaries that were consistent with the size of the 
+restoration sites included in the study (~36 acres). Not wanting to duplicate spatial data and 
+increase autocorrelation of metrics, a grid with a randomized origin was generated for each 
+boundary and intersected with the treatment boundary. We then calculated landscape metrics 
+within these resulting extents if their respective areas were at least 28 acres and less than 44 
+acres (36 ± 8 acres). These sub-samples were averaged for each thinning unit (n=17) to provide 
+metric values for each unit. 
+ 
+6
+
+Finally, the need to address the impact of resolution (grain) on the metrics resulted in the 
+addition of question 4. To compare different resolutions, we examined canopy cover 
+classifications at the three restoration sites from three independent imagery data sets: Zachmann 
+and Dickson (2017) aerial imagery (0.3m grain), Planet Labs’ PlanetScope satellite imagery 
+(3.0m grain), and European Space Agency’s Sentinel-2 satellite imagery (10m grain). 
+ 
+Results 
+Spatial Metrics 
+ 
+Question 1: What are the range of values found in a set of eight spatial metrics in the pre-
+treatment Chimney Springs project area? 
+ 
+Canopy cover percent (PLAND) and the subsequent seven evaluated metrics showed high 
+variability among the pre-treatment stands, suggesting that at the RGP resolution, starting 
+conditions varied in total canopy cover and the distribution of that cover, even in a fairly 
+homogenously aged stands. The area, edge, shape, and aggregation metrics are presented in 
+Table 2 and Figure 2 “pre-thin” (n=17). Starting canopy cover using the 0.3m grain resource-
+grade photography data was lower than other canopy measures in the same location (4FRI 
+Working Group and M. Nigrelli, personal communication), ranging between 5 percent and 34 
+percent.  
+ 
+Question 2: What are spatial structure metric ranges in three, 20-year-old restored forest blocks? 
+ 
+The three restored stands were small in acreage and number and serve as a starting data set to 
+assess spatial metric variability from stands that are close emulations of historic forests. This 
+small data set had a small range of canopy cover, from 20–28 percent, 20 years post-treatment 
+(n=3, Table 2 and Figure 2, “restoration”). Not surprisingly, the additional metrics showed fairly 
+consistent distributions. The aggregation index is based on contagion indices that measure the 
+probabilities of patch cells being adjacent to patch cells of a different classification. In this 
+example, it is an index based on how often canopy pixels are adjacent to non-canopy pixels 
+versus other canopy pixels (like-adjacencies). There is high similarity among the three blocks, 
+but all units, with small resolution, may have had a very similar probability of adjacency to a 
+different patch, or canopy next to non-canopy. These blocks had highly variable starting 
+conditions at the time of restoration in 1998. One block had a largely untouched stand of large, 
+old trees, and restoration treatments resulted in a thinning of small-diameter in-growth trees. 
+Another block had few large, old trees left, and restoration treatments replaced pre-settlement 
+evidences with, at the time, 10–16-inch second-growth trees. The third block was intermediate 
+between these two stand types.  
+ 
+ 
+ 
+ 
+7
+
+Question 3: How does metric sensitivity to differences between restored and non-restored 
+landscapes vary (i.e., what metrics are most appropriate to measure restoration-based forest 
+structural change)? 
+ 
+There were little to no differences among the pre-treatment and the restoration units found in this 
+comparison (Table 2 and Figure 2). The high variability in the pre-treatment stands in almost all 
+cases encompassed the smaller ranges found in the three restoration units. Trends included a 
+slightly larger patch area in the restored forests, and slightly fewer number of patches in the 
+restored forests. The Euclidean nearest neighbor trended to slightly longer distances in the 
+restored units. While patch density and area are highly dependent on spatial grain, these trends 
+suggest a higher number of small patches in the pre-thin stands than in the restored forest 
+thinning treatments. This is intuitive; the restoration treatment left trees aggregated based on 
+historic trees and evidence, while the pre-thin forest historically has been managed with timber 
+management practices of pre-commercial spacing. 
+ 
+Table 2. Spatial structure metrics for pre-treatment Chimney Springs (n=17 units) and 
+restoration blocks (n=3 units). Mean (standard deviation). 
+METRIC (ABBREVIATION, UNIT) 
+PRE-THIN 
+RESTORATION 
+SAMPLE SIZE 
+n=17 
+n=3 
+CANOPY COVER (PLAND, %) 
+21.4 (7.06) 
+25.5 (4.07) 
+PATCH AREA (AREA, SQ FT) 
+20.2 (10.17) 
+36.8 (2.98) 
+EDGE DENSITY (ED, FT/AC) 
+3921 (965.3) 
+4334 (800.2) 
+EDGE TO AREA RATIO (PARA, 
+INDEX) 
+5.9 (1.27) 
+5.9 (0.51) 
+PATCH DENSITY (PD, COUNT/~36 
+AC) 
+16,232 (5222.7) 
+12,466 (2766.2) 
+EUC. NEAREST NEIGHBOR (ENN, 
+FT) 
+4.0 (0.48) 
+4.2 (0.53) 
+AGGREGATION INDEX (AI, 
+INDEX) 
+87.0 (4.31) 
+90 (0.29) 
+LANDSCAPE SHAPE INDEX (LSI, 
+INDEX) 
+36.4 (30.7) 
+61.9 (8.9) 
+ 
+ 
+ 
+ 
+ 
+8
+
+  
+Figure 2. Box and whisker plots for eight metrics of spatial structure (mean denoted by the x). 
+9
+
+Question 4: How does the RGP data resolution, grain, and extent influence the classification 
+methods and metrics of interest? 
+ 
+Landscape metrics varied greatly with the input data set being used. The very fine image grain 
+used in the classification of canopy cover (0.3m) clearly delineated individual projected tree 
+crown area but tended to eliminate all interlocking crowns that would lead to larger patches on 
+the landscape. Classification of canopy can be sensitive to image grain, which in turn leads to 
+divergent landscape metric values (Wasserman et al. 2019). To illustrate this point, we included 
+a simple comparison of three canopy cover classifications, including Zachmann and Dickson 
+(2017), a classification using imagery collected by Planet Labs’ PlanetScope satellite (3m grain) 
+and a classification using radar and optical imagery collected by the European Space Agency’s 
+Sentinel-1 and -2 satellites (10m grain; Figure 3). Table 3 contains the canopy cover percentage 
+as a proportion of the landscape for the three restoration sites at Chimney Springs. Going 
+forward, more work is needed to capture the resolution that best describes the ecological range of 
+landscape variability. 
+ 
+Table 4. Comparison of canopy cover as a percentage of the 
+landscape from within the three restoration sites at Chimney Springs 
+stemming from three imagery data sets: Zachmann and Dickson 
+(2017) aerial imagery (0.3m grain), Planet Labs’ PlanetScope 
+satellite imagery (3.0m grain), and European Space Agency’s 
+Sentinel-2 satellite imagery (10m grain).  
+ 
+GRAIN 
+RESTORATION PLOT 
+ 
+10-1-2 
+6-2-2 
+1-3-2 
+0.3M 
+CLASSIFICATION 
+27.8 
+29.0 
+19.8 
+3.0M 
+CLASSIFICATION 
+45.2 
+36.5 
+16.5 
+10M 
+CLASSIFICATION 
+85.8 
+66.2 
+33.2 
+ 
+ 
+ 
+10
+
+Figure 3. Comparison of canopy cover classifications at 
+the three restoration sites at Chimney Springs stemming 
+from three independent imagery data sets: Zachmann and 
+Dickson (2017) aerial imagery (0.3m grain), Planet Labs’ 
+PlanetScope satellite imagery (3.0m grain), and 
+European Space Agency’s Sentinel-2 satellite imagery 
+(10m grain). Coarser grain imagery fails to capture 
+small, individual canopies, but succeeds in creating 
+cohesive patches and interlocking canopy areas.  
+Discussion 
+In frequent-fire forests, there is strong scientific 
+understanding of restoration desired conditions 
+using plot-based forest structural outcomes to 
+measure success; however, there is limited capacity 
+to collect these data across large landscapes. The 
+use of remote sensing data sets to evaluate different 
+spatial metrics in forest restoration can provide 
+implementation and monitoring benefits. Remote 
+sensing data sets can rapidly increase data 
+availability across the large public landscapes 
+currently under restoration management.  
+ 
+At landscape scales, however, we lack information 
+on the desired conditions and the appropriate ranges 
+of these spatial metrics in restored landscapes. 
+Using existing restored forests, which emulate the 
+historic structure and tree distributions based on pre-
+settlement evidence, can inform the appropriate 
+metrics to use and help describe the spatial metric 
+ranges. Understanding the range of values in these 
+restored forests is needed as treatments continue to 
+scale in size. An important observation from this 
+work is that the selection of imagery and grain 
+needs to be appropriate to the ecological scale of the 
+questions.   
+ 
+For this report, we quantified spatial metrics on 
+three small forest restoration areas to start 
+examining the range of variability for these metrics. 
+The adjacent and surrounding restoration project 
+was analyzed for pre-treatment spatial metrics mean 
+and variability.   
+11
+
+The restored blocks were limited in size and represented different forest starting conditions with 
+differing levels of large, old trees. While small, we thought this would represent variability in 
+spatial metrics based on canopy cover. Restoration targets in these units were based solely on 
+tree density, not basal area or canopy cover. Restoration emulates the forest structure of a fire-
+adapted system, considering the time allowed for trees to grow. Similarly, the pre-treatment 
+stands were variable, but mostly represented the managed, second-growth forests with limited 
+diameter and age variability. However, restoration treatment implementation goals were planned 
+at larger scales, and included basal area forest structural goals and descriptions of opening size. 
+Personal observations from the implementers acknowledge the perceived need to increase basal 
+area in remaining groups to meet the stand-level basal area. Future studies will examine the 
+spatial distribution in the post-treatment stands to assess for differences between evidence-based 
+restoration and this larger landscape prescription methodology. 
+ 
+Important findings from this analysis include recognizing the need to determine the ecologically 
+appropriate data resolution for spatial metric assessments. More information is needed to vet the 
+spatial metrics outcomes by comparing spatial analysis outcomes with the known variability 
+found based on other monitoring metrics, such as forest structural attributes. Restoration 
+treatments are planned to reduce tree densities to historic levels, and emulate fine-scale spatial 
+heterogeneity found in historic forests. The appropriate spatial metrics will prove sensitive to 
+changes in overall density, but more importantly, metrics should be sensitive to fine-scale 
+heterogeneity. The Chimney Springs task order spatial metrics used canopy cover layers derived 
+from RGP with no additional buffer. This study suggests that 0.3m resolution may be too fine a 
+scale, as trees with close or touching canopies may not be included in a patch due to small gaps. 
+Ecologically, these kind of tree groupings may serve as patches. The grain of this imagery is fine 
+enough to recognize non-canopy within a single tree canopy, and will exclude these open patches 
+in total percent of canopy cover (see caveats). As the grain size increases, canopy cover percent 
+can increase (Wasserman et al. 2019). 
+ 
+At this resolution, this study showed that the Chimney Springs pre-treatment forests had broader 
+ranges of the metrics assessed than historic forests, but were not different than the 20-year 
+restored forests. This was surprising, as plot-based data from the Chimney Springs task order 
+reported an average of 130 trees per acre (TPA), and 126 feet2 per acre (BA) (Esch and Waltz 
+2019). These levels exceed the historic ranges from the research plots located within the 
+Chimney Springs task order (Hurteau et al. 2011 and Ecological Restoration Institute 
+unpublished reports) of 23 to 48 TPA, and basal area 26–71 ft2/acre; and the restored ranges of 
+38–74 TPA, with basal areas from 43–91 ft2/ac. In comparison, ground-based canopy cover 
+using a densitometer showed almost twice the RGP range of restored canopy cover, from 20 
+percent to 38 percent, with significant change from the 1996 pre-treatment stand canopy cover 
+(ERI unpublished data, Table 5). 
+ 
+ 
+ 
+12
+
+YEAR 
+RESTORATION PLOT 
+ 
+10-1-2 
+6-2-2 
+1-3-2 
+1998 PRE-
+TREAT 
+49.7 
+56.7 
+63.4 
+2011 POST-
+TREAT 
+38.4 
+33.1 
+20.0 
+% DIFFERENCE 
+-22.7% 
+-41.7% 
+-68.4% 
+ 
+Management and Collaborative Partnership Implications 
+The methods described in this report can help land managers and stakeholders understand the 
+variability in metrics and the impacts of remote sensing data resolution on the ability to assess 
+spatial structure in restoration treatments.  
+ 
+Pre-treatment analysis from remote sensing data, once calibrated to better known forest structural 
+attributes, may help understand starting conditions and guide silvicultural prescriptions. When 
+metric data resolution and metric sensitivity analysis is better understood, comparisons of pre- 
+and post-treatment conditions may help to monitor treatment efficacy for meeting desired 
+conditions. In the meantime, desired conditions for spatial structure should maintain flexibility 
+for meeting other restoration goals and resource objectives (e.g., prioritizing the retention of all 
+old-growth trees), and continued deliberation through the adaptive management process is 
+recommended for relating spatial structure information into potential management applications. 
+ 
+Caveats and Limitations 
+Remote sensing deficiencies and errors. Resource-grade photography uses a passive sensor and 
+is useful for evaluating the horizontal arrangement of openings and canopy, attributes that can be 
+seen from above. This imagery is not suitable for determinations of tree species composition, tree 
+size, precise number of trees per patch, and trees per acre. Small patches of regeneration, aspen, 
+and possibly shrubs were likely joined into the canopy category. Overall, the possible grouping 
+of regeneration and shrubs into the canopy layers likely resulted in slight inaccuracies of some 
+canopy patch metrics. Due to possible differences in species composition, inaccuracies of canopy 
+patch metrics may have occurred more frequently in the higher elevation units 1 and 2.  
+ 
+Requirements for consistency. This report provides baseline spatial structure metrics that can be 
+used in monitoring and adaptive management efforts. However, it is important to understand that 
+metrics for spatial patterns are sensitive to the analysis scale, grain, thematic definitions, 
+classification scheme and methods, extent of the analysis area, and minimum patch size filter 
+(Hamilton et al. 2013, Wasserman et al. 2019). Comparing pre- and post-treatment spatial 
+patterns with remote sensing techniques requires consistency in these characteristics (Hamilton 
+et al. 2013), and making direct comparisons to other studies is not necessarily appropriate. 
+Table 5. Plot-based canopy cover from 
+densitometer, pre- and post-treatment 
+across plots. Percent difference used as 
+an example of magnitude of change. 
+13
+
+Acknowledgements 
+The authors would like to thank the 4FRI Multi-Party Monitoring Board for selecting the metrics 
+of interest, Mark Nigrelli with the Forest Service for sharing the resource-grade photography, 
+and The Nature Conservancy for shared discussions on methods and metric refinement and 
+review of report. A special thanks to co-author Caleb Stotts who initiated this project, wrote 
+much of the introduction, and conducted several rounds of analyses. 
+ 
+Literature Cited 
+Addington, R.N., G.H. Aplet, M.A. Battaglia, J.S. Briggs, P.M. Brown, A.S. Cheng, Y. 
+Dickinson, J.A. Feinstein, K.A. Pelz, C.M. Regan, J. Thinnes, R. Truex, J. Paula, B. 
+Gannon, C.W. Julian, J.L. Underhill, B. Wolk. 2018. Principles and practices for the 
+restoration of ponderosa pine and dry mixed-conifer forests of the Colorado Front Range. 
+RMRS-GTR-373. Fort Collins, CO: US Department of Agriculture, Forest Service, Rocky 
+Mountain Research Station. 121 p.  
+Cannon, J.B., K.J. Barrett, B.M. Gannon, R.N. Addington, M.A. Battaglia, P.J. Fornwalt, G.H. 
+Aplet, A.S. Cheng, J.L. Underhill, J.S. Briggs, P.M. Brown. 2018. Collaborative restoration 
+effects on forest structure in ponderosa pine-dominated forests of Colorado. Forest Ecology 
+and Management, 424, 191–204.  
+Cannon, J.B., M.E. Chambers, A.S. Cheng. 2017. Monitoring fine-scale spatial patterns of 
+restoration treatments in the Uncompahgre Plateau, presentation. Colorado Forest 
+Restoration Institute, Colorado State University. 
+Churchill, D.J., A.J. Larson, M.C. Dahlgreen, J.F. Franklin, P.F. Hessburg, J.A. Lutz. 2013. 
+Restoring forest resilience: From reference spatial patterns to silvicultural prescriptions and 
+monitoring. Forest Ecology and Management, 291, 442–457 
+Churchill, D.J., S.T. Seager, A.J. Larson, E.E. Schneider, K.B. Kemp, C. Bienz. 2018. Ecological 
+functions of spatial pattern in dry forests: Implications for forest restoration. The Nature 
+Conservancy newsletter. 
+Churchill, D., G. Carnwath, A.J. Larson. 2017. Historical Forest Structure, Composition, and 
+Spatial Pattern in Dry Conifer Forests of Western Blue Mountains, Oregon. Pnw-Gtr-965. 
+Covington, W.W., M.M. Moore. 1994. Southwestern ponderosa forest structure: changes since 
+Euro-American settlement. Journal of Forestry, 92, 39–47. 
+Egan, D. 2008. Restoring Spatial Pattern to Southwestern Ponderosa Pine Forests. Working 
+Paper No. 22. Ecological Restoration Institute, Northern Arizona University. 11 p. 
+Esch, B.E., and A.E.M. Waltz. 2019. Four Forest Restoration Initiative (4FRI) rapid plot pre-
+treatment monitoring report 2019. Ecological Restoration Institute Report, prepared for 
+4FRI Stakeholder Group. www.eri.nau.edu.  
+Fulé, P.Z., W.W. Covington, M.M. Moore. 1997. Determining reference conditions for 
+ecosystem management of southwestern ponderosa pine forests. Ecological Applications, 7, 
+895–908. 
+14
+
+Four Forest Restoration Initiative (4FRI). 2014. Adaptive Management, Biophysical and 
+Socioeconomic Monitoring Plan. https://www.fs.usda.gov/main/4fri/monitoring  
+Hamilton, R., S. Cushman, K. McCallum, N. McCusker, T. Mellin, M. Nigrelli, M. Williamson. 
+2013. Multiscale landscape pattern monitoring using remote sensing: The Four Forest 
+Restoration Initiative. RSAC-10022-RPT1. Salt Lake City, UT: US Department of 
+Agriculture, Forest Service, Remote Sensing Application Center. 24 p. 
+Hessburg, P.F., J.K. Agee, J.F. Franklin. 2005. Dry forests and wildland fires of the inland 
+Northwest USA: Contrasting the landscape ecology of the pre-settlement and modern eras. 
+Forest Ecology and Management, 211, 117–139.  
+Hurteau, M.D., M.T. Stoddard, P.Z. Fulé. 2011. The carbon costs of mitigating high-severity 
+wildfire in southwestern ponderosa pine. Global Change Biology, 17, 1516–1521. 
+Jeronimo, S.M.A., L.R. Dow, V.R. Kane, D.J. Churchill, J.F. Franklin. 2017. Using LiDAR to 
+Guide Silvicultural Restoration in the Crater Lake Panhandle: Final Report to the National 
+Park Service. 
+Reynolds, R.T., A.J. Sánchez Meador, J.A. Youtz, T. Nicolet, M.S. Matonis, P.L. Jackson, D.G. 
+Delorenzo, A.D. Graves, T. Richard, S. Meador, J. Andrew, A. James, S. Megan, L. Patrick, 
+G. Donald, D. Andrew. 2013. Restoring composition and structure in Southwestern 
+frequent-fire forests: A science-based framework for improving ecosystem resiliency. Gen. 
+Tech. Rep. RMRS-GTR-310. Fort Collins, CO: US Department of Agriculture, Forest 
+Service, Rocky Mountain Research Station. 76 p.  
+Rodman, K.C., A.J. Sánchez Meador, M.M. Moore, and D.W. Huffman. 2017. Reference 
+conditions are influenced by the physical template and vary by forest type: A synthesis of 
+Pinus ponderosa-dominated sites in the southwestern United States. Forest Ecology and 
+Management 404, 316–329.  
+Sánchez Meador, A.J., P.F. Parysow, and M.M. Moore. 2011. A New Method for Delineating 
+Tree Patches and Assessing Spatial Reference Conditions of Ponderosa Pine Forests in 
+Northern Arizona. Restoration Ecology, 19, 490–499.  
+Wasserman, T.N., J.S. Andrew, and A.E.M. Waltz. 2019. Grain and Extent Considerations are 
+Integral for Monitoring Landscape-Scale Desired Conditions in Fire-Adapted Forests. 
+Forests. 21 p.  
+Wiggins, H.L., C.R. Nelson, A.J. Larson, and H.D. Safford. 2019. Using LiDAR to develop 
+high-resolution reference models of forest structure and spatial pattern. Forest Ecology and 
+Management, 434, 318–330.  
+Zachmann, L.J., and B.G. Dickson. 2017. Four Forest Restoration Initiative – Landscape Pattern 
+Analysis. Technical Report. Landscape Conservation Initiative. 
+15

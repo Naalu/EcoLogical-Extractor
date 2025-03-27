@@ -1,0 +1,633 @@
+Full Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/action/journalInformation?journalCode=wjsf20
+Download by: [Northern Arizona University-Cline Library]
+Date: 16 June 2016, At: 16:39
+Journal of Sustainable Forestry
+ISSN: 1054-9811 (Print) 1540-756X (Online) Journal homepage: http://www.tandfonline.com/loi/wjsf20
+A meta-analysis of management effects on forest
+carbon storage
+Elizabeth L. Kalies, Karen A. Haubensak & Alex J. Finkral
+To cite this article: Elizabeth L. Kalies, Karen A. Haubensak & Alex J. Finkral (2016): A meta-
+analysis of management effects on forest carbon storage, Journal of Sustainable Forestry, DOI:
+10.1080/10549811.2016.1154471
+To link to this article:  http://dx.doi.org/10.1080/10549811.2016.1154471
+View supplementary material 
+Accepted author version posted online: 29
+Feb 2016.
+Published online: 29 Feb 2016.
+Submit your article to this journal 
+Article views: 145
+View related articles 
+View Crossmark data
+
+BERLYN REVIEW
+A meta-analysis of management eﬀects on forest carbon
+storage
+Elizabeth L. Kaliesa, Karen A. Haubensakb, and Alex J. Finkralc
+aEcological Restoration Institute, Northern Arizona University, Flagstaﬀ, Arizona, USA; bDepartment of
+Biological Sciences, Northern Arizona University, Flagstaﬀ, Arizona, USA; cThe Forestland Group, Chapel Hill,
+North Carolina, USA
+ABSTRACT
+Forest management can have substantial impacts on ecosystem
+carbon storage, but those eﬀects can vary signiﬁcantly with manage-
+ment type and species composition. We used systematic review
+methodology to identify and synthesize eﬀects of thinning and/or
+burning, timber harvesting, clear-cut, and wildﬁre on four compo-
+nents of ecosystem carbon: aboveground vegetation, soil, litter, and
+deadwood. We performed a meta-analysis on studies from the United
+States and Canada because those represented 85% of the studies
+conducted worldwide. We found that the most important variables in
+predicting eﬀect sizes (ratio of carbon stored in treated stands versus
+controls) were, in decreasing order of importance, ecosystem carbon
+component, time since treatment, and age of control. Management
+treatment was the least important of all the variables we examined,
+but the trends we found suggest that thinning and/or burning treat-
+ments resulted in less carbon loss than wildﬁre or clear-cut. This
+ﬁnding is consistent with recent modeling studies indicating that
+forest management is unimportant to long-term carbon dynamics
+relative to the eﬀects of large-scale natural disturbances (e.g.,
+drought, ﬁre, pest outbreak). However, many data gaps still exist on
+total ecosystem carbon, particularly in regions other than North
+America, and in timber production forests and plantations.
+KEYWORDS
+Ecosystem carbon; fuel
+reduction treatment;
+harvest; plantation;
+prescribed ﬁre; wildﬁre
+Introduction
+Concern about global climate change has focused attention on carbon storage in forests as
+an important ecosystem service (Schröter et al., 2005). Forest carbon dynamics are a key
+component of global carbon budgets, representing a carbon sink equivalent in magnitude
+to the entire terrestrial sink (Pan et al., 2011). Conservation of forests has become a
+primary concern, especially the deforestation of tropical forests which is the greatest
+carbon source compared to releases in mid- and high-latitude forests (Dixon et al.,
+1994). Temperate and boreal forests continue to be carbon sinks, but are vulnerable to a
+variety of natural and anthropogenic disturbances such as harvesting and wildﬁre, the
+eﬀects of which may be exacerbated by climate change (Carroll, Milakovsky, Finkral,
+Evans, & Ashton, 2012; Keith, Mackey, & Lindenmayer, 2009). Additional concern is
+CONTACT Elizabeth L. Kalies
+liz.kalies@nau.edu
+Ecological Restoration Institute, Northern Arizona University, PO
+Box 15017, Flagstaﬀ, AZ, USA.
+Supplemental data for this article can be accessed on the publisher’s website. www.tandfonline.com/wjsf
+JOURNAL OF SUSTAINABLE FORESTRY
+http://dx.doi.org/10.1080/10549811.2016.1154471
+© 2016 Taylor & Francis
+Downloaded by [Northern Arizona University-Cline Library] at 16:39 16 June 2016 
+
+warranted given that undisturbed old-growth forest stands, once thought to be carbon
+neutral, can continue to sequester carbon for up to 800 yr (Luyssaert et al., 2008). Most of
+the focus of forest carbon storage has been on live and dead biomass, which comprises
+roughly 60% of global forest carbon; however, litter and soil make up the remaining 40%
+(McKinley et al., 2011), and thus are critical components of forest carbon dynamics.
+A range of strategies has been suggested for using forests to mitigate climate change—
+including increasing forested area; the use of wood as biomass for energy or as building
+products; and via management of existing forests (McKinley et al., 2011). Forest manage-
+ment can have substantial impacts on ecosystem carbon storage (Leighty, Hamburg, &
+Caouette, 2006), but those eﬀects can vary signiﬁcantly with management type and species
+composition (Nave, Vance, Swanston, & Curtis, 2010; Pan et al., 2011). Although ecolo-
+gical restoration eﬀorts in forests (e.g., mechanical thinning and/or prescribed ﬁre) are
+likely to decrease ﬁre risk and improve ecosystem function (Covington & Moore, 1994;
+Fulé, Crouse, Roccaforte, & Kalies, 2012), they may reduce carbon stores. In the western
+United States, an unintended consequence of ﬁre suppression has been the increased
+storage of carbon in conifer stands, while restoration treatments reduce standing carbon
+stocks in the short term (Finkral & Evans, 2008). These reductions and increases of stored
+carbon must be weighed against the risk associated with not restoring forests, such as
+stand-replacing ﬁres that can release large quantities of carbon to the atmosphere (Dore
+et al., 2010).
+The eﬀects of management on carbon storage in forests will depend on multiple factors
+including geographic region (Boerner, Huang, & Hart, 2008), forest composition and
+structure (Keith et al., 2009), soil horizon (Nave et al., 2010), and the amount of time
+elapsed since treatment occurred. For example, forests that tend to store more carbon
+include cooler, more mesic forests with fast growth rates but slow decomposition, parti-
+cularly older, undisturbed forests with high structural complexity (Keith et al., 2009).
+Boerner et al. (2008) found that eastern U.S. deciduous and coniferous forests were
+converted from carbon sinks to sources in most fuel reduction treatments in the short
+term, whereas in western forests treatments had little eﬀect on overall carbon budgets.
+Finally, most management treatments are likely to reduce total carbon storage in the short
+term but potentially increase it in the long term (McKinley et al., 2011). These sources of
+variation are therefore critical to include in any examination of management eﬀects on
+forest ecosystem carbon.
+The existing syntheses of forest management and ecosystem carbon have limitations that
+we attempted to circumvent in the present study. For example, several analyses have focused
+on single pools (e.g., soil carbon; Johnson & Curtis, 2001; Nave et al., 2010). Although such
+studies are useful, they do not provide an understanding of how the magnitude of response
+in a single pool compared to other ecosystem pools, and how these pools change over time
+relative to one another; for example, removing deadwood from a site results in reduced soil
+carbon over time (Fekete et al., 2014). The analysis of Boerner et al. (2008) examined all
+components of ecosystem carbon, but their study was limited to fuel reduction treatments
+that were implemented over short time periods, and found that treatments were similar in
+their carbon impacts. Similarly, Restaino and Peterson (2013) found it diﬃcult to draw
+conclusions on the eﬀects of fuel reduction treatments on carbon storage at the geographic
+scale of the western United States because empirical data were lacking. In the present study,
+we conducted a thorough, global literature search on total forest ecosystem carbon gains or
+2
+E. L. KALIES ET AL.
+Downloaded by [Northern Arizona University-Cline Library] at 16:39 16 June 2016 
+
+losses in response to management treatments including fuel reduction (prescribed ﬁre and
+thinning along with the combination), harvesting, and clear-cutting. We also included
+wildﬁre as an inadvertent treatment (or lack of management activities) to better contextua-
+lize carbon gains or losses with other management treatments. Our objective was to
+compare the amount of carbon stored in multiple ecosystem carbon pools in managed
+versus unmanaged forests, to more fully understand the carbon costs and beneﬁts of a wide
+variety of forest management strategies.
+Methods
+Data collection
+We used a systematic review protocol to identify and extract data to be used in a meta-analysis
+(Pullin & Stewart, 2006). We searched the online databases ISI Web of Science, Google
+Scholar, and Science Direct, based on the recommendations in Brown (2007) for top ecology
+databases. We included papers available through November 2015. Keywords included “forest”
+and “carbon,” together with each of the following: “thin,” “burn,” “ﬁre,” “harvest,” “clear-cut,”
+and “plantation.” We used the following criteria in identifying relevant papers:
+(1) Subject: all terrestrial forests, globally
+(2) Treatments:
+(a) Thinning and/or burning (fuel reduction treatments):
+(i) small-to-intermediate diameter trees were removed (thin),
+(ii) low-to-moderate severity prescribed burn was applied (burn),
+(iii) or both (thin + burn);
+(b) Wildﬁre: high severity burns or stand-replacing wildﬁre where almost all the
+understory is killed, and some to all large trees are killed;
+(c) Harvest: where trees, typically of large-diameter, were selectively removed;
+(d) Clear-cut: represents the most intensive harvest treatments, where > 80% of the
+basal area was removed; and
+(e) Plantation: forest stands that are artiﬁcially regenerated, often with uniform tree
+spacing.
+(3) Comparators: untreated forest stands as controls
+(4) Response variables include the following carbon pools:
+(a) Soil,
+(b) Roots,
+(c) Litter,
+(d) Overstory/understory (vegetation), and
+(e) Deadwood.
+We only included studies that measured total ecosystem carbon in at least four pools
+(soil, litter, vegetation, and deadwood) in order to reduce variation between studies and
+ensure that we could capture trade-oﬀs between pools in our analysis; this criterion
+eliminated many studies. Thus, we decided not to limit our sample size further by
+requiring additional relevant pools—e.g., fuel emissions from forestry equipment or
+JOURNAL OF SUSTAINABLE FORESTRY
+3
+Downloaded by [Northern Arizona University-Cline Library] at 16:39 16 June 2016 
+
+smoke emissions from wildﬁre. We excluded all studies examining aﬀorestation, refor-
+estation, fertilization, or irrigation, and only included empirical (not modeled) data. With
+the ﬁnal set of studies, we built a database to record the relevant information. Data were
+separated by year and site whenever possible. We noted ecological characteristics that
+could aﬀect the response, and included these variables as covariates: region (U.S. state or
+Canadian province), forest type (mixed broadleaf, mixed conifer, hardwood-softwood,
+northern pines, southern pines, oak-savanna, pinyon-juniper), treatment, age of control
+(i.e., age of trees in control sites), time since treatment (i.e., number of years posttreatment
+that carbon measurements were taken), and carbon pool (soil, litter, vegetation, and
+deadwood). We also noted methodological covariates that we hypothesized could aﬀect
+the outcome of the study, including study design (Before-After—BA or Control-Impact—
+CI), replication (number of plots sampled), and reference (identifying the publication that
+was the source of the data). Data were extracted into a standard format (spreadsheet). We
+assessed correlations between covariates via Pearson’s correlation and chi-squared tests;
+forest type and region were correlated (p = < .01), and thus we omitted region from
+further analysis.
+Data analysis
+We used meta-analysis techniques to determine mean eﬀect sizes for carbon storage in
+stands (compared to controls) under diﬀerent management practices. We used a response
+ratio as our eﬀect size calculation, deﬁned as ln (treatment mean/control mean; Hedges,
+Gurevitch, & Curtis, 1999). This metric has become more commonly used in meta-
+analysis (Côté, Mosquera, & Reynolds, 2001; Mosquera, Côté, Jennings, & Reynolds,
+2000) as it is designed to measure relative diﬀerences (often appropriate in ecological
+studies) and behaves better statistically (Hedges et al., 1999). Eﬀect sizes are usually
+weighted by the inverse of the sample variance, in order to account for variation between
+studies in sampling eﬀort. With the studies we examined, the standard deviation between
+replicate means was often not reported, or not meaningful because the size of a plot
+(replicate) varied dramatically from study to study. We used a biologically meaningful
+weighting scheme where each eﬀect size was weighted by the total number of plots
+sampled (Mosquera et al., 2000). We compared unweighted and weighted analyses and
+found they produced similar results; thus we report only unweighted results.
+We built generalized linear models to examine relationships between eﬀect sizes and
+covariates (a mixed model with “reference” as a random eﬀect did not converge, so we
+included “reference” as a ﬁxed eﬀect). We analyzed all combinations of models, hypothe-
+sizing that either ecological or methodological variables, chosen a priori, in addition to
+reference, would explain eﬀect size in response to forest management treatment. We
+constructed
+these
+models
+using
+the
+MuMIn
+package
+(Bartoń,
+2014)
+in
+R
+(R
+Development Core Team, 2015). For each model, we computed Akaike’s Information
+Criterion adjusted for small sample size (AICc), diﬀerence in AICc (ΔAICc), and Akaike
+weight (wi); we then used these values to assess model ﬁt (Burnham & Anderson, 2002).
+We ranked relative covariate importance by summing wi across all models in which a
+given covariate occurred and used cumulative weights to rank relative covariate impor-
+tance across all models. Larger values of wi are indicative of greater importance for
+covariate i relative to other variables in the model (Burnham & Anderson, 2002). We
+4
+E. L. KALIES ET AL.
+Downloaded by [Northern Arizona University-Cline Library] at 16:39 16 June 2016 
+
+considered wi ≥.50 indicative of a strong response to the covariate and wi ≤.50 a weak
+response.
+We examined each of the important covariates in the models, as identiﬁed by model
+selection, using Metawin v.2 software (Rosenberg, Adams, & Gurevitch, 2000). For
+categorical variables with ≥2 observations, we calculated a mean eﬀect size (MES) with
+conﬁdence intervals generated by bootstrapping (Adams, Gurevitch, & Rosenberg, 1997),
+corrected for bias for unequal distribution around the mean. Eﬀect sizes were considered
+to be diﬀerent from zero when the conﬁdence interval did not include zero. An eﬀect size
+of zero, positive, or negative indicated no change between treatment and control, an
+increase in the response variable compared to the control, or a decrease in the response
+variable, respectively (Rosenberg et al., 2000). For continuous variables, we regressed eﬀect
+size against the variable and reported the associated slope which indicates the direction
+and magnitude of the relationship.
+Bias and lack of independence
+Publication bias in meta-analysis occurs because studies with signiﬁcant results are
+more likely to be published than those without signiﬁcant results (Arnqvist & Wooster,
+1995). We reduced the possibility of bias by thoroughly searching theses, government
+documents, and other nonpublished studies to acquire data, although none of these
+studies met all our inclusion criteria. In addition, we visually examined weighted
+histograms, normal quantile plots, and funnel plots to conﬁrm data normality (and
+removed outliers) and lack of publication bias. To test for publication bias, we ran a
+rank correlation test (Spearman’s rho) between our eﬀect size and sample size
+(Rosenberg et al., 2000); the resulting p-value (p = .083) indicated that publication
+bias is not likely.
+We controlled for the problem of lack of independence in data (i.e., multiple eﬀect
+sizes can be calculated from the same study using the same control for multiple
+treatments) by including a covariate to identify the origin of the data (reference),
+which was an indicator variable to uniquely identify each study. This approach allowed
+us to analyze the relative importance of “reference” and associated methodological and
+site-speciﬁc sources of variation, compared to the other covariates in our model
+selection approach.
+Results
+We found 35 studies (described in 30 references; i.e., publications) that had quantitative data
+suitable for meta-analysis (S1. Results of literature review). The surprising scarcity of papers
+that ﬁt our criteria is due to the fact that many ecosystem carbon papers only evaluate two or
+three of the four pools we required for inclusion (often focusing only on either aboveground
+or belowground). The studies were mostly from the United States and Canada (85%), with
+additional studies in Korea, China, Spain, Czech Republic, and Patagonia (Figure 1).
+Research on this topic was published between 1993 and 2015, with a peak in 2008. The
+focus of 80% of the studies was fuel reduction treatments, while the remaining studies
+focused roughly equally on harvest, clear-cut, plantation conversion, and wildﬁre (~5%
+each). We chose to eliminate studies from outside of North American from the meta-analysis
+JOURNAL OF SUSTAINABLE FORESTRY
+5
+Downloaded by [Northern Arizona University-Cline Library] at 16:39 16 June 2016 
+
+because of the small sample size; this also resulted in the “plantation” treatment being
+omitted, as all plantation studies were international (Figure 1). As a result, 29 studies were
+used in the meta-analysis (S1. Results of literature review). With multiple subsites, treat-
+ments, and carbon pools at each study location, this resulted in 800 separate observations.
+The model selection analysis (S2. Model selection results) revealed that the most
+important covariates in predicting eﬀect size were, in decreasing order of importance,
+carbon pool type (wi = 1.0), time since treatment (wi = 1.0), reference (wi = 0.98), and age
+of control (wi = 0.62). Other covariates had wi ≤0.50 and therefore a weak association
+with eﬀect size—including (in decreasing order of importance) forest type (wi = 0.32),
+study design (wi = 0.31), and treatment (wi = 0.15).
+Carbon pool type had the strongest association with mean eﬀect size. Carbon in litter,
+vegetation, and root pools decreased compared to controls, while carbon in soil and
+deadwood pools had neutral responses to treatment (Figure 2).
+Time since treatment and age of control stands, both continuous variables, had strong
+associations with mean eﬀect sizes, but only slightly negative associations; regressions had
+a slope of −0.0001 ± 0.002 and −0.001 ± 0.001, respectively. However, time since treatment
+is more meaningful if interpreted by carbon pool, since each pool responded diﬀerently
+over time. Carbon pools in deadwood declined with time since treatment; all other pools
+slightly increased (Figure 3).
+The strong association between eﬀect sizes and reference indicated a lack of indepen-
+dence among observations from the same publication. We interpreted this as a site eﬀect,
+as most observations from the same study also used the same study site, and thus had
+similar ecological conditions and ﬁeld methodologies.
+Forest management treatment, although only having a weak association with eﬀect
+sizes, was the main subject of this meta-analysis; thus, we examined the relationship of
+each treatment with total carbon gain/loss across all carbon pools (Figure 4). Thinning
+resulted in the least carbon loss between control and treatment, followed by burn, thin +
+burn, wildﬁre, clear-cut, and harvest, respectively. The harvest treatment had a large
+conﬁdence interval but also the smallest sample size (N = 16).
+Figure 1. Number of observations by treatment and by country that were available in the literature.
+Only observations from USA and Canada were used in the meta-analysis.
+6
+E. L. KALIES ET AL.
+Downloaded by [Northern Arizona University-Cline Library] at 16:39 16 June 2016 
+
+Discussion
+Our analysis identiﬁed diﬀerences among ecosystem carbon components with respect to
+their responses to forest management. Across all management treatments, the largest
+carbon losses occurred in the litter, roots, and vegetation, which is intuitive given that
+management treatments manipulate these ecosystem components the most. Soil appears
+to remain relatively unaﬀected by the diﬀerent management types, consistent with results
+of existing meta-analyses on soil responses to management (Boerner, Huang, & Hart,
+2009; Johnson & Curtis, 2001). In a long-term study Powers et al. (2005) found a similar
+resistance of soil carbon to management-related treatments (i.e., compaction and forest
+Figure 3. Linear regressions of eﬀect sizes (i.e., response ratios: ln treatment mean/control mean for
+each observation) on time since treatment by carbon pool for all treatments.
+Figure 2. Mean eﬀect size (ln treatment mean/control mean), with bootstrapped conﬁdence intervals,
+by carbon pool. A positive mean eﬀect size indicates carbon gain for that pool in treatments compared
+to controls; a negative mean eﬀect size indicates carbon loss.
+JOURNAL OF SUSTAINABLE FORESTRY
+7
+Downloaded by [Northern Arizona University-Cline Library] at 16:39 16 June 2016 
+
+ﬂoor removal). However, they suggested that such apparent resistance could be explained
+by increased soil bulk density and decomposition inputs of carbon from tree roots
+following harvest. Still, others have found that intensive treatments such as clear-cutting
+cause signiﬁcant declines in the organic horizon of soils, but the mineral soil response to
+harvesting may be more dependent on factors like taxonomy and plant species composi-
+tion (Johnson & Curtis, 2001; Nave et al., 2010).
+Other studies have reported declines in coarse woody debris in intensively managed
+compared to unmanaged (old-growth) forests (Gibb et al., 2005; Krankina & Harmon,
+1995). Our analysis showed that the deadwood carbon pool trends toward a decline but
+with large variability, likely driven by a number of causes. First, dead and downed woody
+material is inherently variable, inﬂuenced by region and endemic ecosystem dynamics
+(Woodall et al., 2013). Second, diﬀerences in methodologies across studies means that
+sometimes snags are counted with tree biomass, or small pieces of deadwood may be
+included in the litter pool. Third, deadwood and slash are treated diﬀerently across fuel
+reduction prescriptions: slash can be left on site, piled and burned, scattered and burned,
+or removed (Leighty et al., 2006).
+Time since treatment is an important variable because although carbon stocks may
+decrease in the short-term immediately following treatment, it is estimated that vegetation
+stocks will increase in the longer-term due to an increase in available growing space
+(Hurteau, Koch, & Hungate, 2008). However, this concept is diﬃcult to verify empirically.
+Most studies model long-term carbon responses to treatment (e.g., Bradford, Jensen,
+Domke, & D’Amato, 2013; Hurteau & North, 2008) or use a chronosequence approach
+(e.g., Diochon, Kellman, & Beltrami, 2009; Kashian, Romme, Tinker, Turner, & Ryan,
+Figure 4. Mean eﬀect size (ln treatment mean/control mean), with bootstrapped conﬁdence intervals,
+by treatment (number of observations). A positive mean eﬀect size indicates total carbon gain (sum of
+all pools) in the treatment compared to controls; a negative mean eﬀect size indicates carbon loss.
+8
+E. L. KALIES ET AL.
+Downloaded by [Northern Arizona University-Cline Library] at 16:39 16 June 2016 
+
+2012). We attempted to use empirical data to examine this relationship, but similarly
+found that most studies (80%) examined treatments < 20 yr old, which approximately
+mirrors the length of time since restoration-type treatments have been implemented. The
+only studies we found conducted at time scales > 20 yr were chronosequence studies of
+wildﬁre and clear-cuts (Diochon et al., 2009; Gough, Vogel, Harrold, George, & Curtis,
+2007; Howard, Gower, Foley, & Kucharik, 2004; Kashian et al., 2012; Rothstein,
+Yermakov, & Buell, 2004). Despite these limitations, our analysis does include longer
+term empirical data than previous syntheses, and indicates that all pools increase slightly
+over time, except for deadwood which decreases slightly (i.e., the slope is only −0.01).
+Age of control was an important variable in predicting eﬀect sizes, indicating that the
+older the control stand, the greater the carbon loss (i.e., greater diﬀerence between control
+and treatment). Another methodological variable was study design (control-impact vs.
+before-after) which had a weak association with eﬀect sizes. Two ecological variables that
+were not important in predicting eﬀect sizes were region and forest type, which is some-
+what contrary to other studies that found regional eﬀects (Boerner et al., 2008; Dixon
+et al., 1994). However, this may be due to the fact that all forest types in this analysis were
+either conifer or mixed hardwood-softwood forests, and thus do not represent as much
+variability as one would ﬁnd between temperate and tropical forests, for example.
+We were particularly interested in the diﬀerence between carbon gains/losses in fuel
+reduction treatments (thin, burn, thin + burn) versus wildﬁre and clear-cut. Although
+only a weak trend in our analysis, fuel reduction treatments resulted in less carbon loss
+than wildﬁre or clear-cut, with the impacts of harvest being unclear due to the small
+sample size. Several recent modeling studies suggest that forest management (e.g., timber
+harvest or fuel reduction treatments) is unimportant to long-term carbon dynamics
+relative to the eﬀects of natural disturbance—such as massive tree loss due to drought,
+ﬁre, or insects—and that this is a concern since such disturbances are projected to increase
+in frequency in response to climate change (Bradford et al., 2013; Campbell & Ager, 2013).
+The fact that we found management treatment a relatively unimportant factor for pre-
+dicting carbon losses, and that wildﬁre and clear-cut resulted in greater carbon loss than
+thinning and/or burning, is consistent with these modeling studies. However, the model-
+ing studies occurred at landscape scales; our analysis was constrained to the scale of
+included studies (stand level) and does not account for spatial extent of a treatment.
+The meta-analysis approach worked well in summarizing the carbon response of
+forests to diﬀerent treatments over time at a coarse scale. However, our inferences are
+limited by sample size; as with many meta-analyses, a greater sample size would help us
+better identify trends among regions, forest types, and other ecological factors. We
+found that studies assessing all carbon pools (total ecosystem carbon) are limited
+worldwide, and only just large enough in North America to warrant meta-analysis.
+In addition, despite our eﬀort to include only papers that examined all carbon pools
+(vegetation, deadwood, litter, soil, and roots), there was variation in the level of detail
+provided by various authors. For example, deadwood sometimes included stumps, and
+roots were not always included in every study (we included these data when available
+but did not exclude studies that lacked them). These inconsistencies account for some
+of the variability we report in our analysis, although overall the diﬀerent responses of
+the various carbon pools were quite strong. Finally, there were several carbon pools
+that were outside the scope of this analysis (and would have further reduced our
+JOURNAL OF SUSTAINABLE FORESTRY
+9
+Downloaded by [Northern Arizona University-Cline Library] at 16:39 16 June 2016 
+
+sample size); notably, carbon in wood products, and fossil fuels emissions from
+mechanized harvesting operations and wood products production. For those few
+studies that have measured fossil fuels, the pool was minor relative to the overall
+treatment carbon budget (Hoover et al., 2014). However, recent simulations suggest
+that the fate of wood products (e.g., biofuel versus construction material) may be a
+primary determinant of net carbon emissions from forests (Eriksson et al., 2007).
+One outcome of meta-analysis is that it allows us to assess the current state of
+knowledge on a subject and recommend areas for future research. Clearly, studies
+that are comprehensive in their examination of ecosystem carbon, including above-
+ground and belowground carbon, are sparse. We attempted to analyze a global data
+set, but only found enough data to be representative of the United States and
+Canada. Patterns across regions and forest types can only be uncovered with more
+comprehensive data. In addition, some treatments need more attention, particularly
+diﬀerent types of timber harvests such as “biomass harvesting” for use as bioenergy
+which is projected to increase by up to 113% by 2050 in the southeastern U.S.
+(Alavalapati, Lal, Susaeta, Abt, & Wear, 2013), and conversion to plantations which
+is happening at large scales in the tropics (Gibson et al., 2011). The potential for
+plantations to store carbon may be extensive, but the amount sequestered will
+depend on the amount in standing biomass, recalcitrant carbon in the soil, and in
+wood products (Montagnini & Nair, 2004). This potential will be further aﬀected by
+rotation length that determines the degree of biomass accumulation (Schroeder,
+1992). Thus, despite the acute interest in this topic since the late 1990s, there are
+still large data gaps in our understanding of forest management and carbon
+dynamics.
+Acknowledgements
+The authors thank D. Vosick for reviewing the manuscript. D. W. Johnson provided raw
+data and S. Hagell performed data collection and entry.
+Funding
+Funding was provided by a grant from the Northern Arizona University School of
+Forestry to KAH and AJF, and from the USDA Forest Service to ELK via the Ecological
+Restoration Institute. NAU is an equal opportunity provider.
+Supporting Information Captions
+S1. Results of literature review of studies on all carbon pools and forest management treatments.
+S2. Model selection results (all subsets of global model). The ﬁrst column is the intercept, and the
+next seven are the covariates, with the coeﬃcient provided for continuous covariates or a + sign for
+categorical covariates. The next columns present degrees of freedom (df), log-likelihood (logLik),
+Akaike’s Information Criterion adjusted for small sample size (AICc), diﬀerence in AICc (ΔAICc),
+and Akaike weight (wi), respectively. Models are listed in order from highest to lowest wi.
+S3. List of 780 papers that were assessed for meta-analysis eligibility. Thousands of additional papers
+were identiﬁed by our search terms, but were eliminated based on the title alone. Papers in this list
+were assessed based on the content of the abstract.
+10
+E. L. KALIES ET AL.
+Downloaded by [Northern Arizona University-Cline Library] at 16:39 16 June 2016 
+
+References
+Adams, D. C., Gurevitch, J., & Rosenberg, M. S. (1997). Resampling tests for meta-analysis of
+ecological data. Ecology, 78(4), 1277–1283. doi:10.1890/0012-9658(1997)078[1277:RTFMAO]
+2.0.CO;2
+Alavalapati, J. R. R., Lal, P., Susaeta, A., Abt, R. C., & Wear, D. N. (2013). Forest biomass-based
+energy. Retrieved from http://www.srs.fs.usda.gov/pubs/44207
+Arnqvist, G., & Wooster, D. (1995). Meta-analysis: Synthesizing research ﬁndings in ecology and
+evolution. Trends in Ecology & Evolution, 10, 236–240. doi:10.1016/S0169-5347(00)89073-4
+Bartoń, K. (2014). MuMIn: Multi-model inference (Version 1.10.0) [Computer software]. Retrieved
+from http://cran.r-project.org/web/packages/MuMIn/index.html
+Boerner, R. E. J., Huang, J., & Hart, S. C. (2008). Fire, thinning, and the carbon economy: Eﬀects of
+ﬁre and ﬁre surrogate treatments on estimated carbon storage and sequestration rate. Forest
+Ecology and Management, 255(8–9), 3081–3097. doi:10.1016/j.foreco.2007.11.021
+Boerner, R. E. J., Huang, J., & Hart, S. C. (2009). Impacts of ﬁre and ﬁre surrogate treatments on
+forest soil properties: A meta-analytical approach. Ecological Applications, 19(2), 338–358.
+doi:10.1890/07-1767.1
+Bradford, J. B., Jensen, N. R., Domke, G. M., & D’Amato, A. W. (2013). Potential increases in
+natural disturbance rates could oﬀset forest management impacts on ecosystem carbon stocks.
+Forest Ecology and Management, 308, 178–187. doi:10.1016/j.foreco.2013.07.042
+Brown, B. N. (2007). A comparative analysis of ecology literature databases. Missoula: University of
+Montana. Retrieved from http://dbiosla.org/events/sla_conference/papers/brownpaper.pdf
+Burnham, K. P., & Anderson, D. (2002). Model selection and multi-model inference (2nd ed.). New
+York, NY: Springer-Verlag.
+Campbell, J. L., & Ager, A. A. (2013). Forest wildﬁre, fuel reduction treatments, and landscape
+carbon stocks: A sensitivity analysis. Journal of Environmental Management, 121, 124–132.
+doi:10.1016/j.jenvman.2013.02.009
+Carroll, M., Milakovsky, B., Finkral, A., Evans, A., & Ashton, M. S. (2012). Managing carbon
+sequestration and storage in temperate and boreal forests. In M. S. Ashton, M. L. Tyrrell, D.
+Spalding, & B. Gentry (Eds.), Managing forest carbon in a changing climate (pp. 205–226).
+Dordrecht, The Netherlands: Springer Science & Business Media.
+Côté, I. M., Mosquera, I., & Reynolds, J. D. (2001). Eﬀects of marine reserve characteristics on the
+protection of ﬁsh populations: A meta-analysis. Journal of Fish Biology, 59(Suppl. A), 178–189.
+doi:10.1111/j.1095-8649.2001.tb01385.x
+Covington, W. W., & Moore, M. M. (1994). Southwestern ponderosa forest structure: Changes since
+Euro-American settlement. Journal of Forestry, 92(1), 39–47.
+Diochon, A., Kellman, L., & Beltrami, H. (2009). Looking deeper: An investigation of soil
+carbon losses following harvesting from a managed northeastern red spruce (Picea rubens
+Sarg)
+forest
+chronosequence.
+Forest
+Ecology
+and
+Management,
+257(2),
+413–420.
+doi:10.1016/j.foreco.2008.09.015
+Dixon, R. K., Brown, S., Houghton, R. A., Solomon, A. M., Trexler, M. C., & Wisniewski, J.
+(1994). Carbon pools and ﬂux of global forest ecosystems. Science, 263(5144), 185–190.
+doi:10.1126/science.263.5144.185
+Dore, S., Kolb, T. E., Montes-Helu, M., Eckert, S. E., Sullivan, B. W., Hungate, B. A., & Finkral, A.
+(2010). Carbon and water ﬂuxes from ponderosa pine forests disturbed by wildﬁre and thin-
+ning. Ecological Applications, 20(3), 663–683. doi:10.1890/09-0934.1
+Eriksson, E., Gillespie, A. R., Gustavsson, L., Langvall, O., Olsson, M., Sathre, R., & Stendahl, J.
+(2007). Integrated carbon analysis of forest management practices and wood substitution.
+Canadian Journal of Forest Research, 37(3), 671–681. doi:10.1139/X06-257
+Fekete, I., Kotroczó, Z., Varga, C., Nagy, P. T., Várbíró, G., Bowden, R. D., & Lajtha, K. (2014).
+Alterations in forest detritus inputs inﬂuence soil carbon concentration and soil respiration
+in a Central-European deciduous forest. Soil Biology and Biochemistry, 74, 106–114.
+doi:10.1016/j.soilbio.2014.03.006
+JOURNAL OF SUSTAINABLE FORESTRY
+11
+Downloaded by [Northern Arizona University-Cline Library] at 16:39 16 June 2016 
+
+Finkral, A. J., & Evans, A. M. (2008). Eﬀects of a thinning treatment on carbon stocks in a northern
+Arizona
+ponderosa
+pine
+forest.
+Forest
+Ecology
+and
+Management,
+255(7),
+2743–2750.
+doi:10.1016/j.foreco.2008.01.041
+Fulé, P. Z., Crouse, J. E., Roccaforte, J. P., & Kalies, E. L. (2012). Do thinning and/or burning
+treatments in western USA ponderosa or Jeﬀrey pine-dominated forests help restore natural
+ﬁre behavior? Forest Ecology and Management, 269, 68–81. doi:10.1016/j.foreco.2011.12.025
+Gibb, H., Ball, J. P., Johansson, T., Atlegrim, O., Hjältén, J., & Danell, K. (2005). Eﬀects of manage-
+ment on coarse woody debris volume and composition in boreal forests in northern Sweden.
+Scandinavian Journal of Forest Research, 20(3), 213–222. doi:10.1080/02827580510008392
+Gibson, L., Lee, T. M., Koh, L. P., Brook, B. W., Gardner, T. A., Barlow, J., & Sodhi, N. S. (2011).
+Primary forests are irreplaceable for sustaining tropical biodiversity. Nature, 478, 378–381.
+doi:10.1038/nature10425
+Gough, C. M., Vogel, C. S., Harrold, K. H., George, K., & Curtis, P. S. (2007). The legacy of harvest
+and ﬁre on ecosystem carbon storage in a north temperate forest. Global Change Biology, 13(9),
+1935–1949. doi:10.1111/gcb.2007.13.issue-9
+Hedges, L. V., Gurevitch, J., & Curtis, P. S. (1999). The meta-analysis of response ratios in
+experimental
+ecology.
+Ecology,
+80(4),
+1150–1156.
+doi:10.1890/0012-9658(1999)080[1150:
+TMAORR]2.0.CO;2
+Hoover, C., Birdsey, R., Goines, B., Lahm, P., Marland, G., Nowak, D., & Woodall, C. (2014).
+Chapter 6: Quantifying greenhouse gas sources and sinks in managed forest systems. Retrieved
+from http://www.treesearch.fs.fed.us/pubs/46322
+Howard, E. A., Gower, S. T., Foley, J. A., & Kucharik, C. J. (2004). Eﬀects of logging on carbon
+dynamics of a jack pine forest in Saskatchewan, Canada. Global Change Biology, 10(8), 1267–
+1284. doi:10.1111/gcb.2004.10.issue-8
+Hurteau, M., & North, M. (2008). Fuel treatment eﬀects on tree-based forest carbon storage and
+emissions under modeled wildﬁre scenarios. Frontiers in Ecology and the Environment, 7(8),
+409–414. doi:10.1890/080049
+Hurteau, M. D., Koch, G. W., & Hungate, B. A. (2008). Carbon protection and ﬁre risk reduction:
+Toward a full accounting of forest carbon oﬀsets. Frontiers in Ecology and the Environment, 6
+(9), 493–498. doi:10.1890/070187
+Johnson, D. W., & Curtis, P. S. (2001). Eﬀects of forest management on soil C and N storage: Meta
+analysis. Forest Ecology and Management, 140(2–3), 227–238. doi:10.1016/S0378-1127(00)00282-6
+Kashian, D. M., Romme, W. H., Tinker, D. B., Turner, M. G., & Ryan, M. G. (2012). Postﬁre changes
+in forest carbon storage over a 300-year chronosequence of Pinus contorta-dominated forests.
+Ecological Monographs, 83(1), 49–66. doi:10.1890/11-1454.1
+Keith, H., Mackey, B. G., & Lindenmayer, D. B. (2009). Re-evaluation of forest biomass carbon
+stocks and lessons from the world’s most carbon-dense forests. Proceedings of the National
+Academy of Sciences, 106(28), 11635–11640. doi:10.1073/pnas.0901970106
+Krankina, O. N., & Harmon, M. E. (1995). Dynamics of the dead wood carbon pool in northwestern
+Russian boreal forests. In M. J. Apps, D. T. Price, & J. Wisniewski (Eds.), Boreal forests and
+global change: peer-reviewed manuscripts selected from the international boreal forest research
+association conference, held in Saskatoon, Saskatchewan, Canada, September 25–30, 1994 (pp.
+227–238). Dordrecht, The Netherlands: Springer.
+Leighty, W., Hamburg, S., & Caouette, J. (2006). Eﬀects of management on carbon sequestration in
+forest biomass in southeast Alaska. Ecosystems, 9(7), 1051–1065. doi:10.1007/s10021-005-0028-3
+Luyssaert, S., Schulze, E. D., Borner, A., Knohl, A., Hessenmoller, D., Law, B. E., & Grace, J. (2008).
+Old-growth forests as global carbon sinks. Nature, 455(7210), 213–215. doi:10.1038/nature07276
+McKinley, D. C., Ryan, M. G., Birdsey, R. A., Giardina, C. P., Harmon, M. E., Heath, L. S., & Skog,
+K. E. (2011). A synthesis of current knowledge on forests and carbon storage in the United
+States. Ecological Applications, 21(6), 1902–1924. doi:10.1890/10-0697.1
+Montagnini, F., & Nair, P. K. R. (2004). Carbon sequestration: An underexploited environmental
+beneﬁt of agroforestry systems. Agroforestry Systems, 61(1), 281–295.
+Mosquera, I., Côté, I. M., Jennings, S., & Reynolds, J. D. (2000). Conservation beneﬁts of marine reserves
+for ﬁsh populations. Animal Conservation, 4, 321–332. doi:10.1111/j.1469-1795.2000.tb00117.x
+12
+E. L. KALIES ET AL.
+Downloaded by [Northern Arizona University-Cline Library] at 16:39 16 June 2016 
+
+Nave, L. E., Vance, E. D., Swanston, C. W., & Curtis, P. S. (2010). Harvest impacts on soil
+carbon storage in temperate forests. Forest Ecology and Management, 259(5), 857–866.
+doi:10.1016/j.foreco.2009.12.009
+Pan, Y., Birdsey, R. A., Fang, J., Houghton, R., Kauppi, P. E., Kurz, W. A., & Hayes, D. (2011).
+A large and persistent carbon sink in the world’s forests. Science, 333(6045), 988–993.
+doi:10.1126/science.1201609
+Powers, R. F., Andrew Scott, D., Sanchez, F. G., Voldseth, R. A., Page-Dumroese, D., Elioﬀ, J. D.,
+& Stone, D. M. (2005). The North American long-term soil productivity experiment: Findings
+from the ﬁrst decade of research. Forest Ecology and Management, 220(1–3), 31–50.
+doi:10.1016/j.foreco.2005.08.003
+Pullin, A. S., & Stewart, G. B. (2006). Guidelines for systematic review in conservation and environ-
+mental management. Conservation Biology, 20(6), 1647–1656. doi:10.1111/cbi.2006.20.issue-6
+R Development Core Team. (2015). R: A language and environment for statistical computing
+(Version
+3.2.2)
+[Computer
+software].
+Vienna,
+Austria:
+R
+Foundation
+for
+Statistical
+Computing. Retrieved from http://www.R-project.org/
+Restaino, J. C., & Peterson, D. L. (2013). Wildﬁre and fuel treatment eﬀects on forest carbon
+dynamics in the western United States. Forest Ecology and Management, 303(0), 46–60.
+doi:10.1016/j.foreco.2013.03.043
+Rosenberg, M. S., Adams, D. C., & Gurevitch, J. (2000). MetaWin: Statistical software for meta-
+analysis (Version 2.1 software and manual). Sunderland, MA: Sinauer Associates.
+Rothstein, D. E., Yermakov, Z., & Buell, A. L. (2004). Loss and recovery of ecosystem carbon pools
+following stand-replacing wildﬁre in Michigan jack pine forests. Canadian Journal of Forest
+Research, 34(9), 1908–1918. doi:10.1139/x04-063
+Schroeder, P. (1992). Carbon storage potential of short rotation tropical tree plantations. Forest
+Ecology and Management, 50(1–2), 31–41. doi:10.1016/0378-1127(92)90312-W
+Schröter, D., Cramer, W., Leemans, R., Prentice, I. C., Araújo, M. B., Arnell, N. W., & Zierl, B.
+(2005). Ecosystem service supply and vulnerability to global change in Europe. Science, 310
+(5752), 1333–1337. doi:10.1126/science.1115233
+Woodall, C. W., Walters, B. F., Oswalt, S. N., Domke, G. M., Toney, C., & Gray, A. N. (2013).
+Biomass and carbon attributes of downed woody materials in forests of the United States. Forest
+Ecology and Management, 305, 48–59. doi:10.1016/j.foreco.2013.05.030
+JOURNAL OF SUSTAINABLE FORESTRY
+13
+Downloaded by [Northern Arizona University-Cline Library] at 16:39 16 June 2016 

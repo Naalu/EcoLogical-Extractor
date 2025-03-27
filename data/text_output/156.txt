@@ -1,0 +1,1298 @@
+Spatial variation in reference conditions:
+historical tree density and pattern on a Pinus
+ponderosa landscape
+Scott R. Abella and Charles W. Denton
+Abstract: The reference conditions of historical tree density and pattern underpin ecological restoration and management
+of Pinus ponderosa Douglas ex Lawson & C.Lawson forests in western North America, yet the potential spatial variation
+in these variables across the landscape remains unclear. We reconstructed historical (1880) tree density and spatial pattern
+on 1 ha plots at 53 sites within a 110 000 ha P. ponderosa landscape in northern Arizona, compared these variables among
+US Forest Service ecosystem classification units, and modeled spatial variation with environmental variables. Mean tree
+density differed 19-fold among nine ecosystem types, and regression trees using four soil or climatic variables explained
+62%–74% of the variation in density. Although density was more sensitive to environmental variation than was pattern,
+we did not find the clumped pattern widely described for P. ponderosa forests to be universal across ecosystems. Results
+suggest that (i) multivariate combinations of soil and climatic properties influenced historical forest structure, (ii) as much
+variation exists in reference conditions within the study landscape as between P. ponderosa regions, (iii) ecosystem classi-
+fication is a useful framework for quantifying spatial variation in reference conditions, and (iv) determining spatial varia-
+tion in reference conditions can assist resource managers in prioritizing areas for management and in developing
+ecosystem-specific management strategies within landscapes.
+Re´sume´ : Les conditions de re´fe´rence de la distribution et de la densite´ re´trospectives des arbres sous-tendent la restaura-
+tion e´cologique et a` l’ame´nagement des foreˆts de Pinus ponderosa Douglas ex Lawson & C.Lawson dans l’ouest de
+l’Ame´rique du Nord. Pourtant, la variation spatiale potentielle de ces variables dans le paysage demeure ne´buleuse. Nous
+avons reconstitue´ la densite´ des arbres et la distribution spatiale depuis 1880 dans des parcelles d’un hectare a` 53 endroits
+dans un paysage de P. ponderosa de 110 000 ha du nord de l’Arizona. Nous avons compare´ ces variables aux unite´s de la
+classification des e´cosyste`mes du U.S. Forest Service et nous avons mode´lise´ la variation spatiale avec les variables envi-
+ronnementales. La densite´ moyenne des arbres diffe´rait par un facteur de 19 parmi les neuf types d’e´cosyste`me et les ar-
+bres de re´gression construits a` l’aide de quatre variables e´daphiques ou climatiques expliquaient 62 % – 74 % de la
+variation de la densite´. Bien que la densite´ fuˆt plus sensible aux variations environnementales que la distribution, nous
+n’avons pas observe´ la distribution en bouquets largement de´crite comme e´tant universelle parmi les e´cosyste`mes pour les
+foreˆts de P. ponderosa. Les re´sultats indiquent : (i) que les combinaisons multivarie´es des proprie´te´s du sol et du climat
+ont influence´ la structure passe´e de la foreˆt; (ii) qu’il y a autant de variation dans les conditions de re´fe´rence dans le pay-
+sage e´tudie´ qu’entre les re´gions de P. ponderosa; (iii) que la classification des e´cosyste`mes est un cadre de re´fe´rence utile
+pour quantifier la variation spatiale des conditions de re´fe´rence et (iv) que la de´termination de la variation spatiale des
+conditions de re´fe´rence peut aider les ame´nagistes des ressources a` prioriser les zones a` ame´nager et a` de´velopper des
+strate´gies d’ame´nagement spe´cifiques aux e´cosyste`mes a` l’inte´rieur des paysages.
+[Traduit par la Re´daction]
+Introduction
+The concept of reference conditions underpins ecological
+restoration and many applications in forest management.
+Reference conditions represent baseline conditions prior to
+ecosystem degradation (due to fire exclusion or any number
+of factors) or examples of ecosystems believed to have a
+structure and function consistent with the evolutionary envi-
+ronment of species indigenous to the ecosystem (White and
+Walker 1997). The relative deviance between reference and
+present or disturbed conditions can illuminate needs for
+management interventions and how effective those interven-
+tions are for producing desired conditions (Moore et al.
+1999). Many authors have written about the validity of
+reference conditions given changes in contemporary forests
+and climate change (e.g., Covington et al. 1999; Millar and
+Brubaker 2006). Understanding past conditions is even more
+crucial now for understanding current and future forest pat-
+terns in a changing climate. For example, it is widely known
+precisely because of information derived from reference
+conditions that current high-density Pinus ponderosa Doug-
+las ex Lawson & C.Lawson (ponderosa pine) forests in
+western North America are not natural or sustainable
+(Swetnam et al. 1999). This reference information illustrated
+Received 16 March 2009. Accepted 11 September 2009.
+Published on the NRC Research Press Web site at cjfr.nrc.ca on
+5 December 2009.
+S.R. Abella.1 Public Lands Institute and Department of
+Environmental Studies, University of Nevada Las Vegas, Las
+Vegas, NV 89154-2040, USA.
+C.W. Denton. Ecological Restoration Institute, Northern
+Arizona University, Flagstaff, AZ 86011-5017, USA.
+1Corresponding author (e-mail: scott.abella@unlv.edu).
+2391
+Can. J. For. Res. 39: 2391–2403 (2009)
+doi:10.1139/X09-146
+Published by NRC Research Press
+
+a set of ecosystem conditions and processes different from
+that of today that was sustainable through at least several
+generations of trees (translating to several thousands of
+years in P. ponderosa forests; Moore et al. 1999). This is
+unlike present conditions where insect outbreaks and stand-
+replacing wildfires in formerly frequent-fire forests eradicate
+trees and can type convert the forests to shrublands (Savage
+and Mast 2005). For these reasons, the utility of reference
+conditions as a consideration in developing forest restoration
+and management plans is well established, and understand-
+ing reference conditions is an active area of ecological re-
+search (e.g., Brown et al. 2008; Sa´nchez Meador et al.
+2009).
+Although the potential importance of spatial variation in
+reference
+conditions is recognized
+(White and Walker
+1997), reference conditions have only rarely been (i) com-
+pared among soil or ecosystem classification units across a
+landscape (defined as an area large enough to contain a mo-
+saic of ecosystems types and often >4000 ha) or (ii) related
+to environmental gradients. Fralish et al. (1991) used wit-
+ness tree data from 1806–1807 land survey records, prior to
+pervasive timber harvest and fire exclusion, to compare for-
+est composition among six site types (defined by topo-
+graphic variables such as slope position and aspect) in
+southern Illinois deciduous forests. Mean forest basal area
+ranged widely among site types — from 9 m2/ha on dry,
+rocky south slopes dominated by Quercus stellata Wangenh.
+(post oak) to 22 m2/ha on terraces near drainages inhabited
+by Quercus alba L. (white oak) and Quercus velutina Lam.
+(black oak). In another example, Cleland et al. (2004) com-
+pared historical (1836–1858) and modern (1985–2000) fire
+return intervals among six landscape ecosystem types in an
+ecosystem classification of northern Lower Michigan. The
+relative deviation from reference fire conditions in modern
+forests varied among ecosystems. A dry-mesic ecosystem in-
+curred the largest change with a 66-fold decrease in fire fre-
+quency, whereas extremely
+xeric or mesic ecosystems
+sustained 6- to 13-fold declines. These examples suggest a
+potential for using ecological land classification systems as
+frameworks for understanding spatial variation in reference
+conditions and environmental gradients related to this varia-
+tion. This is especially important on large landscapes where
+foresters need tools for categorizing diverse sites and under-
+standing broad-scale variation in resource conditions and re-
+sponses to management (Palik et al. 2000).
+Pinus ponderosa forests occupy vast areas of semiarid
+western North America and typify a need to understand
+reference conditions across broad areas. These forests occur
+on more than 3.4 ! 106 ha in the states of Arizona and New
+Mexico alone (Brown 1994) and inhabit a variety of land-
+forms and soil parent materials with potential for inducing
+environmental variation in ecological variables. As a domi-
+nant species, P. ponderosa influences the entire forest eco-
+system, affecting understory vegetation, soils, insect and
+animal communities, and fire behavior (Moore et al. 1999).
+Pinus ponderosa trees also are the major structural compo-
+nents that forest managers can manipulate (Harrod et al.
+1999; Youngblood et al. 2004). Elevated tree densities aris-
+ing since fire exclusion in the past century in P. ponderosa
+forests have negatively affected forest health by accelerating
+the mortality of old trees, facilitating insect outbreaks, di-
+minishing understory productivity, and increasing fire se-
+verity (Covington and Moore 1994). Tree thinning to help
+remedy these deleterious conditions has been widely pro-
+posed and must be extensively and strategically applied
+across large areas to have measurable effects consistent
+with this forest type’s broad land mass (Brown et al. 2008).
+Frequent-fire, historical P. ponderosa forests in northern
+Arizona have been described as low-density, open, savanna-
+like stands consisting of clumps of pine trees interspersed
+with grassy or shrubby openings (White 1985). Yet, it is un-
+certain how consistent this generalized model of density and
+pattern was, either within or among landscapes, and which
+environmental factors coincided with any spatial variation.
+Within climatic regions supporting P. ponderosa, spatial
+variation in climate could affect density or pattern, where
+low precipitation may limit tree establishment and cause
+stems to be widely spaced to relax competition (Boyden et
+al. 2005). Conversely, areas with low precipitation could ex-
+hibit increased clumping by restricting trees to a limited
+number of favorable patches. Soils also could have affected
+density and pattern, where xeric or nutrient-poor soils limit
+recruitment. On the other hand, trees on environmentally
+stressed sites may grow slower and live longer, which could
+increase density. Soils could have affected P. ponderosa re-
+cruitment in other ways, such as the effects mediated
+through understory vegetation. Soils influence understory
+productivity, and competition between pine seedlings and
+understory plants can be intense (Riegel et al. 1992). Dis-
+turbance regimes, such as variation in fire or grazing, also
+may affect forest patterns and co-vary with environmental
+factors (Grimm 1984). These observations suggest that
+many variables could influence the distribution and pattern
+of P. ponderosa or, more generally, any dominant species
+within and among landscapes.
+The purpose of this study was to examine spatial variation
+in the reference conditions of historical tree density and pat-
+tern to determine how general the reference conditions (low
+density, clumped forests) proposed in the literature for
+P. ponderosa forests are across the landscape. Our specific
+objectives were to (1) compare historical tree density and
+pattern among landscape ecosystem units classified in a US
+Forest Service terrestrial ecosystem survey and (2) model
+variation in density and pattern with gradients in environ-
+mental variables (climate, topography, and soils). We hy-
+pothesized that density was lower and spatial patterns more
+clumped in dry ecosystems than moist ecosystems. We fur-
+ther anticipated that variables associated with moisture
+availability (e.g., soil texture, precipitation) would be most
+strongly related to variation in density and pattern across
+the landscape.
+Materials and methods
+Study area
+We conducted this study within an area of 110 000 ha on
+the northern half of the Coconino National Forest and the
+Northern Arizona University Centennial Forest in northern
+Arizona, USA (Fig. 1). Study sites ranged in elevation from
+1921 to 2564 m and were located in the P. ponderosa forest
+zone. Precipitation primarily occurs in winter as snow (ca.
+50% of annual precipitation) and as summer monsoonal
+2392
+Can. J. For. Res. Vol. 39, 2009
+Published by NRC Research Press
+
+storms
+in
+July–September.
+Slope
+gradients
+are
+typi-
+cally <10%, but cinder cones, ravines, and undulating hills
+of greater slope gradient are common topographic features.
+Graminoids dominate understories, often including combina-
+tions of Bouteloua gracilis (Willd. ex Kunth) Lag. ex Grif-
+fiths (blue grama), Carex geophila Mack. (White Mountain
+sedge), Elymus elymoides (Raf.) Swezey (squirreltail), Fes-
+tuca arizonica Vasey (Arizona fescue), and Muhlenbergia
+montana (Nutt.) Hitchc. (mountain muhly). Five site-specific
+fire-history studies, summarized in Van Horne and Fule´
+(2006), reported mean fire intervals of 2–5 years in the
+study area for presettlement (prior to Euro-American settle-
+ment and fire exclusion) forests prior to the late 1800s.
+Ecosystem classification
+Many systems of ecosystem classification have been de-
+veloped, such as the Canadian Forest Service ecosystem
+classification program, US Natural Resource Conservation
+Service ecological site types, various US Forest Service sys-
+tems, and individual research projects (McMahon et al.
+2001). These systems are similar and group sites exhibiting
+like topography, soils, and vegetation into ecosystem types,
+thereby dividing landscapes into ecosystem mapping units.
+The US Forest Service in Region 3 (Arizona and New Mex-
+ico) terms its ecosystem classification program the Terres-
+trial Ecosystem Survey, which has been completed for the
+region’s national forests (Robbie 1992). Ecosystems were
+Fig. 1. Location of 53 sample sites on a Pinus ponderosa landscape in northern Arizona. Sizes of points for sites are scaled to reflect his-
+torical tree density categories. Sites are labeled with their ecosystem type: BC, black cinder; CB, clay basalt; MB, mesic basalt; MI, mixed
+igneous; ML, mesic limestone; RB, rocky basalt; RC, red cinder; SB, submesic benmorite; and XL, xeric limestone. Shading depicts gradi-
+ents in annual precipitation (in mm) estimated from sample site values, using the PRISM model (Daly et al. 2008). Triangles indicate major
+geographic features.
+Abella and Denton
+2393
+Published by NRC Research Press
+
+classified and mapped based on climate (as influenced by el-
+evation and topography), geology affecting soil parent mate-
+rial, soil properties (e.g., texture), and topography (US
+Forest Service 1986). Overstory and understory vegetation
+further defined ecosystems, although several different eco-
+systems occurred below the same overstory type, such as
+for P. ponderosa forests. The minimum mapping unit was
+16 ha. Our study area was covered by the Coconino Na-
+tional Forest Terrestrial Ecosystem Survey described in
+Miller et al. (1995) and online at http://alic.arid.arizona.edu/
+tes/tes.html. In an earlier study, we compared the ecosystem
+survey’s classification of sites with a research-grade ecosys-
+tem classification (Abella and Covington 2006a). There was
+a 1:1 correspondence for most ecosystems and only slight
+differences in site classification for the closely related ba-
+salt, benmorite, and mixed igneous ecosystems. The US For-
+est Service assigned numerical codes to ecosystem types. In
+this paper, we name the ecosystems based on soil parent ma-
+terial and descriptors of moisture status or soil texture
+(Table 1).
+Site selection and sampling
+Using a digital map of the ecosystem survey (Miller et al.
+1995) in a Geographic Information System, we randomly se-
+lected a Universal Transverse Mercator (UTM) coordinate
+within each of five to seven mapping units of nine ecosys-
+tem types. This resulted in 53 independent sites replicated
+across the landscape (Fig. 1). The slight variation in the
+number of sites among ecosystems arose from occasionally
+needing to reject a selected mapping unit because of the
+presence of a postsettlement fire or other disturbance that
+destroyed evidence of presettlement trees.
+The nine ecosystems sampled are predominant types in
+the P. ponderosa zone of the study area and encompass a
+range of soil parent materials, including basalt, benmorite,
+limestone, and volcanic cinders (Table 1). Four soil orders
+are represented by the ecosystems, with major soil sub-
+groups including Typic and Udic Argiborolls, Typic and
+Mollic Eutroboralfs, Typic Ustorthents, and Vitrandic Usto-
+chrepts (Miller et al. 1995). Soils ranged from coarse, xeric,
+N-poor volcanic cinders of the black cinder ecosystem to silt
+loam, mesic, N-rich basalt of the mesic basalt type (Abella
+and Covington 2006a). The driest volcanic cinder ecosys-
+tems occupied precipitation-poor sites and also had low
+available water and young soils, some derived as recently
+as 1000 years ago from eruptions on the San Francisco Vol-
+canic Field. A submesic benmorite ecosystem exhibited soil
+properties and climate intermediate between the dry volcanic
+cinder and moister basalt ecosystems and contained a mont-
+morillinic clay layer typically within 30 cm of the surface.
+A mixed igneous ecosystem surrounded the San Francisco
+Peaks and had soils influenced by volcanic activity and
+down slope movement of geologic and (or) soil material.
+The mesic basalt ecosystem was distinguished from the re-
+lated rocky basalt ecosystem by having surface soils with
+greater silt content, lower rock cover, and F. arizonica as
+the dominant grass (rather than Sporobolus interruptus Va-
+sey (black dropseed) as found in the rocky basalt ecosys-
+tem).
+On each site at the randomly determined UTM coordi-
+nate, we established a 100 m ! 100 m (1 ha) plot. Using
+Table 1. Summary of characteristics of nine ecosystem types sampled on a Pinus ponderosa landscape in northern Arizona.
+Ecosystem
+TES No.*
+No. of plots
+sampled{
+Soil parent material
+Soil great group
+Texture{
+Total N
+(kg/ha){
+Precipitation
+(mm/year)§
+Black cinder
+558
+5
+Basaltic cinders and (or) ash
+Ustochrepts/Ustorthents
+Sand
+345 (39)
+453 (3)
+Red cinder
+513
+6
+Basaltic cinders
+Ustochrepts/Ustorthents
+Sandy loam
+864 (27)
+472 (3)
+Clay basalt
+523
+6
+Basalt
+Eutroboralfs/Argiborolls
+Clay loam
+1945 (17)
+560 (3)
+Xeric limestone
+500
+6
+Limestone and (or) sandstone
+Eutroboralfs/Ustochrepts
+Sandy loam
+1147 (40)
+505 (2)
+Mesic limestone
+536
+6
+Limestone and (or) sandstone
+Eutroboralfs/Ustochrepts
+Sandy loam
+1243 (28)
+646 (7)
+Submesic benmorite
+570
+5
+Benmorite
+Eutroboralfs
+Loam
+1012 (38)
+594 (2)
+Mixed igneous
+551
+6
+Mixed igneous
+Eutroboralfs/Argiborolls
+Loam
+1754 (27)
+613 (13)
+Rocky basalt
+585
+7
+Basalt and (or) cinders
+Eutroboralfs/Argiborolls
+Loam
+1005 (29)
+680 (9)
+Mesic basalt
+582
+6
+Basalt and (or) cinders
+Argiborolls/Eutroboralfs
+Silt loam
+1243 (11)
+633 (12)
+Note: Ecosystem types are arranged in general order from dry to moist based on precipitation and soil properties.
+*Number by which ecosystems are identified in the US Forest Service Terrestrial Ecosystem Survey (TES; Miller et al. 1995).
+{Plots are 1 ha.
+{Based on 0–15 cm of mineral soil. Values are means with percent coefficient of variation in parentheses.
+§Precipitation estimated using PRISM (Daly et al. 2008) from site means. Values are means with percent coefficient of variation in parentheses.
+2394
+Can. J. For. Res. Vol. 39, 2009
+Published by NRC Research Press
+
+100 m tapes, we divided each plot into 25 m ! 25 m
+(0.0625 ha) cells to facilitate stem mapping. Using the meth-
+ods of Fule´ et al. (1997) for identifying evidence of preset-
+tlement tree locations, in 2006–2007 we mapped the x, y
+coordinates of each evidence of a presettlement tree to the
+nearest metre. We selected the year 1880 as the forest re-
+construction year across sites to represent settlement because
+the start of fire exclusion has been dated between 1876 and
+1883 in the study area (Van Horne and Fule´ 2006). The evi-
+dence of trees alive in, or before, 1880 that we recorded in-
+cluded stumps, fallen logs, snags, and old, currently living
+trees (Fule´ et al. 1997). Pinus ponderosa develops orange,
+platy bark by ca. 100 years of age (Schubert 1974), which
+we used as a general guide for identifying presettlement-
+origin trees. We cored (at 0.2 m above ground level) trees
+of uncertain status and counted rings in the field to classify
+these trees as pre- or post-settlement. To assess the reprodu-
+cibility of mapping methods, every five plots we randomly
+selected five trees for remapping after all trees had been
+mapped on a plot. Ninety percent (45/50) of repeated tree
+coordinates were identical to original coordinates while
+10% differed by 1 m.
+Environmental measurements
+In the center of each plot, we recorded elevation, trans-
+formed aspect (Beers et al. 1966), slope gradient, and terrain
+shape index (McNab 1989). Terrain shape index measures
+local topographic geometry, and we based measurements on
+eight clinometer sightings every 458 to a change in topo-
+graphic shape. We measured percent rock cover by record-
+ing the presence or absence of rock every 0.3 m along a
+25 m transect. To collect 0–15 and 15–50 cm depth soil
+samples, we dug two 50 cm deep pits centered in each plot
+and separated from each other by 30 m. We analyzed the air-
+dry, composite (from the two pits/plot), <2 mm sieved frac-
+tion for texture (hydrometer method), pH (1 : 2 soil :
+0.01 mol/L CaCl2), and organic C and total N (elemental C/N
+analyzer), following Sparks (1996) and Dane and Topp
+(2002). We measured loss-on-ignition (2 h of heating at
+300 8C) following Abella and Zimmer (2007). We also es-
+timated mean bulk density and gravel content by sieving
+two 208 cm3 soil cores from the 0–15 cm layer on each
+plot.
+Bulk
+density
+soil
+volumes
+included
+gravel
+and
+rocks >2 mm in diameter. Based on texture, gravel content,
+and loss-on-ignition as a surrogate for organic matter (or-
+ganic C ! 1.724), we modeled soil available water ca-
+pacity using Saxton and Rawls’ (2006) equations and
+software. We estimated monthly precipitation and mean
+monthly minimum and maximum temperatures for each
+plot using the parameter–elevation relationships on inde-
+pendent slopes model (PRISM; Daly et al. 2008).
+Data analysis
+From the mapped tree coordinates, we calculated three
+measures of clump characteristics. We defined clumps as
+two or more trees having touching crowns or connected by
+a path of trees with touching crowns. We used a crown ra-
+dius of 3 m based on previous research of average crown
+radii of mature ponderosa pine (Gill et al. 2000). Therefore,
+trees whose bole centers were within 6 m of each other were
+in the same clump. While it is unclear if crown radii of his-
+torical trees varied across ecosystem types, this distance
+method provided a standardized, quantitative criterion for
+distinguishing clumps. Using the distance formula, we iden-
+tified clumps on each plot by calculating a pairwise matrix
+of tree–tree distances. We calculated the number of clumps
+per hectare, mean number of trees per clump, and the pro-
+portion of the total trees on a plot that were in clumps.
+We compared tree density and clump characteristics
+among ecosystems using one-way analysis of variance (a =
+0.05) and Fisher’s protected least significant difference.
+Data were analyzed on a transformed scale (square root) as
+necessary to improve equality of variance and normality.
+We examined bivariate relationships between tree density,
+measures of clumping, and environmental variables, using
+Pearson’s correlation coefficients, which returned results
+similar to Spearman rank coefficients. We modeled tree den-
+sity as a function of soil and climatic variables, using regres-
+sion tree models in JMP software (SAS Institute Inc. 2004).
+Regression trees are nonparametric models that partition
+data into increasingly homogeneous subsets and provide di-
+chotomous keys to estimate a dependent variable at different
+values of predictor variables (Breiman et al. 1984). Analo-
+gous to bivariate regression, an r2 statistic provides the pro-
+portion of variability in the dependent variable accounted for
+by the predictors. We stopped splitting data when adding
+more predictors increased r2 by <0.05 and when a minimum
+node size of n = 5 was reached. We employed JMP’s k-fold
+cross-validation (k = 5) to compute a cross-validated overall
+r2 (1 – (cross-validated sum of squares error / corrected sum
+of squares)). In all density statistical analyses, we excluded
+an outlying red cinder site containing 28% more trees per
+hectare than the next highest site (among the 53 sites) and
+4.4 times more trees than the next highest site in its ecosys-
+tem type. We conducted a separate study (reported in Abella
+(2008)) to try to understand the reasons for the uniqueness
+of this site and offer possible explanations (e.g., an unusual
+fire regime) for the exceptionally high density.
+We analyzed tree spatial patterns on each plot, derived
+from x, y tree locations, using Ripley’s K analysis. This
+point–pattern analysis uses a second-order statistic based on
+testing the co-occurrences of pairs of points (Ripley 1977).
+We performed this analysis in the software PASSAGE, ver-
+sion 1.0 (Rosenberg 2001). Settings included a 1 m step dis-
+tance, a 25 m maximum distance (corresponding to 25% of
+the plot distance, the largest allowed by the program), edge
+effects controlled by rescaling by edge overlap area correc-
+tion, and 95% confidence intervals and statistical signifi-
+cance based on 99 permutations (Rosenberg 2001). We used
+PASSAGE’s L(d) linear transformation of the K statistic,
+where the expected value of L(d) is zero when points are
+randomly distributed. Negative values of L(d) indicate
+clumping, while positive values indicate regular spacing
+(Dale 1999). There were four plots, all in the clay basalt
+ecosystem, that were not analyzed for pattern because they
+contained two or fewer trees.
+Results
+Density
+Historical tree density differed significantly among eco-
+system
+types,
+averaging
+between
+5
+and
+99
+trees/ha
+Abella and Denton
+2395
+Published by NRC Research Press
+
+(F statistic = 7.14, p < 0.0001; Fig. 2). In general, ecosys-
+tems with soil parent material consisting of basalt (except
+for the clay basalt ecosystem), benmorite, limestone (on me-
+sic sites), and mixed igneous rock contained the greatest
+densities. Xeric limestone, volcanic cinder, and basalt that
+produced clayey soils exhibited the lowest densities. How-
+ever, there was high variation among sites within several of
+the ecosystems. For example, the mesic basalt ecosystem ex-
+hibited a range of 39–143 trees/ha and a coefficient of varia-
+tion (CV) of 48%. The red cinder ecosystem had five of six
+sites with a relatively tight range of 17–42 trees/ha (CV =
+31%) and contained among the lowest densities of all the
+sites. However, the remaining site sampled in this ecosystem
+contained 183 trees/ha, which was the highest by 40 trees of
+all 53 sites sampled. Other ecosystems were less variable,
+such as the mesic limestone type that had a range of 54–
+85 trees/ha and a CV of only 15%.
+In bivariate relationships, soil pH, UTM easting, and
+mean annual minimum temperature were most strongly neg-
+atively correlated with density (Table 2). Soil silt concentra-
+tion, available water, and mean total annual precipitation
+were the most positively correlated with density, although r
+values were £0.35. Mean minimum temperatures for each
+month were more strongly negatively related to density
+(r = –0.30 to –0.42) than were maximum temperatures
+(r = –0.04 to –0.25). Other measured variables that could
+be related to climate or microclimate, specifically elevation,
+slope gradient, transformed aspect, and terrain shape index,
+were not strongly related (|r| < 0.17) to variation in density.
+A regression tree model using only soil variables ex-
+plained 62% of the variability in density after four divisions
+and had a cross-validated r2 of 0.53 (Fig. 3). Soil texture
+(silt) formed the first and most powerful division, where
+Fig. 2. Variation in historical tree density and measures of clump-
+ing among ecosystem types on a Pinus ponderosa landscape in
+northern Arizona. Horizontal bars are means, complete boxes are
+2 SD, and points are individual site values. Means without shared
+letters differ at p < 0.05. An outlying site containing 183 trees/ha is
+shown for the RC (red cinder) ecosystem but was not used in cal-
+culating the mean or standard deviation. Ecosystems are arranged
+in general order of dry to moist: BC, black cinder; RC, red cinder;
+CB, clay basalt; XL, xeric limestone; ML, mesic limestone; SB,
+submesic benmorite; MI, mixed igneous; RB, rocky basalt; and
+MB, mesic basalt.
+Table 2. Pearson correlations of
+historical tree density with represen-
+tative environmental and tree
+clumping variables on a
+Pinus ponderosa landscape in north-
+ern Arizona.
+Variable
+r
+Environmental
+Elevation
+0.15
+UTMx
+–0.48
+UTMy
+–0.14
+Temperature
+Maximum
+–0.12
+Minimum
+–0.42
+Annual precipitation
+0.24
+pH*
+–0.50
+Gravel
+–0.07
+Sand
+–0.17
+Silt
+0.35
+Clay
+–0.14
+Available water
+0.28
+Total N (volume)
+–0.23
+Loss-on-ignition
+0.23
+Tree clumping
+Clumps/ha
+0.77
+Average clump size
+0.71
+Maximum clump size
+0.70
+Trees/ha in clumps
+0.97
+Proportion in clumps
+0.66
+*Soil variables are for a 0–15 cm
+mineral soil depth.
+2396
+Can. J. For. Res. Vol. 39, 2009
+Published by NRC Research Press
+
+sites with silt concentrations ‡46% averaged 90 trees/ha
+(standard deviation (SD) = 37) and sites with < 46% silt
+averaged only 46 trees/ha (SD = 28). The second division
+identified soils with high volumetric N content as having
+low density. The highest density sites, averaging over
+100 trees/ha, were distinguished by the third division as sites
+with silt ‡46% and available water capacities ‡0.15 m3/m3.
+Minimum temperatures in spring and fall and July and
+May precipitation explained 71% of the variation in density
+(cross-validated r2 = 0.58) in a climate-only regression tree
+(Fig. 3). Inputting climatic and soil variables together im-
+proved r2 by 0.12 over the soil-only model and by 0.03
+over the climate-only model. The cross-validated r2 of 0.64
+also was highest among the models. In this soil + climate
+Fig. 3. Regression trees estimating historical tree density on a Pinus ponderosa landscape in northern Arizona. Terminal nodes represent
+estimated density for that division (mean ± 1 SD, no. of sites). The proportion of variability explained (r2) is given cumulatively for each
+division. For soil variables, A = 0–15 cm mineral soil, B = 15–50 cm, and avw is available water capacity. For climate variables, ppt. is
+precipitation.
+Abella and Denton
+2397
+Published by NRC Research Press
+
+model, cooler minimum temperatures resulted in the highest
+tree densities, whereas sites with warmer minimum temper-
+atures, high volumetric N, and lower December precipitation
+exhibited the lowest densities.
+Spatial pattern
+Although differing less sharply than density, the clump
+characteristics of proportion of trees in clumps, mean clump
+size, and maximum clump size differed significantly among
+multiple ecosystem types (Fig. 2). The mean proportion of
+trees in clumps ranged from 28% to 74% among ecosys-
+tems, being greatest in the mesic basalt and least in the
+black cinder and clay basalt types. The mean and maximum
+clump sizes also were greatest in the mesic basalt ecosys-
+tem. Clump characteristics were strongly correlated with
+tree density (Table 2).
+An array of tree spatial patterns occurred among sites
+(Figs. 4 and 5). Based on Ripley’s L(d) analysis, 14 of 49
+(29%) sites with sufficient densities for supporting analysis
+exhibited random tree distributions from 1 to 25 m distances
+(Table 3). All five sites of the black cinder ecosystem exhib-
+ited a random pattern, the most of any ecosystem. The re-
+maining
+71%
+of
+sites
+had
+significantly
+clumped
+distributions for at least 1 m increment within the 25 m step
+distance. Similar to density, there was substantial variation
+in pattern within some ecosystems. For example, the mesic
+limestone ecosystem had a plot with extreme clumping
+from 2 to 23 m but also had two plots with random distribu-
+tions.
+Discussion
+Accuracy of reconstruction methods
+A potential uncertainty with studies such as this one that
+reconstruct historical forest structure is the reliability of
+techniques for detecting evidence of historical tree locations.
+This uncertainty primarily centers on the deadwood compo-
+nent, as the status of currently live trees can be more easily
+determined through dendrochronology. In our study, 27% of
+the 3142 total evidences recorded were currently live trees
+and 73% were deadwood. Moore et al. (2004) assessed the
+accuracy of reconstruction techniques on 15 permanent plots
+on P. ponderosa sites in Arizona and New Mexico estab-
+lished by US Forest Service researchers in 1909–1913. Live
+trees <9 cm in diameter and structures (e.g., stumps) were
+mapped at the time of plot establishment and remapped 84–
+90 years later in 1997–1999. Ninety-one percent of the trees
+and structures could be relocated, suggesting that only 9%
+of evidences of historical trees were ‘‘missed.’’ Since we
+used the same techniques as Moore et al. (2004) in the
+same forest type, we believe that our reconstruction accu-
+racy should be similar. As Moore et al. (2004) suggested,
+probably the greatest source of error in our reconstruction
+techniques is the possibility of not detecting trees that were
+small (such as the trees <9 cm in diameter not historically
+mapped in Moore et al.’s (2004) study) at the time of settle-
+ment and were harvested or died near that time. While the
+possibility of ‘‘missing’’ some small trees in reconstruction
+studies cannot be dismissed, dense thickets of saplings are
+Fig. 4. Examples of distributions of historical trees for individual sites in four ecosystem types: (a) black cinder, (b) mesic limestone, (c)
+rocky basalt, and (d) mesic basalt. Graphs correspond to spatial statistics in Fig. 5.
+2398
+Can. J. For. Res. Vol. 39, 2009
+Published by NRC Research Press
+
+not believed to have been dominant components of historical
+forests in this area based on assessing historical photographs
+(Fule´ et al. 1997). Furthermore, early foresters wished to
+protect regeneration rather than targeting such small trees
+for harvest (Pearson 1923), potentially minimizing a source
+of mortality. Through our site selection criteria, we also
+avoided sampling sites that experienced postsettlement fires,
+the major cause of destruction of historical evidence identi-
+fied by Moore et al. (2004).
+General patterns
+Historical tree density and within-site spatial pattern both
+differed among several ecosystem types along the ecosystem
+gradient. However, density generally was more sensitive to
+the ecosystem classification than was pattern. Seven of the
+eight ecosystem types with densities sufficient on all plots
+for spatial analysis had ‡67% of their plots exhibit a
+clumped distribution at some spatial scale (Table 3). The ex-
+ception was the black cinder ecosystem, which consistently
+exhibited a random distribution. Although there were overall
+differences among ecosystems in density and pattern, there
+was considerable variation within several ecosystems. This
+suggests that examining variation in these responses within
+the frameworks of both ecosystem classification and contin-
+uous environmental variables is useful for understanding for-
+est patterns. Furthermore, results suggest that historical
+forest patterns were associated with multivariate combina-
+tions of variables, with the importance of soils and climate
+outweighing topography on this landscape.
+Soils
+In general, especially sandy or clayey soils supported
+lower tree density. Moisture availability may have limited
+tree establishment on both of these soil types. For example,
+June gravimetric 0–15 cm soil moisture averaged only 0.5%
+in the coarse-textured, black cinder ecosystem, whereas
+moisture averaged 11-fold greater in the loamy textured
+rocky and mesic basalt ecosystems (Abella and Covington
+2006a) that contained greater tree densities. The clayey
+soils, such as those of the clay basalt ecosystem, supported
+the lowest density on the landscape. Frost heaving may
+have been an additional limiting factor on these clayey soils.
+Haasis (1923) found that frost heaving caused twice the
+mortality (18% versus 9%) of P. ponderosa seedlings on
+stony–clayey soils than on cinder soils. Soils of the clay ba-
+salt ecosystem contained cracks commonly 8 cm wide, indi-
+cative of substantial soil contraction and expansion likely
+capable of ejecting seedlings from the soil (Haasis 1923).
+Soils with the highest concentrations of silt supported the
+highest tree densities overall. For example, the highest cate-
+gory of density (109 trees/ha) in the soil regression tree
+(Fig. 3) was with soils with ‡46% 0–15 cm silt and avail-
+able water capacity ‡0.15 m3/m3. There were exceptions,
+however, where 3 of 13 sites with >46% silt supported only
+40–49 trees/ha. These low-density silt sites contained either
+low (733 and 794 kg/ha) or high (2069 kg/ha) total N rela-
+tive to the 1189 kg/ha mean of all 53 sites. Soil texture is
+Fig. 5. Examples of Ripley’s L(d) results for individual sites in four
+ecosystem types on a Pinus ponderosa landscape in northern Ari-
+zona. Values below the 95% confidence interval indicate clumping,
+values inside are random, and values above indicate a regular dis-
+tribution (Dale 1999). Graphs correspond to point plots in Fig. 4.
+Table 3. Summary of spatial statistics for historical tree distribu-
+tions among ecosystem types on a Pinus ponderosa landscape in
+northern Arizona.
+Ecosystem
+Ripley’s L(d) spatial patterns*
+Black cinder
+R, R, R, R, R
+Red cinder
+2–8, 2–9, 2–15, 11–25, 2–19, 1–25
+Clay basalt{
+R, 2–25
+Xeric limestone
+R, R, 2–3, 2–25, 2–25, 1–25
+Mesic limestone
+R, R, 1–3, 2–11, 4–16, 2–23
+Submesic benmorite
+1–7, 3–9, 2–10, 1–11, 2–16
+Mixed igneous
+R, 1–6, 2–11, 2–12, 2–14, 2–18
+Rocky basalt
+R, R, 1–7, 2–8, 3–9, 2–23, 1–25
+Mesic basalt
+R, 2–12, 1–5 + 9–18, 2–20, 2–21, 1–25
+*Data represent scales at which trees were significantly (p < 0.05)
+clumped, with R corresponding to a random distribution. Only three sites
+(two of which are shown in Figs. 4 and 5) had a regular distribution at any
+distance, and fewer than 4 m of the step distance was regular at these sites.
+Data are based on a 1 m step distance up to 25 m and are given on a site
+basis with sites separated by commas and arranged in order of increasing
+clumping.
+{Only two of six sampled sites contained tree densities sufficient for
+supporting analysis.
+Abella and Denton
+2399
+Published by NRC Research Press
+
+considered a relatively stable property of soils (Welch and
+Klemmedson 1975) and was likely stable during the several
+hundred year historical time scale (1–2 life spans of
+P. ponderosa trees) prior to our 1880 reconstruction year.
+Although the total N that we measured also is considered
+relatively stable, it is unclear how our contemporary meas-
+ured values compare with levels experienced by historical
+trees. Nevertheless, soil parent materials have not changed
+during this time, and we assume that at least the relative
+amounts of N differed among ecosystem types in historical
+forests as they do today because of parent material effects
+on productivity and soil organic matter accumulation (Welch
+and Klemmedson 1975). Soils especially high in N sup-
+ported lower densities on both silty sites and on other soil
+textures (Fig. 3). Moist, high-N soils contain the densest
+and
+most
+productive
+grass
+understories
+(Abella
+and
+Covington 2006b). Soil effects mediated through understory
+competition with P. ponderosa seedlings could have been a
+major factor affecting tree recruitment (Pearson 1942).
+Other soil variables had various relationships with tree
+density. Soil pH had the strongest bivariate correlation
+(r = –0.50) with density of all variables. However, soils
+with high pH also had the lowest available water capacities
+and occupied climatically dry sites (e.g., xeric limestone and
+black cinder ecosystems). The pH range of all plots was
+5.6–7.1,
+well
+within
+P.
+ponderosa
+tolerance
+ranges
+(Schubert 1974). Although we hypothesize that soil texture
+and moisture availability more strongly affected tree recruit-
+ment than pH, and that pH relationships with density were
+simply correlated with parent material effects, it cannot be
+ruled out that pH did somehow affect recruitment (e.g., by
+influencing soil chemistry). Rock cover, gravel concentra-
+tion, bulk density, and organic C content all were only
+weakly correlated (|r| < 0.16) with density at landscape
+scales. We did observe that the few trees that recruited on
+clayey basalt soils often became established in rocky areas
+of approximately 200 m2 that were possibly protected from
+frost heaving or helped concentrate moisture (Long 1915).
+The major difference in tree spatial pattern among ecosys-
+tems was that the black cinder type exhibited random tree
+patterns rather than the clumped distribution most common
+in other ecosystems. Containing the sandiest and lowest-N
+soils, the nonclumped pattern in this ecosystem could relate
+to stronger resource partitioning where these harsh soils
+were incapable of supporting many trees close together.
+Other soil-related mechanisms could have induced the ob-
+served random patterns. Understory vegetation cover is the
+sparsest on these soils of any ecosystem type, which could
+have affected fire regimes by influencing fire spread. White
+(1985) hypothesized that uneven-aged clumped patterns in
+P. ponderosa forests near Flagstaff were perpetuated by
+‘‘safe sites,’’ where a tree dying in a clump provided fuel
+for a locally intense fire that created a favorable seedbed
+temporarily free from competing grasses. This hypothesis
+was developed by examining a site of the mesic basalt eco-
+system (the most productive type in the study area) and may
+not apply to the dry black cinder soils where clumping was
+not observed. Another possible explanation for the lack of
+clumping in the black cinder ecosystem could be that, due
+to sparse understory vegetation, seed-caching organisms that
+can facilitate clumped plant regeneration were less abun-
+dant. The possibility that soils had both direct (e.g., avail-
+able water capacity, frost heaving, nutrients) and indirect
+effects mediated through understory vegetation, other organ-
+isms, and fire on historical forest structure should not be
+overlooked.
+Climate
+It is difficult to directly separate potential soil and cli-
+matic effects because soils with the lowest available water
+capacities also often occupied climatically dry sites (Abella
+and Covington 2006a). Average precipitation decreased
+from west to east across the study area, which corresponded
+to a general decrease in tree density (Fig. 1). This, combined
+with dry soils in the eastern part of the study area, may ex-
+plain the negative correlation of density with UTM easting
+(Table 2).
+In bivariate relationships, average minimum temperature
+was more closely related to tree density than was precipita-
+tion (Table 2). Higher minimum temperatures were associ-
+ated with lower densities, which may also reflect a west–
+east pattern of increasingly warm and dry climates coupled
+with more xeric soils associated with low densities. It is im-
+portant to note that these findings reflect landscape patterns
+of climatic site means, not temporal climatic patterns at in-
+dividual sites. For instance, sites with cooler November min-
+imum mean temperatures contained the highest densities in
+the regression tree (Fig. 3). At an individual site, however,
+years with warmer fall temperatures facilitate P. ponderosa
+regeneration in this region by helping seedlings that germi-
+nate during summer avoid frost kill (Pearson 1923).
+Elevation and tree density were not strongly related, even
+though plots spanned a 643 m elevational range. For exam-
+ple, the highest-elevation plot of 2564 m, still well within
+the P. ponderosa elevation belt in this region, received the
+third most precipitation (733 mm/year) modeled by PRISM
+but contained the sixth lowest density of 14 trees/ha among
+sites. Conversely, the sites lowest in elevation (<2011 m)
+exhibited medium densities of 48–56 trees/ha. Many other
+plots of nearly equivalent elevation had densities that dif-
+fered substantially, suggesting that soil properties, other cli-
+matic gradients, and other variables affected tree recruitment
+more than elevation did.
+Other factors: understory vegetation and fire
+Competition with grasses has been cited as a major factor
+limiting
+P.
+ponderosa
+seedling
+establishment
+(Pearson
+1942). Therefore, sites with high grass cover could be antici-
+pated to support low tree densities. We found that some sites
+with silty, moist, N-rich soils, likely optimal for tree growth,
+had low tree densities. We hypothesize that grass cover was
+highest historically on these sites, especially of F. arizonica
+(the
+most
+competitive
+bunchgrass
+with
+P.
+ponderosa;
+Pearson 1942), and limited tree regeneration. In contrast, on
+dry, nutrient-poor sites both understory vegetation and tree
+recruitment were likely limited. Therefore, we suspect that
+understory cover had a bell-shaped relationship with tree
+density, where sites with intermediate levels of understory
+vegetation supported the highest tree densities. This hypoth-
+esis is difficult to test because of limited quantitative data on
+understories in historical forests, although insight may be
+gained through contemporary experiments that manipulate
+2400
+Can. J. For. Res. Vol. 39, 2009
+Published by NRC Research Press
+
+understory vegetation and include fire to simulate the histor-
+ical environment.
+Historical fire regimes in P. ponderosa forests have not
+been compared among ecosystem types. However, five fire-
+history studies conducted at specific sites within different
+parts of the study area reported similar historical fire-return
+intervals of 2–5 years (Van Horne and Fule´ 2006). These
+studies included one site each in at least the xeric limestone,
+mesic limestone, and mesic basalt ecosystems examined in
+this study. It is unclear whether fire regimes differed in the
+other ecosystems, such as the black cinder type where sparse
+fuel may have limited fire spread. If fire regimes differed
+among ecosystems, this variation could have influenced tree
+density and pattern directly by creating safe sites for regen-
+eration (White 1985) or killing young trees, or indirectly
+through fire effects on understory vegetation and soils. Al-
+ternatively, fire regimes may have been a relatively consis-
+tent influence across the landscape, making variation in
+soils and other factors more important. Reconstructing his-
+torical fire regimes across the landscape and among ecosys-
+tem types, as was done here for tree structure, may yield
+valuable insight into presettlement forest patterns.
+Regional comparisons
+Previous individual site studies of historical P. ponderosa
+density in the study area have reported densities similar to
+those that we recorded on ecosystem types measured in
+both this study and earlier studies. For example, Menzel
+and Covington (1997) found a density of 54 trees/ha in the
+eastern part of the study area in Walnut Canyon of the xeric
+limestone ecosystem. We recorded 57 trees/ha near Walnut
+Canyon and a range of 16–58 trees/ha in all six sample sites
+of xeric limestone. Covington and Moore (1994) and Mast
+et al. (1999) reported densities of 56 and 60 trees/ha, respec-
+tively, in the mesic basalt ecosystem, both which are within
+the range of 39–143 trees/ha that we found for the diverse
+sites of this type. At two sites in each of three ecosystem
+types, Sa´nchez Meador et al. (2009) reported the following
+densities in relation to our results: mixed igneous ecosys-
+tem — 77–80 trees/ha (14–81 trees/ha in our study); mesic
+basalt — 44–67 (39–143); and rocky basalt — 96–126 (53–
+114). By using a landscape-scale perspective and including a
+variety of ecosystem types not previously examined (e.g.,
+clay basalt with 0–19 trees/ha), our study illuminated the
+variability in density across the landscape and areas that
+contained sharply lower or higher densities than had been
+previously reported for this landscape.
+Based on comparing the range in density among our 53
+sample sites (0–183 trees/ha) with densities reported from
+nearby regions, there is as much variation in density within
+our study landscape as there is among landscapes. On the
+South and North Rim of the Grand Canyon in northern Ari-
+zona, Fule´ et al. (2002), for instance, reported a historical
+P. ponderosa density of 64–156 trees/ha among six sites.
+North of the Grand Canyon near Mount Trumbull, Waltz et
+al. (2003) recorded 14–65 trees/ha at four sites spanning
+three soil types (basalt–cinder). The density ranges over-
+lapped among landscapes, and none of the differences be-
+tween landscapes were greater than the range we found
+within our study landscape.
+Management implications and conclusion
+Forest management and restoration benefit from an under-
+standing of reference conditions, which enable useful bench-
+mark comparisons even when managing forest trajectories to
+resemble those benchmarks is not desired (Swetnam et al.
+1999). Although there were exceptions to the general pat-
+terns of variation in historical P. ponderosa density and spa-
+tial arrangement among ecosystem types, we found the
+ecosystem classification to be a useful framework for sum-
+marizing spatial variation across the landscape. Different
+ecosystem types that typically exhibit higher or lower den-
+sities were able to be identified, providing managers with
+estimates of anticipated tree densities across the landscape.
+Furthermore, this analysis identified an ecosystem (black
+cinder) that consistently exhibited a random tree distribu-
+tion,
+deviating
+from
+the
+commonly
+held
+view
+of
+P. ponderosa forests as being clumped. Analyzing variation
+at many sites across the landscape specifically permitted the
+identification of exceptions to the typical density and spatial
+patterns previously described for these forests. The ecosys-
+tem classification already exists as a map, and future re-
+search could refine density and pattern estimates to map
+these variables across the landscape. Examining continuous
+variation in density and pattern along measured environmen-
+tal gradients helped to identify factors (e.g., soil texture) that
+could have resulted in the observed variation among ecosys-
+tem types. Future experimental research could seek to deter-
+mine precise mechanisms associated with the observed
+variation, in combination with further research on historical
+conditions (e.g., fire regimes) that may have been associated
+with observed patterns. As tree thinning is increasingly im-
+plemented to reduce hazardous fuels and deleterious ecolog-
+ical
+conditions
+in
+western
+North
+American
+forests,
+landscape-scale assessments of reference and current condi-
+tions are increasingly valuable tools for understanding heter-
+ogeneity over the vast areas on which forest management is
+needed.
+Acknowledgements
+We thank the Coconino National Forest and Northern Ari-
+zona University Centennial Forest for access to study sites;
+Matt
+Tuten,
+Mike
+Stoddard,
+Dave
+Passovoy,
+Kristen
+Pearson, and students with the Ecological Restoration Insti-
+tute for help mapping six of the sites; Judy Springer for pro-
+viding logistical support for fieldwork; Brian Zimmer for
+performing soil pH, C, and N laboratory analyses; Joe
+Crouse for conducting PRISM GIS analyses; Sharon Altman
+for constructing figures; the US Forest Service and the Eco-
+logical Restoration Institute for funding fieldwork in 2006;
+and Matt Tuten, Dave Brewer, Sharon Altman, Peter Brown,
+the Associate Editor, and an anonymous reviewer for pro-
+viding helpful comments on the manuscript.
+References
+Abella, S.R. 2008. A unique old-growth ponderosa pine forest in
+northern Arizona. J. Ariz. Nev. Acad. Sci. 40(1): 1–11. doi:10.
+2181/1533-6085(2008)40[1:AUOPPF]2.0.CO;2.
+Abella, S.R., and Covington, W.W. 2006a. Forest ecosystems of an
+Arizona Pinus ponderosa landscape: multifactor classification
+Abella and Denton
+2401
+Published by NRC Research Press
+
+and implications for ecological restoration. J. Biogeogr. 33(8):
+1368–1383. doi:10.1111/j.1365-2699.2006.01513.x.
+Abella, S.R., and Covington, W.W. 2006b. Vegetation–environ-
+ment relationships and ecological species groups of an Arizona
+Pinus ponderosa landscape, USA. Plant Ecol. 185(2): 255–268.
+doi:10.1007/s11258-006-9102-y.
+Abella, S.R., and Zimmer, B.W. 2007. Estimating organic carbon
+from loss-on-ignition in northern Arizona forest soils. Soil Sci.
+Soc. Am. J. 71(2): 545–550. doi:10.2136/sssaj2006.0136.
+Beers, T.W., Dress, P.E., and Wensel, L.C. 1966. Aspect transfor-
+mation in site productivity research. J. For. 64(10): 691–692.
+Boyden, S., Binkley, B., and Shepperd, W. 2005. Spatial and tem-
+poral patterns in structure, regeneration, and mortality of an old-
+growth ponderosa pine forest in the Colorado Front Range. For.
+Ecol. Manage. 219(1): 43–55. doi:10.1016/j.foreco.2005.08.041.
+Breiman, L., Friedman, J.H., Olshen, R.A., and Stone, C.J. 1984.
+Classification and regression trees. Wadsworth, Inc., Belmont,
+Calif.
+Brown, D.E. (Editor). 1994. Biotic communities: southwestern Uni-
+ted States and northwestern Mexico. University of Utah Press,
+Salt Lake City, Utah.
+Brown, P.M., Wienk, C.L., and Symstad, A.J. 2008. Fire and forest
+history at Mount Rushmore. Ecol. Appl. 18(8): 1984–1999.
+doi:10.1890/07-1337.1. PMID:19263892.
+Cleland, D.T., Crow, T.R., Saunders, S.C., Dickmann, D.I., Ma-
+clean, A.L., Jordan, J.K., Watson, R.L., Sloan, A.M., and
+Brosofske, K.D. 2004. Characterizing historical and modern fire
+regimes in Michigan (USA): a landscape ecosystem approach.
+Landsc.
+Ecol.
+19(3):
+311–325.
+doi:10.1023/B:LAND.
+0000030437.29258.3c.
+Covington, W.W., and Moore, M.M. 1994. Postsettlement changes
+in natural fire regimes and forest structure: ecological restoration
+of old-growth ponderosa pine forests. J. Sustain. For. 2(1/2):
+153–181.
+Covington, W., Niering, W.A., Starkey, E., and Walker, J. 1999.
+Ecosystem restoration and management: scientific principles
+and concepts. In Ecological stewardship: a common reference
+for ecosystem management. Elsevier Scientific, Oxford, Eng-
+land. pp. 599–617.
+Dale, M.R.T. 1999. Spatial pattern analysis in plant ecology. Cam-
+bridge University Press, New York.
+doi:10.1006/anbo.2000.
+1304.
+Daly, C., Halbleib, M., Smith, J.I., Gibson, W.P., Doggett, M.K.,
+Taylor, G.H., Curtis, J., and Pasteris, P.P. 2008. Physiographi-
+cally sensitive mapping of climatological temperature and preci-
+pitation across the conterminous United States. Int. J. Climatol.
+28(15): 2031–2064. doi:10.1002/joc.1688.
+Dane, J.H., and Topp, G.C. (Editors). 2002. Methods of soil analy-
+sis. Part 4. Physical methods. Soil Science Society of America,
+Madison, Wisc.
+Fralish, J.S., Crooks, F.B., Chambers, J.L., and Harty, F.M. 1991.
+Comparison of presettlement, second-growth and old-growth
+forest on six site types in the Illinois Shawnee Hills. Am. Midl.
+Nat. 125(2): 294–309. doi:10.2307/2426234.
+Fule´, P.Z., Covington, W.W., and Moore, M.M. 1997. Determining
+reference conditions for ecosystem management of southwestern
+ponderosa pine forests. Ecol. Appl. 7(3): 895–908. doi:10.1890/
+1051-0761(1997)007[0895:DRCFEM]2.0.CO;2.
+Fule´, P.Z., Covington, W.W., Moore, M.M., Heinlein, T.A., and
+Waltz, A.E.M. 2002. Natural variability in forests of the Grand
+Canyon, USA. J. Biogeogr. 29(1): 31–47. doi:10.1046/j.1365-
+2699.2002.00655.x.
+Gill, S.J., Biging, G.S., and Murphy, E.C. 2000. Modeling conifer
+tree crown radius and estimating canopy cover. For. Ecol. Man-
+age. 126(3): 405–416. doi:10.1016/S0378-1127(99)00113-9.
+Grimm, E.C. 1984. Fire and other factors controlling the Big
+Woods vegetation of Minnesota in the mid-nineteenth century.
+Ecol. Monogr. 54(3): 291–311. doi:10.2307/1942499.
+Haasis, F.W. 1923. Frost heaving of western yellow pine seedlings.
+Ecology, 4(4): 378–390. doi:10.2307/1929184.
+Harrod, R.J., McRae, B.H., and Hartl, W.E. 1999. Historical stand
+reconstruction in ponderosa pine forests to guide silvicultural
+prescriptions. For. Ecol. Manage. 114(2/3): 433–446. doi:10.
+1016/S0378-1127(98)00373-9.
+Long, W.H. 1915. A new aspect of brush disposal in Arizona and
+New Mexico. Proc. Soc. Am. Foresters, 10: 383–398.
+Mast, J.N., Fule´, P.Z., Moore, M.M., Covington, W.W., and Waltz,
+A.E.M. 1999. Restoration of presettlement age structure of an
+Arizona ponderosa pine forest. Ecol. Appl. 9(1): 228–239.
+doi:10.1890/1051-0761(1999)009[0228:ROPASO]2.0.CO;2.
+McMahon, G., Gregonis, S.M., Waltman, S.W., Omernik, J.M.,
+Thorson, T.D., Freeouf, J.A., Rorick, A.H., and Keys, J.E.
+2001. Developing a spatial framework of common ecological re-
+gions for the conterminous United States. Environ. Manage.
+28(3): 293–316. doi:10.1007/s0026702429. PMID:11531234.
+McNab, W.H. 1989. Terrain shape index: quantifying effect of
+minor landforms on tree height. For. Sci. 35(1): 91–104.
+Menzel, J.P., and Covington, W.W. 1997. Changes from 1876 to
+1994 in a forest ecosystem near Walnut Canyon, northern Ari-
+zona. In Proceedings of the Third Biennial Conference of Re-
+search on the Colorado Plateau, 17–20 October 1995, Flagstaff,
+Arizona. Edited by C. Van Riper and E. Deshler. USDI, Na-
+tional Park Service. pp. 151–172.
+Millar, C.I., and Brubaker, L.B. 2006. Climate change and paleoe-
+cology: new contexts for restoration ecology. In Restoration
+science. Edited by M. Palmer, D. Falk, and J. Zedler. Island
+Press, Washington, D.C. pp. 315–340.
+Miller, G., Ambos, N., Boness, P., Reyher, D., Robertson, G.,
+Scalzone, K., Steinke, R., and Subirge, T. 1995. Terrestrial eco-
+systems survey of the Coconino National Forest. USDA For.
+Serv., Southwestern Region.
+Moore, M.M., Covington, W.W., and Fule´, P.Z. 1999. Reference
+conditions and ecological restoration: a southwestern ponderosa
+pine perspective. Ecol. Appl. 9(4): 1266–1277. doi:10.1890/
+1051-0761(1999)009[1266:RCAERA]2.0.CO;2.
+Moore, M.M., Huffman, D.W., Fule´, P.Z., Covington, W.W., and,
+Crouse, J.E. 2004. Comparison of historical and contemporary
+forest structure and composition on permanent plots in south-
+western ponderosa pine forests. For. Sci. 50(2): 162–176.
+Palik, B.J., Goebel, P.C., Kirkman, L.K., and West, L. 2000. Using
+landscape hierarchies to guide restoration of disturbed ecosys-
+tems. Ecol. Appl. 10(1): 189–202. doi:10.1890/1051-0761(2000)
+010[0189:ULHTGR]2.0.CO;2.
+Pearson, G.A. 1923. Natural reproduction of western yellow pine in
+the Southwest. USDA Bull. 1105.
+Pearson, G.A. 1942. Herbaceous vegetation a factor in natural re-
+generation of ponderosa pine in the Southwest. Ecol. Monogr.
+12(3): 315–338. doi:10.2307/1943545.
+Riegel, G.M., Miller, R.F., and Krueger, W.C. 1992. Competition
+for resources between understory vegetation and overstory Pinus
+ponderosa in northeastern Oregon. Ecol. Appl. 2(1): 71–85.
+doi:10.2307/1941890.
+Ripley, B.D. 1977. Modelling spatial patterns. J. R. Stat. Soc., B,
+39: 172–212.
+Robbie, W.A. 1992. Terrestrial ecosystem survey of national forest
+system lands in the Southwest. In Proceedings of the National
+Workshop: Taking an Ecological Approach to Management,
+2402
+Can. J. For. Res. Vol. 39, 2009
+Published by NRC Research Press
+
+27–30 April 1992, Salt Lake City, Utah. Proceedings WO-WSA-
+3.USDA For. Serv., Washington, D.C. pp. 114–118.
+Rosenberg, M.S. 2001. PASSAGE. Pattern analysis, spatial statis-
+tics, and geographic exegesis. Version 1.0. Department of Biol-
+ogy, Arizona State University, Tempe, Ariz.
+Sa´nchez Meador, A.J., Parysow, P.F., and Moore, M.M. 2009. His-
+torical stem-mapped permanent plots increase precision of re-
+constructed reference data in ponderosa pine forests of Northern
+Arizona. Restor. Ecol., In press. doi:10.1111/j.1526-100X.2008.
+00442.x.
+SAS Institute Inc. 2004. JMP user’s guide. SAS Institute Inc., Cary,
+North Carolina.
+Savage, M., and Mast, J.N. 2005. How resilient are southwestern
+ponderosa pine forests after crown fires? Can. J. For. Res.
+35(4): 967–977. doi:10.1139/x05-028.
+Saxton, K.E., and Rawls, W.J. 2006. Soil water characteristic esti-
+mates by texture and organic matter for hydrologic solutions.
+Soil Sci. Soc. Am. J. 70(5): 1569–1578. doi:10.2136/sssaj2005.
+0117.
+Schubert, G.H. 1974. Silviculture of Southwestern ponderosa pine:
+the status of our knowledge. Res. Pap. RM-123. USDA For.
+Serv., Rocky Mountain Forest and Range Experiment Station,
+Fort Collins, Co.
+Sparks, D.L. (Editor). 1996. Methods of soil analysis: part 3
+—
+chemical methods. Soil Science Society of America, Inc., and
+American Society of Agronomy, Madison, Wisc.
+Swetnam, T.W., Allen, C.D., and Betancourt, J.L. 1999. Applied
+historical ecology: using the past to manage for the future.
+Ecol.
+Appl.
+9(4):
+1189–1206.
+doi:10.1890/1051-0761(1999)
+009[1189:AHEUTP]2.0.CO;2.
+U.S. Forest Service. 1986. Terrestrial ecosystem survey handbook.
+USDA For. Serv., Albuquerque, New Mex.
+Van Horne, M.L., and Fule´, P.Z. 2006. Comparing methods of re-
+constructing fire history using fire scars in a southwestern Uni-
+ted States ponderosa pine forest. Can. J. For. Res. 36(4): 855–
+867. doi:10.1139/X05-289.
+Waltz, A.E.M., Fule´, P.Z., Covington, W.W., and Moore, M.M.
+2003. Diversity in ponderosa pine forest structure following eco-
+logical restoration treatments. For. Sci. 49(6): 885–900.
+Welch, T.G., and Klemmedson, J.O. 1975. Influence of the biotic
+factor and parent material on distribution of nitrogen and carbon
+in ponderosa pine ecosystems. In Forest soils and forest land
+management. Edited by B. Bernier and C.H. Winget. Les
+Presses de l’Universite’ Laval, Quebec. pp. 159–178.
+White, A.S. 1985. Presettlement regeneration patterns in a south-
+western ponderosa pine stand. Ecology, 66(2): 589–594. doi:10.
+2307/1940407.
+White, P.S., and Walker, J.L. 1997. Approximating nature’s varia-
+tion: selecting and using reference information in restoration
+ecology. Restor. Ecol. 5(4): 338–349. doi:10.1046/j.1526-100X.
+1997.00547.x.
+Youngblood, A., Max, T., and Coe, K. 2004. Stand structure in
+eastside old-growth ponderosa pine forests of Oregon and north-
+ern California. For. Ecol. Manage. 199(2–3): 191–217. doi:10.
+1016/j.foreco.2004.05.056.
+Abella and Denton
+2403
+Published by NRC Research Press

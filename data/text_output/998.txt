@@ -1,0 +1,965 @@
+Evaluating the System Logistics of a
+Centralized Biomass Recovery
+Operation in Northern California
+Joel A. Bisson
+Sang-Kyun Han
+Han-Sup Han
+Abstract
+In this study, we evaluated the productivity and cost of each component in a unique centralized biomass recovery
+operation to determine cost-effective system logistics. The system was divided into three segments: collection, comminution,
+and transportation. Cost analysis determined a stump-to-truck and transportation cost of $30.39 and $13.91 per bone dry ton
+(BDT), respectively. These costs did not include support equipment, overhead, proﬁt, or risk allowance. Transportation cost
+was evaluated for a total one-way haul distance of 15 miles. To control overall cost it is imperative to maintain maximum
+productivity of processing, our most expensive component. Therefore, upstream and downstream practices were examined to
+determine how they inﬂuenced the system. Analysis of the loader operation showed a 33 percent increase in cycle time when
+handling hardwood whole trees piled at a landing, compared with conifer slash piled within the unit. Regression analysis of
+the modiﬁed dump truck used in the prehaul conﬁrmed that distance had a signiﬁcant impact on overall centralized biomass
+grinding operations. Sensitivity analysis showed that a 20 percent reduction in productivity owing to increased travel time
+resulted in a 25 percent increase in grinding cost. A decoupled transport system used all-wheel drive tractors to haul
+comminuted biomass from the grinder to a trailer landing, where regular highway tractors completed the trip to the power
+plant. This system reduced delays in loading and improved access to the grinding location. Through an understanding of the
+complete system, a manager could identify cost saving elements, adjust upstream productivity to meet demand, and reduce
+the overall cost of a centralized biomass recovery operation.
+The use of forest residues has great potential for
+expanding biomass electric power generation on the north
+coast of California. Currently, processed submerchantable
+trees, limbs and tops from processing trees into sawlogs, and
+mill waste supply a third, or 60 megawatts (MW), of
+Humboldt County’s electric demand (Schatz Energy
+Research Center 2013). The availability of woody biomass
+within the county has been estimated to provide enough to
+support up to 220 MW (Williams et al. 2007).
+In addition to increasing the county’s power generation,
+the recovery of woody biomass in the form of logging
+residues beneﬁts commercial timberlands by signiﬁcantly
+reducing site preparation costs. The direct cost to remove
+piled residues is about the same as burning it without the
+added risk of an escaped ﬁre and air quality issues (M.
+Alcorn, Green Diamond Resource Company, personal
+communication, 2012). In addition, the need to control ﬁre
+stimulated weed species such as blueblossom (Ceanothus
+thyrsiﬂorus) and manzanita (Arctostaphylos manzanita)
+with herbicides is reduced. The total cost savings for
+reforestation activities can range from $350 to $800 per acre
+or more when consequent reductions in carbon emissions,
+ﬁre risks, and herbicide application are considered in
+biomass recovery (M. Alcorn, personal communication,
+2012).
+Beneﬁts from biomass recovery can also be realized in
+the mechanical removal of slash piles created from fuel
+management practices. This method has been used in
+National Forests in northern California as an alternative to
+The authors are, respectively, Graduate Research Associate, Dept.
+of Forestry and Wildland Resources, Humboldt State Univ., Arcata,
+California (jab22@humboldt.edu [corresponding author]); Assistant
+Professor, Dept. of Forestry and Landscape Architecture, Korea
+National College of Agric. and Fisheries, Hwaseong-Si, Gyeonggi-
+Do, Republic of Korea (hsk5311@Korea.kr); and Professor, Dept. of
+Forestry and Wildland Resources, Humboldt State Univ., Arcata,
+California (hh30@humboldt.edu). This paper was received for
+publication in July 2014. Article no. 14-00071.
+Forest Products Society 2016.
+Forest Prod. J. 66(1/2):88–96.
+doi:10.13073/FPJ-D-14-00071
+88
+BISSON ET AL.
+
+open pile burning, avoiding negative effects such as smoke
+production, residual tree mortality, and the risk of ﬁre
+escape (Han et al. 2010). It also reduces the time required to
+proceed to the next step of understory burning, which often
+follows pile burning.
+Despite these beneﬁts, forest residues remain underused
+because of economic and operational barriers related to the
+cost of collecting, processing, and transporting a product
+with low market value (Han et al. 2002). Pan et al. (2008)
+reported a total production cost to feller bunch, skid, and
+grind small-diameter trees (,5.0 in.) at $29.16 per bone dry
+ton (BDT). Productivity of primary transport of whole trees
+to the landing over an average distance of 884 feet was
+17.41 BDT per productive machine hour (PMH) at a cost of
+$6.08/BDT. To improve productivity and reduce costs for
+the whole system, they suggested reducing operational
+delays by matching the productivities of each machine in the
+operation or ‘‘achieve system balance.’’ In addition, costs
+could also be reduced if residues piled at the landing from
+other logging operations were used.
+A different study evaluated the prehaul of loose residues
+densiﬁed into bundles from a landing to a centralized
+grinding area using hook-lift trucks. The total production
+cost for this operation was $60.98/BDT. The productivity of
+loading and hauling bundles 4.5 miles to a grinder was
+10.07 BDT/PMH at a cost of $16.62/BDT. Unfortunately,
+the bundler and loader were not decoupled, which resulted
+in a poor system balance. An improvement in the pairing of
+machine capacities and operational productivity could have
+resulted in a reduction of cost (Harrill et al. 2009).
+In a similar study, hook-lift trucks were used to haul loose
+logging slash to a centralized location for processing. The
+total production cost to load, haul, and grind was $32.98/
+BDT. The difference in productivity of loading (20.10 BDT/
+PMH) and hauling (9.93 BDT/PMH) the loose slash led to
+bottlenecks in the operation. To reduce costs, the authors
+suggested carefully planning a strategic logistical arrange-
+ment of machines with multiple hook-lift trucks at a
+minimal travel distance (Harrill and Han 2010).
+A hook-lift truck used to prehaul hand-piled slash from
+shaded fuel break treatments inaccessible by typical
+highway chip trucks was also studied. Collection and
+prehauling to a central grinding site costs were $31.25/
+BDT. It should be noted that prehaul costs were sensitive to
+haul distance because of slow travel speeds on winding,
+mountainous roads and low slash weight per turn (Han et al.
+2010).
+In a more recent study (Anderson et al. 2012), the
+transportation of unprocessed slash to a concentration yard
+using ﬁfth wheel end-dump trucks was compared with an in-
+woods grinding system using high-sided dump trucks to
+haul ground material to a concentration yard. System costs
+were comparable at $23.62 and $24.52 per BDT, respec-
+tively. In both cases, the system was dependent on
+appropriately balancing productivity rates of individual
+machines.
+In all of these studies, an understanding of individual
+machine productivity and cost was essential in determining
+an efﬁcient system balance. To improve the knowledge of
+cost reduction methods and system balance techniques, our
+study investigated the production cost of collecting,
+processing, and transporting forest residues from mixed
+conifer even-age harvests on the north coast of California.
+The emphasis of this study was to identify key variables that
+inﬂuenced the productivity of individual components of the
+centralized biomass recovery system. These ﬁndings could
+then be used to guide recommendations on ways to establish
+and manage system balance in an effort to control cost.
+Methods
+Study site and biomass recovery system
+description
+The study was conducted on private industrial timberland
+in northern California that typically uses even-aged
+management. Forest residues in the form of limbs, tops,
+small-diameter trees, and submerchantable trees of mixed
+conifer and hardwood were piled along the roadside, within
+units, or scattered throughout the harvested units. Six
+harvested units ranging from 7 to 33 acres in size were
+selected for the study. Biomass recovery operations in all
+units followed the same system logistics. The vegetation
+was second growth mixed conifer consisting of redwood
+(Sequoia sempervirens), Douglas-ﬁr (Pseudotsuga menzie-
+sii), and tanoak (Notholithocarpus densiﬂorus). The units
+were previously harvested using either a shovel logging or
+cable yarding system, depending on ground slope. The
+amount of biomass and location of piles was dependent on
+the harvest method used. Biomass from processing trees was
+typically piled in the unit for shovel logging systems.
+Biomass from cable yarded units was piled at the landing.
+We characterized the biomass material into three groups:
+slash, whole trees, or mixed. Slash was typically limbs and
+tops generated from processing logs. Whole trees were
+either nonmerchantable conifer or hardwood, such as
+tanoak. The amount of biomass removed from a unit ranged
+from 12 to 55 BDT/acre and was dependent on harvest unit
+size, harvest method, and access.
+The study observed the collection, comminution (i.e.,
+grinding), and transportation of forest residues (Fig. 1). The
+collection segment of the operation started in the harvested
+unit with a loader (Linkbelt 3400) using a rotating 10-tine
+grapple. The loader collected biomass from piles at roadside
+landings, piles within the unit, or scattered residues. Its
+primary function was to load an all-wheel drive (AWD)
+articulated dump truck (Volvo A35C or Caterpillar D300D)
+modiﬁed with additional side walls and a rear gate extension
+to increase the normal carrying volume to 50 cubic yards or
+more (Fig. 2). In addition, the dump trucks were outﬁtted
+with skidder tires for increased traction when driving off
+spur roads into the harvested unit. This allowed the truck to
+haul material over native surface spurs and single-lane roads
+with an average grade of 64 percent to a centralized
+grinding site.
+The comminution segment was the core of the centralized
+biomass recovery operation. It incorporated a majority of
+the machines, beginning with the dump truck delivering
+material to a loader. The loader (Linkbelt 3400) used a
+rotating seven-tine grapple to swing dumped material 908 to
+1808 onto the grinder’s (Peterson Paciﬁc 5710C) infeed
+conveyer. After processing, the ground material was fed via
+conveyor into a positioned chip trailer. This segment of the
+operation required adequate space (approximately 10,000
+ft2) to accommodate all machines, including passing log
+trucks from other operations (S. Morris, Steve Morris
+Logging, personal communication, 2013).
+The transportation segment was decoupled using tractors
+to haul chip trailers from the centralized grinding area to a
+FOREST PRODUCTS JOURNAL
+Vol. 66, No. 1/2
+89
+
+trailer transfer site, where additional tractors would haul the
+material the rest of the distance to the power plant. AWD
+tractors, modiﬁed from cement trucks (Kenworth, Peterbilt,
+and Oshkosh), were used to haul loaded chip trailers an
+average of 2 miles, each way, to the transfer site. Multiple
+trucks were used to ensure minimal delay in the grinder’s
+hot operation. The trailer transfer sites were typically
+located roadside on well-traveled, two-lane, rocked roads.
+The ﬁnal haul to the power plant was done using regular
+highway tractors. The total observed one-way travel from
+stump to power plant was 15 miles.
+Data collection and analysis
+Hourly cost for each machine was calculated using
+standard methods (Miyata 1980, Brinker et al. 2002).
+Machine rate use factored in the cost to purchase and
+modify used machines (Table 1). Detailed time study data
+were collected to estimate machine productivity and delays
+using standard harvesting work study techniques (Olsen et
+al. 1998). Time duration of cycle elements and delays for
+each machine were recorded using centiminute (min/100)
+stop watches. Independent variables hypothesized to have
+an inﬂuence on machine productivity were also recorded for
+each cycle. Data were screened for outliers and predictive
+equations were developed using ordinary least squares
+regression. Normality was tested using the Shapiro-Wilk
+test. Homoscedasticity was conﬁrmed by visually examin-
+ing residual plots. Multicollinearity within the data was
+tested using both condition numbers and variance inﬂation
+factors. Parameters with P , 0.05 were considered
+signiﬁcant. Calculations were performed using the R
+2.15.1 statistical software program (R Core Team 2012).
+Moisture content of samples collected from ﬁlled chip
+trailers was used to calculate weight in BDT and determine
+Figure 1.—A centralized biomass recovery operation using modified dump trucks and loaders to collect and transport biomass (i.e.,
+logging slash) piled in recent timber harvest units to a centrally located grinder. The grinder ‘‘hot’’ loads trailers that are pulled by all-
+wheel drive tractors to a trailer transfer site. Common highway tractors are then used to pick up the trailers at the trailer transfer site
+and complete the haul to a biomass energy facility.
+Figure 2.—Loaded modified dump truck heading to a centralized grinding location. Note how the extended side walls and rear tail
+gate increase carrying capacity..
+90
+BISSON ET AL.
+
+production rates (BDT/PMH). Moisture content was calcu-
+lated using a modiﬁed version of the American Society of
+Agricultural Engineers (ASAE) Standard S358.2 protocols
+(ASAE 2003). Samples were collected by ﬁlling a 5-gallon
+bucket from three locations along the top of a chip trailer.
+The sample was mixed, and a 1-gallon subsample was taken
+for analysis. Samples were dried at 1038C for 48 hours, as
+opposed to 24 hours per protocol. The samples were
+reweighed to determine wet basis moisture content.
+Calculations for transportation of slash and ground
+material requiring distance, rate of speed, and road grade
+were collected using a hand-held Garmin Csx60 GPS unit
+and analyzed using ArcMap 10.0 (Environmental Systems
+Research Institute 2011).
+Loading modified dump trucks
+The loader’s activities included swinging empty, grap-
+pling, and swinging loaded. The swinging empty cycle
+began when the arm swung away from the dump truck bed
+and stopped when it made contact with material. Grappling
+was timed from ﬁrst contact to when the arm began its
+swing to the dump truck. Swinging loaded began when the
+arm swung toward the dump truck and stopped over the
+dump bed. Pile type, location of pile, species, and arm swing
+degree were estimated visually as predictors for regression
+analysis. Time associated with movement to a new pile and
+collecting material was also recorded to evaluate its
+contribution to productivity. Compacting or sorting material
+was not recorded because this activity rarely occurred. To
+calculate productivity, the average BDT per dump truck was
+divided by the average time to load a dump truck. An
+average BDT per dump truck was the average BDT per chip
+trailer obtained from scale tickets divided by the average
+number of dump truck loads needed to ﬁll a chip trailer.
+Dump trucks prehauling forest residues to a
+centralized grinding site
+The round-trip dump truck cycle elements include
+traveling empty, positioning empty, loading, traveling
+loaded, positioning loaded, and unloading. Traveling empty
+began when the dump bed returned to the lowered position
+as it pulled away from the centralized grinding area and
+ended when it stopped to position itself. Positioning empty
+started when it began backing into position and concluded
+when it stopped next to the loader. This is when loading
+began, and it ended when the dump truck pulled away.
+Traveling loaded ended when the dump truck stopped to
+position for unloading. Positioning loaded started when the
+truck began to back into position and ended when it stopped
+next to the loader. Unloading began when the truck stopped
+backing up and ended when the dump bed returned to the
+lowered position. Slope and distance were recorded when
+traveling and positioning. Material type (i.e., whole tree or
+slash) loaded into the truck was also recorded.
+Loader and grinder in the centralized
+grinding site
+Productivity of the loader and grinder, positioned at the
+centralized grinding area, was calculated by dividing the
+average BDT per chip trailer obtained from scale tickets by
+the average time to ﬁll one chip trailer. This production rate
+was assumed to be equal for both machines because any
+delay in the loader would directly cause a delay with the
+grinder.
+AWD tractor and chip trailer shuttling
+containers
+The AWD tractor’s cycle elements included traveling
+loaded, positioning loaded, unhooking, traveling to empty
+trailer, positioning to hook up trailer, hooking up trailer,
+traveling empty, positioning empty, and loading. The
+traveling loaded cycle began when the truck pulled away
+from the grinder and ended when it came to a stop to
+position for unloading. This was the beginning of position-
+ing loaded, which ended when the truck stopped moving.
+Unhooking started when the truck stopped positioning and
+lasted until it pulled away without a trailer. Traveling to the
+new trailer ended when it stopped in front of the empty
+trailer. Positioning to hook up trailer ﬁnished when it
+stopped underneath the new trailer. This started the hooking
+cycle and lasted until the truck pulled away with the empty
+trailer. Traveling empty ended when it stopped for
+positioning empty. Positioning empty ﬁnished when it
+stopped in position to pull in front of the grinder. Loading
+began when the trailer pulled underneath the grinder’s
+conveyor. Other variables recorded were distance of each
+travel segment, average road slope, and weights from scale
+tickets.
+Highway tractor and chip trailer hauling
+ground material to a power plant
+The cycle elements recorded were similar to the AWD
+chip truck except when the truck was unloading at the power
+plant. Unloading started when the truck stopped on the truck
+tipper and ended when the tipper returned to level position.
+Table 1.—Hourly cost for the machines used in the centralized biomass recovery operation.
+Machine
+Initial price ($)a
+Utilization rate (%)b
+Total hourly cost ($/PMH)c
+Linkbelt 3400 loader with dump truck
+345,000
+80
+244.57
+Volvo A35C dump truck
+75,000
+80
+115.59
+Linkbelt 3400 loader with grinder
+345,000
+85
+231.19
+Peterson Pacific 5710C grinder
+650,000
+85
+448.02
+AWD tractord
+80,000
+50
+117.62
+42-ft trailer
+6,000
+35
+3.89
+Highway truck tractor
+144,000
+85
+86.03
+a Modiﬁcation cost included.
+b Rates estimated by contractor.
+c Labor cost included. PMH ¼ productive machine hour.
+d AWD ¼ all-wheel drive.
+FOREST PRODUCTS JOURNAL
+Vol. 66, No. 1/2
+91
+
+The three road classes traveled (i.e., double-lane rock, two-
+lane paved, or highway) were also recorded.
+Total system cost
+Individual productivity rates were calculated for each
+machine to determine its contribution to the system. The
+system cost of this hot operation was based on the grinder
+and loader as the limiting production rate. When production
+of other machines fell below this limit, more machines were
+added. Therefore, the sum of costs of all machines ($/BDT)
+was divided by the limiting production rate (BDT/PMH) to
+get the system cost.
+Results and Discussion
+Moisture content analysis
+Moisture content samples were collected from 22 trucks.
+The average green weight of a chip van load was 22.5 tons
+(SD ¼ 1.8 tons) with an average wet basis moisture content
+of 25 percent (SD ¼ 7%). Variation in moisture content
+could be a result of varying material type, species, or
+environmental conditions during the operation.
+Loading activity analysis
+Three primary activities were observed with the loader:
+loading the dump trucks, compiling scattered material, and
+repositioning to a new pile. The average time spent loading
+a dump truck was 4.74 minutes using an average of 10
+grapple loads. The average time spent collecting material
+was 3.77 minutes using an average of 9.59 grapples. The
+total delay-free time recorded consisted of collecting (48%),
+grappling material (21%), swinging loaded (18%), and
+swinging empty (13%). Occasionally the loader would
+reposition. On average this time took less than 0.30 minute.
+The productivity of the loader averaged 46.57 BDT/PMH
+with a production cost of $5.25/BDT. This productivity is
+comparable to that found by Harrill et al. (2009) in the
+Sierra Nevada Mountains when loading densiﬁed bundles of
+slash into hook-lift trucks.
+Regression analysis was used to see whether loaded
+swing arc degree, empty swing arc degree, pile type (whole
+tree or slash), pile location (in the unit, roadside, or not piled
+but scattered throughout the unit), and pile species
+(hardwood, conifer, or a mix) had a signiﬁcant effect on
+cycle time (Table 2). Despite efforts to reduce outliers and
+inﬂuential observations in the data, the model generated had
+a low r2 value. The model’s inability to explain variation
+does limit its ability to accurately predict, but can provide an
+inference on trends in the data. Whole tree piles were found
+to increase cycle time compared with slash. This may be
+because the size and length of whole trees make them more
+difﬁcult to handle. Pile location also had an inﬂuence on
+cycle time. Material collected in the unit inﬂuenced cycle
+time the least compared with roadside material. This may be
+a result of the type of material handled at each location.
+Roadside material was typically whole trees, which tend to
+be more difﬁcult to handle and load compared with loose
+slash pile in units. Scattered material increased cycle time
+the greatest. Cases with mixed material were not found to be
+signiﬁcant (P ¼ 0.81). In general the harvest system used
+determined the locations of piled material. In ground-based
+units, whole tree hardwoods and mixed conifer slash was
+either piled on the roadside, piled within the unit, or
+scattered throughout. Cable units typically had piles along
+the roadside or landings. Our ﬁndings suggest that how and
+where residuals are left can have an impact on future
+biomass recovery operations, because accessibility and
+organizing material into piles were found to be the greatest
+inﬂuences on cycle time. In addition, harvesting method can
+be a major factor affecting the amount and location of
+material.
+Dump truck prehauling operations
+The dump truck round-trip cycle time averaged 12.69
+minutes traveling an average one-way distance of 0.48 mile
+on an average grade of 64 percent. It traveled at an average
+speed of 9.30 miles per hour (mph) carrying 5.63 BDT per
+trip. Productivity averaged 26.16 BDT/PMH, resulting in a
+production cost of $4.42/BDT. This rate is more than double
+the production reported from both Harrill et al. (2009)
+hauling bundles with hook-lift trucks and Harrill and Han
+(2010) hauling loose slash with the same types of trucks. At
+this rate, a single dump truck could not meet the grinder’s
+production. For this reason, two to four dump trucks were
+used depending on travel distance.
+On average, a delay-free cycle consisted of loading
+(34%), traveling loaded (23%), traveling empty (20%),
+positioning empty (13%), positioning loaded (4%), and
+unloading (5%). The difference in time when traveling
+loaded compared with empty was attributed to slower travel
+speeds to avoid material falling off the back, especially on
+steeper road grades. Slower speeds were also noticed when
+empty dump trucks backed down single-lane spur roads to
+position for loading. Long positioning distance due to lack
+of turn around locations also increased cycle time.
+Regression analysis did not show any signiﬁcant variables
+(P , 0.05) inﬂuencing cycle time when the model included
+traveling empty or loaded distances, slope, or material type
+(Table 3). However, a reduced model regressing delay-free
+time by total distance traveled was highly signiﬁcant (P ,
+0.05; Table 4). A sensitivity analysis using the reduced
+regression model shows production costs starting at $2.74/
+BDT at a one-way distance of a quarter mile with an
+increase of $0.83/BDT for every additional quarter mile.
+Centralized grinding productivity and cost
+The rate of production was assumed to be the same for the
+loader and grinder. The two machines worked as a team, and
+any delay in the loader’s production would have directly
+Table 2.—Delay-free average cycle time equation (model P ,
+0.05, r2 ¼ 0.1273, n ¼ 482) for loading loose logging slash or
+hardwood whole trees into a modified dump truck.
+Parameter
+Estimate (s)
+SE
+F
+Mean
+P
+Intercept
+23.28
+3.10
+10.05
+,0.05
+Loaded swing arc (458–2708)
+þ0.018
+0.01
+146
+,0.05
+Empty swing arc (458–2708)
+þ0.006
+0.01
+145
+0.22
+Pile type (whole tree)
+þ2.63
+1.82
+0.02
+Pile type (slash)a
+þ0.00
+3.10
+,0.05
+Pile location (in unit)
+3.94
+3.10
+,0.05
+Pile location (roadside)a
+þ0.00
+1.86
+,0.05
+Pile location (scattered)
+þ2.44
+2.37
+0.09
+Pile species (conifer)a
+þ0.00
+3.10
+,0.05
+Pile species (hardwood)
+þ3.08
+2.20
+0.02
+Pile species (mix)
+0.26
+1.77
+0.81
+a Reference variables.
+92
+BISSON ET AL.
+
+affected the grinder. The grinder processed an average of
+17.15 BDT in 26.05 minutes for an average production rate
+of 38.04 BDT/PMH. The grinder had the highest machine
+cost ($448.02/PMH) compared with any other machine in
+this operation. Production cost was $11.78/BDT for the
+grinder and $6.10/BDT for the loader, for a total of $17.87/
+BDT. Samples taken from chip trailers and analyzed in the
+laboratory determined a moisture content range of 14 to 38
+percent.
+Transportation of ground materials to
+a power plant
+The AWD tractor and chip trailer had an average cycle
+time of 47.99 minutes on an average one-way distance of
+2.13 miles. Productivity for the tractor and trailer was 26.47
+BDT/PMH. For this reason, at least two tractors were
+needed to meet grinder production. Tractor and trailer
+production costs were $4.44/BDT and $0.15/BDT, respec-
+tively, for a total of $4.59/BDT. The greatest percentage of
+time was spent waiting while being loaded (53%). Travel
+time was 37 percent of overall time. Traveling and
+positioning empty (15%) was similar to traveling and
+positioning loaded (12%). This difference was in the extra
+time needed to position the truck and empty trailer within
+the limited space of the centralized grinding area. The
+remaining percentage was for transferring trailers (10%) and
+waiting to be loaded (9%). Sensitivity analysis shows that
+production costs increase $0.44/BDT for every additional
+quarter-mile one-way distance. More data would be needed
+to develop a regression model and develop further analysis.
+It should be noted that production cost could signiﬁcantly
+increase with an increase in hauling distance. One
+signiﬁcant advantage of using modiﬁed AWD tractors was
+their capability of hauling loaded trailers over adverse forest
+road conditions. This reduced the need to put a centralized
+grinding site on a main haul road that could be accessed by
+normal highway tractors. This reduced dump truck prehaul
+distances and increased the cost-effective range of the
+operation.
+The standard highway tractors used to pick up loaded
+chip trailers traveled an average of 13 miles one way with a
+cycle time of 86.34 minutes. The tractors hauled 11.92
+BDT/PMH at a combined tractor and trailer cost of $7.53/
+BDT. Traveling empty time (29.15 min) was nearly the
+same as loaded traveling time (30.65 min). The truck’s route
+to the power plant was over two-lane rock and paved roads
+only. The average speed on the two-lane rock road was 27
+mph for a one-way distance of 9.5 miles. The average speed
+on two-lane paved roads was 31 mph at a distance of 3.4
+miles. Compared with AWD, highway tractors had half the
+production rate even though they pulled the same weight.
+This is largely because of the difference in transportation
+distances and speed of travel.
+System balance directly affecting
+productivity and cost
+This centralized biomass recovery operation involved a
+combination of machines to collect, process, and transport
+material. The balance of production within the system is
+important because it has a direct effect on the overall
+production cost. Unused capacity resulting from an
+imbalanced system will reduce units of output, increasing
+ﬁxed costs of underused functions, which in turn drives up
+per-unit production costs (Rummer 2008).
+The highest per-unit production cost observed was the
+grinding operation at $17.87/BDT for both loader and
+grinder (Table 5). To minimize total production cost, the
+operation would ﬁrst need to maximize processing produc-
+tivity by reducing any delay created between the loader and
+grinder. Four percent of the total time observed was
+characterized as operational delay (Table 6). A majority
+(71%) of this delay represented waiting on the dump truck
+to deliver more material. Delay in delivering biomass to the
+grinder could have come from either the loader or the dump
+truck. Observations of the loader revealed a very efﬁcient
+operation with less than 1 percent delay overall. The dump
+truck, on the other hand, experienced delay 17 percent of the
+total time observed. A little more than half (51%) of this
+delay occurred when waiting for another dump truck to
+ﬁnish being loaded. The remaining delay was waiting for the
+loader to compile biomass (43%) and waiting for other
+operational and personal delays (6%). These ﬁndings
+suggest that compiling scattered material is leading to
+Table 4.—Reduced regression model to predict average cycle
+time (model P , 0.05, r2 ¼ 0.78, n ¼ 70) for dump truck to
+deliver material over varying distances.
+Parameter
+Estimate (s)
+SE
+F
+Mean
+P
+Intercept
+329.76
+38.55
+248.90
+,0.05
+Total distance traveled (ft)
+þ0.05
+0.01
+2,523
+,0.05
+Table 3.—Delay-free average cycle time equation (model P , 0.05, r2 ¼ 0.78, n ¼ 62) for a dump truck delivering slash, whole trees,
+or mixed loads to a centralized grinding site.
+Parameter
+Estimate (s)
+SE
+F
+Avg. values observed
+P
+Intercept
+396.25
+90.72
+19.63
+,0.05
+Traveling empty, distance (ft)
+þ0.07
+0.16
+2,325
+0.44
+Traveling empty, slope (%)
+þ46.96
+143.37
+1
+0.59
+Positioning empty, distance (ft)
+þ0.13
+0.16
+297
+0.17
+Traveling loaded, distance (ft)
+þ0.012
+0.16
+2,363
+0.90
+Traveling loaded, slope (%)
+þ30.33
+144.39
+1
+0.78
+Positioning loaded, distance (ft)
+0.08
+0.46
+112
+0.77
+Load (slash)
+82.79
+138.63
+NAa
+0.33
+Load (whole tree)
+þ6.46
+90.72
+NA
+,0.05
+Load (mixed)b
+þ0.00
+54.65
+NA
+0.84
+a NA ¼ not applicable.
+b Mixed material is a combination of whole trees and slash.
+FOREST PRODUCTS JOURNAL
+Vol. 66, No. 1/2
+93
+
+inefﬁciencies downstream, and therefore piling material
+during harvesting activities could reduce costs in biomass
+recovery operations.
+Balancing the collection segment to match grinding
+production can also be challenging when considering the
+spatial diversity of material inﬂuencing travel time and
+productivity. To assist in balancing upstream functions, a
+sensitivity analysis was conducted to calculate the produc-
+tivity of different truck combinations at various distances. A
+single dump truck could travel 0.38 mile one way and meet
+the 38 BDT/PMH grinder demand. At 1.25 miles, its
+productivity drops to 19 BDT/PMH or 50 percent of the
+demand, requiring an additional truck to keep the system in
+balance and the overall operational cost at a minimum.
+Analysis on the effects of dump truck productivity on the
+combined loader and grinder cost revealed that a 20 percent
+drop in dump truck production would result in a 25 percent
+increase in comminution cost or $4.45/BDT (Fig. 3).
+A decoupled transportation system was successfully used
+to minimize potential delays between the comminution and
+transportation segments. The ‘‘hot’’ load operation, where
+material is directly loaded into a trailer while grinding,
+required a minimum of two chip trucks to ensure an empty
+one was always available for loading. During the operation,
+only 2 percent of the total time observed was in delay. The
+time an empty truck spent waiting for the previous truck to
+ﬁnish being loaded (4.25 min) was not considered delay
+time. This buffer ensured that a truck was available to load.
+Managing downstream productivity required matching the
+right amount of chip trucks to the distance traveled to the
+transfer location.
+The loaded trailer pick up at the transfer location required
+that an empty trailer be available every 26 minutes. Eight
+empty trailers were employed to ensure availability. The
+loaded trailers were taken to one of three local power plants
+located 13, 31, or 57 miles away. The destination varied
+depending on the loaded material because each facility had
+general feedstock demands. Delays of 12 percent while
+waiting to be unloaded were observed.
+The total stump-to-truck cost for this operation was
+$30.39/BDT. This is greater than the reported $24.52/BDT
+cost from a similar study investigating high-sided dump
+trucks used to prehaul material (Anderson et al. 2012). As in
+Anderson’s study, it should be noted that this study’s
+estimated total cost does not include overhead, proﬁt, and
+risk allowance, nor supporting equipment needed for the
+operation. The total system cost including transportation
+was $44.30/BDT. These cost ﬁgures can increase signiﬁ-
+cantly with an increase in transportation distance.
+Table 6.—Delays observed for machines used in the collection and comminution segments of a centralized biomass recovery
+operation.
+Machine(s)
+Total time observed (min)
+Total delay observed, min (%)a
+Delay by type, min (%)b
+Reason
+Loader
+227
+1 (,1)
+1 (100)
+Operational
+Dump truck
+952
+164 (17)
+71 (43)
+Waiting on loader in unit
+83 (51)
+Waiting on second dump truck
+2 (1)
+Waiting on grinder loader
+7 (4)
+Operational
+1 (1)
+Personal
+Loader and grinder
+139
+51 (36)
+36 (71)
+Waiting on dump truck
+5 (10)
+Remove choker
+6 (11)
+Operational
+4 (8)
+Personal
+a Percent delay of total time observed.
+b Percent delay of total delay observed.
+Table 5.—Productivity and cost of a ‘‘hot operation’’ centralized biomass recovery system with decoupled highway transportation.
+Machine
+Delay-free productivity (BDT/PMH)a
+No. of machines
+Cost ($/BDT)
+Avg. distance (mi)b
+Loader in unit with dump truck
+46.57
+1
+6.43
+—
+Dump truck
+26.16
+2
+6.08
+0.48
+Loader with grinder
+38.04
+1
+6.10
+—
+Grinder
+38.04
+1
+11.78
+—
+AWD truck tractorc
+26.47
+2
+6.38
+2.13
+Decoupled transportation using a trailer transfer location
+Highway truck tractord
+11.92
+1–3
+7.53
+13.00
+Total system
+38.04e
+8–10
+44.30f
+a BDT/PMH ¼ bone dry ton per productive machine hour.
+b One-way distance.
+c All-wheel drive truck tractor and trailer.
+d Including two trailers.
+e 38.04 BDT/PMH was the limiting production rate in the system. Therefore, it was used to calculate cost for each machine in ‘‘hot’’ system. (Machine cost3
+number of machines)/limiting productivity rate.
+f Total cost does not include other costs such as supporting equipment (fuel, water, maintenance trucks, overhead, and risk/proﬁt allowance).
+94
+BISSON ET AL.
+
+Conclusions
+This study evaluated the productivity and cost of
+collecting, comminuting, and transporting biomass to better
+understand a centralized biomass recovery operation’s
+logistics. Each component in the system was analyzed to
+identify key variables that inﬂuence overall system balance.
+Productivity for different machines varied from 12 to 47
+BDT/PMH with a cost range of $5.87 to $11.78 per BDT.
+The total stump-to-truck system cost was $30.39/BDT, with
+an additional $13.91/BDT for transportation to the power
+plant.
+The collection segment of the operation used a loader and
+two modiﬁed dump trucks to prehaul biomass at a cost of
+$12.51/BDT. The type of material and location inﬂuenced
+loading cycle times. Whole tree material and material
+scattered within the unit both increased cycle times. In
+addition, the harvesting system was found to be a major
+factor affecting the amount and location of residuals. Our
+ﬁndings suggest that how and where a harvest contractor
+leaves residues can have an impact on a biomass recovery
+operation.
+Prehauling with dump trucks (26.16 BDT/PMH) over an
+average one-way distance of a half mile was more
+productive than other methods found in the literature.
+Analysis varying the amount of truck and one-way travel
+distance determined that a second truck would be needed at
+1.25 miles to meet the grinder’s production rate. This type
+of analysis can be important when designing a work plan to
+achieve system balance.
+The comminution segment was the hub of the operation.
+It provided the demand that upstream and downstream
+production had to meet. The loader and grinder produced
+38.04 BDT/PMH at a combined cost of $17.87/BDT. The
+variability of dump truck productivity (owing to distance
+and number of trucks used) on comminution costs revealed
+that a 20 percent drop in dump truck production would
+result in a 25 percent increase in comminution cost or $4.47/
+BDT. This is mainly a result of high operating costs for the
+grinder and suggests that careful planning of prehaul
+distances can reduce potential delay and control cost.
+The transportation segment was successful in limiting
+comminution delays while directly loading into the chip
+trailer by using a decoupled system. This system required
+two to three AWD tractors, a trailer transfer site, and
+additional highway tractors to haul the remaining distance to
+the power plant. The AWD tractors were capable of hauling
+loaded trailers over adverse forest road conditions at a rate
+of 26.47 BDT/PMH for $6.38/BDT. The ﬁnal leg of
+transportation, which traveled a greater distance, had a
+production rate of 11.92 BDT/PMH with a cost of $7.53/
+BDT. Downstream production efﬁciency was clearly due to
+a decoupling of the transportation from comminution
+segment. The use of AWD tractors reduced the need to
+put a centralized grinding area on a main haul route, which
+reduced dump truck travel distances and increased the
+overall extent of biomass recovery operation. In addition, it
+decoupled the hot operation from downstream transporta-
+tion, reducing potential delays. A similar system conﬁgu-
+ration is recommended if the equipment is available.
+This study provided a productivity and cost for each
+machine in a centralized biomass recovery operation using
+unique equipment. In addition, sensitivity analysis on travel
+distances for transport machines provided additional
+information to better understand total production costs,
+which could be useful to managers when planning similar
+biomass recovery operations.
+Figure 3.—Regression model was used to estimate the change in the potential productivity of one or two dump trucks delivering
+residues to a centralized grinder as travel distance increased. A reduction in dump truck productivity resulted in an increase in
+processing cost (i.e., loader and grinder cost). The model does not consider delays caused by interaction between two dump trucks
+at the loader, in transit, or at the grinder. BDT ¼ bone dry ton; PMH ¼ productive machine hour.
+FOREST PRODUCTS JOURNAL
+Vol. 66, No. 1/2
+95
+
+Acknowledgments
+Funding for this study was provided by the Biomass
+Research and Development Initiative (BRDI) of the
+USDA’s National Institute of Food and Agriculture (NIFA),
+with in-kind support from the Green Diamond Resource Co.
+and Steve Morris Logging.
+Literature Cited
+Anderson, N., W. Chung, D. Loefﬂer, and J. G. Jones. 2012. A
+productivity and cost comparison of two systems for producing
+biomass fuel from roadside forest treatment residues. Forest Prod. J.
+62(3):222–233.
+American Society of Agricultural Engineers (ASAE). 2003. S358.2—
+Moisture measurement—Forages. In: ASAE Standards. 47th ed.
+ASAE, St. Joseph, Michigan. 595 pp.
+Brinker, R., J. Kinard, B. Rummer, and B. Lanford. 2002. Machine rates
+for selected forest harvesting machines. USDA Forest Service,
+Southern Research Station, Asheville, North Carolina. 32 pp.
+Environmental Systems Research Institute (ESRI). 2011. ArcGIS
+Desktop: Release 10. ESRI, Redlands, California.
+Han, H.-S., J. Halbrook, F. Pan, and L. Salazar. 2010. Economic
+evaluation of a roll-off trucking system removing forest biomass
+resulting from shaded fuelbreak treatments. Biomass Bioenergy
+34:1006–1016.
+Han, H.-S., H. W. Lee, L. R. Johnson, R. L. Folk, and T. M. Gorman.
+2002. Economic feasibility of small wood harvesting and utilization on
+the Boise National Forest—Cascade, Idaho City, Emmett Ranger
+Districts. College of Natural Resources, Department of Forest
+Products, University of Idaho, Moscow. 61 pp.
+Harrill, H. and H.-S. Han. 2010. Application of hook-lift trucks in
+centralized slash grinding operations. Biofuels 1(3):399–408.
+Harrill, H., H.-S. Han, and F. Pan. 2009. Combining slash bundling with
+in-woods grinding operations. Lake Tahoe Council on Forest
+Engineering. The 2009 COFE Annual Meeting, June 15–18, 2009,
+Lake Tahoe, California. 14 pp.
+Miyata, E. 1980. Determining ﬁxed and operating costs of logging
+equipment. General Technical Report NC-55. USDA Forest Service,
+North Central Forest Experiment Station, St. Paul, Minnesota.
+Olsen, E., M. M. Hossain, and M. E. Miller. 1998. Statistical comparison
+of methods used in harvesting work studies. Research Contribution 23.
+Forest Research Laboratory, Oregon State University, Corvallis.
+Pan, F., H.-S. Han, L. R. Johnson, and W. J. Elliot. 2008. Production and
+cost of harvesting, processing, and transporting small-diameter (,5
+inches) trees for energy. Forest Prod. J. 58(5):47–53.
+R Core Team. 2012. R: A language and environment for statistical
+computing. R Foundation for Statistical Computing, Vienna. http://
+www.R-project.org/.
+Rummer, B. 2008. Assessing the cost of fuel reduction treatments: A
+critical review. Forest Policy Econ. 10:355–362.
+Schatz Energy Research Center (SERC). 2013. RePower Humboldt: A
+Strategic Plan for Renewable Energy Security and Prosperity. SERC,
+Arcata, California.
+Williams, R. B., B. M. Jenkins, and S. Kaffka. 2007. An assessment of
+biomass resources in California. Prepared for the California Energy
+Commission. Contract No. 500-01-016. University of California,
+Davis.
+96
+BISSON ET AL.

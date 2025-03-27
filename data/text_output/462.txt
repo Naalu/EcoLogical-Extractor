@@ -1,0 +1,1598 @@
+Stand-replacing wildﬁres alter the community structure of
+wood-inhabiting fungi in southwestern ponderosa pine
+forests of the USA
+Valerie J. KURTHa,*, Nicholas FRANSIOLIb, Peter Z. FULEa, Stephen C. HARTc,
+Catherine A. GEHRINGd
+aSchool of Forestry, Northern Arizona University, Flagstaff, AZ 86011, USA
+bSchool of Earth Sciences and Environmental Sustainability, Northern Arizona University, Flagstaff, AZ 86011, USA
+cLife & Environmental Sciences and Sierra Nevada Research Institute, University of California, Merced, CA 95343, USA
+dDepartment of Biological Sciences, Northern Arizona University, Flagstaff, AZ 86011, USA
+a r t i c l e i n f o
+Article history:
+Received 19 July 2012
+Revision received 31 December 2012
+Accepted 7 January 2013
+Available online 7 March 2013
+Corresponding editor:
+Jacob Heilmann-Clausen
+Keywords:
+C cycling
+Fungal diversity
+Fungal species richness
+ITS1FeITS4
+Molecular methods
+Mycelial isolation
+Wood decomposition
+a b s t r a c t
+Increases in stand-replacing wildﬁres in the western USA have widespread implications for
+ecosystem carbon (C) cycling, in part because the decomposition of trees killed by ﬁre can
+be a long-term source of CO2 to the atmosphere. Knowledge of the composition and
+function of decay fungi communities may be important to understanding how wildﬁre
+alters C cycles. We assessed the effects of stand-replacing wildﬁres on the community
+structure of wood-inhabiting fungi along a 32-yr wildﬁre chronosequence. Fire was asso-
+ciated with low species richness for up to 4 yr and altered species composition relative to
+unburned forest for the length of the chronosequence. A laboratory incubation demon-
+strated that species varied in their capacity to decompose wood; Hypocrea lixii, an indicator
+of the most recent burn, caused the lowest decomposition rate. Our results show that
+stand-replacing wildﬁres have long-term effects on fungal communities, which may have
+consequences for wood decomposition and C cycling.
+ª 2013 Elsevier Ltd and The British Mycological Society. All rights reserved.
+Introduction
+Tree mortality in the western USA has increased in recent
+years due to a combination of drought, insect outbreaks, and
+wildﬁre (Westerling et al. 2006; Van Mantgem et al. 2009; Allen
+et al. 2010), changes that have profound implications for car-
+bon (C) storage and cycling. In particular, large, high-severity
+wildﬁres often kill trees but do not consume all the tree
+biomass, and the C ﬂux from decomposition of these dead
+trees can exceed net primary production for years to decades
+(Kashian et al. 2006). The length of time that recently burned
+forests function as net sources of atmospheric CO2 is uncer-
+tain; high-severity burns in mixed conifer and ponderosa pine
+forests of the Inland Northwest remain net atmospheric
+sources for 4e5 yr (Meigs et al. 2009), whereas similar burns in
+southwestern ponderosa pine forests are likely to remain a
+* Corresponding author. Present address: Department of Forest Resources, University of Minnesota, 1530 Cleveland Avenue North,
+St. Paul, MN 55108, USA. Tel.: þ1 612 624 3639; fax: þ1 612 625 5212.
+E-mail address: vjkurth@umn.edu (V.J. Kurth).
+available at www.sciencedirect.com
+journal homepage: www.elsevier.com/locate/funeco
+1754-5048/$ e see front matter ª 2013 Elsevier Ltd and The British Mycological Society. All rights reserved.
+http://dx.doi.org/10.1016/j.funeco.2013.01.006
+f u n g a l e c o l o g y 6 ( 2 0 1 3 ) 1 9 2 e2 0 4
+
+net source for decades (Dore et al. 2008; Hurteau & Brooks
+2011). A stronger mechanistic knowledge of the controls on
+wood decomposition would enhance our understanding of
+ecosystem C dynamics following high-severity wildﬁres.
+Wildﬁre alters many of the factors that limit the decom-
+position of wood, including colonization by saprotrophic
+organisms, substratum quality and quantity, and abiotic
+environmental characteristics (Harmon et al. 1986). Wildﬁre
+reduces fungal inoculum sources due to heat-induced mor-
+tality (Raison 1979; Choromanska & DeLuca 2002; Korb et al.
+2004). The maximum ground temperatures reached in forest
+ﬁres range from 200 C to 300 C (Neary et al. 1999), while
+fungal mortality occurs at temperatures <100 C (Dunn et al.
+1985). The distance and arrangement of the fungal inoculum
+source are key factors controlling fungal recolonization fol-
+lowing wildﬁre; further, reductions of soil-based fungal inoc-
+ulum by ﬁre make dispersal ability, either via airborne spores,
+animal transport, or migration of mycelium in the soil, critical
+to fungal establishment in wood (Kirby et al. 1990). Fungi that
+overcome dispersal limitations in a recently burned area are
+likely to encounter abundant wood substratum, but it will
+probably be at least partially charred. Charring decreases
+decomposition rates (Cornwell et al. 2009), but may provide
+greater
+habitat
+opportunities
+for
+microbes
+because
+of
+increased surface area (Pietik€ainen et al. 2000). Post-ﬁre
+changes in abiotic variables, such as microclimate and
+nutrient availability, may also alter the responses of wood-
+inhabiting fungi. Wildﬁres generally cause an increase in
+land surface temperatures, and they alter chemical charac-
+teristics of soil, notably by increasing the pH and nutrient
+availability (Hart et al. 2005); the interactions of all these var-
+iables may affect the establishment of fungi.
+Although the environmental changes resulting from ﬁre
+are likely to affect the diversity and community composition
+of decay fungi, few studies have examined the short- and
+long-term effects of ﬁre on fungi (Cairney & Basitas 2007).
+Prescribed burning favors certain species of fungi, causing
+moderate to strong alterations in community composition
+(Olsson & Jonsson 2010; Berglund et al. 2011). Species richness
+declines in the ﬁrst year following prescribed burning (Olsson
+& Jonsson 2010), but also recovers within 1e5 yr (Berglund
+et al. 2011). Even fewer studies have focused on the effects of
+wildﬁre on wood-inhabiting fungi. In a study in a boreal forest,
+wildﬁre disturbance had a short-term effect on species rich-
+ness, but little effect on community composition (Lumley et al.
+2001). However, similar studies on wildﬁre or prescribed
+burning have not been conducted in more arid environments
+where ﬁre frequency and intensity have increased in recent
+years.
+An understanding of how the composition of fungal com-
+munities changes over time is of particular relevance to cli-
+mate change science because species composition may affect
+wood decomposition rates, and thus have consequences for C
+cycling. Although fungal community structure is thought to be
+more important in the later stages of decay, when the majority
+of the C remaining is in the form of lignin (McGuire & Treseder
+2010), species assemblage history may be important in
+determining these later-stage communities (Fukami et al.
+2010). Several laboratory experiments have conﬁrmed that
+complex species interactions, including a legacy of exudates
+in the wood, promote the growth of certain secondary fungal
+colonizers while inhibiting others (Niemel€a et al. 1995; Holmer
+et al. 1997; Heilmann-Clausen & Boddy 2005). As a result, the
+initial colonizers of a wood substratum can be instrumental in
+determining subsequent species succession, and this can
+have associated impacts on rates of wood decomposition
+(Fukami et al. 2010; Lindner et al. 2011).
+Southwestern ponderosa pine (Pinus ponderosa var. scopulo-
+rum) forests are an excellent model ecosystem to examine
+wildﬁre effects on wood decomposition and C cycling for
+numerous reasons. First, ponderosa pine forests are wide-
+spread in the southwestern USA, comprising almost half of the
+commercial forest land in Arizona, Utah, New Mexico and
+Colorado (Schubert 1974). Also, the Southwest is predicted to
+suffer large-scale tree mortality due to its high sensitivity to
+drought, predicted increases in ambient temperatures, and
+related increases in wildﬁre frequency and bark beetle out-
+breaks (Williams et al. 2010). The land-use history in these
+forests also has strongly inﬂuenced the risk of wildﬁre and
+associated tree mortality. Historic forests underwent frequent,
+low-intensity surface ﬁres, but the introduction of land man-
+agement practices (cattle grazing, timber harvest, and active
+ﬁre suppression) by Euro-American settlers led to a shift to
+infrequent, stand-replacing wildﬁres (Covington & Moore
+1994b). Research on southwestern ponderosa pine ecosys-
+tems is relevant to other forests in the western USA because
+these land management practices are widely applied across
+the region, and climate models predict widespread drought
+conditions and warmer temperatures (Easterling et al. 2000;
+Hoerling & Kumar 2003). Finally, the relatively common inci-
+dence of stand-replacing wildﬁres in the last w40 yr (Stephens
+2005; Littell et al. 2009) has provided the opportunity to con-
+struct a chronosequence of burned sites for examining the
+post-ﬁre legacy of decaying wood.
+In this study, we compared the diversity and species
+composition of wood-inhabiting fungi associated with wild-
+ﬁres of varying ages to that of adjacent unburned stands of
+ponderosa pine in northern Arizona. Relatively little is known
+about the fungi responsible for wood decay in these forests
+beyond sporocarp surveys (Gilbertson 1974), but evidence
+suggests that sporocarps may not be representative of the
+entire fungal community in wood (Allmer et al. 2006; Lindner
+et al. 2011). Therefore, we used a combination of mycelial
+isolation
+and
+molecular
+techniques
+to
+identify
+wood-
+inhabiting fungi community structure. We also measured
+the decomposition potential of a subset of the species in the
+laboratory. We hypothesized that wildﬁre would initially
+affect the fungal community structure by decreasing fungal
+species richness and diversity (due to heat-induced mortality
+and dispersal limitations) and altering species composition (as
+a result of changes in environmental conditions); however,
+these effects would diminish with time since ﬁre as the
+environmental impacts of ﬁre lessen and substratum quality
+becomes a stronger driver of community structure than dis-
+persal abilities. We also hypothesized that the species of fungi
+we isolated would vary in their ability to decompose the same
+substratum. Speciﬁcally, we hypothesized that the early col-
+onizers characteristic of recent ﬁres would be less able to
+decompose wood than species characteristic of unburned
+forests, because of a trade-off between rapid colonization
+Community structure of wood-inhabiting fungi in southwestern ponderosa pine forests
+193
+
+ability and the enzymatic capacity to process complex sub-
+strates such as lignin.
+Materials and methods
+Study sites and ﬁeld design
+We selected ﬁve sites in ponderosa pine forest covering a
+region approximately 615 km2 within the Coconino and Kai-
+bab National Forests of northern Arizona, USA (Table 1, Fig 1).
+Site selection was based on knowledge of the ﬁre history and
+our ability to visually delineate the burn perimeter in the ﬁeld.
+Forest Service records conﬁrmed each site had experienced
+one stand-replacing crown ﬁre (>95 % tree mortality) within
+the last 60 yr (burn years ranged from 1977 to 2005). At each
+site, burned areas were paired with an adjacent unburned
+area to better isolate the effects of ﬁre and reduce other
+sources of environmental and temporal variation (Johnson &
+Miyanishi 2008). All sites were located on basaltic parent
+material. Woody vegetation in the unburned areas consisted
+of ponderosa pine with some Gambel oak (Quercus gambelii) at
+lower elevations, and Douglas-ﬁr (Pseudotsuga menziesii) and
+southwestern white pine (Pinus strobiformis) at higher ele-
+vations. Woody vegetation was limited to small shrubs at all
+the burned areas except at the 1984 burn site, where there
+were some small ponderosa pine trees.
+The precise land-use history of each site is not known, but
+the general forest history of the region has been well-
+documented. Historically, ponderosa pine stands were com-
+prised of uneven-aged groups that experienced frequent,
+low-intensity surface ﬁres (Cooper 1960; White 1985; Swetnam
+& Baisin 1996). In the 1880s, Euro-American settlers intro-
+duced livestock grazing, which diminished surface fuels and
+reduced
+ﬁre
+frequency.
+This,
+coupled
+with
+active
+ﬁre
+Table 1 e Characteristics and mean decay class and log volume of burned (B) and adjacent unburned (UB) areas in
+southwestern ponderosa pine forests, USA. Organic horizon and woody debris carbon (C) data are from Ross et al. (2012),
+and are the mean of nine plots (±1 standard error). Decay class (Maser et al. 1979) and log volume are the means of six logs
+(±1 SE). Decay classes range from 1 to 5; 1 is the least and 5 is the most decayed.
+Sitea
+Treatment
+Area burned
+(ha)
+Log decay
+class
+Log volume
+(m3)
+Organic horizon C
+(g C m2)b
+Woody debris C
+(g C m2)b
+2005
+Bc
+28
+1.0  0
+6.751  0.775
+405.1  151.8
+1 672.3  445.30
+UBc
+e
+1.7  0.3
+25.004  8.148
+3 851.4  756.7
+78.1  21.49
+2000
+B
+268
+2.0  0.3
+4.121  0.731
+558.5  118.2
+4 889.0  818.3
+UB
+e
+1.8  0.2
+4.202  1.062
+3 819.9  493.59
+372.3  98.31
+1996
+B
+3 495
+3.0  0.3
+5.491  2.442
+153.1  38.8
+584.0  144.48
+UB
+e
+3.0  0.3
+0.981  0.384
+2 906.1  376.8
+495.2  137.40
+1984
+B
+1 258
+4.5  0.2
+3.462  0.474
+410.7  147.1
+762.4  261.97
+UB
+e
+4.3  0.2
+5.231  2.703
+4 199.8  1 111
+446.7  153.16
+1977
+B
+1 858
+4.3  0.2
+19.559  3.146
+598.6  142.3
+382.9  157.97
+UB
+e
+8.044  2.814
+2 192.5  625.0
+837.9  406.32
+a Site refers to the year the wildﬁre occurred.
+b From Ross et al. (2012). Organic horizon was sampled from two 30  30 cm quadrats per plot and did not include woody debris on the surface
+(classiﬁed as ﬁne wood debris). Coarse woody debris was classiﬁed as those wood pieces >7.62 cm in diameter. Both organic horizon and coarse
+woody debris were converted to g C m2.
+c B refers to burned and UB refers to unburned.
+Fig 1 e Map of study area for evaluating the impact of
+wildﬁres on the community structure of wood-inhabiting
+fungi in southwestern ponderosa pine forests, USA.
+Wildﬁres (hashed) are labeled with the year of burn. Inset
+shows the area of Arizona represented by the main map.
+194
+V.J. Kurth et al.
+
+suppression, led to an extended period of ﬁre exclusion until
+the initiation of stand-replacing ﬁres in recent decades
+(Covington & Moore 1994b). Favorable climate conditions and
+seed production around 1919 led to high levels of natural
+regeneration (Schubert 1974), and, since many large trees
+were lost to logging, it is common to ﬁnd dense, homogenous
+stands of suppressed, small diameter trees (Covington &
+Moore 1994a; Allen et al. 2002). Although precise logging
+records were not kept, we did not notice evidence of past
+logging (large stumps) in the unburned forests.
+Of all our study sites, only the 1984 ﬁre site was subjected
+to salvage logging following the wildﬁre. At this site, we
+sampled from a slope that we are conﬁdent was not logged
+based on the lack of stumps and the prevalence of charred
+logs. Therefore, we are certain that the only major disturbance
+that
+the
+sites
+experienced
+was
+their
+respective
+stand-
+replacing wildﬁre. More detailed information on site charac-
+teristics can be found in Ross et al. (2012). Although their
+measurements were taken at different locations within the
+sites than those sampled in our current study, all of our
+samples were taken within 1 km of their plots.
+The month we sampled (Apr. 2009) was drier than average,
+but air temperatures were similar to 30-yr averages (Western
+Regional Climate Center, Fort Valley Station; www.wrcc.dri.
+edu). The region received 1.7 cm precipitation in Apr. of 2009,
+and the cumulative total for that spring (Jan.eApr.) was
+8.3 cm; the 30-yr (1971e2000) mean precipitation for Apr. is
+3.2 cm, and 21.4 cm for the spring. The mean air temperature
+during Apr. 2009 was 4.2 C, while the 30-yr mean Apr. tem-
+perature was 4.5 C. The mean spring air temperature for
+Jan.eApr., 2009, was 0.9 C, and the 30-yr spring mean tem-
+perature was 0.5 C.
+Field sampling and laboratory analyses
+At each site, we selected areas to sample where the ﬁre
+perimeter could be visually delineated. We then established a
+sampling swath inside the burned area between 100 and
+300 m from the ﬁre perimeter and approximately 200 m in
+length. Within this swath, we selected six dead and downed
+tree boles (hereafter referred to as “logs”) to sample. Logs were
+chosen based on several criteria. They were representative of
+all the logs in the burned area in terms of size (length and
+diameter) and state of decay (Maser et al. 1979; Table 1). They
+were also spatially distinct in that the logs were sampled
+throughout
+the
+entire
+sampling
+swath
+(approximately
+200  200 m). Four cuboid samples, each approximately
+6  8  1.5 cm, were removed from each log using a chainsaw
+or bow saw and a hatchet. One sample was taken at each end
+of the log, and the other two samples were evenly spaced
+across the length of the log. All samples were removed from
+the highest point along the side of the log. We recorded log
+length, diameter (both ends and middle), aspect, and decay
+class. We calculated log volume using the formula for the
+volume of a frustum of a cone (V ¼ (p * l/3) * (r1
+2 þ r2
+2 þ r1r2)),
+where “l” is the length of the log and “r” equaled the radius at
+either end. Decay class was determined following Maser et al.
+(1979) wherein logs were assigned a value of one to ﬁve, one
+being the least decayed and ﬁve being the most decayed.
+Given that state of decay and time since ﬁre co-vary, it was not
+possible to sample logs from the same decay class at all
+chronosequence sites; however, the approximate decay class
+was kept consistent within each site (Table 1). Also, by sam-
+pling at the edge of the burns, rather than the center, we
+intended to minimize the potential impacts of variation in
+burn size on fungal communities. In this way, we kept the
+distance to sources of fungal inoculum (unburned forest), as
+well as any edge effects, consistent across all sites.
+We followed a similar procedure in each of the adjacent
+unburned areas in that we established a swath between 100 m
+and 300 m from the burn perimeter, but this time the swath
+was established outside of the burned area. Unburned areas
+had no evidence of recent ﬁre in that no charred wood was
+observed and substantial soil organic horizons were present.
+To reduce variation in fungal community composition that
+might be associated with log size and age, we sampled logs
+that were similar in size and state of decay to those we sam-
+pled in the adjacent burned area. Again, the chronosequence
+design precluded us from sampling logs of the same decay
+class at all sites; however, all the logs sampled at a given site
+(burned/unburned pair) were approximately the same decay
+class (from one to ﬁve; Table 1). All wood pieces were placed in
+polyethylene bags and transported on ice back to the labo-
+ratory and stored at 4 C until processing (<10 d).
+To isolate fungi from within the wood samples, a small
+piece (5  5  10 mm) was removed from each sample using a
+coping saw. The wood sample was surface sterilized by brieﬂy
+dipping in 70 % ethanol and then burning off the ethanol with
+a ﬂame. The wood segments were immediately placed on a
+sterile Petri dish containing Hagem agar (Allmer et al. 2006)
+and monitored for hyphal growth. Emerging hyphae were
+placed in pure culture on Hagem agar and grouped by their
+hyphal and conidial morphology as assessed using a micro-
+scope. All plating and subculturing were performed inside a
+laminar ﬂow hood to prevent contamination. A total of 240
+wood pieces from 60 logs were plated (6 logs per site).
+Multiple representatives from each culture morphotype
+were selected for DNA extraction. A small portion of hyphae
+was scraped off the culture using a sterile knife (approx-
+imately 0.5 g) and placed in a 96-well DNA extraction plate.
+The DNA was then extracted using Qiagen DNEasy (Qiagen,
+Valencia, CA, USA) plant kits according to the manufacturer’s
+instructions, using the modiﬁcation recommended for fungal
+tissue. The internal transcribed spacer (ITS) region of the
+ribosomal DNA was ampliﬁed using polymerase chain reac-
+tion (PCR) with the forward ITS1F (50-CTTGGTCATTTAGAGG
+AAGTAA-30) and reverse ITS4 (50-TCCTCCGCTTATTGATAT
+GC-30) primer pair (Gardes & Bruns 1993). Restriction fragment
+length polymorphism (RFLP) data were obtained following the
+methods of Gehring et al. (1998) using restriction enzyme
+digestion with HinfI and MboI, and morphological groupings
+were conﬁrmed using the distinctive RFLP band patterns (RFLP
+types).
+The ITS region from no fewer than two representatives of
+each
+RFLP
+type
+was
+sequenced.
+Forward
+and
+reverse
+sequencing was performed on an ABI 3730 Genetic Analyzer
+(Applied Biosystems, Foster City, CA, USA) at the Environ-
+mental Genetics and Genomics Laboratory (Northern Arizona
+University, Flagstaff, AZ, USA). Sequences were aligned and
+edited using Geneious Pro software (Drummond et al. 2010).
+Community structure of wood-inhabiting fungi in southwestern ponderosa pine forests
+195
+
+Basic Local Alignment Search Tool (BLAST) searches were also
+performed using Geneious and the GenBank database (http://
+www.ncbi.nlm.nih.gov).
+Sequences
+with
+similar
+BLAST
+results were aligned using Geneious Consensus alignment to
+verify their similarity (>97.0 % pairwise identity). Final mor-
+phological groupings were determined using the sequence
+results, and samples that did not amplify or did not yield a
+high quality sequence were grouped based on a combination
+of RFLP pattern and culture morphology. For consistency,
+teleomorphic species identiﬁcations were used; anamorph
+names were converted to the appropriate teleomorph when
+necessary.
+Fungal community composition was analyzed using PC-
+ORD software (McCune & Mefford 2006) with each log con-
+sidered a plot. Fungal species were collapsed into genera
+because it reduced the number of singletons and minimized
+potential ambiguities in the species identiﬁcation to ensure a
+more conservative analysis. This change only affected ﬁve
+genera (Chaetomium spp., Hypocrea spp., Penicillium spp., Rhi-
+nocladiella spp., Umbelopsis spp.), all of which contained only
+two species except for Hypocrea spp. (four) and Penicillium spp.
+(nine), and all of which contained taxa that could not be
+identiﬁed to the species level. Furthermore, collapsing sam-
+ples into genera had no effect on the general conclusions
+drawn
+in
+other
+studies
+of
+wood-inhabiting
+fungi
+(e.g.,
+Crawford et al. 1990). We used a two-way factorial PerMA-
+NOVA (Anderson 2001) on relative abundance data, with
+presence of ﬁre (burned or unburned area) and year of ﬁre
+(hereafter referred to as “year”) as the main effects. If we
+encountered a signiﬁcant ﬁre  year interaction as hypothe-
+sized, the effects of ﬁre and year were analyzed separately
+using a multi-response permutation procedure (MRPP). An
+indicator species analysis (Dufrene & Legendre 1997) was
+conducted based on the year and ﬁre (burned or unburned),
+and a threshold indicator value of >25 was used (Dufrene &
+Legendre 1997). Because of the high diversity in the fungal
+communities, in addition to the inherent spatial variability, we
+set the a priori alpha level at 0.10 for the community analyses.
+Species richness and Shannon’s diversity index (H0; com-
+puted in PC-ORD) were computed for each log (as a plot), and
+these data were analyzed using a two-way analysis of var-
+iance (ANOVA) in JMP statistical software (SAS Institute; Ver-
+sion 5.0.1.2). Fire (burned or unburned) and year were the
+main effects. If we encountered a signiﬁcant treatment  year
+interaction, we examined each burn/unburned pair separately
+for each year. Temporal changes in the burned areas were
+assessed for both species richness and H0 using a one-way
+ANOVA with year as the main effect; when signiﬁcant,
+means were separated using Tukey’s HSD. Species richness
+and H0 were also computed for each burned and unburned
+area, and these values were used to compare the overall effect
+of ﬁre using a paired t-test. Sampling effort was assessed by
+producing sample-based rarefaction curves of species accu-
+mulation for the burned and unburned treatments using
+EstimateS (Colwell 2009).
+The relationships between the environmental variables
+(log length, volume, aspect, organic horizon C and woody
+debris C) and fungal community composition were assessed
+using a non-metric multidimensional scaling (NMDS) ordi-
+nation in PC-ORD. A matrix of species composition was
+correlated to an environmental matrix, and the relationships
+were displayed as a joint plot ordination with secondary
+overlays for each environmental variable (Murray et al. 2010).
+Joint plots portray relationships between environmental var-
+iables and the species composition ordination scores as a
+diagram with lines radiating from the centroid of the ordi-
+nation scores. The direction and angle of a line depicts the
+direction and strength of the relationship (McCune & Grace
+2002). Separate ordinations were performed for the burned
+areas, the unburned areas, and the combined dataset for the
+burned and unburned areas of all sites. Correlation coef-
+ﬁcients (r) for each environmental variable were considered
+signiﬁcant at alpha ¼ 0.10 if r  0.805 (burned or unburned
+areas separately, df ¼ 3) or r  0.549 (burned and unburned
+areas together, df ¼ 8) based on a table of critical values (Zar
+1999).
+Laboratory incubation to assess the decomposition
+capabilities of fungal isolates
+To further explore the role of individual species of fungi in
+wood
+decomposition,
+we
+measured
+experimentally
+the
+decomposition of standard pine dowels following inoculation
+with common isolates of individual species used in our ﬁeld
+study. We selected eight species that were dominant in a
+range of burn ages. The species used were: Byssochlamys nivea
+(common throughout); Chaetomium sp. (predominantly 2005
+unburned); Coniochaeta ligniaria (predominantly 2000 and 1996
+burned and unburned); Hypocrea lixii (Hypocrea spp. was com-
+mon throughout, but dominated 2005 burned); Neurospora ter-
+ricola (1996 burn); Neosartorya sp. (2000, 1996, and 1984 burned);
+Penicillium corylophilum (Penicillium spp. was common through-
+out); and Rhinocladiella atrovirens (common throughout).
+We placed ﬁve (5  5  5 mm) cubes of hyphal-rich agar
+from our subcultures onto nutrient-poor media (Bacto-Agar).
+We obtained manufactured pine dowels (8 mm diameter;
+www.dowelsondemand.com), cut them into 8 mm lengths
+(initial mass was approximately 1.0 g), and sterilized them in
+an autoclave. Five pieces of wood were weighed together and
+then placed in the media so that each wood piece was situated
+next to one of the ﬁve agar cubes. In total, 10 plates were made
+for each of the 8 species (n ¼ 10).
+After 26 weeks, the wood pieces were harvested. The wood
+pieces contained in each plate were removed from the Petri
+dish and placed together in a small envelope. The wood pieces
+were dried at 60 C for 48 hr, and then any fungal hyphae
+remaining on the wood were gently scraped off using a sterile
+knife. The wood pieces were weighed to the nearest 0.01 g, and
+decomposition was expressed as the percentage of initial
+mass lost. A one-way ANOVA on arcsine transformed data
+was used to compare the percentage mass loss across the
+species with the a priori alpha level set at 0.05, and Tukey’s
+HSD was used to separate differences when the model was
+signiﬁcant.
+Results
+We isolated fungi from 222 of the 240 wood samples (92.5 %);
+109 of them were from burned areas and 114 were from
+196
+V.J. Kurth et al.
+
+unburned areas. Only one species of fungus (singleton) was
+isolated from most of the wood samples (62 %); of the
+remaining samples, 27 % had two species isolated, 10 % had
+three, and 1 % had four. We sequenced the DNA of a total of
+280 samples, and almost three-quarters (203) of them yielded
+high quality sequences. We observed 68 distinct fungal taxa;
+43 were identiﬁed to species, ﬁve were identiﬁed to genus, one
+was identiﬁed to family, and the remaining taxa (20), mostly
+Table 2 e The wood-inhabiting fungi identiﬁed from burned and adjacent unburned southwestern ponderosa pine forests,
+USA. Species identiﬁcation was made using the Basic Local Alignment Search Tool (BLAST) matched to the sequence of the
+internal transcribed spacer region (ITS) of the ribosomal DNA.
+Species
+GenBank accession #
+Sequence length
+Percentage similaritya
+Bit scoreb
+Ascomycota
+Arthrographis cuboidea
+AB213444
+455
+99.3
+825
+Aspergillus sp.
+FJ770067
+647
+83.8
+564
+Aureobasidium pullulans
+AF121282
+509
+99.8
+934
+Biscogniauxia mediterranea
+EF026134
+570
+99.6
+1 043
+Byssochlamys nivea
+AY265223
+928
+94.6
+1 454
+Chaetomium sp.
+HM222951
+566
+99.1
+1 015
+Chromelosporium carneum
+FJ872075
+596
+99.3
+1 078
+Coniochaeta ligniaria
+AY198390
+577
+99.7
+1 054
+Cytospora pruinosa
+EU552121
+627
+96.0
+1 013
+Cytospora austromontana
+EU552118
+642
+99.1
+1 151
+Didymella fabae
+GQ305306
+544
+100.0
+1 005
+Fimetariella rabenhorstii
+HM036593
+524
+99.6
+955
+Geopyxis carbonaria
+Z96986
+553
+99.8
+1 014
+Gyromitra infula
+AJ698480
+773
+90.2
+961
+Hypocrea lixii
+AF443917
+602
+99.8
+1 105
+Hypocrea lutea
+AB027384
+596
+100.0
+1 101
+Hypocrea schweinitzii (Anamorph:
+Trichoderma citrinoviride)
+EU280098
+638
+100.0
+1 179
+Nemania serpens
+EF155504
+596
+99.5
+1 083
+Neosartorya hiratsukae
+GQ461906
+629
+98.7
+1 116
+Neurospora terricola
+AY681176
+583
+99.8
+1 072
+Oidiodendron griseum
+AF062796
+514
+99.8
+945
+Ophiostoma sapniodorum
+HM031507
+544
+90.6
+701
+Ophiostoma deltoideosporum
+EU879121
+545
+88.4
+623
+Penicillium spinulosum
+GU566247
+597
+99.6
+1 088
+Penicillium canescens
+FJ439586
+579
+100.0
+1 070
+Penicillium citreonigrum
+EU497959
+586
+100.0
+1 083
+Penicillium corylophilum
+GU566277
+599
+100.0
+1 107
+Penicillium decumbens
+AY373909
+568
+99.6
+1 037
+Penicillium fellutanum
+AY373913
+559
+99.1
+1 002
+Penicillium janithellum
+AB293968
+627
+99.2
+1 127
+Penicillium purpurogenum
+GU566210
+594
+99.5
+1 079
+Phaeomoniella sp.
+GQ153128
+540
+99.4
+981
+Phialophora alba
+HM116755
+608
+100.0
+1 123
+Podospora miniglutinans
+AY515362
+528
+100.0
+976
+Preussia sp.
+FJ210518
+537
+99.5
+976
+Pyronema domesticum
+HQ115722
+592
+98.8
+1 053
+Rhinocladiella atrovirens
+AB091215
+606
+99.0
+1 085
+Rhinocladiella sp.
+GU067765
+536
+99.4
+972
+Sydowia polyspora
+GQ412722
+578
+99.8
+1 062
+Thielavia arenaria
+GU966511
+555
+99.6
+1 015
+Myxotrichaceae sp.
+FJ475803
+563
+99.6
+1 029
+Basidiomycota
+Cerinosterus luteoalbus
+AY618667
+450
+98.7
+799
+Coniophora prasinoides
+GU187519
+677
+98.5
+1 198
+Dichomitus squalens
+AM988622
+638
+98.7
+1 129
+Gloeophyllum sepiarium
+AY089732
+592
+99.8
+1 088
+Rhodotorula lamellibrachiae
+AB263122
+605
+95.9
+967
+Mucoromycotina
+Umbelopsis sp.
+GQ241270
+603
+99.5
+1 096
+Umbelopsis ramanniana
+EU715662
+629
+98.7
+1 111
+a Percent similarity of query to published reference sequence.
+b Bit score is an evaluation of the query and reference sequence alignment based on their lengths and the number of gaps and substitutions
+between the two. Bit scores are normalized, thus they can be compared across search results.
+Community structure of wood-inhabiting fungi in southwestern ponderosa pine forests
+197
+
+singletons, remained unidentiﬁed (Table 2). Of the 68 identi-
+ﬁed taxa, 42 were Ascomycota, ﬁve were Basidiomycota, and
+two were members of the Mucormycotina.
+Effects of ﬁre on fungal community structure
+There was no consistent effect of burning on fungal species
+richness or diversity across all of the sites. However, some
+burned areas differed signiﬁcantly from their paired unburned
+areas, providing some support for our ﬁrst hypothesis. Over-
+all, mean species richness did not differ between burned (18.4
+species) and unburned (16.4 species) areas ( p ¼ 0.604). Sim-
+ilarly, Shannon’s diversity did not vary between the burned
+(1.144) and unburned (1.201) areas ( p ¼ 0.803). Species accu-
+mulation curves for the burned and unburned areas did not
+differ, and both exhibited asymptotic trends (data not shown).
+At the site level, differences between burned and unburned
+areas were analyzed separately for each year because of sig-
+niﬁcant ﬁre  year interactions ( p ¼ 0.009 for species richness,
+p ¼ 0.021 for H0). Mean species richness was lower in the
+burned than the unburned area at the 2005 site ( p ¼ 0.070),
+and it was higher at the burned than the unburned area at the
+1984 site ( p ¼ 0.0006). At the sites for the other three burn
+years, species richness did not differ between the burned and
+unburned areas (Fig 2). Shannon’s diversity index at the site
+level was higher in the burned areas than unburned areas for
+2000 and 1984 (Table 3).
+Compared to richness and diversity, community compo-
+sition showed more consistent differences between burned
+and unburned areas, supporting our ﬁrst hypothesis. Based on
+the PerMANOVA, there were signiﬁcant main effects of ﬁre
+(F ¼ 2.0237, p ¼ 0.023), year (F ¼ 2.9284, p ¼ 0.002) and their
+interaction (F ¼ 2.6482, p ¼ 0.0 002) on fungal community
+composition. Subsequent MRPP analyses on individual sites
+showed
+that
+species
+composition
+differed
+signiﬁcantly
+between four of the ﬁve burned and unburned pairs (all except
+1996; Fig 3). The indicator species analysis revealed several
+species as indicators for particular burn and year combina-
+tions. Aspergillus spp., Phialophora spp., and Hypocrea spp.,
+were indicators of the 1984, 1996, and 2005 burns, respectively.
+In the unburned sites, Biscogniauxia mediterranea was an indi-
+cator of 1996, while both B. nivea and Pezizomycotina spp. were
+indicators of 1984 (Table 4).
+Effects of time since ﬁre on fungal community structure
+Consistent with our hypothesis that time since ﬁre would
+affect fungal communities, mean species richness and H0
+varied by year among the burned areas ( p ¼ 0.002 and 0.007,
+respectively). Richness (Fig 2) and H0 were signiﬁcantly lower
+at the 2005 burn (the most recent) than the 2000, 1996, and
+1984 burns, but the 2005 burn did not differ from the 1977
+burn. Richness and H0 at the 1977 burn did not differ from the
+other burned areas. Within the unburned areas, species
+richness and H0 did not differ, except the 1996 unburned area
+had higher richness than the 1984 unburned area.
+Community composition at the burned areas varied with
+time since ﬁre (A ¼ 0.13625, p < 0.0 001; Fig 4A). Pairwise
+comparisons showed that community composition differed
+among all burns except for 1984 and 1977, the two oldest
+burns. The unburned areas also were distinct from each other
+in community composition (A ¼ 0.13464, p < 0.0 001; Fig 4B)
+except at the two most recent burnings, 2005 and 2000. The
+joint plot analysis (using data from the burned, unburned, or
+burned and unburned sites combined) showed that none of
+the environmental variables measured (log length, log diam-
+eter, log volume, aspect, organic horizon C and woody debris
+C) were signiﬁcantly correlated with the species composition
+ordination scores (data not shown).
+Experimental assessment of wood decay potential
+All of the fungal species tested were able to decompose the
+wood substratum, but the percent of initial mass lost ranged
+Fig 2 e Species richness of wood-inhabiting fungi at
+burned (closed bars) and adjacent unburned (open bars)
+areas at each of the ﬁve ponderosa pine chronosequence
+sites. Asterisk indicates differences between the burned
+and unburned areas at each year (a [ 0.10). Each bar
+represents the mean of six logs sampled per area, and
+error bars represent ±1 standard error.
+Table 3 e Mean Shannon’s diversity index (H0) for wood-
+inhabiting fungi found in logs from burned and adjacent
+unburned areas of southwestern ponderosa pine forests,
+USA. Values represent the mean of six logs (plots) ±1 SE,
+and p-values are the results of a one-way ANOVA at each
+site with ﬁre (burned or unburned) as the main effect.
+Signiﬁcant differences between burned and unburned
+areas for each year are denoted by a boldface p-value
+(a [ 0.10).
+Burn year
+Shannon’s diversity index
+p-Value
+Burned
+Unburned
+2005
+0.685 (0.24)
+1.045 (0.26)
+0.330
+2000
+1.505 (0.10)
+1.165 (0.13)
+0.069
+1996
+1.506 (0.23)
+1.622 (0.15)
+0.676
+1984
+1.660 (0.07)
+0.847 (0.13)
+0.003
+1977
+1.234 (0.21)
+1.230 (0.18)
+0.988
+198
+V.J. Kurth et al.
+
+from 1.7 % to 11.1 % and varied by species ( p < 0.0 001).
+The wood colonized by H. lixii was less decomposed than
+that colonized by six of the other species tested; wood
+decomposition rate by the other seven species did not differ
+(Fig 5).
+Discussion
+Our study is the ﬁrst to assess the community structure of
+wood-inhabiting
+fungi
+in
+southwestern
+ponderosa
+pine
+A
+B
+C
+D
+E
+Fig 3 e Percent relative abundance of all of the fungal species at burned (closed bars) and adjacent unburned (open bars)
+areas, at each of the ﬁve ponderosa pine chronosequence sites (AeE; 2005, 2000, 1996, 1984, 1977, respectively). Relative
+abundance was computed for each unburned and burned area separately, and only common species are shown (those with
+relative abundance >5 % in either the burned or unburned area). Species are arranged in order of decreasing relative
+abundance beginning with the burned areas. Statistics shown (A and p values) are the results of MRPP analysis comparing
+the community structure at each burned and unburned area.
+Community structure of wood-inhabiting fungi in southwestern ponderosa pine forests
+199
+
+forests using mycelial isolation followed by molecular analy-
+sis. Ascomycetes dominated in our study, a ﬁnding that is
+comparable to boreal forests when similar survey techniques
+were used (Lindner et al. 2011). We observed only a handful of
+species of basidiomycetes and likely undersampled their
+diversity with the mycelial isolation approach we employed.
+Gilbertson (1974) observed 200 species of basidiomycetes in
+association with ponderosa pine in his extensive survey of
+basidiomycete
+sporocarps.
+Only
+two
+species
+(Dichomitus
+squalens and Gloeophyllum sepiarium) and one genus (Con-
+iophora) observed in our study overlap with those identiﬁed by
+Gilbertson (1974). These ﬁndings emphasize the importance of
+utilizing multiple methods to characterize wood-inhabiting
+fungal communities, especially in semi-arid climates where
+direct sporocarp observations are inconsistent (Hart et al.
+2006).
+Wildﬁre had both short- and long-term effects on fungal
+community structure. In the short-term, we observed that
+fungal species richness was reduced in the most recent burn
+(2005, 4 yr post-ﬁre) compared to the paired unburned area, a
+ﬁnding that contrasts with observations from other ecosys-
+tems. For instance, Olsson & Jonsson (2010) found that species
+richness was similar in burned and unburned plots 4 yr
+postburn in a boreal forest. Junninen et al. (2008), also studying
+boreal forests, did not observe differences in species richness
+even 1 yr following ﬁre. However, these studies examined the
+impact of prescribed burning, a much weaker disturbance
+than a high-severity wildﬁre. Also, ﬁre may have a smaller
+impact in boreal forest compared to semi-arid regions because
+ample precipitation in boreal forests may favor fungal fruiting
+and subsequent dispersal of propagules to burned areas.
+Fungal species richness in the burned areas recovered to
+levels comparable to paired unburned areas by 9 yr post-ﬁre
+(beginning at the 2000 burn). However, species richness at the
+1984 burn was higher than the paired unburned area. This
+could be due to the high relative abundance of one species in
+the unburned area, B. nivea (Fig 3D). Although we observed this
+species at nearly all of the sites (burned and unburned), sug-
+gesting that it does not have a consistent response to ﬁre, it is
+known to have heat-resistant spores (Bayne & Michener 1979);
+this trait may allow B. nivea to survive ﬁres and proliferate in a
+range of habitats. Furthermore, we cannot explain why
+B. nivea had such a high abundance at the 1984 unburned area,
+but this species is also a known inhibitor of some fungal
+pathogens (Hoff et al. 2004), which may provide it with a
+competitive advantage over other wood-inhabiting fungi.
+Fungal community composition differed between paired
+burned and unburned areas in four of the ﬁve burn years,
+suggesting that stand-replacing wildﬁre has a long-term effect
+on the species composition in these southwestern ponderosa
+pine forests. Other studies in forests have found that pre-
+scribed burning caused alterations in fungal species compo-
+sition up to 4 or 5 yr post-ﬁre (Junninen et al. 2008; Olsson &
+Jonsson 2010; Berglund et al. 2011), but our study is the ﬁrst
+to suggest that community composition may be altered up to
+32 yr after a stand-replacing wildﬁre. Interestingly, although
+ﬁre consistently altered species composition, we did not
+detect a consistent post-ﬁre fungal community, potentially
+because of the covariation in state of decay with time since
+ﬁre. However, the presence of this pattern, despite the close
+proximity of paired burned and unburned sites (w200e600 m),
+suggests that post-ﬁre fungal colonization is somewhat idio-
+syncratic. Importantly, if these idiosyncrasies also apply to
+the relative rates of wood decay, patterns of C release in
+burned forests may be less predictable than patterns in
+unburned forests.
+The one exception to the general pattern that ﬁre altered
+fungal community composition was the 1996 site, which had a
+relatively high number of species with low abundances. This
+pattern could be due to more available niches and greater
+species co-existence at this site, similar to what J€onsson et al.
+(2008) observed at intermediate stages of wood decay in a
+boreal forest. In support of this hypothesis, the majority of the
+logs sampled at the 1996 site were of the intermediate decay
+class 3.
+The relative scarcity of soil organic material on the forest
+ﬂoor in burned areas of southwestern ponderosa pine forests
+may limit post-ﬁre fungal colonization and inﬂuence long-
+term community composition. Lower levels of organic mate-
+rial were consistently observed at the burned areas compared
+to the unburned areas even 30 yr after ﬁre (Ross et al. 2012;
+Table 1). Furthermore, because pine regeneration is extremely
+slow following stand-replacing wildﬁres in these forests
+(Heidmann 2008), it is likely that levels of organic material will
+remain low for an extended period. Given that the forest ﬂoor
+may be an underestimated source of fungal inoculum for
+wood-inhabiting species (Allmer et al. 2009), the relatively
+slow post-ﬁre development of the organic horizon in these
+forests may explain the long-term alterations in species
+composition we observed in the burned areas. Similarly, the
+slow rate of organic horizon redevelopment following wildﬁre
+in these dry forests might also explain why the fungal
+Table 4 e Results of indicator species analysis of wood-inhabiting fungal communities in burned and adjacent unburned
+areas of southwestern ponderosa pine forests, USA. The maximum indicator value possible is 100, and high indicator
+values indicate that a species occurred in an area frequently and with high abundance.
+Species
+Indicator value
+p-Value
+Indicator year
+Indicator treatment
+Aspergillus spp.
+26.7
+0.018
+1984
+Burned
+Hypocrea spp.
+47.2
+0.001
+2005
+Burned
+Phialophora spp.
+33.3
+0.082
+1996
+Burned
+Biscogniauxia mediterranea
+33.3
+0.056
+1996
+Unburned
+Byssochlamys nivea
+34.4
+0.002
+1984
+Unburned
+Coniochaeta ligniaria
+36.6
+0.004
+1996
+Unburned
+Pezizomycotina spp.
+31.3
+0.005
+1984
+Unburned
+200
+V.J. Kurth et al.
+
+community responses differ from those in other, more mesic
+forests.
+We observed a high degree of heterogeneity in the species
+composition among the unburned areas, which could be a
+result of environmental variation or differences in state of
+wood decay. To facilitate comparisons with burned areas, we
+sampled logs of similar decay classes within a year (burned
+and unburned); however, the use of the chronosequence
+approach meant that decay class varied among burned areas,
+which could have inﬂuenced the fungal community. Also, to
+encompass a range of times since ﬁre, we had to sample from
+a relatively large spatial extent (615 km2), and it is unlikely
+that environmental conditions were constant across this
+entire area. In particular, stand structural differences, such as
+variation in organic horizon depth and number of large
+diameter trees, may have resulted in a higher degree of het-
+erogeneity in the unburned areas than we expected.
+The length of our chronosequence (32 yr) was sufﬁcient to
+capture changes in fungal community composition over time
+since ﬁre. Fungal species composition was distinct at the three
+recent burns (2005, 2000 and 1996), but similar at the two older
+burns (1984 and 1977; Fig 4A), providing support for our
+hypothesis that fungal communities would become more
+similar over time since ﬁre. These results are consistent with
+Rajala et al. (2010, 2011) who observed a succession of fungal
+species over the course of log decay in spruce forests, with the
+more decomposed logs having similar community composi-
+tions. The authors suggest that airborne colonization by
+A
+B
+Fig 4 e Non-metric multidimensional scaling of wood-
+inhabiting fungal community composition in burned (A)
+and adjacent unburned (B) areas of the ﬁve ponderosa pine
+chronosequence sites. The ﬁnal stress after 250 runs with
+real data was 25.5 (burned) and 25.6 (unburned) for a 2-
+dimensional solution. Each centroid is the mean of a site in
+ordination space, and bars represent ±1 standard error. Six
+logs were sampled per area and four wood pieces were
+taken from each log (n [ 6). Results of MRPP analysis
+conﬁrmed that the 2005, 2000, and 1996 burns differed
+compositionally from each other, and the 1984 and 1977
+burns were similar in composition. MRPP analysis on the
+unburned areas conﬁrmed that the 2000 and 2005 sites
+were similar compositionally, while the 1996, 1984, and
+1977 were distinct (a [ 0.10 for both burned and unburned
+area analyses).
+Fig 5 e Mean mass loss of pine dowels incubated in the
+laboratory with individual wood-inhabiting fungal species.
+Fungal species were cultured from logs of burned and
+unburned areas of southwestern ponderosa pine forests,
+USA, and were incubated with sterile pine dowels for 26
+weeks. Each incubation was replicated ten times (n [ 10)
+and bars represent ±1 standard error. Data were arcsine
+transformed prior to analysis. Hypocrea lixii had a lower
+decomposition rate than six of the other species, which
+were all similar. Unique letters represent differences
+among the fungal species (a [ 0.05).
+Community structure of wood-inhabiting fungi in southwestern ponderosa pine forests
+201
+
+fungal spores is maximized after a certain point in wood
+decomposition, resulting in a more stable community struc-
+ture at later stages of decay (Rajala et al. 2010). Likewise, given
+the similarities in the mean decay class for the 1984 and 1977
+burns (4.5 and 4.3, respectively; Table 1), we speculate that
+composition had stabilized in the more decayed logs in these
+areas.
+We found some evidence in support of our second
+hypothesis that fungi would vary in their capacities to process
+wood. For example, H. lixii decomposed wood about ﬁve times
+slower than most of the other species of fungi we tested.
+Members of the genus Hypocrea are cosmopolitan soil-
+borne fungi that are commonly found on decaying wood
+(Druzhinina & Kubicek 2005). However, members of the order
+Hypocreales, to which the Hypocrea belongs, do not possess
+strong abilities to decompose wood (Worrall et al. 1997). In
+addition, the anamorph of H. lixii, Trichoderma harzianum, is a
+well-known mycoparasite (Chet & Inbar 1994), which may also
+explain its limited ability to decompose wood. These ﬁndings
+suggest that members of the genus Hypocrea are rapid colo-
+nizers and generalists, but may lack the enzymatic capacity to
+process complex C, such as lignin. Furthermore, we observed
+that members of the Hypocrea were an indicator for the most
+recent burn (2005) and had a high relative abundance there
+(Fig 3A, Table 4). Consistent with our ﬁndings, members of the
+anamorph of this genus, Trichoderma, are abundant in soil
+following prescribed burning (Froelich et al. 1978). High
+abundance following wildﬁre of a species with poor decom-
+position abilities, like H. lixii, could substantially alter the
+amount of C respired from burned areas.
+The remaining species decomposed the wood to a similar
+degree, suggesting some functional redundancy among the
+species tested. Similar studies have found more variability in
+decomposition abilities among fungal species. In a microcosm
+experiment, Clinton et al. (2009) found that fungal species
+varied widely in their abilities to decay Nothofagus wood.
+Worrall et al. (1997) tested a variety of fungi from different
+taxonomic orders and also observed varying degrees of ability
+to decay pine wood. Notably, they found an intermediate
+ability in members of the order Sordariales, of which three of
+the species we tested are members (Chaetomium sp., C. ligniaria
+and N. terricola). In particular, we expected C. ligniaria to
+demonstrate strong decomposition abilities because it is an
+ascomycete that produces some of the enzymes required for
+lignin decomposition (Lopez et al. 2007). We also expected
+P. corylophilum to exhibit high decomposition based on its
+strong ability to decay spruce wood (Allison et al. 2009).
+However, the limited number of species tested in these
+experiments (Allison et al. 2009 tested ﬁve; we tested eight), as
+well as methodological differences (e.g., length of incubation),
+makes it difﬁcult to compare relative rates of decay.
+The inferences we can draw from our single species incu-
+bations are somewhat limited because we did not include
+interactions among species of decay fungi, which are complex
+and usually antagonistic (Boddy 2000). Although the precise
+mechanism is not entirely understood, it is thought that the
+production of secondary metabolites by earlier colonizing
+fungi can have either inhibitory or stimulatory effects on the
+growth of successive colonizers in wood (Heilmann-Clausen &
+Boddy 2005). This predecessor legacy effect can inﬂuence
+fungal community structure and associated decomposition
+rates in wood (Fukami et al. 2010).
+The observational portion of our study is limited in several
+ways. We sampled four pieces of wood from relatively few
+logs over a large area, so it is possible that we undersampled
+the fungal community. Indeed, only a few of the species
+accumulation curves generated for individual burned or
+unburned areas had strong asymptotes (data not shown), but
+asymptotic trends for burned and unburned areas as a whole
+suggest that we adequately sampled for the effect of ﬁre. Also,
+because fungal distribution differs between the interior and
+exterior portions of woody debris (Allmer et al. 2006), we
+limited our samples to the external portion of the wood,
+biasing our survey toward species that tend to inhabit those
+regions. Finally, we were only able to identify those fungal
+species that grew in culture. Therefore, our analysis missed
+species that were not able to exploit the media. Extraction of
+fungal DNA directly from wood followed by one of several
+molecular techniques (cloning and sequencing, Terminal
+RFLP, DGGE, next generation sequencing) would potentially
+identify more species (Lindner et al. 2011), though mycelial
+isolation remains a powerful method for identifying wood-
+inhabiting fungal communities (Allmer et al. 2006; Lindner
+et al. 2011). Higher resolution identiﬁcation of wood-inhabit-
+ing fungal communities, in conjunction with more informa-
+tion on functional responses, represents an important next
+step in studies of wildﬁre effects on decay fungi and wood
+decomposition.
+Conclusions
+Our results suggest stand-replacing wildﬁre disturbance in
+semi-arid areas may have substantial, long-term impacts
+on wood-inhabiting fungal communities. Species richness
+recovered relatively slowly compared to studies of prescribed
+burning in boreal forests. Also, the species composition in the
+burned areas was consistently different from comparable
+unburned areas, up to 32 yr after a wildﬁre. These ﬁndings
+may have widespread implications for post-wildﬁre C cycling
+because differences in fungal species composition may alter
+rates of wood decomposition (Fukami et al. 2010), as our
+experimental
+ﬁndings
+demonstrated.
+Furthermore,
+the
+increasing frequency and size of stand-replacing wildﬁres in
+the western USA suggests that greater amounts of C will also
+be stored in decaying wood in the future. Given these results
+and trends, our research suggests a deﬁciency in current
+decomposition models that could be ameliorated with more
+information on the community structure of wood-inhabiting
+fungi (McGuire & Treseder 2010).
+Acknowledgments
+This work was supported by funding from the USDA NRICG
+program (Award number 2005-35101-16179) and an NSF Doc-
+toral Dissertation Improvement Grant (Award number DEB-
+1011415). We thank Samuel Harworth and the staff at the
+Ecological Research Institute (Northern Arizona University)
+202
+V.J. Kurth et al.
+
+for ﬁeld assistance and Todd Wojtowicz for suggesting the
+incubation experiment. Karen Haubensak, the Associate Edi-
+tor, and two anonymous reviewers provided useful comments
+on the manuscript.
+r e f e r e n c e s
+Allen CD, Savage M, Falk DA, Suckling KF, Swetnam TW,
+Schulke T, Stacey PB, Morgan P, Hoffman M, Klingel JT, 2002.
+Ecological restoration of southwestern ponderosa pine
+ecosystems: a broad perspective. Ecological Applications 12:
+1418e1433.
+Allen CD, Macalady AK, Chenchouni H, Bachelet D, McDowell N,
+Vennetier M, Kitzberger T, Rigling A, Breshears DD, Hogg EH,
+Gonzalez P, Fensham R, Zhang Z, Castro J, Demidova N, Lim J-H,
+Allard G, Running SW, Semerci A, Cobb N, 2010. A global
+overview of drought and heat-induced tree mortality reveals
+emerging climate change risks for forests. Forest Ecology and
+Management 259: 660e684.
+Allison SD, LeBauer DS, Ofrecio M, Reyes R, Ta A-M, Tran TM,
+2009. Low levels of nitrogen addition stimulate decomposition
+by boreal forest fungi. Soil Biology and Biochemistry 41: 293e302.
+Allmer J, Stenlid J, Dahlberg A, 2009. Logging-residue extraction
+does not reduce the diversity of litter-layer saprotrophic fungi
+in three Swedish coniferous stands after 25 years. Canadian
+Journal of Forest Research 39: 1737e1748.
+Allmer J, Vasiliauskas R, Ihrmark K, Stenlid J, Dahlberg A, 2006.
+Wood-inhabiting fungal communities in woody debris of
+Norway spruce (Picea abies (L.) Karst.), as reﬂected by
+sporocarps, mycelial isolations, and T-RFLP identiﬁcation.
+FEMS Microbiology Ecology 55: 57e67.
+Anderson MJ, 2001. A new method for non-parametric
+multivariate analysis of variance. Austral Ecology 26: 32e46.
+Bayne HG, Michener HD, 1979. Heat resistance of Byssochlamys
+ascospores. Applied and Environmental Microbiology 37: 449e453.
+Berglund H, J€onsson MT, Penttil€a R, Vanha-Majamaa I, 2011. The
+effects of burning and dead-wood creation on the diversity of
+pioneer wood-inhabiting fungi in managed boreal spruce
+forests. Forest Ecology and Management 261: 1e13.
+Boddy L, 2000. Interspeciﬁc combative interactions between
+wood-decaying basidiomycetes. FEMS Microbiology Ecology 31:
+185e194.
+Cairney JWG, Basitas B, 2007. Inﬂuences of ﬁre on forest soil
+fungal communities. Canadian Journal of Forest Research 37:
+207e215.
+Chet I, Inbar J, 1994. Biological control of fungal pathogens.
+Applied Biochemistry and Biotechnology 48: 37e43.
+Choromanska U, DeLuca TH, 2002. Microbial activity and nitrogen
+mineralization in forest mineral soils following heating:
+evaluation of post-ﬁre effects. Soil Biology and Biochemistry 34:
+263e271.
+Clinton PW, Buchanan PK, Wilkie JP, Smaill SJ, Kimberley MO,
+2009. Decomposition of Nothofagus wood in vitro and nutrient
+mobilization by fungi. Canadian Journal of Forest Research 39:
+2193e2202.
+Colwell RK, 2009. EstimateS: statistical estimation of species richness
+and shared species from samples. Version 8. Persistent URL:.
+<purl.oclc.org/estimates>
+Cooper CF, 1960. Changes in vegetation, structure, and growth of
+southwestern pine forests since white settlement. Ecological
+Monographs 30: 129e164.
+Cornwell WK, Cornelissen JHC, Allison SD, Bauhus J, Eggleton P,
+Preston CM, Scarff F, Weedon JT, Wirth C, Zanne AE, 2009.
+Plant traits and wood fates across the globe: rotted, burned, or
+consumed? Global Change Biology 15: 2431e2449.
+Covington WW, Moore MM, 1994a. Southwestern ponderosa
+forest structure: changes since Euro-American settlement.
+Journal of Forestry 92: 39e47.
+Covington WW, Moore MM, 1994b. Postsettlement changes in
+natural ﬁre regimes and forest structure: ecological
+restoration of old-growth ponderosa pine forests. Journal of
+Sustainable Forestry 2: 153e181.
+Crawford RH, Carpenter SE, Harmon ME, 1990. Communities of
+ﬁlamentous fungi and yeasts in decomposing logs of
+Pseudotsuga menziesii. Mycologia 82: 759e765.
+Dore S, Kolb TE, Montes-Helu M, Sullivan BW, Winslow WD,
+Hart SC, Kaye JP, Koch GW, Hungate BA, 2008. Long-term
+impact of a stand-replacing ﬁre on ecosystem CO2 exchange of
+a ponderosa pine forest. Global Change Biology 14: 1801e1820.
+Drummond AJ, Ashton B, Cheung M, Heled J, Kearse M, Moir R,
+Stones-Havas S, Thierer T, Wilson A, 2010. Geneious v5.0.
+Available from: www.geneious.com.
+Druzhinina I, Kubicek CP, 2005. Species concepts and biodiversity
+in Trichoderma and Hypocrea: from aggregate species to species
+clusters? Journal of Zhejiang University of Science 6B: 100e112.
+Dufrene M, Legendre P, 1997. Species assemblages and indicator
+species: the need for a ﬂexible asymmetrical approach.
+Ecological Monographs 67: 345e366.
+Dunn PH, Barro SC, Poth M, 1985. Soil moisture affects survival of
+micro-organisms in heated chaparral ﬁre. Soil Biology and
+Biochemistry 17: 143e148.
+Easterling DR, Meehl GA, Parmesan C, Changnon SA, Karl TR,
+Mearns LO, 2000. Climate extremes: observations, modeling,
+and impacts. Science 289: 2068e2074.
+Froelich RC, Hodges CS, Sackett SS, 1978. Prescribed burning
+reduces severity of annosus root rot in the South. Forest Science
+24: 93e100.
+Fukami T, Dickie IA, Wilkie JP, Paulus BC, Park D, Roberts A,
+Buchanan PK, Allen RB, 2010. Assembly history dictates
+ecosystem functioning: evidence from wood decomposer
+communities. Ecology Letters 13: 675e684.
+Gardes M, Bruns TD, 1993. ITS primers with enhanced speciﬁcity
+for basidiomycetes-application to the identiﬁcation of
+mycorrhizae and rusts. Molecular Ecology 2: 113e118.
+Gehring CA, Theimer TC, Whitham TG, Keim P, 1998.
+Ectomycorrhizal fungal community structure of pinyon pines
+growing in two environmental extremes. Ecology 79:
+1562e1572.
+Gilbertson RL, 1974. Fungi That Decay Ponderosa Pine. The
+University of Arizona Press, Tucson, AZ.
+Harmon ME, Franklin JF, Swanson FJ, Sollins P, Gregory SV,
+Lattin JD, Anderson NH, Cline SP, Aumen NG, Sedell JR,
+Lienkaemper GW, Cromack Jr K, Cummins KW, 1986. Ecology
+of coarse woody debris in temperate ecosystems. Advances in
+Ecological Research 15: 133e302.
+Hart SC, DeLuca TH, Newman GS, MacKenzie MD, Boyle SI, 2005.
+Post-ﬁre vegetative dynamics as drivers of microbial
+community structure and function in forest soils. Forest
+Ecology and Management 220: 166e184.
+Hart SC, Gehring CA, Selmants PC, Deckert RJ, 2006. Carbon and
+nitrogen elemental and isotopic patterns in macrofungal
+sporocarps and trees in semiarid forests of the south-western
+USA. Functional Ecology 20: 42e51.
+Heidmann LJ, 2008. Forest regeneration research at Fort Valley. In:
+Olberding SD, Moore MM (eds), Fort Valley Experimental Forest e
+A Century of Research 1908e2008. Proceeding RMRS-P-55. USDA
+Forest Service, Rocky Mountain Research Station, pp. 25e37.
+Heilmann-Clausen J, Boddy L, 2005. Inhibition and stimulation
+effects in communities of wood decay fungi: exudates from
+colonized wood inﬂuence growth by other species. Microbial
+Ecology 49: 399e406.
+Hoerling M, Kumar A, 2003. The perfect ocean for drought. Science
+299: 691e694.
+Community structure of wood-inhabiting fungi in southwestern ponderosa pine forests
+203
+
+Hoff J, Klopfenstein NB, McDonald GI, Tonn JR, Kim MS, Zambino PJ,
+Hessburg PF, Rogers J, Peever T,Carris L, 2004. Fungalendophytes
+in woody roots of Douglas-ﬁr (Pseudotsuga menziesii) and
+ponderosa pine (Pinus ponderosa). Forest Pathology 34: 255e271.
+Holmer L, Renvall P, Stenlid J, 1997. Selective replacement
+between species of wood-rotting basidiomycetes, a laboratory
+study. Mycological Research 101: 714e720.
+Hurteau MD, Brooks ML, 2011. Short- and long-term effects of ﬁre
+on carbon in US dry temperate forest systems. BioScience 61:
+139e146.
+Johnson EA, Miyanishi K, 2008. Testing the assumptions of
+chronosequences in succession. Ecology Letters 11: 419e431.
+J€onsson M, Edman M, Jonsson BG, 2008. Colonization and
+extinction patterns of wood-decaying fungi in a boreal old-
+growth Picea abies forest. Journal of Ecology 96: 1065e1075.
+Junninen K, Kouki J, Renvall P, 2008. Restoration of natural
+legacies of ﬁre in European boreal forests: an experimental
+approach to the effects on wood-decaying fungi. Canadian
+Journal of Forest Research 38: 202e215.
+Kashian DM, Romme WH, Tinker DB, Turner MG, Ryan MG, 2006.
+Carbon storage on landscapes with stand-replacing ﬁres.
+BioScience 56: 598e606.
+Kirby JJH, Stenlid J, Holdenrieder O, 1990. Population structure
+and responses to disturbance of the basidiomycete Resinicium
+bicolor. Oecologia 85: 178e184.
+Korb JE, Johnson NC, Covington WW, 2004. Slash pile burning
+effects on soil biotic and chemical properties and plant
+establishment: recommendations for amelioration. Restoration
+Ecology 12: 52e62.
+Lindner DL, Vasaitis R, Kurbartova A, Allmer J, Johannesson H,
+Banik MT, Stenlid J, 2011. Initial fungal colonizer affects mass
+loss and fungal community development in Picea abies logs
+6 yr after inoculation. Fungal Ecology 4: 449e460.
+Littell JS, McKenzie D, Peterson D, Westerling AL, 2009. Climate
+and wildﬁre area burned in western U.S. ecoprovinces,
+1916e2003. Ecological Applications 19: 1003e1021.
+Lopez MJ, Vargas-Garcıa MC, Suarez-Estrella F, Nichols NN,
+Dien BS, Moreno J, 2007. Lignocellulose-degrading enzymes
+produced by the ascomycete Coniochaeta ligniaria and related
+species: application for a lignocellulosic substrate treatment.
+Enzyme and Microbial Technology 40: 794e800.
+Lumley TC, Gignac LD, Currah RS, 2001. Microfungus
+communities of white spruce and trembling aspen logs at
+different stages of decay in disturbed and undisturbed sites in
+the boreal mixedwood region of Alberta. Canadian Journal of
+Botany 79: 76e92.
+Maser C, Anderson RG, Cromack Jr K, Williams JT, Martin RE,
+1979. Dead and downed woody material. In: Thomas JW (ed),
+Wildlife Habitats in Managed Forests: the Blue Mountains of Oregon
+and Washington. Agriculture Handbook No. 553, pp. 78e90.
+McCune B, Grace JB, 2002. Analysis of Ecological Communities. MjM
+Software Design, Gleneden Beach, OR.
+McCune B, Mefford MJ, 2006. PC-ORD Version 5.10, Multivariate
+Analysis of Ecological Data. MjM Software, Gleneden Beach, OR,
+USA.
+McGuire KL, Treseder KK, 2010. Microbial communities and their
+relevance for ecosystem models: decomposition as a case
+study. Soil Biology and Biochemistry 42: 529e535.
+Meigs GW, Donato DC, Campbell JL, Martin JG, Law BE, 2009.
+Forest ﬁre impacts on carbon uptake, storage, and emission:
+the role of burn severity in the eastern Cascades, Oregon.
+Ecosystems 12: 1246e1267.
+Murray TR, Frank DA, Gehring CA, 2010. Ungulate and
+topographic control of arbuscular mycorrhizal fungal spore
+community composition in a temperate grassland. Ecology 91:
+815e827.
+Neary DG, Klopatek CC, DeBano LF, Ffolliott PF, 1999. Fire effects
+on belowground sustainability: a review and synthesis. Forest
+Ecology and Management 122: 51e71.
+Niemel€a T, Renvall P, Penttil€a R, 1995. Interactions of fungi at late
+stages of wood decomposition. Annales Botanici Fennici 32:
+141e152.
+Olsson J, Jonsson BG, 2010. Restoration ﬁre and wood-inhabiting
+fungi in a Swedish Pinus sylvestris forest. Forest Ecology and
+Management 259: 1971e1980.
+Pietik€ainen J, Kiikkil€a O, Fritze H, 2000. Charcoal as a habitat for
+microbes and its effect on the microbial community of the
+underlying humus. Oikos 89: 231e242.
+Raison PJ, 1979. Modiﬁcation of the soil environment by
+vegetation ﬁres, with particular reference to nitrogen
+transformations: a review. Plant and Soil 51: 73e108.
+Rajala T, Peltoniemi M, Hantula J, M€akip€a€a R, Pennanen T, 2011.
+RNA reveals a succession of active fungi during the decay of
+Norway spruce logs. Fungal Ecology 4: 437e448.
+Rajala T, Peltoniemi M, Pennanen T, M€akip€a€a R, 2010.
+Relationship between wood-inhabiting fungi determined by
+molecular analysis (denaturing gradient gel electrophoresis)
+and quality of decaying logs. Canadian Journal of Forest Research
+40: 2384e2397.
+Ross CS, Kaye JP, Kaye MW, Kurth VJ, Brimmer R, Hart SC, Fule PZ,
+2012. Ecosystem carbon remains low for three decades
+following ﬁre and constrains soil CO2 responses to
+precipitation in southwestern ponderosa pine forests.
+Ecosystems 15: 725e740.
+Schubert GH, 1974. Silviculture of Southwestern Ponderosa Pine: the
+status of our knowledge. USDA Forest Service, Rocky Mountain
+Forest and Range Experiment Station. General Technical
+Report RM-123.
+Stephens SL, 2005. Forest ﬁre causes and extent on United States
+Forest Service lands. International Journal of Wildland Fire 14:
+213e222.
+Swetnam TW, Baisin CH, 1996. Historical ﬁre regime patterns in
+the southwestern United States since AD 1700. In: Allen CD
+(ed), Fire Effects in Southwestern Forests. USDA Forest Service,
+Rocky Mountain Forest and Range Experiment Station, pp.
+11e32. General Technical Report RM-GTR-286.
+Van Mantgem PJ, Stephenson NL, Byrne JC, Daniels LD,
+Franklin JF, Fule PZ, Harmon ME, Larson AJ, Smith JM,
+Taylor AH, Veblen TT, 2009. Widespread increase of tree
+mortality rates in the western United States. Science 323:
+521e524.
+White AS, 1985. Presettlement regeneration patterns in a
+southwestern ponderosa pine stand. Ecology 66: 589e594.
+Westerling AL, Hildago HG, Cayan DR, Swetnam TW, 2006.
+Warming and earlier spring increase western U.S. forest
+wildﬁre activity. Science 313: 940e943.
+Williams AP, Allen CD, Millar CI, Swetnam TW, Michaelsen J,
+Still CJ, Leavitt SW, 2010. Forest responses to increasing aridity
+and warmth in the southwestern United States. Proceedings of
+the National Academy of Science 107: 21289e21294.
+Worrall JJ, Anagnost SE, Zabel RA, 1997. Comparison of wood
+decay among diverse lignicolous fungi. Mycologia 89: 199e219.
+Zar JH, 1999. Biostatistical Analysis, 4th edn. Prentice-Hall, Upper
+Saddle River, NJ.
+204
+V.J. Kurth et al.

@@ -1,0 +1,1925 @@
+ 
+COMPARING METHODS OF  
+RECONSTRUCTING FIRE HISTORY USING FIRE SCARS IN A 
+SOUTHWESTERN PONDEROSA PINE FOREST 
+By Megan L. Van Horne 
+ 
+A Thesis 
+Submitted in Partial Fulfillment 
+of the Requirements for the Degree of 
+Master of Science 
+in Forestry 
+ 
+Northern Arizona University 
+May 2005 
+Approved:  
+ 
+ 
+_______________________________ 
+Peter Z. Fulé, Ph.D., Chair 
+ 
+ 
+_______________________________ 
+Carolyn Hull Sieg, Ph.D. 
+ 
+ 
+_______________________________ 
+Thomas E. Kolb, Ph.D. 
+ 
+ 
+_______________________________ 
+Thomas W. Swetnam, Ph.D. 
+ 
+
+ 
+ii
+ABSTRACT 
+ 
+COMPARING METHODS OF  
+RECONSTRUCTING FIRE HISTORY USING FIRE SCARS IN A 
+SOUTHWESTERN PONDEROSA PINE FOREST 
+Megan L. Van Horne 
+ 
+Fire scars have been used extensively to understand the historical role of fire in 
+ponderosa pine (Pinus ponderosa Dougl. ex Laws.) ecosystems.  However, the sampling 
+methods and interpretation of fire scar data have been criticized as statistically invalid, 
+biased, and leading to exaggerated estimates of fire frequency.  We tested alternative 
+sampling schemes by comparing “targeted” sampling, random sampling, and grid-based 
+sampling to a complete census of all 1,479 fire-scarred trees in a one square kilometer 
+study site in northern Arizona.  The effects of sample size and area sampled on fire 
+frequency estimates were also tested.  Given a sufficient sample size, we concluded that 
+all tested sampling methods result in reliable estimates of the true fire frequency, with 
+mean fire intervals very similar to the census.  We also investigated the usefulness of 
+three techniques developed to compensate for spatial uncertainties: 1) fire intervals from 
+individual trees, 2) the interval between the tree origin and the first scar, and 3) filtering, 
+a technique used to classify large fires.  The seasonality distributions of the census and 
+targeted sample were also compared.  Quantification of the differences in sampling 
+approaches cannot resolve all the limitations of fire scar methods, since scarred trees are 
+
+ 
+iii
+inherently point-sources of data.  But measurement of sampling uncertainty did reduce 
+the scope of uncertainty in interpretation of fire regime statistics. 
+
+ 
+iv
+ACKNOWLEDGMENTS  
+ 
+I would like to recognize my committee chair, Pete Fulé, for his support of this 
+project and his continued dedication to improving the science of ecological restoration.  I 
+also appreciate the other members of my committee, Tom Swetnam, Carolyn Hull Sieg 
+and Tom Kolb, for their input, patience and words of encouragement.  They all 
+contributed different, yet necessary, pieces of the puzzle.  After three years of specimen 
+collection, preparation, crossdating and data entry of the largest fire scar collection I 
+know of, all the staff and students at the Ecological Restoration Institute deserve 
+recognition for their endless efforts.  A special thanks to Daniel Fairbairn who dedicated 
+an entire summer to crossdating, Nevin Yepa and Ethan Hulme who spent more time 
+collecting and sanding than I did, and Don Normandin for helping me manage this whole 
+process.  I had the privilege of spending time at the Laboratory of Tree-Ring Research at 
+the University of Arizona during my dendrochronological infancy.  The staff and students 
+there were instrumental in my progress and continued to support me throughout this 
+study.  Rudy King (USDA Forest Service Rocky Mountain Research Station) provided 
+sound analytical advice.  Thanks to the School of Forestry Mission Research program for 
+funding this project, and J.J. Smith and the Centennial Forest for permitting this study 
+and providing the gold mine of fire scars.  This work could not have been completed 
+without the heckling from my peers, constantly asking how many more specimens I had 
+to crossdate and if I could at least take a lunch break away from the microscope.  Thanks 
+to my family for always supporting my chosen direction in life.  And thank God for my 
+good eyesight.  
+
+ 
+v
+TABLE OF CONTENTS 
+ABSTRACT........................................................................................................................ ii 
+ACKNOWLEDGMENTS ................................................................................................. iv 
+LIST OF TABLES............................................................................................................. vi 
+LIST OF FIGURES ..........................................................................................................vii 
+PREFACE.......................................................................................................................... ix 
+CHAPTER 1. Introduction.................................................................................................. 1 
+CHAPTER 2. Literature Review ........................................................................................ 3 
+Fire Regimes........................................................................................................... 3 
+Uncertainty.............................................................................................................. 4 
+CHAPTER 3. Comparing Methods of Reconstructing Fire History Using Fire Scars in a 
+Southwestern Ponderosa Pine Forest................................................................................ 10 
+Abstract................................................................................................................. 10 
+Introduction........................................................................................................... 11 
+Methods................................................................................................................. 15 
+Results................................................................................................................... 24 
+Discussion............................................................................................................. 27 
+CHAPTER 4. Management Implications ......................................................................... 50 
+Social Implications................................................................................................ 50 
+Ecological Implications ........................................................................................ 51 
+CHAPTER 5. Literature Cited.......................................................................................... 54 
+ 
+
+ 
+vi
+LIST OF TABLES 
+Table 1.  Mean fire intervals (years) for all sampling methods at Centennial Forest, 
+northern Arizona (1682-1881). The filter categories include all fire years in which scars 
+were present (all), fire years in which at least 10% of the recording specimens scarred 
+(10%), and fire years in which at least 25% of the recording specimens scarred (25%).  
+*see Figure 2 for grid layout maps. .................................................................................. 39 
+ 
+
+ 
+vii
+LIST OF FIGURES 
+Figure 1.  This study site, Flagstaff and other fire history study sites including Dieterich 
+1980, Davis 1987 and Swetnam et al. 1990, Heinlein 1996, and Fulé et al. 1997 are 
+shown in the ponderosa pine forest type (shaded area) in northern Arizona.................... 40 
+ 
+Figure 2.  Maps of sampling grids used to test the effect of grid-based methods of 
+sampling.  (a) Sampling grid 1 had 41 plots spaced at 141 m.  Concentric circles are 20, 
+40 and 60 m search radii.  Mean fire interval (MFI) was compared between samples taken 
+from the three search radii.  (b) Sampling grid 2 was a checkerboard with 100-1 ha cells.  
+MFI of the black cells was compared to MFI of the white cells using the specimen in 
+each cell with the most fire scars...................................................................................... 41 
+ 
+Figure 3.  Study area map showing the 1,479 census (points) and 40 targeted sample 
+(stars) specimen locations.  Lines are 5 m contours. ........................................................ 42 
+ 
+Figure 4.  Composite fire history of all fire scarred trees (1682-1881) showing the 
+number of trees scarred, number of trees susceptible to fire scarring (recording trees), and 
+total number of fire-scarred trees present (sample depth) per year. The 10% and 25% 
+filter lines indicate the minimum number of scarred trees required in that year to be 
+included in the filter composite......................................................................................... 43 
+ 
+Figure 5.  Mean fire intervals (MFIs) (years) from several samples showing the effect of 
+(a) sample size and (b) area sampled.  (a) Random samples of different sizes were used to 
+test the effect of sample size.  10 samples were taken per unique combination of sample 
+size and filter level (MFIs displayed by the small shapes), and the means of the sample 
+MFIs are shown by the large shapes.  (b) MFIs were computed for all combinations of 
+each area category (4, 8, 16, 32, 64 and 100 ha) and displayed by the small shapes.  The 
+large shapes indicate the means of the sample MFIs........................................................ 44 
+ 
+Figure 6.   Distribution of individual fire intervals for the census data with three levels of 
+filtering and the point (per tree) fire intervals.  The 25th and 75th percentiles are denoted 
+by either side of the shaded boxes with the median (vertical line) separating them.  The 
+whiskers extend to the 5th and 95th percentiles.  The black dots are all the extreme values, 
+and the white diamonds indicate the mean for each sample............................................. 45 
+ 
+Figure 7.  Origin-to-first scar (OS) interval for all trees with piths.  This interval indicates 
+the age of a tree when it received its first visible fire scar................................................ 46 
+ 
+Figure 8.  Trees with origin-to-first scar (OS) intervals occurred in close proximity to 
+scarred trees during two major fire years, 1737 and 1794.  OS trees are only mapped here 
+if the OS interval overlaps the fire year shown................................................................. 47 
+ 
+Figure 9.  Seasonality distribution by percent of fire scars for the targeted sample and 
+census.  D – dormant, EE – early earlywood, ME – middle earlywood, LE – late 
+earlywood, L – latewood, U – undetermined.................................................................... 48 
+
+ 
+viii
+ 
+Figure 10.  Percent of catfaces (radial axes) by direction of formation (angular axes in 
+degrees).  Note: this is not oriented like a compass.......................................................... 49 
+ 
+
+ 
+ix
+PREFACE 
+ 
+ 
+This document was written in manuscript format so that Chapter 3 may be 
+submitted for publication in a scientific journal, so the reader may encounter some 
+repeated information in this chapter.  The conclusions of the whole thesis are contained in 
+Chapter 3 since it is the only manuscript chapter.  To reduce redundancy, there is one 
+Literature Cited section (Chapter 5) that includes references from the whole thesis.  The 
+plural pronoun “we” in Chapter 3 refers to the collaborating authors of the manuscript, 
+who will be added when the manuscript is submitted for publication.   
+
+ 
+1
+CHAPTER 1 
+Introduction 
+ 
+Crossdated fire scars provide concrete evidence of the presence of fire in an exact 
+year and location.  Fire scars have been used extensively in the southwestern United 
+States as evidence of the natural frequent fire regime.  However, uncertainties associated 
+with sampling and interpreting fire scar data have led to criticisms of these methods.  The 
+uncertainties include the inherent limitation that fire scars are imperfect recorders of fire, 
+so while a fire scar proves the presence of fire, the absence of a fire scar does not 
+necessarily mean that fire did not burn in that location.  Scars destroyed by subsequent 
+fires or decay, and error introduced when sampling are also sources of uncertainty.  
+Sampling error is one of the major topics of criticism because targeting, the standard 
+method of fire scar sampling, is based on recovering historic evidence of fire in the 
+natural record, not a statistical design.  Therefore, targeting has no measure of accuracy 
+or precision and was said to lead to overestimates of fire frequency.  Other criticisms 
+focus on the interpretation of fire interval distributions, unscarred trees adjacent to 
+scarred trees, and the unscarred portion of trees before the first fire scar.   
+These uncertainties and criticisms are detailed in Chapter 2 along with a review of 
+the literature relevant to the fire history of ponderosa pine forests in the Southwest and 
+how fire regimes are studied.  Chapter 3 addresses the issues of fire scar sampling and 
+interpretation raised in Chapter 2 by collecting and mapping the entire population of trees 
+scarred before Euro-American settlement in a representative case study area.  Targeted, 
+random, area-based and grid-based sub-samples of the population are then compared to 
+
+ 
+2
+the census to determine how well the sample mean fire intervals (MFIs) represented the 
+population MFI.  We also investigated the usefulness of several techniques developed to 
+compensate for the uncertainties: fire intervals from individual trees, the interval between 
+the tree origin and the first scar, and filtering, a technique used to classify the large fires.   
+Chapter 4 outlines the management implications of this thesis, including social 
+and ecological considerations.  
+
+ 
+3
+CHAPTER 2 
+Literature review 
+ 
+Fire Regimes  
+Ponderosa pine (Pinus ponderosa Dougl. ex Laws.) forests of the southwestern 
+United States are known to have burned predominantly in a surface fire regime, 
+characterized by frequent, low-intensity fires (Covington & Moore 1994; Pyne et al. 1996; 
+Moore et al. 1999).  Fire history studies from a range of elevations in the southwestern 
+ponderosa pine reported fire return intervals from 2-17 years (Swetnam & Baisan 1996).  
+Historical documents, photographs and other ecological studies support the theory that 
+the fire regime in the ponderosa pine forests helped to maintain a relatively open forest 
+structure with large trees and a diverse and productive understory (Weaver 1951; Cooper 
+1960; Moore et al. 1999).   
+In the last century, a combination of events led to a radical change in the fire 
+regime and consequently an increase in tree density and fuels (Covington & Moore 1994; 
+Fulé et al. 1997).  Overgrazing of domestic livestock during Euro-American settlement in 
+the late 1800’s and fire suppression throughout the 1900’s are often identified as the 
+causes of this change (Cooper 1960; Dieterich 1980; Madany & West 1983), but 
+researchers caution against this simple assumption as climate change is also a powerful 
+force that can cause similar changes (Allen et al. 2002; Swetnam & Baisan 2003).  Millar 
+and Woolfenden (1999) highlight the challenges of interpreting ecological changes 
+because climate is a possible confounding factor.  However, in the southwestern United 
+States, researchers have concluded that grazing and fire suppression are primarily 
+
+ 
+4
+responsible for the shift from a frequent, low-intensity fire regime to one with infrequent, 
+high-intensity fires (Swetnam et al. 1999).  
+Understanding the historical fire regime is critical for those managers who want to 
+restore an ecosystem or model management prescriptions and desired outcomes after 
+natural processes and conditions (Fulé et al. 1997).  This brings up the question of how to 
+define “natural.”  Since there is a suite of conditions that could be considered natural, the 
+terms “reference conditions” and “range of natural variability” are often used to describe 
+what is natural (Fulé et al. 1997; Moore et al. 1999).  This description often includes the 
+structure, composition and function of an ecosystem and must be defined for a specific 
+region and a period of time (Stephenson 1999).  In the southwestern United States, 
+reference conditions are typically determined for the time prior to Euro-American 
+settlement (Fulé et al. 1997; Moore et al. 1999; Allen et al. 2002). 
+Ponderosa pine is one of many species known to sustain scars from fire while 
+remaining alive (Weaver 1951).  A fire scar appears within the annual growth ring in 
+which it occurred, so by using crossdating techniques an accurate date of the fire event 
+can be determined from the scar (Stokes & Smiley 1968; Arno & Sneck 1977; Dieterich 
+1980; Madany & West 1983).  Taken in combination with other fire scars on the tree, one 
+can compute a mean fire interval (MFI), a point-based estimate of fire frequency (Agee 
+1993).   
+ 
+Uncertainty 
+Fire scars provide a valuable and precise way to study fire history, but 
+uncertainties are inherent when using fire scars to estimate fire frequency and spatial 
+
+ 
+5
+patterning of fires for three main reasons: 1) fire scars are not necessarily recorded 
+consistently on individual scarred trees so they are an incomplete point source of data 
+(Dieterich & Swetnam 1984), 2) more recent fire events may have consumed remnant fire 
+records, and 3) error is introduced by the process of sampling the population of fire scars 
+(Fall 1998).  These uncertainties frame a discussion over the correct application of MFIs, 
+how to interpret unscarred trees, and the sampling methods used in fire history research, 
+including the possibility of correcting for any bias introduced in sampling.  Few 
+researchers have attempted to quantify the extent of uncertainty in fire scar studies, yet 
+most acknowledge that the problem exists (Fall 1998).  Baker and Ehle (2001) suggested 
+“bracketing” MFIs with correction factors to compensate for the perceived uncertainties.  
+They assessed 18 studies in ponderosa pine forests that reported MFI values of 5-21 years.  
+When their bracketing methods were applied, they calculated the MFI to be 22-308 years.  
+In contrast, Fall (1998) argued that current methods are biased in the opposite direction, 
+towards under-representing fire occurrence because many unscarred trees may have 
+actually burned but failed to scar.  It is likely that uncertainties in fire-scar formation and 
+their preservation through time have resulted in both of these views being appropriate in 
+different areas at different times. 
+ 
+Interpretation of fire interval distributions 
+Dieterich and Swetnam (1984) studied a single tree with 42 fire scars in which 
+none of the four cross-sections from the tree, taken individually, recorded all 42 scars.  
+To calculate fire frequency based on a single cross-section from a single tree would 
+underestimate the true fire frequency of the whole stand because of unrecorded fire 
+
+ 
+6
+events and loss of fire scars from decay, breakage, and subsequent fire events.  Since tree 
+rings are imperfect recorders of fire, Dieterich (1980) compiled fire dates from many 
+trees in an area to produce a master fire chronology and a composite MFI more 
+representative of the entire study area than a single tree.   
+A composite, or whole site, MFI typically results in a much shorter interval 
+compared to that of an individual tree, or point fire interval.  While Baker and Ehle (2001) 
+suggested that the composite MFI overestimates fire occurrence and is not area-explicit, 
+the point MFI is likely to underestimate fire occurrence because of unrecorded fires.  A 
+composite is most useful when applied to homogeneous areas (Dieterich 1980) because 
+different burning patterns occur on different landscape features (Arno & Petersen 1983).  
+More fires are encountered as the study area increases in size (Kilgore & Taylor 1979; 
+Falk & Swetnam 2002), so temporal and spatial heterogeneity of fires are difficult factors 
+to capture with one estimate of fire frequency (Lertzman et al. 1998).  Some approaches 
+to resolving this problem include filtering the composite to exclude the fires that occur on 
+fewer than a determined percentage of trees (Grissino-Mayer 1995), or using the median 
+fire interval which is less affected by the skewed distribution of intervals than the mean 
+(Taylor & Skinner 1998).  A different method, called the annual fire frame, attempts to 
+capture the spatial variability by expanding a “frame” over the study area until the MFI 
+reaches the maximum of one fire per year (Swetnam & Baisan 2003; Falk 2004).   
+Another potential source of uncertainty is the period of time between tree 
+germination and the first fire scar, called the origin-to-scar (OS) interval (Baker 1989).  It 
+was argued that for a ponderosa pine tree to survive, it must have experienced a fire-free 
+interval of at least 50 years and therefore this fire-free interval must be included in the 
+
+ 
+7
+population MFI (Baker and Ehle 2001).  Alternatively, Stephens et al. (2003) asserted 
+that it is impossible to know the true fire-free interval since many trees survive fires 
+without scarring.  Most trees are much older than 50 years when they scar for the first 
+time, and many are younger.  Another argument in opposition to the OS interval when 
+calculating MFI is one of the basic sources of uncertainty mentioned earlier, that fire 
+scars may be burned away by subsequent fires, so the true OS interval cannot be 
+quantified (Stephens et al. 2003).   
+ 
+Interpretation of Unscarred Trees 
+A crossdated fire scar indicates the presence of a fire in a specific year.  A nearby 
+fire scar in the same year may lead the observer to infer that the area between the trees 
+also burned if the fuels, topography and absence of natural fuelbreaks are consistent with 
+this inference.  A different interpretation is that only a small patch, ignited by lightning, 
+burned around the base of each tree (Minnich et al. 2000).  In the case of small patches of 
+discontinuous fire, Minnich et al. (2000) argued that a composite MFI based on the fire 
+scars would overestimate the actual fire frequency since it does not account for the 
+unburned area.  Other studies that use composites (Dieterich 1980) use the definition of 
+MFI to explain that every unit of ground is not necessarily burned at that average interval 
+(Romme 1980; Swetnam & Baisan 2003).  Because trees are imperfect recorders of fire, 
+the absence of a fire scar does not necessarily indicate the absence of a fire, so it is 
+impossible to know how much area was left unburned in each fire year in a densely fire-
+scarred area.  This type of uncertainty can never be completely resolved, but some 
+authors have reported mean and median fire intervals at several spatial scales with 
+
+ 
+8
+different filters to show the variability in patterns of fire (Swetnam & Baisan 1996; 
+Stephens et al. 2003).   
+ 
+Sampling 
+A standard approach to sampling fire scars is to systematically search an area for 
+trees showing multiple scars and long records of fire to compile a complete inventory of 
+fire years in that area (Arno & Sneck 1977; Agee 1993; Swetnam & Baisan 1996; 
+Swetnam & Baisan 2003).  This method, called “targeting,” has been criticized as 
+undesirable and statistically invalid because it is not a random sample from a well-
+defined population (Johnson & Gutsell 1994).  Because it is partially subjective and there 
+is currently no statistical validation for targeting, it is said to lead to estimates of fire 
+frequency where neither the accuracy nor the precision are known (Johnson & Gutsell 
+1994).  Swetnam and Baisan (1996) argued that random sampling would not result in a 
+complete or unbiased record of fire in frequent surface fire regimes unless very large 
+numbers of trees were sampled.  They supported the targeting method based on the 
+argument that trees are a natural archive of historical data and not consistently reliable 
+recorders of fire, so they should not be treated “as if they all belong to the same statistical 
+population”.  However, Swetnam and Baisan (2003) recognize that “statistical 
+descriptions and tests of fire interval distributions are inherently limited in objectivity, 
+resolution and reliability”, and should be complemented with other historical description 
+of fire occurrence and forest conditions.   
+A different approach to estimating fire frequency is by area-based measurements, 
+one of which is the natural fire rotation (Heinselman 1973).  This method calculates the 
+
+ 
+9
+time it takes for an area of interest to burn completely (Romme 1980), and is equivalent 
+to fire cycle and fire return period (Li 2002).  Based on time-since-fire maps and such 
+parameters as stand age and species composition, this measure of fire frequency is most 
+appropriately applied to high-severity fire regimes (Agee 1993).  The low-intensity, 
+surface fires in the southwestern ponderosa pine forests maintain uneven-aged stands and 
+do not generally result in new stand initiation, so the stand characteristics necessary to 
+make area-based estimates for the pre-documentary period do not exist (Dieterich 1980; 
+Brown & Sieg 1996). 
+Johnson and Gutsell (1994) assert that time-since-fire maps are the only 
+statistically valid method of reconstructing fire events and calculating fire frequency 
+since they can account for spatial and temporal variability.  Baker and Ehle (2001) 
+showed the identity of the fire interval and the fire rotation.  However, applying the fire 
+rotation methods to fire intervals assumes that the fire-scarred trees constitute the entire 
+area burned in a given year (Minnich et al. 2000).  Instead, targeting is a method used in 
+high frequency, low intensity surface fire regimes where time-since-fire maps cannot 
+easily be constructed (Brown & Sieg 1996).  The effects of other sampling strategies, 
+such as grid-based (Arno et al. 1995; Heyerdahl 1997) and random sampling, are also 
+unknown.  
+Given the variety of opinions about appropriate sampling methods and 
+interpretation of fire scar data, we propose that a thorough practical investigation is 
+needed of the uncertainties and criticisms detailed here.  In the following chapter, we do 
+so. 
+
+ 
+10
+CHAPTER 3 
+Comparing Methods of Reconstructing Fire History Using Fire Scars  
+in a Southwestern Ponderosa Pine Forest 
+ 
+Abstract 
+Fire scars have been used extensively to understand the historical role of fire in 
+ponderosa pine (Pinus ponderosa Dougl. ex Laws.) ecosystems.  However, the sampling 
+methods and interpretation of fire scar data have been criticized as statistically invalid, 
+biased, and leading to exaggerated estimates of fire frequency.  We tested alternative 
+sampling schemes by comparing “targeted” sampling, random sampling, and grid-based 
+sampling to a complete census of all 1,479 fire-scarred trees in a one square kilometer 
+study site in northern Arizona.  The effects of sample size and area sampled on fire 
+frequency estimates were also tested.  Given a sufficient sample size, we concluded that 
+all tested sampling methods result in reliable estimates of the true fire frequency, with 
+mean fire intervals very similar to the census.  We also investigated the usefulness of 
+three techniques developed to compensate for spatial uncertainties: 1) fire intervals from 
+individual trees, 2) the interval between the tree origin and the first scar, and 3) filtering, 
+a technique used to classify large fires.  The seasonality distributions of the census and 
+targeted sample were also compared.  Quantification of the differences in sampling 
+approaches cannot resolve all the limitations of fire scar methods, since scarred trees are 
+inherently point-sources of data.  But measurement of sampling uncertainty did reduce 
+the scope of uncertainty in interpretation of fire regime statistics. 
+ 
+
+ 
+11
+Introduction 
+Fire scars provide a valuable and precise way to reconstruct fire history, but 
+uncertainties are inherent when using fire scars to estimate fire frequency and spatial 
+patterning of fires for three main reasons: 1) fire scars are not necessarily recorded 
+consistently on individual scarred trees so they are an incomplete point source of data 
+(Dieterich & Swetnam 1984), 2) more recent fire events may have consumed remnant fire 
+records, and 3) error is introduced by the process of sampling the population of fire scars 
+(Fall 1998).  These uncertainties frame a discussion over the correct application of mean 
+fire intervals (MFI), how to interpret unscarred trees, and the sampling methods used in 
+fire history research, including the possibility of correcting for any bias introduced in 
+sampling.  Few researchers have attempted to quantify the extent of uncertainty in fire 
+scar studies, yet most acknowledge that the problem exists (Fall 1998).  Baker and Ehle 
+(2001) suggested “bracketing” MFIs with correction factors to compensate for the 
+perceived uncertainties.  They assessed 18 studies in ponderosa pine forests that reported 
+MFI values of 5-21 years.  When their bracketing methods were applied, Baker and Ehle 
+(2001) calculated the MFI to be 22-308 years.  In contrast, Fall (1998) argued that current 
+methods are biased in the opposite direction, towards under-representing fire occurrence 
+because many unscarred trees may have actually burned but failed to scar.  It is likely that 
+uncertainties in fire-scar formation and their preservation through time have resulted in 
+both of these views being appropriate in different areas at different times.  
+ 
+ 
+ 
+
+ 
+12
+Interpretation of fire interval distributions 
+To calculate fire frequency based on a single cross-section from a single tree 
+would probably underestimate the true fire frequency of the whole stand because of 
+unrecorded fire events and loss of fire scars from decay, breakage, and subsequent fire 
+events.  A composite (Dieterich 1980), or whole site, MFI typically results in a much 
+shorter interval compared to that of an individual tree, or point fire interval.  Composites 
+are used to capture the complete record of fire in an area and because temporal and 
+spatial heterogeneity of burning is impossible to capture from a single tree.  While Baker 
+and Ehle (2001) suggested that the composite MFI overestimates fire occurrence and is 
+not area-explicit, the point MFI is likely to underestimate fire occurrence because of 
+unrecorded fires.  One approach to resolving this problem is filtering the composite, or 
+including fire dates that occur on greater than a determined percentage of trees (Grissino-
+Mayer 1995).  Ten percent and 25% filtered composites have been used to represent the 
+fires that have a bigger influence on the study site, excluding small spot fires (Swetnam 
+& Baisan 1996; Baker & Ehle 2001). 
+Another potential source of uncertainty is the period of time between tree 
+germination and the first fire scar, called the origin-to-scar (OS) interval (Baker 1989).  It 
+was argued that for a ponderosa pine tree to survive, it must have experienced a fire-free 
+interval of at least 50 years and therefore this fire-free interval must be included in the 
+estimate of MFI (Baker & Ehle 2001).  Alternatively, Stephens et al. (2003) asserted that 
+it is impossible to know the true fire-free interval since many trees survive fires without 
+scarring.  Most trees are much older than 50 years when they scar for the first time and 
+many are younger.  Another argument in opposition to the OS interval when calculating 
+
+ 
+13
+MFI is one of the basic sources of uncertainty mentioned earlier, that fire scars may be 
+burned away by subsequent fires, so the true OS interval cannot be quantified (Stephens 
+et al. 2003).   
+ 
+Interpretation of Unscarred Trees 
+A crossdated fire scar indicates the presence of a fire in a specific year.  A nearby 
+fire scar in the same year may lead the observer to infer that the area connecting the trees 
+also burned if the fuels, topography and absence of natural fuelbreaks are consistent with 
+this inference.  A different interpretation is that only a small patch, ignited by lightning, 
+burned around the base of each tree (Minnich et al. 2000).  In the case of small patches of 
+discontinuous fire, Minnich et al. (2000) argued that a composite MFI based on the fire 
+scars would overestimate the actual fire frequency since it does not account for the 
+unburned area.  Other studies that use composites (Dieterich 1980; Swetnam and Baisan 
+2003) use the definition of MFI to explain that every unit of ground is not necessarily 
+burned at that average interval (Romme 1980).  Because trees are imperfect recorders of 
+fire, the absence of a fire scar does not necessarily indicate the absence of a fire, so it is 
+impossible to know how much area was left unburned in each fire year in a densely fire-
+scarred area.  This type of uncertainty can never be completely resolved, but some 
+authors have reported mean and median fire intervals at several spatial scales with 
+different filters to show the variability in patterns of fire (Swetnam & Baisan 1996; 
+Stephens et al. 2003).   
+ 
+ 
+
+ 
+14
+Sampling 
+A standard approach to sampling fire scars is to systematically search an area for 
+trees showing multiple scars and long records of fire to compile a complete inventory of 
+fire years in that area (Arno & Sneck 1977; McBride 1983; Agee 1993; Swetnam & 
+Baisan 1996; Swetnam & Baisan 2003).  This method, called “targeting”, has been 
+criticized as undesirable and statistically invalid because it is not a random sample from a 
+well-defined population (Johnson & Gutsell 1994).  Because it is partially subjective and 
+there is currently no statistical validation for targeting, it is said to lead to estimates of 
+fire frequency where neither the accuracy nor the precision are known (Johnson & 
+Gutsell 1994).  Swetnam and Baisan (1996) argued that random sampling would not 
+result in a complete or unbiased record of fire in frequent surface fire regimes unless very 
+large numbers of trees were sampled.  They supported the targeting method based on the 
+argument that trees are a natural archive of historical data and not consistently reliable 
+recorders of fire, so they should not be treated “as if they all belong to the same statistical 
+population”.  However, Swetnam and Baisan (2003) recognize that “statistical 
+descriptions and tests of fire interval distributions are inherently limited in objectivity, 
+resolution and reliability”, and should be complemented with other historical descriptions 
+of fire occurrence and forest conditions.   
+Johnson and Gutsell (1994) assert that time-since-fire maps and fire rotation (the 
+time required to burn over an area equal to the study area) are the only statistically valid 
+method of reconstructing fire events and calculating fire frequency since they can account 
+for spatial and temporal variability.  Baker and Ehle (2001) showed the identity of the fire 
+interval and the fire rotation.  However, applying the fire rotation methods to fire 
+
+ 
+15
+intervals assumes that the fire-scarred trees constitute the entire area burned in a given 
+year (Minnich et al. 2000).  Instead, targeting is a method used in high frequency, low 
+intensity surface fire regimes where time-since-fire maps cannot easily be constructed 
+(Brown & Sieg 1996).  The effects of other sampling strategies, such as grid-based (Arno 
+et al. 1995; Heyerdahl 1997) and random sampling, are also unknown.   
+The critical discussion of fire scar data led us to design a study in which we 
+sampled and mapped an entire population of ponderosa pine trees scarred before Euro-
+American settlement.  In this study we ask the following questions: 
+1) Are targeting and other methods of sampling (random, grid-based) accurate? 
+2) How do sample size, area sampled and filtering affect MFI estimates? 
+3) Should OS intervals, “bracketed” intervals and point MFIs be included in fire 
+history? 
+4) Previous fire ecology studies in this region concluded that surface fires were 
+frequent and led to recommendations for thinning and burning for forest 
+restoration.  Are our results consistent with these interpretations? 
+ 
+Methods 
+Study site   
+This study was conducted on 100 ha in Northern Arizona University’s Centennial 
+Forest approximately 20 km southwest of Flagstaff, Arizona; latitude 35°05’N, longitude 
+111°50’W.  Figure 1 shows this study site in relation to other nearby fire history studies 
+(Dieterich 1980; Davis 1987; Swetnam et al. 1990; Heinlein 1996; Fulé et al. 1997).  This 
+is a case study, but because of the comparable landscape features, stand conditions and 
+
+ 
+16
+land use history, these results may be applicable to much of the southwestern ponderosa 
+pine forest type.  Located north of the Mogollon Rim at 2,200 m elevation, this site was 
+selected for its relatively low variation in vegetation and topography, and the lack of 
+natural barriers to fire spread.  Ponderosa pine is the dominant species with Gambel oak 
+(Quercus gambelii Nutt.) in low abundance in the understory.  Basal areas at this site 
+were very similar to those across the extent of the northern Arizona ponderosa pine (Bell 
+unpublished data; FIA 2004), ranging from zero to 45.9 m2/ha, averaging 19.1 m2/ha.  
+Slopes range from 0 to 10%.   
+The average annual precipitation in Flagstaff is approximately 54 cm (1950-2004) 
+with most of the precipitation falling in late winter and late summer (Western Regional 
+Climate Center 2004).  The soils are predominately sandy loams and loams (Abella 2005) 
+with basalt cinders and limestone parent material (Miller et al. 1995).   
+Timber extraction began in the site and surrounding areas during railroad 
+construction in the 1880’s, and at about the same time overgrazing led to widespread 
+exclusion of fire (Dieterich 1980; Fulé et al. 1997).  Sporadic logging activities and fire 
+suppression continued throughout the 20th century.  The most recent activity in the site 
+was timber harvesting and burning piles of logging slash in the 1980’s and 1990’s.   
+ 
+Field methods 
+The boundaries of the study area were marked.  To test the effect of different 
+sampling methods, the targeted sample was collected first.  We systematically walked 
+through the site examining each fire-scarred tree we encountered for number of visible 
+scars and soundness.  Forty trees with multiple scars and long records of fire distributed 
+
+ 
+17
+spatially throughout the sampling unit were selected to comprise the targeted sample.  
+These specimens were identified for the targeted sample in the field and preferentially 
+chosen over other fire-scarred trees.  After completing the targeted sample collection, a 5 
+by 5 cell grid overlaid on the 100 ha study site was flagged to delineate boundaries for 
+organized collection and analysis of the census.  The grid consisted of 25 4-ha cells.  The 
+entire population of trees with visible fire-scar evidence comprised the census.  Cross-
+sections from all remaining fire-scarred trees were collected (those not collected in the 
+targeted sample) in the census using the same procedures as the targeted sample.  Several 
+specimens were too deteriorated to collect, so the catface was documented and mapped.   
+We recognized that buried scars may have existed on the site, but we did not 
+deliberately sample for them.  The stands within the site were primarily second-growth 
+with old cut stumps remaining.  All the stumps were examined for evidence of fire-
+scarring including buried scars, but trees with no visible evidence of fire-scarring were 
+not sampled.  The likelihood of missing a buried scar was low since a fire-scarred tree 
+would probably not be able to heal over considering the high frequency of fire.  Judging 
+from the high number of fire dates encountered on the site, any buried scars that may 
+have occurred would probably not yield any new fire dates.  However, some point 
+locations of established fire dates may have been excluded because we did not sample for 
+buried scars.  
+Scarred trees included living trees, snags, logs, and stumps.  Full cross-sections 
+from stumps and logs, and partial cross-sections from live and standing dead trees were 
+collected, a standard technique that can be done without killing live trees (Arno & Sneck 
+1977; Heyerdahl & McKay 2001).  A 5-cm thick cross-section was extracted from the 
+
+ 
+18
+region of the tree that appeared to have the most complete fire record using a chainsaw.  
+In cases where multiple sides or heights on the catface appeared to have recorded 
+different fires, multiple cross-sections from that tree were extracted.  In a preliminary 
+assessment of the study site, we noticed that all the older (>100 yrs) fire-scarred trees had 
+been harvested, but fire scars were still evident on many stumps of these trees.  Thus, no 
+living old growth trees were sampled.  The only living trees with fire scars were young 
+trees clustered around burned slash piles and appeared to be scarred within the last 25 
+years.  Since we were primarily interested in the fire regime before Euro-American 
+settlement, we only collected samples from about 70% of these trees to verify that the fire 
+date was outside our time frame of analysis.  However all these trees were measured and 
+mapped in the field.  
+Each fire-scarred tree was documented by recording the diameter at stump height, 
+the number of cross-sections taken, the number of pieces per cross-section, the number of 
+visible scars on the specimen, the aspect of the catfaces, the height of the cross-sections 
+on the bole, and the UTM coordinates from a Garmin® global positioning system (GPS), 
+accurate to within 15 m.  The condition of the tree was also recorded: living, snag, stump 
+or log.   
+ 
+Laboratory methods 
+All specimens were mounted on plywood and surfaced using an electric belt 
+sander with increasingly fine sandpaper until the cells were clearly visible.  Initially a 
+ring-width chronology from Gus Pearson, Arizona (Graybill 1987) was used to crossdate 
+the targeted specimens.  The targeted specimens supplemented with 20 tree cores were 
+
+ 
+19
+then used to build a master ring-width chronology specific to the study site.  All 
+remaining specimens were crossdated with the site master ring-width chronology, 
+according to standard procedures (Stokes & Smiley 1968).  All specimens were visually 
+crossdated when possible.  COFECHA software (Holmes 1983) was used to assist with 
+dating difficult specimens.  The rings on the difficult specimens were measured with an 
+Acu-Rite glass scale and encoder with 2 µm precision and Measure J2X software. The 
+COFECHA outputs were checked carefully against the cross-sections to verify the dating.  
+Many specimens remained undated even after COFECHA was employed.  If a specimen 
+had an injury that could not be unquestionably identified as a fire scar, we did not include 
+the date of that injury.  If a fire scar could not be dated to an exact year, we did not 
+include the estimated year.  Specimens that contained no fire scars, or had fire scars 
+where the exact year could not be determined, were not crossdated.  
+  The season of fire occurrence was identified using the following categories 
+based on the relative position of the fire scar within the annual ring: early earlywood (EE), 
+middle earlywood (ME), late earlywood (LE), latewood (L), dormant (D), and 
+undetermined (U) (Baisan & Swetnam 1990).  Radial growth generally occurs between 
+May and September in northern Arizona ponderosa pine (Pearson 1924; Gaylord 2004), 
+representing the range of fire-scar seasonality categories from EE to L.  Dormant season 
+scars were dated to the year following the scar, indicating an early season fire before 
+radial growth commenced, because fall fires are rare in this region (Baisan & Swetnam 
+1990).  All the targeted specimens and 40% of the entire collection was checked by other 
+dendrochronologists to independently verify the dates of the wood specimen, the fire 
+dates and seasons of the fire events.  Any unresolved discrepancies were considered 
+
+ 
+20
+undateable.  We also identified the years in which each tree with dateable fire scars was 
+recording.  A tree is considered “recording” after the initial injury when it is susceptible 
+to be rescarred by subsequent fires, excluding any years in which decay or other fires 
+may have destroyed a fire scar (Grissino-Mayer 1995). 
+ 
+Data analysis 
+The data were analyzed in groups based on targeting, random selection or location.  
+Each individual fire-scarred tree will be called a specimen (even if more than one cross-
+section was collected from that tree) and each group of specimens analyzed will be a 
+sample.  FHX2 software (Grissino-Mayer 1995) was used to analyze combinations of fire 
+history data from specimens.  Since FHX2 analysis is limited to 255 specimens, the 
+composite fire chronology for each sample that exceeded this limitation was run in FHX2.   
+The 200 year period from 1682 to1881 was used in all analyses for consistency 
+unless otherwise stated.  The minimum number of trees recording in this period was 39 
+trees in 1881.  This is a sufficient number of trees with which to conduct this analysis 
+(Falk and Swetnam 2003).  The year 1881 is the last year of analysis because it was the 
+last fire year in the study area before grazing and fire suppression interrupted the natural 
+fire regime.  Prior to the late 1600’s, the results would be confounded by the lack of fire 
+scar data.  The year 1682 was chosen to make an even 200 year period of analysis.  
+Although it is somewhat arbitrary, 1682 is a reasonable date to begin the analysis. 
+For each sample, the MFI for all scars (no filter) and for 10%- and 25%-scarred 
+filters was computed in FHX2 (Dieterich 1980; Swetnam & Baisan 1996).  Filters only 
+include those fire years that are recorded by the determined minimum percentage of 
+
+ 
+21
+recording trees, and can be used to infer fire size; no filter includes fires of all sizes 
+whereas a 25% filter only includes the larger fires.  There are many relevant descriptive 
+statistics for fire interval distributions, but the MFI is reported for all the samples as a 
+basis for comparison (Baker & Ehle 2001).  These samples are subsets of the census data, 
+so the same specimens may be included in multiple samples.  Because of lack of 
+independence and spatial autocorrelation, we are not testing for statistically significant 
+differences of the means.  Instead, graphical and tabular representations of the means are 
+used to show the effect of sampling methods.  Ranges and standard deviations (SD) of 
+fire intervals are also discussed.  
+A geographic information system (GIS) was used to map the locations of the 
+samples by the UTM coordinates recorded in the field to assist with the spatial 
+interpretations.  The original UTM coordinates were used except where the trees falsely 
+appeared to be out of the study area due to the GPS error.  UTM coordinates of these 
+trees were moved to the site boundary nearest to the original location.   
+ 
+Sampling method 
+The analyses outlined above were applied to the census and the following samples.  
+1) Census.  The census provided a baseline to test the effect of all other sampling 
+methods.  The census fire history was assembled using all scars and represented the 
+most complete possible fire-scar-based fire history of the site.   
+2) Targeted sample.  The targeted sample was analogous to other fire history studies in 
+the region and was conducted to test the effect of this standard method of sampling in 
+
+ 
+22
+ponderosa pine forests.  The targeted sample consisted of 40 specimens with multiple 
+scars and long records of fire.   
+3) Sample size (random samples).  Random samples were used to test the effect of 
+increasing sample size.  Eight sample sizes were tested: 10, 20, 30, 40, 50, 60, 70 and 
+80 specimens.  Within each random sample, all crossdated specimens with fires were 
+randomly sampled without replacement.  Sampling with replacement occurred at the 
+scale of the separate samples, but not within a single sample.  For each sample size, 
+the MFIs for ten random samples were averaged.  These samples were also used to 
+compare random sampling against the census data.   
+4) Area sampled.  The study area was spatially subdivided into 25 grid cells of equal 
+size.  This analysis considered 6 areas of different sizes to test the effect of increasing 
+the size of the study area on MFI.  The areas tested were 4 ha (1 cell), 8 ha (2 cells), 
+16 ha (4 cells), 32 ha (8 cells), 64 ha (16 cells) and 100 ha (25 cells).  All dated fire 
+scars were included in this analysis.  The 100-ha sample is equivalent to the census.  
+The MFI for each area was calculated as an average of the MFIs for each combination 
+of that size.  That is, there are four combinations of 16 adjacent cells arranged in a 
+square.  Those four combinations were averaged to get the 16-cell MFI; however the 
+MFI for each of the four combinations is shown graphically.   
+5) Grid-based samples.  This analysis explored two alternative grid-based sampling 
+approaches (Arno et al. 1995), and can be thought of as systematic targeting 
+(Heyerdahl 1997; Fulé et al. 1997).  Grid 1 had a spacing of 141 m arranged 
+diagonally over the study area yielding 41 plots (see Figure 2a).  The spacing of these 
+plots was determined by the original 25 cell grid, locating one plot in the middle of 
+
+ 
+23
+each cell and one plot at the corner of 4 adjacent cells.  Each sample included 1-4 
+specimens with the highest number of observed scars in the field from within three 
+search radii, 20 m, 40 m and 60 m.  The samples consisted of different numbers of 
+specimens per plot to approximately mimic the size of the targeted sample (n=40).  
+There were two samples assessed within the 40 m radius, sample (a) with one 
+specimen per plot, and sample (b) with two specimens per plot.  Grid 2 is a 
+checkerboard with 100-1 ha blocks (see Figure 2b).  MFIs were calculated using the 
+specimen with the highest number of observed scars in the field from each of the 50 
+white cells, then the 50 black cells.  The number of observed scars in the field was 
+recorded at the time of specimen collection.  These samples were constructed using 
+the field data in a GIS.  
+ 
+Origin-to-first scar intervals and point MFIs 
+The analyses of the origin-to-first scar (OS) interval and the individual, or point, 
+MFI addressed the interpretation of fire intervals rather than sampling issues.  The point 
+MFIs were calculated for each specimen in the census then plotted in comparison to the 
+census composites with the three levels of filtering.  The OS interval distribution of all 
+154 specimens with piths was analyzed and the proportion of OS intervals less than 50 
+years reported (Baker & Ehle 2001).  The OS interval was also determined for the 47 
+specimens having piths within the 200 year period of analysis and OS intervals less than 
+the point MFI.  These 47 specimens were mapped and the dates of the OS intervals were 
+compared to the fire dates of their nearest recording neighbors to determine if the OS 
+interval was truly fire-free, based on adjacent trees.   
+
+ 
+24
+Season and direction of scarring  
+Seasonal distribution of fires from the census and targeted sample data was 
+plotted and a chi-square goodness of fit test was performed to determine if these 
+distributions differed.  
+Gutsell and Johnson (1996) stated that fire scars only form on the leeward side of 
+a tree because vortices of hot gasses accumulate there causing local cambial mortality.  
+To test this hypothesis, directions of all catfaces were plotted in a circular histogram and 
+the Rayleigh test (Zar 1984) was conducted to test for an angular concentration of 
+catfaces.   
+ 
+Results 
+Collection summary 
+A total of 1,479 fire-scarred trees were documented and mapped (Figure 3), of 
+which 1,246 (84%) were collected.  Of the 233 (16%) specimens that were not collected, 
+189 (13%) had a high level of decay preventing us from collecting a viable specimen.  
+The remaining 44 (3%) were not collected because they were young (<100 yrs) living 
+trees with one scar clustered with other living recently-scarred trees that we sampled.  
+The following percentages were computed based on the 1246 collected specimens.  We 
+were able to crossdate 777 (62%) specimens and identify their fire dates, 67 (5%) of 
+which were from live trees.  Of the 459 (37%) collected but not crossdated, 303 (24%) 
+contained no fire scars that could be dated to an exact year.  The remaining 156 (13%) 
+had clearly visible fire scars, but we failed to crossdate them because of decay, and short 
+or complacent ring series.  Ten (<1%) of the collected specimens are missing.  
+
+ 
+25
+During the period of analysis (1682-1881), the percentage of recording trees 
+varied between 16% and nearly 100% of the total sample depth (Figure 4).  The total 
+sample depth peaked between 1725 and 1750, whereas the number of recording trees 
+were greatest between 1800 and 1820.  Both sample depth and recording trees declined 
+sharply approaching the end of the period of analysis.  The fires that scarred more than 
+25% of the recording trees were clustered together in time.  Primarily large fires and few 
+small fires occurred between 1784 and 1813, with longer fire intervals occurring between 
+1784-1788 and 1788-1794.  Conversely, fires scarring fewer trees occurred almost 
+annually from 1831 to 1850, but few large fires were recorded during this period.  There 
+was also a notable lack of fires recorded between 1873 and 1881.   
+ 
+Sampling method 
+Composite MFIs of all the sampling methods were within 2.18 years of each other 
+and within 2.75 years of the census (Table 1).   
+Census and targeted sample.  The census with no filter represented the maximum 
+possible number of fire dates, so the census MFI was the shortest computed in this study.  
+The targeted sample was slightly longer than the census with no filter and a 10% filter, 
+but slightly shorter than the census with a 25% filter.  The targeted sample captured the 
+one specimen with the most scars in the whole study, and included many more highly-
+scarred specimens than the other samples.  The SD of the census with no filter was 0.7 
+years with fire intervals ranging from 1 to 4 years.  The targeted sample SD was 1.1 years 
+with fire intervals from 1 to 6 years.  
+
+ 
+26
+Sample size (random samples) and area sampled.  Mean MFI decreased towards 
+an asymptote as the sample size increased for no filter and a 10% filter, while the mean 
+MFI filtered at 25% remained fairly constant (Figure 5a).  The variability within each set 
+of 10 runs of each unique combination of sample size and filter level increased as the 
+filter level increased.  These trends were similar for area sampled (Figure 5b).  The 25% 
+filtered means of MFI were very similar between small and large areas sampled.  The 
+MFIs decreased as area sampled increased for the less restrictive filters.  Within the 
+different samples of the same-sized area, variability was highest in the 25% filter MFIs 
+and lower for the less restrictive filters.   
+As the sample size increased, the variability of fire intervals within a single 
+sample decreased.  SD of fire intervals in the random data sets of at least 40 specimens 
+with no filter ranged from 1.1 to 1.87 years.  The maximum fire intervals in the same data 
+sets ranged from 7 to 12 years.  The minimum fire interval for these data sets was one 
+year.  Variability of SD and ranges of fire intervals increased with more restrictive filters.   
+Grid-based samples.  In the samples based on Grid 1, the longest MFIs resulted 
+from the 20 m and 40 m search radii where the sample size was about 30.  The other two 
+samples, one with a larger search radii and both with bigger sample sizes, resulted in 
+shorter MFIs.  The MFIs from the black and white cells in Grid 2 were very similar 
+(Table 1).  
+ 
+Point and origin-to-first scar intervals 
+The census composite MFIs with filters varied between 1.66 and 6 years.  The 
+variability of point MFIs was much greater, with a mean of 12 years and range from 2 to 
+
+ 
+27
+133 years (Figure 6).  The targeted point MFI was 1.2 times shorter than the point MFI 
+from the census data.  
+The average OS interval was 101.5 years.  The distribution of OS intervals 
+increased until the 61-80 interval class, then declined (Figure 7).  There were 36% of all 
+the specimens with pith that scarred before age 70; 19.5% of these specimens scarred 
+before age 50.  The distance from a tree with an OS interval to its nearest neighbor 
+scarred within the tree’s OS interval ranged from 1 to 72 m, averaging 25 m.  Of the fire-
+scarred neighbors, 87% were the closest recording neighbor to the tree in question.  Many 
+trees that scarred later in their lives remained unscarred during the most extensive fire 
+years, including 1737 and 1794 (Figure 8). 
+ 
+Season and direction of scarring 
+Most fires burned in the early part of the growing season (Figure 9).  Although the 
+patterns of seasonality were similar between the targeted sample and the census, there 
+was a statistically significant difference (chi-square goodness of fit test, p<0.05) between 
+these distributions. 
+Catfaces formed in all directions; however the distribution was unimodal and 
+weighted towards the North and East (Figure 10).  The Rayleigh test confirmed that there 
+was an angular concentration (p<0.001). 
+ 
+Discussion 
+ Are targeting and other methods of sampling (random, grid-based) accurate? 
+
+ 
+28
+We needed to establish criteria in the absence of statistical testing in order to 
+assess how well the sample MFIs represented the census MFI.  We chose three different 
+levels at which to determine similarity.  The most restrictive criterion was a 95% 
+confidence interval (C.I.) of the census MFI.  Since the range of fire intervals was only 1 
+to 4 years in the census, the 95% C.I. is very small, 0.13 years, so the threshold for 
+similarity is 1.79 years.  None of the samples fell within this C.I., and one could conclude 
+that none of the samples reliably represent the true fire history.  A threshold at the other 
+extreme would include MFIs less than 25 years, the maximum interval considered to 
+represent a frequent fire regime (Pyne et al. 1996).  This assessment would lead to the 
+conclusion that all methods of sampling, including the point estimate, are adequate 
+representations of the fire frequency.  An intermediate approach to the question of 
+reliability is to assume that all MFIs within one year of the census MFI are similar 
+enough to represent the true fire frequency.  One year is a reasonable threshold for 
+ecological and management considerations as well.  The threshold for samples is then 
+2.66 years.  Samples with similar MFIs to the census include the targeted sample, random 
+samples of at least 50 specimens, areas of at least 16 ha, and grid-based samples with at 
+least 35 specimens.  We will use the intermediate criterion to conclude that all sampling 
+methods tested in this study, given a sufficient sample size, will result in a reliable 
+estimate of the true fire frequency. 
+ 
+How do sample size, area sampled and filtering affect MFI estimates? 
+We have shown through our random samples of increasing size, and others have 
+shown with fire scar accumulation curves (Falk & Swetnam 2002; Stephens et al. 2003) 
+
+ 
+29
+that there is a mathematical threshold at which little new information is gained with 
+additional specimens.  This threshold was approximately 50 randomly sampled 
+specimens in this study.  However, a similar MFI resulted from a smaller sample of 
+targeted and grid-based specimens because we selected the specimens with the most fire 
+dates in these samples.  Swetnam and Baisan (1996) were correct that a larger sample 
+size is needed to accumulate the same fire history data in a frequent surface fire regime 
+when using random sampling than when using targeted sampling.   
+Sample size and area sampled are linked.  The sample sizes in the 4- and 8-ha 
+areas fell below the 50 specimen threshold, so the longer MFIs in these samples, 3.49 and 
+2.79 years, respectively, may be a product of the small sample size, not necessarily a 
+factor of area sampled.  The same relationship was present in the 20 m and 40 m samples, 
+n = 29 and 31, respectively, based on Grid 1.  Even though there appeared to be an 
+inverse relationship between search radius and MFI, these instances of longer MFIs, 3.52 
+and 3.13 years, respectively, seem to be a function of sample size, not necessarily search 
+radius.   
+The MFIs with a 25% filter were remarkably consistent as sample size or area 
+sampled increased.  This means that the large fires were captured with fewer specimens 
+in a smaller area, but smaller fires continued to be discovered with more samples over a 
+larger area.  Some researchers were concerned that fire scar methods were weighted 
+towards small fires (Minnich et al. 2000; Baker & Ehle 2001), but filtering proved to be 
+an effective technique, finding stability across spatial scales at the 25% level.  Filtering at 
+other levels accounts for greater spatial variability.  At the fine scale, fires burned every 1 
+to 2 years.  A slightly coarser scale (10% filter) showed that widespread fires burned 
+
+ 
+30
+about every 3 years, and a very coarse scale (25% filter) showed that large fires averaged 
+every 6 years.  One level of filtering can be useful for some applications, but filtering is 
+most effective at detecting spatial differences in fires when more than one level is applied. 
+Filtering MFIs is just one way to account for variability.   
+Ranges and standard deviations of MFIs are also important to consider in terms of 
+the spatial patterns of fire and the ecological significance of variability that occurs within 
+a site.  The range (1 to 12 years) and SD (1.1 to 1.87 years) of fire intervals in random 
+data sets of at least 40 specimens indicates that a single point on the landscape probably 
+burns at a different frequency than the composite MFI (2.28 to 2.82 years).  Ecologically, 
+this mosaic of fire frequencies allows for shifting patterns of understory vegetation and 
+tree regeneration. 
+ 
+Should OS intervals, “bracketed” intervals, and point MFIs be included in fire history? 
+Two arguments were made in the literature that attempted to explain why most 
+trees are older than 50 when they scar for the first time: 1) fires killed the young trees 
+instead of scarring them, leaving no lasting evidence of the fire’s presence, and 2) fire 
+was absent around the seedling during its establishment (Baker 1989; Gutsell & Johnson 
+1996; Keeley & Stephenson 2000; Baker & Ehle 2001).  While these are both logical 
+explanations, a third possible conclusion missing from this list is that fire was present, but 
+failed to leave a scar.  The maps of widespread fire years (Figure 8) show that it is highly 
+likely that most trees experienced more than one fire without scarring, especially since 
+some scarred trees are only 1 m away from a tree during its unscarred OS interval.  The 
+distribution of OS intervals in this study (Figure 7) was similar to Baker and Ehle’s (2001) 
+
+ 
+31
+Figure 3 for ponderosa pine, except all measures of central tendency were approximately 
+20 years longer in this study.   
+It has been noted that in frequent fire regimes where post-fire regeneration does 
+not typically occur in even-aged cohorts, the pith of a tree is not a surrogate for fire 
+occurrence, so assuming that the OS interval is the same as a fire interval is incorrect 
+(Baker 1989).  The same argument can be made for the first scar.  Thus far, it has been 
+assumed that hot, passing fires are the only cause of initial scarring, but this discussion 
+would be lacking without investigating other possible causes of initial scarring.  In the 
+Southwest, where lightning strike densities are some of the highest in the country, many 
+trees become susceptible to fire scarring after a lightning strike wound.  Deep fuelbeds 
+with large branches that accumulate and ignite and smolder at the base of older trees are 
+another likely cause of initial scarring.  Other agents of scarring include humans, other 
+animals, physical processes and disease (Agee 1993).  Like the pith, the first scar may not 
+be a good indicator of a typical fire, or fire at all, leading to greater uncertainty about the 
+true meaning of the OS interval.  Further uncertainty and overestimation of the OS 
+interval is likely when considering the possibility of the first scar being burned away, 
+broken or decayed over time.   
+The point MFI may be useful metric of the maximum fire interval at the scale of 
+individual trees (Baker & Ehle 2001).  Even though individual trees did not necessarily 
+scar with every fire, as shown by Dieterich and Swetnam (1984) comparing both sides of 
+the same catface, they still recorded fires on average every 12 years in this study.  This is 
+longer than all the composite MFIs regardless of sampling method, yet still indicative of 
+a frequent fire regime (<25 years).  While the OS interval and other bracketing 
+
+ 
+32
+techniques are derived somewhat arbitrarily, the point MFI is an exact interval between 
+two recorded fires and may be a useful measure for some purposes.  Unlike a composite 
+of fire years, the point MFI is strongly affected by the quality (number of fires) per 
+specimen.  Targeted sampling yields higher quality samples which may overestimate the 
+point MFI and would not be appropriate for quantifying the maximum fire interval.  In 
+this study, the targeted point MFI was overestimated by a factor of 1.2 (<2 years).  
+Although this was a small difference, if the point MFI is used to represent the maximum 
+fire interval in other studies, a random sample of fire-scarred remnants should be used to 
+quantify this interval.  We caution against applying this factor as a bracketing factor to all 
+fire scar studies. 
+Bracketing includes such useful techniques as filtering and point fire intervals 
+which we have already discussed.  It also includes the OS interval, an erroneous estimate 
+of fire intervals, such as stated by Baker and Ehle (2001) “Targeting likely decreases the 
+mean composite FI by a factor of two to three times,” which we have shown to be untrue.  
+Baker and Ehle’s (2001) bracketed estimate, 22-308 years, implies that ponderosa pine 
+forests can persist over generations with MFIs that characterize stand-replacing fire 
+regimes.  We have seen in recent years that even a fire interval of ~100 years in 
+ponderosa pine can lead to type conversion (Friederici 2003; Savage & Mast in press).  It 
+is important to recognize that occasional torching of trees led to local patches of mortality, 
+but the purpose of an estimated MFI is to describe the dominant trends in fire frequency.  
+Considering many frequency estimates from filtered and unfiltered composites, and 
+individual trees, gives enough evidence as to the nature of the fire regime to negate the 
+need for any further bracketing. 
+
+ 
+33
+ 
+How does this study relate to other fire history studies in the region and the 
+management of these forests?  
+The previously published fire history studies from the region of our study site also 
+reported high fire frequency before Euro-American settlement.  Dieterich (1980) reported 
+MFIs of 2.4 years at Chimney Springs and 1.8 years Limestone Flats; sites on the San 
+Francisco Peaks had an MFI of 5.2 years (Heinlein 1996); Fulé et al. (1997) reported a 
+3.7 year MFI for Camp Navajo (Figure 1). These studies also reported a similar end to the 
+frequent fire regime, from 1876 at Chimney Springs (Dieterich 1980) to 1883 at Camp 
+Navajo (Fulé et al. 1997).   
+The pattern of large synchronous fires, recorded on this site between 1784 and 
+1813, has been noted in different sites around the southwestern United States and Mexico, 
+and other regions of the world (Stephens et al. 2003).  This trend occurred in the mid-19th 
+century in Colorado, USA and Patagonia, Argentina (Veblen & Kitzberger 2002), and in 
+the early 19th century in Mexico (Stephens et al. 2003).  Attributed to shifting climatic 
+patterns, other indicators of this gap in the fire regime are decreasing fire frequencies, and 
+a shift in the season of burning (Swetnam & Baisan 2003).  Dieterich (1980) reported a 
+period of very frequent fires in his nearby Chimney Springs study between 1850 and 
+1865, similar to the pattern found in this study from 1831 to 1850.  It is unclear if the 
+varied frequency of large fires over time in this study is a function of multi-decadal 
+climate variability or other factors.   
+Through our findings, showing that targeted, grid-based, and even random 
+methods are robust and unbiased at this study site, we are confident in the results of 
+
+ 
+34
+previous studies and their recommendations for management.  Since this is a case study, 
+our results may not be entirely representative of other studies, especially because we 
+tested sampling methods within a single site.  Other patterns are likely to emerge if these 
+methods were tested across landscapes (Falk 2004; Grissino-Mayer et al. 2004).  
+However, even given perfect knowledge of the historic fire regime, it is unlikely that 
+managers would implement equally frequent, widespread fires because of other 
+constraints of budgets, risk of escaped fires and smoke impacts on nearby communities.   
+In recent years, wildfires in the Southwest have dramatically increased in size and 
+severity, resulting in undesirable ecological effects (Agee 1993; Kolb et al. 1994; 
+Swetnam et al. 1999) and increased costs of suppression and rehabilitation (National Fire 
+Plan 2004; GAO 2004).  Recent legislation has encouraged thinning to reduce the hazards 
+of the increased fuel loads as one way to mitigate the severity of these fires (Healthy 
+Forest Restoration Act 2003).  As the cost of wildfires continues to increase, policy 
+makers are eager for information to help guide management policy.  Since management 
+recommendations are based partially on historic forest conditions and fire frequencies, it 
+is important to have information collected in such a way that accurately represents the 
+true historic conditions.  
+One area for managers and researchers to explore is the pattern of unburned 
+patches within a fire boundary.  Although large strides are still necessary to attain the 
+means of reintroducing fire in some areas, replicating the spatial patterns of burning may 
+be a key to promoting natural variation within the ponderosa pine ecosystem.  Modern 
+calibration of fire regimes (Farris et al. 2003; Fulé et al. 2003), evolutionary ecology 
+(Moore et al. 1999) and historical documentation (Cooper 1960) support the 
+
+ 
+35
+understanding of the changes in the fire regime and forest structure that occurred in the 
+last century.  It is this understanding of the historical context that will lead to its judicious 
+application.   
+ 
+Season and direction of scarring 
+There was a statistically significant difference of the seasonal distributions of fire 
+scars between the census and targeted sample, but there would be no difference in the 
+application of either data set.  Both lead to the conclusion that early season fires 
+dominated the fire regime.  The statistical difference does, however, highlight the quality 
+of the targeted specimens since the season of fire scars was identified 5.6% more times in 
+the targeted sample than in the census.   
+The hypothesis that catfaces only form on the downwind side is not substantiated 
+by our data since scars formed in all directions.  The angular concentration of catfaces 
+corresponds to the downwind side of trees with respect to the prevailing winds out of the 
+southwest during fire season, as Gutsell and Johnson (1996) explained.  However, the 
+formation of catfaces in other directions leads to the conclusion that while vortices of hot 
+gasses on the lee side of trees are likely causes of many catfaces, other environmental and 
+causative factors must be considered in future research. 
+ 
+Conclusion 
+We acknowledge that while some of the research questions can be answered by 
+our data, others are issues of interpretation and are inherently unknowable.  The 
+uncertainty and related criticism that targeting and other sampling methods have an 
+
+ 
+36
+unknown effect on estimates of fire frequency have been resolved at this study site.  We 
+think that all methods of sampling outlined in this study are reliable given a sufficient 
+sample size, and that any 50 specimens would yield a fair estimate of the fire frequency.  
+Targeting is preferred because it requires the smallest sample size, yields the same results 
+as other sampling methods and is likely to result in longer reliable records of fire.  There 
+is no perfect interpretation of fire intervals, but a useful portrayal of the fire regime can 
+be gleaned by combining a number of the results reported in this study.  The minimum 
+MFI in this 100 ha study site is 1.66 years (census MFI), and the maximum estimate is 12 
+years (point MFI).  Relatively widespread fires occurred every 2.83 years (census MFI 
+with 10% filter) on average, and the largest fires had an average frequency of 6 years 
+(census MFI with 25% filter).   
+The other uncertainties, highlighting the imperfections of the fire scar record, will 
+never entirely be resolved.  An issue, central to Baker and Ehle’s (2001) argument 
+although not stated in this way, is simply the definition of a fire.  Is a fire the outer 
+perimeter of a burn, including both burned and unburned areas (Swetnam & Baisan 1996)?  
+Or is a fire only the surface area actually burned above some threshold of intensity?  
+Baker and Ehle (2001) insisted on the latter definition by claiming the identity between 
+fire interval and fire rotation and by arguing that the period of tree-origin-to-first-scar 
+must be a fire-free interval.  The fundamental problem is the interpretation of fire 
+occurrence between the fire-scarred trees.  All researchers agreed that fire scars are point 
+data, that fires include a range of burning intensities and unburned areas within their 
+perimeters, and that the absence of scarring is not necessarily equated with absence of 
+fire.  Swetnam and Baisan (1996) suggested that when 25% of more of the sample trees 
+
+ 
+37
+dispersed over a landscape with no natural fuelbreaks were scarred in a given year, it 
+could be assumed that one or more fires burned over much of the study site.  Minnich et 
+al. (2000) and Baker and Ehle (2001) essentially adopted the opposite perspective, 
+suggesting that burning could be clearly associated only with the scarred tree locations.  
+By assuming that previously unscarred trees would have been killed by a fire, Baker and 
+Ehle (2001) interpreted unscarred trees in the intervening spaces between scarred tree 
+locations as evidence of fire absence, contributing to their long (22-308 year) bracketing 
+of ponderosa pine fire intervals. 
+The census of fire-scarred trees in this study provides a fine-grained approach to 
+addressing interpretation of unscarred trees.  We have shown mapped evidence that many 
+trees remained unscarred through many fire events before incurring their first scar.  There 
+will always be unscarred trees within a fire boundary and areas between scarred trees 
+with no remaining evidence of fire.  We propose that the definition of a fire remains as 
+the area within the perimeter of a fire boundary, although it is understood that fires burn 
+in a mosaic of intensity and severity within their perimeters.  Compensating, or 
+bracketing, for this type of uncertainty using unreliable factors is unnecessary and 
+confuses the application of this data.   
+Some researchers rely solely on mathematical models to avoid subjectivity, but 
+Agee (1993) warned that “mathematical models, which usually have rigid assumptions 
+about the nature of the system, can be just another form of storytelling if they are not 
+carefully interpreted”.  The definition of a MFI is widely understood and infers some 
+variability in microsites that may have burned with varying frequencies due to subtle 
+differences in topography or vegetation (Romme 1980; Dieterich 1980).   
+
+ 
+38
+When recommending and implementing prescribed burn plans, scientists and 
+managers should be aware of the uncertainties inherent in fire scar data and base their 
+decisions on more than an estimated MFI.  Ecological, historical and photographic 
+records support evidence of a predominantly frequent fire regime in the Southwest.  
+Instead of quantitatively compensating for uncertainties, we should simply take care 
+when interpreting MFIs and be thorough in our investigations of reference conditions.   
+
+ 
+39
+Table 1.  Mean fire intervals (years) for all sampling methods at Centennial Forest, northern Arizona (1682-1881). The filter 
+categories include all fire years in which scars were present (all), fire years in which at least 10% of the recording specimens 
+scarred (10%), and fire years in which at least 25% of the recording specimens scarred (25%).  *see Figure 2 for grid layout 
+maps. 
+ 
+Filter 
+Census 
+Targeted 
+ 
+ 
+ 
+ 
+ 
+ 
+All 
+1.66 
+2.23 
+ 
+ 
+ 
+ 
+ 
+ 
+10% 
+2.83 
+3.00 
+ 
+ 
+ 
+ 
+ 
+ 
+25% 
+6.00 
+5.43 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Random Sample Size 
+Filter 
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+All  
+4.41 
+3.71 
+3.05 
+2.82 
+2.43 
+2.58 
+2.46 
+2.28 
+10% 
+4.41 
+3.82 
+3.21 
+3.05 
+2.98 
+3.11 
+3.16 
+3.14 
+25% 
+4.94 
+5.87 
+6.00 
+6.25 
+6.84 
+5.95 
+6.28 
+5.66 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sampled Area 
+ 
+ 
+ 
+Filter 
+1 cell  
+2 cells 
+4 cells 
+9 cells 
+16 cells  
+ 
+ 
+ 
+All  
+3.49 
+2.79 
+2.41 
+2.07 
+1.85 
+ 
+ 
+ 
+10% 
+3.66 
+3.24 
+3.08 
+2.98 
+2.89 
+ 
+ 
+ 
+25% 
+5.52 
+5.44 
+5.51 
+5.67 
+5.86 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GRIDS* 
+Search Radius (m) 
+Checkerboard 
+ 
+ 
+Filter 
+20 
+40(a) 
+40(b) 
+60 
+black  
+white 
+ 
+ 
+All  
+3.52 
+3.13 
+2.54 
+2.28 
+2.28 
+2.54 
+ 
+ 
+10% 
+3.52 
+3.4 
+2.91 
+2.71 
+2.87 
+2.96 
+ 
+ 
+25% 
+4.87 
+5.24 
+6 
+6.39 
+4.71 
+4.95 
+ 
+ 
+n 
+29 
+31 
+67 
+39 
+44 
+35 
+ 
+ 
+specimens per plot 
+all (1-4) 
+1 
+2 
+1 
+1 
+1 
+ 
+ 
+ 
+
+ 
+40
+ 
+ 
+ 
+ 
+Figure 1.  This study site ( h ), Flagstaff (□) and other fire history study sites including 
+Dieterich 1980 (●), Davis 1987 and Swetnam et al. 1990 (♦), Heinlein 1996 (▲) and Fulé 
+et al. 1997 (■) are shown in the ponderosa pine forest type (shaded area) in northern 
+Arizona.   
+ 
+ 
+
+ 
+41
+  (a) 
+0
+0.2
+0.4
+0.6
+0.8
+1
+Kilometers
+ 
+               (b) 
+0
+0.2
+0.4
+0.6
+0.8
+1
+Kilometers
+ 
+Figure 2.  Maps of sampling grids used to test the effect of grid-based methods of 
+sampling.  (a) Sampling grid 1 had 41 plots spaced at 141 m.  Concentric circles are 20, 
+40 and 60 m search radii.  Mean fire interval (MFI) was compared between samples taken 
+from the three search radii.  (b) Sampling grid 2 was a checkerboard with 100-1 ha cells.  
+MFI of the black cells was compared to MFI of the white cells using the specimen in 
+each cell with the most fire scars. 
+
+ 
+42
+ 
+ 
+ 
+ 
+Figure 3.  Study area map showing the 1,479 census (points) and 40 targeted sample 
+(stars) specimen locations.  Lines are 5 m contours.   
+
+ 
+43
+ 
+ 
+ 
+ 
+Year
+1700
+1720
+1740
+1760
+1780
+1800
+1820
+1840
+1860
+1880
+Number of trees
+0
+50
+100
+150
+200
+250
+300
+400
+500
+sample depth
+recording trees
+25% filter
+10% filter
+total scarred 
+ 
+ 
+Figure 4.  Composite fire history of all fire scarred trees (1682-1881) showing the 
+number of trees scarred, number of trees susceptible to fire scarring (recording trees), and 
+total number of fire-scarred trees present (sample depth) per year. The 10% and 25% 
+filter lines indicate the minimum number of scarred trees required in that year to be 
+included in the filter composite. 
+
+ 
+44
+(b) Area sampled (ha)
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Mean Fire Interval (years)
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+(a) Sample size
+10
+20
+30
+40
+50
+60
+70
+80
+Mean Fire Interval (years)
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+all (no filter)
+10% filter
+25% filter
+mean all
+mean 10%
+mean 25%
+ 
+ 
+Figure 5.  Mean fire intervals (MFIs) (years) from several samples showing the effect of 
+(a) sample size and (b) area sampled.  (a) Random samples of different sizes were used to 
+test the effect of sample size.  10 samples were taken per unique combination of sample 
+size and filter level (MFIs displayed by the small shapes), and the means of the sample 
+MFIs are shown by the large shapes.  (b) MFIs were computed for all combinations of 
+each area category (4, 8, 16, 32, 64 and 100 ha) and displayed by the small shapes.  The 
+large shapes indicate the means of the sample MFIs. 
+
+ 
+45
+ 
+ 
+ 
+ 
+Fire Interval (years)
+0
+10
+20
+30
+40
+50
+60
+70
+140
+Point
+Census 25%
+Census 10%
+Census All
+ 
+ 
+Figure 6.   Distribution of individual fire intervals for the census data with three levels of 
+filtering and the point (per tree) fire intervals.  The 25th and 75th percentiles are denoted 
+by either side of the shaded boxes with the median (vertical line) separating them.  The 
+whiskers extend to the 5th and 95th percentiles.  The black dots are all the extreme values, 
+and the white diamonds indicate the mean for each sample.  
+
+ 
+46
+ 
+ 
+ 
+ 
+OS interval (years)
+0
+20
+40
+60
+80 100 120 140 160 180 200 220 240 260 280 300
+460 480
+Percent
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+mean = 101.5 yrs
+median = 84 yrs
+ 
+ 
+Figure 7.  Origin-to-first scar (OS) interval for all trees with piths.  This interval 
+indicates the age of a tree when it received its first visible fire scar.  
+
+ 
+47
+ 
+ 
+ 
+Figure 8.  Trees with origin-to-first scar (OS) intervals occurred in close proximity to 
+scarred trees during two major fire years, 1737 and 1794.  OS trees are only mapped here 
+if the OS interval overlaps the fire year shown.   
+
+ 
+48
+ 
+ 
+ 
+ 
+D
+EE
+ME
+LE
+L
+U
+Percent
+0
+5
+10
+15
+20
+25
+30
+35
+Census
+Targeted
+Earlywood
+ 
+ 
+Figure 9.  Seasonality distribution by percent of fire scars for the targeted sample and 
+census.  D – dormant, EE – early earlywood, ME – middle earlywood, LE – late 
+earlywood, L – latewood, U – undetermined.  
+
+ 
+49
+ 
+ 
+ 
+ 
+0
+5
+10
+0
+5
+10
+0
+30
+60
+90
+120
+150
+180
+210
+240
+270
+300
+330
+ 
+ 
+Figure 10.  Percent of catfaces (radial axes) by direction of formation (angular axes in 
+degrees).  Note: this is not oriented like a compass.   
+ 
+
+ 
+50
+CHAPTER 4 
+Management Implications 
+ 
+Social Implications 
+In recent years, wildfires in the Southwest have dramatically increased in size and 
+severity, resulting in undesirable ecological effects (Agee 1993; Kolb et al. 1994; 
+Friederici 2003) and increased costs of suppression and rehabilitation (National Fire Plan 
+2004; GAO 2004).  Recent legislation has encouraged thinning to reduce the hazards of 
+the increased fuel loads as one way to mitigate the severity of these fires (Healthy Forest 
+Restoration Act 2003).  Many agree that restoration of ponderosa pine ecosystems is 
+necessary to avoid further losses because of increased susceptibility to crown fires, 
+drought, insects and pathogens (Covington & Moore 1994; Allen et al. 2002; Fulé et al. 
+2004).   
+As the cost of wildfires continues to increase, policy makers are eager for 
+information to help guide management policy.  Policy makers are coming to understand 
+that many ecosystems evolved with and depend on fire, and that continuing the fire 
+suppression policy will only lead to greater losses (GAO 2004).  Since management 
+recommendations are based partially on historic forest conditions and fire frequencies, it 
+is important to have information collected in such a way that accurately represents the 
+true historic conditions.  However, fire history is only one piece of the larger 
+management puzzle.  Managers must consider the risks of escaped fires and smoke 
+impacts on nearby communities.  The costs of restoring stand densities and frequent fire, 
+including the possible loss of revenue from timber harvesting, must be weighed against 
+
+ 
+51
+the climbing costs of fire suppression and rehabilitation.  A mosaic of treatments 
+representing the range of natural variability can be applied across broad landscapes while 
+monitoring and adaptively managing for the economic, social and ecological outcomes 
+(Kolb et al. 1994; Allen et al. 2002). 
+ 
+Ecological Implications 
+Many studies suggest that decreasing ecosystem health is characterized by high 
+intensity fire events, an increase in bark beetle and pathogen related mortality, a shift in 
+understory dominance from native to exotic species, a decrease in nutrient cycling, 
+altered hydrologic regimes, and a loss of wildlife habitat with an increase in tree density 
+since the time of Euro-American settlement in the late 1800’s (Weaver 1951; Kolb et al. 
+1994; Covington & Moore 1994; Swetnam et al. 1999; Covington 2003).  Although there 
+is broad consensus that many of these changes are at least partly a consequence of a 
+century of fire exclusion, the solution remains under debate (Cooper 1960; Stephenson 
+1999; Moore et al. 1999; Allen et al. 2002).  There is general agreement that restoring 
+ponderosa pine ecosystems to similar conditions under which they evolved would allow 
+their for long-term sustainability (Fulé et al. 1997; Moore et al. 1999).   
+Those who support ecosystem restoration debate between reintroducing the 
+natural processes and rebuilding the structural aspects of the reference ecosystem.  
+Process restoration considers type and frequency of disturbance, while structure 
+restoration includes species composition and arrangement (Stephenson 1999).  In the 
+Southwest, this means the decision between reintroducing frequent fires and 
+mechanically thinning dense stands of young trees before burning.  In one case study in 
+
+ 
+52
+ponderosa pine, process restoration proved to be more cost effective, but was not as 
+successful at thinning the dense young trees, while the structural approach restored more 
+natural forest attributes, but was costly and resulted in soil damage and exotic species 
+invasions (Fulé et al. 2004).  Allen et al. (2002) recognize that it is unsafe to reintroduce 
+fire without thinning in some areas with developments, but other remote areas may be 
+good candidates for process restoration.  Others support the reintroduction of fire as a key 
+ecological process, but allege that structural restoration is premature, citing considerable 
+uncertainties in the fire history and weak data describing reference conditions (Baker & 
+Ehle 2001). 
+The ecological consequences of misdirected restoration activities are sometimes 
+great and reference conditions are only attainable for fire regimes and forest structure 
+(Stephenson 1999).  Reintroducing fire in one heavily stocked stand in Northern Arizona 
+killed many of the old-growth, legacy trees without affecting the general stand conditions 
+(Sackett et al. 1995).  The resulting structure may be imprecise and poorly suited for 
+future climate conditions (Millar & Woolfenden 1999; Allen et al. 2002), but if failures 
+are recognized and used for learning, they can lead to continued adaptation of restoration 
+practices (Allen et al. 2002).   
+Many previous fire history studies using the targeting method reported high fire 
+frequencies (<20 yr MFI, 10-100 ha sites) before Euro-American settlement (Swetnam & 
+Baisan 1996).  Fire scars are just one line of historical evidence indicating a frequent fire 
+regime, yet it is still important to test the validity of these methods.  Modern calibration 
+of fire regimes (Fulé et al. 2003; Farris et al. 2003), evolutionary ecology (Moore et al. 
+1999) and historical documentation (Cooper 1960) support the understanding of the 
+
+ 
+53
+changes in the fire regime and forest structure that occurred in the last century.  It is this 
+understanding of the historical context that will lead to its judicious application. 
+
+ 
+54
+CHAPTER 5 
+Literature Cited 
+ 
+Abella, S.R. 2005. Vegetational and environmental gradients on an Arizona ponderosa 
+pine landscape: implications for ecological restoration. Ph.D. Dissertation. Northern 
+Arizona University, Flagstaff, Arizona. 
+Agee, J.K. 1993. Fire ecology of Pacific Northwest forests. Island Press, Washington, D. 
+C. 
+Allen, C.D., Savage, M., Falk, D.A., Suckling, K.F., Schulke, T., Swetnam, T.W., Stacey, 
+P.B., Morgan, P., Hoffman, M., and Klingel, J.T. 2002. Ecological restoration of 
+southwestern ponderosa pine ecosystems: a broad perspective. Ecological 
+Applications 12: 1418-1433. 
+Arno, S.F. and Petersen, T.D. 1983. Variation in estimates of fire intervals: a closer look 
+at fire history on the Bitterroot National Forest. USDA Forest Service RP-INT-301. 
+Arno, S.F., Scott, J.H., and Hartwell, M.G. 1995. Age-class structure of old-growth 
+ponderosa pine/Douglas-fir stands and its relationship to fire history. USDA Forest 
+Service RP-INT-481. 
+Arno, S.F. and Sneck, K.M. 1977. A method for determining fire history in coniferous 
+forests of the Mountain West. USDA Forest Service GTR-INT-42. 
+Baisan, C.H. and Swetnam, T.W. 1990. Fire history on a desert mountain range: Rincon 
+Mountain Wilderness, Arizona, USA. Canadian Journal of Forest Research 20: 1559-
+1569. 
+Baker, W.L. 1989. Effect of scale and spatial heterogeneity on fire-interval distributions. 
+Canadian Journal of Forest Research 19: 700-706. 
+Baker, W.L. and Ehle, D.S. 2001. Uncertainty in surface-fire history: the case of 
+ponderosa pine forests in the western United States. Canadian Journal of Forest 
+Research  31: 1205-1226. 
+Brown, P.M. and Sieg, C.H. 1996. Fire history in interior ponderosa pine communities of 
+the Black Hills, South Dakota, USA. International Journal of Wildland Fire 6: 97-105. 
+Cooper, C.F. 1960. Changes in vegetation, structure and growth of southwestern pine 
+forests since white settlement. Ecological Monographs 30: 129-164. 
+Covington, W.W. 2003. The evolutionary and historical context. In Ecological 
+Restoration of Southwestern Ponderosa Pine Forests. Edited by  P. Friederici. Island 
+Press, Washington. pp. 26-47. 
+Covington, W.W. and Moore, M.M. 1994. Southwestern ponderosa forest structure: 
+
+ 
+55
+changes since Euro-American settlement. Journal of Forestry 92: 39-47. 
+Davis, K. 1987. Fire history of Walnut Canyon National Monument. Unpublished report 
+to the National Park Service, Flagstaff Area National Monument files. 
+Dieterich, J.H. 1980. The composite fire interval - a tool for more accurate interpretations 
+of fire history. In Proceedings of the Fire History Workshop, Tucson, Arizona, 20-24 
+Oct. 1980. Technical coordinators: M.A. Stokes and J.H. Dieterich. USDA Forest 
+Service GTR-RM-81, pp. 8-14. 
+Dieterich, J.H. and Swetnam, T.W. 1984. Dendrochronology of a fire-scarred ponderosa 
+pine. Forest Science 30: 238-247. 
+Falk, D.A. 2004. Scaling rules for fire regimes. Ph.D. Dissertation. University of Arizona, 
+Tucson, Arizona. 
+Falk, D.A. and Swetnam, T.W. 2002. Scaling rules and probability models for surface 
+fire regimes in ponderosa pine forests. In Fire, Fuel Treatments, and Ecological 
+Restoration: Conference Proceedings. 16-18 April 2002. Fort Collins, Colorado. 
+Technical editors: P.N. Omi and L.A. Joyce. USDA Forest Service RMRS-P-29. 
+Fall, J.G. 1998. Reconstructing the historical frequency of fire: a modeling approach to 
+developing and testing methods. M.S. Thesis. Simon Fraser University, Burnaby, 
+British Columbia. 
+Farris, C.A., Baisan, C.H., and Swetnam, T.W. 2003. A comparison of fire regime 
+characteristics reconstructed from fire scar data and mapped fires in a frequently 
+burned Arizona wilderness. In Second International Wildland Fire Ecology and Fire 
+Management Congress, 16-20 Nov 2003, Orlando, Florida. 
+FIA. 2004. Forest inventory and analysis national program [online]. Available from 
+http://www.fia.fs.fed.us/tools-data/data/ [cited 28 March 2005]. 
+Friederici, P. 2003. Introduction. In Ecological Restoration of Southwestern Ponderosa 
+Pine Forests. Edited by  P. Friederici. Island Press, Washington. pp. 561. 
+Fulé, P.Z., Cocke, A.E., Heinlein, T.A., and Covington, W.W. 2004.  Effects of an 
+intense prescribed forest fire: is it ecological restoration? Restoration Ecology 12: 220-
+230. 
+Fulé, P.Z., Covington, W.W., and Moore, M.M. 1997. Determining reference conditions 
+for ecosystem management of southwestern ponderosa pine forests. Ecological 
+Applications 7: 895-908. 
+Fulé, P.Z., Heinlein, T.A., Covington, W.W., and Moore, M.M. 2003.  Assessing fire 
+regimes on Grand Canyon landscapes with fire-scar and fire-record data. International 
+Journal of Wildland Fire 12: 129-145. 
+
+ 
+56
+GAO. 2004. Wildland Fires: Forest Service and BLM need better information and a 
+systematic approach for assessing the risks of environmental effects. GAO-04-705. 
+Gaylord, M.L. 2004. Bark beetle and tree physiology seasonal patterns in nothern 
+Arizona. M.S. Thesis. Northern Arizona University, Flagstaff, Arizona. 
+Graybill, D.A. 1987. Gus Pearson, Arizona ring width chronology. Tree-Ring Search 
+Engine http://www.ngdc.noaa.gov/paleo/treering.html. 
+Grissino-Mayer, H.D. 1995. Tree-ring reconstructions of climate and fire history at El 
+Malpais National Monument, New Mexico. Ph.D. Dissertation. University of Arizona, 
+Tucson, Arizona. 
+Grissino-Mayer, H.D., Romme, W.H., Floyd, M.L., and Hanna, D.D. 2004. Climatic and 
+human influences on fire regimes of the southern San Juan Mountains, Colorado, USA. 
+Ecology 85: 1708-1724. 
+Gutsell, S.L. and Johnson, E.A. 1996. How fire scars are formed: coupling a disturbance 
+process to its ecological effect. Canadian Journal of Forest Research 26: 166-174. 
+Healthy Forest Restoration Act. 2003. H.R. 1904 [online]. Available from 
+http://www.theorator.com/bills108/hr1904.html [cited 6 December 2004]. 
+Heinlein, T.A. 1996. Fire regimes and forest structure in lower mixed conifer forests: San 
+Francisco Peaks, Arizona. M.S. Thesis. Northern Arizona University, Flagstaff, 
+Arizona. 
+Heinselman, M.L. 1973. Fire in the virgin forests of the Boundary Waters Canoe Area, 
+Minnesota. Quaternary Research 3: 329-382. 
+Heyerdahl, E.K. 1997. Spatial and temporal variation in historical fire regimes of the 
+Blue Mountains, Oregon and Washington: the influence of climate. Ph.D. Dissertation. 
+University of Washington, Seattle, Washington. 
+Heyerdahl, E.K. and McKay, S.J. 2001. Condition of live fire-scarred ponderosa pine 
+trees six years after removing partial cross sections. Tree-Ring Research 57: 131-139. 
+Holmes, R.L. 1983. Computer-assisted quality control in tree-ring dating and 
+measurement. Tree-Ring Bulletin 43: 69-78. 
+Johnson, E.A. and Gutsell, S.L. 1994. Fire frequency models, methods and interpretations. 
+Advances in Ecological Research 25: 239-287. 
+Keeley, J.E. and Stephenson, N.L. 2000. Restoring natural fire regimes to the Sierra 
+Nevada in an era of global change. In Wilderness Science in a Time of Change 
+Conference. Vol. 5. Wilderness Ecosystems, Threats, and Management, Missoula, 
+Montana, 23-27 May 1999. Compiled by D.N. Cole, S.F. McCool, W.T. Borrie, J.O 
+O'Loughlin. USDA Forest Service RMRS-P-15. pp. 255-265. 
+
+ 
+57
+Kilgore, B.M. and Taylor, D. 1979. Fire history of a sequoia-mixed conifer forest. 
+Ecology  60: 129-142. 
+Kolb, T.E., Wagner, M.R., and Covington, W.W. 1994. Concepts of forest health: 
+utilitarian and ecosystem perspectives. Journal of Forestry 92: 10-15. 
+Lertzman, K.P., Donner, B., and Fall, J. 1998. Three kinds of heterogeneity in fire 
+regimes: at the crossroads of fire history and landscape ecology.  Northwest Science 
+72: 4-22. 
+Li, C. 2002. Estimation of fire frequency and fire cycle: a computational perspective. 
+Ecological Modeling   154: 103-120. 
+Madany, M.H. and West, N.E. 1983. Livestock grazing - fire regime interactions within 
+montane forests of Zion National Park, Utah. Ecology 64: 661-667. 
+McBride, J.R. 1983. Analysis of tree rings and fire scars to establish fire history. Tree-
+Ring Bulletin 42: 51-67. 
+Millar, C.I. and Woolfenden, W.B. 1999. The role of climate change in interpreting 
+historical variability. Ecological Applications  9: 1207-1216. 
+Miller, G., Ambrose, N., Boness, P., Reher, D., Robertson, G., Scalzone, K., Steinke, R., 
+and Subirge, T. 1995. Terrestrial Ecosystem Survey. USDA Forest Service 
+Southwestern Region 3. Albuquerque, NM. 405. 
+Minnich, R.A., Barbour, M.G., Burk, J.H., and Sosa-Ramirez, J. 2000. Californian 
+mixed-conifer forests under unmanaged fire regimes in the Sierra San Pedro Martir, 
+Baja California, Mexico. Journal of Biogeography  27 : 105-129. 
+Moore, M.M., Covington, W.W., and Fulé, P.Z. 1999. Reference conditions and 
+ecological restoration: a southwestern ponderosa pine perspective. Ecological 
+Applications 9: 1266-1277. 
+National Fire Plan. 2004. Large Fire Suppression Costs, Strategies for Cost Management 
+[online]. Available from http://www.fireplan.gov/resources/annual_report.html [cited 
+6 December 2004]. 
+Pearson, G.A. 1924. The growing season of western yellow pine. Journal of Agricultural 
+Research 29: 203-204. 
+Pyne, S.J., Andrews, P.L., and Laven, R.D. 1996. Introduction to wildland fire, second 
+edition. John Wiley and Sons, Inc., New York. 
+Romme, W.H. 1980. Fire history terminology: Report of the ad hoc committee. In 
+Proceedings of the Fire History Workshop, Tucson, Arizona, 20-24 Oct. 1980. 
+Technical coordinators: M.A. Stokes and J.H. Dieterich. USDA Forest Service GTR-
+RM-81, pp. 135-137. 
+
+ 
+58
+Sackett, S.S., Haase, S.M., and Harrington, M.G.  1995. Lessons learned from fire use for 
+restoring southwestern ponderosa pine ecosystems. In Conference on Adaptive 
+Ecosystem Restoration and Management: Restoration of Cordilleran Conifer 
+Landscapes of North America, Flagstaff, Arizona. 6-8 June 1995. Technical 
+coordinators: W.W. Covington and P.K. Wagner.  USDA Forest Service GTR-RM-
+278, pp. 54-61. 
+Savage, M. and Mast, J.N. in press. How resilient are southwestern ponderosa pine 
+forests after crown fires? Canadian Journal of Forest Research. 
+Stephens, S.L., Skinner, C.N., and Gill, S.J. 2003. Dendrochronology-based fire history 
+of Jeffrey pine-mixed conifer forests in the Sierra San Pedro Martir, Mexico. Canadian 
+Journal of Forest Research 33: 1090-1101. 
+Stephenson, N.L. 1999. Reference conditions for giant sequoia forest restoration: 
+structure, process, and precision. Ecological Applications 9: 1253-1265. 
+Stokes, M.A. and Smiley, T.L. 1968. An introduction to tree-ring dating. University of 
+Chicago, Chicago. 
+Swetnam, T.W., Allen, C.D., and Betancourt, J.L.  1999. Applied historical ecology: 
+using the past to manage for the future. Ecological Applications 9: 1189-1206. 
+Swetnam, T.W. and Baisan, C.H. 1996. Historical fire regime patterns in the 
+southwestern United States since AD 1700. In Fire Effects in Southwestern Forests: 
+Proceedings of the Second La Mesa Fire Symposium, Los Alamos, New Mexico, 29-
+31 March 1994. Edited by C.D. Allen.  USDA Forest Service GTR-RM-286, pp. 11-
+32 . 
+Swetnam, T.W. and Baisan, C.H. 2003. Tree-ring reconstructions of fire and climate 
+history in the Sierra Nevada and southwestern United States. In Fire and Climate 
+Change in Temperate Ecosystems of the Western Americas. Edited by  T.T. Veblen, 
+W.L Baker, G. Montenegro and T.W. Swetnam. Springer, New York. pp. 158-195. 
+Swetnam, T.W., Wright, W.E., Caprio, A.C., Brown, P.M., and Baisan, C.H. 1990. Fire 
+scar dates from Walnut Canyon National Monument, Arizona. Unpublished report to 
+the National Park Service, Flagstaff Area National Monument files. 
+Taylor, A.H. and Skinner, C.N. 1998. Fire history and landscape dynamics in a late-
+successional reserve, Klamath Mountains, California, USA. Forest Ecology and 
+Management  111: 285-301. 
+Veblen, T.T. and Kitzberger, T. 2002. Inter-hemispheric comparison of fire history: the 
+Colorado front range, U.S.A., and the northern Patagonian Andes, Argentina. Plant 
+Ecology 163: 187-207. 
+Weaver, H. 1951. Fire as an ecological factor in the southwestern ponderosa pine forests. 
+Journal of Forestry 49: 93-98. 
+
+ 
+59
+Western Regional Climate Center. 2004. Western U.S. historical climate summaries 
+[online]. Available from http://www.wrcc.dri.edu/cgi-bin/cliMAIN.pl?azflag [cited 13 
+April 2005]. 
+Zar, J.H. 1984. Biostatistical analysis, second edition. Prentice-Hall, Inc., Englewood 
+Cliffs. 

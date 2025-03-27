@@ -1,0 +1,909 @@
+Original Article
+Summer Habitat Use by Adult Female Mule
+Deer in a Restoration-Treated Ponderosa
+Pine Forest
+VALERIE J. HORNCASTLE,1,2 Lab of Landscape Ecology and Conservation Biology, Northern Arizona University, Flagstaff, AZ 86011, USA
+R. FENNER YARBOROUGH, Arizona Game and Fish Department, Phoenix, AZ 85086, USA
+BRETT G. DICKSON, Lab of Landscape Ecology and Conservation Biology, Northern Arizona University, Flagstaff, AZ 86011, USA
+STEVEN S. ROSENSTOCK, Arizona Game and Fish Department, Phoenix, AZ 85086, USA
+ABSTRACT Across ponderosa pine—(Pinus ponderosa) dominated forests of northern Arizona, USA, large-
+scale restoration and fuels treatments are being implemented or planned to reduce wildﬁre threat and severity
+and improve ecosystem health. It is important to understand how these activities will affect animal
+populations, including species of economic and social importance, such as mule deer (Odocoileus hemionus).
+Forest treatments may improve foraging habitat for mule deer by opening forest canopy and stimulating
+shrub and herbaceous production, but also may reduce availability of day-bed sites. In this context, we used a
+generalized linear mixed-model approach and utilization distributions to estimate post-treatment relative
+intensity of summer (Apr–Sep) use of multiple habitat attributes by adult female mule deer on the Grand
+Canyon-Parashant National Monument in northern Arizona between 2003 and 2005. Based on 5,776
+Global Positioning System collar locations from 10 individuals (x ¼ 580 locations/individual), we identiﬁed
+intensive use of areas that received a thin-and-burn treatment in the previous season, were located on gentle
+slopes, and were proximate to reliable water sources. Female mule deer likely selected thin-and-burn
+treatment areas to take advantage of increased forage abundance. Because thin-and-burn treatments did not
+remove Utah juniper (Juniperus osteosperma) or Gambel oak (Quercus gambelii), substantial shrub and mid-
+story vegetation cover remained post-treatment. Our results indicated the potential value of a mosaic
+approach to ponderosa pine forest restoration, where untreated areas, as well as treated areas that retain
+Gambel oak and juniper, are heterogeneously distributed across the landscape. This approach also would
+provide important concealment cover and forage after thin-and-burn and thin-only treatments.  2013 The
+Wildlife Society.
+KEY WORDS Arizona, forest restoration, mule deer, Odocoileus hemionus, Pinus ponderosa, ponderosa pine.
+Ponderosa pine (Pinus ponderosa) forests of the American
+Southwest (AZ, NM, and adjoining portions of UT and
+CO) have experienced major changes in structure, composi-
+tion, and function because of recent human activities (Allen
+et al. 2002). More than a century of livestock grazing, ﬁre
+suppression, logging, road construction, and exotic-species
+introductions have altered most of these forests from
+conditions that had prevailed for thousands of years
+(Covington and Moore 1994, Swetnam et al. 1999).
+Contemporary ponderosa pine forests tend to be dominated
+by relatively homogeneous, dense stands of younger trees
+with a depauperate herbaceous and shrub understory,
+and increased vulnerability to high-intensity crown ﬁre
+(Covington and Moore 1994).
+In the Southwest, forest restoration prescriptions in
+ponderosa pine-dominated ecosystems typically seek to
+recreate conditions characteristic of those present prior to
+Euro-American
+settlement
+(pre-1870),
+including
+tree-
+species composition and spatial arrangement (Covington
+et al. 1997, Fule´ et al. 1997). These restoration treatments are
+designed to reduce tree density and overstory canopy, while
+increasing productivity and diversity of understory vegetation
+(Fule´ 2003). Animal species will respond differently to these
+changes based on their home-range requirements, mobility,
+and degree of habitat speciﬁcity (Chambers and Germaine
+2003).
+Mule deer (Odocoileus hemionus) populations in the
+Southwest have experienced declines in the past 50 years
+(Clements and Young 1997) due to habitat degradation from
+ﬁre suppression, exotic species invasion, and increased
+livestock grazing (Gill 1999). Habitat requirements of
+mule deer include an abundance of high-quality herbaceous
+forage (Dietz and Nagy 1976), vegetation cover that provides
+protection
+from
+predators
+and
+weather
+(Parker
+and
+Gillingham 1990), and access to reliable water sources.
+Received: 6 June 2012; Accepted: 6 February 2013
+Published: 20 June 2013
+1E-mail: valerie.horncastle@nau.edu
+2Present address: School of Earth Sciences and Environmental
+Sustainability, Northern Arizona University, Applied Research and
+Development Building, Box 5767, Flagstaff, AZ 86011, USA
+Wildlife Society Bulletin 37(4):707–713; 2013; DOI: 10.1002/wsb.301
+Horncastle et al.  Mule Deer and Forest Restoration
+707
+
+Summer forage availability and quality determines body
+condition of deer prior to a resource-limited winter (Snider
+and Asplund 1974, Mule Deer Working Group 2003),
+affects doe productivity and lactation, and fawn survival and
+growth; therefore, high-quality summer habitat is essential
+for maintaining healthy populations (Zwank 1976, Pederson
+and Harper 1978).
+In northern Arizona, mule deer summer home ranges
+commonly include ponderosa pine-dominated vegetation
+types (Urness et al. 1975, Pederson and Harper 1978),
+including extensive areas where large-scale restoration
+treatments have been implemented or are currently being
+planned. Restoration treatments and timber harvest activities
+that open tree canopies in ponderosa pine and mixed-conifer
+forests often increase forage abundance and diversity and
+subsequent use by wildlife (Clary and Ffolliot 1966;
+Patton 1974, 1976; Masters et al. 1993). Although mule
+deer can respond favorably to restoration treatments due to
+increased forage production, these treatments may also
+reduce hiding cover and alter the microclimate and physical
+characteristics of day-bed sites (Germaine et al. 2004).
+For a managed herd of mule deer occupying ponderosa
+pine-dominated and recently treated areas in the Grand
+Canyon-Parashant National Monument in northern Ari-
+zona, we sought to examine the effects of forest restoration
+on the relative intensity of summer habitat-use patterns.
+Within a rigorous statistical modeling framework, we
+leveraged high temporal and spatial resolution Global
+Positioning System (GPS) collar data. Speciﬁcally, our
+objectives were to 1) spatially deﬁne individual home range
+and core areas, 2) develop a spatially explicit statistical model
+of intensity of habitat use, and 3) make recommendations
+that will help land managers provide essential forage and
+cover attributes for mule deer while restoring forest structure
+and reducing the risk of uncharacteristic, high-intensity
+wildﬁre. Furthermore, and in the statistical context of
+multiple habitat variables, we hypothesized that adult female
+mule deer would use treated areas, irrespective of treatment
+type, more intensely than untreated areas.
+STUDY AREA
+We conducted our study within the Mt. Trumbull Resource
+Conservation Area of the Grand Canyon-Parashant Na-
+tional Monument in northwestern Arizona (Fig. 1). The
+1,200-ha study area was managed by the U.S. Department of
+the Interior Bureau of Land Management. Elevations ranged
+from 1,675 m to 2,620 m and major vegetation communities
+included pure ponderosa pine forest and ponderosa pine-
+deciduous forests containing Gambel oak (Quercus gambelii),
+New Mexican locust (Robinia neomexicana), and quaking
+aspen (Populus tremuloides). Pinyon pine (Pinus edulis) and
+Utah juniper (Juniperus osteosperma) were less common in the
+study area. Logging and cattle grazing were introduced to the
+region during Euro-American settlement circa 1870 and the
+Mt. Trumbull Resource Conservation Area has been ﬁre-
+suppressed for much of the past century (Covington and
+Moore 1994).
+Throughout the study area, forest restoration treatments
+were initiated in 1996. The restoration prescription followed
+pre-1870 reference conditions for tree-species composition
+and spatial arrangement (Covington et al. 1997). Treatments
+were designed to include thinning, burning, and reseeding
+with a native herb mix dominated by grasses (see Covington
+et al. 1997, Waltz et al. 2003). All old-growth ponderosa
+pine trees (>120 yr old) and all Gambel oak, Utah juniper,
+and New Mexican locust were retained during thinning
+treatments. By 2003, >450 ha of ponderosa pine forest had
+received thin-and-burn treatment and an additional 320 ha
+were thinned-only. An untreated control area of approxi-
+mately 500 ha was present in the southeastern portion of the
+study area, along with 5 10–30-ha controls embedded among
+treated areas.
+MATERIALS AND METHODS
+Deer Capture and Location Data
+We captured 15 adult (>2 yr) female mule deer using drop-
+nets or chemical immobilization between 12 June 2003 and
+31 July 2003. We ﬁtted deer with store-on-board GPS
+collars (Model no. TWG 3500 with CR2A collar release;
+Telonics, Inc., Mesa, AZ). Collars were programmed to
+record 1 location every 5 hours from 1 May to 30 September.
+Collars were programmed to release after 3 years of
+operation. Global Positioning System locations had a
+locational accuracy of 15 m according to manufacturer
+speciﬁcations. Locations with dilution of precision values >8
+and 2-dimensional ﬁxes were considered insufﬁciently
+accurate and removed prior to analysis (Lewis et al. 2007).
+Habitat Variable Development
+We selected a set of 7 habitat predictor variables inﬂuenced
+by restoration treatments and identiﬁed in previous studies of
+mule deer ecology and habitat use (King and Smith 1980,
+Kuﬁeld
+et
+al.
+1988,
+Carpenter
+1998,
+Cunningham
+et al. 2005, Heffelﬁnger 2006). We used data from the
+2006 National Land Cover Data (30-m-pixel resolution; Fry
+et al. 2011) and a geographic information system (GIS;
+ArcGIS v10.0) to derive a layer of dominant land-cover types
+across the study area. We further consolidated these data into
+3 dominant land-cover types: ponderosa pine forest, pinyon–
+juniper forest, or “other,” which included aspen stands,
+meadows, or lava ﬁelds. Within the GIS, terrain variables
+characterizing elevation, slope, ruggedness, and “northness”
+were derived at a 30-m resolution using topographic data
+obtained from the LANDFIRE Project website (www.
+landﬁre.gov). Ruggedness was derived using the standard
+deviation of all slope values in a 3  3-pixel neighborhood.
+Northness (i.e., the tendency of a pixel to be facing toward
+true north, scaled between 0 and 1) was derived using a cosine
+transformation of aspect (Roberts 1986).
+We also used the GIS to estimate the Euclidean distance of
+all known reliable water sources (i.e., ephemeral or typically
+available in the summer of most years on the study area).
+Water source locations originated from Bureau of Land
+Management and Arizona Game and Fish Department
+records and were veriﬁed in the ﬁeld.
+708
+Wildlife Society Bulletin  37(4)
+
+We obtained a spatial database containing perimeters of
+forest treatments applied on the study area between 1996 and
+2005 from the Ecological Restoration Institute at Northern
+Arizona University. Although prescriptions were intended to
+include thinning followed by burning, treatments occurred in
+stages; in many cases, several years passed between the thin-
+and-burn stages. Over the course of our study, several areas
+were not burned and considered thin-only treatments. We
+considered thin-only and thin-and-burn treatments as binary
+predictor variables in our models. Areas were considered
+treated and available to mule deer one season after treatments
+were completed (i.e., spring treatments available in summer).
+Within the GIS, we derived all predictor variables as a 30-
+m pixel-resolution grid. To accommodate uncertainty in
+GPS locations and the precise value of a predictor variable
+assigned to a given pixel, we smoothed all continuous
+variable grids using a 3  3 focal mean or majority ﬁlter
+operation prior to modeling.
+Home-Range and Core-Area Estimation
+For the summer period 1 May–30 September, 2003–2005,
+we analyzed GPS location data for individual mule deer to
+spatially
+deﬁne
+individual
+home-range
+and
+core-area
+perimeters. For each individual, we used a kernel-based
+approach to estimate a probabilistic utilization distribution
+and 95% and 50% ﬁxed-kernel (FK) isopleths, deﬁning the
+perimeter of the home range and core areas, respectively, and
+when 30 locations were obtained in a given period (Seaman
+et al. 1999). We derived these estimates using a likelihood-
+based smoothing parameter (CVh; Horne and Garton 2006)
+and a kernel estimation extension to ArcGIS (30-m grid-cell
+size; Beyer 2012). The continuous values of the utilization
+distribution were used as a proxy for determining the relative
+intensity of habitat use in the models described below. We
+used a 1-way analysis of variance (test statistic ¼ F,
+a ¼ 0.05) to test for among-year differences in home-range
+and core-area size.
+Figure 1. Map of Mount Trumbull Resource Conservation Area in Northwest Arizona, USA, illustrating dominant land-cover types and the boundaries of
+forest treatments between 2003 and 2005.
+Horncastle et al.  Mule Deer and Forest Restoration
+709
+
+Models of Habitat Use
+We used a generalized linear mixed-model framework and
+hierarchical approach to quantify patterns of individual habitat
+use as a function of the habitat predictor variables described
+above. We were interested in estimating the relative intensity of
+habitat use (sensu Jennrich and Turner 1969); therefore, we
+related individual mule deer GPS locations to the height of the
+utilization distribution by intersecting each utilization distri-
+bution with all of the locations used to derive it (Dickson et al.
+2013). We treated the continuous value of this utilization–
+distribution height as the dependent variable in our models of
+habitat use. We accounted for spatial and temporal structuring
+(e.g., positive spatial and serial autocorrelation, respectively)
+in the location data by treating individual animals within
+years as a subject-level random effect and using a ﬁrst-order
+autoregressive
+covariance
+structure
+(Little
+et
+al.
+2006,
+Gutzwiller and Riffell 2007). In addition, we computed the
+variance–covariance matrix of our habitat parameters using the
+empirical Huber–White “sandwich” estimator, which allowed
+us to relax the assumption of independence between locations
+within subjects and account for unknown covariance structure
+(Huber 1967, Williams 2000, Wooldridge 2009).
+Within this generalized linear mixed-model framework,
+we used an information-theoretic approach and multi-
+model inference to estimate and contrast the importance of
+individual habitat variables (i.e., ﬁxed effects; Burnham and
+Anderson 2002). Because we were interested in quantifying
+the relative importance of these variables, rather than
+evaluate the performance of a candidate set of competing
+models, we considered only a single “global” model that
+included all of our habitat variables and used all subsets
+modeling to estimate model-averaged regression coefﬁcients
+(~b) and unconditional standard errors for each variable
+(Burnham and Anderson 2002). We used these values to
+estimate the effect size (based on a Z-statistic, or ~b/SE) and
+rank the relative importance of each habitat variable. We
+considered |Z| values 2.0 for a given variable to be
+indicative of a strong response by mule deer to that variable.
+We used an information-theoretic approach to model
+selection and inference, so we did not compute P-values.
+We used an intercept-only model (including random effect
+and covariance structure) and the difference in Akaike’s
+Information Criterion (DAIC) values to help evaluate how
+well our global model approximated (and ﬁt) the data
+(Anderson 2008).
+Prior to statistical analysis, we standardized values for all
+continuous habitat variables to a mean of zero and unit
+variance. Because no univariate comparisons of these
+variables had a Pearson correlation coefﬁcient >0.60, none
+were excluded from our analysis. We implemented all
+analyses and models in SAS PROC MIXED (v9.2; SAS
+Institute, Inc., Cary, NC).
+RESULTS
+Location Data
+Over the period of study, we successfully retrieved 13 collars,
+which included 10 adult female deer whose home ranges
+were wholly or largely contained within the study area. Our
+ﬁnal spatial database included 5,776 locations from these 10
+individuals. We obtained 95–250 (x ¼ 199, SD ¼ 50)
+locations
+for
+10
+individual
+deer
+in
+2003,
+178–329
+(x ¼ 281, SD ¼ 50) locations for 8 deer in 2004, and
+214–320 (x ¼ 257, SD ¼ 41) locations for 6 deer in 2005,
+representing 24 unique subject levels in our statistical models
+of habitat use.
+Home-Range Estimation
+We derived 24 estimates of home range and core areas for 10
+deer (Table 1). The 95% FK estimates of individual home-
+range area ranged from 96 ha to 1,090 ha and averaged
+368 ha (SD ¼ 282). Individual core areas (50% FK) ranged
+from 13 ha to 209 ha and averaged 66 ha (SD ¼ 49). Deer
+were observed in all treatments across the study area. Home-
+range estimates and core areas differed among 3 years of this
+study, but none were statistically signiﬁcant. The average
+95% FK estimate was 343 ha (SD ¼ 301) in 2003, 308
+(SD ¼ 205) in 2004, and 489 (SD ¼ 345) in 2005. The
+average core-area estimate was 64 (SD ¼ 58) in 2003, 55
+(SD ¼ 33) in 2004, and 84 (SD ¼ 55) in 2005. On average,
+deer core areas overlapped 56%, 37%, and 7% with control
+areas, thin-and-burn treatments, and thin-only treatments,
+respectively.
+Models of Habitat Use
+Our global model of habitat use was considerably better (i.e.,
+lower; DAIC > 472) than the intercept-only model. Slope,
+Table 1. Space-use statistics for 10 individual mule deer monitored
+between April and October (the summer season) of 2003–2005 in and
+around the Mount Trumbull Resource Conservation Area, northern
+Arizona, USA. The 95% and 50% fixed-kernel (FK) estimates delineate
+areas defined as home range and core areas, respectively.
+Animal ID
+Year
+No. of
+locations
+CVha
+95% FK
+(ha)
+50% FK
+(ha)
+9050
+2003
+144
+147
+269
+48
+9050
+2004
+317
+116
+278
+45
+9050
+2005
+256
+81
+212
+39
+9100
+2003
+193
+94
+155
+36
+9450
+2003
+232
+162
+517
+82
+9450
+2004
+301
+133
+399
+64
+9580
+2003
+182
+170
+837
+209
+9580
+2004
+277
+182
+752
+126
+9580
+2005
+320
+128
+714
+122
+9650
+2003
+240
+60
+118
+28
+9650
+2004
+178
+65
+117
+22
+9680
+2003
+246
+69
+96
+13
+9680
+2004
+317
+83
+168
+37
+9680
+2005
+228
+253
+307
+62
+9770
+2003
+250
+135
+154
+36
+9770
+2004
+279
+80
+134
+29
+9770
+2005
+230
+170
+246
+43
+9830
+2003
+95
+243
+274
+53
+9830
+2004
+246
+156
+338
+50
+9830
+2005
+214
+129
+365
+58
+9850
+2003
+225
+84
+117
+25
+9870
+2003
+186
+241
+890
+106
+9870
+2004
+329
+92
+279
+65
+9870
+2005
+291
+243
+1,090
+178
+Mean (SD):
+241 (59)
+138 (61)
+368 (282)
+66 (49)
+aSmoothing parameter estimated using a likelihood-based cross-
+validation.
+710
+Wildlife Society Bulletin  37(4)
+
+thin-and-burn treatment areas, and ponderosa pine-domi-
+nated land cover were the strongest (|Z|  2.0) predictors of
+relative intensity of mule deer summer habitat use on our
+study area (Table 2). Distance to reliable water, pinyon–
+juniper land cover, and rugged areas were moderate
+predictors. Elevation, northness, and thin-only areas were
+all less important predictors when compared with other
+variables.
+DISCUSSION
+As hypothesized, our results indicated that deer used thin-
+and-burn treatment areas more intensely within their home
+range. Greater use within thinned and burned stands may
+have been due to the greater variability of forest structure in
+those areas due to the timing and size of treatments. In
+general, individual treatments were small (10–150 ha) and
+interspersed with untreated control areas, creating a mosaic
+of dense tree patches adjacent to more open areas.
+Treatments spanned >10 years, creating additional variabil-
+ity in forest and shrub structure, because some treated areas
+were completed 8–10 years prior to the start of other
+treatments. Roccaforte et al. (2010) found that post-
+treatment forest structure within stands in the Mt. Trumbull
+Resource Conservation Area ranged from extremely open
+patches with a minimum of 10 trees/ha to dense patches with
+a maximum of 1,581 trees/ha.
+Treatment prescriptions that decrease canopy cover usually
+create an increase in forage abundance and diversity, thereby
+making treated areas more preferred by mule deer than
+untreated areas (Kuﬁeld et al. 1988, Masters et al. 1993).
+Treated areas experienced an increase in Gambel oak and
+other shrub and forb species, resulting in increased forage
+availability (Roccaforte et al. 2010). In 2003, Gambel oak
+made up 56% of the total trees/ha in treated areas, while
+control areas were dominated by ponderosa pine (73% of the
+total trees; Roccaforte et al. 2010). The post-treatment
+increase in small understory trees, including Gambel oak,
+New Mexican locust, and juniper, also provided deer with
+adequate forage and concealment cover. These woody species
+were not removed during thinning and exhibited vigorous
+growth thereafter. Similarly, Germaine et al. (2004) found
+that the majority of bedded mule deer observed in treated
+areas were in patches of Gambel oak or New Mexican locust.
+Other studies have found similar results, indicating that
+stand diversity and dense pockets of trees are important
+factors in providing concealment cover for day-bed sites and
+protection from predators (King and Smith 1980, Gerlach
+and Vaughan 1991).
+Mule deer have previously been observed to select for gentle
+slopes (Lendrum et al. 2012). The use of more gentle slopes
+during the summer season may have been related to the
+absence of dense vegetation more typical on steeper slopes.
+Steep slopes in the study area were not thinned and tended to
+consist of dense New Mexican locust and few forage species.
+Other studies also have found that dense vegetation can
+restrict
+deer
+movement
+and
+limit
+forage
+production
+(Watkins et al. 2007).
+We found that mule deer intensively used areas closer to
+reliable water sources. Boroski and Mossman (1996) also
+reported that deer tended to be distributed close to water
+sources. Reliable water sources on our study area were not
+abundant; therefore, relatively intense use of these features,
+especially during the summer season, was not surprising.
+Indeed, lactating females have an increased need for water
+during this time of year (Hervert and Krausman 1986,
+Boroski and Mossman 1996).
+Although differences were not statistically signiﬁcant, we
+observed variation in mule deer home-range and core-area
+sizes among years. Home-range size of ungulates, including
+mule deer, can be inﬂuenced by multiple factors, such as
+age (Relyea et al. 2000), reproductive status (Long et al.
+2009, van Beest et al. 2011), availability of forage (Dussault
+et al. 2005), availability of water (Heffelﬁnger 2006, Marshal
+et al. 2006), and intraspeciﬁc competition (Rosenzweig
+1991). We found that average home-range and core-area size
+for deer was similar during 2003 and 2004, but greater during
+2005. The larger average home-range and core-area sizes we
+estimated in 2005 likely resulted from a decrease in forest
+cover availability due to restoration treatments conducted
+during our period of study. More area was treated in 2005
+(286 ha) than in previous years (89 and 106 ha in 2003 and
+2004, respectively), so individual deer may have expanded
+their home ranges and core areas in order to ﬁnd adequate
+cover and avoid thinning activities (Nicholson et al. 1997,
+Bender et al. 2007). Because the majority of core areas
+overlapped control areas, an increase in the percentage of the
+landscape treated likely contributed to an increase in home-
+range size to include more control areas or areas with greater
+cover.
+Overall, our results for habitat use were similar to those
+indicated
+by other studies in the
+region
+(Germaine
+et al. 2004, Cunningham et al. 2005). However, one result
+from our study that differs from previous research was that
+thin-only areas were not as intensively used as thin-and-burn
+areas. This may have been due to a reduction in cover and
+forage production in these areas immediately following
+thinning. In the Southwest, vegetation growth can be slow
+(Fule´ et al. 2005) and a substantial increase in forage may not
+have occurred until after the prescribed burn. If a regular
+ﬁre interval (e.g., 5–9 yr; Covington et al. 1999) is not
+Table 2. Standardized model-averaged regression coefficients ~b,
+unconditional standard errors (SE), and Z-statistics (Z) for habitat
+variables used to model relative intensity of habitat use by mule deer in
+and around the Mount Trumbull Resource Conservation Area, northern
+Arizona, USA, 2003–2005. |Z| values 2.0 for a given variable were
+indicative of a strong response by mule deer to that variable.
+Habitat variable
+~b
+SE
+Z
+Ponderosa pine land cover
+3.291
+1.198
+2.747
+Slope (%)
+0.720
+0.313
+2.302
+Thin-and-burn treatment
+4.137
+1.816
+2.278
+Distance to reliable water
+1.643
+0.837
+1.962
+Pinyon–juniper land cover
+1.913
+1.020
+1.876
+Ruggedness
+0.350
+0.217
+1.615
+Northness
+0.419
+0.308
+1.360
+Thin only treatment
+2.288
+1.730
+1.323
+Elevation
+0.950
+1.004
+0.946
+Horncastle et al.  Mule Deer and Forest Restoration
+711
+
+maintained, the use of these areas may decrease due to the
+lack of new forage. Without subsequent burns, the increased
+regeneration of locust and oak could lead to a deciduous-
+dominant landscape (Barton 2002, Roccaforte et al. 2010).
+Our models used higher spatial and temporal resolution GPS
+data compared with previous studies in the area using Very
+High Frequency transmitters, so our results likely revealed
+habitat relationships that might have otherwise been masked
+by lower resolution data and less sophisticated statistical
+methods.
+MANAGEMENT IMPLICATIONS
+Our results suggest the importance of a mosaic approach to
+forest restoration for mule deer management; therefore,
+managers should consider treatments that provide adequate
+concealment cover and day-bed sites. This could be
+accomplished by staggering the time of treatments, main-
+taining a diversity of trees, and keeping small pockets of
+dense trees and untreated patches. We also recommend
+maintaining the surface ﬁre regime to stimulate herbaceous
+understory vegetation, which is an important dietary
+component for mule deer in the summer months. These
+areas would be further enhanced by retention of oak stands
+within treated areas. Oak stands can be the primary midstory
+canopy component in a treated ponderosa pine forest
+(Germaine et al. 2004); therefore, managers should develop
+treatment prescriptions that promote the retention of this
+species (Roccaforte et al. 2010).
+ACKNOWLEDGMENTS
+We thank the Bureau of Land Management Arizona Strip
+District; Ecological Restoration Institute at Northern
+Arizona University; National Fish and Wildlife Foundation;
+and the Federal Aid to Wildlife Restoration Act, Project W-
+78-R of the Arizona Game and Fish Department for
+providing funding for this research. We also thank C.
+Wightman for all of her expertise in all aspects of the project.
+Thanks to S. Boe for her GIS assistance.
+LITERATURE CITED
+Allen, C. D., M. Savage, D. A. Falk, K. F. Suckling, T. W. Swetnam, T.
+Schulke, P. B. Stacey, P. Morgan, M. Hoffman, and J. T. Klingel. 2002.
+Ecological restoration of southwestern ponderosa pine ecosystems: a broad
+perspective. Ecological Applications 12:1418–1433.
+Anderson, D. R. 2008. Model based inference in the life sciences: a primer
+on evidence. Springer, New York, New York, USA.
+Barton, A. M. 2002. Intense wildﬁre in southeastern Arizona: transforma-
+tion of a Madrean oak–pine forest to oak woodland. Forest Ecology and
+Management 165:205–212.
+Bender, L. C., L. A. Lomas, and T. Kamienski. 2007. Habitat effects on
+condition of doe mule deer in arid mixed woodland–grassland. Rangeland
+Ecological Management 60:277–284.
+Beyer, H. L. 2012. Geospatial modelling environment for ArcGIS. <http://
+www.spatialecology.com/gme>. Accessed 15 Nov 2011.
+Boroski, B. B., and A. S. Mossman. 1996. Distribution of mule deer in
+relation to water resources in northern California. Journal of Wildlife
+Management 60:770–776.
+Burnham, K. P., and D. R. Anderson. 2002. Model selection and
+multimodel
+inference:
+a
+practical
+information-theoretic
+approach.
+Springer-Verlag, New York, New York, USA.
+Carpenter, L. H. 1998. Deer in the west. Pages 1–10 in J. C. deVos, Jr.,
+editor. Proceedings of the 1997 Deer/Elk Workshop, Rio Rico, Arizona.
+Arizona Game and Fish Department, Phoenix, USA.
+Chambers, C. L., and S. S. Germaine. 2003. Vertebrates. Pages 268–285 in
+P. Frederici, editor. Ecological restoration of southwestern ponderosa pine
+forests. Island Press, Washington, D.C., USA.
+Clary, W. P., and P. F. Ffolliot. 1966. Differences in herbage–timber
+relationships between thinned and unthinned ponderosa pine stands. U.S.
+Department of Agriculture Forest Service Research Note RM-74, Rocky
+Mountain Forest and Range Experiment Station, Fort Collins, Colorado,
+USA.
+Clements, C. D., and J. A. Young. 1997. A viewpoint: rangeland health and
+mule deer habitat. Journal of Range Management 50:129–138.
+Covington, W. W., and M. M. Moore. 1994. Southwestern ponderosa
+forest structure: changes since Euro-American settlement. Journal of
+Forestry 92:39–47.
+Covington, W. W., P. Z. Fule´, M. M. Moore, S. C. Hart, T. E. Kolb,
+J. N. Mast, S. S. Sackett, and M. R. Wagner. 1997. Restoring ecosystem
+health in ponderosa pine forests of the Southwest. Journal of Forestry
+95:23–29.
+Covington, W. W., T. A. Heinlein, P. Z. Fule´, A. E. M. Waltz, and J. D.
+Springer. 1999. Changes in ponderosa pine forests of the Mt. Trumbull
+wilderness. Ecological Restoration Institute Research Progress Report.
+Northern Arizona University Ecological Restoration Institute, Flagstaff,
+USA. <http://www.eri.nau.edu>. Accessed 2 Dec 2011.
+Cunningham, S. C., S. S. Germaine, H. L. Germaine, and S. R. Boe. 2005.
+Landscape habitat selection by female mule deer in a partially restored
+ponderosa pine forest in Northwest Arizona. Pages 285–292 in C. van
+Riper III and D. J. Mattson, editors. Colorado Plateau II: biophysical,
+socioeconomic, and culture research. University of Arizona Press, Tucson,
+Arizona, USA.
+Dickson, B. G., V. Frary, S. E. Sesnie, J. M. Rundall, and M. F. Ingraldi.
+2013. New methods and hierarchical models for estimating intensity of
+diurnal habitat use by Merriam’s Turkey in managed forests of northern
+Arizona. The Colorado Plateau VI, University of Arizona Press, Tucson,
+USA.
+Dietz, D. R., and J. G. Nagy. 1976. Mule deer nutrition and plant
+utilization. Pages 71–78 in G. W. Workman, and J. B. Lowe, editors.
+Mule deer decline in the West. Symposium Proceedings, Utah State
+University, Logan, USA.
+Dussault, C., R. Courtois, J. Ouellet, and I. Girard. 2005. Space use of
+moose in relation to food availability. Canadian Journal of Zoology
+83:1431–1437.
+Fry, J., G. Xian, S. Jin, J. Dewitz, C. Homer, L. Yang, C. Barnes, N. Herold,
+and J. Wickham. 2011. Completion of the 2006 National Land Cover
+Database
+for
+the
+Conterminous
+United
+States.
+Photogrammetry
+Engineering and Remote Sensing 77:858–864.
+Fule´, P. Z. 2003. Pages 402–416 in P. Friederici, editor. Ecological resto-
+ration of southwestern ponderosa pine forests. Island Press, Washington,
+D.C., USA.
+Fule´, P. Z., W. W. Covington, and M. M. Moore. 1997. Determining
+reference conditions for ecosystem management of southwestern ponder-
+osa pine forests. Ecological Applications 7:895–908.
+Fule´, P. Z., D. C. Laughlin, and W. W. Covington. 2005. Pine–oak forest
+dynamics ﬁve years after ecological restoration treatments, Arizona, USA.
+Forest Ecology and Management 218:129–145.
+Gerlach, T. P., and M. R. Vaughan. 1991. Mule deer fawn bed site selection
+on the Pinyon Canyon Maneuver Site, Colorado. Southwestern Naturalist
+36:255–258.
+Germaine, S. S., H. L. Germaine, and S. R. Boe. 2004. Characteristics of
+mule deer day-bed and forage sites in current-condition and restoration-
+treated ponderosa pine forest. Wildlife Society Bulletin 32:554–564.
+Gill, R. B. 1999. Declining mule deer populations in Colorado: reasons and
+responses. A report to the Colorado Legislature. Colorado Division of
+Wildlife, Denver, USA.
+Gutzwiller, K. J., and S. K. Riffell. 2007. Using statistical models to study
+temporal dynamics of animal-landscape relations. Pages 93–118 in J. A.
+Bisonette, and I. Storch, editors. Temporal dimensions of landscape
+ecology: wildlife responses to variable resources. Springer, New York, New
+York, USA.
+Heffelﬁnger, J. 2006. Deer of the southwest. Texas A&M University Press,
+College Station, USA.
+712
+Wildlife Society Bulletin  37(4)
+
+Hervert, J. J., and P. R. Krausman. 1986. Desert mule deer use of water
+developments in Arizona. Journal of Wildlife Management 50:670–676.
+Horne, J. S., and E. O. Garton. 2006. Likelihood cross-validation versus
+least squares cross-validation for choosing the smoothing parameter in
+kernel home range analysis. Journal of Wildlife Management 70:641–648.
+Huber, P. J. 1967. The behavior of maximum likelihood estimates under
+nonstandard conditions. Proceedings of the Fifth Berkeley Symposium on
+Mathematical Statistics and Probability Volume I:221–233.
+Jennrich, R. I., and B. F. Turner. 1969. Measurement of non-circular home
+range. Journal of Theoretical Biology 22:227–237.
+King, M. M., and H. D. Smith. 1980. Differential habitat utilization by the
+sexes of mule deer. Great Basin Naturalist 40:273–281.
+Kuﬁeld, R. C., D. C. Bowden, and D. L. Schrupp. 1988. Habitat selection
+and activity patterns of female mule deer in the Front Range, Colorado.
+Journal of Range Management 41:515–522.
+Lendrum, P. E., C. R. Anderson, Jr., R. A. Long, J. G. Kie, and R. T.
+Bowyer. 2012. Habitat selection by mule deer during migration: effects of
+landscape structure and natural-gas development. Ecosphere 3(9):1–19.
+Lewis, J. S., J. L. Rachlow, E. O. Garton, and L. A. Vierling. 2007. Effects
+of habitat on GPS collar performance: using data screening to reduce
+location error. Journal of Applied Ecology 44:663–671.
+Little, R. C., G. A. Milliken, W. W. Stroup, R. D. Wolﬁnger, and O.
+Schabenberger. 2006. SAS system for mixed models. Second edition. SAS
+Institute, Cary, North Carolina, USA.
+Long, R. A., J. G. Kie, R. T. Bowyer, and M. A. Hurley. 2009. Resource
+selection and movements by female mule deer Odocoileus hemionus: effects
+of reproductive stage. Wildlife Biology 15:288–298.
+Marshal, J. P., V. C. Bleich, P. R. Krausman, M. L. Reed, and N. G.
+Andrew. 2006. Factors affecting habitat use and distribution of mule deer
+in an arid environment. Wildlife Society Bulletin 34:609–619.
+Masters, R. E., R. E. Lochmiller, and D. M. Engle. 1993. Effects of timber
+harvest and prescribed ﬁre on white-tailed deer forage production.
+Wildlife Society Bulletin 21:401–411.
+Mule Deer Working Group. 2003. Mule deer: changing landscapes,
+changing perspectives. Mule Deer Working Group, Western Association
+of Fish and Wildlife Agencies. <http://wildlife.utah.gov/pdf/mule_
+deer_wafwa.pdf>. Accessed 20 Nov 2011.
+Nicholson, M. C., R. T. Bowyer, and J. G. Kie. 1997. Habitat selection and
+survival of mule deer: tradeoffs associated with migration. Journal of
+Mammalogy 78:483–504.
+Parker, K. L., and M. P. Gillingham. 1990. Estimates of critical thermal
+environments for mule deer (Odocoileus hemionus hemionus). Journal of
+Range Management 43:73–81.
+Patton, D. R. 1974. Patch cutting increases deer and elk use of a ponderosa
+pine forest in Arizona. Journal of Forestry 72:764–766.
+Patton, D. R. 1976. Timber harvesting increases deer and elk use of mixed
+conifer forest. U.S. Department of Agriculture Forest Service Research
+Note RM-329, Rocky Mountain Forest and Range Experiment Station,
+Fort Collins, Colorado, USA.
+Pederson, J. C., and K. T. Harper. 1978. Factors inﬂuencing productivity of
+two mule deer herds in Utah. Journal of Range Management 31:105–110.
+Relyea, R. A., R. K. Lawrence, and S. Demarais. 2000. Home range of desert
+mule deer: testing the body-size and habitat productivity hypotheses.
+Journal of Wildlife Management 64:146–153.
+Roberts, D. W. 1986. Ordination on the basis of fuzzy set theory. Vegetatio
+66:123–131.
+Roccaforte, J. P., P. Z. Fule´, and W. W. Covington. 2010. Monitoring
+landscape-scale ponderosa pine treatment implementation and effective-
+ness. Restoration Ecology 18:820–833.
+Rosenzweig, M. L. 1991. Habitat selection and population interactions—
+the search for mechanism. American Naturalist 137:5–28.
+Seaman, D. E., J. J. Millspaugh, B. J. Kernohan, G. C. Brundige, K. J.
+Raedeke, and R. A. Gitzen. 1999. Effects of sample size on kernel home
+range estimates. Journal of Wildlife Management 63:739–747.
+Snider, C. C., and J. M. Asplund. 1974. In vitro digestibility of deer foods
+from the Missouri Ozarks. Journal of Wildlife Management 38:20–31.
+Swetnam, T. W., C. D. Allen, and J. L. Bettancourt. 1999. Applied
+historical ecology: using the past to manage the future. Ecological
+Applications 9:1189–1206.
+Urness, P. J., D. J. Neff, and J. R. Vahle. 1975. Nutrient content of mule deer
+diets from ponderosa pine range. Journal of Wildlife Management
+39:670–673.
+van Beest, F. M., I. M. Rivrud, L. E. Loe, J. M. Milner, and A. Mysterud.
+2011. What determines variation in home range size across spatiotemporal
+scales in a large browsing herbivore? Journal of Animal Ecology 80:771–
+785.
+Waltz, A. E. M., P. Z. Fule´, W. W. Covington, and M. M. Moore. 2003.
+Diversity in ponderosa pine forest structure following ecological
+restoration treatments. Forest Science 49:885–900.
+Watkins, B. E., C. J. Bishop, E. J. Bergman, A. Bronson, B. Hale, B. F.
+Wakeling, L. H. Carpenter, and D. W. Lutz. 2007. Habitat guidelines for
+mule deer: Colorado Plateau shrubland and forest ecoregion. Mule deer
+working group, Western Association of Fish and Wildlife Agencies.
+<http://www.muledeerworkinggroup.com/Docs/CPE_Mule_Deer_
+Habitat_Guidelines.pdf>. Accessed 1 Dec 2011.
+Williams, R. L. 2000. A note on robust variance estimation for cluster-
+correlated data. Biometrics 56:645–646.
+Wooldridge, J. M. 2009. Introductory econometrics: a modern approach.
+Fourth edition. Southwestern College, Chula Vista, California, USA.
+Zwank, P. J. 1976. Mule deer productivity—past and present. Pages 79–86
+in G. W. Workman, and J. B. Low, editors. Proceedings of symposium on
+mule deer decline in the West. Utah State University, Logan, USA.
+Associate Editor: Homyack.
+Horncastle et al.  Mule Deer and Forest Restoration
+713

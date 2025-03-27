@@ -1,0 +1,885 @@
+RESEARCH ARTICLE
+Assessing the Representativeness of the Oldest
+Permanent Inventory Plots in Northern Arizona
+Ponderosa Pine Forests
+David M. Bell,1,2 Pablo F. Parysow,1 and Margaret M. Moore1
+Abstract
+A network of permanent plots established between 1909
+and 1913 (the Woolsey plots) contains the oldest mea-
+sured data in northern Arizona ponderosa pine forests.
+These forest inventory data offer a unique opportunity to
+reconstruct pre-settlement reference conditions, as well as
+detect and quantify changes in southwestern forest struc-
+ture and composition. However, the selection of plot loca-
+tions in the early 1900s followed a subjective nonrandom
+approach. To assess the applicability, or inference space,
+of results obtained from these historical plots, we com-
+pared their environmental characteristics (terrestrial eco-
+system unit [TEU, based on a U.S. Forest Service (USFS)
+ecological classiﬁcation system], site index, elevation,
+insolation index, and soil parent material) as well as con-
+temporary forest structure (trees per hectare, basal area,
+and quadratic mean diameter) with two large inventory
+samples: USFS Forest Inventory and Analysis (FSFIA)
+and Arizona State Land Department Continuous Forest
+Inventory (AZCFI). Analytical methods included multi-
+variate permutation tests, ratios of variance, and Kolmo-
+gorov–Smirnov two-sample tests. Results indicated that
+the Woolsey plots (1) were neither historically nor con-
+temporarily
+representative
+of
+the
+entire
+study
+area
+because of environmental and current forest structural dif-
+ferences with respect to the FSFIA and AZCFI and (2)
+may be considered historically representative of their cor-
+responding TEUs. Our study supports the use of TEUs
+for deﬁning the applicability of information obtained from
+the Woolsey plots.
+Key words: ecological classiﬁcation, historical plots, Pinus
+ponderosa, pre-settlement reference conditions, subjec-
+tive nonrandom sampling.
+Introduction
+Reference conditions, the characteristics of an ecosystem
+prior to Euro-American and Hispanic settlement (pre-
+settlement), play an important role in guiding ecological
+restoration activities in the southwestern United States
+(Kaufmann et al. 1994; Moore et al. 1999; Swetnam et al.
+1999; Egan & Howell 2001; Friederici 2003). Many studies
+have been conducted to reconstruct pre-settlement ﬁre
+regimes prior to the beginning of settlement in this region
+(1870s–1890s) based on ﬁre scar and forest structural
+and dendrochronological evidence (e.g., Swetnam 1990;
+Covington & Moore 1994; Fule´ et al. 1997, 2002; Mast
+et al. 1999; Moore et al. 1999; Swetnam et al. 1999; Groven
+et al. 2002). Still, the Southwest is characterized by a great
+diversity of landscapes and ecosystems (Morgan et al.
+1994; White & Walker 1997; Landres et al. 1999), whereas
+the number and type of sites amenable to pre-settlement
+reconstruction are limited.
+One such set of sites in Arizona and New Mexico dates
+back to the early days of the U.S. Forest Service (USFS).
+The oldest permanent forest inventory system in the
+Southwest was established by the USFS Southwestern
+Forest and Range Experiment Station beginning in 1909.
+These plots, known locally as the Woolsey plots, were part
+of a silvicultural experiment concerning regeneration and
+volume accretion of southwestern ponderosa pine (Pinus
+ponderosa var. scopulorum P. & C. Lawson) after initial
+timber harvests (Woolsey 1912; Pearson 1923, 1933;
+Krauch 1926; Moore et al. 2004).
+The wealth of contemporary and historical data associ-
+ated with the Woolsey plots provides unique opportunities
+for assessing reference conditions as well as changes that
+have occurred in southwestern ponderosa pine forest
+ecosystems since plot establishment (Moore et al. 2004).
+Speciﬁcally, these plots offer a complementary approach
+to traditional methods for establishing pre-settlement eco-
+system structure and/or process. Traditional methods have
+relied on currently available evidence of live and dead
+trees, which is particularly problematic when reconstruct-
+ing populations of small trees or applying techniques over
+long periods of time (often >100 years; Johnson et al.
+1994). Historical plots can reduce such uncertainty by pro-
+viding actual historical inventory data as well as shorten-
+ing the reconstruction time span (White & Walker 1997).
+Other early forest inventories, such as those originally
+established by T. T. Munger in 1910, have proven vital in
+1 School of Forestry, Northern Arizona University, PO Box 15018, Flagstaff,
+AZ 86011, U.S.A.
+2 Address correspondence to D. M. Bell, email david.m.bell@duke.edu
+ 2008 Society for Ecological Restoration International
+doi: 10.1111/j.1526-100X.2008.00377.x
+MAY 2009 Restoration Ecology Vol. 17, No. 3, pp. 369–377
+369
+
+understanding old-growth forest structure and patterns of
+mortality in the Paciﬁc Northwest (Duncan 2004).
+However, the concept of randomization was not pro-
+posed by Sir Ronald Fisher (1925) until after the Wool-
+sey plots were established, and therefore, selection of
+Woolsey plot locations was conducted in a nonrandom
+fashion. Subjective plot selection, together with the small
+sample size of this rare dataset, raises questions about
+the inference space with regard to the larger, heteroge-
+neous landscape of ponderosa pine forests in northern
+Arizona.
+Assessing representativeness in ecological studies may
+be strengthened by jointly analyzing relevant variables
+from independent datasets through multivariate techni-
+ques (Sætersdal & Birks 1993). Large, representative
+inventories conducted independently of the sample of
+interest may be assumed to supply environmental and
+contemporary forest structure information for the popula-
+tion from which that sample was taken (Couteron et al.
+2003). Two large inventories in Arizona provide important
+information about environment and forest condition: the
+USFS Forest Inventory and Analysis (FSFIA) and the
+Arizona State Land Department Continuous Forest In-
+ventory (AZCFI). The FSFIA program in northern Arizona
+is conducted by the USFS Interior West Forest Inventory
+and Analysis Program on both public and private lands,
+whereas the AZCFI is conducted by the Arizona State
+Lands Department (ASLD) on State lands.
+Assessing representativeness may prove challenging
+after years of intense and diverse land use (Covington &
+Moore 1994; Fule´ et al. 1997; Allen et al. 1998, 2002).
+Nevertheless, ecological classiﬁcation systems (Bailey
+1996; Pregitzer et al. 2001) may help us recreate the distri-
+bution of ecosystems in pre-settlement landscapes (Bell
+et al. 1997), thus adding an important piece of information
+to the assessment of this region’s historical range of
+variability (Morgan et al. 1994; Allen et al. 1998, 2002;
+Landres et al. 1999). An ecological classiﬁcation system is
+a method of assigning areas of land to map units charac-
+terized by common factors such as soils, climate, topogra-
+phy, and potential vegetation (Cleland et al. 1997; Kerns
+et al. 2003). For practical purposes, these units may be
+assumed to remain constant at spatial scales comprising
+an ecoregion over roughly one century. It is important to
+emphasize that these classiﬁcations are based on the con-
+cept of potential or climax vegetation, even though at
+certain points in time units may be occupied by other
+vegetation successional stages caused by disturbances
+(Demarchi 1996). For example, the Terrestrial Ecosystem
+Survey (the ecosystem classiﬁcation system used by the
+USFS Southwestern Region [region 3]) classiﬁes the land-
+scape into ecological units based on climate, topography,
+soils, and vegetation at a mapping scale of 1:24,000 (USDA
+1986; Miller et al. 1994; Ganey & Benoit 2002). Therefore,
+these classiﬁcation systems provide an appealing means of
+identifying inherent environmental and potential vegeta-
+tion similarities among areas regardless of their current
+vegetation structure and composition (Archambault et al.
+1990; Palik et al. 2000; Goebel et al. 2001; Abella 2005).
+Deﬁning the forestlands to which information from the
+Woolsey plots can be applied is a priority because of the
+unique opportunities these data offer. For instance, we are
+interested in assessing the ecological pre-settlement simi-
+larities between target areas and sites used to derive re-
+ference conditions for guiding restoration management.
+However, historical forest structural data available on
+the Woolsey plots are missing on other areas. Neverthe-
+less, as mentioned above, environmental conditions may
+be assumed to have either remained constant or changed
+equally across this ecoregion over the period that has
+elapsed since plot establishment. Thus, assessing environ-
+mental as well as contemporary forest structural similari-
+ties between the Woolsey plots and other populations is
+essential to understanding the environmental and man-
+agement inﬂuences under which forest structure has
+developed on these historical plots as well as on nearby
+populations (Mackey et al. 1988; Neyland et al. 2000). This
+information would, in turn, allow us to assess applicability
+of results obtained from the Woolsey plots to those popu-
+lations. Therefore, the objectives of this study were to (1)
+develop a framework for assessing representativeness of
+historical forest inventory plots and (2) implement this
+framework on a series of forest inventory plots in northern
+Arizona. Speciﬁcally, we hypothesize that the forest struc-
+ture on the Woolsey plots would be similar to, and thus
+representative of, other ponderosa pine forests with simi-
+lar environmental conditions and management regimes.
+Methods
+Study Area
+The spatial extent of the three forest inventories used in
+this study is shown in Figure 1, which overlap within the
+Coconino Plateau Coniferous Forest and the San Fran-
+cisco Peaks Coniferous Forest ecological subsections of
+the National Hierarchical Framework of Ecological Units
+(Cleland et al. 1997; W. Robbie 2005, USFS, personal
+communication). These ecological subsections have simi-
+lar (but not identical) subregional climatic regimes, geo-
+morphic processes, surﬁcial geology, and lithology. The
+Woolsey plots were composed of either pure ponderosa
+pine or ponderosa pine/Gambel oak (Quercus gambelii
+Nutt.). The majority of FSFIA and AZCFI plots were
+pure ponderosa pine (69.2 and 78.6%, respectively), where-
+as the Woolsey plots were evenly divided between pure
+ponderosa pine and ponderosa pine/Gambel oak. All plots
+were used regardless of the presence of Gambel oak. To
+match the overstory composition of the Woolsey plots,
+FSFIA and AZCFI plots from the upper- and lower-
+elevation ecotones (adjacent to pin˜on/juniper and mixed-
+conifer forests) were not included. Under these geographical
+and compositional limitations, 14 Woolsey, 58 FSFIA, and
+98 AZCFI plots were selected and compared.
+Assessing Representativeness of Inventory Plots
+370
+Restoration Ecology
+MAY 2009
+
+Analytical Framework
+When both environmental characteristics and contempo-
+rary forest structure of the Woolsey sample were typical
+of the population of interest, that sample would be consid-
+ered representative both historically and contemporarily.
+In cases where both were atypical, the sample would be
+considered unrepresentative at both points in time. If typi-
+cal environment and atypical forest structure were found,
+samples would be considered historically representative,
+and the contemporary differences in forest structure attri-
+buted to the inﬂuence of different management regimes.
+Finally, in cases where atypical environment and typical
+forest structure characterized the sample, we would specu-
+late that contemporary representativeness resulted from
+management practices that have counteracted environ-
+mental inﬂuences.
+Data Collection
+Remeasurement of subplots (1.01 ha) within the original
+Woolsey permanent plots took place between 1997 and
+2003 and included all trees at least 1.37 m in height
+(Moore et al. 2004). The FSFIA plots were made up of
+four clustered subplots equivalent to one plot of 0.1667 ha
+in size (O’Brien 2002; Van Deusen 2004) and included
+measurements on trees at least 2.54 cm diameter. The last
+periodic inventory of FSFIA plots in Arizona occurred
+from 1995 to 1999 (O‘Brien 2002), and data were available
+online through the National FIA Data Base System
+(http://www.ﬁa.fs.fed.us/tools-data/data). The AZCFI plots
+(0.0404-ha circular plots) were last measured between
+1990 and 1994 (K. Pajkos 2005, ASLD, personal commu-
+nication). The following variables from those inventories
+were used in this study: elevation, site index (SI), terres-
+trial ecosystem unit (TEU), and live tree diameter at
+breast height (dbh; 1.37 m). Trees per hectare (TPH),
+basal area per hectare (BA), quadratic mean diameter
+(QMD), and frequency of dbh classes per hectare (dbh
+distributions) were calculated from each of the three
+forest inventories and used to characterize overstory
+forest structure. Because of lack of information about
+small-diameter trees (<13.97 cm) on AZCFI plots, per
+hectare estimates were computed for trees less than 15 cm
+(TPH0–15, BA0–15, and QMD0–15) and greater than or equal
+to 15 cm (TPH151, BA151, and QMD151) so that AZCFI
+plots could be compared directly with FSFIA and Woolsey
+plots. All measures of forest structure reported in this study
+represent estimates for ponderosa pine greater than or
+equal to 2.54 cm dbh. Gambel oak were not included in the
+estimation of forest structure because measurement and
+reporting of tree diameters for this species were not consis-
+tent across inventories. Thus, comparisons in this study
+involve only ponderosa pine, the dominant tree species at
+all sites being examined.
+Analyses
+To compare environmental and forest structural data from
+the three inventories across the entire study area, we
+applied a distance-based multivariate nonparametric per-
+mutation method (Anderson 2001; McArdle & Anderson
+2001). This method may be classiﬁed as a permutation test
+and does not rely on the traditional assumptions for linear
+models. We used the program DISTLM, version 5, to carry
+out calculations. Euclidean distances standardized by the
+range of each variable were used as a measure of dissimilar-
+ity between plots (Legendre & Legendre 1998). We con-
+ducted permutation tests with inventory (FSFIA, AZCFI,
+or Woolsey) as the factor. We performed separate tests
+for small-dbh trees (TPH0–15, BA0–15, and QMD0–15), large-
+dbh trees (TPH151, BA151, and QMD151), and environ-
+mental variables (elevation, SI100, and TEU).
+We evaluated equality of variances using the ratio of
+sample variances (s2
+1=s2
+2; Ott & Longnecker 2001) for
+TPH0–15, TPH151, BA0–15, BA151, QMD0–15, QMD151,
+elevation, and SI100. We used the Kolmogorov–Smirnov
+two-sample test to compare distributions of elevation,
+SI100,
+TPH0–15,
+TPH151,
+BA0–15,
+BA151,
+QMD0–15,
+QMD151, and dbh distributions for the three forest inven-
+tories. The dbh distributions for each inventory were plot-
+ted for visual inspection.
+Figure 1. Geographic range of FSFIA plots and locations of AZCFI
+and Woolsey plots in relation to the Coconino National Forest. Flag-
+staff, Arizona, is located at lat 3579N, long 111409W.
+Assessing Representativeness of Inventory Plots
+MAY 2009 Restoration Ecology
+371
+
+Additionally, we constructed a discriminant plot to
+examine the effect of environment and forest structure on
+the three inventories (Brown & Wicker 2000). For this
+analysis, we used the CANPLOT version 1.3 macro
+(Friendly 2003) developed for the statistical software
+package SAS 8.2 (SAS Institute, Inc., 2000). Forest inven-
+tory (FSFIA, AZCFI, or Woolsey) was used as the group-
+ing variable, whereas three discriminator variables were
+chosen to account for either environment (SI100 and
+TEU) or forest structure (BA151).
+We carried out additional comparisons between inven-
+tories within TEUs where Woolsey plots were located.
+For this purpose, we used multivariate permutation tests
+to examine small-dbh trees (TPH0–15, BA0–15, and QMD0–15)
+and large-dbh trees (TPH151, BA151, and QMD151). We
+examined s2
+1=s2
+2 within each TEU with regard to the forest
+structural variables listed above. We also plotted dbh dis-
+tributions and applied Kolmogorov–Smirnov two-sample
+tests within each TEU.
+The Woolsey plots are represented in three TEUs: 551,
+582, and 585. All three TEUs are dominated by ponderosa
+pine. TEU 551 is characterized by both ponderosa pine
+and Arizona fescue (Festuca arizonica), whereas 582 and
+585 typically contain Gambel oak. TEU 551 has relatively
+deep soils derived from mixed igneous and alluvium, and
+soils in 582 and 585 developed from residuum, basalts, and
+cinders. The primary difference between 582 and 585 is
+that the latter has generally shallower soils. These three
+TEUs account for 112,902 ha, which represents approxi-
+mately 17% of the study area. Some AZCFI plots also fall
+into TEUs 582 and 585, but none are found in 551 due to
+lack of ASLD ownership in that TEU. To compare forest
+structural conditions within similar environments, we used
+FSFIA and AZCFI plots located in TEUs 551, 582, and
+585. The number of plots within each TEU is as follows:
+(1) TEU 551: 3 Woolsey, 2 FSFIA, and no AZCFI; (2)
+TEU 582: 5 Woolsey, 9 FSFIA, and 28 AZCFI; and (3)
+TEU 585: 6 Woolsey, 9 FSFIA, and 5 AZCFI.
+We set the probability of type I error (a) at 0.05 for all
+tests in this study, except where multiple contrasts be-
+tween each inventory were carried out. In the latter
+situation, we used a Bonferroni correction (a ¼ 0.0167;
+Ott & Longnecker 2001).
+Results
+Analysis across the Entire Study Area
+Table 1 displays the results from the multivariate permuta-
+tion tests that compared environment and contemporary
+forest structure among inventories. Forest density means
+for Woolsey tended to be greater than FSFIA and AZCFI
+(Fig. 2). No clear differences in mean tree size were found.
+The environment between FSFIA and AZCFI was signiﬁ-
+cantly different (p ¼ 0.0074).
+Sample variances for Woolsey were generally not differ-
+ent from the other two inventories, although exceptions
+occurred. FSFIA and Woolsey sample variances were sig-
+niﬁcantly different for TPH0–15 and QMD0–15, resulting in
+s2
+1=s2
+2 of 0.21 and 0.03, respectively. AZCFI and Woolsey
+sample variances were signiﬁcantly different for QMD151,
+resulting in s2
+1=s2
+2 of 0.21. FSFIA and AZCFI sample vari-
+ances were signiﬁcantly different for TPH151, QMD151,
+and elevation with s2
+1=s2
+2 of 0.51, 0.51, and 3.03, respectively.
+Mean elevation of Woolsey (2,242 m) was greater than
+that of FSFIA (2,180 m) and AZCFI (2,182 m). Woolsey
+also had lower mean SI100 (19.5 m) than FSFIA (21.3 m)
+and AZCFI (23.6 m). Examination of environmental and
+forest structural distributions (Kolmogorov–Smirnov tests)
+revealed
+environmental
+and
+structural
+differences
+between the Woolsey and the other two inventories for
+elevation, BA, and dbh distribution (Table 2). Statisti-
+cally signiﬁcant differences were also noted between
+AZCFI and Woolsey for SI100.
+The average 5-cm dbh distributions for all inventories
+exhibited a reverse exponential trend (Fig. 3). The average
+Woolsey dbh distribution showed more TPH for most
+dbh classes than the other inventories. The Kolmogorov–
+Smirnov two-sample tests indicated differences between
+Woolsey and FSFIA for distributions including all dbh as
+well as dbh less than 15 cm and also marginal differences
+between Woolsey and AZCFI for distributions including
+dbh 15 cm and greater (Table 2).
+Discriminant analysis indicated that differences be-
+tween the three inventories were driven by both environ-
+ment and forest structure (Fig. 4). FSFIA and AZCFI
+shared similar space in the canonical discriminant struc-
+ture plot, but Woolsey was located to the right of the cen-
+ters of the other two inventories and also appeared more
+variable. All analyses indicated dissimilarity between
+FSFIA and AZCFI with respect to Woolsey.
+Analysis of Environmentally Similar Plots
+(within the Same TEU)
+No statistically signiﬁcant differences in forest structure
+were noted between the Woolsey and the other two inven-
+tories; however, practical differences were present for
+TPH0–15, TPH151, BA0–15, and BA151 in all three TEUs
+(Fig. 5). Differences in TPH151 and BA151 were relatively
+small, but Woolsey was still consistently denser. QMD0–15
+and QMD151 showed little differences between Woolsey
+Table 1. p Values for multivariate permutation tests across the entire
+study area.
+Variable Set
+General Test
+Woolsey vs.
+FSFIA
+Woolsey vs.
+AZCFI
+Environmental
+0.0060*
+0.4273
+0.0143*
+Forest structural
+(<15-cm trees)
+0.5947
+Forest structural
+(15-cm trees)
+0.0057*
+0.0003*
+0.0050*
+* Statistically signiﬁcant differences.
+Assessing Representativeness of Inventory Plots
+372
+Restoration Ecology
+MAY 2009
+
+means and either FSFIA or AZCFI means except in TEU
+551 where the Woolsey mean for QMD0–15 was 8.1 cm
+greater than the mean for FSFIA. Although not statisti-
+cally tested in this study, there appeared to be clear differ-
+ences in forest structure by TEU. When comparing means
+for a single inventory across the three TEUs, TPH0–15,
+BA0–15, TPH151, and BA151 tended to be highest in 585,
+moderate in 582, and lowest in 551 (Fig. 5). In TEU 551,
+mean QMD151 was the highest, whereas QMD0–15 was
+the lowest of these three TEUs.
+Based on the comparison of sample variances within
+each TEU, the three inventories are relatively similar,
+with the exception of QMD. For TEU 551, ratios were
+generally close to 1.0, with the exception of TPH0–15,
+BA0–15, and QMD0–15 s2
+1=s2
+2, which could not be calculated
+due to the lack of trees smaller than 15 cm dbh in the
+three FSFIA plots. For TEU 582, FSFIA sample variance
+was signiﬁcantly larger than Woolsey in terms of QMD0–15
+(s2
+1=s2
+2 ¼ 0.04). For TEU 585, FSFIA sample variances
+were signiﬁcantly larger than those found for Woolsey
+plots in terms of QMD0–15 and QMD151 with s2
+1=s2
+2 of 0.02
+and 0.13, respectively. No statistically signiﬁcant differen-
+ces were found between AZCFI and Woolsey, except for
+TPH151 in TEU 582 with s2
+1=s2
+2 equal to 0.21.
+Average 5-cm dbh distributions in the same TEU
+(Fig. 3) showed that most differences between the Wool-
+sey and the other two inventories occurred in the smaller-
+diameter classes (<15 cm dbh). The Kolmogorov–Smirnov
+two-sample tests also showed signiﬁcant statistical differ-
+ences in these small–tree diameter distributions (Table 2).
+Discussion
+In our speciﬁc case, environmental and forest structural
+data showed lack of representativeness of the Woolsey
+plots with respect to both FSFIA and AZCFI inventories
+across the entire study area. Our results indicate that the
+Woolsey plots have atypical environmental conditions and
+current forest structure and, therefore, cannot be consid-
+ered representative of either historical or contemporary
+conditions of the population encompassing the entire area
+analyzed in this study.
+However, given that TEUs intrinsically represent areas
+of similar environmental conditions, we can presume that
+the Woolsey plots may be deemed historically representa-
+tive of forested lands within the three TEUs to which
+these plots belong. In addition, comparison of the three
+contemporary inventories for trees greater than or equal
+Figure 2. Mean TPH, basal area, and QMD for trees less than 15 cm dbh and trees greater than or equal to 15 cm dbh for FSFIA, AZCFI, and
+Woolsey plots across the study area.
+Table 2. p Values for Kolmogorov–Smirnov two-sample tests across the entire study area.
+Variable
+FSFIA vs. Woolsey
+AZCFI vs. Woolsey
+FSFIA vs. AZCFI
+All
+<15-cm Trees
+15-cm Trees
+Elevation (m)
+0.0024*
+<0.0001*
+0.2906
+SI100 (m)
+0.1879
+0.0082*
+0.0003*
+TPH
+0.0383
+0.1317
+0.1467
+0.7954
+BA (m2/ha)
+0.0122*
+0.0006*
+0.0012*
+0.7987
+QMD (cm)
+0.0303
+1.0000
+1.0000
+0.9982
+Dbh distribution
+All TEU
+0.0044*
+0.0008*
+0.3800
+0.0147*
+0.4538
+551
+<0.0001*
+<0.0001*
+0.0206
+582
+<0.0001*
+0.1298
+0.5824
+0.0005*
+0.0002*
+585
+<0.0001*
+<0.0001*
+0.2500
+<0.0001*
+<0.0001*
+Also included are results from Kolmogorov–Smirnov two-sample tests of dbh distributions within each of the three TEUs represented by the Woolsey plots. Missing p
+values indicate inappropriateness of test in the case of environment or lack of data in case of forest structure.
+* Statistically signiﬁcant differences.
+Assessing Representativeness of Inventory Plots
+MAY 2009 Restoration Ecology
+373
+
+to 15 cm dbh within the same TEU shows that the Woolsey
+plots have moderately higher tree frequency and basal
+area, especially for trees greater than or equal to 40 cm
+dbh. Although these differences indicate lack of contem-
+porary representativeness, land use history may help
+explain this phenomenon. The Woolsey plots experienced
+initial selection harvests between 1894 and 1913 similar to
+the surrounding ponderosa pine forests (Pearson 1923).
+However, these historical plots were subsequently either
+unharvested or thinned more lightly than other forested
+lands outside those plots. This difference in management
+is a plausible explanation for the higher large-tree densi-
+ties currently observed on the Woolsey plots (Sa´nchez
+Meador 2006).
+Differences in within-TEU forest structure between the
+Woolsey plots and the other two inventories were also
+found in small-diameter trees (<15 cm), further indicating
+lack of contemporary representativeness of the Woolsey
+plots. However, it is feasible that these differences resulted
+from an artifact caused by livestock grazing in the early
+1900s (Foster et al. 2003) on and off the Woolsey plots. The
+Woolsey plots were fenced at establishment, causing re-
+duced browsing and trampling damage from livestock. This
+reduced grazing pressure likely increased seedling height
+growth and survival rates (Hill 1917) and may have been
+enough to promote the contemporary denser small-tree
+conditions on the Woolsey plots (Bakker 2005; Bakker &
+Moore 2007). Thus, information gathered or reconstructed
+from the Woolsey plots may be considered representative
+of its corresponding TEU until plot establishment (1909–
+1913), when distinct harvesting and grazing schemes began
+on and off these plots.
+Figure 3. Average 5-cm dbh distribution for FSFIA, AZCFI, and Woolsey plots in each of the three TEUs: 551, 582, and 585. For trees greater
+than or equal to 15 cm dbh, differences are smaller in comparison to the differences.
+Figure 4. Canonical discriminant structure plot showing the separa-
+tion of FSFIA, AZCFI, and Woolsey plots due to SI, TEU, and basal
+area per hectare (BA) for trees greater than or equal to 15 cm dbh.
+Assessing Representativeness of Inventory Plots
+374
+Restoration Ecology
+MAY 2009
+
+Differences in sample design further challenge inter-
+preting the results from this study. Plots of different sizes
+are expected to capture a dissimilar portion of the in-
+herent forest variability. A single AZCFI plot covering
+0.0404 ha or even the combined FSFIA subplots of
+0.1667 ha are unlikely to consistently include openings,
+small-diameter thickets, and old-growth clumps. How-
+ever, a 1.01-ha Woolsey plot may encompass all these
+components several times over. As expected, the effect
+of plot size was reﬂected in greater sample variances
+observed for both FSFIA and AZCFI plots. Nevertheless,
+the relatively large, representative samples for FSFIA and
+AZCFI inventories still likely allow for an accurate and
+precise estimation of the population characteristics.
+Assessment of pre-settlement forest conditions as well
+as ecosystem change since Euro-American settlement are
+important in guiding restoration management in south-
+western ponderosa pine forests. However, because the
+Woolsey plots are only represented on a limited number
+of TEUs, it would be important to assess how results from
+these plots might be applied to other TEUs that were
+not represented. For instance, mapping units could be
+grouped based on common characteristics correlated with
+forest structure (i.e., soil depth, parent material, and SI).
+Developing coefﬁcients to modify estimates of historical
+structure based on ecological classiﬁcations could prove
+useful as well. Although the degree to which results from
+the Woolsey plots apply to other similar TEUs is yet to be
+assessed, information obtained from similar ecological
+units should be preferred for assessing changes over time
+and applying restoration treatments. Finally, in relation to
+temporal trends, information gathered or reconstructed
+from these plots may be considered representative of its
+corresponding TEU until plot establishment, when fenc-
+ing and distinct harvesting schemes began. From that
+point forward, the effect of those different management
+approaches would have to be successfully modeled to
+claim representativeness even within the same TEU.
+Thus, the use of ecological classiﬁcation systems should be
+tempered by knowledge of human activity at the site of
+interest and in the surrounding ecosystems.
+Successful ecosystem restoration will depend on adapt-
+ing pre-settlement reference-condition information into
+management prescriptions that also pursue other objectives
+such as wildlife, range, recreation, and timber. However,
+translating results from historical forest plots into forest
+management prescriptions may face additional challenges
+because forestry operations are often applied to stands
+whose boundaries may not match ecological classiﬁcation
+delineations.
+Figure 5. Sample means of TPH, basal area, and quadratic mean dbh (for trees <15 cm on the top row and trees 15 cm on the bottom row) for
+FSFIA, AZCFI, and Woolsey plots within TEUs 551, 582, and 585.
+Assessing Representativeness of Inventory Plots
+MAY 2009 Restoration Ecology
+375
+
+Implications for Practice
+d Historical permanent plot data can provide unique
+opportunities to reconstruct pre-settlement reference
+conditions, as well as detect and quantify changes in
+vegetation structure and composition on a site.
+d However, plot data collected from the early 1900s
+were often located subjectively, and therefore, the
+practitioner should determine the representativeness
+of historical data before using it to guide manage-
+ment or restoration activities.
+d Regional forest inventories offer an excellent tool for
+determining the applicability of reference conditions
+developed at one site to another.
+d The application of information derived from historical
+forest inventory plots can be guided by ecological clas-
+siﬁcation systems, such as the TEUs in the Southwest.
+d To use information pertaining to historical conditions
+at one site to inform restoration objectives or prescrip-
+tions at another, careful consideration of management
+history is needed because contemporary structural dif-
+ferences between sites may be due to land use history
+rather than ecological characteristics.
+Acknowledgments
+Many students and staff in the Ecological Restoration
+Institute and the School of Forestry at Northern Arizona
+University helped in the completion of this work. Special
+thanks go to Dr. J. Bakker, Dr. P. Z. Fule´, Dr. D. W. Huff-
+man, Dr. A. J. Sanche´z Meador, and J. J. Smith. Dr. P. Z.
+Fule´ also reviewed an earlier version of this work. We are
+grateful to S. D. Olberding (archivist for the Fort Valley
+Experiment Station of USFS Rocky Mountain Research
+Station), the USFS Rocky Mountain Research Station,
+Coconino National Forest, the U.S. FSFIA program, E.
+LaPointe (USFS Forest Inventory Analysis Spatial Data
+Services), and K. Pajkos (ASLD). Funding was provided
+by McIntire-Stennis appropriations to the School of For-
+estry and by the Ecological Restoration Institute at North-
+ern Arizona University. Additional support was granted
+by the National Research Initiative of the USDA Cooper-
+ative State Research, Education and Extension Service,
+grant number 2003-35101-12919.
+LITERATURE CITED
+Abella, S. R. 2005. Environmental and vegetational gradients on an
+Arizona ponderosa pine landscape: implications for ecological res-
+toration. Ph.D. dissertation. School of Forestry, Northern Arizona
+University, Flagstaff.
+Allen, C. D., J. L. Betancourt, and T. W. Swetnam. 1998. Landscape
+changes in the southwestern United States: techniques, long-term
+data sets, and trends. Pages 71–84 in T. Sisk, editor. Perspective on
+the land use history of North America: a context for understanding
+out changing environment. U.S. Geological Survey Biological Science
+Report USGS/BRD/BSR-1998-0003 (revised September 1999). U.S.
+Geological Survey.
+Allen, C. D., M. Savage, D. A. Falk, K. F. Suckling, T. Schulke, T. W.
+Swetnam, P. B. Stacey, P. Morgan, M. Hoffman, and J. T. Klingel.
+2002. Ecological restoration of southwestern ponderosa pine ecosys-
+tems: a broad perspective. Ecological Applications 12:1418–1433.
+Anderson, M. J. 2001. A new method for non-parametric multivariate
+analysis of variance. Austral Ecology 26:32–46.
+Archambault, L., B. V. Barnes, and J. A. Witter. 1990. Landscape ecosys-
+tems of disturbed oak forests of southeastern Michigan, USA. Cana-
+dian Journal of Forest Research 20:1570–1582.
+Bailey, R. G. 1996. Ecosystem geography. Springer-Verlag, Inc., New York.
+Bakker, J. D. 2005. Long-term vegetation dynamics of ponderosa pine
+forests. Ph. D. dissertation. Northern Arizona University, Flagstaff.
+Bakker, J. D., and M. M. Moore. 2007. Controls on vegetation structure in
+southwestern ponderosa pine forests, 1941 and 2004. Ecology 88:
+2305–2319.
+Bell, S. S., M. S. Fonseca, and L. B. Motten. 1997. Linking restoration and
+landscape ecology. Restoration Ecology 5:318–323.
+Brown, M. T., and L. R. Wicker. 2000. Discriminant analysis. Pages
+209–235 (p. 721) in H. E. A. Tinsley and S. D. Brown, editors. Hand-
+book of applied multivariate statistics and mathematical modeling.
+Academic Press, San Diego, California.
+Cleland, D. T., P. E. Avers, W. H. McNab, M. E. Jensen, R. G. Bailey,
+T. King, and W. E. Russell. 1997. National Hierarchical Framework
+of Ecological Units. Pages 181–200 (p. 384) in M. S. Boyce and A.
+Haney, editors. Ecosystem management: applications for sustain-
+able forest and wildlife resources. Yale University Press, New
+Haven, Connecticut.
+Couteron, P., R. Pe´lissier, D. Mapaga, J.-F. Molino, and L. Teillier. 2003.
+Drawing ecological insights from a management-oriented forest
+inventory in French Guiana. Forest Ecology and Management 172:
+89–108.
+Covington, W. W., and M. M. Moore. 1994. Southwestern ponderosa for-
+est structure: changes since Euro-American settlement. Journal of
+Forestry 92:39–47.
+Demarchi, D. A. 1996. An introduction to the ecoregions of British
+Columbia. Wildlife Branch, Ministry of Environment, Lands and
+Parks, Victoria, British Columbia, Canada.
+Duncan, S. 2004. 100,000 trees can’t be wrong: permanent study plots and
+the value of time. PNW Science Findings 64. U.S. Department of
+Agriculture, Forest Service, Paciﬁc Northwest Research Station,
+Portland, Oregon.
+Egan, D., and E. D. Howell, editors. 2001. The historical ecology hand-
+book: a restorationist’s guide to reference ecosystems. Island Press,
+Washington, D.C.
+Fisher, R. A. 1925. Statistical methods for research workers. Oliver and
+Boyd, Edinburgh, Scotland.
+Foster, D., F. Swanson, J. Aber, I. Burke, N. Brokaw, D. Tilman, and A.
+Knapp. 2003. The importance of land-use legacies to ecology and
+conservation. BioScience 53:77–88.
+Friederici, P., editor. 2003. Ecological restoration of southwestern
+ponderosa pine forests: a sourcebook for research and application.
+Island Press, Washington, D.C.
+Friendly, M. 2003. SAS Graphics Programs and Macros. York University
+Statistical Consulting Services (available from http://www.math.
+yorku.ca/SCS/sasmac/) accessed June 2005.
+Fule´, P. Z., W. W. Covington, and M. M. Moore. 1997. Determining refer-
+ence conditions for ecosystem management of southwestern ponder-
+osa pine forests. Ecological Applications 7:895–908.
+Fule´, P. Z., W. W. Covington, H. B. Smith, J. D. Springer, T. A. Heinlein,
+K. D. Huisinga, and M. M. Moore. 2002. Comparing ecological
+restoration alternatives: Grand Canyon, Arizona. Forest Ecology
+and Management 170:19–41.
+Ganey, J. L., and Benoit, M. A. 2002. Using terrestrial ecosystem survey
+data to identify potential habitat for the Mexican spotted owl on
+National Forest System lands: a pilot study. General Technical
+Assessing Representativeness of Inventory Plots
+376
+Restoration Ecology
+MAY 2009
+
+Report RMRS-GTR-86. U.S. Department of Agriculture, Forest
+Service, Rocky Mountain Research Station, Fort Collins, Colorado.
+Goebel, P. C., B. J. Palik, L. K. Kirkman, M. B. Drew, L. West, and D. C.
+Pederson. 2001. Forest ecosystems of a lower gulf coastal plain land-
+scape: multifactor classiﬁcation and analysis. Journal of the Torrey
+Botanical Society 128:47–75.
+Groven, R., J. Rolstad, K. O. Storaunet, and E. Roltad. 2002. Using forest
+reconstructions to assess the role of structural continuity for late-
+successional species. Forest Ecology and Management 164:39–55.
+Hill, R. R. 1917. Effects of grazing upon western yellow-pine reproduc-
+tion in the national forests of Arizona and New Mexico. USDA Bul-
+letin 580. U.S. Department of Agriculture, Washington, D.C.
+Johnson, E. A., K. Miyanishi, and H. Kleb. 1994. The hazard of inter-
+pretation of static age structure as shown by stand reconstruction
+in Pinus contorta/Picea engelmannii forest. Journal of Ecology 82:
+923–931.
+Kaufmann, M. R., R. T. Graham Jr, D. A. Boyce, W. H. Moir, L. Perry,
+R. T. Reynolds, et al. 1994. An ecological basis for ecosystem man-
+agement. USFS General Technical Report RM-246. U.S. Depart-
+ment of Agriculture, Forest Service, Rocky Mountain Research
+Station, Fort Collins, Colorado.
+Kerns, B. K., M. M. Moore, M. E. Timpson, and S. C. Hart. 2003.
+Soil properties associated with vegetation patches in a Pinus
+ponderosa-bunchgrass mosaic. Western North American Naturalist
+63:452–462.
+Krauch, H. 1926. The determination of increment in cut-over stands of
+western yellow pine in Arizona. Journal of Agricultural Research
+32:501–541.
+Landres, P. B., P. Morgan, and F. J. Swanson. 1999. Overview of the use
+of natural variability concepts in managing ecological systems. Eco-
+logical Applications 9:1279–1288.
+Legendre, P., and L. Legendre. 1998. Numerical ecology. 2nd English
+edition. Elsevier, Amsterdam, Holland.
+Mackey, B. G., H. A. Nix, M. F. Hutchinson, J. P. MacMahon, and P. M.
+Fleming. 1988. Assessing representativeness of place for conserva-
+tion reservation and heritage listing. Environmental Management
+12:501–514.
+Mast, J. N., P. Z. Fule´, M. M. Moore, W. W. Covington, and A. E. M.
+Waltz. 1999. Restoration of presettlement age structure of an
+Arizona ponderosa pine forest. Ecological Applications 9:228–239.
+McArdle, B. H., and M. J. Anderson. 2001. Fitting multivariate models to
+community data: a common on distance-based redundancy analysis.
+Ecology 82:290–297.
+Miller, G., N. Ambos, P. Boness, D. Reyher, G. Robertson, K. Scalzone,
+R. Steinke, and T. Subirge. 1994. Terrestrial ecosystems survey of
+the Coconino National Forest. U.S. Department of Agriculture,
+Forest Service, Southwestern Region, Albuquerque, New Mexico.
+Moore, M. M., W. W. Covington, and P. Z. Fule´. 1999. Reference con-
+ditions and ecological restoration: a southwestern ponderosa pine
+perspective. Ecological Applications 9:1266–1277.
+Moore, M. M., D. W. Huffman, P. Z. Fule´, W. W. Covington, and J. E.
+Crouse. 2004. Comparison of historical and contemporary forest
+structure and composition on permanent plots in southwestern pon-
+derosa pine forests. Forest Science 50:162–176.
+Morgan, P., J. B. Aplet, G. H. Haulﬂer, H. C. Humphries, M. M. Moore, and
+W. D. Wilson. 1994. Historical range of variability: a useful tool for
+evaluating ecosystem change. Journal of Sustainable Forestry 2:87–111.
+Neyland, M. G., M. J. Brown, and W. Su. 2000. Assessing the representa-
+tiveness of long-term ecological research sites: a case study at Warra
+in Tasmania. Australian Forestry 63:194–198.
+O’Brien, R. A. 2002. Arizona’s forest resources, 1999. Resource Bulletin
+RMRS-RB-2. U.S. Department of Agriculture, Forest Service,
+Rocky Mountain Research Station, Ogden, Utah.
+Ott, R. L., and M. T. Longnecker. 2001. An introduction to statistical
+methods and data analysis. Brooks Cole, New York.
+Palik, B. J., P. C. Goebel, L. K. Kirkman, and L. West. 2000. Using
+landscape hierarchies to guide restoration of disturbed ecosystems.
+Ecological Applications 10:189–202.
+Pearson, G. A. 1923. Natural reproduction of western yellow pine. Bul-
+letin No. 1105. U.S. Department of Agriculture, Washington, D.C.
+Pearson, G. A. 1933. A twenty-year record of changes in Arizona pine
+forest. Ecology 4:272–285.
+Pregitzer, K. S., P. C. Goebel, and T. B. Wigley. 2001. Evaluating forest-
+land classiﬁcation schemes as tools for maintaining biodiversity.
+Journal of Forestry 99:33–40.
+Sa´nchez Meador, A. J. 2006. Modeling spatial and temporal changes of
+ponderosa pine forests in northern Arizona since Euro-American
+settlement. Ph.D. dissertation. School of Forestry, Northern Ari-
+zona University, Flagstaff.
+SAS Institute, Inc. 2000. SAS/Stat user’s guide, version 8. 8.2 edition. SAS
+Institute Inc., Cary, North Carolina.
+Sætersdal, M., and H. J. B. Birks. 1993. Assessing the representativeness
+of nature reserves using multivariate analysis: vascular plants and
+breeding birds in deciduous forests, western Norway. Biological
+Conservation 65:121–132.
+Swetnam, T. W. 1990. Fire history and climate in the southwestern United
+States. Pages 6–17 in S. J. Krammes, editor. Proceedings of the Sym-
+posium on Effects on Fire in Management of Southwestern Natural
+Resources. General Technical Report RM-191. U.S. Department of
+Agriculture, Forest Service, Rocky Mountain Research Station, Fort
+Collins, Colorado.
+Swetnam, T. W., C. D. Allen, and J. L. Betancourt. 1999. Applied histori-
+cal ecology: using the past to manage for the future. Ecological
+Applications 9:1189–1206.
+USDA (U.S. Department of Agriculture). 1986. Terrestrial ecosystem
+survey handbook. U.S. Department of Agriculture, Forest Service,
+Southwestern Region, Albuquerque, New Mexico.
+Van Deusen, P. C. 2004. Forest inventory estimation with mapped plots.
+Canadian Journal of Forest Research 34:493–497.
+White, P. S., and J. L. Walker. 1997. Approximating nature’s variation:
+selecting and using reference information in restoration ecology.
+Restoration Ecology 5:338–349.
+Woolsey, T. S. Jr. 1912. Permanent sample plots. Forest Quarterly 10:
+38–44.
+Assessing Representativeness of Inventory Plots
+MAY 2009 Restoration Ecology
+377

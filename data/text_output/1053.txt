@@ -1,0 +1,2334 @@
+Feedstock Supply Assessment for HM3 Energy, Inc. – 
+Garland Prairie Road Facility 
+July 2020 
+Prepared for 
+HM3 Energy, Inc. 
+500 SE Butler Road 
+Gresham, OR 97080-9410 
+Prepared by 
+Patrick M. Rappold, PhD, Research Associate  
+Han-Sup Han, PhD, Director of Forest Operations and Biomass Utilization 
+Ecological Restoration Institute  
+Northern Arizona University 
+PO Box 15017 
+Flagstaff, AZ 86011-5017 
+Woody biomass generated from ponderosa pine during 
+a forest restoration project 
+NAU is an equal opportunity provider. 
+This research was funded by USDA Forest Service Grant 2019-DG-11031600-048 
+
+Table of Contents 
+Executive Summary .........................................................................................................................1 
+Background ......................................................................................................................................5 
+Study Methods .................................................................................................................................7 
+Geographic Area of Focus .........................................................................................................7 
+Development of a Tree Bole and Woody Biomass Service Area ...............................................8 
+Development of Timber Stand Data and Volume Estimates ....................................................11 
+Analysis of Merchandising Practices Using Scale Tickets ......................................................13 
+Results ............................................................................................................................................13 
+Service Area Delineation .........................................................................................................13 
+Estimates of Woody Biomass Residue Volumes .......................................................................14 
+Government Estimate and Load Scale Ticket Comparisons ....................................................15 
+Product Haul Analysis .............................................................................................................16 
+Other Woody Biomass Resources ............................................................................................17 
+Discussion and Conclusion ............................................................................................................18 
+Woody Biomass Residue Material Volumes ............................................................................18 
+Merchandising Practices .........................................................................................................19 
+Transportation Analysis ...........................................................................................................19 
+Long-Term Outlook ..................................................................................................................20 
+Acknowledgments..........................................................................................................................23 
+Literature Cited ..............................................................................................................................24 
+Appendix ........................................................................................................................................27 
+
+List of Figures 
+Figure 1. One-way Service Area Transportation Analysis ............................................................ 1 
+Figure 2. Four Forest Restoration Initiative (4FRI) Project Area .................................................. 5 
+Figure 3. Cut and sold volumes for National Forests in Arizona; 1977–2018. Source USFS Cut 
+& Sold Reports ................................................................................................................................ 7 
+Figure 4. Geographic area of focus ................................................................................................ 7 
+Figure 5. Attributes (a) and travel modes (b) parameter settings in the network dataset properties 
+dialog boxes .................................................................................................................................. 10 
+Figure 6. Components of the Global Turns in the network attributes that along with other 
+attributes determine travel times ................................................................................................... 11 
+Figure 7. 30, 45, and 90-minute one-way truck travel delineations from the Service Area output 
+function of the Network Analyst Extension in the ArcGIS Pro (ver. 2.4.1) software package .... 14 
+List of Tables 
+Table 1. Estimated distribution of ponderosa pine woody biomass residual material by tree size 
+that is to be removed from the designated Service Areas (143,064 acres) over the next five years 
+(2019–2023) .................................................................................................................................... 2 
+Table 2. Comparison of Government Estimate volumes to volumes of bole and biomass that 
+were removed from forest harvest projects ..................................................................................... 3 
+Table 3. Field values for maximum speeds assigned to road types ............................................... 8 
+Table 4. Estimated average tons per acre of woody biomass residues derived from USFS volume 
+estimates on the Coconino and Kaibab National Forests. Figures calculated from published 
+geospatial data for the USFS 4FRI (USDA 2019a) ...................................................................... 15 
+Table 5. Estimated distribution of woody biomass residual material by tree size that is to be 
+removed from the designated Service Areas (143,064 acres) over the next five years (2019–
+2023). Figures calculated from published geospatial data for the USFS 4FRI (USDA 2019a) ... 15 
+Table 6. Comparison of Government Estimate volumes to volumes of bole and biomass that 
+were removed from forest harvest projects ................................................................................... 16 
+Table 7. Analysis of bole and residue volumes and required transportation needs, within a 90-
+minute One-Way Service Area of Camp Navajo .......................................................................... 17 
+
+Appendix Listing 
+Appendix A. Planned timber harvest projects from 2019–2023 across the 4FRI project area .... 27 
+Appendix B. List of planned forest thinning projects from 2019–2023. Data source: Geospatial 
+data in file fseprd595378 - Timber_Harvest_Projects_Five_Year_Plan from 
+https://www.fs.usda.gov/main/4fri/gis. Acre values may change as project boundaries are 
+finalized by USFS. ........................................................................................................................ 27 
+Appendix C. Location of the facility/starting point for the transportation analysis overlaid 
+against the polylines of the network dataset created from the 2018 Topologically Integrated 
+Geographic Encoding & Referencing (TIGER) shapefiles for roads in Arizona ......................... 31 
+Appendix D. Outputs from the validation process where Service Area polygon size was 
+compared as a function of the Speed field values used in the network dataset. Figure (a) is the 
+output when the Speed field values are a function of the road type. Figure (b) is the output from 
+when the Speed field is held constant across all road types. ........................................................ 32 
+Appendix E. Ecological response units in the immediate vicinity of the Garland Prairie Road 
+Service Area. Extent of ponderosa pine in shown in image a and pinyon-juniper in image b. 
+Source: USFS Region 3 Ecological Response Units for Arizona; version 5. ............................... 33 
+Appendix F. Location of the South Zone Grassland Restoration Project and the Chino 
+Landscape Restoration in relation to the Garland Prairie Road Service Area .............................. 34 
+Appendix G. Location of timber harvests planned from 2019–2023, that occur within the 
+Garland Prairie Service Area ........................................................................................................ 34 
+Appendix H. Acres of USFS timber harvest projects in 30,45, and 60 minutes Service Area and 
+corresponding bole and residue volume estimates; 2019–2023 ................................................... 35 
+Appendix I. Analysis of residue volumes and required transportation needs, within a 30-minute 
+One-Way Service Area of the Garland Prairie site. Estimated values calculated assuming 25.8 
+tons of woody biomass residue generated per acre treated and the average tractor-trailer load 
+hauling 21.3 tons per load. ........................................................................................................... 36 
+Appendix J. Analysis of residue volumes and required transportation needs, within a 45-minute 
+One-Way Service Area of the Garland Prairie site. Estimated values calculated assuming 25.8 
+tons of woody biomass residue generated per acre treated and the average tractor-trailer load 
+hauling 21.3 tons per load. ........................................................................................................... 36 
+Appendix K. Current timber harvest projects in general vicinity of the Garland Prairie Service 
+Area .............................................................................................................................................. 37 
+Appendix L. Land management pattern in the vicinity of Garland Prairie Road ....................... 37 
+
+Executive Summary 
+HM3 Energy, Inc. is seeking to develop a biocoal facility in northern Arizona that would use 
+whole-tree chips as feedstock to produce a bituminous coal substitute to service domestic and 
+international energy markets. This facility would need at least 320,000 green tons of woody 
+biomass annually to operate at maximum output levels. We performed an inventory and 
+transportation analysis using geospatial tools to generate potential wood supply data from 
+ponderosa pine forests in northern Arizona. These data can be used by HM3 to make investment 
+decisions. The study began with a transportation analysis using the Network Analyst tool in 
+ArcGIS Pro to determine a Service Area focal point around a proposed manufacturing site on 
+Garland Prairie Road in Williams, Arizona (Figure 1). The Network Analyst tool identified the 
+Service Area based on one-way trucking time from the site on Garland Prairie Road in 
+increments of 30, 45, and 90 minutes, excluding loading and unloading time. Travel time across 
+various road surfaces was programmed into a network dataset to model the speed tractor trailers 
+safely travel on different road classes, e.g., highways, city streets, unpaved forest roads. The 
+Service Area outputs for the one-way travel times (30, 45, and 90 minutes) were converted to 
+polygons and overlaid with forest restoration projects planned by the USDA Forest Service 
+(USFS) for the next five years (2019–2023) as part of the Four Forest Restoration Initiative 
+(4FRI). We performed an analysis to estimate the volume of bole material and residual woody 
+biomass removed from planned forest restoration project areas in the Service Area polygons. To 
+determine the volume data for bole material, we used current USFS project area volume 
+estimates. We assessed residue volumes by using USFS average volume estimates on forested 
+stands adjacent to the Service Area polygons. Because HM3 is primarily interested in identifying 
+residual woody biomass volumes, the majority of this report focuses on residue volumes and not 
+on bole volumes. 
+Figure 1. One-way Service Area Transportation Analysis
+1
+
+Based on the analysis of restoration projects planned between 2019 and 2023, it is 
+estimated that the USFS will issue forest restoration thinning contracts that will generate an 
+estimated 1,874,138 tons of woody biomass within a 90-minute drive time distance from 
+Williams, Arizona. The planned treated area within this travel distance is 143,064 acres. The 
+purpose of the silvicultural treatments is to create landscapes more resilient to fire, insects, and 
+disease by reducing basal area and increasing age-class diversity while conserving larger 
+diameter trees (USDA 2015). To conserve larger diameter trees, crews remove smaller diameter 
+trees to reduce basal area and help eliminate ladder fuels that carry fire into tree canopies. As 
+outlined in the Signed Record of Decision (USDA 2015) for the Four Forest Restoration 
+Initiative (4FRI), the majority of silvicultural treatments will involve mechanical thinning 
+followed by prescribed fire.  
+Residue volumes will be generated through mechanically harvesting and merchandising 
+bole wood materials. We used averages from USFS timber cruise data to estimate volumes of 
+woody biomass residues resulting from the five-year thinning activity polygons of the Service 
+Areas. Table 1 presents the estimated tons of residual material resulting from USFS forest 
+restoration thinning projects (2019 to 2023). Residue volumes <5.9 inches at diameter at breast 
+height (dbh) represent very small diameter material that likely cannot be processed into any other 
+product besides chips. It is highly recommended that on-the-ground measurements verify these 
+values to ensure the needed volume of material is available. 
+Table 1. Estimated distribution of ponderosa pine woody biomass residual material by tree size that is to be removed from the 
+designated Service Areas (143,064 acres) over the next five years (2019–2023) 
+Tree diameter (inch) at breast height 
+<5.9 
+6.0 – 8.9 
+9.0 – 11.9 
+>12.0
+Total 
+Year 
+Acres 
+– – – – – – – – Woody biomass residues (green tons) – – – – – – – – 
+2019* 
+5,388 
+7,004 
+8,082 
+18,318 
+37,175 
+63,575 
+2020 
+30,735 
+39,955 
+46,102 
+104,498 
+212,070 
+362,671 
+2021 
+36,918 
+47,993 
+55,377 
+125,521 
+254,734 
+483,626 
+2022 
+48,095 
+62,523 
+72,142 
+163,522 
+331,853 
+630,041 
+2023 
+21,929 
+28,507 
+32,893 
+74,558 
+151,309 
+287,267 
+Total 
+143,064 
+185,983 
+214,596 
+486,418 
+987,142 
+1,874,138 
+*The status of calendar year 2019 projects would need to be confirmed with the USFS
+In addition to the ponderosa pine feedstock estimates presented in Table 1, there is the 
+possibility of incorporating juniper woody biomass from grassland restoration projects into the 
+HM3 feedstock. We estimate there is at least 2,723,349 green tons of juniper biomass that 
+potentially could be utilized from nearby grassland restoration projects. However, logging 
+contractors may need to invest in specialized equipment or modify existing configurations to 
+cost-effectively shear, forward, and transport juniper biomass to a HM3 facility. 
+The 4FRI Phase 2 stewardship request for proposals published on September 16, 2019 
+states that the USFS will consider offers that do not utilize woody biomass residues, but also 
+says that proposals that remove the residues will be ranked higher (USDA 2019b). Based on this 
+2
+
+statement, there is a strong likelihood that almost all of the residue material created from timber 
+harvesting activities will be taken off-site and possibly made available for purchase.  
+While the USFS timber cruise provides estimates for volumes of woody biomass residues 
+produced during thinning operations, there are a lack of data on what volumes are actually 
+removed in comparison to the government estimates. To better identify actual volumes removed, 
+truck scaling data from two USFS forest restoration projects were analyzed and compared to the 
+USFS timber cruise volumes. The analysis identified that current merchandising practices by 
+thinning contractors produce greater volumes of woody biomass residue than USFS timber cruise 
+estimates (Table 2). This is likely due to log diameter limitations of wood processing plants 
+where the bole material is being marketed to. The development of a processing facility that could 
+take small-diameter bole material could likely decrease the amount of woody biomass residue. 
+This is an important finding for HM3 because their woody biomass feedstock estimates may 
+fluctuate depending on how logging contractors are merchandising tree boles.  
+Table 2. Comparison of Government Estimate volumes to volumes of bole and biomass that were removed from forest harvest 
+projects 
+Project 1 
+Govern. Est. 2 
+(Green Tons) 
+Govern. Est. 
+(Green Tons/Acre) 
+Volume Merchandized 
+(Tons) 
+Volume 
+Merchandized 
+(Tons/Acre) 
+Acres 
+Boles 
+Residue 
+Total 
+Boles 
+Residue 
+Boles 
+Residue 
+Total 
+Boles 
+Residue 
+A 
+1,046 
+34,320 
+17,433 
+51,753 
+32.8 
+16.6 
+19,918 
+31,492 
+51,410 
+19.0 
+30.1 
+B 
+944 
+23,032 
+12,580 
+35,612 
+24.4 
+13.3 
+15,046 
+20,185 
+35,231 
+15.9 
+21.4 
+Average 
+28.6 
+15.0 
+Average 
+17.5 
+25.8 
+1Names of the forest restoration projects have been withheld for confidentiality reasons related to the operations of the logging contractor 
+and the business’s agreement with the USFS. 
+2Based upon USFS Region 3 Utilization Standards prior to 2019. Refer to Forest Service Manual (fsm) R3 SUPPLEMENT  2400-2009-1 for 
+utilization standards. 
+According to truck scaling data, tractor trailers hauling woody biomass residue 
+transported, on average, 21.3 tons per trip. This is relevant for HM3 when calculating 
+transportation costs for material delivered to the HM3 facility. It is noteworthy that starting in 
+January 2020, the Arizona Department of Transportation (ADOT) allowed log trucks and chip 
+vans to haul up to 91,000 pounds on federal highways if the trailers have a sixth axle (ADOT 
+2019). Prior to January 2020, log trucks and chips vans traveling on federal highways were 
+limited to 80,000 pounds. 
+At the time data was collected for this report, there was 30,627 acres currently under 
+contract to be thinned on the Coconino and Kaibab National Forests (USDA 2019a). Using a 
+combination of USFS timber cruise data and calculated averages, we estimate this acreage 
+represents a potential of 790,176 tons of residue material that will be produced during the 
+thinning operations. In addition to thinning projects planned on the National Forest System, we 
+identified long-term forestry-related activities by other land management agencies.  
+Natural resource managers at the Arizona Army National Guard’s Camp Navajo 
+Ordinance Facility plan to implement silvicultural treatments on 13,554 acres of forested lands 
+from 2020 to 2029 (Kainrath 2019). Assuming an average yield of 25.8 tons per acre of woody 
+biomass, this would equate to an estimated 34,969 of woody biomass generated annually from 
+3
+
+Camp Navajo. Additionally, land managers overseeing Arizona’s State Trust Lands plan to make 
+available between 1,800 to 2,000 acres per year for timber harvesting (TSS Consultants 2019). If 
+State Trust Lands can also yield at least 25.8 tons per acre of woody biomass, this would equate 
+to an annual volume output of between 46,440 and 51,600 tons. Collectively, the estimated 
+volume of woody biomass generated from forest restoration activities across the various land 
+management jurisdictions should be sufficient to meet the manufacturing needs of HM3.  
+Additionally, a high-volume sawmill is being developed in northern Arizona that likely will 
+generate sawmill waste that could supplement feedstock reserves for HM3. 
+Since the 4FRI Phase 2 request for proposals was published in September 2019, the 
+USFS has made subsequent amendments clarifying the agency will allow for a 20-year contract 
+period and will provide a minimum of 605,000 acres of timber resources across six defined 
+areas.1 This clarification illustrates a commitment to supporting private enterprises, which are an 
+essential economic component of forest restoration projects.  
+1 Amendment 3 of Solicitation No. 12837119R4005 posted on December 20, 2019. Available [online] at 
+https://beta.sam.gov/opp/ 
+4
+
+Background 
+Arizona is home to the world’s largest contiguous stand of ponderosa pine that extends from the 
+border of New Mexico to the north side of the Grand Canyon. Since European settlement, forest 
+health has declined due to land management practices like fire suppression and overgrazing. As a 
+result, these forests are now more susceptible to wildfire, insects, and disease. Starting in 2004, 
+the US Forest Service (USFS) Region 3 office initiated landscape-scale forest restoration 
+treatments that integrate private industry and the use of restoration by-products. Forest 
+restoration by-products are characterized by small-diameter ponderosa pine logs and traditional 
+logging slash, like needles and branches. These by-products are considered low value by 
+conventional forest products markets and can be challenging to market and utilize. The relatively 
+low value of by-products can negatively affect the efficiency and profitability of forest thinning 
+operations. Because of this, the Southwest regional office initiated the White Mountain 
+Stewardship Project in 2004 to stimulate private businesses and cost-effectively remove and use 
+the low-value by-products. From 2004 to 2014, the USFS compensated forest thinning 
+contractors for each acre treated across a 150,000-acre project area in eastern Arizona. The by-
+products were marketed to various private businesses that could add value to the otherwise low-
+value residues and resulted in the creation of a dynamic wood supply chain. The cluster that 
+resulted from the White Mountain 
+Stewardship Project is a model used 
+by other western states to cost-
+effectively improve forest health 
+conditions and support rural 
+economies (Nicholls 2014). A key 
+factor contributing to the 
+development of the business cluster 
+was a concerted effort between the 
+logging contractors and the USFS to 
+maintain a continuous supply of raw 
+materials to businesses. As trust in 
+the reliability of the supply chain 
+increased, business owners were 
+more confident in taking on debt to 
+finance manufacturing improvements 
+and expand manufacturing capacity.  
+Building on the success of the 
+White Mountain Stewardship 
+Project—and under the authorization of the federal Collaborative Forest Landscape Restoration 
+Program—Region 3 was able to get an Environmental Impact Statement (EIS) signed for 
+restoration treatments across four national forests (Figure 2). Known as the Four Forest 
+Restoration Initiative (4FRI), this collaborative project was formed on the hypothesis that an 
+increased number of planned treatment areas would enable an appropriately scaled forest 
+industry to develop without subsidization from the federal government.  
+Figure 2. Four Forest Restoration Initiative (4FRI) Project Area
+5
+
+In 2012, the USFS awarded the first 4FRI contract to implement planned treatment 
+prescriptions. As illustrated in Figure 3, the volume of standing timber available from the USFS 
+increased contract award. Figure 3 also illustrates how policy can affect timber volumes offered 
+by the USFS.  
+Figure 3. Cut and sold volumes for national forests in Arizona; 1977–2018. Source USFS Cut & Sold Reports 
+To date, the pace of restoration treatments has fallen behind the USFS’s goal of 
+mechanically treating 45,000 acres annually.2 One reason the project has not met its treatment 
+goals is a lack of adequate markets to utilize the volumes of bole and woody biomass residue 
+materials (Ruggirello 2017). Adding to the problem is that the bole material being removed is 
+predominately small-diameter trees and yields products with significantly less market value than 
+from processing large-diameter ponderosa pine trees (Selig et al. 2010). 
+To provide market-based solutions for using woody biomass, HM3 is working to create a 
+value-added product from restoration by-products. Products like biocoal represent an emerging 
+cash cow market as more countries and companies seek to offset bituminous coal usage with a 
+renewable resource. However, feedstock supply information must be compiled for investors to 
+make prudent decisions when financing large-scale manufacturing infrastructure.  
+The goal of this inventory and transportation report was to facilitate increasing the 
+number of acres treated annually on the National Forest System and adjacent lands in northern 
+2 The 45,000 acre per year goal is based upon the Record of Decision for the Four-Forest Restoration Initiative 
+(USDA 2015) 
+Listing of the Northern Spotted Owl 
+as T&E
+Final Rule to List 
+MSO as T&E
+Federal Injunction Imposed on 
+Timber Harvests in the SW
+Rodeo-Chediski Fire
+White Mountain Stewardship 
+Project Begins
+Northern Arizona Tornado Event & 
+Shultz Fire
+Wallow Fire
+4FRI Contract Issued
+0
+50,000
+100,000
+150,000
+200,000
+250,000
+300,000
+350,000
+400,000
+450,000
+1977
+1978
+1979
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Volume (MBF)
+Federal Fiscal Year
+USFS Cut & Sold Volumes, Arizona 1977-2018
+Volume Cut by Contractors
+Volume Sold by USFS
+August 21, 2019
+6
+
+Arizona by presenting information that could be used to make investment decisions by forest-
+based enterprises. The objectives of this report are to: 
+1. Present a geospatial technique for estimating volumes of residue woody biomass material
+to be removed for specific treatment areas in the first 4FRI EIS and within the geographic
+scope of the proposed 4FRI Phase 2 contract.
+2. Compare bole and residue material volumes estimates from USFS timber cruises against
+actual truck weight scale ticket data for the purpose of identifying average load volumes
+and average yield per acre of material, based upon current merchandising practices.
+The intent is that HM3 use the information presented in the report and its described
+geospatial techniques for planning purposes and for supporting the expansion of logging and 
+manufacturing capacities.  
+Study Methods 
+Geographic Area of Focus 
+The geographic focus area for analysis was on South Garland Prairie Road within the city limits 
+of Williams, AZ in Township 22N Range 3E and Section 31 (Figure 4). This location was 
+chosen because it is within the boundaries of the first 4FRI EIS and is adjacent to current forest 
+product manufacturing businesses. Furthermore, there are plans to build a high-capacity sawmill 
+in the immediate area, creating additional feedstock resources in the form of green and dry 
+sawdust along with planer shavings.  
+Figure 4. Geographic area of focus 
+7
+
+Development of a Tree Bole and Woody Biomass Service Area 
+Wood supply chains are made up of in-woods logging operations, businesses that transport the 
+tree boles and woody biomass, and one or more manufacturing facilities that utilize the raw 
+materials. An economically efficient wood supply chain minimizes the transportation distance 
+from the timber resource and the manufacturing facilities. As transportation distances increase, 
+the profitability of each segment along the wood supply chain decreases (Han et al. 2004). If the 
+transportation distance exceeds the breakeven profit margin point for any of the businesses in the 
+wood supply chain, then the chain is broken. To model several different supply chain scenarios, 
+one-way transportation times excluding loading and unloading time for the procurement area 
+were set at 30, 45, and 90 minutes.  
+Based on a process described by Adewopo and Locher (2011), a network dataset was 
+created with Topologically Integrated Geographic Encoding & Referencing (TIGER) shapefiles 
+for roads in Arizona (US Geological Survey 2019) using ESRI ArcCatalog version 10.5.1 
+software (ESRI 2019). A total of five shapefiles encompassed the TIGER data and represented 
+the state of Arizona’s road system in 2018. To create a network dataset, the five shapefiles were 
+imported into a feature dataset within a file geodatabase. Within the TIGER shapefiles an 
+attribute field contained the National Map Feature Road Classes (TNMFRC). Each TNMFRC 
+value correlated to a transportation method; 1 - Controlled-access Highway; 2 - Secondary 
+Highway or Major Connecting Road; 3 - Local Connecting Road; 4 - Local Road; 5 - Ramp; 6 - 
+4WD; 7 - Ferry Route; and 8 - Tunnel. The TNMFRC values were used to model the differences 
+in travel speeds that a log truck or chip van would safely negotiate across the various types of 
+roads. The field values for the assigned road speeds are presented in Table 3 and are based on 
+consultation with forest operations experts (Han and Halbrook 2019).  
+Table 3. Field values for maximum speeds assigned to road types 
+Road ClassificationA 
+Maximum Speed Limit 
+(MPH) 
+1 - Controlled-access Highway 
+65 
+2 - Secondary Highway or Major Connecting Road 
+50 
+3 - Local Connecting Road 
+45 
+4 - Local Road 
+25 
+5 - Ramp 
+15 
+6 - 4WD 
+15 
+7 - Ferry Route 
+55 
+8 - Tunnel 
+55 
+AClassifications based upon 2018 U.S. Census Bureau Topologically Integrated Geographic Encoding & 
+Referencing (TIGER) GIS data - The National Map Feature Road Class (TNMFRC) 
+To model differences in travel speeds across the various road types, a data field 
+representing miles per hour was added to the attribute table in each of the five TIGER shapefiles, 
+with the field name of “Speed.” The process of populating the Speed field was automated using a 
+Python 3 script. Python 3 is scripting language that has been integrated with the ArcGIS Pro 
+application (Corbin 2015). Below is the Python 3 script used to populate the attribute tables with 
+the miles per hour values in the Speed field.  
+8
+
+Python 3 Programming Script 
+Parameters 
+Input Table Segment 
+Field Name Speed 
+Speed = Reclass(!TNMFRC!) 
+Expression Type 
+PYTHON3 
+Expression Reclass(!TNMFRC!) 
+Code Block # Reclassify values to another value 
+def Reclass(TNMFRC): 
+if TNMFRC is 1: 
+return 65 
+elif TNMFRC is 2: 
+return 50 
+elif TNMFRC is 3: 
+return 45 
+elif TNMFRC is 4: 
+return 25 
+elif TNMFRC is 5: 
+return 15 
+elif TNMFRC is 6: 
+return 15 
+elif TNMFRC is 7: 
+return 55 
+elif TNMFRC is 8: 
+return 55 
+return arg 
+Where: 
+TNMFRC = The National Map Feature Road Class (defined in Table 3) 
+return = the maximum speed limit, in miles per hour, for the associated TNMFRC 
+elif = else if  
+Two additional fields were then created in each of the attribute tables of the five TIGER 
+shapefiles to define maximum speed limits on different road types. One field was for the road 
+length in miles and the second field was the calculated travel time across the road segments. To 
+convert the field representing road lengths from meters to miles, the following equation was 
+input into the data field using the following Python 3 scripting language.  
+Shape_length_miles = Shape_length * 0.000621371 
+Where: 
+Shape_length = polyline length in meters 
+Calculated travel times were input into the attribute tables by the Python 3 script below: 
+Travel_Time = !Shape_length_miles! * (60 / !Speed!) 
+Where: 
+!Speed! = Miles per hour value associated with the TNMFRC
+9
+
+Using ArcCatalog, a network dataset was then created using the five TIGER shapefiles 
+which contained all of the road length and travel speed attributes. To validate that the Python 3 
+programming script affected driving time, as a function of road type, we sequentially changed 
+the Speed field values and observed how the size of the Service Area polygons changed in size 
+directly. 
+Network attributes were also defined when creating the network dataset, to fully 
+represent truck travel. The attribute and travel mode parameters of the network dataset attributes 
+are presented in Figure 5. The travel mode type was chosen to be “Truck,” which ESRI (2019) 
+defines as: 
+“Models basic truck travel by preferring designated truck routes and finds solutions that 
+optimize travel time. Routes must obey one-way roads, avoid illegal turns, and so on. When 
+you specify a start time, dynamic travel speeds based on traffic are used where it is available, 
+up to the legal truck speed limit.” 
+(a) 
+(b) 
+Figure 5. Attributes (a) and travel modes (b) parameter settings in the network dataset properties dialog boxes 
+Because time spent driving, and not miles, was more important for the analysis, the 
+Impedance value was set to drive time in minutes. Distance attribute was defined by length in 
+miles. One of the limitations of this network dataset is that we could not model elevation because 
+the 2018 TIGER roads data did not have z-values, only x and y values. It is unknown to what 
+extent not modeling elevation had on the overall analysis. Elevation might have had a larger 
+impact on the Service Area if the travel distance extended south of the Mogollon Rim, where the 
+2,000-foot change in elevation would have had a greater impact on truck speed. In terms of road 
+hierarchy or which roads were preferred routes, the hierarchy value was set to where all routes 
+were equal in value. The default hierarchy value for most network datasets is that highways and 
+paved roads are preferred over gravel covered forest roads. However, because this project 
+modeled truck traffic hauling logs and forest residue, it was more realistic to make all roads 
+equally preferred to mimic the trucks going long distances from inside forested areas on gravel 
+10
+
+covered forest roads. Additionally, Global Turns were also included in the network attributes. 
+We modeled stopping for traffic control devices at intersections and slowing down for turns 
+using of Global Turns (ESRI 2019). The time penalties for each of the driving actions associated 
+with the Global Turns parameters are shown in Figure 6.  
+Figure 6. Components of the Global Turns in the network attributes that along with other attributes determine travel times 
+Once the network dataset was completed, it was loaded into an ArcGIS Pro version 2.4.1 
+(ESRI 2019) project. We implemented a time-based transportation analysis using the Service 
+Area geoprocessing tool in ArcGIS Pro ver. 2.4.1. A facility was added at an area on Garland 
+Prairie Road at coordinates 112°6’6”W 35°15’2”N. This location was chosen based because it 
+falls on a polyline that is part of 2018 TIGER network dataset. The proximity of the facility 
+location, as shown in Appendix C, is close to Interstate 40 and is within an area zoned for 
+industrial use.  
+Development of Timber Stand Data and Volume Estimates 
+Within the 4FRI geospatial data published by the USFS (USDA 2019a), there is a Timber 
+Harvest Projects Five-Year Plan that identifies the project name, location, and planned treatment 
+acres across the 4FRI footprint. It should be noted that the five-year plan is still in development 
+and has not been finalized. This geospatial data shows that over the next five years (2019–2023) 
+there are 328,3953 acres of planned timber harvests across the 4FRI project area that will be 
+either put out for competitive bid or grouped into task orders as part of a single 4FRI contract. A 
+list of the planned projects and a corresponding map illustrating the project areas are available in 
+Appendix A and Appendix B.  
+3 Acreage figure based upon geospatial data in file fseprd595378 - Timber_Harvest_Projects_Five_Year_Plan from 
+https://www.fs.usda.gov/main/4fri/gis. Acres values may change as project boundaries are finalized by USFS. 
+11
+
+We used two sources of information to identify the amount of woody biomass residue 
+generated in the Service Area. The first was geospatial data from 4FRI (USDA 2019a). The 
+second data source was information provided with the 4FRI Phase 2 request for proposals, herein 
+referred to as the 4FRI Phase 2 RFP (USDA 2019b).  
+The geospatial data for the Timber Harvest Projects Five-Year Plan unfortunately offered 
+limited timber cruise or stand data for the project areas. Because of this, estimates of residual 
+woody biomass volumes were calculated based on completed timber cruises from timber harvest 
+projects adjacent to the designated Service Area for Camp Navajo. Minimal information is 
+provided on how the cruises were conducted, but it can be assumed that the design of the timber 
+cruises adhered to standards published in the USFS Timber Cruising Handbook (USDA 2000). 
+A total of 79 sets of timber cruise information was available for current timber harvest projects 
+across the 4FRI footprint, in standard geospatial format. These datasets were downloaded from 
+the 4FRI geospatial website in September 2019.4 Information in the datasets included: 
+1. Project name
+2. Year
+3. Contract Type
+4. Forest
+5. NEPA Name
+6. Status
+7. Total volume in CCF and tons for bole and residue material
+8. Total volume in CCF and tons for bole material, by diameter class (6.0 – 8.9 in, 9.0 –
+11.9 in, and >12.0 in)
+9. Total volume in tons for residue material, by size class (<5.9 in, 6.0 – 8.9 in, 9.0 – 11.9
+in, and >12.0 in)
+10. Quadratic mean diameter
+To best represent the timber stands in the immediate area to Camp Navajo, timber cruise 
+data from the Apache-Sitgreaves and Tonto national forests were excluded from the bole and 
+residual volume analysis. The remaining timber cruise data totaled 39 datasets, 24 timber cruise 
+datasets from the Coconino National Forest and 15 timber cruise datasets from the Kaibab 
+National Forest. A majority of the 39 datasets fell within the Service Area generated from the 
+Network Analyst procedure, which further helps assure that the timber cruise data are 
+representative of the surrounding future timber harvest projects. The relevant information in the 
+timber cruise datasets for the Coconino and Kaibab national forests were: 
+1. Number of project acres.
+2. Total calculated residue (woody biomass) volumes from forest restoration projects for the
+four delineated diameters at breast height (dbh) size classes. The dbh size classes in the
+geospatial data were <5.9 inches5, 6.0–8.9 inches, 9.0–11.9 inches, and >12.0 inches.
+4 4FRI Geospatial Data https://www.fs.usda.gov/main/4fri/gis 
+5 In the geospatial data, the < 5.9 inch dbh class is identified as TSI. 
+12
+
+We used these two pieces of information to calculate average volumes of woody biomass 
+per acre for each of the dbh size classes. These average volume figures were then used to 
+interpolate residual woody biomass volumes generated during timber harvest projects over the 
+next five years, and did not currently have completed timber cruises. The use of timber cruise 
+data to interpolate wood volume estimates on adjacent but similar timberlands has been shown to 
+produce estimates similar to that of higher-level geospatial techniques that used USFS Forest 
+Inventory and Analysis (FIA) data in combination with high-resolution imagery from NASA 
+(Hampton et al. 2008). Additionally, this approach to estimating wood volumes is more easily 
+replicated by private businesses with the appropriate software to analyze basic geospatial data, 
+but not necessarily the skillset to analyze high-resolution imagery or FIA data.  
+Analysis of Merchandising Practices Using Scale Tickets 
+The USFS timber cruise data are only intended to provide estimates of the products removed and 
+are referred to as Government Estimates in the timber sale prospectuses put out for bid. Using 
+scale ticket information provided by the USFS Region 3 office for two timber harvesting 
+projects, we made comparisons between the actual volumes of material removed by the logging 
+contractor to the bole and residue volumes identified in the Government Estimates. This 
+information can help to more precisely identify actual bole and residue volume figures generated 
+during timber harvest projects.  
+Scale ticket data from two forest restoration projects on the Coconino and Kaibab 
+national forests between 2013 and 2016 provided data used for this analysis. These projects were 
+chosen because they were implemented on federal lands that fall within the Garland Prairie 
+Service Area. The names of the forest restoration projects have been withheld for confidentiality 
+reasons related to the operations of the logging contractor and the business’s agreement with the 
+USFS.  
+The scale ticket data contained gross and net weights from USFS-certified scales of 
+tractor trailers transporting products from forests to various markets. For each data point, the 
+contents of the trailer loads were recorded as either a roundwood product or a woody biomass 
+product along with the name of the respective timber harvest project the material originated 
+from. These data allow for the comparison of Government Estimate volumes to actual volumes 
+removed. Additionally, these data can be useful for estimating costs associated with transporting 
+bole wood and woody biomass within the Garland Prairie Service Area. An analysis of load 
+hauling from the Service Area using the scale ticket data is presented later in this report. 
+Results 
+Service Area Delineation 
+The process of validating the Python 3 programming script described in the “Development of a 
+Tree Bole and Woody Biomass Service Area” section showed no errors in the script. The 
+changing size of the Service Area polygons correlated directly to the Speed values in the Python 
+3 programming script.  
+13
+
+After the starting point or facility was located, the 30, 45, and 90 minutes away from 
+facilities cut-off parameters were entered into the Service Area dialog box and the Run was 
+initiated. Output from the Run produced three delineated Service Areas polygons as shown in 
+Figure 7. Each of the polygons represents one-way travel distance from the facility across all of 
+the possible combination of road types. Total size of the area in the 30-minute polygon was 
+212,069 acres followed by the 45-minute polygon with 319,840 acres and the 90-minute polygon 
+was 2,173,395 acres. Some of the areas in the polygons were not in forested areas as it was not 
+possible to limit the Service Area analysis, to only forested areas, using either point or polygon 
+barriers. This limitation was due to the number of roads that would have intersected the polygon 
+barriers and the inherent limitation in both ArcGIS Pro and ArcMap that does not allow for 
+polygon barriers to intersect more than 2,000 features (ESRI 2019). Attempts were made to limit 
+the Service Area to forested areas but the number of road features intersecting the polygon 
+barriers prevented full execution of the program run.  
+Figure 7. 30, 45, and 90-minute one-way truck travel delineations from the Service Area output function of the Network Analyst 
+Extension in the ArcGIS Pro (ver. 2.4.1) software package 
+The Service Area polygons identified in this step of the study were used throughout the 
+rest of the study as a focus area for identifying volumes of woody biomass residuals.  
+Estimates of Woody Biomass Residue Volumes 
+Calculated average volumes per acre from USFS timber cruise data are presented in Table 4. 
+The figures in Table 4, were used to extrapolate the volumes of bole and residue material across 
+other project areas in the Service Area. Based on data in Table 4, we calculated an estimated 
+14
+
+1,874,138 tons of woody biomass residue generated in the Service Area over the next five years 
+(2019–2023). Estimated volumes of woody biomass residue generated per year within the 
+Service Area is presented in Table 5. For clarification, the term residue refers to the limbs, tops, 
+and needles of cut trees, from forest restoration projects, > 6” dbh and whole tree volumes for 
+trees <5.9” dbh (USDA 2019b, Martinez 2019). 
+Table 4. Estimated average tons per acre of woody biomass residues derived from 
+USFS volume estimates on the Coconino and Kaibab National Forests. Figures 
+calculated from published geospatial data for the USFS 4FRI (USDA 2019a) 
+Product 
+Woody Biomass Residues 
+DBHA Size Class 
+Average Green Tons/Acre 
+< 5.9 inches 
+1.3 
+6.0-8.9 inches 
+1.5 
+9.0-11.9 inches 
+3.4 
+> 12.0 inches
+6.9 
+Total 
+13.1 
+Adiameter at breast height 
+Table 5. Estimated distribution of woody biomass residual material by tree size that is to be removed from the designated Service 
+Areas (143,064 acres) over the next five years (2019–2023). Figures calculated from published geospatial data for the USFS 
+4FRI (USDA 2019a) 
+Tree diameter (inch) at breast height 
+<5.9 
+6.0 – 8.9 
+9.0 – 11.9 
+>12.0
+Total 
+Year 
+Acres 
+– – – – – – – – Woody biomass residues (green tons) – – – – – – – – 
+2019* 
+5,388 
+7,004 
+8,082 
+18,318 
+37,175 
+63,575 
+2020 
+30,735 
+39,955 
+46,102 
+104,498 
+212,070 
+362,671 
+2021 
+36,918 
+47,993 
+55,377 
+125,521 
+254,734 
+483,626 
+2022 
+48,095 
+62,523 
+72,142 
+163,522 
+331,853 
+630,041 
+2023 
+21,929 
+28,507 
+32,893 
+74,558 
+151,309 
+287,267 
+Total 
+143,064 
+185,983 
+214,596 
+486,418 
+987,142 
+1,874,138 
+*The status of calendar year 2019 projects would need to be confirmed with the USFS
+Government Estimate and Load Scale Ticket Comparisons 
+As a whole, the differences between the Government Estimated volume totals to the actual 
+removed totals were similar for both project areas. However as shown in Table 6, there are 
+differences between the totals when products are separated into either bole or residue material. 
+These differences are likely due to the merchandising practices used by logging contractors when 
+harvesting timber on the two project areas. A more in-depth discussion on merchandising is 
+presented in “Merchandising Practices” section of this report. Bole volumes are presented in 
+Table 6 to accommodate an analysis by HM3 management to identify how merchandising 
+practices by logging contractors will directly affect volumes of woody biomass generated.  
+15
+
+Table 6. Comparison of Government Estimate volumes to volumes of bole and biomass that were removed from forest harvest 
+projects 
+Project 1 
+Govern. Est. 2 
+(Green Tons) 
+Govern. Est. 
+(Green Tons/Acre) 
+Volume Merchandized 
+(Tons) 
+Volume 
+Merchandized 
+(Tons/Acre) 
+Acres 
+Boles 
+Residue 
+Total 
+Boles 
+Residue 
+Boles 
+Residue 
+Total 
+Boles 
+Residue 
+A 
+1,046 
+34,320 
+17,433 
+51,753 
+32.8 
+16.6 
+19,918 
+31,492 
+51,410 
+19.0 
+30.1 
+B 
+944 
+23,032 
+12,580 
+35,612 
+24.4 
+13.3 
+15,046 
+20,185 
+35,231 
+15.9 
+21.4 
+Average 
+28.6 
+15.0 
+Average 
+17.5 
+25.8 
+1Names of the forest restoration projects have been withheld for confidentiality reasons related to the operations of the logging contractor 
+and the business’s agreement with the USFS. 
+2Based upon USFS Region 3 Utilization Standards prior to 2019. Refer to Forest Service Manual (fsm) R3 SUPPLEMENT  2400-2009-1 for 
+utilization standards. 
+Product Haul Analysis 
+The scale ticket data analyzed from the previous section also provided information on the 
+average net weight of the tractor trailer loads that transported material from the two case-study 
+forest restoration projects to market. On average, a tractor trailer hauling woody biomass 
+residuals transported 21.3 tons per trip. For tractor trailers hauling bole wood, the average net 
+weight was 24.9 tons per trip. A product haul or load trip analysis can be performed by 
+combining the average removed tons per acre figures for boles and residues (identified in the 
+previous section) and average haul loads for the respective products.  
+As shown in Table 7, a total of 173,289 truckloads will be needed to transport all residue 
+materials produced within the Service Area. This analysis assumed a maximum weight limit of 
+80,000 lbs. for tractor trailers. As stated in “Development of Tree Bole and Woody Biomass 
+Service Area” section, the 90-minute Service Area represents one-way travel away from Garland 
+Prairie Road in Williams, AZ. The 90-minute travel time only represents on-road travel time and 
+does not include time for loading, unloading, or return time to Garland Prairie Road. Loading 
+and unloading time variables were not included in the analysis because different forest 
+operations handle these procedures differently. Many contractors operating in northern Arizona 
+stage loaded trailers at forest landings for pick-up by semi-tractors. This helps decrease wait 
+times for truck drivers and increase the number of round-trip loads per day. Procedures to unload 
+bole wood and residues in northern Arizona vary greatly depending on the facility the load is 
+being delivered to. For this reason, unloading times were also not included in the Service Area 
+analysis. Data related to bole material is included, like in the previous section. Having 
+information related to transportation of bole material may facilitate a better understanding by 
+HM3 management of the logistical needs of landscape-scale forest restoration projects. 
+16
+
+Table 7. Analysis of bole and residue volumes and required transportation needs, within a 90-minute One-Way Service Area of 
+Camp Navajo 
+Year 
+Project 
+Acres in 
+Service 
+Area 
+Bole Wood 
+VolumeA 
+(Green Tons) 
+Residue 
+Volume 
+(Green Tons) 
+Number of Loads to 
+Remove Bole 
+WoodB 
+Number of Loads to 
+Remove Residues
+2019 
+5,388 
+94,285 
+139,003 
+3,787 
+6,526 
+2020 
+30,735 
+537,859 
+792,958 
+21,601 
+37,228 
+2021 
+36,918 
+646,065 
+952,484 
+25,946 
+44,718 
+2022 
+48,095 
+841,657 
+1,240,843 
+33,801 
+58,256 
+2023 
+21,929 
+383,754 
+565,763 
+15,412 
+26,562 
+Grand Total 
+143,064 
+2,503,620 
+3,691,051 
+100,547 
+173,289 
+AVolumes of boles and residues based upon average Volume Merchandized tons/acre values in Table 6 
+BLoad counts based up analysis performed in the “Government Estimate and Load Scale Ticket Comparisons” section 
+Other Woody Biomass Resources 
+As of September 2019, there were 30,627 acres of USFS lands currently under contract to be 
+thinned (USDA 2019a). Using a combination of USFS timber cruise data and calculated 
+averages, we estimate there is 790,176 tons of residue material that will be produced during the 
+thinning of these areas. Once the 4FRI Phase 2 contract is awarded, the projects listed in 
+Appendix H for calendar year 2019 will likely be available for harvesting, adding an additional 
+5,388 acres of wood supply.  
+It is estimated that 1,558,545 acres of National Forest Lands in the Garland Prairie 
+Service Area potentially could be part of the ponderosa pine feedstock supply. A geospatial 
+analysis determined the acreage by identifying federal lands that support ponderosa pine stands, 
+are not part of designated Wilderness Areas, and fall within the Garland Prairie Service Area.6 
+Of the total 1,558,545 acres, 28,745 acres have been thinned since 2005 and 143,064 acres are 
+scheduled to be thinned in the next five years. Excluding the acres currently under contract or 
+previously thinned, there are 1,454,376 acres of USFS lands supporting ponderosa pine in the 
+Garland Prairie Service Area that will likely need some type of silvicultural treatment in the next 
+20 years. In addition, there are currently 18,002 acres in the Service Area with slopes greater 
+than 40 percent that been approved for forest harvesting activities.  
+Across parts of northern Arizona, there are other government agencies besides the USFS 
+managing forested areas. As illustrated in a land management jurisdiction map in Appendix L, 
+there are Arizona State Trust Lands within the vicinity of the Camp Navajo Ordinance Facility. 
+The number acres the state plans to make available for timber harvesting is between 1,800 to 
+2,000 acres per year (TSS Consultants 2019). If forest restoration projects on State Trust Lands 
+generate at least 25.8 tons of woody biomass per acre, this would equate to an annual volume 
+output of between 46,440 and 51,600 tons.  
+6 Analysis based upon USFS Region 3 GIS shapefile Ecological Response Units (Version 5.2) 
+17
+
+The Camp Navajo facility has 19,018 acres of forested lands and, in the past, it has 
+implemented timber harvesting activities to reduce hazardous fuels in overstocked ponderosa 
+pine stands (Buttrey 2013). A 2019 report by TSS Consultants, identified that the Camp Navajo 
+Natural Resources Division plans to mechanically thin 13,554 acres of forests from 2020–2029, 
+averaging 1,355 acres per year. The earliest planned harvesting activity involves a 300-acre 
+mechanical thinning project that will likely generate 7,740 tons of woody biomass (Kainrath 
+2019). Assuming future thinning projects generate 25.8 tons/acre at 1,355 acres per year, Camp 
+Navajo’s forest resources have the potential to produce 34,969 tons of woody biomass annually. 
+Aside from ponderosa pine as a feedstock, there are supplies of juniper in the Garland 
+Prairie Road Service Area. The distribution of juniper across the Service Area is presented in 
+Appendix E. A 2016 feedstock supply study by TSS Consultants estimated that the juniper 
+supply on woodland areas in northern Arizona could yield between 4.7–10.6 bone dry tons of 
+woody biomass per acre from grassland restoration projects (TSS Consultants 2016). In green 
+tons, this equates to 9.4–21.2 per acre, assuming a moisture content of 50 percent. Both the 
+Kaibab and Prescott national forests have completed analysis on large acreage grassland 
+restoration projects whose boundaries fall within the Service Area. The South Zone Grassland 
+Restoration Project on the Kaibab National Forest seeks to treat a total of 143,000 acres through 
+mechanical removal of juniper (USDA 2017). With similar land management objectives, the 
+Prescott National Forest through the Chino Landscape Restoration Project plans to thin juniper 
+across approximately 99,750 acres (USDA 2018). Of these planned treatment acres, there are 
+120,023 acres with juniper as part of the defined Ecological Response Unit in the Service 
+Area.6,7 Assuming the grassland restoration project will yield at a minimum 9.4 tons of biomass 
+per acre, this portion of the Chino Restoration Project could produce 588,114 green tons. For the 
+South Zone Grassland Restoration Project, 227,153 acres are within the Service Area. This area 
+could conservatively supply 2,135,235 green tons of biomass. These estimates would need to be 
+validated on the ground and through consultation with the USFS. In some treatment areas, the 
+prescription may identify that some of residual juniper material be left on-site. This would 
+decrease the usable volumes for industry.  
+Discussion and Conclusion 
+Woody Biomass Residue Material Volumes 
+From an industrial manufacturing standpoint, the residue material would be classified as whole-
+tree woody biomass that contains greater than 15 percent bark content and needles. It is 
+important to estimate generated residual materials, as the USFS strongly encourages all post-
+harvest forest residue removed and used off-site from the harvesting operations (USDA 2019b). 
+The ability to remove the residual products can hinder the financial success of a timber 
+harvesting operation if sufficient markets are not in place to utilize the material or if extensive 
+transportation costs are required to deliver the residues to market (Montgomery et al. 2016).  
+7 The Ecological Response Units used in the analysis were Juniper Grass, PJ Evergreen Shrub, PJ Grass, and PJ 
+Woodland as defined by Wahlberg et al. 2014 
+18
+
+If HM3 develops a processing facility on Garland Prairie Road, it is recommended that 
+juniper be considered as part of the overall feedstock supply. Juniper feedstocks can offset 
+supply needs when timber harvesting in ponderosa pine forests are restricted due to snow or rain. 
+Currently, the USFS has environmental clearance for two large acreage grassland restoration 
+projects in the immediate vicinity of the Garland Prairie Road Service Area. A significant 
+activity of the grassland restoration projects will involve junper removal. It is unknown at this 
+time if the USFS will use traditional masticating equipment to thin the juniper or traditional 
+forestry equipment that can shear and forward the material. Juniper harvesting for biomass 
+utilization presents significant challenges compared to the harvesting and processing of biomass 
+from ponderosa pine. Logging equipment used in ponderosa pine harvesting is often not efficient 
+or cost effective when harvesting juniper (Rummer and McAvoy 2013). Currently in Arizona, 
+there are several companies using mastication equipment in juniper removal and one company 
+that has applied shovel logging techniques to the removal and processing of juniper. If HM3 is to 
+depend on juniper as a feedstock in addition to ponderosa pine, there needs to be a more in-depth 
+evaluation of the supply chain to ensure cost and market prices are aligned.  
+Merchandising Practices 
+By examining he summary data in Table 6, one can generalize that the government 
+underestimated the volume being converted to residue-type material than sold in the roundwood 
+form. This is likely due in part to limitations on the size of material (in respect to diameter) that 
+can be processed by local forest products industries. Whether or not this is an accurate 
+assessment for the discrepancy, it is important to identify that more traditionally low value 
+residue material is being generated than roundwood, which is usually viewed as having slightly 
+greater value (Becker et al. 2011). 
+It should be noted that the differences between the Government Estimate totals and the 
+actual removed totals are not a result of the material being left in the forest for subsequent pile 
+burning. The two projects studied in this analysis were both 4FRI task orders, which stipulated 
+all post-harvest forest residue be removed. More than likely the differences between estimate and 
+actual volumes originate from inherent errors and limitations associated with forest mensuration 
+techniques.  
+Transportation Analysis 
+The authors of this paper believe that by providing the number of estimated haul loads, readers 
+will be able to more precisely compute transportation costs based upon the loading and 
+unloading techniques they seek to implement. Transporting either bole or residue material to 
+market can account for a large percentage of forest operation costs (Han et al. 2004). For 
+individuals analyzing preliminary transportation costs, baseline load times of 45-minutes and 
+unload times of 30-minutes have been applied for other costing reports related to wood fiber 
+supply in northern Arizona (TSS Consultants 2019).  
+At the time of this report, the Arizona Department of Transportation (ADOT) announced 
+expansion of the Healthy Forest Initiative to allow for increased weight limits of tractor trailers 
+hauling by-products of forest restoration projects. Starting in January 2020, log trucks and chip 
+19
+
+vans can haul up to 91,000 pounds if the trailers have a sixth axle to distribute the additional 
+weight from the previous standard of 80,000 pounds (ADOT 2019). The 2019 press release by 
+ADOT announcing the expansion of the initiative does not mention the need to purchase 
+overweight permits. A previous news release in 2014 by ADOT on the Healthy Forest Initiative 
+identifies that a $75 overweight permit is needed (purchased every 30 days) for each vehicle that 
+will be hauling loads above the standard 80,000-pound limit (ADOT 2014). Most likely, the need 
+for this overweight permit will carry over the expanded program allowing for up to 91,000 
+pounds.  
+Long-Term Outlook 
+Since the 4FRI project began implementation, progress in mechanical treatment of acres has 
+averaged 12,625 per year (USDA 2019c). This pace is below the 4FRI Stakeholder Group’s goal 
+of treating 45,000 acres annually. It is unclear what financial or infrastructure developments will 
+be needed to reach the 45,000-acre annual goal.  
+On October 9, 2019 there was a ground-breaking ceremony for the Windfall Sawmill in 
+Williams, Arizona (Howell 2019). Owners and investors in the sawmill say the sawmill will have 
+an annual production capacity of 128 million board feet of solid sawn lumber. Based on other 
+studies of small-diameter log sawmills, it is estimated that a sawmill with this level of output 
+would need an annual supply of 69.1 million board feet (MMBF) of bole material using the 
+Scribner log scale system (The Beck Group 2015). The planned development of the Windfall 
+Sawmill is the only known large forest product industry development within the Camp Navajo 
+Service Area. Current forest product companies operating in the Service Area include two small 
+log single-pass sawmills and a circular sawmill with a conventional multi-pass log carriage 
+breakdown system. Collectively, these three businesses could produce 1 MMBF of solid sawn 
+lumber annually and utilize slightly more than 800 MBF of logs. Should another business 
+develop a wood utilization facility in the service area, the biggest competitor for bole material 
+would be the planned Windfall Sawmill.  
+Residual material from the timber harvesting operations in the service area is being 
+marketed to a large woody biomass fueled power plant in Snowflake, Arizona and two soil 
+amendment companies in Maricopa County. The soil amendment facilities would prefer to 
+receive sawmill waste and bark as opposed to whole tree chips generated from timber harvesting 
+operations, but are often forced to accept the lower quality woody biomass due to competition 
+from a residential wood heating pellet manufacturer in Show Low, Arizona. At full operational 
+capacity, the woody biomass-fueled power plant in Snowflake is able to use and store in excess 
+of 300,000 tons annually. Currently, the power plant in Snowflake is the largest volume market 
+for woody biomass in the state of Arizona. If another plant was to start procuring large volumes 
+of woody biomass, the power plant would be the biggest competitor for the material. 
+Traditionally “normal operating season” for forest operations on Coconino and Kaibab 
+national forest lands in the service area is between April 15 to November 30 (USDA 2019d). 
+Limitations on forest operations can also occur due to wildfire restrictions and monsoon events. 
+Wildfire season in Arizona typically starts in late April and lasts until early July when monsoon 
+rains become a daily event and last until early September. Restrictions on forest operations due 
+20
+
+to wildfire danger are typically implemented in stages depending upon weather conditions and 
+can range from limited operational hours to complete shutdown of operations (USDA 1992). 
+Because logging contractors do not always operate year-round in Arizona, sufficient 
+storage of material is needed to span the times of the year when material is not being produced in 
+the forest. For this reason, it is advisable to partner with other forest-based enterprises to offset 
+raw material shortages by procuring excess bole material from partner businesses or utilization 
+of another businesses waste products such as sawdust. Besides federal lands, there are 
+opportunities to procure bole and residue material from Arizona State Trust Lands and the 
+forested areas of the Camp Navajo Ordinance Facility. Raw material supply from these two areas 
+could fill gaps in the wood supply chain that arise during interruptions in federal government 
+operations, such as budget shortfalls or other legislative actions. It is also recommended to seek 
+raw material sources outside of the Camp Navajo Service Area. There are portions of the 
+Prescott and Tonto national forests with ponderosa pine timber stands thinned for hazardous 
+fuels reduction. The procurement of bole and residue material outside of the service area may 
+increase raw material costs exponentially in relation to the longer haul distances. It should be 
+noted in the areas approved for steep slope logging; tree species composition may deviate from 
+ponderosa pine to mixed conifer. Only in the past six years have USFS resource managers in 
+Arizona attempted steep slope mechanical thinning operations. Additional mechanical thinning 
+projects to reduce hazardous fuels may be implemented on steep slopes as the technology grows 
+in the marketplace and is more broadly accepted by resource managers. 
+In the past, Arizona national forests have supported the production of over 329 MMBF of 
+lumber annually through various sawmills across the state (Miller 1964). Even with the 
+extraction of a tremendous volume of natural resources, vast timber supplies still exist on 
+National Forest Lands in northern Arizona. The emphasis on restoring forests through the White 
+Mountain Stewardship Contract and the subsequent 4FRI project has created a fairly reliable 
+supply of bole and residue material since 2004. It is currently unclear how the characteristics of 
+the raw material resource will change as a result of the implementation of current silvicultural 
+treatments. It is, however, evident that as Arizona’s population continues to expand, mechanical 
+treatments on National Forest Lands will continue to ensure healthy watersheds provide adequate 
+water resources for the state’s citizens. The 4FRI Phase 2 RFP states that timber harvest contract 
+extensions up to 20 years are possible. However, of the USFS has not specified all of the timber 
+stands to be harvested within the Phase 2 contract’s 20-year timeframe, so one can only broadly 
+estimate treatment acres beyond the projects already listed in Appendix I of the 4FRI RFP. 
+Traditionally, ponderosa pine stands in Arizona were managed for industrial growth of 
+wood fiber to support pulp and sawmill operations (Huggard and Gómez 2001). Managers 
+ensured annual maximum fiber growth by thinning stands in increments of 20 years, depending 
+on stand productivity (Schubert 1974). The 20-year intermediate treatments would produce bole 
+material of sufficient diameters for use in pulp and fuelwood markets. Current silvicultural 
+treatments in Arizona’s ponderosa pine forests focus on creating multi-storied forests 
+characterized by groups of trees, with fewer trees per acre, and openings between groups of trees 
+(USDA 2019b). While it is too early to know the long-term impact on the quality and quantity of 
+timber resulting from forest restoration treatments, researchers suggest that cutting cycles of 20–
+21
+
+30 years with yields of 4.0–7.0 CCF/acre of bole material could be possible (Reynolds et al. 
+2013). It can be assumed that given the amount of USFS investment in forest restoration, timber 
+stand maintenance will continue beyond one entry. It is not readily known at this time if the 
+current wood utilization industries will need to re-tool operations to match changing timber 
+characteristics as second entries are made into current stands undergoing forest restoration 
+treatments. 
+22
+
+Acknowledgments 
+This study was funded by the USDA Forest Service Wood Innovation Grant program: Award No. 
+19-DG-11031600-048. The authors would like to thank Tayloe Dubay and Diane Vosick for
+providing their editorial services and designing a final format of the report.
+23
+
+Literature Cited 
+ADOT. 2014. ADOT Partners with State Forestry, Eastern Arizona Counties Organization on 
+‘Healthy Forest Initiative.’ November 17, 2014 press release from the Arizona 
+Department of Transportation. Available [online] at: https://azdot.gov/adot-news/adot-
+partners-state-forestry-eastern-arizona-counties-organization-%E2%80%98healthy-forest 
+ADOT. 2019. ADOT, partners expand Healthy Forest Initiative to reduce wildfire risk. May 2, 
+2019 press release from the Arizona Department of Transportation. Available [online] at: 
+https://azdot.gov/adot-news/adot-partners-expand-healthy-forest-initiative-reduce-
+wildfire-risk 
+Adewopo, J.B. and A.F. Locher. 2011. Network-based resource proximity analysis of primary 
+wood processing mills in Arkansas. Southern Journal of Applied Forestry. 35(3):109-114 
+Becker, D.R., S.M. McCaffrey, D. Abbas, K.E. Halvorsen, P. Jakes, and C. Moseley. 2011. 
+Conventional wisdoms of woody biomass utilization on federal public lands. Journal of 
+Forestry. 109(4):208-2018 
+Buttrey, B.A. 2013. Appendix E: Camp Navajo Forest Management Plan. In Camp Navajo 
+Integrated Natural Resources Management Plan (Revision). Arizona Army National 
+Guard, Department of Emergency and Military Affairs. Phoenix, AZ. 39 p. 
+Corbin, T. 2015. Learning ArcGIS Pro: create, analyze, maintain, and share 2D and 3D maps 
+with the powerful tools of ArcGIS Pro. Packit Publishing. Birmingham, AL. 368 p. 
+Environmental Systems Research Institute (ESRI). 2019. Redlands, CA 
+Howell, W. NewLife Forest Products hosts official ground breaking for Windfall Mill. Williams 
+News. October 15, 2019. Available [online] at: 
+https://www.williamsnews.com/news/2019/oct/15/newlife-forest-products-hosts-official-
+ground-brea/ 
+Huggard, C.J. and A.R. Gómez. 2001. Forests Under Fire. The University of Arizona Press. 
+Tucson, AZ. 
+Hampton, H.M., S.E. Sesnie, B.G. Dickson, J.M. Rundall, T.D Sisk, G.B. Snider, and J.D. 
+Bailey. 2008. Analysis of Small-Diameter Wood Supply in Northern Arizona. Forest 
+Ecosystem Restoration Analysis Project, Center for Environmental Sciences and 
+Education, Northern Arizona University. 
+Han, H.-S., H.W. Lee, and L.R. Johnson. 2004. Economic feasibility of an integrated harvesting 
+system for small-diameter trees in southwest Idaho. Forest Products Journal. 54(2)21-27 
+Han, H.-S. and J.M. Halbrook. 2019. Personal communication with Han-Sup Han and Jeffery 
+Halbrook, Professor and Director, Forest Operations and Biomass Utilization and 
+Research Associate; respectively. August 16, 2019. Ecological Restoration Institute at 
+Northern Arizona University. Flagstaff, AZ 
+Kainrath, N. 2019. Personal communication with Nick Kainrath, Camp Navajo Natural 
+Resources Manager - Forester. October 22, 2019 
+24
+
+Martinez, K. 2019. Personal communication with Karen Martinez (formerly Karen Jones), USFS 
+Region 3 Regional Measurement Specialist. October 10, 2019. U.S. Department of 
+Agriculture, Forest Service, Southwest Region Office. Albuquerque, NM 
+Miller, R.L. 1964. Lumber production in Arizona and New Mexico, 1960. U.S. Forest Service 
+Research Note RM -29. U.S. Department of Agriculture, Forest Service, Rocky Mountain 
+Forest and Range Experiment Station. Fort Collins, CO. 8 p. 
+Montgomery, T.D., H.-S. Han, and A.J. Kizha. 2016. Modeling work plan logistics for 
+centralized biomass recovery operations in mountainous terrain. Biomass and Bioenergy. 
+85(2016):262-270 
+Reynolds, R.T., A.J. Sanchez-Meador, J.A. Youtz, T. Nicolet, M.S. Matonis, P.L. Jackson, D.G. 
+DeLorenzo, and A.D. Graves. 2013. Restoring Composition and structure in 
+Southwestern frequent-fire forests: A science-based framework for improving ecosystem 
+resiliency. Gen. Tech. Rep. RMRS-GTR-310. Fort Collins, CO: U.S. Department of 
+Agriculture, Forest Service, Rocky Mountain Research Station. 76 p. 
+Ruggirello, M. 2017. Nondestructive Testing of Ponderosa Pine Wood Quality – Influence of 
+Stand and Tree-Level Variables on Acoustic Velocity and Wood Density. (M.F. Paper) 
+Northern Arizona University. Flagstaff, AZ 
+Nicholls, D. 2014. Forest products cluster development in central Arizona-implications for 
+landscape-scale forest restoration. Gen. Tech. Rep. PNWGTR-898. Portland, OR: U.S. 
+Department of Agriculture, Forest Service, Pacific Northwest Research Station. 18 p. 
+Rummer, B. and D. McAvoy. 2013. Pinyon juniper harvest study: Matching the harvesting 
+system to conditions. The Forestry Source. 18(1):12-15 
+Schubert, G.H. 1974. Silviculture of southwestern ponderosa pine: The status of our knowledge. 
+Res. Paper Rm-123. Fort Collins, CO: U.S. Department of Agriculture, Forest Service 
+Rocky Mountain Forest and Range Experiment Station. 71 p. 
+Selig, M., D. Vosick, and J. Seidenberg. 2010. Four Forest Restoration Initiative Landscape 
+Strategy: Economic and Utilization Analysis. Report from the Four Forest Restoration 
+Initiative Stakeholder Group to the USFS 4FRI planning team. Flagstaff, AZ. Available 
+[online] at: http://4fri.org/wp-
+content/uploads/2018/04/econ_and_utilization_final_draft.pdf 
+The Beck Group. 2015. Eastern Oregon Small Diameter Wood Study – Final Project Report. 
+Commissioned by the Oregon Department of Forestry. Portland, OR. 26 p. 
+TSS Consultants. 2016. Biomass Feedstock Supply Availability Assessment for Yavapai County. 
+Sacramento, CA. 46 p. Available [online] at: https://tssconsultants.com/wp-
+content/uploads/2016/09/Upper-Verde-Report-Final-20160913.pdf 
+TSS Consultants. 2019. Biomass feasibility study for a wood to energy facility at Camp Navajo, 
+Arizona. Sacramento, CA.149 p. Available [online] at: http://tssconsultants.com/wp-
+content/uploads/2019/07/AZDEMA-Report-Final-20190218a-.pdf 
+25
+
+US Geological Survey. 2019. USGS National Transportation Dataset (NTD) for Arizona 
+20190917 State or Territory Shapefile. Available [online] at: 
+https://catalog.data.gov/dataset/usgs-national-transportation-dataset-ntd-for-arizona-
+20180116-state-or-territory-shapefile 
+USDA. 1992. FSH 2409.15 – Timber Sale Administration Handbook. WO Amendment 2409.15-
+92-6. U.S. Department of Agriculture. Forest Service. Washington Office
+USDA. 2000. Timber Cruising Handbook. FSH 2409.12. U.S. Department of Agriculture. Forest 
+Service. Washington Office 
+USDA. 2015. Record of Decision for the Four-Forest Restoration Initiative. MB-R3-04-28. U.S. 
+Department of Agriculture. Southwestern Region. Coconino and Kaibab National Forests 
+USDA. 2017. Final Decision Notice and Finding of No Significant Impact. U.S. Department of 
+Agriculture. Forest Service. Southwestern Region. Kaibab National Forest 
+USDA. 2018. Chino Landscape Restoration. Final Environmental Assessment. July 2018. U.S. 
+Department of Agriculture. Forest Service. Prescott National Forest. Chino Valley 
+Ranger District.  
+USDA. 2019a. Geospatial Data for the US Forest Service (USFS) Four Forest Restoration 
+Initiative (4FRI). Available [online] at: https://www.fs.usda.gov/main/4fri/gis 
+USDA. 2019b. Four Forest Restoration Initiative (4FRI) Phase 2 Stewardship Request for 
+Proposals. Solicitation Number: 12837119R4005. US Department of Agriculture, Forest 
+Service, R-3 Southwestern Region/Western Zone. Available [online] at: 
+https://www.fbo.gov/spg/USDA/FS/94TZ/12837119R4005/listing.html 
+USDA. 2019c. 4FRI monthly stakeholders update – mechanical thinning, fire, and NEPA- 
+September 2019. U.S. Department of Agriculture, Forest Service, R-3 Southwestern 
+Region, Coconino National Forest. Available [online] at: 
+https://www.fs.usda.gov/detailfull/4fri/home/?cid=stelprdb5438777&width=full 
+USDA 2019d. Timber Sale Prospectus - Horse Park Multiproduct Sale. U.S. Department of 
+Agriculture, Forest Service, Coconino National Forest. Flagstaff, AZ. 5 p. 
+Wahlberg, M., F.J. Triepke, W. Robbie, S.H. Stringer, D. Vandendriesche, E. Muldavin, and J. 
+Malusa. 2014. Ecological Response Units of the Southwestern United States. Draft 2014. 
+U.S. Department of Agriculture. Forest Service. Southwestern Region.  
+26
+
+Appendices 
+Appendix A. Planned timber harvest projects from 2019–2023 across the 4FRI project area 
+Appendix B. List of planned forest thinning projects from 2019–2023. Data source: Geospatial data in file fseprd595378 - 
+Timber_Harvest_Projects_Five_Year_Plan from https://www.fs.usda.gov/main/4fri/gis. Acre values may change as project 
+boundaries are finalized by USFS. 
+Project Size* 
+Timber Harvest 
+Project Name 
+National Forest 
+Planned 
+Implementation Year 
+Square Meters 
+Acres
+Dutch 
+Apache-
+Sitgreaves 
+2019 
+9,095,718 
+2,248 
+ELC 
+Apache-
+Sitgreaves 
+2019 
+12,859,622 
+3,178 
+Fleming 
+Apache-
+Sitgreaves 
+2019 
+7,272,643 
+1,797 
+FWPP - Ph 2 - Dry Lake 
+Hills 
+Coconino 
+2019 
+3,613,063 
+893 
+General Springs 
+Coconino 
+2019 
+12,714,848 
+3,142 
+General Springs 
+Coconino 
+2019 
+1,526,594 
+377 
+Greens Peak 
+Apache-
+Sitgreaves 
+2019 
+4,618,072 
+1,141 
+27
+
+Project Size* 
+Timber Harvest 
+Project Name 
+National Forest 
+Planned 
+Implementation Year 
+Square Meters 
+Acres
+Handy Hunter 
+Tonto 
+2019 
+4,698,305 
+1,161 
+Palomino 
+Apache-
+Sitgreaves 
+2019 
+10,065,342 
+2,487 
+Parks West 
+Kaibab 
+2019 
+18,190,074 
+4,495 
+Scott 
+Apache-
+Sitgreaves 
+2019 
+2,945,230 
+728 
+St Joe 
+Apache-
+Sitgreaves 
+2019 
+12,890,222 
+3,185 
+Tenny Pond 
+Apache-
+Sitgreaves 
+2019 
+6,529,661 
+1,614 
+A-1 North
+Coconino 
+2020 
+4,306,544 
+1,064 
+Baker Butte 
+Coconino 
+2020 
+4,086,188 
+1,010 
+Beacon Hill 
+Kaibab 
+2020 
+7,289,882 
+1,801 
+Big Lake 
+Apache-
+Sitgreaves 
+2020 
+8,394,828 
+2,074 
+Bootleg Antelope 
+Coconino 
+2020 
+7,895,353 
+1,951 
+Cabin 
+Apache-
+Sitgreaves 
+2020 
+7,295,936 
+1,803 
+Coyote 
+Kaibab 
+2020 
+2,538,674 
+627 
+Dude 
+Kaibab 
+2020 
+5,646,373 
+1,395 
+Dutton Hill - Everett 
+Coconino 
+2020 
+4,310,491 
+1,065 
+Dutton Hill - Sliker 
+Coconino 
+2020 
+7,000,897 
+1,730 
+Dutton Hill - Trap 
+Coconino 
+2020 
+5,968,241 
+1,475 
+Fourtyniner 
+Kaibab 
+2020 
+10,396,873 
+2,569 
+FWPP - Mormon Mtn N 
+Coconino 
+2020 
+2,979,011 
+736 
+Gifford 
+Coconino 
+2020 
+10,958,704 
+2,708 
+Ham 
+Kaibab 
+2020 
+6,333,447 
+1,565 
+Horse Park 
+Coconino 
+2020 
+14,554,652 
+3,597 
+Isham Reoffer 
+Kaibab 
+2020 
+5,609,368 
+1,386 
+LO Pocket - Gray Spg 
+Coconino 
+2020 
+14,045,676 
+3,471 
+LO Pocket - Mooney Mtn 
+Coconino 
+2020 
+14,497,021 
+3,582 
+Loco 
+Apache-
+Sitgreaves 
+2020 
+15,785,441 
+3,901 
+Los Burros Two 
+Apache-
+Sitgreaves 
+2020 
+15,001,736 
+3,707 
+Moritz Ridge 
+Kaibab 
+2020 
+7,432,592 
+1,837 
+Oil Well PJ 
+Apache-
+Sitgreaves 
+2020 
+6,687,172 
+1,652 
+Promontory 
+Apache-
+Sitgreaves 
+2020 
+13,418,472 
+3,316 
+Saddle 
+Kaibab 
+2020 
+4,697,053 
+1,161 
+Sitgreaves West 
+Kaibab 
+2020 
+8,702,766 
+2,150 
+Springs 
+Apache-
+Sitgreaves 
+2020 
+5,178,468 
+1,280 
+SW Willow 
+Apache-
+Sitgreaves 
+2020 
+3,765,300 
+930 
+West Fork 
+Coconino 
+2020 
+13,503,163 
+3,337 
+28
+
+Project Size* 
+Timber Harvest 
+Project Name 
+National Forest 
+Planned 
+Implementation Year 
+Square Meters 
+Acres
+Willard 
+Coconino 
+2020 
+11,836,857 
+2,925 
+Beale Mountain 
+Kaibab 
+2021 
+25,373,958 
+6,270 
+Coulter Park 
+Coconino 
+2021 
+7,739,293 
+1,912 
+Double Springs 
+Coconino 
+2021 
+6,940,582 
+1,715 
+Frog Tank 
+Coconino 
+2021 
+21,209,370 
+5,241 
+FWPP - Phase 3 PACs 
+Coconino 
+2021 
+9,058,456 
+2,238 
+Government Prairie 
+Kaibab 
+2021 
+4,647,507 
+1,148 
+Grail 
+Apache-
+Sitgreaves 
+2021 
+5,322,231 
+1,315 
+Hardy Hill 
+Kaibab 
+2021 
+6,631,967 
+1,639 
+Hazard 
+Apache-
+Sitgreaves 
+2021 
+8,858,264 
+2,189 
+Howard Pocket 
+Coconino 
+2021 
+12,260,861 
+3,030 
+Keger 
+Tonto 
+2021 
+9,759,780 
+2,412 
+Little Nolan CG 
+Tonto 
+2021 
+1,410,134 
+348 
+Mare 
+Apache-
+Sitgreaves 
+2021 
+11,200,562 
+2,768 
+McCarty 
+Coconino 
+2021 
+11,124,594 
+2,749 
+Newman Hill 
+Kaibab 
+2021 
+4,405,901 
+1,089 
+OW 
+Apache-
+Sitgreaves 
+2021 
+23,479,650 
+5,802 
+Potato 
+Apache-
+Sitgreaves 
+2021 
+17,146,685 
+4,237 
+Pringle Tater Chip 
+Tonto 
+2021 
+8,320,141 
+2,056 
+Red Hill 
+Coconino 
+2021 
+18,517,858 
+4,576 
+Reservation Tank 
+Apache-
+Sitgreaves 
+2021 
+16,780,637 
+4,147 
+Roosevelt 
+Coconino 
+2021 
+9,588,806 
+2,369 
+Smith 
+Apache-
+Sitgreaves 
+2021 
+13,267,400 
+3,278 
+Smith Tank 
+Apache-
+Sitgreaves 
+2021 
+3,933,275 
+972 
+Southside 
+Coconino 
+2021 
+29,458,272 
+7,279 
+Telephone Tank 
+Coconino 
+2021 
+16,770,077 
+4,144 
+Thompson 
+Apache-
+Sitgreaves 
+2021 
+38,658,346 
+9,553 
+Walker Hill 
+Coconino 
+2021 
+12,451,814 
+3,077 
+West Escudilla PJ 
+Apache-
+Sitgreaves 
+2021 
+6,318,353 
+1,561 
+Windmill PJ 
+Apache-
+Sitgreaves 
+2021 
+1,596,986 
+395 
+Antelope Hills 
+Kaibab 
+2022 
+9,073,473 
+2,242 
+Beaver 
+Apache-
+Sitgreaves 
+2022 
+12,412,697 
+3,067 
+Casner Park 
+Coconino 
+2022 
+17,649,459 
+4,361 
+Crater Sinks 
+Coconino 
+2022 
+18,421,811 
+4,552 
+Curley Seep 
+Coconino 
+2022 
+14,359,868 
+3,548 
+29
+
+Project Size* 
+Timber Harvest 
+Project Name 
+National Forest 
+Planned 
+Implementation Year 
+Square Meters 
+Acres
+Exchange Tank 
+Apache-
+Sitgreaves 
+2022 
+2,798,886 
+692 
+Harding Point 
+Coconino 
+2022 
+11,434,023 
+2,825 
+Hayground 
+Apache-
+Sitgreaves 
+2022 
+16,129,666 
+3,986 
+Hog Hill 
+Coconino 
+2022 
+22,129,286 
+5,468 
+Kachina 
+Coconino 
+2022 
+16,507,180 
+4,079 
+Kinder 
+Coconino 
+2022 
+23,075,608 
+5,702 
+Klostermeyer 
+Kaibab 
+2022 
+5,153,853 
+1,274 
+Long Draw 
+Apache-
+Sitgreaves 
+2022 
+14,902,052 
+3,682 
+Morgan 
+Apache-
+Sitgreaves 
+2022 
+5,371,665 
+1,327 
+N1 
+Apache-
+Sitgreaves 
+2022 
+5,513,346 
+1,362 
+Poco Pino 
+Tonto 
+2022 
+5,177,702 
+1,279 
+PS Knoll 
+Apache-
+Sitgreaves 
+2022 
+26,891,057 
+6,645 
+Sunflower 
+Kaibab 
+2022 
+69,308,198 
+17,126 
+Tuff 
+Apache-
+Sitgreaves 
+2022 
+11,071,401 
+2,736 
+Verde Rose 
+Tonto 
+2022 
+10,772,468 
+2,662 
+Wild Bill 
+Coconino 
+2022 
+23,499,815 
+5,807 
+Wildcat 
+Apache-
+Sitgreaves 
+2022 
+22,772,755 
+5,627 
+Barney 
+Coconino 
+2023 
+16,702,794 
+4,127 
+Bear Sign 
+Coconino 
+2023 
+12,181,813 
+3,010 
+Beaverhead 
+Apache-
+Sitgreaves 
+2023 
+15,733,695 
+3,888 
+Bellemont 
+Coconino 
+2023 
+17,004,527 
+4,202 
+Chipmunk 
+Apache-
+Sitgreaves 
+2023 
+11,578,792 
+2,861 
+County Line 
+Apache-
+Sitgreaves 
+2023 
+5,960,196 
+1,473 
+Crazy Park 
+Coconino 
+2023 
+21,590,388 
+5,335 
+Holy Oak PJ 
+Apache-
+Sitgreaves 
+2023 
+4,872,071 
+1,204 
+Johns Canyon 
+Apache-
+Sitgreaves 
+2023 
+22,167,359 
+5,478 
+Kehl 
+Coconino 
+2023 
+19,984,111 
+4,938 
+Little Horse Park 
+Coconino 
+2023 
+21,789,581 
+5,384 
+Sand Point 
+Apache-
+Sitgreaves 
+2023 
+14,251,378 
+3,522 
+Three Sisters 
+Kaibab 
+2023 
+9,741,095 
+2,407 
+Turkey Bunker 
+Coconino 
+2023 
+16,805,897 
+4,153 
+Twenty Five 
+Apache-
+Sitgreaves 
+2023 
+7,492,839 
+1,852 
+Whiskey 
+Apache-
+Sitgreaves 
+2023 
+7,420,080 
+1,834 
+30
+
+Project Size* 
+Timber Harvest 
+Project Name 
+National Forest 
+Planned 
+Implementation Year 
+Square Meters 
+Acres
+Whiskey Bottle 
+Tonto 
+2023 
+13,641,413 
+3,371 
+Work Center 
+Apache-
+Sitgreaves 
+2023 
+6,256,262 
+1,546 
+Total 
+1,328,968,892 
+328,395 
+*Acreage values may change as USFS finalizes project boundaries
+Appendix C. Location of the facility/starting point for the transportation analysis overlaid against the polylines of the network 
+dataset created from the 2018 Topologically Integrated Geographic Encoding & Referencing (TIGER) shapefiles for roads in 
+Arizona 
+31
+
+Appendix D. Outputs from the validation process where Service Area polygon size was compared as a function of the Speed field 
+values used in the network dataset. Figure (a) is the output when the Speed field values are a function of the road type. Figure (b) 
+is the output from when the Speed field is held constant across all road types. 
+Figure (a)
+Figure (b)
+32
+
+Appendix E. Ecological response units in the immediate vicinity of the Garland Prairie Road Service Area. Extent of ponderosa 
+pine in shown in image a and pinyon-juniper in image b. Source: USFS Region 3 Ecological Response Units for Arizona; version 
+5. 
+(a) 
+(b) 
+33
+
+Appendix F. Location of the South Zone Grassland Restoration Project and the Chino Landscape Restoration in relation to the 
+Garland Prairie Road Service Area 
+Appendix G. Location of timber harvests planned from 2019-2023, that occur within the Garland Prairie Service Area 
+34
+
+Appendix H. Acres of USFS timber harvest projects in 30,45, and 60 minutes Service Area and corresponding bole and residue 
+volume estimates; 2019–2023 
+Year/ Project Name 
+Acres in 
+Service Area 
+Total MBFa in Service 
+Area 
+Total CCFb in Service 
+Area 
+Total Residual 
+Tons 
+2019 
+5,388 
+31,227 
+40,705 
+70,579 
+FWPP - Ph 2 - Dry Lake 
+Hills 
+893 
+5,175 
+6,745 
+11,696 
+Parks West 
+4,495 
+26,052 
+33,960 
+58,883 
+2020 
+30,735 
+178,139 
+232,205 
+402,626 
+A-1 North
+1,064 
+6,168 
+8,040 
+13,941 
+Beacon Hill 
+1,801 
+10,441 
+13,610 
+23,598 
+Bootleg Antelope 
+1,787 
+10,356 
+13,499 
+23,407 
+Coyote 
+627 
+3,636 
+4,739 
+8,218 
+Dude 
+1,395 
+8,087 
+10,541 
+18,277 
+Dutton Hill - Everett 
+1,065 
+6,173 
+8,047 
+13,953 
+Dutton Hill - Sliker 
+1,434 
+8,311 
+10,833 
+18,784 
+Dutton Hill - Trap 
+1,475 
+8,548 
+11,142 
+19,320 
+Fourtyniner 
+2,569 
+14,891 
+19,410 
+33,655 
+Ham 
+1,565 
+9,071 
+11,824 
+20,502 
+Horse Park 
+3,597 
+20,845 
+27,172 
+47,114 
+Isham Reoffer 
+1,386 
+8,034 
+10,473 
+18,159 
+LO Pocket - Gray Spg 
+25 
+143 
+187 
+324 
+LO Pocket - Mooney Mtn 
+190 
+1,101 
+1,435 
+2,488 
+Moritz Ridge 
+1,837 
+10,646 
+13,876 
+24,061 
+Saddle 
+1,161 
+6,727 
+8,769 
+15,205 
+Sitgreaves West 
+2,151 
+12,464 
+16,247 
+28,172 
+West Fork 
+2,682 
+15,544 
+20,262 
+35,133 
+Willard 
+2,925 
+16,953 
+22,098 
+38,316 
+2021 
+36,918 
+213,977 
+278,920 
+483,626 
+Beale Mountain 
+6,270 
+36,341 
+47,371 
+82,138 
+Coulter Park 
+1,912 
+11,084 
+14,448 
+25,052 
+Frog Tank 
+5,241 
+30,376 
+39,596 
+68,656 
+FWPP - Phase 3 PACs 
+330 
+1,911 
+2,491 
+4,319 
+Government Prairie 
+1,148 
+6,656 
+8,676 
+15,044 
+Hardy Hill 
+1,639 
+9,498 
+12,381 
+21,468 
+Howard Pocket 
+1,421 
+8,238 
+10,739 
+18,620 
+Newman Hill 
+1,089 
+6,311 
+8,226 
+14,263 
+Red Hill 
+3,367 
+19,517 
+25,441 
+44,113 
+Southside 
+7,279 
+42,191 
+54,996 
+95,359 
+Telephone Tank 
+4,144 
+24,018 
+31,308 
+54,285 
+Walker Hill 
+3,077 
+17,834 
+23,246 
+40,307 
+2022 
+48,095 
+278,757 
+363,361 
+630,041 
+35
+
+Year/ Project Name 
+Acres in 
+Service Area 
+Total MBFa in Service 
+Area 
+Total CCFb in Service 
+Area 
+Total Residual 
+Tons 
+Antelope Hills 
+2,242 
+12,995 
+16,939 
+29,372 
+Casner Park 
+4,361 
+25,278 
+32,950 
+57,133 
+Crater Sinks 
+4,552 
+26,384 
+34,392 
+59,633 
+Curley Seep 
+3,548 
+20,567 
+26,809 
+46,484 
+Harding Point 
+1,559 
+9,038 
+11,781 
+20,428 
+Hog Hill 
+4,295 
+24,892 
+32,446 
+56,259 
+Kachina 
+3,648 
+21,145 
+27,563 
+47,791 
+Klostermeyer 
+1,274 
+7,382 
+9,622 
+16,684 
+Sunflower 
+16,808 
+97,420 
+126,987 
+220,186 
+Wild Bill 
+5,807 
+33,657 
+43,872 
+76,070 
+2023 
+21,929 
+127,099 
+165,675 
+287,267 
+Barney 
+2,398 
+13,901 
+18,120 
+31,419 
+Bear Sign 
+2,571 
+14,903 
+19,426 
+33,683 
+Bellemont 
+4,202 
+24,355 
+31,747 
+55,046 
+Crazy Park 
+3,476 
+20,147 
+26,262 
+45,537 
+Little Horse Park 
+4,372 
+25,340 
+33,031 
+57,273 
+Three Sisters 
+2,407 
+13,952 
+18,186 
+31,533 
+Turkey Bunker 
+2,502 
+14,502 
+18,903 
+32,776 
+Grand Total 
+143,064 
+829,199 
+1,080,866 
+1,874,138 
+Appendix I. Analysis of residue volumes and required transportation needs, within a 30-minute One-Way Service Area of the 
+Garland Prairie site. Estimated values calculated assuming 25.8 tons of woody biomass residue generated per acre treated and 
+the average tractor-trailer load hauling 21.3 tons per load.  
+Year 
+Residue 
+Volume 
+Number of Loads to 
+Remove Residues 
+2019 
+115,968 
+5,445 
+2020 
+283,083 
+13,290 
+2021 
+42,722 
+2,006 
+2022 
+175,249 
+8,228 
+2023 
+63,011 
+2,958 
+Grand Total 
+680,034 
+31,926 
+Appendix J. Analysis of residue volumes and required transportation needs, within a 45-minute One-Way Service Area of the 
+Garland Prairie site. Estimated values calculated assuming 25.8 tons of woody biomass residue generated per acre treated and 
+the average tractor-trailer load hauling 21.3 tons per load. 
+Year 
+Residue 
+Volume 
+Number of Loads to 
+Remove Residues 
+2020 
+40,790 
+1,915 
+2021 
+224,316 
+10,531 
+2022 
+311,447 
+14,622 
+2023 
+37,490 
+1,760 
+Grand Total 
+614,043 
+28,828 
+36
+
+Appendix K. Current timber harvest projects in general vicinity of the Garland Prairie Service Area 
+Appendix L. Land management pattern in the vicinity of Garland Prairie Road 
+37

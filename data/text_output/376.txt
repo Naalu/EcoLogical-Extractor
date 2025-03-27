@@ -1,0 +1,715 @@
+NOTE / NOTE
+A new, proportional method for reconstructing
+historical tree diameters
+Jonathan D. Bakker
+Abstract: Accurate methods of reconstructing historical tree diameters from increment cores are important because di-
+ameter is used in allometric equations to predict stand characteristics and to study stand dynamics. The conventional
+reconstruction method assumes that the pith is in the centre of the stem. This is often incorrect, as evidenced by a pith
+increment index quantifying the deviation between the geometric radius of the stem and the chronological radius of a
+core. I propose a new method which assumes that growth is proportional around the stem and, unlike the conventional
+method, cannot yield negative historical diameters. These methods were evaluated by calculating the deviations between
+reconstructed diameters and historical diameter measurements from 164 ponderosa pine (Pinus ponderosa Dougl. ex P. &
+C. Laws.) trees from permanent plots in Arizona and New Mexico. Deviations varied with pith increment index for the
+conventional method but not for the proportional method, and varied with tree age for both methods at one site. These
+methods could be used in tandem, with the proportional method applied where the increment from outer ring to pith is
+measured and the conventional method applied where this increment cannot be measured.
+Résumé : Il est important que les méthodes utilisées pour reconstituer le diamètre passé des arbres à partir de carottes
+soient précises parce que le diamètre est utilisé dans des équations allométriques pour prédire les caractéristiques des
+peuplements et étudier leur dynamique. La méthode de reconstitution conventionnelle assume que la moelle est dans le
+centre de la tige. Cela est souvent erroné comme le montre un indice d’accroissement de la moelle qui quantifie l’écart
+entre le rayon géométrique de la tige et le rayon chronologique d’une carotte. L’auteur propose une nouvelle méthode
+qui assume que la croissance est proportionnelle autour de la tige et qui, contrairement à la méthode conventionnelle,
+ne peut produire de diamètres passés négatifs. Ces méthodes ont été évaluées en calculant l’écart entre les diamètres
+reconstitués et les diamètres mesurés dans le passé sur 164 tiges de pin ponderosa (Pinus ponderosa Dougl. ex P. & C.
+Laws.) dans des places échantillons permanentes en Arizona et au Nouveau-Mexique. Les écarts variaient en fonction
+de l’indice d’accroissement de la moelle pour la méthode conventionnelle mais pas pour la méthode proportionnelle et
+ils variaient avec l’âge des arbres pour les deux méthodes dans une station. Ces méthodes pourraient être utilisées en
+tandem en appliquant la méthode proportionnelle lorsque l’accroissement est mesuré du dernier cerne annuel jusqu’à la
+moelle et la méthode conventionnelle lorsque cet accroissement ne peut être mesuré.
+[Traduit par la Rédaction]
+Bakker
+2520
+Introduction
+Tree diameter is used in allometric equations to estimate
+many variables, including tree biomass (Gholz et al. 1979;
+Omdal et al. 2001), understory production (e.g., Bojorquez-
+Tapia et al. 1990), and forest carbon stocks and fluxes
+(Jenkins et al. 2003). Studies of stand structural dynamics
+(Foster et al. 1996) also often require the reconstruction of
+historical tree diameters. Accurate diameter reconstructions
+are therefore important for understanding and modeling for-
+est dynamics and for making management decisions.
+A stem cross section provides the complete radial growth
+series of a tree but can only be obtained by killing it, which
+is unacceptable in most situations (Rozas 2003). In addition,
+results from studies of cross sections may not be applicable
+in the field, as they require information about stem geometry
+that cannot be obtained without sectioning the tree (e.g.,
+Biging and Wensel 1988). Increment cores provide a non-
+destructive and operationally feasible method of obtaining
+growth data. Multiple cores per tree can increase the accu-
+racy of diameter growth estimates (Matérn 1961; Iles 1974),
+but also greatly increase the processing time, effort, and core
+storage space required. I sought a method of reconstructing
+historical diameters that could be applied to a single incre-
+ment core per tree, regardless of where around the stem it
+was obtained.
+Much attention has been devoted to methods for correctly
+identifying tree age (Duncan 1989; Villalba and Veblen 1997;
+Wong and Lertzman 2001; Rozas 2003; Clark and Hallgren
+2004; Gutsell and Johnson 2004) but less attention has been
+Can. J. For. Res. 35: 2515–2520 (2005)
+doi: 10.1139/X05-136
+© 2005 NRC Canada
+2515
+Received 15 October 2004. Accepted 13 June 2005.
+Published on the NRC Research Press Web site at
+http://cjfr.nrc.ca on 2 November 2005.
+J.D. Bakker. Ecological Restoration Institute, Northern
+Arizona University, P.O. Box 15017, Flagstaff, AZ
+86011-5017, USA (e-mail: Jonathan.Bakker@nau.edu).
+
+given to methods for quantifying radial growth increment
+(e.g., Biging and Wensel 1988) or reconstructing historical
+tree diameter (Dolph 1981). In this paper I describe a new
+method for reconstructing historical diameters and compare it
+with the conventional method by calculating the deviations
+between diameters reconstructed by each method and histori-
+cal diameter measurements of trees on permanent plots.
+Description of reconstruction methods
+Stem geometry
+The pith, or chronological centre of a stem (sensu Norton
+et al. 1987), often does not correspond to the geometric cen-
+tre (Williamson 1975; Biging and Wensel 1988; Singleton et
+al. 2003). Analysis of the deviation between these two points
+requires a stem cross section (e.g., Singleton et al. 2003).
+However, an increment core can be used to describe the dif-
+ference between the chronological and geometric radii using
+a pith increment index (PII):
+[1]
+PII
+DIAM
+DIAM
+P
+IB
+IB
+=
+−
+×
+2
+100
+I
+where IP is the radial increment from outer ring to pith
+(chronological radius) on an increment core, and DIAMIB is
+the inside-bark diameter at coring height (twice the geomet-
+ric radius). PII is positive when the chronological radius is
+greater than the geometric radius, zero when the chronologi-
+cal radius is equal to the geometric radius, and negative
+when the chronological radius is less than the geometric ra-
+dius. If the pith is off-centre, the chronological radius varies
+around the stem, and PII therefore varies among cores taken
+at different locations around the stem.
+The conventional and proportional methods
+Conventional diameter reconstructions involve measuring
+the radial increment between the outer ring and the historical
+date of interest (IH) and subtracting twice this measurement
+from the inside-bark diameter (e.g., Fulé et al. 1997). This
+method assumes that the chronological and geometric cen-
+tres are equal and that radial growth has been symmetric.
+When PII is positive, it can yield negative reconstructed di-
+ameters.
+The proportional diameter-reconstruction method involves
+multiplying the current diameter by the proportion of radial
+growth that occurred before the historical date of interest
+(G). G is calculated as
+[2]
+G
+I
+I
+I
+=
+−
+P
+H
+P
+This method assumes that growth has been proportional around
+the stem, which is not always so (Norton et al. 1987), but is
+a less restrictive assumption than those of the conventional
+method. In particular, no assumption is made about the loca-
+tion of the pith relative to the geometric centre of the stem.
+Also, reconstructed diameters are always positive, since G ≥0.
+An example (Fig. 1) illustrates these methods. An incre-
+ment core that intersects the pith of a tree with a current
+inside-bark diameter of 40 cm is used to reconstruct the
+tree’s historical diameter (10 cm; in practice this is un-
+known) at the date of interest. The stem is assumed to be cir-
+cular and growth to have been proportional around the stem.
+© 2005 NRC Canada
+2516
+Can. J. For. Res. Vol. 35, 2005
+IP = 20
+IH = 15
+A
+B
+C
+IP = 30
+IH = 22.5
+IP = 10
+IH = 7.5
+PII = 0%
+G = 0.25
+DBHHC = 10 cm
+%DC = 0%
+DBHHP = 10 cm
+%DP = 0%
+PII = +50%
+G = 0.25
+DBHHC = -5 cm
+%DC = -150%
+DBHHP = 10 cm
+%DP = 0%
+PII = -50%
+G = 0.25
+DBHHC = 25 cm
+%DC = 150%
+DBHHP = 10 cm
+%DP = 0%
+Fig. 1. Idealized stem cross sections illustrating the reconstruction of historical diameter using the conventional method (DBHHC) and
+proportional method (DBHHP). Reconstructions are based on the current inside-bark diameter (outer circle; 40 cm in these examples)
+and a single increment core (thick vertical line). Increments are measured on the core from the outer ring to the historical date of
+interest (IH; required for both methods) and from the outer ring to the pith (chronological radius; IP; required for the proportional
+method). The historical diameter (inner circle) is 10 cm in these examples but in practice is unknown. The pith increment index (PII)
+is a measure of the difference between the chronological radius of the core and the geometric radius of the stem, and G is the propor-
+tion of radial growth that occurred before the historical date of interest. If the pith and geometric centre of the stem are equal (A),
+both methods correctly reconstruct the historical diameter. If the pith is off-centre (B and C), the broken lines indicate where the chro-
+nological and geometric radii are equal. The proportional method correctly reconstructs the historical diameter regardless of where the
+core is taken, while the conventional method can underestimate it (B) or overestimate it (C).
+
+If the chronological and geometric centres are identical,
+growth was radially symmetric and both methods yield the
+correct reconstructed diameter (Fig. 1a). Similarly, both
+methods yield the correct reconstructed diameter if the pith
+is off-centre but the core is taken where the chronological
+and geometric radii are equal (broken lines in Figs. 1b and
+1c). The points where these radii are equal cannot be identi-
+fied in the field, however, so it is unlikely that cores will be
+taken at these points. For cores taken elsewhere around the
+stem, the proportional method yields the correct recon-
+structed diameter, since G is unaffected by PII (Figs. 1b and
+1c). In contrast, diameters reconstructed by the conventional
+method vary with core location, as illustrated by the ex-
+tremes presented here. The conventional method underesti-
+mates the historical diameter if PII is positive (Fig. 1b) and
+overestimates it if PII is negative (Fig. 1c).
+Case studies
+Data collection
+The conventional and proportional reconstruction methods
+were tested on 102 trees from a permanent plot in Arizona
+and validated on 62 trees from permanent plots in New Mex-
+ico. These plots were established in the early 1900s as part
+of a long-term study of growth and yield in ponderosa pine
+(Pinus ponderosa Dougl. ex P. & C. Laws.) (Pearson 1923).
+The Arizona plot (COC S1A; hereinafter COC) is in the Fort
+Valley Experimental Forest, Coconino National Forest, 10 km
+northwest of Flagstaff. The New Mexico plots (CIB S1A
+and CIB S2A; hereinafter jointly referred to as CIB) are in
+the Cibola National Forest, 30 km south of Magdalena. His-
+torical data are stored in the Fort Valley Archives, US Forest
+Service Rocky Mountain Research Station, Flagstaff, Ari-
+zona.
+Contemporary measurements were gathered as part of a
+larger project (Moore et al. 2004). For this study I used data
+from all live ponderosa pine trees that (i) had been tagged
+and measured in 1914 or 1915 (COC and CIB, respectively),
+and (ii) had cores on which IP could be measured (i.e., no
+broken cores or heart rot). Sampled trees were ≥100 years
+old and spanned a 70-cm range of diameter at breast height
+(DBH; 137 cm) (Table 1). Small trees were not included
+because historical measurements were restricted to trees
+≥9.14 cm DBH.
+Cores were extracted at stump height (40 cm) because the
+larger project required a more accurate assessment of tree
+age than was possible with cores taken at breast height.
+Cores were mounted, sanded, and cross-dated using standard
+dendrochronological techniques (Stokes and Smiley 1968).
+For cores that missed the pith, the pith location and number
+of rings between the inner ring of the core and the pith
+(hereinafter rings-to-pith) were estimated with a pith locator
+(Applequist 1958). Use of a pith locator is rapid and effi-
+cient but assumes that radial growth has been symmetric and
+constant near the centre of the tree (Rozas 2003). IP and IH
+were measured to the nearest millimetre. On cores that missed
+the pith, IP was measured by positioning the pith locator on
+the core and measuring from the centre of the pith locator to
+the outer ring. PII and G were calculated for each increment
+core (Table 1).
+Outside-bark diameter at stump height (DSHOB) was mea-
+sured and inside-bark diameter (DSHIB) was calculated us-
+ing Myers’ (1963) bark-thickness equations for old-growth
+ponderosa pine. DSHIB for each tree at the historical mea-
+surement date (1914 for COC, 1915 for CIB) was recon-
+structed using the conventional and proportional methods,
+and reconstructed diameters were then converted to DBHOB
+for comparison with historical diameter measurements.
+Conversions were made using Myers’ (1963) bark-thickness
+equations and a DSH–DBH regression developed from other
+ponderosa pine trees on the Coconino and Cibola National
+Forests (J. Bakker, M. Moore, and A. Sánchez Meador, un-
+published data):
+[3]
+DBH
+0.5413
+0.9313DSH
+OB
+OB
+= −
++
+(
+,
+;
+)
+r
+p
+n
+2
+3387
+=
+<
+=
+0.9928
+0.0001
+I used this regression because published equations (e.g., Hann
+1976) do not use the same stump height as this study.
+Comparisons with historical diameters
+Reconstructed diameters were compared with actual diam-
+eters measured in 1914–1915. The deviation (Dm) between
+the diameter reconstructed by each method (DBHHm) and the
+historical diameter (DBHH) was calculated as
+[4]
+Dm
+Hm
+H
+DBH
+DBH
+=
+−
+where m = C for the conventional method and m = P for the
+proportional method. Since D is expected to be correlated
+with historical diameter, I calculated the percent deviation
+(%Dm) between reconstructed and historical DBH values as
+© 2005 NRC Canada
+Bakker
+2517
+COC (n = 102)
+CIB (n = 62)
+Mean ± SD
+Range
+Mean ± SD
+Range
+DBHOB in 1997–2001 (cm)
+52.5±10.2
+36.1–86.6
+38.8±9.4
+14.7–64.5
+DBHOB in 1914–1915 (cm)
+28.5±12.8
+10.2–63.5
+24.6±7.3
+9.9–45.5
+Stump height centre date
+1844±49
+1702–1905
+1824±44
+1606–1896
+Rings-to-pitha
+6±4
+0–20
+5±4
+0–17
+Pith increment index (%)
+–5.2±9.8
+–28.0 to 25.3
+–9.5±13.4
+–40.0 to 30.5
+Percentage of radial growth before 1914–1915 (G)
+51±17
+21–82
+57±11
+31–88
+aEstimated number of rings between the inner ring of the core and the pith.
+Table 1. Summary statistics for trees from plots on the Coconino and Cibola National Forests (COC and CIB, respec-
+tively) used to reconstruct outside-bark diameter at breast height (DBHOB) in 1914–1915 from DBHOB measurements
+and increment cores obtained in 1997–2001.
+
+[5]
+%D
+D
+m
+m
+H
+Hm
+H
+H
+DBH
+DBH
+DBH
+DBH
+=
+×
+=
+−
+×
+100
+100
+Percent Dm is >0 when the historical diameter is overesti-
+mated and <0 when it is underestimated.
+Wilcoxon signed ranks tests were used to determine whether
+mean %Dm was significantly different from 0 at each forest.
+Chi-square goodness-of-fit tests determined whether the ob-
+served proportion of trees for which each method performed
+best (i.e., had smallest %D) differed significantly from
+those expected by chance at each forest.
+I postulated that %Dm might be related to PII, tree age,
+and rings-to-pith. Since PII is a proxy for the deviation be-
+tween the chronological and geometric centres of a stem,
+%DC should be related to it but %DP should not (Fig. 1).
+While correlation with historical diameter was accounted
+for, age–diameter relationships are weak for ponderosa pine
+(Pearson 1950) and %Dm might be related to tree age (i.e.,
+the age at stump height when historical diameters were mea-
+sured). The ability to identify the location of the pith de-
+creases as the distance between the inner ring and pith
+increases (Rozas 2003), so %DP might be related to rings-to-
+pith (since it requires the radial increment from outer ring to
+pith), while %DC shoud not.
+I used model selection to quantify the importance of ex-
+planatory variables (for details, see Burnham and Anderson
+(2002; section 4.4) and Johnson and Omland (2004)). The
+three variables (PII, tree age, rings-to-pith) were combined
+in all seven possible combinations for each method at each
+forest. The model containing all variables was assessed for
+overall significance; if it was not significant, further testing
+was not warranted. If it was significant, the fit between
+model i and the data was examined by calculating an Akaike
+Information Criterion (AICc) score normalized as an Akaike
+weight (wi). The relative importance of a variable is Σwi
+(maximum = 1) for all models containing that variable, and
+the model-averaged coefficient for the variable is the sum of
+the products of the coefficient from model i and wi (Burnham
+and Anderson 2002).
+Results
+At COC, the conventional method overestimated historical
+diameter (DBHH) by 8.3% (Wilcoxon T+ = –884.5, p = 0.003;
+Table 2), while the proportional method overestimated it by
+only 0.1% (T+ = 198.5, p = 0.510). The proportional method
+performed best for 64.7% of trees (χ2 = 8.82, p = 0.003).
+Percent DC was negatively related to PII (Fig. 2a) and tree
+age (Fig. 2b), but there was little evidence of a relation with
+rings-to-pith (Table 3). Percent DP was not related to PII
+(Fig. 2c) or rings-to-pith, but was negatively related to tree
+age (Table 3, Fig. 2d).
+At CIB, the conventional method underestimated DBHH
+by 1.3% (T+ = 207.5, p = 0.147; Table 2), while the propor-
+tional method underestimated it by 8.6% (T+ = 678.5, p <
+0.001). The proportional method performed best for 53.2%
+of trees (χ2 = 0.26, p = 0.612). Percent DC was negatively re-
+lated to PII (Fig. 2a) but was not related to tree age (Fig. 2b)
+or rings-to-pith (Table 3). Percent DP was not related to any
+of the explanatory variables (Table 3, Figs. 2c and 2d).
+Discussion
+The case studies provide support for using the propor-
+tional method to estimate historical tree diameter. Diameters
+reconstructed via the proportional method were unrelated to
+PII (Table 3, Fig. 2c), while those reconstructed via the con-
+ventional method (Fig. 2a) were overestimated when PII was
+negative (chronological radius < geometric radius) and under-
+estimated when PII was positive (chronological radius > geo-
+metric radius).
+The fact that the proportional method is not affected by
+core location (Fig. 1) has practical advantages during field-
+work. For example, a common practice is to measure stump
+height on the uphill side of the tree but to obtain increment
+cores from the side slope to minimize reaction wood and get
+the most accurate assessment of growth possible from a sin-
+gle core (Stokes and Smiley 1968). If cores are to be used to
+reconstruct historical diameters via the proportional method,
+they could be taken where stump height is measured, or else-
+where around the stem if necessary.
+Deviations between historical and reconstructed diameters
+differed between forests (Table 2), indicating that variables
+other than core location were also important. While this dif-
+ference may reflect variation in growth form between sites, it
+may also relate to tree age, which was an important explana-
+tory variable at COC but not at CIB (Table 3). More young
+trees were sampled at COC (27 trees vs. 1 tree <20 years old
+at CIB), and historical diameters of young trees were more
+likely to be overestimated, especially via the conventional
+method (Fig. 2b). The reason for this overestimation is un-
+clear, but may relate to juvenile growth rates and patterns.
+The proportional method reduced the range of %D values
+© 2005 NRC Canada
+2518
+Can. J. For. Res. Vol. 35, 2005
+COC (n = 102)
+CIB (n = 62)
+Mean ± SD
+Range
+Mean ± SD
+Range
+Conventional method
+D (cm)
+0.7±4.0
+–9.5 to 10.3
+–0.7±3.4
+–8.6 to 6.7
+%D
+8.3±22.5
+–31.1 to 86.0
+–1.3±16.9
+–27.2 to 56.0
+Proportional method
+D (cm)
+–0.7±2.8
+–9.1 to 4.7
+–2.3±2.8
+–10.1 to 3.8
+%D
+0.1±11.9
+–27.6 to 31.5
+–8.6±12.2
+–40.7 to 25.2
+Note: A positive or negative deviation indicates that the historical diameter was overestimated or un-
+derestimated, respectively.
+Table 2. Deviations (D) and percent deviations (%D) between historical diameters (Ta-
+ble 1) and reconstructed diameters using the conventional and proportional methods for
+trees from the Coconino and Cibola National Forests (COC and CIB, respectively).
+
+for these young trees much more than it affected the range
+of %D values for older trees (Fig. 2d).
+The conventional method is most likely to yield negative
+diameters when reconstructing small historical diameters, but
+reconstruction methods could not be compared on small trees
+because historical diameter measurements were only made
+on trees with DBH ≥9.14 cm. An assessment of the implica-
+tions of the reconstruction method on stand characteristics
+would require a detailed study of all trees on a site, includ-
+ing these smaller trees, and would require multiple cores per
+tree to account for the effect of core location on diameters
+reconstructed using the conventional method.
+Deviations between reconstructed and historical diameters
+were not related to rings-to-pith (Table 3), possibly because
+most cores missed the pith by only a few rings (Table 1). For
+cores that miss the pith by a large amount or lack the arcs of
+inner rings (Rozas 2003), the proportional method cannot be
+used because IP cannot be measured accurately. Although
+the conventional method is affected by core location, it re-
+mains useful for these cores and for others that do not reach
+the pith because of heart rot, exceptionally large stem diam-
+eter, or other factors.
+I suggest that these methods be used in tandem, with the
+proportional method applied where the increment from outer
+ring to pith is measurable and the conventional method ap-
+© 2005 NRC Canada
+Bakker
+2519
+A
+-40
+-20
+0
+20
+40
+60
+80
+100
+B
+COC
+CIB
+C
+-40
+-20
+0
+20
+40
+-40
+-20
+0
+20
+40
+60
+80
+100
+D
+0
+50
+100
+150
+200
+250
+300
+350
+PII
+%
+(Proportional Method)
+D
+%
+(Conventional Method)
+D
+Fig. 2. Scatterplots of percent deviation (%D; Table 2) between historical diameters (Table 1) and reconstructed diameters using the
+conventional method (A and B) and proportional method (C and D) for trees from plots on the Coconino and Cibola National Forests
+(COC and CIB, respectively). For the conventional method, %D is negatively related to PII at both sites (A) and to tree age at COC
+(B). For the proportional method, %D is not related to PII at either site (C) but is negatively related to tree age at COC (D). Horizon-
+tal and vertical zero lines are shown for reference. Model-selection results are presented in Table 3.
+COC (n = 102)
+CIB (n = 62)
+∑wi
+Coefficient
+∑wi
+Coefficient
+Conventional method
+PII
+1
+–1.34
+1
+–0.66
+Tree age
+1
+–0.17
+0.4059
+–0.02
+Rings-to-pith
+0.2526
+–0.02
+0.2399
+–0.01
+Proportional method
+PII
+0.5188
+–0.09
+—
+—
+Tree age
+0.9974
+–0.09
+—
+—
+Rings-to-pith
+0.2516
+0
+—
+—
+Note: Larger summed Akaike weights (∑wi; maximum = 1) indicate
+increased importance of a variable relative to the other variables in the
+model set (for details, see Burnham and Anderson (2002) and Johnson
+and Omland (2004)). Summed Akaike weights and coefficients were not
+calculated for the proportional method at CIB, as the model containing all
+variables was not significant (p = 0.989). The model containing all variables
+was significant for the proportional method at COC (p = 0.0006) and for
+the conventional method at COC (p < 0.0001) and CIB (p = 0.0001).
+Table 3. Results of model selection estimating the relative im-
+portance of three explanatory variables to the percent deviation
+(%D) between historical diameters (Table 1) and reconstructed
+diameters using the conventional and proportional methods for
+trees from the Coconino and Cibola National Forests (COC and
+CIB, respectively).
+
+plied where this increment cannot be measured. Such an ap-
+proach should be less biased than using the conventional
+method alone, although the implications of combining the
+two methods in a study should be further studied.
+Acknowledgements
+I thank the Woolsey research team (D. Huffman, A. Sánchez
+Meador, D. Bell, P. Fulé, P. Parysow, W. Covington, and es-
+pecially M. Moore) and the Ecological Restoration Institute
+(ERI) for logistic and financial support and ERI’s undergrad-
+uate research assistants for dendrochronological assistance.
+This project was also supported by the National Research
+Initiative of the USDA Cooperative State Research, Education
+and Extension Service, grant No. 2003-35101-12919. Com-
+ments from an associate editor, three anonymous reviewers,
+L. DeWald, C. Gehring, and members of the Woolsey research
+team greatly improved the manuscript.
+References
+Applequist, M.B. 1958. A simple pith locator for use with off-
+centre increment cores. J. For. 56: 141.
+Biging, G.S., and Wensel, L.C. 1988. The effect of eccentricity on
+the estimation of basal area and basal area increment of conifer-
+ous trees. For. Sci. 34: 621–633.
+Bojorquez-Tapia, L.A., Ffolliott, P.F., and Guertin, D.P. 1990. Herb-
+age production – forest overstory relationships in two Arizona
+ponderosa pine forests. J. Range Manage. 43: 25–28.
+Burnham, K.P., and Anderson, D.R. 2002. Model selection and
+multimodel inference: a practical information–theoretic approach.
+2nd ed. Springer-Verlag, New York.
+Clark, S.L., and Hallgren, S.W. 2004. Age estimation of Quercus
+marilandica and Quercus stellata: applications for interpreting
+stand dynamics. Can. J. For. Res. 34: 1353–1358.
+Dolph, K.L. 1981. Estimating past diameters of mixed-conifer spe-
+cies in the central Sierra Nevada. U.S. For. Serv. Res. Note
+PSW-353.
+Duncan, R.P. 1989. An evaluation of errors in tree age estimates
+based on increment cores in kahikatea (Dacrycarpus dacryd-
+ioides). N.Z. Nat. Sci. 16: 31–37.
+Foster, D.R., Orwig, D.A., and McLachlan, J.S. 1996. Ecological
+and conservation insights from reconstructive studies of temper-
+ate old-growth forests. Trends Ecol. Evol. 11: 419–424.
+Fulé, P.Z., Covington, W.W., and Moore, M.M. 1997. Determining
+reference conditions for ecosystem management in southwestern
+ponderosa pine forests. Ecol. Appl. 7: 895–908.
+Gholz, H.G., Grier, C.C., Campbell, A.G., and Brown, A.T. 1979.
+Equations for estimating biomass and leaf area of plants in the
+Pacific Northwest. Oreg. State Univ. For. Res. Lab. Res. Pap. 41.
+Gutsell, S.L., and Johnson, E.A. 2004. Accurately ageing trees and
+examining their height-growth rates: implications for interpret-
+ing forest dynamics. J. Ecol. 90: 153–166.
+Hann, D.W. 1976. Relationship of stump diameter to diameter at
+breast height for seven tree species in Arizona and New Mexico.
+U.S. For. Serv. Res. Note INT-212.
+Iles, K. 1974. Geometrical considerations affecting the determina-
+tion of basal area growth by increment boring methods. M.Sc.
+thesis, Oregon State University, Corvallis, Ore.
+Jenkins, J.C., Chojnacky, D.C., Heath, L.S., and Birdsey, R.A.
+2003. National-scale biomass estimators for United States tree
+species. For. Sci. 49: 12–35.
+Johnson, J.B., and Omland, K.S. 2004. Model selection in ecology
+and evolution. Trends Ecol. Evol. 19: 101–108.
+Matérn, B. 1961. On the precision of estimates of diameter growth
+from increment borings. In Proceedings of the 13th Congress of
+the International Union of Forest Research Organizations, Vi-
+enna, Austria, September 1961. Part 2(2), Sect. 25/8. IUFRO Vi-
+enna.
+Moore, M.M., Huffman, D.W., Fulé, P.Z., Covington, W.W., and
+Crouse, J.E. 2004. Comparison of historical and contemporary
+forest structure and composition on permanent plots in south-
+western ponderosa pine forests. For. Sci. 50: 162–176.
+Myers, C.A. 1963. Estimating past diameters of ponderosa pines in
+Arizona and New Mexico. U.S. For. Serv. Res. Note RM-7.
+Norton, D.A., Palmer, J.G., and Ogden, J. 1987. Dendroecological
+studies in New Zealand. 1. An evaluation of tree age estimates
+based on increment cores. N.Z. J. Bot. 25: 373–383.
+Omdal, D.W., Jacobi, W.R., and Shaw, C.G., III. 2001. Estimating
+large-root biomass from breast-height diameters for ponderosa
+pine in northern New Mexico. West. J. Appl. For. 16: 18–21.
+Pearson, G.A. 1923. Natural reproduction of western yellow pine
+in the southwest. USDA Bull. 1105.
+Pearson, G.A. 1950. Management of ponderosa pine in the south-
+west as developed by research and experimental practice. USDA
+For. Serv. Agric. Monogr. 6.
+Rozas, V. 2003. Tree age estimates in Fagus sylvatica and Quercus
+robur: testing previous and improved methods. Plant Ecol. 167:
+193–212.
+Singleton, R., DeBell, D.S., Marshall, D.D., and Gartner, B.L.
+2003. Eccentricity and fluting in young-growth western hemlock
+in Oregon. West. J. Appl. For. 18: 221–228.
+Stokes, M.A., and Smiley, T.L. 1968. An introduction to tree-ring
+dating. University of Chicago, Chicago, Ill.
+Villalba, R., and Veblen, T.T. 1997. Improving estimates of total
+tree ages based on increment core samples. Ecoscience, 4: 534–
+542.
+Williamson, R.L. 1975. Out-of-roundness in Douglas-fir stems. For.
+Sci. 21: 365–370.
+Wong, C.M., and Lertzman, K.P. 2001. Errors in estimating tree
+age: implications for studies of stand dynamics. Can. J. For.
+Res. 31: 1262–1271.
+© 2005 NRC Canada
+2520
+Can. J. For. Res. Vol. 35, 2005

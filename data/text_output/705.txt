@@ -1,0 +1,773 @@
+USDA Forest Service RMRS-RN-35.  2008.	
+1
+United States
+Department
+of Agriculture
+Forest Service
+Rocky Mountain
+Research Station
+Research Note 
+RMRS-RN-35
+September 2008
+Introduction
+For the purpose of vegetation management, soil seed 
+banks are viable seeds stored in litter (Oi horizon), 
+duff (Oe+a horizon), or mineral soil that can germi-
+nate when germination requirements are met (Bakker 
+and others 1996, Thompson 1987). Seed banks provide 
+propagules that may influence plant community chang-
+es after disturbance events and management activities 
+(van der Valk and Pederson 1989). Not all plant species 
+form large and persistent soil seed banks. Species that 
+are short-lived aboveground and associated with distur-
+bance often develop the largest and most persistent seed 
+banks (Koniak and Everett 1982; Roberts 1981; Wienk 
+and others 2004). For example, the native biennial 
+spreading fleabane (Erigeron divergens) and the non-
+native biennial common mullein (Verbascum thapsus) 
+are abundant in seed banks of ponderosa pine (Pinus 
+ponderosa) forests near Flagstaff, Arizona (Abella and 
+others 2007, Korb and others 2005). However, some na-
+tive perennials, such as White Mountain sedge (Carex 
+geophila), mountain muhly (Muhlenbergia montana), 
+and muttongrass (Poa fendleriana), also occur in these 
+seed banks.
+Soil seed banks are important for vegetation man-
+agement in ponderosa pine forests in at least four ways. 
+First, seed banks may provide on-site seed sources for 
+species considered undesirable (for example, exotic 
+species) for site colonization after management activi-
+ties such as tree thinning. Second, they may provide 
+seed sources for early successional species and species 
+considered desirable (for example, perennial grasses) 
+that hasten vegetation recovery after disturbance. Third, 
+seed banks can provide seedlings for the establishment 
+and maintenance of some aboveground plant popu-
+lations in the absence of major disturbance. Fourth, 
+seed banks lacking desirable species may indicate that 
+seeding or other treatments are necessary to meet man-
+agement objectives for understory vegetation. Locally 
+calibrated estimates of seed bank size and composition 
+could assist resource managers in determining pos-
+sible understory responses to management activities. 
+Knowledge of these seed bank characteristics could be 
+used to predict which exotic species could become man-
+agement concerns or for deciding whether to seed native 
+species based on their abundance in seed banks (Glass 
+1989). Although on- or off-site seed dispersal from ex-
+isting vegetation is also important (Wienk and others 
+2004), several studies have found partial correlations 
+between seed bank composition and species colonizing 
+sites after disturbance (Korb and others 2005, Springer 
+and Hastings 2004).
+Estimating Soil Seed Bank Characteristics 
+in Ponderosa Pine Forests Using 
+Vegetation and Forest-Floor Data
+Scott R. Abella and Judith D. Springer
+Abstract—Soil seed banks are important for vegetation management because they contain propagules of 
+species that may be considered desirable or undesirable for site colonization after management and disturbance 
+events. Knowledge of seed bank size and composition before planning management activities facilitates proactive 
+management by providing early alerts of exotic species presence and of abilities of seed banks to promote 
+colonization by desirable species. We developed models in ponderosa pine (Pinus ponderosa) forests in northern 
+Arizona to estimate the size and richness of mineral soil seed banks using readily observable vegetation and forest-
+floor characteristics. Regression models using three or fewer predictors explained 41 to 59 percent of the variance in 
+0- to 2-inch (0- to 5-cm) seed densities of total and native perennial seed banks. Key predictors included aboveground 
+plant species richness/10.8 ft2 (1 m2), litter weight and thickness, and tree canopy type (open or closed). Both total 
+and native perennial seed banks were larger and richer in plots containing: (1) species-rich understories, (2) sparse 
+litter, and (3) tree canopy openings. A regression tree model estimated that seed bank density of native perennials is 
+14-fold greater if aboveground plant richness exceeds eight species/10.8 ft2, forest-floor leaf litter is < 1 inch (2.5 cm) 
+thick, and tree canopies are open.
+Scott R. Abella, Assistant Research Professor, Public Lands 
+Institute and School of Life Sciences, University of Nevada Las 
+Vegas, Las Vegas, NV. 
+Judith D. Springer, Research Specialist, Sr., Ecological 
+Restoration Institute, Northern Arizona University, Flagstaff, AZ.
+
+2	
+USDA Forest Service RMRS-RN-35.  2008.
+Our objective was to develop a first approximation 
+of models to estimate seed bank density and species 
+richness using soil and aboveground vegetation vari-
+ables that are more easily measured in the field than the 
+seed bank characteristics themselves. Our models were 
+developed for ponderosa pine forests in a local study 
+area. Thus, the models require more extensive testing 
+before extrapolation to other ponderosa pine forests 
+that potentially differ from our study area in species 
+pools and in other factors affecting seed banks.
+Methods
+Study Area
+We conducted this study on forty-five, 82 × 66 ft (25 
+× 20 m), 0.12-acre (0.05-ha) plots in the southern half 
+of the Northern Arizona University Centennial Forest. 
+The Centennial Forest consists of 640-acre (259-ha) 
+sections that alternate with U.S. Forest Service sec-
+tions within the Coconino National Forest, about 5 to 
+15 mi (8 to 24 km) southwest of the city of Flagstaff 
+in northern Arizona. The maximum distance between 
+plots was 10 mi (16 km). Forests in the study area 
+are pure ponderosa pine with occasional Gambel oak 
+(Quercus gambelii). Understory vegetation is domi-
+nated by grasses, sedges, and forbs. Plot elevations 
+ranged from 7,072 to 7,472 ft (2,156 to 2,278 m), with 
+slope gradients less than 10 percent. Plots were located 
+and stratified by a terrestrial ecosystem classification 
+following methods in Abella and others (2007). Five 
+plots were located within each of three randomly 
+selected mapping units of each of the 536, 570, and 
+585 terrestrial ecosystem survey soil types. Soils 
+in these types are primarily classified as Typic and 
+Mollic Eutroboralfs (Miller and others 1995). Annual 
+precipitation at the Flagstaff airport, about 10  mi  
+(16 km) east of the study area, averages 21 inches  
+(54 cm). Approximately 50 percent of this precipita-
+tion is snow (1950 to 2006 records; Western Regional 
+Climate Center, Reno, NV). July high temperatures 
+average 82oF (28oC), and January low temperatures 
+average 16oF (-9oC).
+Field Sampling
+Plots spanned a range of overstory characteristics 
+and were located either in openings or in dense patches 
+of young trees (fig. 1). Locations for plots were estab-
+lished by randomly selecting a geographic coordinate 
+within each soil mapping unit, and then selecting 
+vegetation patches closest to that coordinate using 
+field reconnaissance. Density of trees greater than 0.4 
+inches (1 cm) in diameter at breast height ranged from 
+0 to 1,392 trees/acre (3,440 trees/ha) among plots. 
+Basal area ranged from 0 to 274 ft2/acre (63 m2/ha). 
+We measured the diameter of every tree (> 0.4 inches 
+[1 cm] in diameter) on each plot and classified tree 
+canopy types as primarily open (usually near old trees 
+> age 120 years based on increment boring) or closed 
+(dense tree patches). These general canopy types are 
+readily recognized in the field (fig. 1) and have been 
+used in several previous studies (for example, Vose 
+and White 1987).
+In each plot, we established a total of fifteen, 10.8-ft2 
+(1-m2) subplots per plot. Subplots were systematically 
+located at 2, 16, 41, 66, and 80 ft (0.5, 5, 12.5, 20, 
+and 24.5 m) along the southern, central, and northern 
+82-ft (25-m) plot lines. In these subplots, we measured 
+litter (Oi horizon) thickness to the nearest 0.04 inch 
+(0.1 cm) and visually estimated areal percent cover (at 
+0.1, 0.25, 1, or 5 percent intervals) of each plant spe-
+cies rooted in the subplots. We estimated tree canopy 
+cover to the nearest 5 percent using a densitometer 
+(Geographic Resource Solutions, Arcata, CA). We 
+also collected a 0- to 2-inch (0- to 5-cm) sample of the 
+mineral soil seed bank in each subplot using a 1.6-inch 
+(4.2-cm) diameter metal corer. Each sample was 4.3 in3 
+(70 cm3), and we composited samples on a plot basis 
+for a plot seed bank sample of 64 in3 (1,050 cm3). O 
+horizons can trap seeds (Abella and Covington 2007; 
+Korb and others 2005), but we focused on mineral soil 
+seed banks because O horizons were sparse on some 
+plots. From soil pits at the southwestern and north-
+eastern plot corners, we collected a composite 0- to 
+6-inch (0- to 15-cm) mineral soil sample for determin-
+ing soil texture (hydrometer method; Dane and Topp 
+2002). We measured litter weight by collecting litter 
+samples in 5.4-ft2 (0.5-m2) frames at soil pit locations. 
+We then oven dried these samples at 158oF (70oC) for 
+24 hours.
+Plot and seed bank sampling occurred from June 
+through August 2003. Based on published phenolo-
+gies in the region (Clary and Kruse 1979), seedbank 
+collections occurred before most species disperse 
+seeds in late summer or fall. Thus, collections likely 
+primarily represent the persistent seed bank (Baskin 
+and Baskin 1998), although it is possible that some 
+early flowering species contributed current-year seeds 
+to samples.
+Greenhouse Seed Bank Procedures
+On the same day each sample was collected, we 
+placed 7 in3 (120 cm3) of the composite seed bank sam-
+ple from each plot in a greenhouse maintained at 75oF 
+
+USDA Forest Service RMRS-RN-35.  2008.	
+3
+(24oC). We placed samples in a layer about 0.4 inches 
+(1 cm) thick on top of 18 in3 (300 cm3) of sterile pot-
+ting soil in 43-in3 (700-cm3) square pots. We randomly 
+arranged pots on greenhouse benches and watered the 
+samples daily. The greenhouse was maintained with 
+natural lighting, but we also provided samples with 
+four hours of supplemental artificial lighting during 
+fall and winter months (October through February). 
+We identified and counted emerging seedlings (as 
+a measure of seed density) every two weeks for six 
+months. To meet possible chilling requirements for 
+some species, we stored the remainder of samples 
+(57  in3, 930 cm3 from each plot) at 23oF (-5oC) for 
+four to six months. We then placed 7 in3 (120 cm3) of 
+chilled sample from each plot in each of four sepa-
+rate pots and treated these samples procedurally the 
+same as the unchilled samples. Seed density between 
+chilled and unchilled samples was not appreciably dif-
+ferent, so we pooled data from these separate samples 
+into 37-in3 (600-cm3) plot samples for calculating 0- 
+to 2-inch (0- to 5-cm) seed densities/ft2 (0.09 m2) and 
+species richness/0.13 ft2 (0.01 m2). We report richness 
+for this sample area computed from our sample vol-
+ume because species-accumulation curves are needed 
+for extrapolating richness to larger volumes and areas 
+(Bigwood and Inouye 1988). Plant nomenclature and 
+classification of species as native or exotic followed 
+NRCS (2004).
+Statistical Analysis
+The seed bank characteristics we analyzed in this 
+study included: (1) total seed densities/ft2 (0.09 m2), 
+(2) total species richness/0.13 ft2 (0.01 m2), (3) native 
+perennial seed densities/ft2, and (4) native perennial 
+species richness/0.13 ft2. We first examined bivariate 
+correlations between these seed bank characteris-
+tics and soil and aboveground vegetation variables 
+(table 1). We then used multiple regression and re-
+gression trees as exploratory models to estimate seed 
+bank characteristics from these variables with a sam-
+ple size of 45 plots. Analyses were performed with 
+the software JMP (SAS Institute 2002). For multiple 
+regression, we used a forward stepwise procedure 
+for identifying predictor variables. Regression trees 
+are nonparametric models that partition data into 
+increasingly homogenous subsets and provide di-
+chotomous keys to estimate a dependent variable at 
+different values of predictor variables (Breiman and 
+others 1984). The JMP version allows users to de-
+termine the number of splits, so we stopped splitting 
+Figure 1. Examples of ponderosa pine canopy types below which we collected soil seed bank samples 
+southwest of Flagstaff, Arizona. Foreground: open patch dominated by large, old trees. Background: dense 
+canopy of small-diameter trees. Open patches contained larger and richer soil seed banks than patches of 
+dense, small trees. Photo by S.R. Abella, June 11, 2003 (35o08’54”N, 111o43’43”W).
+
+4	
+USDA Forest Service RMRS-RN-35.  2008.
+when adding more predictors resulted in increases of 
+< 0.05 in R2. We employed JMP’s k-fold crossvalida-
+tion (k = 5) to compute a cross-validated overall R2 
+(1 - [crossvalidated sum of squares error / corrected 
+sum of squares]).
+Results
+Of 49 total species detected in seed bank samples, 
+10 percent were exotic and 43 percent were native 
+perennials. Total average seed density was 54 seeds/
+ft2 (0- to 2-inch layer; 583 seeds/m2) on closed tree 
+canopy plots and 149 seeds/ft2 (1,611/m2) on open 
+plots. Exotic species contributed 19 percent of these 
+total seed densities on both closed and open plots. 
+Common mullein constituted 78 (closed plots) and 
+88 (open plots) percent of total average exotic seed 
+density. Native perennials comprised 15 (closed plots) 
+and 22 (open plots) percent of the total average seed 
+density for all species. The most abundant native pe-
+rennials in seed banks included White Mountain sedge, 
+spreading sandwort (Arenaria lanuginosa), mountain 
+muhly, muttongrass, and lobe-leaf groundsel (Packera 
+multilobata).
+Total seed densities in mineral soil seed banks were 
+positively correlated with aboveground plant species 
+richness/10.8 ft2 (1 m2; Pearson r = 0.54) and plant 
+cover (r = 0.34). However, these seed densities were 
+negatively correlated with ponderosa pine tree density 
+(r = -0.40), basal area (r = -0.39), and litter thickness 
+and weight (r = -0.47 for both). Similar to total seed 
+densities, native perennial seed densities exhibited 
+the following correlations with vegetation and forest-
+floor variables: aboveground plant richness (r = 0.54) 
+and cover (r = 0.45), ponderosa pine tree density (r = 
+-0.38) and basal area (r = -0.27), and litter thickness 
+(r = -0.39) and weight (r = -0.40). Total and native 
+perennial species richness in seed banks had relation-
+ships with these vegetation and forest-floor variables 
+similar to those of seed densities. Additionally, neither 
+seed density nor species richness were strongly corre-
+lated (|r| <0.32) with 0- to 6-inch (0- to 15-cm) percent 
+sand, silt, or clay.
+Aboveground species richness, tree canopy type 
+(open or closed), and litter weight explained 49 per-
+cent of the variance in seed bank total seed densities 
+and species richness in multiple regression models (ta-
+ble 2). These three predictors explained 41 percent of 
+the variance in native perennial seed densities. Fifty-
+two percent of the variance in native perennial species 
+richness was explained by these predictors and tree 
+canopy percent cover.
+Regression trees explained 47 to 59 percent of the 
+variance in seed density using two or three predictors 
+(fig. 2). Similar to multiple regression, aboveground 
+species richness and tree canopy type were important 
+predictors in these models. Litter thickness, rather than 
+litter weight as in multiple regression, also was an im-
+portant predictor. The greatest seed densities occurred 
+on plots containing thin litter layers, high aboveground 
+plant richness, and open canopies.
+Discussion
+The basic insights gained from the regression mod-
+els include: (1) densities and species richness of seeds 
+in mineral soils increased with decreasing forest-floor 
+litter weight and thickness; (2) both total and native 
+perennial seed densities and species richness in min-
+eral soils were highest in areas with high aboveground 
+plant species richness/10.8 ft2 (1 m2); and (3) patches 
+with open canopies, typically near old trees, supported 
+Table 1. Correlation matrix (Pearson r) between seed bank response (variables 1 through 4) and explanatory variables (5 through 9) 
+included in final multiple regression or regression tree models. Descriptive statistics by tree canopy type are provided for each 
+variable at the bottom of the table.
+	
+1	
+2	
+3	
+4	
+5	
+6	
+7	
+8	
+9
+1  Total seeds/ft2	
+1
+2  Total species/0.13 ft2	
+0.89	
+1
+3  Native perennial seeds/ft2	
+0.53	
+0.55	
+1
+4  Native perennial species/0.13ft2	
+0.44	
+0.57	
+0.76	
+1
+5  Plant species/10.8 ft2	
+0.54	
+0.59	
+0.54	
+0.59	
+1
+6  Litter wt. (tons/acre)	
+-0.47	
+-0.51	
+-0.40	
+-0.39	
+-0.34	
+1
+7  Litter thickness (inches)	
+-0.47	
+-0.38	
+-0.39	
+-0.25	
+-0.53	
+0.22	
+1
+8  Canopy type (open, closed)	
+-0.53	
+-0.43	
+-0.48	
+-0.49	
+-0.50	
+0.11	
+0.54	
+1
+9  Canopy cover (percent)	
+-0.29	
+-0.19	
+-0.26	
+-0.18	
+-0.42	
+0.10	
+0.76	
+0.67	
+1
+Open canopy, mean±SD	
+139±98	
+7.1±4.1	
+33±32	
+2.1±1.6	
+7.2±2.3	
+2.9±2.3	
+0.8±0.4	
+–	
+27±15
+Closed canopy, mean±SD	
+49±46	
+3.7±3.0	
+8±13	
+0.8±0.8	
+4.5±2.5	
+3.3±1.5	
+1.3±0.4	
+–	
+52±14
+
+USDA Forest Service RMRS-RN-35.  2008.	
+5
+Table 2. Multiple regression models estimating seed densities and species richness in 0- to 2-inch (0- to 5-cm) soil seed 
+banks in ponderosa pine forests southwest of Flagstaff, Arizona.
+Predictora	
+Coefficient	
+SE	
+t-statistic	
+Prob. >t	
+Cum. R2(b)
+	
+–––––—–––––––––––––––––– Total seeds/ft2 –––––––––––––––––––––––
+Interceptc	
+100.9756	
+35.1	
+2.88	
+<0.01	
+–––
+Plant species/10.8 ft2	
+7.0217	
+4.2	
+1.68	
+0.10	
+0.29
+Tree canopy type (0, 1)	
+32.2178 	
+10.9	
+2.96	
+<0.01	
+0.39
+Litter weight (tons/acre)	
+-15.5909	
+5.3	
+-3.19	
+<0.01	
+0.49
+	
+–––––––––––––––––––––– Total species/0.13 ft2 ––––––––––––––––––––
+Intercept	
+4.7100	
+1.6	
+2.91	
+<0.01	
+–––
+Plant species/10.8 ft2	
+0.5047	
+0.2	
+2.63	
+0.01	
+0.35
+Litter weight (tons/acre)	
+-0.7338	
+0.3	
+-2.99	
+<0.01	
+0.45
+Tree canopy type (0, 1)	
+0.8156	
+0.5	
+1.63	
+0.11	
+0.49
+	
+–––––—––––––––––––– Native perennial seeds/ft2 ––––––––––––––––––
+Intercept	
+15.0924 	
+11.4	
+1.32	
+0.19	
+–––
+Plant species/10.8 ft2	
+2.7957	
+1.4	
+2.06	
+0.04	
+0.29
+Tree canopy type (0, 1)	
+7.5809	
+3.5	
+2.15	
+0.04	
+0.35
+Litter weight (tons/acre)	
+-3.5714	
+1.7	
+-2.07	
+0.04	
+0.41
+ 	
+–––––—–––––––––––– Native perennial species/0.13 ft2 –––––––––––––
+Intercept	
+-0.2001	
+0.7	
+-0.27	
+0.78	
+–––
+Plant species/10.8 ft2	
+0.2038	
+0.1	
+3.05	
+<0.01	
+0.35
+Tree canopy type (0, 1)	
+0.6667	
+0.2	
+3.13	
+<0.01	
+0.40
+Tree canopy cover (percent)	
+0.0245	
+0.0	
+2.31	
+0.03	
+0.47
+Litter weight (tons/acre)	
+-0.1662	
+0.1	
+-1.96	
+0.06	
+0.52
+aPlant species richness represents aboveground vegetation. Tree canopy type corresponds to open old-tree patches (0) or dense 
+patches of small trees (1).
+bCumulative proportion of variance explained for the dependent (y) variable based on stepwise predictor selection.
+cAs an example, the equation for estimating total seeds/ft2 is the following: y = 100.9756 + 7.0217(aboveground plant species/10.8 ft2) 
++ 32.2178(canopy type) – 15.5909(litter weight). Metric conversions are as follows: seed bank seeds/ft2 = seeds/0.09 m2, seed 
+bank species/0.13 ft2 = species/0.01 m2, and aboveground plant species/10.8 ft2 = species/m2.
+Figure 2. Regression trees estimating 0- to 2-inch (0- to 5-cm) soil seed bank: (a) total seeds/ft2 (0.09 m2) and 
+(b) native perennial seeds/ft2 (0.09 m2) based on litter thickness (Oi horizon), aboveground plant species 
+richness/10.8 ft2 (1 m2), and tree canopy type. The cumulative proportion of variance explained (R2) is shown 
+at each division. Estimated values at each node are the mean ± 1 standard deviation. Cross-validated R2 for 
+whole models was 0.41 for (a) and 0.39 for (b).
+
+6	
+USDA Forest Service RMRS-RN-35.  2008.
+larger and richer soil seed banks than patches of denser 
+canopies containing many closely spaced small trees 
+(figs. 1, 2).
+Several factors could cause mineral soil seed 
+banks to be smaller in areas with thick and heavy lit-
+ter. Seeds may become trapped in litter so that fewer 
+reach mineral soil (Korb and others 2005) or retain 
+viability. Litter abundance increases in areas of high 
+pine density, which may decrease seed banks by de-
+creasing aboveground vegetation that provides seed 
+inputs. This conjecture is consistent with the strong 
+positive relationship we observed between seed bank 
+density and aboveground plant richness. Aboveground 
+richness itself was negatively correlated with pine 
+density (r = -0.66) and basal area (r = -0.52). Our find-
+ing of larger and richer seed banks in openings usually 
+near large, old trees concurs with Vose and White’s 
+(1987) data on seed rain by understory vegetation. 
+These authors found that grass + forb seed rain aver-
+aged more than 10 times greater below openings than 
+below dense tree canopies in ponderosa pine forests 
+near Flagstaff, Arizona (fig. 3). These data suggest 
+that many seeds in our seed bank samples probably 
+originated from relatively recent inputs by aboveg-
+round vegetation. However, some seeds, such as those 
+of common mullein that are long-lived in seed banks, 
+were possibly deposited in our samples long ago (Warr 
+and others 1993).
+Regression models explained 41 to 59 percent of 
+the variance in seed bank densities using three or 
+fewer predictor variables (table 2, fig. 2). Imperfect 
+measurement of predictors, plot-scale disturbance his-
+tory, or other unmeasured factors could have resulted 
+in unexplained variance. Our method of locating plots 
+was not intended to assess the effects of disturbance 
+history on seed banks. Increasing our understanding of 
+relationships between disturbance history and contem-
+porary seed banks would probably improve our ability 
+to estimate seed bank size and composition (Korb and 
+others 2005).
+Management Implications
+Our study and previous research (Vose and White 
+1987) suggests that positive feedbacks exist between 
+soil seed banks and aboveground vegetation. Seed 
+banks, overall and specifically for native perennials, are 
+richer and larger in patches where aboveground under-
+story vegetation is most abundant. Unfortunately, this 
+indicates that seed banks are less useful for increasing 
+Figure 3. Seed rain by grasses and forbs among canopy types from fall 1982 to fall 1983 after a 
+prescribed burn in ponderosa pine forests in the Fort Valley Experimental Forest, northern Arizona. 
+Seed rain was greatest in openings that contained abundant understory vegetation. Data from Vose 
+and White (1987).
+
+USDA Forest Service RMRS-RN-35.  2008.	
+7
+native understory vegetation in dense pine stands 
+where existing understory vegetation is most depau-
+perate. Our findings suggest that seed banks of some 
+native perennials can be enhanced by increasing the 
+vigor and richness of understory vegetation containing 
+these species. Management techniques for accomplish-
+ing this could include tree thinning, reducing grazing 
+pressure especially during periods of seed production, 
+prescribed burning timed to maintain seed production, 
+or actively planting or seeding understory species.
+Acknowledgments
+We thank several individuals for assistance dur-
+ing this study: students and staff at the Ecological 
+Restoration Institute helped collect seed bank sam-
+ples; Brad Blake and Phil Patterson maintained the 
+Northern Arizona University research greenhouse; 
+Keith Pajkos, Arizona State Lands forester, and J.J. 
+Smith, Centennial Forest manager, permitted us to 
+perform this study and provided valuable insights on 
+local forest ecology; Randi Walker and Sharon Altman 
+formatted tables 1 and 2; Julie Korb and Jill Craig 
+reviewed the manuscript; and Rudy King, Rocky 
+Mountain Research Station statistician, provided a 
+statistical review and helped with statistical analyses. 
+We also value Wally Covington’s encouragement and 
+support of distributing research findings to resource 
+managers. This study was funded by the U.S. Forest 
+Service and the Ecological Restoration Institute.
+References
+Abella, Scott R.; Covington, W. Wallace. 2007. Forest-floor 
+treatments in Arizona ponderosa pine restoration eco-
+systems: no short-term effects on plant communities. 
+Western North American Naturalist. 67:120-132.
+Abella, Scott R.; Springer, Judith D.; Covington, W. Wallace. 
+2007. Seed banks of an Arizona Pinus ponderosa land-
+scape: responses to environmental gradients and fire 
+cues. Canadian Journal of Forest Research. 37:552-567.
+Bakker, J.P.; Poschlod, P.; Strykstra, R.J.; Bekker, R.M.; 
+Thompson, K. 1996. Seed banks and seed dispersal: 
+important topics in restoration ecology. Acta Botanica 
+Neerland. 45:461-490.
+Baskin, Carol C.; Baskin, Jerry M. 1998. Seeds: ecology, 
+biogeography, and evolution of dormancy and germina-
+tion. San Diego, CA: Academic Press. 666 p.
+Bigwood, Douglas W.; Inouye, David W. 1988. Spatial pat-
+tern analysis of seed banks: an improved method and op-
+timized sampling. Ecology. 69:497-507.
+Breiman, Leo; Friedman, Jerome H.; Olshen, Richard A.; 
+Stone, Charles J. 1984. Classification and regression 
+trees. Belmont, CA: Wadsworth Inc. 358 p.
+Clary, Warren P.; Kruse, William H. 1979. Phenology and rate 
+of height growth of some forbs in the southwestern pon-
+derosa pine type. Res. Note RM-376. Fort Collins, CO: 
+U.S. Department of Agriculture, Forest Service, Rocky 
+Mountain Forest and Range Experiment Station. 8 p.
+Dane, Jacob H.; Topp, G. Clarke, eds. 2002. Methods of 
+soil analysis. Part 4. Physical methods. Soil Science 
+Society of American Book Series No. 5. Madison, WI: 
+Soil Science Society of America, Inc. 1692 p.
+Glass, Steve. 1989. The role of soil seed banks in resto-
+ration and management. Restoration and Management 
+Notes. 7:24-29.
+Koniak, Susan; Everett, Richard L. 1982. Seed reserves 
+in soils of successional stages of pinyon woodland. 
+American Midland Naturalist. 108:295-303.
+Korb, Julie E.; Springer, Judith D.; Powers, Stephanie R.; 
+Moore, Margaret M. 2005. Soil seed banks in Pinus pon-
+derosa forests in Arizona: clues to site history and resto-
+ration potential. Applied Vegetation Science. 8:103-112.
+Miller, Greg; Ambos, Norm; Boness, Pat; Reyher, Deanna; 
+Robertson, George; Scalzone, Ken; Steinke, Rory; 
+Subirge, Tom. 1995. Terrestrial ecosystems survey 
+of the Coconino National Forest. U.S. Department of 
+Agriculture, Forest Service, Southwestern Region. 
+405 p.
+NRCS [U.S. Department of Agriculture, Natural Resources 
+Conservation Service]. 2004. The PLANTS database. 
+Baton Rouge, LA: National Plant Data Center. http://
+plants.usda.gov/
+Roberts, H.A. 1981. Seed banks in soils. Advances in 
+Applied Biology. 6:1-55.
+SAS Institute. 2002. JMP version 5 user’s guide. Cary, NC: 
+SAS Institute, Inc. 263 p.
+Springer, Judy; Hastings, Rob. 2004. Soil seed banks in 
+coniferous, fire-adapted, and southwestern U.S. eco-
+systems: an annotated bibliography. Flagstaff, AZ: 
+Ecological Restoration Institute. 67 p.
+Thompson, K. 1987. Seeds and seed banks. New Phytologist. 
+106 (Suppl.):23-34.
+van der Valk, A.G.; Pederson, Roger L. 1989. Seed banks 
+and the management and restoration of natural veg-
+etation. In: Leck, Mary Allessio; Parker, V. Thomas; 
+Simpson, Robert L., eds. Ecology of soil seed banks. 
+NY, NY: Academic Press: 329-346.
+Vose, James M.; White, Alan S. 1987. Processes of under-
+story seedling recruitment 1 year after prescribed fire in 
+an Arizona ponderosa pine community. Canadian Journal 
+of Botany. 65:2280-2290.
+Warr, Susan J.; Thompson, Ken; Kent, Martin. 1993. Seed 
+banks as a neglected area of biogeographic research: a 
+review of literature and sampling techniques. Progress in 
+Physical Geography. 17:329-347.
+Wienk, Cody L.; Sieg, Carolyn Hull; McPherson, Guy R. 
+2004. Evaluating the role of cutting treatments, fire and 
+soil seed banks in an experimental framework in ponde-
+rosa pine forests of the Black Hills, South Dakota. Forest 
+Ecology and Management. 192:375-393.
+
+You may order additional copies of this publication by sending your 
+mailing information in label form through one of the following media. 
+Please specify the publication title and series number.
+Fort Collins Service Center
+	
+Telephone	
+(970) 498-1392
+	
+FAX	
+(970) 498-1122
+	
+E-mail	
+rschneider@fs.fed.us
+	
+Web site	
+http://www.fs.fed.us/rm/publications
+	
+Mailing address	
+Publications Distribution
+	
+	
+Rocky Mountain Research Station
+	
+	
+240 West Prospect Road
+	
+	
+Fort Collins, CO 80526
+Rocky Mountain Research Station
+240 W. Prospect Road
+Fort Collins, Colorado 80526
+The Rocky Mountain Research Station develops scientiﬁc information 
+and technology to improve management, protection, and use of the 
+forests and rangelands. Research is designed to meet the needs of 
+the National Forest managers, Federal and State agencies, public and 
+private organizations, academic institutions, industry, and individuals. 
+Studies accelerate solutions to problems involving ecosystems, range, 
+forests, water, recreation, ﬁre, resource inventory, land reclamation, 
+community sustainability, forest engineering technology, multiple use 
+economics, wildlife and ﬁsh habitat, and forest insects and diseases. 
+Studies are conducted cooperatively, and applications may be found 
+worldwide.
+Station Headquarters 
+Rocky Mountain Research Station 
+240 W Prospect Road
+Fort Collins, CO 80526 
+(970) 498-1100
+Research Locations
+Rocky
+   Mountain
+       Research Station
+Reno, Nevada
+Albuquerque, New Mexico
+Rapid City, South Dakota
+Logan, Utah
+Ogden, Utah
+Provo, Utah
+The U.S. Department of Agriculture (USDA) prohibits discrimination in all its 
+programs and activities on the basis of race, color, national origin, age, disability, 
+and where applicable, sex, marital status, familial status, parental status, religion, 
+sexual orientation, genetic information, political beliefs, reprisal, or because all 
+or part of an individual’s income is derived from any public assistance program. 
+(Not all prohibited bases apply to all programs.) Persons with disabilities who 
+require alternative means for communication of program information (Braille, 
+large print, audiotape, etc.) should contact USDA’s TARGET Center at (202) 
+720-2600 (voice and TDD). To ﬁle a complaint of discrimination, write to USDA, 
+Director, Ofﬁce of Civil Rights, 1400 Independence Avenue, S.W., Washington, 
+DC 20250-9410, or call (800) 795-3272 (voice) or (202) 720-6382 (TDD). USDA 
+is an equal opportunity provider and employer.
+Flagstaff, Arizona
+Fort Collins, Colorado
+Boise, Idaho
+Moscow, Idaho
+Bozeman, Montana
+Missoula, Montana

@@ -1,0 +1,1173 @@
+Balancing Ecological and Economic Objectives 
+in Restoration of Fire-Adapted Forests: 
+Case Study From the Four Forest Restoration Initiative 
+Alan A. Ager, Michelle A. Day, Amy Waltz, Mark Nigrelli, and Mary Lata
+General Technical Report RMRS-GTR-424
+May 2021
+Forest Service
+U.S. DEPARTMENT OF AGRICULTURE
+Rocky Mountain Research Station
+
+Ager, Alan A.; Day, Michelle A.; Waltz, Amy; Nigrelli, Mark; Lata, Mary. 2021. Balancing ecological 
+and economic objectives in restoration of fire-adapted forests: Case study from the 
+Four Forest Restoration Initiative. Gen. Tech. Rep. RMRS-GTR-424. Fort Collins, CO: U.S. 
+Department of Agriculture, Forest Service, Rocky Mountain Research Station. 30 p. 
+https://doi.org/10.2737/RMRS-GTR-424.
+Abstract 
+ 
+We examined tradeoffs between managing for fire resilience versus economic objectives 
+for a large scale (240,000 ha) federal collaborative forest restoration project in the southwestern 
+United States—the Four Forest Restoration Initiative—created to improve fire resilience in fire-
+adapted ponderosa pine forests that have experienced a century of fire exclusion. However, 
+scaling up forest restoration to substantially change fuels and future fire behavior over large areas 
+is constrained by marginal economic returns from harvested materials. We simulated a range of 
+forest management scenarios and varied the objectives to select areas within those scenarios 
+based on the potential to generate revenue (sale of harvested logs) or improve fire resiliency 
+(reduce crown fire). We found that maximizing fire resiliency cost $44 per ha for the first 9,000 ha 
+treated. By contrast, maximizing revenue generated an average of $552 per hectare treated for 
+the same treated area. We identified a scenario that blended financial and resiliency objectives 
+such that revenue could be generated while improving fire resiliency nearly as well as the optimal 
+scenario. These results revealed tradeoffs among and within project areas for the two objectives 
+and demonstrated that a relatively simple optimization algorithm could be incorporated into the 
+collaborative restoration planning process to understand and communicate tradeoffs between 
+financial and fire resiliency objectives.  
+Keywords: collaborative forest planning, forest economics, forest restoration, scenario planning, 
+                    spatial optimization, production frontiers
+All Rocky Mountain Research Station publications are published by U.S. Forest Service employees and 
+are in the public domain and available at no cost. Even though U.S. Forest Service publications are not 
+copyrighted, they are formatted according to U.S. Department of Agriculture standards and research 
+findings and formatting cannot be altered in reprints. Altering content or formatting, including the 
+cover and title page, is strictly prohibited.
+Cover photo
+A view of ongoing forest restoration activities in the Parks West project on the Kaibab National 
+Forest, Arizona. Courtesy photo provided to Mark Nigrelli.
+
+Authors
+Alan A. Ager is a Research Forester in the Fire, Fuel, and Smoke Research Program, Rocky 
+Mountain Research Station, Missoula, Montana. 
+Michelle A. Day is a Biological Scientist in the Fire, Fuel and Smoke Research Program, Rocky 
+Mountain Research Station, Missoula, Montana. 
+Amy Waltz is Director of Science Delivery with the Ecological Restoration Institute at Northern 
+Arizona University, Flagstaff, Arizona.
+Mark Nigrelli is a GIS Specialist with the Four Forest Restoration Initiative, Coconino, Kaibab, 
+Apache-Sitgreaves, and Tonto National Forests, Flagstaff, Arizona. 
+Mary Lata is a Fire Ecologist with the Tonto National Forest, Payson, Arizona.  
+Acknowledgments
+ 
+This study was funded by the National Fire Decision Support Center, Missoula Fire Sciences 
+Laboratory, Rocky Mountain Research Station. We acknowledge extensive help from the Four 
+Forest Restoration Initiative planning team, Steve Horner from Campbell Global Industries, and 
+Travis Woolley from The Nature Conservancy of Arizona. We thank Stu Brittain, Alturas Solutions, 
+for development of the Landscape Treatment Designer, the precursor to ForSys; Ken Bunzel, 
+Kingbird Software, for modifications to the ForSys model; and Rachel Houtman for additional runs 
+of the ForSys model. John Bailey at Oregon State University provided helpful comments to an 
+earlier version of the paper.  
+
+Contents
+Introduction  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Methods . . . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Study Area  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Scenario Objectives .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Stand and Inventory Data .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . 5
+Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .13
+Discussion . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Conclusions .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+References .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Appendix A. Additional Modeling Details .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . 29
+
+USDA Forest Service RMRS GTR-423. 2021.	
+1
+Introduction
+The dry pine ecosystem in the western United States covers over 12.6 million 
+acres (Baker 2015) and is a critically important source of wood products, 
+water, biodiversity, and recreation (Noss et al. 2006). Numerous studies 
+have documented the structural transition of these forests in the last century 
+and the effects on fire regimes and ecological resiliency (Merschel et al. 
+2018; Moore et al. 2004) and biodiversity (Laughlin et al. 2006; Metlen 
+and Fiedler 2006). Landscapes that historically burned with frequent low-
+intensity fire are now experiencing high-severity wildfires more frequently, 
+catalyzed by climate change (Abatzoglou and Williams 2016; Rocca et al. 
+2014; Schoennagel et al. 2017; Westerling 2016; Westerling et al. 2006), 
+spatial homogenization of fuels from past fires (Hessburg et al. 2019), and 
+historic management practices (Covington and Moore 1994; Spies et al. 
+2014). These patterns suggest that the current fire trajectory under changing 
+climate will lead to large type conversions and extirpation of the dry forest 
+ecosystem (Kerns et al. 2020). U.S. federal land management agencies have 
+responded with large scale collaborative restoration initiatives to improve 
+ecological resiliency and support economic interests of forest-dependent 
+communities (GAO 2015; USDA FS 2012, 2015b, 2020). The U.S. Forest 
+Service, together with the National Park Service and the Bureau of Indian 
+Affairs, manage 70 percent of all western forests (Westerling 2016) and are 
+funded to treat about 800,000 ha with a combination of mechanical thinning, 
+mastication, pile burning, and prescribed fire. These activities are effective at 
+reducing high-severity fire, potentially improving long-term carbon storage 
+(Dore et al. 2010; Finkral and Evans 2008), sustaining resilient biodiversity 
+(Laughlin et al. 2006; Metlen and Fiedler 2006; Mitchell et al. 2006), and 
+protecting communities from adverse fire impacts (Kalies and Yocom Kent 
+2016). 
+Dry forest restoration programs in the United States face substantial tradeoffs 
+among multiple economic and ecological goals on landscapes valued for 
+a wide range of ecosystem services. In particular, achieving fire resiliency 
+objectives requires costly removal of small diameter trees and woody debris 
+that contribute to severe fire behavior but reduces the economic viability 
+and scale of the programs (Ager et al. 2017; Chung et al. 2012). Economic 
+objectives are best optimized by harvesting of larger diameter trees and 
+allocating treatments to stands with higher commercial volume, which 
+ensures that projects are economically viable to contractors. Finding the 
+balance that maximizes the economic opportunity for contractors while 
+creating large fire resilient landscapes is a key to creating and sustaining fire 
+resilient forests and the federal restoration programs that bring about the 
+required management activities. 
+
+USDA Forest Service RMRS GTR-423. 2021.	
+2
+Tradeoffs among economics, fire resiliency, biodiversity, and ecosystem 
+services are widespread in forest management systems (Kline and Mazzotta 
+2012; Triviño et al. 2017) and have been extensively studied with multi-
+objective planning and optimization models (Christensen et al. 2009; 
+Foresta et al. 2016; Hof and Joyce 1992; Mazziotta et al. 2017; Peterson et 
+al. 2003; Schroder et al. 2016; Schröter et al. 2014). In general, tradeoffs 
+from forest management occur over both space and time, are nonlinear and 
+scale dependent, and involve both negative and positive aspects of forest 
+management. While tradeoffs in fire adapted systems mostly concern how 
+management can reduce losses from wildfire disturbances (Schroder et al. 
+2016), in boreal systems the concern is the negative impacts of logging on 
+biodiversity and other ecosystem services (Triviño et al. 2017). Tradeoffs 
+among multiple conflicting objectives are common in forest management 
+systems and can be compensated by diversifying management to include a 
+wider array of harvesting practices (Pohjanmies et al. 2019; Triviño et al. 
+2017). Nonlinearity means that the steepness of the tradeoff among variables 
+can be affected by the level of the production of each of the other objectives 
+and is central to the idea of production frontiers. 
+Despite the many studies on tradeoffs and examples of multi-objective 
+planning and optimization in forestry, application to the problem of dry forest 
+restoration is limited to a few studies (Ager et al. 2017; Kennedy et al. 2008; 
+Lehmkuhl et al. 2007; Schroder et al. 2016), and field application in the U.S. 
+Collaborative Forest Landscape Restoration Program (CFLRP) programs is 
+nonexistent. To advance knowledge about tradeoffs in ecological restoration 
+and the application of multi-objective decision support tools, we examined 
+economic and fire resiliency tradeoffs on the largest ongoing CFLRP located 
+in the southwestern United States, the Four Forest Restoration Initiative 
+(4FRI). We applied a heuristic spatial optimization model (Ager et al. 2019) 
+to build a restoration plan that balanced economics with fire resiliency 
+objectives, and mapped priority planning areas and treatment units within 
+them. The modeling framework and implementation is substantially less 
+complex than other mathematical optimization approaches in the forestry 
+literature, and its wider application to restoration planning has the potential to 
+help advance the goals of forest restoration on fire prone public lands in the 
+western United States and elsewhere. 
+
+USDA Forest Service RMRS GTR-423. 2021.	
+3
+Methods
+The 4FRI project is a 970,000 ha landscape level restoration project 
+funded in 2010 under the CFLRP (fig. 1).  4FRI is one of 23 CFLRP 
+projects intended to “encourage the collaborative, science-based ecosystem 
+Study Area
+Figure 1—Location of the Four Forest Restoration Initiative (4FRI) area and the first environmental impact statement project 
+study area within national forest land in Arizona. 
+
+USDA Forest Service RMRS GTR-423. 2021.	
+4
+restoration of priority forest landscapes” (Butler et al. 2015; USDA FS 
+2015a) and serves as a demonstration for effective restoration techniques 
+and forest product utilization (Schultz et al. 2012). The study area contains 
+155,000 ha of treatments that were included in the first landscape scale 
+environmental impact statement for 4FRI that had a decision signed in 
+2014 (USDA FS SW 2014). Stakeholders and a Forest Service planning 
+team worked together for 4 years to incorporate multiple values into a 
+comprehensive restoration plan. An economic viability assessment was 
+not included in the planning process primarily because it was not required 
+for planning under the National Environmental Policy Act (NEPA 1969). 
+The 4FRI Stakeholder Group, including Forest Service staff, developed 
+broad goals to achieve landscape-scale forest restoration, meeting multiple 
+ecological objectives, while providing appropriately scaled, sustainable 
+forest products to strengthen local economies. The stakeholder group has 
+long recognized the need to strategically incorporate the multiple ecological 
+values, including beneficial fire use, with community infrastructure and 
+protection values across landscapes. However, working at landscape scales 
+in the 4FRI project has highlighted the need to incorporate industry capacity 
+and economic feasibility into strategic landscape planning—a concept not 
+limited to northern Arizona (Blignaut et al. 2014; Iftekhar et al. 2017). 
+For this study we analyzed the western portion of the larger 4FRI planning 
+area that was selected for the 1st phase of analysis (fig. 1). This first 
+environmental impact statement project area covers approximately 240,000 
+ha located on the Williams and Tusayan districts of the Kaibab National 
+Forest (NF) and on the Flagstaff and Mogollon Rim districts of the Coconino 
+NF. We analyzed 155,000 ha (65 percent) that are available for mechanical 
+treatments according to forest plans. Excluded areas include special 
+management designations (wilderness, research natural areas, inventoried 
+roadless areas, and experimental forest), areas included in previous projects, 
+areas located on non-Forest Service administered lands, or areas that were 
+designated to receive a nonmechanical thinning treatment (i.e., prescribed fire 
+only). 
+The study area is dominated by ponderosa pine forests (Pinus ponderosa 
+Laws.) at elevations ranging from 1,767 to 2,800 m including a mix of 
+oak (Quercus spp.), juniper (Juniperus spp.) and pinyon pine (Pinus edulis 
+Engelm.) with infrequent individuals or small groups of aspen (Populus 
+tremuloides Michx.), Douglas-fir (Pseudotsuga menziesii (Mirb.) Franco), 
+white fir (Abies concolor (Gordon & Glend.) Lindl. Ex Hildebr.), and 
+blue spruce (Picea pungens Engelm.). Historically, ponderosa pine forests 
+consisted of open park-line stands (Covington and Moore 1994), but current 
+forest stands within the project area are more continuous, are more even-
+aged, and have higher densities with fewer nonforested openings than 
+historical reference conditions (USDA FS 2014). 
+Historically, forest management in the 4FRI footprint was consistent with 
+
+USDA Forest Service RMRS GTR-423. 2021. 
+5
+broader FS management. Selective harvest of larger trees primarily started 
+with the railroad infrastructure built in the 1880s. This continued until 
+1990; harvests were sometimes followed by planting and or precommercial 
+thinning. In the last 30 years, however, forests have been managed primarily 
+to thin small trees to reduce the risk of uncharacteristic fire effects and 
+restoration goals, either through timber sales for material over 12.7 cm in 
+diameter or through precommercial thinning of smaller diameter material. 
+The use of fire varied across the national forests in the Southwest; on the 
+Coconino and Kaibab NFs, fires were largely suppressed until the 1990s, 
+with scattered pile and broadcast burning associated with harvesting 
+activities. In the last 25 years, the use of prescribed fire has steadily increased 
+each year (USDA Forest Service 2020). Wildfires managed to meet forest 
+plan objectives have been utilized over the last 20 years on the Kaibab NF 
+and the last 10 years on the Coconino NF. The two NFs harvest 156,000 m3 
+per year (USDA Forest Service 2017) on average and burn approximately 
+24,000 ha per year (12,500 ha in the wildland urban interface (WUI) and 
+14,000 ha outside the WUI). 
+After preliminary discussions with stakeholders and 4FRI planning staff we 
+selected two treatment objectives for analysis: 1) ecological, as measured as 
+the relative potential for crown fire activity between untreated and treated 
+stands (i.e. the efficacy of treatments to reduce potential passive and active 
+crown fire); and 2) economic, measured as the total net value of treatments. 
+The ecological indicator was developed by a small group of stakeholders 
+and was intended as a surrogate for a number of linked ecological values 
+including wildlife habitat for both the Mexican Spotted Owl (Strix 
+occidentalis lucida) and pronghorn antelope (Antilocapra americana). 
+Reduction in crown fire confers a number of other benefits to ecological 
+conditions, and also paves the way for wildfires to be managed to meet 
+forest plan objectives on a large-scale and prescribed fire to further build 
+and maintain forest resiliency (Barros et al. 2018). The net value resulting 
+from treatments was included as a priority since private entities that conduct 
+harvesting operations are more inclined to bid on timber sales and implement 
+the treatments proportional to financial incentives. Economic benefits such 
+as avoided suppression costs are tangible, but not relevant in this specific 
+prioritization since the purchaser of the contract to conduct the treatments is 
+not compensated for anything other than wood products. 
+We obtained stand polygon and inventory data from the Coconino and 
+Kaibab NF data libraries, which included 11,788 stands. Stand polygons in 
+the forest inventory data were delineated with aerial photos into areas based 
+on similar characteristics such as vegetation type, slope, aspect, tree density, 
+species composition, and management history. Stands varied in area from 4 
+to 80 ha. Approximately 34 percent of the ponderosa pine forest type within 
+the study area had inventory data obtained within the last 5 years. Forest 
+inventory estimates contained the number of trees per hectare by species 
+and diameter at breast height (d.b.h., 1.37 m). Diameter was measured to the 
+nearest 0.25 cm. Inventory data for the remaining stands were imputed using 
+Scenario Objectives
+Stand and 
+Inventory Data
+
+USDA Forest Service RMRS GTR-423. 2021.	
+6
+a most similar neighbor process (Crookston et al. 2002) as implemented in 
+the FS vegetation analysis system. 
+Calculating Potential Crown Fire 
+The potential for crown fire behavior was determined for each pixel using 
+the fire simulation program FlamMap (Brittain 2015). We assessed both 
+“passive” and “active” crown fire as indicators of high-severity effects. 
+Passive crown fire is when the crowns of individual trees or small groups of 
+trees burn without spreading to the adjacent forest canopy. Active crown fire 
+is when the fire spreads through the canopy fuels but is dependent on the heat 
+of surface fire for continued spread (Scott and Reinhardt 2001). Weather and 
+fuel moisture conditions for the fire modeling were obtained based on the 
+2010 Schultz Fire that burned with mixed and high severity over about 6,000 
+ha within the 4FRI footprint. This fire represented potential fire behavior in 
+a typical peak fire season, and weather conditions were based on the day the 
+fire started (table 1). Fuel models were then calibrated to create fire behavior 
+outputs representing the fire behavior observed in the Schultz Fire. Gridded 
+30-m FlamMap outputs (30 m) for crown fire, and surface fire, were used to 
+attribute the stand polygons based on the majority count of the observed fire 
+behavior. 
+To measure the potential for treatments to reduce the likelihood of crown 
+fire we modeled silvicultural treatments and post-treatment wildfire behavior 
+for each stand using the Forest Vegetation Simulator (FVS), Central Rockies 
+Variant (Dixon 2002). FVS is a distance-independent, individual-tree model, 
+where stands are the basic unit of management, and model projections 
+are dependent on interactions among trees within stands (Dixon 2002). 
+The model is widely used in research and empirically for a range of stand 
+modeling priorities (Crookston and Havis 2002; Havis and Crookston 2008; 
+Variable
+Simulation value 
+(percentile)
+Schultz Fire value 
+(percentile)a
+97th percentile 
+conditionsb
+Maximum temperature (°C) 
+25 (50th)
+25 (50th)
+32
+Minimum RH (%)
+11 (85th)
+11 (85th)
+7%
+Maximum 6-m wind speed (km hr-1)
+6 (95th) 
+~7 (98th)
+6.7
+1-hr fuel moisture (%)c
+4 (74th)
+3 (86th)
+2%
+10-hr fuel moisture (%)c
+4 (90th)
+3 (95th)
+3%
+100-hr fuel moisture (%)c 
+6 (90th)
+6 (90th)
+5%
+aWeather conditions change throughout the day and the effects of topography and surface heating produced gusts over twice as high on 
+Schultz Pass as those shown above. At the RAWS station, wind speed averaged ~5.8 km hr-1, gusting up to 8.5. We used 6 km hr-1 in order 
+to preserve the contrast in potential fire behavior.
+bPercentiles were determined using data from the Flagstaff RAWS from April 15th though September 15th, 1968–2012.
+cWhen fire behavior is modeled, fuel moistures are set for each fuel model. Fuel moistures above indicate what was applied to the majority 
+of the acres modeled.
+Table 1—Weather and fuel moisture parameters used for fire simulation based on the 2010 Schultz Fire.
+
+USDA Forest Service RMRS GTR-423. 2021.	
+7
+Keyser and Keyser 2017). FVS-Fire and Fuels Extension (FFE) (Rebain et al. 
+2010) outputs for surface and crown fuels data were then used to adjust the 
+fuel models for rerunning FlamMap to produce post-treatment fire behavior 
+under the same conditions run previously (Schultz Fire). The difference 
+between pre- and post-treatment active crown fire was then calculated to 
+determine treatment effectiveness to reduce crown fire hazard. This variable 
+is hereafter referenced as Delta (Δ) Active Crown Fire. (fig. 2a; Appendix A, 
+fig. A1).
+Financial Analysis 
+We simulated treatment prescriptions in FVS to generate a list of harvested 
+trees by species and d.b.h. The list of harvested trees echoes the information 
+in the inventory plot to the outputs. A total of 34 unique FVS models were 
+developed to mimic the individual treatment designs as they were proposed 
+in the 4FRI 1st environmental impact statement analysis. Some prescriptions 
+were two-stage and first simulated a thinning across the entire stand followed 
+Figure 2—Restoration objective input variables used in the prioritization analysis: (a) change in active crown fire from pre- and 
+post-treatment conditions, and (b) net value obtained from merchantable ponderosa pine as described in the financial analysis 
+section. Note that only stands that were eligible for mechanical treatment were considered in prioritization. Stands that would 
+receive either a burn-only treatment or a grassland restoration treatment were omitted from the prioritization process.
+
+USDA Forest Service RMRS GTR-423. 2021.	
+8
+by a second stage that modeled group selection for regeneration openings 
+in prescriptions developed to emulate a “patchy, clumpy” ponderosa pine 
+structure. The outputs from these two-stage thinning prescriptions were 
+averaged using an 85 percent and a 15 percent weighting. The harvested trees 
+were then processed using the economics extension and custom FVS scripts 
+to calculate the potential revenue from restoration treatments. 
+To estimate the net value of harvested material, we used a residual value 
+appraisal approach (Ager et al. 2017) where harvest and transportation costs 
+are subtracted from the projected revenue from the logs at the mill. The net 
+value of treatments is shown in figure 2b and was calculated as:
+Net value = log pond value – (harvesting cost 
+                    + hauling cost + ancillary costs)	
+ [1]
+The log pond value was the amount a mill will pay for a log delivered to 
+the mill location. The FVS economics extension was then used to convert 
+harvested trees into 5-m logs and sum their value based on log price data 
+(table 2, fig. 3c). Note that only ponderosa pine was valued in this analysis.
+The harvesting cost included the cost associated with moving merchantable 
+logs from the stump onto a logging truck and moving nonmerchantable 
+material to a landing site. Harvesting costs were calculated based on tree 
+size class consistent with previous studies (Rainville et al. 2008; Rummer 
+2008) (fig. 3a). Table 3 shows the values used to estimate the cost to move 
+harvested material from stump to logging truck. 
+The hauling cost estimated the cost to move merchantable volume from 
+the harvest landing to the nearest wood processing facility. Hauling cost 
+calculations used the estimated travel time to the nearest mill and the number 
+of truckloads of merchantable timber in the project area. Hauling cost was 
+estimated using the following formula:
+Hauling cost = travel time × cost per hour 
+                         × merchantable volume per truck	
+[2]
+Size class (cm)
+$ / m3 a
+12.7–20.3
+25
+20.4–30.5
+34
+30.6–45.7
+39
+45.7+
+52
+aEstimates were provided to Mark Nigrelli.
+Table 2—Log pond values used for the economic analysis.
+
+USDA Forest Service RMRS GTR-423. 2021. 
+9
+Figure 3—Stand-level spatial distribution of the economic input variables within the study area. Values are averages by stand.
+Number of cut trees (ha-1)
+Tree d.b.h. (cm)
+12
+50
+124
+247
+494
+988
+($/m3) a
+0.25–15
+35
+32
+> 15–18
+28
+26
+24
+> 18–23
+22
+20
+19
+18
+> 23–41
+14
+13
+13
+12
+12
+> 41–53
+13
+13
+13
+13
+12
+12
+Table 3—Assumed costs for ground-based logging activities used to estimate per hectare harvesting costs for each thinned 
+forest stand.
+a Values given are costs in U.S. dollars per cubic meter removed, grouped by size class and number of trees cut per hectare. Harvest cost 
+estimates stratification was adapted from Rainville et al. (2008).
+
+USDA Forest Service RMRS GTR-423. 2021.	
+10
+Travel time was measured in hours at a cost of $85 per hour and included 
+to and from the mill (round-trip). It should be noted that only merchantable 
+ponderosa pine was accounted for in the haul cost (fig. 3b). A value of 17 m3 
+was assumed for the merchantable volume per truck load. Travel time to the 
+nearest mill was estimated using the cost distance function in ArcGIS Spatial 
+Analyst (ESRI 2013). A digital map of roads on the national forests within 
+the study area was obtained from the 4FRI project data library. Both road 
+layers were converted to a 30 x 30 m pixel raster and reclassified based on 
+FS road maintenance level designation (1–5). The time to traverse each pixel 
+was estimated using travel speed assumptions in table 4. Each stand was 
+attributed with the minimum travel time using ArcGIS zonal statistics (fig. 4)
+Ancillary costs including planning and road construction were not included 
+in the analysis. Road maintenance costs, based on discussions with the 
+economics planning team, were set at $1.00 per merchantable cubic meter 
+and added to all stands to cover these costs. Estimation of additional 
+treatment costs could be further refined by incorporating the cost to process 
+and/or remove biomass material left on site. It should be noted that all stands 
+that were designated as receiving a burn-only prescription or a grassland 
+restoration treatment were not included in this FVS modeling effort.  
+Spatial Prioritization Model
+We used ForSys (formerly the Landscape Treatment Designer) (Ager et 
+al. 2016) to examine a range of scenarios that maximized either financial, 
+ecological, or a mix of objectives. ForSys is similar to Marxan with Zones 
+(Watts et al. 2009), although we incorporated many features specific to 
+prioritizing forest management rather than designing conservation reserves. 
+A scenario in our case is a priority sequence of project areas (n = 40) with 
+treated area (1,000 ha) identified among the candidate stands in each one. 
+Thus, the program replicates actual restoration planning where landscapes 
+are partitioned into smaller project areas to meet logistical constraints related 
+to implementing treatments. These 40 project areas would treat a total of 
+40,000 ha and represent a 5-year program of work. Scenarios were created 
+by changing the priority weights for selecting treatment units (from 0 to 
+3) in all combinations in a linear objective function. Eliminating duplicate 
+weightings (e.g., 1-1, 2-2, 3-3) resulted in nine unique weight combinations 
+Table 4—Assumed average haul speeds by road maintenance class.
+Road maintenance class
+Speed (km hr-1)
+1
+8
+2
+16
+3
+40
+4
+72
+5
+89
+No road
+3
+
+USDA Forest Service RMRS GTR-423. 2021.	
+11
+Figure 4—Map of travel time (minutes) to the nearest mill used to estimate haul 
+costs. Estimates of travel time were used to calculate the total stand level haul cost to 
+remove merchantable timber.
+(scenarios). For each scenario the optimum project areas were identified and 
+sequenced using a relatively simple neighborhood search algorithm (Feo and 
+Resende 1995) (Appendix A, fig. A2). The algorithm tests each stand in the 
+landscape as a potential centroid to build a project area by searching around 
+that centroid for stands that are available to treat, meaning that some level of 
+biomass or sawtimber is produced. The search distance is increased until the 
+treatment area constraint (1,000 ha) is reached and the total objective value 
+for that project area is stored in memory. The algorithm then moves to the 
+nearest polygon that has yet to be included in a project area and repeats the 
+process among the remaining unselected polygons. The process repeats until 
+the specified number of project areas and treatment units within them have 
+been identified. 
+The objective value is calculated as: 
+	
+[4]
+Subject to:
+	
+[5]
+where C is the area treated per project area, Z is a vector indicating whether 
+the jth stand is treated (e.g., Zj = 1 for treated stands and 0 for untreated 
+
+USDA Forest Service RMRS GTR-423. 2021.	
+12
+stands), Nij is the contribution to priority i in stand j if treated, and A is the 
+area of the jth treated stand. Wi is a weighting coefficient that can be used to 
+weight one priority versus another.
+We report results from all nine scenarios but focus on two specific benchmark 
+scenarios: (1) maximize revenue, and (2) reduce crown fire, and a third 
+scenario that is a balance between the two. To simplify comparison among 
+the two priorities, we standardized the outputs by calculating the percentage 
+that each stand potentially contributed to the total possible in the study area. 
+
+USDA Forest Service RMRS GTR-423. 2021.	
+13
+Results
+Maps of the change in potential active crown fire and the net value from 
+treatments are shown in figures 2a and 2b, respectively. The results showed 
+that 98 percent of the treatable area could be effectively treated to reduce 
+active crown fire (ACF) under the assumed weather conditions. By contrast, 
+the area that generated positive net value from treatments was limited to 33 
+percent of the treatable area (51,208 ha) (fig. 5). High net value areas were 
+clustered in stands along the I-40 corridor in the northwest part of the study 
+area due to the impact of haul cost in net value calculations (fig. 3b). 
+Optimizing the two priorities generated a substantially different spatial 
+distribution of project areas and treatment units (fig. 6). Prioritizing ACF 
+generated a priority sequence that was distributed throughout the study area 
+(fig. 6a), whereas optimal projects for revenue were clustered along the I-40 
+corridor between Flagstaff and Williams (fig. 6b). The impact of haul cost, 
+as noted above, likely contributed significantly to this result. The balanced 
+scenario prioritized about half of the top 10 projects near the I-40 corridor 
+but showed less clustering than the revenue scenario (fig. 6c).
+Figure 5—Distribution of treatable stand area according to net value in the study 
+area.
+
+USDA Forest Service RMRS GTR-423. 2021.	
+14
+Figure 6— Location of priority projects for the two benchmark scenarios: (a) reducing active crown fire potential; (b) 
+maximizing revenue; and (c) for the balanced scenario, simultaneously maximizing revenue and reduction in active crown fire 
+potential.
+For each project area we used the outputs to plot production frontiers 
+(PFs, fig. 7) to illustrate priority tradeoffs. Results showed that prioritizing 
+reduction in ACF negatively impacted potential net value (green dot, fig. 7). 
+Similarly, maximizing net revenue showed a negative tradeoff in terms of 
+treating areas with ACF (purple dot, fig. 7). The range in net value from all 
+nine scenarios was -$68,612 to $661,272 while the range in reduction of ACF 
+among the nine scenarios was less than 1 percent. Prioritizing even the third 
+Figure 7—Production frontier curve (PF). The effect of prioritizing projects based on net revenue versus reduction in active 
+crown fire potential on treatment location. Treatments were modeled for a total of 1,000 ha per project area. Treatment 
+locations correspond to the associated points on the graph based on color. Each circle represents a distinct set of stands 
+selected for treatment for a single 1,000-ha project. Prioritizing reduction in active crown fire for a single 1,000-ha project, 
+for example, results in a selection of stands in the southern portion of the study area, but changing the objective weights to 
+emphasize net revenue shifts treatment to the northwest.
+
+USDA Forest Service RMRS GTR-423. 2021. 
+15
+best project in terms of net value in an effort to reduce ACF at 1.3 percent 
+resulted in a significant opportunity cost (ca. $269,694). This results from 
+the scarcity of stands that have the potential to produce positive net value. 
+The location of optimal project areas changed substantially when different 
+restoration objectives were prioritized (fig. 7, right panel).
+Contrasting the two benchmark scenarios with the balanced scenario for a 
+5-year plan of work treating roughly 45,000 ha (fig. 8, dashed vertical line), 
+optimizing net value resulted in a 31 percent reduction in ACF (fig. 8a) while 
+generating $12,529,345 in revenue (fig. 8b). The balanced optimization 
+Figure 8—Cumulative attainment in (a) reduction in active crown fire, and (b) net 
+value with increasing area treated for the two benchmark scenarios maximizing 
+either reduction in active crown fire or net value with a third balanced scenario 
+simultaneously maximizing revenue and reduction in active crown fire potential.
+
+USDA Forest Service RMRS GTR-423. 2021.	
+16
+scenario reduced ACF 45 percent while generating $5,676,058 in revenue. 
+Alternatively, optimizing the reduction in ACF decreased ACF by 48 percent 
+but required $2,020,548 in additional subsidies. An additional 17 percent of 
+the total ACF that is treatable would be reduced in the ACF scenario versus 
+the net value optimized scenario. However, that reduction would come at an 
+opportunity cost of $10.5 million (fig. 8). 
+At increasing scales of implementation, the analysis suggested that 
+prioritizing projects based on net revenue could generate increasing positive 
+revenues for 58,810 ha of treatment (54 x 1,000 ha projects) (fig. 8b), after 
+which the availability of stands with positive value has been exhausted 
+leading to diminishing returns. By contrast, a scenario where projects are 
+prioritized to reduce ACF would require additional subsidies after the first 
+four projects (fig. 8). Even in the balanced scenario, 33 percent of the first 40 
+projects resulted in unprofitable solutions, and unprofitable solutions started 
+showing up after 7 projects.
+When we compare the top 40 restoration projects identified in our scenarios 
+(based on objectives) with planned restoration projects as part of 4FRI, we 
+showed that there are opportunities to better optimize net value and reduction 
+in ACF (fig. 9). In particular, the “best” project provides opportunities to 
+balance both net value and a reduction in ACF that exceed progress towards 
+these restoration objectives in comparison to any proposed 4FRI project, and 
+many perform better than the economic optimization scenarios. The majority 
+of proposed projects, however, are clustered near or even below the 40th 
+best project identified in the modeling. We expect the priorities to shift as 
+users change the input variables or weights. ACF was used as a restoration 
+surrogate here, and it is important to note that some of these proposed 4FRI 
+projects were chosen based on different prioritization criteria, including 
+wildland urban interface or watershed health, than the ACF indicator 
+analyzed here. 
+
+USDA Forest Service RMRS GTR-423. 2021.	
+17
+Figure 9—Comparison of the tradeoff in attainment for 3 of the top 40 optimal 
+projects modeled in the study. Each line represents a separate project area, and 
+the circular symbols represent separate 1,000-ha restoration scenarios and distinct 
+sets of selected stands for treatment optimized to achieve reduction in active crown 
+fire potential, maximize net revenue, or a blend of both priorities. The shorter the 
+curve the fewer combinations of stands are available to optimize a given objective. 
+The longer the curve, the more opportunities there are on the landscape to change 
+a selection of treatment stands to emphasize one objective or another. In addition, 
+we approximated attainment for 22 Forest Service projects where layout has been 
+completed or nearly completed (2017–2020) for a comparison weighted to represent 
+similar treatment area size (1,000 ha).
+
+USDA Forest Service RMRS GTR-423. 2021.	
+18
+Discussion
+Collaborative forest landscape restoration programs on western United 
+States public lands face substantial challenges to sustain the pace and scale 
+of treatments under current budgets and economic conditions. Given that 
+financial constraints are a major factor that limit wider implementation of 
+forest restoration activities in the western United States, and elsewhere 
+(Aronson and Alexander 2013), the modeling demonstrated in this study has 
+the potential to improve the current ad hoc treatment prioritization methods 
+that use GIS overlays and various scoring templates. Our methods have been 
+demonstrated on other landscapes in the United States (Ager et al. 2017) and 
+elsewhere (Alcasena et al. 2018; Salis et al. 2016) to identify optimal project 
+areas and examine financial and ecological tradeoffs among management 
+objectives (Ager et al. 2010; Ager et al. 2016). Heretofore, optimization tools 
+to study tradeoffs and prioritize landscapes have not been available as routine 
+planning tools to guide Forest Service restoration investments, although 
+various experimental systems that exceed the technical capacity of planning 
+teams have been demonstrated (Schroder et al. 2016). Thus, decisions about 
+restoration priorities have been made without a complete picture of the 
+financial cost to emphasize one restoration objective versus another. 
+We found that reducing crown fire and restoring fire resiliency in the 
+southwestern U.S. study area can be accomplished with positive net revenue 
+for a substantial area of treatments. Among the three scenarios, treating about 
+44,000 ha and optimizing net value resulted in a 29 percent reduction in 
+ACF (fig. 8a) and generated $12,150,525 in revenue (fig. 8b). By contrast, 
+the balanced scenario reduced ACF substantially more (by a third to 41 
+percent), while generating less revenue ($5,759,525) but still showing a 
+net return. Finally, optimizing ACF reduced crown fire area by 44 percent, 
+a marginal increase from the balanced scenario, but required $2,295,907 
+in investment. The results confirm that restoring expansive southwestern 
+U.S. ponderosa pine forests to improve fire resiliency can pose significant 
+financial challenges as in other restoration environments (Allen et al. 2002), 
+but underscores that projecting revenue from harvested wood as part of the 
+restoration planning ultimately improves the likelihood that projects will 
+be implemented (i.e., contractors bid on the sale). Indeed, a portion of that 
+revenue can be designated to fund restoration activities in locations where 
+forest and fuel management do not generate a net positive value (Deal et al. 
+2012; USDA FS 2012). 
+Our economic analysis is consistent with earlier studies that demonstrated 
+the financial challenge of forest restoration in the southwestern region 
+and elsewhere in the western United States, and that subsidies will be 
+required to scale up treatments (Barbour et al. 2008; Beck Group 2015; 
+Rainville et al. 2008). More importantly, our large case study showed the 
+importance of prioritization in the planning phase to develop scenarios that 
+
+USDA Forest Service RMRS GTR-423. 2021. 
+19
+are economically viable. The prioritization process is important at multiple 
+scales; both the location of the project area and the stands selected within 
+them determine financial and ecological outcomes. The relative importance 
+of prioritization at these different scales in terms of achieving restoration 
+outcomes over the long run has not been investigated. 
+The results of our study were used by the 4FRI implementation team to guide 
+a 5-year plan of work in terms of the location of project areas and stands to 
+treat within them. We are unaware of similar case studies on federal lands 
+where the application of forest optimization models (Schroder et al. 2016) 
+led to implementation decisions about priority landscapes for treatments. 
+More importantly, the application of our model as part of the collaborative 
+planning process cultivated a keen interest in further studies to add ecological 
+indicators and performance measures. The modeling can also be widely 
+extended to optimize the spatial implementation of natural and prescribed 
+fire to address the fire deficit (Minas and Hearne 2016) and growing backlog 
+of areas that are in need of fire treatments (Ager et al. 2013; Alcasena et al. 
+2018; Chung et al. 2013). These experiments can be conducted as part of 
+prioritizing treatments on the additional 560 thousand ha in the 4FRI project 
+once the final environmental impact statement is completed. 
+This work along with many other studies contributes to achieving long-term 
+social and ecological goals for U.S. national forest restoration programs 
+and collaborative efforts such as the National Cohesive Wildland Fire 
+Management Strategy and Shared Stewardship (USDA FS 2014, 2018). 
+Our framework could be expanded to other CFLRP project areas and other 
+landscape restoration initiatives, including the USDA Forest Service and 
+Natural Resources Conservation Service Joint Chiefs’ Landscape Restoration 
+Partnership. Spatial decision support tools beyond ad hoc GIS overlays and 
+various scoring methods are largely lacking for the design of viable projects 
+where the specific wood products mix generated from restoration activities 
+(i.e., log size, species, value) is modeled over a simulated implementation. 
+Moreover, the analysis contributes to the broader collaborative aspects of 
+the CFLRP, which were funded specifically to build trust among private and 
+public entities (Schultz et al. 2012). 
+Decision support tools presented in this study can build transparency among 
+federal land managers and stakeholders by illustrating tradeoffs among 
+social and economic objectives, as described in our previous work (Ager 
+et al. 2017). Furthermore, it is an opportunity to include stakeholders in 
+the planning process (Butler et al. 2015) rather than a body to review the 
+decision and respective rationale. Although there is extensive research on 
+the application of decision support to forest management issues (Nobre 
+et al. 2016), most are concerned with regulated forests, and very few if 
+any studies meet the needs of applied restoration planners in terms of 
+applicability to either short- or long-term planning problems. For instance, 
+spatial optimization has been applied to a wide range of forest management 
+goals, including designing wildlife habitat reserves, locating fuel breaks, 
+suppression activities, and harvest scheduling (Baskent et al. 2000; Borges 
+et al. 2014; Rönnqvist et al. 2015; Schroder et al. 2016). However, the level 
+of analytical support, especially for mathematical programming and heuristic 
+
+USDA Forest Service RMRS GTR-423. 2021.	
+20
+approaches (Hof and Bevers 2002; Rönnqvist et al. 2015), is not available 
+to restoration planners within the CFLRP process, and it is in general scarce 
+at all administrative levels of planning in the Forest Service and other U.S. 
+federal land management agencies. 
+The need for scenario planning frameworks to address federal forest 
+restoration issues is unprecedented in an era of climate change and the 
+growing scale of natural disturbances such as wildfire. Scenario planning 
+is a systematic approach to think creatively about possible complex and 
+uncertain futures (Peterson et al. 2003; Spies et al. 2017; Star et al. 2016), 
+rather than focusing on the accurate prediction of a single outcome. Although 
+in its current form we did not analyze uncertainties associated with predicted 
+outcomes, the model does provide the ability to examine many alternative 
+outcome responses to different restoration priorities. Our model can be 
+readily applied to participatory scenario planning exercises where research 
+scientists, managers, policymakers, and other stakeholders explore and 
+test scenarios in an iterative process. In this way the system functions as 
+a multicriteria platform to explore landscape management scenarios that 
+are optimized in terms of where and how to achieve different outcomes 
+and outputs at different administrative scales. At present, national decision 
+support models do not exist to examine alternative scenarios to allocate the 
+approximately $1 billion annual investment in forest and fuel management 
+activities to the 10 regions and 154 U.S. national forests. In prior work we 
+demonstrated application of the model at much larger scales (western United 
+States) to understand production frontiers and tradeoffs among agency-wide 
+targets and management goals (Ager et al. 2019) and assessed near-term 
+progress towards nationally identified priorities and targets. 
+A particularly promising expansion of our work is to support the new 
+FS emphases on cross-boundary management to increase the scale of 
+active forest management (USDA FS 2018). Our planning model here 
+can potentially have widespread application for coprioritizing investment 
+decisions as outlined in the shared stewardship memorandums of 
+understanding (MOU) (USDA FS 1999). Specifically, these call for “new 
+mapping and decision tools to locate treatments where they can do the most 
+good, thereby protecting communities, watersheds, and economies where 
+the risks are greatest” (USDA FS 2019). The core idea in this initiative is 
+to expand land treatments across boundaries to reduce the scale mismatch 
+between wildfire risk and the current forest management footprint (Ager et 
+al. 2015). However, the process will require spatial planning to coprioritize 
+projects, meaning that respective federal and state assessments on land 
+conditions (threats and opportunities) will require a multicriteria approach 
+(Diaz-Balteiro and Romero 2008) to integrate the respective priorities 
+identified in agency and state assessments and understand tradeoffs. This has 
+been completed in the State of New Mexico as part of the State Forest Action 
+Plan (Day et al. 2021; New Mexico State Forestry 2020). Assessments of 
+cross-boundary risk (Ager et al. 2018) can be integrated into this process and 
+used as a management priority to target forest treatments where wildfires are 
+predicted to spread across federal and state boundaries. 
+
+USDA Forest Service RMRS GTR-423. 2021.	
+21
+Conclusions
+We developed and applied a spatial forest planning model that can 
+be used to improve the efficiency of collaborative and other planning 
+efforts on U.S, public forests. The model can also be used to support the 
+coprioritization efforts as part of the Forest Service Shared Stewardship 
+initiative (USDA FS 2018) where boundary-spanning projects are being 
+designed and implemented to expand the scale of treatments. The model 
+is substantially less complex than typical spatial forest planning models, 
+while providing adequate functionality for prioritizing restoration objectives 
+and understanding multicriteria tradeoffs. In the current application we 
+demonstrated the model to prioritize both an economic and an ecological 
+objective for a large restoration project in the southwestern United States 
+where forest management is constrained by low economic value of forest 
+materials removed as part of restoration activities. 
+We examined a large number of scenarios that optimized ecological or 
+economic objectives, plus we identified a scenario that adequately satisfied 
+both objectives, thus ensuring the financial viability of the project. The 
+methods also allowed comparison of proposed projects within scenarios to 
+enable more optimal solutions and better understand the efficiency associated 
+with current planning. The approach, therefore, has widespread application 
+as part of collaborative forest landscape restoration on federal forests in the 
+United States or where similar economic conditions prevent wider scale 
+application of restoration activities. 
+Most importantly, such a modeling approach will be crucial as a scenario 
+planning tool to enlarge the footprint of forest management activities 
+and thus address the growing threat of wildfire across the West. Shared 
+stewardship activities with interagency coprioritization will be necessary to 
+identify scenarios that meet the respective interests of multiple landowners 
+and stakeholders. Here, our model provides quantitative tradeoffs and clear 
+production frontiers at multiple scales to help improve transparency in the 
+multi-owner forest planning environment.
+
+USDA Forest Service RMRS GTR-423. 2021.	
+22
+References
+Abatzoglou, J.; Williams, A.P. 2016. Impact of anthropogenic climate change 
+on wildfire across western U.S. forests. Proceedings of the National 
+Academy of Sciences. 113: 11770–11775.
+Ager, A.A.; Day, M.A.; Vogler, K. 2016. Production possibility frontiers and 
+socioecological tradeoffs for restoration of fire adapted forests. Journal of 
+Environmental Management. 176: 157–168.
+Ager, A.A.; Houtman, R.; Day, M.A.; [et al.] 2019. Tradeoffs between 
+U.S. national forest harvest targets and fuel management to reduce 
+wildfire transmission to the wildland urban interface. Forest Ecology and 
+Management. 434: 99–109.
+Ager, A.A.; Kline, J.; Fischer, A.P. 2015. Coupling the biophysical and social 
+dimensions of wildfire risk to improve wildfire mitigation planning. Risk 
+Analysis. 35: 1393–1406.
+Ager, A.A.; Palaiologou, P.; Evers, C.R.; Day, M.A.; Barros, A.M.G. 2018. 
+Assessing transboundary wildfire exposure in the southwestern United 
+States. Risk Analysis. 38: 2105–2127.
+Ager, A.A.; Vaillant, N.M.; Finney, M.A. 2010. A comparison of 
+landscape fuel treatment strategies to mitigate wildland fire risk in the 
+urban interface and preserve old forest structure. Forest Ecology and 
+Management. 259: 1556–1570.
+Ager, A.A.; Vaillant, N.M.; McMahan, A. 2013. Restoration of fire in 
+managed forests: A model to prioritize landscapes and analyze tradeoffs. 
+Ecosphere. 4: 29. https://www.fs.usda.gov/treesearch/pubs/48615. 
+[Accessed 1 February 2021]. doi: 10.1890/ES13-00007.1.
+Ager, A.A.; Vogler, K.C.; Day, M.A.; [et al.]. 2017. Economic opportunities 
+and trade-offs in collaborative forest landscape restoration. Ecological 
+Economics. 136: 226–239.
+Alcasena, F.J.; Ager, A.A.; Salis, M.; [et al.]. 2018. Optimizing prescribed 
+fire allocation for managing fire risk in central Catalonia. Science of the 
+Total Environment. 4: 872–885.
+Allen, C.D.; Savage, M.; D.A., F.; Suckling, K.F.; [et al.]. 2002. Ecological 
+restoration of southwestern ponderosa pine ecosystems: A broad 
+perspective. Ecological Applications. 12: 1418–1433.
+Aronson, J.; Alexander, S. 2013. Ecosystem restoration is now a global 
+priority: Time to roll up our sleeves. Restoration Ecology. 21: 293–296.
+
+USDA Forest Service RMRS GTR-423. 2021.	
+23
+Baker, W.L. 2015. Are high-severity fires burning at much higher rates 
+recently than historically in dry-forest landscapes of the Western USA? 
+PLoS ONE. 10: e0136147. https://doi.org/10.1371/journal.pone.0136147.
+Barbour, J.; Countryman, B.; Fight, R.; [et al.]. 2008. The quantity, 
+composition, and economic value of timber resulting from treating 
+densely stocked stands within areas suitable for sustainable harvest. 
+In: Rainville, R.; White, R.; Barbour, J., eds. Assessment of timber 
+availability from forest restoration within the Blue Mountains of Oregon. 
+Gen. Tech. Rep. PNW-GTR-752. Portland, OR: USDA Forest Service, 
+Pacific Northwest Research Station: 37–50. Chapter 4.
+Barros, A.M.G.; Ager, A.A.; Day, M.A.; [et al.]. 2018. Wildfires managed 
+for restoration enhance ecological resilience. Ecosphere. 9: e02161. doi: 
+https://doi.org/10.1002/ecs2.2161. 
+Baskent, E.Z.; Jordan, G.A.; Nurullah, A.M.M. 2000. Designing forest 
+landscape (ecosystems) management. Forestry Chronicle. 76: 739–742.
+Beck Group. 2015. Eastern Oregon small diameter wood study. Final project 
+report September 2015. Salem, OR: Oregon Department of Forestry. 85 p. 
+Blignaut, J.; Aronson, J.; de Wit, M. 2014. The economics of restoration: 
+Looking back and leaping forward. Annals of the New York Academy of 
+Sciences. 1322: 35–47.
+Borges, J.G.; Garcia-Gonzalo, J.; Bushenkov, V.; [et al.]. 2014. Addressing 
+multicriteria forest management with Pareto frontier methods: An 
+application in Portugal. Forest Science. 60: 63–72.
+Brittain, S. 2015. Fire behavior FlamMap application interface. http://
+sbrittain.net/FB/FB_API.htm. [Accessed 1 March 2015].
+Butler, W.H.; Monroe, A.; McCaffrey, S. 2015. Collaborative implementation 
+for ecological restoration on U.S. public lands: Implications for legal 
+context, accountability, and adaptive management. Environmental 
+Management. 55: 564–577.
+Christensen, V.; Ferdaña, Z.; Steenbeek, J. 2009. Spatial optimization of 
+protected area placement incorporating ecological, social and economical 
+criteria. Ecological Modelling. 220: 2583–2593.
+Chung, W.; Jones, G.; Krueger, K.; [et al.]. 2013. Optimising fuel treatments 
+over time and space. International Journal of Wildland Fire. 22: 
+1118–1133.
+Chung, W.; Venn, T.J.; Loeffler, D.; [et al.]. 2012. Assessing the potential 
+for log sort yards to improve financial viability of forest restoration 
+treatments. Forest Science. 58: 641–651.
+Covington, W.W.; Moore, M.M. 1994. Postsettlement changes in natural 
+fire regimes and forest structure: Ecological restoration of old-growth 
+ponderosa pine forests. Journal of Sustainable Forestry. 2: 153–181.
+
+USDA Forest Service RMRS GTR-423. 2021.	
+24
+Crookston, N.L.; Havis, R.N., comps. 2002. Second Forest Vegetation 
+Simulator conference. Proc. RMRS-P-25. Fort Collins, CO: USDA Forest 
+Service, Rocky Mountain Research Station: 208 p.
+Crookston, N.L.; Moeur, M.; Renner, D. 2002. Users guide to the most 
+similar neighbor imputation program Version 2. Gen. Tech. Rep. RMRS-
+GTR-96. Ogden, UT: USDA Forest Service, Rocky Mountain Research 
+Station. 35 p. 
+Day, M.A.; Houtman, R.; Belavenutti, P.; [et al.]. 2021. An assessment of 
+forest and woodland restoration priorities to address wildfire risk in New 
+Mexico. Gen. Tech. Rep. RMRS-GTR-423. Fort Collins, CO: USDA 
+Forest Service, Rocky Mountain Research Station. 67 p.
+Deal, R.L.; Cochran, B.; LaRocco, G. 2012. Bundling of ecosystem services 
+to increase forestland value and enhance sustainable forest management. 
+Forest Policy and Economics. 17: 69–76.
+Diaz-Balteiro, L.; Romero, C. 2008. Making forestry decisions with multiple 
+criteria: A review and an assessment. Forest Ecology and Management. 
+255: 3222–3241.
+Dixon, G.E. 2002. Essential FVS: A user’s guide to the Forest Vegetation 
+Simulator. Fort Collins, CO: USDA Forest Service, Forest Management 
+Service Center: 226.
+Dore, S.; Kolb, T.E.; Montes-Helu, M.; [et al.]. 2010. Carbon and water 
+fluxes from ponderosa pine forests disturbed by wildfire and thinning. 
+Ecological Applications. 20: 663–683.
+ESRI. 2013. ArcGIS Desktop: Release 10.2. Redlands, CA: Environmental 
+Systems Research Institute.
+Feo, T.A.; Resende, M.G. 1995. Greedy randomized adaptive search 
+procedures. Journal of Global Optimization. 6: 109–133.
+Finkral, A.J.; Evans, A.M. 2008. The effects of a thinning treatment on 
+carbon stocks in a northern Arizona ponderosa pine forest. Forest Ecology 
+and Management. 255: 2743–2750.
+Foresta, M.; Carranza, M.L.; Garfi, V.; [et al.]. 2016. A systematic 
+conservation planning approach to fire risk management in Natura 2000 
+sites. Journal of Environmental Management. 181: 574–581.
+GAO. 2015. Wildland fire management: Agencies have made several key 
+changes but could benefit from more information about effectiveness. 
+GAO-15-772. Washington DC: U.S. Government Accountability Office. 
+79 p. 
+Havis, R.N.; Crookston, N.L., comps. 2008. Third Forest Vegetation 
+Simulator conference. Proc. RMRS-P-54. Fort Collins, CO: USDA Forest 
+Service, Rocky Mountain Research Station. 234 p. 
+
+USDA Forest Service RMRS GTR-423. 2021. 
+25
+Hessburg, P.F.; Miller, C.L.; Parks, S.A.; [et al.]. 2019. Climate, environment, 
+and disturbance history govern resilience of western North American 
+forests. Frontiers in Ecology and Evolution. 7: 239.
+Hof, J.; Bevers, M. 2002. Spatial optimization in ecological applications. 
+New York: Columbia University Press. 281 p.
+Hof, J.G.; Joyce, L.A. 1992. Spatial optimization for wildlife and timber in 
+managed forest ecosystems. Forest Science. 38: 489–508.
+Iftekhar, M.S.; Polyakov, M.; Ansell, D.; [et al.]. 2017. How economics can 
+further the success of ecological restoration. Conservation Biology. 
+31: 261–268.
+Kalies, E.L.; Yocom Kent, L.L. 2016. Tamm Review: Are fuel treatments 
+effective at achieving ecological and social objectives? A systematic 
+review. Forest Ecology and Management. 375: 84–95.
+Kennedy, M.C.; Ford, E.D.; Singleton, P.; [et al.]. 2008. Informed multi-
+objective decision-making in environmental management using Pareto 
+optimality. Journal of Applied Ecology. 45: 181–192.
+Kerns, B.K.; Tortorelli, C.; Day, M.A.; [et al.]. 2020. Invasive grasses: A new 
+perfect storm for forested ecosystems? Forest Ecology and Management. 
+463: 117985. doi: https://doi.org/10.1016/j.foreco.2020.117985. 
+Keyser, C.; Keyser, T.L. 2017. Forest Vegetation Simulator (FVS) 
+e-Conference. e-Conference e-GTR-SRS-224. Asheville, NC: USDA 
+Forest Service, Southern Research Station. 210 p. 
+Kline, J.D.; Mazzotta, M. 2012. Evaluating tradeoffs among ecosystem 
+services in the management of public lands. Gen. Tech. Rep. PNW-
+GTR-865. Portland, OR: USDA Forest Service, Pacific Northwest 
+Research Station. 
+Laughlin, D.C.; Moore, M.M.; Bakker, J.D.; [et al.]. 2006. Assessing targets 
+for the restoration of herbaceous vegetation in ponderosa pine forests. 
+Restoration Ecology. 14: 548–560.
+Lehmkuhl, J.F.; Kennedy, M.; Ford, E.D.; [et al.]. 2007. Seeing the forest 
+for the fuel: Integrating ecological values and fuels management. Forest 
+Ecology and Management. 246: 73–80.
+Mazziotta, A.; Podkopaev, D.; Triviño, M.; [et al.]. 2017. Quantifying and 
+resolving conservation conflicts in forest landscapes via multiobjective 
+optimization. Silva Fennica. 51: 1778. https://doi.org/10.14214/sf.1778.
+Merschel, A.G.; Heyerdahl, E.K.; Spies, T.A.; [et al.]. 2018. Influence of 
+landscape structure, topography, and forest type on spatial variation in 
+historical fire regimes, Central Oregon, USA. Landscape Ecology. 
+33: 1195–1209.
+Metlen, K.L.; Fiedler, C.E. 2006. Restoration treatment effects on the 
+understory of ponderosa pine/Douglas-fir forests in western Montana, 
+USA. Forest Ecology and Management. 222: 355–369.
+
+USDA Forest Service RMRS GTR-423. 2021.	
+26
+Minas, J.P.; Hearne, J.W. 2016. An optimization model for aggregation of 
+prescribed burn units. TOP. 24: 180–195.
+Mitchell, R.J.; Hiers, J.K.; O’Brien, J.J.; [et al.]. 2006. Silviculture that 
+sustains: The nexus between silviculture, frequent prescribed fire, and 
+conservation of biodiversity in longleaf pine forests of the southeastern 
+United States. Canadian Journal of Forest Research. 36: 2724–2736.
+Moore, M.M.; Huffman, D.W.; [et al.]. 2004. Comparison of historical and 
+contemporary forest structure and composition on permanent plots in 
+southwestern ponderosa pine forests. Forest Science. 50: 162–176.
+NEPA. 1969. National Environmental Policy Act. 42 U.S.C., USA.
+New Mexico State Forestry. 2020. The Forest Action Plan. http://www.
+emnrd.state.nm.us/SFD/statewideassessment.html. [Accessed 
+1 February 2021].
+Nobre, S.; Eriksson, L.-O.; Trubins, R. 2016. The use of decision support 
+systems in forest management: Analysis of FORSYS country reports. 
+Forests. 7: 72. doi: https://doi.org/10.3390/f7030072. 
+Noss, R.F.; Franklin, J.F.; Baker, W.L.; [et al.]. 2006. Managing fire-
+prone forests in the western United States. Frontiers in Ecology and the 
+Environment. 4: 481–487.
+Peterson, G.D.; Cumming, G.S.; Carpenter, S.R. 2003. Scenario planning: 
+A tool for conservation in an uncertain world. Conservation Biology. 
+17: 358–366.
+Pohjanmies, T.; Eyvindson, K.; Mönkkönen, M. 2019. Forest management 
+optimization across spatial scales to reconcile economic and conservation 
+objectives. PLoS ONE. 14: e0218213.
+Rainville, R.; White, R.; Barbour, J. 2008. Assessment of timber availability 
+from forest restoration within the Blue Mountains of Oregon. Gen. 
+Tech. Rep. PNW-GTR-752. Portland, OR: USDA Forest Service, Pacific 
+Northwest Research Station. 65 p. 
+Rebain, S.A.; Reinhardt, E.; Crookston, N.L.; [et al.]. 2010. The fire and 
+fuels extension to the forest vegetation simulator: Updated model 
+documentation. Internal Report. Fort Collins, CO: USDA Forest Service, 
+Forest Management Service Center. 403 p. 
+Rocca, M.E.; Miniat, C.F.; Mitchell, R.J. 2014. Introduction to the regional 
+assessments: Climate change, wildfire, and forest ecosystem services in 
+the USA. Forest Ecology and Management. 327: 265–268.
+Rönnqvist, M.; D’Amours, S.; Weintraub, A.; [et al.]. 2015. Operations 
+research challenges in forestry: 33 open problems. Annals of Operations 
+Research. 232: 11–40.
+Rummer, B. 2008. Assessing the cost of fuel reduction treatments: A critical 
+review. Forest Policy and Economics. 10: 355–362.
+
+USDA Forest Service RMRS GTR-423. 2021.	
+27
+Salis, M.; Laconi, M.; Ager, A.A.; [et al.]. 2016. Evaluating alternative fuel 
+treatment strategies to reduce wildfire losses in a Mediterranean area. 
+Forest Ecology and Management. 368: 207–221.
+Schoennagel, T.; Balch, J.K.; Brenkert-Smith, H.; [et al.]. 2017. Adapt to 
+more wildfire in western North American forests as climate changes. 
+Proceedings of the National Academy of Science, USA. 114: 1582–4590.
+Schroder, S.A.K.; Tóth, S.F.; Deal, R.L.; [et al.]. 2016. Multi-objective 
+optimization to evaluate tradeoffs among forest ecosystem services 
+following fire hazard reduction in the Deschutes National Forest, USA. 
+Ecosystem Services. 22: 328–347.
+Schröter, M.; Rusch, G.M.; Barton, D.N.; [et al.]. 2014. Ecosystem services 
+and opportunity costs shift spatial priorities for conserving forest 
+biodiversity. PLoS ONE. 9: e112557. doi: http://www.ncbi.nlm.nih.gov/
+pubmed/25393951. 
+Schultz, C.A.; Jedd, T.; Beam, R.D. 2012. The collaborative forest landscape 
+restoration program: A history and overview of the first projects. Journal 
+of Forestry. 110: 381–391.
+Scott, J.H.; Reinhardt, E.D. 2001. Assessing crown fire potential by linking 
+models of surface and crown fire behavior. Res. Pap. RMRS-RP-29. Fort 
+Collins, CO: USDA Forest Service, Rocky Mountain Research Station. 
+59 p. 
+Spies, T.; White, E.; Ager, A.; [et al.]. 2017. Using an agent-based model 
+to examine forest management outcomes in a fire-prone landscape in 
+Oregon, USA. Ecology and Society. 22: 25.
+Spies, T.A.; White, E.M.; Kline, J.D.; [et al.]. 2014. Examining fire-prone 
+forest landscapes as coupled human and natural systems. Ecology and 
+Society. 19: 9. doi: http://dx.doi.org/10.5751/ES-06584-190309. 
+Star, J.; Rowland, E.L.; Black, M.E.; Enquist, C.A.; [et al.]. 2016. Supporting 
+adaptation decisions through scenario planning: Enabling the effective use 
+of multiple methods. Climate Risk Management. 13: 88–94.
+Triviño, M.; Pohjanmies, T.; Mazziotta, A.; [et al.]. 2017. Optimizing 
+management to enhance multifunctionality in a boreal forest landscape. 
+Journal of Applied Ecology. 54: 61–70.
+USDA Forest Service [USDA FS]. 1999. Memorandums of Understanding 
+(MOU) and Memorandums of Agreement (MOA). https://www.fs.fed.us/
+naturalresources/resources/mou-moa.shtml. [Accessed 1 February 2021].
+USDA Forest Service [USDA FS]. 2012. Increasing the pace of restoration 
+and job creation on our national forests. USFS Report. Washington, DC: 
+United States Department of Agriculture, Forest Service. 9 p. 
+USDA Forest Service [USDA FS]. 2014. The national strategy: The 
+final phase in the development of the national cohesive wildland fire 
+management strategy: 93.
+
+USDA Forest Service RMRS GTR-423. 2021.	
+28
+USDA Forest Service [USDA FS]. 2015a. Collaborative forest landscape 
+restoration program 5-year report. FS-1047. Washington, DC: USDA 
+Forest Service. 
+USDA Forest Service [USDA FS]. 2015b. From accelerating restoration to 
+creating and maintaining resilient landscapes and communities across the 
+nation: Update on progress from 2012. FS-1069. Washington, DC: USDA 
+Forest Service.
+USDA Forest Service [USDA FS]. 2017. Forest products cut and sold 
+from the National Forests and Grasslands. http://www.fs.fed.us/
+forestmanagement/products/cut-sold/index.shtml. (17.11.21). [Accessed 
+1 February 2021].
+USDA Forest Service [USDA FS]. 2018. Towards shared stewardship across 
+landscapes: An outcome-based investment strategy. FS-118. Washington, 
+DC: USDA Forest Service. 
+USDA Forest Service [USDA FS]. 2019. Agreement for shared stewardship 
+between the State of Idaho and the United States Department of 
+Agriculture Forest Service Northern and Intermountain Regions. On file 
+with: http://0104.nccdn.net/1_5/105/1b0/14a/12-18-18-usda-fs-idl-shared-
+stewardship-final-agreement.pdf. [Accessed 1 February 2021].
+USDA Forest Service [USDA FS]. 2020. Northern blue collaborative forest 
+landscape restoration program. http://fs.fed.us/restoration/CFLRP/. 
+[Accessed 23 December 2020].
+USDA Forest Service. 2020. Forest Service activity tracking system 
+(FACTS) [Database]. https://www.fs.usda.gov/managing-land/natural-
+resource-manager#facts. [Accessed 1 February 2021].
+USDA Forest Service, Southwestern Region [USDA FS SW]. 2014. Final 
+environmental impact statement for the four-forest restoration initiative. 
+Volume 1: Coconino and Kaibab National Forests, Coconino County, 
+Arizona. MB-R3-04-23. USDA Forest Service, Southwestern Region. 
+Watts, M.E.; Ball, I.R.; Stewart, R.S.; [et al.]. 2009. Marxan with zones: 
+Software for optimal conservation based land- and sea-use zoning. 
+Environmental Modelling & Software. 24: 1513–1521.
+Westerling, A.L. 2016. Increasing western U.S. forest wildfire activity: 
+Sensitivity to changes in the timing of spring. Philosophical Transactions 
+of the Royal Society B Biological Sciences. 371: 20150178. doi: 
+http://dx.doi.org/10.1098/rstb.2015.0178. 
+Westerling, A.L.; Hidalgo, H.G.; Cayan, D.R.; [et al.]. 2006. Warming and 
+earlier spring increase western U.S. forest wildfire activity. Science. 
+313: 940–943.
+
+USDA Forest Service RMRS GTR-423. 2021. 
+29
+Appendix A. Additional Modeling Details
+Figure A1—Illustration of how delta active crown fire was calculated from Forest Vegetation Simulator (Dixon 2002) outputs 
+where stands receive silvicultural treatments (thinning, mastication and underburning) and post-treatment wildfire behavior is 
+compared with stands that receive no treatments.  Potential crown fire behavior was estimated with FlamMap (Brittain 2015). 
+See text for more details.
+
+USDA Forest Service RMRS GTR-423. 2021.	
+30
+Figure A2—Decision logic for the optimization model used to locate project areas. The algorithm tests each stand as the 
+seed location for a project, and absorbs adjacent stands until a total area treated constraint is met. The model identifies the 
+aggregate of polygons that maximize the restoration objective and the polygons that require treatment. In the current study, 
+polygons were defined as stands, treatment thresholds were measured by potential flame length, activity constraint was the 
+total treatment allowance per project of 1000 ha, and restoration priorities were: 1) maximize revenue, 2) reduce crown fire, 
+and 3) a balance between the two.  Figure taken from Ager et al. (2013).
+References
+Ager, A.A.; Vaillant, N.M.; McMahan, A. 2013. Restoration of fire in 
+managed forests: A model to prioritize landscapes and analyze tradeoffs. 
+Ecosphere 4: 29. http://dx.doi.org/10.1890/ES13-00007.1.
+Brittain, S. 2015. Fire behavior FlamMap application interface. 
+http://sbrittain.net/FB/FB_API.htm  
+Dixon, G.E. 2002. Essential FVS: A user’s guide to the Forest Vegetation 
+Simulator. Fort Collins, CO: USDA Forest Service, Forest Management 
+Service Center. 226 p.
+
+In accordance with Federal civil rights law and U.S. Department of Agriculture (USDA) 
+civil rights regulations and policies, the USDA, its Agencies, offices, and employees, 
+and institutions participating in or administering USDA programs are prohibited from 
+discriminating based on race, color, national origin, religion, sex, gender identity (including 
+gender expression), sexual orientation, disability, age, marital status, family/parental status, 
+income derived from a public assistance program, political beliefs, or reprisal or retaliation 
+for prior civil rights activity, in any program or activity conducted or funded by USDA (not 
+all bases apply to all programs). Remedies and complaint filing deadlines vary by program 
+or incident.  
+Persons with disabilities who require alternative means of communication for program 
+information (e.g., Braille, large print, audiotape, American Sign Language, etc.) should 
+contact the responsible Agency or USDA’s TARGET Center at (202) 720-2600 (voice and 
+TTY) or contact USDA through the Federal Relay Service at (800) 877-8339. Additionally, 
+program information may be made available in languages other than English.
+To file a program discrimination complaint, complete the USDA Program Discrimination 
+Complaint Form, AD-3027, found online at http://www.ascr.usda.gov/complaint_filing_
+cust.html and at any USDA office or write a letter addressed to USDA and provide in the 
+letter all of the information requested in the form. To request a copy of the complaint 
+form, call (866) 632-9992. Submit your completed form or letter to USDA by: (1) mail: 
+U.S. Department of Agriculture, Office of the Assistant Secretary for Civil Rights, 
+1400 Independence Avenue, SW, Washington, D.C. 20250-9410; (2) fax: (202) 690-7442; or 
+(3) email: program.intake@usda.gov.
+
+To learn more about RMRS publications or to search our online titles:
+www.fs.fed.us/rm/publications
+www.treesearch.fs.fed.us

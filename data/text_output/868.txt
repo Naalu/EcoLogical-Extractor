@@ -1,0 +1,4110 @@
+COMPARING ECOLOGICAL RESTORATION AND NORTHERN GOSHAWK 
+MANAGEMENT GUIDELINES TREATMENTS IN A SOUTHWESTERN 
+PONDEROSA PINE FOREST 
+By Matthew C. Tuten 
+A Thesis 
+Submitted in Partial Fulfillment 
+of the Requirements for the Degree of 
+Master of Science 
+in Applied Geographic Information Systems 
+Northern Arizona University 
+December 2008 
+Appm(L 
+Peter Z. Fule, Ph.D., Co-Chair 
+-Chair 
+
+ABSTRACT 
+COMPARING ECOLOGICAL RESTORATION AND NORTHERN GOSHAWK 
+MANAGEMENT GUIDELINES TREATMENTS IN A SOUTHWESTERN 
+PONDEROSA PINE FOREST 
+Matthew C. Tuten 
+We compared forest structure patterns resulting from application of 
+revised Northern Goshawk Management Guidelines (GMG) and Ecological 
+Restoration Guidelines (ERG)-based silvicultural thinning approaches in 
+ponderosa pine (Pinus ponderosa C. Lawson var. scopulorum Engelm.) 
+forests on replicated sites on the Kaibab Plateau in Northern Arizona. These 
+management approaches have been proposed for wide application across 
+tens of thousands of hectares of southwestern National Forests within 
+Northern Goshawk (Accipiter gentilis) foraging areas. Both sets of guidelines 
+use patterns and densities of presettlement forest evidences in the form of old 
+forest remnants (pre Euro-American settlement era trees, stumps and snags) 
+to guide their tree marking methodologies. Tree densities resulting from 
+application of these treatment approaches and estimated presettlement 
+densities were not significantly different. GMG-based treatments retained a 
+larger proportion of trees in middle to large size classes, resulting in 
+statistically significantly higher canopy cover and basal area. Tree spatial 
+point patterns and tree patches (e.g., groups of trees with interlocking crowns) 
+were analyzed. GMG-based treatments resulted in more consistent tree 
+aggregation at fine-scales «15 meters), than ERG-based treatments, a 
+pattern similar to presettlement evidence patterns. GMG-based treatments 
+ii 
+
+resulted in significantly fewer isolated individual trees, a higher mean density 
+of trees within patches and more high density tree patches than ERG-based 
+treatment results. No difference was observed in average diameter range of 
+trees within groups. We conclude that with minimal modification, initial 
+thinning approaches similar to those described in this study are highly 
+compatible, both with each other and presettlement conditions, especially 
+within forest landscapes where reintroduction of naturally ignited fires is a 
+management goal. Despite this similarity, ERG and GMG-based stand 
+management approaches will differ over the long term. The goal of ERG-
+based management is forests that can be regulated by natural processes, 
+most notably surface fires similar to those common in the Southwest. The 
+GMG approach, while allowing the use of fire, will require continual forest 
+structure regulation and will inevitably result in future removal of large, old 
+trees. 
+iii 
+
+ACKNOWLEDGEMENTS 
+I would first like to thank District Ranger Tim Short and all staff of the 
+North Kaibab Ranger District of the Kaibab National Forest for supporting 
+these research efforts over the last three years. Without this support this 
+project would not be possible. I would also like to thank Richard Reynolds, 
+Allison Cofer and crew, and Dennis Lund, Charlie Denton, Dave Brewer and 
+Michael Stoddard for generously donating days of time and effort to mark 
+trees for retention with each treatment prescription. Integral to this study was 
+the support of several enthusiastic crews of ERI staff members and student 
+research assistants who worked to document over 7500 tree locations and 
+attributes assessed in this study. I also thank Andrew Sanchez Meador for 
+his generous spatial statistical advice and technical support. Finally, I would 
+like to thank my committee members including co-advisors Dr. Pete Fule and 
+Dr. Christina Kennedy, and Dr. Margaret Moore, who helped to design this 
+study and also reviewed the seemingly endless number of thesis drafts that 
+I've sent to them for review over the course of my last semester as a graduate 
+student. 
+iv 
+
+TABLE OF CONTENTS 
+ABSTRACT ..................................................................................................... II 
+ACKNOWLEDGEMENTS .............................................................................. IV 
+TABLE OF CONTENTS .................................................................................. V 
+LIST OF TABLES ............................................................................................ VI 
+LIST OF FIGURES ........................................................................................ VII 
+PREFACE ..................................................................................................... VIII 
+CHAPTER 1. INTRODUCTION ....................................................................... 1 
+CHAPTER 2. LITERATURE REViEW ............................................................. 5 
+THE DEVELOPMENT OF Two IMPORTANT FOREST THINNING ApPROACHES ......... 5 
+THE DEVELOPMENT OF PRESETTLEMENT FOREST STRUCTURE PA TTERNS IN 
+PONDEROSA PINE FORESTS ......................................................................... 17 
+CHAPTER 3. COMPARING ECOLOGICAL RESTORATION AND 
+NORTHERN GOSHAWK MANAGEMENT GUIDELINES TREATMENTS 
+IN A SOUTHWESTERN PONDEROSA PINE FOREST ............................... 29 
+ABSTRACT ................................................................................................... 29 
+INTRODUCTION ......................................................................................... '" 31 
+METHODS .................................................................................................... 36 
+RESULTS ...................................................................................................... 42 
+DISCUSSION ................................................................................................ 46 
+ACKNOWLEDGEMENTS: ................................................................................. 59 
+CHAPTER 4. MANAGEMENT IMPLICATIONS ............................................ 69 
+CHAPTER 5. CONCLUSION ........................................................................ 81 
+LITERATURE CITED .................................................................................... 84 
+APPENDIX: ADDITIONAL FIGURES ............................................................ 89 
+STEM AND CANOPY COVER MAPS ................. .. ............................................... 91 
+RIPLEY'S K PLOTS ......................................................................................... 94 
+INDIVIDUAL PLOT DIAMETER DISTRIBUTIONS ................................................. . 96 
+v 
+
+LIST OF TABLES 
+TABLE 3.1 . SUB-STAND FOREST PATTERN DEFINITIONS . .................... 60 
+TABLE 3.2. DENSITY, BASAL AREA, AND CANOPY COVER ESTIMATES . 
+...................................................................................................................... 61 
+TABLE 3.3. TREE DENSITIES RESULTING FROM EACH TREATMENT 
+WITHIN SIX DIAMETER CLASSES .............................................................. 62 
+TABLE 3.4. SPATIAL DISTRIBUTION [L(T)-T] OF PRESETTLEMENT 
+FOREST REMNANTS AND RESIDUAL TREES FOLLOWING SIMULATION 
+OF ERG AND GMG-BASED THINNING TREATMENTS ............................. 63 
+TABLE 3.5. OBSERVED POST-TREATMENT TREE GROUP 
+CHARACTERISTICS . ................................................................................... 64 
+vi 
+
+LIST OF FIGURES 
+FIGURE 3.1 . A HYPOTHETICAL REPRESENTATION.OF VEGETATION 
+STRUCTURAL STAGE GROUP AREA TARGETS AND RESERVE TREES 
+FOR AN APPROXIMATELY 1.2 HECTARE AREA WITHIN A NORTHERN 
+GOSHAWK FORAGING AREA. .................................................................... 66 
+FIGURE 3.2. DISCERNING SUB-STAND GROUPS AND SPATIAL POINT 
+PATIERNS ................................................................................................... 67 
+FIGURE 3.3. CUMULATIVE RESIDUAL TREE DIAMETER DISTRIBUTION 
+AND APPROXIMATE VEGETATION STRUCTURAL STAGE (VSS) 
+DIAMETER CLASS BREAKS FOR ALL SIX MEASURED PLOTS OF EACH 
+TREATMENT APPROACH ........................................................................... 68 
+FIGURE 4.1. INDIVIDUAL TREE-SCALE PRESETTLEMENT EVIDENCE 
+REPLACEMENT VERSUS TREE PATCH-SCALE PRESETTLEMENT 
+EVIDENCE REPLACEMENT. ....................................................................... 79 
+FIGURE 4.2. PRESETILEMENT FOREST EVIDENCE PATIERNS (CUT-
+STUMPS AND PRESETILEMENT-ERA LIVING TREES) RELATIVE TO 
+CONTEMPORARY FOREST STRUCTURE ................................................. 80 
+APPENDIX 1. STEM AND CANOPY COVER MAPS .................................... 91 
+APPENDIX 2. RIPLEY'S K PLOTS ............................................................... 94 
+APPENDIX 3 INDIVIDUAL PLOT DIAMETER DISTRIBUTIONS .................. 96 
+vii 
+
+PREFACE 
+Some redundancy exists in the information presented in the five chapters 
+comprising this thesis. The structure of this document follows a format 
+intended to speed the preparation of the manuscript, presented in chapter 3, 
+for submission to a scientific journal. Chapter 4, Management Implications, 
+contains much of the same information in the discussion presented in Chapter 
+3, but contains more in-depth practical forest management topics than 
+presented in the manuscript chapter. The conclusions of the thesis are 
+contained in abbreviated form within Chapter 3 and are also repeated again in 
+a separate conclusion chapter (Chapter 5). One literature cited section is 
+presented at the end of the thesis, including references from throughout the 
+entire thesis. 
+viii 
+
+Background 
+CHAPTER 1 
+Introduction 
+Forest management approaches described in Management 
+recommendations for the Northern Goshawk in the Southwestern United 
+States, also known as the northern goshawk management guidelines 
+(GMGs), mandate detailed forest spatial structure requirements and 
+management activities to create habitat conditions for prey species that 
+comprise the food web for the northern goshawk (Reynolds et al. 1992; 
+2006). The GMGs were developed in response to a growing body of research 
+documenting population declines of this top avian predator in southwestern 
+forests (Kennedy 2003). The stringent nature of the silvicultural requirements 
+set forth in the GMGs and varying interpretations regarding their intent has 
+made practical implementation of these guidelines in southwestern National 
+Forests difficult and controversial (Kennedy 2003). This has. led to 
+abandonment of planned ecological restoration-based forest treatments within 
+goshawk territories, incorrect application of GMGs at several project sites and 
+overall uncertainty regarding the ecological basis for GMG-based forest 
+treatments (Reynolds et al. 2006). 
+A regional review of the goshawk guidelines at several Forest Service 
+(USFS) workshops in the fall of 2006 was initiated in order to clear up 
+ambiguity and misunderstanding regarding application of the GMGs. At these 
+1 
+
+workshops, ecological restoration guidelines (ERGs) were proposed by USFS 
+southwestern region personnel as a compatible alternative to strict 
+implementation of the GMGs (Reynolds et al. 2006). ERGs use the 
+composition, density and location of presettlement forest remnants (stumps, 
+snags, old trees and stump holes pre-dating settlement of the region) as a 
+template for the spatial pattern of restored forests. The desired end result of 
+ERG-based treatments at a particular site is a resilient, self-sustaining forest 
+where ecosystem processes, structural patterns and species composition are 
+similar to those present at the site prior to the influence of livestock grazing, 
+fire suppression and logging (Moore et al. 1999; Society for Ecological 
+Restoration 2004). 
+Goshawk Management Guidelines and Ecological Restoration -based 
+forest treatment approaches have much in common when applied to 
+southwestern ponderosa pine (Pinus ponderosa C. Lawson var. 
+scopulorum Engelm.) forest types. Both treatment approaches involve 
+retention of trees with old age characteristics (Moore 1999; Reynolds et al. 
+2006; Reynolds et al. 2007). Additionally, both attempt to emulate relatively 
+open, park-like conditions known to exist across southwestern forests prior to 
+Euro American settlement (Cooper 1960; Reynolds et al. 1992; Moore 1999). 
+It is reasonable to assume that both approaches, when applied to typical 
+contemporary ponderosa pine forests (typically high density, high canopy 
+cover forests comprised of one to two cohorts), will result in reduced tree 
+2 
+
+densities, reduced canopy cover, creation of forest openings, a reduction in 
+crown fire hazard and overall un-even aged forest conditions. 
+It is possible that ecologically significant differences exist between 
+forests treated with each technique. These potential differences may not only 
+affect northern goshawk habitat, but also understory plant production, small 
+mammal and bird habitat suitability, fire behavior and other ecological values 
+and processes (Reynolds et at. 1992; Griffis et al. 2001; Fule et. al 2001). 
+Thesis purpose and structure 
+This study was designed to quantify and compare impacts of these 
+forest thinning approaches upon tree spatial structure. Therefore, this study 
+required a unique approach for the assessment of treatment outcomes. First, 
+this study is based upon stem-mapped tree and presettlement tree evidence 
+location and attribute data collected within several mapped areas randomly 
+located across a ponderosa pine domiAated forest. This spatially explicit and 
+relatively time consuming methodology was required because forest spatial 
+structure characteristics are at the core of each treatment approach. An 
+assessment of forest spatial structure conditions would be difficult, if not 
+impossible, to quantify without spatially explicit mapping of tree locations. 
+Second, thinning treatment outcomes were simulated from tree markings 
+rather than measured in residual forest stands following implementation of 
+each treatment. 
+3 
+d
+
+This strategy, while not capable of providing results of practical 
+treatment implementation, had two main benefits. It allowed both treatment 
+guidelines to be marked and assessed within the same six mapped areas, 
+thereby eliminating error associated with comparing treatment outcomes in 
+separate forest stands having different initial forest structure. This was 
+accomplished by applying prescriptions with removable tree marks (colored 
+flagging), permitting application of a separate treatment prescription mark 
+after trees marked with the initial prescription flagging were mapped and 
+flagging was removed. A second benefit of this simulation approach was time 
+and money savings associated with forgoing the expensive and often delay-
+prone process of implementing forest treatments on public forest lands. 
+The approach used in this study addressed the following study objectives: 
+1) Assess local presettlement forest densities and spatial patterns as 
+evidenced by forest remnants (old living trees, snags, stumps, dead 
+and downed trees). 
+2) Assess ERG and GMG-based treatments efficacy in restoring site-
+specific presettlement forest densities and spatial patterns. 
+3) Compare forest structure patterns of ERG and GMG-
+based treatments at sub-plot to plot-scales. 
+4 
+
+CHAPTER 2 
+Literature Review 
+The Development of Two Important Forest Thinning Approaches 
+The Ecological and Social Basis for Forest Thinning Treatments 
+Goshawk management guidelines and ecological restoration 
+guidelines are forest management approaches that have been developed in 
+response to changes in southwestern ponderosa pine forests since Euro-
+American settlement of the region in the late 1800s. Frequent surface fires, 
+ignited by lightning or indigenous people, were a major regulator of 
+ponderosa pine forest tree density, structural patterns and species 
+composition prior to this time (Cooper 1960; White 1985; Covington and 
+Moore 1994; Allen et al. 2002). A number of factors, including intense 
+livestock grazing of herbaceous understory-fuels, logging, railroad and road 
+construction, and a policy of active fire suppression, rapidly changed the way 
+fire interacted with forest structure after settlement (Cooper 1960; Dieterich 
+1980; Moore 1999; Allen et al. 2002). Associated results have been 
+landscape-scale increases in tree biomass, changes in forest structural 
+patterns, decreases in forest herbaceous understory productivity, as well as 
+decreases in suitable habitat for several native vertebrate and invertebrate 
+species (Reynolds et a1. 1992; Covington and Moore 1994; Waltz 2003; 
+Sanchez Meador 2006). 
+5 
+
+These structural changes are also, in large part, responsible for an 
+ecosystem-wide transition from a low severity, frequent, surface fire regime to 
+a less frequent, high severity, crown fire regime over the last century (Fule et 
+al. 1997; Swetnam et al. 1999). Such fires are often destructive to both 
+human life and property and to forest ecosystems. These struct~ral changes 
+have also been linked to northern goshawk (Accipiter gentilis) population and 
+prey base declines (Reynolds et al. 1992). In recent years, political pressure 
+to reverse goshawk population declines and rising costs associated with the 
+aftermath of destructive wildfires has drawn regional and national attention·to 
+ponderosa pine forest restoration efforts (Moir and Dieterich 1999). For these 
+reasons, forest restoration approaches such as ecological restoration 
+guidelines (ERG) and northern goshawk management guidelines (GMG) have 
+been proposed for millions of hectares of public lands throughout the western 
+United States (Allen et al. 2002). 
+Development and Purpose of Ecological Restoration Treatments 
+Ecological restoration has its roots in the field of restoration ecology. 
+This branch of applied science developed through contributions from various 
+fields ranging from conservation biology, geography, wetland management 
+and disturbed land rehabilitation (Ehrenfeld 2000). As a result, ecological 
+restoration project objectives and desired future conditions are not limited to a 
+particular ecosystem type and are often highly variable. They may range from 
+conservation or promotion of localized species populations or communities, 
+6 
+
+rehabilitation of polluted or damaged sites, the recovery of ecosystem 
+structure, to species composition or function across entire landscapes 
+(Ehrenfeld 2000; Society for Ecological Restoration 2004). 
+In general, all ERG-based treatments are intended to "initiate or 
+accelerate the recovery of an ecosystem with respect to its health, integrity 
+and sustainability (Society for Ecological Restoration 2004)." To accomplish 
+this goal, it is essential to have an understanding of an ecosystem's reference 
+conditions, or conditions known to be within the range of healthy ecosystem 
+variability, in order to guide ecosystems back to healthy conditions where 
+ecosystem structure and processes can be maintained indefinitely (Moore et 
+al. 1999; Society for Ecological Restoration 2004). For this reason, 
+restorationists often must rely on presettlement ecosystem structure 
+reconstructions, long-term ecological data and a variety of other anecdotal 
+information sources to develop a coherent picture of ecosystem reference 
+conditions (Covington and Moore 1994; Mcore et al. 1999; Allen et al. 2002; 
+Moore et al. 2004). 
+For decades, Southwestern restorationists have known that ponderosa 
+pine forest structure within this lightning, drought and wind-prone region were 
+shaped in large part by frequent surface fires (Weaver 1943; Weaver 1951 ; 
+Cooper 1960). A well-established body of research has shown that prior to 
+Euro-American settlement of the region (i.e, "presettlement" time periods) 
+these landscapes burned frequently, with a fire-return intervals ranging from 
+2-20 years (Oliver and Larson 1996). 
+7 
+
+Early restoration attempts using fire alone were greeted with mixed 
+success. An experiment in Northern Arizona in the 1970s had some beneficial 
+effects--reducing tree densities, forest floor litter depths and recycling 
+nutrients--but reintroduction of fire into dense, flammable forests was not only 
+somewhat dangerous, but also resulted in mortality of large old trees, survival 
+of many small diameter trees and little change in overall forest structure 
+(Sackett et at. 1995). It was soon apparent that fire alone was not always 
+capable of restoring ponderosa pine forests to presettlement forest structure 
+conditions. In order to allow low severity surface fires to be reintroduced to 
+contemporary ponderosa pine forests, some form of thinning was needed to 
+create forest structure conditions similar to those present in presettlement 
+forests (Sackett et at. 1995). 
+Due to the extremely dry climate of the Southwest and resulting slow 
+decay rates, evidence of forest structure patterns existing prior to Euro-
+American settlement around 1879 (Fule et at. 1997) can still be found in the 
+form of stumps, snags, downed woody debris and old living trees. The 
+location, density, and species composition of these forest remnants provide a 
+source of evidence of presettlement forest structure and a guide for 
+restoration thinning activities (Fule et at. 1997; Moore et a11999; Heinlein et 
+at. 2002; Taylor 2002). 
+Ecological restoration practitioners have used these presettlement 
+forest evidences to guide forest thinning projects in several areas. In the 
+Sierra Nevada Mountains of California, practitioners have used stumps cut in 
+8 
+
+the late 19th century to identify changes in forest density, species composition 
+and spatial pattern over the last c~ntury (Taylor 2002). Several ecological 
+restoration experiments making use of presettlement forest structures have 
+been initiated in ponderosa pine forests of Northern Arizona; these include 
+experiments at the Gus Pearson Natural Area, Apache-Sitgreaves National 
+Forest, and Uinkaret Mountains in Northern Arizona (Covington et aJ. 1997; 
+Fule et aJ. 1997; Waltz et. al 2003). 
+Each of these studies features an Ecological Restoration Guidelines 
+(ERG)-based thinning prescription developed from the composition, density 
+and location of local presettlement forest remnants (stumps, snags, old trees, 
+stump holes) to varying degrees in determining the desired character of 
+restored forests. Using this approach, all trees established prior to Euro-
+American settlement, typically trees having old age characteristics (Le., yellow 
+bark, large branches, and/or large diameters) are retained. Non-living 
+presettlement forest remnants (stumps, snags, stump holes) are replaced by 
+one to several healthy trees that have established since Euro-American 
+settlement within a fixed search radius (approximately 18 meters) surrounding 
+each forest remnant (Covington et aJ. 1999). Replacement rates range from a 
+ratio of 1.5 to 3 replacement trees to every presettlement evidence 
+(Covington et aJ. 1999). The desired result of ERG-based treatments is forest 
+structure patterns capable of developing into conditions comparable to those 
+present at the site prior to the influence of industrial grazing, fire suppression 
+and logging practices (Moore et aJ. 1999; Heinlein et aJ. 2002). 
+9 
+
+Choice of which specific trees are retained using ERGs depends upon 
+the relative location of replacement trees to presettlement evidences and the 
+choice of the tree marker and other site specific treatment objectives rather 
+than predetermined diameter distribution targets. In general, a variable, but 
+unregulated diameter distribution of healthy retained trees is sought 
+(Covington et al. 1999). Specific spatial patterns created are determined by 
+site-specific presettlement forest remnant patterns. Typically no forested 
+patch sizes (i.e., groups of trees with interlocking crowns) are indicated 
+(Covington et al. 1999). 
+ERG-based thinning treatments are designed to be completed in a 
+single management entry. Ecological restoration-based management 
+approaches rely on ecosystem processes such as fire to maintain forest stand 
+structure over time (Society for Ecological Restoration 2004). Application of 
+some form of prescribed or naturally ignited wildland fire is a cornerstone 
+component of all ecological restoration guidelines in southwestern ponderosa 
+pine forests. Restorationists advocate use of prescribed fire or naturally 
+ignited wildfires to manage future forest structure development within restored 
+areas (Moore et. al 1999). 
+Restoration of forest structural patterns using mechanical treatments is 
+often the most conspicuous aspect of the ecological restoration process, and 
+is often mistakenly confused as the entire ecological restoration process. 
+Local ecological disturbance processes, such as fire, were primarily 
+responsible for regulation and maintenance of presettlement forest structure 
+10 
+
+patterns from microscopic to landscape spatial scales in southwestern 
+forests. The restoration of dynamic, natural processes (e.g surface fires), not 
+the creation of static forest structural patterns, is what allows forest 
+management efforts to be considered ecological restoration (Falk 2006). 
+Development and Purpose of the Goshawk Management Guidelines 
+Ostensibly, goshawk management guidelines (GMG) were developed 
+for use in southwestern National Forests to address twentieth century 
+changes in forest structural patterns as they relate to northern goshawk 
+habitat and prey-base availability. While this is true, GMG-based forest 
+management represents a transition from a resource production-based 
+strategy, to a much more complex, ecosystem-based strategy. 
+For a large part of the twentieth century, USFS land management 
+policy was oriented toward resource production. This was officially outlined in 
+policy contained within the Multiple Use Sustained Yield (MUSY) Act of 1960. 
+The act declared that National Forests, should maintain, "a high-level regular 
+output of the renewable resources of the national forest without impairment of 
+the land's productivity (www.wildlifelaw.unm.edu/fedbook/multiu-
+.htm!)." The MUSY act allowed land management oriented toward timber 
+production to proceed within southwestern National Forests, often at the 
+expense of broader ecosystem sustainability. 
+As early as the 1970s, wildlife biologists from the Arizona Department 
+Game and Fish began to acknowledge that contemporary forest management 
+11 
+
+activities might be at odds with northern goshawk survival and reproduction 
+(Peck 2000). During the mid 1970s to the mid 1980s, goshawk nest 
+monitoring was implemented by southwestern National Forests. This 
+monitoring resulted in placing the northern goshawk on USFS Region 3 
+Sensitive Species List and adding goshawk management recommendations 
+to several southwestern National Forest Plans (Peck 2000; Kennedy 2003). 
+Early goshawk management recommendations were primarily intended to 
+limit forest harvesting near goshawk nesting areas (Reynolds et al. 2006). 
+In 1990, a seminal paper by Cole Crocker-Bedford published in the 
+Wildlife Society Bulletin described effects of logging on goshawk survival and 
+reproduction on the North Kaibab National Forest. Bedford concluded that 
+both goshawk nest occupancy and reproduction success were negatively 
+influenced by logging practices during the 1970s and 1980s (Bedford 1990; 
+Reynolds et al. 2007). 
+Public outcry and a flurry of legal aGJivities and agency policy 
+development occurred following the 1990 publishing of the Crocker-Bedford 
+paper (Peck 2000). Legal activities included several failed attempts to list 
+goshawks as a federally endangered species, and an injunction halting forest 
+cutting in all known goshawk territories in Arizona and New Mexico National 
+Forests until forest plans were amended to address the goshawk issue (Peck 
+2000; Kennedy 2003). These activities prompted southwestern National 
+Forests to form the Goshawk Scientific Committee (GSC) "to develop forest 
+management recommendations based on the best science to protect 
+12 
+
+goshawk populations" (Kennedy 2003; Reynolds et al. 2007). In 1992, the 
+recommendations of the committee were released in the form of the research 
+report RM-217: Management Recommendations for the Northern Goshawk in 
+the Southwestern United States (Reynolds et al. 1992). The 
+recommendations set forth in this document became part of an Environmental 
+Impact Statement that eventually was included within Southwestern Region 
+National Forest plans in a final record of decision issued in 1996 (USDA 
+1996). 
+Efforts to develop a broad northern goshawk conservation strategy 
+were bolstered by a 1992 executive order directing the USFS to adopt 
+ecosystem management policy (USFS 1992). This paradigm shifting policy 
+directive quickly changed official national forest management priority from one 
+based on short-term resource production, to one promoting long term 
+ecological sustainability. While not entirely at odds with timber resource 
+production, ecosystem management policy inherently restricts some timber 
+management activities that are in conflict with sustain ability of the broader 
+ecosystem (Grumbine 1994). The GMGs could be considered one of the first 
+coarse-scale Southwestern Region National Forest policies created to 
+promote ecosystem management prinCiples (Grumbine 1994; Peck 2003). 
+The fundamental premise of the GMGs is that goshawk and goshawk 
+prey populations are limited by available food and suitable habitat (Reynolds 
+et al. 1992). The goal of the GMGs is to create a range of forest habitats 
+suitable for both goshawk nesting, hunting and diverse populations of 
+13 
+
+goshawk prey. Such conditions are thought to allow goshawk populations the 
+ability to withstand periodic decreases in anyone prey species through 
+reliance on other species comprising the broad food web of this top predator 
+(Reynolds et al. 1992; Reynolds et al. 2006). 
+Under the GMGs, specific forest structure requirements apply to 
+different portions of the 2428 hectare home range surrounding known 
+goshawk nests. While the most stringent requirements apply to an 
+approximately 73 hectare nesting area, the coarsest-scale requirements apply 
+to a 2185 hectare area surrounding nesting areas comprised of goshawk 
+post-fledgling areas and foraging areas (Reynolds et al. 1992). There are 
+slight differences between foraging area and post-fledgling area management 
+guidelines, but in general management recommendations for both of these 
+areas are very similar (Reynolds et al. 1992; Richard Reynolds Personal 
+Communication 2007). 
+GMGs employ Vegetation StructuraH,tages (VSS), a forest succession 
+classification system first described in the late 1970s for use in western 
+Oregon (Thomas et al. 1979) and adapted for the Southwest in RM-217. This 
+system classifies 0.04 to 0.1 hectare clumps of trees of six forest structure 
+deveiopment classes ranging from seedlings to old, large diameter trees 
+(Reynolds et al. 1992). In this classification system diameter is used as a 
+surrogate for age. A target distribution of these VSS classes is required for 
+each component of the goshawk home range in order to provide habitat for 
+several different prey species. Additionally, forested areas comprised of 
+14 
+
+these VSS groups must meet certain criteria such as canopy cover, maximum 
+opening size, snag and downed woody debris density and reserve trees 
+(Reynolds et al. 1992). The objective of GMG-based treatments is a 
+structurally regulated, uneven-aged forest composed of a mosaic of 
+interspersed even aged tree groupings. 
+The GMGs are not a set of prescriptive forest management guidelines, 
+but are instead a set of desired forest conditions for goshawk territories. 
+These conditions are thought to be similar to forest conditions that existed 
+prior to Euro-American settlement of the region (Reynolds et al. 1992; 
+Reynolds et al. 2006; Youtz et al. 2008). To bring desired GMG-based forest 
+structure requirements closer in line with pre-settlement conditions, recently 
+regional USFS personnel have advocated use of presettlement forest 
+remnants (old trees, old stumps and logs) to guide tree stocking levels and 
+local vegetation patterns (Reynolds et al. 2006; Youtz et al. 2008). Beyond 
+this recent change, GMG-based approaches do not prescribe any single 
+specific silvicultural management action, but instead recognize that a variety 
+of silvicultural approaches can be used to attain desired forest structure 
+conditions (Reynolds et al. 1992). 
+Since attaining desired conditions prescribed in the GMGs is unlikely 
+after only one treatment, it is assumed that, over time, multiple thinning 
+entries into an area will be necessary to meet or maintain stated forest 
+structure targets (Reynolds et al. 1992). A GMG-based forest management 
+approach will inevitably result in southwestern forest structure patterns 
+15 
+
+shaped primarily by silvicultural thinning. Since trees in smaller size classes 
+will eventually grow into the largest size classes over time, a GMG-based 
+management approach eventually will result in an over abundance of old, 
+large diameter tree groups (VSS 5-6). These large tree cohorts will need to be 
+harvested to maintain stated structural regulation requirements. The upper 
+density limit of this VSS class within management areas is regulated by a set 
+rotation age of approximately 200 to 250 years specified by regional USFS 
+policy (Youtz et al. 2006). Perpetual regulation of large old age tree cohorts 
+may be the most ecologically and socially important aspect of a GMG-based 
+forest management approach (Long and Smith 2000). 
+16 
+
+The Development of Presettlement Forest Structure Patterns in 
+Ponderosa Pine Forests 
+Presettlement forest spatial patterns 
+Several researchers have attempted to quantify spatial patterns in 
+ponderosa pine forests located throughout the western United States. 
+Perhaps most applicable to southwestern ponderosa pine forests are a small 
+number of studies of presettlement forest spatial patterns. These include 
+studies completed in Arizona by Cooper in 1960-61, White in 1985 and most 
+recently Sanchez Meador (et al.) in 2006. Other studies completed in fire-
+adapted ponderosa pine forests in other areas of the western U. S. are also 
+relevant. Spatial pattern metrics, spatial analysis techniques and the scale of 
+spatial assessment employed in studies of forest spatial patterns have 
+changed over time, and in some instances, the results of such studies are not 
+always directly comparable. Taken together, all provide important information 
+describing presettlement tree spatial patterns at sub-plot scales . 
+. Cooper investigated spatial patterns within a ponderosa pine forest 
+along the eastern Mogollon Rim in Arizona (1960). He used a contiguous 
+quadrat analysis technique common to early spatial pattern studies (Grieg-
+Smith 1952). Cooper's results indicated that mature pines in this forest were 
+aggregated in groups ranging in size from 0.06 to 0.13 hectares. In addition 
+to this finding, in another nearby study Cooper (1961) used a metric of spatial 
+point patterns, Clark and Evans R, developed by Clark and Evans in 1954 to 
+17 
+
+further describe tree location patterns. Results of this analysis indicated that 
+tree locations within 12 of the 14 mature stands (approximately 80 years old 
+or older) that he assessed' exhibited statistically random spatial arrangement 
+at the stand-scale, with trees within the remaining two stands exhibiting 
+statistically significant uniform (i.e." evenly spaced) patterns at the scale of 
+his study sites. Cooper was one of the earliest Southwest researchers to 
+quantify southwestern ponderosa pine forest patterns that previously had only 
+been qualitatively described. 
+With the benefit of Cooper's research, White (1985) investigated 
+spatial patterns of trees that predated Euro-American settlement (circa 1875) 
+in a ponderosa pine forest near Flagstaff, Arizona. Pre-settlement era trees 
+were observed in groups of trees with interlocking crowns ranging in size from 
+0.02 to 0.29 hectares (White 1985). Using Clark and Evans R assessed at the 
+tree group-scale, White reported that overall tree location patterns within 
+groups most commonly were statistically random, although one group 
+exhibited a significantly aggregated pattern. Since the sample size of each 
+tree group was quite small (ranging from 3 to 44 trees per group), it is not 
+clear whether tree group-scale patterns were truly random or if findings 
+indicating random patterns were a result of a low sample size (White 1985). 
+White's study provides further quantitative evidence of the "grouped" (i.e., 
+distinct groups of trees with interlocking crowns) structure of presettlement 
+forests, evidence of a random pattern of trees within these groups and 
+evidence indicating that tree groups are un-even, or multi-aged. 
+18 
+
+Early studies of forest spatial patterns were hindered by the scale of 
+analysis. In Cooper's studies, the forest stand was the sole scale of spatial 
+analysis; in White's, the tree group was the scale of analysis (Cooper 1961; 
+White 1985). More'recent studies of presettlement forest spatial patterns use 
+advanced spatial statistical techniques such as K-function analysis, also 
+known as Ripley's K analysis, to assess forest spatial patterns at multiple 
+scales, ranging from fine-scales «10 meters) to coarse-scales (up to half the 
+minimum dimension of a mapped area) (Wong and Lee 2005). Ripley's K 
+analysis allows comparison of measured forest patterns to Monte Carlo 
+simulations of random patterns in order to assess statistically significant 
+spatial randomness, aggregation or uniformity at a range of spatial scales 
+(Wong and Lee 2005). Use of the K function, along with readily available 
+advanced computing technology, has allowed contemporary researchers to 
+assess forest spatial patterns in a way that was previously impossible. 
+The most relevant use of the K funerion, with reference to 
+presettlement southwestern ponderosa pine forests, is a study completed by 
+Sanchez Meador (2006; Sanchez Meador et al. 2008). In this study, Sanchez 
+Meador reconstructed presettlement forest conditions from permanent plots 
+ranging in size from 1.2 to 4.1 hectares near Flagstaff, Arizona. Results 
+indicate that presettlement forests exhibited significantly aggregated spatial 
+patterns at all six sites assessed in the study, with the most significant 
+aggregation occurring at 5-15 meter spatial scales. 
+19 
+
+Sanchez Meador also used a novel spatial modeling technique to 
+assess presettlement forest spatial patterns as part of the same study (2006). 
+In this portion of the study, he assessed forest patterns using groups of trees 
+with interlocking crowns as the subject of analysis. He predicted crown radius 
+for all mapped trees in this study using a regression equation of diameter 
+versus crown radius (R2=0.83), and then used a GIS buffering technique to 
+create canopies for all mapped tree locations using these radii. This 
+approach allowed identification of sub-plot scale tree groups, and tree group-
+scale characteristics, and indicted that prior to settlement, 75 to 83 percent of 
+the trees within the six study areas were arranged in groups with interlocking 
+crowns ranging in size from an average of approximately 45 to 90 m2. These 
+groups contained an average of 4.2 (range 3.6 to 5.4) trees per group 
+(Sanchez Meador 2006). 
+In other regions of the western US, studies of presettlement ponderosa 
+pine spatial patterns using Ripley's K analysis yield similar results. A 
+reconstruction of presettlement stand patterns observed in forty-eight 0.5 
+hectare ponderosa pine stands in central Washington by Harrod (1999) 
+indicated aggregation in presettlement stands at scales ranging from <1 
+meter to 15 meters. Youngblood and others (2004) reported variable spatial 
+patterns within for old-growth ponderosa pine forests in eastern California and 
+Oregon. In this study a significantly uniform pattern was observed within two 
+of the three study areas at scales less than 1.0 and 1.4 meters respectively. 
+Random tree patterns were observed at all sites. At one of the three areas, no 
+20 
+
+deviation from a random pattern was observed at all scales (0 to 25 m). 
+Random patterns were observed within the other two areas from 1.2 to 2.6 
+meters and 1.6 to .8.4 meters respectively. Significant aggregation was 
+observed at both these sites at increasingly greater scales. Boyden et al. 
+(2005) reported spatial patterns within a 9.3 hectare stand of old-growth 
+ponderosa pine forest in the Front Range of the Colorado Rockies. Both 
+random and uniform patterns were observed in the largest (i.e., oldest) 
+diameter classes, with deviation from simulated random patterns observed at 
+scales ranging from 5 to 7 meters (Boyden et a!. 2005). 
+As discussed above, studies completed throughout the 20th century 
+reveal several key patterns of presettlement ponderosa pine forest spatial 
+structure. First, at the coarsest-scale of analysis, typically the plot or stand-
+scale, forest spatial patterns have been most commonly described as 
+random. Secondly, while coarse-scale patterns are random, more 
+sophisticated multi-scale analysis has revealed that at finer scales (25 meters 
+or less), presettlement patterns were typically significantly aggregated. 
+Lastly, fine-scale aggregated patterns are associated with a readily 
+observable characteristic of presettlement or mature ponderosa pine forests: 
+presettlement forests were comprised of groups or clumps of trees with 
+interlocking crowns. Nearly seventy years of forest spatial pattern analysis 
+provides quantitative evidence that supports the "patchy", "groupy" or 
+"clumpy" descriptions of ponderosa pine forest spatial structure noted by 
+many forest researchers and practitioners (M. Tuten, personal observation). 
+21 
+
+Forest structure development 
+Development of sub-plot scale aggregated forest patterns in 
+presettlement ponderosa pine forests is a complex and not well understood 
+process. It includes regeneration processes and patterns, the influence of 
+disturbance processes such as fire and herbivory upon tree regeneration, 
+competition between regeneration and understory plant species, as well as 
+the interaction of climate and topography upon these processes. Assessment 
+of these important factors offers insight into the development of ponderosa 
+pine forest spatial patterns. 
+Mature forest spatial patterns are inherently related to tree 
+regeneration processes and patterns. Ponderosa pine seeds are wind 
+dispersed and rarely travel more than approximately 37 meters from the 
+parent seed source (Larson 1961). Ponderosa pine seedling germination 
+requires a mineral soil seed bed and warm and moist soil, conditions often 
+limited by seasonal temperature and precipitation. Additionally, the bimodal 
+precipitation regime common throughout the Southwest induces a high rate of 
+seedling mortality, making regeneration establishment typically episodic 
+(Larson 1961). 
+Other important influences on tree cohort establishment are elevation 
+and associated changes in temperature and preCipitation, soil type and 
+texture, and biotic factors such as competition with understory vegetation and 
+herbivory (Oliver and Larson 1996). On poor volcanic soils, seedling growth 
+is typically slow and hindered by frost-heaving during winter months, and, 
+22 
+
+regeneration patterns are less dense compared to areas with more productive 
+limestone soils (Heidmann 1988; Covington et.al. 1997). Livestock grazing 
+and wildlife browse also affect regeneration patterns. Pearson (1942) found 
+that livestock grazing practices during early decades of the 20th century 
+probably favored pine regeneration establishment by limiting seedling 
+competition with grass. Other research indicates that elk and deer browse 
+may contribute greatly to seedling and sapling mortality and limit height 
+growth (Jones 1967). Consideration of all of these as well as other factors 
+may be necessary to understand the processes driving regeneration structure 
+and pattern at management-scales. 
+Under favorable conditions, ponderosa pine regeneration often forms 
+dense thickets (Covington et al. 1997). These thickets have several important 
+structural features. High canopy fuel loadings along with low live crown 
+heights predispose these dense patches to mortality resulting from fire 
+(Peterson et al. 2005). Regeneration patterns within regeneration patches has 
+been described as random (Cooper 1961) in Arizona (trees less than 44 
+years old), but uniform (West 1969) in eastern Oregon (four of five sapling 
+thickets ranging from 60 to 84 years old). Uniform or random regeneration 
+patterns may be a product of intense root competition within the dense 
+regeneration patch soon after seedling establishment (West 1969). This 
+conclusion is supported by the finding that ponderosa pine allocates a greater 
+proportion of carbon to root development versus height growth in the seedling 
+phases (Grulke and Williams 2001). In montane ponderosa pine forests, 
+23 
+
+during this phase of stand development, inter-tree resource competition may 
+be more similar to levels common in the stem exclusion stand development 
+phases described by Oliver and Larson (1996) in other North American 
+forests. 
+Natural disturbance processes, such as fire, alter forest structure over 
+time affecting mature forest spatial patterns (Oliver and Larson 1996). There 
+is little, if any, evidence of stand-replacing crown fires in southwestern 
+montane forests prior to the turn of the 20th century (Moore 1999). Many 
+photos from this time period indicate forest conditions were not consistent 
+with conditions necessary to propagate crown fire under all but the most 
+extreme fire weather conditions (Fuh§ et al. 2006). Typically forest cover was 
+highly discontinuous, the bases of the live tree crowns typically were several 
+meters high, surface fuel loadings were low, and fuel complexes capable of 
+allowing fire to transition from the ground to live tree crowns were uncommon 
+(Covington 2003). 
+There is, however, a great deal of evidence that high intensity, wind-
+driven fires, burning in light surface fuels were common across these 
+landscapes (Arno 1996). Such fires have variable, yet somewhat predictable, 
+effects upon ponderosa pines of different developmental stages and spatial 
+patterns. Large old pines are very resistant to these fires and typically suffer 
+little mortality (Mast 1993). Typically, crowns in these trees are high enough 
+from surface fire heat to avoid crown scorch (i.e., damage to living foliage) 
+24 
+
+and the thick bark is capable of insulating the cambium from heat damage 
+(Wright et al. 1991). 
+In smaller age classes, fire effects are more variable. Pines in the pole 
+to middle size tree diameters also have insulating bark and are capable of 
+resisting heat damage to the cambium, but often experience crown scorching. 
+This fire effect can lead to many outcomes including delayed mortality 
+through crown scorch (Wright et al. 1991), increased susceptibility to insect 
+attack or (Breece et al. 2007), or, if the tree survives, fire induced "pruning" of 
+live crown foliage. In these classes, fire effects can range from causing direct 
+mortality to increasing resistance to subsequent surface fires by raising the 
+height to live crown (Biswell et al. 1973). 
+Surface fires interact perhaps most dynamically with pine seedlings 
+and saplings. Fire is capable of spreading through the crowns of these 
+individuals and can cause nearly complete mortality in seedling classes, 
+depending upon the intensity and movement'0f the fire (Peterson et al. 2005). 
+Surface fire effects on young pines changes rapidly as these trees grow. Six-
+year-old pines have been shown to survive in low intensity surface fire 
+conditions (Bradley et al. 1992). Large sapling and pole size trees have been 
+shown to survive all but the most intense fires as long as 50% of buds and at 
+least 10% of the live crown remains intact following the fire (Zwolinski 1996). 
+Observations in southwestern montane forests throughout the 20th 
+century indicate that, in the absence of fire, dense regeneration thickets do 
+not typically develop into mature forests characteristic of presettlement 
+25 
+
+forests. When dense conditions are maintained in an environment free of 
+disturbance, growth stagnates (Oliver and Larson 1996; Peterson et. al 2005). 
+Two competing theories exist to explain how frequent surface fires 
+interacted with forest structure to create the highly dumped patterns observed 
+in many mature southwestern ponderosa pine forests. The first theory was 
+proposed by Cooper in 1960. He proposed that aggregated, even-aged 
+mature tree groups develop from the interaction of fire within even-aged 
+ponderosa pine regeneration patches. This theory meshes nicely with the 
+observation that ponderosa pine regeneration establishes in dense, single 
+cohort thickets. Cooper concluded that mortality induced by frequent fire 
+within young regeneration thickets resulted in a less dense, yet still 
+aggregated tree spatial pattern. 
+Another theory was proposed by White (1985) after observations in 
+ponderosa pine forests of northern Arizona. White observed that trees within 
+groups of mature trees with interlocking crowns were two-aged to uneven 
+aged, with tree ages ranging from 33-268 years. To explain this observation, 
+White proposed that pine regeneration periodically established near the 
+edges of existing mature pine clumps. He explained that this regeneration 
+was capable of germinating in mineral soil seedbeds created when downed 
+logs were completely consumed during frequent fires (White 1985). 
+Neither Cooper's nor White's spatial pattern development theories are 
+entirely accurate. Both the Cooper and White pattern development theories 
+are limited because evidence supporting each theory is limited in spatial 
+26 
+
+extent. White's study was completed in a small area in northern Arizona and 
+Cooper's in a small area in the White Mountains of eastern Arizona. Cooper's 
+theory appears compatible with contemporary pine regeneration thicket 
+patterns on seen on productive soils, while White's theory appears to be more 
+compatible with regeneration patterns observed on less productive soils 
+(Heidmann 1988; Covington et al. 1997). Contemporary regeneration 
+patterns are also highly influenced by 20th century management practices 
+such as grazing, harvesting and perhaps human activity induced changes in 
+the regional climate (Sanchez Meador 2006). Additionally, topographic and 
+climatic variation is known to affect fire regime parameters such as fire 
+frequency, intensity and severity which may also affect ponderosa pine spatial 
+patterns (Heyerdahl et al. 2001). 
+The development of presettlement spatial patterns across 
+southwestern ponderosa pine forests is a complex and unresolved process 
+involving many factors. What is clear is ,that such patterns developed in an 
+environment prone to periodic surface fires. Given this reality, it is probable 
+that whatever the exact mechanisms for the development of these patterns 
+may be, understanding interactions between surface fires and ponderosa pine 
+regeneration is fundamental to understanding the overall process that shaped 
+presettlement forest spatial patterns. 
+27 
+
+Summary 
+Many contemporary southwestern ponderosa pine forests do not 
+exhibit spatial patterns similar to presettlement spatial patterns described by 
+Cooper (1960; 1961), White (1985) and others (Harrod 1999; Youngblood 
+2004; Boyce et al. 2005; Sanchez Meador 2006). Silvicultural thinning 
+treatments are currently proposed to recreate these presettlement patterns in 
+contemporary forests. A goshawk management guidelines-based approach 
+relies heavily on Cooper's (1960) forest spatial pattern development model, 
+while ecological restoration guidelines more closely follow the White (1985) 
+model. Understanding the ability of these treatment approaches to recreate 
+presettlement spatial patterns requires both quantification of local 
+presettlement forest spatial patterns, and a rigorous comparison of patterns 
+developed with each of these management approaches. 
+28 
+
+CHAPTER 3 
+Comparing Ecological Restoration and Northern Goshawk Management 
+Guidelines Treatments in a Southwestern Ponderosa Pine Forest 
+Abstract 
+We compared forest structure patterns resulting from the application of 
+revised Northern Goshawk Management Guidelines (GMG) and Ecological 
+Restoration Guidelines (ERG)-based silvicultural thinning approaches in 
+ponderosa pine (Pinus ponderosa C. Lawson var. scopulorum Engelm.) 
+forests on replicated sites on the Kaibab Plateau in Northern Arizona. These 
+management approaches have been proposed for wide application across 
+tens of thousands of hectares of southwestern National Forests within 
+Northern Goshawk (Accipiter gentilis) foraging areas. Both sets of guidelines 
+use patterns and densities of presettlement forest evidences in the form of old 
+forest remnants (pre Euro-American settlement era trees, stumps and snags) 
+to guide their tree marking methodologies. Tree densities resulting from the 
+application of these treatment approaches and estimated presettlement 
+densities were not significantly different. GMG-based treatments retained a 
+larger proportion of trees in the middle to large size classes, resulting in 
+statistically significantly higher canopy cover and basal area. Tree spatial 
+point patterns and tree patches (e.g., groups of trees with interlocking crowns) 
+were analyzed. GMG-based treatments resulted in more consistent tree 
+aggregation at fine-scales «15 meters), than ERG-based treatments, a 
+29 
+
+pattern similar to presettlement evidence patterns. GMG-based treatments 
+resulted in significantly fewer isolated individual trees, a higher mean density 
+of trees within patches and more high density tree patches than ERG-based 
+treatment results. No difference was observed in average diameter range of 
+trees within groups. We conclude that with minimal modification, initial 
+thinning approaches similar to those described in this study are highly 
+compatible, both with each other and presettlement conditions, especially 
+within forest landscapes where reintroduction of naturally ignited fires is a 
+management goal. Despite this similarity, ERG and GMG-based stand 
+management approaches will differ over the long term. The goal of ERG-
+based management is forests that can be regulated by natural processes, 
+most notably surface fires similar to those common in the Southwest. The 
+GMG approach, while allowing the use of fire, will require continual forest 
+structure regulation and will inevitably result in future removal of large, old 
+trees. 
+30 
+
+Introduction 
+A legacy of 20th century land management activities in southwestern 
+ponderosa pine (Pinus ponderosa C. Lawson var. scopulorum Engelm.) 
+forests has been gradual development of dense and contiguous forested 
+landscapes, highly susceptible to expensive and destructive stand replacing 
+wildfires (Dombeck et al. 2004). There is broad agreement that forest 
+structure restoration activities are necessary across vast areas of ponderosa 
+pine forest in the southwestern and western United States (Moore et al. 1999; 
+Allen et al. 2002). Ecological restoration guidelines (ERG) and Goshawk 
+Management Guidelines (GMG)-based thinning treatments have been 
+proposed for use across thousands of national forest hectares in the 
+southwestern United States to reduce tree densities to levels commensurate 
+with those common in the region prior to Euro-American settlement of the 
+region in the late 19th to early 20th centuries (Reynolds et al. 1992; Covington 
+and Moore 1994; Allen et al. 2002). 
+Ecological Restoration and Goshawk Management Guidelines Fundamentals 
+Ecological restoration guidelines were recently proposed by USFS 
+Southwestern Region personnel as a silvicultural thinning approach 
+compatible with desired conditions advocated by the GMGs (Reynolds et al. 
+2006). While specific project objectives may be highly variable, all ecological 
+restoration-based activities have the goal of "reestablishing to the extent 
+possible the structure, function, and integrity of indigenous ecosystems and 
+31 
+
+the sustaining habitats that they provide (Society for Ecological Restoration 
+2004)". 
+Ecological restoration efforts within ponderosa pine forests over the 
+last half century have shown that restoration of presettlement forest structure 
+using fire alone often results in unintended ecosystem changes such as large, 
+old tree mortality and the risk of stand-replacing crown fires (Sackett et al. 
+1995). There is now widespread agreement among restorationists that forest 
+thinning approaches are necessary to alter forest structure conditions in order 
+to allow ecologically beneficial surface fires to be reintroduced to ponderosa 
+pine forests to maintain ecological function and regulate forest structure over 
+time (Moore et al. 1999; Allen et al. 2002). 
+Creation of forest structural patterns within the presettlement range of 
+ecosystem variability is the goal of ERG-based thinning approaches (Moore 
+et al. 1999). An ERG-based thinning approach draws upon insight gained 
+from a study completed by White (1985) near Flagstaff, Arizona. White 
+observed that trees within tree groups (i.e., two or more trees with interlocking 
+crowns; Figure 3.1; Table 3.1) were uneven-aged, ranging in age from 33-268 
+years (White 1985). For this reason, ERG-based methods attempt to manage 
+for uneven or multi-aged forests comprised of un-even or multi-aged tree 
+groups (Moore et al. 1999). ERG thinning methodologies do not focus upon 
+regulated diameter distributions, but instead use the location and density of 
+presettlement forest remnants (old trees, stumps, snags, and stump holes 
+predating settlement of the region) as a reference for the spatial pattern and 
+32 
+
+density of the restored forest. Thinning guidelines comprise only a small part 
+of an ERG-based approach within a degraded ponderosa pine forest. Other 
+activities may include the restoration of understory plant community 
+composition, control of exotic plant species and regulation of livestock grazing 
+practices and importantly the restoration of natural disturbance processes 
+such as frequent surface fire (Moore et a!. 1999; Allen et al. 2002). A 
+fundamental objective of ERG-based treatments is the reintroduction of 
+periodic surface fires following initial thinning treatments in order to allow the 
+structure and function of future forest ecosystems to be shaped by this 
+important natural disturbance process (Moore et al. 1999; Allen et al. 2002). 
+While ERG-based management focuses on management for 
+ecosystem structure, function and integrity, GMG-based approaches have a 
+greater wildlife habitat conservation focus (Reynolds et. al. 1992, Long and 
+Smith 2000, Society for Ecological Restoration 2004). A fundamental 
+premise of the GMGs is that northern gosh'awk and prey populations are 
+limited by available food and suitable habitat (Reynolds et al. 1992). The goal 
+of the goshawk guidelines is to create a range of forest habitats similar to the 
+range found in presettlement forests, suitable for both goshawk nesting and a 
+wide variety of sustainable populations of goshawk prey species (Reynolds et 
+a!. 1992; Reynolds et al. 2006). 
+A GMG-based approach draws upon research completed by Charles 
+Cooper in the central Arizona highlands indicating presettlement ponderosa 
+pine forests were uneven or multi-aged at coarse-scales, but comprised of 
+33 
+
+even-aged groups of trees with interlocking crowns at finer-scales (Cooper 
+1960). In order to manage for similar conditions, the GMG-based approach 
+regulates forest structure within a 2185 hectare post-fledgling and foraging 
+area surrounding known goshawk nests using a Vegetation Structural Stage 
+(VSS) forest structure classification system. The VSS system was developed 
+in the late 1970s for use in western Oregon (Thomas et al. 1979) and was 
+adapted for the National Forest Service Southwestern Region (Reynolds et 
+al. 1992). It classifies forest structure into 0.04 to 0.16 hectare tree groups 
+(i.e., trees with interlocking crowns; Table 3.1) of six homogenous structural 
+classes ranging from seedlings to old, large diameter trees (Reynolds et al. 
+1992). A GMG-based approach regulates forest structure by balancing the 
+relative area occupied by forest structure within each of the six VSS classes 
+using repeated management entries (i.e., harvesting) (Figure 3.2) 
+Additionally, GMG foraging areas must meet certain criteria such as within 
+group canopy cover, maximum opening size, snag and downed woody debris 
+density and reserve trees (Reynolds et al. 1992). Lastly, in recent 
+discussions regarding the implementation of the GMGs, regional USFS 
+officials have highlighted the importance of using presettlement forest 
+remnants (old trees, logs, stumps, snags) to guide site-specific tree stocking 
+levels and spatial patterns (Youtz et al. 2006). While this activity is not 
+specifically mentioned within the original GMGs, it is a recent effort intended 
+to bring GMG desired future conditions closer into congruency with local 
+34 
+
+presettlement forest densities and spatial patterns (Reynolds et al. 1992; 
+Youtz et al. 2006). 
+Since tree groups in younger structural stages will eventually grow into 
+the oldest and largest stages over time, a GMG-based management 
+approach will eventually result in both an over abundance of old, large 
+diameter tree groups (VSS 6), and the need to harvest these large tree 
+cohorts to maintain the GMG structural regulation requirements. The upper 
+density limit of this VSS class within management areas is regulated by the 
+rotation age specified by regional National Forest policy, approximately 200 to 
+250 years old (Youtz et al. 2006). 
+Study Objectives 
+Since local evidence for both ERG and GMG stand development 
+models exists, it is unclear which of these models is best suited to develop 
+forest structural patterns similar to presettlement conditions (Cooper 1960; 
+White 1985). What is becoming increasingly clear is the ecological 
+importance of forest spatial patterns. Forest spatial patterns affect northern 
+goshawk habitat and wildlife values (Reynolds et. al. 1992; Turner et al. 
+1997), but also influence tree regeneration and understory plant community 
+structure (Griffis et. al. 2001), fire behavior (Agee 1998; Fule et. al 2001) and 
+other ecological values and processes. 
+The goal of this study is to quantify and compare presettlement forest 
+structure patterns and patterns resulting from implementation of ERG and 
+35 
+
+GMG-based treatments in order to understand the compatibility of these 
+management approaches. To accomplish this goal, the approach used in this 
+study addressed the following the following three objectives: 
+1) Assess local presettlement forest densities and spatial patterns as 
+evidenced by forest remnants (old living trees, snags, stumps, dead 
+and downed trees). 
+2) Assess ERG and GMG-based treatments efficacy in restoring site-
+specific presettlement forest densities and spatial patterns. 
+3) Compare forest structure patterns of ERG and GMG-
+based treatments at sub-plot to plot-scales. 
+Methods 
+Study Site 
+The study area is an approximately 2000 hectare area located on the 
+western edge of the Kaibab Plateau in the Kaibab National Forest, Arizona, 
+USA (112° 30" W, 36° 30" N) ranging in elevation from 2260 to 2350 meters. 
+Soils across the study area are derived from porous, Permian age Kaibab 
+limestone rock layer which underlies the majority of the Kaibab Plateau 
+(USFS 1991). Annual precipitation is bimodal, split between winter snowfall 
+and late summer thunderstorms, averaging 59 centimeters annually between 
+1971 and 2000 (Western Regional Climate Center, www.wrcc.dri.edu). The 
+majority of the study area is comprised of pure ponderosa pine stands, with 
+scattered groups of Gambel oak (Quercus gambe/ii Nutt.) and aspen 
+(Popu/us tremu/oides Michx.) present sporadically. Since these species were 
+36 
+
+relatively rare throughout the study area only ponderosa pine forest structure 
+information is presented in this study. 
+Fule et al. (2003) reported a range ot presettlement mean fire return 
+intervals ranging from 6-12 years from an area approximately 25 kilometers 
+south of the study area. Removal of grassy fuels through livestock and large 
+deer herds grazing during the 1920's to 1950's (Rasmussen 1941; Merkle 
+1962), as well as active fire suppression efforts beginning in the 1920s, 
+reduced the frequency of fires within the region during the majority of the 20th 
+century (Fule et al. 2003). Current high densities of trees within the study 
+area can be attributed in large part to the exclusion of tree density regulating 
+surface fire from the landscape starting around the late 1800's (White and 
+Vankat 1993; Fule et al. 2002; Fule et al. 2003). 
+Plot Selection 
+We randomly located six, two-hectare sites within stratified areas of the 
+study area extent to provide examples of forest conditions present within 
+ponderosa pine dominated forests of the North Kaibab Plateau. We chose a 
+two-hectare plot size partly because of logistical limitations, but also to allow 
+assessment of finer-scale tree groups and spatial point patterns (Figure 3.1), 
+features reported elsewhere to exist at the scale of approximately 0.02 to 0.3 
+hectares (Cooper 1960; White 1985; Sanchez Meador 2006; Sanchez 
+Meador et al. 2008). We stratified areas for plot selection within the study 
+area extent before selecting plots according to the following criteria: 
+37 
+
+1.) Areas between the elevations of 2210 and 2360 meters. Locally, 
+forests within this elevation band are predominantly of the ponderosa 
+pine type. 
+2.) Areas of less than 15% slope. This was done to minimize variation 
+in forest structure patterns due to the influence of aspect on forest 
+species composition. 
+3.) Areas with less than 75% of living presettlement-era trees 
+remaining. Unharvested or very lightly harvested forests were excluded 
+from the study due to their relative rarity across the Kaibab Plateau 
+and southwestern ponderosa pine forests. 
+Plot Marking and Mapping 
+Richard Reynolds, the senior author of Management 
+Recommendations for the Northern Goshawk in the Southwestern United 
+States (Reynolds et al. 1992), and several crew members marked trees to be 
+retained with colored flagging using a Goshawk Management Guidelines-
+based foraging area thinning prescription (Reynolds et al. 1992) during mid-
+summer 2007. Because of the relatively small size of the stem-mapped plots 
+relative to most silvicultural thinning projects, GMG tree markings were not 
+adjusted to meet the stated area targets published within the guidelines; only 
+Vegetation Structural Stage-based (VSS) tree groupings were marked. The 
+approach used by Reynolds in this example was intended to serve as the 
+initial management entry into the six stands observed in this study. 
+Following tree marking, we used a reference grid of survey tapes to 
+map the locations of all live trees taller than 1.4 meters within each study plot 
+using survey methods are similar to those used by Abella (2006) and 
+38 
+
+Covington et al. (1997). For each mapped tree and presettlement forest 
+remnant within the plot boundary, we recorded species, diameter at breast 
+height, condition (living or snag/log classes), bark color, and the presence or 
+absence of flagging (indicating retention using a GMG-based prescription). 
+We then removed all flagging from each marked tree after mapping. 
+During fall, 2007, an ERG-based prescription was marked within the 
+same plots by staff from the Ecological Restoration Institute following an 
+established ecological restoration marking protocol (Covington et al. 1999). 
+ERG marking personnel used a 1 to 1.5 presettlement evidence to post-
+settlement tree replacement rate described by Covington et al. (1999) for this 
+comparison. Field staff made a modification to the previously described 
+methodology by employing a minimum 5-6 meter spacing of post-settlement 
+trees in order to encourage growth of these individuals. Finally, to minimize 
+potential measurement bias, no personnel involved with marking activities 
+were involved with tree mapping activities.
+" 
+Spatial Analysis 
+We combined all live presettlement trees as well as stumps, snags and 
+downed trees present within study plots for presettlement (PRE) tree density 
+and spatial pattern analyses. We considered all living trees of any size with 
+yellow platy bark and other old-age characteristics (large diameter branches, 
+dead tops, mature growth form) as presettlement forest evidences in this 
+study. Field increment boring tests, reported by ERG marking personnel, 
+39 
+
+indicated trees with diameters at breast height greater than 44.4 em diameter 
+germinated prior to the approximate settlement date of 1880 and were 
+therefore included as presettlement trees (D. Lund personal communication). 
+Further, this diameter cut-off is comparable to White's (1985) findings 
+indicating presettlement era «1880 establishment) trees could be 
+conservatively identified as trees having a diameter at breast height of 37.5 
+cm or larger. Although the use of presettlement forest remnants as evidence 
+of presettlement forest structure is imperfect, a recent study comparing 
+presettlement remnants to long-term forest survey data (83 years or older) 
+indicates that this technique is reliable within 10 percent of presettlement 
+densities (Moore et al. 2004). 
+We investigated tree and presettlement evidence location point 
+patterns to determine if patterns were uniform, random or aggregated (Table 
+3.1 ; Figure 3.1). This was accomplished through assessment of point data 
+using the Ripley's K(t) function (Ripley 1978, 1977, 1981) with a square root, 
+variance stabilizing transformation of K(t) to L(t)-t (Besag 1977). Significant 
+aggregation or uniformity was tested by comparing observed L(t)-t values to a 
+distribution of values from 99 simulated random point patterns (Upton and 
+Fingleton 1985, Dale 1999). All Ripley's L(t)-t analyses were completed using 
+a custom script written in R version 2.6.1 (R Development Core Team 2007) 
+by Sanchez Meador (2006). 
+40 
+
+Since crown radii were not measured for individual trees we predicted 
+a crown radius for each measured tree using the following regression of tree 
+diameter and crown radius developed by Sanchez Meador (2006): 
+CrownRadius(m) = . 1387(DBHcm) 07901 
+n = 5075; ? = 0.83 
+We modeled canopies for all mapped trees using a vector GIS 
+approach by buffering tree locations using crown radii estimated with this 
+method. 
+Tree group-scale analyses were completed using trees with 
+interlocking tree crowns to define individual tree groups (Table 3.1; Figure 
+3.1). Only tree groups entirely contained within plot boundaries were included 
+in group analyses. All tree group analyses were completed using ArcGIS 9.2 
+vector data analysis capabilities. 
+Statistical Analysis 
+This study was designed as a replicated comparison of forest structure 
+attributes resulting from the application of GMG and ERG-based treatments 
+and to estimates of presettlement forest structure (PRE). Therefore, no 
+statistical comparisons were made to contemporary forest structure 
+conditions. However, contemporary information is presented for visual 
+comparison with ERG and GMG-based treatment results. An alpha level of 
+0.05 was used for all tests. Assumptions of normality were assessed using 
+the Shapiro-Wilk test. If assumptions of normality were met, paired parametric 
+41 
+
+t-tests were used, otherwise the non-parametric Wilcoxon-signed rank test 
+was used. Bonferroni correction was used to test for tree density differences 
+in six diameter classes corresponding to the six VSS classes between 
+treatment results. An exception to the use of paired t-tests was the use of a 
+single factor ANOVA test to compare ERG and GMG-based treatment 
+densities with estimated presettlement tree densities (PRE). 
+Results 
+Plot-scale metrics 
+Both GMG and ERG-based treatments resulted in tree densities that 
+were not significantly different from presettlement forest densities (Table 3.2). 
+GMG-based treatments resulted in a statistically significant, although only 
+slightly higher, average basal area versus ERG-based treatment (21.8 m2 ha-1 
+versus 18.0 m2 ha-1). Overall canopy cover, as determined by simulated tree 
+canopy area as a percentage of the total ptat area, was also significantly 
+higher after GMG-based treatments than ERG treatments, although the 
+absolute difference between these canopy cover estimates was quite small 
+(24 versus 26 percent cover) (Table 3.2). 
+Diameter distributions resulting from GMG and ERG treatments were 
+similar, although there were statistically significant differences in kurtosis and 
+diameter classes. Although not statistically significant, on average, GMG 
+diameter distributions were more negatively skewed (Y1 = -0.07) toward larger 
+diameter classes than ERG diameter distributions (Y1 = 0.04). GMG-based 
+42 
+
+treatment diameter distributions exhibited a peak in the middle to larger tree 
+size classes (30 to 50 cm), while diameter distributions resulting from ERG-
+based treatments were more evenly distributed across all size classes. 
+Average kurtosis values, a measure of distribution "peakedness," were 
+negative for both GMG and ERG distributions, although diameter distributions 
+resulting from GMG treatments were statistically significantly different than 
+those resulting from ERG treatments (Y2 = -0.42 versus -1.02). 
+Cumulative diameter distributions from all six mapped plots (8 
+hectares) illustrate the overall differences in diameter distributions between 
+the two treatment approaches (Figure 3.3). ERG-based treatments resulted 
+in higher densities of small diameter «16 cm) and lower densities of medium 
+diameter (24-48 cm) trees compared to GMG-based treatments. 80th 
+treatments resulted in nearly identical tree densities in the largest diameter 
+classes (>56 cm). Of the six VSS classes, only tree densities in VSS class 4 
+differed significantly between treatment approaches, with GMG based 
+treatments resulting in significantly higher densities (Table 3.3). 
+Point Pattern Analysis 
+Living presettlement era trees and non-living presettlement forest 
+remnants were significantly aggregated at lag distances from 0 to 10 meters 
+on all plots with the exception of plot 5 (Table 3.4). The mean minimum lag 
+distance at which the fine-scale aggregation patterns were no longer 
+discernable from a random pattern was approximately 23 m (S.E. = 6.5). 
+43 
+
+Significant aggregation of these structures was also observed at longer lag 
+distances from 20-30 m on plots 2, 3 and 6 up to a 50 m lag distance on plot 
+1. This contrasts with contemporary forest conditions where live trees are 
+aggregated at distances from 0 to approximately 20 to 40 meters on all plots 
+and aggregated at all distances on plots 2, 3, and 6 (Table 3.4). 
+Both treatments dramatically affected tree spatial patterns. GMG-
+based treatments resulted in forest structure aggregation at lag distances of 
+less than 10 meters on all measured plots. Aggregation patterns became 
+indistinguishable from random patterns at lag distances of 14 meters or less 
+on all plots with the exception of plots 2, 5 and 6 where significant 
+aggregation either continued to greater lag distances (plots 2 and 5) or 
+exhibited a additional aggregation greater lag distances (plot 6). Only one 
+plot (plot 1) exhibited significant uniform spacing at any lag distance. On this 
+plot, uniform spacing was observed at lag distances ranging from 8 to 16 
+meters. ERG-based treatments resulted iii a peak of uniform spacing at 
+distances less than 10 meters on plots 3, 4 and 5 and another peak in uniform 
+spacing at distances beyond 40 meters on plot 5. Several peaks in significant 
+aggregation were observed at distances ranging from 4 to 30 meters on plots 
+2, 4 and 5. Plot 6 exhibited significant aggregation from a lag distance of 16 
+meters to the maximum lag distance of 50 meters. 
+44 
+
+Tree group characteristics 
+Both treatments reduced the average number of tree groups per plot 
+dramatically, from 43 to 79 percent overall. The number of tree groups per 
+plot was very similar between treatment approaches, with GMG-based 
+treatments resulting in a slightly higher, statistically insignificant, number of 
+groups versus ERG-based treatments (Table 3.5). 
+GMG treatments yielded significantly more large groups per plot. GMG 
+treatments resulted in an average of 11 groups with 5 or more trees per plot 
+versus an average of about 4 groups of this size resulting from ERG-based 
+treatments (Table 3.5). A similar difference was observed at larger group 
+sizes, with GMG-based treatments resulting in an average of 3.3 groups 
+comprised of 10 or more individuals, versus an average of 0.3 groups per plot 
+resulting from ERG-based treatments (Table 3.5). ERG based treatments 
+resulted in a significantly higher number of solitary trees than GMG-based 
+treatments 
+While overall tree group numbers decreased, average group area 
+(projected crown area) increased 52 percent on average after ERG-based 
+treatments and 67 percent after application of GMG-based treatments. 
+Average group area was reduced following these treatments only on plots 5 
+and 6 (Table 3.5). The two treatment approaches differed little in average tree 
+group area, but GMG treatments resulted in larger average maximum group 
+area versus ERG treatments, although this difference was not statistically 
+significant (Table 3.5). 
+45 
+
+Average diameter range, a surrogate metric of tree group agedness, 
+dropped an average of 16 and 17 percent following the application of ERG 
+and GMG-based thinning treatments respectively (Table 3.5). This drop was 
+not entirely consistent in all situations, as diameter range increased after 
+treatment on some plots. Overall no statistical difference in average tree 
+diameter range within groups was observed between ERG and GMG-based 
+treatment approaches. 
+Discussion 
+What are the patterns of presettlement forest remnants used by practitioners 
+of ERG and GMG-based treatments? 
+Average presettlement forest evidence densities of stands assessed in 
+this study are slightly lower than presettlement forest structure studies 
+reported in the literature for nearby areas. Fule et al. (2002) used 
+dendrochronological methods to reconstruct presettlement ponderosa pine 
+densities in three areas along the North Rim within Grand Canyon National 
+Park. Densities reported in these three sites averaged 152.7 pines ha-1 
+versus a mean of 141.2 pines ha-1 observed within the six plots assessed in 
+this study. These lower density estimates may be related to the slightly lower 
+elevation range of our study landscape relative to the sites assessed by FLJle 
+et al. (2003). 
+Spatial patterns evident from analysis of the locations of presettlement 
+forest structures indicates a high degree of aggregation at fine-scales «10 
+meter lag distances). This finding is similar to other presettlement ponderosa 
+46 
+
+pine forest spatial patterns observed in the Southwest. Sanchez Meador 
+(2006) reported statistically significant aggregation patterns at lag distances 
+less than 40 meters with a peak in aggregation at lag distances of 6 to 8 
+meters for presettlement forest structures on six plots near Flagstaff, Arizona. 
+Other studies of presettlement forest spatial patterns in ponderosa pine 
+forests of the western US report similar results (Harrod et al. 1999; 
+Youngblood et al. 2004). Consistent fine-scale spatial aggregation of 
+presettlement forest structures observed within all six plots may be due in part 
+to the relatively small study landscape and stratification techniques employed 
+in this study. It is possible that these presettlement patterns may differ with 
+other patterns existing on other soil types, aspects and slopes (Heyerdahl et 
+al. 2001). 
+At coarser-scales (>10m lag distances), there a fairly consistent 
+gradual transition from an aggregated pattern to random spatial patterns, 
+indicating a random arrangement of tree clusters throughout the study plots. 
+This trend is also supported by other studies in western and southwestern 
+ponderosa pine forests (Harrod et al. 1999; Youngblood et al. 2004; Sanchez 
+Meador 2006). An important issue associated with this finding is the relatively 
+small plot size used in this study to assess aggregation patterns at these 
+coarse-scales. At the coarsest-scales, edge effects increase in importance, 
+complicating spatial analysis results (Boots and Getis 1988). 
+47 
+
+Do Ecological Restoration and Goshawk Management Guidelines-based 
+treatments restore presettlement forest density and spatial patterns? 
+Use of presettlement evidences by both ERG and GMG practitioners 
+during tree marking was consistent with restoring presettlement densities. 
+However, there appear to be important differences in the spatial arrangement 
+of these trees with the implementation of each approach. 
+It is not realistic to assume ERG-based treatments are capable of 
+restoring presettlement evidence patterns perfectly; but spatial patterns 
+resulting from use of this treatment approach differed consistently with 
+presettlement patterns in this study. Fine-scale ERG spatial patterns exhibited 
+a much greater trend towards random and uniform spatial patterns than those 
+resulting from GMG-based treatments. Several important factors are likely 
+responsible for this inconsistency. First, is the use of a minimum tree spacing 
+of approximately 6 meters, a modification to existing ecological restoration 
+guidelines. Through use of this modification, marking personnel were unable 
+to replicate the significantly aggregated presettlement forest spatial patterns 
+observed on all of the six plots assessed. While at odds with presettlement 
+evidence patterns, this modification may be useful for restoration of dry sites 
+or sites with few large trees, as it may encourage tree growth by restricting 
+intra-tree root competition. A second contributing explanation may be the 
+maximum search radius employed in ERGs. The search radius is the 
+distance between presettlement forest evidences and a post-settlement 
+replacement trees. Since replacement trees are not necessarily adjacent to 
+presettlement evidences, use of a search radius is often necessary. An 
+48 
+
+approximately 18 meter maximum search distance was employed by ERG-
+marking personnel in this study. Because such a large search radius was 
+used, the distance between presettlement evidences and a replacement trees 
+may have been greater than presettlement forest evidence aggregation 
+distances. Casual observations within study plots indicate this situation is 
+fairly common. This situation is further compounded when a long distance 
+search radius is used for selection of several replacement trees. Finally, 
+some degree of error in application of the ecological restoration guideline 
+methodology is also possible. Such errors could take the form of overlooking 
+or missing presettlement evidences, or selecting replacement trees at a 
+distance greater than the maximum search radius. While personnel involved 
+in the ERG marking process have years of experience applying these 
+guidelines, it is probable that such errors contributed to the observed 
+discrepancies with presettlement patterns to some degree. 
+GMG-based treatments resulted in tree location aggregation patterns 
+consistently similar to presettlement forest evidence aggregation patterns at 
+fine-scales «10 m lag distances). These fine-scale aggregation patterns are 
+also intrinsically related to the method GMG-based treatment marking 
+personnel used to assess presettlement evidence spatial patterns and the 
+wildlife habitat management objectives described within the GMGs. 
+Although inclusion of site specific reference information recently has 
+been promoted as a means to implement GMG-based treatments (Reynolds 
+et al. 2006; Youtz et al. 2008), a specific methodology for doing so has not 
+49 
+
+been outlined in published literature. The GMG-based approach used a 
+"patch-scale" presettlement evidence to post-settlement tree patch 
+replacement method. Whenever an aggregated patch of several dead 
+presettlement evidences (most commonly cut stumps) was encountered by 
+Reynolds or crew members, a patch of similar density and spatial pattern was 
+selected from the surrounding post-settlement forest structure as a 
+replacement for the presettlement evidence patch (Richard Reynolds 
+personal communication). Further, GMG wildlife management perspective 
+undoubtedly influenced selection of retained tree patches. Such fine-scale 
+aggregation patterns are known to be beneficial to many small mammal and 
+bird species that comprise the northern goshawk food web (Reynolds et at. 
+1992, Reynolds et al. 2006). This patch-scale approach, while obviously not 
+capable of restoring patterns exactly, appeared to succeed in recreating 
+presettlement patterns and initial wildlife habitat conditions better than ERG-
+based methods. 
+How do forest structure patterns of ERG and GMG-based treatments 
+compare at sub-plot to plot-scales?? 
+Despite statistically significant differences in basal area and canopy 
+cover values (the latter being highly dependent upon the former) absolute 
+differences were not large, with only 17 percent average difference in basal 
+area and a 1.6 percent average difference in canopy cover. These 
+differences are attributable to significantly different tree densities in the 30 to 
+46 cm diameter tree size class, corresponding to VSS class 4 (Figure 3.3). 
+50 
+
+Since ERGs specifically advocate retention of trees with old age 
+characteristics, it is probable that the majority of this basal area difference is 
+found in the large, but not necessarily old post-settlement tree classes. 
+Density differences in these size classes may be related to two components 
+of GMGs. First, trees in these size classes are preferred habitat for the tassel-
+eared squirrel (Sciurus abertl) and other closed-canopy dependent goshawk 
+prey species. Second, the regulated diameter distribution required by GMGs 
+necessitates greater numbers of trees in larger diameter classes than in 
+smaller ones (Patton 1984, Reynolds et al. 1992). While density differences 
+in smaller size classes were not observed, the more positively skewed and 
+significantly higher average kurtosis values resulting from ERG-based 
+treatments indicate that a broader range of tree diameters were retained 
+throughout the entire diameter range than in GMG-based treatments. This 
+difference is probably the result of an unregulated diameter distribution 
+applied within forests containing large contemporary densities of small 
+diameter trees (Table 3.2). 
+Sub-stand tree group differences and trends 
+Tree group-scale characteristics appear to be related to point patterns. 
+The consistent fine-scale tree aggregation patterns created by GMG-based 
+treatments resulted in significantly more groups of trees with interlocking 
+crowns, fewer single trees, higher average group densities and higher 
+densities of large tree groups (groups with 5 or 10 or more trees) per plot. 
+51 
+
+Spatial patterns within tree groups were not assessed in this study, but it is 
+probable that trees within GMG groups are more closely aggregated than 
+ERG-marked tree groups, as average group area and average maximum 
+group area did not differ despite the previously mentioned differences. Since 
+GMGs advocate retention of groups of large trees with interlocking crowns 
+with high canopy cover to provide habitat for animals that form northern 
+goshawk's prey base (Reynolds et al. 1992; Reynolds et al. 2006; Youtz et. al 
+2008), the high aggregation and patchiness associated with this treatment 
+was a logical outcome. 
+A surprising finding is the lack of an observed difference in average 
+diameter range of trees within groups resulting from ERG and GMG-based 
+treatments. An uneven-aged forest comprised of well-interspersed, even-
+aged, or homogenous VSS groupings is a stated goal of GMG-based 
+treatments. If diameter is used as a surrogate for age, as is often done, the 
+range of diameters within even-aged groupsr·should logically be narrower than 
+the range of diameters within uneven-aged groups. Results of this study 
+indicate that there is no consistent difference in the range of diameters within 
+tree groups resulting from ERG or GMG-based thinning treatments. This lack 
+of difference may be related to the finding that both treatments sought to 
+retain nearly all of the oldest, largest diameter trees within all six plots, and, 
+ERG-based treatments resulted in higher proportions of single trees 
+unassociated with tree groups. The largest trees have the largest crown radii, 
+and, therefore, are the most likely to be part of a group, regardless of their 
+52 
+
+location relative to other trees. By the same rationale, small diameter trees 
+are less likely to be incfuded in a group and more likely to occur singly. Large 
+trees drive both the formation of tree groups with interlocking crowns and 
+contribute a large amount of group diameter variation. The retention of these 
+trees with both treatment approaches is probably in large part responsible for 
+the group diameter range results observed in this study. The significantly 
+higher number of smaller, solitary trees retained by ERG-based treatments 
+provides a further explanation for this trend. 
+GMG-based treatment results should be interpreted with caution, as 
+this study represents only the initial management entry into these six stands. 
+It is likely that many of the large diameter trees retained with the GMG-based 
+treatment would be removed during the second management to regulate the 
+abundance of VSS 5 and 6 group area to other VSS class groups. 
+Tree group metrics: limitations and presettlement context 
+Tree group-scale characteristics presented in this study are an inexact 
+representation of actual patch structure characteristics existing within forest 
+stands. Irregular tree crown shapes and bole lean were not assessed or 
+incorporated into the tree patch model used in this study, thus restricting the 
+accuracy of the results. Sanchez Meador (2006) has indicated that number of 
+trees included within tree groups is highly sensitive to crown radii variation. 
+Furthermore, tree group characteristics will change over time as crown radii 
+increase with tree diameter growth. Despite these limitations, the tree patch 
+53 
+
+identification technique employed in this study is. useful for understanding the 
+underlying effects of GMG and ERG-based treatments on tree group 
+characteristics. 
+Since reconstruction of presettlement forest groups was not completed 
+in this study, it is unclear how the results of GMG and ERG-based treatments 
+compare with presettlement group characteristics at this site. A study that 
+reconstructed presettlement «1875) tree group characteristics at six sites 
+located in the Coconino National Forest near Flagstaff, Arizona (Sanchez 
+Meador 2006), reported tree group densities 40 to 60 percent higher than 
+those reported in this study. While average group density was higher, 
+average tree density within groups assessed by Sanchez Meador (2006) (4.2 
+trees per group) was consistent with GMG-based treatment results and 49 
+percent higher than ERG-based treatment results. Sanchez Meador's 
+average maximum patch density (17.5) was more similar to GMG-based 
+results (20.5) than ERG-based results (8.8,) (Sanchez Meador 2006). Since 
+little is known about variation in presettlement tree group characteristics 
+within ponderosa pine forests of the Southwest, the similarities or differences 
+between the results of these studies mayor may not be coincidental. 
+54 
+
+Ecological Restoration and Goshawk Management Guidelines: Compatible 
+Forest Restoration Solutions? 
+Overcoming fundamental differences 
+A fundamental difference between the forest management approaches 
+assessed in this study is the means by which future forest structure patterns 
+at these sites will be regulated. Ecological restoration clearly promote use of 
+prescribed or natural fires as the primary means of regulating future tree 
+regeneration and forest spatial patterns because much evidence indicates 
+that interaction of surface fires with patches of young trees was responsible 
+for regulating presettlement spatial patterns in Southwest ponderosa pine 
+forests (Covington 2003). Conversely there is little evidence that fires 
+interacted dynamically with mature or old ponderosa pine trees to shape 
+presettlement forest structure patterns. 
+GMG-based forest management advocates consistent forest structure 
+regulation through the use of repeated man9gement thinning entries over 
+time. Harvesting large, old, fire-resistant trees over time is a tacit assumption 
+of these guidelines as they are applied over time. Since presettlement 
+surface fires did not interact dynamically with trees in these structural classes 
+there is no evolutionary or ecological basis for such a management approach. 
+Furthermore, as trees in smaller size classes will eventually grow into the 
+largest size classes over time, it is not a question of whether large old trees 
+will be cut using the GMGs, but more a question of when they will be cut. 
+55 
+
+The level of large diameter harvesting associated with GMG-based 
+forest approaches will depend, in large part, upon the rotation age employed 
+throughout the region and the method used to assess VSS class regulation 
+within Goshawk foraging areas. The former issue is essentially a question of 
+whether society is ready to harvest large, old trees, both now and in the 
+future. Unsustainable harvesting of large old trees in many portions of the 
+Southwest is often cited as one of the major causes of forest health declines 
+over the last century (Moore et al. 1999; Allen et al. 2002). While it is 
+impossible to rule out future harvesting of large, old trees, today this approach 
+may receive little public support given the relatively high ecological value and 
+low density of these trees across Southwest forest landscapes, not to mention 
+their social importance within the region. The latter issue, VSS class 
+regulation, is a technical one, and will require a realistic approach to 
+assessing and regulating VSS tree groupings throughout the region. 
+First, treatment implementation monitoring will be necessary to assess 
+tree aggregation patterns. Monitoring approaches must evolve to be able to 
+assess forest spatial patterns. Forest inventory approaches developed to 
+assess tree density and volume are not suitable for assessment of sub-stand 
+forest spatial patterns advocated by the GMGs. The mapping approach used 
+in this study was time consuming and expensive, and may not be practical for 
+forest treatment effectiveness monitoring purposes. A GIS based inventory 
+approach utilizing high resolution imagery or LlDAR data (Lo and Yeung 
+56 
+
+2002) may be both more efficient and practical for assessing the success of 
+silvicultural thinning treatment objectives. 
+Second, it will be difficult to regulate VSS groupings by area if trees are 
+not aggregated at the required spatial scales. Even with improved, spatially 
+explicit monitoring approaches, VSS group identification will always be a 
+challenge. VSS structural stage distinctions vary with elevation, aspect, 
+latitude and stand productivity. While many contemporary forests are 
+essentially even-aged, many also contain uneven-aged tree groups. Given 
+these challenges, agency budgetary limitations, and competing forest 
+management priorities, it may not be possible to accurately assess and 
+regulate VSS structures during a single management entry. 
+The approach used by Richard Reynolds in this study is a realistic first 
+step to implementing GMGs in contemporary southwestern forest lands that 
+often lack presettlement tree aggregation patterns. With initial treatments, 
+managers can focus on recreating site-specific aggregated tree spatial 
+patterns and densities before attempting to regulate VSS groups by area. 
+Stands treated with a GMG-based management approach may not be 
+reassessed for silvicultural treatments for many years, and during this time 
+forest structure may change due to wildland fire impacts or other factors. The 
+use of a similar approach may help managers to avoid "analysis paralysis" 
+associated with VSS class regulation, while slowly moving towards the 
+desired forest conditions described within the GMGs. 
+57 
+
+Finally, the realities of southwestern climate and regional USFS 
+management will ultimately determine the degree to which fire plays a role in 
+stand development within goshawk foraging areas. During this study, one of 
+six the assessed stands was allowed to burn in a lightning-ignited wildfire 
+under Wildland Fire Use guidelines (www.inciweb.org 2008). In landscapes 
+where fires are allowed to burn, the question shifts from whether these 
+management approaches are compatible with each other to whether these 
+management strategies are compatible with fire. This question was not 
+specifically assessed within this study, but it is clear that both approaches 
+reduced many forest attributes (e.g." canopy cover, canopy biomass, tree 
+density) associated with the threat of catastrophic crown fire (Peterson et al. 
+2005). In this regard, both approaches appear highly compatible. 
+If initial GMG-based silvicultural thinning treatments are applied in forests 
+similar to the ones described in this study, results can be expected to be 
+highly compatible with ERG-based objectives. Further, minimal modification 
+of ERG-based treatment methodology appears capable of producing forest 
+structural patterns with greater wildlife habitat values. While there is room for 
+refinement of the methodologies used in both approaches, both appear 
+capable of moving current forest structural conditions closer to presettlement 
+forest structure patterns. Perhaps more importantly, both silvicultural 
+approaches appear to result in forest structure conditions that are sustainable 
+within landscapes managed with either natural or management ignited fires. 
+58 
+
+Acknowledgements: 
+The authors would first like to thank District Ranger Tim Short and all staff of 
+the North Kaibab Ranger District of the Kaibab National Forest for supporting 
+these research efforts over the last three years. We would also like to thank 
+Richard Reynolds, Allison Cofer and crew, as well as Dennis Lund, Charlie 
+Denton, Dave Brewer and Michael Stoddard for generously donating days of 
+time and effort to mark trees for retention with each treatment prescription. 
+We also thank Andrew Sanchez Meador for his generous spatial statistical 
+advice and technical support. Finally, we would like to thank the enthusiastic 
+crew of ERI staff members and student research assistants for their tireless 
+efforts to document the over 7500 tree locations and attributes assessed in 
+this study. 
+59 
+
+Table 3.1: Sub-plot scale forest pattern definitions. 
+Group 
+Aggregated 
+Uniform 
+A sub-stand or plot patch consisting of two or more trees with interlocking crowns. 
+Indicates that at a certain scale (h), tree locations are significantly more aggregated 
+than what would be expected from 99 simulated random point patterns. 
+Indicates that at a certain scale (h), tree locations are significantly less aggregated 
+than what would be exoected from 99 simulated random ooint oatterns. 
+60 
+
+Table 3.2: Density, basal area and canopy cover estimates. All contemporary trees (ALL), resulting Ecological Restoration 
+Guidelines (ERG), and Goshawk Management Guidelines (GMG) and Presettlement Evidences (PREt). 
+Trees per Hectare 
+Basal Area (m2 ha-1) 
+Canopy Cover (%) 
+Plot 
+PRE 
+% Live 
+ALL 
+ERG 
+GMG 
+ALL 
+ERG 
+GMG 
+ALL 
+ERG 
+GMG 
+1 
+183.5 
+37 
+538.1 
+159.2 
+155.7 
+27.1 
+20.7 
+23.3 
+32.4 
+26.2 
+28.2 
+2 
+114.1 
+46 
+302.5 
+104.1 
+137.4 
+22.1 
+15.5 
+19.5 
+24.5 
+19.0 
+21.1 
+3 
+131.4 
+50 
+761.3 
+135.4 
+109.6 
+31 .8 
+18.8 
+23.6 
+40.0 
+27.5 
+27.1 
+4 
+176.1 
+34 
+794.0 
+163.2 
+176.6 
+29.4 
+18.3 
+22.6 
+39.1 
+25.9 
+29.5 
+5 
+122.5 
+58 
+398.7 
+100.7 
+153.7 
+34.8 
+16.1 
+21.1 
+42.3 
+20.9 
+24.1 
+6 
+122.5 
+43 
+368.0 
+131.9 
+144.8 
+30.1 
+18.4 
+20.6 
+35.5 
+23.6 
+23.1 
+Mean 
+141.7 
+44.7 
+527.1 
+132.4 
+146.3 
+29.2 
+18.0* 
+21.8* 
+35.6 
+23.9* 
+25.5* 
+Standard Error 
+12.3 
+3.7 
+85.3 
+10.8 
+9.1 
+1.8 
+0.8 
+0.7 
+2.7 
+1.3 
+1.3 
+t where applicable; * statistically significant difference at 95% level 
+61 
+
+Table 3.3: Tree densities (per hectare) resulting from each treatment within six diameter classes (classes correspond to 
+VSS diameter class cut-offs). Two-tailed paired t-test; alpha = .0083 with Bonferoni adjustment. 
+VSS 
+Diameter 
+Mean 
+Class 
+Range (em 
+at DBH) 
+ERG 
+GMG 
+1 
+0-4 
+9.7 
+5.3 
+2 
+4.1-16 
+18.5 
+8.0 
+3 
+16.1-32 
+27.9 
+34.4 
+4 
+32.1-46 
+26.3* 
+46.0* 
+5 
+46.1-62 
+34.0* 
+36.5* 
+6 
+62.1+ 
+16.0 
+16.0 
+* Statistically significant difference at 95% level 
+62 
+
+Table 3.4: Spatial distribution [L(t)-t] of presettlement forest remnants and residual trees following simulation of ERG and 
+GMG-based thinning treatments. Statistical significance at the 95% level is indicated by (+) for aggregated, (-) for uniform 
+patterns; R represents forest structure patterns that do not differ significantly from a random (Poisson) pattern. 
+Lag Distance (meters) 
+2 
+4 
+6 
+8 
+10 
+12 
+14 
+16 
+18 20 22 24 
+26 28 30 32 34 36 38 40 42 44 46 48 50 
+Plot 1 
+PRE 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+ERG 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+GMG 
+R 
++ 
++ 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+Plot 2 
+PRE 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+ERG 
+R 
+R 
++ 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+GMG 
+R 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+Plot 3 
+PRE 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+ERG 
+R 
+R 
+R 
+R 
+R 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+GMG 
+R 
+R 
++ 
++ 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+Plot 4 
+PRE 
+ERG 
+GMG 
+Plot 5 
++ 
+R 
+R 
++ 
++ 
++ 
++ 
++ 
+R 
++ 
+R 
+R 
+R 
+R 
+R 
++ 
++ 
++ 
+R 
+R 
+R 
+R 
+R· R 
+R 
+R 
+R R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R R 
+R 
+R 
+R R 
+R R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R R 
+R 
+R 
+R 
+R 
+R 
+R R 
+R R 
+PRE 
++ 
++ 
+R 
+R 
+R 
++ 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+ERG 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+R 
+R 
+R 
+R 
+R 
+R 
+GMG 
+R 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+Plot 6 
+PRE 
+ERG 
+GMG 
++ 
+R 
+R 
++ 
+R 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+R 
+R 
++ 
++ 
+R 
+R 
+R 
+R 
+R 
++ 
+R 
+R 
+R 
+R 
+R 
+R 
+63 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R R 
+R 
+R 
+R 
++ 
+R 
+R 
+R 
+R 
+R 
+R 
++ 
++ 
++ 
+
+Table 3.5: Observed post-treatment tree group characteristics: Total Groups and Group Densities (asterisks indicate 
+statistica"~ si~nificant differences at the 95% leveQ. 
+Plot Number 
+Descriptive 
+Statistics 
+1 
+2 
+3 
+4 
+5 
+6 
+Mean 
+SD 
+Single Trees 
+ALL 
+335 
+209 
+298 
+303 
+161 
+151 
+242.8 
+79.3 
+ERG 
+146 
+99 
+127 
+152 
+88 
+98 
+118.3* 
+27.1 
+GMG 
+83 
+57 
+50 
+73 
+51 
+45 
+59.8* 
+14.9 
+Total Groups 
+ALL 
+150 
+58 
+181 
+198 
+99 
+80 
+127.7 
+57.0 
+ERG 
+50 
+29 
+39 
+65 
+35 
+43 
+43.5 
+12.7 
+GMG 
+62 
+28 
+38 
+72 
+49 
+46 
+49.2 
+15.9 
+Groups with 5 or more trees 
+ALL 
+34 
+17 
+64 
+77 
+35 
+32 
+43.2 
+22.5 
+ERG 
+8 
+3 
+4 
+1 
+0 
+6 
+3.7 
+3.0 
+GMG 
+11 
+7 
+6 
+13 
+18 
+11 
+11.0 
+4.3 
+Groups with 10 or more trees 
+ALL 
+16 
+6 
+24 
+29 
+12 
+14 
+16.8 
+8.4 
+ERG 
+0 
+0 
+1 
+0 
+0 
+1 
+0.3* 
+0.5 
+GMG 
+2 
+4 
+2 
+2 
+5 
+5 
+3.3* 
+1.5 
+Mean Group Density 
+ALL 
+4.4 
+5.7 
+5.9 
+6.0 
+5.3 
+6.2 
+5.6 
+0.7 
+ERG 
+3.2 
+2.9 
+3.1 
+2.4 
+2.4 
+3.1 
+2.8* 
+0.4 
+GMG 
+3.3 
+6.4 
+3.6 
+3.4 
+4.6 
+4.1 
+4.2* 
+1.2 
+Max Group Density 
+ALL 
+35.0 
+49.0 
+37.0 
+50.0 
+32.0 
+43.0 
+41.0 
+7.5 
+ERG 
+9.0 
+7.0 
+16.0 
+6.0 
+4.0 
+11.0 
+8.8 
+4.3 
+GMG 
+11.0 
+48.0 
+16.0 
+13.0 
+18.0 
+17.0 
+20.5 
+13.7 
+64 
+
+Table 3.5 (continued): Observed post-treatment tree group characteristics: Groups Area and Tree Diameter Range 
+(asterisks indicate statistically significant differences at the 95% level 
+Plot Number 
+Descriptive 
+Statistics 
+1 
+2 
+3 
+4 
+5 
+6 
+Mean 
+SD 
+Mean Group Area (m2) 
+ALL 
+34.4 
+52.9 
+30.3 
+31.4 
+63.4 
+61.6 
+45.6 
+15.4 
+ERG 
+66.3 
+67.0 
+82.4 
+44.8 
+53.5 
+58.2 
+62.0 
+13.0 
+GMG 
+68.2 
+87.4 
+82.7 
+50.8 
+66.9 
+59.7 
+69.3 
+13.8 
+Max Group Area (m2) 
+ALL 
+254.3 
+587.2 
+400.3 
+411.8 
+381.1 
+343.6 
+396.4 
+109.4 
+ERG 
+221.6 
+160.9 
+373.3 
+138.6 
+153.2 
+168.0 
+202.6 
+88.3 
+GMG 
+242.3 
+587.2 
+359.7 
+197.4 
+193.5 
+228.3 
+301.4 
+152.5 
+Mean DBH Range within 
+groups 
+ALL 
+17.3 
+23.8 
+7.7 
+20.9 
+21.6 
+22.7 
+19.0 
+5.9 
+ERG 
+18.0 
+17.0 
+23.6 
+17.5 
+9.8 
+17.9 
+17.3 
+4.4 
+GMG 
+17.7 
+21.6 
+17.6 
+16.2 
+17.3 
+14.7 
+17.5 
+2.3 
+65 
+
+Grouping 
+Group: Tree crowns interlock 
+(i.e., tree crown buffers overlap) 
+I ····
+··'··"·',·· 
+.;;.,: .... 
+~{;::( 
+~~>~~ 
+h 
+Aggregation 
+1. Map tree locations 
+2. Compare to simulated 
+random patterns 
+3. Are there more or less 
+tree locations per h (lag 
+distance) class as compared 
+to a random pattern (left). 
+If more, the pattern is 
+No Group: Tree crowns do not interlock 
+--------=----
+aggregated; if less, uniform; 
+(i.e., tree crown buffers do not overlap) 
+if similar random. 
+Figure 3.1: Discerning Sub-Plot Scale Groups and Spatial Point Patterns. Tree groups are discerned by the 
+characteristics of individual trees (crown radius) comprising the group. Aggregation is determined by comparing the 
+relative density of n tree centers within multiple concentric plots of increasing radii (h) to the relative density of n 
+points generated by 99 simulated random point patterns within multiple concentric plots of increasing radii (h). 
+66 
+
+C-==::> VSS1 (10%) 
+~ 
+VSS2 (10%) 
+c:::> 0,04 hectare ~ 
+VSS3 (20%( 
+VSS4 (20%) 
+VSS5 (20%) 
+VSS6 (20%) [] 
+Non-forested 
+Interspaces 
+Figure 3.2: A hypothetical representation of Vegetation Structural Stage (VSS) group area targets and reserve 
+trees for an approximately 1.2 hectare area within a northern goshawk foraging area. 
+67 
+
+~ 
+ro 
+t5 
+(J) 
+8~----~~----~----~------~----------------~ 
+6 
+/\ Ii 
+t' \, , " 
+, " 
+, \ 
+V ' 
+I 
+4 
+..... 
+(J) 
+0-
+W 
+(J) 
+(J) 
+t= 
+2 
+VSS 1 
+o 
+VSS 2 
+VSS 3 
+VSS 4 
+VSS 5 
+VSS 6 
+o 
+8 
+16 
+24 
+32 
+40 
+48 
+56 
+64 
+72 
+80 
+88 
+96 
+Diameter at Breast Height (em) 
+~ 
+~ 
+Figure 3.3: Cumulative residual tree diameter distribution and Vegetation 
+Structural Stage (VSS) diameter class breaks for all six measured plots of 
+each treatment approach. GMG = Goshawk Management Guidelines for 
+Foraging Areas, ERG = Ecological Restoration Guidelines. 
+68 
+
+CHAPTER 4 
+Management Implications 
+Both ecological restoration (ERG) and goshawk management 
+guidelines (GMG)-based forest management approaches have the broad goal 
+of approximating presettlement forest spatial patterns through the use of 
+forest management activities. To this end, practitioners of both approaches 
+make use of presettlement forest remnant patterns (large old trees, snags 
+and downed trees) to inform site-specific thinning treatment prescriptions. 
+Use of these remnants to guide thinning processes has been described in 
+ERG literature (Moore et al. 1999), but practical application of these 
+guidelines is often complicated, and the efficacy of this approach in recreating 
+site specific presettlement remnant patterns has not been tested. Given the 
+ecological importance of forest spatial patterns, and the importance of specific 
+spatial patterns to future VSS group regulation within goshawk foraging areas 
+(Reynolds et al. 1992), it is important that forest spatial patterns resulting from 
+both thinning and burning treatments are monitored and evaluated. Spatially 
+explicit monitoring and assessment of forest spatial patterns is necessary to 
+understand the effects of management approaches and natural processes 
+that will ultimately shape future southwestern forests. 
+69 
+
+Using presettlement forest remnants to understand and create contemporary 
+forest spatial patterns. 
+Forest researchers and policy makers have advocated using 
+presettlement forest remnants to guide silvicultural thinning prescriptions 
+(Moore et al. 1999; Taylor 2004; Reynolds et al. 2006; Youtz et al. 2008). 
+These presettlement remnants or evidences are most commonly found within 
+forests in the form of old living trees and old, non-living stumps, snags and 
+downed trees. Non-living presettlement forest remnants often persist in 
+ponderosa pine forests due to extremely slow rates endemic to the 
+southwestern region. Locations of these remnants can be used to both 
+inform and guide spatial pattern generation of forest restoration thinning 
+projects (Covington and Moore 1994; Covington et al. 1999). 
+Despite widespread agreement among forest managers and 
+researchers regarding the ecological importance of restoring presettlement 
+spatial patterns, specific methods for using these structures in silvicultural 
+thinning treatments either have not been thoroughly assessed for their 
+efficacy in recreating presettlement patterns or remain unstated in technical 
+terms (Reynolds et aJ. 2006; Youtz et aJ. 2008). 
+Three Approaches for Restoring Spatial Pattern 
+Three general methods exist for using site-specific presettlement forest 
+evidence to guide forest spatial pattern generation in silvicultural thinning 
+projects. The first involves a pretreatment assessment of presettlement 
+remnant patterns and the latter two involve utilizing the locations of 
+70 
+
+presettlement evidences during the tree marking (typically "leave-tree" 
+marking) process: 
+1.) Assessment of presettlement forest structure patterns before treatment 
+prescriptions are developed. 
+General forest spatial structure information such as tree aggregation 
+patterns and tree group (Le., groups of trees with interlocking crowns) sizes 
+can be obtained through pre-treatment assessments. This information should 
+be included in the development of site-specific silvicultural thinning 
+prescriptions when restoration of presettlement spatial patterns is a project 
+goal. This information can be used to assess the effectiveness of thinning 
+treatments in recreating site specific spatial patterns. This approach requires 
+substantial investment in pre-treatment presettlement spatial pattern 
+assessment and analysis, and may be an expensive option not suitable for 
+small "project-scale" thinning treatments. 
+2.) Individual tree-scale presettlement evidence replacement. 
+This approach uses the location, density and species composition of 
+presettlement evidences to guide selection of trees for retention during 
+ecological restoration marking activities (Figure 4.1). Such an approach has 
+been widely researched and promoted at Northern Arizona University's 
+Ecological Restoration Institute (Covington et al. 1994; Fule etal. 2004). 
+Typically all trees having old age characteristics, regardless of size, are 
+retained. An additional 1.5 to 3 healthy trees that have established after 
+71 
+
+settlement (settlement dates range from 1870s to after 1900 in some areas) 
+are retained as close as possible to every non-living presettlement evidence 
+(e.g., stumps, snags, dead and down trees) encountered during the tree 
+marking phase of restoration activities. The goal of this approach is to 
+recreate not only the spatial aggregation patterns (Le., tree group sizes and 
+patterns), but to also retain tree groups as near as possible to the location of 
+presettlement evidence groups. 
+3.) Patch-scale presettiement evidence replacement 
+This approach is similar to individual tree-scale replacement described 
+above, but differs in the scale at which presettlement evidences are replaced 
+by post-settlement trees (Figure 4.1). Using patch-scale replacement, all old 
+age trees are retained, but contemporary live tree patches are retained for 
+every presettlement remnant patch. Using this approach, special effort is 
+taken to select patches of similar size, density.and aggregation patterns to 
+non-living presettlement remnant patches. This approach is used by 
+practitioners of Goshawk Management Guidelines (Richard Reynolds, 
+personal communication). Key differences between this approach and 
+individual tree replacement approach are: Patches are the unit of replacement 
+versus individual trees, and the location of the retained post-settlement tree 
+patches relative to presettlement remnant patch locations is not maintained. 
+72 
+
+Each of these three methods has utility for recreating and assessing 
+presettlement forest spatial patterns. An understanding of site specific spatial 
+patterns is useful to those designing site-specific, presettlement reference 
+condition-based silvicultural thinning treatments. If management for local 
+presettlement spatial patterns is a project objective, knowing the spatial 
+pattern parameters will inform both the selection of activities needed to 
+accomplish this objective and whether or not spatial pattern objectives have 
+been accomplished. Ideally, spatial pattern information would be collected for 
+every intensive thinning project to aid in development of local prescriptions. In 
+practice, there is unlikely to be time or funds available for this purpose. In 
+such situations, managers must rely on spatial pattern assessment and 
+recreation techniques during the tree marking phase of forest thinning 
+treatments. 
+An individual tree-scale presettlement evidence replacement approach 
+is useful in situations where live post-settlement-replacement trees are 
+located within a short distance of non-living presettlement evidences within 
+the stand (Figure 4.2c). This method can also be applied where presettlement 
+evidences such as cut-stumps or downed trees exist within or among old, 
+living trees (Figure 4.2b). 
+In forests where aggregated non-living presettlement evidence patches are 
+located a long distance from live post-settlement replacement trees (Figure 
+4.2a) a patch-scale replacement method may be a more useful approach for 
+replicating presettlement evidence patterns. The ratio of presettlement 
+73 
+
+evidences to replacement trees can be used to guide the density of trees per 
+replacement patch (i.e., using a 1:1.5 replacement ratio a presettlement-- - .' ---
+evidence patch containing four stumps would yield a post-settlement 
+replacement patch containing six trees). 
+The final location of aggregated tree patches relative to presettlement 
+evidences is an attribute that will be determined from contemporary forest 
+structure locations. If it is possible to retain aggregated tree patches near 
+presettlement evidences an attempt should be made to do so, as the 
+locations of presettlement forest remnants provide evidence that these areas 
+were once forested in the past. Most importantly, both approaches should 
+attempt to create post-settlement tree replacement patches of similar fine-
+scale spatial characteristics to presettlement evidences. Tree aggregation at 
+scales less than 0.12 hectares is associated with small mammal and avian 
+habitat suitability (Reynolds et al. 1992), and is a consistent pattern seen in 
+several studies of presettlement ponderosa pine forest spatial patterns 
+(Cooper 1960; White 1985; Sanchez Meador 2006; Tuten this volume). 
+Forest spatial patterns and GMG-based forest structure regulation. 
+Forest spatial patterns created through thinning treatments are 
+permanent, and' affect the ability of future managers to regulate forest 
+structural development classes. Recreation of these patterns is an integral 
+objective of both ERG and GMG-based forest restoration treatments 
+(Reynolds et al. 1992, Moore et al. 1999). ERG-based, stand-scale tree 
+74 
+
+diameter distributions are typically unregulated and future stand structure 
+regulation will be accomplished through the use of fire. Inability to meet exact 
+spatial pattern objectives using ERGs may have ecological ramifications, but 
+this inability does not limit the ability to meet future stand management 
+objectives. This is not necessarily true when implementing initial GMG-based 
+thinning treatments. 
+Contemporary forest conditions amplify the importance of creating 
+specific forest spatial patterns during initial GMG-based forest management 
+. entries. Throughout much of the Southwest, forests are essentially even-
+aged or two-aged, dominated by trees in VSS classes 3 and 4 due to 20th 
+century land management practices (Allen et al. 2002; Reynolds et al. 2006). 
+In order for future GMG-based VSS regulation to occur, it is essential that 
+managers create distinct aggregated VSS group spatial patterns. If these 
+patterns are not created during initial thinning treatments, it will be difficult, if 
+not impossible, to regulate VSS 3 and 4 groups relative to younger VSS 
+classes currently absent from the landscape in the future. 
+Influence of fire upon forest spatial patterns 
+It is especially important to monitor the effects of prescribed and 
+naturally ignited wildfires upon contemporary forest patterns. Advocates of 
+ERG-based forest management or, "natural process restoration," assume that 
+contemporary fires are capable of maintaining future forest spatial patterns 
+75 
+
+similar to presettlement spatial patterns. Currently_little long-term evidence 
+exists to support this assertion. 
+- .- - -
+Presettlement fires typically burned in continuous abundant grassy 
+fuels. Currently, much of the landscape once occupied by these fuels is 
+dominated by pine litter and dissected by roads or other artificial firebreaks. 
+Today, in many areas where grasses are present, much of this fuel is 
+consumed annually through livestock grazing. Furthermore, presettlement 
+fires often burned during windy hot, and dry conditions; a suite of conditions 
+generally incompatible with practical contemporary fire management. 
+Historical fires were likely capable of inducing a greater amount of tree 
+mortality than contemporary fires. If severity differences between 
+contemporary and presettlement fires are large, contemporary fires may be 
+incapable of maintaining forest spatial patterns in a manner similar to that of 
+presettlement fires. Therefore, it is essential to monitor effects of 
+contemporary fires upon forest density and spatial. patterns. Spatially explicit 
+monitoring following fires will allow mangers to understand the long-term 
+effects of fire on forest spatial pattern maintenance. This knowledge will be 
+useful to both practitioners of ERG or GMG-based management approaches. 
+Fires, either naturally or management ignited, are likely to burn within 
+managed forests over time, affecting both the spatial pattern and density of 
+tree regeneration and the future mature forests. 
+76 
+
+Spatial pattern assessment approaches 
+Unfortunately, typical forest treatment monitoring techniques are not 
+capable of assessing spatial patterns. Also, most forest treatment monitoring 
+techniques are not spatially explicit. Tree location information typically is not 
+recorded together with tree attribute information (condition, diameter, height, 
+etc ... ). Tree attribute information is sampled within management areas at 
+several systematically or randomly placed plots. This approach is suitable for 
+assessing average stand-scale tree attributes (e.g., tree density, basal area, 
+canopy cover, etc ... ), but sampling tree information in this manner makes 
+spatial pattern assessment inherently unreliable, if not impossible. 
+Compounding this problem is the reality that tree attribute information is 
+collected within variable or fixed-radius plots equal to or smaller in area than 
+the scale of tree aggregation or tree groups (Avery and Burkhardt 1983). 
+Even if spatially explicit tree attribute data were to be collected within these 
+plots, the often systematic or random spacing af these plots and the small 
+size of the plot would limit the ability to assess patterns that typically exist at 
+scales often coarser than the plot-scale (Cooper 1960; White 1985; Sanchez 
+Meador 2006). 
+Since management of sub-stand scale spatial patterns is a 
+management objective, these patterns should be monitored and assessed 
+using appropriate methods and experimental designs. Field surveys using 
+planar mapping techniques are capable of capturing spatially explicit tree 
+attribute data, but such approaches are likely too expensive and time 
+77 
+
+consuming to be used in a treatment effectiveness monitoring scenario. Even 
+if time and money were available, data collected using this approach would 
+be inherently discontinuous, since mapping entire forested landscapes would 
+likely be impossible. 
+Treatment monitoring approaches must evolve to be able to assess 
+forest spatial pattern objectives. Geographic information systems (GIS) and 
+remote sensing technology promise a technological solution to this monitoring 
+shortfall. A GIS-based inventory approach utilizing high resolution imagery 
+(Quickbird™), LlDAR or other remotely sensed continuous data may be a 
+more efficient and practical approach for assessing the success of silvicultural 
+thinning treatment spatial pattern objectives (Lo and Yeung 2002). In the 
+near future, it is likely that spatially explicit, GIS-based approaches will gain 
+importance in monitoring the ecological and future management implications 
+of contemporary forest thinning and burning treatments. 
+78 
+
+Figure 4.1: Individual tree-scale presettlement evidence replacement versus 
+tree patch-scale presettlement evidence replacement. Individual tree-scale 
+replacement (left) and patch:.scale replacement (right). A 1: 1.5 presettlement 
+evidence to post-settlement tree replacement ratio was used in this example. 
+79 
+
+Figure 4.2: Presettlement forest evidence paUerns (cut stumps and 
+presettlement-era living trees) relative to contemporary forest structure. A) 
+Stumps present within an intact forest opening a large distance from 
+contemporary replacement trees; patch-scale replacement can be used to 
+restore cut stump patterns using replacement trees from the forested areas 
+surrounding the opening. 8) Stumps are present within an existing 
+presettlement era tree group; individual tree replacement can be used to 
+replace these stumps. C) Nearby post-settlement trees in photo can be used 
+to replace the cut stumps using individual tree replacement. 
+80 
+
+CHAPTERS 
+Conclusion 
+Some inherent differences exist between ecological restoration 
+guidelines anq goshawk management guidelines-based forest management. 
+An ERG approach is grounded in the idea that thinning actJvities should be 
+used to create forest conditions where natural processes such as low to 
+moderate intensity surface fires can be reintroduced to stimulate future forest 
+pattern generation and other ecological functions. A GMG-based approach 
+uses.thinning to promote specific forest structural patterns that also allow the 
+reintroduction of fire, but also create specific habitats for the prey base of the 
+northern. goshawk. Most importantly a GMG-based approach attempts to 
+meet these first two objectives while attempting to provide a framework for 
+sustainable management of economically valuable renewable forest 
+resources. 
+Fire management in southwestern national forests is here to stay. 
+Given the current trend of increasing fire use and agreement on the 
+ecological benefits of fire, it is unlikely that future southwestern National 
+Forest policy will restrict the use of fire in favor of purely silvicultural thinning 
+approaches. Southwestern forest landscapes are simply too extensive, fir~­
+prone and fire adapted to avoid the use of fire as a forest management tool in 
+the future. 
+Ecological restorationists advocate using thinning to promote forest 
+conditions amenable to the reintroduction of natural processes such as fire. It 
+81 
+
+is also reasonable to assume that restorationists would advocate the use of 
+thinning to regulate tree regeneration to promote locally appropriate spatial 
+patterns if contemporary fires are proven unable to accomplish this goal. 
+ERGs advocate thinning small diameter trees because scientific evidence 
+indicates that natural processes (Le., surface fires) endemic to southwestern 
+forests regulated the structure of trees within these size classes and little 
+evidence that such processes regulated the structure of trees in the largest 
+size classes. 
+GMGs share many ecological objectives with ERG-based 
+management approaches. This study indicates that the results of initial ERG 
+and GMG-based thinning treatments differ significantly, but that absolute 
+differences between these treatments are quite small and do not appear to 
+prohibit use of ERG-based treatments within goshawk post-fledgling and 
+foraging areas. While the importance of fire as a management tool is not 
+highlighted within GMGs, use of fire within goshawk foraging areas is likely to 
+become more prevalent in the future. 
+GMG-based forest management should be seen as a first-step toward 
+accomplishing the lofty goal of ecosystem management in southwestern 
+national forests. GMGs go one step further than ERG-based forest 
+management in attempting to integrate both ecological and economic 
+management objectives, recognizing and planning for harvesting needed 
+renewable forest resources. Harvesting large old trees is often an anathema 
+to restorationists, as these trees are both ecologically important and rare 
+82 
+
+across southwestern landscapes. In the future, such trees may be more 
+common and political and economic conditions may promote the harvesting of 
+these trees. Successful and sustainable southwestern ponderosa pine 
+forests management approaches in the future will undoubtedly require 
+integration of both ecological and economic considerations. 
+83 
+
+LITERATURE CITED 
+Abella, S.R., Fule, P.Z., and Covington, W.W.2006. Diameter Capsfor-'~- --- . __ 0 
+_
+___ _
+_
+_ 
+-
+Thinning Southwestern Ponderosa Pine Forests: Viewpoints, Effects, and 
+Tradeoffs. Journal of Forestry. 104,407-414. 
+Agee, J. K. 1998. The Landscape Ecology of Western Forest 
+Fire Regimes. Northwest Science. 72, 24-34. 
+Allen, C. D., Savage, M., Falk, D. A., Suckling, K. F., Swetnam, I. W., 
+Schulke, T., Stacey, P. 8., Morgan, P., Hoffman, M., Klingel, J. I. 2002. 
+Ecological Restoration of Southwestern Ponderosa Pine Ecosystems: A 
+Broad Perspective. Ecological Applications. 12 (5),1418-1433. 
+Arno, S. F. 1996. The Seminal Importance of Fire in Ecosystem Management: 
+Impetus for this Publication. The Use of Fire in Forest Restoration. INT-GTR-
+341. 
+Avery, I. E., and Burkhardt, H. E. 1983. Forest Measurements. McGraw-Hili 
+Book Company, New York, New York. 
+Besag, L. 1977. Contributions to the Discussion of Dr. Ripley's Paper. Journal 
+of the Royal Statistic Society, Series B. 39: 193-195. 
+Biswell, H. H., Kallander, H. R.; Komarek, R., and others. 1973. Ponderosa 
+Fire Management. Misc. Publ. NO.2. Tallahassee, FL: Tall Timbers Research 
+Station. 49 p. 
+Bradley, A. F.; Noste, N. V.; Fischer, W. C. 1992:' Fire Ecology of Forests and 
+Woodlands in Utah. Gen. Tech. Rep. INT-287. Ogden, UT: U.S. Department 
+of Agriculture, Forest Service, Intermountain Research Station. 128 p. 
+Breece, C.R., Kolb, I.E., Dickson, B.G. , McMillin, J.D. and Clancy K.M. 
+2007. Prescribed Fire Effects on Bark Beetle Activity and Tree Mortality in 
+Southwestern Ponderosa Pine Forests. Forest Ecology and Management. 
+255, 119-128. 
+Boots, N.B. & Getis, A. (Eds.). 1988. Point Pattern Analysis. Sage 
+Publications, New York, NY. 
+Boyden, S., Binkley, D. and Shepperd, W. 2005. Spatial and Temporal 
+Patterns in Structure, Regeneration, and Mortality of an Old-growth 
+Ponderosa Pine Forest in the Colorado Front Range. Forest Ecology and 
+Management. 219, 43-55. 
+84 
+
+Cooper, C.F. 1960. Changes in Vegetation, Structure and Growth of 
+Southwestern Pine Forests Since White Settlement. Ecological Monographs. 
+30, 129-164. 
+~-~~--
+Cooper, C.F. 1961 . Pattern in Ponderosa Pine Forests. Ecology. 42, 493-499. 
+Covington, W.W. and Moore, M.M. 1994. Southwestern Ponderosa Forest 
+Structure: Changes Since Euro-American Settlement. Journal of Forestry. 92, 
+39-47. 
+Covington, W.W. 2003. The Evolutionary and Presettlement Context. In: 
+Friederici. P. (ed.), Ecological Restoration of Southwestern Ponderosa Pine 
+Forests. Island Press, Washington. pp. 26-47. 
+Covington, W.W., Fule, p.z., Moore, M.M., Smith, H.B. Waltz, A.E.M. and 
+Heinlein, T.A. 1999. Ecological Restoration Marking Guidelines for Ponderosa 
+Pine Restoration Areas. Northern Arizona University. 
+Crocker-Bedford, D. C. 1990. Goshawk Reproduction and Forest 
+Management. Wildlife Society Bulletin. 18, 262-269. 
+Dombeck, M. P., Williams, J. E., and C. A. Wood. 2004. Wildfire Policy and 
+Public Lands: Integrating Scientific Understanding with Social Concerns 
+Across Landscapes. Conservation Biology. 18,883-889. 
+Ehrenfeld J. G. 2000. Defining the Limits of Restoration: The Need for 
+Realistic Goals. Restoration Ecology. 8 (1), 2-9. 
+Falk, D. A. 2006. Process-centred Restoration.in a Fire-adapted Ponderosa 
+Pine Forest. Journal for Nature Conservation. 14, 140-151. 
+Fule, P.l., M.M. Moore, and W.W. Covington. 1997. Determining Reference 
+Conditions for Ecosystem Management in Southwestern Ponderosa Pine 
+Forests. Ecological Applications. 7 (3), 895-908. 
+Fule, p.z., A.E.M.Waltz, W.W. Covington, and T.A. Heinlein. 2001 . 
+Measuring Forest Restoration Effectiveness in Hazardous Fuels Reduction. 
+Journal of Forestry. 99 (11), 24-29. 
+Fule, P.l., Covington W. W., Moore M.M., Heinlein T.A. ,and Waltz, A. E. M. 
+2002. Natural Variability in Forests of Grand Canyon, USA. Journal of 
+Biogeography. 29, 31-47. 
+-
+Fule, P.l., Heinlein, T.A.,Covington, W.W., and Moore, M.M. 2003. Assessing 
+Fire Regimes on Grand Canyon Landscapes with Fire Scar and Fire Record 
+Data. International Journal of Wildland Fire. 12 (2),129-145. 
+85 
+
+Grieg-Smith, P. 1952. The Use of Random and Contiguous Quadrats in the 
+Study of the Structure of Plant Communities. Ann. Bot. 16,293-316. 
+Griffis K. L., Crawford, J. A., Wagner, M.R., and Moir, W. H. 2001. Understory 
+Response to Management Treatments in Northern Arizona Ponderosa Pine 
+Forests. Forest Ecology and Management. 146 (1-3), 239~245. 
+Grulke, N. E. and Retzlaff, W.A. 2001. Changes in Physiological Attributes of 
+Ponderosa Pine from Seedling to Mature Tree. Tree Physiology. 21 (5), 275-
+286. 
+Grumbine, E.R. 1994. What Is Ecosystem Management? Conservation 
+Biology. 8 (1), 27-38. 
+Heidmann, L. J.1988. Regeneration Strategies for Ponderosa Pine. In: 
+Baumgartner, D. M., Lotan, J. E. (eds.), Ponderosa pine: The species and its 
+management: Symposium proceedings. Spokane, WA. Pullman, WA: 
+Washington State University, Cooperative Extension, pp. 227-233. 
+Harrod, R. J., McRae, B. H., and Hartl, W. E. 1999. Presettlement Stand 
+Reconstruction in Ponderosa Pine Forests to Guide Silvicultural Prescriptions. 
+Forest Ecology and Management. 114 (2-3), 433-446. 
+Heinlein, T.A., Covington, W.W., Fule, P.Z., Moore, M.M. and Smith, H.B. 
+2002. Development of Ecological Restoration Experiments in Fire Adapted 
+Forests at Grand Canyon National Park. Rocky Mountain Research Station 
+Proceedings. 15 (5), 249-254. 
+Heyerdahl, E. K., Brubaker, L. B., Agee., J. K. 2001. Spatial Controls of 
+Presettlement Fire Regimes: A Multiscale Example from the Interior West, 
+USA. Ecology. 82 (3), 660-678. 
+Inciweb Incident Information System www.iniciweb.org. September 15, 2008. 
+Jones, J.R. 1967. Regeneration of Mixed Conifer Clearcuttings on the Apache 
+National Forest, Arizona. Res. Note RM-79. Fort Collins, CO: U.S. 
+Department of Agriculture, Forest Service, Rocky Mountain Forest and Range 
+Experiment Station. 8 p. 
+Kennedy, P.L. 2003. Northern Goshawk (Accipiter gentilis atricapil/us): A 
+Technical Conservation Assessment. USDA Fo~est Service, Rocky Mountain 
+Region. 
+86 
+
+Larson, M. M. 1961. Seed Size, Germination Dates, and Survival 
+Relationships of Ponderosa Pine in the Southwest. Research Note No. 66. 
+Fort Collins, CO: U.S. Department of Agriculture, Forest Service, Rocky 
+Mountain Forest and Range Experiment Station. 4 p. 
+Long, J.N. and Smith, F.W. 2000. Restructuring the Forest: Goshawks and 
+the Restoration of Southwestern Ponderosa Pine. Journal of Forestry. 98 (8), 
+25-30. 
+Lo, C. P. and Yeung, A. K. W. 2002. Concepts and Techniques of Geographic 
+Information Systems. Prentice Hall, NJ. pp. 50, 270-273. 
+Mast, J.N., P.z. Fule, M.M. Moore, W.W. Covington, and A. Waltz. 1999. 
+Restoration of presettlement age structure of an Arizona ponderosa pine 
+forest. Ecological Applications 9 (1), 228-239. 
+Merkle, J. 1962. Plant Communities of the Grand Canyon Area, Arizona. 
+Ecology. 43 (4), 698-711. 
+Moir, W. H., Dieterich, J. H. 1988. Old-growth ponderosa pine from 
+succession in pine-bunchgrass forests in Arizona and New Mexico. Natural 
+Areas Journal. 8(1),17-24. 
+Moore, M. M., Covington, W. W. and Fule, P. Z. 1999. Reference Conditions 
+and Ecological Restoration: A Southwestern Ponderosa Pine Perspective. 
+Ecological Applications. 9,1266-1277. 
+Moore, M.M., Huffman, D.W., Fule, P.Z., Covington, W. W., and Crouse, J.E. 
+2004. Comparison of Presettlement and Contemporary Forest Structure and 
+Composition on Permanent Plots in Southwestern Ponderosa Pine Forests. 
+Forest Science. 50 (2),162-176. 
+Oliver, C.D. and Larson, B.C. 1996. Forest Stand Dynamics, John Wiley & 
+Sons, New York. 520 pp. 
+Patton, D.R. 1984. A Model to Evaluate Abert Squirrel Habitat in Uneven-
+aged Ponderosa Pine. Wildlife Society Bu"etin. 12: 408-414. 
+Peck, J. 2000. Seeing the Forest Through the Eyes of a Hawk: An Evaluation 
+of Recent Efforts to Protect Northern Goshawk Populations in Southwestern 
+Forests. Natural Resources Journal. 40, 125-156. 
+87 
+
+Pearson, G.A. 1942. Herbaceous Vegetation as a Factor in Natural 
+Regeneration of Ponderosa Pine in the Southwest. Ecological Monographs. 
+12, 316-338.
+~-
+-~-
+Peterson, D.L., Johnson M.C., Agee, J.K., Jain, T.B., McKenzie, D. and 
+Reinhardt, E.D. 2005. Forest Structure and Fire Hazard in Dry Forests of the 
+Western United States. General Technical Report PNW-GTR-628. USDA 
+Forest Service, Pacific Northwest Research Station. Portland, OR 
+Rasmussen, D. I. 1941. Biotic Communities of Kaibab Plateau. 
+Arizona Ecological Monographs. 11, 229-275. 
+Reynolds, R T., Graham, R, Reiser, M., Hildegard, M., and others. 1992. 
+Management Recommendations for the Northern Goshawk in the 
+Southwestern United States. General Technical Report RM-217. USDA 
+Forest Service, Rocky Mountain Forest and Range Experiment Station, Fort 
+Collins, CO. 
+Reynolds, R, Graham, R, Youtz, J. and others. 2006. Northern Goshawk 
+Workshop, USDA Forest Service Southwestern Region. Albuquerque, NM, 31 
+October -1 November 2006. 
+Reynolds, RT., Graham, RT., and Boyce, D.A. 2006. An Ecosystem-based 
+Conservation Strategy for the Northern Goshawk. Studies in Avian Biology. 
+31, 299-311. 
+Ripley, B.D. 1976. The Secon9-order Analysis of Stationary Point Processes. 
+Journal of Applied Probability. 13, 255-266. 
+Ripley, B. D. 1977. Modelling Spatial Patterns. Journal of the Royal Statistical 
+Society, Series B. 39, 172-212. 
+Ripley, B.D. 1981 . Spatial statistics. Wiley Press, New York, NY, US. 
+Sackett, S.S., Haase, S.M., and Harrington, M.G. 1995. Lessons Learned 
+from Fire Use for Restoring Southwestern Ponderosa Pine ecosystems. In: 
+Conference on Adaptive Ecosystem Restoration and Management: 
+Restoration of Cordilleran Conifer Landscapes of North America, Flagstaff, 
+Arizona. 6-8 June 1995. Technical Coordinators: W.W. Covington and P.K. 
+Wagner. USDA Forest Service GTR-RM-278, pp. 54-61. 
+Sanchez Meador, A.J. 2006. Modeling Spatial and Temporal Changes of 
+Ponderosa Pine Forests In Northern Arizona Since Euro-American 
+Settlement. Dissertation, School of Forestry, Northern Arizona University. 
+88 
+
+Sanchez Meador, AJ., Moore, M.M., Bakker,J.D.,Parysow, P.F. 2008. 108 
+Years Of Change In Spatial Pattern Following Selective Harvest Of A Pinus 
+Ponderosa Stand In Northern Arizona, USA. Journal of Vegetation Science. 
+20, 1-12. 
+Society for Ecological Restoration International Science & Policy Working 
+Group. 2004. The SER International Primer on Ecological Restoration. 
+Tucson: Society for Ecological Restoration International. 
+Swetnam, TW., Allen, C.D., and Betancourt, J.L. 1999. Applied 
+Presettlement Ecology: Using the Past to Manage for the Future. Ecological 
+Applications. 9, 1189-1206. 
+Taylor, A H. 2004. Identifying Forest Reference Conditions on Early Cut-
+Over Lands, Lake Tahoe Basin, USA Ecological Applications. 14 (6), 1903-
+1920. 
+Thomas, J. W. 1979. Wildlife Habitats in Managed Forests the Blue 
+Mountains of Oregon and Washington Agriculture Handbook No. 553. U.S. 
+Department of Agriculture, Forest Service. 512 p. 
+Turner, M. G., Pearson, S. M., Romme, W. H., and Wallace, L. H. 1997. 
+Landscape Heterogeneity and Ungulate Dynamics: What Spatial Scales are 
+Important? In: Bissonette, J. A (ed.), Wildlife and Landscape Ecology: Effects 
+of Pattern and Scale. Annual Meeting of the Wildlife Society. Portland, 
+Oregon. pp. 331-338. 
+Upton, G. & Fingleton, B. 1985. Spatial Data Analysis by Example: Point 
+Pattern and Quantitative Data. Wiley and Sons, NY, US. 
+U.S. Department of Agriculture Forest Service Southwestern Region. 1991. 
+Terrestrial Ecosystem Survey of the Kaibab National Forest. 
+United States Department of Agriculture Forest Service. 1992. Ecosystem 
+management of the National Forests and Grasslands. Memorandum 1330- 1. 
+USDA Forest Service, Washington, D.C. 
+United States Department of Agriculture Forest Service, 
+Southwestern Region. 1996. Record of Decision for Amendment of Forest 
+Plans Arizona and New Mexico. 
+Waltz, A.E.M., Fule, P.Z., Covington, W.W. and M.M. Moore. 2003. Diversity 
+in Ponderosa Pine Forest Structure Following Ecological Restoration 
+Treatments. Forest Science. 49 (6), 885-900. 
+89 
+
+Weaver, H. 1943. Fire as an Ecological and Silvicultural Factor in the 
+Ponderosa-pine Region of the Pacific Slope. Journal of Forestry. 41 (1), 7-15. 
+Weaver, H. 1951. Fire as an Ecological Factor in the Southwestern 
+Ponderosa Pine Forests. Journal of Forestry 49,93-98. 
+West, N. E. 1969. Tree Patterns in Central Oregon Ponderosa Pine Forests. 
+American Midland Naturalist. 81 (2),584-590. 
+White, A.S. 1985. Presettlement Regeneration Patterns in a Southwestern 
+Ponderosa Pine Stand. Ecology. 66, 589-594. 
+White, M. A. and Vankat, J.L. 1993. Middle and High Elevation 
+Coniferous Forest Communities of the North Rim Region of · 
+Grand Canyon National Park, Arizona, USA. Vegetatio. 109, 161-174. 
+Wong, D. and lee, J. 2005. Statistical Analysis of Geographic Information. 
+Hoboken, New Jersey: John Wiley and Sons, Inc. 
+Wright, H. A. and Bailey, A. W. 1982. Fire Ecology: United States and 
+Southern Canada. New York: John Wiley & Sons. 501 p. 
+Youtz, J. 2006. Implementation Strategies for Forest Vegetation 
+Management. Presentation. 2006 Northern Goshawk Workshop, USDA 
+Forest Service Southwestern Region. Albuquerque, NM, 31 October31 -
+November 1, 2006. 
+Youtz, J. A., Graham, R. T., Reynolds, R. T.; Simon, J. 2008. Implementing 
+northern goshawk habitat management in South,western forests: A template 
+for restoring fire-adapted forest ecosystems. In: Integrated restoration of 
+forested ecosystems to achieve multiresource benefits: Proceedings of the 
+2007 national silviculture workshop. Gen. Tech. Rep. PNW-GTR-733. 
+Portland, OR: U.S. Department of Agriculture, Forest Service, Pacific 
+Northwest Research Station. p. 173-191. 
+Youngblood, A., Max, T. and Coe, K. 2004. Stand Structure in Eastside Old-
+growth Ponderosa Pine Forests of Oregon and Northern California. Forest 
+Ecology and Management. 199 (2-3), 191-217. 
+Zwolinski, M. J. 1996. Effects of fire on montane forest ecosystems. In: 
+Ffolli ott , P. F., DeBano, L. F., Baker, M., B., Jrtech. coords. Effects of Fire on 
+Madrean Province ecosystems: a symposium proceedings; 1996 March 11-
+15; Tucson, AZ. Gen. Tech. Rep. RM-GTR-289. Fort Collins, CO: U.S. 
+Department of Agriculture, Forest Service, Rocky Mountain Forest and Range 
+Experiment Station: pp. 55-63. 
+90 
+
+APPENDIX: Additional Figures 
+Plot 1 
+A 
+B 
+.::\~ 
+' ~'. ' Ifl 
+" 
+~, •• 'I. 
+l::5~~·;:.~\~~). 
+(,. -, 
+Plot 2 
+\;; ' 
+,~, 
+'; '" 
+~ .•. 
+f.:. ,,(;'.: .::. ~ :~. :~ ~. " ,,'. 
+(; 
+'-' 
+i ~·./' .,', '; r-
+I . 
+~ :. 
+; ';';-'.' 
+~~, . , .. 
+:?t:,~,~" ·i;.' 
+,;:,~ I~::;::; :,~.:~~/: ';" {;'. 
+9" "; 
+: ::~~. 
+". -~ .. ~) 
+~ . )'~/ . 
+.' .~ 
+',:"; 
+.t") 
+,. 
+\ 2 
+.:1..':., 
+<~·:~lf." \ 
+,.: ....... 
+\)(. " / ;.' 
+:':/:) " ~;. 
+~' \: ~!~~0 
+r. ..... 
+(l:. 
+.f ,,· 
+. . 
+~ 
+, •• ~~~ ..... ,'.'J 
+;~.) ::. -: 
+' ! 
+. ~ , 
+iii 
+, 
+;t 
+) 
+:. ' '. ',. ~~,t 'i:0~ j /' 
+(;. 
+....... 
+,. 
+~.' ',: :':1' (.~ . 
+' . .oJ 
+\1~" 
+. ,' . 
+~ .. ",; 
+. 
+. 
+~',: .. 
+'~~.~ 
+.... 
+-""/ 
+( ! W, 
+,:~." , 
+i
+'" 
+i · 
+"', 
+. :," 
+:',;'1 ' 
+; . 
+'.', 
+!"'. 
+,-' ...... ; 
+i, ' 
+~ ' .~) 
+\ 0 , 
+. ~. ~ .. 
+c 
+{.'.:. 
+.<.) 
+'..1\ 
+" 
+(,:! '., ~, '\:; ,' ;:,., 
+~~ ~/. . 
+,,: ' 1 
+fi:';.;:: 
+c.:~: 
+,x-.J::D 
+~~.' '. 
+~ 
+,., 
+. ' 
+/ 
+. '.' 
+(. '~' . 
+~~ .. ' ~ i~.) 
+~;~' ... : . 
+<.i 
+.. ":1' 0 ,1 
+~:: -> 
+(~'; 
+. .~.~ ~. , e': .. ;; 
+' , 0. 
+;'~:" 
+' .. ' 
+(\':, ~. 
+". 
+~:;: 
+t) 
+, (~) 
+'.' 
+( ,-'; .. 
+..... .... " 
+:, " 
+' '::: I:; >,~ ' .. ' 
+(," . ,. ,, ' 
+~ ; " 
+. 
+{ ~ 'i ' .. 
+0 .
+.. , 
+::00 . 
+"
+.:;~ "·I 
+f.o .' 
+) , ', 
+, 
+. 
+~ ~.~:' 
+.,." 
+;, ~ ~ /,/,> \ : ~ 
+'.,'1 
+" '<~ J . 
+I , ', 
+I " 
+. \ ~"'~ " 
+1'".:; 
+\"~ ., 
+':Ji:" 
+'· <i:~, ,,.. . ,:' /) 
+" :~ 
+Appendix 1: Stem and canopy cover maps. All contemporary trees (A), post-treatment goshawk guidelines (B), and post-
+treatment ecological restoration guidelines (C), 
+91 
+
+Plot 3 
+A 
+Plot 4 
+~~~(~':.~;~:' 
+~.UF~ 
+~i~if~i;~.~' 
+:~<t:'·~~~ 
+/ . \ .; 
+i'.):?Y>i 
+!: ".:;' ... 
+;~~(~;, .:::; 
+;-: .. ;~\~:;. ;~\':[,\ ,;;j{: r.;~··.i~!:·~::\ 
+B 
+' . ,\.-, 
+':. j '" ·t· ~) " 
+,~ " . 
+< 
+; i , 
+. 
+" '. 
+i . .. . 
+, 
+_ ',. ov 
+,. " '; . 
+: :\.,.~.:, ;,(", 
+. 
+/.:)~~.' :; . '. 
+~ 
+• ~ .;!/ ,}-
+". : 1' 
+, 01 t. 
+-; , .. ; . ! 
+. ' 
+;-:; 
+. : '..i 
+:;.1. 
+, . 
+-,'",' 
+",' lo' 
+-~ ~ - '~ 
+-, • .• ,': ,:; ','j 
+. ~.J . • • 
+~ •.•.. 
+,;," " 
+;;:/ .. i ' ~'" 
+. 
+,.... 
+'-.. ' 
+.. ~. 'j 
+,'.~ . -' . 
+. ~-. '\~I " '":1 
+'," 
+[. '-."
+. 
+0 
+t:-·~,· ~ ' .. ~ .-
+• OJ 
+: .::-
+!'~;"" :I 
+) . 
+i''' ;.'"," ' .~ ./ 
+\ ' . 
+" . 
+\· .>';t~ 
+:\;;~ ) ..•. ; .. 
+~. 
+;/,':'..' 
+t;"; . 
+.... : .. 
+: 
+.' 
+..•.. 
+. 
+,~. 
+:.,"/;: 
+;~; 
+.j) 
+\.
+, 
+'t;:, 
+(!;;);/";'" 
+' .', ' .. 
+' 
+.< :.:·<;1 
+"'" .;~ " ~ . ) 
+... ' r 
+' -. {.~.i 
+, .' ~ 
+,I/; 
+,:};<;': : .. , 
+~.~ :* , 
+,,:. 
+."" ',, . 
+c 
+" 
+.;" 
+) 
+:'(:': ':~<.:Y~ . '/ 
+i.~ '.; ; . 
+~) 
+~. . 
+, . 
+.' 
+'" f> 
+"
+0 r 
+.~. 
+. 
+• 
+'i i , ,:.: : .;.;.\ 
+•. ,;~. : \ ' 
+·• .. 1 
+{~-":{ .. ~ 
+:~. ; i/ 
+.'<?;,,("'" 
+(.' ,, " 
+(to'~; 
+'.~~ .; ,~:,> 
+(~,1 
+,~~ (: 
+( . 
+", 
+(: ( 
+" 
+( . ; 
+" : '" :.".J: 
+. 
+~ ' ~ t\ 
+.~.:.<~::~ ~' 
+-'," 
+(., 
+(~ 'i: 
+'9~" _ ;~:~ 
+;;., .;; ~ . ~':. . (~.;:. '. 
+: t' 
+.. 
+:.. • • ; 
+',0 1 
+:";'.: .,~ e, ::·::·,'o',t>~;., 
+;:i '~ l 
+,. ~~':;.~~aJ:~y 
+~J 
+, ' . ' ,;' 
+(~ 
+.1'".1:' "\.;',',' 
+... ; , 
+",' 
+" ',.:* 
+,~~. ~"Il . :~" 
+1.';<:' 
+'., < '~ 
+i:,.:;'',c +!.' ;!'.\;~ ~~ .. )}:'i:' 
+<I 
+" ~~ ,~,:.:/:~. 
+,~):"~,, . (. ,(" 
+(",· · .;: ·'.::;Xii:)\';.:;~';.; ,_
+.'. 
+1 :'-
+,~ . 1<)":"
+'') 
+;, 
+/~"
+I 
+.,,' 
+' \~) 
+1"':;"(;:; 
+!-·")<lIC: ~ h 
+.. 
+( ,'; . , 
+. :,,: 
+Appendix 1 (continued): Stem and canopy cover maps. All contemporary trees (A), post-treatment goshawk guidelines 
+(B), and post-treatment ecological restoration guidelines (C). 
+92 
+
+Plot 5 
+A 
+B 
+'.I( ! 
+.,' 
+... ;~ 
+Plot 6 
+,. 
+, . 
+~ 
+. ' 
+_.' 
+to,,', 
+': 
+".' 
+. 
+,. 
+, 
+.~'" .". 
+," 
+.. ';-..... ':. 
+/ . : 
+; )~ ';',i 
+, ~ i 
+t' . , 
+''OJ; .. ' 
+;. 
+,". 
+" 
+. .' 
+" 
+(:{:, ... :~. 
+J'.,' 
+••• ' 
+~ .. ..: 
+,', 
+~~ . ; 
+~ ~ . 
+\1, 
+c 
+" 
+l' 
+:.li.j' 
+.':,; . 
+\ .,,, 
+:. 
+Appendix 1 (continued): Stem and canopy cover maps. All contemporary trees (A), post-treatment goshawk guidelines 
+(8), and post-treatment ecological restoration guidelines (C). 
+93 
+
+<I) 
+CD 
+,~ 
+a; 
+-c 
+'5 
+(!lCD 
+.x~ 
+~.a 
+",0 
+..<:2 
+<1)-
+om 
+(!l-
+,00 
+-CD 
+<I)~ 
+00 
+c..u.. 
+~ 
+'" 
+1:) 
+~s 
+,_ tn 
+Ole 
+Eo 
+0:;::; 
+0'" 
+UJ~ 
+,.!..,9 
+<1)00 
+o 
+CD 
+c..o::: 
+'CD 
+0 e 
+CD 
+-c 
+';; 
+UJ 
+C 
+CD 
+ECD 
+CD~ 
+~
+'" 
+CD-
+<1)0 
+CD'" 
+§:c7) 
+(5 
+a:: 
+I 
+I 
+\ 
+I 
+\ 
+I 
+\ 
+( 
+, , 
+~ : 
+\ 
+I 
+\ 
+I 
+\ I 
+I' 
+l~ 
+~~ 
+/ , 
+( 
+I 
+I 
+) 
+I 
+I 
+I 
+I , 
+\ 
+\ , 
+" 
+, 
+I 
+N 
+(5 
+a:: 
+f 
+/ 
+\ 
+I 
+I 
+\ 
+f 
+I 
+I 
+) 
+~ 
+\ 
+( 
+-' 
+) 
+I 
+I 
+I 
+/ 
+I 
+/ 
+I , 
+"/ 
+I 
+(, 
+I 
+\ , 
+I , 
+I 
+~ 
+J- (J)l 
+I 
+Q) 
+0 
+C 
+tU 
+v 
+I 
+U; 
+I 
+6 
+0\ 
+I 
+Cl 
+I I 
+ro 
+C'0 
+II 
+-I 
+II 
+II " 
+II 
+..c 
+Cl 
+::l 
+0 
+II 
+I 
+I 
+L-
+..c -
+I 
+..-
+(/) -
+0 
+a.. 
+( 
+(/) 
+/ 
+/ 
+I 
+\ 
+","iii 
+( 
+11§ 
+I 
+'" '" 
+I 
+,,-
+I 
+- ., 
+::r.g 
+I 
+:;:. ., 
+, 
+-'" 
+'O\; 
+, 
+., '" 
+I 
+l!8 
+) 
+~~ 
+\ 
+'" 
+o:ll 
+(5 
+~ -' 
+a:: 
+c 
+0 
+~ 
+CJ 
+C 
+::l -
+"'I --
+'-'" 
+-l 
+"0 
+(J) 
+L-
+::l 
+(/) 
+CIl 
+(J) 
+2 
+N 
+.~ 
+"0 
+C 
+(J) a. 
+a. 
+<C 
+
+UI 
+Gl 
+.!: 
+Qi 
+-0 
+.:; 
+ClQl 
+12 
+",0 
+.s=2 
+"'-
+om 
+Cl-
+,UI 
+-Gl 
+UI 
+~ 
+a a 
+a.u. 
+. - -
+I 
+I 
+, 
+} 
+\ 
+I 
+I 
+I 
+\ 
+I 
+\ 
+I 
+\ 
+I 
+\ 
+\ 
+I I 
+I I 
+\ I 
+, I 
+I I 
+I I 
+I 
+~ 
+" . 
+-
+• 
+• 
+• 
+• 
+. , 
+. , 
+. 
+} 
+\ 
+/' 
+} 
+( 
+I 
+I 
+\ 
+I 
+I 
+I 
+I 
+10 
+( 
+I 
+-0 
+-' 
+a: 
+1- (1)1 
+. , 
+I 
+) 
+<0 
+15 
+I i 
+a: 
+CD 
+..c 
+0) 
+:::J o 
+'-
+..c 
+..... 
+C") 
+en 
+..... o 
+a.. 
+en c o 
+:;::; u 
+C 
+:::J -
+I 
+...-.. 
+..... 
+'-" 
+....J 
+"0 
+<D 
+.... 
+:::J 
+en 
+ro 
+<D 
+~ 
+...-.. 
+"0 
+<D 
+:::J 
+C 
+:;::; 
+C o 
+U 
+'-" 
+N 
+.~ 
+"0 
+C 
+<D a. 
+a. 
+« 
+
+~ 
+~ 
+w 
+s::. 
+l!i 
+Q, 
+Of) 
+<Il 
+~ 
+Plot 1 
+--
+,.,~ -.-- ,-_ ... -
+'- --'1 
+A. 
+I 
+" ] 
+I 
+B. 
+C. 
+" •. j 
+j 
+'! 
+~ ' ; • 
+I 
+); -j F~ 
+POt-
+' 
+, : I;. Ll~rJ~ri~ ,!g!!}~r:C~~'»~'''~""''jt'llg,, .... ,... ", 
+", 
+.,.J 
+I 
+::;;1:1" , [ '-, J!" 
+!~; 'iij,'i i. !j~lnl m. 'illl : 
+,: ... _)ij~:. !q~ 'L~ll ;J IJtiJ~l i~ l :" 
+----'------1 
+I 
+r 
+I 
+~Ll ll I 
+'lU'b 
+f:, 'f ' :~ fil 
+::~::J' il:t 'l!I)) i 
+11 
+21 
+II 
+~1 
+~1 
+51 
+T1 
+, , 
+Plot 2 
+.iij~: ',JaPe'iJd' ~ ,'til' ;,~q"" ,U,. ""'" ",_ •• ' 
+, 
+I 
+. ,. 
+I 
+: : " 
+n :J. ~~::!Ir~' i r: ~A~ ';, 
+I 
+, 
+~ 
+-\1 
+.,1, 
+' .' . 
+• , ., 
+' 1 
+"!, ,, 1 ;'1 
+1'i). , ',iH ' ~~ pi:, ",Ciij ! 
+, ;~" :q~I ,,~!t ,), 
+. ; "JH:
+;~lIi'J I~\';':"'_.' 
+I 
+lijl' 
+.! 
+'j~
+! I 
+i! 
+! 
+!
+' 
+I 
+'I II, [ ·f 
+" 
+I 
+,: i "'1'
+, 
+,," " 
+I "',i,' n ' "'1 
+flJ.,;,~a~·! \:~~i . ,'ul'
+,6iU Uf ·;1!11;.:i •.• ;: 
+.J 
+:" 
+~ " 
+',il 
+~
+... 
+"'. -·1 . 
+t ,,1, 
+, 
+1 
+11 
+21 
+~1 
+.41 
+51 
+el 
+71 
+Diameter class midpoint (centimeters) 
+Plot 3 
+I 
+" 
+I 
+'ij . 'h 
+• !.(( 
+I 
+11'1 
+., ':1' j ~ 
+I 
+"lr 1 
+i" ~ 
+:: :~ ~ 
+'11111" Uh 
+•• . 
+' - ·Ll".. •.. 
+-ddd·, 
+.1..,._ ,,!(I!f,~J.:1r,:L"·" "',1"',."-_",,, ,,~,~ , • 
+, . 
+'" 
+~ 
+5 ~'I~' r." 'l~ i'j I, I 
+. 
+• 
+L1 ' ~' 
+i 
+'. " , -Iii i i !r~1:l p i i: tp" ,;)1.1 'j' 
+. 1tlj[M,hlbJjl:! !~l:.dl~i fl,_dj! 1oJ: :b . q." .. i 
+,. [111 
+, 
+i 
+r .' 
+, , 
+I 
+•. I, "'I" 
+" 1 • 
+' 1'1 i ii 
+• r 
+,I: 'j I 
+, 
+l !;,:In.r-
+I , '! 
+f j' fn" _ h~ 
+. 
+I 
+, ;I ~;:n:d1!1 ; II " .',.1': ' .I f.: ,,:,~,,~," 
+: 
+· • ~i:I;. i',I~11 ';jF:l!l~l .~) , ,\~lt lltJb " I~)\l), L ..... , 
+11 
+21 
+31 
+41 
+51 
+61 
+11 
+Appendix 3: Individual plot diameter distributions. Plots 1 through 3. All contemporary trees (A). post-treatment goshawk 
+guidelines (8). and post-treatment ecological restoration guidelines (C). 
+96 
+
+~ 
+~ 
+! 
+~ 
+~ 
+A. 
+>
+", -
+.- -
+I 
+:1 
+,~ " 
+Plot 4 
+, 
+I 
+I 
+i 
+':.' !'lhift~'I"'-·!,m,n., '''''''"'''~ J 
+.\. " '," 1.,~ ~·,", J
+. 
+B. u 
+'. ~ " -""'.-"'--' ._, _.,,_" __ "H.-'-"" " ___ H.~ ""_"'_"_·. ·-¥· .. · .. ·~- ··I 
+c. ". -
+-",,-
+' -.- _ 
+... -._. '1 
+\ 
+... "J 
+Plot 5 
+:." ~ . 
+. t 'n "".\, .. , 
+I 
+JI 
+" 
+~ 'i" ",_ ~1~I' f l, 
+:', ,\lF~~ ~,lk.tl~.·;A!!LJ;,A: .l~-~~' 1;:!::'t' -:·,, "!~ ,~, .1" ~ < ' .... 
+> 
+1'\' 
+, ~!iJ.l 
+i 
+1",,1,·, 
+, 
+'.' 
+J ill rl~~~; ~ i 
+I 
+;; _ 
+1 
+,;~ : 
+I.~:~~; i · .:':; -; . 
+! 
+, J >1' 1" 
+. !Ijd l'''i 
+I 
+6~l\i\'lr J :ltt, ! :i:JfJI~ ~!.h!~:1"E J ,,: ... ,1 
+I 
+·n 
+I 
+, !. 
+,If 1 
+I 
+I l ~ 
+[ '11,
+' 
+'0' 1\ I'l fro ,II ~~I' 
+I 
+' 
+q 
+\,:,l!.j!II,!ntl ;!i I' ir 
+• 
+' 
+,_w~: rtl !j~ I" .. .iJ:Jl tlll'.~IJn~ h.1 .. ...1 
+, 
+11 
+21 
+~1 
+,1 
+~1 
+61 
+11 
+Oiameter class midpoint (centimeters) 
+Plot 6 
+, . 
+iDCiJI~~:;U~:r~i~;~J:'1~" -':'M"'~~f :'~'_M~j 
+u" 
+~~ r.~f.1 
+h Nil 
+iil:IA,:i ~ 
+I 
+11'~';iII,11 , !' 
+, . If:f 
+!;:I I ~' :l l'~1 
+r., ",_ ,~,: 
+~~
+.1 ', li~l, ,_,P:,~ , 
+I 
+. ., ;o\ijl!1 \idi- r:.!J\:)11J\~1~Jjt'iIll'-t. I);;! ' '''''''; 
+! 
+, 
+I 
+~'. n;" lf~\r;H\~I~-~i'1~ [, 
+1" .. 
+' 
+'til" [:,lllr'iiii;m 
+H:!i·r!I'L I:: 1!'llf)i~ ,:' " 
+I 
+,
+. ~ .,' .b L ... ,-... , ..... \ ...... Q.- 1." .•••..•.•••. 
+1 
+11 
+21 
+ill 
+41 
+~1 
+61 
+11 
+Appendix 3 (continued): Individual plot diameter distributions. Plots 4 through 6. All contemporary trees (A), post-
+treatment goshawk guidelines (B), and post-treatment ecological restoration guidelines (C). 
+97 

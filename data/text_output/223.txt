@@ -1,0 +1,1160 @@
+Modeling the Impacts of Two Bark Beetle Species Under
+a Warming Climate in the Southwestern USA: Ecological and
+Economic Consequences
+Kristen M. Waring Æ Danielle M. Reboletti Æ Lauren A. Mork Æ
+Ching-Hsun Huang Æ Richard W. Hofstetter Æ Amanda M. Garcia Æ
+Peter Z. Fule´ Æ T. Seth Davis
+Received: 12 September 2008 / Accepted: 26 June 2009
+ Springer Science+Business Media, LLC 2009
+Abstract
+Predicted climate warming is expected to have
+profound effects on bark beetle population dynamics in the
+southwestern United States. Temperature-mediated effects
+may include increases in developmental rates, generations
+per year, and changes in habitat suitability. As a result, the
+impacts of Dendroctonus frontalis and Dendroctonus
+mexicanus on forest resources are likely subject to ampli-
+ﬁcation. To assess the implications of such change, we
+evaluated the generations per year of these species under
+three climate scenarios using a degree-day development
+model. We also assessed economic impacts of increased
+beetle outbreaks in terms of the costs of application of
+preventative silvicultural treatments and potential eco-
+nomic revenues forgone. Across the southwestern USA, the
+potential number of beetle generations per year ranged
+from 1–3? under historical climate, an increase of 2–
+4? under the minimal warming scenario and 3–5? under
+the greatest warming scenario. Economic beneﬁts of
+applying basal area reduction treatments to reduce forest
+susceptibility to beetle outbreaks ranged from $7.75/ha
+(NM) to $95.69/ha (AZ) under historical conditions, and
+$47.96/ha (NM) to $174.58/ha (AZ) under simulated
+severe drought conditions. Basal area reduction treatments
+that reduce forest susceptibility to beetle outbreak result in
+higher net present values than no action scenarios. Coupled
+with other deleterious consequences associated with beetle
+outbreaks, such as increased wildﬁres, the results suggest
+that forest thinning treatments play a useful role in a period
+of climate warming.
+Keywords
+Climate  Forest vegetation simulator 
+Fire  Bark beetles
+Introduction
+Bark beetles are arguably the largest source of biological
+disturbance in coniferous forests (Lieutier and others 2004;
+Price and others 1990; Ayres and Lombardero 2000).
+Recently, two economically important species in the genus
+Dendroctonus (D. frontalis [SPB] and D. mexicanus
+[XPB]) have been found occurring sympatrically in iso-
+lated pine forests in southern Arizona and northern Mexico
+(Moser and others 2005), well to the north of the previously
+reported northern distribution of XPB (Salinas-Moreno and
+others 2004). While a plethora of biotic (Hofstetter and
+others 2006; Paine and others 1997; Byers 1989) and abi-
+otic (Paine 1984; Coppedge and others 1994) factors
+inﬂuence the population dynamics of these species, tem-
+perature is identiﬁed as one of the primary limitations on
+beetle development rates and phenology (Tran and others
+2007; Ungerer and others 1999). In addition, prolonged
+climatic shifts qualitatively affect species interactions and
+population demographics within insect communities (Sau-
+vard 2004; Stireman and others 2005; Walther and others
+2002). Keeley (2006) suggests abrupt invasions, changes in
+population dynamics, and long distance movements by
+native and non-native species will result from climate
+change. Insect habitat, namely trees, is also likely to
+change with the climate, further complicating herbivore
+dynamics (Loehle 1996). Therefore management must be
+adaptive, promote resilience to pests, and enable forests to
+K. M. Waring (&)  D. M. Reboletti  L. A. Mork 
+C.-H. Huang  R. W. Hofstetter  A. M. Garcia 
+P. Z. Fule´  T. S. Davis
+School of Forestry, Northern Arizona University, PO Box 15018,
+Flagstaff, AZ 86011, USA
+e-mail: Kristen.waring@nau.edu
+123
+Environmental Management
+DOI 10.1007/s00267-009-9342-4
+
+respond to change in the face of changing climates (Logan
+and others 2003; Millar and others 2007; Sauvard 2004).
+Background of SPB and XPB
+The SPB and XPB share many ontogenic and morphologic
+similarities (Vite and others 1974; Wood 1982). Both
+species exhibit well-developed glandular mycangia and
+mycophagy, mass attraction to hosts via pheromone com-
+munication, and require live host material for successful
+reproduction (Cibrian-Tovar and others 1995; Barkawi and
+others 2003; Moser and Macias-Samano 2000). As well,
+XPB is apparently no more constrained by cool tempera-
+tures than SPB because XPB tend to extend into higher
+elevations than SPB where the species co-occur in Mexico
+(Wood 1982; Cibrian-Tovar and others 1995). As with
+many bark beetle species (Logan and others 2003), an
+increase in the number of generations a year will have a
+signiﬁcant impact on the outbreak potential of SPB
+(Coulson 1979). Because of these similarities, the well-
+researched biology and ecology of SPB is useful as a proxy
+in predicting behaviors of the lesser-researched XPB in
+regions where the two occur sympatrically. Thus, rate and
+direction of spread, interactions with ﬁre, and economic
+damages affected by both species can be estimated
+concurrently.
+Aside from life-cycle similarities, SPB and XPB display
+an equivalent capacity for biological disturbance (Moser
+and others 2005). For example, in a three-year infestation
+in the southeastern US, SPB was associated with extensive
+tree mortality across some 8000 ha of pine forest (Price
+and others 1990). The outbreak on the Bankhead National
+Forest (Alabama) resulted in an estimated economic loss of
+$50–80 million worth of timber resources (USDA Forest
+Insect and Disease Conditions 2001). Moser and others
+(2005) reported XPB infestations [8000 ha as recently as
+2002 in south-central Arizona and northern Mexico.
+However, infestations in the southeastern U.S. are restric-
+ted to SPB alone, whereas in Arizona and Mexico XPB are
+found co-occurring with SPB in some locations (Moser and
+others 2005).
+Historic and Contemporary Beetle Populations
+in the Southwest
+Endemic populations of bark beetles have always existed in
+southwestern ponderosa pine (Pinus ponderosa) systems
+(Sanchez-Martinez and Wagner 2002). At endemic levels
+there is less than one percent background bark beetle-
+induced tree mortality in southwestern forests. Samman
+and Logan (2000) reported a background mortality of
+susceptible trees of less than 2 percent per year in the
+Rocky Mountain West. Outbreaks on the other hand, occur
+when there are high beetle populations, an abundance of
+available hosts, and favorable environmental conditions.
+Therefore, managers can only modify the abundance and
+vigor of available hosts in order to reduce the potential
+threats of outbreaks on the landscape (Fettig and others
+2007).
+Prior to European settlement in the late nineteenth
+century, a frequent low-intensity ﬁre regime maintained a
+relatively open structure in southwestern ponderosa pine
+forests (Cooper 1960; Covington and others 1997). Fire
+exclusion, grazing, and logging practices have contributed
+to current homogeneous dense stands (Covington and
+Moore 1994; Covington and others 1997). High densities
+and therefore high levels of intraspeciﬁc tree competition
+for water and nutrients have created stands that are more
+susceptible to insect epidemics (Olsen and others 1996;
+Feeney and others 1998). Stand density index (SDI) is a
+relative measure of stand density that can be used to
+compare the actual number of trees per unit area to the
+maximum number of trees per unit area that can survive at
+a standardized average size (quadratic mean diameter of
+25 cm) on a given site (Reineke 1933). SDI values for
+individual stands can then be used to develop management
+guidelines that minimize density-dependent mortality or
+rate stands for risk of bark beetle mortality (Long and Shaw
+2005). Oliver (1995) proposed a threshold for increased
+beetle activity of SDImetric equal to 568 (given maximum
+SDImetric equal to 902 in pure ponderosa pine stands),
+above which endemic beetle populations would begin to
+thin stands. Management recommendations for the SPB
+suggest preventative measures to minimize timber losses
+and avoid costly, short-term suppression projects by
+maintaining forests in a vigorous, healthy condition
+(Thatcher and Barry 1982; Nowak and others 2008). An
+appropriate approach is to thin stands before inter-tree
+competition results in increased suppression and slower
+growth rates (Fettig and others 2007); Nowak and others
+(2008) suggest reducing pine basal area to less than
+approximately 19 m2/ha.
+Effects of Thinning Treatments on Bark Beetle Activity
+Previous research has found thinned pine stands have
+higher soil water availability and thus the potential for
+greater resistance to drought stress and insect attack (Kolb
+and others 1998; Skov and others 2005; Zausen and others
+2005). Zausen and others (2005) and Kolb and others
+(1998) also found increased tree growth and larger diam-
+eters in thinned stands with lower basal areas. Larger trees
+had higher resin ﬂow (collected over a 24 h time period),
+the primary defense mechanism against bark beetle attack,
+and thicker phloem (Kolb and others 1998). Thinning
+treatments can simultaneously reduce stand susceptibility
+Environmental Management
+123
+
+to bark beetles (Wallin and others 2008), create more
+drought resistant trees, and reduce hazardous fuels (Fule´
+and others 2001, 2002) that support stand-replacing ﬁres.
+Treatments to reduce basal area in the Southwest have
+moved from traditional thinning treatments to modiﬁed
+individual tree selection systems that enable managers to
+provide more variation in vertical and horizontal stand
+structure. Such structures allow managers to meet multiple
+objectives, such as reduction of ﬁre hazard, improved
+wildlife habitat and increased aesthetics (O’Hara 1998).
+Objectives
+Given recent climate change projections of average tem-
+perature increases ranging from 1.6 to 6.3C in the coming
+50 to 100 years (McKenzie and others 2004; Seager and
+others 2007), the attack behavior, range, ecological and
+economic signiﬁcance of SPB and XPB in the southwestern
+United States are subject to potentially signiﬁcant change,
+affecting land management strategies. We evaluated the
+potential impacts of increased SPB and XPB populations
+under two climate change scenarios, addressing three
+questions: (1) what are the potential effects of climate
+change on the development rate of SPB and XPB? (2) what
+are the projected economic impacts of tree mortality
+associated with increased bark beetle outbreaks? (3) what
+are the estimated costs of preventative silvicultural treat-
+ments to reduce forest susceptibility to beetle-caused
+mortality?
+Methods
+Climate Scenarios and Degree-Day Model
+We modeled bark beetle generation times under three cli-
+mate scenarios: (1) 30-year historical average tempera-
+tures,
+(2)
+estimated
+best-case
+temperature
+increase
+(?1.6C) by the year 2100, and (3) estimated worst-case
+temperature increase (?6.3C) by the year 2100. We used
+the same climate change scenarios as McKenzie and others
+(2004) in order to compare our predictions of beetle gen-
+eration change with the wildﬁre predictions they devel-
+oped. The scenarios were originally simulated in the
+Parallel Climate Model of the U.S. National Center for
+Atmospheric Research (Washington and others 2000),
+under a scenario of relatively low future CO2 levels, and
+the HadCM3 model of the Hadley Center for Climate
+Prediction with the socioeconomic scenario A2, predicting
+relatively high future CO2 levels.
+We used a degree-day model of beetle development for
+SPB (Ungerer and others 1999) to estimate changes in
+generations per year for both SPB and XPB in the South-
+west. The model incorporates physiological measurements
+of insect developmental responses to temperature, and was
+originally constructed to test the role of minimum and
+maximum temperature in determining the northern distri-
+bution limits and resulting annual generations of SPB.
+Through experimentation, upper and lower developmental
+thresholds have been established for SPB (Ungerer and
+others 1999; Friedenberg and others 2008). The lower
+lethal temperature is that at which the haemolymph and
+other body ﬂuids crystallize when an animal is gradually
+cooled (Somme 1982; Ungerer and others 1999; Tran and
+others 2007). Generally, exposure for even a few minutes
+to temperatures below the crystallization temperature
+triggers irreparable tissue damage and death (Lombardero
+and others 2000). Winter mortality has been reported in
+natural populations of SPB that experienced minimum air
+temperatures of -12 to -18C (Ungerer and others 1999;
+Tran and others 2007). Laboratory experiments on SPB in
+the eastern U.S. conducted by Ungerer and others (1999)
+and the western U.S. by Hofstetter (unpublished) matched
+reports of cold mortality, resulting in -16C as the lower
+lethal air temperature for the model. Additionally, extended
+periods of extreme high temperatures may also have
+demographic impacts. The developmental rates of most
+SPB life stages decrease above 32C (Gagne and others
+1982; Wagner and others 1984). Temperatures above 43C
+are known to kill larvae outright (Beal 1933).
+The degree-day model predicts the developmental rate
+of SPB through ﬁve distinct developmental phases in the
+gallery environment: (1) oviposition, (2) egg incubation,
+(3) larval development, (4) pupation, and (5) emergence.
+Since SPB and XPB closely resemble one another mor-
+phologically, phenologically, and ontogenically (Vite and
+others 1974), we considered it reasonable to use the model
+developed by Ungerer and others (1999) for predicting
+generation dynamics of both species. Additionally, the
+ﬂight patterns and generations per year of SPB predicted by
+the model match results from published records in the
+Southwest (Gaylord and others 2006, 2008; Williams and
+others 2008). Total beetle population abundances were not
+calculated or used in our models to predict landscape level
+impacts. Beetle density, beetle-beetle interactions, and
+tree-beetle interactions are important factors in determining
+outbreak impacts and beetle population growth and success
+(Coulson 1979), thus the use of generations per year alone
+should be used cautiously when interpreting the effects of
+temperature on beetle performance and potential impacts
+on tree mortality.
+We selected thirteen weather station sites across the
+regional distribution of potential host Pinus species in
+Arizona, New Mexico, and northern Mexico (Fig. 1). We
+initialized the degree-day model with average daily
+Environmental Management
+123
+
+temperature data (at 3 hour intervals) from the Western
+Regional Climate Center (http://www.wrcc.dri.edu), the
+National
+Oceanic
+and
+Atmospheric
+Administration’s
+Satellite and Information Service (www.noaa.gov), and the
+Extractor Ra´pido de Informacio´n Clima´tica (ERIC III)
+database for the time period 1971–2001. A sine function
+was used to estimate temperatures at 3-h intervals from
+daily minimum and maximum temperatures and develop-
+ment was incremented at 3-h intervals based upon pre-
+vailing temperatures (similar to Ungerer and others 1999).
+We simulated increased future temperatures by adding
+1.6C and 6.3C to daily values (Fig. 2).
+Economic Analysis: Background, Assumptions, Losses,
+and Treatment Costs
+In order to evaluate the economic impacts associated with
+the range expansion of SPB and XPB, we conducted the
+with and without analysis to evaluate the economic beneﬁts
+of preventative basal area reduction treatments. This eco-
+nomic analysis was conducted for ponderosa pine exclu-
+sively, and it should be noted that XPB and SPB are
+capable of exploiting other pine hosts, possibly including
+pinyon pine which is widespread in the Southwest. Fur-
+thermore, while forests have many market and non-market
+values, we limited our analysis to the potential effects on
+timber revenues. Therefore our analysis is conservative and
+does not capture the full breadth of potential damage in
+either ecological or social terms.
+Forest structural data came from the Forest Inventory
+and Analysis (FIA) for Arizona and New Mexico (O’Brien
+2002, 2003). Ponderosa pine forests covered 1,233,185 ha
+in Arizona and 1,135,004 ha in New Mexico. Total area
+and density of ponderosa pine trees in each state were used
+to create the diameter distributions for modeling. Mean
+basal areas for Arizona and New Mexico were approxi-
+mately 21.8 and 20.7 m2/ha, respectively. We selected
+forest stands for modeling based on the average stand basal
+Fig. 1 This map displays the regional distribution of potential hosts.
+The stippled areas represent woodland forest and montane conifer
+forest throughout the southwestern US and Mexico states of
+Chihuahua and Sonora (Brown and Lowe 1980). Letters indicate
+the sites of weather stations located within pine forests
+Environmental Management
+123
+
+area plus one standard deviation in each state to capture
+only those stands considered to be at risk of bark beetle
+attack. These denser forest stands would beneﬁt most from
+basal area reduction in both states. The average stand basal
+area plus one standard deviation for Arizona and New
+Mexico were approximately 34 and 30 m2/ha, respectively.
+Tree diameter distributions that followed the shape of the
+average diameter distribution, with densities increased to
+match the basal area values of 34 and 30 m2/ha, were used
+to initialize the Forest Vegetation Simulator (FVS),
+Southwestern Ponderosa Pine model type. FVS is an
+individual-tree, distance-independent growth and yield
+model that can simulate a wide range of silvicultural
+treatments for most major forest tree species, forest types,
+and stand conditions of the United States. Since its initial
+development in 1973, the basic FVS model structure has
+been calibrated to unique geographic areas to produce
+individual FVS variants which include well-known growth
+and yield models based on decades of natural resources
+research. Because of its applicability to a wide range of
+treatments and forest stand conditions, FVS is the most
+widely used forest stand simulator in the United States. The
+FVS scenarios were set up for 100-year simulations to
+parallel the beetle development model. However, FVS is a
+statistical model that does not incorporate climate variables
+directly, so the tree growth estimates did not reﬂect
+Fig. 2 a–l Mean precipitation and temperature data acquired from
+the ERIC III database (Mexico), Western Regional Climate Center
+(US), and NOAA Satellite and Information Service (National
+Environmental Satellite Data, and Information Services, NESDIS)
+for thirteen weather stations located within pine forests (30 year
+record). Each letter corresponds to a location on the map shown in
+Fig. 1
+Environmental Management
+123
+
+temperature changes. Process models for simulating veg-
+etation change would be more appropriate for incorporat-
+ing climate variables directly, but such models are much
+less accurate and less precise for assessing relatively short-
+term (100 yr) changes (Keane and others 2004). The effect
+of selecting FVS is that tree growth was probably overes-
+timated at the end of the simulation period. The time period
+for this study was from year 2007 to year 2107. Site factors
+were selected at the approximate geographical center of
+ponderosa pine forests in each state, corresponding to the
+Coconino (AZ) and Cibola (NM) National Forests. Site
+index was 22.9 m (base age 100) and maximum basal area
+was set at 47 m2/ha.
+We ran simulations for Arizona and New Mexico with
+and without basal area reduction treatments. The with-
+treatment scenario was more complex, with individual tree
+selection scheduled at 40-year cycles beginning in year 10;
+each entry reduced basal area to 12 m2/ha. The low
+residual basal area accounted for tree growth between
+cutting cycles, maintaining the stand below the published
+guidelines for bark beetle prevention (19 m2/ha; Nowak
+and others 2008; Oliver 1995). We assumed that costs
+associated with treatments were highest in the ﬁrst entry at
+$617/ha to thin and burn slash piles, and lower for the next
+two entries at $371/ha (USFS personal comm. Oct. 2007).
+Revenues from treatments were calculated for three size
+classes
+based
+on
+current
+timber
+sizes
+and
+values:
+trees B23 cm in diameter, between 23 and 30 cm in
+diameter, and C30 cm in diameter. The contributing per-
+centage of volume per size class was calculated using
+height and diameter outputs from the FVS tree list ﬁles for
+each thinning event. Tree values differed by diameter, such
+that one unit of volume increased in value at a ratio of
+1:6:10 dollars respectively for the three size classes (USDA
+Forest Service 2007). Therefore, the stumpage values for
+pulpwood, chip-n-saw and sawtimber were assumed to be
+$1, $6 and $10 per hundred cubic feet (CCF). Annual
+compound softwood sawtimber and pulpwood stumpage
+price growth in the interior west between levels in the late
+1990s and 2050s was projected at 1 and 0%, respectively
+(Haynes 2003). Labor costs were assumed to increase at a
+real rate of 1.7% per year (Council of Economic Advisers
+2007). We used a real interest rate of 4% to perform dis-
+counted cash ﬂow analyses.
+In the without-treatment scenario, we used FVS to
+project 100-year growth for the model stand. We estimated
+timber revenues forgone using the same inputs for FVS as
+described above, except we did not schedule treatments.
+Instead, we assumed total mortality on a given hectare
+under two mortality frequency scenarios based on con-
+temporary and predicted severe drought events (Seager and
+others 2007) leading to bark beetle outbreaks. The ﬁrst
+mortality
+scenario
+was
+based
+on
+historical
+drought
+frequency over the past century in the Southwest: the 1950
+s drought and the 2002 drought that caused the largest
+recorded bark beetle outbreak in Arizona and New Mexico.
+Thus, scenario 1 assumed that two bark beetle outbreaks
+occurred per century, associated with the two severe
+drought
+events.
+However,
+climate
+change
+modeling
+strongly suggests that the future will be characterized by
+more frequent and severe droughts than the past (Seager
+and others 2007). The second mortality scenario thus
+assumed a ﬁve-fold increase in severe droughts, increased
+from two to ten droughts per 100 years. Each drought
+would be associated with a bark beetle outbreak, increasing
+the simulated bark beetle outbreaks and mortality to ten
+events per century. The two bark beetle species were
+assumed to behave similarly in these scenarios (outbreaks
+result in 100% mortality on any given hectare) and inter-
+actions between the beetles were not considered.
+Results
+Future Bark Beetle Dynamics: Degree Day Modeling
+The degree-day model predicted a substantial increase in
+the number of generations per year achievable by SPB and
+XPB throughout the southwestern region (Fig. 3). How-
+ever, the most substantial increase was seen in the south-
+west and southeast portions of our focus area (Fort Bayard,
+NM; Portal, AZ; northern Mexico). In contrast, the north-
+ern weather stations (Flagstaff and Jacob Lake, AZ; Win-
+dow Rock and Chama, NM) maintained a smaller increase
+with fewer generations per year over both warming
+scenarios.
+Under historical climate conditions, bark beetle gener-
+ations were no greater than 4 per year at any site and less
+than two at most northern sites. Under the best-case
+warming scenario, ?1.6C, all except two stations in the
+north (Flagstaff, AZ and Chama, NM) exceeded two gen-
+erations.
+The
+worst-case
+warming
+scenario,
+?6.3C,
+resulted in three to over four generations throughout the
+Southwest. The warmest station (Portal) exceeded four
+generations under the best-case and approached six under
+the worst-case scenario.
+Economic Analysis
+Net present value (NPV) per hectare for basal area reduc-
+tion treatments (with treatments) and no action option
+(without treatments) for ponderosa pine forests in Arizona
+and New Mexico are presented in Table 1. Two bark beetle
+outbreak scenarios were investigated. The NPVs with
+treatments for Arizona and New Mexico was -$344.32
+and
+-$382.78
+per
+hectare,
+respectively
+(Table 1).
+Environmental Management
+123
+
+Although timber revenues derived from the basal area
+reduction treatments were not enough to offset the costs of
+thinning and pile burning due to low stumpage values, the
+ponderosa pine forests investigated in this study would still
+exist, providing ecosystem services. On the other hand,
+under the two bark beetle outbreaks scenarios, the NPVs
+for the ‘‘without treatments’’ scenario were more negative
+than the values for the ‘‘with treatments’’ scenario. They
+ranged from -$440.01 (scenario 1) to -$518.90 (scenario
+2) per hectare for Arizona and from -$390.53 (scenario 1)
+to -$430.74 (scenario 2) per hectare for New Mexico. As a
+result, under scenario 1, the economic beneﬁts of the basal
+area reduction treatments were $95.69 and $7.75 per
+hectare for Arizona and New Mexico, respectively. Under
+scenario 2, the economic beneﬁts of treatments increased to
+$174.58 and $47.96 per hectare for Arizona and New
+Mexico, respectively.
+Discussion
+Degree-Day Model and Predicting Future Outbreaks
+Physiologically-based models are a tool for supporting land
+management decisions in forests and illustrate a general
+method for predicting the regional consequences of climate
+change on the distribution of bark beetles (Moser and
+others 2005). Given the climate change scenarios and
+previous regional data on epidemic conditions of mor-
+phologically similar primary bark beetles, it is possible that
+bark beetle-induced tree mortality could be as high as or
+higher than recorded in the historical maximum of year
+2002 in the southwestern United States. If regional
+warming forecasts hold, degree-day modeling suggests that
+XPB and SPB populations are likely to achieve the greatest
+number of generations per year, exceeding 5, branching
+across southern Arizona and New Mexico from the recently
+detected population in the Chiricahua Mountains (Moser
+and others 2005), located near the Portal, AZ weather
+station. Although negative effects of high temperatures
+were not apparent in our models, the possibility remains
+that beetle populations may suffer signiﬁcant mortality
+events with extended periods over 32C (Friedenberg and
+others 2008) thus limiting beetle outbreaks during those
+years.
+In comparison, the predicted number of SPB generations
+per year in the southeastern United States (Ungerer and
+others 1999), using the same model, ranged from six in the
+southern Gulf States to four near the northern limits of SPB
+(in southern Illinois and Indiana). This difference was
+attributed to the coastal climates, which had more days per
+year when temperatures allowed beetle development to
+proceed (Ungerer and others 1999). The southeastern SPB
+population increase was modeled spatially by Ungerer and
+Fig. 3 Potential number of
+generations per year of
+Dendroctonus frontalis (SPB)
+and D. mexicanus (XPB) varied
+across the Southwest under
+historic climate conditions.
+Increases in annual average
+temperatures are predicted to
+correspond to an increase in the
+number of annual generations
+achieved by SPB and XPB.
+Generations per year are shown
+by the concentric lines
+expanding from the center.
+Beetle outbreaks are
+increasingly likely when
+generations exceed 2 to 3 per
+year
+Environmental Management
+123
+
+others (1999) with projected isolines moving northward, an
+approach consistent with the relative abundance of pine
+forests and relatively homogeneous topography of the
+region. In contrast, the southwestern U.S. is characterized
+by abrupt topographical changes, with pine forests gener-
+ally restricted to isolated mountaintops (Fig. 1). Therefore,
+future bark beetle outbreaks are likely to be more geo-
+graphically constrained and the spread of XPB and SPB
+will probably be highly dependent upon local introductions
+and interactions (Brooker and others 2007; Tran and others
+2007) in the disconnected islands of pine habitat, rather
+than smoothly following temperature change.
+A major source of uncertainty in our analyses is whether
+XPB, a non-native species apparently currently extending
+its range into the southwestern U.S., will in fact have
+similar behavior to the anatomically and physiologically
+similar native species, SPB. To date, SPB has been rela-
+tively inconsequential as a forest pest in the Southwest, but
+an exception has been the infestation (starting in 2000)
+within the Chiracahua Mountains of the Coronado National
+Forest in southern Arizona which proved to be a mix of
+SPB and XPB (Moser and others 2005) and infestations
+during 2002 and 2003 within the Tonto and Coconino
+National Forests in central Arizona which proved to be a
+mix of SPB, western pine beetle (D. brevicomis) and Ips
+species (DeGomez 2004). Two key questions for further
+investigation are whether XPB is similarly constrained by
+cold temperatures as SPB and whether the two species will
+have similar patterns of tree attack. The XPB has recently
+been documented to attack pinyon pines in northeastern
+Mexico (Pinus cembroides, closely related to the south-
+western species P. edulis) (Cue´llar and others in press). If
+similar attacks were to commence on P. edulis in the
+Southwest, a species more widely distributed than pon-
+derosa pine, the extent of XPB impact on ecosystems and
+the regional economy could be much greater than forecast
+in our analysis. Additionally, the impacts to host trees by
+these two beetle species across the landscape may or may
+not be additive, in that they are likely to carry different
+microbial communities or the co-attack of both species on
+host trees may alter beetle ﬁtness and tree susceptibility.
+Economic Analysis
+In the United States, the average annual impact area of
+insects and pathogenic disturbances was estimated to be
+20,400,000 hectares, and the average annual economic cost
+of the disturbances was projected to be $1.5 billion (Dale
+and others 2001). Managing our forested landscapes in the
+face of uncertain climate change will require a vast array of
+strategies that focus on enhancing ecosystem resilience
+which will facilitate structural transitions that may be less
+susceptible to disturbance (Millar and others 2007). Pre-
+vious research suggests climate change can be a catalyst for
+range expansion of native species and may even allow
+native species to become invasive in their new environ-
+ments. A proactive approach to mitigate these potential
+threats is to conduct periodic basal area reduction treat-
+ments across the landscape. The beneﬁts of such thinning
+treatments extend far beyond bark beetle control. Pyne and
+others (1996) stated, ‘‘An ounce of pre-suppression activity
+is worth a pound of suppression funds’’. Although Pyne
+was describing prevention and suppression of wildland ﬁre,
+bark beetle outbreaks and catastrophic crown ﬁres both
+occur in forests that are outside their range of natural
+variability and can be prevented through basal area
+reduction
+and
+restoration
+treatments
+and
+thus
+are
+synonymous.
+Our economic analysis of the situation has provided a
+quantitative approach to decision making in the south-
+western region. According to the results of this study, the
+most costly of all possible management strategies would be
+Table 1 Net present value (NPV, 4% real interest rate) per hectare for basal area reduction treatments (with treatments) and no action option
+(without treatments) for ponderosa pine forests in Arizona and New Mexico under two scenarios
+State
+With treatments
+Without treatments
+Economic beneﬁts
+Timber revenues
+Thinning costs
+NPV
+Revenues foregone
+Thinning costs
+NPV
+Scenario 1
+AZ
+320.06
+664.38
+-344.32
+440.01
+0
+-440.01
+95.69
+Scenario 2
+AZ
+320.06
+664.38
+-344.32
+518.90
+0
+-518.90
+174.58
+Scenario 1
+NM
+281.60
+664.38
+-382.78
+390.53
+0
+-390.53
+7.75
+Scenario 2
+NM
+281.60
+664.38
+-382.78
+430.74
+0
+-430.74
+47.96
+Scenario 1 assumed two bark beetle outbreaks per century. Scenario 2 assumed ten bark beetle outbreaks per century
+Environmental Management
+123
+
+‘no action’. Even though the current low timber values in
+the southwest did not make thinning treatments a proﬁtable
+investment in our analysis, the economic beneﬁts of the
+treatment in terms of reducing potential bark beetle out-
+breaks are signiﬁcant. Since only the value of timber was
+considered in our analyses, the estimates of revenues
+foregone resulting from the no-action management strategy
+are extremely conservative. A 4% real interest rate was
+used in this study to perform discounted cash ﬂow analy-
+ses. Sensitivity analysis can further be conducted to
+investigate how sensitive the NPV and economic beneﬁts
+for basal area reduction treatments are to changes in
+selected inputs such as interest rate, treatment costs and
+stumpage prices.
+The economic consequences of treating or not treating
+forests in our analysis address only a fraction of all the
+economic and social issues involved. An analogous anal-
+ysis from the perspective of avoiding ﬁre suppression costs
+was completed recently by Snider and others (2006).
+Wildland ﬁre suppression costs in the U.S. now routinely
+exceed $1,000,000,000 annually (Calkin and others 2005).
+Snider and others (2006) calculated that investments in
+thinning of $588 to $1,485/ha were justiﬁed solely in terms
+of saving the future costs of suppressing severe ﬁres. As in
+our analysis, only quantiﬁable values were considered. Yet,
+the ecological and social values of southwestern forests are
+clearly much higher than the measureable costs of wood
+products or ﬁre suppression; these lands are critical in
+terms of habitat, recreational values, carbon sequestration,
+aesthetics, watersheds, and spiritual values. The threats to
+existing ecosystems from interacting disturbances associ-
+ated with global climate change, non-native species, and
+resource exploitation are high (Hulme 2005). However,
+intersecting lines of evidence from insect ecology, ﬁre
+ecology, and drought response studies indicate that man-
+agement intervention to thin dense forests can make these
+ecosystems more resilient to catastrophic change. At the
+same time, economic analyses indicate that intervention is
+ﬁnancially more attractive than non-intervention even
+when only a fraction of the value of forest ecosystems is
+considered.
+Implications for Forest Management
+Predicted increases in generations per year of SPB and
+XPB will interact with several other disturbances for a
+cumulative effect that exceeds that of the beetles alone.
+First, warming will affect not only these species but other
+aggressive, tree killing bark beetles in the region, as shown
+by Williams and Liebhold (2002) for both SPB and
+Dendroctonus ponderosae. Similar effects are anticipated
+for other Dendroctonus species of the southwest, such as
+Dendroctonus brevicomis and D. adjunctus. D. brevicomis
+occurs throughout the west and is known to co-colonize
+trees with SPB (Gaylord and others 2008; Hofstetter and
+others 2008). Currently D. ponderosae reaches its southern
+limit in Arizona and New Mexico; climate-based modeling
+suggested the species would move to higher elevations and
+the northern boundary of its distribution would move fur-
+ther north, but the southern boundary might remain in the
+Southwest (Logan and Bentz, 1999; but see Logan and
+others 2003). Increased populations of SPB and XPB are
+likely to coexist with increases in other bark beetle popu-
+lations. A second factor is ﬁre. Using the same climate
+scenarios as in our analysis, McKenzie and others (2004)
+forecast approximately a doubling of average annual area
+burned in Arizona and a nearly ﬁve-fold increase in New
+Mexico (the greatest increase of all the western states) by
+2100 under the best-case Parallel Climate Model PCM-B2
+(?1.3C) scenario. The 6.3C scenario, HadCM3, led to
+predictions
+far
+outside
+the
+range
+of
+historical
+ﬁres
+(McKenzie and others 2004). Beetle outbreaks and ﬁre
+interact synergistically (Parker and others 2006), with
+beetles attracted to burned areas (Breece and others 2007)
+and ﬁre hazard increased in recently attacked trees that still
+retain dry foliage. Finally, drought itself is a disturbance
+that can cause direct mortality (Breshears and others 2005),
+in addition to fostering conditions for ﬁre spread and
+weakening tree defenses. Severe droughts are forecast to be
+increasingly common across the Southwest in the twenty-
+ﬁrst century (Seager and others 2007).
+Silvicultural interventions designed to reduce forest
+vulnerability to non-native bark beetle attack (Waring and
+O0Hara 2005) will also reduce the hazard of severe wild-
+ﬁres and increase tree resistance to drought. Stand basal
+area reductions to densities below 19-23 m2/ha, recom-
+mended for minimizing beetle outbreaks, will also increase
+the crowning index (windspeed required to sustain active
+crown ﬁre) to levels that are less common during the ﬁre
+season, reducing the probability of severe burning (Fule´
+and others 2001). Individual pine trees, including old-
+growth trees, respond rapidly to thinning in terms of
+reduced water stress at the driest period of the growing
+season and increased resin ﬂow, a defense against bark
+beetles (Stone and others 1999; Feeney and others 1998),
+with the greatest responses at the lowest densities (Skov
+and others 2005). Although there is clearly overlap in terms
+of the conservation beneﬁts of treatments, not all goals are
+necessarily achieved together. For example, in higher-ele-
+vation ponderosa pine forests where Abies and Pseudots-
+uga have increased in density since ﬁre exclusion,
+removing many of these trees may be beneﬁcial from the
+perspectives of ecological restoration of the pine stands and
+reducing the vertical canopy fuels created by the long
+crowns of these shade-tolerant species (Fule´ and others
+2006), but retaining many of these trees may limit pine
+Environmental Management
+123
+
+bark beetle outbreaks by keeping the stands mixed in
+species (Waring and O0Hara 2005). It is probable that cli-
+mate change will occur more rapidly than trees can migrate
+into new ranges (Neilson and others 2005). If this occurs,
+the population of susceptible ponderosa pine may decline
+in the southwest, limiting host material to support beetle
+outbreaks.
+Acknowledgments
+This work was supported, in part, by the
+National Center for Ecological Analysis and Synthesis and The
+Nature Conservancy as part of a Distributed Graduate Seminar. We
+appreciate the interactions and feedback we received from the many
+individuals involved in the seminar.
+References
+Ayres MP, Lombardero MJ (2000) Assessing the consequences of
+climate change for forest herbivores and pathogens. The Science
+of the Total Environment 262:263–286
+Barkawi LS, Francke W, Blomquist GJ, Seybold SJ (2003) Frontalin:
+De novo biosynthesis of an aggregation pheromone component
+by Dendroctonus spp. bark beetles (Coleoptera: Scolytidae).
+Insect Biochemistry and Molecular Biology 33(8):773–788
+Beal JA (1933) Temperature extremes as factors in the biology of
+southern pine beetle. Journal of Forestry 31:329–336
+Breece CR, Kolb TE, Dickson BG, McMillin JD, Clancy KM (2007)
+Prescribed ﬁre effects on bark beetle activity and tree mortality
+in southwestern ponderosa pine forests. Forest Ecology and
+Management 255:119–128
+Breshears DD, Cobb NS, Rich PM, Price KP, Allen CD, Balice RG,
+Romme WH, Kastens JH, Floyd ML, Belnap J, Anderson JJ,
+Myers O, Meyerd CW (2005) Regional vegetation die-off in
+response to global-change-type drought. Proceedings of the
+National Academy of Sciences 102:15144–15148
+Brooker RW, Travis JMJ, Clark EJ, Dytham C (2007) Modelling
+species’ range shifts in a changing climate: The impacts of biotic
+interactions, dispersal distance and the rate of climate change.
+Journal of Theoretical Biology 245:59–65
+Brown DE, Lowe CH (1980) Biotic communities of the Southwest.
+U.S. Forest Service General Technical Report RM-73
+Byers JA (1989) Behavioral mechanisms involved in reducing
+competition in bark beetles. Holarctic Ecology 12:466–476
+Calkin DE, Gebert KM, Jones JG, Neilson RP (2005) Forest Service
+large ﬁre area burned and suppression expenditure trends, 1970–
+2002. Journal of Forestry 103:179–183
+Cibrian-Tovar D, Mendez-Montiel JT, Campos-Bolanos R, Yates HO,
+Flores-Lara J (1995) Insectos Forestales de Mexico. Universidad
+Autonoma Chapingo, Publication #6, 453 pp
+Coppedge BR, Stephen FM, Felton GW (1994) Variation in size and
+lipid content of adult southern pine beetle, Dendroctonus
+frontalis Zimmerman (Coleoptera: Scolytidae) in relation to
+season. Journal of Entomological Science 29(4):570–579
+Cooper CF (1960) Changes in vegetation, structure, and growth of
+southwestern ponderosa pine forests since white settlement.
+Ecological Monographs 30:129–164
+Coulson RN (1979) Population dynamics of bark beetles. Annual
+Review of Entomology 24:417–447
+Council of Economic Advisers (2007) Economic Report of the
+President. U.S. Government Printing Ofﬁce, Washington, DC,
+USA, 358 pp
+Covington WW, Fule PZ, Moore MM, Hart SC, Kolb TK, Mast JN,
+Sackett SS, Wagner MR (1997) Restoring ecosystem health in
+ponderosa pine forest of the Southwest. Journal of Forestry
+95:23–29
+Covington WW, Moore MM (1994) Post settlement changes in
+natural ﬁre regimes and forest structure: ecological restoration of
+old-growth ponderosa pine forests. Journal of Sustainable
+Forestry 2:153–181
+Cue´llar-Rodrı´guez G, Trevin˜o-Garza EJ, Aguirre-Caldero´n OA,
+Jime´nez-Pe´rez J (in press) Distribucio´n de los principales
+insectos de importancia forestal en el estado de Nuevo Leo´n.
+Revista Ciencia UANL
+Dale VH, Joyce LA, McNulty S, Neilson RP, Ayres MP, Flannigan
+MD, Hanson PJ, Irland LC, Lugo AE, Peterson CJ, Simberloff
+D, Swanson FJ, Stocks BJ, Wotton BM (2001) Climate change
+and forest disturbances. BioScience 51(9):723–734
+DeGomez TE (2004) Arizona Forest Health Program (AZFH) Federal
+Federal FY 2004 report. University of Arizona School of Natural
+Resources and Cooperative Extension, Tucson, AZ, 39 pp
+Feeney SR, Kolb TE, Covington WW, Wagner MR (1998) Inﬂuence
+of thinning and burning restoration treatments on presettlement
+ponderosa pines at the Gus Pearson Natural Area. Canadian
+Journal of Forest Research 28:1295–1306
+Fettig CJ, Klepzig KD, Billings RF, Munsond AS, Nebeker TE,
+Negron JF, Nowak JT (2007) The effectiveness of vegetation
+management practices for prevention and control of bark beetle
+infestations in coniferous forests of the western and southern
+United States. Forest Ecology and Management 238:24–53
+Friedenberg NA, Sarkar S, Kouchoukos N, Billings RF, Ayres MP
+(2008) Temperature extremes, density dependence, and southern
+pine beetle (Coleoptera: Curculionidae) population dynamics in
+east Texas. Environmental Entomology 37:650–659
+Fule´ PZ, Covington WW, Smith HB, Springer JD, Heinlein TA,
+Huisinga KD, Moore MM (2002) Comparing ecological resto-
+ration alternatives: Grand Canyon, Arizona. Forest Ecology and
+Management 170:19–41
+Fule´ PZ, Covington WW, Stoddard MT, Bertolette D (2006)
+‘‘Minimal-impact’’ restoration treatments have limited effects
+on forest structure and fuels at Grand Canyon, USA. Restoration
+Ecology 14(3):357–368
+Fule´ PZ, Waltz AEM, Covington WW, Heinlein TA (2001) Measur-
+ing forest restoration effectiveness in hazardous fuels reduction.
+Journal of Forestry 99(11):24–29
+Gagne JA, Wagner TL, Sharpe PJH, Coulson RN, Fargo WS (1982)
+Reemergence of Dendroctonus frontalis (Coleoptera: Scolyti-
+dae) at constant temperatures. Environmental Entomology
+11:1216–1222
+Gaylord ML, Kolb TE, Wallin KF, Wagner MR (2006) Seasonality
+and lure preference of bark beetles (Curculionidae: Scolytinae)
+and associates in a Northern Arizona Ponderosa Pine Forest.
+Environmental Entomology 35:37–47
+Gaylord ML, Williams KK, Hofstetter RW, McMillin JD, DeGomez
+TE, Wagner MR (2008) Inﬂuence of temperature on spring ﬂight
+initiation for southwestern ponderosa pine bark beetles (Cole-
+optera: Curculionidae, Scolytinae). Environmental Entomology
+37:57–69
+Haynes RW (tech. coor.) (2003) An analysis of the timber situation
+in the United States: 1952 to 2050. General Technical Report
+PNW-GTR-560, U.S. Department of Agriculture, Forest Ser-
+vice,
+Paciﬁc
+Northwest
+Research
+Station,
+Portland,
+OR,
+254 pp
+Hofstetter RW, Cronin JT, Klepzig KD, Moser JC, Ayres MP (2006)
+Antagonisms, mutualisms, and commensalisms affect outbreak
+dynamics of the southern pine beetle. Oecologia 147:679–691
+Hofstetter RW, Chen Z, Gaylord ML, McMillin JD, Wagner MR
+(2008) Synergistic effects of a-pinene and exo-brevicomin on
+pine bark beetles and associated insects in Arizona. Journal of
+Applied Entomology 132:387–397
+Environmental Management
+123
+
+Hulme PE (2005) Adapting to climate change: is there scope for
+ecological management in the face of a global threat? Journal of
+Applied Ecology 42:784–794
+Keane RE, Cary GJ, Davies ID, Flannigan MD, Gardner RH, Lavorel
+S, Lenihan JM, Chao L, Rupp TS (2004) A classiﬁcation of
+landscape ﬁre succession models: spatial simulations of ﬁre and
+vegetation dynamics. Ecological Modelling 179:3–27
+Keeley JE (2006) Fire management impacts on invasive plants in the
+western United States. Conservation Biology 20:375–384
+Kolb TE, Holmberg KM, Wagner MR, Stone JE (1998) Regulation of
+ponderosa pine foliar physiology and insect resistance mecha-
+nisms by basal area treatments. Tree Physiology 18:375–381
+Lieutier F, Day K, Battisti A, Gregoire J-C, Evans J (2004) Bark and
+wood boring insects in living trees in Europe, a synthesis.
+Kluwer Academic Publishers, Dordrecht, The Netherlands, 569
+pp
+Loehle C (1996) Forest response to climate change. Journal of
+Forestry 94(9):13–15
+Logan JA, Bentz BJ (1999) Model analysis of mountain pine beetle
+(Coleoptera: Scolytidae) seasonality. Environmental Entomol-
+ogy 28:924–934
+Logan JA, Regniere J, Powell JA (2003) Assessing the impacts of
+global warming in forest pest dynamics. Frontiers in Ecology
+and Environment 1(3):130–137
+Lombardero MJ, Ayres MP, Ayres BD, Reeve JD (2000) Cold
+tolerance of four species of bark beetle (Coleoptera : Scolytidae)
+in North America. Environmental Entomology 29:421–432
+Long JN, Shaw JD (2005) A density management diagram for even-
+aged ponderosa pine stands. Western Journal of Applied Forestry
+20(4):205–215
+Millar CI, Stephenson NL, Stephens SL (2007) Climate change and
+forests of the future: managing in the face of uncertainty.
+Ecological Applications 17(8):2145–2151
+McKenzie D, Gedalof Z, Peterson DL, Mote P (2004) Climatic
+change,
+wildﬁre,
+and
+conservation.
+Conservation
+Biology
+18(4):890–902
+Moser JC, Fitzgibbon BA, Klepzig KD (2005) The Mexican pine
+beetle, Dendroctonus mexicanus: First record in the United
+States and co-occurrence with the southern pine beetle—
+Dendroctonus frontalis (Coleoptera: Scolytidae or Curculioni-
+dae: Scolytidae). Entomological News 116(4):235–243
+Moser JC, Macias-Samano JE (2000) Tarsonemid mite associates of
+Dendroctonus frontalis (Coleoptera: Scolytidae): implications
+for the historical biogeography of D. frontalis (Scholar, teacher,
+and mentor: a tribute to Professor John Borden). Canadian
+Entomologist 132(6):765–771
+Neilson RP, Pitelka LF, Solomon AM, Nathan R, Midgley GF,
+Fragoso JMV, Lische H, Thompson K (2005) Forecasting
+regional to global plant migration in response to climate change.
+BioScience 55(9):749–759
+Nowak J, Asaro C, Kelpzig K, Billings R (2008) The southern pine
+beetle prevention initiative: Working for healthier forests.
+Journal of Forestry 106(5):261–267
+Oliver WW (1995) Is self thinning in ponderosa pine ruled by
+Dendroctonus beetles? In: Forest health through silviculture.
+Proceedings of the 1995 National Silviculture Workshop,
+Mescalero, NM, May8–11, 1995, pp 213–218
+O’Brien RA (2002) Arizona’s Forest Resources, 1999. Resource
+Bulletin RMRS-RB-2. USDA Forest Service Rocky Mountain
+Research Station, Ogden, UT, 122 pp
+O’Brien RA (2003) New Mexico’s Forest Resources, 2000. Resource
+Bulletin RMRS-RB-3. USDA Forest Service Rocky Mountain
+Research Station, Ogden, UT, 124 pp
+O’Hara KL (1998) Silviculture for structural diversity: a new look at
+multiaged systems. Journal of Forestry 96(7):4–10
+Olsen WK, Schmid JM, Mata SA (1996) Stand characteristics
+associated with mountain pine beetle infestations in ponderosa
+pine. Forest Science 42:310–327
+Paine TD (1984) Seasonal response of ponderosa pine to inoculation
+of the mycangial fungi from the western pine beetle. Canadian
+Journal of Botany 62:551–555
+Paine TD, Raffa KF, Harrington TC (1997) Interactions among
+scolytid bark beetles, their associated fungi, and live host
+conifers. Annual Review of Entomology 42:179–206
+Parker TJ, Clancy KM, Mathiasen RL (2006) Interactions among ﬁre,
+insects, and pathogens in coniferous forests of the interior
+western United States and Canada. Agricultural and Forest
+Entomology 8:167–189
+Price TS, Dogett HC, Pye JM, Holmes TP (1990) A history of
+southern pine beetle outbreaks in the southeastern United States.
+The Georgia Forestry Commission, Macon, GA, 66 pp
+Pyne SJ, Andrews PL, Laven RD (1996) Introduction to Wildland
+ﬁre. John Wiley and Sons, Inc., New York, NY, 769 pp
+Reineke LH (1933) Perfecting a stand-density index for even-aged
+forests. Journal of Agricultural Research 46(7):627–638
+Samman S, Logan J (2000) Assessment and response to bark beetle
+outbreaks in the Rocky Mountain area. Report to Congress from
+Forest Health Protection, Washington Ofﬁce, Forest Service,
+U.S. Department of Agriculture. General Technical Report,
+Rocky Mountain Research Station, USDA Forest Service,
+RMRS-GTR-62, Fort Collins, CO, 46 pp
+Sanchez-Martinez G, Wagner MR (2002) Bark beetle community
+structure under four ponderosa pine forest stand conditions in
+northern Arizona. Forest Ecology and Management 170:145–160
+Salinas-Moreno Y, Mendoza MG, Barrios MA, Cisneros R, Macı´as-
+Sa´mano J, Zun˜iga G (2004) Areography of the genus Dendroct-
+onus (Coleoptera: Curculionidae: Scolytinae) in Mexico. Journal
+of Biogeography 31:1163–1177
+Sauvard D (2004) General biology of bark beetles. In: Synthesis A,
+Lieutier F, Day K, Battisti A, Gregoire J-C, Evans J (eds) Bark
+and wood boring insects in living trees in Europe. Kluwer
+Academic Publishers, Dordrecht The Netherlands, pp 63–88
+Seager R, Ting MF, Held IM, Kushnir Y, Lu J, Vecchi G, Huang H-
+P, Harnik N, Leetmaa A, Lau N-C, Li C, Velez J, Naik N
+(2007) Model projections of an imminent transition to a more
+arid
+climate
+in
+southwestern
+North
+America.
+Science
+316:1181–1184
+Skov K, Kolb TE, Wallin KF (2005) Difference in radial growth
+response to restoration thinning and burning treatments between
+young and old ponderosa pine in Arizona. Western Journal of
+Applied Forestry 20:36–43
+Snider G, Daugherty PJ, Wood D (2006) The irrationality of
+continued ﬁre suppression: an avoided cost analysis of ﬁre
+hazard reduction treatments versus no treatment. Journal of
+Forestry 104:431–437
+Somme L (1982) Supercooling and winter survival in terrestrial
+arthropods.
+Comparative
+Biochemistry
+and
+Physiology
+73A:519–543
+Stireman JO III, Dyer LA, Janzen DH, Singer MS, Lill JT, Marquis
+RJ, Ricklefs RE, Gentry GL, Hallwachs W, Coley PD, Barone
+JA, Greeney HF, Connahs H, Barbosa P, Morais HC, Diniz IR
+(2005) Climatic unpredictability and parasitism of caterpillars:
+Implications of global warming. Proceedings of the National
+Academy of Sciences 102(48):17384–17387
+Stone JE, Kolb TE, Covington WW (1999) Effects of restoration
+thinning on pre-settlement Pinus ponderosa in northern Arizona.
+Restoration Ecology 7:172–182
+Thatcher RC, Barry PJ (1982) Southern pine beetle. Forest insect and
+disease leaﬂet 49. USDA Forest Service, Southern Forest
+Experiment Station, Pineville, LA, 7 pp
+Environmental Management
+123
+
+Tran JK, Ylioja T, Billings RF, Regniere J, Ayres MP (2007) Impact
+of minimum winter temperatures on the population dynamics of
+Dendroctonus frontalis. Ecological Applications 17(3):882–899
+Ungerer MJ, Ayres MP, Lombardero MJ (1999) Climate and the
+northern distribution limits of Dendroctonus frontalis Zimmer-
+man
+(Coleoptera:
+Scolytidae).
+Journal
+of
+Biogeography
+26:1133–1145
+USDA Forest Service (2001) Forest insect and disease conditions
+report, 1998–2000
+USDA Forest Service Region 3 (2007) Transaction evidence appraisal
+bulletin no. 07 CY 07 3rd June, 2 pp
+Vite JP, Islas SJ, Renwick AA, Hughes PR, Kliefoth RH (1974)
+Biochemical and biological variation of southern pine beetle
+populations in North and Central America. Zeitschrift Fur
+Angewandte Entomologie 75:422–435
+Wagner TL, Gagne JA, Sharpe PJH, Coulson RN (1984) A
+biophysical model of southern pine beetle, Dendroctonus
+frontalis Zimmermann (Coleoptera: Scolytidae) development.
+Ecological Modeling 21:125–147
+Wallin KF, Kolb TE, Skov KR, Wagner MR (2008) Forest
+management
+treatments,
+tree
+resistance,
+and
+bark
+beetle
+resources utilization in ponderosa pine forests of northern
+Arizona. Forest Ecology and Management 255:3263–3269
+Walther GR, Post E, Convey P, Menzel A, Parmesan C, Beebee TJ,
+Fromentin JM, Hoegh-Guldberg O, Bairlein F (2002) Ecological
+responses to recent climate change. Nature 416:389–395
+Waring KM, O0Hara KL (2005) Silvicultural strategies in forest
+ecosystems affected by introduced pests. Forest Ecology and
+Management 209:27–41
+Washington WM, Weatherly JW, Meehl GA, Semtner AJ Jr, Bettge
+TW, Craig AP, Strand WG Jr, Arblaster J, Wayland VB, James
+R, Zhang Y (2000) Parallel Climate Model (PCM): control and
+transient simulations. Climate Dynamics 16(10–11):755–774
+Williams DW, Liebhold AM (2002) Climate change and the outbreak
+ranges of two North American bark beetles. Agricultural and
+Forest Entomology 4:87–99
+Williams KK, McMillin JD, DeGomez TE, Clancy KM, Miller A
+(2008) Inﬂuence of elevation on bark beetle (Coleoptera:
+Curculionidae, Scolytinae) community structure and ﬂight
+periodicity in ponderosa pine forests of Arizona. Environmental
+Entomology 37(1):94–109
+Wood DL (1982) The bark and ambrosia beetles of north and Central
+America (Coleoptera: Scolytidae), a taxonomic monograph.
+Great Basin Naturalist Memoirs 6, 1359 pp
+Zausen GL, Kolb TE, Bailey JD, Wagner MR (2005) Long-term
+impacts of stand management on ponderosa pine physiology and
+bark beetle abundance in northern Arizona: A replicated
+landscape study. Forest Ecology and Management 218:291–305
+Environmental Management
+123

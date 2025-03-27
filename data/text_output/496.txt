@@ -1,0 +1,2817 @@
+ORIGINAL
+ARTICLE
+Understorey plant community structure
+in lower montane and subalpine forests,
+Grand Canyon National Park, USA
+Daniel C. Laughlin1*, Jonathan D. Bakker1 and Peter Z. Fule´1,2
+1Ecological Restoration Institute and 2School of
+Forestry, Northern Arizona University,
+Flagstaff, AZ, USA
+*Correspondence: Daniel Laughlin, Ecological
+Restoration Institute, Northern Arizona
+University, PO Box 15017, Flagstaff, AZ 86011,
+USA. E-mail: daniel.laughlin@nau.edu
+ABSTRACT
+Aim Our objectives were to compare understorey plant community structure
+among forest types, and to test hypotheses relating understorey community
+structure within lower montane and subalpine forests to ﬁre history, forest
+structure, fuel loads and topography.
+Location Forests on the North Rim of Grand Canyon National Park, Arizona,
+USA.
+Methods We measured understorey (< 1.4 m) plant community structure in
+0.1-ha plots. We examined differences in univariate response variables among
+forest types, used permutational manova to assess compositional differences
+between forest types, and used indicator species analysis to identify species
+driving the differences between forest types. We then compiled sets of proposed
+models for predicting plant community structure, and used Akaike’s information
+criterion (AICC) to determine the support for each model. Model averaging was
+used to make multi-model inferences if no single model was supported.
+Results Within the lower montane zone, pine–oak forests had greater
+understorey plant cover, richness and diversity than pure stands of ponderosa
+pine (Pinus ponderosa P. & C. Lawson var. scopulorum Engelm.). Plant cover
+was negatively related to time since ﬁre and to ponderosa pine basal area, and was
+highest on northern slopes and where Gambel oak (Quercus gambelii Nutt.) was
+present. Species richness was negatively related to time since ﬁre and to
+ponderosa pine basal area, and was highest on southern slopes and where Gambel
+oak was present. Annual forb species richness was negatively related to time since
+ﬁre. Community composition was related to time since ﬁre, pine and oak basal
+area, and topography. Within subalpine forests, plant cover was negatively related
+to subalpine ﬁr basal area and amounts of coarse woody debris (CWD), and
+positively related to Engelmann spruce basal area. Species richness was negatively
+related to subalpine ﬁr basal area and amounts of CWD, was positively related to
+Engelmann spruce basal area, and was highest on southern slopes. Community
+composition was related to spruce, ﬁr and aspen basal areas, amounts of CWD,
+and topography.
+Main conclusions In montane forests, low-intensity surface ﬁre is an important
+ecological process that maintains understorey communities within the range of
+natural variability and appears to promote landscape heterogeneity. The presence
+of Gambel oak was positively associated with high ﬂoristic diversity. Therefore
+management that encourages lightning-initiated wildﬁres and Gambel oak
+production
+may
+promote
+ﬂoristic
+diversity.
+In
+subalpine
+forests,
+warm
+southern slopes and areas with low amounts of subalpine ﬁr and CWD were
+positively associated with high ﬂoristic diversity. Therefore the reduction of CWD
+and forest densities through managed wildﬁre may promote ﬂoristic diversity,
+although ﬁre use in subalpine forests is inherently more difﬁcult due to intense
+ﬁre behaviour in dense spruce–ﬁr forests.
+Journal of Biogeography (J. Biogeogr.) (2005) 32, 2083–2102
+ª 2005 Blackwell Publishing Ltd www.blackwellpublishing.com/jbi
+doi:10.1111/j.1365-2699.2005.01357.x
+2083
+
+INTRODUCTION
+Management of montane and subalpine forests requires an
+understanding of the range of natural variability of understo-
+rey plant community structure. ‘Natural variability’ is the
+range of ecological conditions found in intact systems, and in
+North America is often regarded as the range of conditions
+within the ecosystem prior to Euro-American settlement
+(Landres et al., 1999). Various approaches have been used to
+quantify the natural variability of tree species in south-western
+forests, in particular, dendrochronological methods have been
+used to determine overstorey reference conditions (Fule´ et al.,
+1997; Mast et al., 1999). However, less information is available
+concerning the range of natural variability of understorey plant
+communities.
+One useful approach used to examine the variability of
+understorey communities has been to measure relict sites that
+have been relatively undisturbed since Euro-American settle-
+ment (Gildar et al., 2004). Unfortunately, the vast majority of
+upland forests in the western USA have been affected by
+commercial logging, overgrazing by domestic livestock (Belsky
+& Blumenthal, 1997), and the exclusion of surface ﬁres (Agee,
+1993). However, Grand Canyon National Park (GCNP) contains
+the largest unharvested (Warren et al., 1982), minimally grazed,
+and occasionally burned (Fule´ et al., 2003a) forest ecosystem in
+Arizona, and therefore provides valuable sites for measuring
+natural variability. We focused our study on lower montane and
+subalpine forests (sensu Marr, 1961; Brown & Lowe, 1980). The
+lower montane zone (2200–2350 m, hereafter ‘montane’) is
+dominated by ponderosa pine (Pinus ponderosa P. & C. Lawson
+var. scopulorum Engelm.) and Gambel oak (Quercus gambelii
+Nutt.) forest. The upper montane zone (2350–2600 m) consists
+of dense ponderosapine andmixed conifer forests that have been
+heavily invaded by shade-tolerant and ﬁre-intolerant trees such
+as white ﬁr [Abies concolor (Gord. & Glend.) Lindl. ex Hildebr.]
+(Fule´ et al., 2004; Mast and Wolf, 2004); the plant community
+structure within this zone was examined by Huisinga et al.
+(2005) and was not included in this analysis. The subalpine zone
+(2600–2900 m) is a diverse mixture of Engelmann spruce (Picea
+engelmannii Parry ex Engelm.), subalpine ﬁr [Abies lasiocarpa
+(Hook.) Nutt.], aspen (Populus tremuloides Michx.) and mixed
+conifer forests with ponderosa pine on southern slopes.
+Natural variability of understorey plant community struc-
+ture is determined by complex interactions of biotic and
+abiotic factors. Our use of the phrase ‘plant community
+structure’ is inclusive, including plant species composition,
+richness and abundance (Tilman, 1982; Krebs, 1994). In
+upland forest ecosystems of western North America, it has
+been proposed that understorey plant community assemblages
+are strongly inﬂuenced by ﬁre (Crawford et al., 2001; Scho-
+ennagel et al., 2004), forest structure and tree species compo-
+sition (Naumburg & DeWald, 1999; Chipman & Johnson,
+2002), fuel load (Laughlin et al., 2004) and topography (Zobel
+et al., 1976).
+Montane forest communities in the south west have evolved
+in an environment that historically burned every 2–20 years by
+low-intensity surface ﬁres (Swetnam & Baisan, 1996; Moore
+et al., 1999). Dendrochronological analyses of our study sites
+have not detected any stand-replacing ﬁres in the montane
+zone before Euro-American settlement (Fule´ et al., 2003a),
+although stand-replacing ﬁres appear to have occurred in
+northern Rocky Mountain ponderosa pine forests (Ehle &
+Baker, 2003; Pierce et al., 2004). Subalpine plant communities
+in North America are adapted to an evolutionary environment
+characterized by short growing seasons and a disturbance
+regime of infrequent, high-intensity crown ﬁres (Agee, 1993;
+Kipfmueller & Baker, 2000; Johnson et al., 2001; Fule´ et al.,
+2003b). In both systems, ﬁre has strong direct effects on
+understorey plant community structure by altering site con-
+ditions and microclimate. Fire also affects forest structure and
+fuel loads which, in turn, may directly inﬂuence the under-
+storey plant community.
+Plant community structure may be indirectly related to ﬁre
+history through the effect of ﬁre on forest structure: established
+overstorey trees outcompete many herbaceous species for
+resources (Riegel et al., 1995). In montane and subalpine
+systems, plant production and species richness are generally
+positively related to light availability mediated through abun-
+dances of conifer and hardwood tree species (Daubenmire,
+1943; Oosting & Reed, 1952; Ellison, 1954; Langenheim, 1962;
+Fonda & Bliss, 1969; Reynolds, 1969; Despain, 1973; Ffolliott,
+1983; Tapia et al., 1990; Stromberg & Patten, 1991; Moore &
+Deiter, 1992; Reich et al., 2001). It has been shown that species
+richness is higher in conifer stands with greater light availab-
+ility (Chipman & Johnson, 2002); plant production in aspen
+forests decreases as conifer abundance increases; and clear-
+cutting spruce–ﬁr stands in Colorado increases forage pro-
+duction (Kranz & Linder, 1973; Regelin and Wallmo, 1978;
+Mueggler, 1985). Hardwood species, such as aspen and
+Gambel oak, might have a positive effect on herbaceous
+plant communities relative to conifers by increasing litter
+quality through greater litterfall nitrogen (Daubenmire, 1953;
+Klemmedson, 1987, 1991; Reich et al., 2001), and by changing
+the quality of light in the understorey.
+Plant community structure may also be indirectly related to
+ﬁre history through ﬁre’s reducing effects on fuel loads.
+Accumulated litter can intercept light, alter soil microclimates,
+form physical barriers to plant emergence (Facelli & Pickett,
+Keywords
+Akaike’s information criterion, Kaibab Plateau, model selection, natural
+variability, North Rim, Pinus ponderosa, Populus tremuloides, Quercus gambelii,
+spruce–ﬁr, time since ﬁre.
+D. C. Laughlin, J. D. Bakker and P. Z. Fule´
+2084
+Journal of Biogeography 32, 2083–2102, ª 2005 Blackwell Publishing Ltd
+
+1991), and affect germination (Sydes & Grime, 1981). Previous
+studies on the North Rim of GCNP have demonstrated that
+recently burned montane forests have shallower duff layers
+(semi-decomposed leaf litter) and greater understorey species
+richness than ﬁre-excluded forests (Gildar et al., 2004; Laugh-
+lin et al., 2004; Huisinga et al., 2005). Subalpine forests are
+known for an abundance of large coarse woody debris (CWD)
+(Langenheim, 1962; Despain, 1973; Crouch, 1985), which can
+also inﬂuence patterns of understorey vegetation.
+Topography can affect community structure in the region
+because of increased insolation on southern slopes and
+prolonged snow packs on northern slopes (Fonda & Bliss,
+1969; Kuramoto & Bliss, 1970; Douglas, 1972; Canaday &
+Fonda, 1974; Anderson et al., 1979). Increased insolation on
+southern exposures raises soil temperatures and evaporation
+rates, and reduces the duration of the winter snow pack
+(Patten, 1963). The shorter growing season in areas of deep
+snow may be the most critical environmental factor affected by
+snow cover (Knight et al., 1977). Subalpine plants commonly
+wilt at midday or while affected by sunﬂecks in response to
+increased insolation and water stress (Young & Smith, 1979;
+Smith, 1981). Plant community composition was related to
+moisture gradients in the Sangre de Cristo Range, Colorado,
+USA (Allen & Peet, 1989), and also in short-grass prairie,
+Canada (Lieffers & Larkin-Lieffers, 1986). These studies
+suggest that moisture availability mediated by topographic
+position can inﬂuence understorey plant community structure
+across many ecosystems.
+Our objective was to identify the combination of these biotic
+and abiotic variables that provides the best model to explain
+variation in understorey plant community structure within
+montane and subalpine forests. Determining the best set of
+explanatory variables to make robust predictions about the
+structure of plant communities has been a central theme in
+ecology for decades. The traditional approach has been to test
+null hypotheses with normal theory-based statistics such as the
+F test; but F tests have been shown to select simpler models
+even when more complex ones were more appropriate (Ludden
+et al., 1994). Model-selection techniques grounded in likelihood
+theory, such as Akaike’s information criterion (AICC), are
+increasingly being used in ecology to draw inferences from a set
+of competing hypotheses (Johnson & Omland, 2004). Model
+selection simultaneously confronts several competing hypoth-
+eses with data, and is used to identify a single best model or, if
+Figure 1 Distribution of study sites and plot locations on the North Rim of Grand Canyon National Park in northern Arizona, USA.
+Plant community structure in Grand Canyon forests
+Journal of Biogeography 32, 2083–2102, ª 2005 Blackwell Publishing Ltd
+2085
+
+there is no single best model, to make inferences based on
+weighted support from several competing models (Burnham &
+Anderson, 2002). We used the literature and theory to develop
+sets of models explaining understorey plant community
+structure, and used AIC to determine which model or
+combination of models was best supported by our data.
+STUDY AREA
+The study sites are located on the North Rim of GCNP
+(Fig. 1), at the southern extent of the Kaibab Plateau, a dome-
+shaped land form with gradual relief and complex drainage
+(Merkle, 1962). Plot locations spanned an elevational gradient
+from 2200 to 2800 m, and contained a range of slopes, aspects
+and forest types. The montane forests are dominated by
+P. ponderosa and Q. gambelii. Montane forest understoreys on
+the North Rim are composed primarily of C3 grasses such as
+Poa fendleriana (Steud.) Vasey and Elymus elymoides (Raf.)
+Swezey, unlike other ponderosa pine forests of northern
+Arizona, which are more often dominated by C4 grasses such
+as Bouteloua spp. and Muhlenbergia spp. (Arnold, 1950).
+Therefore montane forests on the North Rim may be
+ﬂoristically more similar to Rocky Mountain lower montane
+forests, which are slightly cooler and wetter than other south-
+western pine forests.
+The subalpine forests are dominated by Engelmann spruce,
+subalpine ﬁr, quaking aspen, white ﬁr and Douglas ﬁr
+[Pseudotsuga menziesii (Mirbel) Franco]. Subalpine forest
+understoreys in Arizona differ ﬂoristically from those in the
+Rocky Mountains and the Paciﬁc Northwest, particularly due
+to the absence of Vaccinium spp. and bryophytes (Dauben-
+mire, 1943; Patten, 1963; Fonda & Bliss, 1969; Despain, 1973),
+and the occurrence of ponderosa pine on southern slopes
+(Rasmussen, 1941). We refer to this zone as ‘subalpine’
+because it is dominated by spruce–ﬁr forests, although we
+acknowledge that high-elevation forests on the Kaibab Plateau
+differ somewhat from those in other subalpine areas in the
+western USA (Rasmussen, 1941; Merkle, 1954, 1962).
+Soils on the North Rim have been tentatively classiﬁed as
+Typic Paleustalfs (A. Dewall, National Resource Conservation
+Service, pers. comm.) derived from Kaibab limestone. The
+56-year average annual precipitation at the North Rim ranger
+station (elevation 2564 m) is 647 mm; much of this total
+precipitation falls as snow in the winter months, with an
+average annual snowfall of 3560 mm. Precipitation is generally
+lower in the montane zone and higher in the subalpine zone;
+Pearson (1931) estimated that Arizona ponderosa pine forests
+receive 540 mm and spruce–ﬁr forests 870 mm precipitation
+annually. Temperatures range from an average July maximum
+of 25.1 C to an average January minimum of )8.2 C
+(Western Regional Climate Center, http://www.wrcc.dri.edu).
+The North Rim of GCNP provides valuable sites for
+studying plant community reference conditions. Limited
+livestock grazing occurred on the Kaibab Plateau as early as
+1871 (Woodbury, 1944) and signiﬁcant cattle grazing occurred
+by 1885 (Rasmussen, 1941), but cattle and sheep grazing
+essentially ceased in GCNP in the mid-1930s, when a fence was
+built along the boundary to exclude domestic animals. This
+fence still excludes most domestic livestock, although occa-
+sionally animals trespass into GCNP where downed logs have
+damaged the fence. In addition, remote lower montane forests
+on the North Rim of GCNP have had relatively uninterrupted
+ﬁre regimes (Fule´ et al., 2002, 2003a,b) because it was difﬁcult
+for ﬁreﬁghters to access remote areas in the early 1900s.
+Moreover, GCNP advocates the restoration of ecological
+processes, and therefore has allowed lightning-initiated ﬁres
+to burn since the 1980s. As a result, these relict sites are rare
+examples of western forest landscapes close to the range of
+natural variability (Fule´ et al., 2002). As such, they offer a place
+to test hypotheses about how plant community structure is
+related to biotic and abiotic factors under conditions of
+minimal anthropogenic disturbance.
+Fire-scar analyses indicate that montane forests burned
+frequently before 1880 (6–9-year mean ﬁre return interval; Fule´
+et al., 2003a). Around 1880, when Euro-American settlement
+began, the frequent surface-ﬁre regime in south-western pine
+forests was disrupted by overgrazing and a successful ﬁre-
+suppression policy. Post-1880, landscape-scale surface ﬁres are
+therefore relatively rare events in south-western forests. Several
+landscape-scale surface ﬁres occurred after 1880 in lower
+montane forests on the North Rim (Table 1; Fule´ et al., 2003a).
+Many ﬁres occurred on Powell and Rainbow Plateaus, a few
+Table 1 Fire history and number of 0.1-ha
+plots within each forest type at each study site
+Study site
+Fire history*
+Forest type
+Number of
+ﬁres since
+1879
+Last large
+ﬁre year
+Pine-oak
+Ponderosa
+pine
+Mixed
+conifer Aspen Spruce–ﬁr
+Montane (n ¼ 82)
+Powell Plateau
+12
+1987
+22
+14
+–
+–
+–
+Rainbow Plateau
+8
+1993
+15
+10
+–
+–
+–
+Fire Point
+5
+1923
+4
+11
+–
+–
+–
+Galahad Point
+0
+1879
+1
+5
+–
+–
+–
+Subalpine (n ¼ 60)
+Little Park
+0
+1879
+–
+4
+15
+13
+28
+*Data from Fule´ et al. (2003a,b).
+D. C. Laughlin, J. D. Bakker and P. Z. Fule´
+2086
+Journal of Biogeography 32, 2083–2102, ª 2005 Blackwell Publishing Ltd
+
+occurred on Fire Point, and no ﬁres occurred on Galahad Point
+(Fig. 1; Table 1). The Galahad Point and Fire Point sites are
+more accessible to ﬁre crews, which is probably why they have
+burned less frequently and longer ago than the more remote
+Powell and Rainbow Plateaus (Fig. 1). Inclusion of all sites in
+the analysis was important to assess the effects of a variable ﬁre
+regime on the understorey community.
+The subalpine forests at Little Park (Fig. 1) historically had a
+mixed-severity ﬁre regime, which consisted of a mixture of
+low-intensity surface ﬁres on warm, southern slopes (31-year
+mean ﬁre return interval) and infrequent, patchy, stand-
+replacing ﬁres (currently 120–230 years since the last ﬁre)
+(Fule´ et al., 2003b). No signiﬁcant ﬁres have occurred at Little
+Park since 1879 (Table 1). However, the absence of ﬁre since
+1879 at high elevation is not entirely out of the historical range
+of variability, since these forests typically experience long
+intervals between ﬁres (Agee, 1993). Approximately 60% of the
+forest at Little Park originated from stand-replacing ﬁre (Fule´
+et al., 2003b).
+METHODS
+Data collection
+Permanent
+plots based on the
+National Park
+Service’s
+ﬁre-monitoring protocol (NPS, 1992; Reeberg, 1995) were
+established in the study area to examine forest structure,
+composition and ﬁre histories across the elevation gradient.
+Each plot was classiﬁed according to forest type (see below)
+and elevation zone (montane or subalpine). Plots were located
+on a 300-m grid in the montane zone and a 600 · 1200-m grid
+in the subalpine zone. The wider grid spacing in the subalpine
+zone was used to capture the landscape-level heterogeneity of a
+mixed-severity ﬁre regime (Fule´ et al., 2003a,b). Analyses with
+Moran’s I (unpublished) found no evidence for spatial
+autocorrelation among understorey variables, so plots were
+considered independent of each other. Each plot was 0.1 ha
+(20 · 50 m) in size and oriented with the 50-m sides uphill–
+downhill to maximize sampling variability along the elevation
+gradient. Forest structure-sampling methods and results were
+reported by Fule´ et al. (2002, 2003b).
+We sampled understorey plant cover, species richness and
+species composition in the summers of 1998–2001. Understorey
+plant communities were sampled using belt- and point-inter-
+cept transects. Complete species lists were made of all vascular
+plants (forbs, grasses, sedges, shrubs, and young trees below
+breast height, < 1.4 m) and ferns within two 10 · 50-m belt
+transects per plot. Each species found in the study area occurred
+on zero, one, or two belt transects per plot; these data were used
+for the analysis of community composition and the assessment
+of relative abundance. We lumped species to the generic level
+when vegetative characteristics were insufﬁcient to warrant
+identiﬁcation to species. For example, ‘Chenopodium spp.’
+includes Chenopodium fremontii, Chenopodium berlanderii, and
+possibly others. Nomenclature follows USDA NRCS (2004).
+Species were classiﬁed into ﬁve functional groups: annual forbs
+(including biennial forbs); perennial forbs (including one fern
+species); graminoids; shrubs; and trees. We did not sample
+bryophytes since they are poorly represented in south-western
+subalpine forests. Understorey species richness did not vary in
+correspondence with year of sampling, indicating that differ-
+ences detected between zones or forest types were not due to
+inter-annual climatic differences or sampling effects.
+A 50-m point-intercept transect was established in the centre
+of each belt transect, and the presence of vascular plants and
+trees below breast height was recorded at a point every 30 cm
+along each transect. A plant was recorded if any part of its
+living biomass occurred on a point along the line. We summed
+the data from the two transects per plot, yielding a total of
+332 points per plot. Percentage foliar cover was calculated by
+dividing the number of points containing a plant by the
+332 points per plot.
+Forest ﬂoor characteristics, including duff (Oe + a horizons;
+semi-decomposed leaf litter) and CWD were measured on four
+permanent 15.24-m planar transects per plot, using the
+method outlined by Brown (1974) and Sackett (1980). The
+duff layer comprised the combined fermentation and humus
+layers located between the litter layer and mineral soil (Brown,
+1974). Rotten and sound CWD were combined in this analysis,
+and included downed logs > 7.62 cm in diameter. We
+recorded the diameter and length of downed logs to estimate
+the mass of CWD in Mg ha)1.
+Topography was measured using an index of moisture
+availability (IMA) calculated for each plot as:
+IMA ¼ cosðaspect  45Þ  slope category
+where the following slope categories were used: 0 (< 1%),
+1 (1–7%), 2 (8–15%), 3 (16–25%), 4 (> 25%). These
+categories were adapted from those of Batek et al. (1999) to
+ﬁt the steeper western terrain. Therefore the index ranges from
+)4 (xeric, steep, south-facing slopes) to + 4 (mesic, north-
+facing slopes). This classiﬁcation provides an index of moisture
+availability as inﬂuenced by drainage and exposure.
+Time since ﬁre
+A wealth of ﬁre history information was available for our
+montane study sites; ﬁre history was not examined for
+subalpine forests because probably none has burned since
+1879 (Fule´ et al., 2003b). We estimated the number of years
+since the last surface ﬁre (hereafter, ‘time since ﬁre’) for each
+plot in the montane forests using two complementary sources:
+ﬁre perimeter maps and interpolation of ﬁre scar data. Fire
+perimeter maps were obtained from the National Park Service
+and included ﬁres since the 1980s. Long-term ﬁre histories of
+the study sites by Fule´ et al. (2003a,b) included ﬁre events
+since the 1700s. Plots at Powell and Rainbow Plateaus last
+burned 5–11 years before sampling; plots at Fire Point,
+75–119 years before sampling; and plots at Galahad Point,
+122 years before sampling (Table 1).
+To interpolate ﬁre scar data, we mapped the locations of all
+sampled trees in a GIS (arcview 3.3; ESRI, 2002). The areal
+Plant community structure in Grand Canyon forests
+Journal of Biogeography 32, 2083–2102, ª 2005 Blackwell Publishing Ltd
+2087
+
+extents of ﬁres recorded by at least 10% of the trees sampled
+were estimated using Thiessen polygons (Farris et al., 2004).
+This
+method
+requires
+virtually
+no
+parameterization
+or
+assumptions, and closely resembles approaches used in the
+ﬁre history literature (Farris et al., 2004). Time since ﬁre was
+determined by overlaying the plots on the ﬁre polygons. Plots
+located within the perimeters of multiple ﬁres were assigned
+the date of the most recent ﬁre. This approach to mapping ﬁres
+has limitations and cannot directly estimate time since ﬁre, so
+the uncertainty about our estimates added error to the models.
+However, Farris et al. (2004) found a strong spatial correlation
+(81%) between ground-surveyed ﬁre perimeters and Theissen
+polygons generated from ﬁre-scarred trees in a southern
+Arizona forest. Most of the error in their study was due to
+underestimation of actual ﬁre size, so our estimates for time
+since ﬁre could be high.
+Previous studies of ﬁre effects on understorey vegetation
+have noted potential confounding effects of time since ﬁre and
+ﬁre frequency, and have therefore held one variable constant to
+study the effects of the other (Fox & Fox, 1986), or have taken
+a multivariate approach (Watson & Wardell-Johnson, 2004).
+In our study, ﬁre frequency and time since ﬁre were highly
+correlated: sites that have burned recently have also burned
+frequently, and vice versa (Table 1). We chose to use time since
+ﬁre, instead of ﬁre frequency, for this analysis as the data
+resolution per plot was higher for time since ﬁre.
+Forest type
+In companion studies of forest structure (Fule´ et al., 2002,
+2003b), plots were classiﬁed into four forest types (ponderosa
+pine, mixed conifer, aspen and spruce–ﬁr) on the basis of their
+overstorey importance values, which had been calculated as the
+sum of relative frequency (stem density) and relative abundance
+(basal area) (Taylor, 2000). For example, a plot was considered
+an aspen plot if aspen had the highest importance value of all tree
+species on that plot, even if there was a large conifer component.
+Therefore ponderosa pine forest was dominated by ponderosa
+pine; mixed conifer forest by Douglas-ﬁr and white ﬁr; aspen
+forest by aspen; and spruce–ﬁr forest by Engelmann spruce and
+subalpine ﬁr. Picea pungens Engelm. (blue spruce) was grouped
+with P. engelmanii due to identiﬁcation difﬁculties (Fule´ et al.,
+2003b). We further subdivided plots in the ponderosa pine forest
+type into ‘pine–oak’ forest if a plot contained Gambel oak, and
+into ‘ponderosa pine’ forest if it did not contain oak (Table 1). In
+total, therefore, we recognized ﬁve forest types for this analysis:
+pine–oak, ponderosa pine, mixed conifer, aspen and spruce–ﬁr.
+Univariate analyses comparing forest types were carried out
+on nine plant community structural characteristics: total species
+richness (number of species per 0.1 ha); species richness in each
+of ﬁve functional groups (annual forbs, perennial forbs,
+graminoids, shrubs, trees); total exotic species richness; plant
+cover (%); plant diversity (Shannon’s H¢). Comparisons of
+univariate community characteristics between forest types were
+made with Kruskal–Wallis H tests (a ¼ 0.05) as data did not
+meet assumptions of normality or equal variances. Signiﬁcant
+results were followed by post hoc multiple comparisons made
+with Bonferroni-adjusted Mann–Whitney U tests.
+Multivariate analyses
+We used non-metric multidimensional scaling (NMDS) ordi-
+nations to illustrate compositional differences in understorey
+vegetation among plots across the study area. Ordination of
+species composition was conducted using pc-ord software (ver.
+4.25; McCune & Mefford, 1999). NMDS arranges the plots in a
+conﬁguration that minimizes the inter-plot distances (stress).
+We used the Bray–Curtis distance measure (Faith et al., 1987)
+with random starting conﬁgurations, 100 runs with real data, a
+maximum of 400 iterations per run, and a stability criterion of
+0.00001. A Monte Carlo test with 9999 randomizations was used
+to determine how likely the observed stress value of the ﬁnal
+solution would be by chance alone. Species that occurred on
+< 5% of the plots were omitted from the ordination and from
+analyses of species composition, but were included in univariate
+analyses of species richness (following McCune & Grace, 2002).
+Comparisons of species composition among forest types
+within elevation zones were made with permutational manova
+using distlm5 software (Anderson, 2005). This software
+permits the analysis of multivariate data with any distance
+measure and linear model, and can handle unbalanced designs.
+The calculated statistic is termed a ‘pseudo-F’ and is calculated,
+like a traditional F statistic, as the sum of the squared distances
+among groups divided by the sum of the squared distances
+within groups (for details see Anderson, 2001; McArdle &
+Anderson, 2001). Data were untransformed and unstandar-
+dized. Dissimilarities were calculated using the Bray–Curtis
+distance measure. If differences were detected between groups,
+pairwise comparisons were made with a pseudo-t statistic
+(Anderson, 2001). P values were calculated by permuting the
+observations 9999 times, so no assumptions regarding the
+distributional form of the data were required.
+The indicator species analysis (ISA) routine in pc-ord was
+used to explain the results of the permutational manova by
+determining which species were most abundant and most
+frequent within the deﬁned groups. Groups were deﬁned based
+on results of the permutational manova. In particular, forest
+types that did not differ in community composition were
+grouped together for the ISA. This method allowed us to detect
+which species differed between elevation zones, and which
+drove the statistical differences between forest types. An
+indicator value (INDVAL) is the product of the relative
+abundance (calculated by species presence on number of belts
+per plot) and relative frequency (calculated by species presence
+on number of plots) of a species (Dufreˆne & Legendre, 1997).
+INDVAL was calculated for each species in each grouping
+(between elevation zones and among forest types within each
+zone). Species were considered to be indicators of the group in
+which they had the largest INDVAL. Indicator species had to
+have P < 0.05 (assessed using Monte Carlo randomizations
+with 999 permutations) and INDVAL > 25 (Dufreˆne &
+Legendre, 1997). An INDVAL of 25 would occur, for example,
+D. C. Laughlin, J. D. Bakker and P. Z. Fule´
+2088
+Journal of Biogeography 32, 2083–2102, ª 2005 Blackwell Publishing Ltd
+
+if a species occurred on 50% of the plots in a group and had a
+relative abundance of at least 50% in that group.
+Model selection
+The ﬁrst step in model selection is the articulation of several
+biologically plausible models (Johnson & Omland, 2004). Each
+model is composed of a response variable (e.g. plant cover), a
+list of predictor variables (e.g. time since ﬁre), and the
+postulated sign of the relationship between each predictor and
+the response (Tables 3 & 4). We used 10 plant community
+structural characteristics as response variables: total species
+richness; species richness in each of ﬁve functional groups
+(annual forbs, perennial forbs, graminoids, shrubs, trees); total
+exotic species richness; plant cover; plant diversity; understorey
+community composition. We followed USDA NRCS (2004) to
+classify plant species as exotic or non-native in North America.
+Explicit mathematical models of plant community structure
+in these ecosystems were uncommon in the literature, but
+general hypotheses or statements about how plant communities
+are structured were abundant. We included a hypothesis for
+testing if: (1) a signiﬁcant relationship between predictor vari-
+ables and a response variable of interest in this study was pre-
+sented in the literature, or (2) a general statement was proposed
+in the literature about how communities were structured. An
+example of the ﬁrst type is ‘the number of herbaceous species was
+inversely related to the percent cover of evergreen trees and
+shrubs in the community (R2 ¼ 0.38)’ (Zobel et al., 1976,
+p. 151). Examples of the second type, which were much more
+common, include ‘there is usually a luxuriant herbaceous growth
+under the aspen’ (Patten, 1963, p. 380), or the ‘herbaceous
+understorey in spruce–ﬁr stands is very sparse’ (Ellison, 1954,
+p. 174). In some cases we created combinations from simpler
+models, and some models were used to test response variables
+beyond those originally speciﬁed. We restricted our attention to
+models with no more than four independent variables so that
+models could be applied practically by other researchers. The
+predictor variables used are listed in Table 2, and the sets of
+models and their sources are listed in Tables 3 and 4 for the
+montane and subalpine zones, respectively.
+For univariate response variables we used jmp-in 5.1.2
+software (SAS Institute, 2004) to obtain residual sums of
+squares for each model tested. For understorey community
+composition, we used distance-based multivariate multiple
+regression (McArdle & Anderson, 2001; see Anderson et al.,
+2004 for another example of this procedure) via distlm5 to
+obtain residual sums of squares for each model tested.
+For each response variable, we calculated AICC for each
+model in the set (Tables 3 and 4). The AICC value for each
+model in the set was rescaled to Di by subtracting the AICC of
+the model with the smallest AICC. The resulting Di values were
+then converted to Akaike weights (wi) as:
+wi ¼
+exp  1
+2 Di
+
+
+PR
+r¼1 exp 1
+2 Di
+
+
+where R is the number of models in the set (for details see
+Burnham & Anderson, 2002). The wi of the models in a set
+sum to 1; each wi can be interpreted as the probability that it is
+the best model in the set.
+If no single model was overwhelmingly supported by the
+data (wi > 0.95), we used model averaging to make multi-
+model inferences (Burnham & Anderson, 2002). Model
+averaging entails calculating a weighted average of parameter
+estimates (^h),
+^h ¼
+X
+wi ^hi
+where ^hi is the parameter estimate from the ith model. In these
+cases we ordered the models from highest to lowest wi and
+made inferences on the subset of models where Rwi > 0.95.
+Results were very similar if we used this subset of models or the
+full set of models (data not shown).
+If the sign of an explanatory variable in the ﬁnal model
+differed from its sign in a bivariate relationship with the
+Table 2 Mean (±SD) and range of independent variables* used in multivariate and univariate multiple regressions
+Variable set
+Montane
+Subalpine
+Independent variable
+Mean ± SD
+Range
+Mean ± SD
+Range
+Fire history
+Time since ﬁre (years)
+58 ± 47
+5–119
+122
+122
+Topography
+IMA
+)0.6 ± 1.6
+)3.9–2.9
+)0.5 ± 1.6
+)3.6–3.9
+Forest structure (basal area; m2 ha)1)*
+Ponderosa pine
+22.4 ± 11.7
+0.8–56.6
+4.2 ± 5.5
+0–31.1
+Gambel oak
+0.8 ± 1.4
+0–6.8
+–
+–
+Aspen
+0.001 ± 0.005
+0–0.04
+5.0 ± 4.4
+0–19.0
+Engelmann spruce
+–
+–
+8.7 ± 6.7
+0–28.6
+Subalpine ﬁr
+–
+–
+6.9 ± 8.2
+0–30.6
+Fuel load
+Duff-Oa + e horizon (cm)
+2.2 ± 1.2
+0.6–7.1
+2.5 ± 1.2
+0.03–5.61
+Coarse woody debris (Mg ha)1)
+12.6 ± 24.4
+0–142.4
+49.9 ± 47.1
+0–214.5
+*Only variables that were used in the ﬁnal models are included; see Fule´ et al. (2002, 2003b) for full details of forest structure at these sites.
+Plant community structure in Grand Canyon forests
+Journal of Biogeography 32, 2083–2102, ª 2005 Blackwell Publishing Ltd
+2089
+
+response variable, we considered it to be an inconsistent
+predictor and dropped it from the model. Adjusted coefﬁcients
+of determinism (adj-R2) for the ﬁnal models were determined
+by calculating the residual sums of squares using the parameter
+estimates calculated via model averaging. All adj-R2 calculated
+for the ﬁnal models were within 6% of the adj-R2 as calculated
+with least squares for the model containing those explanatory
+variables.
+RESULTS
+Forest types across both zones
+Pine–oak forests had the highest understorey plant cover of any
+forest type on the North Rim (Fig. 2). Understorey plant cover
+was 66% greater and species richness 16% greater in pine–oak
+than in ponderosa pine forests. The higher cover in pine–oak
+Table 3 Sets of proposed models used in model selection for understorey plant community structure in lower montane forests. Community
+composition (a multivariate metric) was scaled using multivariate multiple regression by Anderson (2005)
+Response variable
+Model
+Hypothesized explanatory variables and
+signs of relationships (if applicable)
+Source(s)
+Cover
+1
+()) Time since ﬁre
+Harris & Covington (1983), Oswald & Covington (1983),
+Vose & White (1991)
+2
+()) Pine
+Merkle (1962), Ffolliott (1983), Moore & Deiter (1992),
+Naumburg & DeWald (1999)
+3
+(+) Oak
+Reynolds et al. (1970), Klemmedson (1987, 1991),
+Rosenstock (1998)
+4
+(+) IMA
+Zobel et al. (1976)
+5
+()) Pine (exp)x)
+McPherson (1993)
+6
+()) Time since ﬁre, ()) Pine
+Grifﬁs et al. (2001)
+7
+()) Pine, ()) Duff
+Daubenmire (1943)
+8
+()) Time since ﬁre, ()) Pine, ()) Duff
+Covington & Moore (1994)
+9
+()) Time since ﬁre, ()) Pine, (+) Oak
+Combination of models 1, 2 and 3
+10
+()) Time since ﬁre, ()) Pine, (+) Oak, (+) IMA
+Combination of models 4 and 9
+Richness*
+1
+()) Pine
+Allen et al. (1991)
+2
+(+) Oak
+Reynolds et al. (1970), Klemmedson (1987, 1991),
+Rosenstock (1998)
+3
+(+) IMA
+Lieffers & Larkin-Lieffers (1986),
+Chipman & Johnson (2002)
+4
+()) Duff
+Laughlin et al. (2004)
+5
+()) Pine, ()) IMA
+Zobel et al. (1976)
+6
+()) Time since ﬁre, ()) Pine
+Crawford et al. (2001), Grifﬁs et al. (2001)
+7
+()) Time since ﬁre, ()) Pine, ()) Duff
+Covington & Moore (1994)
+8
+()) Time since ﬁre, ()) Pine, (+) Oak
+Combination of models 2 and 6
+9
+()) Time since ﬁre, ()) Pine, (+) Oak, (+) IMA
+Combination of models 3 and 8;
+Chipman & Johnson (2002)
+Diversity (H¢)
+1
+(+) IMA
+Lieffers & Larkin-Lieffers (1986),
+Chipman & Johnson (2002)
+2
+(+) Oak
+Reynolds et al. (1970), Klemmedson (1987, 1991),
+Rosenstock (1998)
+3
+()) Time since ﬁre, ()) Pine, ()) Duff
+Covington & Moore (1994)
+4
+()) Time since ﬁre, ()) Pine, ()) Duff, (+) IMA
+Combination of models 1 and 3
+5
+()) Time since ﬁre, ()) Pine, ()) Duff, (+) Oak
+Combination of models 2 and 3
+6
+()) Time since ﬁre, ()) Pine, (+) Oak, (+) IMA
+Combination of models 1 and 5
+(excluding duff to reduce complexity)
+Community
+composition
+1
+Time since ﬁre
+Vose & White (1991), Watson & Wardell-Johnson (2004)
+2
+Pine
+Naumburg & DeWald (1999), Naumburg et al. (2001)
+3
+IMA
+Lieffers & Larkin-Lieffers (1986), Allen & Peet (1989)
+4
+Pine, IMA
+Merkle (1962)
+5
+Time since ﬁre, Pine, IMA
+Combination of models 1 and 4
+6
+Time since ﬁre, Pine, Oak, IMA
+Model 5 + Oak: Reynolds et al. (1970),
+Klemmedson (1987, 1991), Rosenstock (1998)
+*This set of models was applied to total species richness, species richness of each of ﬁve functional groups (annual forbs, perennial forbs, graminoids,
+shrubs, trees), and total exotic species richness.
+D. C. Laughlin, J. D. Bakker and P. Z. Fule´
+2090
+Journal of Biogeography 32, 2083–2102, ª 2005 Blackwell Publishing Ltd
+
+forests was not due to oak, as plant cover remained higher if oak
+cover was excluded from the comparison. Shannon’s index (H¢)
+of diversity was highest in pine–oak, aspen and mixed conifer
+forests, and total species richness of the understorey was highest
+in pine–oak, aspen and spruce–ﬁr forests. Annual forb species
+richness was highest in pine–oak and ponderosa pine forests;
+annuals were nearly absent from aspen, mixed conifer and
+spruce–ﬁr forests. Perennial forb species richness was highest in
+pine–oak forests and lowest in aspen and spruce–ﬁr forests.
+Graminoid species richness did not vary among forest types.
+Shrub richness was greatest in pine–oak forests, while under-
+storey tree species richness was greatest in aspen, mixed conifer
+and spruce–ﬁr forests. Exotic species richness was highest in
+pine–oak and ponderosa pine forests (Fig. 2).
+Montane zone
+Univariate plant community structure response variables
+The best-ﬁtting subset of models explained 58% of the
+variation in plant cover and 43% of the variation in total
+species richness (Table 5). Species richness of several func-
+tional groups was very poorly explained by these models
+(adj-R2 < 0.10). As predicted (Table 3), time since ﬁre and
+ponderosa pine basal area were negatively correlated with
+response
+variables
+(Table 5;
+Fig. 3).
+We
+predicted
+that
+Gambel oak basal area would be positively correlated with
+the response variables (Table 3), and this was true for
+all variables except perennial forb species richness. We
+Table 4 Sets of proposed models used in model selection for understorey plant community structure in subalpine forests. Community
+composition (a multivariate metric) was scaled using multivariate multiple regression by Anderson (2005)
+Response variable
+Model
+Hypothesized explanatory variables and
+signs of relationships (if applicable)
+Source(s)
+Cover
+1
+(+) Aspen
+Daubenmire (1943), Langenheim (1962), Patten (1963)
+2
+()) IMA
+Daubenmire (1943), Billings & Bliss (1959), Holway & Ward (1963),
+Kuramoto & Bliss (1970), Canaday & Fonda (1974),
+Knight et al. (1977), Anderson et al. (1979)
+3
+()) Conifer sapling density
+Stromberg & Patten (1991)
+4
+()) Spruce, ()) Fir
+Oosting & Reed (1952), Anderson et al. (1969), Crouch (1985)
+5
+()) All conifers
+An extension of model 4 due to presence of other conifers
+6
+()) Fir, ()) IMA
+Fonda & Bliss (1969)
+7
+()) Spruce, ()) Fir, ()) Duff
+Ellison (1954), Patten (1963)
+8
+()) Spruce, ()) Fir, ()) CWD
+Crouch (1985)
+9
+()) Spruce, ()) Fir, ()) Duff, ())
+CWD
+Despain (1973)
+Richness*
+1
+(+) Aspen
+Lynch (1955)
+2
+()) IMA
+Holway & Ward (1963), Chipman & Johnson (2002)
+3
+()) Conifer sapling density
+Stromberg & Patten (1991)
+4
+()) Spruce, (+) Aspen
+Reich et al. (2001)
+5
+()) Spruce, ()) Fir
+Crouch (1985)
+6
+()) All Conifers
+An extension of model 5 due to presence of other conifers
+7
+()) Spruce, ()) Fir, (+) Aspen
+Daubenmire (1943)
+8
+()) Spruce, ()) Fir, ()) IMA
+Holway & Ward (1963), Zobel et al. (1976),
+Chipman & Johnson (2002)
+9
+()) Spruce, ()) Fir, ()) CWD
+Plant cover model 7
+Diversity (H¢)
+1
+()) Conifer sapling density
+Stromberg & Patten (1991)
+2
+()) Spruce, (+) Aspen
+Reich et al. (2001)
+3
+()) Spruce, ()) Fir
+Plant cover model 4
+4
+()) All conifers
+An extension of model 3 due to presence of other conifers
+5
+()) Spruce, ()) Fir, ()) Duff
+Plant cover model 7
+6
+()) Spruce, ()) Fir, ()) CWD, ()) IMA Plant cover model 8; Chipman & Johnson (2002)
+7
+()) Spruce, ()) Fir, (+) Aspen
+Richness model 7
+8
+()) Spruce, ()) Fir, ()) IMA
+Chipman & Johnson (2002)
+Community composition 1
+IMA
+Billings & Bliss (1959), Holway & Ward (1963), Patten (1963),
+Young & Smith (1979), Smith (1981), Allen et al. (1991)
+2
+All conifers
+Plant cover model 5
+3
+Spruce, Aspen
+Reich et al. (2001)
+4
+Spruce, Fir, CWD
+Despain (1973)
+5
+Spruce, Fir, CWD, IMA
+Combinations of models 1 and 4
+*This set of models was applied to total species richness; species richness of each of ﬁve functional groups (annual forbs, perennial forbs, graminoids,
+shrubs, trees); and total exotic species richness.
+Plant community structure in Grand Canyon forests
+Journal of Biogeography 32, 2083–2102, ª 2005 Blackwell Publishing Ltd
+2091
+
+predicted that positive IMA values would be positively corre-
+lated with response variables, and this was true for plant cover
+and diversity, but not for species richness (Table 5).
+Community composition among forest types
+We identiﬁed 134 species across the montane zone. The NMDS
+analysis of understorey community composition focused on
+the 86 species found on at least 5% of the plots. Thirty-ﬁve
+species were signiﬁcant indicators (INDVAL > 25) of montane
+forests (Table 6).
+Understorey
+community
+composition
+differed
+signiﬁ-
+cantly between pine–oak and ponderosa pine forest types
+(pseudo-F ¼ 4.9, P ¼ 0.0001), and this variation is illustrated
+in the NMDS ordination (Fig. 4). Mahonia repens, Solidago
+velutina and Collinsia parviﬂora were indicators of pine–oak
+forest, and P. ponderosa seedlings were an indicator of ponderosa
+pine forest (Table 6).
+Models predicting that community composition was signi-
+ﬁcantly correlated with ﬁre history, forest structure and
+topography (Table 3) were supported. Time since ﬁre, basal
+areas of pine and oak, and IMA explained 22% (adj-R2) of the
+total variation in species composition (Table 5). Individually,
+time since ﬁre and oak basal area explained the most variation
+(16% and 4%, respectively).
+Subalpine zone
+Univariate plant community structure response variables
+The best ﬁtting subset of models explained 33% of the
+variation in understorey diversity (H¢) and 27% of the
+Plant cover (%)
+0
+20
+40
+60
+80
+H = 41.4, P < 0.001
+a   b    b     b     b
+Species richness
+0
+10
+20
+30
+40
+50
+60
+70
+H = 16.7, P = 0.002
+a     b     b    a,b   a,b
+Diversity (H')
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+H = 14.3, P = 0.006
+a     b    a,b   a,b    b
+H = 4.5, P = 0.341
+H = 28.5, P < 0.001
+H = 13.3, P = 0.010
+H = 69.5, P < 0.001
+H = 38.6, P < 0.001
+H = 84.9, P < 0.001
+Elevation (m)
+2200
+2400
+2600
+2800
+P-O    P   MC    A   S-F
+P-O    P   MC    A   S-F
+Perennial forb
+species richness
+0
+10
+20
+30
+40
+50
+Annual and biennial
+forb species richness
+0
+2
+4
+6
+8
+10
+Shrub
+species richness
+0
+2
+4
+6
+8
+10
+Graminoid
+species richness
+0
+2
+4
+6
+8
+10
+Tree
+species richness
+0
+1
+2
+3
+4
+5
+6
+7
+P-O    P   MC    A   S-F
+Exotic
+species richness
+0
+1
+2
+3
+4
+5
+a     b     b    b,c   c
+a     a     b     b     b
+a   a,b   c    b,c   b,c
+a    b    b    b,c   c
+a     b    b    b,c    c
+Figure 2 Comparisons of plant community structure between forest types. Species richness is reported at the 0.1-ha scale. Different lower-
+case letters indicate signiﬁcant differences between forest types (Bonferroni-adjusted a ¼ 0.005). P–O ¼ pine–oak (n ¼ 42); P ¼ ponde-
+rosa pine (n ¼ 44); MC ¼ mixed conifer (n ¼ 15); A ¼ aspen (n ¼ 13); S–F ¼ spruce–ﬁr (n ¼ 28). Box-plot: lower and upper boundaries
+of box ¼ 25th and 75th percentiles, respectively; thick horizontal line ¼ mean; thin horizontal line ¼ median; vertical lines (whiskers)
+below and above box ¼ 10th and 90th percentiles; dots ¼ outliers.
+D. C. Laughlin, J. D. Bakker and P. Z. Fule´
+2092
+Journal of Biogeography 32, 2083–2102, ª 2005 Blackwell Publishing Ltd
+
+variation in total understorey species richness for the subalpine
+zone (Table 7). Species richness of several functional groups
+was very poorly explained by these models (adj-R2 < 0.10). As
+predicted, subalpine ﬁr basal area was negatively correlated
+with
+understorey
+plant
+cover,
+richness
+and
+diversity.
+Engelmann spruce basal area was correlated with the response
+variables, but unexpectedly the sign of the relationship was
+positive. Duff depth was negatively correlated with plant cover,
+and the amount of CWD was negatively correlated with plant
+cover and richness, but not diversity (H¢). Southern exposures,
+as indicated by their IMA values, were associated with high
+species richness, particularly of perennial forbs (Table 7).
+Table 5 Linear models* developed with multi-model inference to describe relationships between plant community structure and ﬁre
+history, forest structure, fuel load, and topography in montane forests (n ¼ 82)
+Understorey community
+structure response
+variables
+Models
+Rwi
+y
+Intercept (b0)
+Fire history
+Forest structure
+(basal area)
+Fuel load
+Topography
+Adj-R2
+Time since
+ﬁre
+Ponderosa
+pine
+Gambel
+oak
+Duff
+IMA
+Plant cover (%)
+8, 9, 10
+0.9868
+56.6
+)0.222
+)0.644
++2.756
++1.082
+0.58
+Species richness
+6, 7, 8, 9
+1.0000
+39.2
+)0.118
+)0.142
++0.106
+)0.037
+0.43
+Diversity (H¢)
+3, 4, 5, 6
+1.0000
+2.5
+)0.005
+)0.011
++0.010
++0.002
+0.38
+Annual forb richness
+8, 9
+0.9565
+3.4
+)0.026
+)0.007
++0.411
+)0.002
+0.39
+Perennial forb richness
+6, 7, 8, 9
+1.0000
+22.3
+)0.075
+)0.057
+)0.078
+)0.059
+)0.030
+0.41
+Community composition
+4, 5, 6
+0.9981
+
+
+
+
+0.22
+*Linear models can be derived from the table, which lists the coefﬁcients for each explanatory variable that contributed to the full model. For example,
+the equation for plant cover is as follows:
+Plant cover (%) ¼ 56.6 ) 0.222(time since ﬁre) ) 0.644(pine basal area) + 2.756(oak basal area) + 1.082(IMA).
+Models for tree, shrub, exotic, and graminoid species richness are not shown since they explained < 10% of the variation.
+These variables explained variation in species composition, but we do not report their coefﬁcients because there is no clear interpretation with a
+multivariate response. Community composition (a multivariate metric) was scaled using multivariate multiple regression in Anderson (2005).
+Plant cover (%)
+0
+20
+40
+60
+80
+Fire point
+Galahad point
+Powell plateau
+Rainbow plateau
+Species richness
+10
+20
+30
+40
+50
+0
+20
+40
+60
+80
+100 120 140
+Annual and biennial
+forb species richness
+0
+2
+4
+6
+8
+10
+Time-since-fire (years)
+0
+20
+40
+60
+80
+100 120 140
+Perennial forb
+species richness
+5
+10
+15
+20
+25
+30
+Figure 3 Relationships between time since
+ﬁre (years) and plant community structure;
+species richness is reported at the 0.1-ha
+scale. Note the large variability associated
+with low values of time since ﬁre.
+Plant community structure in Grand Canyon forests
+Journal of Biogeography 32, 2083–2102, ª 2005 Blackwell Publishing Ltd
+2093
+
+Table 6 Indicator species associated with montane and subalpine zones and with forest types within each zone on the North Rim of Grand
+Canyon National Park*
+Indicator species
+INDVAL
+Montane
+Subalpine
+Pine–oak
+Pine
+Pine
+MC
+Aspen
+S–F
+Montane zone (both forest types)
+Delphinium nuttallianum Pritz. ex Walp.
+84.7
+82–96
+73–80
+13–25
+–
+–
+2–4
+Robinia neomexicana Gray§
+82.7
+92–96
+69–83
+–
+13–13
+8–8
+–
+Quercus gambelii Nutt.
+78.0
+98–100
+45–55
+–
+–
+–
+–
+Agoseris glauca (Pursh) Raf.
+74.9
+76–90
+64–78
+–
+–
+4–8
+14–18
+Eriogonum racemosum Nutt.
+74.7
+88–95
+88–93
+25–25
+10–7
+8–15
+36–39
+Elymus elymoides (Raf.) Swezey
+64.5
+89–98
+86–93
+50–50
+40–60
+42–47
+41–46
+Erigeron spp. (annual and biennial)
+60.1
+63–79
+52–68
+25–25
+3–7
+19–23
+12–18
+Mertensia macdougalii Heller
+56.1
+44–55
+44–58
+–
+–
+–
+–
+Artemisia carruthii Wood ex Carruth.
+55.1
+50–68
+40–48
+–
+–
+4–8
+–
+Lomatium foeniculatum (Nutt.) Coult. & Rose
+54.9
+36–53
+50–60
+–
+–
+–
+–
+Poa fendleriana (Steud.) Vasey
+53.6
+100–100
+100–100
+75–75
+73–87
+69–77
+88–89
+Penstemon linarioides Gray
+50.0
+40–55
+36–48
+–
+–
+–
+–
+Machaeranthera canescens (Pursh) Gray
+49.1
+44–57
+34–45
+–
+–
+8–8
+–
+Astragalus castaneiformis S. Wats.
+48.8
+36–48
+33–50
+–
+–
+–
+–
+Arabis spp.
+48.2
+44–60
+35–43
+–
+–
+15–13
+5–11
+Ericameria nauseosa (Pallas ex Pursh) Nesom & Baird
+47.6
+44–57
+31–38
+–
+–
+–
+–
+Cirsium spp.
+46.7
+68–76
+46–55
+38–50
+23–33
+31–31
+21–25
+Allium spp.
+46.3
+38–60
+26–33
+–
+–
+–
+–
+Polygonum douglasii Greene
+45.3
+44–57
+29–35
+–
+–
+–
+2–4
+Heterotheca villosa (Pursh) Shinners
+42.8
+39–48
+40–53
+–
+–
+8–15
+11–18
+Lathyrus lanzwertii Kellogg var. leucanthus (Rydb.) Dorn
+42.7
+55–57
+27–28
+–
+–
+–
+–
+Ceanothus fendleri Gray
+42.0
+46–62
+34–55
+50–75
+13–20
+27–31
+7–11
+Lotus utahensis Ottley
+40.8
+55–69
+56–65
+63–75
+47–53
+38–38
+25–25
+Bromus tectorum L.
+39.0
+29–43
+24–35
+–
+–
+–
+–
+Lupinus hillii Greene
+37.2
+40–43
+54–65
+13–25
+3–7
+15–25
+34–36
+Amelanchier utahensis Koehne
+35.4
+33–40
+18–30
+–
+–
+–
+–
+Symphoricarpus oreophilus Gray
+34.8
+36–48
+19–30
+13–25
+3–7
+–
+4–4
+Calochortus spp.
+32.9
+27–36
+19–30
+–
+–
+–
+–
+Phlox gracilis (Hook.) Greene
+32.9
+26–38
+16–28
+–
+–
+–
+–
+Hymenopappus ﬁlifolius Hook.
+31.8
+25–33
+23–33
+–
+3–7
+–
+–
+Lithophragma tenellum Nutt.
+31.7
+14–19
+34–45
+–
+–
+–
+–
+Gayophytum diffusum Torr. & Gray
+29.9
+29–38
+22–28
+–
+–
+–
+–
+Townsendia exscapa (Richards.) Porter
+26.8
+17–24
+19–30
+–
+–
+–
+–
+Comandra umbellata (L.) Nutt.
+28.2
+29–38
+14–20
+–
+–
+–
+2–4
+Phacelia egena (Greene ex Brand) Greene ex J.T. Howell
+27.6
+37–40
+19–28
+25–25
+3–7
+12–23
+4–7
+Pine–oak forest
+Mahonia repens (Lindl.) G. Don
+48.1
+65–74
+35–45
+88–100
+77–93
+73–77
+34–39
+Solidago velutina DC.
+45.1
+61–74
+39–50
+38–50
+30–47
+35–46
+21–32
+Collinsia parviﬂora Lindl.
+34.3
+39–45
+13–15
+–
+–
+–
+–
+Ponderosa pine forest
+Pinus ponderosa P. &C. Lawson
+49.6
+32–52
+53–80
+25–50
+20–40
+23–38
+16–29
+Subalpine zone (all forest types)
+Populus tremuloides Michx.
+94.3
+1–2
+11–13
+100–100
+100–100
+100–100
+100–100
+Juniperus communis L.
+93.3
+–
+–
+75–100
+83–93
+92–100
+73–89
+Abies lasiocarpa (Hook.) Nutt.
+88.3
+–
+–
+63–75
+70–73
+73–85
+95–100
+Fragaria virginiana Duchesne
+84.7
+–
+–
+50–50
+80–87
+85–92
+79–89
+Picea engelmanii Parry ex. Engelm.
+81.7
+–
+–
+13–25
+60–87
+77–85
+71–86
+Goodyera oblongifolia Raf.
+81.7
+–
+–
+25–50
+77–93
+85–92
+66–75
+Abies concolor (Gord. & Glend.) Lindl. ex Hildebr.
+68.6
+2–5
+6–10
+75–75
+77–87
+77–85
+46–61
+Chamerion angustifolium (L.) Holub
+68.3
+–
+–
+13–25
+37–53
+50–77
+57–79
+Bromus ciliatus L.
+67.2
+33–43
+21–30
+100–100
+80–93
+88–92
+75–86
+Hieracium fendleri Schultz-Bip.
+56.1
+10–15
+16–26
+75–100
+63–80
+38–54
+52–64
+D. C. Laughlin, J. D. Bakker and P. Z. Fule´
+2094
+Journal of Biogeography 32, 2083–2102, ª 2005 Blackwell Publishing Ltd
+
+Community composition among forest types
+We identiﬁed 120 species in the understorey across the
+subalpine zone. The analysis of community composition
+focused on the 70 species found on at least 5% of the plots.
+Twenty-two species were signiﬁcant indicators (INDVAL > 25)
+of subalpine forests (Table 5).
+Understorey community composition differed between
+forest types within the subalpine zone (pseudo-F ¼ 2.2,
+P ¼ 0.004), and is illustrated in the NMDS ordination
+(Fig. 4). Spruce–ﬁr forests differed in composition from all
+other forest types (ponderosa pine, pseudo-t ¼ 1.6, P ¼ 0.026;
+mixed conifer, pseudo-t ¼ 1.9, P ¼ 0.005; aspen, pseudo-
+t ¼ 1.5, P ¼ 0.039), but other forest types did not differ in
+composition (all pseudo-t < 1.1, P > 0.350). Arenaria fendleri,
+Penstemon virgatus, Hymenoxys subintegra, P. menziesii, Muh-
+lenbergia montana, Potentilla hippiana and Androscae septen-
+trionalis were indicators of spruce–ﬁr forest, and Penstemon
+barbatus and Corallorhiza maculata were indicators of non-
+spruce–ﬁr forest (aspen, mixed conifer and ponderosa pine
+forests combined; Table 5).
+Models predicting that community composition should be
+related
+to
+forest
+structure,
+fuel
+load
+and
+topography
+(Table 4) were supported. Basal areas of Engelmann spruce,
+subalpine ﬁr and aspen, CWD and IMA explained 18%
+(adj-R2)
+of
+the
+total
+variation
+in
+species
+composition
+(Table 7). Individually, Engelmann spruce basal area and
+amount of CWD explained the most variation (9% and 7%,
+respectively).
+DISCUSSION
+Montane zone
+The negative relationship between time since ﬁre and under-
+storey plant cover and richness supports the hypothesis that
+Table 6 continued
+Indicator species
+INDVAL
+Montane
+Subalpine
+Pine–oak
+Pine
+Pine
+MC
+Aspen
+S–F
+Carex spp.
+52.2
+88–100
+93–100
+100–100
+97–100
+100–100
+100–100
+Pedicularis centranthera Gray
+51.9
+1–2
+12–13
+75–100
+67–67
+54–75
+45–46
+Pyrola spp.
+51.7
+–
+–
+13–25
+53–60
+35–46
+43–54
+Erigeron spp. (perennial)
+51.0
+14–19
+18–28
+50–5
+63–67
+54–69
+57–64
+Packera multilobata (Torr. & Gray ex Gray) W.A. Weber & A. Lo¨ve
+48.5
+40–52
+15–22
+100–100
+63–73
+65–75
+57–64
+Thlaspi montanum L.
+45.1
+–
+–
+38–75
+27–40
+12–23
+48–57
+Antennaria marginata Greene
+44.4
+–
+–
+38–50
+37–40
+35–54
+36–46
+Castilleja spp.
+41.6
+1–2
+1–3
+63–75
+17–33
+27–38
+34–46
+Arenaria lanuginosa (Michx.) Rohrb. ssp. saxosa (Gray) Maguire
+38.8
+–
+–
+13–25
+37–62
+27–46
+20–36
+Chimaphila umbellatum (L.) W. Bart.
+33.3
+–
+–
+-
+47–53
+12–15
+23–36
+Pseudocymopterus montana (Gray) Coult. & Rose
+30.6
+15–21
+18–30
+38–50
+27–53
+23–31
+45–46
+Senecio wootonii Greene
+25.0
+–
+–
+38–50
+17–27
+19–23
+18–21
+Non-spruce–ﬁr forest–
+Penstemon barbatus (Cav.) Roth
+31.7
+20–29
+15–20
+38–50
+30–40
+35–46
+13–18
+Corallorrhiza maculata (Raf.) Raf.
+31.6
+7–14
+–
+38–50
+13–20
+23–46
+2–4
+Spruce–ﬁr forest
+Arenaria fendleri Gray
+43.2
+–
+–
+–
+10–13
+27–38
+48–57
+Penstemon virgatus Gray
+37.2
+7–12
+15–20
+–
+–
+4–8
+29–39
+Hymenoxys subintegra Cockerell
+35.5
+–
+–
+–
+7–7
+12–15
+38–43
+Pseudotsuga menziesii (Mirbel) Franco
+34.7
+–
+–
+38–50
+27–33
+35–46
+5–7
+Muhlenbergia montana (Nutt.) A.S. Hitchc.
+31.4
+–
+–
+–
+7–13
+31–38
+43–43
+Potentilla hippiana Lehm.
+29.0
+–
+–
+13–25
+7–7
+8–8
+34–36
+Androsace septentrionalis L.
+27.7
+–
+–
+–
+–
+8–15
+20–32
+*Data presented for each species under each forest type are percentage of belt transects and percentage of plots in which the species was detected
+(sample sizes for each forest type and zone are listed in Table 1). For example, Delphinium nuttallianum occurred on 82% of belt transects and 96% of
+plots within montane pine–oak forests. Bold text indicates elevation zone or forest type with which a species was most strongly associated. Analyses
+within zones did not include data from other elevation zones.
+INDVAL (indicator value) ¼ relative abundance · relative frequency (for details of calculation see Dufreˆne & Legendre, 1997). All plants listed had
+INDVAL > 25 and P < 0.05.
+Forest type codes: pine–oak ¼ ponderosa pine–Gambel oak; pine ¼ ponderosa pine; MC ¼ mixed conifer; S–F ¼ spruce–ﬁr.
+§Those listed as indicator species refer to seedlings of these species found on plots, not mature overstorey trees.
+–Aspen, mixed conifer and ponderosa pine forests were grouped together for analyses within the subalpine zone because their compositions did not
+differ based on permutational manova (see Methods and Results).
+Plant community structure in Grand Canyon forests
+Journal of Biogeography 32, 2083–2102, ª 2005 Blackwell Publishing Ltd
+2095
+
+herbaceous diversity in south-western ponderosa pine forests
+is maintained by frequent, low-intensity ﬁres which reduce
+pine densities and fuel loads. This was also supported by
+other studies on the North Rim (Gildar et al., 2004; Laughlin
+et al., 2004). Elsewhere in North America, an interaction
+between time since ﬁre and canopy cover (an interaction
+term in a multiple regression model), interpreted as an
+indicator of light availability, was negatively correlated with
+species richness in mixed wood boreal forests (Chipman &
+Johnson, 2002). Similarly, in an ecosystem where stand-
+replacing crown ﬁres are typical in Yellowstone National
+Park, Wyoming, high total plant cover and species richness
+were correlated with shorter ﬁre intervals (Schoennagel et al.,
+2004). Our results also agree with studies in the woodland
+ﬂora of Australia (Morrison et al., 1996; Watson & Wardell-
+Johnson, 2004) that found time since ﬁre to be correlated
+with community composition.
+Time since ﬁre may also be important for preserving
+landscape-scale heterogeneity with respect to plant community
+structure. The variability in plant cover and annual forb
+richness is much greater on sites that have burned recently and
+frequently (Fig. 3) than on sites that have not burned for over
+60 years. However, variability in total species richness and in
+perennial forb richness was not noticeably greater in recently
+burned forests than in ﬁre-excluded forests. Apparently, plant
+cover and annual species are more sensitive than total species
+richness and perennial forb richness to variations in conditions
+created by ﬁre.
+Our results agree with previous studies that have shown high
+ponderosa pine abundance to depress understorey plant
+production (Ffolliott, 1983; Tapia et al., 1990; Moore &
+Deiter, 1992) since pine trees create deep shade, intercept
+precipitation and compete for soil resources (McLaughlin,
+1978; Riegel et al., 1995; Naumburg & DeWald, 1999). Pine
+abundance was also related to variation in species composi-
+tion, suggesting that differences in forest structure could cause
+changes in ﬂoristic assemblages.
+The positive correlations between oak basal area and
+understorey plant cover and richness are not well understood.
+Gambel oak has been shown to be valuable to breeding birds
+and small mammals in ponderosa pine forests (Reynolds et al.,
+1970; Rosenstock, 1998). Interestingly, our study suggests that
+Pine-oak
+Ponderosa pine
+Mixed conifer
+Aspen
+Spruce-fir
+Figure 4 Non-metric multidimensional scaling (NMDS) ordi-
+nation of understorey plant communities in montane and sub-
+alpine forests on the North Rim of Grand Canyon National Park.
+Each plot is coded by forest type; plot symbols match those in
+Fig. 1. Montane and subalpine forests are clearly distinguished by
+the clouds of points at lower left and upper right, respectively.
+NMDS plot determined using presence and abundance of 102
+species on 142 plots (these species occurred on at least 5% of
+plots); the ﬁnal solution had two dimensions; stress ¼ 16.8,
+P ¼ 0.0099.
+Table 7 Linear models* developed with multi-model inference to describe relationships between plant community structure and forest
+structure, fuel loads, and topography in subalpine forests (n ¼ 60)
+Understorey community
+structure response variables
+Models
+Rwi
+y-intercept
+(b0)
+Forest structure
+(basal area)
+Fuel load
+Topography
+Adj-R2
+Engelmann
+spruce
+Subalpine
+ﬁr
+Aspen
+Duff
+CWD
+IMA
+Plant cover (%)
+4, 8, 9
+0.9554
+23.7
++0.704
+)0.504
+)0.089
+)0.077
+0.20
+Species richness
+8, 9
+0.9804
+29.7
++0.537
+)0.173
+)0.074
+)0.171
+0.27
+Diversity (H¢)
+6
+0.9985
+2.1
++0.012
+)0.012
+)0.004
+)0.048
+0.33
+Perennial forb richness
+8, 9
+0.9720
+16.3
++0.391
+)0.114
+)0.054
+)0.050
+0.23
+Graminoid richness
+9
+0.9819
+4.8
++0.085
+)0.040
+)0.015
+0.25
+Community composition
+1, 3, 4, 5
+0.9840
+
+
+
+
+
+0.18
+*Linear models can be derived from the table, which lists the coefﬁcients for each explanatory variable that contributed to the full model. For example,
+the equation for plant cover is as follows:
+Plant cover (%) ¼ 23.7 + 0.704(spruce basal area) ) 0.504(subalpine ﬁr basal area) ) 0.089(duff) ) 0.077(CWD).
+Models for tree, shrub, annual and exotic richness are not shown as they explained < 10% of the variation.
+These variables explained variation in species composition, but we do not report their coefﬁcients because there is no clear interpretation with a
+multivariate response. Community composition (a multivariate metric) was scaled using multivariate multiple regression by Anderson (2005).
+D. C. Laughlin, J. D. Bakker and P. Z. Fule´
+2096
+Journal of Biogeography 32, 2083–2102, ª 2005 Blackwell Publishing Ltd
+
+there is a positive relationship between plant abundance and
+the presence of oak in montane forests. This effect may be
+mediated by oak litter, as oak positively inﬂuences soil fertility
+(Klemmedson, 1987, 1991). This relationship might also be a
+function of the quality and quantity of light beneath the
+broadleaved oaks; further research is warranted.
+Our results indicate that the cooler, wetter northern slopes
+of montane forests can produce more understorey vegetation
+per unit area (cover), but the warmer, drier southern slopes
+accommodate more species. Our ﬁndings agree with a study of
+coniferous forests in the western Cascades of Oregon, USA
+where herbaceous richness was highest on drier sites, but
+herbaceous cover was highest on cooler, wetter sites (Zobel
+et al., 1976). In contrast, species diversity was highest on
+northern slopes in short-grass prairie (Lieffers & Larkin-
+Lieffers, 1986).
+Subalpine zone
+Many studies have suggested a positive relationship between
+aspen abundance and understorey production and species
+richness (Langenheim, 1962; Fonda & Bliss, 1969; Despain,
+1973; Mueggler, 1985; Stromberg & Patten, 1991; Brown, 1994;
+Reich et al., 2001), probably due to superior litter quality
+(Daubenmire, 1943) and greater litterfall nitrogen (Reich
+et al., 2001) in aspen stands. However, this study did not
+conﬁrm that relationship. This discrepancy may be a result of
+our gridded sampling scheme, which did not intentionally
+target pure aspen stands (see Methods). Many aspen stands on
+the North Rim have not burned for over 100 years and
+therefore contain numerous conifers. Conifer densities in
+aspen stands might explain why aspen and mixed conifer forest
+understorey compositions were indistinguishable. Elsewhere in
+northern Arizona, aspen forests had the highest plant cover
+among many forest types, but had relatively low species
+richness (Fisher & Fule´, 2004; S. Abella, Northern Arizona
+University, pers. comm.). Aspen stands in northern Arizona
+had high plant cover values, indicating high herbaceous
+production, but unlike other regions they had relatively low
+species richness.
+Many researchers have suggested that plant cover and
+species richness would be negatively related to conifer abun-
+dance, as the sparse herbaceous layer in spruce–ﬁr forests is
+often attributed to dense canopies and thick litter layers
+(Ellison, 1954; Patten, 1963; Zobel et al., 1976; Stromberg &
+Patten, 1991). Our study conﬁrms this relationship for
+subalpine ﬁr, probably due to the deep shade and acidic litter
+underneath ﬁr trees. Spruce and ﬁr abundance explained some
+variation in community composition in our study, but clear-
+cutting spruce–ﬁr stands did not signiﬁcantly change plant
+community composition in Colorado (Crouch, 1985).
+Given
+the
+general
+agreement
+that
+conifer
+abundance
+decreases understorey plant production, it was surprising
+that understorey plant cover, richness and diversity were
+positively correlated with Engelmann spruce abundance. This
+result disagrees with every model proposed about plant
+community structure in spruce–ﬁr forests (Table 4). Subalp-
+ine forests on the Kaibab Plateau differ from most North
+American subalpine communities in that a greater proportion
+of other conifer species (e.g. Douglas-ﬁr, ponderosa pine) are
+present on southern slopes. Perhaps this combination of
+overstorey trees and their interactions in this subalpine
+environment caused this unusual observation; this discrep-
+ancy deserves further study and should be considered a
+tentative result.
+We have observed that species richness is often higher on
+plots that were located in close proximity to mountain
+meadows (data not shown). Similarly, Fonda & Bliss (1969)
+observed that plots within a subalpine ﬁr forest contained
+more species if they were closer to the openings in the forest.
+Merkle (1962) reported generally high total herbaceous plant
+cover (34–45%) in meadows (or ‘parks’) on the Kaibab
+Plateau, and noted differences in species composition between
+meadows and forests. Despain (1973) also noted a distinct
+difference in composition between meadows and forests in the
+Big Horn Mountains, Wyoming.
+Large volumes of CWD are commonly found in spruce–ﬁr
+forests (Langenheim, 1962; Despain, 1973; Crouch, 1985),
+increasing with time since ﬁre (Agee, 2002). Crown ﬁres can
+drastically reduce overstorey and understorey cover in subalp-
+ine forests, but understorey cover can return to unburned
+levels within 3 years (Turner et al., 1999). Perhaps plant cover
+and diversity in these communities gradually decline as CWD
+accumulates,
+tree
+densities
+increase,
+and
+availability
+of
+resources such as light or space declines. This would suggest
+that understorey diversity is highest following crown ﬁres.
+Plant cover and species richness were positively correlated with
+short ﬁre intervals in subalpine forests in Yellowstone National
+Park (Schoennagel et al., 2004), although this result contrasted
+with studies from other ecosystems subject to crown ﬁres
+(Paine et al., 1998).
+Topography was correlated with understorey species rich-
+ness, diversity and community composition, but was not
+related to plant cover. Warmer, southern exposures harboured
+more species than cooler, northern exposures. Snow-pack
+location is strongly correlated with topography (Billings,
+1973), and the persistence of winter snow pack strongly
+inﬂuences plant community structure in subalpine forests
+(Fonda & Bliss, 1969; Kuramoto & Bliss, 1970; Douglas, 1972;
+Canaday & Fonda, 1974; Knight et al., 1977; Anderson et al.,
+1979). Although we did not measure snow pack on these sites,
+the Kaibab Plateau receives an average of 3.56 m snow each
+winter, and snow depths of 1–3 m have been recorded
+(Merkle, 1962). The inﬂuence of snow pack on vegetation in
+other subalpine ecosystems in North America suggests that it
+plays an equally important role in structuring Arizona
+subalpine ecosystems.
+Comparison of montane and subalpine zones
+Montane and subalpine plant communities are deﬁned by
+elevation zone (Lo¨ve, 1970; MacMahon & Anderson, 1982;
+Plant community structure in Grand Canyon forests
+Journal of Biogeography 32, 2083–2102, ª 2005 Blackwell Publishing Ltd
+2097
+
+Peet, 2000). Differing climates and ﬁre regimes are perhaps the
+strongest abiotic inﬂuences on plants within these zones. In
+contrast to the subalpine zone, the montane zone is low
+enough in elevation that it is not affected by prolonged snow
+packs during the growing season (Fonda & Bliss, 1969; Knight
+et al., 1977), which could explain why diversity is higher on
+north slopes in the montane zone, yet lower on north slopes in
+the subalpine zone. Also, the frequent ﬁre regime in montane
+forests could be a stronger adaptive force than the mixed-
+severity ﬁre regime of subalpine forests (patchy, stand-
+replacing with some surface ﬁres; see Fule´ et al., 2003b), as it
+is a more regular and common disturbance.
+Annual forb species richness was greatest in montane forests
+and was negatively correlated with time since ﬁre. Annual forbs
+are common in montane forests following disturbances such as
+wildﬁre (Gibson, 1988; Huston, 1994; Crawford et al., 2001;
+Laughlin et al., 2004; Huisinga et al., 2005), which agrees with
+Grime’s (1977) hypothesis that annual species are more
+abundant on frequently disturbed sites. However, annual forbs
+were rare in the subalpine zone (Fig. 2), perhaps because it has
+not burned since at least 1879. An alternative hypothesis is that
+annual forbs are naturally absent in high-elevation spruce–ﬁr
+forests, although Went (1953) documented at least 40 annual
+plants at high elevations in the Sierra Nevada, California, and
+Schoennagel et al. (2004) detected many annual plants in
+subalpine forests that had short ﬁre intervals.
+Management implications
+The long-term protection of these forests from logging, grazing
+and complete ﬁre suppression has allowed these sites to
+maintain key elements of ‘wildness’ (Fule´ et al., 2002). Our
+consideration of these forests as relict sites is supported by the
+low abundance of exotic species on the North Rim (Fig. 2), in
+contrast to studies at another high-elevation site in Arizona
+(Fisher & Fule´, 2004), and outside the park boundary in the
+Kaibab National Forest (Crawford et al., 2001). Similar results
+of low exotic abundance in remote forests of Yellowstone
+National Park were reported by Turner et al. (1999) and
+Schoennagel et al. (2004), which led them to suggest that
+seeding or other management activities to reduce the spread of
+exotics were not justiﬁed in remote, protected landscapes.
+However, continued monitoring of exotic species on the North
+Rim, especially after wildﬁres, remains justiﬁed and important.
+In montane forests, low-intensity wildﬁre is an important
+ecological process that maintains understorey communities
+within the range of natural variability and may promote
+landscape heterogeneity. Crown ﬁres may have occurred in
+central and northern USA ponderosa pine forests (Ehle &
+Baker, 2003), especially during warmer climate intervals (Pierce
+et al., 2004), but evidence of crown ﬁres in south-western
+ponderosa pine forests prior to Euro-American settlement has
+not been reported (Swetnam & Baisan, 1996; Fule´ et al., 2003a).
+Community composition was shifted toward higher similarity
+with reference sites after a managed wildﬁre on Fire Point
+(Laughlin et al., 2004), and plant diversity was highest on sites
+that have burned frequently and recently in this study. The
+preservation of key ecosystem processes, most importantly
+lightning-initiated wildﬁre, is an important component of
+ecological restoration of south-western ponderosa pine forests
+(Allen et al., 2002). Therefore we recommend the continued use
+of wildﬁre and prescribed ﬁre as management tools in North
+Rim montane forests. Moreover, based on the positive associ-
+ations of oak with wildlife and plant diversity, we suggest
+maintaining various growth forms of Gambel oak within south-
+western montane forests through no-cutting policies.
+The subalpine forests have not burned for over 120 years,
+which is not out of the historical range of variability. Subalpine
+forests across North America have stand-replacing crown-ﬁre
+regimes, although some surface ﬁres burned in North Rim
+subalpine forests due to the drier and more open south slopes
+(Fule´ et al., 2003b). Stand-replacing ﬁres are an important
+ecological process in the subalpine zone (Johnson et al., 2001)
+and should be incorporated into management plans. However,
+ﬁre use in subalpine forests is fraught with risks due to intense
+ﬁre behaviour in dense spruce–ﬁr stands, so it is inherently
+more difﬁcult to preserve these high-energy ecological proces-
+ses due to dangers and to public perception of denuded post-
+ﬁre landscapes. Stand-replacing or mixed-severity ﬁres could
+initiate the development of pure aspen stands or open conifer
+stands, which could also promote understorey productivity. In
+short, we recommend ﬁre use in any ecosystem where ﬁre has
+played an ecologically important role historically, but acknow-
+ledge that ﬁre use in subalpine ecosystems is inherently more
+difﬁcult than in montane ecosystems.
+To conclude, despite the insights gained through this study,
+much of the natural variability in these ecosystems was not
+accounted for in our models. No model explained more than
+60% of the variation in plant community structure within the
+montane zone, or more than 35% of the variation within the
+subalpine zone, indicating that additional factors are structur-
+ing these communities. Potential factors that were not
+explored in this study include native ungulate herbivory
+(Huffman & Moore, 2003) and soil nutrient resources (Grace
+et al., 2000; Weiher et al., 2004). Nonetheless, the models that
+we used demonstrate that some of the variability in understo-
+rey plant community structure in these forests is explained by
+ﬁre history, forest structure, fuel loads and topography. The
+ranges of variability reported here (Tables 2 & 6; Fig. 2 & 4)
+and by Fule´ et al. (2002, 2003a,b) can be used as benchmarks
+for assessing future change (Landres et al., 1999) and to
+determine whether current management practices result in
+ecosystems that fall within the natural range of variability for
+the North Rim of Grand Canyon National Park.
+ACKNOWLEDGEMENTS
+We thank D. R. Anderson for advice on model selection and
+the Statistical Consulting Laboratory at Northern Arizona
+University for general statistical advice. We also thank
+M. Daniels, J. Springer, M. Stoddard, C. Gildar, W. Covington
+and the rest of the staff and students of the Ecological
+D. C. Laughlin, J. D. Bakker and P. Z. Fule´
+2098
+Journal of Biogeography 32, 2083–2102, ª 2005 Blackwell Publishing Ltd
+
+Restoration Institute. This work was funded by grants from the
+National Park Service, Bureau of Land Management, and the
+Joint Fire Science Program.
+REFERENCES
+Agee, J.K. (1993) Fire ecology of Paciﬁc Northwest forests. Island
+Press, Washington, DC.
+Agee, J.K. (2002) Fire as a coarse ﬁlter for snags and logs.
+General Technical Report PSW-GTR-181. United States
+Forest Service. Paciﬁc Southwest Research Station, Albany,
+California, USA.
+Allen, R.B. & Peet, R.K. (1989) Gradient analysis of forests of
+the Sangre de Cristo Range, Colorado. Canadian Journal of
+Botany, 68, 193–201.
+Allen, R.B., Peet, R.K. & Baker, W.L. (1991) Gradient analysis
+of latitudinal variation in Southern Rocky Mountain forests.
+Journal of Biogeography, 18, 123–139.
+Allen, C.D., Savage, M., Falk, D.A., Suckling, K.F., Swetnam,
+T.W., Schulke, T., Stacey, P.B., Morgan, P., Hoffman, M. &
+Klingel, J.T. (2002) Ecological restoration of southwestern
+ponderosa pine ecosystems: a broad perspective. Ecological
+Applications, 12, 1418–1433.
+Anderson, M.J. (2001) A new method for non-parametric
+multivariate analysis of variance. Austral Ecology, 26, 32–46.
+Anderson, M.J. (2005) DISTLM5: a fortran computer program
+to calculate a distance-based multivariate analysis for a
+linear model. Department of Statistics, University of Auck-
+land, Auckland, New Zealand.
+Anderson, R.C., Loucks, O.L. & Swain, A.M. (1969) Herbac-
+eous
+response
+to
+canopy
+cover,
+light
+intensity,
+and
+throughfall precipitation in coniferous forests. Ecology, 50,
+255–263.
+Anderson, D.C., Hoffman, R.S. & Armitage, K.B. (1979)
+Aboveground productivity and ﬂoristic structure of a high
+subalpine meadow. Arctic and Alpine Research, 11, 467–476.
+Anderson, M.J., Ford, R.B., Feary, D.A. & Honeywill, C. (2004)
+Quantitative measures of sedimentation in an estuarine
+system and its relationship with intertidal soft-sediment
+infauna. Marine Ecology Progress Series, 272, 33–48.
+Arnold, J.F. (1950) Changes in ponderosa pine bunchgrass
+ranges in northern Arizona resulting from pine regeneration
+and grazing. Journal of Forestry, 48, 118–126.
+Batek, M.J., Rebertus, A.J., Schroeder, W.A., Haithcoat, T.L.,
+Compas, E. & Guyette, R.P. (1999) Reconstruction of early-
+nineteenth century vegetation and ﬁre regimes in the Mis-
+souri Ozarks. Journal of Biogeography, 26, 397–412.
+Belsky, A.J. & Blumenthal, D.M. (1997) Effects of livestock
+grazing on stand dynamics and soils in upland forests of the
+Interior West. Conservation Biology, 11, 315–327.
+Billings, W.D. (1973) Arctic and alpine vegetations: similarit-
+ies, differences, and susceptibility to disturbance. Bioscience,
+23, 697–704.
+Billings, W.D. & Bliss, L.C. (1959) An alpine snowbank
+environment and its effects on vegetation, plant develop-
+ment, and productivity. Ecology, 40, 388–397.
+Brown, J.K. (1974) Handbook for inventorying downed woody
+material. General Technical Report INT-16. USDA Forest
+Service, Intermountain Forest and Range Experiment Sta-
+tion, Ogden, UT.
+Brown, D.E. (1994) Biotic communities of the southwestern
+United States and Northwest Mexico. University of Utah
+Press, Salt Lake City, UT.
+Brown, D.E. & Lowe, C.H. (1980) Biotic communities of the
+Southwest. General Technical Report RM-78. USDA Forest
+Service, Rocky Mountain Forest and Range Experiment
+Station, Fort Collins, Colorado, USA.
+Burnham, K.P. & Anderson, D.R. (2002) Model selection and
+multi-model
+inference:
+a
+practical
+information-theoretic
+approach. Springer-Verlag, New York, New York, USA.
+Canaday, B.B. & Fonda, R.W. (1974) The inﬂuence of subalpine
+snowbanks on vegetation pattern, production, and phenol-
+ogy. Bulletin of the Torrey Botanical Club, 101, 340–350.
+Chipman, S.J. & Johnson, E.A. (2002) Understory vascular
+plant species diversity in the mixedwood boreal forest of
+western Canada. Ecological Applications, 12, 588–601.
+Covington, W.W. & Moore, M.M. (1994) Southwestern pon-
+derosa forest structure: changes since Euro-American set-
+tlement. Journal of Forestry, 92, 39–47.
+Crawford, J.A., Wahren, C.-H.A., Kyle, S. & Moir, W.H.
+(2001) Responses of exotic plant species to ﬁres in Pinus
+ponderosa forests in northern Arizona. Journal of Vegetation
+Science, 12, 261–268.
+Crouch, G.L. (1985) Effects of clearcutting a subalpine forest in
+Central Colorado on wildlife habitat. Research Paper RM-258.
+USDA Forest Service, Fort Collins, Colorado, USA.
+Daubenmire, R.F. (1943) Vegetational zonation in the Rocky
+Mountains. Botanical Review, 9, 325–393.
+Daubenmire, R. (1953) Nutrient content of leaf litter of trees
+in the northern Rocky Mountains. Ecology, 34, 786–793.
+Despain, D.G. (1973) Vegetation of the Big Horn Mountains,
+Wyoming, in relation to substrate and climate. Ecological
+Monographs, 43, 329–355.
+Douglas, G.W. (1972) Subalpine plant communities of the
+western North Cascades, Washington. Arctic and Alpine
+Research, 4, 147–166.
+Dufreˆne, M. & Legendre, P. (1997) Species assemblages and
+indicator species: the need for a ﬂexible asymmetrical
+approach. Ecological Monographs, 67, 345–366.
+Ehle, D.S. & Baker, W.L. (2003) Disturbance and stand
+dynamics in ponderosa pine forests in Rocky Mountain
+National Park, USA. Ecological Monographs, 73, 543–566.
+Ellison, L. (1954) Subalpine vegetation of the Wasatch Plateau,
+Utah. Ecological Monographs, 24, 89–184.
+ESRI (2002) arcview GIS, ver. 3.3. Environmental Systems
+Research Institute, Redlands, CA.
+Facelli, J.M. & Pickett, S.T.A. (1991) Plant litter: its dynamics
+and effects on plant community structure. Botanical Review,
+57, 1–32.
+Faith, D.P., Minchin, P.R. & Belbin, L. (1987) Compositional
+dissimilarity as a robust measure of ecological distance.
+Vegetatio, 69, 57–68.
+Plant community structure in Grand Canyon forests
+Journal of Biogeography 32, 2083–2102, ª 2005 Blackwell Publishing Ltd
+2099
+
+Farris, C., Baisan, C.H. & Swetnam, T.W. (2004) A comparison
+of ﬁre histories derived from ﬁre scars and mapped peri-
+meters in a frequently burned Arizona wilderness area. 89th
+Annual Meeting of the Ecological Society of America, Port-
+land, Oregon, 6 August 2004 (abstracted in Proceedings).
+Ffolliott,
+P.F.
+(1983)
+Overstory–understory
+relationships:
+southwestern ponderosa pine forests. Overstory–understory
+relationships in western forests (ed. by E.T. Bartlett and E.R.
+Betters), pp. 13–18. Western Region Research Publication 1.
+Colorado Agricultural Experiment Station, Fort Collins, CO.
+Fisher, M.A. & Fule´, P.Z. (2004) Changes in forest vegetation
+and arbuscular mycorrhizae along a steep elevation gradient
+in Arizona. Forest Ecology and Management, 200, 293–311.
+Fonda, R.W. & Bliss, L.C. (1969) Forest vegetation of the
+montane
+and
+subalpine
+zones,
+Olympic
+Mountains,
+Washington. Ecological Monographs, 39, 271–301.
+Fox, M.D. & Fox, B.J. (1986) The effect of ﬁre frequency on the
+structure and ﬂoristic composition of a woodland under-
+storey. Australian Journal of Ecology, 11, 77–85.
+Fule´,
+P.Z.,
+Covington,
+W.W.
+&
+Moore,
+M.M.
+(1997)
+Determining reference conditions for ecosystem manage-
+ment of southwestern ponderosa pine. Ecological Applica-
+tions, 7, 895–908.
+Fule´, P.Z., Covington, W.W., Moore, M.M., Heinlein, T.A. &
+Waltz, A.E.M. (2002) Natural variability in forests of the
+Grand Canyon, USA. Journal of Biogeography, 29, 31–47.
+Fule´, P.Z., Heinlein, T.A., Covington, W.W. & Moore, M.M.
+(2003a) Assessing ﬁre regimes on Grand Canyon landscapes
+with ﬁre-scar and ﬁre-record data. International Journal on
+Wildland Fire, 12, 129–145.
+Fule´, P.Z., Crouse, J.E., Heinlein, T.A., Moore, M.M., Cov-
+ington, W.W. & Verkamp, G. (2003b) Mixed-severity ﬁre
+regime in a high-elevation forest of Grand Canyon, Arizona,
+USA. Landscape Ecology, 18, 465–486.
+Fule´, P.Z., Cocke, A.E., Heinlein, T.A. & Covington W.W.
+(2004) Effects of an intense prescribed forest ﬁre: is it eco-
+logical restoration? Restoration Ecology, 12, 220–230.
+Gibson, D.J. (1988) Regeneration and ﬂuctuation of tallgrass
+prairie vegetation in response to burning frequency. Bulletin
+of the Torrey Botanical Club, 115, 1–12.
+Gildar, C.N., Fule´, P.Z. & Covington, W.W. (2004) Plant
+community
+variability
+in
+ponderosa
+pine
+forest
+has
+implications for reference conditions. Natural Areas Journal,
+24, 101–111.
+Grace, J.B., Allain, L. & Charles, A. (2000) Factors associated
+with plant species richness in a coastal tall-grass prairie.
+Journal of Vegetation Science, 11, 443–452.
+Grifﬁs, K.L., Crawford, J.A., Wagner, M.R. & Moir, W.H.
+(2001) Understory response to management treatments in
+northern Arizona ponderosa pine forests. Forest Ecology and
+Management, 146, 239–245.
+Grime, J.P. (1977) Evidence for the existence of three primary
+strategies in plants and its relevance to ecological and evo-
+lutionary theory. American Naturalist, 111, 1169–1195.
+Harris, G.R. & Covington, W.W. (1983) The effect of a pre-
+scribed ﬁre on nutrient concentration and standing crop of
+understory vegetation in ponderosa pine. Canadian Journal
+of Forest Research, 13, 501–507.
+Holway, J.G. & Ward, R.T. (1963) Snow and meltwater effects
+in an area of Colorado alpine. American Midland Naturalist,
+69, 189–197.
+Huffman, D.W. & Moore, M.M. (2003) Ungulate herbivory on
+buckbrush in an Arizona ponderosa pine forest. Journal of
+Range Management, 56, 358–363.
+Huisinga, K.D., Laughlin, D.C., Fule´, P.Z., Springer, J.D. &
+McGlone, C.M. (2005) Effects of an intense prescribed ﬁre
+on understory vegetation in a mixed conifer forest. Journal
+of the Torrey Botanical Society, in press.
+Huston, M.A. (1994) Biological diversity. Cambridge University
+Press, Cambridge, UK.
+Johnson, J.B. & Omland, K.S. (2004) Model selection in
+ecology and evolution. Trends in Ecology and Evolution, 19,
+101–108.
+Johnson, E.A., Miyanishi, K. & Bridge, S.R.J. (2001) Wildﬁre
+regime in the boreal forest and the idea of suppression and
+fuel buildup. Conservation Biology, 15, 1554–1557.
+Kipfmueller, K.F. & Baker, W.L. (2000) A ﬁre history of a
+subalpine forest in south-eastern Wyoming, USA. Journal of
+Biogeography, 27, 71–85.
+Klemmedson, J.O. (1987) Inﬂuence of oak in pine forests of
+central Arizona on selected nutrients of forest ﬂoor and soil.
+Soil Science Society of America Journal, 51, 1623–1628.
+Klemmedson, J.O. (1991) Oak inﬂuence on nutrient availab-
+ility in pine forests of central Arizona. Soil Science Society of
+America Journal, 55, 248–253.
+Knight, D.H., Rogers, B.S. & Kyte, C.R. (1977) Understory
+plant growth in relation to snow duration in Wyoming
+subalpine forest. Bulletin of the Torrey Botanical Club, 104,
+314–319.
+Kranz, J.J. & Linder, R.L. (1973) Value of Black Hills forest
+communities to deer and cattle. Journal of Range Manage-
+ment, 26, 263–265.
+Krebs, C. (1994) Ecology: the experimental analysis of distribu-
+tion and abundance. Addison-Wesley, Menlo Park, CA.
+Kuramoto, R.T. & Bliss, L.C. (1970) Ecology of subalpine
+meadows in the Olympic Mountains, Washington. Ecologi-
+cal Monographs, 40, 317–347.
+Landres, P.B., Morgan, P. & Swanson, F.J. (1999) Overview of
+the use of natural variability concepts in managing ecolo-
+gical systems. Ecological Applications, 9, 1179–1188.
+Langenheim, J.H. (1962) Vegetation and environmental pat-
+terns in the Crested Butte area, Gunnison County, Color-
+ado. Ecological Monographs, 32, 249–285.
+Laughlin, D.C., Bakker, J.D., Stoddard, M.T., Daniels, M.L.,
+Springer, J.D., Gildar, C.N., Green, A.M. & Covington,
+W.W. (2004) Toward reference conditions: wildﬁre effects
+on ﬂora in an old-growth ponderosa pine forest. Forest
+Ecology and Management, 199, 137–152.
+Lieffers, V.J. & Larkin-Lieffers, P.A. (1986) Slope, aspect, and
+slope position as factors controlling grassland communities
+in the coulees of the Oldman River, Alberta. Canadian
+Journal of Botany, 65, 1371–1378.
+D. C. Laughlin, J. D. Bakker and P. Z. Fule´
+2100
+Journal of Biogeography 32, 2083–2102, ª 2005 Blackwell Publishing Ltd
+
+Lo¨ve, D. (1970) Subarctic and subalpine: where and what?
+Arctic and Alpine Research, 2, 63–73.
+Ludden, T.M., Beal, S.L. & Sheiner, L.B. (1994) Comparison of
+the Akaike information criterion, the Schwartz criterion and
+the F test as guides to model selection. Journal of Pharma-
+cokinetics and Biopharmaceutics, 22, 431–435.
+Lynch, D. (1955) Ecology of the aspen groveland in Glacier
+County, Montana. Ecological Monographs, 25, 321–344.
+MacMahon, J.A. & Anderson, D.C. (1982) Subalpine forests: a
+world perspective with emphasis on western North America.
+Progress in Physical Geography, 6, 368–425.
+Marr, J.W. (1961) Ecosystems of the east slope of the Front Range
+in Colorado. University of Colorado Press, Boulder, CO.
+Mast, J.N., Fule´, P.Z., Moore, M.M., Covington, W.W. &
+Waltz, A.E.M. (1999) Restoration of presettlement age
+structure of an Arizona ponderosa pine forest. Ecological
+Applications, 9, 228–239.
+Mast, J.N. & Wolf, J. (2004) Ecotonal changes and altered tree
+spatial patterns in lower mixed-conifer forests, Grand
+Canyon National Park, Arizona, USA. Landscape Ecology, 19,
+167–180.
+McArdle, B.H. & Anderson, M.J. (2001) Fitting multivariate
+models to community data: a comment on distance-based
+redundancy analysis. Ecology, 82, 290–297.
+McCune, B. & Grace, J.B. (2002) Analysis of ecological com-
+munities. MjM Software Design, Gleneden Beach, OR.
+McCune, B. & Mefford, M.J. (1999) pc-ord: multivariate
+analysis of ecological data, ver. 4. MjM Software Design,
+Gleneden Beach, OR.
+McLaughlin, S.P. (1978) Overstory attributes, light, through-
+fall, and the interpretation of overstory–understory rela-
+tionships. Forest Science, 24, 550–553.
+McPherson, G.R. (1993) Comparison of linear and nonlinear
+overstory-understory models for ponderosa pine: a con-
+ceptual framework. Forest Ecology and Management, 55,
+31–34.
+Merkle, J. (1954) An analysis of the spruce–ﬁr community on
+the Kaibab Plateau, Arizona. Ecology, 35, 316–322.
+Merkle, J. (1962) Plant communities of the Grand Canyon
+Area, Arizona. Ecology, 43, 698–711.
+Moore, M.M. & Deiter, D.A. (1992) Stand density index as a
+predictor of forage production in northern Arizona pine
+forests. Journal of Range Management, 45, 267–271.
+Moore, M.M., Covington, W.W. & Fule´, P.Z. (1999) Reference
+conditions and ecological restoration: a southwestern pon-
+derosa pine perspective. Ecological Applications, 9, 1266–
+1277.
+Morrison, D.A., Buckney, R.T., Bewick, B.J. & Cary, G.J.
+(1996) Conservation conﬂicts over burning bush in south-
+eastern Australia. Biological Conservation, 76, 167–175.
+Mueggler, W.F. (1985) Forage. Aspen: ecology and management
+in the western United States (ed. by N.V. DeByle and R.P.
+Winokur), pp. 129–134. US Forest Service, Rocky Mountain
+Forest and Range Experiment Station, Washington, DC.
+Naumburg, E. & DeWald, L.E. (1999) Relationships between
+Pinus ponderosa forest structure, light characteristics, and
+understory graminoid species presence and abundance.
+Forest Ecology and Management, 124, 205–215.
+Naumburg, E., DeWald, L.E. & Kolb, T.E. (2001) Shade
+responses of ﬁve grasses native to southwestern US Pinus
+ponderosa forests. Canadian Journal of Botany, 79, 1001–
+1009.
+NPS (1992) Western region ﬁre monitoring handbook. National
+Park Service, San Francisco, CA.
+Oosting, H.J. & Reed, J.F. (1952) Virgin spruce–ﬁr of the
+Medicine Bow Mountains, Wyoming. Ecological Mono-
+graphs, 22, 69–91.
+Oswald, B.P. & Covington, W.W. (1983) Changes in unders-
+tory production following a wildﬁre in southwestern pon-
+derosa pine. Journal of Range Management, 36, 507–509.
+Paine, R.T., Tegner, M.J. & Johnson, E.A. (1998) Compounded
+perturbations yield ecological surprises. Ecosystems, 1, 535–
+545.
+Patten, D.T. (1963) Vegetational patterns in relation to envi-
+ronments in the Madison Range, Montana. Ecological
+Monographs, 33, 375–406.
+Pearson, G.A. (1931) Forest types in the southwest as deter-
+mined by climate and soil. Technical Bulletin 24, p. 143. US
+Department of Agriculture, Washington, DC, USA.
+Peet, R.K. (2000) Forests and meadows of the Rocky Moun-
+tains. North American terrestrial vegetation, 2nd edn (ed. by
+M.G. Barbour and W.D. Billings), pp. 75–122. Cambridge
+University Press, Cambridge, UK.
+Pierce, J.L., Meyer, G.A. & Timothy Jull, A.J. (2004) Fire-
+induced erosion and millennial-scale climate change in
+northern ponderosa pine forests. Nature, 432, 87–90.
+Rasmussen, D.I. (1941) Biotic communities of Kaibab Plateau,
+Arizona. Ecological Monographs, 11, 229–275.
+Reeberg, P. (1995) The western region ﬁre monitoring handbook.
+General Technical Report INT-GTR-320 (ed. by J.K. Brown,
+R.W. Mutch, C.W. Spoon and R.H. Wakimoto), pp. 259–
+260. US Department of Agriculture, Forest Service, Inter-
+mountain Forest and Range Experiment Station, Ogden, UT.
+Regelin, W.L. & Wallmo, O.C. (1978) Duration of deer forage
+beneﬁts after clearcut logging of subalpine forest in Color-
+ado. RM-356. US Dept. of Agriculture, Forest Service, Rocky
+Mountain Forest and Range Experiment Station. Fort Col-
+lins, CO.
+Reich, P.B., Bakken, P., Carlson, D., Frelich, L.E., Friedman,
+S.K. & Grigal, D.F. (2001) Inﬂuence of logging, ﬁre, and
+forest type on biodiversity and productivity in southern
+boreal forests. Ecology, 82, 2731–2748.
+Reynolds, H.G. (1969) Aspen grove use by deer, elk, and cattle in
+south-western coniferous forests. Research Note RM-138. US
+Forest Service, Rocky Mountain Forest and Range Experi-
+ment Station, Fort Collins, CO.
+Reynolds, J.L., Clary, W.P. & Ffolliott, P.F. (1970) Gambel oak
+for southwestern wildlife. Journal of Forestry, 68, 545–547.
+Riegel, G.M., Miller, R.F. & Krueger, W.C. (1995) The effects
+of aboveground and belowground competition on unders-
+tory species composition in a Pinus ponderosa forest. Forest
+Science, 41, 864–889.
+Plant community structure in Grand Canyon forests
+Journal of Biogeography 32, 2083–2102, ª 2005 Blackwell Publishing Ltd
+2101
+
+Rosenstock, S.S. (1998) Inﬂuence of Gambel oak on breeding
+birds in ponderosa pine forests of northern Arizona. Condor,
+100, 485–492.
+Sackett, S.S. (1980) Woody fuel particle size and speciﬁc gravity
+of southwestern tree species. Research Note RM-389. USDA
+Forest Service, Rocky Mountain Forest and Range Experi-
+ment Station, Fort Collins, CO.
+SAS Institute (2004) jmp-in ver. 5.1.2. SAS Institute Inc., Cary,
+NC.
+Schoennagel, T., Waller, D.M., Turner, M.G. & Romme, W.H.
+(2004) The effect of ﬁre interval on post-ﬁre understorey
+communities in Yellowstone National Park. Journal of
+Vegetation Science, 15, 797–806.
+Smith, W.K. (1981) Temperature and water relation patterns
+in subalpine understory plants. Oecologia, 48, 353–359.
+Stromberg, J.C. & Patten, D.T. (1991) Dynamics of the spruce–
+ﬁr forests on the Pinaleno Mountains, Graham Co., Arizona.
+Southwestern Naturalist, 36, 37–48.
+Swetnam, T.W. & Baisan, C.H. (1996) Historical ﬁre regime
+patterns in the southwestern United States since AD 1700.
+Fire effects in southwestern forests. In: Proceedings of the
+Second La Mesa Fire Symposium (ed. by C.D. Allen), pp.
+11–32. General Technical Report RM-GTR-286. USDA
+Forest Service, Los Alamos, New Mexico, USA.
+Sydes, C. & Grime, S.P. (1981) Effects of tree leaf litter on
+herbaceous vegetation in deciduous woodland. II. An
+experimental investigation. Journal of Ecology, 69, 249–262.
+Tapia, L.A.B., Ffolliott, P.F. & Guertin, D.P. (1990) Herbage
+production–forest overstory relationships in two Arizona
+ponderosa pine forests. Journal of Range Management, 43,
+25–28.
+Taylor, A.H. (2000) Fire regimes and forest change in mid and
+upper montane forests of the southern Cascades, Lassen
+Volcanic National Park, California. Journal of Biogeography,
+27, 87–104.
+Tilman, D. (1982) Resource competition and community struc-
+ture. Monographs in Population Biology 17. Princeton
+University Press, Princeton, NJ.
+Turner, M.G., Romme, W.H. & Gardner, R.H. (1999) Preﬁre
+heterogeneity,
+ﬁre
+severity,
+and
+early
+postﬁre
+plant
+reestablishment in subalpine forests of Yellowstone National
+Park, Wyoming. International Journal of Wildland Fire, 9,
+21–36.
+USDA NRCS (2004) PLANTS database, ver. 3.5 (http://plants.
+usda.gov). US Department of Agriculture, Natural Resource
+Conservation Service, National Plant Data Center, Baton
+Rouge, LA.
+Vose, J.M. & White, A.S. (1991) Biomass response mechanisms
+of understory species the ﬁrst year after prescribed burning
+in an Arizona ponderosa-pine community. Forest Ecology
+and Management, 40, 175–187.
+Warren, P.L., Reichhart, K.L., Mouat, D.A., Brown, B.T. &
+Johnson, R.R. (1982) Vegetation of Grand Canyon National
+Park. Technical Report No. 9. Cooperative National Park
+Resources Study Unit, Applied Remote Sensing Program,
+Ofﬁce of Arid Land Studies, University of Arizona and
+Cooperative National Park Resoure Studies Unit, Tucson,
+Arizona USA.
+Watson, P. & Wardell-Johnson, G. (2004) Fire frequency and
+time-since-ﬁre effects on the open-forest and woodland
+ﬂora of Girraween National Park, south-east Queensland,
+Australia. Austral Ecology, 29, 225–236.
+Weiher, E., Forbes, S., Schauwecker, T. & Grace, J.B. (2004)
+Multivariate control of plant species richness and commu-
+nity biomass in blackland prairie. Oikos, 106, 151–157.
+Went, F.W. (1953) Annual plants at high altitudes in the Sierra
+Nevada, California. Madronˇo, 12, 109–114.
+Woodbury, A. (1944) A history of southern Utah and its
+National Parks. Utah Historical Quarterly, 7, 111–209.
+Young, D.R. & Smith, W.K. (1979) Inﬂuence of sunﬂecks on
+the temperature and water relations of two subalpine
+understory congeners. Oecologia, 43, 195–205.
+Zobel, D.B., McKee, A., Hawk, G.M. & Dyrness, C.T. (1976)
+Relationships of environment to composition, structure,
+and diversity of forest communities of the central western
+Cascades of Oregon. Ecological Monographs, 46, 135–156.
+BIOSKETCHES
+Daniel Laughlin is a plant ecologist at the Ecological
+Restoration Institute. His research interests include factors
+that control plant diversity, wildﬁre effects on ﬂora, and
+restoration of ﬁre-adapted montane forests.
+Jon Bakker is a plant ecologist at the Ecological Restoration
+Institute. His research interests include forest and prairie
+ecology, restoration ecology, historical ecology and introduced
+species.
+Pete Fule´ is an ecologist at Northern Arizona University with
+research interests in ﬁre ecology.
+Editor: Mark Bush
+D. C. Laughlin, J. D. Bakker and P. Z. Fule´
+2102
+Journal of Biogeography 32, 2083–2102, ª 2005 Blackwell Publishing Ltd

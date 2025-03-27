@@ -1,0 +1,1575 @@
+ 
+DECEMBER
+ 
+ 
+ 
+2001
+ 
+Restoration Ecology Vol. 9 No. 4, pp. 421–431
+ 
+421
+ 
+© 
+ 
+2001 Society for Ecological Restoration
+ 
+Modeling Ecological 
+Restoration Effects on 
+Ponderosa Pine Forest 
+Structure
+ 
+W. Wallace Covington
+ 
+1,2
+ 
+Peter Z. Fulé
+ 
+1
+ 
+Stephen C. Hart
+ 
+1
+ 
+Robert P. Weaver
+ 
+1
+ 
+Abstract
+ 
+FIRESUM, an ecological process model incorporating
+surface fire disturbance, was modified for use in south-
+western ponderosa pine ecosystems. The model was
+used to determine changes in forest structure over time
+and then applied to simulate changes in aboveground
+biomass and nitrogen storage since exclusion of the
+natural frequent fire regime in an unharvested Arizona
+forest. Dendroecological reconstruction of forest struc-
+ture in 1876, prior to Euro-American settlement, was
+used to initialize the model; projections were vali-
+dated with forest measurements in 1992. Biomass allo-
+cations shifted from herbaceous plants to trees, and
+nitrogen was increasingly retained in living and dead
+tree biomass over the 116-year period (1876–1992). For-
+est conditions in 1992 were substantially degraded com-
+pared to reference presettlement conditions: old-growth
+trees were dying at accelerated rates, herbaceous pro-
+duction was reduced nearly 90%, and the entire stand
+was highly susceptible to high-intensity wildfire. Fol-
+lowing an experiment initiated in 1993 to test ecologi-
+ 
+cal restoration treatments, future changes were mod-
+eled for the next century. Future forest structure remained
+within the natural presettlement range of variability un-
+der the full restoration treatment, in which forest biomass
+structure was thinned to emulate presettlement condi-
+tions and repeated low-intensity fire was reintroduced.
+Simulation of the control treatment indicated continu-
+ation of exceptionally high tree density, probably cul-
+minating in stand-replacing ecosystem change through
+high-intensity wildfire or tree mortality from patho-
+gens. Intermediate results were observed in the partial
+restoration treatment (tree thinning only); the open for-
+est structure and high herbaceous productivity found
+immediately after treatment were gradually degraded
+as dense tree cover reestablished in the absence of fire.
+Modeling results support comprehensive restorative
+management as a long-term approach to conservation
+of key indigenous ecosystem characteristics.
+ 
+Key words: 
+ 
+presettlement, Arizona, Gus Pearson Natural
+Area, FIRESUM, process model, fire regime, biomass.
+ 
+Introduction
+ 
+R
+ 
+estoring ponderosa pine forest ecosystems affected
+by a century or more of fire exclusion, old-tree har-
+vesting, and livestock grazing is a major challenge. Across
+the western United States, ponderosa forests have be-
+come dense with small, young trees, herbaceous pro-
+ductivity has declined, and forest floor fuels have accu-
+mulated. Today forest landscapes support high-intensity
+wildfires and are increasingly susceptible to large-scale
+pathogen outbreaks (Covington & Moore 1994
+ 
+a
+ 
+). Resto-
+ration experiments have begun following several ap-
+proaches based on thinning, burning, fuel treatments,
+seeding, and other treatments (Fiedler et al. 1988; Sack-
+ett et al. 1996; Covington et al. 1997; Scott 1998). Fore-
+casting long-term effects of alternative treatments through
+ecological simulation modeling provides useful infor-
+mation to scientists, managers, and the public in mak-
+ing decisions about the nature and priorities of restora-
+tion efforts.
+Two distinct modeling methods are available: statisti-
+cal models based on analysis of past system behavior,
+and process models, often with stochastic elements,
+which seek to emulate underlying biological or physical
+processes. Because the fitting of statistical models to
+readily measurable data can be done with great preci-
+sion, such models tend to be highly accurate in the near
+term, as long as the original environmental conditions
+under which the model was developed are maintained.
+Several statistical growth and yield models are avail-
+able for ponderosa pine (e.g., Wycoff et al. 1982; Edmin-
+ster et al. 1991).
+However, because actual biological relationships are
+modeled, process models are more suitable for analysis of
+system behavior under changing environmental condi-
+tions, over long time periods (when mortality and regen-
+eration processes are modeled), and under disturbance
+regimes, such as fire, which were not incorporated in the
+datasets used to develop statistical models. Short-term
+ 
+1
+ 
+Ecological Restoration Institute and School of Forestry, North-
+ern Arizona University, Box 15018, Flagstaff AZ 86011, U.S.A.
+ 
+2
+ 
+Address correspondence to W. W. Covington, email
+William. Covington@nau.edu
+
+ 
+Modeling Ecological Restoration Effects
+ 
+422
+ 
+Restoration Ecology
+ 
+DECEMBER
+ 
+ 
+ 
+2001
+ 
+predictive accuracy may be reduced for process models
+as compared to statistical models, because data for model
+development may be more difficult to obtain and the va-
+riety of complex natural processes may be more difficult
+to model.
+Successional change in western forests under alterna-
+tive fire regimes has been simulated with the ecological
+process models SILVA (Kercher & Axelrod 1984) in Cal-
+ifornia and FIRESUM (Keane et al. 1989; 1990) in the
+northern Rocky Mountains. The models simulate changes
+in forest species composition and fuel loading at the plot
+level under alternative fire regimes. They trace their de-
+velopment history to JABOWA (Botkin et al. 1972), a pro-
+cess-based, gap-replacement ecological model, which has
+been used to analyze ecosystem dynamics in northern
+hardwoods (e.g., Covington 1981). FIRESUM models over-
+story and understory ecological change under either user-
+determined or stochastic fire regimes, incorporating
+Rothermel’s (1972) surface fire behavior model to predict
+fire behavior. The program can simulate fire effects on
+mortality, regeneration, and tree density, changes in spe-
+cies composition, forest density, and fuels over several
+centuries, with implications for fire danger, wildlife
+habitat, old-growth conservation, and other manage-
+ment issues. Keane et al. (1989; 1990) provide validation
+data and sensitivity testing for FIRESUM in ponderosa
+pine and mixed conifer forests. More recently, the gap-
+replacement and fire modeling components of FIRESUM
+have been integrated with the detailed mechanistic model
+FOREST-BGC (Running & Coughlan 1988; Running &
+Gower 1991) in a new model, FIRE-BGC, to permit suc-
+cessional modeling which incorporates biogeochemical
+process modeling at highly resolved time steps and large
+spatial scales (Keane et al. 1996). Because of its complexity
+and high input requirements, however, FIRE-BGC will
+require extensive testing and sampling before it can be ex-
+tended to sites beyond the northern Rockies.
+Beginning in 1992, we initiated an ecological restora-
+tion experiment in a fire-excluded ponderosa pine for-
+est at the Gus Pearson Natural Area (hereafter GPNA).
+Three treatments were tested: (1) control; (2) full resto-
+ration of ecosystem structure (thinning to restore den-
+sity, age, size, and spatial distributions of trees) and fire
+disturbance process (removal of accumulated duff, re-
+introduction of fire in prescription at four-year inter-
+vals); and (3) partial restoration (thinning only, without
+fire). The treatments and initial results are described by
+Covington et al. (1997). We selected FIRESUM to pre-
+dict long-term treatment effects. Our study objectives
+were to: (1) modify and validate the FIRESUM ecologi-
+cal process model for a southwestern ponderosa pine
+forest, expanding the model capabilities with biomass
+and nutrient models; and (2) predict ecological changes
+at the actual restoration site, comparing and contrasting
+the long-term effects of alternative treatments.
+ 
+Methods
+ 
+The study area is a 4.7-ha experimental restoration site
+at the Gus Pearson Natural Area, in the Fort Valley Ex-
+perimental Forest, approximately 15 km NW of Flag-
+staff, Arizona. Within the GPNA trees larger than 15.2
+cm at breast height have been measured at 5- or 10-year
+intervals since 1920 (Avery et al. 1976 and unpublished
+data). The study area has gentle topography and a cool,
+subhumid climate. Mean annual precipitation is 57 cm,
+with approximately half occurring as snow. The remain-
+der occurs as summer monsoonal rains following the
+spring/early summer drought. Soils are of volcanic ori-
+gin, a fine smectitic complex of frigid Typic Argiborolls
+and Eutroboralfs (Covington et al. 1997). The ponderosa
+pine structure consists of groups of mature trees, charac-
+terized by larger size and yellowed bark, above dense
+thickets of smaller, dark-barked trees. Understory vege-
+tation includes perennial grasses, primarily 
+ 
+Festuca ari-
+zonica
+ 
+ (Arizona fescue), 
+ 
+Muhlenbergia montana
+ 
+ (mountain
+muhly), and 
+ 
+Sitanion hystrix
+ 
+ (squirreltail), and forbs.
+Treatments were applied in 1993–94 as shown in Fig-
+ure 1. The entire study site was divided into 17 units,
+each approximately 0.2–0.3 ha in size and each contain-
+ing examples of presettlement tree groups, postsettle-
+ment tree groups, and remnant grassy opening. Units
+on the eastern and southwestern corners were excluded
+from the experiment due to the proximity of a highway
+on the east and previous thinning in the Southwest. The
+Figure 1. Model and validation datasets from the Gus Pearson 
+Natural Area, Arizona. Numbered squares are the 20 ! 20–meter 
+plots used for modeling. Dark lines are unit boundaries (five rep-
+licated units of each treatment). Small areas at the eastern and 
+southwestern corners were excluded from the experiment but 
+tree data was applied for model development and validation.
+
+ 
+Modeling Ecological Restoration Effects
+ 
+DECEMBER
+ 
+ 
+ 
+2001
+ 
+Restoration Ecology
+ 
+423
+ 
+treatment area was officially “decommissioned” from
+the GPNA so that thinning and burning could be car-
+ried out (one goal of the treatment was to reduce fire
+hazard next to the historic research headquarters). The
+full and partial restoration treatments were randomly
+assigned to 5 units each in the southern and eastern
+parts of the study site. The control treatment was con-
+strained to 5 units in the northwestern portion of the
+site, an area that remained within the Research Natural
+Area. Both the control and treatment areas crossed the
+minor elevational and geomorphological gradients in
+the study site, although the southeastern end of the
+study site was relatively lower and flatter. Pretreatment
+soil characteristics (N, P, organic matter) and mature
+tree characteristics (predawn water potential, basal area
+growth, diameter, and competition index) were not sig-
+nificantly different between treatments (Stone 1997),
+strengthening inferences from the experiment.
+The FIRESUM model for ponderosa pine/Douglas fir
+habitats, as documented by Keane et al. (1989), was en-
+hanced or changed for southwestern ponderosa pine
+forests as follows. Tree biomass and nutrient modules
+using allometric ponderosa pine equations developed
+from northern Arizona data were added (W. W. Cov-
+ington, unpublished data). An herbage module based
+on overstory–understory relationships in northern Ari-
+zona ponderosa pine was incorporated (Solomon 1985;
+see also Covington & Fox 1991). Several input parame-
+ters representing maximal variable levels were changed
+based on southwestern data, including: maximum age
+for ponderosa pine 
+ 
+"
+ 
+ 650 years (Swetnam & Brown
+1992); fuel loading by timelag classes, 1 hr 
+ 
+"
+ 
+ 0.0570, 10 hr 
+ 
+"
+ 
+0.1731, 100 hr 
+ 
+"
+ 
+ 0.2500 (units kg/m
+ 
+2
+ 
+, data from GPNA,
+Covington et al. 1997; Fulé & Covington 1994); herbaceous
+production (fire group 1) 
+ 
+"
+ 
+ 0.18 kg/m
+ 
+2
+ 
+. Different seedling
+establishment rates were used for fire-exclusion versus
+frequent-fire modeling, since far more seedlings survive in
+the absence of fire (White 1985; Savage et al. 1996). Seed-
+ling establishment 
+ 
+"
+ 
+ 0.1 (seedings/m
+ 
+2
+ 
+, average of data
+from Heidmann 1988 and Cormier 1990) for fire-exclusion
+modeling; seedling establishment 
+ 
+"
+ 
+ 0.005 (seedlings/m
+ 
+2
+ 
+,
+data from White 1985 and Mast et al. 1999) for frequent-
+fire modeling. Mortality risk for ponderosa pine from
+fire was calculated using data for “light surface fires”
+and “hot surface fires” from Lindenmuth (1960).
+Multiple runs of FIRESUM were made in two differ-
+ent ways. First, each run of the model consisted of 2 sto-
+chastic simulations. Second, 10 repetitions were made
+of each modeling scenario to expand the potential for
+stochastic variability, for a total of 20 simulations (2 
+ 
+!
+ 
+10) per plot per scenario.
+Two model validation approaches were taken. First,
+following the validation procedure used by Keane et al.
+(1989; 1990), data were developed at two points in time
+for the study area. Trees were measured and mapped in
+the study area in 1992. Forest structure was recon-
+structed using dendroecological methods for 1876, the
+final year of the frequent-fire regime that prevailed prior
+to Euro-American settlement (Dieterich 1980; Covington
+et al. 1997; Mast et al. 1999). FIRESUM was initialized
+with 1876 data and run for 116 years (1876–1992) with-
+out fire to estimate the 1992 forest structure. A total of 90
+plots, each 400 m
+ 
+2
+ 
+, were prepared from the Pearson dataset
+(Fig. 1). Because model runs based on the Pearson data
+were also needed to assess the effects of changes to model
+parameters, the dataset was split. Forty-five plots falling
+within the treatment units (15 per treatment) were used to
+test changes in model parameters (model data). The re-
+maining 45 plots were set aside as a validation dataset.
+Model and validation data plots were interspersed.
+The second validation approach tested the internal con-
+sistency and stability of the model. If the presettlement
+frequent-fire regime had continued after 1876 up to the
+present, forest structure would be expected to remain rela-
+tively similar to the 1876 conditions, in contrast to the sub-
+stantial increases in tree density and basal area observed
+under fire exclusion. FIRESUM was initialized with the re-
+constructed 1876 data (all 90 plots) run for 500 years at a
+4-year fire interval. Simulated fire conditions listed in Ta-
+ble 1 corresponded to relatively dry spring and summer
+burning, the natural fire season in the Southwest (Swet-
+nam & Baisan 1996). Climatic and soils data were summa-
+rized from GPNA weather records and Avery et al. (1976).
+Finally, using the validated model, we simulated the
+effects of the three treatments over the next century. The
+model dataset consisting of 45 plots, 15 plots in each
+treatment, was initialized in the treatment year (1994)
+and run till the year 2100 (106 years). Thinning was sim-
+ulated by setting the input tree list equal to the actual
+post-thinning forest structure on each plot. For the burn-
+ing treatment, fires were simulated at 4- and 10-year in-
+tervals. Mean density and basal area values in 1994 and
+2100 were compared with paired 
+ 
+t
+ 
+-tests (alpha 
+ 
+"
+ 
+ 0.05).
+ 
+Results
+ 
+Model Verification
+ 
+Validation test results for the modified FIRESUM model
+are shown in Table 2. The predicted values were rea-
+ 
+Table 1.
+ 
+Fire weather and fuel moisture conditions.
+ 
+Variable
+Value
+ 
+Midflame windspeed
+10 km/h
+Relative humidity
+40%
+Moisture content: litter
+5%
+1-hour timelag fuel
+6%
+10-hour timelag fuel
+8%
+100-hour timelag fuel
+8%
+
+ 
+Modeling Ecological Restoration Effects
+ 
+424
+ 
+Restoration Ecology
+ 
+DECEMBER
+ 
+ 
+ 
+2001
+ 
+sonably consistent with the contemporary measure-
+ments. Basal area predictions were within 
+ 
+#
+ 
+6.5% of ob-
+served values for both datasets, but density predictions
+were 6 to 18% lower than the observed values. The re-
+duced density predictions may be related to the fact
+that modeled regeneration occurred early during the
+1876–1992 simulation period, whereas the actual regen-
+eration pulse at the Pearson Area was delayed until the
+early twentieth century, especially 1919 (Savage et al.
+1996). Because regeneration was simulated earlier, the
+1992 modeled density had a longer period of self-thin-
+ning. Ponderosa pine self-thinning is slow in the ab-
+sence of fire (Cooper 1960), but it does occur. Dead post-
+settlement trees, mostly 1914–1919 origin (Savage et al.
+1996; Mast et al. 1999), made up 16.2% of all postsettle-
+ment trees in the study area in 1992, providing a mini-
+mal estimate of self-thinning rates over approximately
+80 years (not accounting for mortality of very small trees
+which may have decomposed completely by 1992). Dif-
+ferences in aboveground biomass predictions versus
+observations ranged from 9 (trees) to 45% (herbaceous).
+Forest floor loadings were more variable, with differ-
+ences ranging from 6 (100-hr timelag woody fuels) to
+87% (litter loading). The higher difference in litter load-
+ing may reflect inaccuracies in the modeling of litter
+production or decomposition rates or may be related to
+imprecision in litter bulk density data (Harrington 1986).
+The highest errors in proportional terms occurred for
+variables with low absolute values, such as herbaceous
+production. However, the total model error over the
+166-year simulation was only 
+ 
+!
+ 
+30 kg/ha for herbaceous
+production in absolute terms, a highly accurate esti-
+mate for this type of data.
+Modeling for 5 centuries under a continuing fre-
+quent-fire regime showed fluctuations in tree density
+and basal area, but the behavior was relatively stable
+(Fig. 2). Pulses of tree regeneration were observed at ap-
+proximately century intervals, affecting tree density
+(trees/ha) approximately 20 to 30%. Since the seedlings
+were small, basal area was not affected. This limited
+variation appears consistent with current understand-
+ing of presettlement forest dynamics and shows that the
+modeled processes are internally consistent.
+ 
+Changes Since Fire Exclusion
+ 
+Actual forest density increases during the fire-exclusion
+period from an average of 60.5 trees/ha and 10.6 m
+ 
+2
+ 
+/ha
+basal area in 1876, to 3,098 trees/ha and 34.5 m
+ 
+2
+ 
+/ha
+basal area in 1992, (Covington et al. 1997) were closely
+simulated by the model. Simulated herbaceous produc-
+tion declined as forest density increased (Fig. 3). The ac-
+tual decline was probably more precipitous, as heavy
+livestock grazing rapidly removed understory vegeta-
+tion (Dieterich 1980; also see 1909 GPNA photograph in
+Covington & Moore 1994
+ 
+a
+ 
+) while the model curve re-
+sponded to the slower increase in overstory density.
+Simulated tree biomass increased by 73%, from approxi-
+mately 81,500 kg/ha to 140,700 kg/ha, about 8% higher
+than the biomass calculated from tree measurements in
+1992. Although herbaceous biomass was always a small
+fraction of tree biomass, the relative change was greater:
+a decline of 87% from approximately 780 kg/ha in 1876
+to 99 kg/ha in 1992. The measured herbaceous produc-
+tion in 1992 averaged even less, 70 kg/ha (Table 2).
+Shifts in nitrogen storage paralleled those in biomass.
+Nitrogen stored in trees increased by 115%, from 1,150
+kg/ha to 2,460 kg/ha. The increase in tree N was dis-
+proportionately greater than the growth in tree biomass
+because the new, small trees contributed relatively
+more N-rich foliage than N-poor wood and bark. Her-
+baceous N, calculated from average N content for grass
+and forb species at GPNA (1.17%, average from Harris
+& Covington 1983 and S. C. Hart, unpublished data),
+ 
+Table 2.
+ 
+Validation test results for the FIRESUM model on two Arizona ponderosa pine datasets (N 
+ 
+"
+ 
+ 45 
+plots each) from the Gus Pearson Natural Area. The model was initialized with reconstructed 1876 data and 
+run for 116 years without fire. Model predictions were compared with 1992 measurements. Outputs from 
+multiple stochastic runs (see text) had a coefficient of variation of 10% in density and 6% in basal area.
+ 
+Variable
+Model Dataset
+Validation Dataset
+Observed
+Predicted
+Percent
+Difference 
+(%)
+Observed
+Predicted
+Percent
+Difference 
+(%)
+ 
+Basal area (m
+ 
+2
+ 
+/ha)
+37.6
+35.8
+4.7
+33.7
+35.9
+6.5
+Density (trees/ha)
+3603.3
+2955.8
+18.0
+3160.0
+2967.8
+6.1
+Tree biomass (kg/ha)
+129600
+141200
+9.0
+129600
+140200
+9.0
+Herbaceous biomass (kg/ha)
+70
+95.9
+37.0
+70
+101.4
+44.9
+Litter loading (kg/m
+ 
+2
+ 
+)
+0.314
+0.577
+83.8
+0.314
+0.587
+86.9
+1-hour fuel loading (kg/m
+ 
+2
+ 
+)
+0.042
+0.057
+35.7
+0.042
+0.057
+35.7
+10-hour fuel loading (kg/m
+ 
+2
+ 
+)
+0.123
+0.173
+40.7
+0.123
+0.173
+40.7
+100-hour fuel loading (kg/m
+ 
+2
+ 
+)
+0.265
+0.250
+5.7
+0.265
+0.250
+5.7
+
+ 
+Modeling Ecological Restoration Effects
+ 
+DECEMBER
+ 
+ 
+ 
+2001
+ 
+Restoration Ecology
+ 
+425
+ 
+dropped from 7.4 kg/ha to 0.9 kg/ha, an 88% decrease.
+Nitrogen stored in forest floor material, calculated from
+forest floor N content in Covington and Sackett (1984)
+and Kaye and Hart (1998
+ 
+b
+ 
+), rose from 70 kg/ha to 1,340
+kg/ha, an 1,800% increase. From all aboveground sources,
+modeled N storage rose from approximately 1,230 kg/
+ha in 1876 to 3,800 kg/ha in 1992. Increased vegetation
+and fuel biomass therefore represented a 209% increase
+in total N.
+ 
+Effects of Restoration Treatments
+ 
+The control treatment (Fig. 4) showed a gradual decline
+in tree density due to self-thinning in the extremely
+dense stands (
+ 
+p
+ 
+ 
+ 
+$
+ 
+0.001), averaging 3,098 trees/ha at the
+start of the simulation period. Basal area increased
+slightly over most of the modeled period of 106 years,
+but the change was not statistically significant (
+ 
+p
+ 
+ 
+ 
+"
+ 
+0.210). Herbaceous production remained at minimal
+levels throughout the modeled century (70–80 kg/ha).
+Nitrogen allocation remained primarily in trees and for-
+est floor biomass.
+The full restoration treatment—thinning, fuel treat-
+ment, and repeated burning at 4-year intervals—main-
+tained a relatively constant density, but basal area in-
+creased slightly over the modeled period. Neither change
+was statistically significant (
+ 
+p
+ 
+ 
+ 
+"
+ 
+ 0.519 and 0.748, respec-
+tively). The basal area increase may reflect growth ex-
+pected from the relatively young trees that were retained
+Figure 2. Five hundred year modeling of Gus Pearson Natu-
+ral Area forest, assuming that fires had continued at 4-year in-
+tervals after 1876. Tree density is shown in the top graph and 
+basal area in the bottom graph. Data are the average of 90 
+plots. Error bars are 1 standard deviation.
+Figure 3. Modeled changes in tree biomass, herbaceous biomass, 
+and tree N content from 1876, the final year of the presettlement 
+frequent-fire regime, through 1992. Data are the average of 90 
+plots.
+
+ 
+Modeling Ecological Restoration Effects
+ 
+426
+ 
+Restoration Ecology
+ 
+DECEMBER
+ 
+ 
+ 
+2001
+ 
+1980), gave nearly identical results in tree density and
+basal area over the modeled period.
+Presettlement-like conditions of forest structure, her-
+baceous production, N storage, and fuel loading were
+also observed immediately after treatment in the simu-
+lated partial restoration—thinning only—area. In the
+absence of fire, however, tree density rapidly increased
+significantly (
+ 
+p
+ 
+ 
+ 
+$
+ 
+ 0.001), equaling the control area den-
+sity within 65 years (Fig. 4). Basal area also increased
+steadily (
+ 
+p
+ 
+ 
+ 
+$
+ 
+ 0.001), increasing 80% above the full resto-
+ration treatment basal area as the additional young
+trees grew. Herbaceous production declined to about
+120 kg/ha, and fuel loads increased back to pretreat-
+ment levels.
+ 
+Discussion
+ 
+Model Performance and Recent Ecological Changes
+ 
+With appropriate modification of parameters based
+on southwestern data, FIRESUM accurately modeled
+changes in overstory and understory structure in an Ar-
+izona ponderosa pine forest over the past century. Model
+validation results were in close agreement with the data
+from the study area (Table 2) and with the broader
+changes observed consistently across the Southwest:
+large increases in tree density and basal area (Cooper
+1960; Covington & Moore 1994
+ 
+a
+ 
+,
+ 
+b
+ 
+; Fulé et al. 1997), real-
+location of biomass and nitrogen from herbaceous plants
+to trees (Arnold 1950; Covington et al. 1997), and accu-
+mulation of forest floor biomass (Sackett 1979; Fulé &
+Covington 1994).
+Implications of these types of changes in forest struc-
+ture have been widely discussed for crownfire hazard
+(Covington & Moore 1994
+ 
+b
+ 
+), tree growth, mortality, and
+regeneration (White 1985; Biondi 1996), and understory
+production (Arnold 1950). The modeling results also
+show that the substantial increases and reallocations in
+biomass from herbs to trees have strongly impacted ni-
+trogen (N) storage over the past century. Changes in the
+sources of N have implications for herbivores. Nutrient
+and biomass resources increased for those feeding di-
+rectly on pine trees, such as 
+ 
+Dendroctonus
+ 
+ spp. and 
+ 
+Ips
+ 
+spp. (bark beetles), 
+ 
+Sciuris abertii
+ 
+ (tassel-eared squir-
+rels), and 
+ 
+Coloradia pandora
+ 
+ (pandora moth). However,
+the herbaceous understory represents 99% of the plant
+species diversity at the study area (1 tree species, 96
+grass, forb, and shrub species). These species, which
+constitute the habitat resources for the nonarboreal in-
+vertebrate and vertebrate herbivores, declined nearly
+90% in biomass and N. A drop of this magnitude un-
+doubtedly had impacts across trophic levels and food
+webs of the forest.
+Long-term simulations of presettlement conditions
+provide an opportunity for assessing the range of natu-
+in the restoration thinning to replace dead presettle-
+ment trees. Although tree densities in the modeled full
+restoration area were higher than the reconstructed pre-
+settlement densities (about 160 trees/ha vs. 60 trees/
+ha), approximately 70% of the modeled trees were be-
+low 2-cm dbh, representing recurring regeneration that
+was repeatedly thinned by the fires. Herbaceous pro-
+duction was about 380 kg/ha in 2100, and N allocation
+patterns were similar to those modeled for the preset-
+tlement forest. Forest floor fuel levels stayed low due to
+the repeated fires (data not shown). These results were
+relatively insensitive to minor changes in fire regime.
+Decreasing the fire frequency to a 10-year fire interval,
+representing the longer extremes of variability in fire
+intervals in the presettlement fire record (Dieterich
+Figure 4. Modeled effects of alternative treatments at the Pear-
+son restoration area, average and standard deviation (bars) of 
+15 plots per treatment. Tree density is shown in the top graph 
+and basal area in the bottom graph. Upper line in each graph is 
+the control. Lower line is the full restoration treatment (thin-
+ning % burning at 4-year intervals). The middle line is the par-
+tial restoration treatment (thinning but no burning)
+
+ 
+Modeling Ecological Restoration Effects
+ 
+DECEMBER
+ 
+ 
+ 
+2001
+ 
+Restoration Ecology
+ 
+427
+ 
+ral variability in forest structure. The concept of the range
+of natural variability (RNV) provides a point of refer-
+ence against which to evaluate changes in ecosystems
+and a criterion for measuring the success of ecological
+restoration treatments and other ecosystem manage-
+ment experiments (Kaufmann et al. 1994; Morgan et al.
+1994; Moore et al. 1999). In simplest terms, the range of
+natural variability refers to the “composition, structure,
+and dynamics of ecosystems before the influence of Eu-
+ropean settlers” (Swanson et al. 1994). As a conservative
+estimate, the plants and animals that evolved together
+with characteristic climate and disturbance regimes for
+many thousands of years should be well-adapted to
+these conditions and presumably less well-adapted to
+rapid anthropogenic alteration of ecosystems (Kaufmann
+et al. 1994; Swanson et al. 1994). Without modeling, our
+understanding of the temporal variability in forest struc-
+ture is limited. Detailed quantitative evidence, such as
+dendroecological data, photographs, and records are all
+most available and most precise relatively close to the
+present, such as the circa 1870–1880 time of fire exclu-
+sion (Mast et al. 1999; Moore et al. 1999), whereas pro-
+gressively much less detail can be reconstructed for
+1780, 1680, and before. To some extent, however, recon-
+struction of the RNV in forest structure in space can
+also serve as a proxy for reconstruction in time. The
+sampling of large landscapes includes a variety of dif-
+ferences in aspect, elevation, soils, microhabitats, light-
+ning intensities, and human occupancy. These factors
+are likely to represent the majority of ecosystem influ-
+ences over past times, although past proportions varied
+depending on climatic factors and human population
+and cultural changes.
+The fluctuations in forest structure under long-term
+simulation (500 years) had coefficients of variation rang-
+ing from 4 (basal area) to 9% (tree density), calculated
+from the averages for all 90 plots every 50 years. The
+simulated forest structural changes over 500 years are
+probably well within the RNV of presettlement forest
+structure on this 4.7-ha study area. Over larger and more
+diverse landscapes, more variable conditions would con-
+tribute to greater structural diversity. For example, re-
+construction of ponderosa pine and gambel oak forest
+structure at the onset of fire exclusion in 1883 at Camp
+Navajo, about 16 km west of Flagstaff, had coefficients
+of variation of 76% in tree density and 85% in basal area
+over a 558-ha area (Fulé et al. 1997). In this local exam-
+ple, temporal variability at the GPNA site is much less
+than presettlement spatial variability at Camp Navajo, a
+logical outcome for a small plot compared to a land-
+scape. As FIRESUM, FIRE-BGC, and other models are
+refined in the Southwest, a more extensive examination
+of temporal and spatial variability will be possible.
+Although highly resolved mechanistic models like
+FIRE-BGC hold tremendous potential for the future,
+FIRESUM and other JABOWA-type models will proba-
+bly remain useful because of their relatively low data
+requirements and computational simplicity. For FIRE-
+SUM to be applied in broader southwestern settings,
+needed refinements will include local parameterization
+of three conifer species included in the original FIRE-
+SUM model, 
+ 
+Pseudotsuga menziesii
+ 
+ (Douglas fir), 
+ 
+Abies
+lasiocarp
+ 
+ (subalpine fir 
+ 
+a
+ 
+), and 
+ 
+Picea pungens
+ 
+ (Engelmann
+spruce), and addition of several important new species:
+ 
+Quercus gambeli
+ 
+ (gambel oak 
+ 
+i
+ 
+), 
+ 
+Abies concolor
+ 
+ (white fir),
+and 
+ 
+Populus tremuloides
+ 
+ (aspen). 
+ 
+Pinus edulis
+ 
+ (pinyon
+pine) and 
+ 
+Juniperus osteosperma
+ 
+, 
+ 
+J. monosperma
+ 
+, and 
+ 
+J.
+deppeana
+ 
+ (junipers) are also major species in southwest-
+ern forests at xeric woodland ecotones. Modeling of
+herbaceous production and forest floor dynamics will
+also have to be modified for the variety of southwestern
+environments. Application of the model over spatially
+explicit landscapes will support investigation of large-
+scale phenomena such as landscape connectivity and
+spread of contagious processes. We also continue to de-
+velop related software tools to support analysis of
+model outputs.
+ 
+Comparing Ecological Restoration Treatments
+ 
+Ecological restoration is one of many ways in which the
+negative effects of recent ecological changes could be
+addressed. For example, a variety of tree thinning re-
+gimes could address forest density, herbaceous produc-
+tion goals, or fuelbreak objectives, while various fire
+prescriptions or mechanical fuel treatments could be
+designed to reduce forest floor fuels. The distinguishing
+feature of an ecological restoration approach is close
+emulation of a reference condition based on the historic,
+indigenous ecosystem (Society for Ecological Restora-
+tion 1993). The design of the GPNA restoration treat-
+ments included close attention to the presettlement for-
+est structure and spatial pattern, fire regime, reference
+fuel and burning characteristics, native plant communi-
+ties, and historic data from the site (Covington & Moore
+1994
+ 
+a
+ 
+; Edminster & Olsen 1996; Covington et al. 1997;
+Fulé et al. 1997; Mast et al. 1999).
+Apart from the distinct differences between the treat-
+ments observed in the simulation results, other ecologi-
+cal factors beyond the scope of the model may affect the
+forest. Maintenance of extremely high basal area in the
+control is probably not possible for the next century; in
+reality the control plots are most likely to experience
+high tree mortality either from fire or insect or disease
+pathogens (Wilson & Tkacz 1996). The highly stressed
+presettlement trees in these crowded stands are already
+showing evidence of significant growth declines (Biondi
+et al. 1994; Biondi 1996) and high mortality rates (Sackett
+et al. 1996; Mast et al. 1999). Essentially two alterna-
+tives are possible: either the control can be successfully
+
+ 
+Modeling Ecological Restoration Effects
+ 
+428
+ 
+Restoration Ecology
+ 
+DECEMBER
+ 
+ 
+ 
+2001
+ 
+protected from allogenic disturbance, as implied in the
+FIRESUM analysis, or a stand-replacing disturbance
+event will occur. Neither outcome is desirable from a
+viewpoint that seeks to restore natural structure and
+process. Fires or pathogens that kill trees over a small
+area at one time may not be entirely outside the range
+of frequent-fire regime conditions (e.g., see Fulé & Cov-
+ington 1997 for an example in northern Mexico). Even
+at the small scale of the control area (approximately 1.5
+ha), however, the native forest was highly uneven-aged
+(Mast et al. 1999). Because the experimental site is sur-
+rounded by dense forest, wildfire in the control area
+today would not be contained in a small area. Contem-
+porary landscape-scale wildfires, such as the 6,500 ha
+Hochderffer fire in 1996, ignited about 14 km north of
+GPNA, have a far greater impact in terms of soil heat-
+ing, erosion, plant mortality, and loss of seed sources
+than presettlement fires.
+Simulation of the two restoration treatments showed
+early positive results, consistent with experimental ob-
+servations at the study area of increased herbaceous
+production (Covington et al. 1997), increased tree pho-
+tosynthesis rates and resin flow, decreased tree mois-
+ture stress (Feeney et al. 1998), and increased N trans-
+formation and soil respiration rates (Kaye and Hart
+1998
+ 
+a
+ 
+,
+ 
+b
+ 
+). Rapid gains in tree growth, crown develop-
+ment, and herbaceous production were observed in the
+first two decades following thinning of dense young
+trees at a nearby Fort Valley study area (Ronco et al.
+1985). However, the partial restoration treatment (thin-
+ning only) rapidly diverged from the full restoration
+treatment (thinning and burning) as trees became re-
+established. Although tree regeneration can be sporadic
+in the Southwest (Schubert 1974), tree establishment in
+the absence of fire has occurred repeatedly since settle-
+ment. Even in the absence of regional-scale events such
+as the 1919 seed year (Savage et al. 1996), open forests
+with seed trees eventually become denser. For example
+Fulé et al. (1997) published a repeated photographic
+scene from Camp Navajo, Arizona, showing seedlings
+in 1942,that grew into dense sapling and pole stands by
+1995. A thin-only treatment could be applied repeatedly
+to control regeneration, and specific basal area targets
+could even be maintained through commercial thinning
+(Edminster & Olsen 1996). From a restoration perspec-
+tive, such a management regime would be less desir-
+able than full restoration because of the loss of the vari-
+ety of ecological functions played by fire, as well as the
+soil and habitat impacts of repeated mechanical entries.
+Alternative views toward restoring fire-excluded for-
+ests have been characterized as a debate between “pro-
+cess restorationists”—who argue that restoration of key
+ecological processes, especially fire, will eventually re-
+store natural ecological conditions—and “structural res-
+torationists”—who argue that forest structure and fuels
+must be restored before reintroducing fire (Stephenson
+1996). A restoration approach based on fire alone has
+been popular in areas with management restrictions on
+mechanical tree thinning, such as national parks (Par-
+sons et al. 1986). In the Sierra Nevada, Stephenson (1996)
+suggests that fire-only treatments in sequoia/mixed-
+conifer forests can restore forest structure nearly as well
+as thinning and burning. Modeling studies in the Sierra
+Nevada have reached similar conclusions (van Wagten-
+donk 1996; Miller & Urban 2000).
+In contrast a prescribed fire-only treatment was not
+tested at GPNA because more than two decades of ex-
+tensive local experimentation have shown that the pon-
+derosa pine forests in our study region are unlikely to
+regain natural forest structure from burning alone. In-
+terval burning studies were initiated on the Fort Valley
+and Long Valley Experimental Forests in 1976 and 1977
+to test the ecological effects of reintroducing low-intensity
+fire at intervals ranging from 1 to 10 years (Harrington
+& Sackett 1990). Prescribed fires reduced accumulated
+fuel and mobilized forest floor nutrients (Covington &
+Sackett 1992) and moderately stimulated tree growth
+(Peterson et al. 1994) but thinned only a limited number
+of small trees. Even trees as small as 10-cm dbh were
+highly resistant to prescribed fire, so the study areas
+have retained thousands of trees/ha, well above preset-
+tlement reference levels. Techniques that increased fire
+intensity, such as ring firing, led to higher mortality of
+small trees but were difficult to apply due to the pres-
+ence of continuous vertical fuels, the need for dry con-
+ditions, and the desire to protect old-growth trees from
+excessive scorch (Harrington & Sackett 1990). The long-
+term interval burning studies remain in place, but more
+comprehensive restoration experiments including both
+structural and process restoration are the focus of cur-
+rent research (Sackett et al. 1996; Fiedler et al. 1996;
+Covington et al. 1997).
+Additionally, a burn-only treatment was not in-
+cluded in the FIRESUM analysis because fire modeling
+capabilities are limited to surface fires, so simulation re-
+sults can be misleading if fuels are actually available to
+support crownfire. The fires we simulated burned in
+presettlement or restored fuels, usually corresponding
+to fire behavior fuel model 2 (grass and timber litter,
+Anderson 1982). Forest structures were open and domi-
+nated by large, fire-resistant trees with very few ladder
+fuels such as shrubs or small trees. Under these circum-
+stances, torching is rare and active crownfire essentially
+impossible even under the relatively dry fire conditions
+characteristic of the natural spring and summer fire re-
+gime (Table 1). The surface fire module incorporated in
+FIRESUM, based on the fire behavior model of Rother-
+mel (1972), provided realistic estimates of fire intensity
+for input to the seedling mortality and fuel reduction
+modules. In contrast, passive and active crownfire be-
+
+ 
+Modeling Ecological Restoration Effects
+ 
+DECEMBER
+ 
+ 
+ 
+2001
+ 
+Restoration Ecology
+ 
+429
+ 
+havior are likely under the same weather conditions in the
+control fuels, which have high vertical fuel continuity, a
+low crown base height, and high canopy density. Crown-
+fires result from modeling stand structures like those of
+the control area with the fire simulator FARSITE (Finney
+1998), which incorporates crownfire-modeling capabili-
+ties. Modeling a fire-only treatment with FIRESUM in the
+control fuels would result in an underestimate of fire in-
+tensity and an overestimate of the thinning effect of fire,
+because fire behavior could be manipulated in the model
+by reducing fuel moisture and increasing wind speed to
+achieve any desired level of tree thinning. In reality, how-
+ever, the control fuels can easily support crownfires even
+under average fire season burning conditions.
+A modeling study by Miller and Urban (2000) sug-
+gested that relatively severe prescribed fires in the Si-
+erra Nevada could approximate the effect of mechanical
+thinning over a time span of a few centuries, because in-
+tense burns will thin trees, repeated fire will regulate
+new tree regeneration, and the excess established, fire-
+resistant, overstory trees will eventually die, reestablish-
+ing reference forest conditions. Even a regime of less-in-
+tense “natural” fires is predicted to eventually achieve
+the same goal (Miller & Urban 2000). For many south-
+western ponderosa pine forests, however, such an out-
+come is unlikely for two reasons. First, real fires severe
+enough to thin 25–35-cm dbh pines are likely to crown
+in unthinned stands and would be difficult to manage
+under any circumstances. This outcome cannot be ac-
+counted for in modeling, because the fire model in
+FIRESUM as well as that used by Miller and Urban (2000)
+have only surface fire capabilities, as discussed above.
+Second, the long-term restoration approach implies that
+dense stands will be able to persist for centuries with-
+out destruction by wildfire. Recent fire trends in the
+Southwest (Swetnam & Betancourt 1998), coupled with
+increasingly strong El Niño–Southern Oscillation (ENSO)
+events such as the 1996 La Niña episode, during which
+the largest and most costly crownfires in southwestern
+history occurred, suggest that long-term maintenance
+of dense forests is unlikely.
+Repeated underburning would help reduce crown-
+fire danger by lowering fuels in dense stands (van Wag-
+tendonk 1996), but fine fuels reaccumulate quickly in
+ponderosa stands (Davis et al. 1968; Harrington & Sackett
+1990). Restoration treatments, which include biomass
+removal, are more likely to provide long-term crown-
+fire protection. Repeated burning is necessary in any
+event, but as long as the burning units are appropri-
+ately situated with respect to protection of surrounding
+areas, burning in open forest conditions after thinning
+will permit much wider prescription windows because
+the risk of intense fire behavior is low.
+In practice southwestern forest restoration will in-
+clude a mix of practices as treatment areas expand from
+small experimental sites. On many public and private
+lands, mechanical thinning offers the combined benefits
+of rapid restoration, crownfire protection, and the op-
+portunity to offset treatment costs to some extent with
+the value of small-diameter trees. Pure ecological resto-
+ration goals (restoration 
+ 
+sensu stricto
+ 
+, Aronson et al.
+1993) are unlikely to be adopted uniformly; instead,
+mixtures of several thinning prescriptions and set-asides
+will lead to diverse landscapes on large-scale projects.
+On lands such as parks and wilderness areas, where
+management objectives seek to minimize mechanical
+activities, thinning may be limited to the minimal level
+needed to safely reintroduce fire or protect boundaries
+or developments. Prescribed fire will be central in every
+restoration approach—underscoring the fact that the
+term “structural restoration” is a misnomer. As shown
+by the partial-restoration treatment simulation, a suc-
+cessful restoration approach depends on reinstating
+and maintaining the full spectrum of natural processes,
+including demographic and successional changes, and
+disturbance. Throughout the Southwest, another kind
+of restoration is increasingly needed: reestablishment of
+indigenous ecosystems on severely burned landscapes.
+It is important to test a variety of restoration treatments
+while we can still intervene to limit the damage.
+ 
+Acknowledgments
+ 
+We thank Robert Keane, Jay Barber, and Steven Dew-
+hurst for assistance and comments. This research was
+supported by NSF grant DEB-9322706 and the Ecologi-
+cal Restoration Program of Northern Arizona Univer-
+sity. The Gus Pearson Natural Area is managed by the
+USDA Forest Service Rocky Mountain Research Station
+and Coconino National Forest. E. Allen and two anony-
+mous reviewers provided helpful comments on the draft
+manuscript.
+ 
+LITERATURE CITED
+Anderson, H. E. 1982. Aids to determining fuel models for estimat-
+ing fire behavior. USDA Forest Service General Technical Re-
+port INT-122. Intermountain Research Station, Ogden, Utah.
+Arnold, J. F. 1950. Changes in ponderosa pine bunchgrass ranges
+in northern Arizona resulting from pine regeneration and
+grazing. Journal of Forestry 48:118–126.
+Aronson, J., C. Floret, E. Le Floc’h, C. Ovalle, and R. Pontanier.
+1993. Restoration and rehabilitation of degraded ecosystems
+in arid and semi-arid lands. I. A view from the South. Resto-
+ration Ecology 1:8–17.
+Avery, C. C., F. R. Larson, and G. H. Schubert. 1976. Fifty-year
+records of virgin stand development in southwestern ponde-
+rosa pine. USDA Forest Service General Technical Report
+RM-22. Rocky Mountain Forest and Range Experiment Sta-
+tion, Fort Collins, Colorado.
+Biondi, F. 1996. Decadal-scale dynamics at the Gus Pearson Natu-
+ral Area: evidence for inverse (a)symmetric competition? Ca-
+nadian Journal of Forest Research 26:1397–1406.
+Biondi, F., D. E. Myers, and C. C. Avery. 1994. Geostatistically
+
+Modeling Ecological Restoration Effects
+430
+Restoration Ecology
+DECEMBER 2001
+modeling stem size and increment in an old-growth forest.
+Canadian Journal of Forest Research 24:1354–1368.
+Botkin, D. B., J. F. Janak, and J. R. Wallis. 1972. Some ecological
+consequences of a computer model of forest growth. Journal
+of Ecology 60:849–872.
+Cooper, C. F. 1960. Changes in vegetation, structure, and growth
+of southwestern pine forests since white settlement. Ecology
+42:493–499.
+Cormier, K. L. 1990. Estimating natural regeneration of even-aged
+ponderosa pine following a shelterwood cut on limestone
+soils in northern Arizona. M.S.F. Thesis, Northern Arizona
+University, Flagstaff.
+Covington, W. W. 1981. Changes in forest floor organic matter
+and nutrient content following clearcutting of northern
+hardwoods. Ecology 62:41–48.
+Covington, W. W., and B. E. Fox. 1991. Overstory:understory re-
+lationships in southwestern ponderosa pine. Pages 121–161
+in A. Tecle and W. W. Covington, editors. Multiresource
+Management of Southwestern Ponderosa Pine Forests: The
+Status of Knowledge. USDA Forest Service, Southwestern
+Region, Albuquerque, New Mexico.
+Covington, W. W., and M. M. Moore. 1994a. Southwestern ponde-
+rosa forest structure and resource conditions: changes since
+Euro-American settlement. Journal of Forestry 92:39–47.
+Covington, W. W., and M. M. Moore. 1994b. Postsettlement
+changes in natural fire regimes: ecological restoration of old-
+growth ponderosa pine forests. Journal of Sustainable For-
+estry 2:153–181.
+Covington, W. W., P. Z. Fulé, M. M. Moore, S. C. Hart, T. E. Kolb,
+J. N. Mast, S. S. Sackett, and M. R. Wagner. 1997. Restoration
+of ecosystem health in southwestern ponderosa pine forests.
+Journal of Forestry 95:23–29.
+Covington, W. W., and S. S. Sackett. 1984. The effect of a pre-
+scribed burn in southwestern ponderosa pine on organic
+matter and nutrients in woody debris and forest floor. Forest
+Science 30:183–192.
+Covington, W. W., and S. S. Sackett. 1992. Spatial variation in soil
+mineral nitrogen following prescribed burning in ponderosa
+pine. Forest Ecology and Management 54:175–191.
+Davis, J. R., P. F. Ffolliott, and W. P. Clary. 1968. A fire prescrip-
+tion for consuming ponderosa pine duff. USDA Forest Ser-
+vice Research Note RM-115. Rocky Mountain Forest and
+Range Experiment Station, Fort Collins, Colorado.
+Dieterich, J. H. 1980. Chimney Spring forest fire history. USDA
+Forest Service Research Paper RM-220. Rocky Mountain For-
+est and Range Experiment Station, Fort Collins, Colorado.
+Edminster, C. B., H. T. Mowrer, R. L. Mathiasen, T. M. Schuler,
+W. K. Olsen, and F. G. Hawksworth. 1991. GENGYM: a vari-
+able density stand table projection system calibrated for
+mixed conifer and ponderosa pine stands in the Southwest.
+USDA Forest Service Research Paper RM-297. Rocky Moun-
+tain Forest and Range Experiment Station, Fort Collins, Col-
+orado.
+Edminster, C. B., and W. K. Olsen. 1996. Thinning as a tool in re-
+storing and maintaining diverse structure in stands of south-
+western ponderosa pine. Pages 62–68 in W. Covington and
+P. K. Wagner, technical coordinators. Conference on adap-
+tive ecosystem restoration and management: restoration of
+cordilleran conifer landscapes of North America. USDA For-
+est Service General Technical Report RM-GTR-278, Rocky
+Mountain Forest and Range Experiment Station, Fort Col-
+lins, Colorado.
+Feeney, S. R., T. E. Kolb, W. W. Covington, and M. R. Wagner. 1998.
+Influence of thinning and burning restoration treatments on
+presettlement ponderosa pines at the Gus Pearson Natural
+Area. Canadian Journal of Forest Research 28:1295–1306.
+Fiedler, C. E., S. F. Arno, and M. G. Harrington. 1996. Flexible silvi-
+cultural and prescribed burning approaches for improving
+health of ponderosa pine forests. Pages 69–74 in W. Covington
+and P. K. Wagner, technical coordinators. Conference on adap-
+tive ecosystem restoration and management: restoration of cor-
+dilleran conifer landscapes of North America. USDA Forest Ser-
+vice General Technical Report RM-GTR-278, Rocky Mountain
+Forest and Range Experiment Station, Fort Collins, Colorado.
+Fiedler, C. E., R. R. Becker, and S. A. Haglund. 1988. Preliminary
+guidelines for uneven-aged silvicultural prescriptions in
+ponderosa pine. Pages 235–241 in D. M. Baumgartner and
+J. E. Lotan, editors. Symposium proceedings, Ponderosa Pine:
+the Species and its Management. Washington State Univer-
+sity, Pullman, Washington.
+Finney, M. A. 1998. FARSITE: Fire Area Simulator—model devel-
+opment and evaluation. USDA Forest Service Research Paper
+RMRS-RP-4. Rocky Mountain Research Station, Ogden, Utah.
+Fulé, P. Z., and W. W. Covington. 1994. Double sampling increase
+the efficiency of forest floor inventories for Arizona ponderosa
+pine forests. International Journal of Wildland Fire 4:3–10.
+Fulé, P. Z., and W. W. Covington. 1997. Fire regimes and forest
+structure in the Sierra Madre Occidental, Durango, Mexico.
+Acta Botanica Mexicana 41:43–79.
+Fulé, P. Z., W. W. Covington, and M. M. Moore. 1997. Determining
+reference conditions for ecosystem management of southwest-
+ern ponderosa pine forests. Ecological Applications 7:895–908.
+Harrington, M. G. 1986. Comparison of forest floor depth to load-
+ing relationships from several Arizona ponderosa pine stands.
+USDA Forest Service Research Note RM-463. Rocky Mountain
+Forest and Range Experiment Station, Fort Collins, Colorado.
+Harrington, M. G., and S. S. Sackett. 1990. Using fire as a manage-
+ment tool in southwestern ponderosa pine. Pages 122–133
+in J. S. Krammes, technical coordinator. Effects of Fire Man-
+agement of Southwestern Natural Resources. USDA Forest
+Service General Technical Report RM-GTR-191. Rocky Moun-
+tain Forest and Range Experiment Station, Fort Collins, Col-
+orado.
+Harris, G. R., and W. W. Covington. 1983. The effect of a pre-
+scribed fire on nutrient concentration and standing crop of
+understory vegetation in ponderosa pine. Canadian Journal
+of Forest Research 13:501–507.
+Heidmann, L. J. 1988. Regeneration strategies for ponderosa pine.
+Pages 227–234 in D. M. Baumgartner and J. E. Lotan, editors.
+Ponderosa Pine—the Species and Its Management. Washington
+State University, Cooperative Extension, Pullman, Washington.
+Kaufmann, M. R., R. T. Graham, D. A. Boyce, Jr., W. H. Moir, L.
+Perry, R. T. Reynolds, R. L. Bassett, P. Melhop, C. B. Edmin-
+ster, W. M. Block, and P. S. Corn. 1994. An ecological basis
+for ecosystem management. USDA Forest Service General
+Technical Report RM-246. Rocky Mountain Forest and Range
+Experiment Station, Fort Collins, Colorado.
+Kaye, J. P., and S. C. Hart. 1998a. Ecological restoration alters ni-
+trogen transformations in a ponderosa pine—bunchgrass ec-
+osystem. Ecological Applications 8:1052–1060.
+Kaye, J. P., and S. C. Hart. 1998b. Restoration and canopy type ef-
+fects on soil respiration in a ponderosa pine—bunchgrass ec-
+osystem. Soil Sci. Society of America Journal 62:1062–1072.
+Keane, R. E., S. F. Arno, and J. K. Brown. 1989. FIRESUM—An
+ecological process model for fire succesion in western conifer
+forests. USDA Forest Service General Technical Report INT-
+266. Intermountain Research Station, Ogden, Utah.
+Keane, R. E., S. F. Arno, and J. K. Brown. 1990. Simulating cumu-
+lative fire effects in ponderosa pine/Douglas-fir forests.
+Ecology 71:189–203.
+Keane, R. E., P. Morgan, and S. W. Running. 1996. FIRE-BGC—A
+mechanistic ecological process model for simulating fire suc-
+
+Modeling Ecological Restoration Effects
+DECEMBER 2001 Restoration Ecology
+431
+cession on coniferous forest landscapes of the northern
+Rocky Mountains. USDA Forest Service Research Paper
+INT-RP-484. Intermountain Research Station, Ogden, Utah.
+Kercher, J. R., and M. C. Axelrod. 1984. A process model of fire
+ecology and succession in a mixed-conifer forest. Ecology 65:
+1725–1742.
+Lindenmuth, A. W., Jr. 1960. A survey of effects of intentional burn-
+ing on fuels and timber stands of ponderosa pine in Arizona.
+USDA Forest Service, Station Paper No. 54. Rocky Mountain
+Forest and Range Experiment Station, Fort Collins, Colorado.
+Mast, J. N., P. Z. Fulé, M. M. Moore, W. W. Covington, and A. Waltz.
+1999. Restoration of presettlement age structure of an Arizona
+ponderosa pine forest. Ecological Applications 9:228–239.
+Miller, C., and D. L. Urban. 2000. Modeling the effects of fire
+management alternatives on Sierra Nevada mixed-conifer
+forests. Ecological Applications 10:85–94.
+Moore, M. M., W. W. Covington, and P. Z. Fulé. 1999. Reference
+conditions and ecological restoration: a southwestern ponde-
+rosa pine perspective. Ecological Applications 9:1266–1277.
+Morgan, P., G. H. Aplet, J. B. Haufler, H. C. Humphries, M. M.
+Moore, and W. D. Wilson. 1994. Historical range of variabil-
+ity: A useful tool for evaluating ecological change. Journal of
+Sustainable Forestry 2:87–111.
+Parsons, D. J., D. M. Graber, J. K. Agee, and J. W. van Wagten-
+donk. 1986. Natural fire management in National Parks. En-
+vironmental Management 10:21–24.
+Peterson, D. L., S. S. Sackett, L. J. Robinson, and S. M. Haase. 1994.
+The effects of repeated prescribed burning on Pinus ponderosa
+growth. International Journal of Wildland Fire 4:239–247.
+Rogers, J. J., J. M. Prosser, L. D. Garrett, and M. G. Ryan. 1984.
+ECOSIM: A system for projecting multiresource outputs un-
+der alternative forest management regimes. USDA Forest
+Service, Administrative Report, Rocky Mountain Forest and
+Range Experiment Station, Fort Collins, Colorado.
+Ronco, F., Jr., C. B. Edminster, and D. P. Trujillo. 1985. Growth of
+ponderosa pine thinned to different stocking levels in north-
+ern Arizona. USDA Forest Service Research Paper RM-262.
+Rocky Mountain Forest and Range Experiment Station, Fort
+Collins, Colorado.
+Rothermel, R. C. 1972. A mathematical model for predicting fire
+spread in wildland fuels. USDA Forest Service Research Pa-
+per INT-115. Intermountain Research Station, Ogden, Utah.
+Running, S. W., and J. C. Coughlan. 1988. A general model of for-
+est ecosystem processes for regional applications. I. Hydro-
+logic balanace, canopy gas exchange and primary produc-
+tion processes. Ecological Modeling 42:125–154.
+Running, S. W., and S. T. Gower. 1991. FOREST-BGC, a general
+model of forest ecosystem processes for regional applica-
+tions. II. Dynamic carbon allocation and nitrogen budgets.
+Tree Physiology 9:147–160.
+Sackett, S. S. 1979. Natural fuel loadings in ponderosa pine and
+mixed conifer forests of the Southwest. USDA Forest Service,
+Research Paper RM-213. Rocky Mountain Forest and Range
+Experiment Station, Fort Collins, Colorado.
+Sackett, S. S., S. M. Haase, and M. G. Harrington. 1996. Lessons
+learned from fire use for restoring southwestern ponderosa
+pine ecosystems. Pages 53–60 in W. Covington and P. K. Wag-
+ner, technical coordinator. Conference on adaptive ecosystem
+restoration and management: restoration of cordilleran coni-
+fer landscapes of North America. USDA Forest Service Gen-
+eral Technical Report RM-GTR-278, Rocky Mountain Forest
+and Range Experiment Station, Fort Collins, Colorado.
+Savage, M., P. M. Brown, and J. Feddema. 1996. The role of cli-
+mate in a pine forest regeneration pulse in the southwestern
+United States. Ecoscience 3:310–318.
+Schubert, G. H. 1974. Silviculture of southwestern ponderosa
+pine: the status of our knowledge. USDA Forest Service Gen-
+eral Technical Report RM-123. Rocky Mountain Forest and
+Range Experiment Station, Fort Collins, Colorado.
+Scott, J. H. 1998. Fuel reduction in residential and scenic forests: a
+comparison of three treatments in a western Montana ponde-
+rosa pine stand. USDA Forest Service Research Paper RMRS-
+RP-5. Rocky Mountain Research Station, Ogden, Utah.
+Society for Ecological Restoration. 1993. Mission statement. Res-
+toration Ecology 1:206–207.
+Solomon, R. M. 1985. Biological production relationships. USDA
+Forest Service Administrative Report. Land Management
+Planning, Region 3, Albuquerque, New Mexico.
+Stephenson, N. L. 1996. Ecology and management of giant se-
+quoia groves. Pages 1431–1467 in Sierra Nevada Ecosystem
+Project: Final Report to Congress. Vol. II. University of Cali-
+fornia, Davis.
+Stone, J. E. 1997. Thinning effects on northern Arizona ponderosa
+pine growth, water relations, photosynthesis, and foliar nu-
+trients. M.S. Thesis, Northern Arizona University, Flagstaff.
+Swanson, F. J., J. A. Jones, D. A. Wallin, and J. H. Cissel. 1994.
+Natural variability—implications for ecosystem management.
+Pages 80–94 in M. E. Jensen and P. S. Bourgeron, editors.
+Eastside Forest Ecosystem Health Assessment. Vol. II. Eco-
+system Management: principles and applications. USDA For-
+est Service, General Technical Report PNW-GTR-318. Pacific
+Northwest Research Station, Portland, Oregon.
+Swetnam, T. W., and C. H. Baisan. 1996. Historical fire regime
+patterns in the southwestern United States since AD 1700.
+Pages 11–32 in C. D. Allen, editor. Proceedings of the 2nd La
+Mesa Fire Symposium. USDA Forest Service General Techni-
+cal Report RM-GTR-286, Rocky Mountain Forest and Range
+Experiment Station, Fort Collins, Colorado.
+Swetnam, T. W., and J. L. Betancourt. 1998. Mesoscale distur-
+bance and ecological response to decadal climatic variability
+in the American Southwest. Journal of Climate 11:3128–3147.
+Swetnam, T. W., and P. M. Brown. 1992. Oldest known conifers in
+the southwestern United States: temporal and spatial patterns
+of maximum age. Pages 24–38 in M. R. Kaufmann, W. H. Moir,
+and R. L. Bassett, technical coordinator. Old-growth forests in
+the Southwest and Rocky Mountain Regions, USDA Forest Ser-
+vice General Technical Report RM-213. Rocky Mountain Forest
+and Range Experiment Station, Fort Collins, Colorado.
+van Wagtendonk, J. W. 1996. Use of a deterministic fire growth
+model to test fuel treatments. Pages 1155–1166 in Sierra Ne-
+vada Ecosystem Project: Final Report to Congress. Vol. II.
+University of California, Davis.
+White, A. S. 1985. Presettlement regeneration patterns in a south-
+western ponderosa pine stand. Ecology 66:589–594.
+Wilson, J. L., and B. M. Tkacz. 1996. Historical perspectives on
+forest insects and pathogens in the Southwest: implications
+for restoration of ponderosa pine and mixed conifer forests.
+Pages 26–31 in W. Covington and P. K. Wagner, technical co-
+ordinator. Conference on adaptive ecosystem restoration
+and management: restoration of cordilleran conifer land-
+scapes of North America. USDA Forest Service General
+Technical Report RM-GTR-278, Rocky Mountain Forest and
+Range Experiment Station, Fort Collins, Colorado.
+Wycoff, W. R., N. L. Crookston, and A. R. Stage. 1982. User’s guide
+to the stand model. USDA Forest Service General Technical Re-
+port INT-133. Intermountain Research Station, Ogden, Utah.

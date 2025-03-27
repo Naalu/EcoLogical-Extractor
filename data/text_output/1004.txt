@@ -1,0 +1,981 @@
+Full Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/action/journalInformation?journalCode=tfst20
+Download by: [Humboldt State University]
+Date: 16 September 2017, At: 12:26
+Forest Science and Technology
+ISSN: 2158-0103 (Print) 2158-0715 (Online) Journal homepage: http://www.tandfonline.com/loi/tfst20
+Economic analysis of a small-sized combined
+heat and power plant using forest biomass in the
+Republic of Korea
+Yeongwan Seo, Han-Sup Han, Edward M. (Ted) Bilek, Jungkee Choi, Dusong
+Cha & Jungsoo Lee
+To cite this article: Yeongwan Seo, Han-Sup Han, Edward M. (Ted) Bilek, Jungkee Choi, Dusong
+Cha & Jungsoo Lee (2017) Economic analysis of a small-sized combined heat and power plant
+using forest biomass in the Republic of Korea, Forest Science and Technology, 13:3, 116-125, DOI:
+10.1080/21580103.2017.1350209
+To link to this article:  http://dx.doi.org/10.1080/21580103.2017.1350209
+© 2017 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group
+Published online: 05 Sep 2017.
+Submit your article to this journal 
+Article views: 34
+View related articles 
+View Crossmark data
+
+Economic analysis of a small-sized combined heat and power plant using forest
+biomass in the Republic of Korea
+Yeongwan Seoa, Han-Sup Hanb, Edward M. (Ted) Bilekc, Jungkee Choid, Dusong Chad and Jungsoo Leed
+aInstitute of Forest Science, Kangwon National University, Chuncheon 200-701, Republic of Korea; bDepartment of Forestry and Wildland
+Resources, Humboldt State University, 1 Harpst Street, Arcata, CA 95521-8299, USA; cUSDA Forest Service, Forest Products Laboratory, Madison,
+WI 53726-2398, USA; dDepartment of Forest Management, College of Forest and Environmental Sciences, Kangwon National University,
+Chuncheon 200-701, Republic of Korea
+ARTICLE HISTORY
+Received 24 March 2017
+Accepted 29 June 2017
+ABSTRACT
+Economic analysis was conducted on the feasibility of operating a small-sized (500kW/hour)
+gasiﬁcation power plant producing heat and electricity in a rural town surrounded by forests in the
+Republic of Korea. Cost factors that were considered over the plant’s 20-year life included wood
+procurement, a wood grab loader, a chipper, a chip dryer, a gasiﬁer, a generator, land and building,
+wages, and ofﬁce management. All the cost factors were calculated based on the 2016 market values
+for logs, information from machine manufacturers, and a literature review. Revenues were estimated
+from selling heat and electricity using the 2016 average prices that were sourced from Korea District
+Heating Corporation and Korea Power Exchange, respectively. Using a spreadsheet program, cash
+ﬂows for costs and revenues were arranged to calculate net present value, internal rate of return, and
+payback period of the plant. Also, sensitivity analyses were performed on the cost of wood
+procurement and revenues from selling heat and electricity, which were the most signiﬁcant factors
+affecting the economic feasibility. The results, as reinforced by the sensitivity analysis, suggest an
+investment in the small-sized gasiﬁcation power plant may be attractive from a ﬁnancial standpoint,
+especially if the owners are in a position to get additional revenue from heat sales and to take
+advantage of Renewable Energy Credits.
+KEYWORDS
+Biomass conversion; biomass
+energy; combined heat and
+power plant; renewable
+energy; sensitivity analysis
+Introduction
+The Republic of Korea (Korea) imports 96% of the energy it
+consumes from other countries, and renewable energy such as
+bioenergy and hydropower represented only 4.6% of the coun-
+try’s total primary energy in 2015 (Korea Energy Agency
+2016). In 2008 the government announced the “Third
+National Energy Master Plan” to induce industrialization of
+renewable energy in the country with a goal of supplying 11%
+of the total energy demand from renewable resources by 2020
+(Korea Presidential Committee on Green Growth 2009).
+To support the plan, the government began enforcing
+“Renewable Portfolio Standards (RPS)” in 2012, by which a
+utility company supplying over 500 MW per hour of electric-
+ity must produce at least 2% of its total electricity supply using
+renewable energy sources. Also, renewable energy certiﬁcates
+(REC), which can be traded in the market, were introduced to
+support the RPS policy (Korea Energy Agency 2012). The
+number of REC traders increased from 5957 in 2014 to 12,458
+in 2015, and to 16,890 in 2016 (Korea Power Exchange 2017).
+Meanwhile, forest biomass is recognized as one of Korea’s
+major renewable energy resources, being available in almost
+all rural regions of the country. The forest area is 6370 thou-
+sand hectares, which represents 63.6% of the country’s total
+land area. The potential amount of forest biomass that could
+be supplied through commercial or non-commercial harvest
+was estimated to reach about 1.3 million tons per year (Korea
+Forest Research Institute 2014).
+With the rich forest biomass resources, efforts have been
+focused on development of diverse forest biomass conversion
+technologies (Ince et al. 2011), one of which is a small-sized
+combined heat and power generator using a gasiﬁcation pro-
+cess that was developed in Korea (Choi et al. 2005; Lee 2009;
+Seo 2013). This effort was hoped to be especially promising
+for rural areas surrounded by forests in which electricity for
+heating and cooking is produced from non-renewable resour-
+ces such as coal and gas, and is supplied from other areas. If
+electric power and heat energy were produced using the
+locally-supplied forest biomass, then heating and cooking
+costs would potentially be less than if the energy is sourced
+from other areas.
+Economic analysis is a good tool for a potential owner of a
+small gasiﬁcation power plant to evaluate the plant’s potential
+economic performance and to identify variables critical to its
+success. Therefore, the objectives of the study were: (i) to ana-
+lyze the economic feasibility of installing and operating a small-
+sized combined heat and power generator (500 kW/hour) using
+forest biomass; (ii) to provide basic data that can be used to
+assess the potential of biomass energy supply for mountain vil-
+lages in Korea; and (iii) to create a ﬂexible and powerful spread-
+sheet-based model that analysts could use to insert their own
+assumptions to do a preliminary ﬁnancial feasibility analysis of
+a small-scale combined heat and power generator.
+Method
+Overview of economic analysis
+A generation system capable of producing 500kW per hour
+of electricity was developed by Samyang Eco-energy Co in
+CONTACT Dusong Cha
+dscha@kangwon.ac.kr
+© 2017 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution,
+and reproduction in any medium, provided the original work is properly cited.
+FOREST SCIENCE AND TECHNOLOGY, 2017
+E–ISSN 2158-0715, VOL. 13, NO. 3, 116–125
+https://doi.org/10.1080/21580103.2017.1350209
+Downloaded by [Humboldt State University] at 12:26 16 September 2017 
+
+Korea. An installation of this power plant in a rural town was
+hypothesized and its major cost factors: wood procurement;
+storing and chipping; chip drying; gasiﬁcation; and electricity
+generation were incorporated into an economic analysis.
+Costs incurred at each stage of the process were estimated
+and applied to the analysis. Added in the cost analysis were
+expenses for ancillary facilities, ﬁnance, and operation as
+showed in Figure 1. Selling prices of electric power and heat
+produced from the process were used as revenue. All costs
+and selling revenues were sourced from 2016 market prices,
+information from machine manufacturers, and a literature
+review.
+Each piece of equipment needing replacement over the 20-
+year planning period was replaced at the end of its operating
+life at its original cost plus inﬂation. At the end of the plan-
+ning period, equipment book values based on straight-line
+depreciation were used for terminal valuations.
+Net present value (NPV), internal rate of return (IRR),
+and payback period (PP) were calculated based over a 20-
+year cycle, which was the generator’s estimated life. Sensitiv-
+ity analyses were also conducted for the cost of forest biomass
+procurement and selling prices of electric power and heat.
+Our generic models were prepared in a Microsoft®Ofﬁce
+(Redmond, WA) Excel workbook ﬁle.
+Investment cost analysis
+The cost analysis includes two major parts: cost incurred
+from the energy production process; and supporting cost
+items and revenues from selling heat and electricity. We
+hypothesized installation of this power plant in a rural town
+that could be supplied with forest biomass from nearby
+mountains. We assumed that all the power and heat pro-
+duced from the plant would be sold to the residents in the
+rural town. Table 1 summarizes investment costs at every
+stage of the process and details are as follows.
+Forest biomass procurement
+Forest biomass procurement cost was determined based on a
+ﬁnal consumer price for logs in 2016 (Korea Forestry Promo-
+tion Institute 2016) and assumed to include costs for felling,
+processing, yard, and transportation of logs.
+Storage and chipping
+Logs are moved to a wood depot and chipped after purchas-
+ing them. Wood grab loader and chipping machine costs
+were included for moving and chipping the materials. Their
+operating costs were classiﬁed into fuel costs, and mainte-
+nance and repair expenses. The latter were assumed to be
+50% of their depreciation costs (Brinker et al. 1989). These
+operating costs were assumed to increase by 5% per year.
+These machines were assumed to have 10-year operating
+lives.
+Wood chip drying
+Maintenance and repair expense of a dryer was assumed to
+be 1% of the purchase and increase by 5% per year, but its
+fuel cost was assumed to be zero as 40% of its heat produc-
+tion is self-consumed for drying. The dryer was assumed to
+have a 10-year operating life.
+Gasiﬁer
+Annual maintenance and repair expense of a gasiﬁer was
+assumed to be 1% of the purchase and increase by 5% per
+year, but its fuel cost to be zero as 10% of electric power pro-
+duction is self-consumed for operating over its 20-year life.
+Generator
+Annual maintenance and repair expense of a generator was
+assumed to be 4% of the purchase and increase by 5% per
+year, but its fuel cost to be zero as gas produced from a gener-
+ator is used for its operating. The generator was assumed to
+have a 7-year operating life.
+Figure 1. Process and cost factors of a small-sized (500 kW/hour) gasiﬁcation power plant.
+E-ISSN 2158-0715
+FOREST SCIENCE AND TECHNOLOGY
+117
+Downloaded by [Humboldt State University] at 12:26 16 September 2017 
+
+Land and construction
+Land area for the plant was 2500 m2 in the study and con-
+struction cost was for the whole facility of the plant and
+included costs for ofﬁce, access road, fence, and pavement
+work. Annual maintenance and repair expense was assumed
+to be 1% of the construction cost and increase by 5% per year.
+Land is not depreciable under South Korean tax law. The ter-
+minal value of the land was its original cost plus inﬂation. The
+buildings were depreciated over 20 years using straight line
+depreciation. It was assumed that the plant and ofﬁce would
+have no residual value at the end of the 20-year project life.
+Labor and ofﬁce management
+Labor cost (i.e., wages and beneﬁts) was based on eight full-
+time workers (8 hours per day), including one for moving
+and chipping logs, one for management and administration,
+and six for power plant operation with a three shift system.
+Also, insurance expense was applied at 0.4% of the facility
+cost. Other miscellaneous expenses included water and elec-
+tric power charges etc.
+Financing
+Financing includes both debt and equity. To reduce the early-
+stage negative cash ﬂow do to the initial investment, it was
+assumed there was a bank loan of ₩1,500,000 thousand
+(Korean won) at a nominal (i.e., including inﬂation) ﬁxed
+interest rate of 6% and a 10-year redemption period. The
+model allows this interest rate to be set directly or as a func-
+tion of the inﬂation rate, if desired. The bank’s loan initiation
+Table 1. Model parameters and input data that were used to perform the economic analysis of a small-sized (500 kW/hour) combined heat and power plant
+in Korea.
+Cost parameters
+Unit
+Values used
+Note
+Forest biomass
+Procurement
+1000 won/ton
+76
+Demand
+ton/year
+6205
+20 ton/day, 85 of utilization
+Wood grab loader
+Procurement
+1000 won
+54,000
+Life
+year
+10
+Salvage value
+1000 won
+1000
+Depreciation
+1000 won/ton
+5300
+(purchase-scrap value)/life(10 years)
+Maintenance and repair
+1000 won/ton
+2650
+50 of depreciation, increasing rate 5/year
+Fuel
+1000 won/ton
+6329
+Chipper
+Procurement
+1000 won
+258,500
+Life
+year
+10
+Salvage value
+1000 won
+1000
+Depreciation
+1000 won/ton
+25,750
+(purchase-scrap value)/life(10 years)
+Maintenance and repair
+1000 won/ton
+12,875
+50 of depreciation, increasing rate 5/year
+Fuel
+1000 won/ton
+12,658
+Dryer
+Procurement
+1000 won
+100,000
+Life
+year
+10
+Salvage value
+1000 won
+1000
+Depreciation
+1000 won/ton
+9900
+(purchase-scrap value)/life(10 years)
+Maintenance and repair
+1000 won/ton
+1000
+1 of procurement, increasing rate 5/year
+Fuel
+1000 won/ton
+0
+use 40 of heat production for fuel
+Gasiﬁer
+Procurement
+1000 won
+150,000
+Life
+year
+20
+Salvage value
+1000 won
+1000
+Depreciation
+1000 won/ton
+7000
+(purchase-scrap value)/life(20 years)
+Maintenance and repair
+1000 won/ton
+1500
+1 of procurement, increasing rate 5/year
+Fuel
+1000 won/ton
+0
+use 40 of heat production for fuel
+Generator
+Procurement
+1000 won
+500,000
+Life
+year
+7
+Salvage value
+1000 won
+1000
+Depreciation
+1000 won/ton
+71,286
+(purchase-scrap value)/life(5 years)
+Maintenance and repair
+1000 won/ton
+20,000
+1 of procurement, increasing rate 5/year
+Fuel
+1000 won/ton
+0
+use 10 of power production for fuel
+Land and construction
+Land purchase
+1000 won
+500,000
+2500 m3 area
+Construction
+1000 won
+32,000
+Maintenance and repair
+1000 won/year
+320
+1 of construction, increasing rate 5/year
+Labor and ofﬁce management
+Moving and chipping
+1000 won/person/year
+30,000
+1 person
+Operating power plant
+1000 won/person/year
+24,000
+2 people in 3 shifts
+Administration
+1000 won/person/year
+21,600
+1 person
+Insurance
+1000 won/year
+4200
+Miscellaneous
+1000 won/year
+4200
+water and electricity charge
+Financing
+New loan principal
+1000 won
+1,500,000
+Bank ﬁnancing charge
+1000 won
+7500
+paid at loan initiation
+Loan interest rate
+percent/year
+6.00
+ﬁxed for 10 year
+Loan principal repayment
+1000 won/year
+150,000
+10 year redemption
+Tax
+National tax
+If income  0.2 billion won, then national tax is 10
+If 0.2 billion won < income  2billion won, then national tax is 20
+Local tax
+If income  0.2 billion won, then local tax is 1
+If 0.2 billion won < income  2 billion won, then local tax is 2
+118
+Y. SEO ET AL.
+E-ISSN 2158-0715
+Downloaded by [Humboldt State University] at 12:26 16 September 2017 
+
+fee was paid only at the start of the loan, which represented
+47% of total initial investment.
+Loans are commonly repaid in Korea using constant prin-
+cipal repayments, which means that the interest payments
+and total loan payments vary each year. This was the method
+incorporated into the model. However, to allow ﬂexibility in
+ﬁnancing and repayment options, the spreadsheet model is
+constructed so that the loan may also be repaid using con-
+stant loan repayments, which means that the interest pay-
+ments and loan principal repayments vary with each loan
+payment, but that each total annual loan payment is identical.
+In both cases, while interest expenses are deducted from reve-
+nue for tax purposes, principal repayments are not deducted.
+The before ﬁnance and tax weighted average cost of capi-
+tal is the minimum acceptable return rate on equity invest-
+ment in the plant, which was set at 10.0%. This is a pre-tax
+nominal rate; that is, it includes inﬂation. It is the before
+ﬁnance and tax discount rate that was used in the discounted
+cash ﬂow analysis. The before tax weighted average cost of
+capital (8.0%) was calculated by weighting the equity dis-
+count rate (10.0%) by the portion of equity in the initial
+ﬁnancing and the bank’s loan interest rate (6.0%) by the por-
+tion of debt in the initial ﬁnancing. The after tax weighted
+average cost of capital (7.3%) was calculated by adding the
+cost of equity to the after tax cost of debt with both costs
+weighted according to the initial equity-debt mix.
+Tax
+National and local income taxes were incorporated at the
+rates of 10% and 1% respectively when income was ₩0 to
+₩0.2 billion, and 20% and 2% when income was between
+₩0.2 billion and ₩2 billion.
+Revenue analysis
+The primary market for heat and electricity produced from
+the power plant was assumed to be the rural town in which it
+was built. Table 2 shows annual revenues from heat and
+power production and details are as follows.
+Revenues from selling electricity power
+Before calculating electricity sales revenue per year, a calcula-
+tion was needed for the unit selling price of power, which
+comprises the system marginal price (SMP) of electricity and
+the market price of a REC. The (SMP) is an ofﬁcial power
+price of the Korea Power Exchange. To promote the use of
+renewable energy, the government enacted RPS)in 2014,
+under which a plant producing power from renewable sour-
+ces such as biomass and water can issue the REC that can be
+traded in the market. When a forest biomass REC is sold to
+Korea Electric Power Corporation (KEPCO), the REC is pro-
+vided with a 1.5 weight factor (i.e. £ 1.5) above the SMP to
+determine its market price (Korea Ministry of Trade,
+Industry and Energy 2014). This REC weighting factor helps
+to make the production of biomass-generated energy ﬁnan-
+cially feasible.
+Revenues from selling heat
+The combined heat and power generator of this study pro-
+duced 1436 Mcal of heat energy as well as 500kW of electric-
+ity per hour. Unlike electricity, selling heat requires facilities
+to be built for sending heat to households, which usually
+involves high costs. The unit selling price of heat for house-
+hold was collected from Korea District Heating Corporation
+and used in the cost analysis, although to realize these heat
+sales revenues, additional distribution infrastructural invest-
+ment may be required.
+Other assumptions used for the economic analysis
+The other assumptions are as follows:
+– Inﬂation was 3% and ﬁxed over a 20-year project period.
+– A working capital fund required for running the plant
+was set at 2% of total annual revenue and recovered at
+the end of year 20.
+– Capital costs including wood grab loader, chipper,
+dryer, gasiﬁer, generator, construction, and land begin
+at year 0 and other costs including forest biomass, labor
+and ofﬁce management, interest, and reserved fund
+begin at year 1.
+– Straight-line depreciation is used for all depreciable
+assets.
+– No capital gains taxes were assumed. Also, no tax
+allowances were made for capital loss carry backs or
+carry forwards.
+– No capital equipment would be replaced in year 20.
+– Total costs and revenue occurred at the end of each
+year over a 20-year period.
+– Assets with residual values at the end of year 20 are val-
+ued at book for ﬁnancial feasibility calculations.
+Development of a cash ﬂow model
+The cash-ﬂow model includes a number of parameters that
+are related to basic economic assumptions and investment
+ﬁnancing options. The basic economic assumptions include
+the economic life of the project, and inﬂation rates for costs
+and revenue over the project period. It should be noted that
+inﬂation does not change the bank interest rate charged on
+the loan, unless that rate has been set as a function of inﬂation.
+Similarly, the inﬂation rate does not change the depreciation
+expenses as they become ﬁxed when assets are purchased.
+To illustrate the model, the cash ﬂow calculations
+extended out for 20 years (Figure 2). The cash ﬂow model is
+divided into four major sections, which allow an analyst to
+focus on speciﬁc cash ﬂows to determine the impacts of
+changes in various variables or options:
+I. Capital cash ﬂows: include land, buildings, and
+equipment that are replaced as necessary. Capital
+cash ﬂows also include investments in working capi-
+tal. Note in this section that equipment is replaced at
+the end of its economic life and that estimated sal-
+vage values are increased by the inﬂation rate. If
+equipment
+economic
+lives
+are
+changed,
+the
+Table 2. Summary of annual revenues from selling heat and electricity.
+Revenue
+parameter
+Unit
+production
+Production
+to selling
+ratio (%)
+Unit selling
+price (Korean
+won)
+Annual
+revenue (1000
+won/year)
+Power
+500 kW/hour
+90
+281.0
+1,416,761
+Heat
+1436 Mcal/hour
+60
+67.6
+535,767
+Notes: Average SMP + average price of REC £ weight (1.5).
+Unit selling price of heat for household in 2016 (Korea District Heating
+Corporation 2017).
+E-ISSN 2158-0715
+FOREST SCIENCE AND TECHNOLOGY
+119
+Downloaded by [Humboldt State University] at 12:26 16 September 2017 
+
+Figure 2. Cash ﬂow tableau for operating a small-sized combined heat and power plant.
+120
+Y. SEO ET AL.
+E-ISSN 2158-0715
+Downloaded by [Humboldt State University] at 12:26 16 September 2017 
+
+alterations will be reﬂected in an automatically-
+updated cash ﬂow table.
+II. Operating cash ﬂows: are the day-to-day revenues
+and expenses that must be recovered in order for the
+business to operate over the short term.
+III. Financing cash ﬂows: consist of cash ﬂows related to
+any debt that is taken on to help pay for the capital
+assets. They are divided into the initial loan, which
+is
+a
+positive
+cash
+ﬂow,
+tax-deductible
+interest
+expenses, and loan principal repayments.
+IV. Taxes: based on taxable income.
+In the cash ﬂow table, three rows are highlighted in yellow
+that represent the most important net cash ﬂows:
+ before ﬁnance and tax;
+ before tax; and
+ after tax.
+To aid in feasibility analysis, pro forma income statements are
+also calculated and are shown (Figure 3). In the pro forma
+income statements, only revenues and expenses are shown. Earn-
+ings before interest, taxes, depreciation, and amortization
+(EBITDA) is shown, along with earnings before interest and
+taxes (EBIT), earnings before taxes, and ﬁnally net income (loss).
+All ﬁnancial measures are computed three ways: before
+ﬁnance and tax; before tax; and after tax. NPVs and the pay-
+back period are both computed using the three highlighted
+nominal cash ﬂows and the three costs of capital (10.0%,
+8.0%, and 7.3%, respectively). The payback period is the year
+in which the accumulated cash ﬂow, including a capital charge
+based on the respective cost of capital, turns positive. If the
+accumulated cash ﬂow does not turn positive over the 20-year
+planning period, then an “Infeasible” message is returned,
+indicating that the capital and the minimum required return
+on capital are never completely paid back. IRRs are computed
+both on the basis of nominal cash ﬂows that include inﬂation,
+and on a real won basis, which are over and above inﬂation.
+Sensitivity analysis
+Of greater concern was the sensitivity of the ﬁnancial feasibil-
+ity of running the plant to changes in important factors deter-
+mining costs and revenues. Several types of sensitivity analyses
+were built into the model through the adjustment of sensitivity
+factors to make it easy for users to get a sense of the impor-
+tance of various cost and revenue assumptions. These are per-
+centages that are multiplied by the costs or revenues so that
+an analyst can see the impact of percentage changes in these
+variables on the overall ﬁnancial return measures. This
+method was used to test for changes in forest biomass prices
+and revenue from sales of heat. This method was also used to
+examine the sensitivity of ﬁnancial returns to changes in REC
+prices, which easily ﬂuctuate according to supply and demand
+and constitute a major portion of the electricity selling price.
+Result and discussion
+Financial feasibility of running a small-sized combined
+heat and power plant
+Table 3, taken from the model’s results, shows the ﬁnancial
+feasibility of a small-sized combined heat and power plant.
+Figure 3. Pro forma income statements for operating a small-sized combined heat and power plant.
+E-ISSN 2158-0715
+FOREST SCIENCE AND TECHNOLOGY
+121
+Downloaded by [Humboldt State University] at 12:26 16 September 2017 
+
+The project’s IRR was 12.3% after accounting for inﬂation
+and income taxes, given the assumptions used.
+Revenue that would be earned from selling electricity and
+heat over the 20-year planning period discounted at the 7.3%
+after tax cost of capital totaled ₩18,441 million. On an annu-
+alized basis it came to ₩1779 million. After-tax proﬁts in
+addition to the after-tax cost of capital represented about
+8.3% of the total discounted revenue. Forest biomass pro-
+curement was the largest single cost and represented 34.0%
+of the total revenue, followed by other operating costs
+(32.9%), and net capital costs (20.4%) (Figure 4).
+It is noteworthy that, in this example, the loan ﬁnancing
+was not a net cost, but rather resulted in a small net beneﬁt
+(₩74 million). This was because the bank interest rate (6.0%)
+was less than the before ﬁnance and tax equity cost of capital
+(10.0%) and the project was earning a rate of return that was
+greater than the loan rate. The result was positive ﬁnancial
+gearing that increased the equity rates of return, which were
+shown by the before tax and after tax IRRs that were higher
+than the before ﬁnance and tax IRRs.
+Sensitivity analysis on key cost and revenue variables
+The quickest way of measuring the importance of costs in a
+business enterprise is to divide them by sales revenue. The
+larger the percentage of costs in relation to total sales reve-
+nues, the more sensitive net proﬁts (or losses) will be to
+changes in those costs. Our analysis showed that forest bio-
+mass procurement costs were the largest component of total
+capital costs and that capital costs, while signiﬁcant at 20.4%,
+are less important than operating costs in determining the
+plant’s proﬁtability (Figure 4).
+Sensitivity analysis by forest biomass price change
+As the forest biomass price per unit increased from 60% to
+150% of its base value, NPV before ﬁnance and tax
+discounted at 10.0% decreased from ₩3.3 billion to –₩1.3
+billion and real IRR from 20.0% to 0.3%. Payback period
+increased from 4 years at 60% to 20 years at 120% but it was
+infeasible after 130% (Figure 5). If the forest biomass price
+per unit increases to over 130%, it means that renewably-gen-
+erated electricity would not receive any marketplace pre-
+mium over any other electricity. In this case, NPVs or IRRs
+turn negative and the payback period becomes infeasible –
+that is, the project’s capital costs are never paid back.
+NPV before tax discounted at 8.0% decreased from ₩4.4
+billion to –₩0.9 billion and real IRR from 30.4% to –0.5%,
+while payback period increased from 2 years at 60% to
+20 years at 130% and was infeasible after 140%. NPV after
+tax discounted at 7.3% decreased from ₩3.5 billion to –₩0.9
+billion and real IRR from 23.0% to –0.7%, while the payback
+period increased from 6 years at 60% to 20 years at 130% and
+was infeasible after 140%.
+Sensitivity analysis by change of REC price
+As the revenue from power selling per unit changed from
+60% to 150% of its base value, NPV before ﬁnance and tax
+discounted at 10.0% increased from –₩1.6 billion to ₩4.9
+billion and real IRR from –2.0% to 25.7%, while payback
+period decreased from 17 years at 90% to 5 years at 150%
+and was infeasible before 80% (Figure 6). NPV before tax dis-
+counted at 8.0% increased from –₩1.4 billion to ₩6.3 billion
+and real IRR from –3.3% to 41.0%, while payback period
+decreased from 20 years at 80% to 3 years at 150% and was
+infeasible before 70%. NPV after tax discounted at 7.3%
+increased from –₩1.4 billion to ₩5.1 billion and real IRR
+from –3.3% to 31.3%, while payback period decreased from
+20 years at 80% to 3 years at 150% and was infeasible before
+70%.
+Sensitivity analysis by revenue change from selling heat
+Unlike power, selling heat is relatively limited and uncertain
+because it requires additional and expensive distribution
+infrastructure (i.e., pipes) to send heat to consumers. How-
+ever, heat sales are critical to the facility’s overall economics.
+The revenue from selling heat was assumed to change from
+60% to 150% of its base value for the analysis. The result was
+that NPV before ﬁnance and tax discounted at 10.0%
+increased from –₩0.6 billion to ₩3.5 billion and real IRR
+Table 3. Summary of ﬁnancial indicators over 20 years.
+NPV
+(₩million)
+Nominal IRR
+(%)
+Real IRR
+(%)
+PP
+(year)
+Before ﬁnance and tax
+1229
+15.5
+12.1
+11
+Before tax
+2055
+20.1
+16.6
+8
+After tax
+1526
+15.7
+12.3
+8
+Figure 4. A small-sized and combined heat and power plant discounted after-tax costs and NPV as a portion of discounted revenue.
+122
+Y. SEO ET AL.
+E-ISSN 2158-0715
+Downloaded by [Humboldt State University] at 12:26 16 September 2017 
+
+from –2.0% to 25.7%, while the payback period decreased
+from 20 years at 80% to 6 years at 150% (Table 4). NPV
+before tax discounted at 8.0% increased from –₩0.1 billion
+to ₩3.7 billion and real IRR from 4.1% to 32.1%, while the
+payback period decreased from 20 years at 70% to 4 years at
+150%. NPV after tax discounted at 7.3% increased from
+–₩0.2 billion to ₩3.8 billion and real IRR from 3.4% to
+24.3%, while the payback period decreased from 19 years at
+70% to 4 years at 150%. Note that at revenue recovery rates
+on heat of 60% or less of our base case, the payback period
+becomes infeasible; that is, the capital investment is never
+recovered (Table 4).
+Figure 5. Impact of changes in forest biomass procurement price on NPV, Real IRR, and PP.
+Figure 6. Impact of changes of REC price on NPV, IRR, and PP.
+E-ISSN 2158-0715
+FOREST SCIENCE AND TECHNOLOGY
+123
+Downloaded by [Humboldt State University] at 12:26 16 September 2017 
+
+Conclusion
+Economic analysis was conducted for a small-sized (500kW/
+hour) combined heat and power plant with a 20-year life that
+would provide a rural town surrounded by forested moun-
+tains with heat and power using forest biomass. Cost factors
+that were considered in the analysis included wood procure-
+ment, a wood grab loader, a chipper, a chip dryer, a gasiﬁer, a
+generator, land and building, wages, and ofﬁce management.
+All the cost factors were calculated based on the 2016 market
+values for logs, machine manufacturers’ prices, and a litera-
+ture review. Revenues were estimated from selling heat and
+electricity using the 2016 average prices that were sourced
+from Korea District Heating Corporation and Korea Power
+Exchange, respectively. Using a spreadsheet program, cash
+ﬂows for costs and revenues were arranged to calculate net
+present value, internal rate of return and payback period of
+the plant. Calculations were done three ways: before ﬁnance
+and tax; before tax; and after tax. Also, sensitivity analyses
+were performed on the cost of wood procurement, and reve-
+nues from selling heat and electricity, which were the most
+signiﬁcant factors affecting the economic feasibility.
+The results showed that the project was not so promising
+and internal rate of return was about 12.3% after tax. As a
+percentage of the total revenue over the 20-years project,
+wood purchasing cost was the largest item representing
+34.3% of the revenue, followed by other operating costs
+(33.1%), net capital costs (20.5%), and net proﬁt (8.3%).
+Sensitivity analysis by forest biomass price showed that
+NPV after tax discounted at 7.3% decreased from ₩3.5 bil-
+lion to –₩0.9 billion and real IRR from 23.0% to –0.7% as
+the forest biomass price per unit was changed from 60% to
+150% of its base value. While the payback period increased
+from 6 years at 60% to 20 years at 130% and was infeasible
+after 140%. As the REC price increased from 60% to 150% of
+its base value, NPV after tax discounted at 7.3% increased
+from –₩1.4 billion to ₩5.1 billion and real IRR from –3.3%
+to 31.3%, while payback period decreased from 20 years at
+80% to 3 years at 150% but was infeasible before 70%. When
+the revenue from heat selling was assumed to increase from
+60% to 150% of its base value, NPV after tax discounted at
+7.3% increased from –₩0.2 billion to ₩3.8 billion and real
+IRR from 3.4% to 24.3%, while payback period decreased
+from 19 years at 70% to 4 years at 150%.
+For such an investment to succeed, a sustained and afford-
+able supply of forest biomass from around mountain villages
+is the most important prerequisite for operating the plant,
+and development of an optimized timber harvest system is
+needed through evaluation of the usable forest resource and
+annual timber harvest planning (Han et al. 2011). Also note
+that the plant’s economic viability depends on the amount of
+heat sales. Ideally a plant would be located where the piping
+already exists to distribute a plant’s excess heat, because costs
+can be high to install such infrastructure. Finally, a biomass
+gasiﬁcation plant’s ﬁnancial feasibility will depend on premi-
+ums paid for renewably-generated electricity, especially if
+extra margin weightings exist for biomass-generated electric-
+ity, because without the continuance of these premiums, a
+small-sized combined heat and power biomass gasiﬁcation
+plant in the Republic of Korea would likely not be economic.
+Disclosure statement
+No potential conﬂict of interest was reported by the authors.
+Funding
+This research was supported by Basic Science Research Program through
+the National Research Foundation of Korea (NRF) funded by the Ministry
+of Education [grant number NRF- 2017R1A6A3A11034434].
+References
+Brinker RW, Miller D, Stokes BJ, Lanford BL. 1989. Machine rates for
+selected forest harvesting machines. Circular 296. Alabama Agricul-
+tural Experiment Station. Auburn (AL): Auburn University.
+Choi DH, Lee SY, Son YM, Park GS. 2005. Economic validity and intro-
+duction strategy of woody bio-energy in Korea. J Solar Energy.
+4(1):37–46.
+Han HS, (Ted) Bilek EM, Dramm J, Loefﬂer D, Calkin D. 2011. Finan-
+cial feasibility of a log sort yard handling small-diameter logs: a pre-
+liminary study. West J Appl For. 26(4):174–182.
+Ince PJ, (Ted) Bilek EM, Dietenberger MA. 2011. Modeling integrated
+biomass gasiﬁcation business concepts. USDA Research Paper.
+Korea District Heating Corporation. 2017. Information on heating supply.
+Available
+from
+https://www.kdhc.co.kr/content.do?sgrp=S11&site
+CmsCd=CM3651&topCmsCd=CM3800&cmsCd=CM3856.
+Korea Energy Agency. 2012. A handbook of energy and climate change.
+Yongin: Korea Energy Agency.
+Korea Energy Agency. 2016. Korea new & renewable energy supply sta-
+tistics of 2015. Yongin: Korea Energy Agency.
+Korea Forestry Promotion Institute. 2016. Quarterly market prices of
+domestic timber. Seoul: Korea Forestry Promotion Institute.
+Korea Forest Research Institute. 2014. Forest biomass resource and map
+of Korea. Seoul: Korea Forest Research Institute.
+Korea Ministry of Trade, Industry & Energy. 2014. Management and
+operating instructions on renewable energy portfolio standard.
+Seoul: Korea Ministry of Trade, Industry & Energy.
+Table 4. Impact of changes in revenue from heat on NPV, IRR and PP.
+Real IRR (%)
+NPV (1,000,000)
+Payback period (years)
+Change
+ratio (%)
+After
+tax
+Before
+tax
+Before
+ﬁnance
+and tax
+After
+tax
+Before
+tax
+Before
+ﬁnance
+and tax
+After
+tax
+Before
+tax
+Before
+ﬁnance
+and tax
+60%
+3.4
+4.1
+3.8
+–189
+–117
+–615
+inf
+inf
+inf
+70%
+6.0
+7.3
+6.1
+287
+426
+–154
+19
+20
+inf
+80%
+7.8
+10.4
+8.2
+662
+969
+307
+13
+13
+20
+90%
+9.9
+13.5
+10.2
+1079
+1513
+768
+11
+11
+13
+100%
+12.3
+16.6
+12.1
+1526
+2056
+1229
+8
+8
+11
+110%
+14.7
+19.7
+14.0
+1974
+2599
+1690
+6
+6
+9
+120%
+17.1
+22.8
+15.8
+2421
+3143
+2151
+5
+5
+8
+130%
+19.5
+25.9
+17.5
+2869
+3686
+2613
+4
+5
+7
+140%
+21.9
+29.0
+19.2
+3316
+4229
+3074
+4
+4
+6
+150%
+24.3
+32.1
+20.9
+3764
+4773
+3535
+4
+4
+6
+Note: inf = infeasible.
+124
+Y. SEO ET AL.
+E-ISSN 2158-0715
+Downloaded by [Humboldt State University] at 12:26 16 September 2017 
+
+Korea Power Exchange. 2017. Report on REC trade status of 2016.
+Available from http://rec.kpx.info/main.jsp?menuId=502.
+Korea Presidential Committee on Green Growth. 2009. National strat-
+egy for green growth and ﬁve year plan. Seoul: Korea Presidential
+Committee on Green Growth.
+Lee JY. 2009. A study on the energy utilization of forest biomass. Policy
+Studies 2009-35. Suwon: Gyeonggi-do Research Institute.
+Seo GY. 2013. Case analysis on combined heat and power generation
+using woody biomass and economic comparison with gasiﬁcation
+[MS Thesis]. Seoul: Green School, Korea University.
+E-ISSN 2158-0715
+FOREST SCIENCE AND TECHNOLOGY
+125
+Downloaded by [Humboldt State University] at 12:26 16 September 2017 

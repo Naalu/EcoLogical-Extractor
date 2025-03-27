@@ -1,0 +1,3 @@
+# Audio transcription capabilities (requires ffmpeg and LLVM)
+# See docs/DEPENDENCIES.md for installation instructions
+openai-whisper>=20231117      # Audio transcription

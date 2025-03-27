@@ -1,0 +1,1223 @@
+Contents lists available at ScienceDirect
+Forest Ecology and Management
+journal homepage: www.elsevier.com/locate/foreco
+Fire regimes and structural changes in oak-pine forests of the Mogollon
+Highlands ecoregion: Implications for ecological restoration
+David W. Huﬀmana,⁎, M. Lisa Floydb, Dustin P. Hannaa, Joseph E. Crousea, Peter Z. Fuléc,
+Andrew J. Sánchez Meadorc, Judith D. Springera
+a Ecological Restoration Institute, Northern Arizona University, Flagstaﬀ, AZ 86011-5017, USA
+b Natural History Institute, Prescott, AZ 86303, USA
+c School of Forestry, Northern Arizona University, Flagstaﬀ, AZ 86011-5018, USA
+A R T I C L E I N F O
+Keywords:
+Historical reference conditions
+Dendroecological reconstruction
+Land-use changes
+Interior chaparral
+Transition zone
+Southwest United States
+A B S T R A C T
+Ponderosa pine (Pinus ponderosa) forests occur at their warmer, drier environmental limits in the Mogollon
+Highlands ecoregion (MHE) of the Southwestern United States, and are commonly found in stringers or discrete
+stands that form ecotones with interior chaparral. These “rear edge” forests are likely to be highly vulnerable to
+rapid changes in structure and composition with climate warming, drought, and wildﬁre. There is increasing
+interest in understanding historical conditions, ecosystem changes, and restoration needs for MHE forests.
+However, comprehensive reconstruction analysis of ﬁre regimes and stand structure has not been done for these
+systems, which diﬀer from many montane ponderosa pine forests by having an abundance of understory shrubs.
+In this study we used demographic data from ﬁeld plots, ﬁre scar samples, and dendroecology to reconstruct
+historical ﬁre regimes and landscape structure at ponderosa pine-dominated sites that spanned a range of en-
+vironmental conditions on the Prescott and Tonto National Forests. We found strong evidence of historical
+surface ﬁre regimes with mean ﬁre intervals ranging 1.3–15.6 years across the ﬁve MHE sites during the period
+1700–1879. We found very little evidence of historical high-severity ﬁre at any study site. Historical forest
+structure was open with tree densities ranging 84.7–136.4 trees ha−1 and stand basal area (BA) ranging
+4.5–8.4 m2 ha−1. Historical composition showed codominance of ponderosa pine, Arizona white oak (Quercus
+arizonica), Emory oak (Q. emoryi), and Gambel oak (Q. gambelii). Thus, oak species and likely other hardwoods
+were important historical components of these ecosystems. Contemporary forests are greater in stand density
+and BA by 359–703% and 285–502%, respectively, compared to historical estimates. In addition, we observed
+contemporary shifts in species composition. Changes related to disruption of historical ﬁre regimes have in-
+creased susceptibility of ponderosa pine forests in the MHE to rapid shifts in structure and composition that may
+come about with climate change and high-intensity wildﬁre. Meeting fuels reduction and ecological restoration
+goals will be challenging for land managers due to vigorous regeneration responses of shrubs to tree thinning,
+prescribed burning, or other management activities. Managers will be required to balance attention to historical
+reference conditions, conservation of biological diversity, and needs for fuels management.
+1. Introduction
+It is well understood that many forest ecosystems of the western
+United States have undergone large changes in structure and function
+due to industrial land uses commencing with Euro-American settlement
+in the late 19th and early 20th centuries (Covington et al., 1994;
+Hessburg et al., 2019). Understanding ecological conditions and
+variability that existed prior to these changes is important to resource
+managers, who use this information to interpret contemporary eco-
+system dynamics and determine best courses of action, which may
+include ecological restoration (SER, 2004). Managers rely on reference
+information that characterizes attributes of forest structure, function,
+and disturbance patterns over timeframes relevant to management ac-
+tivities (Landres et al., 1999; Moore et al., 1999). It is assumed that
+predegraded forest conditions were resilient to climatic ﬂuctuations
+and characteristic disturbance, and the best way to conserve species is
+to manage habitat with the natural range of variation (Gauthier et al.,
+1996; Bergeron et al., 2004; Romme et al., 2012; Hessburg et al., 2019).
+In forests of the western United States, various contemporary and his-
+torical sources are used to develop reference information. Techniques of
+https://doi.org/10.1016/j.foreco.2020.118087
+Received 7 November 2019; Received in revised form 9 March 2020; Accepted 11 March 2020
+⁎ Corresponding author.
+E-mail address: David.Huﬀman@nau.edu (D.W. Huﬀman).
+Forest Ecology and Management 465 (2020) 118087
+0378-1127/ © 2020 Elsevier B.V. All rights reserved.
+T
+
+dendroecology are especially well-suited for reconstructing disturbance
+processes, forest structure, and stand composition (Fulé et al., 1997;
+Swetnam et al., 1999; Huﬀman et al., 2001; Sánchez Meador et al.,
+2010). For example, analysis of crossdated ﬁre scars sampled from
+across a landscape can help to accurately describe several parameters of
+past ﬁre regimes, including surface ﬁre frequency, size, severity, and
+season of occurrence (Swetnam and Baisan, 1996). Additionally, ana-
+lysis of annual growth rings from living trees and dead wood can pro-
+vide information concerning establishment dates, mortality patterns,
+growth, and past tree size (Swetnam et al., 1999). In ponderosa pine
+(Pinus ponderosa) forests of the Southwestern United States, low de-
+composition rates and persistence of dead wood areas that have ex-
+perienced ﬁre suppression, enhance accuracy of dendroecological re-
+constructions (Mast et al., 1999; Huﬀman et al., 2001; Moore et al.,
+2004).
+Fire regime and stand reconstructions have been conducted ex-
+tensively in southwestern ponderosa pine forests. Pre-Euro-American
+settlement return intervals have been reported to range from about 4 to
+36 years (Swetnam and Baisan, 1996; Reynolds et al., 2013), and tree
+ring records as well as other paleoecological evidence suggest that dry
+forests of the region have experienced frequent, recurrent ﬁre for
+thousands of years (Swetnam et al., 1999; Allen, 2002). Fire regimes in
+the southwestern ponderosa pine forests are thought to be controlled by
+bottom-up factors such as fuels and topography at local to landscape
+scales. In addition, Native Americans in this region utilized ﬁre to meet
+various resource and social needs, but eﬀects of intentional burning on
+past ﬁre regimes are poorly understood (see Allen, 2002; Liebmann
+et al., 2016). Decadal- and multi-decadal climatic patterns, particularly
+El Nino-Sothern Oscillation, are important in exerting top-down control
+and synchronizing ﬁre occurrence at regional scales (Swetnam and
+Brown, 2011; Ireland et al., 2012). Despite this extensive understanding
+of ﬁre regimes in southwestern ponderosa pine forests, uncertainty
+remains concerning historical ﬁre regimes and modern anthropogenic
+changes for some complex southwestern ecoregions such as the Mo-
+gollon Highlands.
+The Mogollon Highlands ecoregion (hereafter “MHE”) occurs be-
+tween approximately 1065 m and 2100 m in elevation along the
+Mogollon Rim of Arizona between the montane and high desert en-
+vironments of the Colorado Plateau and the lowlands and basins of the
+Sonoran Desert (Fleischner et al., 2017). The ecoregion roughly corre-
+sponds to Arizona’s Transition Zone, a physiographic subdivision and
+area of geologic transition between the Colorado Plateau and Basin and
+Range provinces (Peirce, 1985; Hendricks and Plescia, 1991). Here,
+ponderosa pine forests occur at their environmental limits, particularly
+with respect to maximum temperature and vapor pressure deﬁcit tol-
+erance, and as such have been described as “fringe” communities (Moir
+et al., 1997). Such transitional forests have also been referred to as
+“trailing edge” or “rear edge” ecosystems due to their vulnerability to
+climate change (Parks et al., 2019; Allen and Breshears, 1998; Savage
+and Mast, 2005). Forest stands in the MHE commonly form ecotones
+with interior chaparral, pinyon-juniper woodlands, and the northern-
+most reaches of Madrean evergreen woodland communities (Brown,
+1994). As opposed to the primarily herbaceous understory plant com-
+munities found in more montane ponderosa pine forests, MHE forests
+are presently typiﬁed by an abundance of persistent, woody shrubs.
+Most hardwood shrubs and trees in these communities rapidly re-
+establish after ﬁre and other disturbance through sprouting and/or
+dormant seed strategies (Cable, 1975; Pase and Brown, 1994). Limited
+research has suggested that low-severity surface ﬁre regimes prevailed
+in some transitional forests prior to Euro-American settlement of the
+Southwest region in the late 1800s (Dieterich and Hibbert, 1990; Kaib
+et al., 2000; Sneed et al., 2002). To date, no rigorous reconstructions of
+these forests have been done, but it has been surmised that frequent ﬁre
+regimes maintained low shrub cover and open forest structural condi-
+tions (Kaib et al., 2000). In this study we used demographic data from
+systematically collected ﬁre scar samples and ﬁeld plot measurements
+to reconstruct historical ﬁre regimes and landscape structure at pon-
+derosa pine-dominated sites that spanned a range of environmental
+conditions on the Prescott and Tonto National Forests in Arizona’s
+MHE. We selected sites that typiﬁed trailing edge forests where cha-
+parral shrubs and evergreen oaks were abundant in the plant commu-
+nities. We addressed the following questions: (1) What were the pre-
+dominant characteristics of the historical ﬁre regimes of these sites? (2)
+What were the historical forest structural characteristics? (3) How were
+ponderosa pine trees and stands distributed across landscapes? And, (4)
+have ﬁre regimes and forest structure changed substantially since Euro-
+American settlement (late 1800s)? We expected that ﬁndings from this
+research would have implications for management of these complex
+forest ecosystems.
+2. Methods
+2.1. Study sites
+To investigate historical ﬁre regimes and structural characteristics
+in MHE forests, we looked for sites with ponderosa pine dominance and
+little evidence of recent disturbance. Ideally, ﬁre regime reconstruc-
+tions are conducted on large, remote landscapes to ensure historical
+evidence is intact and to capture spatial variation related to changes in
+vegetation and topography (Fulé et al., 2003). However, MHE land-
+scapes are heterogeneous in vegetation structure, and fuels reduction
+activities have been implemented within many of the larger ponderosa
+pine patches. We examined high-resolution satellite imagery (e.g., Na-
+tional Agriculture Imagery Program (NAIP)) and Terrestrial Ecosystem
+Survey maps (Robertson, 2000) to search for areas with relatively un-
+disturbed ponderosa pine forest and were able to identify several
+sites > 100 ha in size for our study. We assumed that sites ≥100 ha
+would allow us to quantify landscape ﬁre patterns as well as capture
+variability in historical overstory characteristics (Swetnam and Baisan,
+1996; Van Horne and Fulé, 2006). We identiﬁed two study sites
+(Schoolhouse Gulch (SCH) and Spruce Ridge (SPR)) on the Bradshaw
+District of the Prescott National Forest and three sites (Ellison Creek
+(ELL), Horton Creek (HOR), and West Prong of Gentry Creek (PRO)) on
+the Payson District of the Tonto National Forest (Fig. 1). Although the
+sites spanned a range of environmental conditions (Table 1), we did not
+select them to represent a gradient, or in order to address ﬁne-scale
+questions; rather, we treated sites as independent examples of broad
+patterns related to ﬁre regimes and historical structure of ponderosa
+pine forests of the MHE. Sites ranged 1720–2270 m in elevation, and
+annual precipitation averages ranged 605–818 mm across the ﬁve sites.
+Soils varied across sites with igneous, metamorphic, and sedimentary
+parent materials represented (Table 1). Vegetation at the sites varied
+with microclimatic qualities and sub-regional biogeography. On higher,
+moister sites, oak species that can attain tree form and occur in both
+chaparral and Madrean evergreen woodland communities include Ar-
+izona white oak (Quercus arizonica), Emory oak (Q. emoryi), and Gambel
+oak (Q. gambelii). Woodland species such as pinyon pines (P. edulis, and
+P. edulis var. fallax) and junipers (Juniperus deppeana, J. osteosperma,
+and J. monosperma) are also common. Emory oak and Arizona white oak
+were common overstory associates at the SCH site; whereas, at SPR,
+Gambel oak was common and Douglas-ﬁr (Pseudotsuga menziesii) was
+found in scattered occurrence. Tonto sites were also comprised of
+ponderosa pine, Emery oak, and Arizona white oak, with additional
+notable occurrence of alligator juniper (J. deppeana). Emory and white
+oak grow to be tree form and readily sprout when topkilled by ﬁre
+(Barton and Poulos, 2018). In addition, understory vegetation at the
+sites showed species typical of interior chaparral communities and in-
+cluded various shrub species such as shrub live oak (Q. turbinella),
+alder-leaf mountain mahogany (Cercocarpus montanus), Fendler’s cea-
+nothus (Ceanothus fendleri), Wright’s silktassel (Garrya wrightii) and
+pointleaf and Pringle manzanita (Arctostaphylos pungens and A. pringlei).
+D.W. Huﬀman, et al.
+Forest Ecology and Management 465 (2020) 118087
+2
+
+2.2. Fire scar sampling
+Each site was systematically searched for trees with large ﬁre
+wounds, or “catfaces,” wherein multiple ﬁre scars were apparent (Arno
+and Sneck, 1977). When catfaces were found and the wood appeared
+sound, partial cross-sections containing ﬁre scars were collected using
+chainsaws. Such ﬁre scar samples were “targeted” for sampling from
+spatially distributed locations across each study site. Targeted sampling
+is commonly used in ﬁre history reconstructions (Farris et al., 2013)
+and is intended to optimize the number of ﬁre dates included in analysis
+without excessive collection of wood samples. Accuracy of ﬁre fre-
+quency estimates from targeted sampling has been shown to be high
+(Van Horne and Fulé, 2006; Farris et al., 2013). For each partial cross-
+section sampled, spatial coordinates were recorded as well as other
+notes related to tree species and condition (e.g., log, stump, living tree,
+etc.).
+2.3. Forest structure plots
+For each study site, we used a geographic information system (GIS)
+Fig. 1. Study sites used to reconstruct historical ﬁre regimes and stand structure of ponderosa pine forests in the Mogollon Highland ecoregion in Arizona, USA (red
+dotted boundary). Two sites (SCH, SPR) were located within the Prescott National Forest, and three sites (ELL, HOR, and PRO) were within the Tonto National Forest.
+Site maps show locations of sample ﬁeld plots and ﬁre scars. (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web
+version of this article.)
+Table 1
+Descriptions of study sites used for reconstruction of ﬁre regimes and stand structure in ponderosa pine forests of Arizona’s Mogollon Highlands ecoregion. Climate
+summaries are 30-year normals (1981–2010). Maximum temperature and maximum vapor pressure deﬁcit are annual maximums derived from daily averages.
+National Forest
+Site
+Size (ha)
+Sample plots
+(N)
+Elevation (m)
+Soil parent material
+Precipitation* (mm)
+Maximum temperature*
+(°C)
+Maximum vapor pressure
+deﬁcit* (hPa)
+Prescott
+SCH
+331
+36
+1720–1950
+Granite/gneiss
+605
+19
+20
+Prescott
+SPR
+269
+22
+2060–2270
+Basalt/schist/granite/
+gneiss
+723
+17
+17
+Tonto
+ELL
+272
+30
+1720–1780
+Sandstone/siltstone
+798
+20
+21
+Tonto
+HOR
+270
+30
+1755–1960
+Sandstone/siltstone
+818
+20
+21
+Tonto
+PRO
+172
+18
+1840–1975
+Diabase/sandstone/
+limestone
+747
+19
+19
+* Data (800-m resolution) from PRISM Climate Group, Oregon State University, http://prism.oregonstate.edu.
+D.W. Huﬀman, et al.
+Forest Ecology and Management 465 (2020) 118087
+3
+
+to construct a systematic grid (300-m) of sample points within the
+previously determined site boundary (see Study sites). These site maps,
+along with handheld global positioning system (GPS) units, were used
+to locate points in the ﬁeld. At each ﬁeld point, we established circular
+sample plots (0.04 ha) and took measurements of live and dead trees
+and understory shrubs. For each live tree > 10 cm in diameter at
+breast height (dbh – measured at 1.37 m above ground; Avery and
+Burkhart (1983)) located on a sample plot, we recorded species and
+measured dbh to the nearest 0.1 cm. All trees were examined for evi-
+dence of past ﬁre such as charring or ﬁre scars. We extracted increment
+cores from all live trees that met predetermined diameter limits to as-
+sure adequate sampling of trees that likely originated prior to Euro-
+American settlement of the region (Moore et al., 2004). For ponderosa
+pine, Douglas ﬁr, and most other conifers, the diameter limit for in-
+crement core sampling was 37.5 cm dbh. For slower growing conifers
+(e.g., junipers and pinyon pine) as well as hardwoods, the diameter
+limit was set to 17 cm dbh. Conifers with diameters smaller than these
+limits were randomly cored at a rate of 10%, and small hardwoods
+(< 17 cm dbh) were cored at a rate of 5%. Species, diameter, and
+condition were recorded for all dead tree structures located on each
+sample plot. For standing dead trees, condition classes were used that
+represented stages of decomposition from recently deceased to highly
+decomposed snags (Thomas et al., 1979). Cut stumps were recorded as
+“historically cut” or “recently cut.” Historically cut stumps were those
+that appeared weathered, with most of the sapwood decomposed, and
+were usually
+>
+40 cm in height (Fulé et al., 1997). Trees and
+shrubs ≤10 cm dbh were tallied in size classes by species and condi-
+tion. Size classes used for these smaller trees and shrubs were the fol-
+lowing: (1) ≤40 cm height; (2) > 40 and ≤80 cm height; (3) > 80
+and ≤137 cm height; (4) > 137 cm height and ≤5 cm dbh; and
+(5) > 137 cm height and > 5 and ≤10 cm dbh.
+2.4. Fire regime analysis
+We prepared ﬁre scar samples for analysis by gluing them onto
+plywood when necessary to support the pieces, cutting into thinner
+cross-sections with a table saw, and sanding with progressively ﬁner
+grit paper to increase discernibility of annual rings. The rings were
+crossdated using standard methods of dendrochronology (Stokes and
+Smiley, 1996) and local master chronologies. We measured annual ring
+widths, and then veriﬁed crossdating using COFECHA computer soft-
+ware (Grissino-Mayer, 2001). Fire dates were identiﬁed and a sub-
+sample (5%) was independently examined by a second analyst to verify
+ﬁre scar quality and ﬁre dates. We included only samples with two or
+more ﬁre scars in analysis, and only one sample was analyzed per tree.
+We assumed this method would reduce the inﬂuence of smaller ﬁres
+and lightning scars and provide a conservative estimate of surface ﬁre
+patterns. Few samples showed annual rings or ﬁre dates prior to the late
+1600 s and preliminary analysis indicated an abrupt change in ﬁre
+frequency at all sites in the late 1870 s. Previous studies have explained
+similar abrupt changes as resulting from intensive livestock grazing and
+interruption of surface fuel layers associated with Eur-American set-
+tlement in the Southwest region (Swetnam and Baisan, 1996, Fulé et al.,
+1997). Therefore, we identiﬁed a ﬁre exclusion date of 1879, and
+analyzed the two periods of 1700–1879 (i.e. pre-Euro-American set-
+tlement) and 1880–2016 (post-settlement) separately for all sites. We
+focused on the pre-Euro-American settlement period of 1700–1879 for
+reporting of results. We composited ﬁre dates for all samples that met
+the above constraints and calculated ﬁre history statistics using the Fire
+History Analysis and Exploration System (FHAES) computer application
+(Brewer et al., 2019). We calculated mean ﬁre return interval for all ﬁre
+dates (MFIAll) for each site, and also calculated mean ﬁre interval for
+ﬁre dates that occurred on 10% (MFI10) and 25% (MFI25) of the samples
+for each site. The composite analysis provides an estimate of ﬁre oc-
+currence on the landscape but is not spatially explicit. The process of
+ﬁltering data from MFIAll to MFI25 provides a range of interval estimates
+for progressively more widespread ﬁres (Swetnam and Baisan, 1996).
+We also calculated the ratio MFI25:MFIAll, which can be interpreted as
+the probability of a “smaller” ﬁre (1/MFIAll) versus the probability of a
+“larger” ﬁre (1/MFI25) occurring in any given year (i.e., 1/MFIAll ÷ 1/
+MFI25 = MFI25:MFIAll). As suggested by Baker and Ehle (2001), we also
+calculated the mean point ﬁre interval (MPFI), which is not an analysis
+of composited ﬁre dates but rather is calculated from intervals between
+scars on individual trees and provides an estimate of ﬁre occurrence at a
+consistent point on the landscape. Point interval typically yields longer
+MFI estimates than composited ﬁre dates (Van Horne and Fulé, 2006).
+Although ﬁltering composited ﬁre dates provides a way to interpret
+the relative importance of ﬁres of diﬀerent sizes, we also quantiﬁed ﬁre
+sizes by mapping ﬁre dates in ArcGIS 10.2.1 and using a convex hull
+algorithm to build ﬁre polygons. Polygons were constructed from like
+ﬁre dates found on three or more tree samples and then used as ﬁre size
+estimates for the given year (North et al., 2005; Shapiro-Miller et al.,
+2007). This approach may be imprecise as it assumes ﬁres completely
+burned the area within the polygons and that complete ﬁre perimeters
+are evidenced by scarred trees.
+2.5. Dendroecological reconstruction of forest characteristics
+We reconstructed historical stand structure from ﬁeld plot data and
+tree increment core samples following procedures outlined in Fulé et al.
+(1997), Huﬀman et al. (2001), Bakker et al. (2008), and Rodman et al.
+(2017). Increment cores collected from live trees on ﬁeld plots were
+taken to the laboratory, aﬃxed to wooden mounts, and sanded with
+progressively ﬁner sandpaper until annual rings could be easily cross-
+dated under a dissection microscope. After crossdating, we measured
+annual ring increments radially from the most recent complete ring
+(i.e., 2016) back to 1879 (ﬁre exclusion date) for trees that established
+or predated this year. Radial increment data as well as ﬁeld measure-
+ments of dbh, diameter at stump height (40 cm; dsh), and tree condition
+for all trees sampled on plots, were entered into a stand reconstruction
+model described by Bakker et al. (2008). In this model, a series of
+routines are applied to estimate tree diameter of live trees, snags, logs,
+and cut stumps, for a user-deﬁned year in the past. As ﬁre regime
+characteristics abruptly changed in 1879, we deﬁned this year as the
+reconstruction date. Core increment values allow estimation of dbh for
+older trees while species-speciﬁc growth equations are used to estimate
+historical diameter for trees without increment core data. Death dates
+are estimated for dead structures (snags, logs, stumps) and dbh esti-
+mates for these trees are calculated from species-speciﬁc growth func-
+tions. Details of the reconstruction model routines are provided in
+Bakker et al. (2008). Huﬀman et al. (2001) compared outputs from this
+reconstruction model (Bakker et al., 2008) against actual historical data
+recorded in 1909–1913, and found that model errors for stand density
+and tree sizes ranged 7–12%. We used reconstruction model estimates
+of 1879 tree diameters on each plot to calculate tree density (trees
+ha−1), basal area (BA; m2 ha−1), and quadratic mean tree diameter
+(QMD). QMD is a conventional forestry metric, and is useful as it pro-
+vides an estimate of the diameter of a tree of average basal area (Davis
+and Johnson, 1987).
+2.6. Analysis
+Landscape structure of ponderosa pine stands in 1879 was analyzed
+for each site using tree density summaries from ﬁeld plot data.
+Ponderosa pine tree densities (trees ha−1) were calculated for each
+plot, and tree density surfaces for each site were created using the in-
+verse distance weighted interpolation (IDW) algorithm in ArcGIS
+10.2.1.
+Surface
+layers
+were
+reclassiﬁed
+into
+four
+tree
+density
+classes: < 25; 26–75; 76–100; and > 100 tree ha−1, and patch metrics
+were calculated from these maps to estimate landscape percentage,
+patch number, and mean patch size.
+Means of reconstructed (1879) and contemporary (2017) tree
+D.W. Huﬀman, et al.
+Forest Ecology and Management 465 (2020) 118087
+4
+
+density and BA were tested for diﬀerences at the ﬁve sites using
+Student’s t-tests for paired samples. For each site, plot values at each
+point in time were treated as samples. We also used permutational
+multivariate analysis of variance (PERMANOVA) to compare diﬀer-
+ences in overstory composition at each site for each point in time (i.e.,
+1879 v. 2017). Compositional diﬀerences were based on tree densities
+of overstory species present at the given point in time. We used the PC-
+Ord computer application (McCune and Meﬀord 2016) for PERMAN-
+OVA, and signiﬁcance for all statistical tests was indicated if p < 0.05.
+3. Results
+3.1. Historical ﬁre regimes
+All study sites on the Prescott (SCH and SPR) and Tonto (ELL, HOR,
+and PRO) National Forests showed strong evidence of historical surface
+ﬁre regimes. On the Prescott National Forest, we collected 49 partial
+cross-section samples at SCH and 64 samples at SPR. At SCH, all sam-
+ples were collected from ponderosa pine with the majority (82%)
+coming from old cut stumps. At SPR, all samples except one (Gambel
+oak) were collected from ponderosa pine and most (57%) came from
+standing dead snags. Only 2–8% of the samples were collected from live
+trees across the two sites. For samples from SCH, we crossdated 428
+individual ﬁre scars with earliest ﬁre date being 1641 and the latest was
+1946. For samples at SPR, we crossdated 565 ﬁre scars with 1621 and
+1994 being the earliest and latest ﬁre dates, respectively. For the period
+1700–1879, we identiﬁed 90 unique ﬁre dates at SCH and 94 at SPR.
+We identiﬁed only one ﬁre date for the period 1880–2017 at SCH and
+nine ﬁre dates for this period at SPR (Fig. 2). Mean ﬁre interval for all
+crossdated ﬁres (MFIAll) was < 2.0 years for both sites (Table 2).
+Weibull median probability interval for all ﬁres (WMPI) was 4% less
+than MFIAll at SCH and 6% less than MFIAll at SPR. Mean ﬁre intervals
+for more widespread ﬁres that scarred at least 10% (MFI10) and at least
+25% (MFI25) of the samples, ranged 2.7–8.4 years across both sites. The
+probability of smaller versus larger ﬁre occurrence (MFI25:MFIAll) was
+higher for SCH than SPR, and < 5.0 for both sites (Table 2). Estimated
+mean ﬁre size based on polygons constructed for ﬁres that scarred three
+or more trees at a given site was not signiﬁcantly lower (p = 0.165) for
+SCH (61.4 ha) than SPR (75.0 ha) (Fig. 3). Mean point ﬁre interval was
+less than 8.5 years at both SCH and SPR (Table 2).
+On the Tonto National Forest, we collected 54, 59, and 24 partial
+cross-section samples on ELL, HOR, and PRO, respectively. All samples
+were collected from ponderosa pine, and were mainly found on cut
+stumps (81% ELL and 75% PRO) or snags (46% HOR). A small fraction
+of samples was collected from live trees at ELL (5%) and HOR (9%),
+whereas no samples were collected from live trees at PRO. We cross-
+dated 583 ﬁre scars at ELL, 485 at HOR, and 202 at PRO. The earliest
+ﬁre dates identiﬁed on samples were 1624, 1652, and 1660, and the
+latest ﬁre dates were 1990, 1900, and 1890 for ELL, HOR, and PRO
+sites, respectively. For the period 1700–1879, we found 139 unique ﬁre
+dates at ELL, 113 at HOR, and 80 at PRO. We identiﬁed two ﬁre dates
+for the period 1880–2017 at ELL, one ﬁre date for this period at HOR,
+and one ﬁre date post-1879 at PRO (Fig. 2). Composite ﬁre scar analysis
+showed that MFIAll ranged 1.29–2.13 years across the Tonto National
+Forest sites (Table 2). Weibull median probability interval ranged
+1.25–1.81 years. Mean ﬁre interval for widespread ﬁres (MFI10 and
+MFI25) ranged 2.39–15.55 years (Table 2). Probabilities for smaller
+ﬁre occurrence versus large ﬁres (MFI25:MFIAll) were 11.18 and 10.16
+for ELL and HOR, respectively; however, MFI25:MFIAll for PRO was
+3.59. Estimated mean ﬁre sizes were 53.0 ha (CV = 83%) and 57.4 ha
+(CV = 76%) for ELL and HOR, respectively, whereas mean ﬁre size for
+PRO was 12.8 ha (CV = 102%) (Fig. 3). Mean point ﬁre intervals for
+the three sites ranged 10.19–10.87 years.
+3.2. Fire synchrony
+At individual sites, we identiﬁed 3–11 ﬁre years that occurred
+on > 20% of the collected samples (Fig. 4). The most important ﬁre
+years (i.e., found on the highest proportion of samples) at SCH, SPR,
+ELL, HOR, and PRO were 1765, 1818, 1861, 1879, and 1808, respec-
+tively. We identiﬁed 59 sub-regional ﬁre years that were shared by the
+two PNF sites (SCH and SPR) (Fig. 4). The most common sub-regional
+PNF ﬁre year, which was found on 28% of samples, was 1829. Other
+ﬁre years occurring on more than 20% of combined samples at SCH and
+SPR were 1765, 1794, 1803, 1827, 1840, 1845, and 1851. For TNF, we
+found 56 ﬁres shared sub-regionally across the three sites (ELL, HOR,
+and PRO). The most important ﬁre year on TNF sites was 1879, which
+was identiﬁed on 23% of the combined samples. One other ﬁre year,
+1808, was found on > 20% of the TNF combined samples. Other
+important years that occurred on > 15% of TNF samples were 1794,
+1817, 1818, 1840, 1851, and 1855. Regionally, we found 22 ﬁre years
+shared by all sites (Fig. 4). Two ﬁre years, 1829 and 1849, were found
+on > 20% of the combined PNF and TNF samples. Other important
+years that occurred on > 15% of all samples were 1794, 1827, and
+1851.
+3.3. Historical stand conditions
+Dendroecological reconstruction of 1879 forest structure at PNF
+sites indicated that mean total tree densities at SCH and SPR were 84.7
+trees ha−1 and 136.4 trees ha−1, respectively, in 1879 (Fig. 5). Mean
+BA in 1879 of all species combined at the two PNF sites was 4.5 m2
+ha−1 and 6.7 m2 ha−1 for SCH and SPR, respectively (Fig. 5A).
+Quadratic mean diameter (QMD) was 26.1 cm and 24.6 cm on average
+for all tree species combined at SCH and SPR, respectively. At SCH, tree
+density was almost evenly comprised of ponderosa pine (55% of stems
+on average) and tree-form oaks (Gambel oak, Arizona white oak, and
+Emory oak) (42% of stems); however, ponderosa pine made up 70% of
+stand BA. At SPR, oak was historically dominant both in terms of tree
+density (70% of stems) as well as stand BA (59% of total BA) (Fig. 5B).
+Ponderosa pine was completely absent on 28% of reconstructed SCH
+plots and 27% of SPR plots. No trees of any species were found in re-
+constructions of 5% of SCH plots and 4% of SPR plots. Alligator juniper
+comprised a minor fraction of tree density and BA at both PNF sites, and
+no other species were indicated in our historical reconstructions.
+Mean reconstructed tree densities at TNF sites ranged 84–100 trees
+ha−1, and BA ranged 5.8–8.4 m2 ha−1 (Fig. 5A and 5B). QMD in 1879
+for all species combined at the three PNF sites ranged 24.5–29.0 cm.
+Ponderosa pine comprised 27–36% of tree numbers on average, and
+density at all sites was dominated by oak species (43–59% of stems).
+Ponderosa pine trees were historically absent on 30–37% of sample
+plots, and no trees of any species were found on up to 7% of sample
+plots across the three TNF sites. Although juniper made up a small
+percentage of stem density (3–13%), this species was more important at
+TNF sites in terms of BA (26–41% of total BA).
+3.4. Historical ponderosa pine landscape patterns
+Interpolated patterns of tree densities indicated that ponderosa pine
+primarily occurred on PNF and TNF sites in patches < 25 and 26–50
+trees ha−1, which comprised 18%-63%, and 24%-69%, respectively, of
+site areas (Fig. 6A). Less than 7% of any site was made up patches
+76–100 trees ha−1, or > 100 trees ha−1, in 1879. In addition, there
+were more low-density patches than high-density patches of ponderosa
+pine historically. For example, number of patches < 25 trees ha−1
+ranged 1–10, number of patches 26–50 trees ha−1 ranged 1–4, and
+number of higher density patches (i.e., classes > 50 trees ha−1)
+ranged up to 3 across all sites (Fig. 6B). Interestingly, mean patch sizes
+appeared to be larger for low-density patches than higher density pat-
+ches, For example, mean ponderosa pine patch size ranged up to 187 ha
+D.W. Huﬀman, et al.
+Forest Ecology and Management 465 (2020) 118087
+5
+
+in 1879 for density class 26–50 trees ha−1, whereas the largest mean
+patch size for any density class above 50 trees ha−1 was just 20 ha
+(Fig. 6C).
+3.5. Contemporary stand conditions
+In 2017, tree densities and BA at both PNF sites were signiﬁcantly
+greater (p < 0.001) than reconstructed conditions. Tree density means
+were 389 trees ha−1 at SCH and 870 trees ha−1 at SPR, and mean BA
+means were 20.6 m2 ha−1 and 35.3 m2 ha−1 at the two sites, respec-
+tively (Fig. 5). Tree density changes represented increases of 359% and
+538%, and increases in BA were 357% and 427% for SCH and SPR,
+respectively. Permutational multivariate analysis of variance (PERMA-
+NOVA) showed that composition based on species densities was sig-
+niﬁcantly diﬀerent (p < 0.001) between 1879 and 2017 at both sites.
+The main compositional changes were increases in oak species that
+comprised 50% of stems at SCH and 67% of stems at SPR in 2017
+(Fig. 5C).
+In addition, we observed higher numbers of white ﬁr (Abies con-
+color) and Douglas-ﬁr in 2017 at SPR compared with reconstructed
+conditions.
+Similar to PNF sites, tree densities at the three TNF sites were all
+Fig. 2. Composite ﬁre history chart for two study sites (SCH and SPR) on the Prescott National Forest and three sites on the Tonto National Forest (ELL, HOR, and
+PRO) in Arizona. Charts show each individual ﬁre scar sample (horizontal lines) and crossdated ﬁre dates (vertical tick marks) observed on samples. Solid horizontal
+lines indicate recording periods for ﬁre scar samples whereas dotted horizontal lines show non-recording periods (e.g., before the ﬁrst scar formed on a sample, or
+periods when scars cannot be identiﬁed due to decay or charring). Shaded area indicates analysis period of interest (1700–1879) prior to modern shift in ﬁre regime
+patterns (post-1880).
+Table 2
+Historical (1700–1879) ﬁre regime parameters for Mogollon Highlands ecoregion study sites in ponderosa pine forests of the Prescott and Tonto National Forests,
+Arizona. Shown are the number of catface samples crossdated, mean ﬁre interval in years for all ﬁre dates (MFIAll), ﬁre dates occurring on 10% of samples (MFI10),
+and those occurring on 25% of samples (MFI25). Larger values of the index MFI25:MFIAll suggest greater tendency for smaller historical ﬁre sizes. Also shown is
+Weibull median probability interval for all ﬁres (WMPI) and mean point ﬁre interval (MPFI) in years for each site.
+Fire regime parameter
+National Forest
+Site
+Samples (N)
+MFIAll
+WMPI
+MFI10
+MFI25
+MFI25:MFIAll
+MPFI
+Prescott
+SCH
+49
+1.97
+1.88
+2.73
+8.35
+4.24
+8.09
+Prescott
+SPR
+64
+1.92
+1.80
+3.38
+5.59
+2.91
+8.45
+Tonto
+ELL
+59
+1.29
+1.25
+2.39
+14.42
+11.18
+10.45
+Tonto
+HOR
+54
+1.53
+1.42
+2.76
+15.55
+10.16
+10.19
+Tonto
+PRO
+24
+2.13
+1.81
+2.71
+7.64
+3.59
+10.87
+D.W. Huﬀman, et al.
+Forest Ecology and Management 465 (2020) 118087
+6
+
+signiﬁcantly (p < 0.001) higher in 2017 than in 1879 (Fig. 5C). At
+ELL, HOR, and PRO, mean tree densities ranged 491.7–680.0 trees ha−1
+and represented increases of 392–703%. Mean BA was also signiﬁcantly
+(p < 0.001) greater in 2017 than 1879 at all three TNF sites, and
+ranged 23.1–36.1 m2 ha−1 (Fig. 5D). These values represented BA in-
+creases of 285–502%. PERMANOVA indicated that species composition
+in terms of tree densities was signiﬁcantly (p < 0.001) diﬀerent at all
+three TNF sites between 1879 and 2017 conditions, but, in contrast to
+PNF sites, ponderosa pine importance increased from 1879 to 2017 and
+was 37–51% of total stem density on average across the three TNF sites
+in 2017. Alligator juniper also increased across all TNF sites and made
+up 22–38% of stem density in 2017. Oak, however, decreased in im-
+portance from 1879 to 2017, and comprised 10–26% of tree density on
+average across the three TNF sites in 2017 (Fig. 5C). At HOR, Douglas-
+ﬁr, white ﬁr, boxelder (Acer negundo), maple (Acer spp.), and manzanita
+combined made up 17% of stems on average in 2017 (Fig. 5C).
+4. Discussion
+4.1. Fire regimes
+Frequent surface ﬁre regimes predominated for at least 200 years
+before the 20th century at all ﬁve MHE sites. Results of composite ﬁre
+scar analysis showed mean ﬁre intervals ranging 1.3–15.6 years, and
+these ﬁndings were supported by analysis of mean point ﬁre intervals,
+which ranged 8.1–10.9 years across all sites (Table 2). Frequent ﬁre
+regimes in MHE ponderosa pine forests have been described previously
+in less intensive studies and unpublished reports (Dieterich and
+Hibbert, 1990; Kaib et al., 2000; Sneed et al., 2002). For example,
+Dieterich and Hibbert (1990) analyzed seven ﬁre-scarred samples col-
+lected from dead material at Battle Flat, an 87-ha ponderosa pine-Ar-
+izona white oak site, located about 21–23 km from our PNF sites and
+reported a composite MFI of 1.89 years (1700–1874). Similarly, in an
+Site
+SCH
+SPR
+ELL
+HOR
+PRO
+Hectares
+0
+50
+100
+150
+200
+Fig. 3. Box plots of surface ﬁre size estimates based on ﬁre scar locations at study sites on the Prescott (SCH and SPR) and Tonto (ELL, HOR, and PRO) National
+Forests in Arizona. Dashed lines within boxes indicate ﬁre size means, and solid lines in boxes are ﬁre size medians.
+Fig. 4. Fire dates observed on samples all sites (top), sub-regional (middle), and regional (lower). Y-axis is proportion of total samples within each scale of ob-
+servation (all sites, sub-regional, regional).
+D.W. Huﬀman, et al.
+Forest Ecology and Management 465 (2020) 118087
+7
+
+unpublished report, Sneed et al. (2002) analyzed 12 samples collected
+from our SCH site and found MFI to be 2.53 years. This mean interval
+was slightly longer than our ﬁndings (Table 2), and may reﬂect fewer
+samples as well as a long frame of analysis (1615–1996) that included
+both early dates with no ﬁre records (pre-1650) and the post-ﬁre-ex-
+clusion period (post 1875) (Sneed et al., 2002). On the Tonto National
+Forest, Kaib et al. (2000) reported that MFI ranged 1–10 years for
+smaller ﬁres (all ﬁre dates) to more widespread ﬁres (25% ﬁlter; ≥8 of
+32 ﬁre-scarred trees) at Webber Creek, a ponderosa pine site about
+13 km west of ELL and 27 km west of HOR. Similarly, frequent ﬁre
+regimes have been documented for ponderosa pine or related forests
+forming ecotones with other shrub-dominated communities in the
+Southwest U.S. and Mexico (Swetnam et al., 1992; Fulé and Covington,
+1997; Grissino-Mayer et al., 2004; Iniguez et al., 2009; O’Connor et al.,
+2014; Guiterman et al., 2015). For example, Swetnam et al. (1992)
+found MFI to be 3.9 years at a ponderosa pine (and Arizona pine; P.
+arizonica var. arizonica) site in Chiricahua National Monument in
+southeastern Arizona, where Madrean evergreen woodland was the
+primary associated vegetation community, and interior chaparral and
+semi-desert grassland communities also occurred on the landscape.
+Kaib et al. (1996, 1999) reported similar ﬁre regimes at sites in
+southeast Arizona. In ponderosa pine-dominated forests of the Santa
+Catalina Mountains, historical MFI ranged 9.0–9.8 years (Iniguez et al.,
+2008), and WMPI ranged 3.6–8.4 years for the period 1689–1880 at
+three sites in the Huachuca Mountains (Danzer, 1998). Frequent his-
+torical ﬁre regimes have also been reported for pine forests in Madrean
+evergreen woodlands of the Sierra Madre Occidental, Mexico (Fulé and
+Covington, 1997). Few studies have documented noteworthy high-se-
+verity ﬁre occurrence in these ecosystems; however, Iniguez et al.
+(2009) found evidence of both frequent surface ﬁres as well as a stand-
+replacing ﬁre (60 ha) that occurred in 1867 at a dry mixed-con-
+ifer–ponderosa pine–oak site adjacent to chaparral and oak-scrub
+communities on Rincon Peak in Arizona. Reynolds et al. (2013)
+suggested that ponderosa pine dominance in southwestern forests is a
+reliable indicator of historical frequent ﬁre regimes, regardless of un-
+derstory characteristics. However, this hypothesis has not been sys-
+tematically tested. We did not attempt to disentangle the role of Native
+American burning on ﬁre frequency at our sites, but it is well under-
+stood that indigenous peoples used ﬁre on these landscapes for a variety
+of purposes (Allen, 2002). Although Allen (2002) suggests that an
+abundance of lightning ignitions, and climate patterns that include
+seasonal drought, would be suﬃcient to produce frequent surface ﬁre
+regimes in these forests regardless of Native American burning prac-
+tices, Liebmann et al. (2016) found that ﬁre frequency in the Jemez
+Province of northern New Mexico increased due to reforestation after
+decline of Native American populations between 1620 and 1640. Very
+little is known about Native American burning and land management
+practices of peoples that inhabited lands near our study sites (e.g.,
+Yavapai, Apache, etc.).
+While frequencies of surface ﬁres at our MHE sites resemble those of
+other southwestern ponderosa pine forests, multiple lines of evidence
+indicate that historical ﬁres at these sites were relatively small in ex-
+tent. For example, comparison of MFI25 with MFIAll indicated that
+widespread ﬁres were less probable than smaller ﬁres, particularly at
+the ELL and HOR sites on the Tonto National Forest (Table 2). Although
+few ﬁre history studies report this ratio (MFI25:MFIAll), our ﬁndings
+contrast with those of Fulé et al. (2003), who reported WMPI25:WMPIAll
+(note: Weibull median probability interval) ranged 1.4–2.9 for montane
+ponderosa pine forests in northern Arizona near Grand Canyon National
+Park. At a pinyon-juniper-ponderosa pine ecotone site in northwestern
+Arizona, MFI25:MFIAll values ranged 2.12–4.98 (Ireland et al., 2012).
+Thus, historical ﬁre sizes at our sites in Arizona’s MHE may have been
+particularly small compared with other southwestern ponderosa pine
+sites. We found ﬁre size estimates based on spatially explicit delinea-
+tions were not commonly greater than 100 ha, and most ﬁres were less
+than 75 ha (Fig. 3). Fire synchrony analysis suggested that smaller
+Fig. 5. Historical and contemporary tree densities (A and C, respectively) and basal area (B and D, respectively) for ponderosa pine as well as oak and juniper species
+groups at study sites on the Prescott (SCH and SPR) and Tonto (ELL, HOR, and PRO) National Forests in Arizona. Note: y-axis scale diﬀerences between historical and
+contemporary periods.
+D.W. Huﬀman, et al.
+Forest Ecology and Management 465 (2020) 118087
+8
+
+historical ﬁres at our MHE sites were likely driven by local, bottom-up
+factors, although regional climatic drivers were important in de-
+termining some ﬁre events. For example, all sites showed ﬁre events in
+1851, a year identiﬁed as a regionally important ﬁre year by Swetnam
+and Brown (2011), who examined common ﬁre dates from 120 sites in
+Arizona and New Mexico. Other dates we identiﬁed that also have been
+reported as regionally important were 1765, 1861, and 1879. Inter-
+estingly, we did not identify 1748 as a regionally important ﬁre date,
+although this has been found by others to be the single most prevalent
+ﬁre date in Southwest ﬁre chronologies (Swetnam and Brown, 2011).
+This suggests that ﬁres at ponderosa sites with Arizona’s MHE were
+strongly inﬂuenced by ﬁne-scale factors such as variability in fuel type
+(e.g. shrubs versus grasses) and connectivity (Falk et al. 2007, Ireland
+et al. 2012). Major fuel breaks such as rock outcrops, cliﬀs, and canyons
+were not present on our sites.
+4.2. Structural patterns
+Forests of our MHE sites were historically open in structure, and
+heterogeneous in ponderosa pine density. Our reconstruction analysis
+Fig. 6. Landscape metrics for reconstructed (1879) ponderosa pine tree density (trees ha−1 (TPH)) in ﬁve density classes at study sites on the Prescott (SCH and SPR)
+and Tonto (ELL, HOR, and PRO) National Forests in Arizona. Shown are percentage of the landscape made up by ponderosa pine patches (A), number of ponderosa
+pine patches (B), and mean size of ponderosa pine patches (C) at each site.
+D.W. Huﬀman, et al.
+Forest Ecology and Management 465 (2020) 118087
+9
+
+indicated that these landscapes were made up of low density (< 50
+trees ha−1) patches of ponderosa pine with denser patches occurring
+infrequently (Fig. 6A). Tree-form oak species were co-dominant in
+terms of tree numbers in forest overstories. Historical forest stand
+densities at our MHE sites were within the natural range of variation
+reported for ponderosa pine systems across the Southwest. For example,
+Reynolds et al. (2013) compiled results from dendroecological re-
+constructions as well as early survey records and found historical tree
+densities in ponderosa pine forests across Arizona and New Mexico
+ranged 28.9–306.3 trees ha−1, and BA ranged 5.1–20.5 m2 ha−2, prior
+to ﬁre exclusion. Although, Reynolds et al. (2013) considered all plant
+associations for ponderosa pine, including ponderosa pine/Gambel oak,
+ponderosa pine/Arizona white oak, and ponderosa pine/Emory oak,
+few historical data for these associations are available. One exception
+came from Woolsey (1911), who described an “average” yellow [pon-
+derosa] pine stand (i.e., dominated by mature ponderosa pine trees) on
+the Prescott National Forest with 68.4 trees ha−1, somewhat lower than
+our estimates for our PNF sites (Fig. 5). It should be noted that, al-
+though ponderosa pine dominated in terms of BA, tree-form oaks were
+historically more numerous at all of our study sites except SCH. Earlier
+studies have surmised that frequent ﬁres in ponderosa pine forests of
+MHE were likely supported primarily by ﬁne fuels, and shrub abun-
+dance was assumed to be low (Kaib et al., 2000), but there have been no
+prior dendroecological reconstruction of stand conditions. Thus, our
+study expands understanding of the natural range of variation for
+ponderosa pine forests in the Southwest and provides new information
+concerning fringe forests occupying ecotones with chaparral and ever-
+green woodlands.
+Although we could not reconstruct historical understory composi-
+tion, we hypothesize that shrubs were present at our sites historically,
+while grasses and ﬁne fuels that are more favorable to spread of surface
+ﬁre were more abundant. We base this hypothesis on our understanding
+of shrub responses to ﬁre as described in the relevant literature. For
+example, following an initial burn, recovering interior chaparral shows
+reduced ﬂammability and may not reburn for 10–20 years (Cable, 1975;
+Dieterich and Hibbert, 1990). Further, natural ﬁre rotations of interior
+chaparral in Arizona are thought to be about 30–40 years (Sneed et al.,
+2002), and coastal chaparral burns with high severity at intervals of
+50–100 years (Conard and Weise, 1998). Juvenile tissues of sprouting
+chaparral shrubs tend to be ﬁre resistant, but as they age stems become
+rich in epicuticular waxes and support low fuel moistures, character-
+istics which can accelerate wildﬁre intensity, severity, and spread in
+older stands (Rothermel and Philpot, 1973; Nagel and Taylor, 2005;
+Keeley, 2006). In addition, frequent surface ﬁres may over time reduce
+shrub abundance by depleting resources and bud banks required for
+sprouting and persistence, and favor ﬁne fuels such as grasses and other
+herbaceous plants. This process was suggested by Fulé and Covington
+(1998), who found lower resprouting hardwood abundance in pine-oak
+forests where ﬁres continued to burn with expected frequency com-
+pared with forests where ﬁre had been excluded for about 50 years in
+the Sierra Madre Occidental, Mexico. Indeed, similar landscapes of the
+Sierra Nevada range in California show distinct ﬁre regimes and related
+feedback mechanisms of chaparral and mixed conifer forests that ap-
+pear to maintain stable, distinct systems (Lauvaux et al., 2016).
+Although stand-replacing ﬁre occurrence is diﬃcult to reconstruct
+using our methods, we expected historical high-severity ﬁre to be evi-
+denced by large ﬁre-scar-free areas on the landscapes, plots showing no
+ponderosa pine in dendroecological reconstructions (i.e., only younger
+trees (post-1879) present in 2017), and/or charred tree remnants ob-
+served in our ﬁeld plot measurements. However, in our study, these
+lines of evidence did not clearly converge and we cannot conclude that
+stand-replacing ﬁre behavior was important historically. For example,
+we found ﬁre scars indicative of repeated surface ﬁre abundant and
+distributed evenly across all study sites (Fig. 1), but we also found
+ponderosa pine was absent in reconstructions of 27–37% of sample
+plots. Although only a small fraction (up to 7%) of plots was completely
+absent of trees, it is plausible that tree-form oaks may have originated
+from sprouting after severe ﬁre on plots where ponderosa pine was
+absent. Charred tree structures were noted during ﬁeld plot sampling
+but we found no extensive patches indicating large stand-replacing ﬁre.
+4.3. Contemporary conditions
+Ecological conditions in contemporary ponderosa pine forests of
+Arizona’s MHE are substantially diﬀerent from those prior to ﬁre re-
+gime disruption. Overall, tree density increases found in our study, and
+recruitment of shade-tolerant and ﬁre-intolerant species, parallel those
+widely reported for frequent-ﬁre forests across the western US
+(Covington et al., 1994; Reynolds et al., 2013; Strahan et al., 2016;
+Rodman et al., 2017; Hessburg et al., 2019). Major landscape changes
+due to historical livestock grazing, mining, and timber harvesting have
+been described for central Arizona landscapes. For example, Prescott,
+Arizona was formally established as the Territorial Capital in 1864, and
+forests in the area as well as other landscapes of the MHE experienced
+intensive livestock grazing and timber harvesting (Croxen, 1926;
+Dieterich and Hibbert, 1990). Leopold (1924) described early landscape
+changes in central Arizona, and observed widespread soil erosion,
+cessation of spreading surface ﬁres, and increases in “brush” (chaparral)
+cover and tree reproduction. Similarly, Croxen (1926), gathered anec-
+dotes from early settlers within the Tonto National Forest, and re-
+counted stories of general decreases in grasses within pine forests and
+increases of chaparral throughout these landscapes. In relatively cooler
+montane ponderosa pine forests, intensive grazing associated with
+Euro-American settlement of northern Arizona reduced herbaceous fuel
+layers and limited spread of natural surface ﬁres (Covington and Moore,
+1994; Covington, 2003). Cessation of the frequent ﬁre regime along
+with active ﬁre suppression by forest managers later in the 20th century
+resulted in establishment of substantial cohorts of tree regeneration
+(Savage et al., 1996; Mast et al., 1999; Sánchez Meador et al., 2009;
+Schneider et al., 2016). Increases in forest density and buildup in
+woody surface fuels and forest ﬂoor layers led to radical changes in ﬁre
+behavior as well as ecosystem function in montane forests (Moore et al.,
+1999). In addition to ﬁre exclusion and reduction of grass competition,
+shrub proliferation in MHE forests was also likely aided by early timber
+harvests for mining, fuel, and forage (Croxen, 1926). For example, use
+of pine, oak, and juniper for mining activities on the Prescott National
+Forest resulted in some areas being mostly cutover by 1880 (Dieterich
+and Hibbert, 1990). Reduction in forest cover and disturbance asso-
+ciated with harvesting would be expected to stimulate shrub re-
+generation, particularly that of sprouting species. Fire exclusion be-
+ginning around 1879 likely allowed shrub survival and facilitated
+development of long-term shrub persistence mechanisms.
+5. Management implications
+Ecological changes related to disruption of historical ﬁre regimes
+have increased susceptibility of ponderosa pine forests in Arizona’s
+MHE to rapid shifts in structure and composition that may come about
+with climate change and high-intensity wildﬁre (Parks et al., 2019).
+Overall, forests of the Southwest have recently experienced increases in
+high-severity ﬁre due to climate warming, drought, and land use factors
+(O’Connor et al., 2014; Singleton et al., 2019). Increases in tree density,
+reduction of grasses in understory communities, and development of
+persistent shrub layers all increase potential for stand replacing ﬁres.
+Increasing warming and drought conditions following high-severity ﬁre
+can result in limited tree regeneration and conversion to persistent
+shrubﬁelds (Barton, 1999, 2002; Savage and Mast, 2005; Savage et al.,
+2013; Ouzts et al., 2015; Guiterman et al., 2018). Susceptibility to type
+conversion is ampliﬁed for ponderosa pine forests occurring at their
+environmental limits within Arizona’s MHE, where conifer regeneration
+after wildﬁre can be negligible (Ouzts et al., 2015).
+Our ﬁndings suggest that MHE forests were resilient to climate
+D.W. Huﬀman, et al.
+Forest Ecology and Management 465 (2020) 118087
+10
+
+ﬂuctuations and ﬁre for at least 200 years prior to Euro-American set-
+tlement. These historical conditions help managers understand pro-
+cesses that contributed to ecological resilience, which in turn can be
+used to frame strategies for management with climate change (Gauthier
+et al., 1996; Bergeron et al., 2004). Prescriptions aimed at restoring
+resilience, treating hazardous fuels, and reducing crown ﬁre potential
+in these systems will follow basic principles described for frequent ﬁre
+forests (Agee and Skinner, 2005). However, meeting fuel reduction
+goals is certain to be challenging for land managers due to vigorous
+sprouting responses of shrubs to tree thinning, prescribed burning, or
+other management activities such as mastication focused on shrub
+control (Pond and Cable, 1960; Kane et al., 2010; Brennan and Keeley,
+2015). In addition, our study indicated that tree-form oak species and
+likely other hardwoods were important components of these ecosystems
+prior to ﬁre regime disruption. Thus, managers will be required to
+balance attention to historical reference conditions, conservation of
+biological diversity, and needs for fuels management. Restoration
+treatments should be focused on reducing overstory density while
+maintaining ponderosa pine seed trees and tree-form oaks such as Ar-
+izona white oak, Emory oak, and Gambel oak. Multiple entries with
+prescribed ﬁre or mastication to reduce sprouting understory shrubs
+and encourage establishment and growth of herbaceous species, lim-
+iting livestock grazing, and perhaps seeding with native grasses may all
+lower crown ﬁre potential and help restore ecosystem function. In some
+cases, maintaining forest cover while treating understories may help
+dampen shrub sprouting responses. Drought tolerant shrubs and other
+sprouting woody species are likely to be favored with a rapidly
+warming and drier climate. Because of heightened risk of conversion
+due to climate-driven tree mortality as well as wildﬁre, fringe forests
+such as those within Arizona’s MHE should be considered high priority
+for conservation.
+CRediT authorship contribution statement
+David W. Huﬀman: Conceptualization, Methodology, Writing -
+original draft. M. Lisa Floyd: Conceptualization, Writing - review &
+editing. Dustin P. Hanna: Dendrochronology. Joseph E. Crouse:
+Writing - review & editing. Peter Z. Fulé: Conceptualization, Writing -
+review & editing. Andrew J. Sánchez Meador: Writing - review &
+editing. Judith D. Springer: Writing - review & editing.
+Declaration of Competing Interest
+The authors declare that they have no known competing ﬁnancial
+interests or personal relationships that could have appeared to inﬂu-
+ence the work reported in this paper.
+Acknowledgements
+We thank staﬀand students of the Ecological Restoration Institute
+for assistance in ﬁeld data collection, logistics and data management. In
+particular, we thank Scott Curran, Don Normandin, John Paul
+Roccaforte, and Caleb Stotts. We thank US Forest Service staﬀ, parti-
+cularly Keith Borghoﬀ, Deb Cress, Pete Gordon, Chris Welker, and
+Danny Whatley for assistance with ﬁeld reconnaissance coordination
+and permitting. We are grateful to the late Dr. Paul Sneed whose in-
+sights into the ﬁre dynamics of Prescott forests were foundational for
+this study. We thank two anonymous reviewers for their comments on
+an earlier manuscript draft. This work was funded by a grant from the
+US Forest Service. Northern Arizona University is an equal opportunity
+provider.
+Appendix A. Supplementary material
+Supplementary data to this article can be found online at https://
+doi.org/10.1016/j.foreco.2020.118087.
+References
+Agee, J.K., Skinner, C.N., 2005. Basic principles of forest fuel reduction treatments. For.
+Ecol. Manage. 211, 83–96.
+Allen, C.D., 2002. Lots of lightning and plenty of people: an ecological history of ﬁre in
+the upland Southwest. In: Vale, T.R. (Ed.), Fire, Native Peoples, and the Natural
+Landscape. Island Press. Washington, USA, pp. 143–193.
+Allen, C.D., Breshears, D.D., 1998. Drought-induced shift of a forest-woodland ecotone:
+rapid landscape response to climate variation. Proc. Natl. Acad. Sci. 95,
+14839–14842.
+Arno, S.F., Sneck, K.M., 1977. A method for determining ﬁre history in coniferous forests
+of the Mountain West. US Forest Service General Technical Report INT-42.
+Avery, T.E., Burkhart, H.E., 1983. Forest Measurements. McGraw-Hill Book Co., New
+York, USA.
+Baker, W.L., Ehle, D., 2001. Uncertainty in surface-ﬁre history: the case of ponderosa pine
+forests in the western United States. Can. J. For. Res. 31, 1205–1226.
+Bakker J.D., Sánchez Meador, A.J., Fulé, P.Z., Huﬀman, D.W., Moore, M.M., 2008.
+Growing trees backwards: description of a stand reconstruction model. In: Olberding,
+S.D., Moore, M.M. (tech cords.) (Eds.). Fort Valley Experimental Forest–A Century of
+Research 1908-2008. USDA Forest Service Proceedings RMRS-P-53, pp. 136–147.
+Barton, A.M., 1999. Pines versus oaks: eﬀects of ﬁre on the composition of Madrean
+forests in Arizona. For. Ecol. Manage. 120, 143–156.
+Barton, A.M., 2002. Intense wildﬁre in southeastern Arizona: transformation of a
+Madrean oak-pine forest to oak woodland. For. Ecol. Manage. 165, 205–212.
+Barton, A.M., Poulos, H.M., 2018. Pine vs. oaks revisited: conversion of Madrean pine-oak
+forest to oak shrubland after high-severity wildﬁre in the sky islands of Arizona. For.
+Ecol. Manage. 414, 28–40.
+Bergernon, Y., Gauthier, S., Flannigan, M., Kafka, V., 2004. Fire regimes at the transition
+between mixedwood and coniferous boreal forest in northwestern Quebec. Ecology
+85, 1916–1932.
+Brennan, T.J., Keeley, J.E., 2015. Eﬀect of mastication and other mechanical treatments
+on fuel structure in chaparral. Int. J. Wildland Fire 24, 949–963.
+Brewer, P.W., Velásquez, M.E., Sutherland, E.K., Falk, D.A., 2019. Fire History Analysis
+and Exploration System (FHAES) version 2.0.2. < http://www.fhaes.org > .
+Brown, D.E., 1994. Biotic Communities: Southwestern United States and Northwestern
+Mexico. University of Utah Press, Salt Lake City.
+Cable, D.R., 1975. Range management in the chaparral type and its ecological basis: the
+status of our knowledge. USDA Forest Service Research Paper RM-RP-155.
+Conard, S.G., Weise, D.R., 1998. Management of ﬁre regime, fuels, and ﬁre eﬀects in
+southern California chaparral: lesson from the past and thoughts for the future. In:
+Pruden, T.L., Brennan, L.A. (Eds.). Fire in ecosystem management: shifting paradigm
+from suppression to prescription. Tall Timbers Fire Ecology Conference Proceedings,
+No. 20, pp. 342–350.
+Covington, W.W., 2003. Ecological restoration of southwestern ponderosa pine forests. In:
+Friederici, P. (Ed.), The Evolutionary and Historical Context. Island Press.
+Washington, pp. 26–47.
+Covington, W.W., Everett, R.L., Steele, R., Irwin, L.L., Daer, T.A., Auclair, A.N.D., 1994.
+Historical and anticipated changes in forest ecosystems of the Inland West of the
+United States. J. Sustainable For. 2, 13–63.
+Covington, W.W., Moore, M.M., 1994. Southwestern ponderosa forest structure and re-
+source conditions: changes since Euro-American settlement. J. Forest. 92, 39–47.
+Croxen, F.W., 1926. History of grazing Tonto. Tonto Grazing Conference. Phoenix, AZ.
+Nov. 1926.
+Danzer, S.R., 1998. Fire history and stand structure in the Huachuca Mountains of
+southeastern Arizona. MS Thesis. University of Arizona, Tucson.
+Davis, L.S., Johnson, K.N., 1987. Forest Management. McGraw-Hill Book Co., New York,
+USA.
+Dieterich, J.H., Hibbert, A.R., 1990. Fire history in a small ponderosa pine stand sur-
+rounded by chaparral. In: Krammers, J.S. (Ed.). Eﬀects of ﬁre in management of
+southwestern natural resources: proceedings of the symposium, 15-17 Nov. 1988,
+Tucson, Arizona. USDA Forest Service General Technical Report RM-191, pp. 168-
+173.
+Falk, D.A., Miller, C., McKenzie, D., Black, A.E., 2007. Cross-scale analysis of ﬁre regimes.
+Ecosystems 10, 809–823.
+Farris, C.A., Baisan, C.H., Falk, D.A., Van Horne, M.L., Fulé, P.Z., Swetnam, T.W., 2013. A
+comparison of targeted and systematic ﬁre-scar sampling for estimating historical ﬁre
+frequency in south-western ponderosa pine forests. Int. J. Wildland Fire 22,
+1021–1033.
+Fleischner, T., Hanna, D., Floyd-Hanna, L., 2017. A preliminary description of the
+Mogollon Highlands ecoregion. The Plant Press (Arizona Native Plant Society) Fall
+2017, pp. 3–6.
+Fulé, P.Z., Covington, W.W., 1997. Fire regimes and forest structure in the Sierra Madre
+Occidental, Durango, Mexico. Acta Botánica Mexicana 041, 43–79.
+Fulé, P.Z., Covington, W.W., 1998. Spatial patterns of Mexican pine-oak forests under
+diﬀerent ﬁre regimes. Plant Ecol. 134, 197–209.
+Fulé, P.Z., Covington, W.W., Moore, M.M., 1997. Determining reference conditions for
+ecosystem management of southwestern ponderosa pine forests. Ecol. Appl. 7,
+895–908.
+Fulé, P.Z., Heinlein, T.A., Covington, W.W., Moore, M.M., 2003. Assessing ﬁre regimes on
+Grand Canyon landscapes with ﬁre-scar and ﬁre-record data. Int. J. Wildland Fire 12,
+129–145.
+Gauthier, S., Leduc, A., Bergeron, Y., 1996. Forest dynamics modelling under natural ﬁre
+cycles: a tool to deﬁne natural mosaic diversity for forest management. Environ.
+Monitor. Assess. 39, 417–434.
+Grissino-Mayer, H.D., 2001. Evaluating crossdating accuracy: a manual and tutorial for
+D.W. Huﬀman, et al.
+Forest Ecology and Management 465 (2020) 118087
+11
+
+the computer program COFECHA. Tree-Ring Res. 57, 205–221.
+Grissino-Mayer, H.D., Romme, W.H., Floyd, M.L., Hanna, D., 2004. Climatic and human
+inﬂuences on ﬁre regimes of the southern San Juan Mountains, Colorado, USA.
+Ecology 85, 1708–1724.
+Guiterman, C.H., Margolis, E.Q., Allen, C.D., Falk, D.A., Swetnam, T.W., 2018. Long-term
+persistence and ﬁre resileince of oak shrubﬁelds in dry conifer forests of northern
+New Mexico. Ecosystems 21, 943–959.
+Guiterman, C.H., Margolis, E.Q., Swetnam, T.W., 2015. Dendroecological methods for
+reconstructing high-severity ﬁre in pine-oak forests. Tree-Ring Res. 71, 67–77.
+Hendricks, J.D., Plescia, J.B., 1991. A review of the regional geophysics of the Arizona
+Transition Zone. J. Geophys. Res. 96, 12351–12373.
+Hessburg, P.F., et al., 2019. Climate, environment, and disturbance history govern resi-
+lience of western North American forests. Front. Ecol. Evol. 7, 1–27.
+Huﬀman, D.W., Moore, M.M. Covington, W.W. Crouse, J.E., Fulé, P.Z., 2001. Ponderosa
+pine forest reconstruction: comparisons with historical data. In: Vance, R.K.,
+Edminster, C.B., Covington, W.W., Blake, J.A. (comps.) (Eds.). Ponderosa pine eco-
+systems restoration and conservation: steps toward stewardship. USDA Forest Service
+Proceedings RMRS-P-22, pp. 3–8.
+Iniguez, J.M., Swetnam, T.M., Baisan, C.H., 2009. Spatially and temporally variable ﬁre
+regime on Rincon Peak, Arizona, USA. Fire Ecol. 5, 3–20.
+Iniguez, J.M., Swetnam, T.W., Yool, S.R., 2008. Topography aﬀected landscape ﬁre his-
+tory patterns in southern Arizona, USA. For. Ecol. Manage. 256, 295–303.
+Ireland, K.B., Stan, A.B., Fulé, P.Z., 2012. Bottom-up control of a northern Arizona
+ponderosa pine forest ﬁre regime in a fragmented landscape. Landscape Ecol. 27,
+983–997.
+Kaib, M., Baisan, C.H., Grissino-Mayer, H.D., Swetnam, T.W., 1996. Fire history in the
+gallery pine-oak forests and adjacent grasslands of the Chiricahua Mountains of
+Arizona. USDA Forest Service General Technical Report GTR-RM-289.
+Kaib, M., Swetnam, T.W., Baisan, C.H., 1999. Fire history in canyon pine-oak forests,
+intervening desert grasslands, and higher-elevation mixed conifer forests of the
+southwest Borderlands. USDA Forest Serv. Proc. RMRS-P-10.
+Kaib, M., Swetnam, T.W., Morina, K.A., 2000. Fire history reconstructions in the
+Mogollon Province ponderosa pine forests of central Arizona. Final Report: Phase I
+and II, Contract No. 53-8180-8-0009 between Tonto National Forest and University
+of Arizona. Unpublished report on ﬁle at the Laboratory of Tree Ring Research,
+University of Arizona, Tucson.
+Kane, J.M., Varner, J.M., Knapp, E.E., Powers, R.F., 2010. Understory vegetation re-
+sponses to mechanical mastication and other fuels treatment in a ponderosa pine
+forest. Appl. Veg. Sci. 13, 207–220.
+Keeley, J.E., 2006. Fire severity and plant age in postﬁre resprouting of woody plants in
+sage scrub and chaparral. Madroño 53, 373–379.
+Landres, P.B., Morgan, P., Swanson, F.J., 1999. Overview of the use of natural variability
+concepts in managing ecological systems. Ecol. Appl. 9, 1179–1188.
+Lauvaux, C.A., Skinner, C.N., Taylor, A.H., 2016. High severity ﬁre and mixed conifer
+forest-chaparral dynamics in the southern Cascade Range, USA. For. Ecol. Manage.
+363, 74–85.
+Leopold, A., 1924. Grass, brush, timber, and ﬁre in southern Arizona. J. Forest. 22, 1–10.
+Liebmann, M.J., Farella, J., Roos, C.I., Stack, A., Martini, S., Swetnam, T.W., 2016. Native
+American depopulation, reforestation, and ﬁre regimes in the Southwest United
+States, 1492–1900 CE. Proc. Natl. Acad. Sci. 113, E696–E704.
+Mast, J.N., Fulé, P.Z., Moore, M.M., Covington, W.W., Waltz, A.E.M., 1999. Restoration of
+presettlement age structure of an Arizona ponderosa pine forest. Ecol. Appl. 9,
+228–239.
+McCune, B., Meﬀord, M.J., 2016. PC-ORD. Multivariate analysis of ecological data. Ver.
+7.06. MjM Software, Gleneden Beach, OR, USA.
+Moir, W.H., Geils, B., Benoit, M.A., Scurlock, D., 1997. Ecology of southwestern pon-
+derosa pine forests. USDA Forest Service General Technical Report RM-GTR-292.
+Moore, M.M., Covington, W.W., Fulé, P.Z., 1999. Reference conditions and ecological
+restoration: a southwestern ponderosa pine perspective. Ecol. Appl. 9, 1266–1277.
+Moore, M.M., Huﬀman, D.W., Fulé, P.Z., Covington, W.W., Crouse, J.E., 2004.
+Comparison of historical and contemporary forest structure and composition on
+permanent plots in southwestern ponderosa pine forests. Forest Sci. 50, 162–176.
+Nagel, T.A., Taylor, A.H., 2005. Fire and persistence of montane chaparral in mixed
+conifer forest landscapes in the northern Sierra Nevada, Lake Tahoe Basin, California,
+USA. J. Torrey Bot. Soc. 132, 442–457.
+North, M., Hurteau, M., Fiegener, R., Barbour, M., 2005. Inﬂuence of ﬁre and El Nino on
+tree recruitment varies by species in Sierran mixed conifer. Forest Sci. 51, 187–197.
+O’Connor, C.D., Falk, D.A., Lynch, A.M., Swetnam, T.W., 2014. Fire severity, size, and
+climate associations diverge from historical precedent along an ecological gradient in
+the Pinaleño Mountains, Arizona, USA. For. Ecol. Manage. 329, 264–278.
+Ouzts, J., Kolb, T., Huﬀman, D., Sánchez Meador, A., 2015. Post-ﬁre ponderosa pine
+regeneration with and without planting in Arizona and New Mexico. For. Ecol.
+Manage. 354, 281–290.
+Parks, S.A., Dobrowsji, S., Shaw, J.D., Miller, C., 2019. Living on the edge: trailing edge
+forests at risk of ﬁre-facilitated conversion to non-forest. Ecosphere 10, 1–17.
+Pase, C.P., Brown, D.E., 1994. 133.3 Interior chaparral. In: Brown, D.E. (ed.). Biotic
+communities: southwestern United States and northwestern Mexico. University of
+Utah Press. Salt Lake City, Pp. 95-99.
+Peirce, H.W., 1985. Arizona’s backbone: the Transition Zone. Arizona Bureau of Geology
+and Mineral Technology: Field Notes 15:1-6.
+Pond, F.W., Cable, D.R., 1960. Eﬀect of heat treatment on sprout production of some
+shrubs of the chaparral in central Arizona. J. Range Manag. 13, 313–317.
+Reynolds, R.T., Sánchez Meador, A.J., Youtz, J.A., Nicolet, T., Matonis, M.S., Jackson, P.
+L., DeLorenzo, D.G., Graves, A.D., 2013. Restoring composition and structure in
+southwestern frequent-ﬁre forests: a science-based framework for improving eco-
+system resiliency. USDA Forest Service General Technical Report RMRS-GTR-310.
+Robertson, G.D., 2000. Terrestrial ecosystem survey of the Prescott National Forest. USDA
+Forest Service, Southwestern Region. Albuquerque.
+Rodman, K.C., Sánchez Meador, A.J., Moore, M.M., Huﬀman, D.W., 2017. Reference
+conditions are inﬂuenced by the physical template and vary by forest type: a
+synthesis of Pinus ponderosa-dominated sites in the southwestern United States. For.
+Ecol. Manage. 404, 316–329.
+Romme, W.H., Weins, J.A., Saﬀord, H.D., 2012. Setting the stage: theoretical and con-
+ceptual background of historical rage of variation. In: Weins, J.A., Hayward, G.D.,
+Saﬀord, H.D., Giﬀen, C.M. (Eds.), Historical Environmental Variation in Conservation
+and Natural Resource Management. Wiley-Blackwell. Oxford, UK, pp. 3–18.
+Rothermel, R.C., Philpot, C.W., 1973. Predicting changes in chaparral ﬂammability. J.
+Forest. 71, 640–643.
+Sánchez Meador, A.J., Moore, M.M., Bakker, J.D., Parysow, P.F., 2009. 108 years of
+change in spatial pattern following selective harvest of a Pinus ponderosa stand in
+northern Arizona, USA. J. Veg. Sci. 20, 1–12.
+Sánchez Meador, A.J., Parysow, P.F., Moore, M.M., 2010. Historical stem-mapped per-
+manent plots increase precision of reconstructed reference data in ponderosa pine
+forests of northern Arizona. Restor. Ecol. 18, 224–234.
+Savage, M., Brown, P.M., Feddema, J., 1996. The role of climate in a pine forest re-
+generation pulse in the southwestern United States. Ecoscience 3, 310–318.
+Savage, M., Mast, J.N., 2005. How resilient are southwestern ponderosa pine forests after
+crown ﬁres? Can. J. For. Res. 35, 967–977.
+Savage, M., Mast, J.N., Feddema, J.J., 2013. Double whammy: high-severity ﬁre and
+drought in ponderosa pine forests of the Southwest. Can. J. For. Res. 43, 570–583.
+Schneider, E.E., Sánchez Meador, A.J., Covington, W.W., 2016. Reference conditions and
+historical changes in an unharvested ponderosa pine stand on sedimentary soil.
+Restor. Ecol. 24, 212–221.
+SER (Society for Ecological Restoration, International), 2004. The SER International
+primer on ecological restoration. www.ser.og.
+Shapiro-Miller, L.B., Heyerdahl, E.K., Morgan, P., 2007. Comparison of ﬁre scars, ﬁre
+atlases, and satellite data in northwestern United States. Can. J. For. Res. 37,
+1933–1943.
+Singleton, M.P., Thode, A.E., Sánchez Meador, A.J., Iniguez, J.M., 2019. Increasing trends
+in high-severity ﬁre in the southwestern USA from 1984 to 2015. For. Ecol. Manage.
+433, 709–719.
+Sneed, P., Floyd-Hanna, L., Hanna, D., 2002. Prescott Basin Fire History Project. Final
+Report. Unpublished report. Prescott College, AZ.
+Stokes, M.A., Smiley, T.L., 1996. An Introduction to Tree-Ring Dating. University of
+Arizona Press, Tucson.
+Strahan, R.T., Sánchez Meador, A.J., Huﬀman, D.W., Laughlin, D.C., 2016. Shifts in
+community-level traits in a mixed conifer forest: a legacy of land-use change. J. Appl.
+Ecol. 53, 1755–1765.
+Swetnam, T.W., Allen, C.D., Betancourt, J.L., 1999. Applied historical ecology: using the
+past to manage for the future. Ecol. Appl. 9, 1189–1206.
+Swetnam T.W., Baisan, C.H., 1996. Historical ﬁre regime patterns in the southwestern
+United States since AD 1700. In: Allen, C.D. (Ed.). Fire eﬀects in southwestern forests:
+proceedings of the second La Mesa ﬁre symposium. USDA Forest Service, General
+Technical Report RM-GTR-286, pp. 11–32.
+Swetnam, T.W., Baisan, C.H., Caprio, A.C., Brown, P.M., 1992. Fire history in a Mexican
+oak-pine woodland and adjacent montane conifer gallery forest in southeastern
+Arizona. Paper presented at the symposium on the Ecology and Management of Oak
+and Associated Woodlands: Perspectives in the Southwestern United States and
+Northern Mexico. Sierra Vista, AZ, USA. April 27-30, 1992.
+Swetnam, T.W., Brown, P.M., 2011. Climatic inferences from dendroecological re-
+constructions. In: Hughes, M.K. et al. (Eds.). Dendroclimatology, developments in
+paleoenvironmental research. Springer Science+Business Media B.V. Netherlands,
+pp. 263–295.
+Thomas, J. W., R. G. Anderson, C. Maser, and E. L. Bull. 1979. Snags. pp. 60–77 in
+Wildlife habitats in managed forests—the Blue Mountains of Oregon and Washington.
+USDA Agricultural Handbook 553.
+Van Horne, M.L., Fulé, P.Z., 2006. Comparing methods of reconstructing ﬁre history using
+ﬁre scars in a southwestern United States ponderosa pine forest. Can. J. For. Res. 36,
+855–867.
+Woolsey, T.S. Jr. 1911. Western yellow pine in Arizona and New Mexico. USDA Forest
+Service Bulletin 101.
+D.W. Huﬀman, et al.
+Forest Ecology and Management 465 (2020) 118087
+12

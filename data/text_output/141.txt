@@ -1,0 +1,5387 @@
+Fuels and Fire Behavior Modeling Using Remotely Sensed Data on the San Francisco 
+Peaks, Arizona 
+ 
+ 
+Joseph Edward Crouse 
+ 
+ 
+ 
+A Thesis 
+Submitted in Partial Fulfillment 
+of the Requirements for the Degree of 
+Master of Science  
+in Forestry 
+ 
+ 
+ 
+Northern Arizona University 
+ 
+December 2005 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Approved: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Peter Z. Fulé, Ph.D., Co-Chair  
+ 
+ 
+ 
+Margaret M. Moore, Ph.D., Co-Chair 
+ 
+ 
+ 
+Graydon L. Berlin, Ph.D.                                            
+ 
+i
+
+ABSTRACT 
+ 
+FUELS AND FIRE BEHAVIOR MODELING USING REMOTELY SENSED 
+DATA ON THE SAN FRANCISCO PEAKS, ARIZONA 
+ 
+Joseph Edward Crouse 
+ 
+ 
+ 
+Multi-date Advanced Spaceborne Thermal Emission and Reflection Radiometer 
+(ASTER) satellite imagery was classified to develop data layers for a portion of the San 
+Francisco Peaks in northern Arizona.  The data layers were developed to be used as 
+inputs to fire simulation models.  Pair-wise comparisons of all mapped layers showed that 
+only four layers were statistically different.  Kappa analysis showed that twenty-four of 
+the thirty-nine classified layers were statistically better than chance.   
+ 
+Crown fire activity was modeled using the FlamMap fire simulation program.  
+Simulations were run using 10, 40, and 70 km/hr wind speeds.  Area of active crown fire 
+increased by 221% between the 10 and 70 km/hr wind speed scenarios.  At the landscape-
+level, mean patch size of active crown fire increased over 700% from the 10 to 70 km/hr 
+wind speed scenarios and the number of patches decreased by 60% between 10 and 70 
+km/hr wind speed scenarios.  At the class-level, active crown fire mean patch size 
+increased slightly in all five forest types (aspen, bristlecone pine, mixed conifer, 
+ponderosa pine, and spruce-fir) with increasing wind speed.  The number of patches 
+increased, at the class-level, between the 10 and 40 km/hr wind speed scenarios but 
+tended to decrease between the 40 and 70 km/hr wind speed scenarios.  An Erosion Index 
+model to identify areas that had a high potential for erosion was created using slope, 
+ 
+ii
+
+coarse woody debris (1000 hour sound and rotten fuels), and heat/area layers created in 
+10, 40, and 70 km/hr wind speed simulations, as inputs.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iii
+
+ACKKNOWLEDGEMENTS 
+ 
+ 
+This research was funded by the USDA Forest Service Rocky Mountain Research Station 
+and USDI Bureau of Land Management. 
+ 
+A huge thank you to Dr. Peter Fulé for giving me the opportunity to conduct this 
+research and for being supportive of all my work with the ERI; to Dr. Margaret 
+Moore for encouraging me throughout this project and for hiring me to work on 
+the Woolsey project, and to Dr. G. Lennis Berlin for sharing his extensive knowledge 
+of remote sensing with me and for being a mentor for nearly 20 years. 
+ 
+None of this would have been possible without the extensive help from the staff 
+and students, past and present, with the ERI.  Thanks to all that carried bags of 
+rebar, jugs of water, field gear, and everything else we needed to conduct the 
+fieldwork.  We did an incredible amount of work and had a great time doing it. 
+Special thanks go out to those, particularly Allison Cooke, David Huffman, Robin Long, 
+JP Roccaforte, and Judy Springer, that have been extremely supportive throughout the 
+entire process. 
+ 
+Finally, a special thank you to my wife Susan and our children, Ryan, Aaron, Jonathan, 
+and Kelsey.  They have supported me throughout this endeavor and I couldn’t have done 
+it without them.  Thanks to Susan for putting up with 21 years of my fieldwork. 
+ 
+iv
+
+TABLE OF CONTENTS 
+ 
+ABSTRACT........................................................................................................................ ii 
+ACKKNOWLEDGEMENTS............................................................................................ iv 
+LIST OF TABLES............................................................................................................ vii
+LIST OF FIGURES .........................................................................................................viii 
+PREFACE.......................................................................................................................... ix 
+CHAPTER ONE................................................................................................................. 1 
+INTRODUCTION .......................................................................................................... 1 
+Literature Cited........................................................................................................... 5 
+ 
+CHAPTER TWO ................................................................................................................ 7 
+LITERATURE REVIEW ................................................................................................... 7 
+Introduction................................................................................................................. 7 
+Vegetation Mapping Using Satellite Imagery............................................................. 7 
+Forest Fuels Mapping ................................................................................................. 8 
+Accuracy Assessment ............................................................................................... 14 
+Fire Behavior and Landscape Fire Succession Models ............................................ 17 
+Landscape Metrics .................................................................................................... 19 
+Fire Management in Wilderness Areas..................................................................... 19 
+Literature Cited......................................................................................................... 21 
+ 
+CHAPTER THREE .......................................................................................................... 26 
+FUELS MAPPING ON THE SAN FRANCISCO PEAKS, ARIZONA, USING HIGH 
+RESOLUTION SATELLITE IMAGERY.................................................................... 26 
+Abstract..................................................................................................................... 26 
+Introduction............................................................................................................... 27 
+Methods..................................................................................................................... 30 
+Study Area ............................................................................................................ 30 
+Remotely Sensed Data.......................................................................................... 32 
+Image Preprocessing............................................................................................. 33 
+Field Data.............................................................................................................. 34 
+Image Classification.............................................................................................. 35 
+Accuracy Assessment ........................................................................................... 37 
+Results....................................................................................................................... 40 
+ 
+v
+
+Field Data.............................................................................................................. 40 
+Species and Canopy Cover Classification ............................................................ 40 
+Accuracy Assessment ........................................................................................... 41 
+Discussion................................................................................................................. 43 
+Accuracy Assessment ........................................................................................... 44 
+Sources of Classification Error............................................................................. 46 
+Conclusions and Management Implications............................................................. 48 
+Literature Cited......................................................................................................... 55 
+ 
+CHAPTER FOUR............................................................................................................. 59 
+FIRE BEHAVIOR MODELING.................................................................................. 59 
+Abstract..................................................................................................................... 59 
+Introduction............................................................................................................... 60 
+Methods..................................................................................................................... 63 
+Study Area ............................................................................................................ 63 
+Field Data.............................................................................................................. 64 
+Development of Fire Model Inputs....................................................................... 65 
+Results....................................................................................................................... 68 
+Crown Fire Activity.............................................................................................. 68 
+Heat/area ............................................................................................................... 69 
+Mean Patch Size and Number of Patches and Erosion Index............................... 69 
+Discussion................................................................................................................. 70 
+Active Crown Fire Behavior................................................................................. 70 
+Fire Effects............................................................................................................ 72 
+Model Limitations................................................................................................. 74 
+Conclusions and Management Implications............................................................. 75 
+Literature Cited......................................................................................................... 83 
+ 
+Appendix 1........................................................................................................................ 87 
+Appendix 2........................................................................................................................ 88 
+Appendix 3........................................................................................................................ 89 
+Appendix 4........................................................................................................................ 90 
+Appendix 5........................................................................................................................ 91 
+ 
+vi
+
+List of Tables 
+ 
+Table 3.1  Stand structure and study site characteristics taken from the permanent plot 
+data.  These data were used to develop the supervised training site signature 
+file. This file was used to classify the three ASTER image combinations…..50   
+ 
+Table 3.2  Fuels summary statistics, from the 135 permanent plots, by forest type.  
+Positive skewness values indicate data skewed to the right.  Skewness is 
+considered significant if the absolute value is >2.  Woody fuels in Mg/ha…51 
+ 
+Table 3.3  Total area (ha) and percent cover by forest type as classified by the three 
+image combinations…………………………………………………………52 
+ 
+Table 3.4  Total area (ha) of canopy cover classes as classified by the three image 
+combinations………………………………………………………………...52 
+  
+Table 3.5  Accuracy assessment results for all three image combinations.  Layers 
+significantly better than random are shown in bold.  Alpha is 0.05.  Woody 
+fuels in Mg/ha………………………………………………………………. 53   
+ 
+Table 3.6  Pair-wise comparisons of all mapped layers.  Z statistic and (p-value) are 
+shown.  Layers that are significantly different are shown in bold.  Alpha is 
+0.05.  na = Z statistic could not be calculated because one or more KHAT 
+values were negative or zero…………………………………………………54 
+ 
+Table 4.1  Number of patches and mean patch size, in areas of active crown fire, at low, 
+moderate, and high wind speeds at the landscape-level……………………..82 
+ 
+Table 4.2  Number of patches, and mean patch size, in areas of active crown fire, at low, 
+moderate, and high wind speeds for the five forest types…………………...82 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vii
+
+List of Figures 
+ 
+ 
+Figure 3.1  Elevational gradient with 135 permanent plots on the San Francisco Peaks, 
+northern Arizona…………………………………………………………….49 
+ 
+Figure 4.1  Percent of landscape by forest type…………………………………………77 
+ 
+Figure 4.2  Fire behavior classes under low (10 km/hr), moderate (40 km/hr), and high 
+(70 km/hr)  wind conditions.  Bar graph shows area of the active crown fire 
+class under wind conditions from 10-40 and 70 km/hr to more clearly 
+identify the active crown fire threshold……………………………………..78  
+ 
+Figure 4.3  Area of active crown fire in the five forest types under low, moderate, and 
+high wind conditions………………………………………………………..79 
+  
+Figure 4.4  Heat/area under active crown fire conditions and low, moderate, and high 
+wind conditions……………………………………………………………..79 
+ 
+Figure 4.5  Heat/area under active crown fire conditions and low, moderate, and high 
+wind conditions for the five forest types……………………………………80 
+ 
+Figure 4.6  Areas of high erosion potential under active crown fire conditions and low, 
+moderate, and high wind conditions.  Model parameters used were slopes ≥ 
+10%, coarse woody debris > 0 and heat/area 223,385 KJ/m2 for the 10 km/hr 
+scenario, 227,584 KJ/m2 for the 40 km/hr scenario, and 237,393 KJ/m2 for 
+the 70 km/hr scenario……………………………………………………….81 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+viii
+
+ 
+ 
+ 
+PREFACE 
+ 
+This thesis was written in manuscript form. Because of this there is some redundancy 
+between the literature review and the two manuscript chapters. 
+ 
+ix
+
+CHAPTER ONE 
+ 
+INTRODUCTION 
+ 
+Land use management decisions on fire exclusion and livestock grazing in ponderosa 
+pine-dominated sites in the Southwest have resulted in increases in tree density, canopy 
+cover, vertical fuel connectivity, and fuel loadings.  These increases have led to the 
+potential for more severe and larger wildfires (Covington and Moore 1994, Swetnam et 
+al. 1999).  Beginning by the early 1950s, it was recognized that overgrazing and fire 
+suppression had led to dense forest conditions and excessive fuels and that the “fire 
+hazard has increased tremendously and is continuing to increase” (Weaver 1951).  Mixed 
+conifer and spruce-fir forests have also experienced changes in tree densities.   
+ 
+The occurrence of larger and more intense fires requires that more land managers become 
+familiar with fire and the variables that determine its behavior.  Pyne et al. (1996) 
+discussed the concept of the “fire environment” (Countryman 1972) where topography, 
+fuel, weather and the fire itself are interactive variables that make up the fire 
+environment.  The interaction of these variables determines the characteristics and 
+behavior of a fire.  Vegetation, woody, and forest floor fuels are the only components of 
+the fire environment that can be manipulated by landuse managers.  Fires of the scale and 
+severity of the ~200,000 ha Rodeo-Chediski fire that occurred in eastern Arizona in 2002 
+are unprecedented and show that the development of methods to accurately estimate fuels 
+has become essential. 
+ 
+ 
+1
+
+The site for the research presented in this thesis is the San Francisco Peaks.  The Peaks 
+are made up of a number of peaks, one of which, Humphreys Peak, is the tallest mountain 
+in Arizona. The Peaks are an important ecological and cultural resource.  The steep 
+elevational gradient of the Peaks allows for a unique opportunity to work within nearly 
+all forest floor fuel conditions found in the Southwest.  They also serve as a source of 
+drinking water for the surrounding area, provide recreational opportunities, offer solitude 
+in the Kachina Peaks Wilderness, serve as a refugia for species that once occurred over 
+much of the Southwest (Mitton et al. 2000), and hold a spiritual significance for Native 
+American tribes across the Colorado Plateau.   
+ 
+Cocke (2005) found that a moderate increase in mixed conifer tree density had occurred 
+at this study site.  Spruce-fir tree density increases, while lower than that of ponderosa 
+pine and mixed conifer, also occurred.  Similar findings have been reported in ponderosa 
+pine, mixed conifer, and spruce-fir forest type in Grand Canyon National Park, Arizona, 
+by White and Vankat (1993) and Fulé et al. (2003).  These studies concluded that fires in 
+the ponderosa pine and mixed conifer forest types are likely to be larger in extent than 
+past fires and will burn with a higher severity. 
+ 
+Fire has played a natural role in maintaining the ecological balance on the Peaks.  
+Dieterich (1980) and Heinlein (2005) found mean fire return intervals of roughly five 
+years or less in studies conducted in the ponderosa pine and mixed conifer zones on the 
+San Francisco Peaks.  It is logical to consider that these fires may have burned up into the 
+higher elevation spruce-fir and bristlecone pine forest types on occasion.  Spruce-fir 
+ 
+2
+
+forests usually burn with stand-replacing intensities (Taylor and Fonda 1990, Aplet et al. 
+1998) and the topography of the Peaks would make such a fire particularly difficult to 
+contain.  Photographs from the early 1900s show large burned areas on the Peaks.  Stands 
+of aspen on the Peaks indicate that large-scale disturbances, likely due to fire, have 
+occurred.  The Pumpkin fire, ignited by lightning in 2000, burned approximately 6,000 ha 
+on Kendrick Peak.  This 3,100 m peak is located approximately 18 km northwest of the 
+San Francisco Peaks and has the same forest types.  Heavy fuel loading and low fuel 
+moisture, due to drought conditions, contributed to high fire severity. 
+ 
+Fires have not occurred in the high elevation forests of the Peaks for one or more 
+centuries.  The Leroux fire of 2001 began in the ponderosa pine forest type and quickly 
+burned out once it reached the aspen dominated mid-elevation forests.  Near average 
+moisture levels likely prevented it from reaching the higher elevations (Cocke 2005). 
+This extended fire-free period coupled with high productivity has resulted in the spruce-
+fir forest type having the greatest amount of large woody fuels and forest floor fuels.  
+During extended periods of drought, fires may be expected to carry through the spruce-fir 
+forest type with its high tree density and heavy accumulation of fuels.   
+ 
+The question of what role fire should currently play on the Peaks is complicated by the 
+Federal Wilderness designation of much of the area.  The Wilderness Act of 1964 states 
+that wilderness should have minimal impacts of human activities but it also states that it 
+be “managed so as to preserve its natural conditions”.  Ecological and social concerns 
+must be considered before re-introducing fire to the Peaks.  Issues related to smoke and 
+ 
+3
+
+the potential for fire to cross prescribed fire boundaries are risks that land managers must 
+consider (van Wagtendonk 1995).  Prescribed natural fires have been used in other 
+wilderness areas (Parsons 2000) and because of access issues may be the most 
+appropriate method of fire reintroduction (Miller 2003).  
+ 
+My objectives in this study were:  1) to directly assign species, canopy cover, and fuel 
+class labels to the Peaks landscape through the use of a supervised classification, 2) to 
+evaluate the effectiveness of a multi-temporal dataset, with finer spatial resolution than 
+Landsat Thematic Mapper  (TM) and Enhanced Thematic Mapper Plus  (ETM+) data, to 
+develop overstory vegetation, and both dead woody and forest floor fuel layers, 3) to 
+create the required inputs (elevation, slope, aspect, fuel model and canopy cover) as well 
+as the optional layers of duff loading and coarse woody debris that would allow me to 
+model fire behavior using the FlamMap model (Finney in preparation), 4) to use 
+FlamMap to simulate active crown fire behavior and heat/area at low, moderate, and high 
+wind speeds, 5) to analyze the change in the number of patches and mean patch sizes 
+under low, moderate, and high wind speeds, and 6) to develop a model to identify areas 
+with a high potential for erosion following a wildfire. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4
+
+Literature Cited 
+ 
+Aplet GH, Laven RD, Smith FW (1998) Patterns of community dynamics in Colorado 
+Engelmann spruce-subalpine fir forests. Ecology 69, 312-319. 
+Cocke AE, Fulé PZ, Crouse JE (2005) Forest change on a steep mountain gradient after 
+extended fire exclusion: San Francisco Peaks, Arizona, USA.  Journal of Applied 
+Ecology 5, 814-823. 
+Cocke AE, Fulé PZ, Crouse JE (2005) Comparison of burn severity assessments using 
+Differenced Normalized Burn Ratio and ground data. International Journal of 
+Remote Sensing 14, 189-198. 
+Countryman CM (1972) The fire environment concept. USDA Forest Service, Pacific 
+Southwest Forest and Range Experiment Station, Berkeley, CA, 12 pp. 
+Covington WW, Moore MM (1994) Southwestern ponderosa pine forest structure: 
+changes since Euro-American settlement. Journal of Forestry 1, 39-47.  
+Dieterich, J.H.  1980. Chimney Spring forest fire history.  USDA Forest Service Research 
+Paper RM-220, Rocky Mountain Forest and Range Experiment Station, Fort 
+Collins, CO. 8 pp. 
+Finney MA  In preparation. FlamMap.  Missoula, MT: USDA Forest Service, Rocky 
+Mountain Research Station, Fire Sciences Lab. 
+Fulé PZ, Crouse JE, Heinlein TA, Moore MM, Covington WW, Verkamp G (2003) 
+Mixed-severity fire regime in a high-elevation forest of Grand Canyon, Arizona, 
+USA. Landscape Ecology 18, 465-486. 
+Heinlein TA, Moore MM, Fulé PZ, Covington WW (2005) Fire history and stand 
+structure of two ponderosa pine-mixed conifer sites: San Francisco Peaks, 
+Arizona, USA. International Journal of Wildland Fire 14, 307-320.  
+Miller JD, Nyhan JW, Yool SR (2003) Modeling potential erosion due to the Cerro 
+Grande Fire with a GIS-based implementation of the Revised Universal Soil Loss 
+Equation. International Journal of Wildland Fire 12, 85-100. 
+Mitton JB, Kreiser BR, Latta RG (2000) Glacial refugia of limber pine (Pinus flexilis 
+James) inferred from the population of mitochondrial DNA. Molecular Ecology 9, 
+91-97.   
+ 
+ 
+5
+
+Parsons DJ (2000) The Challenge of Restoring Natural Fire to Wilderness. In Cole, 
+David N, McCool SF, Borrie WT, O'Loughlin J comps. 2000. Wilderness science 
+in a time of change conference - Volume 5: Wilderness ecosystems, threats, and 
+management; 2000 May 23 - 27; Missoula, MT. Proceedings RMRS-P-15-VOL-
+5. Ogden, UT: U.S. Department of Agriculture, Forest Service, Rocky Mountain 
+Research Station. pp. 276-282. 
+Pyne SJ, Andrews PL, Laven RD (1996) Introduction to wildland fire. John Wiley & 
+Sons, Inc., New York, Chichester, Brisbane, Toronto, Singapore. 769 pp. 
+Swetnam TW, Allen CD, Betancourt JL (1999) Applied historical ecology: using the past 
+to manage for the future. Ecological Applications 4, 1189-1206. 
+Taylor KL, Fonda RW (1990) Woody fuel structure and fire in subalpine fir forests, 
+Olympic National Park, Washington. Canadian Journal of Forest Research 20, 
+193-199. 
+Van Wagtendonk JW (1995) Large fires in wilderness areas. In Brown JK, Mutch RW, 
+Spoon CW, Wakimoto RH editors. Proceedings: symposium on fire in wilderness 
+and park management. USDA Forest Service General Technical Report INT-GTR 
+320. pp. 113-116. 
+Weaver H (1951) Fire as an ecological factor in the Southwestern ponderosa pine forests. 
+Journal of Forestry 49, 93-98. 
+White MA, Vankat JL (1993) Middle and high elevation coniferous forest communities 
+of the North Rim region of Grand Canyon National Park, Arizona, USA. 
+Vegetatio 109, 161-174. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6
+
+ 
+CHAPTER TWO 
+ 
+LITERATURE REVIEW 
+ 
+ 
+Introduction 
+ 
+ 
+A century of fire suppression and livestock grazing in the Southwest has resulted in a 
+buildup of forest floor fuels and increased tree densities.  These conditions have led to 
+larger and more intense wildfires (Covington and Moore 1994, Swetnam et al. 1999).  
+Fire behavior modeling is now widely used to address priority areas for forest thinning 
+and fuels treatments. 
+ 
+This review addresses previous vegetation and fuels mapping projects using remotely 
+sensed data and the development of fire behavior modeling inputs.  I will also review fire 
+behavior simulation research and landscape metrics used to analyze fire behavior 
+simulation outputs.  Finally, issues related to fire management in wilderness areas will be 
+reviewed. 
+ 
+Vegetation Mapping Using Satellite Imagery 
+ 
+ 
+Satellite imagery, especially Landsat Multispectral Scanner (MSS),  Landsat Thematic 
+Mapper (TM) and Landsat Enhanced Thematic Mapper Plus (ETM+) data, has been 
+extensively used to map and monitor vegetation (Franklin 1986, Moore and Bauer 1990,  
+Fiorella and Ripple 1993, Congalton et al. 1993, Cohen et al. 1995, He et al. 1998, Keane 
+ 
+7
+
+et al. 2000).   Sensors with greater spatial resolution than that offered by MSS, TM or 
+ETM+ have also been used in vegetation studies (Golden 1991, Henry and Hope 1998, 
+Giakoumakis et al. 2002, Lennartz and Congalton 2004). The French SPOT satellites, 
+with the High-Resolution Visible (HRV) sensor, have a panchromatic band with 10 m 
+spatial resolution and multispectral bands with 20 m spatial resolution.  Golden (1991) 
+compared vegetation classification results from the TM and HRV sensors for a ponderosa 
+pine and pinyon-juniper dominated area in northern Arizona and found that the TM 
+derived classification was more accurate than the SPOT derived classification.  He 
+concluded that the greater spectral resolution was the key factor in the increased 
+classification accuracy.  Lennartz and Congalton (2004) used 4 m IKONOS imagery to 
+classify and map forest types in the northeastern United States.  They found that while the 
+increased spatial resolution provided a greater amount of informational detail, the in-class 
+variability was also increased.  The increased variability, along with an insufficient 
+number of accuracy assessment reference sites, led to poorer than expected classification 
+accuracy. 
+ 
+Forest Fuels Mapping 
+ 
+There have been studies that have investigated the correlation of fuel loadings with forest 
+stand variables but they have had mixed success.  Ffolliott et al. (1968, 1976) attempted 
+to predict forest floor fuels in the northern Rocky Mountains using stand age, crown 
+closure as predicted by basal area, and potential insolation.  They concluded that basal 
+area was the only variable that significantly predicted forest floor fuel loadings.  Sackett 
+ 
+8
+
+(1979) looked at estimating dead fuel loadings in ponderosa pine and mixed conifer 
+forest types using basal area and other stand variables but concluded that there were no 
+reliable statistical relationships.  Sackett attributed his findings to the wide range of fuel 
+loading that can be expected to exist within and between stands of both ponderosa pine 
+and mixed conifer.  Harrington (1986) found a statistical relationship between forest floor 
+depth and fuel loading on four ponderosa pine sites in southern Arizona.  However, the 
+variability between sites, due to climate, soils, stand disturbances, stand characteristics, 
+biomass production rates, and needle deposition rates, does not allow for a single 
+regression model to be used across all ponderosa pine stands.  Fulé (1990) developed 
+forest floor depth and bulk density prediction models for ponderosa pine dominated 
+forests on the North Rim of Grand Canyon National Park.  The models were compared to 
+models developed by Ffolliott (1968, 1976), Harrington (1986), and Eakle and Wagle 
+(1979) and were found to predict within the mid-range of values of these studies.  The 
+high variability of the data resulted in no predictive models for litter and all size classes 
+of woody fuels. 
+ 
+Studies have also been conducted to investigate relationships between site variables and 
+fuel loadings as well as between the different fuel size classes.  No significant 
+relationship was found between site variables (aspect, elevation, slope) and fuel loadings 
+by Brown and See (1981) in a study conducted in the northern Rocky Mountains.  They 
+reported that fuel size class loadings could not be predicted with loadings from another 
+size class.  Brown and Bevins (1986) also found no association between the various fuel 
+ 
+9
+
+size classes.  Both studies concluded that high variation in fuels between and within 
+stands made predicting fuel loadings difficult. 
+ 
+The mapping of fuels has been the focus of numerous research projects e.g., Burgan et al. 
+1998, Bertolette and Spotsky 1999, Keane et al. 2000, Giakoumakis et al. 2002, Riano et 
+al. 2002, Miller et al. 2003, and van Wagtendonk and Root 2003.  These projects have 
+used various forms of remotely sensed data ranging from USGS Digital Orthophoto 
+Quarter Quads (DOQQs) with 1 m spatial resolution (Bertolette and Spotsky 1999) to 
+imaging spectrometer data with 20 m spatial resolution (Roberts et al. 1999) to Advanced 
+Very High Resolution Radiometer (AVHRR) data with 1 km spatial resolution (Burgan et 
+al. 1998).  Landsat TM and ETM+ data have been extensively used for wildland fuels 
+mapping (Keane et al. 2000, Giakoumakis et al. 2002, Riano et al. 2002, Miller et al. 
+2003, van Wagtendonk and Root 2003) because of the high availability and temporal 
+resolution of the data.  Falkowski et al. (2005) investigated the utility of ASTER satellite 
+data for modeling fuel models. 
+ 
+Roberts et al. (1999) used Airborne Visible/Infrared Imaging Spectrometer (AVIRIS) 
+data to map vegetation species of a chaparral dominated area in southern California.  The 
+fuels layer was derived by “cross-walking” from the species map.  AVIRIS data contains 
+228 spectrally unique bands.  The high degree of spectral resolution allowed them to map 
+vegetation, both overstory trees and shrubs, green live biomass, the ratio of live to dead 
+canopies, and live fuel moisture.  Hyperspectral data such as AVRIS requires that the 
+spectral properties of the mapped vegetation species are known.  Spectral libraries that 
+ 
+10
+
+can be used to identify the band(s) sensitive to the features of interest exist for some 
+vegetation species but not for all.  In these cases, a handheld radiometer would be needed 
+to determine the reflectance of the vegetation of interest.  For this AVIRIS study, over 
+6,000 field spectra were collected.  The authors discussed accuracy assessment 
+challenges associated with hyperspectral data but did not provide any accuracy numbers. 
+Bertolette and Spotsky (1999) developed fire model inputs for a portion of the North Rim 
+of the Grand Canyon, Grand Canyon National Park, Arizona, from USGS Digital 
+Orthophoto Quarter Quadrangles.  Homogeneous areas were delineated based on image 
+tonal differences and vegetation density.  Over 400 vegetation polygons were delineated 
+and then field visited.  Data collected during the field visit were used to label each 
+polygon.  An accuracy assessment of the resulting vegetation map was not conducted but 
+it was compared to a 1968 vegetation classification (Warren et al. 1982).  Landsat 
+Multispectral Scanner, Thematic Mapper and Enhanced Thematic Mapper Plus data have 
+been extensively used for wildland fuels mapping  because of the high availability and 
+temporal resolution of the data.  Burgan and Shasby (1984) used Landsat Multispectral 
+Scanner and digital topographic data to develop a fuel model classification on a 400 
+square-mile area in western Montana.  Their fuel model coverage had a 1 acre minimum 
+mapping area and in conjunction with topographic and weather data, was intended to 
+model “broad-area” fire potential. 
+ 
+Keane et al. (2001) discussed four methods that have been used to map fuels.  They 
+termed the four methods as: (1) field reconnaissance, (2) direct remote sensing, (3) 
+indirect remote sensing and, (4) biophysical modeling.  Each method has its advantages 
+ 
+11
+
+and disadvantages.  The first method described is field reconnaissance.  In this method, 
+existing maps or aerial photographs are used to delineate fuel types while actually in the 
+field.  The major disadvantage to this method is the high cost of mapping large areas. 
+Verbyla (1995) described direct remote sensing as assigning fuel characteristics to an 
+image classification output. Direct remote sensing is the assignment of fuel 
+characteristics to the outputs of image classification or photo interpretation (Verbyla 
+1995).  This approach is an attempt to directly classify fuels rather than mapping 
+vegetation and assigning fuels labels based on forest type.  This is a simple approach that 
+minimizes possible errors because of the limited number of steps involved.  The main 
+disadvantage is that fuels are often not visible through the forest canopy.  The image 
+classifications will often be driven by vegetation characteristics rather than fuel 
+characteristics.   
+ 
+The indirect approach uses vegetation characteristics to assign fuel types.  Fuel 
+characteristics are not directly mapped but rather are determined through forest types that 
+are more easily mapped using remotely sensed data.  However, forest type is not 
+necessarily the best surrogate for fuels (Miller et al. 2003) so the addition of topographic 
+layers and/or multi-date data sets are sometimes used in an effort to improve 
+classification accuracy.   
+ 
+The use of multi-temporal datasets has been investigated in vegetation and fuels mapping 
+studies.  These studies combined two or more dates of Landsat TM imagery into one 
+dataset.  Riano et al. (2002) used a May and July combination to develop fuel type maps 
+ 
+12
+
+for an area in central Spain.  The addition of a texture band, Landsat band 6 (thermal), 
+and topographic variables, were also investigated to determine how they affected 
+classification accuracy.  The accuracy of their fuel type map increased from 57.8% to 
+67.3% when using the multi-temporal dataset while the greatest accuracy (82.8%) was 
+achieved using both dates of imagery, the texture and thermal band, and the topographic 
+variables. 
+ 
+A hybrid unsupervised/supervised classification approach was used by Miller et al. 
+(2003) to classify a pair of Landsat TM images to map fuels within vegetation type 
+structural stage classes.  The overall classification accuracy was 54%.   An overall 
+classification accuracy of 84% was achieved for a map with fuel classes within 
+vegetation types collapsed into single classes. 
+ 
+The applicability of vegetation indices has also been investigated.  Van Wagtendonk and 
+Root (2003) used normalized difference vegetation index (NDVI) values from a sequence 
+of six Landsat TM scenes, acquired from May through November, to map fuel models of 
+Yosemite National Park in California.  Fuel models are representations of fuel loadings 
+and, in conjunction with topographic and weather data, can be used to estimate fire 
+behavior.  They hypothesized that seasonal changes in plant phenology would allow them 
+to distinguish fuel models.  They concluded that a temporal sequence of NDVI values 
+proved adequate to determine fuel model types.  The overall classification accuracy was 
+54.3%.  They found that for both short-needled and long-needled conifers, the NDVI 
+ 
+13
+
+values were greatest in June and July.  Short needled conifers with a heavy fuel 
+component exhibited highest NDVI values in September.   
+ 
+The final approach discussed by Keane et al. (2001) uses environmental gradients and 
+biophysical modeling to map fuels.  This method can be used to describe environmental 
+variables that can be used to predict fuels.  This method requires an extensive amount of 
+field data, statistical analysis, and extensive modeling.  Keane et al. (1998, 2000) used a 
+biophysical modeling approach for mapping fuels in the northern Rocky Mountains and 
+on the Gila National Forest located in southwest New Mexico.  This approach analyzed 
+variables that influence vegetation and fuels characteristics.  These variables included 
+slope, aspect, elevation, climate, and site disturbance.   The above projects produced what 
+Keane et al. (1998, 2000) described as a “vegetation triplet” made up of classifications of 
+biophysical setting, species composition, and vertical stand structure.  Fuels categories 
+were then assigned to various combinations of the vegetation triplet.  This approach 
+required an extensive amount of field data, complicated modeling, and intensive 
+statistical analysis (Keane et al. 2001).  Falkowsik et al. (2005) used the vegetation triplet 
+approach to model crown fuels and fuel models for an area in northern Idaho. 
+ 
+Accuracy Assessment 
+ 
+Accuracy assessment is the comparison of a map resulting from a satellite image 
+classification, for example, to geographical data that are assumed to be true, in order to 
+determine the accuracy of the classification process.  Accuracy assessment indicates the 
+effectiveness of the methods used to produce the map and also determines the usefulness 
+ 
+14
+
+of the map as a tool for land management decisions and studies (Congalton and Green 
+1999). 
+ 
+The most common method used to represent the accuracy of a satellite classification is an 
+error matrix (Congalton et al. 1983).  An error matrix is a square array of numbers which 
+express the number of pixels assigned to a particular land cover class relative to the 
+actual land cover as identified in the field or from aerial photographs.  Generally, the 
+columns represent the reference data and the rows represent the map data (Story and 
+Congalton 1986).   An error matrix can also be described as a way to compare the map 
+labels of a certain area with reference data for the same area.  An error matrix is an 
+effective way to represent map accuracy because individual class accuracies as well as 
+users and producers map accuracy is shown (Verbyla 1995).  User’s accuracy 
+(commission errors) describes how often the map label corresponds with the actual forest 
+type on the ground.  Producer’s accuracy (omission errors) describes how often the actual 
+forest type on the ground is labeled as such on the map (Congalton and Green 1999).   
+Story and Congalton (1986) described user’s accuracy as being calculated by dividing the 
+number of correctly classified samples of a particular class by the total number of 
+samples that were classified in that same class.  They described producer’s accuracy as 
+being calculated by dividing the number of correctly classified samples of a particular 
+class by the total number of reference samples of the same class.  The result, in 
+percentage form, indicates the probability that a reference sample will be classified 
+correctly. 
+ 
+ 
+15
+
+Much has been written about selecting the appropriate number of samples to be able to 
+perform a statistically valid analysis (Congalton and Green 1999, Curran and Williamson 
+1986, Tortora 1978, van Genderen et al. 1977).  Congalton and Green (1999) compared 
+the use of equations based on the binomial distribution versus the multinomial 
+distribution.  There tends to be little agreement on the “correct” method to use.  Binomial 
+equations, as presented by van Genderan et al. (1977), provided a statistically sound 
+method of determining the required sample size to compute overall map accuracy or 
+overall individual class accuracy.  To achieve an overall accuracy of 90%, the USGS 
+standard for map accuracy, approximately 30 samples per class are necessary.  Wilkie 
+and Finn (1996) presented a different method that determines that 144 samples are 
+required for an accuracy of 90%.   
+ 
+Congalton and Green (1999) suggested that the binomial method is not appropriate if an 
+error matrix will be used. They stated that for an error matrix with n classes, for a given 
+class there is one correct answer and (n-1) incorrect answers and that a sufficient number 
+of samples must be acquired to be able to represent the confusion.  They further 
+suggested that equations based on the multinomial distribution are appropriate to use 
+when an error matrix will be used. The multinomial equation presented by Tortora (1978) 
+and Congalton and Green (1999) calculated that roughly 80 samples per class are 
+required.   
+ 
+There are five commonly used sampling schemes for collecting reference data: simple 
+random sampling, stratified random sampling, systematic sampling, cluster sampling, and 
+ 
+16
+
+stratified systematic unaligned sampling (Congalton and Green 1999).  Stratified random 
+sampling has been accepted as being the most appropriate in studies using remotely 
+sensed data (van Genderen et al. 1977).  The main advantage of this sampling method is 
+that all the land forest types or classes, regardless of the class area, will be sampled.   
+Fire Behavior and Landscape Fire Succession Models 
+ 
+Fire behavior analysis has been an important component of forest research for many 
+years.  Originally, fire behavior was studied to provide land managers with a basis for 
+determining fire suppression crew size and fire suppression strategies (Fons 1946).  More 
+recently, fire behavior analysis has been done to test the effectiveness of fuels treatments 
+(Stratton 2004, Scott and Reinhardt 2001). 
+ 
+ Common fire behavior models include FARSITE (Finney 1998), FlamMap (Finney in 
+preparation), and Nexus (Scott and Reinhardt 2001).  FARSITE is a deterministic model 
+(Stratton 2004) that simulates the spatial and temporal spread of fire.  Inputs include 
+aspect, elevation, slope, fuels, and weather.  Outputs can be in tabular, vector, and raster 
+formats.  FlamMap requires many of the same inputs as FARSITE but is a hazard model, 
+not modeling the spatial and temporal spread of fire.  Each pixel is treated independently 
+from those around it.  Fire behavior (surface fire, passive crown fire, or active crown fire) 
+is determined for each pixel.  Outputs are in tabular format.  Nexus is a deterministic 
+model of surface fire behavior and is also useful for assessing fuel hazards.  Crown fire 
+transition and crown fire spread is also modeled (Scott and Reinhardt 2001). 
+ 
+ 
+17
+
+Fulé et al. (2001) used the Nexus model to analyze the effectiveness in three thinning 
+treatments in a ponderosa pine ecosystem in northern Arizona.  All three treatments were 
+successful in reducing crown fire activity.  In a study conducted in a pinyon pine and 
+juniper ecosystem southern Utah, Stratton (2004) reported reductions in crown fire 
+activity, fire intensity and flame length, and fire size when modeling for fuel treatment 
+effects using FARSITE and FlamMap.  The latter study identified the underprediction of 
+crown fire by FlamMap. 
+ 
+Fuels treatments are an important management tool but may not be enough to prevent 
+active crown fire during periods of extreme fire weather.  Bessie and Johnson (1995) 
+used Rothermel’s (1972) surface fire intensity model and Van Wagner’s (1977) crown 
+fire initiation model to predict surface fire intensity and crown fire initiation in a 
+Canadian subalpine forest.  They found that at extreme weather conditions, the 
+importance of fuel loading decreases as crown fire initiation thresholds are met. 
+ 
+Landscape fire effects and succession models are used by land management agencies to 
+provide additional information to guide management activities.  Models are useful for 
+identifying areas where research is needed (Keane et al. 1990).  First-order fire effects 
+(Reinhardt et al. 2001) such as vegetation mortality, the amount of fuels consumed, and 
+smoke production can be effectively modeled.  The modeling of second-order fire effects 
+such as erosion and vegetation succession gives land managers the ability to determine 
+where ecosystem rehabilitation activities should be conducted. 
+ 
+18
+
+ 
+ 
+Landscape Metrics 
+ 
+Landscape metrics provide ecologists with ways to quantify landscape pattern and the 
+influence it has on ecological processes (Turner et al. 2001).  The various landscape 
+metrics give researchers ways to analyze landscape structure and function, both of which 
+are major areas of analysis in landscape ecology (Toth 1988).  A patch is an important 
+concept in landscape ecology that can be defined as “an area differing in appearance from 
+its surroundings” (Forman and Godron 1986).  Patch variables such as size, shape, and 
+number are used to define landscape structure (Forman and Godron 1986).   
+ 
+Patches are heavily influenced by the grain size and extent of the data, and by the 
+classification scheme used to derive the patch (Turner et al. 2001).  Studies have been 
+conducted to investigate the effects of changing scale on landscape parameters (Turner et 
+al. 1989, Benson and MacKenzie 1995, Wu 2004).  These studies concluded that most 
+landscape parameters were affected by changes in grain size. 
+Fire Management in Wilderness Areas 
+ 
+The question of what role fire should currently play in wilderness areas is complicated by 
+the Federal Wilderness designation of much of the area.  The Wilderness Act of 1964 
+states that wilderness should have minimal impacts of human activities but it also states 
+that it be “managed so as to preserve its natural conditions”.  Ecological and social 
+ 
+19
+
+concerns must be considered before re-introducing fire to any wilderness area.  Issues 
+related to smoke and the potential for fire to cross prescribed fire boundaries are risks that 
+land managers must consider (van Wagtendonk 1995).  Prescribed natural fires have been 
+used in other wilderness areas (Parsons 2000) and because of access issues may be the 
+most appropriate method of fire reintroduction (Miller 2003).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20
+
+Literature Cited 
+ 
+ 
+Benson BJ, MacKenzie MD (1995) Effects of sensor spatial resolution on landscape 
+structure parameters. Landscape Ecology 10, 113-120. 
+Bertolette D, Spotskey D (1999) Remotely sensed burn severity mapping. In: Harmon D. 
+(ed.), Crossing Boundaries in Park Management. Proceedings of the 11th 
+Conference on Research and Resource Management in Parks and on Public 
+Lands. The George Wright Society, Hancock, Michigan, USA, pp. 45–51.   
+Bessie WC, Johnson EA (1995) The relative importance of fuels and weather on fire 
+behavior in subalpine forests. Ecology 76, 747-762. 
+Brown JK, See TE (1981) Downed and Dead Woody Fuel and Biomass in the Northern 
+Rocky Mountains. USDA Forest Service Intermountain Research Station General 
+Technical  Report INT-117. 48 pp. 
+Brown JK, Bevins CD (1986)  Surface fuel loadings and predicted fire behavior for 
+vegetation types in the northern Rocky Mountains. USDA Forest Service 
+Intermountain Research Station. Research note INT-358. Ogden, UT., 9 pp. 
+Burgan RE, Shasby MB (1984)  Mapping broad area fire potential from digital fuel, 
+terrain, and weather data. Journal of Forestry 82, 228-231. 
+Burgan RE, Klaver RW, Klaver JM (1998)  Fuel models and fire potential from satellite 
+and surface observation. International Journal of Wildland Fire 8, 159-170. 
+Cohen WB, Spies TA,  Fiorella, M (1995) Estimating the age and structure of forests in a 
+mult-ownership landscape of western Oregon. U.S.A.  International Journal of 
+Remote Sensing 16, 721-746. 
+Congalton RG, Oderwald RG, Mead RA (1983) Assessing Landsat classification 
+accuracy using discrete multivariate analysis statistical techniques. 
+Photogrammetric Engineering and Remote Sensing 49, 1671-1678. 
+ 
+Congalton RG, Green K,Teply J (1993) Mapping old growth forests on National Forest 
+and Park lands in the Pacific Northwest from remotely sensed data. 
+Photogrammetric Engineering and Remote Sensing 59, 529-535. 
+ 
+Congalton RG, Green K (1999)  Assessing the accuracy of remotely sensed data:  
+principles and practices.  Lewis Publishers, Boca Raton, London, New York, 
+Washington D.C. 137 pp. 
+Covington WW, Moore MM (1994) Southwestern ponderosa pine forest structure: 
+changes since Euro-American settlement. Journal of Forestry 1, 39-47.  
+ 
+ 
+21
+
+Curran PJ, Williamson HD (1986) Sample size for ground and remotely sensed data. 
+Remote Sensing of Environment 20, 31-41. 
+Eakle TW, Wagle RF (1979) Method of estimating ground fuels under 2 inches in 
+diameter in southwestern ponderosa pine stands. Pacific Northwest Forest and 
+Range Experiment Station. USDA Forest Service Research Note PNW-333. 
+Portland OR., 8 pp. 
+Falkowski MJ, Gessler PE, Morgan P, Hudak AT, Smith AMS (2005) Characterizing and 
+mapping forest fuels using ASTER imagery and gradient modeling. Forest 
+Ecology and Management 217, 129-146. 
+Ffolliott PF, Clary WP, Davis JR (1968)  Some characteristics of the forest floor under 
+ponderosa pine in Arizona. Rocky Mountain Forest and Range Experiment 
+Station. USDA Forest Service Research Note RM-127. Ft. Collins, CO., 4 pp. 
+Ffolliott PF, Clary WP, Baker MB (1976)  Characteristics of the forest floor on sandstone 
+and alluvial soils  in Arizona ponderosa pine type. Rocky Mountain Forest and 
+Range Experiment Station. USDA Forest Service Research Note RM-308. Ft. 
+Collins, CO., 4 pp. 
+Finney MA (1998) FARSITE: Fire Area Simulator-Model Development and Evaluation.  
+Rocky Mountain Research Station. USDA Forest Service Research Paper RMRS-
+RP-4. Ogden, UT., 47 pp. 
+Finney MA  In preparation. FlamMap.  Missoula, MT: USDA Forest Service, Rocky 
+Mountain Research Station, Fire Sciences Lab. 
+Fiorella M, Ripple WJ (1993) Determining successional stage of temperate coniferous 
+forests with Landsat satellite data. Photogrammetric Engineering and Remote 
+Sensing 2, 239-246.  
+Fons WL (1946) Analysis of fire spread in light forest fuels.  Journal of Agricultural 
+Research 3, 93-212. 
+Forman RTT, Godron M (1986) Landscape ecology.  John Wiley and Sons, New York. 
+619 pp. 
+Franklin J (1986) Thematic mapper analysis of coniferous forest structure and 
+composition. International Journal of Remote Sensing 7, 1287-1301. 
+Fulé PZ (1990) Predicting forest floor fuel loading under ponderosa pine at Grand 
+Canyon National Park, Arizona. Flagstaff AZ. Northern Arizona University. 95 
+pp. 
+Fulé PZ,  McHugh C, Heinlein TA, Covington WW (2001) Potential fire behavior is 
+reduced following forest restoration treatments.  In: Proceedings of the RMRS-P-
+22.  USDA Forest Service, Ogden, UT, pp. 28-35. 
+ 
+22
+
+Giakoumakis MN, Gitas IZ, San-Miguel J (2002) Object-oriented classification modeling 
+for fuel type mapping in the Mediterranean, using Landsat TM and IKONOS 
+imagery- preliminary results. In Viegas, editor. Forest Fire Research and 
+Wildland Fire Safety. Mill Press, Rotterdam. pp. 1-13. 
+Golden M (1991) Effects of satellite spatial and spectral parameters on vegetation 
+classification of northern Arizona. Flagstaff AZ. Northern Arizona University. 
+175 pp. 
+Harrington MG (1986) Comparison of forest floor depth to loading relationships from 
+several Arizona ponderosa pine stands. Rocky Mountain Forest and Range 
+Experiment Station.  USDA Forest Service Rocky Mountain Forest and Range 
+Experiment Station Research Note RM-463. Ft. Collins, CO., 5 pp. 
+He HS, Mladenoff DJ, Radeloff VC, Crow TR (1998) Integration of GIS data and 
+classified satellite imagery for regional forest assessment. Ecological Applications 
+8, 1072-1083. 
+Henry MC, Hope AS (1998) Monitoring post-burn recovery of chaparral vegetation in 
+southern California using multi-temporal data. International Journal of Remote 
+Sensing 19, 3097-3107. 
+Keane RE, Arno SF, Brown JK (1990) Simulating cumulative fire-effects in ponderosa 
+pine/Douglas-fir forests. Ecology 1, 189-203. 
+Keane RE, Garner JL, Schmidt KM, Long DG, Menakis JP, Finney MA (1998) 
+Development of the input data layers for the FARSITE fire growth model for the 
+Selway-Bitterroot Wilderness Complex, USA. USDA Forest Service General 
+Technical Report RMRS-GTR-3. Ogden, UT., 121 pp. 
+ 
+Keane RE, Mincemoyer SE, Schmidt KA, Long DG, Garner JL (2000) Mapping 
+vegetation and fuels for fire management on the Gila National Forest Complex, 
+New Mexico.  USDA General Technical Report RMRS-GTR-46-CD. 
+ 
+Keane RE, Burgan R, van Wagtendonk  J (2001) Mapping wildland fuels for fire 
+management across multiple scales:  Integrating remote sensing, GIS, and 
+biophysical modeling. International Journal of Wildland Fire 10, 301-319. 
+Lennartz SP, Congalton RG (2004) Classifying and mapping forest cover types using 
+IKONOS imagery in the northeastern United States. ASPRS Annual Conference 
+Proceedings, Denver, Colorado, May 2004. 
+Miller JD, Danzer SR, Watts JM, Stone S, Yool SR (2003) Cluster analysis of structural 
+stage classes to map wildland fuels in a Madrean ecosystem.  Journal of 
+Environmental Management 68, 239-252. 
+ 
+ 
+23
+
+Miller JD, Nyhan JW, Yool SR (2003) Modeling potential erosion due to the Cerro 
+Grande Fire with a GIS-based implementation of the Revised Universal Soil Loss 
+Equation. International Journal of Wildland Fire 12, 85-100. 
+Moore MM,  Bauer ME (1990) Classification of forest vegetation in north-central 
+Minnesota using Landsat Multispectral Scanner and Thematic Mapper data. 
+Forest Science 36, 330-342. 
+Parsons DJ (2000) The Challenge of Restoring Natural Fire to Wilderness. In: Cole, 
+David N, McCool SF, Borrie WT, O'Loughlin J comps. 2000. Wilderness science 
+in a time of change conference - Volume 5: Wilderness ecosystems, threats, and 
+management; 2000 May 23 - 27; Missoula, MT. Proceedings RMRS-P-15-VOL-
+5. Ogden, UT: U.S. Department of Agriculture, Forest Service, Rocky Mountain 
+Research Station. pp. 276-282. 
+Reinhardt ED, Keane RE, Brown JK (2001) Modeling fire effects. International Journal 
+of Wildland Fire 10, 373-380. 
+Riano D, Chuvieco E, Salas J, Palacios-Orueta A, Bastarrika A (2002) Generation of fuel 
+type maps from Landsat TM images and ancillary data in Mediterranean 
+ecosystems. Canadian Journal of Forest Research 32, 1301-1315. 
+Roberts DA, Dennison PE, Morais M, Gardner ME, Regelbrugge J, Ustin SL (1999)  
+Mapping Wildfire Fuels using Imaging Spectrometry along the Wildland Urban 
+Interface, Proc. of the Joint Fire Science Conference and Workshop, June 17-19, 
+1999, Boise, Idaho, Vol. 1, 212-223. 
+Rothermel RC (1972) A mathematical model for predicting fire spread in wildland fuels.  
+USDA Forest Service Research Paper INT-115, Intermountain Forest and Range 
+Experiment Station, Ogden, UT., 40 pp. 
+Sackett SS (1979) Natural fuel loading in ponderosa pine and mixed conifer forests of the 
+Southwest. Rocky Mountain Forest and Range Experiment Station. USDA Forest 
+Service Research Paper RM-213. Ft. Collins, CO., 10 pp. 
+Scott JH, Reinhardt ED (2001) Assessing crown potential by linking models of surface 
+and crown fire behavior.  Rocky Mountain Forest and Range Experiment Station. 
+USDA Forest Service Research Paper RMRS-RP-29. Ft. Collins, CO., 59 pp. 
+Story M, Congalton RG (1986) Accuracy assessment: A user's perspective. 
+Photogrammetric Engineering and Remote Sensing 52, 397-399. 
+Stratton RD (2004) Assessing the effectiveness of landscape fuel treatments on fire 
+growth and behavior. Journal of Forestry 32-40. 
+Swetnam TW, Allen CD, Betancourt JL (1999) Applied historical ecology: using the past 
+to manage for the future. Ecological Applications 4, 1189-1206. 
+ 
+24
+
+Tortora RD (1978)  A note on sample size estimation for multinomial populations. The 
+American Statistician 32, 100-102. 
+Toth RE (1988) Theory and language in landscape analysis, planning, and evaluation.  
+Landscape Ecology 4, 193-201. 
+Turner MG, O'Neill RV, Gardner RH, Milne BT (1989) Effects of changing spatial scale 
+on the analysis of landscape patterns. Landscape Ecology 3, 153-162. 
+Turner MG, Gardner RH, O’Neill RV (2001) Landscape ecology in theory and practice, 
+pattern and process.  Springer-Verlag. New York. 401 pp. 
+Van Genderen JL (1977) Testing land-use map accuracy. Photogrammetric Engineering 
+and Remote Sensing 9, 1135-1137. 
+Van Wagner CE (1977) Conditions for the start and spread of crown fire.  Canadian 
+Journal of Forest Research 7, 23-34. 
+Van Wagtendonk JW (1995) Large fires in wilderness areas. In Brown JK, Mutch RW, 
+Spoon CW, Wakimoto RH, editors. Proceedings: symposium on fire in wilderness 
+and park management. USDA Forest Service General Technical Report INT-GTR 
+320. 113-116.  
+Van Wagtendonk JW, Root RR (2003) The use of multi-temporal Landsat normalized 
+difference vegetation index (NDVI) data for mapping fuel models in Yosemite 
+National Park, USA. International Journal of Remote Sensing 24, 1639-1651. 
+Verbyla DL (1995) Satellite remotes sensing of natural resources. Lewis Publishers, CRC 
+Press. Boca Raton. 198 pp. 
+Warren PL, Reighardt KL, Mouat DA, Brown BT, Johnson RR (1982) Vegetation of 
+Grand Canyon National Park. Technical Report No. 9. National Park 
+Service/University of Arizona, Contracts No. CX8210-7-0028 and CX8000-9-
+0033, Contribution No. 017/06. On file at Grand Canyon National Park, AZ. 140 
+pp. 
+Wilkie DS, Finn JT (1996) Remote Sensing of Natural Resources. Columbia University 
+Press, New York, New York. 295 pp. 
+Wu J (2004) Effects of changing scale on landscape pattern analysis:  scaling relations.  
+Landscape Ecology 19, 125-138. 
+ 
+ 
+ 
+ 
+ 
+25
+
+CHAPTER THREE 
+ 
+FUELS MAPPING ON THE SAN FRANCISCO PEAKS, ARIZONA, USING 
+HIGH RESOLUTION SATELLITE IMAGERY 
+ 
+ 
+Abstract 
+ 
+Multi-date Advanced Spaceborne Thermal Emission and Reflection Radiometer 
+(ASTER) satellite imagery was classified to develop data layers for a portion of the San 
+Francisco Peaks in northern Arizona.  The data layers were developed to be used as 
+inputs to fire simulation models.  The following data layers were produced: overstory tree 
+species, canopy cover, fuel model, 1h, 10h, 100h timelag fuels, coarse woody debris, and 
+forest floor (duff and litter) fuels.  Overall accuracy of the species layers ranged from 
+41% for the 2002-2003 composite image to 47% for the 2003 image.  Accuracy for the 
+canopy cover layers ranged from 33% for the 2003 image to 45% for the 2002-2003 
+composite image.  The 1h, 10h, and 100h fuels layers developed from the 2003 image 
+had the highest overall accuracies.  The coarse woody debris layers (1000h fuels) 
+developed from the 2003 image were the most accurate across all years.  Average duff 
+and average litter layers created from the 2003 image and the 2002-2003 composite 
+image had the greatest accuracies.  Pair-wise comparisons of all mapped layers showed 
+that only four layers were statistically different.  Kappa analysis showed that twenty-four 
+of the thirty-nine classified layers were statistically better than chance.   
+ 
+ 
+26
+
+Keywords: Advanced Spaceborne Thermal Emission and Reflection Radiometer 
+(ASTER); fire; fire behavior modeling; remote sensing; accuracy assessment   
+ 
+Introduction 
+ 
+ 
+The widespread use of fire behavior simulation programs among land managers, such as 
+FARSITE (Finney 1998), requires the development of detailed and accurate data layers.  
+The most efficient way to create the required inputs over large areas is through the 
+classification of remotely sensed data such as aerial photos or satellite imagery.  Fuel 
+mapping projects use various forms of remotely sensed data ranging from Advanced 
+Very High Resolution Radiometer (AVHRR) data with 1 km spatial resolution (Burgan et 
+al. 1998), to imaging spectrometer data with 20 m spatial resolution (Roberts et al. 1999), 
+to USGS Digital Orthophoto Quarter Quads (DOQQs) with 1 m spatial resolution 
+(Bertolette and Spotsky 1999).   
+ 
+Landsat Multispectral Scanner (MSS), Thematic Mapper (TM) and Enhanced Thematic 
+Mapper Plus (ETM+) are used extensively for wildland fuels and fuel model mapping 
+because of the high availability and temporal resolution of the data.  In an early study, 
+Burgan and Shasby (1984) used MSS and digital topographic data to map fuel models on 
+a 1000 km2 area in western Montana.  The Burgan and Shasby (1984) fuel model 
+coverage had a 0.4 ha minimum mapping area and was intended to model “broad-area” 
+fire potential.  Standard fuel models were described by Anderson (1982).  Variables used 
+to determine fuel models include loading, fuel bed depth, moisture of extinction, and the 
+ 
+27
+
+ratio of surface area to volume (Pyne et al. 1996).  Fuel models are representations of fuel 
+loadings and, in conjunction with topographic and weather data, can be used to estimate 
+fire behavior.  They are described in terms of both expected fire behavior and vegetation 
+(Anderson 1982).  
+ 
+The use of multi-temporal datasets and the addition of texture bands, computed from one 
+of the visible bands, have been investigated in vegetation and fuels mapping studies.   
+Riano et al. (2002) used a May and July combination to develop fuel type maps for an 
+area in central Spain.  The addition of a texture band, TM band 6 (thermal), and 
+topographic variables, were also investigated to determine how they affected 
+classification accuracy.  Image texture is useful because spatial pattern, or texture, is 
+often a dominant characteristic of vegetation stands (Woodcock et al. 1994).  Coburn and 
+Roberts (2004) stated that incorporating a texture band is important when using higher 
+spatial resolution imagery.  Ryherd and Woodcock (1996) found that adding a texture 
+band can improve image classification accuracy in areas with local variance.  The 
+accuracy of the Riano et al. (2002) fuel type map increased with the multi-temporal 
+dataset while the greatest accuracy was achieved using both dates of imagery, the texture 
+and thermal band, and the topographic variables.  Miller et al. (2003) found that 
+topographic variables did not significantly differentiate between fuel classes in a southern 
+Arizona oak/pine and mixed conifer forest. 
+ 
+The NDVI has proven effective for measuring vegetation cover (Jensen 1996).  It is 
+calculated as the difference in reflectance between the near infrared and visible red bands 
+ 
+28
+
+divided by the sum of the two bands.  The NDVI is sensitive to green biomass cover 
+because actively photosynthesizing vegetation has greater reflection in the near infrared 
+band.  Early or late season vegetation has greater reflection in the red band (Hardy and 
+Burgan 1999).  Van Wagtendonk and Root (2003) used normalized difference vegetation 
+index (NDVI) values from a sequence of six TM scenes, acquired from May through 
+November, to map fuel models of Yosemite National Park in California.  They 
+hypothesized that seasonal changes in plant phenology would allow them to distinguish 
+fuel models.  They concluded that a temporal sequence of NDVI values proved adequate 
+to determine fuel model types.  
+ 
+Various approaches to fuels mapping were reviewed by Keane et al. (2001).  They 
+concluded that none of the approaches was best.  The direct mapping approach is an 
+attempt to directly classify fuels rather than mapping vegetation and assigning fuels 
+labels based on vegetation type (Keane et al. 2001).  Verbyla (1995) defined the direct 
+mapping approach as assigning fuel characteristics to an image classification output.  
+Direct mapping does not imply that features such as forest floor fuels are being detected 
+by the satellite sensor.  This method is relatively simple but it is difficult to distinguish 
+canopy fuels from forest floor fuels (Keane et al. 2001).  With the indirect mapping 
+approach, fuel characteristics are not directly mapped but rather are determined through 
+vegetation types that are more easily mapped using remotely sensed data (Keane et al. 
+2001).  However, vegetation type is not necessarily the best surrogate for fuels (Miller et 
+al. 2003), fuels are not always correlated with vegetation (Keane et al. 2001) and fuels are 
+highly variable across a landscape (Brown and See 1981).  These issues have been 
+addressed, in certain studies, with the addition of topographic layers and/or multi-date 
+ 
+29
+
+data sets of higher resolution (such as ASTER) in an effort to improve classification 
+accuracy.  Falkowski et al. (2005) developed fuel model, crown closure, and crown bulk 
+density layers using the biophysical modeling approach described by Keane et al. (2001).  
+An objective of the study was to test the utility of ASTER imagery for creating fuels 
+layers.  Only the bands (green, red, near-infrared) with 15 m spatial resolution were used. 
+ 
+My objectives in this study were:  1) to directly assign species, canopy cover, and fuel 
+class labels to a landscape through satellite image classification, 2) to evaluate the 
+accuracy of the ASTER multi-temporal dataset, with finer spatial resolution than Landsat 
+TM and ETM+ data, in developing overstory vegetation and fuel layers (both woody and 
+forest floor), and 3) to create the required inputs (elevation, slope, aspect, fuel model and 
+canopy cover) as well as the optional layers of duff loading and coarse woody debris that 
+would allow me to model fire behavior.  
+Methods 
+ 
+Study Area 
+ 
+The 5,000 hectare area chosen for this study was located almost entirely within the 
+Kachina Peaks Wilderness Area on the south side of the San Francisco Peaks (Figure 
+3.1).  The steep elevational gradient of the site provided a unique opportunity to work 
+within nearly all of the forest fuel conditions found in the Southwest within a small 
+geographic area.  Forest types included ponderosa pine, mixed conifer, spruce-fir, and 
+sub-alpine.  The ponderosa pine (Pinus ponderosa) type occurred at the lowest elevations 
+of the study area and was found up to elevations of 2,500 m.  The mixed conifer type, 
+ 
+30
+
+which included limber pine (Pinus flexilis), Douglas-fir (Pseudotsuga menziesii), 
+ponderosa pine, and aspen (Populus tremuloides), ranged from 2,500 m to 3,000 m.  The 
+spruce-fir type generally occurred between 3,000 m and 3,500 m and included 
+Engelmann spruce (Picea engelmannii), corkbark fir (Abies lasiocarpa  var. arizonica), 
+and bristlecone pine (Pinus aristata).  The subalpine forest type was found from 3,100 m 
+to 3,600 m.  Bristlecone pine was the dominant tree species in this zone.  Elevations 
+range from 2,440 m to 3,560 m.   
+ 
+Weather data from 1909 – 2001, collected at the Fort Valley weather station 
+(www.wrcc.dri.edu), located in the ponderosa pine zone five km southwest of the study 
+site, were summarized.  Mean January temperatures were 5.2º C maximum and -12.3ºC 
+minimum.  Mean July temperatures were 26.7º C and 7.1º C minimum.  Mean annual 
+precipitation was 56.9 cm.  Contemporary weather data are not available for the study 
+area in all zones; however, a series of weather stations was established in the study area 
+in 1916 (Pearson 1920a).  Weather stations were located in the following forest types:  
+ponderosa pine, Douglas-fir, limber pine, Engelmann spruce, and subalpine.  Pearson 
+(1920a) used data collected from these stations to determine climate factors that 
+influenced the distribution of forest types.  Data collected at these stations in 1917 and 
+1918 show annual average temperatures that range from 5.8º C in ponderosa pine, 5.4º C 
+in Douglas-fir, 3.1º C in Engelmann spruce, and -0.05º C in the subalpine type.  Annual 
+precipitation was 61.7 cm in the ponderosa pine type and 102.1 cm in the alpine type 
+(Pearson 1920a). 
+ 
+31
+
+ 
+Remotely Sensed Data 
+ 
+I chose ASTER imagery for this project because of its relatively high spatial resolution 
+and low cost.  ASTER has an extensive archive of available images, making it an 
+attractive option for projects that require a quick turnaround.  The TERRA satellite, 
+which houses the ASTER sensor, was launched in 1999 and is part of NASA’s Earth 
+Observing System (http://asterweb.jpl.nasa.gov/).  ASTER collects data in 14 spectral 
+bands ranging from the visible to the thermal infrared portion of the electromagnetic 
+spectrum.  The two visible bands (0.60µm-0.62µm and 0.63µm-0.69µm) and the near 
+infrared band (0.78µm-0.86µm) have a 15 m spatial resolution. The mid-infrared bands 
+have a 30 m resolution and the thermal bands have a 90 m spatial resolution.  Each 
+ASTER scene covers an area of 60 km x 60 km.  ASTER scenes (ID 
+SC:AST_L1B.003:2006460439 and ID SC:AST_L1B.003:2019598738)  from 2 April 
+2002 and 21 October 2003 were purchased from the USGS EROS Data Center, Sioux 
+Falls, South Dakota.   
+ 
+Ancillary data consisted of a digital elevation model (DEM) of the study area.  The DEM 
+was resampled, using the nearest neighbor method, from 10 m to 15 m to match the 
+spatial resolution of the ASTER data.  Slope and aspect layers were developed from the 
+DEM to assist with identifying errors in the classified layers. 
+ 
+32
+
+ 
+ 
+ 
+ 
+ 
+Image Preprocessing   
+ 
+ASTER bands 1 (green), 2 (red), and 3 (near-infrared) from each scene were imported 
+into ERDAS Imagine (Leica 2004).   In keeping with the goal of using higher resolution 
+imagery, only the bands with 15 m spatial resolution were used.  Each scene was 
+geometrically corrected prior to classification.  A hybrid approach using both an image-
+to-map rectification and an image-to-image registration (Jensen 1996) was used to rectify 
+each scene to the UTM Zone 12 projection and NAD 27 datum using USGS 7.5 minute 
+Digital Raster Graphic (DRG) files and the resampled DEM.  A second-order 
+transformation was used (Jensen 1996) due to the high degree of topographic relief 
+within the study area.  Root mean square errors were 7.5 m for the 2002 image and 7.3 m 
+for the 2003 image. The raw digital number (DN) values of the rectified images were 
+then converted to at-satellite reflectance using methods described in Markham and Barker 
+(1986) and Huang et al. (2002a).  Solar irradiance values used for the conversion were 
+taken from Thome et al. (2001).  The conversion to at-satellite reflectance largely reduces 
+the problems associated with atmospheric effects (Huang et al. 2002b).  Conventional 
+atmospheric correction methods can have undesirable effects that are not easily 
+noticeable (Cohen et al. 2001) and the lack of agreement on appropriate methods has 
+resulted in there being no universally applicable models (Riano et al. 2003).  An 
+unsupervised classification was then performed to identify non-forest and burned areas 
+within the imagery.  These areas were masked from the imagery to reduce the amount of 
+ 
+33
+
+spectral variation within the imagery.  Normalized difference vegetation index (NDVI) 
+layers were created from each date of imagery.   
+ 
+A texture band, using a 3x3 pixel window, was created from band 2 (red) (Ryherd and 
+Woodcock  1996).  The green, red, near infrared, NDVI, and texture bands from both the 
+2002 and 2003 ASTER datasets were combined into a single dataset.  All classifications 
+were run using this combined dataset. 
+ 
+ 
+Field Data 
+ 
+One hundred thirty-five permanent plots, based on the National Park Service’s Fire 
+Monitoring protocol (Reeberg 1995), were established during the 2000–2003 field 
+seasons (Figure 3.1).  Forest closures due to drought and wildfires, adverse weather 
+conditions, and the overall steepness of the terrain prevented completion of the plots in 
+one or two field seasons. 
+ 
+The plot centers were 300 m apart, in the north-south direction, and 300 m or 600 m in 
+the east-west direction (Figure 3.1).  Each 0.1 ha (20 x 50 m) plot was oriented with the 
+50 m sides uphill-downhill to maximize sampling of variability along the elevational 
+gradient.   All overstory trees were tagged on the uphill side and tree measurements 
+collected included species, diameter at breast height (dbh), canopy base height and total 
+height.  Pole trees (2.5-15 cm dbh) were measured on a 250 m2 subplot.  Seedling (<2.5 
+cm dbh) trees were tallied by species, condition, and height class on a 50 m2 subplot.  
+Tree canopy cover was measured by vertical projection every 30 cm (Ganey and Block 
+ 
+34
+
+1994) along the two 50 m plot edges.  Slope and aspect were recorded for all plots.  Plot 
+elevations were taken from a digital elevation model.  Stand structure and site 
+characteristics are shown in Table 3.1. 
+ 
+Woody debris was measured on four 15.2 m planar transects (Brown 1974) that 
+originated from each 10 m point from the centerline (long axis) of the plot.  Woody 
+debris was recorded by timelag classes (Anderson 1982).  Litter and duff depth 
+measurements were taken every 1.5 m along each transect.  Downed dead woody fuel 
+consists of dead twigs, branches, stems, and boles of trees and shrubs that had fallen and 
+lie on or near the ground (Brown and See 1981) and were classified into four diameter 
+size classes:  0-0.6 cm diameter (1h), 0.6-2.5 cm (10h), 2.6-7.5 cm (100h), and 7.6 cm 
+and greater (1000h) (Anderson 1982).  The largest size class is divided into solid and 
+rotten components because they differ in bulk density and exhibit different fire behavior.   
+ 
+Image Classification 
+ 
+All supervised classifications were run using training sites developed from the data on the 
+135 permanent plots.  Training sites are areas on the ground used to represent a particular 
+forest type or structural stage category (Lachowski et al. 1995).  The training sites were 
+digitized on the ASTER imagery to create a supervised training site signature file.  Each 
+training site polygon had at least 10 pixels including the pixel or pixels that corresponded 
+with each plot center.   
+ 
+ 
+35
+
+Three supervised classifications were conducted.  Classifications were run on the 2002 
+imagery bands, the 2003 imagery bands, and on the combined image data layers.  Visual 
+analysis of each classified output showed confusion between the different forest types.  
+For example, ponderosa pine and bristlecone pine pixels occurred well outside their 
+elevational limits.  There was also confusion between bristlecone pine and mixed conifer, 
+between ponderosa pine and aspen, and between bristlecone pine and aspen.  I developed 
+a model that incorporated the elevation, slope and aspect files, to assist in the 
+identification and correction of misclassed pixels based on the topographic limits of each 
+forest type.  The nonforest layer was mosaiced over each final layer.  This kept the 
+nonforest consistent throughout all layers and helped avoid the issue of incongruent 
+layers as discussed by Keane et al. (2000).  
+ 
+I assigned classification labels for each of the eleven fuel layers (Table 3.2), as well as 
+classification labels for the species and canopy cover layers, to each of the training sites.   
+Each fuel layer was recoded to three classes that were determined by dividing the range 
+of data into three equal intervals.  Fuel model layers for each image were developed 
+through an indirect mapping approach using the species and canopy cover layers and 
+criteria outlined by Anderson (1982).  Species labels were based on an ‘importance 
+value’ (Taylor 2000) calculated as the sum of the relative frequency (percent tree stems) 
+and relative density (percent basal area) for each species.  Canopy cover was recoded to 
+four classes of 11-25%, 26- 40%, 41-70%, and 71-100% to meet the input requirement of 
+the fire behavior model.   
+ 
+ 
+ 
+36
+
+Accuracy Assessment 
+ 
+I carried out an accuracy assessment with an independent set of reference plots.  
+Accuracy assessment indicates the effectiveness of the methods used to produce the map 
+and also determines the usefulness of the map as a tool for land management decisions 
+and studies (Congalton and Green 1999). 
+ 
+A considerable amount has been written about selecting the appropriate number of 
+reference sites to be able to perform a statistically valid accuracy assessment.  There 
+tends to be little agreement on the “correct” method to use.  Congalton and Green (1999) 
+compared the use of equations based on the binomial distribution versus the multinomial 
+distribution.  They suggested that the binomial method is not appropriate if an error 
+matrix will be used to present the results, but that equations based on the multinomial 
+distribution are appropriate.  The multinomial equation presented by Tortora (1978) and 
+Congalton and Green (1999) calculates that roughly 80 samples per class are required.  
+However, practical considerations often determine the sample size selection (Congalton 
+and Green 1999).  Difficulty reaching portions of the study area and unpredictable 
+weather made it necessary to use an approach that provided both a statistically sound 
+method for selecting the appropriate sample size and one that could be realistically 
+accomplished (van Genderen 1977, Congalton and Green 1999).  I used thirty reference 
+sites per class as the target for this project.  A total of 146 reference sites were completed.  
+While 30 reference sites per vegetation class was my goal, weather conditions and access 
+problems prevented the completion of thirty reference sites in the aspen and spruce-fir 
+forest types.  Twenty reference sites were completed in each of these forest types.  In 
+ 
+37
+
+addition, some forest types ended up with greater than thirty sites because of 
+misclassifications in the preliminary vegetation classification. 
+ 
+I combined the stratified random sampling and systematic sampling methods to establish 
+reference sites.  A 500 meter point grid was created and overlaid on the preliminary 
+vegetation classification.  Every fifth point was selected and the forest type that 
+corresponded to each point was noted.  Queries were run to determine which of the forest 
+types were represented with 30 points. Forest types with fewer than 30 points were 
+supplemented with purposively selected reference sites. 
+  
+Each reference site was comprised of three sub-plots with plots located 30 m apart.  The 
+central plot was located in the field using a handheld GPS unit.  The east and west plots 
+were located using a 50 m tape measure.  The distance was corrected for slope.  The three 
+variable plots per site were used to reduce potential registration errors between the 
+reference site coverage and the classified layers.  Congalton and Green (1993) identified 
+registration error as a factor that contributes to confusion between the classified data and 
+the reference data.  
+ 
+A variable radius plot was established at each sub-plot center.  A 0.9 or 1.6 BAF prism 
+was used, depending on the tree density, so that 5 to 12 trees were sampled at each point 
+(Avery and Burkhart 1994).  Species and diameter at breast height (dbh) were recorded 
+for each tree.  A randomly located 36 m canopy cover transect was established from plot 
+center.  A sighting tube was used at each meter mark to determine whether overstory 
+ 
+38
+
+vegetation occurred above the point.  Canopy cover was calculated as the percentage of 
+points with overhead vegetation (Ganey and Block 1994).  A 15.2 m fuels transect was 
+randomly located from plot center of the middle plot.  Fuels measurements were 
+completed using the same methods used for the training sites.  Data from each of the 
+three reference plot subplots were combined and used to calculate importance values for 
+each species present (Taylor 2000).  Species class labels were determined using these 
+importance values just as was done for the plots that were used for training sites. 
+ 
+The most commonly used method to represent the accuracy of a classification developed 
+from satellite imagery is an error matrix (Congalton et al. 1983, Congalton and Green 
+1993).  An error matrix is a square array of numbers where the columns represent the 
+reference site data and the rows represent the satellite imagery classification data (Story 
+and Congalton 1986).  Kappa analysis is a measure of classification accuracy (Cohen 
+1960, Landis and Koch 1977, Congalton 2001).  This analysis produces a KHAT statistic 
+that can be used to test if a classification is significantly better than one produced by 
+randomly assigning labels.  The KHAT statistic is also used to compare two classification 
+error matrices to determine if they are statistically significantly different.   
+ 
+Error matrices and KHAT statistics were computed for each of the classified layers 
+derived from the 2002, 2003, and combined date datasets.  Landis and Koch (1977) 
+categorized KHAT values as follows:  < 0 indicates poor agreement, 0 – 20% indicates 
+slight agreement, 21 – 40% shows fair agreement, 41 – 60% indicates moderate 
+agreement, 61 – 80% indicates substantial agreement, and 81 – 100% shows almost 
+ 
+39
+
+perfect agreement.  Rosenfield and Fitzpatrick-Lins (1986) did not follow the Landis and 
+Koch (1977) categories.  They simply stated that positive KHAT values indicate greater 
+than chance agreement.  Accuracy assessment of the fuel model, canopy cover, and 
+eleven fuels layers was also done by forest type to determine if these could be mapped 
+more precisely in a particular forest type. 
+Results 
+ 
+Field Data 
+ 
+The bristlecone pine forest type had the least amount of both woody and forest floor 
+fuels. With one exception, the ponderosa pine type had the next least amount of woody 
+fuels and had less forest floor fuels than two of the five forest types.  The spruce-fir type 
+had roughly twice as much 1000h fuels than the type with the least amount and also had 
+the greatest amount of forest floor fuels.  All forest types had fuel categories that were 
+significantly skewed to the right (Table 3.2).  There was little variation in the area 
+covered by each of the eleven mapped fuels categories between the three image 
+combination classifications.  The 2002 and the 2002-2003 classifications had the greatest 
+area of fuels (3,332 ha) while the 2003 classification had only slightly less with 3,314 ha 
+(Appendix 1).   
+ 
+Species and Canopy Cover Classification 
+ 
+The total forested area, and area by species, varied little between the three classifications.  
+Aspen was classified as the dominant species in all three time periods and made up 
+approximately 25% of the study area in each of the three classifications.  Spruce-fir was 
+ 
+40
+
+classified as the least dominant species on all three classifications and made up roughly 
+10% of the study area in each of the classifications.  The classified area of the other 
+species did not remain constant across the three classifications.  Total area classified as 
+forested differed by only 14 ha between the three classifications (Table 3.3).  Seasonal 
+variation in vegetation phenology with the early spring and early fall ASTER images 
+account for the differences in the species classifications from the three image 
+combinations.  
+ 
+Canopy cover area on all three time periods was greatest in the 41%-70% class.  The total 
+area for this class varied by approximately 50 ha between the three classifications.   
+Canopy cover was consistently lowest by area in the 11%-25% class.  Mean canopy 
+cover was greatest in mixed conifer and lowest in bristlecone pine (Table 3.1). 
+It varied considerably, between the three classifications, by approximately 200 ha (Table 
+3.4).    
+ 
+Accuracy Assessment  
+ 
+Overall accuracies and KHAT values for all layers are presented in Table 3.5.  For all 
+mapped layers the classification for species was consistent with an overall accuracy 
+ranging from 41-47%.  The fuel model layers derived from each of the three image 
+combinations were the most accurate.  Three of the fourteen layers (fuel model, wood 1-
+100, and average duff) derived from the 2002 image had the highest accuracy.  Three 
+layers (species, 100h, and wood 1000) created from the 2003 image and two layers 
+(canopy cover and 1000h rotten) from the 2002-2003 image combination had the highest 
+ 
+41
+
+accuracies.  Woody fuels had the greatest average overall accuracy on the 2003 
+classification but woody fuel layers developed from all three images had relatively 
+consistent overall accuracies ranging from 34-47%. While the forest floor fuels layers 
+derived from the 2002-2003 image had the highest overall accuracy (40-55%) again, 
+these layers were consistent with all image combinations.  The species, canopy cover, and 
+fuel model layers had similar accuracies on all three images combinations but had a 
+slightly greater overall accuracy with the 2002-2003 image.  Four of the fourteen layers 
+(species, canopy cover, fuel model, and 10h) created from the 2002 image were 
+statistically better than chance (Congalton and Green 1999).  Six of the fourteen layers 
+(species, fuel model, 1h, 10h, wood total, and average litter) derived from the 2003 image 
+were statistically better than chance and six of the fourteen layers (species, canopy cover, 
+fuel model, 1h, 10h, and average forest floor) created using the 2002-2003 image 
+composite were statistically better than chance.  The 2002-2003 image had the greatest 
+number of layers that had “slight” and “fair” agreement (Landis and Koch 1977) with the 
+reference data used in the accuracy assessment process.   The only classified layers that 
+were significantly different from each other between the three image combinations 
+(Congalton and Green 1999) were the canopy cover layers created from the 2002 image 
+and 2002-2003 image composite (Z=2.69 p-value = 0.00) (Table 3.6).   
+ 
+Analyzed by forest type, accuracy results for all layers are shown in Appendices 2, 3, and 
+4.  Aspen consistently had the highest woody fuel overall accuracy, as high as 75% for 
+the 10-h fuels, and forest floor fuel accuracies as high as 74% on all three classifications.  
+Spruce-fir consistently had the lowest woody fuel overall accuracies, as low as 21% for 
+ 
+42
+
+100h fuels, of all forest types and had the lowest forest floor fuel overall accuracies, as 
+low as 17%, for two of the three classifications.  Mixed conifer and spruce-fir each had 
+species layers overall accuracies that were considerably lower than the other forest types 
+with all three image combinations.  The average forest floor layers created from the 2002 
+and 2002-2003 datasets where the only layers significantly different from one another 
+(Z=2.00 p-value = 0.02) (Appendix 5).  Three of the 2002 data layers (bristlecone 
+average duff and average forest floor and spruce-fir canopy cover) were statistically 
+better than chance, four of the 2003 data layers (aspen 1h and mixed conifer canopy 
+cover, wood 1000, and average litter) were statistically better than chance, and six (aspen 
+1h and average forest floor, mixed conifer canopy cover and average forest floor, and 
+spruce-fir wood 1000 and wood total) of the 2002-2003 data layers were statistically 
+better than chance.  Bristlecone pine, mixed conifer, and spruce-fir had the fewest layers 
+that have “poor” agreement (Landis and Koch 1977) with the reference data.  Bristlecone 
+pine had the most layers that have “slight” agreement with the reference data.  
+Bristlecone pine, mixed conifer, and spruce-fir, had layers with “fair” agreement. 
+ 
+Discussion 
+ 
+Providing land managers with methods to assess fuel loadings and forest stand conditions 
+would assist them with the data necessary to make well informed fire management 
+decisions.  These types of data are difficult to obtain, so they are often not collected in 
+remote and difficult to access areas such as the San Francisco Peaks.  Satellite imagery is 
+appropriate for developing fuel type maps over large landscapes and has been used 
+extensively (Keane et al. 2000, Riano et al. 2002, van Wagtendonk and Root 2003). 
+ 
+43
+
+ 
+ 
+Accuracy Assessment 
+ 
+  
+ASTER imagery, “trained” with the permanent plot data, was used to map species, 
+canopy cover, fuel models and both woody and forest floor fuels, over a wide range of 
+vegetation and fuel types, using both a direct and indirect mapping approach (Keane et al. 
+2001).  Overall accuracies are similar to other fuel mapping studies that used satellite 
+imagery and a more complicated biophysical modeling approach.  I have reported 
+accuracy assessment results that allow for assessment by other researchers of our mapped 
+layers.  Interpreting the usefulness of many fuels and fuel model layers from other 
+projects, derived from remotely sensed data, is sometimes difficult because of 
+inconsistencies on how accuracies are reported, or the accuracies are not reported at all.  
+  
+Keane et al. (2000), using Landsat TM imagery, reported an overall accuracy of 36% and 
+an overall KHAT value of 45% for their forest type layer, which is analogous to my 
+species layer.  Their overall accuracy was slightly lower than what I achieved but their 
+KHAT value was larger.  For their fuel model layer they reported an overall accuracy of 
+35% and a KHAT value of 24%, which were both considerably less than what I achieved.   
+While accuracy was reported for individual classes, individual class KHAT values were 
+not reported.  This makes it impossible to determine which of the individual layers could 
+be mapped better than by random chance.  They also reported large increases in 
+accuracies after fuzzy logic was applied.  Fuzzy logic recognizes that the transition 
+ 
+44
+
+between mapped classes is seldom clear-cut and that at class extremes, an item may 
+actually belong to two classes (Gopal and Woodcock 1994, Congalton and Green 1999). 
+ 
+Falkowski et al. (2005), using ASTER imagery, achieved an overall accuracy of 72% and 
+a KHAT value of 63% for their cover type map.  Their fuel model classification had an 
+overall accuracy of 62% and a KHAT value of 54%.  The higher accuracies of their data 
+layers indicate that the biophysical mapping approach (Keane et al. 2001) may be a more 
+suitable mapping method when using ASTER data. 
+ 
+ Riano et al. (2002) reported overall accuracies of 58% to 67% and KHAT values of 51% 
+and 61% when evaluating the effectiveness of using a single date of Landsat TM imagery 
+compared to using an image comprised of multiple dates of Landsat TM imagery for 
+mapping fuel types.  This layer is similar to our fuel model layer and their methodology 
+is comparable to the methods I employed.  Their accuracies are slightly lower than ours 
+while their reported overall KHAT value is quite high.  Similar to Keane et al. (2000), 
+KHAT values for individual classes were not reported so a detailed assessment by outside 
+users of their mapping project is not possible.  Another fuel model mapping project using 
+multi-date imagery (van Wagtendonk and Root 2003) reported the overall accuracy 
+(54.3%) and KHAT (39%) value.  KHAT values for individual mapped classes were not 
+reported.  My project benefited from the use of a multi-date image.  The 2002-2003 
+image I used did not have a large effect on overall accuracies but it did produce more 
+layers that were significantly better than random. 
+ 
+45
+
+ 
+Sources of Classification Error 
+ 
+Variability in species and canopy cover image classification accuracy in our study can be 
+attributed to a number of factors.  For example, aspen trees were not fully leafed out in 
+the 2002 image, acquired in early April, well before the start of the growing season.  In 
+the 2003 image, acquired in late October, the absence of leaves on the aspen trees was 
+visually evident.  Van Wagtendonk and Root (2003) used NDVI values calculated from 
+TM scenes acquired in May, June, July, September, October, and November.  They found 
+that for both short-needled and long-needled conifers, the NDVI values were greatest in 
+June and July, though they did find that short needled conifers with a heavy fuel 
+component exhibited highest NDVI values in September.  This indicated that fuels layers 
+may be more accurately mapped at the end of, and perhaps at the beginning of, the 
+growing season.  Fuels in the aspen forest type may very likely be more accurately 
+mapped with “leaf-off” images.   
+ 
+The relatively small increase in accuracy when using the 2002-2003 image was again 
+likely due to neither of the images having been acquired during the middle of the growing 
+season.   The canopy cover variation, especially with aspen, can also be attributed to the 
+dates of the imagery. Canopy cover on the permanent plots was measured during the 
+summer field season (May through August) when the aspen trees were leafed out.  These 
+canopy cover data were used to “train” the April and October images to produce the 
+canopy cover layers.   As with the training data, data on the reference plots were collected 
+during the summer months when the trees were fully leafed out.  The discrepancies on the 
+ 
+46
+
+image dates, along with the data collection on the permanent and reference plots limited 
+to the summer months due to logistics and weather made it extremely difficult to develop 
+an accurate canopy cover layer, especially for the aspen forest type. 
+ 
+The majority of the fuel layers have relatively high overall accuracies but surprisingly 
+low KHAT values.  Variability in fuels can also be attributed to inconsistent data 
+collection methods, and with forest floor fuels, in the interpretation of what constitutes 
+litter and duff (Brown and Bevins 1986).  I do not feel that data collector variability is a 
+large factor in this study because our findings were consistent with other studies.  The 
+dead woody fuels distribution on our plots is highly skewed to the right.  This was 
+consistent with what is reported by Brown and See (1981) and Brown and Bevins (1986).  
+The majority of the fuels being in one size class made it very likely that they will be 
+classified correctly and that the classification was only marginally better than random.  
+Dead woody fuel loading and forest floor fuels were also consistent with other studies.  
+The range of fuels in the ponderosa pine type fall within the range of variability that 
+Harrington (1986) found in various ponderosa pine sites throughout Arizona.  Pearson 
+(1920b) in his work on the Peaks noted that “…in the Douglas-fir and Engelmann spruce 
+types (analogous to our mixed conifer and spruce-fir types, respectively) the surface foot 
+contains an appreciable amount of organic matter.”  He goes on to state that the amount 
+of organic matter becomes “less conspicuous as the alpine type (our bristlecone pine, or 
+subalpine, type) is approached.”  Brown and Bevins (1986) reported that subalpine trees 
+tend to retain their branches due to the lack of natural pruning.  This variability of fuels in 
+ponderosa pine and higher elevation forests across the Southwest and the fact that all 
+ 
+47
+
+Southwest forest fuel types are represented on the San Francisco Peaks and that this 
+variability was shown by the low KHAT values to be difficult to detect, suggests that 
+mapping fuels using our methods would likely result in similar low accuracies.   
+ 
+Conclusions and Management Implications 
+ 
+The vegetation and fuel conditions of the San Francisco Peaks and the frequent low-
+severity fire regimes (ponderosa pine), mixed-severity fire regimes (ponderosa pine, 
+Douglas-fir, limber pine) and infrequent high-severity fire regimes (Engelmann spruce 
+and subalpine fir) are representative of mountainous areas throughout the Southwest.  
+Heavy fuel loadings combined with the threat of extended drought conditions may make 
+it necessary for land managers to allow naturally ignited fires to burn when conditions 
+allow.  The shift of more mesic forest types, such as spruce-fir, described by Cocke 
+(2005), toward lower elevations further emphasizes the importance of the reintroduction 
+of fire.  Knowledge of fuel loadings and forest composition will assist in these difficult 
+decisions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+48
+
+ 
+ 
+ 
+Figure 3.1.  Elevational gradient with 135 permanent plots on the San Francisco Peaks, 
+northern Arizona.
+ 
+49
+
+ 
+50
+Canopy Cover (%)
+Trees/ha
+Basal Area (m2/ha)
+Aspect° Elevation (m) Slope (%)
+Aspen
+Mean  (SE)
+63  (3)
+513.4  (41.1)
+42.4  (2.3)
+195  (7)
+2865  (24)
+30  (2)
+N=42
+Range
+16 - 97
+100.6 - 1277.3
+8.8 - 74.9
+106 - 275
+2565 - 3208
+0 - 57
+Bristlecone
+Mean  (SE)
+39  (4)
+344.1  (29.6)
+44.9  (4.7)
+171  (7)
+3292  (33)
+53  (2)
+N = 23
+Range
+0 - 75
+70.6 - 651.1
+4.8 - 99.6
+120 - 260
+3053 - 3069
+35 - 66
+Mixed conifer Mean  (SE)
+64  (4)
+426.2  (33.0)
+43.0  (4.1)
+186  (11)
+2780  (23)
+31  (2)
+N = 30
+Range
+19 - 97
+41.9 - 743.9
+6.9 - 100.4
+35 - 360
+2531 - 3077
+13 - 66
+Ponderosa
+Mean  (SE)
+49  (3)
+396  (51.9)
+32.4  (2.8)
+189  (5)
+2606  (14)
+16  (1)
+N = 30
+Range
+19 - 84
+50.3 - 988.3
+2.6 - 60.1
+132 - 244
+2458 - 2781
+6 - 42
+Spruce-fir
+Mean  (SE)
+58  (5)
+492.8  (44.5)
+56.0  (3.9)
+228  (13)
+3195  (41)
+41  (3)
+N = 10
+Range
+28 - 72
+260.3 - 683.3
+36.3 - 73.1
+123 - 280
+2942 - 3390
+17 - 50
+Table 3.1 Stand structure and study site characteristics taken from the permanent plot 
+data.  These data were used to develop the supervised training site signature file. This file 
+was used to classify the three ASTER image combinations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Table 3.2  Fuels summary statistics, from the 135 permanent plots, by forest type.  Positive skewness values indicate data skewed to 
+the right.  Skewness is considered significant if the absolute value is >2.  Woody fuels in Mg/ha. 
+1h
+10h
+100h
+1+10+100h
+1000hs*
+1000hr*
+1000h s+r
+Wood Total
+Ave. Litter (cm) Ave. Duff (cm) Ave. Litter+Duff (cm)
+Aspen
+N = 42
+Mean (SE)
+0.2  (0.03) 1.6  (0.2) 6.5  (0.6)
+8.3  (0.8)
+41.1  (6.2)
+44.9  (13.0)
+85.9  (16.5)
+94.2  (16.6)
+1.1  (0.1)
+2.6  (0.2)
+3.7  (0.2)
+Range
+0 - 1.0
+0 - 5.2
+0 - 23.1
+0 - 27.8
+0 - 163.9
+0 - 435.3
+0 - 576.7
+0.9 - 587.7
+0.1 - 2.2
+0.3 - 5.5
+0.8 - 6.3
+Skewness
+1.8
+1
+1.4
+1.4
+1.5
+3.4
+2.9
+2.9
+0.5
+0.1
+-0.2
+Bristlecone
+N = 23
+Mean (SE)
+0.4  (.06)
+1.0  (0.2) 3.0  (0.7)
+4.4  (0.9)
+26.9  (7.2)
+30.8  (14.6)
+57.7  (19.3)
+62.0  (19.5)
+0.7  (0.1)
+1.8  (0.3)
+2.5  (0.3)
+Range
+0.02 - 1.1
+0 - 2.6
+0 - 14.0
+0.02 - 17.0
+0 - 166.3
+0 - 286.4
+0 - 363.1
+0.02 - 372.7
+0.1 - 3.5
+0.1 - 5.1
+0.2 - 5.6
+Skewness
+0.6
+0.5
+1.9
+1.6
+3.2
+3
+2.7
+2.7
+3.3
+1
+0.5
+Mixed conifer N = 30
+Mean (SE)
+0.3  (0.04) 2.8  (0.5) 7.4  (1.0)
+10.5  (1.4)
+32.2  (6.4)
+29.6  (6.4)
+61.9  (12.8)
+72.3  (13.2)
+1.2  (0.1)
+3.8  (0.3)
+5.0  (0.4)
+Range
+0.1 - 1.0
+0 - 13.5
+0 - 20.4
+0.1 - 29.0
+0 - 234.3
+0 - 104.5
+0 - 338.8
+0.1 - 352.0
+0.2 - 3.3
+0.1 - 8.0
+0.2 - 9.8
+Skewness
+1.4
+2.2
+0.6
+0.8
+2.7
+1
+2.3
+2.1
+1.4
+-0.2
+-0.2
+Ponderosa
+N = 30
+Mean (SE)
+0.2  (0.04) 1.5  (0.3) 3.0  (0.5)
+4.7  (0.7)
+28.0  (16.3) 36.8  (17.1)
+64.9  (25.1)
+69.6  (25.0)
+1.6  (0.2)
+2.5  (0.3)
+4.1  (0.4)
+Range
+0 - 1.2
+0 - 5.8
+0 - 12.9
+0 - 19.3
+0 - 487.7
+0 494.8
+0 - 532.0
+0 - 533.0
+0.6 - 3.6
+0.4 - 6.0
+1.1 - 8.8
+Skewness
+2.1
+1.4
+1.7
+2
+5
+4.5
+3
+3
+0.9
+0.9
+0.6
+Spruce-fir
+N = 10
+Mean (SE)
+0.6  (0.1)
+2.3  (0.8) 4.9  (1.0)
+7.8  (1.6)
+55.5  (24.3) 68.7  (38.8) 124.1  (50.9) 131.9  (52.0)
+1.1  (0.2)
+4.3  (0.8)
+5.4  (0.8)
+Range
+0.2 - 1.0
+0.3 - 9.1
+0 - 10.0
+0.7 - 18.4
+0.9 - 262.4
+0 - 405.3
+19.2 - 489.4
+23.3 - 507.8
+0 - 2.7
+0.8 - 8.7
+1.6 - 10.0
+Skewness
+0.1
+2.4
+0.1
+0.9
+2.6
+2.8
+1.7
+1.7
+1.3
+0.6
+0.6
+ 
+ 
+* 1000hs indicates 1000h solid fuels and 1000hr indicates 1000h rotten fuels. 
+ 
+51
+
+Table 3.3  Total area (ha) and percent cover by forest type as classified by the three image combinations. 
+ 
+2002
+%
+2003
+%
+2002 - 2003
+%
+Aspen
+854
+27
+772
+25
+819
+26
+Bristlecone
+726
+23
+711
+23
+686
+22
+Mixed conifer
+793
+25
+615
+20
+790
+25
+Ponderosa
+527
+17
+698
+22
+605
+19
+Spruce-fir
+253
+8
+341
+11
+245
+8
+Total Area
+3152
+3138
+3145
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 3.4  Total area (ha) of canopy cover classes as classified by the three image combinations. 
+ 
+ 
+Classes (%)
+2002
+2003
+2002+2003
+1 - 25
+324
+119
+291
+26 - 40
+397
+636
+428
+41 - 70
+1447
+1498
+1472
+71 - 100
+915
+819
+893
+ 
+ 
+ 
+ 
+ 
+52
+
+Table 3.5  Accuracy assessment results for all three image combinations.  Layers significantly better than random are shown in bold.  
+Alpha is 0.05.  Woody fuels in Mg/ha.  
+ 
+2002
+Species Canopy Cover Fuel Model
+1h
+10h
+100h
+1000hs* 1000hr* Wood1-100 Wood 1000 Wood Total Ave. Litter (cm) Ave. Duff (cm) Ave. Forest Floor (cm)
+Overall Accuracy
+0.44
+0.38
+0.72
+0.38
+0.62
+0.36
+0.42
+0.38
+0.47
+0.4
+0.39
+0.47
+0.43
+0.45
+KHAT
+0.3
+0.15
+0.34
+0.07
+0.22
+0.03
+0.06
+0.06
+0.05
+0.09
+0.07
+0.02
+0.07
+0.08
+Variance
+0.003
+0.003
+0.006
+0.004
+0.007
+0.005
+0.005
+0.009
+0.004
+0.003
+0.004
+0.006
+0.004
+0.004
+Z Score
+5.51
+2.71
+4.23
+1.14
+2.58
+0.36
+0.87
+0.65
+0.77
+1.54
+1.13
+0.21
+1.08
+1.25
+P-value
+0
+0
+0
+0.13
+0
+0.36
+0.19
+0.26
+0.22
+0.06
+0.13
+0.42
+0.14
+0.11
+2003
+Species Canopy Cover Fuel Model
+1h
+10h
+100h
+1000hs* 1000hr* Wood1-100 Wood 1000 Wood Total Ave. Litter (cm) Ave. Duff (cm) Ave. Forest Floor (cm)
+Overall Accuracy
+0.47
+0.33
+0.71
+0.47
+0.62
+0.4
+0.45
+0.3
+0.42
+0.42
+0.43
+0.55
+0.4
+0.39
+KHAT
+0.34
+0.09
+0.37
+0.16
+0.23
+0.097
+0.12
+-0.06
+-0.01
+0.12
+0.14
+0.17
+0.06
+0.07
+Variance
+0.002
+0.002
+0.004
+0.005
+0.007
+0.006
+0.004
+0.012
+0.003
+0.003
+0.003
+0.005
+0.003
+0.003
+Z Score
+6.38
+1.8
+5.42
+2.22
+2.63
+1.24
+1.81
+-0.56
+-0.19
+2.02
+2.3
+2.32
+0.97
+1.16
+P-value
+0
+0.04
+0
+0.01
+0
+0.11
+0.04
+0.71
+0.58
+0.02
+0.01
+0.01
+0.17
+0.12
+2002+2003
+Species Canopy Cover Fuel Model
+1h
+10h
+100h
+1000hs* 1000hr* Wood1-100 Wood 1000 Wood Total Ave. Litter (cm) Ave. Duff (cm) Ave. Forest Floor (cm)
+Overall Accuracy
+0.41
+0.45
+0.7
+0.47
+0.61
+0.36
+0.45
+0.4
+0.43
+0.35
+0.34
+0.55
+0.4
+0.45
+KHAT
+0.26
+0.28
+0.3
+0.19
+0.2
+0.04
+0.14
+0.09
+0.04
+0.07
+0.06
+0.15
+0.08
+0.15
+Variance
+0.002
+0.003
+0.005
+0.004
+0.007
+0.005
+0.004
+0.007
+0.004
+0.003
+0.003
+0.005
+0.003
+0.004
+Z Score
+4.87
+5.17
+3.96
+2.89
+2.26
+0.59
+2.08
+0.99
+0.64
+1.25
+0.98
+1.94
+1.3
+2.33
+P-value
+0
+0
+0
+0
+0.01
+0.28
+0.02
+0.16
+0.26
+0.11
+0.16
+0.03
+0.09
+0.01
+ 
+*
+ 
+1000hs indicates 1000h solid fuels and 1000hr indicates 1000h rotten fuels. 
+ 
+ 
+ 
+ 
+ 
+ 
+53
+
+Table 3.6  Pair-wise comparisons of all mapped layers.  Z statistic and (p-value) are shown.  Layers that are significantly different are 
+shown in bold.  Alpha is 0.05.  na = Z statistic could not be calculated because one or more KHAT values were negative or zero. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Layers Compared
+Species
+Canopy Cover
+Fuel Model
+1h
+10h
+100h
+1000hs*
+2002 & 2003
+0.57 (0.29)
+0.88 (0.20)
+0.03 (0.38)
+0.95 (0.17)
+0.08 (0.47)
+0.67 (0.25)
+0.63 (0.26)
+2002 & 2002+2003
+0.57 (0.29)
+1.68 (0.05)
+0.38 (0.35)
+1.34 (0.09)
+0.17 (0.43)
+0.10 (0.46)
+0.84 (0.20)
+2003 & 2002+2003
+0.26 (0.10)
+2.69 (0.00)
+0.74 (0.23)
+0.32 (0.38)
+0.25 (0.40)
+0.57 (0.28)
+0.22 (0.41)
+Layers Compared
+1000hr*
+Wood1-100
+Wood 1000
+Wood Total Ave. Litter (cm) Ave. Duff (cm)
+Ave. Forest Floor (cm)
+2002 & 2003
+na
+na
+0.39 (0.35)
+0.84 (0.20)
+1.43 (0.08)
+0.12 (0.45)
+0.12 (0.45)
+2002 & 2002+2003
+0.24 (0.41)
+0.11 (0.46)
+0.26 (0.40)
+0.12 (0.45)
+1.24 (0.11)
+0.12 (0.45)
+0.78 (0.22)
+2003 & 2002+2003
+na
+na
+0.65 (0.26)
+1.03 (0.15)
+0.20 (0.42)
+0.26 (0.40)
+0.96 (0.17)
+54
+ 
+*1000hs indicates 1000h solid fuels and 1000hr indicates 1000h rotten fuels. 
+ 
+
+Literature Cited 
+ 
+ 
+Anderson H E (1982) Aids to determining fuel models for estimating fire behavior.  
+USDA Forest Service General Technical Report INT-69, Ogden UT. 22 pp. 
+Avery TE, Burkhart HE (1994) Forest measurements. McGraw-Hill, Inc., Toronto, 
+Ontario. 408 pp. 
+Bertolette D, Spotskey D (1999) Remotely sensed burn severity mapping. In: Harmon D. 
+(ed.), Crossing Boundaries in Park Management. Proceedings of the 11th 
+Conference on Research and Resource Management in Parks and on Public 
+Lands. The George Wright Society, Hancock, Michigan, USA, pp. 45–51.   
+Brown JK (1974)  Handbook for inventorying downed woody material. General 
+Technical Report INT-16. USDA Forest Service Intermountain Forest & Range 
+Experiment Station, Ogden, Utah. 16 pp. 
+Brown JK, See TE (1981) Downed and Dead Woody Fuel and Biomass in the Northern 
+Rocky Mountains. USDA Forest Service Intermountain Research Station General 
+Technical  Report INT-117. 48 pp. 
+Brown JK, Bevins CD (1986)  Surface fuel loadings and predicted fire behavior for 
+vegetation types in the northern Rocky Mountains. USDA Forest Service 
+Intermountain Research Station. Research note INT-358. Ogden, UT., 9 pp. 
+Burgan RE, Shasby MB (1984)  Mapping broad area fire potential from digital fuel, 
+terrain, and weather data. Journal of Forestry 82, 228-231. 
+Burgan RE, Klaver RW, Klaver JM (1998)  Fuel models and fire potential from satellite 
+and surface observation. International Journal of Wildland Fire 8, 159-170. 
+Coburn CA, Roberts ACB (2004)  A multiscale texture analysis procedure for improved 
+forest stand classification. International Journal of Remote Sensing 25, 4287-
+4308. 
+Cocke AE, Fulé PZ, Crouse JE (2005) Forest change on a steep mountain gradient after 
+extended fire exclusion: San Francisco Peaks, Arizona, USA.  Journal of Applied 
+Ecology 5, 814-823. 
+Cohen J (1960) A coefficient of agreement for nominal scales.  Educational and 
+Psychological Measurement 20, 7-46. 
+Cohen WB, Maiersperger TK, Spies TA, Oetter DR (2001)  Modeling forest cover 
+attributes as continuous variables in a regional context with Thematic Mapper 
+data. International Journal of Remote Sensing 12, 2279-2310. 
+ 
+55
+
+Congalton RG (2001) Accuracy assessment and validation of remotely sensed and other 
+spatial information. International Journal of Wildland Fire 10, 321-328. 
+Congalton RG, Green K (1993) A practical look at the sources of confusion in error 
+matrix generation. Photogrammetric Engineering and Remote Sensing 59, 641-
+644. 
+Congalton RG, Green K (1999)  Assessing the accuracy of remotely sensed data:  
+principles and practices.  Lewis Publishers, Boca Raton, London, New York, 
+Washington D.C. 137 pp. 
+ 
+Congalton RG, Oderwald RG, Mead RA (1983) Assessing Landsat classification 
+accuracy using discrete multivariate analysis statistical techniques. 
+Photogrammetric Engineering and Remote Sensing 49, 1671-1678. 
+ 
+Falkowski MJ, Gessler PE, Morgan P, Hudak AT, Smith AMS (2005) Characterizing and 
+mapping forest fuels using ASTER imagery and gradient modeling. Forest 
+Ecology and Management 217, 129-146. 
+Finney MA (1998) FARSITE: Fire Area Simulator-Model Development and Evaluation.  
+Rocky Mountain Research Station. USDA Forest Service Research Paper RMRS-
+RP-4. Ogden, UT., 47 pp. 
+Ganey JL, Block WM (1994) A Comparison of two techniques for measuring canopy 
+closure. Western Journal of Applied Forestry 1, 21-23.  
+Gopal S, Woodcock C (1994) Theory and methods for accuracy assessment of thematic 
+maps using fuzzy sets. Photogrammetric Engineering and Remote Sensing 2, 181-
+188.  
+Hardy CC, Burgan RE (1999)  Evaluation of NDVI for monitoring live moisture in three 
+vegetation types of the Western U.S. Photogrammetric Engineering and Remote 
+Sensing 5, 603-610. 
+Harrington MG (1986) Comparison of forest floor depth to loading relationships from 
+several Arizona ponderosa pine stands. USDA Forest Service Rocky Mountain 
+Forest and Range Experiment Station Research Note RM-463. 5 pp. 
+Huang C, Zhang Z, Yang L, Wylie B, Homer C (2002a) MRLC 2000 image 
+preprocessing procedure http://landcover.usgs.gov/pdf/image_preprocessing.pdf,  
+           US Dept.of Interior, USGS. 
+ 
+Huang C, Wylie B, Yang L, Homer C, Zylstra G (2002b) Derivation of a tasseled cap 
+transformation based on Landsat 7 at-satellite reflectance. International Journal 
+of Remote Sensing 8, 1741-1748. 
+ 
+ 
+56
+
+Jensen JR (1996) Introductory digital image processing: a remote sensing prospective. 
+Prentice Hall, Upper Saddle River, NJ. 318 pp. 
+ 
+Keane RE, Mincemoyer SE, Schmidt KA, Long DG, Garner JL (2000) Mapping 
+vegetation and fuels for fire management on the Gila National Forest Complex, 
+New Mexico.  USDA General Technical Report RMRS-GTR-46-CD. 
+ 
+Keane RE, Burgan R, van Wagtendonk  J (2001) Mapping wildland fuels for fire 
+management across multiple scales:  Integrating remote sensing, GIS, and 
+biophysical modeling. International Journal of Wildland Fire 10, 301-319. 
+ 
+Lachowski H, Maus P, Golden M,  Johnson J,  Landrum V, Powell J, Varner V, Wirth T, 
+Gonzales J, Bain S (1995) Guidelines for the use of digital imagery for vegetation 
+mapping. USDA Forest Service EM-7140-25. 168 pp. 
+ 
+Landis JR, Koch GG (1977) The measurement of observer agreement for categorical 
+data. Biometrics 33, 159-174. 
+ 
+Leica (2004)  ERDAS Imagine 8.7  Leica Geosystems AG, St. Gallen, Switzerland. 
+ 
+Markham BL, Barker JL (1986) Landsat MSS and TM post-calibration dynamic ranges, 
+exoatmospheric reflectances and at-satellite temperatures. EOSAT Landsat 
+Technical Notes 1, 3-8. 
+Miller JD, Danzer SR, Watts JM, Stone S, Yool SR (2003) Cluster analysis of structural 
+stage classes to map wildland fuels in a Madrean ecosystem.  Journal of 
+Environmental Management 68, 239-252. 
+Pearson GA (1920a)  Factors controlling the distribution of forest types, part I.  Ecology 
+1, 139-159. 
+ 
+Pearson GA (1920b)  Factors controlling the distribution of forest types, part II.  Ecology 
+1, 289-308.   
+ 
+Pyne SJ, Andrews PL, Laven RD (1996) Introduction to wildland fire. John Wiley & 
+Sons, Inc., New York, Chichester, Brisbane, Toronto, Singapore. 769 pp. 
+ 
+Reeberg P (1995) The Western Region fire monitoring handbook.  In Proceedings: 
+symposium on fire in wilderness and park management. USDA Forest Service 
+Intermountain Research Station General Technical Report INT-GTR-320. Ogden, 
+Utah. pp. 259-261. 
+ 
+Riano D, Chuvieco E, Salas J, Palacios-Orueta A, Bastarrika A (2002) Generation of fuel 
+type maps from Landsat TM images and ancillary data in Mediterranean 
+ecosystems. Canadian Journal of Forest Research 32, 1301-1315. 
+ 
+ 
+ 
+57
+
+Riano D, Chuvieco E, Salas J, and Aguado I (2003) Assessment of different topographic 
+corrections in Landsat-TM data for mapping vegetation types. IEEE Transactions 
+on Geoscience and Remote Sensing 5, 1056-1061.  
+Roberts DA, Dennison PE, Morais M, Gardner ME, Regelbrugge J, Ustin SL (1999)  
+Mapping Wildfire Fuels using Imaging Spectrometry along the Wildland Urban 
+Interface, Proc. of the Joint Fire Science Conference and Workshop, June 17-19, 
+1999, Boise, Idaho, Vol. 1, 212-223. 
+Rosenfield GH, Fitzpatrick-Lins K (1986)  A coefficient of agreement as a measure of 
+thematic classification accuracy. Photogrammetric Engineering and Remote 
+Sensing 2, 223-227.  
+Ryherd S, Woodcock C (1996) Combining spectral and texture date in the segmentation 
+of remotely sensed images. Photogrammetric Engineering and Remote Sensing 2, 
+181-194.  
+Story M, Congalton RG (1986) Accuracy assessment: A user's perspective. 
+Photogrammetric Engineering and Remote Sensing 52, 397-399. 
+Taylor AH (2000)  Fire regimes and forest changes in mid and upper montane forests of 
+the southern Cascades, Lassen Volcanic National Park, California, USA. Journal 
+of Biogeography 27, 87-104.  
+Thome K, Biggar S, Slater P (2001) Effects of assumed solar spectral irradiance on 
+intercomparisons of earth-observing sensors. In Proceedings: Sensors, Systems, 
+and Next-Generation Satellites. Fujisada H, Lurie J, Weber K editors. SPIE Vol. 
+4540, pp. 260-269.  
+Tortora RD (1978)  A note on sample size estimation for multinomial populations. The 
+American Statistician 32, 100-102. 
+Van Genderen JL (1977) Testing land-use map accuracy. Photogrammetric Engineering 
+and Remote Sensing 9, 1135-1137. 
+Van Wagtendonk JW, Root RR (2003) The use of multi-temporal Landsat normalized 
+difference vegetation index (NDVI) data for mapping fuel models in Yosemite 
+National Park, USA. International Journal of Remote Sensing 24, 1639-1651. 
+Verbyla DL (1995) Satellite remotes sensing of natural resources. Lewis Publishers, CRC 
+Press.  Boca Raton. 198 pp. 
+Woodcock CE, Collins JB, Gopal S, Jakabhazy VD, Li X, Macomber S, Ryherd S, 
+Harward VJ, Levitan J, Wu Y, Warbington R (1994) Mapping forest vegetation 
+using Landsat TM imagery and a canopy reflectance model. Remote Sensing of 
+Environment 50, 240-254. 
+ 
+58
+
+CHAPTER FOUR 
+ 
+FIRE BEHAVIOR MODELING 
+ 
+Abstract 
+ 
+Crown fire activity was modeled using the FlamMap fire simulation program.  Area of 
+active crown fire increased by 190% between the 10 and 40 km/hr wind speed scenarios, 
+by an additional 10% between the 40 and 70 km/hr wind speed scenarios, and by 221% 
+between the 10 and 70 km/hr wind speed scenarios.  At the landscape-level, mean patch 
+size of active crown fire increased over 700% from the 10 to 70 km/hr wind speed 
+scenarios and the number of patches decreased by 60% between 10 and 70 km/hr wind 
+speed scenarios.  At the class-level, active crown fire mean patch size increased slightly 
+in all five forest types (aspen, bristlecone pine, mixed conifer, ponderosa pine, and 
+spruce-fir) with increasing wind speed.  For all classes, the number of patches increased, 
+at the class-level, between the 10 and 40 km/hr wind speed scenarios but tended to 
+decrease between the 40 and 70 km/hr wind speed scenarios.  Heat/area increased with 
+greater wind speeds at both the landscape and class-levels. An Erosion Index model used 
+to identify areas that had a high potential for erosion was created using slope, coarse 
+woody debris (1000 hour sound and rotten fuels), and heat/area layers created in 10, 40, 
+and 70 km/hr wind speed simulations, as inputs.  Area of high erosion potential increased 
+by 83% between the 10 and 70 km/hr wind speed scenarios. 
+ 
+Keywords:  erosion; fire behavior modeling; fuels; landscape; patch size; watershed 
+ 
+59
+
+Introduction 
+ 
+The San Francisco Peaks represent, over the elevational gradient, forest structure and 
+fuels conditions that occur through the Southwest.  Additionally, much of the Peaks is 
+within a federally designated wilderness, the City of Flagstaff has municipal water wells 
+on the Peaks, and a major watershed (Rio de Flag), that has in the past flooded the 
+Flagstaff area, has its origins on the south side of the Peaks (Leao 2005).  The base of the 
+Peaks is being encroached upon, particularly on the south side, by neighborhoods and 
+scattered private residences.  The urban-wildland interface has become a source of 
+concern for land managers throughout the Southwest (Marzoff and Bradley 2003).  Years 
+of fire suppression have led to an increased connectivity of surface fuels that has the 
+potential to support fires outside the historical range of variability in size and severity 
+(Miller and Urban 2000).  Wildfire could, especially under drought conditions, quickly 
+move into the Flagstaff city limits and, conversely, residential fires could quickly move 
+onto the Peaks.  This latter scenario is more likely due to the prevailing southwest to 
+northeast wind direction.  The 450 ha Leroux fire, which occurred on the south side of the 
+Peaks in 2001, made Flagstaff residents very aware of the fire threat. 
+ 
+Fire behavior models allow land managers to simulate fire behavior conditions in areas 
+that have been undergone fuel reduction treatments (Scott 1998, Fulé et al. 2001), in 
+areas adjacent to population centers (Stratton 2004) and in roadless and wilderness areas 
+where decades of fire suppression has led to high fuel loadings (Fulé et al. 2004).   
+Common fire behavior models include FARSITE (Finney 1998), FlamMap (Finney in 
+preparation), and Nexus (Scott and Reinhardt 2001).  FARSITE is a deterministic model 
+ 
+60
+
+that simulates the spatial and temporal spread of fire (Stratton 2004).  Inputs include 
+aspect, elevation, slope, fuels, and weather.  Outputs can be in tabular, vector, and raster 
+formats.  FlamMap requires many of the same inputs as FARSITE but is a hazard model, 
+not modeling the spatial and temporal spread of fire.  Each pixel is treated independently 
+from those around it.  Fire behavior (surface fire, passive crown fire, or active crown fire) 
+is determined for each pixel.  Outputs are in tabular format.  Nexus is a deterministic 
+model of surface fire behavior, also useful for assessing fuel hazards.  Crown fire 
+transition and crown fire spread is also modeled (Scott and Reinhardt 2001).  FlamMap 
+was chosen for this project because the addition of the topographic inputs was deemed 
+better suited to simulating fire behavior in the steep terrain of the study area. 
+ 
+Landscape metrics provide ecologists with ways to quantify landscape pattern and the 
+influence it has on ecological processes (Turner et al. 2001).  A patch is an important 
+concept in landscape ecology that can be defined as “an area differing in appearance from 
+its surroundings” (Forman and Godron 1986).  White and Pickett (1985) stated that a 
+patch “implies a relatively discrete spatial pattern” and (Turner et al. 2001) note that 
+patches are heavily influenced by the grain size and extent of the data and by the 
+classification scheme used to derive the patch.   
+ 
+Agee (2002) stated that patch size of burned areas in eastside Oregon and Washington 
+forest types with frequent low-severity fire regimes, such as ponderosa pine, tended to be 
+small, ranging from 0.02 to 0.35 ha.  Patch size in mixed-severity fire regimes had larger 
+patches ranging from 2.5 to 250 ha.  The Douglas-fir, aspen, and limber pine types on the 
+ 
+61
+
+Peaks fall within this regime.  High-severity fire regimes, such as the spruce-fir type on 
+the Peaks, had considerably larger patches (Agee 2002).  This mosaic of patch sizes is 
+difficult for land managers to mimic through traditional forest thinning and prescribed 
+fire.  Allowing wildfires to burn under normal weather conditions or to allow wider use 
+of management-ignited prescribed fire (Parsons 2000) may be the most practical ways to 
+return this mosaic to the landscape. 
+ 
+Large increases in soil erosion rates after wildfires were reported by Morris and Moses 
+(1987).  Areas with severe erosion need to be addressed so that rehabilitation can be done 
+to minimize damage to watershed function (Neary et al. 2000).  There has been a 
+corresponding increase in post-fire erosion control activities with the increase in the size 
+and severity of wildfires (Robichaud 2005).  This increase in post-fire erosion control is 
+also crucial because the population living in the urban-wildland interface has also 
+increased (Robichaud 2005). 
+ 
+My objectives in this study were:  1) to use FlamMap to simulate active crown fire 
+behavior and heat/area at low, moderate, and high wind speeds, 2) to analyze the change 
+in the number of patches and mean patch sizes under low, moderate, and high wind 
+speeds, 3) to develop an Erosion Index model to identify areas with a high potential for 
+erosion following a wildfire, and 4) draw implications for management of the Peaks and 
+similar southwestern landscapes. 
+ 
+62
+
+ 
+ 
+Methods 
+ 
+Study Area 
+ 
+The 5,000 hectare area chosen for this study was located almost entirely within the 
+Kachina Peaks Wilderness Area on the south side of the San Francisco Peaks.  The steep 
+elevational gradient of the site provided an opportunity to work within nearly all of the 
+forest floor fuel conditions found in the Southwest within a compact geographic area.  
+Forest types (Figure 4.1) included ponderosa pine, mixed conifer, spruce-fir, and 
+subalpine.  The ponderosa pine (Pinus ponderosa) type occurred at the lowest elevations 
+of the study area and was found up to elevations of 2,500 m.  The mixed conifer type, 
+which included limber pine (Pinus flexilis), Douglas-fir (Pseudotsuga menziesii), 
+ponderosa pine, and aspen (Populus tremuloides), ranged from 2,500 m to 3,000 m.  The 
+spruce-fir type generally occurred between 3,000 m and 3,500 m and included 
+Engelmann spruce (Picea engelmannii), subalpine fir (Abies lasiocarpa), and bristlecone 
+pine (Pinus aristata var. arizonica).  The subalpine forest type was found from 3,100 m 
+to 3,600 m.  Bristlecone pine was the dominant tree species in this zone.  Elevations 
+range from 2,440 m to 3,560 m.   
+ 
+Weather data from 1909 – 2001, collected at the Fort Valley weather station 
+(www.wrcc.dri.edu), located five km southwest of the study site, were summarized.  
+Mean January temperatures were 5.2º C maximum and -12.3ºC minimum.  Mean July 
+temperatures were 26.7º C and 7.1º C minimum.  Mean annual precipitation was 56.9 cm.  
+ 
+63
+
+A series of weather stations were established in the study area in 1916 (Pearson 1920a).  
+Weather stations were located in the following forest types:  ponderosa pine, Douglas-fir, 
+limber pine, Engelmann spruce, and subalpine.  Pearson (1920a) used data collected from 
+these stations to determine climate factors that influenced the distribution of forest types.  
+Data collected at these stations in 1917 and 1918 show temperatures that range from 5.8º 
+C in ponderosa pine, 5.4º C in Douglas-fir, 3.1º C in Engelmann spruce, and -0.05º C in 
+the subalpine type.  Annual precipitation was 102.1 cm in the subalpine type and 61.7 cm 
+in the ponderosa pine type (Pearson 1920a). 
+ 
+Field Data 
+ 
+One hundred thirty-five permanent plots, based on the National Park Service’s Fire 
+Monitoring protocol (Reeberg 1995), were established during the 2000–2003 field 
+seasons.  Forest closures due to drought and wildfires, adverse weather conditions, and 
+the overall steepness of the terrain prevented the completion of the plots in one or two 
+field seasons. 
+ 
+The plot centers were 300 m apart, in the north-south direction, and 300 m or 600 m in 
+the east-west direction.  Each 0.1 ha (20 x 50 m) plot was oriented with the 50 m sides 
+uphill-downhill to maximize sampling of variability along the elevational gradient.   All 
+overstory trees were tagged on the uphill side and tree measurements collected included 
+species, diameter at breast height (dbh), canopy base height and total height.  Pole trees 
+(2.5-15 cm dbh) were measured on a 250 m2 subplot.  Seedling (<2.5 cm dbh) trees were 
+tallied by species, condition, and height class on a 50 m2 subplot.  Tree canopy cover was 
+ 
+64
+
+measured by vertical projection every 30 cm (Ganey and Block 1994) along the two 50 m 
+plot edges.  Slope and aspect were recorded for all plots.  Plot elevations were taken from 
+a digital elevation model.   
+ 
+Woody debris was measured on four 15.2 m planar transects (Brown 1974) that 
+originated from each 10 m point from the centerline (long axis) of the plot.  Woody 
+debris was recorded by timelag classes (Anderson 1982).  Litter and duff depth 
+measurements were taken every 1.5 m along each transect.  Downed dead woody fuel 
+consists of dead twigs, branches, stems, and boles of trees and shrubs that had fallen and 
+lie on or near the ground (Brown and See 1981) and were classified into four diameter 
+size classes of 0.1-0.5, 0.6-2.5 cm, 2.6-7.5 cm, and 7.6 cm and greater (Anderson 1982).  
+The largest size class is divided into solid and rotten components because these exhibit 
+different fire behavior.  The fuels size classes were also characterized by moisture 
+timelag classes.   
+ 
+Development of Fire Model Inputs 
+ 
+Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) satellite 
+imagery was used, in conjunction with the permanent plot data, to develop overstory tree 
+species, canopy cover, fuel model, and both woody fuels and forest floor fuels layers.  A 
+fuel model is a stylized and simplified description of fuels, described in terms of fire 
+behavior and vegetation type, that are used in fire simulation and behavior models (Pyne 
+1996). A discussion of the image classification process is discussed in Chapter 3 of this 
+thesis. 
+ 
+65
+
+ 
+A suite of data layers are necessary as inputs for FlamMap (Finney in preparation).  
+Required data layers include elevation, slope, aspect, fuel model, and canopy cover.  
+Optional data layers are stand height, canopy base height, and canopy bulk density.  The 
+three topographic layers were derived from a digital elevation model (DEM).  The spatial 
+resolution of the DEM was resampled from 10 m to 15 m to match the spatial resolution 
+of the ASTER dataset.   
+ 
+Fuel models (Anderson 1982) were assigned as follows:  aspen was model 8, aspen-
+mixed conifer stands were model 10, bristlecone pine was model 8, mixed conifer was 
+model 10, and spruce-fir was model 10.   Fuel moisture values, representing the 90th  and 
+97th  percentiles of low fuel moistures were used in all FlamMap simulations. These were 
+calculated from 30 years of weather data from the Coconino National Forest (Fulé et al. 
+2001).   
+ 
+Canopy bulk density is an optional theme in the FlamMap program.  It was not used in 
+this study.  In the absence of a canopy bulk density layer, average stand height and 
+canopy bulk density can be used.  The lowest quintile was used to categorize canopy base 
+height to better represent actual stand conditions (Fulé et al. 2002).   
+ 
+Wind speeds of 10 through 70 km/hr, in 10 km/hr increments, were used.  This range of 
+wind speeds represents realistic wind speeds that occur during the fire season (Fulé et al. 
+2001).  A range of wind speeds is necessary to quantify the influence of wind speed on 
+ 
+66
+
+active crown fire behavior.  High wind speeds were found to have a stronger influence 
+than fuel loadings on crown fire activity in high elevation forests (Bessie and Johnson 
+1995). Low, moderate, and high wind speeds of 10, 40, and 70 km/hr were used for 
+heat/area, mean patch size, and number of patches simulations.  Wind azimuth was held 
+constant at 225° because of the prevailing southwest-to-northeast wind direction. 
+ 
+A foliar moisture content of 100%  was used in the simulation process.  I chose to use 
+100% foliar moisture content due to the diversity of forest types.  Agee et al. (2002) 
+found foliar moisture content values of 80-90% for ponderosa pine and Douglas-fir and 
+100-120% for subalpine fir. 
+ 
+Simulations were conducted using each wind speed to model heat/area and crown fire 
+activity.  Each FlamMap output was saved as an ASCII file and then converted to raster 
+files.  The Patch Analyst (version 3.0) extension for Arcview 3.3 (ESRI, Redlands, CA.) 
+was used to calculate area (ha), mean patch size (ha), and number of patches for both the 
+heat/area and crown fire FlamMap outputs.  Calculations were run on both the landscape-
+level and class-level.  The above landscape metrics were also computed for heat/area and 
+crown fire activity in each forest type. 
+ 
+An Erosion Index model was created to model potential post wildfire soil erosion.  A 
+coarse woody debris (1000 hour sound and rotten fuels) layer was integrated with the 
+active crown fire layer, each heat/area layer, and the slope layer to identify areas of low, 
+moderate, and high erosion potential.  Model parameters used were slopes ≥ 10%, coarse 
+ 
+67
+
+woody debris > 0 and heat/area 223,385 KJ/m2 for the 10 km/hr scenario, 227,584 KJ/m2 
+for the 40 km/hr scenario, and 237,393 KJ/m2 for the 70 km/hr scenario. 
+ 
+Results 
+ 
+ Crown Fire Activity 
+ 
+Active crown fire increased across the study area from roughly 650 ha (13% of study 
+area) at a wind speed of 10 km/hr to nearly 2,000 ha (40% of study area) at a wind speed 
+of 70 km/hr (Figure 4.2).  The greatest single increase in active crown fire area occurred 
+at a wind speed of 20 km/hr, nearly doubling from what FlamMap simulated for a wind 
+speed of 10 km/hr.  Increases in crown fire area of roughly 300 ha occurred between the 
+20 to 40 km/hr wind speeds.  Modest increases in active crown fire area, of 
+approximately 50 ha, were modeled between the 50 to 70 km/hr wind speeds. 
+Conversely, passive crown fire dramatically decreased from 765 ha (15% of study area) 
+at a wind speed of 10 km/hr to less than a hectare at 70 km/hr.  The largest decrease, 
+95%, occurred between the 40 and 50 km/hr wind speeds. 
+ 
+When analyzed by species (Figure 4.3), the area of active crown fire consistently 
+increased throughout the 10 to 40 km/hr wind speed range.  For all species, FlamMap 
+modeled a sharp decrease in active crown fire area at the 50 km/hr wind speed.  Active 
+crown fire area again increased in the 60 and 70 km/hr wind speed scenarios.  Passive 
+crown fire area consistently decreased, with all species, from the lowest to the highest 
+wind speeds. 
+ 
+68
+
+ 
+Heat/area  
+ 
+Increases in average heat/unit area occurred at increasing wind speeds (Figure 4.4).  
+Heat/area, at all wind speeds, was greatest in the spruce-fir class (Figure 4.5).  There was 
+little difference between heat/are values in the 10 and 40 km/hr wind speed classes.  The 
+mixed conifer forest type had the second highest values and had greater variation 
+between the 10 and 40 km/hr wind speed classes.  The ponderosa and aspen classes 
+exhibited similar heat/area values at the 70 km/hr wind speed class.  Aspen had higher 
+values in the 10 and 40 km/hr wind speed classes.  The bristlecone pine class had very 
+little variation between the three wind speed classes. 
+ 
+Mean Patch Size and Number of Patches and Erosion Index 
+ 
+In areas of active crown fire, the number of crownfire patches decreased as wind speed 
+increased from 10 to 40 to 70 km/hr.  Mean patch size increased by nearly a factor of ten 
+between the 10 and 70 km/hr wind speed classes (Table 4.1). 
+ 
+The number of patches in the aspen class dramatically increased between the 10 and 70 
+km/hr wind speed classes while the mean patch size increase was very small (Table 4.2).  
+The bristlecone pine class had a small increase between the 10 and 40 km/hr wind speed 
+classes while the number of patches in the 70 km/hr wind speed class decreased slightly 
+from the number of patches in the 40 km/hr wind speed class.  Mean patch size increased 
+very slightly in the bristlecone pine class.  The number of patches increased between the 
+10 and 40 km/hr wind speed classes in the mixed conifer class.  Similar to the bristlecone 
+ 
+69
+
+pine type, the number of patches was lower in the 70 km/hr wind speed class than in the 
+40 km/hr wind speed class and the increase mean patch size was relatively small.  There 
+was an increase in the number of patches between the 10 and 40 km/hr wind speed 
+classes in the ponderosa class.  As in the bristlecone pine and mixed conifer classes, the 
+number of patches decreased in the 70 km/hr wind speed class.  The increase in mean 
+patch size was greater in the ponderosa pine class than in the other four forest types.  
+There were slight increases in both the number of patches and mean patch size in the 
+spruce-fir forest type.  Areas of modeled high erosion potential varied slightly between 
+the 10 (41 ha), 40 (65 ha), and 70 (75 ha) km/hr wind speed classes (Figure 4.6). 
+ 
+Discussion 
+ 
+Active Crown Fire Behavior 
+ 
+Active crown fire increased in overall area and in patch size with increases in wind speed.  
+Other studies, in various forest types, have had similar results.  Stratton (2004) reported 
+increases in area consumed by both passive and active crown fire in a pinyon-juniper  
+(Pinus edulis/Juniperus spp.) ecosystem, in southern Utah, when using 95th percentile 
+weather conditions.  Bessie and Johnson (1995) concluded that in subalpine forests 
+located in the southern Canadian Rocky Mountains, weather, in particular wind, played a 
+more important role in crown fire activity than did fuels.  Similarly, Fulé et al. (2001) 
+found, in a study conducted in a ponderosa pine ecosystem of northern Arizona, that 72 
+km/hr wind speeds would lead to crown fire initiation in areas that did not support crown 
+fires at slower wind speeds.   
+ 
+70
+
+ 
+It is very likely that FlamMap underestimates the actual area of active crown fire.  As 
+previously discussed, FlamMap treats each pixel independently from those around it.  
+FlamMap requires that the criteria for a surface fire and then for a passive crown fire are 
+met before a pixel can have an active crown fire value.  The progression from surface to 
+active crown fire is not possible, within FlamMap, if the canopy base height values are 
+too great.  Canopy base height is the variable used in FlamMap that has the greatest 
+influence on the progression from a surface fire to an active crown fire. Active crown fire 
+behavior, under the extreme conditions simulated in the model, would almost certainly 
+spread to adjacent pixels regardless of canopy base height.  The canopy base height layer 
+I used for the FlamMap simulations was created using the training site data as described 
+in Chapter 3 of this thesis.  No accuracy assessment of this layer was performed but the 
+accuracy is likely to be quite low as this is a forest structure variable that is difficult to 
+detect with traditional remote sensing sensors.  Stratton (2004) addressed the FlamMap 
+issue of active crown fire underestimation by combining the passive and active crown fire 
+categories.  This combination of fire behavior categories would have added little area to 
+the active crown fire class in this study because of the small area modeled as passive 
+crown fire. 
+ 
+My model simulations indicate that patch number and mean patch size increase as fire 
+severity increases.  Henry and Yool (2002) and Romme (1982) found that the number of 
+patches decreases after long fire-free periods.  Mean patch size increases as the landscape 
+becomes more homogeneous.  Forests with a frequent fire regime often have a mosaic of 
+ 
+71
+
+stand ages, densities, and species composition due to the variation in fire severity across a 
+landscape (Romme 1982). 
+ 
+Topography has been shown to have significant effects on fire behavior (Kushla and 
+Ripple 1997).  The varied topography of the Peaks would almost certainly lead to a 
+mosaic of burned and unburned patches, as reflected in the model results.  The Leroux 
+fire, which burned under normal weather conditions, created a mosaic of unburned, 
+moderately burned, and severely burned patches (Cocke 2005).  Under extreme weather 
+conditions though, topography has a decreased influence on fire behavior (Kushla and 
+Ripple 1997).  Bessie and Johnson (1995) and Turner and Romme (1994) also found that 
+in extreme weather conditions, the importance of fuel loading decreases as the conditions 
+necessary to attain crown fire are met.  Weather is more closely associated with fire 
+behavior than are fuels and analysis by Bessie and Johnson (1995) found that weather 
+explained 83% of the variance in fire intensity. 
+   
+Fire Effects 
+ 
+Invasive plant species often thrive in areas that were created by high severity fire.  These 
+species will often be the dominant post-fire plant community (Romme et al. 2003).   The 
+various conifer species in the study area respond differently to fire.  Ponderosa pine has a 
+high fire resistance, the mixed conifer species in the study area (Douglas-fir and limber 
+pine) have a high fire resistance, and the spruce-fir species (Engelmann spruce and 
+subalpine fir) have a low fire resistance.  Bristlecone pine, located in the highest points in 
+the study area, have a moderate resistance to fire.  Aspen, found throughout nearly the 
+ 
+72
+
+entire study area, has a very low resistance to fire.  Although many of these species have 
+a high resistance to low and moderate severity fires, high-severity fire areas may have 
+little conifer regeneration due to high seed mortality (Romme et al. 2003).  Buds and 
+branch cambium must survive a fire in order for a tree to survive (Miller 2000).  The long 
+needles on ponderosa pine and limber pine help to shield the buds and this can increase 
+bud survival at a 20% lower height than that where foliage is killed (Ryan 1990). 
+ 
+Second-order fire effects, such as erosion and changes in vegetation composition, are 
+indirect post-fire effects that occur from just hours up to decades after a fire (Reinhardt et 
+al. 2001).  Erosion is a second-order fire effect of particular importance to the study area.  
+The removal of forest floor litter, which acts to slow water runoff and allow for water 
+infiltration, accelerates the erosion process (Morris and Moses 1987).   Post-fire sediment 
+amounts can be extreme in areas of steep terrain, particularly in areas that also experience 
+high intensity thunderstorms.  Average slope in the study area is roughly 35%.  The 
+runoff from both snow and the summer monsoons provide the perfect combination for 
+large amounts of sediment to be washed down-slope.   Removal of topsoil is detrimental 
+to vegetation recovery, leads to flooding, and severely eroded drainages (Miller et al. 
+2003). 
+ 
+Leao (2005) modeled post-fire flooding on the Rio de Flag watershed, covering much of 
+my study area, showing that peak discharge could increase two to nearly seven times the 
+historical 100 year discharge.  Debano et al. (1998) found that in areas of steep terrain 
+ 
+73
+
+that experience heavy summer monsoon precipitation, such as the Peaks, discharge can 
+increase up to 9,600%.    
+ 
+Identifying areas that have high erosion potential is important to identify high risk areas 
+that need to be considered for some type of fuels treatment.  High risk areas are typically 
+areas that have experienced a recent high-severity fire as low and moderate-severity fires 
+do not have similar erosion and runoff impacts (Cipra et al. 2003).  The Erosion Index 
+Model created in this study was used to high identify high risk areas.  I feel that the 
+model underestimated the high risk area.  The steep slopes and relatively high coarse 
+woody debris level throughout much of the study area would seem to suggest that the 
+potential for severe runoff would be greater.    
+ 
+Model Limitations 
+ 
+The FlamMap model has limitations that need to be understood before management 
+decisions are made based on the model outputs.  The criteria for active crown fire 
+initiation is such a limitation.  Agee (1996) found that the parameters in the Van Wagner 
+(1977) crown fire initiation model, utilized in FlamMap, seemed more sensitive to 
+canopy base height than to foliar moisture content.  My simulations confirmed this.  All 
+models are also scale dependent (Benson and MacKenzie 1995, Turner et al. 2001) and 
+results will differ depending on what scale is used.  The accuracy of the data layers used 
+as inputs needs to be taken into consideration.  The FlamMap outputs are not necessarily 
+accurate estimates of active crown fire, but they do allow for reasonable comparisons of 
+potential active crown fire activity in relative terms (Fulé et al. 2004). 
+ 
+74
+
+ 
+Conclusions and Management Implications 
+ 
+Over a century of fire suppression has resulted in unnatural forest conditions and large, 
+severe wildfires (Covington and Moore 1994, Swetnam et al. 1999).  The size and 
+frequency of crown fires have increased.  Crown fires in the 1940s to the 1970s averaged 
+from 100 to 3,000 acres with fewer than ten fires per decade.  During the 1990s, crown 
+fire size increased to 2,000 to 7,000 acres and averaged twenty-six fires per decade (Mast 
+2003). The potential for crown fire activity can be greatly reduced, but not necessarily 
+eliminated, through management of surface fuels or by raising the canopy base height 
+(Agee 1996).   
+ 
+The question of what role fire should currently play on the Peaks is complicated by the 
+Federal Wilderness designation of much of the area.  The Wilderness Act of 1964 states 
+that wilderness should have minimal impacts from human activities but it also states that 
+it be “managed so as to preserve its natural conditions.”  Wilderness is managed for both 
+naturalness and wildness (Cole 2001).  Naturalness in wilderness describes conditions 
+that are largely unaffected by humans and the wildness of wilderness refers to it being 
+untrammeled and unmanipulated by humans (Parsons et al. 2003).   
+ 
+It is difficult to manage for both naturalness and wildness.  Over a century of fire 
+suppression may make it necessary to use human ignited prescribed fires and mechanical 
+fuels reduction techniques to return areas to a more natural state.  These types of fuel 
+treatments completely go against the idea of an area untouched by humans (Parsons et al. 
+ 
+75
+
+2003).  The decision to manage wilderness for wildness or naturalness may be one of the 
+main wilderness management issues of the 21st century (Cole 2001). 
+ 
+Prescribed fire, both human ignited and wildland use fires, has been used, but very few of 
+the designated wilderness areas outside of Alaska have approved fire plans.  Budget 
+limitations, interagency boundaries and cooperation, and air quality concerns are some of 
+the reasons that there has been little progress in wilderness fuels management (Parsons et 
+al. 2003).   
+ 
+The reintroduction of fire to the San Francisco Peaks may be the only management 
+alternative available.  The steep terrain of the Peaks would make any mechanical 
+treatments too impractical.  Wildland use fires have been used in other wilderness areas 
+(Parsons 2000) and because of access issues may be the most appropriate method of fire 
+reintroduction (Miller 2003).  Ecological and social concerns must be considered before 
+reintroducing fire to the Peaks.  Issues related to smoke and the potential for fire to cross 
+prescribed fire boundaries are risks that land managers must consider (van Wagtendonk 
+1995).  These issues must be addressed because of the ecological and social impacts of a 
+catastrophic wildfire and the potential resulting erosion and flooding. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+76
+
+0
+0.05
+0.1
+0.15
+0.2
+0.25
+0.3
+Aspen
+Bristlecone
+Mixed conifer
+Ponderosa
+Spruce-fir
+Figure 4.1  Percent of landscape by forest type. 
+ 
+ 
+ 
+77
+
+ 
+10 km/hr 
+70 km/hr 
+0
+500
+1000
+1500
+2000
+2500
+10
+40
+70
+Wind speed (km/hr)
+Area (ha)
+0
+500
+1000
+1500
+2000
+2500
+10
+20
+30
+40
+70
+Wind speed (km/hr)
+Area (ha)
+40 km/hr 
+ 
+ 
+ 
+Figure 4.2  Fire behavior classes under low (10 km/hr), moderate (40 km/hr), and high 
+(70 km/hr)  wind conditions.  Bar graph shows area of the active crown fire class under 
+wind conditions from 10-40 and 70 km/hr to more clearly identify the active crown fire 
+threshold.
+ 
+78
+
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+Aspen
+Bristlecone
+Mixed conifer
+Ponderosa
+Spruce-fir
+Area (ha)
+10 km/hr
+20 km/hr
+30 km/hr
+40 km/hr
+70 km/hr
+ 
+Figure 4.3  Area of active crown fire in the five forest types under low, moderate, and 
+high wind conditions. 
+ 
+0
+10000
+20000
+30000
+40000
+50000
+60000
+70000
+80000
+90000
+10
+40
+70
+Wind speed (km/hr)
+KJ/m^2
+ 
+ 
+ 
+Figure 4.4  Heat/area under active crown fire conditions and low, moderate, and high 
+wind conditions. 
+ 
+79
+
+ 
+Figure 4.5  Heat/area under active crown fire conditions and low, moderate, and high 
+wind conditions for the five forest types. 
+ 
+ 
+ 
+0
+20000
+40000
+60000
+80000
+100000
+120000
+Aspen
+Bristlecone
+Mixed conifer
+Ponderosa
+Spruce-fir
+KJ/m 2
+140000
+10 km/hr
+40 km/hr
+70 km/hr
+ 
+80
+
+ 
+81
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4.6  Areas of high erosion potential under active crown fire conditions and low, 
+moderate, and high wind conditions.  Model parameters used were slopes ≥ 10%, coarse 
+woody debris > 0 and heat/area 223,385 KJ/m2 for the 10 km/hr scenario, 227,584 KJ/m2 
+for the 40 km/hr scenario, and 237,393 KJ/m2 for the 70 km/hr scenario.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Table 4.1  Number of patches and mean patch size, in areas of active crown fire, at low, 
+moderate, and high wind speeds at the landscape-level. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 4.2  Number of patches, and mean patch size, in areas of active crown fire, at low, 
+moderate, and high wind speeds for the five forest types. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (ha)
+Wind Speed (km/hr)
+Number of Patches Mean Patch Size
+10
+2020
+0.32
+20
+3167
+0.4
+30
+1895
+0.85
+40
+1080
+1.75
+70
+811
+2.58
+ 
+ 
+ 
+Wind Speed (km/hr)
+Number of Patches Mean Patch Size (ha)
+Aspen
+10
+1596
+0.06
+20
+3727
+0.06
+30
+4584
+0.08
+40
+4373
+0.07
+70
+4591
+0.08
+Bristlecone
+10
+1059
+0.14
+20
+1379
+0.14
+30
+1358
+0.15
+40
+1369
+0.15
+70
+1358
+0.15
+Mixed conifer
+10
+1213
+0.19
+20
+3541
+0.15
+30
+3127
+0.24
+40
+3254
+0.23
+70
+3127
+0.24
+Ponderosa
+10
+983
+0.05
+20
+1906
+0.06
+30
+2342
+0.2
+40
+2786
+0.14
+70
+2309
+0.21
+Spruce-fir
+10
+608
+0.21
+20
+992
+0.19
+30
+933
+0.26
+40
+946
+0.25
+70
+933
+0.26
+ 
+82
+
+Literature Cited 
+ 
+behavior.  Presented at the 17th 
+Annual Forest Vegetation Management Conference, Redding CA, January 16-18. 
+Agee JK (2002) Fire as a coarse filter for snags and logs. In Ecology and management of 
+dead wood in Western forests. USDA Forest Service General Technical Report 
+PSW-GTR-181. pp. 359-368.    
+Agee JK, Wright CS, Williamson N, Huff MH (2002) Foliar moisture content of Pacific 
+Northwest vegetation and its relation to wildland fire behavior. Forest Ecology 
+and Management 167, 57-66. 
+Benson BJ, MacKenzie MD (1995) Effects of sensor spatial resolution on landscape 
+ 
+ 
+ 
+ 
+ 
+ents using 
+ of
+Remote Sensing 14, 189-198. 
+ 
+Cole DN (2001) Management dilemmas that will shape wilderness in the 21st century. 
+Journal of Forestry 1, 4-8. 
+ 
+Covington WW, Moore MM (1994) Southwestern ponderosa pine forest structure: 
+changes since Euro-American settlem nt. Journal of Forestry 1, 39-47.  
+Agee JK (1996) The influence of forest structure on fire 
+Anderson H E (1982) Aids to determining fuel models for estimating fire behavior.  
+USDA Forest Service General Technical Report INT-69, Ogden UT. 22 pp. 
+ 
+structure parameters. Landscape Ecology 10, 113-120.  
+Bessie WC, Johnson EA (1995) The relative importance of fuels and weather on fire 
+behavior in subalpine forests. Ecology 76, 747-762. 
+Brown JK (1974)  Handbook for inventorying downed woody material. General 
+Technical Report INT-16. USDA Forest Service Intermountain Forest & Range 
+Experiment Station, Ogden, Utah. 16 pp. 
+Brown JK, See TE (1981) Downed and Dead Woody Fuel and Biomass in the Northern 
+Rocky Mountains. USDA Forest Service Intermountain Research Station General 
+Technical  Report INT-117. 48 pp. 
+Cipra JE, Kelly EF, MacDonald L, Norman J (2003) Soil properties, erosion, and 
+implications for rehabilitation and aquatic ecosystems.  Ecological effects of the 
+Hayman Fire.  USDA Forest Service Rocky Mountain Research Station General 
+Technical Report RMRS-GTR-114. pp. 210-219.   
+Cocke AE, Fulé PZ, Crouse JE (2005) Comparison of burn severity assessm
+Differenced Normalized Burn Ratio and ground data. International Journal
+ 
+e
+ 
+ 
+83
+
+Debano LF, Neary DG, Ffolliott PF
+ts on ecosystems.  John Wiley & 
+Sons, Inc. New York, NY.  333 pp. 
+ 
+Finney MA (1998) FARSITE: Fire Area Simulator-Model Development and Evaluation.  
+Finney MA  In preparation. FlamMap.  Missoula, MT: USDA Forest Service, Rocky 
+Forman RTT, Godron M (1986) Landscape ecology.  John Wiley and Sons, New York. 
+619 pp. 
+Fulé PZ
+ 
+reduced following forest restoration treatments.  In: Proceedings of the RMRS-P-
+ulé PZ
+anopy 
+ 
+elated spatial patterns in the Arizona sky 
+Kushla
+ 95, 97-107. 
+. 
+arzluff JM, Bradley GA (2003) Ecological restoration in the urban-wildland interface.  
+.  
+ (1998) Fire’s effec
+ESRI (1992-2002) Environmental Systems Research Institute, Inc. ArcView GIS 3.3. 
+Rocky Mountain Research Station. USDA Forest Service Research Paper RMRS-
+RP-4. Ogden, UT., 47 pp. 
+Mountain Research Station, Fire Sciences Lab. 
+,  McHugh C, Heinlein TA, Covington WW (2001) Potential fire behavior is
+22.  USDA Forest Service, Ogden, UT, 28-35. 
+, Covington WW, Smith HB, Springer JD, Heinlein TA, Huisinga DK, Moore 
+F
+MM (2002) Comparing ecological restoration alternatives: Grand Canyon, 
+Arizona. Forest Ecology and Management 170, 19-41. 
+Fulé PZ, Crouse JE, Cocke AE, Moore MM, Covington WW (2004) Changes in c
+fuels and potential fire behavior 1880-2040: Grand Canyon, Arizona. Ecological
+Modeling 175, pp. 231-248. 
+Ganey JL, Block WM (1994) A Comparison of two techniques for measuring canopy 
+closure. Western Journal of Applied Forestry 1, 21-23. 
+Henry MC, Yool SR (2002) Characterizing fire-r
+islands using Landsat TM data. Photogrammetric Engineering and Remote 
+Sensing 68, 1011-1019. 
+ JD, Ripple WJ (1997) The role of terrain in a fire mosaic of a temperate 
+coniferous forest. Forest Ecology and Management
+Leao DS (2005) Water yield and peak discharges resulting from forest disturbance in a 
+northern Arizona watershed. Flagstaff AZ. Northern Arizona University. 135 pp
+M
+In: Ecological restoration of Southwestern ponderosa pine forests.  Island Press
+pp. 353-370. 
+Mast JN (2003) Tree health and forest structure. In: Ecological restoration of 
+Southwestern ponderosa pine forests. Island Press. pp. 215-232. 
+ 
+ 
+84
+
+Miller C, Urban D (2000) Connectivity of forest fuels and surface fire regimes.  
+Landscape Ecology 15, 145-154. 
+Miller JD, Nyhan JW, Yool SR (2003) Modeling potential erosion due to the Cerro 
+Grande Fire with a GIS-based implementation of the Revised Universal Soil Loss 
+ 
+Miller M (2000) Fire autecology.  In Wildland fire in ecosystems: effects of fire on flora. 
+USDA Forest Service General Technical Report RMRS-GTR-42 volume 2. pp. 9-
+ 
+Morris SE, Moses TA (1987) Forest fire and the natural soil erosion regime in the 
+. 
+ the Southwest 29, 31-36.  
+, 
+ time 
+s, threats, and 
+ 
+ral 
+, Klinger RC, Sugihara 
+NG (eds.). Proceedings of Fire Conference 2000: The First National Congress of 
+ 
+Pearson GA (1920a)  Factors controlling the distribution of forest types, part I.  Ecology 
+ 
+Pearson GA (1920b)  Factors controlling the distribution of forest types, part II.  Ecology 
+ 
+ 
+Reeberg P (1995) The Western Region fire monitoring handbook.  In Proceedings: 
+Service 
+20. Ogden, 
+Equation. International Journal of Wildland Fire 12, 85-100. 
+34. 
+Colorado Front Range. Annals of the Association of American Geographers 77, 
+245-254
+ 
+Neary DG, Robichaud PR, Beyers JL, Hubbert K, Tenpas J, Nelson BE (2000) Post-fire 
+burned area emergency rehabilitation treatments: Do they work in the Southwest. 
+Hydrology and Water Resources in Arizona and
+ 
+Parsons DJ (2000) The Challenge of Restoring Natural Fire to Wilderness. In Cole DN
+McCool SF, Borrie WT, O'Loughlin J comps. 2000. Wilderness science in a
+of change conference - Volume 5: Wilderness ecosystem
+management; 2000 May 23 - 27; Missoula, MT. Proceedings RMRS-P-15-VOL-
+5. Ogden, UT: U.S. Department of Agriculture, Forest Service, Rocky Mountain 
+Research Station. pp. 276-282. 
+Parsons DJ, Landres PB, Miller C (2003) The dilemma of managing and restoring natu
+fire and fuels in United States wilderness. In Galley KEM
+Fire Ecology, Prevention, and Management. Miscellaneous Publication No. 13, 
+Tall Timbers Research Station, Tallahassee, FL. Pp. 19-26. 
+1, 139-159. 
+1, 289-308.   
+Pyne SJ, Andrews PL, Laven RD (1996)  Introduction to wildland fire. John Wiley & 
+Sons, Inc., New York, Chichester, Brisbane, Toronto, Singapore. 769 pp. 
+symposium on fire in wilderness and park management. USDA Forest 
+Intermountain Research Station General Technical Report INT-GTR-3
+Utah. pp. 259-261. 
+ 
+ 
+85
+
+Robichaud PR (2005) Measurement of post-fire hillslope erosion to evaluate and
+rehabilitation treatment effectiven
+ model 
+ess and recovery. International Journal of 
+Wildland Fire 14, 475-485. 
+Romm
+on General Technical Report RMRS-GTR-114. pp. 220-227. 
+nt: proceedings of the Interior West Fire Council annual meeting. 1988 
+October 24-27. Kananiskis Village, AB. Info. Rep. NOR-X-309. Edmonton, AB, 
+Scott J
+e 
+treatments in a western Montana ponderosa pine stand. Rocky Mountain Research 
+Scott JH
+surface 
+ 
+ 
+tratton
+ents on fire 
+ 
+Swetna
+ 
+ 
+urner MG, Romme WH (1994) Landscape dynamics in crown fire ecosystems.  
+urner 
+r RH, O’Neill RV (2001) Landscape ecology in theory and practice, 
+ 
+an Wa
+or the start and spread of crown fire.  Canadian 
+an W
+n 
+ 
+hite P
+85) The ecology of natural disturbance and patch dynamics.  
+Academic Press, Inc. 472 pp. 
+ 
+e WH (1982) Fire and landscape diversity in subalpine forests of Yellowstone 
+National Park. Ecological Monographs 52, 199-221. 
+ 
+Romme WH, Regan CM, Kaufmann MR, Huckaby L, Veblen TT (2003) Ecological 
+effects of the Hayman Fire.  USDA Forest Service Rocky Mountain Research 
+Stati
+Ryan K (1990) Predicting prescribed fire effects on trees in the interior west. In 
+Alexander ME, Bisgrove GF, tech. coords. The art and science of fire 
+manageme
+Forestry Canada, Northern Forestry Centre. pp. 148-162. 
+ (1998) Fuel reduction in residential and scenic forests: a comparison of thre
+Station. USDA Forest Service Research Paper RMRS-RP-5. Ogden, UT., 19 pp. 
+, Reinhardt ED (2001) Assessing crown potential by linking models of 
+and crown fire behavior.  USDA Forest Service Research Paper RMRS-RP-29. 59
+pp. 
+ RD (2004) Assessing the effectiveness of landscape fuel treatm
+S
+growth and behavior. Journal of Forestry 32-40. 
+m, TW, Allen CD, Betancout JL (1999) Applied historical ecology: using the past
+to manage for the future. Ecological Applications 9, 1189-1206. 
+T
+Landscape Ecology 9, 59-77. 
+ 
+MG, Gardne
+T
+pattern and process. Springer-Verlag. New York. 401 pp. 
+V
+gner CE (1977) Conditions f
+Journal of Forest Research 7, 23-34. 
+ 
+agtendonk JW (1995) Large fires in wilderness areas. In J.K. Brown, R.W. Mutch, 
+V
+C.W. Spoon, and R.H. Wakimoto, editors. Proceedings: symposium on fire i
+wilderness and park management. USDA Forest Service General Technical 
+Report INT-GTR 320. pp. 113-116. 
+S, Pickett STA (19
+W
+ 
+86
+
+Ap
+floor fu
+els.
+s*
+100
+pendix 
+ 
+a
+ (
+an
+ 
+an
+t 
+e
+r 
+n
+ 
+ 
+ 
+*10
+indic
+olid f
+an
+r indi
+ 1
+tten fu
+as
+1
+1
+    
+00
+0h
+0hr*
+r
+. 
+e.
+uf
+00
+1 
+l types fo
+1000h s+
+Area (h
+00hs 
+Fuels Cl
+2
+) and percent
+ates 1000h s
+s
+1h
+2
+%) of l
+uels 
+0h
+dscape
+d 1000h
+00h
+woody 
+cates
+ 1+10+1
+d fores
+000h ro
+h
+100
+the three im
+Wood Total
+age combinatio
+Ave. Litter (cm) Ave
+s.  Woody
+Duff (cm) Av
+fuels in
+ Litter+D
+Mg/ha. 
+f (cm)
+1 2388  (72) 29
+2 635  (19)
+3
+210  (6)
+s
+100  (3)
+al
+3332
+3
+9
+08
+)
+ (6
+ (53)
+)
+9
+57)
+102
+8
+1
+(16)
+)
+2
+39)
+50 
+11
+ (3
+ (5)
+1
+)
+uel
+189
+6
+1
+(26)
+)
+2
+)
+ot
+3
+3
+2
+2
+00
+2  (90) 2
+  (3)
+5
+ (1)
+  (6)
+5
+332
+3  (62)
+0  (17)
+0  (3)
+0  (17)
+332
+2357  (71
+744  (22)
+147  (4)
+85  (3)
+3332
+2276 
+486  (
+107 
+463  (
+333
+8) 1765 
+5)
+521  
+)
+173 
+4)
+873  
+333
+1731  (52
+945  (28
+283  (8)
+374  (11
+3332
+1956  (59)
+1013  (30)
+324  (10)
+39  (1)
+3332
+2136  (64)
+1
+901  (27)
+1
+256  (8)
+39  (1)
+3332
+39  (58)
+56  (38)
+12  (3)
+6  (1)
+3332
+1884  (
+1305  (
+117  (4
+25  (1
+3332
+No F
+T
+2
+1 2296  (69) 29
+2 630  (19)
+3
+276  (8)
+s
+111  (3)
+al
+3314
+0
+44
+)
+ (6
+ (58)
+)
+7
+42)
+154
+2
+2
+(15)
+)
+2
+45)
+117
+9
+16
+ (4
+ (5)
+2
+3)
+uel
+139
+24
+73
+1
+(22)
+2
+)
+ot
+3
+3
+3
+4
+4
+2
+003
+3  (88) 2
+  (5)
+5
+  (4)
+  (4)
+314
+4  (74)
+9  (16)
+3  (3)
+8  (7)
+314
+2369  (71
+713  (22)
+0  (5)
+  (2)
+314
+2128 
+740  (
+126 
+319  (
+331
+4) 1910 
+2)
+505  
+)
+176 
+0)
+723  
+331
+1705  (51
+1084  (33
+303  (9)
+222  (7)
+3314
+1782  (54)
+1082  (33)
+403  (12)
+46  (1)
+3314
+2036  (61)
+1
+855  (26)
+1
+344  (10)
+79  (2)
+3314
+90  (54)
+49  (38)
+49  (8)
+6  (1)
+3314
+1382  (
+1479  (
+428  (1
+26  (1
+3314
+No F
+T
+002-2
+1 2
+99  (9
+18
+234
+)
+ (6
+ (51)
+)
+7
+44)
+2
+121  (4
+1
+797
+1
+(17)
+)
+3
+45)
+3
+46  (1
+6
+99
+ (3
+ (6)
+1
+0)
+uels
+167  (5
+7
+92
+1
+(26)
+)
+2
+)
+otal
+3332
+3
+3
+2
+2
+432  (73) 29
+586  (18)
+189  (6)
+125  (4)
+3332
+0) 2
+)
+6
+)
+)
+4
+2  (65)
+1  (18)
+1  (2)
+8  (14)
+332
+5  (70
+  (24)
+  (3)
+  (3)
+332
+2151 
+600  (
+110 
+471  (
+333
+5) 1707 
+8)
+560  
+)
+190 
+4)
+875  
+333
+1652  (50
+1010  (30
+313  (9)
+358  (11
+3332
+1818  (55)
+1093  (33)
+379  (11)
+42  (1)
+3332
+2164  (65)
+1
+871  (26)
+1
+259  (8)
+37  (1)
+3332
+99  (54)
+60  (41)
+48  (4)
+6  (1)
+3332
+1478  (
+1512  (
+317  (1
+26  (1
+3332
+No F
+T
+ 
+87
+
+ 
+88
+ 
+*1000hs indicates 1000h solid fuels and 1000hr indicates 1000h rotten fuels. 
+ 
+ 
+Z Score
+-0.18
+0
+-0.73
+0.57
+0.05
+0.25
+0.6
+-0.21
+0.06
+0.56
+-1.05
+-1.26
+-0.49
+0.27
+0.58
+0.48
+0.29
+0.85
+0.9
+0.69
+Species Canopy Cover Fuel Model
+1h
+10h
+100h Wood1-100h 1000hs* 1000hr* 1000h s+r Wood Total Ave. Litter (cm) Ave. Duff (cm) Ave. Litter+Duff (cm)
+Spruce-fir
+Overall Accuracy
+0.42
+0.58
+0.88
+0.32
+0.58
+0.21
+0.53
+0.33
+0.47
+0.5
+0.53
+0.68
+0.16
+0.17
+KHAT
+0.39
+-0.06
+0.07
+0.04
+-0.16
+0.11
+-0.14
+0.23
+0.16
+0.2
+-0.16
+-0.22
+Variance
+0.024
+0.001
+0.028
+0.06
+0.014
+0.039
+0.028
+0.061
+0.028
+0.039
+0.065
+0.087
+Z Score
+2.52
+-1.42
+0.42
+0.15
+-1.32
+0.53
+-0.81
+0.92
+0.93
+0.98
+-0.63
+-0.75
+P-value
+0.01
+0.92
+0.34
+0.44
+0.91
+0.3
+0.79
+0.18
+0.18
+0.16
+0.74
+0.77
+Appendix 2 
+ 
+Accuracy assessment results, by forest type, for layers created with the 2002 dataset.  Layers significantly better than random are 
+shown in bold.  Woody fuels in Mg/ha. 
+Species Canopy Cover Fuel Model
+1h
+10h
+100h Wood1-100h 1000hs* 1000hr* 1000h s+r Wood Total Ave. Litter (cm) Ave. Duff (cm) Ave. Litter+Duff (cm)
+Aspen
+Overall Accuracy
+0.45
+0.35
+0.75
+0.55
+0.7
+0.45
+0.45
+0.31
+0.56
+0.3
+0.3
+0.4
+0.6
+0.58
+KHAT
+0.1
+0.24
+0.28
+0
+-0.05
+-0.16
+0.33
+0.02
+0.02
+-0.08
+0.18
+0.11
+Variance
+0.021
+0.034
+0.059 0.049
+0.055
+0.404
+0.029
+0.039
+0.039
+0.066
+0.053
+0.059
+Z Score
+0.71
+1.29
+1.13
+0
+-0.24
+-0.79
+1.9
+0.11
+0.11
+-0.3
+0.76
+0.44
+P-value
+0.24
+0.1
+0.13
+0.5
+0.6
+0.78
+0.03
+0.46
+0.46
+0.62
+0.23
+0.33
+Species Canopy Cover Fuel Model
+1h
+10h
+100h Wood1-100h 1000hs* 1000hr* 1000h s+r Wood Total Ave. Litter (cm) Ave. Duff (cm) Ave. Litter+Duff (cm)
+Bristlecone
+Overall Accuracy
+0.53
+0.37
+0.83
+0.43
+0.61
+0.37
+0.45
+0.43
+0.48
+0.4
+0.37
+0.47
+0.6
+0.67
+KHAT
+0.12
+0.18
+0.28
+-0.01
+0.09
+0.1
+-0.01
+0.11
+0.11
+0.06
+0.36
+0.46
+Variance
+0.013
+0.021
+0.041 0.045
+0.028
+0.022
+0.128
+0.018
+0.026
+0.03
+0.02
+0.016
+Z Score
+1.08
+1.26
+1.37
+-0.03
+0.53
+0.65
+-0.02
+0.8
+0.69
+0.34
+2.51
+3.64
+P-value
+0.14
+0.1
+0.09
+0.51
+0.3
+0.26
+0.51
+0.21
+0.25
+0.37
+0
+0
+Species Canopy Cover Fuel Model
+1h
+10h
+100h Wood1-100h 1000hs* 1000hr* 1000h s+r Wood Total Ave. Litter (cm) Ave. Duff (cm) Ave. Litter+Duff (cm)
+Mixed-conifer Overall Accuracy
+0.21
+0.42
+0.85
+0.37
+0.63
+0.42
+0.47
+0.5
+0.45
+0.42
+0.37
+0.42
+0.45
+0.39
+KHAT
+0.18
+-0.08
+0
+0.31
+0.08
+0.05
+0.12
+-0.03
+0.12
+0.03
+0.09
+0.17
+0.1
+Variance
+0.013
+0.001
+0.017
+0.027 0.015
+0.021
+0.202
+0.1
+0.014
+0.015
+0.022
+0.021
+0.024
+Z Score
+1.57
+-2.01
+0
+1.85
+0.67
+0.31
+0.81
+-0.08
+1.03
+0.27
+0.58
+1.14
+0.62
+P-value
+0.06
+0.98
+0.5
+0.03
+0.25
+0.38
+0.21
+0.53
+0.15
+0.39
+0.28
+0.13
+0.27
+Species Canopy Cover Fuel Model
+1h
+10h
+100h Wood1-100h 1000hs* 1000hr* 1000h s+r Wood Total Ave. Litter (cm) Ave. Duff (cm) Ave. Litter+Duff (cm)
+Ponderosa
+Overall Accuracy
+0.44
+0.28
+0.88
+0.32
+0.62
+0.31
+0.51
+0.49
+0.29
+0.39
+0.45
+0.46
+0.33
+0.44
+KHAT
+-0.02
+0
+-0.14
+0.11
+0.01
+0.04
+0.12
+-0.06
+0.01
+0.09
+-0.11
+-0.17
+-0.07
+Variance
+0.012
+0.235
+0.034
+0.034 0.027
+0.021
+0.037
+0.068
+0.025
+0.026
+0.01
+0.018
+0.02
+P-value
+0.57
+0.5
+0.77
+0.28
+0.48
+0.4
+ 
+
+Appendix 3 
+ccuracy assessment results, by forest type, for layers created with the 2003 dataset.  Layers significantly better than random are 
+odel
+1h
+10h
+100h Wood1-100h 1000hs* 1000hr
+ 
+A
+shown in bold.  Woody fuels in Mg/ha. 
+ 
+Species Canopy Cover Fuel M
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+*1000hs indicates 1000h solid fuels and 1000hr indicates 1000h rotten fuels. 
+* 1000h s+r Wood Total Ave. Litter (cm) Ave. Duff (cm) Ave. Litter+Duff (cm)
+Aspen
+Overall Accuracy
+0.65
+0.2
+0.8
+0.65
+0.75
+0.45
+0.5
+0.37
+0.47
+0.35
+0.45
+0.5
+0.5
+0.56
+KHAT
+-0.04
+0.38
+0.4
+0.04
+0.05
+0.03
+-0.01
+0.08
+0.18
+0.04
+0.03
+0.06
+Variance
+0.016
+0.038
+0.048 0.036
+0.046
+0.046
+0.05
+0.04
+0.032
+0.047
+0.045
+0.055
+Z Score
+-0.33
+1.97
+1.84
+0.19
+0.22
+0.16
+-0.03
+0.42
+0.99
+0.2
+0.14
+0.27
+P-value
+0.63
+0.02
+0.03
+0.43
+0.41
+0.44
+0.51
+0.34
+0.16
+0.42
+0.45
+0.39
+Species Canopy Cover Fuel Model
+1h
+10h
+100h Wood1-100h 1000hs* 1000hr* 1000h s+r Wood Total Ave. Litter (cm) Ave. Duff (cm) Ave. Litter+Duff (cm)
+Bristlecone
+Overall Accuracy
+0.47
+0.33
+0.83
+0.47
+0.53
+0.34
+0.39
+0.5
+0.37
+0.47
+0.43
+0.5
+0.4
+0.3
+KHAT
+0.12
+0.19
+0.17
+0.04
+0.04
+0.23
+-0.15
+0.2
+0.19
+0.1
+0.07
+-0.04
+Variance
+0.013
+0.027
+0.04
+0.055
+0.031
+0.023
+0.162
+0.023
+0.027
+0.019
+0.017
+0.012
+Z Score
+1.06
+1.18
+0.83
+0.16
+0.22
+1.49
+-0.37
+1.29
+1.15
+0.72
+0.54
+-0.35
+P-value
+0.14
+0.12
+0.2
+0.44
+0.41
+0.07
+0.65
+0.1
+0.12
+0.23
+0.29
+0.64
+Species Canopy Cover Fuel Model
+1h
+10h
+100h Wood1-100h 1000hs* 1000hr* 1000h s+r Wood Total Ave. Litter (cm) Ave. Duff (cm) Ave. Litter+Duff (cm)
+Mixed-conifer Overall Accuracy
+0.18
+0.45
+0.79
+0.5
+0.57
+0.47
+0.42
+0.37
+0.31
+0.5
+0.47
+0.61
+0.39
+0.39
+KHAT
+0.26
+-0.06
+0.16
+0.15
+0.16
+0.05
+0
+-0.05
+0.26
+0.23
+0.29
+0.15
+0.13
+Variance
+0.01
+0.08
+0.018
+0.04
+0.018
+0.014
+0.014
+0.11
+0.015
+0.014
+0.017
+0.018
+0.017
+Z Score
+2.51
+-0.22
+1.19
+0.75
+1.2
+0.38
+-0.38
+-0.14
+2.08
+1.87
+2.18
+1.13
+1.03
+P-value
+0.01
+0.58
+0.12
+0.23
+0.12
+0.35
+0.52
+0.56
+0.02
+0.03
+0.01
+0.13
+0.16
+Species Canopy Cover Fuel Model
+1h
+10h
+100h Wood1-100h 1000hs* 1000hr* 1000h s+r Wood Total Ave. Litter (cm) Ave. Duff (cm) Ave. Litter+Duff (cm)
+Ponderosa
+Overall Accuracy
+0.56
+0.23
+0.64
+0.36
+0.69
+0.41
+0.49
+0.51
+0.29
+0.39
+0.42
+0.51
+0.36
+0.41
+KHAT
+-0.07
+-0.21
+-0.07
+0.24
+0.13
+-0.01
+0.15
+-0.1
+-0.03
+0.03
+0.18
+-0.21
+0.07
+Variance
+0.008
+0.03
+0.03
+0.034 0.029
+0.015
+0.038
+0.045
+0.023
+0.026
+0.018
+0.012
+0.03
+Z Score
+-0.77
+-1.17
+-0.37
+1.31
+0.78
+-0.12
+0.76
+-0.45
+-0.18
+0.17
+1.31
+-1.87
+0.39
+P-value
+0.78
+0.88
+0.65
+0.1
+0.22
+0.55
+0.22
+0.67
+0.57
+0.43
+0.1
+0.97
+0.35
+Species Canopy Cover Fuel Model
+1h
+10h
+100h Wood1-100h 1000hs* 1000hr* 1000h s+r Wood Total Ave. Litter (cm) Ave. Duff (cm) Ave. Litter+Duff (cm)
+Spruce-fir
+Overall Accuracy
+0.32
+0.42
+0.88
+0.42
+0.72
+0.32
+0.28
+0.59
+0.26
+0.47
+0.47
+0.63
+0.37
+0.39
+KHAT
+0.12
+-0.06
+0.21
+0.22
+-0.1
+-0.37
+0.28
+0.01
+0.08
+0.12
+0.12
+0.09
+Variance
+0.023
+0.0019
+0.033 0.091
+0.06
+0.018
+0.04
+0.08
+0.033
+0.037
+0.028
+0.031
+Z Score
+0.77
+-1.42
+1.16
+0.74
+-0.42
+-1.72
+1.41
+0.05
+0.43
+0.62
+0.73
+0.51
+P-value
+0.22
+0.92
+0.12
+0.23
+0.66
+1
+0.08
+0.48
+0.34
+0.27
+0.23
+0.3
+ 
+89
+
+ 
+are shown in bold.  W
+ 
+ 
+ 
+*1000hs indicates 1000h solid fuels and 1000hr indicates 1000h rotten fuels. 
+O
+KHAT
+Var
+Z
+P-
+O
+K
+Var
+Z
+P-
+O
+KHAT
+Var
+Z S
+P-
+O
+KHAT
+Var
+Z
+P-
+O
+0.43
+0.42
+-0.08
+0.03
+0.026
+0.028
+0.035
+0.045
+Z Score
+0.9
+-1.42
+1.18
+0.62
+0.24
+-1.4
+1.03
+0.21
+2.67
+2.46
+-0.42
+0.15
+P-value
+0.19
+0.92
+0.12
+0.27
+0.41
+0.92
+0.15
+0.42
+0
+0.01
+0.66
+0.44
+ 
+Appendix 4 
+ 
+Accuracy assessment results, by forest type, for layers created with the 2002+2003 dataset.  Layers significantly better than random  
+oody fuels in Mg/ha. 
+ 
+ 
+ 
+ 
+Species Canopy Cover Fuel Model
+1h
+10h
+100h Wood1-100h 1000hs* 1000hr* 1000h s+r Wood Total Ave. Litter (cm) Ave. Duff (cm) Ave. Litter+Duff (cm)
+verall Accuracy
+0.65
+0.2
+0.8
+0.7
+0.75
+0.35
+0.4
+0.42
+0.44
+0.25
+0.25
+0.6
+0.55
+0.74
+-0.09
+0.47
+0.38
+-0.03
+-0.06
+-0.04
+0.02
+-0.13
+-0.13
+0.11
+0.1
+0.45
+iance
+0.013
+0.03
+0.048 0.032
+0.043
+0.047
+0.047
+0.051
+0.051
+0.039
+0.055
+0.044
+ Score
+-0.75
+2.7
+1.72
+-0.18
+-0.3
+-0.18
+0.08
+-0.57
+-0.57
+0.56
+0.45
+2.15
+value
+0.77
+0
+0.04
+0.57
+0.62
+0.57
+0.47
+0.71
+0.71
+0.29
+0.33
+0.02
+Species Canopy Cover Fuel Model
+1h
+10h
+100h Wood1-100h 1000hs* 1000hr* 1000h s+r Wood Total Ave. Litter (cm) Ave. Duff (cm) Ave. Litter+Duff (cm)
+verall Accuracy
+0.47
+0.07
+0.83
+0.47
+0.54
+0.33
+0.45
+0.47
+0.63
+0.37
+0.3
+0.67
+0.47
+0.4
+HAT
+-0.25
+0.22
+0.19
+0.01
+0.15
+0.21
+0.05
+0.1
+0.05
+0.27
+0.2
+0.09
+iance
+0.005
+0.025 0.045 0.044
+0.026
+0.017
+0.102
+0.014
+0.02
+0.02
+0.019
+0.018
+ Score
+-3.45
+1.39
+0.91
+0.07
+0.9
+1.57
+0.17
+0.84
+0.34
+1.86
+1.44
+0.68
+value
+1
+0.08
+0.18
+0.47
+0.18
+0.05
+0.43
+0.2
+0.37
+0.03
+0.08
+0.25
+Species Canopy Cover Fuel Model
+1h
+10h
+100h Wood1-100h 1000hs* 1000hr* 1000h s+r Wood Total Ave. Litter (cm) Ave. Duff (cm) Ave. Litter+Duff (cm)
+verall Accuracy
+0.18
+0.47
+0.92
+0.5
+0.63
+0.45
+0.5
+0.5
+0.56
+0.34
+0.34
+0.39
+0.45
+0.53
+0.27
+0.46
+0.15
+0.28
+0.11
+0.18
+0.21
+0.14
+0.07
+0.07
+0.07
+0.2
+0.31
+iance
+0.011
+0.105
+0.019 0.031 0.017
+0.017
+0.015
+0.077
+0.013
+0.013
+0.024
+0.015
+0.015
+core
+2.51
+1.41
+1.11
+1.56
+0.84
+1.35
+1.68
+0.52
+0.59
+0.58
+0.44
+1.57
+2.52
+value
+0.01
+0.08
+0.13
+0.06
+0.2
+0.09
+0.05
+0.3
+0.28
+0.28
+0.33
+0.06
+0.01
+Species Canopy Cover Fuel Model
+1h
+10h
+100h Wood1-100h 1000hs* 1000hr* 1000h s+r Wood Total Ave. Litter (cm) Ave. Duff (cm) Ave. Litter+Duff (cm)
+verall Accuracy
+0.51
+0.39
+0.69
+0.38
+0.59
+0.28
+0.44
+0.38
+0.41
+0.31
+0.35
+0.54
+0.33
+0.33
+0.15
+0.13
+-0.05
+0.05
+-0.03
+-0.09
+0.02
+0.08
+-0.02
+0.03
+0.15
+-0.09
+-0.04
+iance
+0.012
+0.106
+0.022 0.033 0.034
+0.02
+0.027
+0.041
+0.023
+0.023
+0.018
+0.017
+0.032
+ Score
+1.32
+0.4
+-0.35
+0.25
+-0.14
+-0.63
+0.13
+0.39
+-0.12
+0.19
+1.14
+-0.66
+-0.22
+value
+0.09
+0.34
+0.64
+0.4
+0.56
+0.73
+0.45
+0.35
+0.55
+0.42
+0.13
+0.74
+0.59
+Species Canopy Cover Fuel Model
+1h
+10h
+100h Wood1-100h 1000hs* 1000hr* 1000h s+r Wood Total Ave. Litter (cm) Ave. Duff (cm) Ave. Litter+Duff (cm)
+verall Accuracy
+0.32
+0.47
+0.89
+0.42
+0.67
+0.37
+0.33
+0.5
+0.32
+0.65
+0.65
+0.68
+0.21
+0.33
+KHAT
+0.16
+-0.06
+0.21
+0.19
+0.04
+-0.18
+0.19
+0.06
+Variance
+0.031
+0.001
+0.03
+0.09
+0.025
+0.016
+0.032
+0.074
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+90
+
+ 
+ 
+Appendix 5 
+ 
+Pair-wise comparisons of all mapped layers by forest type.  Z statistic and (p-value) are shown.  Layers significantly different are 
+tic could not be calculated because one or more KHAT values were negative or zero.  
+shown in bold.  Alpha is 0.05.  na = Z statis
+Woody fuels in Mg/ha. 
+Layers Compared
+Species Canopy Cover Fuel Model
+1h
+10h
+100h
+Wood1-100h
+1000hs*
+1000hr*
+1000h s+r
+Wood Total Ave. Litter (cm) A e. Duff (cm) Ave. Litter+Duff (cm)
+2002 & 2003
+Aspen
+na
+na
+na
+0.52 (0.30) 0.36 (0.35)
+na
+na
+na
+na
+0.21 (0.42)
+0.60 (0.27)
+na
+48 (0.32)
+0.14 (0.44)
+Bristlecone
+na
+0.01 (0.49)
+na
+0.05 (0.42) 0.39 (0.35)
+na
+0.21 (0.42)
+0.61 (0.27)
+na
+0.444 (0.328) 0.35 (0.36)
+0.18 (0.43)
+50 (0.07)
+na
+Mixed-conifer
+na
+0.53 (0.30)
+na
+na
+0.62 (0.27) 0.44 (0.33)
+0.00 (0.50)
+na
+na
+0.82 (0.21)
+1.17 (0.12)
+1.01 (0.16)
+10 (0.46)
+0.15 (0.44)
+Ponderosa
+na
+na
+na
+na
+0.50 (0.31) 0.51 (0.31)
+na
+0.11 (0.46)
+na
+na
+0.26 (0.40)
+na
+na
+na
+Spruce-fir
+na
+1.25 (0.11)
+na
+0.20 (0.42) 0.46 (0.32)
+na
+na
+na
+0.59 (0.28)
+0.32 (0.37)
+0.29 (0.39)
+na
+na
+na
+2002 & 2002+2003 Aspen
+na
+na
+na
+0.91 (0.18) 0.31 (0.38)
+na
+na
+na
+1.12 (0.13)
+na
+na
+na
+24 (0.40)
+1.06 (0.14)
+Bristlecone
+na
+na
+na
+0.19 (0.43) 0.31 (0.38)
+na
+0.26 (0.40)
+0.56 (0.29)
+na
+0.055 (0.477) 0.28 (0.39)
+0.94 (0.17)
+81 (0.21)
+2.00 (0.02)
+Mixed-conifer
+na
+0.58 (0.28)
+na
+na
+0.12 (0.45) 0.17 (0.43)
+0.67 (0.25)
+0.19 (0.42)
+na
+0.30 (0.38)
+0.24 (0.41)
+0.09 (0.46)
+16 (0.44)
+1.06 (0.14)
+Ponderosa
+na
+na
+na
+na
+0.23 (0.41)
+na
+na
+0.39 (0.35)
+na
+na
+0.27 (0.39)
+na
+na
+na
+Spruce-fir
+na
+0.98 (0.16)
+na
+0.58 (0.28) 0.39 (0.35)
+na
+na
+na
+0.46 (0.32)
+1.16 (0.12)
+0.85 (0.20)
+na
+na
+na
+2003 & 2002+2003 Aspen
+na
+na
+na
+0.35 (0.36) 0.06 (0.47)
+na
+na
+na
+na
+na
+na
+0.24 (0.41)
+22 (0.41)
+1.24 (0.11)
+Bristlecone
+na
+na
+na
+0.13 (0.45) 0.07 (0.47) .10  (0.46)
+0.46 (0.32)
+0.10 (0.46)
+na
+0.519 (0.301) 0.65 (0.26)
+0.86 (0.19)
+69 (0.25)
+na
+Mixed-conifer
+na
+0.07 (0.42)
+na
+na
+0.49 (0.31) 0.27 (0.39)
+0.74 (0.23)
+na
+na
+1.13 (0.13)
+0.97 (0.17)
+1.09 (0.14)
+28 (0.39)
+1.01 (0.16)
+Ponderosa
+na
+na
+na
+na
+0.73 (0.23)
+na
+na
+0.51 (0.31)
+na
+na
+0.00 (0.50)
+0.15 (0.44)
+na
+na
+Spruce-fir
+na
+0.17 (0.43)
+na
+0.75 (0.23) 0.07 (0.47)
+na
+na
+0.34 (0.37) 0.13 (0.45)
+1.44 (0.07)
+1.18 (0.12)
+na
+na
+0.22 (0.41)
+v
+0.
+1.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+ 
+ 
+*1000hs indicates 1000h solid fuels and 1000hr indicates 1000h rotten fuels. 
+ 
+ 
+91

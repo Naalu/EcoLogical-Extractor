@@ -1,0 +1,2452 @@
+Forest structure and fuels dynamics following ponderosa pine
+restoration treatments, White Mountains, Arizona, USA
+John P. Roccaforte a,⇑, David W. Huffman a, Peter Z. Fulé b, W. Wallace Covington a,b,
+W. Walker Chancellor a, Michael T. Stoddard a, Joseph E. Crouse a
+a Ecological Restoration Institute, Northern Arizona University, PO Box 15017, Flagstaff, AZ 86011, USA
+b School of Forestry, Northern Arizona University, PO Box 15018, Flagstaff, AZ 86011, USA
+a r t i c l e
+i n f o
+Article history:
+Received 20 August 2014
+Received in revised form 4 November 2014
+Accepted 5 November 2014
+Keywords:
+Canopy fuels
+Elevation
+Historical reference conditions
+Prescribed ﬁre
+Surface fuels
+Thinning
+a b s t r a c t
+Southwestern ponderosa pine forest ecosystems have become uncharacteristically dense as a result of
+intensive livestock grazing, logging, and ﬁre exclusion, which have contributed to a buildup of fuels
+and increased vulnerability to high-severity, landscape-scale crown ﬁres. In 2002, we implemented a
+replicated ecological restoration experiment to (1) quantify site-speciﬁc reference conditions, (2) analyze
+effects of elevation on forest structure, surface fuels, and canopy fuels, (3) test responses to three
+treatments: control, full treatment, and burn-only, and (4) evaluate effectiveness of treatments for
+restoring attributes to near historical reference conditions. Reconstructed reference conditions showed
+that basal area (BA) averaged 9.2 m2 ha1 and tree density averaged 86.2 trees ha1 across the site in
+1880 prior to widespread ﬁre exclusion, with the highest tree density values occurring at the two
+upper elevation sites. In 2002, prior to treatment, BA averaged 28.9 m2 ha1 and density averaged
+927.9 trees ha1, representing three- and ten-fold increases, respectively, compared to 1880 values with
+a higher proportion of the increase coming from mesic species at higher elevations. By 2013 (5-years
+post-treatment), the full treatment showed BA was reduced by 52% compared to pre-treatment values
+from 31 m2 ha1 to 15 m2 ha1 and density was reduced by 85% from 998 trees ha1 to 153 trees ha1.
+In the burn-only treatment, BA increased by 6% from 27.5 m2 ha1 to 29.1 m2 ha1 although density
+was reduced by 25% from 837 trees ha1 to 625 trees ha1 between 2002 and 2013. Canopy fuels
+dynamics were similar to forest structure responses: low values prior to ﬁre exclusion, a marked increase
+by the pre-treatment measurement, substantial reductions following thinning plus burning, and minor
+reductions following burn-only treatments. Post-treatment diameter distributions in the full treatment
+closely resembled reference conditions; minor reductions occurred in the lower diameter classes in
+the burn-only. Mortality of trees established before European settlement circa 1880 varied by treatment:
+25% of presettlement trees alive in 2002 died by 2013 in the full treatment, 31% died in the burn-only
+treatment, and 15% died in the control. Of the treatments tested, the full treatment was the only one that
+rapidly shifted forest structure, diameter distributions, and canopy fuels values to levels near or within
+the historical reference conditions. Results from this study showed that managers will have to consider
+tradeoffs between alternative treatments in the context of climate-induced, landscape-scale forest ﬁres.
+ 2014 Elsevier B.V. All rights reserved.
+1. Introduction
+Southwestern ponderosa pine (Pinus ponderosa Lawson & C.
+Lawson var. brachyptera (Engelm.) Lemmon) forest ecosystems
+have become uncharacteristically dense and structurally homoge-
+neous over the last century as a result of intensive livestock grazing,
+logging, and ﬁre exclusion following Euro-American settlement in
+the late 1800s (Cooper, 1960; Covington et al., 1997). Changes in
+historical surface ﬁre regimes and forest structural characteristics
+have contributed to a buildup of fuels and increased vulnerability
+to
+high-severity,
+landscape-scale
+crown
+ﬁres
+and
+epidemic
+pathogenic outbreaks (Allen et al., 2002; Parker et al., 2006;
+Negrón et al., 2009), similar to changes in fuels and ﬁre severity
+in
+California
+(Miller
+et
+al.,
+2009),
+the
+Paciﬁc
+Northwest
+(Youngblood et al., 2004), and Mediterranean Basin (Pausas,
+2004). The two largest wildﬁres in Arizona recorded history – the
+2002 Rodeo–Chediski ﬁre (189,651 ha) and the 2011 Wallow ﬁre
+http://dx.doi.org/10.1016/j.foreco.2014.11.001
+0378-1127/ 2014 Elsevier B.V. All rights reserved.
+⇑Corresponding author. Tel.: +1 (928) 523 7229; fax: +1 (928) 523 0296.
+E-mail address: John.Roccaforte@nau.edu (J.P. Roccaforte).
+Forest Ecology and Management 337 (2015) 174–185
+Contents lists available at ScienceDirect
+Forest Ecology and Management
+journal homepage: www.elsevier.com/locate/foreco
+
+(217,741 ha total, 211,506 ha in Arizona) – occurred in the White
+Mountains of east-central Arizona (InciWeb.nwcg.gov). In addition
+to the loss of critical wildlife habitat and old/large trees, and the
+possibility that previously forested areas may experience type
+conversion (Savage and Mast, 2005; Roccaforte et al., 2012), these
+‘‘mega-ﬁres’’ resulting from anthropogenic changes in forest
+structure and warm, dry climate conditions have cost an estimated
+$465 million to date including ﬁre suppression, loss of property, and
+rehabilitation
+(Western
+Forestry
+Leadership
+Coalition,
+2010;
+Peterson, 2012).
+In forests that evolved with frequent, low-severity ﬁre, stands
+that are relatively open with low fuel loads are more likely to be
+resilient to disturbances under future climate conditions than
+those that have high tree density and fuel loads (Fulé, 2008). In
+recent decades, managers have implemented a variety of restora-
+tion and fuels treatments in degraded forests to restore ecological
+integrity and increase resilience to disturbances, such as high-
+severity crown ﬁres and insect outbreaks (Covington et al., 1997;
+Lynch et al., 2000; Youngblood et al., 2006; Fajardo et al., 2007;
+Stephens et al., 2009; Roccaforte et al., 2010). Fuels reduction
+and restoration treatments found to be effective include manipula-
+tions to individual trees, such as raking and pruning (Schmidt and
+Wakimoto, 1988), treatments focused on protecting old/large trees
+(Fulé et al., 2006), mechanical thinning without burning (Agee and
+Skinner, 2005), and strategic placement of fuelbreaks (Agee et al.,
+2000; Finney, 2001).
+Treatments based on the principles of ecological restoration aim
+to assist the recovery of an ecosystem that has been degraded,
+damaged, or destroyed (SER, 2004). The use of reference condi-
+tions, qualitative and quantitative attributes describing the system
+prior to degradation, serves not only as the model for planning the
+restoration project, but also for its evaluation following treatment
+implementation
+(Moore
+et
+al.,
+1999;
+SER,
+2004).
+Reference
+conditions often incorporate information from various sources,
+including historical photos and written accounts, original land sur-
+vey records, dendrochronological stand reconstructions, and ﬁre
+history studies (Egan and Howell, 2001). In frequent-ﬁre forests,
+restoration treatments require the removal of smaller/younger
+trees followed by the reintroduction of the frequent surface ﬁre
+regime (Moore et al., 1999). Prescriptions for ecological restoration
+treatments are designed to produce conditions that emulate the
+structural variability, spatial patterns, and processes that were
+present prior to the disruption of the primary disturbance agent,
+ﬁre. One method for achieving site-speciﬁc structural characteristics
+in ponderosa pine forest restoration is to utilize remnant evidence
+remaining in the ﬁeld such as old trees, logs, stumps, and snags to
+guide restoration prescriptions (Roccaforte et al., 2010).
+Prescribed burning without prior thinning is one of the most
+widely applied management tools for reducing fuels and crown
+ﬁre hazard, especially in areas where mechanical treatments can-
+not be implemented due to access, slope, or economic limitations
+(Reynolds et al., 2013). For example, burn-only treatments (both
+prescribed burning and managed wildﬁre) are the primary method
+for reducing fuels and ﬁre hazard in national parks and wilderness
+areas where mechanical treatments are restricted (Stephenson,
+1999; Holden et al., 2006). Prescribed ﬁre treatments without prior
+thinning were implemented in frequent-ﬁre forests beginning in
+the mid-20th century as foresters and ecologists attempted to
+restore ﬁre’s natural role after decades of ﬁre exclusion (Weaver,
+1952; 1957). However, negative effects of ‘‘burn-only’’ treatments
+have been documented, including increased mortality of presettle-
+ment trees due to cambial girdling (Sackett et al., 1996), lethal soil
+temperatures under presettlement trees (Covington and Sackett,
+1990),
+and
+prescribed
+ﬁres
+that
+have
+escaped
+containment
+(Dether and Black, 2006). Although ﬁre behavior in unthinned
+forests
+may
+be
+unpredictable
+and
+difﬁcult
+to
+control
+(Zimmerman, 2003), burn-only treatments can have positive eco-
+logical results by reducing fuels and restoring forest structure
+(Fulé et al., 2004; Laughlin et al., 2011; Fulé et al., 2012).
+To test alternative approaches for restoring degraded ponderosa
+pine forests, we implemented an experiment in east-central Ari-
+zona. The objectives of this study were to (1) quantify site-speciﬁc
+reference conditions using dendroecological reconstruction meth-
+ods, (2) analyze effects of elevation on historical and contemporary
+changes in forest structure and canopy fuels, (3) compare effects of
+alternative restoration treatments on stand structure, surface fuels,
+and canopy fuels, and (4) evaluate effectiveness of treatments for
+restoring attributes to near historical reference conditions.
+2. Materials and methods
+2.1. Study site
+The study site (latitude 34100N, longitude 109380W) is located
+within the Mineral Ecosystem Management Area (EMA) in east-
+central Arizona on the Apache-Sitgreaves National Forests. The site
+has a north aspect with slopes ranging between 0% and 27%.
+Elevations range from approximately 2340–2580 m, spanning an
+elevation gradient from the ponderosa – pinyon-juniper (P. edulis
+– Juniperus sp.) ecotone to the ponderosa – dry mixed conifer
+ecotone. Overstory tree species present include: ponderosa pine,
+Gambel oak, alligator, oneseed, and Utah juniper, pinyon pine,
+southwestern white pine, Douglas-ﬁr, white ﬁr, and aspen (see
+Table 1 for scientiﬁc names of species). Shrub species present
+include: wax current (Ribes cereum), Woods’ rose (Rosa woodsii),
+and Fendler’s ceanothus (Ceanothus fendleri). The understory herba-
+ceous plant community is characterized by a mix of mostly native
+perennial graminoids and forbs. Common perennial grasses include
+squirreltail (Elymus elymoides), Arizona fescue (Festuca arizonica),
+mountain muhly (Muhlenbergia montana), muttongrass (Poa fendle-
+riana), Junegrass (Koeleria macrantha), and there is also a dominant
+component of sedge species (Carex spp.). Common forbs include
+ragworts (Packera spp.), ﬂeabanes (Erigeron spp.), Wheeler’s thistle
+(Cirsium wheeleri), pineywoods geranium (Geranium caespitosum),
+alpine false parsley (Pseudocymopterus montanus), groundcover
+milkvetch (Astragalus humistratus), yellow hawkweed (Hieracium
+fendleri), and yarrow (Achillea millefolium). Soils are classiﬁed as a
+complex of Mollic Eutroboralfs, Lithic Argiborolls, and Eutric Gloss-
+oboralfs, of ﬁne to cobbly clay loam texture, derived from volcanic
+parent material (USDA Forest Service, 1987). Between 1984 and
+2013, annual precipitation at Greer, Arizona (elevation 2500 m,
+approximately 25 km southeast of the study site) averaged
+494 mm with an average minimum temperature of 9.1 C in
+January and an average maximum temperature of 24.3 C in July
+(Greer NCDC COOP Station ID 023683 and Greer Remote Automated
+Weather Station (RAWS) ID 020404, Western Regional Climate
+Center, www.wrcc.dri.edu, accessed 03.03.14). Most precipitation
+occurs in winter and during summer monsoon storms. Land use
+history at the site includes grazing beginning in the late 1800s
+and ﬁre suppression since the early twentieth century.
+2.2. Field methods
+To test effects of elevation on forest structural changes
+since Euro-American settlement and ﬁre exclusion, and compare
+ecological responses to alternative restoration treatments, we
+established a completely randomized block design (4 blocks  3
+treatments) at the ﬁeld site in 2002. Blocks were approximately
+40 ha each and were arrayed along an elevation gradient (240-m)
+as described above (Fig. 1). Each block was divided into treatment
+units of 13 ha. One of three treatments was randomly assigned to
+J.P. Roccaforte et al. / Forest Ecology and Management 337 (2015) 174–185
+175
+
+each unit: (1) untreated control, (2) full treatment (mechanical tree
+thinning followed by prescribed burning), and (3) burn-only
+(prescribed burning without thinning). We installed 20 sampling
+plots on a 60-m grid within each treatment unit (240 total plots
+across study site). Plot grids were oriented with cardinal directions
+(Fig. 1) and were randomly overlaid on maps within each
+treatment unit using a geographical information system (GIS).
+The ﬁrst plot in each unit was located using a global positioning
+system (GPS) device; subsequent plots were installed using
+measuring tapes and compasses.
+We collected pre-treatment data for all plots between 31 May
+and 12 August 2002, one-year post-treatment data between 22
+May and 21 June 2009, and ﬁve-year post-treatment data between
+18 May and 5 June 2013. We measured all trees taller than breast
+height (137 cm) on each 400-m2 circular (11.28 m radius), ﬁxed-
+area sampling plot. We recorded species, condition (living or
+snag/log classes from Thomas et al., 1979), diameter at breast
+height (dbh), total height, crown base height, and a preliminary
+ﬁeld classiﬁcation of pre- or post-settlement origin for each tree
+located within the plot. Potentially presettlement ponderosa pine
+Table 1
+Species names and codes for trees occurring at the study site.
+Common name
+Species
+Code
+White ﬁr
+Abies concolor (Gord. & Glend.) Lindl. Ex Hildebr
+ABCO
+Alligator juniper
+Juniperus deppeana Steud.
+JUDE
+Oneseed juniper
+Juniperus monosperma (Engelm.) Sarg
+JUMO
+Utah juniper
+Juniperus osteosperma (Torr.) Little
+JUOS
+Twoneedle pinyon
+Pinus edulis Engelm.
+PIED
+Ponderosa pine
+Pinus ponderosa Lawson & C. Lawson var. brachyptera (Engelm.) Lemmon
+PIPO
+Southwestern white pine
+Pinus strobiformis Engelm.
+PIST
+Quaking aspen
+Populus tremuloides Michx.
+POTR
+Douglas-ﬁr
+Pseudotsuga menziesii (Mirb.) Franco
+PSME
+Gambel oak
+Quercus gambelii Nutt.
+QUGA
+Note: nomenclature follows Callaham (2013) and USDA plants database (USDA, 2014).
+Fig. 1. Three treatments were implemented across four experimental blocks (EB) that were located on a 240-m elevation gradient, ranging between approximately 2340–
+2580 m. Inset shows study site location within Arizona, USA.
+176
+J.P. Roccaforte et al. / Forest Ecology and Management 337 (2015) 174–185
+
+trees were identiﬁed based on size (>40 cm diameter at stump
+height (dsh), 40 cm above ground level) or yellow bark (White,
+1985; Mast et al., 1999). Trees of other species were identiﬁed as
+potentially presettlement if dbh P 37.5 cm (Douglas-ﬁr, white ﬁr,
+southwestern
+white
+pine),
+dbh P 20 cm
+(aspen),
+or P 17 cm
+(juniper, oak, pinyon) (Fulé et al., 2002a). We collected increment
+cores for all potentially presettlement trees and a 10% subsample
+of all postsettlement trees to determine age and past size. We
+measured tree regeneration (trees < 1.37 cm dbh) on a 100-m2
+subplot (5.64 m radius) nested within each overstory sampling
+plot and recorded species, condition, and height class (<40 cm;
+40.1–80 cm;
+80.1–137 cm)
+for
+each
+seedling
+or
+sprout.
+We
+recorded presence/absence of tree canopy cover (vertical projec-
+tion of canopy taller than 137 cm) every 30 cm along a 50-m line
+transect oriented with the slope through the plot center (canopy
+cover was not measured in 2009). We measured dead woody
+surface fuels biomass and forest ﬂoor depth on a 15.2-m planar tran-
+sect (Brown, 1974). Transects were installed in a random direction
+(azimuth between 0 and 359 selected from a random number
+generator) from each plot center and fuels were tallied by
+moisture-lag class (1-h, 1.8 m; 10-h, 1.8 m; 100-h, 3.7 m; 1000-h
+sound, 15.2 m; 1000-h rotten, 15.2 m). Ten forest ﬂoor depth mea-
+surements were recorded every 1.5 m along each transect.
+2.3. Treatment implementation
+Thinning in the full treatment was implemented between July
+2006 and February 2007 at a cost of $1360 ha1. The thinning pre-
+scription was developed according to the site-speciﬁc historical
+(pre-ﬁre exclusion) pattern of tree species composition and spatial
+arrangement as evidenced by large, old trees and remnant dead
+tree structures (e.g., standing dead snags, dead and down logs,
+cut stumps) found at the site (Covington et al., 1997). All living
+ponderosa pines that were assumed (based on crown form and
+bark characteristics) to pre-date widespread ﬁre exclusion associ-
+ated with Euro-American settlement (White, 1985) or >40 cm
+dbh were marked for retention. In addition, wherever evidence of
+presettlement trees was encountered, an average of 1.5 postsettle-
+ment (i.e., trees established after ﬁre exclusion) ‘‘replacement’’
+trees was retained within an 18-m radius of the dead structure.
+Oak and aspen were not marked for thinning. Tree boles were
+harvested and thinning slash was lopped and scattered on the site.
+Forest ﬂoor material was raked away from large snags to limit
+ignition during prescribed ﬁres in the full and burn-only treatment
+units. Forest Service crews implemented prescribed burns using
+strip head ﬁres in all treatment units on the afternoons of 30 and
+31 October and 1 November 2008 at a cost of $125 ha1. The
+downwind edge of each unit was blacklined; subsequent strips
+were ignited 3–5 m apart. Windspeeds ranged from 0 to 5 km h1,
+wind direction was primarily from the north and east, and relative
+humidity varied from 21% to 29%. Fires burned primarily on the
+surface, but some passive crown ﬁre (torching) was observed in
+the burn-only units.
+2.4. Laboratory and statistical analyses
+We mounted and surfaced tree increment cores and visually
+cross-dated (Stokes and Smiley, 1968) them with local tree-ring
+chronologies. We counted rings on cores that could not be cross-
+dated, usually junipers or young trees. We estimated additional
+years to the center ring using a pith locator (concentric circles
+which were matched to the curvature and density of the inner
+rings) for cores that missed the pith (Applequist, 1958).
+We reconstructed historical forest structure (basal area [BA],
+tree
+density,
+and
+diameter
+distribution
+by
+species)
+using
+dendroecological methods (Fulé et al., 1997; Mast et al., 1999;
+Bakker et al., 2008). Diameter was reconstructed for all living trees
+by
+subtracting
+the
+radial
+growth
+since
+1880
+measured
+on
+increment cores and death date of dead trees was estimated on
+the basis of tree condition class using diameter-dependent snag
+decomposition rates (Thomas et al., 1979; Rogers et al., 1984).
+The year 1880 was chosen because it represented the period of dis-
+ruption of the historical frequent ﬁre regime and Euro-American
+settlement of the Southwest (Swetnam and Baisan, 1996; Moore
+et al., 1999). Moore et al. (2004), reported that reconstruction ﬁeld
+techniques in a southwestern ponderosa pine forest were reliable
+within ±10% of tree density over 90 years.
+We estimated canopy fuel load (CFL, kg m2) using locally
+developed dbh-based allometric equations for foliage and ﬁne
+twigs of ponderosa pine (Fulé et al., 2001), Gambel oak (Clary and
+Teidemann, 1986), and pinyon and juniper (Grier et al., 1992); we
+used equations compiled by Ter-Mikaelian and Korzuhkin (1997)
+for aspen, Douglas-ﬁr, southwestern white pine, and white ﬁr.
+Canopy depth (CD) was estimated using averages of maximum tree
+height (top of crown) and crown base height (bottom of crown). We
+used linear regression (r2 = 0.34; y = 0.1533x + 1.2912; n = 8909) to
+predict mean canopy base height (CBH) for each forested plot in
+1880 using the dbh – crown base height relationship of all live trees
+sampled in 2002. Non-forested plots (those with no live trees) were
+omitted from statistical analysis of CBH in all years. Canopy bulk
+density (CBD, kg m3) was calculated as CFL divided by CD.
+To quantify site-speciﬁc reference conditions and test for effects
+of elevation on presettlement and pre-treatment forest structure
+and canopy fuels, we used one-way analysis of variance (ANOVA)
+(Kuehl, 1994). As treatments had not been implemented for these
+time periods (and treatment was not a factor in these models), we
+used treatment units within blocks as replicates (n = 3) and the
+four blocks represented different levels of the factor ‘‘elevation’’.
+To test for effects of treatment on all variables (except canopy
+cover) we used ANOVA for repeated measures (Kuehl, 1994) and
+a mixed effects model with sampling year, block, and treatment
+as factors. Experimental block was considered a random effect. If
+a signiﬁcant treatment effect was found and there was no signiﬁ-
+cant interaction among treatment and sampling year the ANOVA
+was followed by Tukey’s honestly signiﬁcant difference (HSD)
+post-hoc multiple comparisons test. If a signiﬁcant treatment x
+sampling year interaction was found, we analyzed treatment
+effects separately within years as suggested by Looney and
+Stanley
+(1989).
+Within-year
+ANOVA
+was
+followed
+by
+HSD
+post-hoc tests when treatment effects were signiﬁcant. We
+analyzed differences among treatments for canopy cover in 2002
+and 2013 using one-way ANOVA. All data met the assumptions
+of normality and homogeneity of variance based on the Shapiro-
+Wilk test and Levine test. Treatment differences were assessed at
+a = 0.05.
+We
+evaluated
+restoration
+effectiveness
+for
+forest
+structure, surface fuels, and canopy fuels variables by comparing
+post-treatment values to the site-speciﬁc historical reference
+conditions, deﬁned as the minimum and maximum values across
+elevation in 1880.
+3. Results
+3.1. Effects of elevation on historical and contemporary forest
+conditions
+The reconstructed (1880) estimate of BA averaged 9.2 m2 ha1
+(range: 6.1–12.3 m2 ha1) and tree density averaged 86.2 trees ha1
+(range: 48.3–123.3 trees ha1) (Fig. 2, Table S1). There were no
+differences among the four elevations in mean BA (F = 3.7,
+p = 0.06), but signiﬁcant differences were detected for tree density
+(F = 8.7, p = 0.007) in 1880, with the highest tree density values
+J.P. Roccaforte et al. / Forest Ecology and Management 337 (2015) 174–185
+177
+
+occurring at the two upper elevation sites (Fig. 2a). Although
+ponderosa pine was the dominant tree species in 1880 (95% of
+total
+BA
+and
+density),
+overstory
+composition
+appeared
+to
+differ across elevation with more xeric species (e.g., juniper, and
+Gambel
+oak)
+present
+at
+the
+lowest
+site,
+and
+more
+mesic
+species (e.g., Douglas-ﬁr, aspen, and white ﬁr) at the highest site.
+Neither pinyon pine nor southwestern white pine were detected
+in 1880.
+In 2002, BA averaged 28.9 m2 ha1 (range: 24.2–35.4 m2 ha1)
+and
+tree
+density
+averaged
+927.9 trees ha1
+(range:
+572.5–
+1449.2 trees ha1), representing three- and ten-fold increases,
+respectively, compared to 1880 values (Fig. 2, Table S1). Signiﬁcant
+differences were detected for BA (F = 5.1, p = 0.03) and tree density
+(F = 8.3, p = 0.008) between elevations in 2002 but there was no
+clear pattern related to elevation. In 2002, ponderosa pine was
+the dominant tree species (95% of BA and tree density) across the
+elevation gradient in 2002. Density of white ﬁr and southwestern
+white pine appeared to increase at the two upper elevation sites
+as compared to 1880 conditions.
+Reconstructed (1880) diameter distributions for each elevation
+indicated that the majority of trees had diameters in the 25–45 cm
+dbh classes, with relatively fewer trees in the lowest and highest
+dbh classes (Fig. 3, white bars). Across all elevations, about
+two-thirds of the trees in 1880 had a dbh between 20 and 50 cm
+and only 23% of the trees had a dbh < 20 cm. By 2002, all dbh
+classes < 40 cm increased relative to 1880 values at each elevation
+(Fig. 3, black bars). Across all elevations, two-thirds of the trees had
+a dbh < 20 cm. Trees > 60 cm dbh decreased from 5.7 trees ha1 to
+4.4 trees ha 1 between 1880 and 2002.
+In 1880, prior to ﬁre exclusion, mean CFL (0.26 kg m2) and
+mean CBD (0.013 kg m3) values were the lowest observed in
+any time period in this study (Table S2). By 2002, prior to treat-
+ment, CFL and CBD increased to 0.86 kg m2 and 0.051 kg m3,
+respectively, across the study site. The only canopy fuel variable
+that showed signiﬁcant differences across elevation was CBD in
+1880 (F = 8.1, p = 0.008) which was highest at the two upper
+elevation sites.
+3.2. Treatment effects on forest structure and fuels
+In 2009 and 2013, the full treatment signiﬁcantly affected forest
+structure
+and
+shifted
+attributes
+near
+historical
+reference
+conditions, but the burn-only treatment showed little change from
+the control (Fig. 4). The full treatment reduced BA by 53% from
+31.1 m2 ha1 to 14.7 m2 ha1 and tree density by 84% from
+998 trees ha1 to 164 trees ha1 between 2002 and 2009; BA
+increased to 15 m2 ha1 and density decreased from 164 trees ha1
+to 153 trees ha1 between 2009 and 2013. In the burn-only treat-
+ment, BA increased by 3% from 27.5 m2 ha1 to 28.3 m2 ha1 and
+tree
+density
+was
+reduced
+by
+18%
+from
+837 trees ha1
+to
+689 trees ha1
+between
+2002
+and
+2009;
+BA
+increased
+to
+29.1 m2 ha1 and density decreased to 625 trees ha1 between
+2009 and 2013. Mean BA in 2009 (F = 8.0, p = 0.01) and 2013
+(F = 6.7, p = 0.02) was signiﬁcantly lower in the full treatment com-
+pared to the control and burn-only (Fig. 4a). Mean tree density in
+2009 (F = 7.3, p = 0.02) was signiﬁcantly lower in the full treatment
+compared to the control and burn-only (Fig. 4b). Mean tree density
+in 2013 (F = 6.7, p = 0.0003) was signiﬁcantly lower in the full
+treatment compared to the control and burn-only and the burn-
+only was signiﬁcantly lower than the control (Fig. 4b). In the con-
+trol, BA increased slightly from 27.8 m2 ha1 to 29.4 m2 ha1 and
+tree density decreased from 948 trees ha1 to 916 trees ha1
+between 2002 and 2009; BA increased to 30.5 m2 ha1 and density
+decreased to 915 trees ha1 by 2013 (Fig. 4). Post-treatment BA
+and density values were slightly above the historical reference
+conditions (6–12 m2 ha1, reconstructed for 1880 across elevation)
+in the full treatment, but well above the historical reference
+conditions in the burn-only and control (Fig. 4). Ponderosa pine
+was the dominant tree species at the study site following treat-
+ment, making up P 90% of BA and tree density in each treatment
+in 2009 and 2013. Post-treatment overstory composition did not
+change relative to 2002.
+Prior to treatment in 2002, canopy cover averaged 50% (range
+48–53%) across all treatments and was not signiﬁcantly different
+between treatments (F = 2.6, p = 0.1). The full treatment reduced
+canopy cover by 47% from 53% to 28%. Canopy cover was signiﬁ-
+cantly lower in the full treatment compared to the control and
+burn-only in 2013 (F = 9.7, p = 0.008). By 2013, canopy cover
+increased by 10% from 49% to 55% in the control and by 2% from
+48% to 49% in the burn-only.
+Diameter distributions at all sites were dominated by small-
+diameter trees in 2002 (Fig. 5a–c), and varied depending on treat-
+ment in 2009 (Fig. 5d–f) and 2013 (Fig. 5g–i). Although total tree
+density in 2009 for the full treatment was nearly double the histor-
+ical mean, <15% of the trees had a dbh < 20 cm dbh (compared to
+65% in 2002), indicating that the majority of the reduction occurred
+in the lowest dbh classes (Fig. 5e). In 2009, the diameter distribu-
+tion was slightly altered by the burn-only treatment; however,
+more than half of the trees remaining after treatment had
+dbh < 20 cm (Fig. 5f). The 2013 diameter distribution in the burn-
+only showed further reductions in the lower diameter classes with
+45% of the trees having dbh < 20 cm (Fig. 5i). In 2009, the diameter
+distribution in the control showed little change, although total tree
+density decreased by 3% from the 2002 measurement (Fig. 5d). The
+diameter distributions for the control (Fig. 5g) and full treatment
+Fig. 2. Basal area (A) and tree density (B) for each elevation in 1880 (reconstructed)
+and 2002 (pre-treatment). All sites were located in ponderosa pine dominated
+forests and spanned an elevation gradient (approximately 2340–2580 m) from the
+pinyon-juniper ecotone to the dry mixed conifer ecotone. Different letters across
+elevation denote statistically signiﬁcant means at a = 0.05.
+178
+J.P. Roccaforte et al. / Forest Ecology and Management 337 (2015) 174–185
+
+(Fig. 5h) showed little change between 2009 and 2013. The post-
+treatment diameter distribution in the full treatment (Fig. 5e and
+h) was similar to the historical distributions (Fig. 3, white bars);
+the distributions in the burn-only and control remained similar
+to pre-treatment distributions (Fig. 5a–c).
+Live presettlement trees comprised 16% of BA, but < 2% of tree
+density across the site in 2002. On average, 0.9 presettlement
+trees ha1, or 6% of those alive prior to treatment, were cut, and
+1.6 presettlement trees ha1, or 9% of the presettlement trees alive
+prior to treatment, died in the full treatment between 2002 and
+2009. By 2013, an additional 0.2 presettlement trees ha1, or 4%
+of those alive prior to treatment, were cut (aspen trees cut for fuel-
+wood), and an additional 0.9 presettlement trees ha1, or 6% of
+those alive prior to treatment, died in the full treatment. On aver-
+age, 1.9 presettlement trees ha1, or 23% of those alive prior to
+treatment, died in the burn-only by 2009. By 2013, an additional
+0.6 presettlement trees ha1, or 8% of those alive prior to treatment
+died in the burn-only. On average, 1.9 presettlement trees ha1, or
+10% of those alive in 2002, died by 2009, and an additional 0.9
+presettlement trees ha1, or 5%, died by 2013 in the control.
+Post-treatment ingrowth (new trees that reached breast height)
+averaged 63 trees ha1 in the control, 10 trees ha1 in the full
+treatment, and 16 trees ha1 in the burn-only.
+Regeneration was highly variable: total regeneration (all species
+and all height classes) ranged between 210 and 6071 trees ha1
+across all treatments and years (Table S3). Ponderosa pine
+dominated regeneration in all treatments and years except for
+the full treatment in 2009 (dominated by aspen), and the
+burn-only in 2009 (dominated by New Mexico locust). Between
+2002
+and
+2009,
+total
+regeneration
+decreased
+by
+69%
+from
+1551 trees ha1 to 475 trees ha1 in the full treatment and by
+89% from 1865 trees ha1 to 210 trees ha1 in the burn-only. In
+2013, total regeneration averaged 6071 trees ha1 in the full
+treatment and 1974 trees ha1 in the burn-only. No signiﬁcant
+differences were found for total regeneration.
+Total surface fuel loads were high prior to treatments (Table S2).
+Forest ﬂoor depths averaged 3.1 cm (range = 3.0–3.2 cm) and
+woody debris averaged 23.3 Mg ha1 (range = 13.0–33.1 Mg ha1)
+across the entire site in 2002. No signiﬁcant differences were found
+prior to treatment for any surface fuel variables. Between 2002 and
+2013, forest ﬂoor depth decreased by 83% from 3.2 cm to 0.5 cm and
+woody debris decreased by 57% from 33.1 Mg ha1 to 14.2 Mg ha1
+in the full treatment. Forest ﬂoor depth decreased by 75% from
+3.0 cm
+to
+0.8 cm
+and
+woody
+debris
+decreased
+by
+69%
+from 23.7 Mg ha1 to 7.3 Mg ha1 in the burn-only over the same
+time period. In the control, forest ﬂoor depth decreased by 65%
+from 3.1 cm to 1.1 cm and woody debris increased by 41%
+from 8.4 Mg ha1 to 11.9 Mg ha1 between 2002 and 2013. Duff
+was the only surface fuel variable that had an overall treatment
+effect from repeated measures analysis, but did not have a
+signiﬁcant treatment ⁄ year interaction. The post-hoc test showed
+signiﬁcantly lower mean duff depth in the full treatment compared
+to the control but was not different than the burn-only (F = 4.4,
+p = 0.047).
+Fig. 3. Diameter at breast height (DBH) distributions for the low- (A), mid-low- (B), mid-high- (C), and high-elevation (D) sites in 1880 (reconstructed) and 2002 (pre-
+treatment).
+J.P. Roccaforte et al. / Forest Ecology and Management 337 (2015) 174–185
+179
+
+Post-treatment canopy fuels values varied depending on treat-
+ment (Fig. 6). The full treatment reduced CFL by 57% from
+0.91 kg m2 to 0.39 kg m2 and CBD by 53% from 0.053 kg m3 to
+0.025 kg m3 between 2002 and 2009; CFL and CBD remained
+stable or increased slightly in the burn-only and control over the
+same time period (Fig. 6a and b). Little change in CFL and CBD
+occurred between 2009 and 2013 in all treatments. Mean CFL in
+2009 (F = 8.8, p = 0.001) and 2013 (F = 9.5, p = 0.008), and mean
+CBD in 2009 (F = 11.8, p = 0.005) and 2013 (F = 16.1, p = 0.002)
+were signiﬁcantly lower in the full treatment compared to the
+control and burn-only. In 2002, mean CBH was 3.7 m across all
+treatments (Fig. 6c). The full treatment increased CBH from 4.1 m
+to 6.8 m and the burn-only increased CBH from 3.8 m to 6.0 m
+between 2002 and 2009; CBH in the control increased slightly from
+3.2 m to 3.8 m over the same time period. CBH decreased
+slightly in the full and burn-only treatments and increased
+slightly in the control between 2009 and 2013. Mean CBH in
+2009 (F = 6.4, p = 0.02) was lower in the control compared to the
+full and burn-only treatments. All post-treatment canopy fuels
+variables in the full treatment approached or were within the
+historical reference conditions; in the burn-only treatment, CBH
+was the only variable that approached the historical reference
+conditions (Fig. 6).
+4. Discussion
+4.1. Effects of elevation on historical and contemporary forest
+conditions
+Prior to Euro-American settlement, the forests at our study site
+were relatively open and composed primarily of ponderosa pine.
+Reconstructed BA and tree density in 1880 (6.1–12.3 m2 ha1 and
+48.3–123.3 trees ha1, respectively) were similar to the historical
+range of variability found for ponderosa pine forests of the South-
+west (Stoddard, 2011; Reynolds et al., 2013). The dendroecological
+methods used in our study to reconstruct historical stand condi-
+tions are relatively robust due to the absence of ﬁre since 1880
+combined with the semiarid environment limiting the decomposi-
+tion of conifer wood (Fulé et al., 1997; Mast et al., 1999; Huffman
+et al., 2001). The differences in tree density and canopy fuel load-
+ings across elevation in 1880 were likely due to more productive
+conditions associated with higher elevation sites (Moore et al.,
+2004). Mesic species were present at the upper elevation sites in
+1880; however, these shade-tolerant, ﬁre-resistant species were
+not abundant in 1880 and their density was likely regulated by fre-
+quent surface ﬁres. Similar ﬁndings have been reported for mesic
+ponderosa pine and low-elevation dry mixed conifer forest sites
+in the Southwest (Moore et al., 2004; Fulé et al., 2009). The 1880
+diameter distributions at our site, which had relatively low num-
+bers of small-diameter trees, were consistent with previous studies
+that reported historical diameter distributions in southwestern
+ponderosa pine forests (Moore et al., 2004). Although BA and tree
+density values varied across elevation in 1880, the range of values
+(i.e., historical reference conditions) was relatively narrow com-
+pared to the range of values observed in 2002. The relatively low
+variability observed in 1880 was likely related to the frequent
+occurrence of low-severity ﬁres which regulated tree recruitment.
+Between 1880 and 2002, BA, tree density, and canopy fuel
+loadings increased substantially across the study site. Diameter
+distributions
+also
+changed
+from
+distributions
+dominated
+by
+mid- to large-diameter trees in 1880, to distributions dominated
+by small-diameter trees in 2002. Similar changes following ﬁre
+exclusion were also observed at other forests in the western USA
+(Harrod et al., 1999; Fulé et al., 2001; Waltz et al., 2003;
+Youngblood et al., 2004). The trend of higher BA and density values
+found at the higher elevation held true in both 1880 and 2002, but
+the contemporary range of values for BA and density was multiple
+times greater than the historical reference conditions. The diame-
+ter distributions at the upper elevation sites appeared to have a
+more pronounced ‘‘reverse-J’’ shape compared to the distributions
+at the lower elevation sites. While ponderosa pine was the tree
+species exhibiting the greatest increases at our site, several mesic
+species appeared to increase, including Douglas-ﬁr, white ﬁr, and
+southwestern white pine—all of which either had limited presence
+or were absent historically. Increases in mesic conifer density and
+the resulting shift in forest species composition have been docu-
+mented at other frequent-ﬁre-adapted sites in
+Arizona and
+throughout the western USA (Gruell et al., 1982; Fiedler, 2000;
+Miller and Urban, 2000; Hessburg and Agee, 2003; Moore et al.,
+2004; Cocke et al., 2005). For example, Fulé et al. (1997), reported
+that Douglas-ﬁr and white ﬁr made up 5% of the contemporary for-
+est at Volunteer Mountain even though Douglas-ﬁr was absent and
+only a trace of white ﬁr was found to occur prior to ﬁre exclusion in
+1883. The lack of ﬁre between 1880 and 2002 facilitated the wider
+contemporary range of values for BA and density across elevation
+and the higher density values and increased presence of mesic
+species observed at the upper elevation sites. Consequently, our
+reconstructions suggest that the upper elevation sites may be more
+degraded than the lower elevation sites.
+4.2. Treatment effects on forest structure and fuels
+After
+treatment,
+in
+2009
+and
+2013,
+the
+full
+treatment
+signiﬁcantly reduced BA and tree density compared to the control.
+Although the post-treatment BA and density in the full treatment
+were about 1.5 times the historical mean values, BA was reduced
+by more than 50% and density was reduced by more than 80%
+compared to pre-treatment levels, moving these areas close to
+Fig. 4. Basal area (A) and tree density (B) by treatment in 2002 (pre-treatment),
+2009 (1-year post-treatment), and 2013 (5-year post-treatment) relative to the
+historical reference conditions at the site in 1880 (gray shaded area). Different
+letters within years denote statistically signiﬁcant means at a = 0.05.
+180
+J.P. Roccaforte et al. / Forest Ecology and Management 337 (2015) 174–185
+
+the historical reference conditions in 1880 (Fig. 4). The higher post-
+treatment values observed in the full treatment (compared to 1880
+values) were intentional. The thinning prescription was designed
+to leave excess replacement trees, indicating that the treatments
+were implemented effectively.
+A photo time series visually
+illustrated the reduction of tree density and BA following the full
+treatment (Fig. 7). Similar reductions in BA and tree density
+following thinning plus burning treatments were also reported in
+similar studies in northern Arizona ponderosa pine forests (Fulé
+et al., 2001; 2002b; Waltz et al., 2003). Fire performance analysis
+conducted at six National Fire and Fire Surrogate study sites in
+the western USA strongly indicated that mechanical thinning plus
+burning was more effective when compared to burn-only and
+thin-only treatments (Stephens et al., 2009). Our results are also
+consistent with ﬁndings reported in a systematic review of
+literature
+concerning
+the
+effects
+of
+thinning
+and
+burning
+treatments on restoring ﬁre behavior attributes in western USA
+pine forests (Fulé et al., 2012). In this review, meta-analysis
+showed that thinning plus burning was more effective at reducing
+BA (mean effect size = 0.6; 49 studies) and tree density (mean
+effect size = 0.3; 62 studies) compared to thin-only and burn-only
+treatments (Fulé et al., 2012).
+In contrast, the burn-only treatment produced only slight
+reductions in BA and tree density by 2009 (Fig. 4). Although the
+reductions primarily occurred in the lowest diameter classes
+(Fig. 5f), forest structure in the burn-only was moved only slightly
+toward the historical reference condition (Fig. 4). Fulé et al. (2006)
+reported similar reductions in BA and tree density one year after
+burn-only treatments at the Grand Canyon. Similar results were
+reported at six of seven National Fire and Fire Surrogate study sites
+(McIver et al., 2012), and the short-term results at our site are also
+consistent with Fulé et al.’s (2012) systematic review ﬁndings that
+showed burn-only treatments were the least effective at reducing
+BA (30 studies) and tree density (50 studies). The additional tree
+density reductions that occurred between 2009 and 2013 (Figs. 4
+and 5i) were likely due to conservative tree condition assessment
+in 2009 and delayed mortality that was evident by 2013.
+Canopy cover, when combined with other variables, is a useful
+indicator for determining effects of management alternatives
+(Huffman et al., 2012). The pre-treatment mean canopy cover value
+Fig. 5. Diameter at breast height (DBH) distributions by treatment in 2002 (pre-treatment) (A–C), 2009 (1-year post-treatment) (D–F), and 2013 (5-year post-treatment) (G–
+I).
+J.P. Roccaforte et al. / Forest Ecology and Management 337 (2015) 174–185
+181
+
+in this study was similar to values reported at other untreated
+ponderosa pine sites (Fulé et al., 2002b; 2006; Waltz et al., 2003;
+Roccaforte et al., 2010). Mean canopy cover values following the
+full treatment (28%) were consistent with presettlement values
+found near Flagstaff, AZ of 17% estimated by Covington and
+Sackett (1986) and 22% estimated by White (1985) and to post-
+treatment values found at other southwestern ponderosa pine sites
+(Fulé et al., 2002b; 2006; Waltz et al., 2003; Roccaforte et al., 2010).
+Canopy cover is inversely related to total herbage production
+(Ffolliott, 1983), and the reductions in the full treatment resulted
+in signiﬁcant increases in total cover and richness of herbaceous
+understory vegetation at our study site (Strahan et al., in prep).
+In contrast, the burn-only treatment did not effectively reduce can-
+opy cover.
+Treatment effectiveness can also be assessed by evaluating
+post-treatment diameter distributions relative to those of the
+historical forests. The diameter distribution in areas that received
+the full treatment (Fig. 5e and h) closely resembled the historical
+distribution, which likely has implications for wildlife and poten-
+tial ﬁre behavior. Other studies in northern Arizona ponderosa pine
+forests (Waltz et al., 2003; Roccaforte et al., 2010) and in northeast
+Oregon (Youngblood et al., 2006) have documented similar effects
+on stand structure following thinning plus burning treatments. In
+contrast,
+the
+distribution
+in
+the
+control
+remained
+virtually
+unchanged by 2013 (Fig. 5g) and slightly shifted towards the
+historical distribution in areas that were burned but not thinned
+in 2009 (Fig. 5f). Results reported at other sites showed that burn-
+only treatments had little effect on diameter distributions one year
+(Fulé et al., 2006) and four years (Youngblood et al., 2006) after
+burns. By 2013, the diameter distribution in the burn-only showed
+further, albeit modest, reductions in the lowest two diameter
+classes, indicating that the full extent of mortality may not be
+evident immediately following burn-only treatments (Fig. 5i).
+Presettlement trees are relatively rare and ecologically impor-
+tant (Kalies, 2014) and were not intended to be cut in this study.
+In addition, the goal of the treatments was to limit mortality of
+these ‘‘legacy’’ trees because they provide genetic and structural
+diversity to the ecosystem, and take centuries to replace (Moore
+et al., 1999; DellaSalla et al., 2004). In the full treatment, 15% of
+presettlement trees were cut or died between 2002 and 2009, an
+intermediate value compared to presettlement mortality in the
+control (10%) and the burn-only (23%). Roccaforte et al. (2010)
+reported similar percentages of presettlement trees that died or
+were cut as a result of thinning plus burning treatments on a land-
+scape-scale restoration project at Mt. Trumbull six to seven years
+following treatment. By ﬁve years post-treatment at our site, pre-
+settlement tree mortality increased to 15% in the control, 25% in
+the full treatment, and 31% in the burn-only. Delayed mortality
+that disproportionally affected large trees following thinning plus
+burning treatments was also observed at Mt. Trumbull (Fulé
+et al., 2007) and in Oregon (Youngblood et al., 2009). Our ﬁndings
+indicate a tradeoff with regards to old tree mortality: treatments
+are likely to increase old-tree mortality compared to levels
+observed without active treatment; however, they may help
+surviving old trees by reducing their risk of death by severe ﬁre
+(Savage and Mast, 2005), reducing competitive stress for water
+and nutrients (Feeney et al. 1998; Stone et al., 1999), and
+increasing resilience to insect attacks (Wallin et al., 2004).
+CFL and CBD dynamics were similar to those found in similar stud-
+ies: low values prior to ﬁre exclusion, a marked increase by the pre-
+treatment measurement, substantial reductions following thinning
+plus burning, and minor reductions following burn-only treatments
+(Fig. 6a and b). The range of CFL (0.25–0.92 kg m2) and CBD
+(0.013–0.058 kg m3) values in this study were consistent with those
+reported in a similar study by Fulé et al. (2002b) at Grand Canyon
+(CFL: 0.29–0.1 kg m2; CBD: 0.02–0.07 kg m3). The reductions in
+CFL (57%) and CBD (53%) following the full treatment in our study
+were also similar to canopy fuels reductions reported by Fulé et al.
+(2002b) at Grand Canyon (CFL = 66%; CBD = 61%) and by Fulé et al.
+(2001) at Fort Valley (CFL = 58%; CBD = 48%). Fulé et al. (2002b)
+reported slight reductions in CFL (27%) and CBD (19%) following
+burn-only treatments, but the same treatment at our site did not
+reduce CFL or CBD values. The full treatment effectively reduced
+CFL and CBD close to the historical reference conditions in 1880
+compared to the burn-only which was not effective (Fig. 6a and b).
+In contrast, the full and burn-only treatments effectively raised CBH
+to within or near the historical reference conditions (Fig. 6c).
+Fig. 6. Canopy fuel load (A), canopy bulk density (B), and canopy base height (C) by
+treatment in 2002 (pre-treatment), 2009 (1-year post-treatment), and 2013 (5-year
+post-treatment) relative to the historical reference conditions at the site in 1880
+(gray shaded area). Different letters within years denote statistically signiﬁcant
+means at a = 0.05.
+182
+J.P. Roccaforte et al. / Forest Ecology and Management 337 (2015) 174–185
+
+5. Conclusion
+This study reconstructed reference conditions across an eleva-
+tion gradient and tested the effectiveness of full and burn-only
+treatments to restore forest structure and fuel loads in a ponderosa
+pine forest in the White Mountains, Arizona. The study ﬁlls an
+important geographical data gap in the southwestern USA. Results
+from previous studies indicate that responses to restoration may
+include improved ecosystem function (Covington et al., 1997;
+Kaye et al., 2005), increased vigor in old trees (Feeney et al.,
+1998), improved resistance to disturbance agents, such as bark
+beetles (Wallin et al., 2004) and ﬁre (Fulé et al., 2001; Roccaforte
+et al., 2008), and increases in native herbaceous understory
+vegetation (Stoddard et al., 2011).
+Of the treatments tested in this experiment, the full treatment
+which used remnant ﬁeld evidence to guide thinning followed by
+prescribed burning was the only one that immediately shifted for-
+est structure, diameter distributions, and canopy fuel loadings to
+levels near or within the historical reference conditions. Although
+the full treatment had higher presettlement tree mortality than
+the control, presettlement trees had a higher probability of
+surviving thinning plus burning treatments when compared to
+burning alone. The study also indicated that higher elevation pon-
+derosa pine sites may be more degraded than lower elevation sites
+due to increases of mesic species which may have implications for
+treatment prioritization.
+The results from this experiment will provide information
+about ecological responses to such treatments and are likely to
+affect management decisions on the Apache-Sitgreaves National
+Forests and in other frequent-ﬁre ecosystems throughout the wes-
+tern USA. For example, it is commonly argued that burning without
+thinning may be an appropriate management alternative in some
+cases because burn-only treatments usually cost less and are less
+likely to be litigated than treatments that involve tree cutting.
+However, results from this study indicate that burn-only treat-
+ments will not shift forest structure and fuel loadings to levels near
+the historical reference conditions in the short-term. Moreover,
+while burn-only treatments may be appropriate in areas with
+Fig. 7. Repeat photos taken at the site show that the small-diameter trees present in the full treatment in 2002 (A) were absent in 2009 (B) and 2013 (C) following thinning
+plus burning; photos from an area that had a burn-only treatment implemented show dense stand conditions in 2002 (D), scorched tree canopies in 2009 (E), and a raised
+canopy base height by 2013 (F).
+J.P. Roccaforte et al. / Forest Ecology and Management 337 (2015) 174–185
+183
+
+limited access to mechanized thinning, if tree density and canopy
+fuels are not effectively reduced following the initial burn, subse-
+quent repeated prescribed burns may have limited effectiveness
+for restoring ponderosa pine forests. Finally, the study results
+indicate that burn-only treatments have the potential to increase
+presettlement tree mortality at rates higher than other restoration
+treatments. Consequently, managers will have to consider trade-
+offs between full and burn-only treatments and increasingly make
+those decisions in the context of climate-induced, landscape-scale
+forest ﬁres (Fried et al., 2004; Saeger and Vecchi, 2010).
+Acknowledgements
+This research was funded by a grant (Award # 10-DG-
+11031600-081) from the USDA Forest Service. We would like to
+thank the staff and students at the Ecological Restoration Institute
+for ﬁeld and logistical support and to the Apache-Sitgreaves
+National Forests staff. Northern Arizona University is an equal
+opportunity employer.
+Appendix A. Supplementary material
+Supplementary data associated with this article can be found, in
+the
+online
+version,
+at
+http://dx.doi.org/10.1016/j.foreco.2014.
+11.001.
+References
+Agee, J.K., Bahro, B., Finney, M.A., Omi, P.N., Sapsis, D.B., Skinner, C.N., van
+Wagtendonk, J.W., Weatherspoon, C.P., 2000. The use of shaded fuelbreaks in
+landscape ﬁre management. For. Ecol. Manage. 127, 55–66.
+Agee, J.K., Skinner, C.N., 2005. Basic principles of forest fuel reduction treatments.
+For. Ecol. Manage. 211, 83–96.
+Allen, C.D., Savage, M., Falk, D., Suckling, K.F., Swetnam, T.W., Schulke, T., Stacey,
+P.B., Morgan, P., Hoffman, M., Klingel, J.T., 2002. Ecological restoration of
+southwestern ponderosa pine ecosystems: a broad perspective. Ecol. Appl. 12,
+1418–1433.
+Applequist, M.B., 1958. A simple pith locator for use with off-center increment
+cores. J. Forest. 56, 141.
+Bakker, J.D., Sánchez Meador, A.J., Fulé, P.Z., Huffman, D.W., Moore, M.M. 2008.
+Growing trees backwards: description of a stand reconstruction model. In:
+Olberding, S.D., Moore, M.M. (Eds.), Fort Valley Experimental Forest – A Century
+of Research 1908–2008. Conference Proceedings; August 7–9, 2008; Flagstaff,
+AZ. Proceedings RMRS-P-53. U.S. Dept. of Agriculture, Forest Service, Rocky
+Mountain Research Station, Fort Collins, CO. 408 p (pp. 136–142).
+Brown, J.K. 1974. Handbook for inventorying downed woody material. USDA For.
+Serv. Gen. Tech. Rep. INT-16, Intermountain Forest and Range Experiment
+Station, Ogden, UT.
+Callaham, R.Z., 2013. Pinus ponderosa: a Taxonomic Review with Five Subspecies in
+the United States. Res. Pap. PSW-RP-264. U.S. Department of Agriculture, Forest
+Service, Paciﬁc Southwest Research Station, Albany, CA, p. 52.
+Clary, W.P., Teidemann, A.R., 1986. Distribution of biomass within small tree and
+shrub form Quercus gambelii stands. For. Sci. 32, 234–242.
+Cocke, A.E., Fulé, P.Z., Crouse, J.E., 2005. Forest change on a steep mountain gradient
+after extended ﬁre exclusion: San Francisco Peaks, Arizona, USA. J. Appl. Ecol.
+42, 814–823.
+Cooper, C.F., 1960. Changes in vegetation, structure, and growth of southwestern
+pine forests since white settlement. Ecol. Monogr. 30, 129–164.
+Covington, W.W., Fulé, P.Z., Moore, M.M., Hart, S.C., Kolb, T.E., Mast, J.N., Sackett, S.S.,
+Wagner, M.R., 1997. Restoring ecosystem health in ponderosa pine forests of
+the Southwest. J. Forest. 95, 23–29.
+Covington, W.W., Sackett, S.S., 1986. Effect of periodic burning on soil nitrogen
+concentrations in ponderosa pine. Soil Soc. Am. J. 50, 452–457.
+Covington, W.W., Sackett, S.S., 1990. Fire effects of on ponderosa pine soils and their
+management implications. In: Effects of Fire Management of Southwestern
+Natural Resources. USDA Forest Service, Fort Collins, CO, pp. 105–111, Gen.
+Tech. Rep. RM-191.
+DellaSalla, D.A., Williams, J.E., Williams, C.D., Franklin, J.F., 2004. Beyond smoke and
+mirrors: a synthesis of ﬁre policy and science. Conserv. Biol. 18, 976–986.
+Dether, D., Black, A., 2006. Learning from escaped prescribed ﬁres – lessons for high
+reliability. Fire Manage. Today 66 (4), 50–56.
+Egan, D., Howell, E.A., 2001. The historical ecology handbook: a restorationist’s
+guide to reference ecosystems. Island Press, Washington, D.C..
+Fajardo, A., Graham, J.M., Goodburn, J.M., Fiedler, C.E., 2007. Ten-year responses of
+ponderosa pine growth, vigor, and recruitment to restoration treatments in the
+Bitterroot Mountains, Montana, USA. For. Ecol. Manage. 243, 50–60.
+Feeney, S.R., Kolb, T.E., Covington, W.W., Wagner, M.R., 1998. Inﬂuence of thinning
+and burning restoration treatments on presettlement ponderosa pines at the
+Gus Pearson natural area. Can. J. For. Res. 28, 1295–1306.
+Ffolliott, P.F., 1983. Overstory-understory relationships: southwestern ponderosa
+pine forests. In: Bartlett, E.T., Betters, E.R. (Eds.), Overstory–Understory
+Relationships in Western Forests. Western Region Research Publication 1.
+Colorado Agricultural Experiment Station, Fort Collins, CO, pp. 13–18.
+Fiedler, C.E., 2000. Restoration treatments promote growth and reduce mortality of
+old-growth ponderosa pine (Montana). Ecol. Restoration 18, 117–119.
+Finney, M.A., 2001. Design of regular landscape fuel treatment patterns for
+modifying ﬁre growth and behavior. For. Sci. 47 (2), 219–228.
+Fulé, P.Z., 2008. Does it make sense to restore wildland ﬁre in changing climate?
+Restor. Ecol. 16 (4), 526–531.
+Fulé, P.Z., Cocke, A.E., Heinlein, T.A., Covington, W.W., 2004. Effects of an intense
+prescribed forest ﬁre: is it ecological restoration? Restor. Ecol. 12 (2), 220–230.
+Fulé, P.Z., Crouse, J.E., Roccaforte, J.P., Kalies, E.L., 2012. Do thinning and/or burning
+treatments in western USA ponderosa or Jeffrey pine dominated forests help
+restore natural ﬁre behavior? For. Ecol. Manage. 269, 68–81.
+Fulé, P.Z., Korb, J.E., Wu, R., 2009. Changes in forest structure of a mixed conifer
+forest, southwestern Colorado, USA. For. Ecol. Manage. 258, 1200–1210.
+Fulé, P.Z., McHugh, C., Heinlein, T.A., Covington, W.W. 2001. Potential ﬁre behavior
+is reduced following forest restoration treatments. In: Vance, R.K., Covington,
+W.W., Edminster, C.B., Blake, J.A. (Eds.), Ponderosa Pine Ecosystems Restoration
+and Conservation: Steps Toward Stewardship. Proceedings of the Symposium,
+25–27 April 2000, Flagstaff, Arizona. USDA Forest Service Proceedings RMRS-P-
+22, Ogden, UT, pp. 28–35.
+Fulé, P.Z., Moore, M.M., Covington, W.W., 1997. Determining reference conditions
+for ecosystem management in southwestern ponderosa pine forests. Ecol. Appl.
+7, 895–908.
+Fulé, P.Z., Covington, W.W., Moore, M.M., Heinlein, T.A., Waltz, A.E.M., 2002a.
+Natural variability in forests of the Grand Canyon, USA. J. Biogeogr. 29, 31–47.
+Fulé, P.Z., Covington, W.W., Smith, H.B., Springer, J.D., Heinlein, T.A., Huisinga, K.D.,
+Moore, M.M., 2002b. Comparing ecological restoration alternatives: Grand
+Canyon, Arizona. For. Ecol. Manage. 170, 19–41.
+Fulé, P.Z., Covington, W.W., Stoddard, M.T., Bertolette, D., 2006. Minimal-impact
+restoration treatments have limited effects on forest structure and fuels at
+Grand Canyon, USA. Restoration Ecol. 14 (3), 357–368.
+Fulé, P.Z., Roccaforte, J.P., Covington, W.W., 2007. Posttreatment tree mortality after
+ecological restoration, Arizona, United States. Environ. Manage. 40 (4), 623–
+634.
+Fried, J.S., Torn, M.S., Mills, E., 2004. The impact of climate change on wildﬁre
+severity: a regional forecast for northern California. Climatic Change 64, 169–
+191.
+Grier, C.C., Elliot, K.J., McCullough, D.G., 1992. Biomass distribution and productivity
+of Pinus edulis-Juniperus monosperma woodlands of north-central Arizona. For.
+Ecol. Manage. 50, 331–350.
+Gruell, G.E., Schmidt, W.C., Arno, S.F., Reich, W.J. 1982. Seventy years of vegetative
+change in a managed ponderosa pine forest in western Montana – implications
+for resource management. USDA Forest Service Gen. Tech. Rep. GTR-INT-170.
+Harrod, R.J., McRae, B.H., Hartl, W.E., 1999. Historical stand reconstruction in
+ponderosa pine forests to guide silvicultural prescriptions. For. Ecol. Manage.
+114, 433–446.
+Hessburg, P.F., Agee, J.K., 2003. An environmental narrative of Inland Northwest
+United States forests, 1800–2000. For. Ecol. Manage. 178 (1–2), 23–59.
+Holden, Z.A., Morgan, P., Rollins, M.G., Wright, R.G., 2006. Ponderosa pine snag
+densities following multiple ﬁres in the Gila Wilderness, New Mexico. For. Ecol.
+Manage. 221, 140–146.
+Huffman, D.W., Moore, M.M., Covington, W.W., Crouse, J.E., Fulé, P.Z. 2001.
+Ponderosa pine forest reconstruction: comparisons with historical data. In:
+Vance, R.K., Edminster, C.B., Covington, W.W., Blake, J.A. (Eds.), Ponderosa Pine
+Ecosystems Restoration and Conservation: Steps Toward Stewardship. 2000
+April 25–27, Flagstaff, AZ. Proceedings RMRS-P-22. USDA Forest Service, Rocky
+Mountain Research Station, Ogden, UT, pp. 3–8.
+Huffman, D.W., Sánchez Meador, A.J., Greco, B., 2012. Canopy cover and forest
+conditions. In: Fact Sheet. Ecological Restoration Institute, Northern Arizona
+University, p. 4.
+InciWeb (Incident Information System), 2014 <http://inciweb.nwcg.gov/incident/
+2262/> (Accessed 17.03.14).
+Kalies, E.L., 2014. What are the consequences of cutting old ponderosa pine trees? a
+systematic review. Ecological Restoration Institute Fact Sheet, p. 3.
+Kaye, J.P., Hart, S.P., Fulé, P.Z., Covington, W.W., Moore, M.M., Kaye, M.W., 2005.
+Initial carbon, nitrogen, and phosphorus ﬂuxes following ponderosa pine
+restoration treatments. Ecol. Appl. 15, 1581–1593.
+Kuehl, R.O., 1994. Statistical principles of research design and analysis. Duxbury
+Press, Belmont, California, USA.
+Laughlin, D.L., Roccaforte, J.P., Fulé, P.Z., 2011. Effects of a second-entry prescribed
+ﬁre in a mixed conifer forest. Western North Am. Nat. 71 (4), 557–562.
+Looney, S.W., Stanley, W.B., 1989. Exploratory repeated measures analysis for two
+or more groups. Am. Stat. 43 (4), 220–225.
+Lynch, D.L., Romme, W.H., Floyd, M.L., 2000. Forest restoration in southwestern
+ponderosa pine. J. Forest. 98, 17–24.
+Mast, J.N., Fulé, P.Z., Moore, M.M., Covington, W.W., Waltz, A.E.M., 1999. Restoration
+of presettlement age structure of an Arizona ponderosa pine forest. Ecol. Appl.
+9, 228–239.
+McIver, J., Erickson, K., Youngblood, A., 2012. Principal short-term ﬁndings of the
+national ﬁre and ﬁre surrogate study. U.S. Department of Agriculture, Forest
+184
+J.P. Roccaforte et al. / Forest Ecology and Management 337 (2015) 174–185
+
+Service, Paciﬁc Northwest Research Station, Portland, OR, p. 210, Gen. Tech. Rep.
+PNW-GTR-860.
+Miller, C., Urban, D.L., 2000. Modeling the effects of ﬁre management alternatives on
+Sierra Nevada mixed-conifer forests. Ecol. Appl. 10 (1), 85–94.
+Miller, J.D., Safford, H.D., Crimmins, M., Thode, A.E., 2009. Quantitative evidence for
+increasing forest ﬁre severity in the Sierra Nevada and Southern Cascade
+Mountains, California and Nevada, USA. Ecosystems 12, 16–32.
+Moore, M.M., Covington, W.W., Fulé, P.Z., 1999. Reference conditions and ecological
+restoration: a southwestern ponderosa pine perspective. Ecol. Appl. 9, 1266–
+1277.
+Moore,M.M.,Huffman,D.W.,Fulé, P.Z.,Covington,W.W.,Crouse,J.E.,2004. Comparison
+of historical and contemporary forest structure and composition on permanent
+plots in southwestern ponderosa pine forests. For. Sci. 50, 162–176.
+Negrón, J.F., McMillin, J.D., Anhold, J.A., Coulson, D., 2009. Bark-beetle-caused
+mortality in a drought-affected ponderosa pine landscape in Arizona, USA. For.
+Ecol. Manage. 257 (4), 1353–1362.
+Parker, T.J., Clancy, K.M., Mathiasen, R.L., 2006. Interactions among ﬁre, insects and
+pathogens in coniferous forest of the interior western United States and Canada.
+Agric. For. Entomol. 8, 167–189.
+Pausas, J.G., 2004. Changes in ﬁre and climate in the eastern Iberian Peninsula
+(Mediterranean Basin). Climatic Change 63, 337–350.
+Peterson, D.L., 2012. Southwest. In: Vose, J.M., Peterson, D.L., Patel-Weynand, T.
+(Eds.), Effects of Climatic Variability and Change on Forest Ecosystems: a
+Comprehensive Science Synthesis for the U.S. Forest Sector. Gen. Tech. Rep.
+PNW-GTR-870.
+U.S.
+Department
+of
+Agriculture,
+Forest
+Service,
+Paciﬁc
+Northwest research Station, Portland, OR, p. 265 (pp. 219–222).
+Reynolds, R.T., Sánchez Meador, A.J., Youtz, J.A., Nicolet, T., Matonis, M., Jackson, P.L.,
+DeLorenzo, D.G., Graves, A.D. 2013. Restoring composition and structure in
+southwestern frequent-ﬁre forests: a science-based framework for improving
+ecosystem resiliency. Gen Tech. Rep. RMRS-GTR-310. U.S. Department of
+Agriculture, Forest Service, Rocky Mountain Research Station, Fort Collins, CO,
+pp. 76.
+Roccaforte, J.P., Fulé, P.Z., Chancellor, W.W., Laughlin, D.C., 2012. Woody debris and
+tree regeneration dynamics following severe wildﬁres in Arizona ponderosa
+pine forests. Can. J. For. Res. 42, 593–604.
+Roccaforte, J.P., Fulé, P.Z., Covington, W.W., 2008. Landscape-scale changes in
+canopy fuels and potential ﬁre behavior following ponderosa pine restoration
+treatments. Int J Wildland Fire 17, 293–303.
+Roccaforte, J.P., Fulé, P.Z., Covington, W.W., 2010. Monitoring landscape-scale
+ponderosa pine restoration treatment implementation and effectiveness.
+Restor. Ecol. 18 (6), 820–833.
+Rogers, J.J., Prosser, J.M., Garrett, L.D., Ryan, M.G. 1984. ECOSIM: a system for
+projecting
+multiresource
+outputs
+under
+alternative
+forest
+management
+regimes. USDA Forest Service, Administrative Report, Rocky Mountain Forest
+and Range Experiment Station, Fort Collins, Colorado.
+Sackett, S.S., Haase, S.M., Harrington, M.G. 1996. Lessons learned from ﬁre use for
+restoring southwestern ponderosa pine ecosystems. In: Covington, W.W.,
+Wagner, P.K. (Eds.), Conference on Adaptive Ecosystem Restoration and
+Management:
+Restoration
+of
+Cordilleran
+Conifer
+Landscapes
+of
+North
+America. USDA Forest Service Gen. Tech. Rep. RM-GTR-278. U.S. Department
+of Agriculture, forest service, Rocky Mountain Forest and Range Experiment
+Station, Fort Collins CO, pp. 53–60.
+Saeger, R., Vecchi, G.A., 2010. Greenhouse warming and the 21st century
+hydroclimate of southwestern North America. Proc. Natl. Acad. Sci. 107 (50),
+21277–21282.
+Savage, M., Mast, J.N., 2005. How resilient are southwestern ponderosa pine forests
+after crown ﬁres? Can. J. For. Res. 35, 967–977.
+SER (Society for Ecological Restoration International Science & Policy Working
+Group). 2004. SER international primer on ecological restoration. Society for
+Ecological Restoration International, Washington DC <www.ser.org>.
+Schmidt, W.C., Wakimoto, R.H. 1988. Cultural practices that can reduce ﬁre hazards
+to homes in the interior west. In: Fischer, W.C., Arno, S.F. (Eds.), Protecting
+People and Homes from Wildﬁre in the Interior West: Proceedings of the
+Symposium and Workshop. Gen. Tech. Rep. INT-251. U.S. Department of
+Agriculture, Forest Service, Intermountain Research Station, Ogden, UT, pp.
+131–137.
+Stephens, S.L., Moghaddas, J.J., Edminster, C., Fiedler, C.E., Haase, S., Harrington, M.,
+Keeley, J.E., Knapp, E.E., McIver, J.D., Metlen, K., Skinner, C.N., Youngblood, A.,
+2009. Fire treatment effects on vegetation structure, fuels, and potential ﬁre
+severity in western U.S. forests. Ecol. Appl. 19, 305–320.
+Stephenson, N.L., 1999. Reference conditions for giant sequoia forest restoration:
+structure, process, and precision. Ecol. Appl. 9 (4), 1253–1265.
+Stoddard, M.T., 2011. Compilation of Historical Forest Structural Characteristics
+Across the Southern Colorado Plateau. Ecological Restoration Institute Fact
+Sheet, p. 7.
+Stoddard, M.T., McGlone, C.M., Fulé, P.Z., Laughlin, D.C., Daniels, M.L., 2011. Native
+plants dominate understory vegetation
+following ponderosa pine forest
+restoration treatments. Western North Am. Nat. 71 (2), 206–214.
+Stokes, M.A., Smiley, T.L., 1968. An Introduction to Tree-Ring Dating. University of
+Chicago Press, Chicago, Illinois.
+Stone, J.E., Kolb, T.E., Covington, W.W., 1999. Effects on presettlement Pinus
+ponderosa in Northern Arizona. Restor. Ecol. 7 (2), 172–182.
+Strahan, R.T., Stoddard, M.T., Springer, J.D. Selecting targets for the restoration of
+understory vegetation in southwestern ponderosa pine forests (In Prep).
+Swetnam, T., Baisan, C., 1996. Historical ﬁre regime patterns in the southwestern
+United States since AD 1700. In: Allen, C.D. (Ed.), Fire Effects in Southwestern
+Forest: Proceedings of the 2nd La Mesa Fire Symposium. USDA Forest Service,
+Rocky Mountain Research Station, pp. 11–32, General Technical Report RM-
+GTR-286.
+Ter-Mikaelian, M.T., Korzuhkin, M.D., 1997. Biomass equations for sixty-ﬁve North
+American tree species. For. Ecol. Manage. 97, 1–24.
+Thomas, J.W., Anderson, R.G., Maser, C., Bull, E.L., 1979. Snags. In: Wildlife Habitats
+in Managed Forests—The Blue Mountains of Oregon and Washington. USDA
+Agricultural Handbook 553, Washington, D.C., pp. 60–77.
+U.S. Department of Agriculture, 1987. Terrestrial Ecosystem Survey of the Apache-
+Sitgreaves National Forests. U.S. Department of Agriculture, Forest Service,
+Southwestern Region, p. 453.
+U.S. Department of Agriculture. 2014. Plants database <http://plants.usda.gov/java/
+> (Accessed 12.02.14).
+Wallin, K.F., Kolb, T.E., Skov, K.R., Wagner, M.R., 2004. Seven-year results of thinning
+and burning restoration treatments on old ponderosa pines at the Gus Pearson
+Natural Area. Restor. Ecol. 12, 239–247.
+Waltz, A.E.M., Fulé, P.Z., Covington, W.W., Moore, M.M., 2003. Diversity in
+ponderosa pine forest structure following ecological restoration treatments.
+For. Sci. 49, 885–900.
+Weaver, H., 1952. A preliminary report on prescribed burning in virgin ponderosa
+pine. J. Forest. 50 (9), 662–667.
+Weaver, H., 1957. Effects of prescribed burning in ponderosa pine. J. Forest. 55 (2),
+133–138.
+Western Forestry Leadership Coalition. 2010. The true cost of wildﬁre in the
+western
+U.S.
+Report
+<http://www.wﬂccenter.org/news_pdf/324_pdf.pdf>
+(Accessed 28.02.13).
+White, A.S., 1985. Presettlement regeneration patterns in a southwestern ponderosa
+pine stand. Ecology 66, 589–594.
+Youngblood, A., Max, T., Coe, K., 2004. Stand structure in eastside old-growth
+ponderosa pine forests of Oregon and northern California. For. Ecol. Manage.
+199, 191–217.
+Youngblood, A., Metlen, K.L., Coe, K., 2006. Changes in stand structure and
+composition after restoration treatments in low elevation dry forests of
+northeastern Oregon. For. Ecol. Manage. 234, 143–163.
+Youngblood, A., Grace, J.B., McIver, J.D., 2009. Delayed conifer mortality after fuel
+reduction treatments: interactive effects of fuel, ﬁre intensity, and bark beetles.
+Ecol. Appl. 19 (2), 321–337.
+Zimmerman, T.G., 2003. Fuels and ﬁre behavior. In: Friederici, P. (Ed.), Ecological
+Restoration of Southwestern Ponderosa Pine Forests. Island Press, Washington,
+D.C, pp. 126–143.
+J.P. Roccaforte et al. / Forest Ecology and Management 337 (2015) 174–185
+185
+
+Table S1. Forest structure (average basal area [BA] and tree density) by treatment in 1880 (reconstructed), 2002 (pre-treatment), 2009 (1-year 
+post-treatment), and 2013 (5-year post-treatment). Standard errors are shown in parentheses. Species codes are shown in Table 1. Statistical 
+differences are reported in the text. 
+ 
+Treatment 
+Basal Area  
+1880  
+(m² ha-1) 
+Basal Area  
+2002  
+(m² ha-1) 
+Basal Area  
+2009  
+(m² ha-1) 
+Basal Area 
+2013 
+(m² ha-1) 
+Density  
+1880 
+ (Trees ha-1) 
+Density  
+2002  
+(Trees ha-1) 
+Density  
+2009  
+(Trees ha-1) 
+Density 
+2013 
+(Trees ha-1) 
+Control 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   ABCO 
+0 
+0.06 (0.06) 
+0.08 (0.07) 
+0.09 (0.08) 
+0 
+3.4 (2.6) 
+3.8 (2.6) 
+4.1 (2.7) 
+   JUDE 
+0.1 (0.1) 
+0.5 (0.5) 
+0.3 (0.3) 
+0.0009 (0.0009) 
+2.2 (2.2) 
+14.7 (14.7) 
+16.3 (16.3) 
+16.3 (16.3) 
+   JUMO 
+0.2 (0.2) 
+0.2 (0.2) 
+0.04 (0.04) 
+0.009 (0.009) 
+1.6 (1.6) 
+2.5 (2.5) 
+2.5 (2.5) 
+2.5 (2.5) 
+   JUOS 
+0.2 (0.2) 
+0.3 (0.3) 
+0.03 (0.03) 
+0.0005 (0.0005) 
+0.9 (0.9) 
+4.1 (4.1) 
+3.4 (3.4) 
+3.8 (3.8) 
+   PIED 
+0 
+0.0002 (0.0002) 
+0.0005 (0.0005) 
+0.0009 (0.0009) 
+0 
+0.9 (0.9) 
+0.9 (0.9) 
+1.0 (1.0) 
+   PIPO 
+7.8 (2.3) 
+26.3 (3.3) 
+28.3 (3.9) 
+29.8 (3.8) 
+85.3 (24) 
+893.8 (161.8) 
+857.8 (161) 
+852.2 (155.7) 
+   PIST 
+0 
+0.3 (0.3) 
+0.3 (0.3) 
+0.4 (0.4) 
+0 
+18.8 (18.8) 
+22.2 (22.2 
+25.3 (25.3) 
+   POTR 
+0.01 (0.01) 
+0.1 (0.1) 
+0.1 (0.1) 
+0.07 (0.07) 
+0.6 (0.6) 
+3.1 (3.1) 
+2.2 (2.2) 
+1.6 (1.6) 
+   PSME 
+0.3 (0.3) 
+0.1 (0.08) 
+0.1 (0.07) 
+0.2 (0.13) 
+0.9 (0.6) 
+5.6 (3.8) 
+5.6 (3.4) 
+6.3 (3.9) 
+   QUGA 
+0.03 (0.03) 
+0.0003 (0.0003) 
+0.002 (0.002) 
+0 (0) 
+0.3 (0.3) 
+1.25 (1.25) 
+1.6 (1.6) 
+1.9 (1.9) 
+   Total 
+8.7 (1.9) 
+27.8 (2.5) 
+29.4 (3.7) 
+30.5 (4) 
+91.9 (20.3) 
+948.1 (150) 
+916.3 (148.8) 
+914.7 (145.7) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Full 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   ABCO 
+0.0004 (0.0004) 
+0.06 (0.06) 
+0.0 (0.07) 
+0.08 (0.08) 
+0.3 (0.3) 
+1.6 (1.2) 
+0.6 (0.6) 
+0.6 (0.6) 
+   JUDE 
+0.005 (0.005) 
+0.005 (0.003) 
+0.001 (0.001) 
+0.001 (0.001) 
+0.9 (0.9) 
+1.3 (0.8) 
+0.3 (0.3) 
+0.3 (0.3) 
+   JUMO 
+0 
+0.0008 (0.0008) 
+0 
+0 
+0 
+0.3 (0.3) 
+0 
+0 
+   JUOS 
+0 
+0.002 (0.002) 
+0 
+0 
+0 
+0.6 (0.6) 
+0 
+0 
+   PIED 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+   PIPO 
+9.9 (2.4) 
+28.9 (2.1) 
+13.2 (1.9) 
+14.1 (1.9) 
+86.9 (21.7) 
+948.4 (153) 
+148.8 (26.5) 
+143.8 (22) 
+   PIST 
+0 
+0.6 (0.6) 
+0.5 (0.5) 
+0.4 (0.4) 
+0 
+25.9 (25.5) 
+5.9 (5.9) 
+4.4 (4.4) 
+   POTR 
+0.1 (0.1) 
+1.5 (1.5) 
+0.9 (0.9) 
+0.3 (0.3) 
+4.1 (4.1) 
+15.3 (15.3) 
+7.8 (7.8) 
+2.5 (2.5) 
+   PSME 
+0 
+0.1 (0.07) 
+0.1 (0.07) 
+0.1 (0.1) 
+0 
+4.4 (2.9) 
+0.9 (0.7) 
+1.3 (0.8) 
+   QUGA 
+0.004 (0.004) 
+0.0003 (0.0003) 
+0 
+0 
+0.3 (0.3) 
+0.6 (0.6) 
+0 
+0 
+   Total 
+10 (2.48) 
+31.1 (3.5) 
+14.7 (3.2) 
+15 (2.6) 
+92.5 (24) 
+998.4 (194.8) 
+164.4 (39.5) 
+152.8 (29) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Burn-only 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   ABCO 
+0 
+0.01 (0.01) 
+0.02 (0.02) 
+0 
+0 
+1.6 (1.6) 
+1.3 (1.3) 
+0 
+   JUDE 
+0.2 (0.2) 
+0.4 (0.3) 
+0.2 (0.2) 
+0.5 (0.5) 
+2.5 (2.5) 
+3.1 (2.1) 
+1.6 (1.2) 
+3.8 (3.3) 
+   JUMO 
+0.1 (0.1) 
+0.05 (0.05) 
+0.01 (0.01) 
+0 
+0.9 (0.9) 
+1.6 (1.6) 
+0.9 (0.9) 
+0 
+   JUOS 
+0.01 (0.01) 
+0 
+0 
+0 
+0.3 (0.3) 
+0 
+0 
+0 
+   PIED 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+   PIPO 
+8.6 (1.8) 
+26.8 (2.7) 
+27.8 (2.5) 
+28.5 (2) 
+70.6 (21.5) 
+811.9 (258.6) 
+675.9 (188.6) 
+616.3 (159.3) 
+   PIST 
+0 
+0.2 (0.1) 
+0.2 (0.1) 
+0.1 (0.08) 
+0 
+13.4 (10.7) 
+8.1 (5.6) 
+4.4 (3.0) 
+   POTR 
+0.04 (0.04) 
+0.1 (0.1) 
+0.02 (0.02) 
+0 
+0.6 (0.6) 
+3.1 (3.1) 
+0.9 (0.9) 
+0 
+   PSME 
+0 
+0.04 (0.04) 
+0.05 (0.05) 
+0.05 (0.05) 
+0 
+1.6 (1.6) 
+0.6 (0.6) 
+0.6 (0.6) 
+   QUGA 
+0 
+0.0006 (0.0006) 
+0 
+0 
+0 
+0.9 (0.9) 
+0 
+0.3 (0.3) 
+   Total 
+9 (1.6) 
+27.5 (2.6) 
+28.3 (2.5) 
+29.1 (1.9) 
+75 (20) 
+837.2 (267.7) 
+689.3 (193.3) 
+625.3 (160.8) 
+ 
+ 
+
+ 
+Table S2. Dead woody surface and live canopy fuels by treatment in 1880 (reconstructed), 2002 (pre-treatment), 2009 (1-year post-treatment), 
+and 2013 (5-year post-treatment). Standard errors are shown in parentheses. Surface fuels values were not estimated for 1880. Statistical 
+differences are reported in the text. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1880 
+ 
+ 
+ 
+2002 
+ 
+ 
+Control 
+Full 
+Burn-only 
+ 
+Control 
+Full 
+Burn-only 
+Dead woody surface fuels 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     Litter (cm) 
+- 
+- 
+- 
+ 
+1.11 (0.31) 
+1.27 (0.09) 
+0.94 (0.02) 
+     Duff (cm) 
+- 
+- 
+- 
+ 
+2.02 (0.28) 
+1.97 (0.19) 
+2.05 (0.24) 
+     Forest floor (cm) 
+- 
+- 
+- 
+ 
+3.12 (0.56) 
+3.23 (0.25) 
+2.99 (0.25) 
+     1-h (Mg ha-1) 
+- 
+- 
+- 
+ 
+0.12 (0.01) 
+0.12 (0.01) 
+0.14 (0.01) 
+     10-h (Mg ha-1) 
+- 
+- 
+- 
+ 
+0.93 (0.26) 
+1.07 (0.12) 
+1.46 (0.28) 
+     100-h (Mg ha-1) 
+- 
+- 
+- 
+ 
+3.47 (1.26) 
+3.80 (0.51) 
+3.19 (0.45) 
+     Fine Woody Debris (Mg ha-1) 
+- 
+- 
+- 
+ 
+4.52 (1.36) 
+4.99 (0.59) 
+4.79 (0.73) 
+     1000-h solid (Mg ha-1) 
+- 
+- 
+- 
+ 
+5.93 (2.80) 
+13.34 (3.92) 
+15.13 (5.84) 
+     1000-h rotten (Mg ha-1) 
+- 
+- 
+- 
+ 
+2.51 (1.34) 
+14.81 (4.67) 
+3.77 (2.13) 
+     Coarse Woody Debris (Mg ha-1) 
+- 
+- 
+- 
+ 
+8.44 (3.84) 
+28.15 (6.39) 
+18.89 (7.22) 
+Live canopy fuels 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     Canopy fuel load (kg m-2) 
+0.25 (0.05) 
+0.28 (0.07) 
+0.25 (0.05) 
+ 
+0.84 (0.08) 
+0.91 (0.06) 
+0.83 (0.08) 
+     Canopy bulk density (kg m-3) 
+0.013 (0.003) 
+0.014 (0.003) 
+0.013 (0.003) 
+ 
+0.051 (0.003) 
+0.053 (0.005) 
+0.049 (0.003) 
+     Canopy base height (m) 
+6.0 (0.1) 
+6.6 (0.2) 
+6.9 (0.4) 
+ 
+3.2 (0.6) 
+4.1 (0.6) 
+3.8 (0.3) 
+ 
+ 
+2009 
+ 
+ 
+ 
+2013 
+ 
+ 
+Control 
+Full 
+Burn-only 
+ 
+Control 
+Full 
+Burn-only 
+Dead woody surface fuels 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     Litter (cm) 
+0.97 (0.14) 
+0.36 (0.06) 
+0.60 (0.07) 
+ 
+0.37 (0.02) 
+0.24 (0.03) 
+0.31 (0.02) 
+     Duff (cm) 
+1.80 (0.13) 
+0.91 (0.10) 
+1.31 (0.07) 
+ 
+0.72 (0.12) 
+0.30 (0.03) 
+0.45 (0.03) 
+     Forest floor (cm) 
+2.78 (0.26) 
+1.27 (0.13) 
+1.91 (0.05) 
+ 
+1.09 (0.09) 
+0.54 (0.06) 
+0.76 (0.05) 
+     1-h (Mg ha-1) 
+0.09 (0.04) 
+0.13 (0.04) 
+0.10 (0.02) 
+ 
+0.12 (0.01) 
+0.11 (0.02) 
+0.11 (0.01) 
+     10-h (Mg ha-1) 
+0.92 (0.24) 
+1.18 (0.21) 
+0.76 (0.04) 
+ 
+0.88 (0.11) 
+0.82 (0.25) 
+0.72 (0.14) 
+     100-h (Mg ha-1) 
+1.14 (0.37) 
+1.29 (0.25) 
+2.54 (0.51) 
+ 
+1.61 (0.28) 
+2.08 (0.32) 
+1.33 (0.37) 
+     Fine Woody Debris (Mg ha-1) 
+2.16 (0.56) 
+2.60 (0.24) 
+3.40 (0.50) 
+ 
+2.61 (0.36) 
+3.01 (0.48) 
+2.16 (0.51) 
+     1000-h solid (Mg ha-1) 
+8.32 (2.99) 
+7.25 (3.49) 
+2.58 (1.35) 
+ 
+7.40 (2.15) 
+9.94 (4.67) 
+4.84 (1.38) 
+     1000-h rotten (Mg ha-1) 
+6.02 (4.73) 
+5.04 (3.58) 
+0.51 (0.26) 
+ 
+4.50 (1.84) 
+1.29 (1.11) 
+0.27 (0.18) 
+     Coarse Woody Debris (Mg ha-1) 
+14.34 (4.13) 
+12.29 (6.99) 
+3.09 (1.49) 
+ 
+11.90 (3.43) 
+11.23 (4.69) 
+5.11 (1.32) 
+Live canopy fuels 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     Canopy fuel load (kg m-2) 
+0.89 (0.11) 
+0.39 (0.06) 
+0.85 (0.08) 
+ 
+0.92 (0.11) 
+0.42 (0.06) 
+0.86 (0.06) 
+     Canopy bulk density (kg m-3) 
+0.051 (0.004) 
+0.025 (0.002) 
+0.059 (0.003) 
+ 
+0.051 (0.004) 
+0.027 (0.002) 
+0.058 (0.002) 
+     Canopy base height (m) 
+3.8 (0.6) 
+6.8 (0.9) 
+6.0 (0.3) 
+ 
+3.9 (0.6) 
+5.4 (0.5) 
+5.7 (0.3) 
+
+Table S3. Mean tree regeneration (trees <1.37 m in height) density (trees ha-1) by treatment in 2002 (pre-treatment), 2009 (1-year post-treatment), and 2013 (5-years post-treatment). Standard 
+errors are shown in parentheses. Species codes are listed in Table 1; height classes are 0 – 40 cm, 40.1 – 80 cm, 80.1 – 137 cm, and all heights combined. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2002 
+2009 
+2013 
+Treatment 
+Species 
+Total 
+0-40 
+40-80 
+80-137 
+Total 
+0-40 
+40-80 
+80-137 
+Total 
+0-40 
+40-80 
+80-137 
+Control 
+ABCO 
+2.5 (2.5) 
+1.3 (1.3) 
+0 
+1.3 (1.3) 
+1.3 (1.3) 
+0 
+0 
+5 (3.5) 
+15 (13.4) 
+16.3 (16.3) 
+0 
+0 
+ 
+JUDE 
+12.5 (10.9) 
+3.8 (3.8) 
+8.8 (7.2) 
+0 
+23.8 (22.1) 
+15 (15) 
+3.8 (3.8) 
+5 (3) 
+15 (5.7) 
+7.5 (7.5) 
+5(5) 
+2.5 (1.4) 
+ 
+JUMO 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+JUOS 
+1.3 (1.3) 
+0 
+1.3 (1.3) 
+0 
+0 
+0 
+0 
+0 
+7.5 (7.5) 
+7.5 (7.5) 
+0 
+0 
+ 
+PIPO 
+232.5 (117.8) 
+101.3 (53.9) 
+92.5 (54.5) 
+38.8 (16.6) 
+175 (102.1) 
+83.8 (37.3) 
+55 (41.9) 
+36.3 (25.1) 
+390 (212.3) 
+302.5 (166.3) 
+46.3 (37.9) 
+41.3 (24.4) 
+ 
+PIST 
+7.5 (7.5) 
+5 (5) 
+1.3 (1.3) 
+1.3 (1.3) 
+18.8 (18.8) 
+11.3 (11.3) 
+2.5 (2.5) 
+5 (5) 
+25 (25) 
+15 (15) 
+6.3 (6.3) 
+3.8 (3.8) 
+ 
+POTR 
+76.3 (76.3) 
+76.3 (76.3) 
+0 
+0 
+145 (145) 
+135 (135) 
+10 (10) 
+0 
+91.3 (91.3) 
+90 (90) 
+0 
+1.3 (1.3) 
+ 
+PSME 
+2.5 (1.4) 
+2.5 (1.4) 
+0 
+0 
+5 (2.9) 
+2.5 (2.5) 
+2.5 (2.5) 
+0 
+10 (6.1) 
+7.5 (4.8) 
+2.5 (1.4) 
+0 
+ 
+QUGA 
+78.8 (70.5) 
+68.8 (60.5) 
+8.8 (8.8) 
+1.3 (1.3) 
+113.8 (102.3) 
+105 (95.2) 
+7.5 (5.9) 
+1.3 (1.3) 
+103.8 (84.0) 
+95 (75.3) 
+7.5 (7.5) 
+1.3 (1.3) 
+ 
+RONE 
+0 
+0 
+0 
+0 
+121.3 (121.3) 
+92.5 (92.5) 
+28.8(28.8 
+0 
+0 
+0 
+0 
+0 
+ 
+Total 
+413.8 (186.7) 
+258.8 (133.5) 
+112.5 (47.6) 
+42.5 (18.3) 
+603.8 (207.8) 
+421.3 (144.9) 
+105 (44.9) 
+48.8 (29.3) 
+658.8 (264.5) 
+541.3 (204.5) 
+67.5 (42.2) 
+50 (27.6) 
+Full 
+JUDE 
+7.5 (5.9) 
+6.3 (4.73) 
+0 
+1.3 (1.3) 
+1.3 (1.3) 
+1.3 (1.3) 
+0 
+0 
+3.8 (2.4) 
+2.5 (1.44) 
+1.3 (1.3) 
+0 
+ 
+JUMO 
+0 
+0 
+0 
+0 
+1.3 (1.3) 
+1.3 (1.3) 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+JUOS 
+1.3 (1.3) 
+1.3 (1.3) 
+0 
+0 
+0 
+0 
+0 
+0 
+2.5 (2.5) 
+2.5 (2.5) 
+0 
+0 
+ 
+PIPO 
+1226.3 (907.8) 
+1062.5 (950) 
+88.8 (55.5) 
+75 (53.8) 
+91.3 (34.4) 
+72.5 (24.4) 
+15 (7.1) 
+3.8 (3.8) 
+5812.5 (3052.1) 
+5746.3 (3037.7) 
+57.5 (29.3) 
+8.8 (5.9) 
+ 
+PIST 
+28.8 (25.5) 
+15 (11.9) 
+7.5 (7.5) 
+6.3 (6.3) 
+5 (5) 
+1.3 (1.3) 
+3.8 (3.8) 
+0 
+12.5 (12.5) 
+5 (5) 
+5 (5) 
+2.5 (2.5) 
+ 
+POTR 
+223.8 (223.8) 
+218.8 (218.8) 
+3.8 (3.8) 
+1.3 (1.3) 
+318.8 (318.8) 
+315 (315) 
+3.8 (3.8) 
+0 
+195 (195) 
+192.5 (192.5) 
+2.5 (2.5) 
+0 
+ 
+PSME 
+11.3 (6.6) 
+8.8 (5.2) 
+0 
+2.5 (2.5) 
+0 
+0 
+0 
+0 
+6.3 (4.7) 
+6.3 (4.7) 
+0 
+0 
+ 
+QUGA 
+52.5 (52.5) 
+42.5 (42.5) 
+6.3 (6.3) 
+3.8 (3.8) 
+28.8 (28.8) 
+28.8 (28.8) 
+0 
+0 
+38.8 (37.1) 
+30 (28.4) 
+7.5 (7.5) 
+1.3 (1.3) 
+ 
+RONE 
+0 
+0 
+0 
+0 
+28.8 (28.8) 
+23.8 (23.8) 
+5 (5) 
+0 
+0 
+0 
+0 
+0 
+ 
+Total 
+1551.3 (861.9) 
+1355 (884.7) 
+106.3 (63.9) 
+90 (62.0) 
+475 (339.9) 
+443.8 (323.3) 
+27.5(13.1 
+3.8 (3.8) 
+6071.3 (3134.1) 
+5985 (3118.7) 
+73.8 (32.5) 
+12.5 (7.8) 
+Burn-only 
+JUDE 
+2.5 (1.4) 
+2.5 (1.4) 
+0 
+0 
+5 (5) 
+3.8 (3.8) 
+0 
+1.3 (1.3) 
+6.3 (6.3) 
+6.3 (6.3) 
+0 
+0 
+ 
+JUMO 
+1.3 (1.3) 
+1.3 (1.3) 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+JUOS 
+1.3 (1.3) 
+1.3 (1.3) 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+PIPO 
+1757.5 (1474.5 
+1606.3 (1513) 
+78.8 (46.2) 
+72.5 (39) 
+48.8 (25.9) 
+33.8 (24.4) 
+2.5 (2.5) 
+12.5 (5.9) 
+1926.3 (1573.0) 
+1911.3 (1571.9) 
+5 (3.5) 
+10 (4.6) 
+ 
+PIST 
+52.5 (50.8) 
+30 (28.4) 
+17.5 (17.5) 
+5 (5) 
+0 
+0 
+0 
+0 
+2.5 (2.5) 
+2.5 (2.5) 
+0 
+0 
+ 
+POTR 
+3.8 (3.8) 
+3.8 (3.8) 
+0 
+0 
+22.5 (22.5) 
+22.5 (22.5) 
+0 
+0 
+15 (15) 
+13.8 (13.8) 
+1.3 (1.3) 
+0 
+ 
+PSME 
+8.8 (5.9) 
+8.8 (5.9) 
+0 
+0 
+0 
+0 
+0 
+0 
+11.3 (9.7) 
+11.3 (9.7) 
+0 
+0 
+ 
+QUGA 
+37.5 (22.0) 
+35 (20.6) 
+2.5 (1.44) 
+0 
+7.5 (5.9) 
+7.5 (5.9) 
+0 
+0 
+12.5 (7.2) 
+12.5 (7.2) 
+0 
+0 
+ 
+RONE 
+0 
+0 
+0 
+0 
+126.3 (126.3) 
+125 (125) 
+1.3 (1.3) 
+0 
+0 
+0 
+0 
+0 
+ 
+Total 
+1865 (1441.5) 
+1688.8 (1487) 
+98.8 (61.9) 
+77.5 (29.3) 
+210 (124.9) 
+192.5 (125.6) 
+3.8 (2.4) 
+13.8 (5.5) 
+1973.8 (1587.9) 
+1957.5 (1585.6) 
+6.3 (3.1) 
+10 (4.6) 

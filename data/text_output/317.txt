@@ -1,0 +1,593 @@
+Climate-induced temporal variation in the productivitydiversity
+relationship
+Daniel C. Laughlin and Margaret M. Moore
+D. C. Laughlin (daniel.laughlin@nau.edu) and M. M. Moore, School of Forestry, Northern Arizona Univ., PO Box 15018, Flagstaff, AZ
+86011, USA. DCL also at: Ecological Restoration Inst., Northern Arizona Univ., PO Box 15018, Flagstaff, AZ 86011, USA.
+Spatial scales are known to influence the form of the productivitydiversity relationship, but less attention has been given
+to the influence of temporal scales. Interannual climatic variation in semi-arid ponderosa pinebunchgrass ecosystems
+causes significant year-to-year differences in herbaceous production. We hypothesized that unimodal (or ‘hump-backed’)
+relationships would be detected between herbaceous production and species richness in wet years, whereas positive
+logarithmic relationships would be detected in dry years. We analyzed nine years of herbaceous production and species
+richness data and used Akaike’s information criterion (AICc) to determine the weight of evidence for each model in each
+year. As predicted, species richness exhibited a unimodal relationship to herbaceous production in wet years; however,
+richness exhibited a logarithmic relationship with herbaceous production in dry years. These results suggest that
+competitive exclusion occurred within this semi-arid plant community in years of high production when enough
+moisture was available to drive abundant plant growth. Thus, just as it is important to sample broad spatial variation in
+production to detect the full unimodal productivitydiversity relationship, it is also important to recognize that the full
+unimodal curve may be undetectable in less productive dry years in semi-arid ecosystems.
+Spatial and temporal scales in ecology are critical compo-
+nents in the measurement of ecological processes (Huston
+1999, Schneider 2001). Reviews and multi-scale analyses of
+productivitydiversity relationships have suggested that the
+form of this relationship changes across spatial scales
+(Waide et al. 1999, Gross et al. 2000, Mittelbach et al.
+2001). For example, unimodal, or ‘hump-backed’ relation-
+ships (Grime 1973, 1979, Huston 1979, 1994) between
+productivity and diversity are often detected over spatial
+scales that encompass several community types (Moore and
+Keddy 1989), whereas positive monotonic relationships are
+often detected at the continental or global scale (Waide
+et al. 1999). Less attention has been given to temporal scales
+when examining this relationship (but see Guo 2003, Cox
+et al. 2006), likely since many studies have been short-term.
+Aboveground net primary production in grassland
+systems is strongly related to regional (Walter 1979, Sala
+et al. 1988, Epstein et al. 1997) and temporal (Lauenroth
+and Sala 1992, Silvertown et al. 1994, Briggs and Knapp
+1995) precipitation gradients. Species richness has been
+shown to increase linearly with precipitation over regional
+spatial gradients, but richness within sites was poorly
+correlated with interannual climatic variability (Adler and
+Levine 2007). However, if climate affects production and if
+production affects species richness, then it is possible that
+climate-induced temporal variation in primary production
+could mediate an indirect effect on species richness.
+We hypothesized that unimodal productivitydiversity
+relationships would be detected in wet years, whereas
+positive logarithmic relationships would be detected in
+dry years since less production would decrease the like-
+lihood of competitive exclusion (Grime 1979, Huston
+1994). We used a nine year dataset from a ponderosa
+pine (Pinus ponderosa var. scopulorum)  bunchgrass
+ecosystem to evaluate this hypothesis.
+Methods
+This study was conducted at the G. A. Pearson Natural Area
+in northern Arizona about 10 km northwest of Flagstaff,
+Arizona USA. We measured peak aboveground herbaceous
+standing crop and species richness in 55 plots (each
+consisting of 2-m2 quadrats) in 1992, 1994, 1995, 1996,
+1998, 1999, 2002, 2004 and 2005 in early September of
+each year (Moore et al. 2006). All live herbaceous
+vegetation rooted in the 2-m2 quadrats was clipped to
+ground-level (approximately 2 cm stubble height). Plant
+clippings were dried at 708C for 48 h prior to weighing.
+Peak aboveground herbaceous standing crop is a reasonable
+approximation of aboveground herbaceous net primary
+production (hereafter, ‘herbaceous production’) in this
+ecosystem since the study area was fenced to exclude
+ungulate herbivores (Bonham 1989). The 55 plots spanned
+a gradient of low to high herbaceous production, caused
+Oikos 118: 897902, 2009
+doi: 10.1111/j.1600-0706.2009.17514.x,
+# 2009 The Authors. Journal compilation # 2009 Oikos
+Subject Editor: Heikki Seta¨la¨. Accepted 12 January 2009
+897
+
+primarily by variation in overstory tree density (Laughlin
+et al. 2006). Thus, our sample spans a broad range of
+production both within years (due to gradients in overstory
+tree density) and across
+years (due to variation in
+interannual climate).
+The years in which sampling occurred varied widely in
+annual precipitation and Palmer drought severity index
+(PDSI) values. PDSI uses temperature and rainfall informa-
+tion to determine regional dryness (Heddinghaus and Sabol
+1991) and ranges from 4 (extremely dry) to 4 (extremely
+wet). We obtained monthly PDSI values from the National
+Climatic Data Center (/<www.ncdc.noaa.gov/>) for the
+Flagstaff, Arizona region. We calculated yearly PDSI values
+by averaging monthly values from the previous October
+though September to capture the annual PDSI for the
+annual water year (e.g. for 1992, we averaged monthly
+PDSI values from 1 October 1991 through 30 September
+1992).
+First, we confirmed the well-known relationship between
+interannual climatic variability and herbaceous production
+in our system. Grassland production is a positive function
+of temporal variation in precipitation (Lauenroth and Sala
+1992, Silvertown et al. 1994, Briggs and Knapp 1995).
+Thus, rather than attempting to reject an obviously false
+null hypothesis, we calculated Bayesian 95% credible
+intervals of the parameter estimates for the term relating
+PDSI to average herbaceous production. For these intervals,
+there is a 95% chance that the true value of the parameter
+will be within the interval (McCarthy 2007).
+We quantified the average herbaceous production within
+each year. These averages were natural log (ln) transformed
+prior to analysis to eliminate heteroskedasticity of model
+residuals. We regressed herbaceous production on PDSI. In
+addition, we evaluated whether there were lag effects of
+climate on production by including the previous year’s
+PDSI as a second term in the model. We also evaluated the
+relationship between species richness and PDSI. Regression
+analyses were conducted in WinBUGS ver. 1.4 using flat
+(or uninformative) priors, since we did not have prior
+knowledge about parameter distributions (Spiegelhalter
+et al. 2003). A total of 100 000 Markov chain Monte
+Carlo (MCMC) samples were drawn from the posterior
+distributions. The first 10 000 samples (iterations) of the
+MCMC run were discarded as burn-in so as not to
+adversely affect the posterior distributions.
+Second,
+we
+used
+the
+second-order
+bias
+corrected
+Akaike’s information criterion (AICc) to evaluate how the
+form of the productivity-diversity relationship changes with
+temporal variation in climate. The first step in model
+selection is the articulation of biologically plausible models
+(Johnson and Omland 2004). Each model is composed of a
+response variable (species richness) and a list of predictor
+variables. Though positive monotonic relationships between
+productivity and diversity are common in the literature
+(Waide et al. 1999, Mittelbach et al. 2001), we did not
+include this monotonic model in our set since we knew a
+priori that the relationship was nonlinear in the pine
+bunchgrass ecosystem (Laughlin et al. 2007). Thus, for
+each year, we confronted two statistical models with data: 1)
+the logarithmic model (where the natural log (ln) of
+herbaceous production is the single predictor variable),
+and 2) the unimodal model (a model with three terms that
+includes natural log-transformed herbaceous production,
+herbaceous
+production,
+and
+herbaceous
+production-
+squared). We included the natural log transformed variable
+in the unimodal model, which is typically a simple
+quadratic polynomial, in order to capture the steep
+ascending portion of the curve.
+We used the following to calculate a second-order bias
+corrected AIC:
+AICc21n(L( ˆu))2K2K(K  1)
+n  K  1
+where L(/ ˆu) is the likelihood, K is the number of model
+parameters (including the intercept and s2), and n is the
+number of sample units (n55). The ln(L(/ ˆu)) was
+calculated by multiplying ln(residual sums of squares) by
+n/2 (Burnham and Anderson 2002). Residual sums of
+squares were calculated in JMP-IN ver. 5.1 software (SAS
+2004). Within each year, the AICc value for each model was
+rescaled to Di by subtracting the minimum AICc from each
+of the other model’s AICc. The resulting Di values were
+then converted to Akaike weights (wi):
+wi
+exp
+
+ 1
+2
+Di
+
+X
+2
+i1
+exp
+
+ 1
+2
+Di
+
+The wi of the models in the set sum to 1; each wi can be
+interpreted as the weight of evidence in favor of model i
+(Burnham and Anderson 2002). Lastly, we regressed the
+Akaike weights for the unimodal model on PDSI to
+evaluate whether climatic variation may influence the
+form of the relationship between productivity and diversity.
+Figure 1. Herbaceous production (mean peak aboveground
+herbaceous standing crop within years) is a positive logarithmic
+function of the Palmer drought severity index (PDSI). The ﬁtted
+model was ln(g m2)2.990.28ln(PDSI4). A simple
+linear model explained 20% less variation.
+898
+
+Results and discussion
+Herbaceous production in this pinebunchgrass ecosystem
+was a function of temporal variation in climate. Interannual
+variation in PDSI explained 65% of the variation in average
+herbaceous production (Fig. 1). The Bayesian 95% credible
+interval (hereafter, 95% CI) for the effect of PDSI on
+herbaceous production was 0.2890.19. These results
+concur qualitatively with other studies in grassland ecosys-
+tems (Lauenroth and Sala 1992, Silvertown et al. 1994,
+Briggs and Knapp 1995). Our model predicts that produc-
+tion decreases slightly from PDSI values of 4 down to 2,
+but then production falls sharply between 2 and 4
+(Fig. 1). A simple linear regression model explained much
+less variation (R20.45) than the logarithmic model (R2
+0.65). This suggests that herbaceous production is fairly
+robust to moderate drought conditions (between PDSI
+values of 0 and 2), but that herbaceous production
+declines dramatically in extreme drought conditions (be-
+tween PDSI values of 2 and 4). We included a second
+term (previous year’s PDSI) to test for lag effects of climate
+on production, but the signal was weak and the negative
+term did not explain any additional variation in herbaceous
+production.
+Herbaceous species richness was not correlated with
+PDSI. Though severe drought may reduce species richness
+temporarily (Laughlin et al. 2008), our results concur with
+Adler and Levine (2007) who detected no relationship
+between interannual variation in precipitation and species
+richness at their southern mixed-grass prairie site at Hays,
+Kansas, USA.
+The form of the relationship between herbaceous
+production and plant species richness differed among years
+(Fig. 2). As predicted, herbaceous production exhibited a
+unimodal relationship to species richness in wet years,
+suggesting that competitive exclusion occurred within the
+herbaceous community in years of high primary produc-
+tion, which is consistent with Grime’s (1973, 1979) model.
+In contrast, herbaceous production exhibited logarithmic
+relations with richness in dry years, suggesting that
+competitive exclusion and recruitment limitation occurred
+only in years when enough moisture was available to drive
+Figure 2. Spatial productivitydiversity relationships differ among years. Fitted lines represent the regression models with the lowest AICc
+and highest Akaike weights shown in Table 1. Unimodal models are supported in the more productive wet years (e.g. 1995, 2005). n55
+for all panels.
+899
+
+abundant plant growth. Festuca arizonica, Lupinus argenteus,
+Elymus elymoides and Verbascum thapsus were species that
+dominated the productive yet species-poor plots, suggesting
+that these species have a competitive advantage in wet years
+and can exclude subordinate species.
+We acknowledge that the unimodal models appear to be
+driven by only one or a few data points at the high end of
+the production gradient. However, there are two reasons
+why we do not consider these to be outliers: 1) the
+unimodal model has been supported in another indepen-
+dent dataset in this ecosystem (Laughlin et al. 2007), and 2)
+second-order polynomial models are still supported in the
+wet years after rerunning the analyses when the point with
+the greatest production was removed (unpubl.). Therefore,
+we simply have fewer data points at the high end of the
+production gradient.
+We assessed the weight of evidence for each model
+within each year (Table 1) and found that the weight of
+evidence in support of the unimodal model increased
+with PDSI values (Fig. 3). PDSI accounted for 45% of
+the variability in Akaike weights for the unimodal model.
+The 95% CI for the effect of PDSI on Akaike weight’s
+for the unimodal model was 0.0990.08, suggesting that a
+one unit increase in PDSI results in a 9% increase in
+support for the unimodal model. The form of the relation-
+ship was consistently unimodal in moderate to extremely
+wet years (PDSI2) and consistently logarithmic in
+moderate to extremely dry years (PDSIB2). However,
+in average years (PDSI between 2 and 2) the form of the
+relationship was more variable about the regression line
+(Fig. 3), suggesting that our ability to predict the occurrence
+(or lack) of competitive exclusion can only be done with
+certainty within very wet (or very dry) years. Some of this
+uncertainty may be explained by other disturbances (e.g.
+arthropod herbivory) that can cause positive relationships to
+be detected in moderate years.
+Temporal variation in the productivitydiversity rela-
+tionship has also been detected in an arid Chihuahuan
+desert ecosystem, where unimodal ‘envelopes’ (i.e. a cloud
+Figure 3. The weight of evidence for a unimodal relationship
+between productivity and diversity increases with increasing
+Palmer drought severity index (PDSI) values. Note that residual
+variance was largest at intermediate PDSI. The ﬁtted model was
+/ ˆwi 0.550.09PDSI.
+Table 1. Summary of model selection criteria for the two competing models. Richplant species richness; Biopeak herbaceous
+production (i.e. biomass); AICcAkaike’s information criterion. The logarithmic and unimodal models had three and ﬁve parameters,
+respectively.
+Year  models
+Log-likelihood
+AICc
+Di
+Akaike weight (wi)
+R2
+adj
+1992
+Richln(Bio)
+35.4
+77.3
+0.9
+0.39
+0.73
+Richln(Bio)BioBio2
+32.6
+76.4
+0
+0.61
+0.75
+1994
+Richln(Bio)
+52.5
+111.4
+8.5
+0.01
+0.65
+Richln(Bio)BioBio2
+45.9
+102.9
+0
+0.99
+0.71
+1995
+Richln(Bio)
+55.2
+116.9
+0.6
+0.43
+0.60
+Richln(Bio)BioBio2
+52.6
+116.3
+0
+0.57
+0.62
+1996
+Richln(Bio)
+52.2
+110.8
+0
+0.75
+0.68
+Richln(Bio)BioBio2
+50.9
+113.1
+2.2
+0.25
+0.68
+1998
+Richln(Bio)
+67.7
+141.8
+0
+0.67
+0.57
+Richln(Bio)BioBio2
+66.0
+143.2
+1.39
+0.33
+0.58
+1999
+Richln(Bio)
+68.6
+143.7
+3.7
+0.13
+0.64
+Richln(Bio)BioBio2
+64.4
+140.0
+0
+0.87
+0.68
+2002
+Richln(Bio)
+45.6
+97.6
+0
+0.75
+0.68
+Richln(Bio)BioBio2
+44.3
+99.8
+2.6
+0.25
+0.68
+2004
+Richln(Bio)
+66.5
+139.5
+0
+0.89
+0.58
+Richln(Bio)BioBio2
+66.2
+143.7
+4.5
+0.11
+0.57
+2005
+Richln(Bio)
+57.4
+121.2
+8.0
+0.01
+0.64
+Richln(Bio)BioBio2
+51.0
+113.3
+0
+0.99
+0.70
+900
+
+of data points with a unimodal upper limit), rather than
+true nonlinear relationships, were observed (Cox et al.
+2006). In some years, a positive linear relationship was
+supported by their data, in contrast to the logarithmic form
+detected in our study. Interannual climatic variability may
+have also played a role in the different relationships
+observed among years in that desert ecosystem.
+Our results have two main implications. First, our data
+suggest that climatic variability can potentially affect plant
+species interactions (specifically, competitive interactions)
+in southwestern ponderosa pinebunchgrass ecosystems.
+The form of the relationship between species richness and
+primary production is influenced by the spatial scale of
+measurement (Waide et al. 1999, Gross et al. 2000,
+Mittelbach et al. 2001). Interestingly, when the relationship
+is analyzed at the broadest spatial pattern possible (e.g. at a
+global extent with large spatial grain sizes), the relationship
+is often positive monotonic (Waide et al. 1999). This
+suggests that competitive exclusion cannot be detected at
+such large spatial grains and extents (Huston 1999), and
+that other mechanisms must drive the positive pattern
+detected at the global scale. Our study suggests that the
+productivitydiversity relationship also changes over tem-
+poral scales in systems with highly variable interannual
+precipitation when measured at small spatial grain sizes (2
+m2). Thus, just as it is important to sample broad spatial
+variation in primary production to detect the full unimodal
+productivitydiversity
+relationship
+(Moore
+and
+Keddy
+1989, Guo and Berry 1998), it is also important to
+recognize that the full unimodal curve may be undetectable
+in less productive dry years in semi-arid or sub-humid
+ecosystems.
+Thus,
+climate-induced
+changes
+to
+the
+productivitydiversity relationship must be considered
+when interpreting diversity models in ecosystems where
+interannual variation in precipitation is extreme.
+Second, these results can inform predictions about future
+changes in production and diversity due to climate change.
+Modeling future changes in precipitation regimes is challen-
+ging yet crucial for the management of terrestrial ecosystems
+(Weltzin et al. 2003). Though uncertainty still exists, climate
+models are projecting that the southwestern United States
+will experience drier conditions in the 21st century (Seager
+et al. 2007). If these models are correct, then herbaceous
+primary production will be lower than the historical average,
+which will affect many management decisions. For example,
+the use and control of fire will be affected since fire is
+dependent on continuous surface fuels for lateral spread, and
+the use of public land for grazing will be affected since
+livestock operations and native grazers are dependent on
+productive grasslands. Changes in species richness, however,
+may lag in response to long-term climate change (Mene´ndez
+et al. 2006). We do not expect concomitant declines in
+species richness with increasing drought because we and
+Adler and Levine (2007) detected no effect of temporal
+variation in precipitation within a site on species richness,
+richness is generally highest at intermediate levels of biomass
+(Grime 1973, 1979, Huston 1979), and most species in this
+semi-arid ecosystem are adapted to at least moderate drought
+conditions. Laughlin et al. (2008) detected short-term
+reductions in richness caused by severe drought in 2002,
+but the effects of chronic drought stress on community
+diversity needs to be examined in subsequent studies.
+Acknowledgements  We thank P. Z. Fule´, C. H. Sieg, M. J.
+Kearsely, S. C. Hart, W.W. Covington, J. P. Roccaforte, J. D.
+Springer, C. A. Casey, M. L. Daniels, S. Nyoka, J. Barber,
+L. Labate, M. Stoddard, L. M. Machina and S. Curran for their
+contributions to this project. We also thank the USDA Forest
+Service Coconino National Forest, and the Rocky Mountain
+Research Station, especially C. Edminster, for helping establish the
+experiment. Funding was provided by a National Science
+Foundation grant (DEB-9322706), McIntire-Stennis appropria-
+tions to the Northern Arizona Univ. School of Forestry, and the
+Ecological Restoration Inst. Funding for remeasurement and
+analysis in 2004 was provided by the USDA Forest Service, no.
+03-DG-11031600-088.
+References
+Adler, P. B. and Levine, J. M. 2007. Contrasting relationships
+between precipitation and species richness in space and time.
+ Oikos 116: 221232.
+Bonham, C. D. 1989. Measurements of terrestrial vegetation.
+ Wiley.
+Briggs, J. M. and Knapp, A. K. 1995. Interannual variability in
+primary production in tallgrass prairie: climate, soil moisture,
+topographic position and ﬁre as determinants of aboveground
+biomass.  Am. J. Bot. 82: 10241030.
+Burnham, K. P. and Anderson, D. R. 2002. Model selection and
+multi-model
+inference:
+a
+practical
+information-theoretic
+approach.  Springer.
+Cox, S. B. et al. 2006. Productivity and species richness in an arid
+ecosystem: a long-term perspective.  Plant Ecol. 186: 112.
+Epstein, H. E. et al. 1997. Productivity patterns of C3 and C4
+functional types in the U.S. Great Plains.  Ecology 78: 722
+731.
+Grime, J. P. 1973. Control of species density in herbaceous
+vegetation.  J. Environ. Manage. 1: 151167.
+Grime, J. P. 1979. Plant strategies and vegetation processes.
+ Wiley.
+Gross, K. L. et al. 2000. Patterns of species density and
+productivity at different spatial scales in herbaceous plant
+communities.  Oikos 89: 417427.
+Guo, Q. 2003. Temporal species richnessbiomass relationships
+along successional gradients.  J. Veg. Sci. 14: 121128.
+Guo, Q. and Berry, W. L. 1998. Species richness and biomass:
+dissection of the hump-shaped relationships.  Ecology 79:
+25552559.
+Heddinghaus, T. R. and Sabol, P. 1991. A review of the Palmer
+drought severity index and where do we go from here?  In:
+Proc. Am. Meteorol. Soc. 7th Conf. on Applied Climatology,
+Boston, MA, Sept. 1991, pp. 242246.
+Huston, M. A. 1979. A general hypothesis of species diversity.
+ Am. Nat. 113: 81101.
+Huston, M. A. 1994. Biological diversity: the coexistence of
+species on changing landscapes.  Cambridge Univ. Press.
+Huston, M. A. 1999. Local processes and regional patterns:
+appropriate scales for understanding variation in the diversity
+of plants and animals.  Oikos 86: 393401.
+Johnson, J. B. and Omland, K. S. 2004. Model selection in
+ecology and evolution.  Trends Ecol. Evol. 19: 101108.
+Lauenroth, W. K. and Sala, O. E. 1992. Long-term forage
+production of North American shortgrass steppe.  Ecol. Appl.
+2: 397403.
+Laughlin, D. C. et al. 2006. Assessing targets for the restoration of
+herbaceous vegetation in ponderosa pine forests.  Restor.
+Ecol. 14: 548560.
+Laughlin, D. C. et al. 2007. Plant species richness and soil
+properties in a Pinus ponderosa forest: a structural equation
+modeling analysis.  J. Veg. Sci. 18: 231242.
+901
+
+Laughlin, D. C. et al. 2008. Restoring plant species diversity and
+community composition in a ponderosa pinebunchgrass
+ecosystem.  Plant Ecol. 197: 139151.
+McCarthy, M. A. 2007. Bayesian methods for ecology.  Cam-
+bridge Univ. Press.
+Mene´ndez, R. et al. 2006. Species richness changes lag behind
+climate change.  Proc. R. Soc. Lond. B 273: 14651470.
+Mittelbach, G.G. et al. 2001. What is the observed relationship
+between species richness and productivity?  Ecology 82:
+23812396.
+Moore, D. R. J. and Keddy, P. A. 1989. The relationship between
+species richness and standing crop in wetlands: the importance
+of scale.  Vegetatio 79: 99106.
+Moore, M. M. et al. 2006. Herbaceous vegetation responses
+(19922004) to restoration treatments in a ponderosa pine
+forest.  Rangeland Ecol. Manage. 59: 135144.
+Sala, O. E. et al. 1988. Primary production of the central grassland
+region of the United States.  Ecology 69: 4045.
+Schneider, D. C. 2001. The rise of the concept of scale in ecology.
+ BioScience 51: 545553.
+Seager, R. et al. 2007. Model projections of an imminent
+transition to a more arid climate in southwestern North
+America.  Science 316: 11811184.
+Silvertown, J. et al. 1994. Rainfall, biomass variation, and
+community composition in the Park Grass Experiment.
+ Ecology 75: 24302437.
+Spiegelhalter, D. et al. 2003. WinBUGS user manual ver. 1.4.
+ MRC Biostatistics Unit, Cambridge, UK.
+Waide, R. B. et al. 1999. The relationship between productivity
+and species richness.  Annu. Rev. Ecol. Syst. 30: 257300.
+Walter, H. 1979. Vegetation of the Earth.  Springer.
+Weltzin, J. F. et al. 2003. Assessing the response of terrestrial
+ecosystems to potential changes in precipitation.  BioScience
+53: 941952.
+902

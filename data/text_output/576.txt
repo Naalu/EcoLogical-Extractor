@@ -1,0 +1,1141 @@
+Pre-wildﬁre management treatments interact with ﬁre severity to have lasting
+effects on post-wildﬁre vegetation response
+Kristen L. Shive a,⇑, Carolyn H. Sieg b, Peter Z. Fulé a
+a School of Forestry, Northern Arizona University, P.O. Box 15018, Flagstaff, AZ 86011, USA
+b Rocky Mountain Research Station, 2500 S. Pine Knoll Dr., Flagstaff, AZ 86001, USA
+a r t i c l e
+i n f o
+Article history:
+Received 1 October 2012
+Received in revised form 13 February 2013
+Accepted 14 February 2013
+Available online 19 March 2013
+Keywords:
+High severity
+Ponderosa pine
+Pine regeneration
+Exotic species
+Arizona
+Rodeo-Chediski Fire
+a b s t r a c t
+Land managers are routinely applying fuel reduction treatments to mitigate the risk of severe, stand-
+replacing ﬁre in ponderosa pine communities of the southwestern US. When these treatments are burned
+by wildﬁre they generally reduce ﬁre severity, but less is known about how they inﬂuence post-wildﬁre
+vegetation recovery, as compared to pre-ﬁre untreated areas. We re-measured existing plots on the 2002
+Rodeo–Chediski Fire 8 years after the wildﬁre to track plant community and exotic species response, as
+well as patterns of pine regeneration. We compared areas that experienced high- and low-severity
+burning, and also examined how pre-ﬁre treatment (cutting in an uneven-aged harvesting system with
+prescribed ﬁre) modiﬁed vegetation response. We detected persistent differences between low- and
+high-severity areas for nearly all variables measured. In high-severity areas overall understory plant
+cover was 40.6%, nearly three times that observed in low-severity areas; shrub cover was 18.4%, four
+and a half times greater than that observed in low-severity areas. We also detected signiﬁcantly higher
+exotic forb cover in high-severity areas, although overall exotic response was generally quite low (<2%).
+Although this represents a slight decrease in exotic cover since the initial 2004/2005 measurements, the
+frequency of several exotic species did increase through time (particularly Tragopogon dubius and Verba-
+scum thapsus). Pre-ﬁre treatment resulted in signiﬁcantly higher pine regeneration frequency in treated
+versus untreated areas. Within low severity areas, mean pine regeneration frequency was 0.17 in pre-ﬁre
+untreated areas versus 0.06 in areas that were not treated before the ﬁre. Within high severity burned
+areas, mean pine regeneration frequency was 0.67 in pre-ﬁre treated areas, but was only 0.19 in pre-ﬁre
+untreated areas. This treatment effect in high-severity areas may be linked to reduction in the overall
+patch size of high burn severity in pre-ﬁre treated areas, which resulted in a more heterogeneous mixture
+of low and moderate severity burning in the neighborhood. This pattern decreased distance to seed
+source, which likely facilitated the more frequent pine regeneration observed. In addition to the well-
+documented beneﬁts of fuel reduction treatments in reducing subsequent ﬁre severity, these data sug-
+gest that even where treated areas do burn severely the size of severely burned patches is limited in
+extent, which is likely to have important ramiﬁcations for future reforestation and retention of founda-
+tion species.
+ 2013 Elsevier B.V. All rights reserved.
+1. Introduction
+Severe large-scale ﬁres in ponderosa pine (Pinus ponderosa P. &
+C. Lawson) forests of the southwestern US have been linked to
+uncharacteristically high fuels (Covington and Moore, 1994) and
+climate warming in recent decades (Westerling et al., 2006). These
+ﬁre events have raised several important concerns about post-ﬁre
+vegetation communities, three of which we examine here. First,
+extensive forest areas that have burned severely may result in per-
+sistent conversions to shrublands or grasslands, rather than regen-
+erate as forest (Haire and McGarigal, 2008; Savage and Mast,
+2005), particularly under a warmer and drier climate (Seager
+et al., 2007). The unprecedented size of high-severity burned areas
+necessarily means that post-ﬁre pine regeneration in these areas is
+not well understood, because it is occurring in relatively novel con-
+ditions. In addition, high-severity ﬁre may promote sprouting spe-
+cies over seeding species (such as ponderosa pine), where early site
+capture by sprouting species limits seeder species establishment
+through competition for resources (Barton, 2002; Fulé and Coving-
+ton, 1998). Furthermore, ponderosa pine can be considered a foun-
+dation species in these communities because it deﬁnes community
+structure by creating locally stable conditions for other species,
+and modulates fundamental ecosystem processes. The loss of a
+foundation species over large, landscape-scale areas can create
+0378-1127/$ - see front matter  2013 Elsevier B.V. All rights reserved.
+http://dx.doi.org/10.1016/j.foreco.2013.02.021
+⇑Corresponding author. Tel.: +1 928 523 3031; fax: +1 928 523 1080.
+E-mail addresses: kls448@nau.edu (K.L. Shive), csieg@fs.fed.us (C.H. Sieg),
+Pete.Fule@nau.edu (P.Z. Fulé).
+Forest Ecology and Management 297 (2013) 75–83
+Contents lists available at SciVerse ScienceDirect
+Forest Ecology and Management
+journal homepage: www.elsevier.com/locate/foreco
+
+novel species assemblages and degrade native habitats (Ellison
+et al., 2005).
+Second, numerous studies have documented exotic plant spe-
+cies invasions following high severity ﬁre events in the Southwest
+(Barclay et al., 2004; Crawford et al., 2001; Dodge et al., 2008; Grif-
+ﬁs et al., 2001). Such invasions can impact native plant communi-
+ties, and also have the potential to alter future ﬁre regimes via
+changes to the fuels properties of the native ecosystem (Brooks
+et al., 2004). These invasions are not entirely predictable, however,
+since other high severity ﬁre studies in the Southwest have docu-
+mented a low exotic species response (Foxx, 1996; Huisinga et al.,
+2005; Kuenzi et al., 2008).
+Third, the extent to which pre-ﬁre fuels treatments will inﬂu-
+ence post-ﬁre vegetation response is of concern as land managers
+are routinely applying fuel reduction treatments (e.g., thinning
+and/or burning) to increase forest resilience and reduce high-
+severity ﬁre risk (Baron et al., 2009). These treatments generally re-
+duce ﬁre severity by reducing surface fuels, and reducing tree den-
+sity and canopy connectivity (Cochrane et al., 2012; Finney et al.,
+2005; Fulé et al., 2012; Pollet and Omi, 2002; Strom and Fulé,
+2007), yet the inﬂuence of extreme ﬁre weather conditions and
+topography can occasionally result in high-severity ﬁre in treated
+areas. In both lesser- and more-severely burned sites, pre-ﬁre
+treatments are likely to have long-term effects on post-ﬁre recov-
+ery, yet these effects are not well known.
+To investigate the longer-term effects of pre-wildﬁre treat-
+ments and ﬁre severity on pine regeneration and native plant com-
+munity recovery, we re-measured plots established after the 2002
+Rodeo–Chediski Fire of northeastern Arizona that burned approxi-
+mately 189,650 ha (Kuenzi et al., 2008; Strom, 2005). These plots
+were originally installed in 2004, when herbaceous understory,
+fuels, and forest structure response variables were measured in
+relation to ﬁre severity and pre-ﬁre treatment. Kuenzi et al.
+(2008) found that low- and high-severity areas had markedly dif-
+ferent plant communities 2 and 3 years post-ﬁre, which they pri-
+marily attributed to the near-complete loss of overstory trees in
+high-severity areas (Kuenzi et al., 2008). These early differences
+indicated two drastically different vegetation types on the land-
+scape: in the absence of another high-severity ﬁre event, low-
+severity areas are likely to remain pine-dominated systems,
+whereas high-severity areas have the potential to convert to other
+vegetation types (Haire and McGarigal, 2010; Savage and Mast,
+2005; Strom and Fulé, 2007). They also detected a low exotic spe-
+cies response, contrary to expectations.
+Eight years post-ﬁre, we re-visited these plots to examine the
+inﬂuence of ﬁre severity and pre-ﬁre treatment on the post-ﬁre
+vegetation community. We asked: (1) are the differences in low-
+versus high-severity areas persistent 8 years post-ﬁre? And (2)
+do pre-ﬁre treated and untreated areas differ within low severity
+or high severity areas? For each line of inquiry, we examined a
+suite of characteristics that pertain to forest recovery: understory
+plant community composition (with particular emphasis on exotic
+species response), overstory structure, and pine regeneration.
+2. Materials and methods
+2.1. Study area
+The study area lies south of the Mogollon Rim in east-central
+Arizona on White Mountain Apache Tribal (WMAT) lands. For the
+8 years of post-ﬁre vegetation recovery, precipitation by water
+year was generally below the 60-year average of 45.0 cm. Total
+precipitation during 2010 was 35.2 cm, and 99.8 cm of snow accu-
+mulated over the winter of 2009/2010, which is only slightly below
+the 60-year average of 102.4 cm. Average maximum and minimum
+monthly temperatures were 29.2 C in July and 8.7 C in January.
+Weather data were recorded at the Heber Ranger Station by the
+Western Regional Climate Center (www.wrcc.dri.edu), which is lo-
+cated above the Rim at an elevation of 1984 m (16–311 m lower
+than the range of our study sites), approximately 12 km north of
+the study sites. It is on the edge of a ponderosa pine/pinyon-juni-
+per transition zone and so may have recorded less precipitation
+and higher temperatures than our study sites experienced.
+The study sites were randomly selected in 2004, ranging in ele-
+vation from 2000 to 2295 m, on slopes <45% (average slope was
+17.6%) (Kuenzi et al., 2008; Strom, 2005). Study sites were strati-
+ﬁed by ﬁre severity classes (low and high), and by pre-wildﬁre
+management of (1) no treatment or (2) cut in an uneven-aged sil-
+vicultural system and subsequently burned under prescription
+(hereafter: untreated, treated) within 11 years prior to the ﬁre.
+The speciﬁc cutting prescriptions were not uniform across the
+study area, but generally included uneven-aged forest manage-
+ment and noncommercial thinning followed by slash disposal. Un-
+even-aged managements followed a range of a Q-slope factor of
+1.1–1.3, an SDI maximum of 1110 25.5-cm trees ha1, and maxi-
+mum diameter of 46–76 cm (18–30 in). Out of the approximately
+111,837 ha of the Rodeo–Chediski Fire that burned on WMAT
+lands, 13% were cut and burned during the time period used for
+this analysis (11 years) (Strom, 2005). Pre-ﬁre treatment areas
+were identiﬁed using treatment history data provided by the tribe.
+Fire severity classes were determined by a combination of remo-
+tely sensed Differenced Normalized Burn Ratio (DNBR) maps and
+ground-truthing. Of the 111,837 ha WMAT ﬁre area, nearly 20%
+was in the high-severity class and 29% in the low-severity class
+(with the remaining area classiﬁed as ‘‘moderate’’ severity) (Strom,
+2005). The sites were randomly distributed throughout the treat-
+ment/severity combinations, resulting in distances between sites
+ranging from 0.55 to 9.37 km, and averaging 1.66 km.
+The high-severity study areas were seeded immediately post-
+ﬁre. The seed mix used on the WMAT lands included Triticum
+aestivum L. (common wheat), a sterile exotic species, which was
+applied at a rate of 16.8 kg ha1. The remainder of the seed mix in-
+cluded species native to the region, but the seed source is unknown
+and therefore may not represent locally native genotypes: Elymus
+trachycaulus (Link) Gould ex Shinners (slender wheatgrass), Pas-
+copyrum smithii (Rydb.) A. Löve (western wheatgrass), Panicum
+virgatum L. (switchgrass), Nassella viridula (Trin.) Barkworth (green
+needlegrass), Bromus marginatus Nees ex Steud. (mountain brome)
+(Bromus marginatus = Bromus carinatus H. & A. (Welsh et al., 1993)),
+Bouteloua curtipendula (Michx.) Torr. (sideoats grama), Sporobolus
+cryptandrus (Torr.) Gray (sand dropseed), Coreopsis tinctoria Nutt.
+(plains coreopsis), Dalea purpurea Vent. (purple prairie clover), Li-
+num lewisii Pursh (blue ﬂax), and Rudbeckia hirta L. (black-eyed
+susan) (Kuenzi et al., 2008). The study area was not in an active
+cattle allotment, but we did observe a few horses, and evidence
+of deer and elk.
+2.2. Measurement
+Six sites were originally installed within each of four treatment
+and severity combinations (total N = 24), with three subsample
+plots at each site. In 2010 we re-located 70 of the 72 original plots,
+such that two sites had only two subsample plots. For consistency,
+all ﬁeld protocols follow the original studies (Kuenzi et al., 2008;
+Strom, 2005). We used a variable-radius prism plot (basal area fac-
+tor 2.3 m2 ha1) for overstory trees using standard guidelines
+(Avery and Burkhart, 2001), in which we measured diameter at
+breast height (DBH, 1.37 m) and tree height. We tallied all pine
+regeneration shorter than breast height in a 3.1-m radius circle.
+Since smaller seedlings generally have high mortality rates (Smith
+et al., 1997), we were interested in separating the more established
+76
+K.L. Shive et al. / Forest Ecology and Management 297 (2013) 75–83
+
+seedlings from the very small seedlings, and so divided them into
+two height classes, 0–40 cm and 41–137 cm. We used a hemi-
+spherical ﬁsheye lens (FC-E8 Fisheye Converter Lens) attached to
+a Nikon CoolPix E4300 digital camera to photograph canopy cover,
+and then quantiﬁed canopy openness using the Gap Light Analyzer
+(Institute of Ecosystem Studies, 1999). In addition, we re-took the
+plot overview photos in order to create a photograph series
+through time.
+We measured understory characteristics using two perpendicu-
+lar, 44.8-m transects to create the 1000-m2 plot. Along each tran-
+sect, we measured plant canopy cover using cover classes that
+were adapted from Daubenmire (1959) (<1%, 1–5%, 6–25%, 26–
+50%, 51–75%, 76–95%, 96–100%) in ten 20-  50-cm quadrats, for
+a total of 20 quadrats per plot. We recorded cover data by life form
+and nativity as well as by species, including trees shorter than
+1.37 m, and recorded a species list for the entire plot area.
+To directly compare our data, we followed Kuenzi et al.’s (2008)
+taxonomic and nativity classiﬁcation which was based on the
+USDA-NRCS PLANTS database (USDA-NRCS, 2006). One exception
+they made was Portulaca oleracea L. (little hogweed), which was
+listed as ‘‘introduced’’ on the PLANTS database, but Kuenzi et al.
+(2008) classiﬁed it as ‘‘native’’ based on Byrne and McAndrews
+(1975). For species that were ﬁrst detected in 2010, we used the
+more current USDA-NRCS PLANTS database (USDA-NRCS, 2011).
+When we were unable to identify plants to species, we classiﬁed
+them to the lowest taxonomic level we could identify with cer-
+tainty, generally to the genus level.
+Our preliminary analyses suggested there were some differ-
+ences in vegetation response between treated and untreated
+high-severity areas, and we suspected that pre-ﬁre treatment
+may have limited overall high-severity patch size. Because of the
+loss of most overstory trees in high-severity areas, high-severity
+patch size can increase distance to seed source, which can be a ma-
+jor factor inﬂuencing patterns of seedling recruitment and re-for-
+estation. Therefore, we examined spatial patterns of ﬁre severity
+in the neighborhood surrounding our high-severity sampling sites.
+To do this, we deﬁned the potential seed contribution area for a
+site based on seed dispersal distances, which have been estimated
+at 1.5 times tree height (McDonald, 1980). Since there is some var-
+iability in the literature regarding the minimum seed tree size (Lar-
+son
+and
+Schubert,
+1970;
+Pearson,
+1950)
+we
+selected
+an
+intermediate DBH of those reported, 40.6 cm (16 in). We calculated
+the average height of trees this size or larger across our entire
+study area and calculated the estimated dispersal distance to be
+approximately 36 m. We then generated a buffer of at least 36 m
+from any subsample plot at each study site, which resulted in an
+overall circular site buffer of 180 m from site center (Fig. 1). Then
+we used the dNBR severity map to count the number of low, mod-
+erate and high-severity pixels within the potential seed contribu-
+tion area, and averaged these by treatment. For consistency, all
+pixels that partially intersected the buffer were also included in
+the pixel counts.
+2.3. Statistical methods
+For all analyses, we used site level means (n = 24). We analyzed
+plant community data using a combination of univariate and mul-
+tivariate statistical tests as well as ordination techniques. All plant
+community analyses were based on the subset of species that oc-
+curred in at least 5% of the plant cover quadrats, and richness anal-
+yses were based on species that occurred on at least 5% of the plot
+species lists, in order to reduce the inﬂuence of uncommon species
+(McCune and Grace, 2002). For overall plant community composi-
+tion we used PC-ORD software (McCune and Mefford, 1999) to per-
+form two-way PerMANOVA tests, a non-parametric permutation
+procedure, on burn severity (high, low) and pre-ﬁre treatment (un-
+treated, treated). We used the Bray-Curtis dissimilarity measure
+with 9999 permutations, with a = 0.05. We analyzed differences
+among univariate response variables such as cover by life form
+and nativity, species richness and pine regeneration relative fre-
+quency with PerMANOVAs in PC-ORD, using Euclidean distance
+(Anderson, 2001). When the interaction term was signiﬁcant, we
+conducted subsequent perMANOVAs for treatment within each
+severity class.
+We then graphically displayed community data by severity,
+treatment, and severity/treatment combinations in ordination
+space, using non-metric multidimensional scaling (NMDS). We
+conducted 250 runs with real data and 250 runs on randomizations
+from a random starting point, with an instability criterion of
+0.00001. We chose the ﬁnal number of axes based on stress levels
+<15 with p-values < 0.05 (Peck, 2010). Finally, we also used
+PC-ORD to identify indicator species for severity, treatment, and
+severity/treatment combinations. Indicator species analysis yields
+a value based on relative frequency and percent cover for each spe-
+cies. Species with an indicator value >25 and a p-value (based on a
+Monte Carlo test) of <0.05 were considered indicator species for
+that severity class (Dufrene and Legendre, 1997). To examine
+(a)
+(b)
+Fig. 1. Example of how neighborhood severity analysis was conducted on pre-ﬁre
+untreated (a) and treated (b) sites. The dot represents site center, and the 180 m
+circle represents the area of potential seed contribution. The darkest shade of grey
+represents high severity, the lighter shade represents moderate severity and the
+lightest shade represents low severity.
+K.L. Shive et al. / Forest Ecology and Management 297 (2013) 75–83
+77
+
+patterns of pine regeneration we focused on frequency, or the pro-
+portion of plots with at least one seedling out of the total number
+of plots. Finally, to test for differences in neighborhood severity for
+the high-severity sites, we grouped the low- and moderate-sever-
+ity pixel percentages, since we considered both of these severity
+classes as a proxy for seed sources due to overstory tree retention.
+Using the Shapiro–Wilk test we found that these data were nor-
+mally distributed (p = 0.3989), and so we tested the differences
+in the proportion of low/moderate severity area between treated
+and untreated areas with a t test (both tests performed with JMP,
+Version 7).
+3. Results
+We documented the presence of a total of 329 species from 190
+genera and 60 families. For multivariate plant community analyses
+on cover we focused on the 104 species found on at least 5% of the
+cover quadrats, and for richness analyses we focused on the 172
+species found on at least 5% of the plot census data. There was a
+total of 22 exotic species from eight families, most from Poaceae
+(9) and Asteraceae (5); 10 of these were found on at least 5% of
+the plots (Table 1).
+3.1. Overstory structure
+Overstory structure variables were all signiﬁcantly different
+(p < 0.001) between low- and high-severity areas, where low-
+severity areas had higher basal area and tree density, and lower
+canopy openness, due to the loss of most overstory trees in high-
+severity areas. None of the forest structure variables were signiﬁ-
+cantly different by treatment (Fig. 2 and Table 2). In spite of the
+general lack of signiﬁcant effects, the mean responses in low-
+severity areas suggest a more open structure in treated compared
+to untreated sites, where there was lower average tree density and
+basal area and higher mean percent canopy openness. In high-
+severity areas, the differences in mean tree density and basal area
+in treated and untreated sites were negligible (Fig. 2 and Table 2).
+3.2. Plant community composition
+Plant community composition based on cover by species had a
+signiﬁcant severity by treatment interaction (p = 0.019). Subse-
+quent tests for treatment effect within severity class were signiﬁ-
+cant both for both low (p = 0.047) and high (p = 0.017) severity.
+Within low severity, Solidago spp. were an indicator species for
+the treated areas and no indicator species were detected for un-
+treated areas. Within high severity, Muhlenbergia virescens Hitchc.
+(screwleaf muhly) and ponderosa pine (regeneration under breast
+height) were indicator species of the treated areas. In addition, two
+species were much more strongly represented in the high-severity
+untreated areas than the high-severity treated areas, where un-
+treated areas had 42 times more cover of the perennial grass P. smi-
+thii and nine times more cover of the shrub-like tree, Robinia
+neomexicana A. Gray (New Mexico locust) than the treated areas.
+The NMDS ordination of high severity sites generally grouped
+by treatment, but the low-severity communities were too variable
+to detect any distinct pattern by treatment (ﬁgures not shown). We
+also examined NMDS ordinations and indicator species for severity
+and treatment alone. The NMDS ordination by severity alone (not
+shown) mimicked the results presented in Kuenzi et al. (2008),
+where plant communities generally grouped by severity class,
+and the overstory structure vectors indicated that these groupings
+were driven by the overstory structure differences between low
+and high severity.
+When the ordinations were generated by treatment alone, dis-
+tinct groupings were not visible. Indicator species of high severity
+include three shrub species: Arctostaphylos pringlei Parry (Pringle
+manzanita), Arctostaphylos pungens Kunth (pointleaf manzanita)
+and Ceanothus fendleri A. Gray (Fendler’s ceanothus). Other indica-
+tor species for high severity included three native graminoid spe-
+cies
+seeded
+post-ﬁre:
+P.
+smithii,
+Panicum
+virgatum,
+and
+B.
+curtipendula (Table 3). No indicator species were detected for
+low-severity areas or by treatment due to highly variable plant
+community composition.
+Species richness was signiﬁcantly higher in high-severity areas
+than low-severity areas (p = 0.007) (Fig. 3 and Table 2). This was
+Table 1
+Exotic graminoid and forb species by burn severity class. Seeded species include species known to have been seeded on the WMAT lands, not necessarily after the Rodeo–Chediski
+Fire (Kuenzi et al., 2008). Bolded species were found on at least 5% of plots.
+Graminoids
+Forbs
+Severity
+Seeded
+Other
+Severity
+Seeded
+Other
+High
+Agropyron desertoruma
+Bromus japonicusa
+High
+None
+Cirsium vulgarea
+Dactylis glomerataa
+Bromus tectoruma
+Erodium cicutariuma
+Eragrostis curvulaa
+Echinochloa crus-galli
+Lactuca serriolaa
+Poa compressa
+Malva neglecta
+Poa pratensisa
+Medicago lupulinaa
+Setaria viridis
+Melilotus ofﬁcinalisa
+Onopordum acanthium
+Low
+Dactylis glomerataa
+Bromus tectoruma
+Polygonum aviculareb
+Eragrostis curvulaa
+Poa compressa
+Rumex acetosella
+Poa pratensisa
+Taraxacum ofﬁcinale
+Tragopogon dubius
+Verbascum thapsus
+Low
+None
+Cirsium vulgarea
+Erodium cicutariuma
+Lactuca serriolaa
+Medicago lupulinaa
+Melilotus ofﬁcinalisa
+Rumex acetosella
+Rumex crispus
+Sanguisorba minor
+Verbascum thapsus
+a Species that have been seeded as part of management practices in the Southwest (Fowler et al., 2008; Kuenzi et al., 2008).
+78
+K.L. Shive et al. / Forest Ecology and Management 297 (2013) 75–83
+
+driven primarily by greater forb richness in high-severity areas,
+where approximately 37 forb species were observed, versus 31
+forb species in low-severity areas. Species richness was not signif-
+icantly different by treatment (p = 0.198), but the means were
+slightly higher in treated areas. For total understory plant cover,
+the interaction term was signiﬁcant (p = 0.019). In high severity
+areas, we detected signiﬁcantly higher total understory plant cover
+in the untreated sites as compared to the treated sites (p = 0.033).
+In low severity areas, this trend was reversed although that differ-
+ence was not signiﬁcant (p = 0.247).
+3.3. Cover by life form and nativity
+Tree regeneration, shrub, forb and graminoid cover were all sig-
+niﬁcantly higher in high-severity areas as compared with low-
+severity areas (Table 2 and Fig. 3). Shrub cover was a substantial
+component of the high-severity area plant community, comprising
+nearly half of the mean total cover. Shrub dominance was also re-
+ﬂected in the identiﬁcation of three shrub species as indicators of
+high severity as noted above (Table 3). Cover did not differ signif-
+icantly by treatment for any of these life forms, although the
+means generally followed the trends in total plant cover (Table 2
+and Fig. 3).
+Cover of exotic forbs was signiﬁcantly higher (p = 0.004) in
+high-severity burned areas (0.68%) versus low-severity areas
+(0.11%) (Fig. 3 and Table 2). This difference was driven primarily
+by two species, Tragopogon dubius Scop. (yellow salsify) and Verba-
+scum thapsus L. (common mullein), that were commonly found on
+high-severity plots (32 of 35 plots and 30 of 35 plots, respectively).
+Although their overall cover values were low, the prevalence of
+these species is reﬂected in their designation as an indicator spe-
+cies of high-severity areas (Table 3). There was not a signiﬁcant
+treatment effect for exotic forbs. No signiﬁcant patterns were de-
+tected for exotic graminoids for either severity or treatment
+(Table 2).
+3.4. Pine regeneration
+Pine regeneration density was highly variable, and so we pres-
+ent these data but conducted statistical tests on differences in fre-
+Basal area (m2/ha)
+Tree density (#/ha)
+Canopy openness (%)
+Fig. 2. Overstory variables: basal area, tree density, canopy openness by treatment and severity, with standard error. All were signiﬁcantly different by severity class (high
+and low), but none were signiﬁcantly different by treatment within severity class.
+Table 2
+P-values from perMANOVA tests on univariate response variables. Signiﬁcance at
+a = 0.05 is denoted by bold type.
+Response variable
+Severity
+Treatment
+Interaction
+Overstory tree density
+<0.001
+0.312
+0.266
+Basal area
+<0.001
+0.143
+0.059
+Canopy openness
+<0.001
+0.144
+0.385
+Total plant cover
+<0.001
+0.019
+0.019
+Tree regeneration cover
+0.005
+0.454
+0.029
+Shrub cover
+<0.001
+0.070
+0.324
+Forb cover
+0.002
+0.450
+0.075
+Graminoid cover
+0.008
+0.574
+0.143
+Exotic forb cover
+0.004
+0.967
+0.912
+Exotic graminoid cover
+0.649
+0.231
+0.157
+Species richness
+0.007
+0.198
+0.630
+Exotic species richness
+0.070
+0.364
+0.141
+Native species richness
+0.096
+0.608
+0.329
+Pine regeneration (41–137 cm height
+class) frequency
+0.006
+0.008
+0.079
+Table 3
+High severity indicator species. No indicator species were found for the low-severity
+sites. Exotic species are in bold. Indicator species for severity/treatment combinations
+are noted in the text.
+Species
+Indicator
+Value (IV)
+P-
+value
+Mean
+cover
+S.E.
+Arctostaphylos pringlei
+46.7
+0.036
+2.87
+0.83
+Arctostaphylos pungens
+55.6
+0.032
+3.29
+0.95
+Bouteloua curtipendulaa
+73.1
+0.004
+1.55
+0.45
+Carex sp.
+65.3
+0.024
+1.03
+0.30
+Ceanothus fendleri
+79.7
+0.004
+14.25
+4.11
+Cirsium wheeleri
+84.5
+0.004
+0.81
+0.23
+Dyssodia papposa
+41.7
+0.036
+0.06
+0.017
+Lotus wrightii
+87.9
+0.004
+0.55
+0.16
+Panicum virgatum
+41.7
+0.048
+0.30
+0.09
+Pascopyrum smithiia
+74.9
+0.004
+3.20
+0.92
+Robinia neomexicana
+65.6
+0.004
+4.25
+1.23
+Tragopogon dubiusb
+75.0
+0.004
+0.05
+0.016
+Verbascum thapsusb
+73.8
+0.016
+0.55
+0.16
+a Seeded.
+b Exotic.
+K.L. Shive et al. / Forest Ecology and Management 297 (2013) 75–83
+79
+
+quency. Pine regeneration relative frequency for seedlings in the
+‘‘established’’ 41–137 cm height class were signiﬁcantly more fre-
+quent (p = 0.006) in high-severity areas (0.51) compared to low-
+severity areas (0.31). In high severity areas, seedling density in
+the 41–137 cm height class averaged 888.9 seedlings ha1 (median
+329.5) in high-severity areas and 68.64 seedlings ha1 (median 0)
+in low-severity areas. For the combined height classes, seedling
+density ranged from 0 to 4283.2 seedlings ha1 in high severity
+areas and from 0 to 659.0 seedlings ha1 in low-severity areas. Pine
+regeneration relative frequency for seedlings in the ‘‘established’’
+41–137 cm height class was also signiﬁcantly different by treat-
+ment (p = 0.008), where the frequency was 0.43 in treated areas
+versus 0.11 in untreated areas.
+When examining pine regeneration within low-severity areas,
+this treatment effect resulted in a mean pine regeneration fre-
+quency of 0.17 in treated areas and 0.06 in untreated areas (Tables
+2 and 4). Pine seedling density in this size class averaged 123.6
+(median 0) seedlings ha1 in low-severity treated areas and 13.7
+(median 0) in low-severity untreated areas. When the height clas-
+ses were combined, seedling densities ranged from 82.4 to 659.0
+seedlings ha1 on low-severity treated sites versus 0–329.47 on
+low-severity untreated sites. In high-severity areas, mean pine
+seedling frequency in the 41–137 cm height class was 0.67 in trea-
+ted areas and 0.19 in untreated areas. Pine regeneration density in
+this size class averaged 1345.4 seedlings ha1 (median 1276.7) in
+high-severity treated areas and 432.44 (median 0) in high-severity
+untreated areas (Table 4). When all height classes were combined,
+seedling densities on high-severity treated sites ranged from 164.7
+to 4283.2 seedlings ha1 versus 0 to 2347.5 seedlings ha1 on high-
+severity untreated sites.
+3.5. Neighborhood severity
+Finally, the examination of neighborhood severity surrounding
+high-severity sites detected an average of 47.2% low- and moder-
+ate-severity areas combined for the pre-ﬁre untreated sites. This
+was signiﬁcantly lower (p = 0.035) than the 73.1% combined low-
+and moderate-severity in the neighborhood of the pre-ﬁre treated
+sites (Fig. 4).
+4. Discussion
+Fire severity had a persistent impact on post-ﬁre vegetation
+characteristics 8 years post-ﬁre. We observed large and signiﬁcant
+Species richness (#)
+Total cover (%)
+Tree regeneration
+cover (%)
+Shrub cover (%)
+Forb cover (%)
+Graminoid cover (%)
+Exotic forb cover (%)
+Exotic graminoid cover
+(%)
+Fig. 3. Species richness, total plant canopy cover, and cover by life form by severity class and pre-ﬁre treatment, with standard error. Note differences in scale on the y-axis.
+80
+K.L. Shive et al. / Forest Ecology and Management 297 (2013) 75–83
+
+differences between low- and high-severity burned areas for al-
+most all variables measured. In high-severity areas, the resources
+made available after the loss of mature trees likely enabled the
+higher mean understory plant canopy cover, of which nearly half
+was comprised of shrubs. This pattern is consistent with that ob-
+served in the earlier investigation by Kuenzi et al. (2008). The
+importance of shrubby species in high-severity areas is under-
+scored by the appearance of three shrubs (A. pringlei, A. pungens,
+C. fendleri) and a re-sprouting tree that exhibits shrub-like patterns
+of juvenile growth (R. neomexicana) as indicator species, none of
+which were indicators of high-severity in the earlier investigations.
+The combination of few to no overstory trees and high shrub cover
+has resulted in shrub-dominated communities, unlike low-severity
+areas where mature ponderosa pine dominance was maintained
+post-ﬁre.
+We detected low cover of exotic species throughout the project
+area (<2%) in 2010, which is only slightly lower than that reported
+in the initial investigation (<3%) (Kuenzi et al., 2008). Drought con-
+ditions for the period of recovery may be contributing to the lim-
+ited exotic response, and low propagule pressure may also play a
+role (Lockwood et al., 2005). The low exotic response detected on
+this ﬁre is consistent with that observed by Foxx (1996) and Hui-
+singa et al. (2005), but it is inconsistent with several studies that
+detected signiﬁcant invasions in severely burned southwestern
+ponderosa pine forests. However, it is difﬁcult to compare our data
+with these studies because they either did not explicitly state
+which exotic species were observed (Grifﬁs et al., 2001) or they
+used different deﬁnitions of species’ nativity (Barclay et al., 2004;
+Crawford et al., 2001).
+Despite the overall low exotic plant cover on the Rodeo–Chedi-
+ski Fire, we did observe some important differences by severity
+class. In contrast to earlier measurements, exotic forb cover was
+signiﬁcantly higher in high-severity burned areas, although it
+was still quite low at <1%. The minute difference in exotic forb cov-
+er by severity may not be very biologically meaningful, but the in-
+creases in frequency since the 2004/2005 measurements for some
+exotic species on high-severity plots lend some credence to a dif-
+ference between severities. This difference was driven by the prev-
+alence of two exotic forbs, T. dubius and V. thapsus. Although cover
+values for each were relatively low, the number of plots with these
+species steadily increased since the initial investigation in 2004,
+particularly for T. dubius. This species was found on 51.4% more
+high-severity plots in 2010 than in 2004, and V. thapsus was found
+on 11.4% more high-severity plots. This pattern is further reﬂected
+in the designation of both species as indicator species for high-
+severity in 2010, which was not the case in 2004 or 2005. The in-
+crease of V. thapsus through time in cover and frequency among
+plots was also observed on the Apache-Sitgreaves National Forest
+portion of this ﬁre (Shive et al., 2013), but is in contrast to the
+reductions through time detected elsewhere on the Rodeo–Chedi-
+ski Fire (Ffolliott et al., 2011), and after restoration treatments else-
+where in the Southwest (Stoddard et al., 2011). On our sites, the
+increasing prevalence of these species may become cause for con-
+cern because propagule buildup could potentially facilitate more
+signiﬁcant invasions in the future, given the availability of suitable
+habitat (Lockwood et al., 2005; Moles et al., 2012).
+More generally, we observed slightly lower exotic species rich-
+ness than that reported in the initial investigation by Kuenzi et al.
+(2008), and also detected some changes in exotic species diversity
+and abundance. Of the exotic species found on at least 5% of the
+plots, ﬁve species observed in 2004 and 2005 were not included
+on the 5% subset list in 2010: Agropyron desertorum (Fisch. ex Link)
+Schult. (desert wheatgrass), Dactylis gomerata L. (orchardgrass), T.
+aestivum, Cirsium vulgare (Savi) Ten. (bull thistle), and Chenopo-
+dium album L. (lambsquarters). Our lack of detection of C. album
+may not represent an actual change, since the Chenopodium plants
+we encountered were in a juvenile stage that did not allow us to
+distinguish between native and exotic Chenopodium species. The
+common wheat seeded immediately post-ﬁre was frequent in
+2004, infrequent in 2005 (Kuenzi et al., 2008), and entirely absent
+in 2010. Our data show that the annual cereal grain did quickly exit
+the system as intended by managers (Peppin et al., 2010). Four
+exotic species that were observed infrequently in 2004/2005 were
+detected on at least 5% of plots in 2010: E. curvula, Poa compressa L.
+(Canada bluegrass), P. pratensis, and Erodium cicutarium (L.) L’Hér.
+ex Aiton (redstem stork’s bill). The increase in frequency of these
+species through time may also be cause for concern in the future
+if the trend continues. Only the perennial forb, Sanguisorba minor
+Scop. (small burnet), was completely new in 2010, yet it occurred
+on only two plots.
+It is important to note that some of these exotic species may
+have been introduced to the area via past seeding practices. The
+perennial grass E. curvula was known to have been seeded in the
+course of past management activities before the Rodeo–Chediski
+Fire (Kuenzi et al., 2008), and many of the other exotic species
+we found have been seeded as part of management activities
+throughout the Southwest: P. pratensis, Melilotus ofﬁcinalis (L.)
+Lam. (sweetclover), D. glomerata (Fowler et al., 2008). In addition
+to past intentional seeding of exotic species, native seed mixes
+(such as those used after the Rodeo–Chediski Fire) have the poten-
+tial for exotic species contamination (Fowler et al., 2008; Keeley,
+2006; Peppin et al., 2010). Because of this risk of contamination,
+even seeding with sterile species such as common wheat, which
+did exit the system as intended, should be applied with caution.
+Table 4
+Pine regeneration mean relative frequency and density (standard errors in parentheses) by severity and treatment, in the 0–40 cm and 41–137 cm height classes, as well as the
+two classes combined (‘‘All seedlings’’).
+Severity/treatment
+Relative frequency
+Density (seedlings ha1)
+0–40 cm
+41–137 cm
+All <137 cm
+0–40 cm
+41–137 cm
+All <137 cm
+Low
+Untreated
+0.17(0.11)
+0.06(0.06)
+0.17(0.14)
+82.4(56.3)
+13.7(13.7)
+96.1(61.7)
+Treated
+0.39(0.06)
+0.17(0.11)
+0.44(0.07)
+164.7(56.3)
+123.6(84.4)
+288.3(107.9)
+High
+Untreated
+0.06(0.06)
+0.19(0.12)
+0.25(0.12)
+13.7(13.7)
+432.4(385.1)
+446.2(382.3)
+Treated
+0.28(0.10)
+0.67(0.09)
+0.78(0.07)
+288.3(209.2)
+1345.4(435.7)
+1633.6(617.6)
+Pixel distribution
+Fig. 4. Neighborhood severity distribution for high severity treated and untreated
+areas.
+K.L. Shive et al. / Forest Ecology and Management 297 (2013) 75–83
+81
+
+Pre-ﬁre treatment had no effect on exotic response, but did
+have signiﬁcant impacts on several response variables. The detec-
+tion of signiﬁcant differences in pine regeneration, total plant cov-
+er, and plant community composition by pre-ﬁre treatment
+suggests that although severity was the predominant driver of
+many vegetation differences, pre-ﬁre treatments can inﬂuence
+post-ﬁre communities. In particular, treatment effects on pine
+regeneration and total understory plant cover are likely to have
+important implications for post-ﬁre reforestation. In the low-
+severity areas, the higher mean frequency in treated areas may
+be important for concerns about seedling recruitment in post-set-
+tlement forests. When all seedling height classes are combined,
+each of the pre-ﬁre treated sites had regeneration on at least one
+plot. In contrast, four of the six untreated low-severity sites com-
+pletely lacked ponderosa pine regeneration on all three plots.
+The pine seedling densities we detected are difﬁcult to compare
+directly to other studies in areas with intact forest structure due to
+differences in the deﬁnition of seedling size. These deﬁnitions var-
+ied from recruits less than breast height (Keyser et al., 2008), to
+those P20 cm in height and <2.54 cm DBH ⁄(Puhlick et al.,
+2012), to those 65 cm DBH (Bailey and Covington, 2002). We de-
+tected an average of 96 seedlings ha1 in low-severity untreated
+plots and 288 seedlings ha1 in low-severity treated plots; whereas
+Bailey and Covington (2002) detected much lower seedling density
+(18–60 seedlings ha1) despite their more inclusive deﬁnition of a
+seedling. However, all of these observations are considerably lower
+than observed by Keyser et al. (2008) (up to 2000 seedlings ha1),
+and Lentile et al. (2005) (612 seedlings ha1) in the more mesic
+Black Hills of South Dakota. They are also lower than what Puhlick
+et al. (2012) reported in the southwestern US (536–14,184 seed-
+lings ha1). Although signiﬁcant mortality is possible (Smith
+et al., 1997), the densities we observed in the low-severity treated
+areas (288 seedlings ha1) may be adequate to provide the 0.4–3.6
+trees ha1, per decade that Mast et al. (1999) determined recruited
+into the overstory under the pre-European ﬁre regime.
+In high-severity areas, the treatment effect on pine regeneration
+frequency may be important for reforestation of severely burned
+areas. Given the unknown future patterns of climate and distur-
+bance, a myriad of trajectories are possible on these landscapes.
+However, the current frequencies of pine regeneration suggest that
+untreated areas in high-severity burned sites are more likely to re-
+main shrub-dominated; whereas treated sites within high-severity
+areas have a better chance of recruitment back to pine-dominated
+forest. In untreated areas, the low frequency and density of pine
+seedlings within high-severity sites indicate a higher likelihood
+of conversion to shrublands. In the larger 41–137 cm size class,
+only two of six sites had any ponderosa pine regeneration. For both
+sizes combined, regeneration occurred on only three of six sites,
+averaging 446 seedlings ha1 for both size classes, and two of these
+sites had densities <250 seedlings ha1. This number is slightly
+higher than those reported in several other studies in the ponder-
+osa pine type. On the La Mesa Fire in northern New Mexico, Foxx
+(1996) reported roughly 81–121 seedlings ha1; whereas in high-
+severity areas of the 2000 Jasper Fire in the Black Hills, no seedlings
+were detected in severely burned areas in either year three post-
+ﬁre (Lentile et al., 2005) or in year ﬁve post-ﬁre (Keyser et al.,
+2008). The densities at these sites are far below the 809 seedlings
+ha1 Pearson (1950) recommended to fully re-stock clear-cut areas
+under even-aged management (although Pearson does not specify
+size class in this recommendation).
+We attribute this limited pine recruitment in untreated areas
+within high-severity sites in part to distance to seed source. In
+these areas, pre-ﬁre treatment functioned to limit high-severity
+burn patches, and thereby create more heterogeneous areas
+surrounding our sampling sites. There were more low- and moder-
+ate-severity burned areas in the neighborhood of sites with pre-ﬁre
+treatments where high-severity patch size was limited; whereas
+untreated high-severity sites were predominantly surrounded by
+more high-severity burned area (i.e. situated in larger patches of
+high severity). This likely explains the treatment effect for relative
+frequency of pine regeneration in high-severity areas, because low-
+and moderate-severity areas generally maintain more overstory
+structure that can provide a seed source.
+Other studies in ponderosa pine have shown decreased pine
+recruitment with increasing distance from unburned, or lightly
+burned, edge (Bonnet et al., 2005; Haire and McGarigal, 2008,
+2010; Lentile et al., 2005). We also observed lower rates of recruit-
+ment in areas farther from lesser-burned edges (in our study, the
+proxy for this was the low and moderate severity areas that were
+less prevalent around the untreated sites). By increasing the size
+of high-severity burned patches, these recent ‘‘mega-ﬁres’’ are
+increasing the distance to edge/seed source, which is impacting
+forest regeneration. We recognize that regeneration patterns are
+complex, and that all large high-severity patches may not face
+the same limitations. Long-distance seed dispersal and surviving,
+isolated overstory trees within a high-severity patch may act to re-
+duce the effective patch size in terms of distance to seed source.
+In addition to limited seed source availability, site capture by
+shrubs or grasses may also inhibit future pine regeneration. Several
+studies in severely burned ponderosa pine forests have linked in-
+creased shrub cover to decreased pine regeneration (Haire and
+McGarigal, 2008, 2010; Strom and Fulé, 2007). We similarly ob-
+served signiﬁcantly lower pine regeneration on untreated sites,
+where we also observed signiﬁcantly higher total plant canopy
+cover. This cover was primarily comprised of graminoids, shrubs,
+and re-sprouting tree species that exhibit shrub-like growth forms
+in their juvenile stage (such as Quercus gambelii Nutt. (Gambel
+oak),
+Juniperus
+deppeana
+Steud.
+(alligator
+juniper),
+and
+R.
+neomexicana).
+In contrast, the pre-ﬁre treated sites within high-severity had
+signiﬁcantly more frequent pine regeneration compared to un-
+treated sites. This suggests that these areas generally have a better
+chance at reforestation than the untreated sites. However, two of
+the treated sites had excessively high pine seedling densities,
+which may indicate a trajectory towards overly dense stands. The
+densities at these sites (>2000 seedlings ha1) greatly exceed the
+809 seedlings ha1 Pearson (1950) recommended to fully re-
+stock clear-cut areas. Similarly high densities of pine regeneration
+in severely burned areas have been reported in longer-term inves-
+tigations by Savage and Mast (2005) and Haire and McGarigal
+(2010). Without management intervention, these high-density
+sites may be at risk of re-burning severely in the future.
+5. Management recommendations
+The results from this project ﬁt into a body of literature that
+does not indicate a straightforward or easily predictable pattern
+of exotic response, suggesting more intensive investigations are
+needed. Where existing plots burn over, re-measurements should
+be a priority in order to better understand how pre-ﬁre species
+assemblages interact with severity and management treatments
+to inﬂuence post-ﬁre plant communities. In addition, the results
+of this investigation support the continued application of manage-
+ment practices that reduce fuels, such as uneven-aged silvicultural
+strategies or thinning and burning treatments. These treatments
+are important to the persistence of ponderosa pine forests because
+they generally reduce ﬁre severity where applied, and even where
+burning conditions permit high-severity ﬁre in treated areas, our
+neighborhood severity analysis suggests that the patch size is
+likely to be smaller than in untreated areas, which may signiﬁ-
+cantly impact post-ﬁre pine regeneration. Finally, the detection
+82
+K.L. Shive et al. / Forest Ecology and Management 297 (2013) 75–83
+
+of important differences in vegetation response by pre-ﬁre treat-
+ment within severity class demonstrates that landscapes that
+burned under a given severity class are not necessarily alike. As
+such, managing post-ﬁre landscapes under the assumptions that
+all low- or high-severity areas are the same may ignore important
+differences in plant communities and future trajectories.
+Acknowledgements
+We thank the White Mountain Apache Tribe for access and sup-
+port for the project, particularly Tribal Forester Jonathan Brooks.
+Funding was provided by the Joint Fire Science Program (JFSP 11-
+1-1-27), the Ecological Restoration Institute (ERI), and the National
+Fire Plan (FWE-3) through Challenge Cost Share Agreement 09-CS-
+190 with the Rocky Mountain Research Station (RMRS).
+References
+Anderson, M.J., 2001. Permutation tests for univariate or multivariate analysis of
+variance and regression. Can. J. Fish. Aquat. Sci. 58, 626–639.
+Avery, T.E., Burkhart, H.E., 2001. Forest Measurements, ﬁfth ed. McGraw-Hill, New
+York.
+Bailey, J.D., Covington, W.W., 2002. Evaluating ponderosa pine regeneration rates
+following ecological restoration treatments in northern Arizona, USA. For. Ecol.
+Manage. 155, 271–278.
+Barclay, A.D., Betancourt, J.L., Allen, C.D., 2004. Effects of seeding ryegrass (Lolium
+multiﬂorum) on vegetation recovery following ﬁre in a ponderosa pine (Pinus
+ponderosa) forest. Int. J. Wildland Fire 13, 183–194.
+Baron, J.S., Gunderson, L., Allen, C.D., Fleishman, E., McKenzie, D., Meyerson, L.A.,
+Oropeza, J., Stephenson, N., 2009. Options for national parks and reserves for
+adapting to climate change. Environ. Manage. 44, 1033–1042.
+Barton, A.M., 2002. Intense wildﬁre in southeastern Arizona: transformation of a
+Madrean oak-pine forest to oak woodland. For. Ecol. Manage. 165, 205–212.
+Bonnet, V.H., Schoettle, A.W., Shepperd, W.D., 2005. Postﬁre environmental
+conditions inﬂuence the spatial pattern of regeneration for Pinus ponderosa.
+Can. J. For. Res. 35, 37–47.
+Brooks, M.L., D’Antonio, C.M., Richardson, D.M., Grace, J.B., Keeley, J.E., DiTomaso,
+J.M., Hobbs, R.J., Pellant, M., Pyke, D., 2004. Effects of invasive alien plants on ﬁre
+regimes. Bioscience 54, 677–688.
+Byrne, R., McAndrews, J.H., 1975. Pre-Columbian Purslane (Portulaca-Oleracea L) in
+New World. Nature 253, 726–727.
+Cochrane, M.A., Morgan, C.J., Wimberly, M.C., Baer, A.D., Finney, M.A., Beckendorf,
+K.L., Eidenshink, J., Zhu, Z., 2012. Estimation of wildﬁre size and risk changes
+due to fuel treatments. Int. J. Wildland Fire, <http://dx.doi.org/10.1071/
+WF11079>.
+Covington, W.W., Moore, M.M., 1994. Southwestern ponderosa forest structure -
+changes since Euro-American settlement. J. Forest. 92, 39–47.
+Crawford, J.S., Wahren, C.H.A., Kyle, S., Moir, W.H., 2001. Responses of exotic plant
+species to ﬁres in Pinus ponderosa forests in northern Arizona. J. Veg. Sci. 12,
+261–268.
+Daubenmire, R.F., 1959. A canopy-coverage method. Northwest Sci. 33, 43–64.
+Dodge, R.S., Fulé, P.Z., Sieg, C.H., 2008. Dalmatian toadﬂax (Linaria dalmatica)
+response to wildﬁre in a southwestern USA forest. Ecoscience 15, 213–222.
+Dufrene, M., Legendre, P., 1997. Species assemblages and indicator species: The
+need for a ﬂexible asymmetrical approach. Ecol. Monogr. 67, 345–366.
+Ellison, A.M., Bank, M.S., Clinton, B.D., Colburn, E.A., Elliott, K., Ford, C.R., Foster, D.R.,
+Kloeppel, B.D., Knoepp, J.D., Lovett, G.M., Mohan, J., Orwig, D.A., Rodenhouse,
+N.L., Sobczak, W.V., Stinson, K.A., Stone, J.K., Swan, C.M., Thompson, J., Von Holle,
+B., Webster, J.R., 2005. Loss of foundation species: consequences for the
+structure and dynamics of forested ecosystems. Front. Ecol. Environ. 3, 479–
+486.
+Ffolliott, P.F., Stropki, C.L., Chen, H., Neary, D.G., 2011. The 2002 Rodeo–Chediski
+Wildﬁre’s Impacts on Southwestern Ponderosa Pine Ecosystems, Hydrology and
+Fuels. USDA For. Serv. Res. Paper RMRS-RP-85.
+Finney, M.A., McHugh, C.W., Grenfell, I.C., 2005. Stand- and landscape-level effects
+of prescribed burning on two Arizona wildﬁres. Can. J. For. Res. 35, 1714–1722.
+Fowler, J.F., Sieg, C.H., Dickson, B.G., Saab, V., 2008. Exotic plant species diversity:
+inﬂuence of roads and prescribed ﬁre in Arizona ponderosa pine forests.
+Rangeland Ecol. Manage. 61, 284–293.
+Foxx, T.S., 1996. Vegetation succession after the La Mesa ﬁre at Bandelier National
+Monument.
+In:
+Allen,
+C.D.
+(Ed.),
+Fire
+Effects
+in
+Southwestern
+Forests:
+Proceedings of the Second La Mesa Fire Symposium, 29–31 March, 1994.⁄
+USDA Forest Service, Rocky Mountain Forest and Range Experiment Station,
+Fort Collins, CO, Los Alamos, NM, pp. 47–69.
+Fulé, P.Z., Covington, W.W., 1998. Spatial patterns of Mexican pine-oak forests
+under different recent ﬁre regimes. Plant Ecol. 134, 197–209.
+Fulé, P.Z., Crouse, J.E., Roccaforte, J.P., Kalies, E.L., 2012. Do thinning and/or burning
+treatments in western USA ponderosa or Jeffrey pine-dominated forests help
+restore natural ﬁre behavior? For. Ecol. Manage. 269, 68–81.
+Grifﬁs, K.L., Crawford, J.A., Wagner, M.R., Moir, W.H., 2001. Understory response to
+management treatments in northern Arizona ponderosa pine forests. For. Ecol.
+Manage. 146, 239–245.
+Haire, S.L., McGarigal, K., 2008. Inhabitants of landscape scars: succession of woody
+plants after large, severe forest ﬁres in Arizona and New Mexico. Southwest.
+Nat. 53, 146–161.
+Haire, S.L., McGarigal, K., 2010. Effects of landscape patterns of ﬁre severity on
+regenerating ponderosa pine forests (Pinus ponderosa) in New Mexico and
+Arizona, USA. Landsc. Ecol. 25, 1055–1069.
+Huisinga, K.D., Laughlin, D.C., Fulé, P.Z., Springer, J.D., McGlone, C.M., 2005. Effects of
+an intense prescribed ﬁre on understory vegetation in a mixed conifer forest. J.
+Torrey Bot. Soc. 132, 590–601.
+Institute of Ecosystem Studies, 1999. Gap Light Analyzer (Computer Program).
+Simon Fraser University. <http://www.ecostudies.org/gla>.
+JMP, Version 7. SAS Institute Inc. Cary, NC, 1989–2007.
+Keeley, J.E., 2006. Fire management impacts on invasive plants in the western
+United States. Conserv. Biol. 20, 375–384.
+Keyser, T.L., Lentile, L.B., Smith, F.W., Shepperd, W.D., 2008. Changes in forest
+structure after a large, mixed-severity wildﬁre in ponderosa pine forests of the
+Black Hills, South Dakota, USA. For. Sci. 54, 328–338.
+Kuenzi, A.M., Fulé, P.Z., Sieg, C.H., 2008. Effects of ﬁre severity and pre-ﬁre stand
+treatment on plant community recovery after a large wildﬁre. For. Ecol.
+Manage. 255, 855–865.
+Larson, M.M., Schubert, G.H., 1970. Cone crops of ponderosa pine in central Arizona
+including the inﬂuence of Albert squirrels. USDA For. Serv. Res. Paper RM-58.
+Lentile, L.B., Smith, F.W., Shepperd, W.D., 2005. Patch structure, ﬁre-scar formation,
+and tree regeneration in a large mixed-severity ﬁre in the South Dakota Black
+Hills, USA. Can. J. For. Res. 35, 2875–2885.
+Lockwood, J.L., Cassey, P., Blackburn, T., 2005. The role of propagule pressure in
+explaining species invasions. Trends Ecol. Evol. 20, 223–228.
+Mast, J.N., Fulé, P.Z., Moore, M.M., Covington, W.W., Waltz, A.E.M., 1999. Restoration
+of presettlement age structure of an Arizona ponderosa pine forest. Ecol. Appl.
+9, 228–239.
+McCune, B., Grace, J.B., 2002. Analysis of Ecological Communities. MjM Software
+Design, Gleneden Beach, Oregon.
+McCune, B., Mefford, M.J., 1999. PC-ORD (Computer Software). Multivariate
+Analysis of Ecological Data, Version 4. MjM Software Design, Gleneden Beach,
+OR.
+McDonald, P.M., 1980. Seed dissemination in small clear cuttings in north-central
+California. USDA For. Serv. Res. Paper PSW-150, 5.
+Moles, A.T., Flores-Moreno, H., Bonser, S.P., Warton, D.I., Helm, A., Warman, L.,
+Eldridge, D.J., Jurado, E., Hemmings, F.A., Reich, P.B., Cavender-Bares, J.,
+Seabloom, E.W., Mayﬁeld, M.M., Sheil, D., Djietror, J.C., Peri, P.L., Enrico, L.,
+Cabido, M.R., Setterﬁeld, S.A., Lehmann, C.E.R., Thomson, F.J., 2012. Invasions:
+the trail behind, the path ahead, and a test of a disturbing idea. J. Ecol. 100, 116–
+127.
+Pearson, G.A., 1950. Management of Ponderosa Pine the Southwest as developed by
+research and experimental practice. USDA For. Serv. Agricultural Monograph 6,
+217, Washington, DC.
+Peck, J.E., 2010. Multivariate Analysis for Community Ecologists: Step-by-Step using
+PC-ORD. MjM Software Design, Gleneden Beach, OR.
+Peppin, D., Fule, P.Z., Sieg, C.H., Beyers, J.L., Hunter, M.E., 2010. Post-wildﬁre seeding
+in forests of the western United States: an evidence-based review. For. Ecol.
+Manage 260, 573–586.
+Pollet, J., Omi, P.N., 2002. Effect of thinning and prescribed burning on crown ﬁre
+severity in ponderosa pine forests. Int. J. Wildland Fire 11, 1–10.
+Puhlick, J.J., Laughlin, D.C., Moore, M.M., 2012. Factors inﬂuencing ponderosa pine
+regeneration in the southwestern USA. For. Ecol. Manage 264, 10–19.
+Savage, M., Mast, J.N., 2005. How resilient are southwestern ponderosa pine forests
+after crown ﬁres? Can. J. For. Res. 35, 967–977.
+Seager, R., Ting, M.F., Held, I., Kushnir, Y., Lu, J., Vecchi, G., Huang, H.P., Harnik, N.,
+Leetmaa, A., Lau, N.C., Li, C.H., Velez, J., Naik, N., 2007. Model projections of an
+imminent transition to a more arid climate in southwestern North America.
+Science 316, 1181–1184.
+Shive, K.L., A.M. Kuenzi, C.H. Sieg, P.Z. Fule, 2013. Pre-ﬁre fuel reduction treatments
+inﬂuence plant communities and exotic species 9 years after wildﬁre. Applied
+Veg. Science. http://dx.doi.org/10.1111/avsc.12015.
+Smith, D.M., Larson, B.C., Kelty, M.J., Ashton, P.M.S., 1997. The Practice of
+Silviculture: Applied Forest Ecology. John Wiley & Sons, New York.
+Stoddard, M.T., McGlone, C.M., Fulé, P.Z., Laughlin, D.C., Daniels, M.L., 2011. Native
+plants dominate understory vegetation
+following ponderosa pine forest
+restoration treatments. West. N. Am. Nat. 71, 206–214.
+Strom, B.A., 2005. Pre-ﬁre treatment effects and post-ﬁre forest dynamics on the
+Rodeo–Chediski burn area, Arizona. M.S. Thesis. School of Forestry, Northern
+Arizona University, Flagstaff AZ.
+Strom, B.A., Fulé, P.Z., 2007. Pre-wildﬁre fuel treatments affect long-term ponderosa
+pine forest dynamics. Int. J. Wildland Fire 16, 128–138.
+USDA-NRCS, 2006. The PLANTS Database. National Plant Data Center, Baton Rouge,
+LA 70874-4490, USA, 29 November, 2006. <http://plants.usda.gov>.
+USDA-NRCS, 2011. The PLANTS Database. National Plant Data Center, Baton Rouge,
+LA 70874-4490, USA, 15 November, 2011. <http://plants.usda.gov>.
+Welsh, S.L., Atwood, N.D., Goodrich, S., Higgins, L.C., 1993. A Utah Flora. Brigham
+Young University, Provo, UT.
+Westerling, A.L., Hidalgo, H.G., Cayan, D.R., Swetnam, T.W., 2006. Warming and
+earlier spring increase western US forest wildﬁre activity. Science 313, 940–
+943.
+K.L. Shive et al. / Forest Ecology and Management 297 (2013) 75–83
+83

@@ -1,0 +1,1095 @@
+Forest Science 47(2) 2001
+219
+Design of Regular Landscape Fuel
+Treatment Patterns for Modifying
+Fire Growth and Behavior
+Mark A. Finney
+ABSTRACT.  Patterns of disconnected fuel treatment patches that overlap in the heading fire spread
+direction are theoretically effective in changing forward fire spread rate. The analysis presented here
+sought to find the unit shape and pattern for a given level of treatment that has the maximum effect
+on forward spread rate. This occurs when the treatment units cause the fire to spread through them
+at the same rate as it spreads around them. Simulations suggested that these treatment patterns
+reduce the spread rate or fireline intensity over much of the area burned, even outside the treatment
+units where the fire was forced to flank. The ideal patterns are theoretically scale independent, allowing
+for flexible application across heterogeneous landscapes. The topology of these patterns has
+implications for designing landscape-level fuel treatment patterns and for understanding spatial
+dynamics of fuel patterns across landscapes. FOR. SCI. 47(2):219–228.
+Key Words:  Fuels, fuel treatments, fire behavior, landscape patterns, fire modeling.
+Mark A. Finney is Research Forester, USDA Forest Service, Rocky Mountain Research Station, PO Box 8089, Missoula MT 59807—Phone: (406)
+329-4832; E-mail: mfinney@fs.fed.us. The paper was written while the author was a research scientist with Systems for Environmental Management,
+PO Box 8868, Missoula MT 59807.
+Acknowledgments:  This research was funded by the USDA Forest Service Rocky Mountain Research Station, Fire Sciences Laboratory, Fire Effects
+Research Work Unit, under Research Joint Venture Agreement INT-96095-RJVA. The author thanks Kevin Ryan for his support of this work, and Jim
+Agee for his comments on a draft. Three anonymous referees also improved the paper with their helpful reviews.
+Manuscript received November 29, 1999. Accepted June 1, 2000.
+This article was written by a U.S. Government employee and is therefore in the public domain.
+T
+HE GOAL OF FUEL MANAGEMENT IS to preemptively modify
+wildfire behavior through changes to the fuel com-
+plex. Fuel management has received increasing inter-
+est for mitigating fuel hazards (U.S. Department of the
+Interior and Department of Agriculture 1996, U.S. General
+Accounting Office 1999), some of which were created by
+nearly a century of fire suppression on millions of acres in the
+western United States (Arno and Brown 1991). Fuel treat-
+ments are intended to help limit wildland fire sizes and
+severity by directly mitigating fire behavior and indirectly by
+facilitating suppression. Prescribed burning and mechanical
+thinning can lower fire spread rates and intensities within the
+treated area (van Wagtendonk 1996, Helms 1979), at least
+until fuels and vegetation reaccumulate. Fireline construc-
+tion can be faster and more effective (fewer escapes) when
+heavy concentrations of brush and logs are removed, and
+spotting from torching trees is limited.
+Treating all fuels across an entire landscape is practically
+impossible, however. Limited funding, inadequate road ac-
+cess, variable land ownership, and regulations often restrict
+prescribed burning, smoke production, or timber harvesting.
+Fuel management on a landscape scale tends to be limited in
+the amount of a given treatment, location of treatments, and
+the kinds of treatments permitted. Priorities for treatment are
+often based on local hazards, ecological objectives, conve-
+nience, cost, land ownership, or accessibility. These priori-
+ties are not necessarily topological or spatial as is fire growth
+and behavior and they do not prioritize the layout of treatment
+units with an explicit consideration of fire growth among
+adjacent units. With all the limitations on treatment location
+and continuity of treatments across a landscape, it is logical
+to address how the spatial arrangement of treatment units
+affects fire growth.
+Two basic strategies for landscape-level fuel management
+are to contain fires and to modify fire behavior. Linear fuel
+breaks (Agee et al. 2000, Weatherspoon and Skinner 1996)
+have been proposed to help contain fires. Fuel breaks are
+intended to reinforce defensible locations and facilitate sup-
+
+220
+Forest Science 47(2) 2001
+pression action by indirect tactics including backfiring (Green
+1977, Omi 1996). It is assumed that undesirable fire effects
+are limited by reducing fire sizes. The fuel breaks themselves
+are only burned along the zone of suppression, not by the fire.
+By contrast, a spatial arrangement of treatments that prima-
+rily modifies fire behavior would involve area-based or
+dispersed patterns (Martin et al. 1989). Fire effects and
+behaviors are modified wherever the fire encounters the
+treatment units. Suppression is facilitated by allowing any
+tactic (direct, indirect, or parallel attacks) to adapt to changes
+in collective fire behavior.
+For fire modification, it is clear that the greatest reduction
+in fire size and severity occurs when fuel treatment units limit
+fire spread in the heading direction. The heading portion of a
+fire (moving with the wind or slope) has the fastest spread rate
+and highest intensity compared to flanking and backing
+portions (Catchpole et al. 1982). The heading fire also holds
+the most potential for initiating crown fire and spotting,
+which makes suppression much more difficult.
+To disrupt the spread of the heading fire, there are three
+basic geometric treatment patterns offering varying degrees
+of overlap: complete, none, or partial (Figure 1). The case of
+complete overlap by multiple treatments (Figure 1a) has the
+effect of producing a harmonic mean spread rate among
+multiple fuel types as the fire burns sequentially through the
+strips (Fujioka 1985, Martin 1988):
+h
+f r
+f
+r
+=
++
++
+1
+1
+1
+2
+2
+...
+(1)
+where fi is the fraction of the total distance across the ith fuel
+type having a characteristic spread rate ri. Here the effective
+heading spread rate h is proportional to the time spent in each
+fuel type; the fire must spread through the treatment strips
+perpendicular to their orientation (e.g., no flanking). This
+arrangement would rarely be practical for treating large and
+variable landscapes. It would require extensive area to be
+treated and continuous land ownership and access. By con-
+trast, a treatment pattern with no overlap of the treatment
+units (Figure 1b) may not change the forward spread rate
+across the landscape; fire can burn unfettered through the
+corridors between treatment blocks. A random or arbitrary
+arrangement of treatments would closely resemble this pat-
+tern because it has no requirement for producing overlap. It
+would, however, be expected to yield increasing overlap in a
+given direction as the treatment area or number of treatment
+units increased. The effect of partial overlap (Figure 1c) on
+fire growth is more complex because the fire must progress
+through the pattern with a combination of forward and lateral
+spread. This means that unit size, shape, orientation, and
+juxtaposition to other units will strongly affect fire growth.
+The topology will be general to heterogeneous landscapes
+where fire is forced to progress among multiple fuel types.
+Since a large number of unit configurations is possible, the
+following analysis was directed to find a regular pattern of
+treatments that produces the greatest reduction in overall fire
+spread rate with a minimum of treated area.
+Analysis
+Fire shapes formed the basis for analyzing how flanking
+and heading spread affected the progress of fire within a
+mixture of fuel types. Shapes of wildland fires are known to
+be ellipsoidal under homogeneous conditions of fuels, weather,
+and topography (Van Wagner 1969, Anderson 1983,
+Alexander 1985). The simple ellipse is the most common
+shape used in modeling fire growth, and its dimensions are
+assumed to depend mainly on wind and slope (Alexander
+1985). For an elliptical fire, the rectangular expansion rates
+∂
+∂∂
+∂
+(
+)
+x
+t
+y
+t
+,
+in a given direction θ ( 0
+2
+≤
+≤
+θ
+π) from the
+center (Figure 2) can be obtained using spread rate compo-
+nents (a, b, c) for the dimensions of length and breadth
+(Anderson et al. 1982, Richards 1990):
+∂
+∂=
+x
+t
+asinθ
+(2)
+∂
+∂=
++
+y
+t
+b
+c
+cosθ
+(3)
+The heading spread rate r is the sum b + c (θ = 0) because
+c is the offset from the center of the ellipse to the ignition
+point. The dimensions are parallel to the ground slope.
+Stronger winds and steeper slopes produce more eccentric
+fire shapes as described by the length to breadth ratio (Figure
+2). The spread rates and intensities around the fire edge
+(Catchpole et al. 1982) and their distributions within the
+Figure 1.  Three basic fuel treatment patterns characterized by (a)
+complete overlap in the heading direction, (b) no overlap, and (c)
+partial overlap. The arrows show the general paths of fire travel.
+Figure 2.  Elliptical fire shapes described by length to breadth
+ratio and by spread rate dimensions a, b, and c. Dimension a is the
+flanking spread rate, b + c is the forward spread rate, and c is the
+offset from the center of the ellipse to the ignition point along the
+major axis. Length to breadth ratio is b/a.
+
+Forest Science 47(2) 2001
+221
+burned area (Catchpole et al. 1992) depend on fire shape. Fuel
+type is often assumed to play little role in the shape of fires
+(Anderson 1983) but greatly affects fire size because of
+different intrinsic spread rates for given environmental con-
+ditions. Thus, fuel treatments that only affect surface fuels
+would mainly change fire spread rates and sizes but not
+shapes. On forested lands, treatments often remove some of
+the overstory trees to decrease horizontal and vertical crown
+fuel continuity. This could produce faster windspeeds in the
+understory as a result of a sparser canopy and thereby elon-
+gate the fire spread pattern and increase spread rate to some
+degree.
+A main assumption of the following analysis is that
+treatments effectively slow the fire spread rate. This is
+expected, under most weather conditions, during the period
+that forest and brush fuels are reduced after prescribed fire
+and mechanical treatment. Burning reduces fuel loading,
+depth, and continuity, and thus fire spread and intensity.
+Thinning can limit the potential for fast-spreading crown
+fires. This analysis assumes no spotting or acceleration of the
+fire when spreading between fuel types and that fire shape is
+the same in treated and untreated areas.
+Shape of a Single Treatment Unit
+A single treatment unit that reduces spread rate most
+efficiently for the amount of area treated is one that will
+just be burned completely as the fire simultaneously burns
+through and circumvents the unit. Consider an elliptical
+fire with dimensions a, b, c that spreads from a point at a
+rate rm for a distance D in homogeneous fuels (Figure 3);
+the smallest rectangular treatment unit with slower spread
+rate rt that could block its path at a distance S from the
+ignition point would allow the fire to spread forward a
+distance W and laterally a distance L such that:
+L
+A
+C
+S
+B
+A
+B
+B
+C
+S
+2
+1
+2
+2
+=
+−
+−
+(
+)
+
+
+
+=
+−
+−
+(
+)
+sin cos
+(4)
+A, B, and C are distances scaled from the spread rate dimen-
+sions (a, b, c) of an elliptical fire in the untreated fuels using
+known distances S and W:
+A
+B a
+b
+=
+(5)
+B
+D
+b
+b
+c
+=
++
+(
+)
+(6)
+C
+D
+c
+b
+c
+=
++
+(
+)
+(7)
+and D is the forward spread distance from the ignition point
+assuming only untreated fuels:
+D
+S
+W r
+r
+m
+t
+=
++
+(8)
+The length D is critical to the A, B, C dimensions of the fire
+and thus, the L and W of the treatment units.
+If this fire were to continue growing under constant
+environmental conditions, it would flank to the left and
+right edges of the treatment, turn the corners, and resume
+spreading as two separate heading fires (Figure 4a). At the
+same time, the fire would exit the lee side of the treatment
+and also resume heading through the matrix. The fire
+burning through the unit maintains a distance W ahead of
+the fires that have flanked from around each side and thus,
+a faster overall spread rate. The most efficient treatment
+unit width W occurs when the fire exiting the lee of the unit
+synchronously arrives at the same forward position as the
+fires moving around the ends (Figure 4b) making the
+spread rates equal. This was obtained by modifying Equa-
+tion (8) to reduce the influence of W on L/2 in Equation (4):
+D
+S
+W
+r
+r
+r
+r
+S
+W r
+r
+t
+m
+m
+t
+m
+t
+=
++
+−
+
+
+
+
+=
++
+−
+
+
+
+
+1
+1
+(9)
+Together, Equations (4)–(7) and (9) describe a rectan-
+gular treatment unit that provides the maximum delay of
+forward fire spread per unit area treated for a single point-
+source fire igniting at a specific location outside the unit.
+A wider unit does not stem the forward spread of the fire
+because the fire flanks around it. A narrower unit burns
+through before the fire flanks to its edges.
+Regular Pattern of Overlapping Units
+With slight modification, the analysis for a single treat-
+ment unit [Equations (4)–(9)] can be extended to address
+fire growth through a repeating regular pattern of identical
+Figure 3.  Treatment unit dimensions W and L are a function of fire
+shape and spread rates according to Equations (4)(5)(6)(7) and (8).
+
+222
+Forest Science 47(2) 2001
+rectangular units across a landscape (e.g., the partial over-
+lap pattern). Assuming that the fire burns steadily under
+constant environmental conditions, the pattern consists of
+parallel rows of units that overlap normal to the direction
+of heading fire spread by a constant amount (Figure 1c).
+The embedding of a single treatment unit in a regular
+pattern of units changes the interpretation of the ignition
+point in Equations (4)–(9) to a virtual point located at the
+leeward corners of the previous units (Figure 5). These
+corners become virtual point source ignitions because the
+fire can make no lateral progress into the units that could
+affect fire growth outside the units. Although a small
+amount of flanking spread within the units does take place
+before the heading fire reaching these corners (Figure
+4a,b), it is irrelevant to fire shape or growth after fire
+reaches these corners because of the faster flanking spread
+in the matrix.
+Once embedded in a repeating pattern, the width of
+each unit serves a double purpose: it delays the head of the
+fire while it flanks along the overlap formed with the unit
+of the previous row, and then (in the opposite direction)
+along the overlap with the units in the next row. Thus, with
+two rows of overlap surrounding each unit, the effect of W
+on O needs to be only half that described by Equation (9)
+to produce the maximum delay of the fire:
+D
+S
+W
+r
+r
+m
+t
+=
++
+−
+
+
+
+
+2
+1
+(10)
+With this modification, Equation (4) relates only to the
+portion of the treatment unit causing the fire to flank (e.g., the
+overlap O) not L/2.
+O
+A
+B
+B
+C
+S
+=
+−
+−
+(
+)
+2
+2
+(11)
+Equations (5), (6), (7), (10), and (11) can now be used to
+calculate O for a pattern of treatment units given the separa-
+tion S from neighboring units, W of the unit itself, the fire
+shape outside the unit, and spread rates inside and outside the
+treatments. Equation (10) could also be rearranged to yield W
+for inputs of S and O:
+W
+D
+S
+r
+r
+m
+t
+=
+−
+(
+)
+−
+
+
+
+
+2
+1
+(12)
+but requires iteration to estimate D. The distance D is inter-
+preted as the hypothetical forward spread distance of the fire
+burning only in untreated fuels (Figure 5) having a lateral
+spread distance of O at a distance S from the ignition point and
+can be estimated as:
+D
+O
+r
+a
+m
+=
+sinθ
+(13)
+where
+0 <
+≤
+=
++
+θ
+π
+θ
+θ
+  |   
+sin
+cos
+O
+S
+a
+c
+b
+(14)
+Together, Equations (5), (6), (7), (10), and (11) [or (12)
+and (13)] describe the maximum reduction of forward fire
+spread by rectangular treatment units per unit area treated. In
+other words, these equations regulate fire growth so that the
+fire spreads through the units in the pattern at the same rate as
+Figure 4.  Fire spread rates through and around treatment units
+will be (a) different using Equation (8), or (b) equal with Equation
+(9).
+Figure 5.  By embedding a single treatment unit in a regular
+pattern of identical units, W delays fire growth during flanking
+around two sides of the unit. The spread rate of the fire moving
+around the units is, therefore, equivalent to the spread rate
+through the units only if the effect of W on O is reduced by one-
+half [Equation (10)]. Dashed lines indicate the hypothetical forward
+spread distance D with no treatment.
+
+Forest Science 47(2) 2001
+223
+it flanks around them. The equations do not depend on the fire
+shape in the treatment, only the forward spread rate because
+spread rate in the treatment is assumed slower.
+The aggregate forward spread rate through the partial
+overlap pattern is identical to a harmonic mean spread rate h1
+calculated through the “thin” part of the pattern (e.g., not
+through the overlapping portion of the treatments):
+h
+S
+W
+S
+W
+r
+W r
+m
+t
+1
+2
+2
+=
++
++
+(
+)
++
+(
+)
+[15]
+It is faster but closely related to a harmonic mean calcu-
+lated through the thick part of the pattern (e.g., through the
+overlapping treatments):
+h
+S
+W
+S r
+W r
+m
+t
+2 =
++
++
+(16)
+As intended, the aggregate spread rate h1 in this regular
+pattern is at a minimum when units are dimensioned per
+Equations (5), (6), (7), (10), and (11) (Figure 6). It seems
+counterintuitive, but increases or decreases in the width of the
+units (holding constant all other dimensions) only increases
+the aggregate spread rate through the pattern. A thicker W
+[than indicated by Equation (12)] allows the fire to flank
+around the units before they burn through and increases the
+proportion of heading spread through the matrix fuels (be-
+cause of the larger cross section of each unit). A thinner W or
+smaller O [compared to Equation (11)] each permits the fire
+to burn through before it is forced to flank around the units,
+increasing the aggregate spread rate. Larger O produces no
+change in h1 because the forward dimension of the pattern
+remains the same (Figure 6), meaning no change in the
+amount of heading spread within the pattern.
+Both spread rates h1 and h2 converge on the harmonic
+mean h calculated from Equation [1] using the fraction of area
+treated T within the overlap pattern:
+T
+r
+S
+W
+D
+W
+LW
+L
+O S
+W
+m
+=
++
++
+=
+−
+(
+)
++
+(
+)
+2
+(17)
+As S shrinks toward zero or O goes to L/2 the partial overlap
+pattern approaches a series of parallel strips (Figure 1a) with
+a harmonic mean spread rate h [Equation (1)]. This reinforces
+the interpretation that the harmonic mean (Fujioka 1985,
+Martin 1988) assumes fire spreads only in a single direction.
+The proportions used in Equation (1) are nonspatial, referring
+to both area and distance fractions of each fuel type.
+It is clear that the separation distance S is critical to both
+W and O. Increasing S raises the effective spread rate h1;
+it also raises the treatment fraction T because W changes
+with S [Equation (12)]. The choice of S is somewhat
+arbitrary, however, within the range defined by the dimen-
+sions of the treatment units. Its influence on O means that
+S must be greater than zero but not so large that O becomes
+longer than L/2.
+Extension to Two Directions
+With the parallel-linear arrangement of treatment units
+above, S affects the treatment fraction (of the total landscape)
+as well as the angles that gaps between the treatment units
+align to make the pattern porous. A wind shift to these angles
+would allow the fire to head through the gaps (pores) without
+interruption by the treatment units. Obviously the pattern is
+completely porous to heading fire spreading at an angle α =
+π/2 relative to the direction normal to the treatments. But the
+pattern is also porous to heading fire moving at specific
+angles:
+α =
+−
+(
+)
++
+
+
+
+
+−
+tan 1 n L
+O
+S
+W
+(18)
+where n is any odd integer. Thus, the pattern will still overlap
+at wider angles as L increases or S decreases, meaning a
+greater tolerance for varying wind and fire spread directions.
+Heading spread is blocked by the pattern for fires moving at
+intervening angles (when n is even) and when
+α ≥
+−
+
+
+
+
+−
+tan 1
+2
+L
+O
+W
+(19)
+It is probably not possible to produce a treatment pattern that
+has equal effects on fire growth in all directions because
+Figure 6.  Independent changes to (a) the width of the treatments
+(indicated by W*) or (b) the overlap of the treatments (indicated
+by O*) relative to ideal dimensions [Equations (5), (6), (7), (10),
+(11)] generally result in increased spread rates when S is held
+constant. Thinner units (W*/W < 1.0) allow the fire to burn
+through the units first. Thicker units (W*/W > 1.0) allow the fire
+to first flank around the unit and head for a larger forward
+distance through the faster matrix fuels. Smaller overlap (O*/O
+< 1.0) produces faster spread rate h
+1 as the fire burns around the
+units before it burns through them. No change in spread rate is
+produced for larger overlap (O*/O > 1.0) because it doesn’t
+change the forward dimension of the treatment units (the amount
+of matrix fuels burned in heading spread doesn’t change).
+
+224
+Forest Science 47(2) 2001
+spread rates vary elliptically with direction. However, it is
+possible to modify the parallel-linear treatment pattern to
+eliminate porosity at all angles while keeping spread rate
+reduced in a single heading direction according to Equations
+(5)–(13). The modification involves slanting the treatments
+by row, like louvered window blinds, in alternating direc-
+tions by an angle β (Figure 7). This changes the dimensions
+of the treatment units and how fire interacts with them.
+The angle β determines the angle of an elliptical fire front
+(as measured from the heading direction) that first contacts,
+enters, and burns through a slanted treatment unit. The spread
+rate of the fire in the slanted unit at that point (Catchpole et
+al. 1982) is slower than rt:
+′ =
++
++
+r
+c
+b
+a
+t
+cos
+cos
+sin
+β
+β
+β
+2
+2
+2
+2
+(20)
+This slower rt′ can be accommodated by the treatment pattern
+in various ways. The easiest is to keep the cross-section W of
+the units constant and allow rt′ to increase the overlap O of the
+slanted units [Equation (10)]. The actual width of the slanted
+units W′ however, must be reduced:
+′ =
+W
+W cosβ
+(21)
+and their length L′ modified (Figure 7):
+′ =
+−
+′
+L
+L
+W
+cos
+tan
+β
+β
+(22)
+This keeps the lateral dimension of the treatment units equal
+to L and accounts for the rotation of the right-angled corners.
+Steeper slant angles β reduce the treatment fraction T of the
+pattern because the treatment unit width W′ contributes a
+greater amount to the lateral dimension of the units [Equation
+(22)] and because the width of the units decreases. These
+modifications also result in slight increases in the forward
+spread rate h1 compared to the parallel arrangement.
+As long as S < L, it will be possible to block the porous
+angles by slanting the pattern alternately at some β. The
+porosity of the pattern at α = π/2 becomes completely
+blocked when:
+S
+L
+W
+W
+W
+=
+−
+′ +
+′
+−
+tan
+cos
+cos
+β
+β
+β
+2
+(23)
+Simulations of fire growth through the various fuel pat-
+terns were performed using the FARSITE model (Finney
+1998) to examine their effects on fire growth and behavior.
+The FARSITE model (Finney 1998) simulates fire growth for
+complex conditions of terrain, fuels, and weather. FARSITE
+assumes a perfect elliptical fire under uniform conditions
+with the ignition located at the rear focus of the ellipse
+(Alexander 1985). It was therefore suited to testing the
+relationships developed here. The simulations were simpli-
+fied to maintain constant weather, fuel moistures, and wind
+direction with the only variation coming from fuel patterns
+and types. For each simulation, two ignition points were
+located at the lee corners of the treatment units to form
+symmetric fire growth patterns and to meet the assumptions
+that the fire is growing steadily among the units.
+Results
+By relating the dimensions of the treatment units (L and
+W) to their juxtaposition on the landscape (S and O), the
+concept of fuel treatments is expanded topologically to ad-
+dress arrangement and efficiency of treatment area. It links
+the effect of one treatment to its neighbors through the
+dimensions of fire shape and spread rate. Thus, for a specified
+amount or fraction of treatment area and fire dimensions,
+there will be an arrangement of identical fuel treatment units
+that satisfies the above conditions for unit shape, separation,
+and overlap and produces the maximum spread rate reduction
+for the area treated.
+These relationships permit a depiction of tradeoffs be-
+tween intensive and extensive treatment strategies (Figure 8).
+As the relative spread rate due to treatment (rt/rm) decreases,
+the fraction of the landscape requiring treatment decreases (at
+a given spread rate h1 through the pattern). For example, at a
+constant S for a fire with a length to breadth ratio of 2.0, an
+effective spread rate of 60% of the untreated condition could
+be achieved by treating 20%, 10%, or 7% of the landscape
+depending on spread rate in the treatments of 1/5th, 1/10th, or
+1/20th of the matrix. A comparison of spread rates for a
+constant treatment level, say 20% of the landscape, reveals
+effective spread rates of 60%, 40%, and 25% of the untreated
+condition depending on the relative spread rate in the treated
+areas.
+The treatment patterns tested with FARSITE simulations
+each had about 19% of the area treated and produced spread
+rates that were consistent with Equations (1) and (15) with rt/
+rm = 0.1 (Figure 9). Spread rate maps from the simulations
+Figure 7.  The parallel treatment pattern (open rectangles) can be
+louvered (shaded rectangles) at an angle β to block porous angles
+α through the pattern. The dimensions O and L must be increased
+and W decreased to keep fire spread through the slanted units at
+the same rate as it spreads around them [Equations (20)–(22)].
+
+Forest Science 47(2) 2001
+225
+showed that the partial overlap patterns split the regions of
+heading spread rates (Figure 9a) into multiple smaller regions
+(Figure 9c, 9d). The frequency distribution of spread rates or
+fireline intensities for elliptical fires burning under homoge-
+neous conditions varies by fire shape (Catchpole et al. 1992).
+The simulations showed that the complete and partial overlap
+patterns shifted the mode of this spread rate distribution from
+the right side of the range to the left side of the range (Figure
+10). These slower spread rates occurred directly within the
+treated areas and in the matrix fuels between the overlapping
+regions of the treatments where the fire was forced to flank.
+The overlapping regions occur outside the actual treatment
+unit as a lee-side effect of the overlap between treatments
+(Figure 10), meaning reduced spread rates and intensities for
+more of the landscape than was physically treated.
+Discussion
+The analysis presented here showed that there is an ideal
+pattern of overlapping units that efficiently reduces the ag-
+gregated fire spread rate per area treated. Simulations sug-
+gested that the spread rates within the burned areas should
+also be reduced, even outside the treatments, where the fire is
+forced to flank around the units within the regions of overlap
+O. This implies that fire effects on a landscape basis such as
+crown scorch and tree mortality which depend on fireline
+intensity could be ameliorated by these patterns to a greater
+extent than the immediate areas receiving treatment. Fireline
+intensity is proportional to spread rate for a given fuel type
+(Byram 1959). Furthermore, the overlapping treatment pat-
+terns would fragment the most extreme fire effects into
+smaller patches because the heading fire is split by the
+treatment units. To increase the area burned by flanking fire,
+the amount of overlap O must be increased, which requires a
+larger fraction of the landscape to be treated. Further analysis
+of these patterns may suggest ways to specifically improve
+these benefits.
+The assumptions for this analysis suppose a restrictive set
+of conditions that are unlikely to be completely met for a
+given fire or landscape. Treatments in some vegetation types
+can actually produce increases in fire spread rates over time
+if burning and harvesting encourage the growth of fine fuels
+and understory vegetation. Nevertheless, much evidence
+from natural fire regimes suggests that spread rates after
+treatment do decrease until fuels accumulate and vegetation
+regrows. Wildfires burning into treated areas exhibited de-
+creased intensities and spread rates (Helms 1979, Martin et
+al. 1989) and caused less mortality (Wagle and Eakle 1979,
+Martin et al. 1989). The patchwork of free-burning fires at
+Yosemite National Park and Sequoia and Kings Canyon
+National Parks showed fire slowing and stopping along
+boundaries of previously burned areas (van Wagtendonk
+1995, Parsons and van Wagtendonk 1996). Frequent chapar-
+ral fires in Baja California were kept small by the fine-scale
+pattern of recent burns, but infrequent large fires burned
+across more homogeneous chaparral landscapes in the United
+States (Minnich and Chou 1997). Weight of fine dead fuels
+were found to accumulate to preburn levels within 7 yr of
+prescribed burning (van Wagtendonk and Sydoriak 1987).
+Even with faster spread rates, the benefits of fuel manage-
+ment would be seen in reduced fire damage to the forest and
+improved controllability (i.e., grass fires are easier to control
+than crown fires in timber types because of lower intensity
+and reduced spotting).
+Spotting was excluded from this analysis but would likely
+result in large fires, independently of any landscape fuel
+pattern except wholesale treatment. Assuming that the treat-
+ment pattern is extensive, each spot fire would be subjected
+to the same maze of slow burning treatments that impedes the
+growth of the main fire. Also, treatments designed to restrict
+the availability of crown fuels would locally limit the produc-
+tion of new embers from the treated areas, probably reducing
+spotting. Spotting amidst this kind of treatment pattern would
+likely produce “intensity shadows” on the lee side of the
+treatments similar to those observed by (Heinselman 1996) in
+the Boundary Waters Canoe Area. There, natural lakes dis-
+rupted fire growth so that fire reached the windward shores
+only by spotting; spot fires produced lower intensities until
+they coalesced and resumed burning as a broad fire front.
+Fire suppression was excluded from the analysis but could
+certainly be expected to benefit from the influences of slower
+fire growth rate and the frequent presence of treatment units
+near the fire that both speed line construction and moderate
+fire behavior. For any fire suppression activity to directly use
+the treatments, the tactics would need to be adjusted to reflect
+an awareness of unit locations and their consequences to fire
+behavior and safety.
+Although treatments would not be as visually apparent as
+illustrated here unless the overstory was heavily thinned, the
+idealized and artificial treatment patterns would probably never
+be achievable or even desirable in practice. Management activi-
+ties on a landscape are typically arranged to satisfy other more
+compelling needs such as timber harvest volume, water quality,
+Figure 8.  Relative fire spread rate in relation to the fraction of
+landscape treated for fires with a length to breadth ratio of 2.0.
+Three levels of treatment are defined by the spread rate in the
+treatment (rt) relative to the matrix (rm). Thick lines are the
+harmonic mean spread rate [h: Equation (1)]. Thin lines are the
+spread rate h1 [Equation (15)] of the overlapped pattern with
+variation due to S. Smaller S produces lower relative spread rates
+and treatment fractions. Greater overlap O increases the treatment
+fraction and lowers the relative spread rate.
+
+226
+Forest Science 47(2) 2001
+Figure 9.  Fire growth and spread rate patterns simulated using FARSITE with various treatment patterns. The
+relative spread rate in the treated areas (blue) is 1/10th of that in the matrix (yellow). All treatments occupy about
+19% of the area. Homogeneous conditions (a) produce a relative forward spread rate of 1.0 for comparison with (b)
+complete overlap of treatment strips that produce a harmonic mean h of 0.41 [Equation (1)], (c) partial overlap with
+mean spread rate h1 of 0.43, and (d) slanted partial overlap with harmonic mean h1 of 0.49. See Figure 10 for
+distributions of spread rates within the burned areas.
+wildlife issues, and so on. However, a number of the relation-
+ships developed here have the potential for practical application
+to strategic planning of landscape-level fuel management pro-
+grams. It is possible that some of the topological considerations
+of this analysis could be incorporated into the planning and
+layout of actual treatments without upsetting the existing priori-
+ties. This could produce a value-added modification of wildland
+fire growth and behavior for little extra effort. The primary
+considerations are:
+➤Treatment units need to overlap in an anticipated heading
+spread direction.
+➤The pattern should target fires burning under specific
+weather and fuel moisture conditions because of their
+characteristic sizes and spread rates under that environ-
+ment.
+➤The relationship between separation and overlap must
+consider the expected fire shape and relative spread rates
+in the treated areas.
+➤Separation must be small compared to the fire sizes.
+➤There is a tradeoff in the amount of treatment and the
+intensity of the treatment prescription.
+The size of the treatment pattern is theoretically scale-
+independent. That is, the actual sizes of the treatment units
+(and dimensions O, S) are only relative to each other. The
+pattern can thus be adapted to localized spatial constraints
+and variability across a landscape. In practice, the scale of
+the pattern could not be coarser than the size of fires for the
+pattern to have any effect on a real fire. The distance of S
+would need to be considerably shorter than the forward
+dimension of the fire. Coarse patterns with long S could
+allow a fire to burn mostly without influence of the treat-
+ments (e.g., within the untreated space between treatment
+units). Pattern dimensions would probably need to be
+between 101 and 103 m to be involved in most fires. The
+expected spotting distance for the targeted weather condi-
+tions would also be an important consideration for unit
+width (W).
+
+Forest Science 47(2) 2001
+227
+The dependency on fire sizes and shapes indicates that
+the patterns would need to target fires that burn under a
+specific set of weather conditions. For example, fuel
+moisture and wind conditions associated with the histori-
+cal 90th percentile level of fire danger indices (Andrews
+and Bradshaw 1997) provide information on the relative
+spread rates in different fuel types and fire shapes. Very
+often, large fires in a given area are oriented along a
+particular axis (e.g., generally west to east) determined by
+the direction of episodic wind events, like cold fronts.
+Fires burning under more mild weather conditions are less
+affected by the spatial treatment pattern because fires are
+smaller, and because the relative spread rates in the treated
+and untreated fuels become more similar as burning con-
+ditions moderate. The pattern of fuel treatments would
+have less utility to suppression under moderate conditions
+because suppression efforts are already effective, and
+under “worst case” conditions because suppression efforts
+are largely ineffective anyway. Individual treatment units
+would be expected to mitigate fire effects within the units
+under a broad range of weather.
+The uncertainty and variability in burning conditions
+associated with a fire or fire weather suggests that some
+dimensions of the treatment pattern would probably need
+to be larger to afford greater latitude in effectiveness than
+determined strictly by the theory. The sensitivity analysis
+[Figure (6)] suggests that overall spread rate (h1) is not
+penalized by increasing the overlap of the treatment units.
+Although larger area must be treated, larger overlap pro-
+vides some buffer against the variability in fire shape and
+changing wind direction. Treatment width would also
+need to account for anticipated changes in fuel structure of
+treated areas over time.
+The effects of fuel treatments on fire behavior are only
+temporary. More research is needed on fuel accumulation
+and long-term changes in fuel-bed structure. This will
+influence the longevity of individual treatments that would
+dictate both the schedule for creating the initial pattern and
+the cycle of maintaining existing units. It would also
+determine the scheduling of new patches that could be
+inserted into an existing pattern. The problem of how to
+maintain the topology of a landscape-level effect on fire as
+fuel patches age across both space and time is very chal-
+lenging. Perhaps some pattern can be devised that ac-
+counts for the temporal changes in local spread rates by
+adjusting both the treatment dimensions and the timing
+and location of new treatments within the pattern.
+This analysis was developed for the simplest of condi-
+tions, namely having only two fuel types and a single wind
+direction. However, because the above relationships are
+essentially scale independent, they should also apply to
+heterogeneous conditions where spread rates and maxi-
+mum spread directions all vary. This will be the subject of
+continuing work but might be approached by reducing the
+complexity of the landscape to several maps. The main
+maps would need to be horizontal fire spread rate in the
+direction of interest, elliptical dimensions of the fire, and
+direction of maximum spread. Areas with homogeneous
+characteristics (within some tolerance) can then be delin-
+eated and analyzed separately. Some modification of the
+existing equations would then be needed to dimension the
+pattern along the boundaries of homogeneous areas. Un-
+derstanding the role that treatment unit size, shape, and
+placement play in modifying fire growth and behavior will
+allow managers to employ fuel treatments in an efficient
+and effective manner.
+Literature Cited
+AGEE, J.K, B. BAHRO, M.A. FINNEY, P.N. OMI, D.B. SAPSIS, C.N. SKINNER, J.W.
+VAN WAGTENDONK, AND C.P. WEATHERSPOON. 2000. The use of fuelbreaks
+in landscape fire management. For. Ecol. Manage. 127(1–3):55–66.
+ALEXANDER, M.E. 1985. Estimating the length-to-breadth ratio of elliptical
+forest fire patterns. In P. 287–304 in Proc. of the Eighth Conf. on Fire and
+Forest Meteorology. Soc. Am. For., Bethesda, MD.
+ANDERSON, H.E. 1983. Predicting wind-driven wildland fire size and shape.
+USDA For. Serv. Res. Pap. INT-305.
+ANDERSON, D.G, E.A. CATCHPOLE, N.J. DEMESTRE, AND T. PARKES. 1982.
+Modeling the spread of grass fires. J. Aust. Math. Soc. (Ser. B.)
+23:451–466.
+ANDREWS, P.L., AND L.S. BRADSHAW. 1997. FIRES: Fire Information Retrieval
+and Evaluation System—a program for fire danger rating analyis. USDA
+For. Serv. Gen. Tech. Rep. INT-GTR-367. 64 p.
+ARNO, S.F., AND J.K. BROWN. 1991. Overcoming the paradox in managing
+wildland fire. West. Wildl. 17(1):40–46.
+BYRAM, G.M. 1959. Combustion of forest fuels in Forest fire: Control and use,
+Davis, K.P. (ed.). McGraw-Hill. New York.
+CATCHPOLE, E.A, N.J. DEMESTRE, AND A.M. GILL. 1982. Intensity of fire at its
+perimeter. Aust. For. Res. 12:47–54.
+Figure 10.  Spread rate distributions for the different treatment
+patterns show that the complete, parallel, and slanted overlap
+patterns all shift the spread rates to the lower part of the range.
+The distribution is dominated by slower spread rates within the
+treated area as well as areas outside the treatments burned by
+flanking (rt/rm = 0.1, LB = 2.0).
+
+228
+Forest Science 47(2) 2001
+CATCHPOLE, E.A., M.E. ALEXANDER, AND A.M. GILL. 1992. Elliptical-fire
+perimeter- and area-intensity distributions. Can. J. For. Res. 22:968–972.
+FINNEY, M.A. 1998. FARSITE: Fire Area Simulator—Model development
+and evaluation. USDA For. Serv. Res. Pap. RMRS-RP-4. 47 p.
+FUJIOKA, F.M. 1985. Estimating wildland fire rate of spread in a spatially non-
+uniform environment. For. Sci. 31(3):21–29.
+GREEN, L.R. 1977. Fuelbreaks and other fuel modification for wildland fire
+control. USDA Agric. Handb. 499.
+HEINSELMAN, M.L. 1996. The boundary waters wilderness ecosystem, Univer-
+sity of Minnesota Press.
+HELMS, J.A. 1979. Positive effects of prescribed burning on wildfire intensi-
+ties. Fire Manage. Notes 40(3):10–13.
+MARTIN, R.E. 1988. Rate of spread calculation for two fuels. West. J. Appl.
+For. 3(2):54–55.
+MARTIN, R.E., J.B. KAUFFMAN, AND J.D. LANDSBERG. 1989. Use of prescribed
+fire to reduce wildfire potential. P. 1722 in Proc. of the Symp. on Fire and
+Watershed Management, Berg, N.H. (tech. coord).  USDA For. Serv.
+Gen. Tech. Rep. PSW-109.
+MINNICH, R.A., AND Y.H. CHOU. 1997. Wildland fire patch dynamics in the
+chaparral of southern California and northern Baja California. Int. J.
+Wildl. Fire. 7:221–248.
+OMI, P.N. 1996. The role of fuelbreaks. P. 89–96 in Proc. 17th Annual Forest
+vegetation management conf., Redding, CA.
+PARSONS, D.J., AND J.W. VAN WAGTENDONK. 1996. Fire research and manage-
+ment in the Sierra Nevada. Chap. 3  in Science and ecosystem manage-
+ment in the national parks, Halvorson, W.L., and G.E. Davis (eds.). Univ.
+Ariz. Press., Tucson.
+RICHARDS, G.D. 1990. An elliptical growth model of forest fire fronts and its
+numerical solution. Int. J. Num. Meth. Eng. 30:1163–1179.
+U.S. GENERAL ACCOUNTING OFFICE. April 1999. Western National Forests: A
+cohesive strategy is needed to address catastrophic wildfire threats.
+Report to the subcommittee on forests and forest health, committee on
+resources, House of Representatives. GAO/RCED-99-65.
+U.S. DEPARTMENT OF THE INTERIOR AND U.S. DEPARTMENT OF AGRICULTURE.
+1996. Federal wildland fire management policy and program review,
+Implementation Action Plan Report.
+VAN WAGNER, C.E. 1969. A simple fire growth model. For. Chron.
+45:103–104.
+VAN WAGTENDONK, J.W. 1995. Large fires in wilderness areas. P. 113–116 in
+Proc. of a  symp. on fire in wilderness and park management, Brown, J.K.,
+et al. (tech. coords.). USDA For. Serv. Gen. Tech. Rep. INT-GTR-320.
+VAN WAGTENDONK, J.W. 1996. Use of a deterministic fire growth model to test
+fuel treatments. P. 1155–1165 in Sierra Nevada Ecosystem Project: Final
+report to Congress, Vol. II. Assessments and scientific basis for manage-
+ment options. Univ. Cal. Davis Center for Water and Wildland Resources,
+Davis, CA.
+VAN WAGTENDONK, J.W., AND C.A. SYDORIAK. 1987. Fuel accumulation rates
+after prescribed fires in Yosemite National Park. P. 101–105 in Ninth
+Conf. on fire and forest meteorology, Am. Meteor. Soc., San Diego, CA.
+WAGLE, R.F., AND T.W. EAKLE. 1979. A controlled burn reduces the impact of
+a subsequent wildfire in a ponderosa pine vegetation type. For. Sci
+25(1):123–129.
+WEATHERSPOON, C.P., AND C.N. SKINNER. 1996. Landscape-level strategies for
+forest fuel management. P. 1471–1492 in Sierra Nevada Ecosystem
+Project: Final report to Congress, Vol. II. Assessments and scientific basis
+for management options. Univ. Cal. Davis Center for Water and Wildland
+Resources.

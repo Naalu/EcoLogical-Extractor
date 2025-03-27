@@ -1,0 +1,1184 @@
+PNAS  2023  Vol. 120  No. 11  e2208120120
+https://doi.org/10.1073/pnas.2208120120   1 of 9
+RESEARCH ARTICLE | 
+Significance
+Wildfires in the western United 
+States are concerning in part 
+because conifer forests may not 
+regenerate under increasingly 
+warm, dry climate conditions and 
+severe burning. This study 
+compared the relative importance 
+of differences in fire-caused tree 
+mortality, which limits seeds 
+available for tree regeneration, to 
+the impacts of warm, dry climate 
+conditions in determining postfire 
+conifer regeneration. Using 
+observations from over 10,000 
+sites, we found that warmer, drier 
+conditions are leading to less tree 
+regeneration after wildfires. We 
+also found evidence that 
+management interventions that 
+reduce wildfire severity can 
+partially offset these climate-
+related declines in tree 
+regeneration. Our work highlights 
+the next few decades as a window 
+of opportunity over which 
+management could minimize the 
+likelihood of fire-caused forest loss.
+Copyright © 2023 the Author(s). Published by PNAS.  
+This open access article is distributed under Creative 
+Commons Attribution License 4.0 (CC BY).
+1To whom correspondence may be addressed. Email: 
+Kimberley.davis@usda.gov.
+2Present address: Missoula Fire Sciences Laboratory, 
+Rocky Mountain Research Station, USDA Forest Service, 
+Missoula, MT 59808.
+3Present address: USDA Forest Service Research and 
+Development, Washington, DC 20250.
+This article contains supporting information online at 
+https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.​
+2208120120/-/DCSupplemental.
+Published March 6, 2023.
+ECOLOGY
+SUSTAINABILITY SCIENCE
+Reduced fire severity offers near-term buffer to climate-driven 
+declines in conifer resilience across the western United States
+Kimberley T. Davisa,1,2
+, Marcos D. Roblesb
+, Kerry B. Kempc,d
+, Philip E. Higueraa
+, Teresa Chapmane
+, Kerry L. Metlenc
+, Jamie L. Peelera
+,  
+Kyle C. Rodmanf
+, Travis Woolleyg
+, Robert N. Addingtonh
+, Brian J. Bumai
+, C. Alina Canslerj,k
+, Michael J. Casel
+, Brandon M. Collinsm
+,  
+Jonathan D. Coopn
+, Solomon Z. Dobrowskik
+, Nathan S. Gillo
+, Collin Haffeyp, Lucas B. Harrisq
+, Brian J. Harveyj
+, Ryan D. Haugoc,  
+Matthew D. Hurteaur
+, Dominik Kulakowskis
+, Caitlin E. Littlefieldt
+, Lisa A. McCauleyb
+, Nicholas Povaku, Kristen L. Shivev
+, Edward Smithv,  
+Jens T. Stevensr,3
+, Camille S. Stevens-Rumannw,x, Alan H. Taylorq,y, Alan J. Tepleyz
+, Derek J. N. Youngaa
+, Robert A. Andrusbb
+, Mike A. Battagliacc
+,  
+Julia K. Berkeydd, Sebastian U. Busbyee
+, Amanda R. Carlsonff
+, Marin E. Chambersx
+, Erich Kyle Dodsongg, Daniel C. Donatoj,hh, William M. Downingii
+,  
+Paula J. Fornwaltcc
+, Joshua S. Halofskyj,hh
+, Ashley Hoffmans, Andrés Holzee
+, Jose M. Iniguezjj, Meg A. Krawchukii
+, Mark R. Kreiderk
+,  
+Andrew J. Larsonk,kk
+, Garrett W. Meigshh,ii
+, John Paul Roccafortef
+, Monica T. Rotherll
+, Hugh Saffordmm,nn
+, Michael Schaedeloo, Jason S. Siboldpp,qq, 
+Megan P. Singletonrr
+, Monica G. Turnerss
+, Alexandra K. Urzatt
+, Kyra D. Clark-Wolfa
+, Larissa Yocomuu
+, Joseph B. Fontainevv
+, and John L. Campbellii
+Edited by Paulo M. Fernandes, Universidade de Trás-os-Montes e Alto Douro, Vila Real, Portugal; received May 11, 2022; accepted January 25, 2023  
+by Editorial Board Member Ruth DeFries
+Increasing fire severity and warmer, drier postfire conditions are making forests in the 
+western United States (West) vulnerable to ecological transformation. Yet, the relative 
+importance of and interactions between these drivers of forest change remain unresolved, 
+particularly over upcoming decades. Here, we assess how the interactive impacts of chang-
+ing climate and wildfire activity influenced conifer regeneration after 334 wildfires, using 
+a dataset of postfire conifer regeneration from 10,230 field plots. Our findings highlight 
+declining regeneration capacity across the West over the past four decades for the eight 
+dominant conifer species studied. Postfire regeneration is sensitive to high-severity fire, 
+which limits seed availability, and postfire climate, which influences seedling establish-
+ment. In the near-term, projected differences in recruitment probability between low- and 
+high-severity fire scenarios were larger than projected climate change impacts for most 
+species, suggesting that reductions in fire severity, and resultant impacts on seed avail-
+ability, could partially offset expected climate-driven declines in postfire regeneration. 
+Across 40 to 42% of the study area, we project postfire conifer regeneration to be likely 
+following low-severity but not high-severity fire under future climate scenarios (2031 to 
+2050). However, increasingly warm, dry climate conditions are projected to eventually 
+outweigh the influence of fire severity and seed availability. The percent of the study area 
+considered unlikely to experience conifer regeneration, regardless of fire severity, increased 
+from 5% in 1981 to 2000 to 26 to 31% by mid-century, highlighting a limited time 
+window over which management actions that reduce fire severity may effectively support 
+postfire conifer regeneration.
+climate change | wildfire | ecological transformation | post-fire regeneration | vegetation transition
+Ecological transformation due to climate change is a global phenomenon with significant 
+socioecological impacts, including changes to carbon storage, water quality, biodiversity, 
+and culturally important resources (1–3). Forests globally are increasingly vulnerable to 
+ecological transformation due to changing climatic conditions that simultaneously increase 
+wildfire activity (4–7) and alter key postfire demographic rates such as seedling establish-
+ment (8, 9), a phenomenon broadly termed “interval squeeze” (10). Declines in tree 
+recruitment have been observed globally, causing widespread concerns about forest loss 
+following wildfires and other disturbances (1, 3, 11–13).
+Conifer forests of the western United States (West) may be especially vulnerable to 
+ecological transformation because climate change impacts are compounded by more than 
+a century of wildfire suppression, exclusion of indigenous burning, logging of large fire-re-
+sistant trees, and other forest management practices (14, 15). Together, these changes have 
+fundamentally altered forest structure, composition, and fire regimes and are leading to 
+more severe fire effects in many forests that historically experienced low- and moderate-se-
+verity fire (14). High-severity fire sets the stage for ecological transformation by killing 
+mature trees, altering microclimate (16) and soil properties (17), and reducing seed sources 
+on the landscape. Even in forests that historically burned in stand-replacing fires, recent 
+changes in fire frequency and postfire climate may significantly alter vegetation trajectories 
+following high-severity fire (3, 12, 18–20).
+The combination of changes in fire regimes and climate is driving declines in postfire 
+conifer regeneration across the West (21–24). Yet, despite the abundance of postfire tree 
+OPEN ACCESS
+Downloaded from https://www.pnas.org by NORTHERN ARIZONA UNIVERSITY on March 31, 2023 from IP address 134.114.101.75.
+
+2 of 9   https://doi.org/10.1073/pnas.2208120120
+pnas.org
+regeneration data that have been collected in the West, the relative 
+importance, interactions, and feedbacks between these two drivers 
+of conifer regeneration are poorly resolved at the regional scale. 
+This knowledge is crucial for identifying vulnerability to ecological 
+transformation and key opportunities for potential management 
+interventions. For instance, local management actions can readily 
+and rapidly drive changes in fuel and forest structure, an important 
+driver of fire severity, but have limited immediate impact on mac-
+roscale climate conditions. There is substantial evidence that fuel 
+reduction treatments, especially those using prescribed burning, 
+effectively reduce local wildfire severity in dry forests (25, 26). 
+Significant increases in government investment in these types of 
+treatments in the United States, including $3 billion dedicated to 
+a 10-y strategy to reduce fuels across 20 million ha (27, 28), high-
+light the need for spatial prioritization of treatments.
+Forward-looking management approaches, such as the Resist-
+Accept-Direct (RAD) framework (2, 29), also require quantitative 
+information on the probability of fire-driven ecological transforma-
+tion. The RAD framework, which shares similarities with previous 
+frameworks (30, 31), helps managers make informed, deliberate 
+choices about the trajectory of change when managing systems under-
+going rapid ecological transformation. Effectively prioritizing where 
+to resist, accept, or direct postfire vegetation trajectories requires an 
+understanding not only of the likelihood of postfire ecological trans-
+formation, but also of where reducing fire severity through manage-
+ment interventions could change this likelihood (32, 33), and when 
+and where climate conditions have crossed critical thresholds that 
+may preclude forest recovery (9), regardless of fire severity.
+Here, we resolve how the interactive impacts of changing climate 
+and fire severity have influenced postfire conifer regeneration across 
+western US forests. We use a dataset of postfire conifer regeneration 
+from 10,230 field plots that represents 334 fires that occurred between 
+1984 and 2018 (Fig. 1 and Dataset S1) and spans the climatic range 
+of eight widespread conifer species across the West (white fir, Abies 
+concolor; grand fir, Abies grandis; subalpine fir, Abies lasiocarpa; 
+Engelmann spruce, Picea engelmannii; lodgepole pine, Pinus contorta; 
+Jeffrey pine, Pinus jeffreyi; ponderosa pine, Pinus ponderosa; and 
+Douglas-fir, Pseudotsuga menziesii). Together, these species represent 
+89% of the conifer basal area in the study area [Fig. 1A; (34)]. All 
+species are obligate seeders. The interior subspecies of P. contorta (spp. 
+latifolia) can be serotinous and regenerate prolifically following 
+high-severity fire, although levels of serotiny vary widely among indi-
+viduals and populations (35). We used these field data to model post-
+fire recruitment probability for each species individually and for all 
+species combined as a function of biophysical predictors representing 
+seed availability, fire severity, 30-y mean climate, and postfire climate 
+(SI Appendix, Table S1). Models for P. ponderosa and P. jeffreyi and for 
+A. concolor and A. grandis were combined (see Methods) for a total of 
+six species models. These models reveal key drivers of postfire conifer 
+regeneration across western US conifer forests. We use these models 
+to project postfire recruitment probability under multiple scenarios 
+of fire severity (low- and high-severity) and climate change (2031 to 
+2050; Representative Concentration Pathway (RCP) 4.5 and 8.5; 
+SI Appendix, Tables S2 and S4). We are thus able to: 1) compare the 
+relative impacts of changes in climate and fire severity on postfire 
+conifer regeneration across the West; 2) assess how these impacts vary 
+by region and species; and 3) identify when and where climate change 
+is likely to cause postfire seedling recruitment failure and resulting 
+ecological transformation. We discuss the implications of our results 
+for forest management using the RAD framework.
+Results
+Climate Change Will Reduce the Probability of Postfire Tree 
+Regeneration. Our findings highlight intensifying losses of 
+dominant conifer species regeneration capacity across the 
+NR
+CAK
+SRSW
+INW
+Study species
+present (#)
+1
+2
+3
+4
+5
+6
+7
+Region
+INW
+NR
+CAK
+SRSW
+A
+0
+500
+1000
+1500
+INW
+NR
+CAK
+SRSW
+Annual climatic water deficit (mm)
+Sampled species' ranges
+Study sites
+B
+Fig. 1. Characteristics of the 10,230 plots utilized in this study. (A) Four study regions (gray outlines), study sites from which postfire tree regeneration was 
+sampled (black points), and forest area that contains at least one of the eight study species within each region (colored by number of study species), hereafter 
+“study area”. The four study regions (INW: interior Northwest; NR: northern Rockies; CAK: California and the Klamath; SRSW: southern Rockies and AZ/NM 
+mountains) were defined by aggregating level 3 US Environmental Protection Agency ecoregions that contained field sites. Across the study area (A), the eight 
+study species account for 89% of the conifer basal area (based on values from ref. 34). (B) 30-y mean annual climatic water deficit (1981 to 2010) of the study 
+area compared with that of the sampled study sites for each region.
+Downloaded from https://www.pnas.org by NORTHERN ARIZONA UNIVERSITY on March 31, 2023 from IP address 134.114.101.75.
+
+PNAS  2023  Vol. 120  No. 11  e2208120120
+https://doi.org/10.1073/pnas.2208120120   3 of 9
+western United States. The likelihood of postfire regeneration 
+for all species declined under future climate scenarios across 
+the study area (Fig. 2). For example, the percent of the study 
+area considered likely to experience regeneration (recruitment 
+probability > 0.54) by 10 y postfire decreased from 95% in 1981 
+to 2000 to 74% by 2031 to 2050 under RCP 4.5 in projections 
+from the all-species model.
+Importantly, spatial and temporal patterns of change in recruit-
+ment probability varied by species and region (Fig. 3 and 
+SI Appendix, Figs. S15–S26). Lower elevation species (P. ponderosa, 
+P. jeffreyi, P. menziesii, A. concolor, and A. grandis) have already 
+experienced a significant decline in recruitment probability 
+between the 1981 to 2000 and the 2001 to 2020 time periods, 
+while higher elevation species such as P. contorta and P. engelmannii 
+are predicted to experience more declines in the coming decades 
+in some regions (Fig. 3). Likewise, forests in the California and 
+Klamath (CAK) and southern Rockies and AZ/NM mountain 
+(SRSW) regions (Fig. 1A) saw significant declines in recruitment 
+probability over the same time period, and we project similar 
+patterns to expand northward by 2050, especially in drier forests 
+of the interior Northwest (INW; Figs. 2 and 3). However, wetter 
+and cooler portions of the INW and much of the northern Rockies 
+(NR) were projected to remain climatically suitable for postfire 
+regeneration of the study species through mid-century. Although 
+there was some variability in future projections among global cli-
+mate models (GCMs), the general patterns were consistent 
+(SI Appendix, Figs. S13 and S14).
+Reductions in Fire Severity Can Ameliorate Impacts of Climate 
+Change. Our results suggest reductions in overall fire severity 
+or the size of high-severity patches could partially offset expected 
+declines in postfire regeneration attributed to climate change alone. 
+In our projections across the study area, changes in fire severity, which 
+included changes to seed availability, had a greater relative effect on 
+recruitment probabilities than did changing climate conditions for 
+most species, with the exception of P. contorta, which due to its 
+serotinous cones can regenerate prolifically following high severity fire 
+in some areas (Figs. 2 and 3 and SI Appendix, Figs. S9 and S15–S26). 
+For example, when we projected recruitment across the study area 
+for all species under climate and fire severity scenarios, median 
+recruitment probability decreased by an average of 0.34 with a 
+change from low to high fire severity, as opposed to a decrease of 
+only 0.12 on average due to climate change in successive time 
+periods (SI Appendix, Table S17). In a substantial portion of the 
+study area (26 to 42%, 17 to 28 million ha, depending on time 
+period and future climate scenario; SI  Appendix, Table  S18), 
+postfire conifer regeneration was likely (probability > 0.54) in 
+the low-severity scenario but unlikely in the high-severity scenario 
+(Fig. 2C). The effect of fire severity was most pronounced in the 
+NR and least pronounced for dry forest species like P. ponderosa 
+and P. menziesii in the SRSW, where climate and fire severity had 
+similar impacts (Figs. 2 and 3 and SI Appendix, Fig. S9).
+Fire severity interacted significantly with climate such that high 
+fire severity exacerbated the impacts of warm, dry postfire climate 
+for several species and in the all-species model (Fig. 4C and 
+SI Appendix, Figs. S2–S4). For example, for both P. ponderosa and 
+P. menziesii, the reduction in recruitment probability associated 
+with high climatic water deficit (“water deficit”) following fire was 
+stronger in areas that burned at high severity than in areas that 
+burned at low severity (SI Appendix, Figs. S2 and S3). For the true 
+fir species (Abies spp.), we found similar interactions between 
+postfire climate and surrounding tree cover (within 300 m), which 
+is correlated with the proportion of the area surrounding a plot 
+that burned at high severity (SI Appendix, Figs. S4–S7). In areas 
+with more remaining live tree cover postfire, the effects of warm, 
+dry postfire climate were ameliorated. Under future climate con-
+ditions, these interactions led to greater projected declines in 
+recruitment probability in the high- than low-severity scenario for 
+some species (e.g., Fig. 3, A. concolor/A. grandis and P. menziesii; 
+SI Appendix, Figs. S18 and S20).
+Seed Availability and Moisture Deficits Control Postfire 
+Conifer Regeneration. Postfire recruitment probability was 
+strongly related to metrics of seed availability and fire severity 
+(Fig. 4 and SI Appendix, Figs. S2–S7 and Tables S9–S15). For 
+each species, recruitment declined at farther distances from 
+the nearest seed source and when surrounding tree cover was 
+lower—indicating fewer living trees within plausible dispersal 
+distances to provide seeds—a situation that may arise in areas 
+with larger high-severity patches (36). The effect of satellite-
+derived fire severity metrics varied by species, with ecologically 
+coherent patterns: recruitment probability declined at higher fire 
+severities with relatively shade-tolerant P. menziesii and true firs 
+(Abies spp.); in contrast, after accounting for seed availability, 
+recruitment probability increased with higher fire severity for the 
+Rocky Mountain varieties of the shade-intolerant P. contorta and 
+P. ponderosa (SI Appendix, Figs. S2–S7). Notably, Rocky Mountain 
+P. contorta (spp. latifolia) exhibits cone serotiny, which facilitates 
+recruitment in areas burned at high severity (35).
+Postfire conifer regeneration also strongly depended on both 
+average climate conditions and postfire climate anomalies. In both 
+cases, climate metrics reflecting water availability to trees were the 
+most influential in statistical models. Considering all-species com-
+bined, seedlings were more sensitive to postfire climate conditions 
+when they were present in warm, dry sites, as indicated by higher 
+mean water deficit (Fig. 4E). Additionally, warmer, drier sites also 
+had 
+lower 
+postfire 
+recruitment 
+probabilities 
+overall 
+(Fig. 4D and SI Appendix, Figs. S2–S7). A single hot, dry year 
+(high growing season water deficit) within the first 5 y following 
+a fire significantly reduced the probability of postfire regeneration 
+for most species (i.e., P. ponderosa/P. jeffreyi, P. contorta, A. lasio-
+carpa, P. menziesii) and when considering all species combined 
+(Fig. 4E and SI Appendix, Figs. S2–S7). Each species except sub-
+alpine fir also experienced an increase in recruitment probability 
+if there was at least one unusually cool, wet year following fire 
+(Fig. 4F and SI Appendix, Figs. S2–S7), represented by high grow-
+ing season precipitation (P. ponderosa/P. jeffreyi, P. contorta), low 
+growing season water deficit (P. engelmannii, P. menziesii), or low 
+summer vapor pressure deficit (A. concolor/A. grandis).
+Discussion
+Our analyses shed light on the interactive impacts of changing cli-
+mate and fire severity on past and likely future postfire conifer 
+regeneration across a broad region of the West. Climate change over 
+the past four decades has already led to significant reductions in the 
+probability of conifer regeneration after wildfires across this region, 
+and we project that climate will increasingly limit postfire tree 
+recruitment in the future, consistent with the interval squeeze phe-
+nomenon. Consequently, we expect postfire ecological transforma-
+tion will become more likely, underscoring the importance of the 
+Resist-Accept-Direct (RAD) framework for informing prefire and 
+postfire management decisions (37). Equally important, however, 
+we also project continued successful conifer regeneration in many 
+areas, especially the northern Rockies and higher elevation forests.
+Despite the importance of climate for postfire conifer recruit-
+ment, we found that fire severity had a larger relative impact on 
+projected recruitment probability than the direct effects of 
+Downloaded from https://www.pnas.org by NORTHERN ARIZONA UNIVERSITY on March 31, 2023 from IP address 134.114.101.75.
+
+4 of 9   https://doi.org/10.1073/pnas.2208120120
+pnas.org
+near-term climate change for most species studied here. Fire sever-
+ity impacted recruitment probability directly via impacts to seed 
+supply and indirectly by exacerbating the effects of dry postfire 
+climate, potentially through changes to microclimate (16), soil 
+properties (17) or competing vegetation. Changes to fire regimes 
+resulting from fire suppression policies, past management prac-
+tices, or climate change that have increased the likelihood of high 
+fire severity and increased high-severity patch sizes (5, 6, 14, 38) 
+may be playing a larger role driving reductions in postfire conifer 
+regeneration than direct climate impacts alone. Our work resolves 
+key ecological uncertainties across a broad spatial extent and high-
+lights significant opportunities to influence postfire regeneration 
+and resist ecological transformation through management to 
+reduce fire severity in some forests (26, 32).
+Low−severity scenario
+1981−2000
+2001−2020
+2031−2050 RCP 4.5
+A
+High−severity scenario
+1981−2000
+2001−2020
+2031−2050 RCP 4.5
+B
+Severity scenario effect
+1981−2000
+2001−2020
+2031−2050 RCP 4.5
+C
+Post−fire
+recruitment
+probability
+0 − 0.18
+0.18 − 0.36
+0.36 − 0.54
+0.54 − 0.64
+0.64 − 0.76
+0.76 − 0.88
+0.88 − 1
+Post−fire
+recruitment
+probability
+Unlikely
+Likely low
+severity only
+Likely
+Fig. 2. Regional variability in postfire conifer recruitment under past and future climate and fire-severity scenarios. Postfire conifer recruitment probability 
+from the all-species model under past and current climate, a future climate scenario (Representative Concentration Pathway (RCP) 4.5), and (A) low- and (B) 
+high-severity fire scenarios. Bars beneath maps show the proportion of the study area that falls into each category. Shades of blue represent areas where 
+recruitment is likely, whereas warm colors represent areas where recruitment is unlikely. Areas in gray highlight the range of threshold probabilities above which 
+recruitment is likely (see Methods). (C) Differences in recruitment probability between fire severity scenarios. Map shows where recruitment is unlikely under 
+both fire-severity scenarios (orange), likely under only the low severity scenario (yellow), or likely under both severity scenarios (blue; SI Appendix, Table S18). 
+Results for future climate under the RCP 8.5 scenario shown in SI Appendix, Fig. S10.
+Downloaded from https://www.pnas.org by NORTHERN ARIZONA UNIVERSITY on March 31, 2023 from IP address 134.114.101.75.
+
+PNAS  2023  Vol. 120  No. 11  e2208120120
+https://doi.org/10.1073/pnas.2208120120   5 of 9
+While reduced fire severity and subsequent increases in seed avail-
+ability can partly ameliorate the impacts of increasing moisture 
+deficits on postfire conifer regeneration, there are important limi-
+tations to this tradeoff. First, a warming climate has been associated 
+with more area burning at high severity in recent decades (5, 6). 
+Thus, climate change impacts postfire recruitment directly by cre-
+ating warmer, drier conditions after fire and indirectly through an 
+increase in high-severity fire. Second, our work highlights the critical 
+importance of understanding climate thresholds for recruitment (9, 
+18). During years when climate exceeds the moisture deficit thresh-
+olds that can support postfire conifer germination and seedling 
+survival, regeneration is unlikely regardless of fire severity. The more 
+pronounced effect of postfire climate at dry sites (Fig. 4E) suggests 
+that as average climate conditions become warmer and drier, these 
+thresholds limiting conifer recruitment will be crossed more fre-
+quently (9, 39). Importantly, experiencing just 1 y with a high 
+moisture deficit within the first 5 y following fire significantly 
+decreased the likelihood of postfire conifer recruitment. Combined, 
+these limitations suggest that efforts to resist loss of western US 
+forests via reductions in fire severity may only be effective during a 
+relatively short period over the upcoming decades, a window of 
+opportunity that varies by ecoregion and forest type. Managers and 
+decision makers may thus wish to prioritize interventions in forests 
+most vulnerable to fire-driven forest loss (e.g., dry forests of the 
+Southwest and California) where this window is expected to close 
+within the next few decades.
+By identifying where and when fire-driven transformation is 
+likely, our near-term projections of recruitment probability can 
+inform management choices to resist, accept, or direct postfire veg-
+etation transitions when applying the RAD framework (2, 29). 
+These decisions are highly context-specific, informed by potential 
+future conditions, local management goals, and integrating 
+social-ecological factors beyond this work (29, 33, 40, 41). 
+Nonetheless, our results provide insight into the tradeoffs between 
+these choices. For example, in areas of severe climate limitations on 
+recruitment of current species, management to resist change will 
+only delay change and it may be prudent to consider how to direct 
+change in those areas; however, in areas of continued climate suit-
+ability investment in resisting change may yield longer-term results.
+Decision constraints and opportunities vary throughout conifer 
+forests of the western United States depending on forest type, 
+historical land use patterns, and historical fire regimes (15). In 
+lower elevation dry conifer forests that historically experienced 
+frequent fire, our results highlight the potential to resist fire-driven 
+transformations from forest to nonforest through management 
+activities that effectively reduce fire severity [e.g., treatments 
+including forest thinning and reduction of surface fuels with pre-
+scribed or cultural fire (25, 26)]. Identifying areas where a reduc-
+tion in fire severity will have the highest potential to mitigate 
+postfire conifer regeneration failure (Fig. 2C) may help to prior-
+itize locations for management activities. Despite the potential 
+benefits of effective management interventions, wildfire affects 
+much more area than management actions may be able to feasibly 
+treat (42), highlighting the need to proactively integrate managed 
+wildfire with other strategies to reduce fuels and enhance ecosys-
+tem resilience across large landscapes (25, 43). Where climate is 
+PIPO/PIJE
+INW
+INW
+NR
+NR
+CAK
+CAK
+SRSW
+SRSW
+0.0
+0.5
+1.0
+Region
+PSME
+0.0
+0.5
+1.0
+ABCO/ABGR
+0.0
+0.5
+1.0
+PICO
+0.0
+0.5
+1.0
+PIEN
+0.0
+0.5
+1.0
+ABLA
+High
+Low
+High
+Low
+High
+Low
+High
+Low
+0.0
+0.5
+1.0
+Fire severity scenario
+Recruitment probability
+Time period
+1981−2000
+2001−2020
+2031−2050 (RCP 4.5)
+Example
+Severity effect
+Climate effect
+High
+Low
+0.0
+0.5
+1.0
+Fig. 3. Changing postfire tree recruitment under past and future climate and fire-severity scenarios. Distribution of recruitment probability projected by 
+individual species models across the range of each species within each region (see Fig. 1 caption for region abbreviations). Species columns are ordered from 
+lower elevation species (Left) to higher elevation species (Right). Different colors represent the different time periods. Rows represent fire-severity scenario 
+and region combinations. The gray vertical band highlights the range of threshold probabilities above which recruitment is likely (see Methods). “PIPO/PIJE” is  
+P. ponderosa/P. jeffreyi; “PSME” is P. menziesii; “ABCO/ABGR” is A. concolor/A. grandis; “PICO” is P. contorta; “PIEN” is P. engelmannii; “ABLA” is A. lasiocarpa.
+Downloaded from https://www.pnas.org by NORTHERN ARIZONA UNIVERSITY on March 31, 2023 from IP address 134.114.101.75.
+
+6 of 9   https://doi.org/10.1073/pnas.2208120120
+pnas.org
+already unsuitable for conifer regeneration, managers may decide 
+to accept transitions to other vegetation types where key manage-
+ment goals can still be met, vital ecosystem services are sustained 
+or stabilized, or nonconifer or early-successional habitat (e.g., oak 
+woodlands, shrublands) are established in areas where these habitat 
+types are limited compared with their historical extent (14, 15, 
+44). In other cases, historically unprecedented large high-severity 
+patches dominated by nonforest vegetation types may homogenize 
+landscape patterns and/or lead to novel species assemblages  
+(5, 45, 46). Where accepting change would be undesirable from 
+a societal or management perspective, managers may consider 
+directing change toward more desirable conditions, for example 
+by planting drought and fire-resistant species or genotypes (includ-
+ing Populus tremuloides or Quercus spp. that resprout following 
+fire) or planting at lower densities (33, 40, 47–49). Given signif-
+icant uncertainty about the longer term impacts of directing 
+0.00
+0.25
+0.50
+0.75
+1.00
+0
+500
+1000
+Distance seed source (m)
+All species recruitment probability
+A
+0.00
+0.25
+0.50
+0.75
+1.00
+0
+20
+40
+60
+Mean tree cover (%)
+B
+0.00
+0.25
+0.50
+0.75
+1.00
+−200
+0
+200
+400
+600
+Fire severity (RBR)
+Max postfire growing
+season def. (Z)
+Low (0.62)
+Avg. (1.5)
+High (2.2)
+C
+0.00
+0.25
+0.50
+0.75
+1.00
+300
+600
+900
+Mean annual def. (mm)
+All species recruitment probability
+Max postfire growing
+season def. (Z)
+Low (0.60)
+Avg. (1.4)
+High (2.2)
+D
+0.00
+0.25
+0.50
+0.75
+1.00
+0
+1
+2
+3
+4
+Max post−fire grow. season def. (Z)
+Mean annual
+ def. (mm)
+Wetter (351)
+Moderate (662)
+Drier (857)
+E
+0.00
+0.25
+0.50
+0.75
+1.00
+−3
+−2
+−1
+0
+1
+Min post−fire grow. season def. (Z)
+F
+0.00
+0.25
+0.50
+0.75
+1.00
+0
+50
+100
+150
+200
+250
+Heat−Insolation Load Index
+All species recruitment probability
+G
+0.00
+0.25
+0.50
+0.75
+1.00
+0
+10
+20
+30
+Time since fire (yr)
+H
+*
+9123
+337
+106
+198
+466
+0.00
+0.25
+0.50
+0.75
+1.00
+None
+Beetle Blwdn. Fuel trt. Wildfire
+Pre−fire disturbance type
+I
+Fig. 4. Climatic and nonclimatic controls of postfire tree regeneration. Partial dependence plots for the all-species model showing the relationship between 
+model predictors and postfire recruitment probability while holding other variables at their median values. Mean annual def. is the 30-y mean climatic water 
+deficit from 1981 to 2010. “Max. (Min.) postfire growing season def.” is the maximum (minimum) growing season (April to September) climatic water deficit 
+anomaly experienced in the first 5 y postfire. Where interactions were significant, they are shown by plotting blue, green, and orange lines for the 10th, 50th, 
+and 90th percentiles, respectively, of the interacting variables from our dataset. Bands in A–H and boxes in I are 95% CIs. “*” indicates significantly different  
+(P < 0.05) than no prefire disturbance. Rug plot on the x-axis in A–H show the distribution of data. Numbers above x-axis in I show sample size for each group. 
+Partial dependence plots for individual species models shown in SI Appendix, Figs. S2–S7.
+Downloaded from https://www.pnas.org by NORTHERN ARIZONA UNIVERSITY on March 31, 2023 from IP address 134.114.101.75.
+
+PNAS  2023  Vol. 120  No. 11  e2208120120
+https://doi.org/10.1073/pnas.2208120120   7 of 9
+change (40, 49, 50), adaptive management and monitoring 
+approaches will be particularly important (51).
+Subalpine conifer forests in our study area have been resilient to 
+high-severity fire for millennia (e.g., refs. 52 and 53). However, our 
+results suggest that changes to climate (Fig. 3), combined with 
+changes to forest structure (14) and the frequency of burning  
+(19, 54, 55), have altered the conditions that made these forests 
+historically resilient to high-severity burning, even in contemporary 
+forests where serotinous P. contorta is present. Postfire forest recovery 
+in these systems occurs over decades to centuries (52), and continues 
+to be likely in much of the northern Rockies (Figs. 3 and 4 and 
+SI Appendix, Figs. S21–S26); however, in some areas such as the 
+southern Rockies, the suitable climate window for regeneration is 
+rapidly closing. Where climate is currently conducive to conifer estab-
+lishment but will become unsuitable in the coming decades, managers 
+may be able to resist changes in the short-term by postfire planting 
+or seeding (33). Longer term resistance may be challenging in these 
+forest types given the historical high-severity fire regimes and increas-
+ing potential for short-interval fire. Thus, as in lower elevation forests, 
+periods immediately after fire may also provide opportunities to direct 
+change toward species or genotypes that are better adapted to future 
+climate conditions and fire regimes (33, 56). Where we project low 
+recruitment probability, in both subalpine and lower elevation forests, 
+the relatively coarse scale of our climate data (4-km resolution) may 
+underestimate the role that local site factors, microclimate, and dis-
+turbance refugia (57–59) play in supporting postfire tree regeneration 
+and forest persistence (60); thus identifying and protecting these 
+refugia will be critical if the goal is to retain conifer forests (33, 40).
+Our work highlights several key drivers of postfire conifer regen-
+eration, but the broadscale nature of our study means that we could 
+not account for local and microsite conditions, fine-scale weather 
+events, intraspecific variation, cone serotiny, or phenotypic plasticity. 
+For example, competition or facilitation from shrubs (23, 61), seed 
+dispersal and predation (36, 62), interannual variation in seed pro-
+duction (63), pathogens, herbivory, or edaphic factors not captured 
+in our models may affect conifer establishment and likely vary across 
+our study area. Short-term exposure to extreme conditions [e.g., 
+high soil surface temperatures (64)] can also cause seedling mortal-
+ity. Additionally, the level of serotiny in P. contorta stands strongly 
+impacts forest development after high severity fire (24, 35). We 
+stress that such fine-scale patterns and processes are essential to 
+regeneration dynamics and should be explicitly considered in devel-
+oping site-specific management strategies (33, 40). Furthermore, 
+while we project reduced recruitment potential within the range of 
+the study species, in some cases fire may provide an opportunity for 
+tree species to establish beyond their current range (e.g., ref. 65). 
+Finally, by combining data from multiple studies with different field 
+methods, we also introduce additional uncertainty.
+We project that a substantial portion of the forests in our study 
+region will experience declines in postfire conifer regeneration, 
+which would have major implications for ecosystem structure and 
+function. These results highlight the need to better understand what 
+type of ecosystems will replace these forests when regeneration 
+fails—likely to vary greatly by region—and the implications for 
+carbon sequestration, hydrology, wildlife habitat, and other key 
+ecosystem services on which society depends. Despite the pro-
+nounced impact of climate change, the stark contrast in the projec-
+tions of conifer recruitment probability from the low- and 
+high-severity scenarios emphasize how management actions taken 
+to reduce fire severity can significantly shape postfire vegetation 
+trajectories. Identifying whether, when, and where management 
+intervention is appropriate to resist or direct trajectories of change 
+in these forests will become more critical as wildfire affects more of 
+the landscape each year (4, 29, 41). Importantly, by elucidating the 
+interactive effects of climate and fire severity, we show that windows 
+of opportunity for management intervention may decline as climate 
+increasingly limits conifer recruitment in the near-term future.
+Methods
+Data Collection. Existing datasets were solicited from collaborators across the 
+western United States that met several criteria: 1) Plots were located in coni-
+fer-dominated forests of the western Unites States; 2) exact plot location and 
+area were available; 3) data included presence of postfire conifer juveniles by 
+species; 4) sampling occurred at a minimum of 2 y after wildfire (not prescribed 
+fire) occurrence; and 5) surveyed wildfires occurred between 1984 and 2018. 
+Control plots that were unburned or plots that were planted following fire were 
+removed from the aggregated dataset, for a total of 10,230 plots (Dataset S1).
+Predictors. Biophysical predictors for each site included a heat load index, fire 
+severity, tree cover, and climate data (SI Appendix, Table S1). For consistency, 
+we omitted predictors from our analysis that were not present in all datasets 
+(e.g., prefire stand structure, serotiny). To represent the effects of insolation 
+and topographic shading on seedling recruitment, we used a 90-m continuous 
+heat-insolation load index (CHILI; (66)). To represent fire severity, we used a mean 
+compositing approach in Google Earth Engine (67) to calculate the relativized 
+burn ratio (RBR) with a phenology offset (30-m resolution).
+We used two metrics to represent seed source availability. First, to represent 
+the overall abundance of live trees (surrounding tree cover), we used the percent 
+tree cover in a 300-m radius around each plot derived from postfire imagery 
+from the Rangeland Analysis Platform [30-m resolution; (68)]. Second, we used 
+distance to nearest live seed source. Data from 78% of plots included field meas-
+ured distance to seed source, defined as distance to the nearest live reproductive 
+tree(s). For plots without field measured distance to seed source, we manually 
+recorded distance to the nearest live tree using 1-m aerial postfire imagery 
+(National Agriculture Imagery Program) from the closest available year to the 
+field sampling date in Google Earth Engine (SI Appendix, Methods). We did not 
+represent the level of P. contorta serotiny in our models, due to a lack of available 
+information on serotiny across the study area.
+We extracted 4-km resolution daily climate data for 1979 to 2020 for each 
+plot from gridMET (69). We developed metrics from these daily climate data 
+to represent 30-y climatologies and 5-y postfire seasonal conditions. We used 
+monthly averages to run a water balance model following Dobrowski et al. (70) 
+and Rodman et al. (22) to calculate monthly climatic water deficit (potential evap-
+otranspiration minus actual evapotranspiration) from 1979 to 2020. We then 
+calculated 30-y mean annual and growing season (April to September) water 
+deficit from 1981 to 2010 to represent average site conditions. We chose water 
+deficit because water balance metrics are of direct physiological importance to 
+plants (71), and initial analyses showed that water deficit was more strongly 
+related to postfire regeneration across multiple species than were precipitation 
+or temperature. To represent interannual variability in postfire conditions, we 
+calculated z-scores (relative to the 1981 to 2010 mean at each site) for three sea-
+sonal metrics: growing season water deficit, June to August vapor pressure deficit, 
+and growing season precipitation. Initial comparisons across a broader suite of 
+climate variables showed that these variables captured the range of conditions 
+while minimizing correlations between variables. To represent the most extreme 
+conditions experienced at each site in the first 5 y following fire, when much of 
+the regeneration occurs (24, 72), we took the maximum and the minimum of 
+these metrics over that time period. Climate extremes are better correlated with 
+regeneration than average conditions between 3 and 5 y postfire (22).
+Future climate data (Coupled Model Intercomparison Project Phase 5 model 
+outputs) were downscaled using the Multivariate Adaptive Constructed Analogs 
+method version 2 with the gridMET training dataset (73) for the years 2031 to 
+2050 for five global climate models (GCMs; SI Appendix, Table S2). GCMs were 
+selected based on model performance in the western United States and represent 
+a range of possible future conditions that include a wetter and drier scenario (74, 
+75). Water deficit, seasonal, and postfire climate metrics were calculated with data 
+from each GCM following the same methods as used for the historic climate data.
+To account for effects of known disturbances that occurred within 50 y prior to 
+wildfire, prefire disturbance type (none, wildfire, fuel treatment, beetle outbreak, or 
+blowdown) was included in models as a categorical predictor (SI Appendix, Methods). 
+Downloaded from https://www.pnas.org by NORTHERN ARIZONA UNIVERSITY on March 31, 2023 from IP address 134.114.101.75.
+
+8 of 9   https://doi.org/10.1073/pnas.2208120120
+pnas.org
+Some plots likely experienced disturbances within 50 y prior to fire that were not 
+recorded in our dataset. Thus, prefire disturbance was included in models to account 
+for variability in regeneration due to known disturbances, but not to thoroughly 
+investigate the effect of compound disturbances on regeneration.
+Analyses. We created models of presence/absence of regeneration (at least 
+one conifer seedling per plot) by species and for all species combined using 
+generalized linear mixed effect models with a binomial distribution and a logit 
+link. We modeled P. ponderosa and P. jeffreyi together as it is difficult to distin-
+guish between seedlings of the two species. We also modeled A. grandis and A. 
+concolor together given the widespread hybridization of the two species from 
+central Idaho to south-central Oregon (76). Although P. contorta was the only study 
+species that can have serotinous cones, we chose to include it in the model with 
+all species because serotiny is highly variable over space, and because the rela-
+tionship between distance to seed source and recruitment probability was similar 
+between P. contorta and other species. We created models in R version 4.0.4 (77) 
+with the glmmTMB package (78). All models included an offset of log(plot size) 
+to account for variation in sampling effort. Simulation-based residuals from the 
+DHARMa package (79) were used to assess model fit and dispersion.
+All models included the following biophysical variables as fixed effects: Time 
+since fire, distance to seed source, fire severity, surrounding tree cover, prefire 
+disturbance type, and CHILI. Models included climate variables as described 
+below. We tested for possible quadratic relationships between the response and 
+each variable. For species that have multiple recognized varieties or subspecies, 
+we also included a variety term in the model (SI Appendix, Table S5). Each model 
+included a random intercept that varied by wildfire identity to account for lack of 
+independence between observations within the same wildfire.
+We started model selection with a full model that included the above biophysical 
+predictors, postfire climate predictors (SI Appendix, Table S1), 30-y mean annual or 
+growing season water deficit (depending on species), and interactions between the 
+30-y mean climate and the postfire climate metrics to account for differential effects 
+of drought across each species range. All predictors included in a single model had 
+Pearson’s correlations <0.6 and variance inflation factors <5. We then used 10-fold 
+cross validation to iteratively remove interaction terms and climate variables to 
+maximize model skill based on cross-validated area under the receiver operating 
+characteristics curve (AUC) (SI Appendix, Methods). After model selection for climate 
+variables, we checked for interactions between postfire climate variables and fire 
+severity and seed availability (RBR, distance to seed source, surrounding tree cover).
+To assess changes over time in recruitment probability, we used our mod-
+els to predict the mean recruitment probability throughout the study area in 
+three 20-y time periods: 1981 to 2000, 2001 to 2020, and 2031 to 2050. We 
+made projections for each period under two fire severity scenarios (low sever-
+ity: 10 m distance to seed source, 30% surrounding tree cover, 100 RBR; high 
+severity: 150 m distance to seed source, 10% surrounding tree cover, 400 RBR; 
+SI Appendix, Methods). We held time since fire and plot size constant at 10 y 
+and 100 m2, respectively, for all projections. Recruitment probability thus rep-
+resents the probability of at least one seedling regenerating in a 0.01-ha plot, 
+which is equivalent to a density of 100 trees ha−1. We summarized results of 
+recruitment probability by region, which were defined by aggregating level 3 
+Environmental Protection Agency ecoregions that contained field sites (Fig. 1A). 
+The threshold probability at which recruitment is likely varies between models 
+and between approaches to choosing a threshold (80, 81). In figures, we present 
+thresholds based on methods that maximize kappa (81) and the sum of specificity 
+and sensitivity (80). For Fig. 2C, we show the results based on the threshold that 
+maximizes kappa (0.54).
+Data, Materials, and Software Availability. Data will be published and publicly 
+available in the Dryad data repository (https://doi.org/10.5061/dryad.0rxwdbs47). 
+Projections of recruitment probability are publicly viewable here: https://kimber-
+leytaylor7.users.earthengine.app/view/mapping-postfire-conifer-regeneration-prob-
+ability. Previously published data were used for this work and all citations and links 
+to the data can be found in Dataset S1.
+ACKNOWLEDGMENTS. We thank Travis Belote, Angela Boag, Chris Carlson, Chris 
+Dunn, Tara Durboraw, Jessica Ouzts, Natalie Pawlikowski, and Dan Swanson for contrib-
+uting data. We thank Andie Sonnen and Lily Chuang for measuring distance to seed 
+source in Google Earth Engine. Funding for this project was provided by The Nature 
+Conservancy. Additional support was provided by the Department of the Interior, 
+North Central Climate Adaptation Science Center (NC CASC) through Cooperative 
+Agreements G18AC00325 and G20AC00205 from the United States Geological 
+Survey (USGS). This manuscript is submitted for publication with the understanding 
+that the US government is authorized to reproduce and distribute reprints for gov-
+ernmental purposes. All opinions expressed in this paper are the authors’ and do not 
+necessarily reflect the policies and views of affiliate agencies, the NC CASC, or the USGS.
+Author affiliations: aDepartment of Ecosystem and Conservation Sciences, University 
+of Montana, Missoula, MT 59812; bThe Nature Conservancy, Tucson, AZ 85719; cThe 
+Nature Conservancy, Portland, OR 97214; dRegion 6 Ecology Program, US Forest 
+Service, Wenatchee, WA 98801; 
+eMonitoring, Evaluation, and Learning Program, 
+Chief Conservation Office, The Nature Conservancy, Arlington, VA 22201; fEcological 
+Restoration Institute, Northern Arizona University, Flagstaff, AZ 86011; gThe Nature 
+Conservancy, Flagstaff, AZ 86001; hThe Nature Conservancy, Boulder, CO 80302; 
+iDepartment of Integrative Biology, University of Colorado–Denver, Denver, CO 80204; 
+jSchool of Environmental and Forest Sciences, University of Washington, Seattle, WA 
+98195; kDepartment of Forest Management, University of Montana, Missoula, MT 59812; 
+lThe Nature Conservancy, Seattle, WA 98121; mCenter for Fire Research and Outreach, 
+University of California, Berkeley, CA 94720; nSchool of Environment and Sustainability, 
+Western Colorado University, Gunnison, CO 81231; oDepartment of Natural Resources 
+Management, Texas Tech University, Lubbock, TX 79409; pNew Mexico Forestry Division, 
+Energy, Minerals, Natural Resources Division, Santa Fe, NM 87505; qDepartment of 
+Geography, The Pennsylvania State University, University Park, PA 16802; rDepartment 
+of Biology, University of New Mexico, Albuquerque, NM 87131; sGraduate School of 
+Geography, Clark University, Worcester, MA 01610; tConservation Science Partners, 
+Truckee, CA 96161; uUS Forest Service, Pacific Southwest Research Station, Placerville, CA 
+95667-5199; vThe Nature Conservancy, Sacramento, CA 95811; wForest and Rangeland 
+Stewardship Department, Colorado State University, Fort Collins, CO 80523; xColorado 
+Forest Restoration Institute, Colorado State University, Fort Collins, CO 80523; yEarth and 
+Environmental Systems Institute, The Pennsylvania State University, University Park, PA 
+16802; zDepartment of Forestry, Fire, and Rangeland Management, Cal Poly Humboldt 
+University, Arcata, CA 95521; aaDepartment of Plant Sciences, University of California, 
+Davis, CA 95616; bbSchool of Environment, Washington State University, Pullman, WA 
+99164; ccRocky Mountain Research Station, US Forest Service, Fort Collins, CO 80526; 
+ddMontana Department of Natural Resources and Conservation, Missoula, MT 59806; 
+eeDepartment of Geography, Portland State University, Portland, OR 97207; ffDepartment 
+of Forest and Wildlife Ecology, University of Wisconsin–Madison, Madison, WI 53706; 
+ggRocky Mountain Research Station, US Forest Service, Ogden, UT 84401; hhWashington 
+State Department of Natural Resources, Olympia, WA 98504; iiDepartment of Forest 
+Ecosystems and Society, College of Forestry, Oregon State University, Corvallis, OR 
+97331; jjRocky Mountain Research Station, USDA Forest Service, Flagstaff, AZ 86001; 
+kkWilderness Institute, University of Montana, Missoula, MT 59812; llDepartment of 
+Environmental Sciences, University of North Carolina Wilmington, Wilmington, NC 28403; 
+mmVibrant Planet, Incline Village, NV 89451; nnDepartment of Environmental Science and 
+Policy, University of California, Davis, CA 95616; ooThe Nature Conservancy, Missoula, MT 
+59802; ppDepartment of Anthropology and Geography, Colorado State University, Fort 
+Collins, CO 80523; qqGraduate Degree Program in Ecology, Colorado State University, 
+Fort Collins, CO 80523; rrSchool of Forestry, Northern Arizona University, Flagstaff, AZ 
+86011; ssDepartment of Integrative Biology, University of Wisconsin–Madison, Madison, 
+WI 53706; ttRocky Mountain Research Station, USDA Forest Service, Reno, NV 89512; 
+uuDepartment of Wildland Resources and the Ecology Center, Utah State University, 
+Logan, UT 84322; and vvEnvironmental and Conservation Sciences, Murdoch University, 
+Perth, WA 6150, Australia
+Author contributions: K.T.D., M.D.R., K.B.K., P.E.H., T.C., K.L.M., J.L.P., K.C.R., T.W., R.N.A., 
+B.J.B., C.A.C., M.J.C., B.M.C., J.D.C., S.Z.D., N.S.G., C.H., L.B.H., B.J.H., R.D.H., M.D.H., D.K., 
+C.E.L., L.A.M., N.P., K.L.S., E.S., J.T.S., C.S.S.-R., A.H.T., A.J.T., D.J.N.Y., R.A.A., M.A.B., J.K.B., 
+S.U.B., A.R.C., M.E.C., E.K.D., D.C.D., W.M.D., P.J.F., J.S.H., A. Hoffman, A. Holz, J.M.I., M.A.K., 
+M.R.K., A.J.L., G.W.M., J.P.R., M.T.R., H.S., M.S., J.S.S., M.P.S., M.G.T., A.K.U., K.D.C.-W., L.Y., 
+J.B.F., and J.L.C. designed research; K.T.D., M.D.R., K.B.K., P.E.H., T.C., K.L.M., J.L.P., K.C.R., 
+T.W., R.N.A., B.J.B., C.A.C., M.J.C., B.M.C., J.D.C., S.Z.D., N.S.G., C.H., L.B.H., B.J.H., R.D.H., 
+M.D.H., D.K., C.E.L., L.A.M., N.P., K.L.S., E.S., J.T.S., C.S.S.-R., A.H.T., A.J.T., D.Y.N.Y., R.A.A., 
+M.A.B., J.K.B., S.U.B., A.R.C., M.E.C., E.K.D., D.C.D., W.M.D., P.J.F., J.S.H., A. Hoffman, A. Holz, 
+J.M.I., M.A.K., M.R.K., A.J.L., G.W.M., J.P.R., M.T.R., H.S., M.S., J.S.S., M.P.S., M.G.T., A.K.U., 
+K.D.C.-W., L.Y., J.B.F., and J.L.C. performed research; T.C. and K.C.R. contributed new 
+reagents/analytic tools; K.T.D. analyzed data; T.C., K.L.M., J.L.P., K.C.R., T.W., R.N.A., B.J.B., 
+C.A.C., M.J.C., B.M.C., J.D.C., S.Z.D., N.S.G., C.H., L.B.H., B.J.H., R.D.H., M.D.H., D.K., C.E.L., 
+L.A.M., N.P., K.L.S., E.S., J.T.S., C.S.S.-R., A.H.T., A.J.T., D.J.N.Y., R.A.A., M.A.B., J.K.B., S.U.B., 
+A.R.C., M.C., E.K.D., D.C.D., W.M.D., P.J.F., J.S.H., A. Hoffman, A. Holz, J.M.I., M.A.K., M.R.K., 
+A.J.L., G.W.M., J.P.R., M.T.R., H.S., M.S., J.S.S., M.P.S., M.G.T., A.K.U., K.D.C.-W., L.Y., J.B.F., and 
+J.L.C. writing—review and editing; and K.T.D., M.D.R., K.B.K., and P.E.H. wrote the paper.
+The authors declare no competing interest.
+This article is a PNAS Direct Submission. P.M.F. is a guest editor invited by the Editorial Board.
+ 1.	
+J. D. Coop et al., Wildfire-driven forest conversion in western North American landscapes. Bioscience 
+70, 659–673 (2020).
+2.	
+S. D. Crausbay et al., A science agenda to inform natural resource management decisions in an era 
+of ecological transformation. BioScience 72, 71–90 (2021).
+3.	
+D. Bowman, B. P. Murphy, D. L. J. Neyland, G. J. Williamson, L. D. Prior, Abrupt fire regime change may 
+cause landscape-wide loss of mature obligate seeder forests. Glob. Chang. Biol. 20, 1008–1015 (2014).
+4.	
+J. T. Abatzoglou, A. P. Williams, Impact of anthropogenic climate change on wildfire across western 
+US forests. Proc. Natl. Acad. Sci. U.S.A. 113, 11770–11775 (2016).
+Downloaded from https://www.pnas.org by NORTHERN ARIZONA UNIVERSITY on March 31, 2023 from IP address 134.114.101.75.
+
+PNAS  2023  Vol. 120  No. 11  e2208120120
+https://doi.org/10.1073/pnas.2208120120   9 of 9
+5.	
+J. T. Stevens, B. M. Collins, J. D. Miller, M. P. North, S. L. Stephens, Changing spatial patterns of stand-
+replacing fire in California conifer forests. For. Ecol. Manage. 406, 28–36 (2017).
+6.	
+S. A. Parks, J. T. Abatzoglou, Warmer and drier fire seasons contribute to increases in area burned 
+at high severity in western US forests from 1985 to 2017. Geophys. Res. Lett. 47, e2020GL089858 
+(2020).
+7.	
+T. M. Ellis, D. M. J. S. Bowman, P. Jain, M. D. Flannigan, G. J. Williamson, Global increase in wildfire 
+risk due to climate-driven declines in fuel moisture. Glob. Chang. Biol. 28, 1544–1559 (2022).
+8.	
+A. Singh et al., The role of climatic variability on Eucalyptus regeneration in southeastern Australia. 
+Glob. Ecol. Conserv. 32, e01929 (2021).
+9.	
+K. T. Davis et al., Wildfires and climate change push low-elevation forests across a critical climate 
+threshold for tree regeneration. Proc. Natl. Acad. Sci. U.S.A. 116, 6193–6198 (2019).
+10.	 N. J. Enright, J. B. Fontaine, D. Bowman, R. A. Bradstock, R. J. Williams, Interval squeeze: Altered 
+fire regimes and demographic responses interact to threaten woody species persistence as climate 
+changes. Front. Ecol. Environ. 13, 265–272 (2015).
+11.	 J. B. Landesmann, F. Tiribelli, J. Paritsis, T. T. Veblen, T. Kitzberger, Increased fire severity triggers 
+positive feedbacks of greater vegetation flammability and favors plant community-type conversions. 
+J. Veg. Sci. 32, e12936 (2021).
+12.	 J. L. Baltzer et al., Increasing fire and the decline of fire adapted black spruce in the boreal forest. 
+Proc. Natl. Acad. Sci. U.S.A. 118, e2024872118 (2021).
+13.	 K. T. Davis et al., Fire-catalyzed vegetation shifts in ponderosa pine and Douglas-fir forests of the 
+western United States. Environ. Res. Lett. 15, 1040b1048 (2020).
+14.	 R. K. Hagmann et al., Evidence for widespread changes in the structure, composition, and fire 
+regimes of western North American forests. Ecol. Appl. 31, e02431 (2021).
+15.	 P. F. Hessburg et al., Climate, environment, and disturbance history govern resilience of western 
+North American forests. Front. Ecol. Evol. 7, 11770 (2019).
+16.	 K. D. Wolf, P. E. Higuera, K. T. Davis, S. Z. Dobrowski, Wildfire impacts on forest microclimate vary with 
+biophysical context. Ecosphere 12, e03467 (2021).
+17.	 G. Certini, Effects of fire on properties of forest soils: A review. Oecologia 143, 1–10 (2005).
+18.	 W. D. Hansen, M. G. Turner, Origins of abrupt change? Postfire subalpine conifer regeneration 
+declines nonlinearly with warming and drying. Ecol. Monogr. 89, e01340 (2019).
+19.	 S. U. Busby, K. B. Moffett, A. Holz, High-severity and short-interval wildfires limit forest recovery in 
+the central Cascade Range. Ecosphere 11, e03247 (2020).
+20.	 T. J. Hoecker, M. G. Turner, A short-interval reburn catalyzes departures from historical structure and 
+composition in a mesic mixed-conifer forest. For. Ecol. Manage. 504, 119814 (2022).
+21.	 C. S. Stevens-Rumann et al., Evidence for declining forest resilience to wildfires under climate 
+change. Ecol. Lett. 21, 243–252 (2018).
+22.	 K. C. Rodman et al., A changing climate is snuffing out post-fire recovery in montane forests. Glob. 
+Ecol. Biogeogr. 29, 2039–2051 (2020).
+23.	 A. J. Tepley, J. R. Thompson, H. E. Epstein, K. J. Anderson-Teixeira, Vulnerability to forest loss through 
+altered postfire recovery dynamics in a warming climate in the Klamath Mountains. Glob. Chang. 
+Biol. 23, 4117–4132 (2017).
+24.	 B. J. Harvey, D. C. Donato, M. G. Turner, High and dry: Post-fire tree seedling establishment in 
+subalpine forests decreases with post-fire drought and large stand-replacing burn patches. Glob. 
+Ecol. Biogeogr. 25, 655–669 (2016).
+25.	 S. J. Prichard et al., Adapting western North American forests to climate change and wildfires: 10 
+common questions. Ecol. Appl. 31, e02433 (2021).
+26.	 E. L. Kalies, L. L. Y. Kent, Tamm review: Are fuel treatments effective at achieving ecological and social 
+objectives? A systematic review. For. Ecol. Manage. 375, 84–95 (2016).
+27.	 H.R.3684, Infrastructure Investment and Jobs Act (117th Congress) (2021).
+28.	 USDA Forest Service, Confronting the Wildfire Crisis: A 10-Year Implementation Plan (USDA Forest 
+Service, 2022).
+29.	 G. W. Schuurman et al., Navigating ecological transformation: Resist–accept–direct as a path to a 
+new resource management paradigm. BioScience 72, 16–29 (2021).
+30.	 M. D. Doherty, S. Lavorel, M. J. Colloff, K. J. Williams, R. J. Williams, Moving from autonomous to 
+planned adaptation in the montane forests of southeastern Australia under changing fire regimes. 
+Austral Ecol. 42, 309–316 (2017).
+31.	 C. I. Millar, N. L. Stephenson, S. L. Stephens, Climate change and forests of the future: Managing in 
+the face of uncertainty. Ecol. Appl. 17, 2145–2151 (2007).
+32.	 J. T. Stevens, H. D. Safford, A. M. Latimer, Wildfire-contingent effects of fuel treatments can promote 
+ecological resilience in seasonally dry conifer forests. Can. J. For. Res. 44, 843–854 (2014).
+33.	 A. J. Larson et al., Tamm review: Ecological principles to guide post-fire forest landscape 
+management in the Inland Pacific and Northern Rocky Mountain regions. For. Ecol. Manage. 504, 
+119680 (2022).
+34.	 J. R. Ellenwood, F. J. Krist, S. A. Romero, “National individual tree species atlas” in FHTET-15-01 (U.S. 
+Department of Agriculture, Forest Service, Forest Health Technology Enterprise Team, Fort Collins, 
+2015).
+35.	 S. M. Hood et al., “Fire ecology of rocky mountain forests” in Fire Ecology and Management: 
+Past, Present, and Future of US Forested Ecosystems, C. H. Greenberg, B. Collins, Eds. (Springer 
+International Publishing, Cham, 2021), pp. 287–336.
+36.	 N. S. Gill et al., Limitations to propagule dispersal will constrain postfire recovery of plants and fungi 
+in western coniferous forests. BioScience 72, 347–364 (2022).
+37.	 G. W. Schuurman et al., Navigating ecological transformation: Resist–accept–direct as a path to a 
+new resource management paradigm. BioScience 72, 16–29 (2022).
+38.	 M. P. Singleton, A. E. Thode, A. J. S. Meador, J. M. Iniguez, J. T. Stevens, Management strategy 
+influences landscape patterns of high-severity burn patches in the southwestern United States. 
+Landsc. Ecol. 36, 3429–3449 (2021).
+39.	 S. T. Jackson, J. L. Betancourt, R. K. Booth, S. T. Gray, Ecology and the ratchet of events: Climate 
+variability, niche dimensions, and species distributions. Proc. Natl. Acad. Sci. U.S.A. 106, 
+19685–19692 (2009).
+40.	 J. T. Stevens et al., Tamm review: Postfire landscape management in frequent-fire conifer forests of 
+the southwestern United States. For. Ecol. Manage. 502, 119678 (2021).
+41.	 P. E. Higuera et al., Integrating subjective and objective dimensions of resilience in fire-prone 
+landscapes. BioScience 69, 379–388 (2019).
+42.	 M. North et al., Constraints on mechanized treatment significantly limit mechanical fuels reduction 
+extent in the Sierra Nevada. J. For. 113, 40–48 (2015).
+43.	 M. P. North et al., Pyrosilviculture needed for landscape resilience of dry western United States 
+forests. J. For. 119, 520–544 (2021).
+44.	 M. E. Swanson et al., The forgotten stage of forest succession: Early-successional ecosystems on 
+forest sites. Front. Ecol. Environ. 9, 117–125 (2011).
+45.	 D. J. Churchill et al., Post-fire landscape evaluations in Eastern Washington, USA: Assessing the work 
+of contemporary wildfires. For. Ecol. Manage. 504, 119796 (2022).
+46.	 R. J. Hobbs, E. Higgs, J. A. Harris, Novel ecosystems: implications for conservation and restoration. 
+Trends in Ecol. Evol. 24, 599–605 (2009).
+47.	 V. A. Hess, P. Z. Fulé, Is a Mexican pine species better adapted to the warming climate of the 
+southwestern USA? Front. For. Glob. Chang. 3, 60 (2020).
+48.	 M. P. North et al., Tamm review: Reforestation for resilience in dry western US forests. For. Ecol. 
+Manage. 432, 209–224 (2019).
+49.	 D. J. N. Young et al., Assisted gene flow in the context of large-scale forest management in 
+California, USA. Ecosphere 11, e03001 (2020).
+50.	 S. D. Crausbay et al., A science agenda to inform natural resource management decisions in an era 
+of ecological transformation. BioScience 72, 71–90 (2022).
+51.	 A. J. Lynch et al., RAD adaptive management for transforming ecosystems. BioScience 72, 45–56 
+(2022).
+52.	 T. T. Veblen, K. S. Hadley, M. S. Reid, Disturbance and stand development of a Colorado subalpine 
+forest. J. Biogeogr. 18, 707–716 (1991).
+53.	 T. A. Minckley, R. K. Shriver, B. Shuman, Resilience and regime change in a southern rocky mountain 
+ecosystem during the past 17 000 years. Ecol. Monogr. 82, 49–68 (2012).
+54.	 P. E. Higuera, B. N. Shuman, K. D. Wolf, Rocky mountain subalpine forests now burning more than 
+any time in recent millennia. Proc. Natl. Acad. Sci. U.S.A. 118, e2103135118 (2021).
+55.	 M. G. Turner, K. H. Braziunas, W. D. Hansen, B. J. Harvey, Short-interval severe fire erodes the 
+resilience of subalpine lodgepole pine forests. Proc. Natl. Acad. Sci. U.S.A. 116, 11319–11328 
+(2019).
+56.	 E. M. Hill, S. Ex, Microsite conditions in a low-elevation Engelmann spruce forest favor ponderosa 
+pine establishment during drought conditions. For. Ecol. Manage. 463, 118037 (2020).
+57.	 M. A. Krawchuk et al., Disturbance refugia within mosaics of forest fire, drought, and insect 
+outbreaks. Front. Ecol. Environ. 18, 235–244 (2020).
+58.	 A. J. H. Meddens et al., Fire refugia: What are they, and why do they matter for global change? 
+BioScience 68, 944–954 (2018).
+59.	 C. Marsh, D. Krofcheck, M. D. Hurteau, Identifying microclimate tree seedling refugia in post-wildfire 
+landscapes. Agric. For. Meteorol. 313, 108741 (2022).
+60.	 J. D. Coop et al., Contributions of fire refugia to resilient ponderosa pine and dry mixed-conifer 
+forest landscapes. Ecosphere 10, e02809 (2019).
+61.	 J. L. Crockett, M. D. Hurteau, Post-fire early successional vegetation buffers surface microclimate and 
+increases survival of planted conifer seedlings in the Southwestern United States. Can. J. For. Res. 
+52, 416–425 (2022).
+62.	 R. Zwolak, D. E. Pearson, Y. K. Ortega, E. E. Crone, Fire and mice: Seed predation moderates fire’s 
+influence on conifer recruitment. Ecology 91, 1124–1131 (2010).
+63.	 J. S. Clark et al., Continent-wide tree fecundity driven by indirect climate effects. Nat. Commun. 12, 
+1242 (2021).
+64.	 R. Rank, M. Maneta, P. E. Higuera, Z. Holden, S. Z. Dobrowski, Conifer seedling survival in response 
+to high surface temperature events of varying intensity and duration. Front. For. Glob. Chang. 4, 
+731267 (2021), 10.3389/ffgc.2021.731267.
+65.	 W. D. Hansen, W. H. Romme, A. Ba, M. G. Turner, Shifting ecological filters mediate postfire 
+expansion of seedling aspen (Populus tremuloides) in Yellowstone. For. Ecol. Manage. 362, 
+218–230 (2016).
+66.	 D. M. Theobald, D. Harrison-Atlas, W. B. Monahan, C. M. Albano, Ecologically-relevant maps of 
+landforms and physiographic diversity for climate adaptation planning. Plos One 10, e0143619 
+(2015).
+67.	 S. A. Parks, L. M. Holsinger, M. A. Voss, R. A. Loehman, N. P. Robinson, Mean composite fire severity 
+metrics computed with Google Earth engine offer improved accuracy and expanded mapping 
+potential. Remote Sens. 10, 879 (2018).
+68.	 B. W. Allred et al., Improving landsat predictions of rangeland fractional cover with multitask 
+learning and uncertainty. Methods Ecol. Evol. 12, 841–849 (2021).
+69.	 J. T. Abatzoglou, Development of gridded surface meteorological data for ecological applications 
+and modelling. Int. J. Climatol. 33, 121–131 (2013).
+70.	 S. Z. Dobrowski et al., The climate velocity of the contiguous United States during the 20th century. 
+Global Change Biol. 19, 241–251 (2013).
+71.	 N. L. Stephenson, Climatic control of vegetation distribution— The role of the water-balance. Am. Nat. 
+135, 649–670 (1990).
+72.	 A. K. Urza, J. S. Sibold, Climate and seed availability initiate alternate post-fire trajectories in a lower 
+subalpine forest. J. Veg. Sci. 28, 43–56 (2017).
+73.	 J. T. Abatzoglou, T. J. Brown, A comparison of statistical downscaling methods suited for wildfire 
+applications. Int. J. Climatol. 32, 772–780 (2012).
+74.	 L. L. Langner, “Future scenarios: A technical document supporting the USDA forest service 2020 RPA 
+assessment” (Gen. Tech. Rep. RMRS-GTR-412, US Department of Agriculture, Forest Service, Rocky 
+Mountain Research Station, Fort Collins, CO, 2020), p. 34. https://doi.org/10.2737/RMRS-GTR-412.
+75.	 D. E. Rupp, J. T. Abatzoglou, K. C. Hegewisch, P. W. Mote, Evaluation of CMIP5 20th century climate 
+simulations for the Pacific Northwest USA. J. Geophys. Res. Atmos. 118, 10884–10906 (2013).
+76.	 T. M. Ott, E. K. Strand, C. L. Anderson, Niche divergence of Abies grandis-Abies concolor hybrids. 
+Plant Ecol. 216, 479–490 (2015).
+77.	 R Core Team, R: A Language and Environment for Statistical Computing Version 4.0.4 (R Foundation 
+for Statistical Computing, Vienna, Austria, 2021).
+78.	 M. E. Brooks et al., glmmTMB balances speed and flexibility among packages for zero-inflated 
+generalized linear mixed modeling. R J. 9, 378–400 (2017).
+79.	 F. Hartig, DHARMa: Residual diagnostics for hierarchical (multi-level/mixed) regression models (R 
+package version 0.4.3, 2021). https://CRAN.R-project.org/package=DHARMa.
+80.	 C. R. Liu, P. M. Berry, T. P. Dawson, R. G. Pearson, Selecting thresholds of occurrence in the prediction 
+of species distributions. Ecography 28, 385–393 (2005).
+81.	 E. A. Freeman, G. G. Moisen, A comparison of the performance of threshold criteria for binary 
+classification in terms of predicted prevalence and kappa. Ecol. Modell. 217, 48–58 (2008).
+Downloaded from https://www.pnas.org by NORTHERN ARIZONA UNIVERSITY on March 31, 2023 from IP address 134.114.101.75.

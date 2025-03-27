@@ -1,0 +1,1231 @@
+Five-year post-restoration conditions and simulated climate-change
+trajectories in a warm/dry mixed-conifer forest, southwestern Colorado,
+USA
+M.T. Stoddard a,⇑, A.J. Sánchez Meador a,b, Peter Z. Fulé b, Julie E. Korb c
+a Ecological Restoration Institute, Northern Arizona University, P.O. Box 15017, Flagstaff, AZ 86011, USA
+b School of Forestry, Northern Arizona University, Box 15018, Flagstaff, AZ 86011, USA
+c Department of Biology, Fort Lewis College, Durango, CO 81301, USA
+a r t i c l e
+i n f o
+Article history:
+Received 1 April 2015
+Received in revised form 7 July 2015
+Accepted 9 July 2015
+Available online xxxx
+Keywords:
+Ecological restoration
+Climate-Forest Vegetation Simulator
+Historical reference conditions
+Thinning
+Prescribed ﬁre
+a b s t r a c t
+Some warm/dry mixed-conifer forests are at increasing risk of uncharacteristically large, high-severity
+ﬁres. As a result, managers have begun ecological restoration efforts using treatments such as mechanical
+thinning and prescribed ﬁre. Empirical information on the long-term impacts of these treatments is
+limited, especially in light of potential climate change. We assessed changes in forest structure and
+composition ﬁve-years following three alternative restoration treatments in a warm/dry mixed-conifer
+forest: (1) thin/burn, (2) prescribe burn, and (3) control. We used the Climate-Forest Vegetation
+Simulator (Climate-FVS) model to quantify potential forest trajectories under alternative climate scenar-
+ios. Five years following treatments, changes in forest structure were similar to initial post-treatment
+conditions, with thin/burn being the only treatment to shift and maintain forest structure and composi-
+tion within historical reference conditions. By 2013, the thin/burn had reduced basal area (11.3 m2 ha1)
+and tree density (117.2 tree ha1) by 56% and 79% respectively, compared to pre-treatment values. In the
+burn, basal area (20.5 m2 ha1) and tree density (316.6 tree ha1) was reduced by 20% and 35% respec-
+tively, from 2002 to 2013. Mortality of large ponderosa pine trees (the most ﬁre-resistant species)
+throughout the duration of the experiment, averaged 6% in the burn compared to 16% in the thin/burn
+treatment. Changes ﬁve years following treatments were largely due to increases in sprouting species.
+Shrub and sapling densities were approximately two to three times higher (respectively) in the thin/burn
+compared to burn and control and dominated by sprouting oak and aspen. Under climate simulations, the
+thin/burn was more resilient in maintaining forest conditions compared to burn and control which
+approached meager forest conditions (3–4 m2 ha1). These results indicate that restoration treatment
+that include both thinning and burning can maintain forest integrity over the next few decades.
+ 2015 Elsevier B.V. All rights reserved.
+1. Introduction
+Recent regional climatic changes, coupled with uncharacteristi-
+cally high and continuous fuel loads, have resulted in widespread
+mortality events (e.g., ﬁre and insect outbreaks) and gradual shifts
+in plant species distributions in numerous forest types across the
+western United States (Covington, 2000; Breshears, 2005; Seager
+et
+al.,
+2007;
+Williams
+et
+al.,
+2012;
+Brusca
+et
+al.,
+2013).
+Management in dry coniferous forests has primarily focused on
+tree thinning, followed by prescribed ﬁre, for reducing wildﬁre
+severity, restoring forest structure and increasing resiliency across
+landscapes (Fulé et al., 2012; Martinson and Omi, 2013; Waltz
+et al., 2014). However, there is limited information on the longev-
+ity of these treatments, speciﬁcally with respect to their effective-
+ness in maintaining ecosystem integrity and increasing resilience
+to disturbances under future climate conditions. In this study, we
+examine alternative restoration treatments ﬁve years following
+treatment and use climate-sensitive simulation modeling to pro-
+vide insights on whether these treatments maintain ecosystem
+integrity over the next few decades.
+In the western U.S., mixed-conifer forests are generally divided
+into two subtypes based on species composition and historical ﬁre
+regime: (1) warm/dry, characterized as a frequent-ﬁre regime
+where ponderosa pine is frequently the dominant conifer and (2)
+cool/moist, typically an infrequent-ﬁre regime where ponderosa
+http://dx.doi.org/10.1016/j.foreco.2015.07.007
+0378-1127/ 2015 Elsevier B.V. All rights reserved.
+⇑Corresponding author.
+E-mail
+addresses:
+Mike.Stoddard@nau.edu
+(M.T.
+Stoddard),
+Andrew.
+SanchezMeador@nau.edu (A.J. Sánchez Meador), Pete.Fule@nau.edu (P.Z. Fulé),
+korb_j@fortlewis.edu (J.E. Korb).
+Forest Ecology and Management xxx (2015) xxx–xxx
+Contents lists available at ScienceDirect
+Forest Ecology and Management
+journal homepage: www.elsevier.com/locate/foreco
+Please cite this article in press as: Stoddard, M.T., et al. Five-year post-restoration conditions and simulated climate-change trajectories in a warm/dry
+mixed-conifer forest, southwestern Colorado, USA. Forest Ecol. Manage. (2015), http://dx.doi.org/10.1016/j.foreco.2015.07.007
+
+pine is generally absent (Romme et al., 2009). Fire exclusion, inten-
+sive livestock grazing and selective tree harvesting of the early
+20th
+century
+created
+conditions
+ideal
+for
+the
+ingrowth
+of
+shade-tolerant tree species across both warm/dry and cool/moist
+forests (Fulé et al., 2009; Evans et al., 2011; Korb et al., 2013).
+Restoration treatments that include thinning and/or reintroducing
+low-intensity surface ﬁre have been demonstrated to restore eco-
+logical integrity and increase resilience to disturbances, such as
+severe crown ﬁres, insect outbreaks and drought in dry coniferous
+forests (Kolb et al., 1998; Fulé et al., 2009; Stephens et al., 2013).
+Thinning dense young trees and conserving old trees to within a
+historical range of natural variability (NRV) are often targeted
+objectives for restoring ecological structure and promoting forest
+resiliency in ﬁre-adapted ecosystems (Covington and Moore,
+1994; Allen et al., 2002; Waltz et al., 2014). Restoration treatments
+and unmanaged forest conditions that resemble historical condi-
+tions have been repeatedly linked with reductions in ﬁre severity
+(Pollet and Omi, 2002; Cochrane et al., 2012; Fulé et al., 2012).
+However, the relevance of historical conditions to promote
+resilient ecosystems has been questioned, given the uncertainty
+of global climate change, novel ecosystem assemblages and
+uncharacteristic ﬁre regimes.
+Long-term management plans often lack consideration of
+climate change, a key factor driving disturbance regimes and
+change in vegetation distributions (Harrison and Prentice, 2003;
+Staver et al., 2011). In the southwest, temperatures have steadily
+increased in recent decades and warming is predicted to continue
+over the next century, intensifying regional drying (MacDonald,
+2010; Seager and Vecchi, 2010; Hurteau et al., 2014). High forest
+densities, coupled with predicted climate changes, are likely to
+have increasingly detrimental effects on tree mortality, tree
+growth and conifer species regeneration across numerous forest
+types (Allen et al., 2010; Kerhoulas et al., 2013). While considerable
+uncertainty remains regarding the magnitude of climate change,
+model simulations that can account for the anticipated effects of
+climate change are useful for assessing future trajectories of forest
+communities and provide invaluable guidance for evaluating man-
+agement scenarios.
+We asked the following questions about observed and predicted
+forest change in a warm/dry mixed-conifer forest:
+1. How do forest characteristics, such as tree and shrub density,
+mortality, growth rates, and regeneration, compare across alter-
+native restoration treatments ﬁve years following treatment?
+2. How might forest characteristics following restoration treat-
+ments change under differing future climate scenarios?
+2. Methods
+2.1. Study area
+We conducted the experiment in the San Juan Mountains, in
+southwest
+Colorado
+(N37.296,
+W107.228)
+on
+the
+San
+Juan
+National Forest. Our sites ranged in elevation from 2438 to
+2743 m. The most common soil type is Dutton loam, a silty clay
+loam (USDA Forest Service, 2004). Average annual climate (1906–
+1998) for the area is: precipitation 55.01 cm, snowfall 295.66 cm;
+5.56 C (July maximum temperature 28.17 C). Over the study per-
+iod (2009–2013), annual precipitation averaged 38.52 cm, 70% of
+the long-term average (WRCC 2014F). Forest composition included
+ponderosa pine (Pinus ponderosa), white ﬁr (Abies concolor),
+Douglas-ﬁr (Pseudotsuga menziesii) quaking aspen (Populus tremu-
+loides), and Engelmann spruce (Picea engelmannii). The understory
+was dominated by a variety of shrubs including Gambel oak
+(Quercus
+gambelii),
+snowberry
+(Symphoricarpus
+rotundifolius),
+Woods rose (Rosa woodsii), and serviceberry (Amelanchier alnifolia).
+2.2. Experimental design and ﬁeld measurements
+We established four replicated experimental blocks of three
+randomly assigned treatment units, each approximately 16 ha in
+size. Treatment units were randomly assigned one of three possible
+treatments: (1) thinning followed by prescribed ﬁre (thin/burn) (2)
+prescribed ﬁre only (burn) and (3) no treatment (control). Twenty
+400 m2 (11.28 m radius) permanent sample plots were established
+on a 60-m grid in each of the 12 treatment units (240 total plots).
+We
+collected
+data
+in
+2002
+(pretreatment)
+2009
+(1-year
+post-treatment) and 2013 (5 years post-treatment). Overstory
+trees with diameter at breast height (DBH) >2.54 cm were mea-
+sured on each plot including species, condition (living or snag/log
+classes Thomas et al., 1979), and diameter at breast height (dbh).
+We tallied tree regeneration for seedlings (<40 cm in height and
+62.5 cm DBH), saplings (>40.1 cm in height and 62.5 cm DBH)
+and individual shrub stems by species and condition on a nested
+100 m2 (5.64 m radius) subplot.
+Thinning prescriptions were based on a site-speciﬁc reconstruc-
+tion of historical forest structure prior to ﬁre exclusion circa 1871
+(Fulé et al., 2009). In addition to retaining all live trees established
+before 1871, an average of two post-settlement trees were retained
+for each dead presettlement remnant (e.g., snags, logs, stumps)
+(see Korb et al. (2012) for a detailed description of the thinning
+prescription). Retained trees were of the same species and within
+20 m of dead remnants where possible. Wood was not removed
+due to restrictions on road access, so logs and limbs were lopped
+and scattered. Old-growth trees were not raked to remove fuels
+around tree boles. Thinning was done in 2004 and prescribed burns
+were implemented in
+either
+fall 2007
+or
+fall 2008. Initial
+post-treatment
+measurements
+were completed
+in
+2009
+and
+described in Korb et al. (2012).
+2.3. Statistical analysis
+We analyzed post-treatment (2013) effects on forest character-
+istics, regeneration and shrub densities for each treatment unit
+(n = 4) using one-way analysis of variance (ANOVA). Seedling con-
+ifer and aspen densities were transformed (natural logarithm) in
+order to meet assumptions of ANOVA. When signiﬁcant treatment
+effects were found, Tukey’s honestly signiﬁcant difference (HSD)
+post hoc multiple comparisons test was used to test for differences
+among treatment groups. Initial pre- and post-treatment forest
+structures were compared previously by Korb et al. (2012). We also
+used post treatment (2009) data as a covariate (ANCOVA) to
+account for differences in forest characteristics among treatments,
+and test whether differences among treatments had changed over
+time. All tests were conducted at alpha = 0.05 using SAS JMP (ver.
+11) software (SAS Inc., 2004).
+2.4. Simulating future conditions under differing climate scenarios
+All simulations of future conditions were conducted using the
+Central Rockies Variant of the Climate-Forest Vegetation Simulator
+(Climate-FVS; Crookston, 2013). Climate-FVS is an extension to the
+base FVS model, which is a deterministic, individual-tree growth
+model (Dixon, 2013). FVS is a semi-distant-independent growth
+model, meaning that tree growth and mortality rates are adjusted
+based on density (i.e., competition) within the stand. Climate-FVS
+uses changes in ‘‘species viability scores’’ (Crookston et al., 2010)
+to modify species-speciﬁc tree-growth rates, site-index, and mortal-
+ity rates of the base FVS model as a function of climate scenario
+selection.
+To address the uncertainty associated with future greenhouse
+gas emissions and thus climate scenario selection, we used the
+three Representative Concentration Pathways (RCPs) scenarios
+2
+M.T. Stoddard et al. / Forest Ecology and Management xxx (2015) xxx–xxx
+Please cite this article in press as: Stoddard, M.T., et al. Five-year post-restoration conditions and simulated climate-change trajectories in a warm/dry
+mixed-conifer forest, southwestern Colorado, USA. Forest Ecol. Manage. (2015), http://dx.doi.org/10.1016/j.foreco.2015.07.007
+
+(IPCC, 2013) currently available in the Central Rockies Variant of
+the Climate-Forest Vegetation Simulator (Climate-FVS; Crookston,
+2013). The IPCC’s (Intergovernmental Panel on Climate Change)
+four RCP scenarios represent a range of conditions in which the
+total radiative forcing increases by 2.6, 4.5, 6.0, or 8.5 Watts per
+square meter (W/m2) by the year 2100 (Van Vuuren et al., 2011).
+Three of the four RCP scenarios are included in the current version
+of Climate-FVS: (1) RCP 4.5 which assumes 524 ppm CO2 by 2070
+and stabilization at 650 ppm CO2 by 2100; (2) RCP 6.0 which
+assumes 550 ppm CO2 by 2070 and stabilization at 850 ppm
+CO2 by 2100; and (3) RCP 8.5 which assumes 766 ppm CO2 by
+2070, 1370 ppm CO2 by 2100 and no indication of stabilization.
+These models estimate a 2–5-fold increase of the pre-industrial
+concentration of CO2 in the atmosphere (280 ppm) and project
+average global temperature increases of 0.8 C to 2.6 C by 2070
+or 1.1 C to 4.8 C by the end of the 21st century (Van Vuuren
+et al., 2011).
+The three available RCP scenarios and an additional ‘‘No
+Climate’’ scenario (assuming current climate is constant) were pro-
+jected from 2013 to 2063 (50 years). This simulation period was
+selected to minimize over predictions in growth (Petrova et al.,
+2014) and to correspond with typical forest planning horizons.
+Regeneration events (rates and species) in the No Climate scenario
+were based on observed 5-year post treatment data. When forest
+conditions fell below 30% of full stocking (measured as a propor-
+tion of maximum stand density) the following regeneration was
+simulated:
+ponderosa
+pine:
+92 trees ha1;
+Douglas-ﬁr:
+23 trees ha1;
+white
+ﬁr:
+41 trees ha1;
+and
+quaking
+aspen:
+178 trees ha1.
+For the RCP scenarios, regeneration was also simulated when
+stocking thresholds fell below 30% for each species (four maximum
+from a possible 37) and their proportion of total regeneration for
+all species combined (333.8 tree ha1) were a function of the
+species-speciﬁc viability scores. We scaled viability scores between
+zero (all scores less than 0.4) and one (scores greater than 0.8). If
+the viability score is less than 0.4 no trees are established, whereas
+if the viability score is greater than 0.8 all allowable trees (the
+maximum proportion of the total for that species) are established.
+To compute the species speciﬁc proportion of total trees simulated
+to be establish, the allowable proportion is multiplied by the scaled
+viability score of the species with the highest score. Species with a
+scaled viability scores less than 0.4 are ignored and a maximum of
+four species are selected from the remaining composition by
+decreasing viability score. As a result, most of the trees to be
+established are those suggested by Climate-FVS as best suited for
+the projected climate of the site.
+3. Results
+3.1. Post-treatment forest characteristics after restoration treatments
+Five years after treatment implementation, mean basal area and
+tree density were signiﬁcantly lower in the thin/burn treatment
+(P < 0.0001, both variables) compared to burn and control and burn
+was signiﬁcantly lower than control (Table 1). In 2013, total basal
+area and density differences among treatments were driven by
+white ﬁr and Douglas-ﬁr basal area and density (P < 0.0001 for
+all variables). Mean basal area declined over the 2009–2013 time
+period in all three treatments, decreasing 0.3 m2 ha1, 1.4
+m2 ha1 and 2.0 m2 ha1, respectively in the control, burn and
+thin/burn treatments. Changes in tree density varied among treat-
+ments, increasing in both the control (11.9 tree ha1) and the
+thin/burn (10.9 tree ha1) and decreasing in the burn (28.8 tree
+ha1). Initial 1-year post-treatment forest structure measurements
+explained all signiﬁcant 5-year post treatment differences in basal
+area and tree density (P = 0.01 and P < 0.0001, respectively), indi-
+cating no signiﬁcant changes occurred in basal area or tree density
+in the four years following treatment.
+There were no differences (P = 0.2) in overstory tree morality
+among treatments from 2009 to 2013. Overstory trees that died
+occurred largely in the burn treatment averaging 13.3 tree ha1,
+followed by control (8.8 trees ha1) and thin/burn (5.7 tree ha1).
+Tree mortality across both control and burn treatments occurred
+primarily in the small size classes (<20 cm DBH), whereas mortal-
+ity in thin/burn units occurred in the 20–40 cm range (Fig. 1). Tree
+mortality was dominated by ﬁre-intolerant and shade-tolerant
+species such as white ﬁr. Mean large tree mortality (deﬁned as
+>40 cm DBH) that died over the 2009–2013 time period was
+5.6 trees ha1, 3.8 trees ha1 and 2.2 trees ha1, in thin/burn, burn
+and control treatments, respectively.
+Total sapling densities were approximately three times higher
+in
+the
+thin/burn
+treatment
+compared
+to
+control
+and
+burn
+(Table 2), albeit not statistically signiﬁcant (P = 0.07). Sapling den-
+sities were composed mainly of sprouting aspen, largely disrupted
+in patches (found on 51% of the total plots). Aspen densities
+increased by 168% and 38%, respectively in the thin/burn and burn
+treatments since 2009, but in the control treatment aspen sapling
+decreased by 22%. Conifer saplings were signiﬁcantly higher in the
+Table 1
+Forest structure (trees taller than 137 cm and >2.5 cm dbh) in 2013, ﬁve years after alternative restoration treatments (means with standard error in parentheses).
+Treatment
+Thin/burn
+Burn
+Control
+Mean
+Change since 2009
+Mean
+Change since 2009
+Mean
+Change since 2009
+Basal area (m2 ha1)
+ABCO
+1.1 (0.4) b
+26.3%
+6.2 (0.6) a
+7.0%
+7.5 (2.1) a
+2.5%
+PIEN
+0
+N/A
+0.1 (0.1)
+3.2%
+0
+N/A
+PIPO
+9.0 (1.4)
+7.0%
+9.2 (1.3)
+3.2%
+10.2 (0.9)
+1.9%
+POTR
+0.6 (0.4)
+44.0%
+1.1 (0.5)
+21.7%
+2.4 (0.8)
+16.4%
+PSME
+0.4 (0.3) b
+48.2%
+4.0 (0.9) c
+7.4%
+6.7 (0.5) a
+3.2%
+Total
+11.3 (1.2) b
+15.0%
+20.5 (0.7) c
+6.3%
+26.8 (1.3) a
+1.0%
+Tree density (tree ha1)
+ABCO
+13.8 (3.9) b
+10.2%
+172.8 (24.2) ab
+13.5%
+268.4 (61.3) a
+0.1%
+PIEN
+0
+N/A
+0.6 (0.4)
+0
+0
+N/A
+PIPO
+38.1 (6.4)
+7.6%
+50.0 (14.0)
+4.8%
+46.9 (11.7)
+2.7%
+POTR
+61.0 (38.5)
+36.4%
+38.1 (7.4)
+13.0%
+104.1 (38.0)
+9.5%
+PSME
+4.4 (1.1) b
+12.5%
+55.0 (10.1) c
+6.4%
+121.3 (17.7) a
+1.6%
+Total
+117.2 (34.5) b
+10.3%
+316.6 (20.9) c
+8.3%
+540.6 (49.8) a
+2.2%
+Species codes: ABCO (Abies concolor), PIEN (Picea engelmannii), PIPO (Pinus ponderosa), POTR (Populus tremuloides), PSME (Pseudotsuga mensziesii). Data comparisons are
+among treatments in 2013 (N = 4) and signiﬁcant differences are indicated by bold different letters (a = 0.05). Change was calculated as percentage of measurements taken in
+2009, one year after treatment.
+M.T. Stoddard et al. / Forest Ecology and Management xxx (2015) xxx–xxx
+3
+Please cite this article in press as: Stoddard, M.T., et al. Five-year post-restoration conditions and simulated climate-change trajectories in a warm/dry
+mixed-conifer forest, southwestern Colorado, USA. Forest Ecol. Manage. (2015), http://dx.doi.org/10.1016/j.foreco.2015.07.007
+
+control
+and
+burn
+treatments
+compared
+to
+the
+thin/burn
+(P = 0.0006). Initial one-year post-treatment (2009) conifer sapling
+explained all of the signiﬁcant differences (P = 0.004) indicating no
+signiﬁcant changes had occurred in the subsequent four year fol-
+lowing treatment.
+Seedling densities were signiﬁcantly higher (P = 0.04) in the
+control treatment compared to thin/burn, with no differences
+between control and burn (Table 2). Differences in total densities
+among treatments were driven by differences in conifer seedlings
+(P = 0.03), with control and burn treatments having approximately
+eight times higher conifer seedlings than the thin/burn. Signiﬁcant
+changes between 2009 and 2013 explained all the differences
+(P = 0.004) among treatments. Pine seedling density increased by
+an order of magnitude within the burn and control treatments
+and two orders in the thin/burn treatment over the ﬁve year
+period. The observed increases in seedling density were largely
+reﬂected in an inﬂux of recently established (2013) seedlings.
+Total shrub densities were signiﬁcantly higher (P = 0.01) in the
+thin/burn treatment compared to control and burn (Table 2). Shrub
+densities in thin/burn treatment were on average, 69% and 64%
+greater than the control and burn, respectively. Total shrub differ-
+ences among treatments were driven by both Gambel oak sprouts
+(P = 0.03) and Woods rose (P = 0.009) (Table 2). Gambel oak stems
+comprised nearly 40% of the mean total shrub density in the
+thin/burn treatment and was found on 98% of the thin/burn plots
+compared to 24% and 84% in the control and burn plots, respec-
+tively. Initial one-year post-treatment (2009) shrub densities
+explained all of the signiﬁcant differences (P = 0.02) indicating no
+signiﬁcant changes had occurred in the subsequent four year fol-
+lowing treatment. Although oak densities had increased by 576%
+between 2009 and 2013 in the thin/burn treatment compared to
+327% in the control and 292% in the burn, the changes between
+treatments were statistically insigniﬁcant (P = 0.06). Increases in
+Arizona rose densities over the four year period differed signiﬁ-
+cantly (P = 0.005) from initial (2009) post-treatment conditions,
+with signiﬁcant differences (P = 0.001) among all treatments
+(Table 2).
+3.2. Alternative climate change scenarios and future forest
+characteristics
+Modeling simulations suggested that the thin/burn treatment
+was
+the
+most
+resilient
+to
+climate
+change,
+with
+average
+mid-century (2063) simulated basal area decreasing less (45%)
+than other treatments (82% in the burn and 88% in the control)
+when compared to initial conditions in 2013 (Fig. 2). In addition,
+the thin/burn treatment exhibited the highest (i.e., closest to
+NRV) basal area (4.6–7.4 m2 ha1) at the end of the simulation per-
+iod. When comparing differences within treatments and among
+climate scenarios, a consistent pattern emerged in that RCP 8.5
+exhibited the lowest basal area at the end of the simulation period.
+Fig. 1. Mortality from 2009 to 2013 within diameter classes, ﬁve years after
+alternative restoration treatments. Diameter class midpoints are shown on x-axis.
+Table 2
+Regeneration and shrub densities in 2013, ﬁve years after alternative restoration treatments (means with standard error in parentheses).
+Treatment
+Thin/burn
+Burn
+Control
+Mean
+Change since 2009
+Mean
+Change since 2009
+Mean
+Change since 2009
+Seedling ha1 (<40 cm height)
+ABCO
+6.3 (2.4)
+25.0%
+30.0 (7.4)
+140.0%
+48.8 (17.6)
+5.4%
+PIPO
+12.5 (6.0)
+1983.3%
+103.8 (35.1)
+2666.7%
+76.3 (40.2)
+1120.0%
+POTR
+68.8 (38.8)
+75.2%
+92.5 (47.7)
+8.6%
+108.8 (36.3)
+26.9%
+PSME
+0
+N/A
+13.8 (3.8)
+120.0%
+42.5 (16.9)
+750.0%
+Conifers
+18.8 (5.1) b
+275.0%
+147.5 (32.8) ab
+555.6%
+167.5 (49.3) a
+191.3%
+Total
+87.5 (36.0) b
+69.0%
+253.8 (53.9) ab
+86.2%
+276.3 (51.2) a
+33.9%
+Sapling ha1 (>40.1 height and P2.5 cm DBH)
+ABCO
+25.0 (15.7)
+33.3%
+46.3 (21.5)
+54.2%
+102.5 (22.2)
+14.6%
+PIPO
+5.0 (3.5)
+300.0%
+12.5 (7.8)
+233.3%
+8.8 (4.3)
+40.0%
+POTR
+2951.3 (804.4)
+168.0%
+882.5 (507.8)
+37.6%
+750.0 (239.7)
+22.0%
+PSME
+1.3 (1.3)
+N/A
+16.3 (8.0)
+38.1%
+41.3 (9.0)
+10.0%
+Conifers
+31.3 (20.0) b
+56.3%
+75.0 (26.5) ab
+25.0%
+152.5 (24.9) a
+6.9%
+Total
+2982.5 (817.6)
+166.0%
+983.8 (520.5)
+37.2%
+911.3 (246.5)
+19.0%
+Shrub (stem ha1)
+AMAL
+10817.5 (2745.5)
+691.8%
+5848.8 (1906.4)
+293.9%
+5906.3 (1397.1)
+356.1%
+CEFE
+143.75 (61.1)
+1816.7%
+350.0 (227.9)
+5500.0%
+1.25 (1.25)
+90.0%
+PRVI
+3306.3 (1066.3)
+418.6%
+712.5 (416.1)
+172.7%
+631.3 (464.9)
+185.3%
+QUGA
+17212.5 (3801.3) b
+576.0%
+7571.3 (946.7) a
+292.0%
+7267.5 (1524.9) a
+326.6%
+ROWO
+4938.8 (236.3) b
+827.5%
+2413.8 (479.9) a
+412.0%
+2612.5 (650.8) a
+448.6%
+SYRO
+8801.3 (1434.3)
+234.3%
+5956.3 (774.4)
+264.6%
+7627.5 (1374.3)
+366.2%
+Total
+43916.3 (2720.8) b
+465.5%
+28188.8 (3500.3) a
+379.6%
+30302.5 (3347.0) a
+466.9%
+Tree species codes: ABCO (Abies concolor), PIEN (Picea engelmannii), PIPO (Pinus ponderosa), POTR (Populus tremuloides), PSME (Pseudotsuga mensziesii). Shrub species code:
+AMAL (Amelanchier alnifolia), CEFE (Ceanothus fendleri), PRVI (Prunus virginiana), QUGA (Quercus gambelii), ROWO (Rosa woodsii), SYRO (Symphoricarpos rotundifolius). Data
+comparisons are among treatments in 2013 (N = 4) and signiﬁcant differences are indicated by bold different letters (a = 0.05). Change was calculated as percentage of
+measurements taken in 2009, one year after treatment.
+4
+M.T. Stoddard et al. / Forest Ecology and Management xxx (2015) xxx–xxx
+Please cite this article in press as: Stoddard, M.T., et al. Five-year post-restoration conditions and simulated climate-change trajectories in a warm/dry
+mixed-conifer forest, southwestern Colorado, USA. Forest Ecol. Manage. (2015), http://dx.doi.org/10.1016/j.foreco.2015.07.007
+
+Basal area in all treatment types remained higher for RCP 6.0 until
+approximately 2053, when the basal area in RCP 4.5 began to
+climb, eventually yielding the highest basal area values in 2063
+for both the burn and control scenarios (Fig. 2b and c). This is
+largely a result of the CO2 emission assumptions used when devel-
+oping RCP 4.5 and 6.0; namely RCP 6.0 assumes CO2 emissions
+peak in 2060 at 75% above today’s levels, and then decline to
+25% above today’s levels by 2100 while RCP 4.5 assumes CO2
+emissions increase only slightly before declining around 2040.
+This difference in the temporal change point where CO2 emissions
+begin to decline (corresponding with the simulation time period)
+resulted in RCP 6.0 being the simulation with the lowest reactive
+forcing for this study.
+Most of the changes in forest structure and composition were a
+result of how Climate-FVS alters tree mortality, growth rates, site
+suitability, and species composition according to selected climate
+scenario. Fig. 3 shows changes in both structure (basal area) and
+tree species composition. For example, when considering the
+climate scenario with the most conservative simulated effect (least
+radiative forcing consistent with the application of a range of tech-
+nologies and strategies for reducing greenhouse gas emissions), the
+RCP 6.0 has the highest basal area for 40 years of the 50-year sim-
+ulation period. With respect to species composition (Fig. 3a–c), all
+sites
+became
+consistently
+less
+suitable
+for
+ponderosa
+pine,
+Douglas-ﬁr, and white ﬁr and more suitable for aspen and
+Gambel oak. One notable exception was observed: model simula-
+tions suggested that ponderosa pine in the thin/burn treatment
+may be retained at higher proportions of total stand basal area
+(16.7%) than in the control and burn (9.1% and 2.3%, respectively).
+4. Discussion
+4.1. Forest structure and mortality
+The thin/burn treatment was the only treatment that shifted
+and maintained forest structure and composition within reference
+conditions (9.9–13.3 m2 ha1 and 127.1–146.7 tree ha1, Fulé et al.,
+2009). In contrast, ﬁve years after treatment implementation basal
+area and tree density in the burn treatment were 1.5 and 2.2 times
+higher, respectively, than reference conditions. Forest composition
+following the thin/burn treatment was primarily ponderosa pine
+and aspen species whereas composition in the burn treatment
+was still mainly comprised of ﬁre-intolerant species such as white
+ﬁr. A photo time series visually illustrates the reduction of tree
+density, basal area and compositional differences following the
+alternative treatments (Fig. 4). These results are consistent with
+other restoration studies in western dry mixed-conifer ecosystems
+(Youngblood et al., 2006; North et al., 2007; Fulé et al., 2012). By
+reducing live and dead fuel loading and raising crown base heights,
+a combined thinning and burning treatment has also been shown
+to be consistently effective at mitigating uncharacteristic ﬁre
+behavior (Martinson and Omi, 2013).
+Tree mortality in thin/burn and burn treatments between 2009
+and 2013 was presumably due to delayed treatment effects such as
+cambial girdling and/or ﬁne root death from ﬁre, compounded by
+long-term drought. Over the study period, precipitation was 70%
+of the long-term average. The majority of tree mortality was
+observed in smaller trees and less ﬁre-tolerant species, such as
+white ﬁr, Douglas-ﬁr, and aspen (51%). Increased aspen mortality
+in the southern Rockies is a concern where lack of high-severity
+ﬁre is thought to be contributing to a long-term decline (Bartos
+and Campbell, 1998), and recent episodes of landscape-scale mor-
+tality appear to be closely related to extreme drought conditions
+(Rehfeldt et al., 2009; Worrall et al., 2013). At our study site, mean
+basal area decline in aspen was 37% from 2002 to 2012. Mortality
+of aspen >20 cm during this period averaged 6.6, 4.1, 8.1 trees ha1,
+respectively in thin/burn, burn and control treatments. The per-
+centage of large aspen mortality was similar to the total aspen
+mortality among treatments, ranging from 52% to 54%.
+Large, old trees are often a conservation priority for restoration
+projects, because they provided numerous ecosystem services, take
+centuries to regrow and are instrumental to forest ecosystem resi-
+lience (Franklin et al., 2008; Abella et al., 2007). Prescribed ﬁre
+around large trees has been shown to lead to cambial girdling
+due to decades of fuel accumulation (Sackett et al., 1996).
+Throughout the duration of the experiment (2002–2014), a total
+of 16% of the large ponderosa pine trees died in the thin/burn treat-
+ment compared to 6% in the burn treatment. Roccaforte et al.
+(2015) reported 25% presettlement pine mortality in thin/burn
+treatments and 31% mortality in burn-only treatments, whereas
+Fulé and Laughlin (2007) reported twice the mortality we found
+following similar restoration treatment on the south rim of the
+Grand Canyon. Both studies were conducted at drier ponderosa
+pine sites where fuel loads had been removed from the base of
+large trees. In our study, forest ﬂoor fuels were not raked away
+from the base of larger ponderosa pine trees, yet mortality
+remained low. Given these mortality rates, large ponderosa pine
+trees remained within the reference conditions of a site-speciﬁc
+diameter distribution (Fulé et al., 2009).
+Changes in regeneration ﬁve years after restoration treatments
+were largely due to increases in sprouting species. Total aspen
+regeneration densities (sum of seedlings and saplings) increased
+by 119% and 31% in the thin/burn and burn treatments, respec-
+tively,
+and
+decreases
+were
+observed
+in
+the
+control
+units.
+Although differences in total aspen regeneration were not signiﬁ-
+cant among treatments, there were three times more aspen stems
+in the thin/burn treatment (averaging 3024 stems ha1) as
+Fig. 2. Simulated changes in total basal area (m2 ha1) by RCP (Representative Concentration Pathways) climate scenario (4.5, 6.0, 8.5 and No Climate) and the natural range
+of variability (gray band) for our Pagosa study area (10–13 m2 ha1; Fulé et al., 2009) for the three treatments implemented in 2009 (thin/burn, burn, and control).
+M.T. Stoddard et al. / Forest Ecology and Management xxx (2015) xxx–xxx
+5
+Please cite this article in press as: Stoddard, M.T., et al. Five-year post-restoration conditions and simulated climate-change trajectories in a warm/dry
+mixed-conifer forest, southwestern Colorado, USA. Forest Ecol. Manage. (2015), http://dx.doi.org/10.1016/j.foreco.2015.07.007
+
+Fig. 3. Simulated changes in species composition for the RCP (Representative Concentration Pathways) 6.0 climate scenario. Species in each stacked area are listed in legend.
+Additional species present but at densities too low to note are: PICO, JUCO, and ABLA.
+2003 
+2013 
+Control 
+Burn 
+Thin/burn 
+A 
+C 
+E 
+B
+D
+F
+Fig. 4. Repeat photos taken from alternative restoration treatments before treatment (2003) and 5 years after treatment (2013).
+6
+M.T. Stoddard et al. / Forest Ecology and Management xxx (2015) xxx–xxx
+Please cite this article in press as: Stoddard, M.T., et al. Five-year post-restoration conditions and simulated climate-change trajectories in a warm/dry
+mixed-conifer forest, southwestern Colorado, USA. Forest Ecol. Manage. (2015), http://dx.doi.org/10.1016/j.foreco.2015.07.007
+
+compared to burn and control treatments. This response suggested
+a persistent aspen community where mortality is counterbalanced
+by recruitment. We surmise that overstory disturbance associated
+with restoration treatments stimulated aspen regeneration despite
+droughty conditions.
+Gambel oak also proliferated in the understory of the thin/burn
+treatment, and appeared to be the main driver of differences
+among treatments in total shrub densities (Fig. 4). Although differ-
+ences in oak densities among treatments were mainly seen in the
+ﬁrst year post-treatment, oak densities continued to increase ﬁve
+years following treatments. In 2013, oak densities were ﬁve, three,
+and three times greater, respectively in the thin/burn, burn and
+control treatments compared to initial post-treatment densities.
+The proliﬁc response of Gambel oak following thinning and burn-
+ing is well documented in southwestern Colorado (Brown, 1958;
+Harrington, 1985). A few studies in frequent-ﬁre ecosystems sug-
+gest a high severity ﬁre-catalyst is needed for resprouting species
+to respond vigorously (Shive et al., 2013; Cocking et al., 2014).
+Our thin/burn treatment was intended to be low severity, but in
+many areas moderate to high ﬁre severity was observed and
+resulted in a high density of oak sprouts. The burn treatment,
+which was low intensity and patchy, exhibited minimal increases
+in oak sprouts.
+Proliﬁc shrub resprouting after disturbance often leads to con-
+cerns over tree regeneration failure and potential for forest type
+conversion (Savage and Mast, 2005; Haire and McGarigal, 2010).
+One year following the thin/burn treatment, there was a vigorous
+shrub response and no conifer regeneration. By the ﬁfth growing
+season after treatment, ponderosa pine densities in thin/burn
+treatment were 12.5 seedlings and 5.0 sapling ha1. Mast et al.
+(1999) and Bailey and Covington (2002) suggest that pine estab-
+lishment rates between 0.4–3.6 and 3.6–17 trees ha1 decade1
+were sufﬁcient to maintain ponderosa pine ecosystems within
+NRV of which our observed rates of pine regeneration fell within.
+4.2. Alternative climate change scenarios and future forest
+characteristics
+All climate simulations, regardless of treatment, led to large
+decreases in forest densities by the mid-century. However, simu-
+lated changes for the thin/burn were less and future BA and TPH
+were closer to NRV (9.9–13.3 m2 ha1, 127.1–146.7 tree ha1,
+Fulé et al., 2009) in the thin/burn compared to burn and control
+treatments. Limitations associated with the use of climate change
+scenarios when modeling future forest structures are outlined in
+detail by Shive et al. (2014). The purpose of our simulations was
+not to exactly predict future forest conditions but rather to com-
+pare
+differences
+among
+restoration
+treatments
+in
+terms
+of
+long-term resilience to possible climate scenarios. The effects of
+increasing climate change on forest structure found in our analysis
+were consistent with those reported by Fulé et al. (2004),
+Crookston et al. (2010), Azpeleta Tarancón et al. (2014), Bagdon
+and Huang (2014) and Shive et al. (2014). However, in several of
+these studies forest treatments that were within NRV conditions
+did have persisting effects over the next several of decades.
+NRV represent a range of historical variability and evolutionary
+adaptations over thousands of years, and are often used as a
+management guide for developing ecological restoration and fuel
+reduction prescriptions (Allen et al., 2002; Shive et al., 2014) as a
+desired condition to ensure ecosystem resiliency (sensu Holling,
+1973). Thus, it also seems appropriate to compare forest structure
+projected under differing climate scenarios to NRV. For example,
+no treatment-climate scenario in our study resulted in BA
+values between the 25th and 75th percentiles of NRV for
+southwestern-mixed conifer forests (9–15 m2 ha1; as summa-
+rized by Stoddard (2011). Simulations for burn and control
+treatments had basal areas well below NRV, and approached sparse
+conditions (3–7 m2 ha1). Only in the thin/burn scenarios (regard-
+less of climate scenario) were values close to NRV (RCP 4.5 and 6.0:
+7.0 m2 ha1, RCP 8.5: 4.5 m2 ha1). Similar to the ﬁndings reported
+by Azpeleta Tarancón et al. (2014), our results suggest that forest
+conditions may undergo changes in species composition under
+future climate change, becoming dominated by shrubs and sprout-
+ing species (aspen and oak), with much lower tree densities and
+increased mortality. Particularly noteworthy was the detail that
+only the thin/burn treatment scenario resulted in ponderosa pine
+persisting as a major component of density.
+Other studies utilizing Climate-FVS to examine future scenarios
+indicate that climate is expected to alter species viabilities, mortal-
+ity may increase, and a gradual shift in species composition and
+vegetation types is expected across landscapes (Crookston et al.,
+2010; McDowell, 2011). Azpeleta Tarancón et al. (2014) used
+Climate-FVS to examine post-wildﬁre forest trajectories under
+alternative
+climate
+and
+management
+scenarios
+in
+northern
+Arizona and concluded that severe climate change may lead to
+non-forest conditions as early as the year 2100. Similar to our
+ﬁndings Azpeleta Tarancón et al. (2014) suggest that treatments
+targeting lower tree densities in dry forests are well suited to
+mitigate forest conditions contributing to uncharacteristic distur-
+bances and potential loss in forest cover under future climate
+scenarios.
+Four additional studies (Buma and Wessman (2013) in southern
+Colorado; Bagdon and Huang (2014) and Shive et al. (2014) in
+northern Arizona, and Hurteau et al. (2014) in the Tahoe Basin of
+California) concluded that future climate is expected to exert a
+strong inﬂuence on vegetation. Generally, the four studies’ man-
+agement scenarios (including no-action) impacted the effects of
+climate change little and in all studies forest landscapes transi-
+tioned to non-forest or extremely open forest condition by the
+end of the 21st century. However, Hurteau et al. (2014) reported
+that projections of carbon stocks varied signiﬁcantly as a function
+of thinning treatment intensity for differing GCM and emission
+scenarios.
+5. Conclusions
+Considering global trends of increased numbers of large,
+high-severity ﬁres, and the documented increases in tree densities
+that have occurred in warm/dry mixed-conifer forests as a result of
+decades of ﬁre exclusion, there is an urgent need for large-scale
+implementation of ecological restoration treatments in these
+ecosystems (Williams et al., 2012; Liu et al., 2014). Compounding
+the urgency of these needs is the prospect of increased drought,
+warmer temperatures, and more extreme weather events possibly
+resulting in an increased probability of landscape-scale forest
+dieback. Results from previous studies suggest restoration treat-
+ments can increase forest resiliency, improve drought tolerance,
+and improve ecosystem function. Our results, coupled with
+climate-sensitive simulations of future forest conditions further
+justify the use of restoration treatments for enhancing ecosystem
+resilience.
+Furthermore, our results suggest mixed-conifer restoration pre-
+scriptions should include both thinning and burning (as opposed to
+only burning) to increase ecosystem resiliency and hedge against
+forest cover loss associated with climate change. Uncertainties of
+how management actions and climate change interact and require
+managers to adopt adaptive approaches. Long-term monitoring
+studies should provide rigorous information to help managers
+maintain forest integrity, conserve resource values and allow man-
+agers to make informed decisions regarding the appropriateness
+for
+treatments
+targeting
+forest
+restoration
+and
+ecosystem
+resiliency.
+M.T. Stoddard et al. / Forest Ecology and Management xxx (2015) xxx–xxx
+7
+Please cite this article in press as: Stoddard, M.T., et al. Five-year post-restoration conditions and simulated climate-change trajectories in a warm/dry
+mixed-conifer forest, southwestern Colorado, USA. Forest Ecol. Manage. (2015), http://dx.doi.org/10.1016/j.foreco.2015.07.007
+
+Acknowledgements
+This research was funded by a grant from the USDA Forest
+Service. We would like to thank the staff and students at the
+Ecological
+Restoration
+Institute
+for
+ﬁeld
+and
+the
+San
+Juan
+National Forests staff and logistical support. The authors thank
+Matthew Hurteau, David Huffman and two anonymous reviewers
+for reviews and suggested improvements to the manuscript.
+Northern Arizona University is an equal opportunity employer.
+References
+Abella, S.R., Covington, W.W., Fulé, P.Z., Lentile, L.B., Sánchez Meador, A.J., Morgan,
+P., 2007. Past, present, and future old growth in frequent-ﬁre conifer forests of
+the western United States. Ecol. Soc. 12 (2), 16.
+Allen, C.D., Savage, M., Falk, D., Suckling, K.F., Swetnam, T.W., Schulke, T., Stacey, P.,
+Morgan, B.P., Hoffman, M., Klingel, J.T., 2002. Ecological restoration of
+southwestern ponderosa pine ecosystems: a broad perspective. Ecol. Appl. 12,
+1418–1433.
+Allen, C.D., Macalady, A.K., Chenchouni, H., Bachelet, D., McDowell, N., Vennetier,
+M., Kitzberger, T., Rigling, A., Breshears, D.D., Hogg, E.H., Gonzalez, P., Fensham,
+R., Zhang, Z., Castro, J., Demidova, N., Lim, J.-H., Allard, G., Running, S.W.,
+Semerci, A., Cobb, N., 2010. A global overview of drought and heat-induced tree
+mortality reveals emerging climate change risks for forests. Forest Ecol.
+Manage. 259, 660–684.
+Azpeleta Tarancón, A., Fulé, P.Z., Shive, K.L., Sieg, C.H., Sánchez Meador, A., Strom, B.,
+2014. Simulating post-wildﬁre forest trajectories under alternative climate and
+management scenarios. Ecol. Appl. http://dx.doi.org/10.1890/13-1787.1.
+Bagdon, B., Huang, C.-H., 2014. Carbon stocks and climate change: management
+implications in Northern Arizona ponderosa pine forests. Forests 5, 620–642.
+Bailey, J.D., Covington, W.W., 2002. Evaluating ponderosa pine regeneration rates
+following ecological restoration treatments in northern Arizona, USA. Forest
+Ecol. Manage. 155, 271–278.
+Bartos, D.L., Campbell Jr., R.B., 1998. Decline of quaking aspen in the Interior West—
+examples from Utah. Rangelands 20 (1), 17–24.
+Breshears, D.D., 2005. Regional vegetation die-off in response to global-change-type
+drought. Proc. Natl. Acad. Sci. USA 102, 15144–15148.
+Brown, H.E., 1958. Gambel oak in west-central Colorado. Ecology 39 (2), 317–327.
+Brusca, R.C., Wiens, J.F., Meyer, W.M., Edle, J., Franklin, K., Overpeck, J.T., Moore, W.,
+2013.
+Dramatic
+response
+to
+climate
+change
+in
+the
+Southwest:
+Robert
+Whittaker’s 1963 Arizona mountain plant transect revisited. Ecol. Evol. 3,
+3307–3319.
+Buma, B., Wessman, C.A., 2013. Forest resilience, climate change, and opportunities
+for adaptation: a speciﬁc case of a general problem. Forest Ecol. Manage. 306,
+216–225.
+Cochrane, M.A., Moran, C.J., Wimberly, M.C., Baer, A.D., Finney, M.A., Beckendorf,
+K.L., Eidenshink, J., Zhu, Z., 2012. Estimation of wildﬁre size and risk changes
+due to fuels treatments. Int. J. Wildland Fire 21, 357–367.
+Cocking, M.I., Varner, J.M., Knapp, E.E., 2014. Long-term effects of ﬁre severity on
+oak-conifer dynamics in the southern cascades. Ecol. Appl. 24 (1), 94–107.
+Covington, W.W., Moore, M.M., 1994. Southwestern ponderosa pine forest structure
+– changes since Euro-American settlement. J. Forestry 92 (1), 39–47.
+Covington, W.W., 2000. Helping western forests heal: the prognosis is poor for US
+forest ecosystems. Nature 408, 135–136.
+Crookston, N.L., Rehfeldt, G.E., Dixon, G.E., Weiskittel, A.R., 2010. Addressing climate
+change in the forest vegetation simulator to assess impacts on landscape forest
+dynamics. Forest Ecol. Manage. 260, 1198–1211.
+Crookston, N.L., 2013. Climate-FVS Version 2: Content, User’s Guide, Applications,
+and
+Behavior.
+(Review
+Draft)
+<http://www.fs.fed.us/fmsc/ftp/fvs/docs/gtr/
+ClimateFVS_ UsersGuide.pdf> (Accessed 10.03.14).
+Dixon, G.E., 2013. Essential FVS: A User’s Guide to the Forest Vegetation Simulator;
+Internal Report, comp. Department of Agriculture, Forest Service, Forest
+Management Service Center: Fort Collins, CO, USA, pp. 226 <http://www.fs.
+fed.us/fmsc/fvs/documents/userguides.shtml> (Accessed 10.03.14).
+Evans, A.M., Everett, R.G., Stephens, S.L., Youtz, J.A., 2011. Comprehensive Fuels
+Treatment Guide for Mixed-conifer Forests: California, Central and Southern
+Rockies, and the Southwest. Forest Guild and USDA Forest Service, Santa Fe,
+New Mexico.
+Franklin, J.F., Hemstrom, M.A., Van Pelt, R., Buchanan, J.B., 2008. The case for active
+management of dry forest types in Eastern Washington: perpetuating and
+creating old forest structures and functions. Washington State Department of
+Natural
+Resources
+<http://www.dnr.wa.gov/Publications/lm_ess_eog_mgmt.
+pdf> (Accessed 2/2014).
+Fulé, P.Z., Crouse, J.E., Cocke, A.E., Moore, M.M., Covington, W.W., 2004. Changes in
+canopy fuels and potential ﬁre behavior 1880–2040: grand Canyon, Arizona.
+Ecol. Model. 175, 231–248.
+Fulé, P.Z., Laughlin, D.C., 2007. Wildland ﬁre effects on forest structure over an
+altitudinal gradient, Grand Canyon National Park, USA. J. Appl. Ecol. 44, 136–
+146.
+Fulé, P.Z., Korb, J.E., Wu, R., 2009. Changes in forest structure of a warm/dry mixed-
+conifer forest, southwestern Colorado USA. Forest Ecol. Manage. 258, 1200–
+1210.
+Fulé, P.Z., Crouse, J.E., Roccaforte, J.P., Kalies, E.L., 2012. Do thinning and/or burning
+treatments in western USA ponderosa or Jeffrey pine dominated forests help
+restore natural ﬁre behavior? Forest Ecol. Manage. 269, 68–81.
+Haire, S.L., McGarigal, K., 2010. Effects of landscape patterns of ﬁre severity on
+regenerating ponderosa pine forests (Pinus ponderosa) in New Mexico and
+Arizona, USA. Landscape Ecol. 25, 1055–1069.
+Harrington, M.G., 1985. The effects of spring, summer, and fall burning on Gambel
+oak in a Southwestern ponderosa pine stand. Forest Sci. 31 (1), 156–163.
+Harrison, S.P., Prentice, C.I., 2003. Climate and CO2 controls on global vegetation
+distribution at the last glacial maximum: analysis based on palaeovegetation
+data, biome modeling and palaeoclimate simulations. Global Change Biol. 9,
+983–1004.
+Holling, C.S., 1973. Resilience and stability of ecological systems. Annu. Rev. Ecol.
+Syst. 4, 1–23.
+Hurteau, M.D., Robards, T.A., Stevens, D., Saah, D., North, M., Koch, G.W., 2014.
+Modeling
+climate
+and
+fuel
+reduction
+impacts
+on
+mixed-conifer
+forest
+carbon stocks in the Sierra Nevada, California. Forest Ecol. Manage. 315,
+30–42.
+IPCC (Intergovernmental Panel on Climate Change). 2013. Climate change 2013: the
+physical science basis. In: Stocker, T.F., Qin, D., Plattner, G.-K., Tignor, M., Allen,
+S.K., Boschung, J., Nauels, A., Xia, Y., Bex, V., Midgley, P.M. (Eds.), Contribution of
+Working Group I to the Fifth Assessment Report of the Intergovernmental Panel
+on Climate Change. Cambridge, United Kingdom and New York, NY, USA,
+Cambridge University Press, 1535 pp.
+Kerhoulas, L.P., Kolb, T.E., Hurteau, M.D., Koch, G.W., 2013. Managing for climate
+change adaptation in forests: a case study from the U.S. Southwest. J. Appl. Ecol.
+50, 1311–1320.
+Kolb, T., Holmberg, K., Wagner, M., Stone, J., 1998. Regulation of ponderosa pine
+foliar physiology and insect resistance mechanisms by basal area treatments.
+Tree Physiol. 18 (6), 375–381.
+Korb, J.E., Fulé, P.Z., Stoddard, M.T., 2012. Forest restoration in a surface ﬁre-
+dependent ecosystem: an example from a mixed-conifer forest, southwestern
+Colorado, USA. Forest Ecol. Manage. 269, 10–11.
+Korb, J.E., Fulé, P.Z., Wu, R., 2013. Variability of warm/dry mixed-conifer forests in
+southwestern Colorado, USA: implications for ecological restoration. Forest
+Ecol. Manage. 304, 182–191.
+Liu, Y., Goodrick, S., Heilman, W., 2014. Wildland ﬁre emissions, carbon, and
+climate: wildﬁre-climate interactions. Forest Ecol. Manage. 317, 80–96.
+MacDonald, G.M., 2010. Water, climate change, and sustainability in the southwest.
+Proc. Natl. Acad. Sci. USA 107, 21256–21262.
+Martinson, E.J., Omi, P.N., 2013. Fuel treatments and ﬁre severity: a meta-analysis.
+RMRS-RP-103WWW. Fort Collins, CO: U.S. Department of Agriculture, Forest
+Service, Rocky Mountain Research Station, pp. 35.
+Mast, J.N., Fulé, P.Z., Moore, M.M., Covington, W.W., Waltz, A.E.M., 1999. Restoration
+of presettlement age structure of an Arizona ponderosa pine forest. Ecol. Appl.
+9, 228–239.
+McDowell, N.G., 2011. Mechanisms linking drought, hydraulics, carbon metabolism,
+and vegetation mortality. Plant Physiol. 155, 1051–1059.
+North, M., Innes, J., Zald, H., 2007. Comparison of thinning and prescribed ﬁre
+restoration treatments to Sierran mixed-conifer forests of the western Sierra
+Nevada, California, USA. Can. J. Forest Restoration 37, 1681–1691.
+Petrova, M., Bakker, J.D., Turnblom, E.C., 2014. Ten-year periodic diameter model for
+uneven-aged ponderosa pine stands in the Southwest reduces long-term error
+propagation. Forest Sci. 60, 1148–1155.
+Pollet, J., Omi, P.N., 2002. Effect of thinning and prescribed burning on crown ﬁre
+severity in ponderosa pine forests. Int. J. Wildland Fire 11, 1–10.
+Rehfeldt, G.E., Ferguson, D.E., Crookston, N.L., 2009. Aspen, climate, and sudden
+decline in western USA. Forest Ecol. Manage. 258, 2353–2364.
+Roccaforte, J.P., Huffman, D.W., Fulé, P.Z., Covington, W.W., Chancellor, W.W.,
+Stoddard, M.T., Crouse, J.E., 2015. Forest structure and fuels dynamics following
+ponderosa pine restoration treatments, White Mountains, Arizona, USA. Forest
+Ecol. Manage. 337, 174–185.
+Romme, W.H., Floyd, M.L., Hanna, D., 2009. Historical Range of Variability and
+Current Landscape Condition Analysis: South Central Highlands Section,
+Southwestern
+Colorado
+&
+Northwestern
+New
+Mexico.
+Colorado
+Forest
+Restoration Institute, Fort Collins, CO, USA.
+Sackett, S.S., Haase, S.M., Harrington, M.G., 1996. Lessons learned from ﬁre use for
+restoring southwestern ponderosa pine ecosystems. USDA For. Serv. Gen. Tech.
+Re RM-GTR-278. Rocky Mountain Forest and Range Experiment Station, Fort
+Collins, CO, pp. 53–60.
+SAS institute, Inc., 2004. JMP Version Pro 11.0. SAS Institute Inc, Cary, N.C.
+Savage, M., Mast, J.N., 2005. How resilient are south-western ponderosa pine forests
+after crownﬁre? Can. J. Forest Res. 35, 967–977.
+Seager, R., Ting, M., Held, I., Kushnir, Y., Lu, J., Vecchi, G., Huang, H.-P., Harnik, N.,
+Leetmaa, A., Lau, N.-C., Li, C., Velez, J., Naik, N., 2007. Model projections of an
+imminent transition to a more arid climate in southwestern North America.
+Science 316, 1181–1184.
+Seager, R., Vecchi, G.A., 2010. Greenhouse warming and the 21st century
+hydroclimate of southwestern North America. Proc. Natl. Acad. Sci. 107,
+21277–21282.
+Shive, K.L., Fulé, P.Z., Sieg, C.H., Strom, B.A., Hunter, M.E., 2014. Managing burned
+landscapes: evaluating future management strategies for resilient forests under
+a warming climate. Int. J. Wildland Fire 23 (7), 915–928.
+Shive, K.L., Sieg, C.H., Fulé, P.Z., 2013. Pre-wildﬁre management treatments interact
+with ﬁre severity to have lasting effects on post-wildﬁre vegetation responses.
+Forest Ecol. Manage. 297, 75–83.
+8
+M.T. Stoddard et al. / Forest Ecology and Management xxx (2015) xxx–xxx
+Please cite this article in press as: Stoddard, M.T., et al. Five-year post-restoration conditions and simulated climate-change trajectories in a warm/dry
+mixed-conifer forest, southwestern Colorado, USA. Forest Ecol. Manage. (2015), http://dx.doi.org/10.1016/j.foreco.2015.07.007
+
+Staver, A.C., Archibalkd, S., Levin, S.A., 2011. The global extent and determinants of
+savanna and forest as alternative biome states. Science 334, 230–232.
+Stephens, S.L., Agee, J.K., Fulé, P.Z., North, M.P., Romme, W.H., Swetnam, T.W.,
+Turner, M.G., 2013. Managing Forests and Fire in Changing Climates. Science 43,
+41–42.
+Stoddard, M.S., 2011. Compilation of historical forest structural characteristics
+across the Colorado Plateau. Ecological Restoration Institute Fact Sheet <www.
+eri.nau.edu>.
+Thomas, J.W., Anderson, R.G., Maser, C., Bull, E.L., 1979. Snags. Wildlife Habitats in
+Managed Forests—The Blue Mountains of Oregon and Washington, 553. USDA
+Agricultural Handbook, Washington, D.C, pp. 60–77.
+USDA Forest Service, 2004. Lower Middle Mountain Research Project Environmental
+Assessment. San Juan National Forest, Durango, CO
+Van Vuuren, D.P., Edmonds, J., Kainuma, M., Riahi, K., Thomson, A., Hibbard, K.,
+Hurtt,
+G.C.,
+Kram,
+T.,
+Krey,
+V.,
+Lamarque,
+J.,
+2011.
+The
+representative
+concentration pathways: an overview. Climate Change 109, 5–31.
+Williams, A.P., Allen, C.D., Macalady, A.K., Grifﬁn, D., Woodhouse, C.A., Meko, D.M.,
+Swetnam, T.W., Rauscher, S.A., Seager, R., Grissino-Mayer, H.D., Dean, J.S., Cook,
+E.R., Gangodagamage, C., Cai, M., McDowell, N.G., 2012. Temperature as a potent
+driver of regional forest drought stress and tree mortality. Nat. Climate Change
+3, 292–297.
+Waltz, A.E.M., Stoddard, M.T., Kalies, E.L., Springer, J.D., Huffman, D.W., Sánchez
+Meador, A.J., 2014. Effectiveness of fuel reduction treatments: assessing metrics
+of forest resiliency and wildﬁre severity after the Wallow Fire, AZ. Forest Ecol.
+Manage. 334, 43–52.
+Western Regional Climate Center, 2014. Western U.S. Climate Historical Summaries
+Available at <http://www.wrcc.dri.edu/climsum.html> (16.03.14 on-line).
+Worrall, J.J., Rehfeldt, G.E., Hamann, A., Hogg, E.H., Michaelian, M., 2013. Recent
+declines of Populus tremuloides in North America linked to climate. Forest Ecol.
+Manage. 299, 35–51.
+Youngblood, A., Metlen, K.L., Coe, K., 2006. Changes in stand structure and
+composition after restoration treatments in low elevation dry forests of
+northeastern Oregon. Forest Ecol. Manage. 234, 143–163.
+M.T. Stoddard et al. / Forest Ecology and Management xxx (2015) xxx–xxx
+9
+Please cite this article in press as: Stoddard, M.T., et al. Five-year post-restoration conditions and simulated climate-change trajectories in a warm/dry
+mixed-conifer forest, southwestern Colorado, USA. Forest Ecol. Manage. (2015), http://dx.doi.org/10.1016/j.foreco.2015.07.007

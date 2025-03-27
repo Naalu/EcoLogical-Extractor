@@ -1,0 +1,1081 @@
+Contents lists available at ScienceDirect
+Forest Ecology and Management
+journal homepage: www.elsevier.com/locate/foreco
+Restoration beneﬁts of re-entry with resource objective wildﬁre on a
+ponderosa pine landscape in northern Arizona, USA
+David W. Huﬀmana,⁎, Joseph E. Crousea, Andrew J. Sánchez Meadora,b, Judith D. Springera,
+Michael T. Stoddarda
+a Ecological Restoration Institute, Northern Arizona University, Flagstaﬀ, AZ 86011-5017, United States
+b School of Forestry, Northern Arizona University, Flagstaﬀ, AZ 86011-5018, United States
+A R T I C L E I N F O
+Keywords:
+Ecological restoration
+Repeated wildﬁre entry
+Hazardous fuels reduction
+Forest structure
+Fire management
+A B S T R A C T
+Prescriptions for ecological restoration of ponderosa pine (Pinus ponderosa) forests of the American Southwest
+are generally aimed at approximating pre-ﬁre-exclusion conditions by reducing tree densities and hazardous
+fuels, and reintroducing surface ﬁre. Increasingly, land managers are utilizing natural ﬁre ignitions to achieve
+restoration and hazardous fuels reduction objectives, but to minimize risk of escape and reduce potential for
+undesirable outcomes ﬁres are commonly managed under weather and fuel moisture conditions that produce
+lower burn severities. Few studies have examined eﬀectiveness of incremental approaches that attempt to restore
+these ecosystems by allowing repeated, low-severity wildﬁres to reburn sites. We analyzed a 12,035-ha land-
+scape on the Kaibab National Forest in northern Arizona and compared forest structure, hazardous fuel loading,
+and potential ﬁre behavior in areas that had burned once (single ﬁre) to others that had burned twice (re-entry)
+over the preceding 13 years. Forest structure and hazardous fuels characteristics in re-entry areas tended to be
+closer to historical ranges of variability (HRV) than in single ﬁre areas; however, we found few statistically
+signiﬁcant diﬀerences and tree densities in both single and re-entry ﬁres remained higher than HRV by up to 3.5-
+fold. Similarly, potential ﬁre behavior variables were statistically similar between single and re-entry ﬁre areas.
+Analysis of burn severity eﬀects suggested that trends toward reduced tree density and canopy fuels in re-entry
+areas were consistently driven by “cleanup eﬀects”, whereby re-entry ﬁres produced low-severity eﬀects in areas
+showing unburned/low severity after ﬁrst-entry ﬁres. Evidence of “additive eﬀects”, whereby restoration and
+hazardous fuels reduction objectives were being met incrementally by repeated low-severity ﬁre, was diﬃcult to
+detect on the re-entry ﬁre landscape. Thus, with similar management, several additional ﬁre entries will be
+required to restore tree densities to within the historical range. Further, our ﬁndings suggest that managing
+resource objective wildﬁres to allow for more moderate-severity burning, even with a single entry, may be more
+eﬀective for restoring these forests than repeated low-severity entries.
+1. Introduction
+It is widely acknowledged that ecological restoration is urgently
+needed in ponderosa pine (Pinus ponderosa) forests of the American
+Southwest due to historical ﬁre exclusion and subsequent, undesirable
+changes in forest structure and function (Covington et al., 1997; Moore
+et al., 1999; Allen et al., 2002; Roccaforte et al., 2015). For example,
+the largest collaborative forest restoration project in the US, the Four
+Forest Restoration Initiative, has a goal of implementing restoration
+treatments on just under 1 M ha of U.S. Forest Service lands in northern
+Arizona (https://www.fs.usda.gov/4fri). In these forests, restoration
+prescriptions are generally aimed at reducing tree densities to break up
+and reduce canopy fuel loading, reducing forest ﬂoor fuels, and
+reintroducing surface ﬁre as a critical ecosystem process (Agee and
+Skinner, 2005). Although thinning can be prescribed through all age
+and size classes, it is typically focused on removing smaller trees that
+can act as ladder fuels and initiate crown ﬁres. Both site-speciﬁc re-
+ference conditions, that describe historical characteristics of local forest
+structure and function, and historical ranges of variability (HRV), that
+deﬁne ecosystem parameters across broader geographic areas, are used
+to guide development of restoration prescriptions and evaluate treat-
+ment outcomes (Landres et al., 1999; Moore et al., 1999). Mechanized
+thinning and prescribed burning treatments can be implemented pre-
+cisely, and thus these methods are highly eﬀective for meeting pre-
+scription objectives (e.g., Roccaforte et al., 2010). Mechanized treat-
+ments, however, are not appropriate for all lands and can be costly to
+http://dx.doi.org/10.1016/j.foreco.2017.10.032
+Received 18 July 2017; Received in revised form 9 October 2017; Accepted 16 October 2017
+⁎ Corresponding author.
+E-mail address: David.Huﬀman@nau.edu (D.W. Huﬀman).
+Forest Ecology and Management 408 (2018) 16–24
+0378-1127/ © 2017 Elsevier B.V. All rights reserved.
+MARK
+
+implement. Recently, there has been increasing interest in managing
+wildﬁres that occur as a result of natural lightning ignitions to ac-
+complish restoration and hazardous fuels reduction goals, but few
+studies have evaluated eﬀectiveness of these “resource objective”
+wildﬁres for restoring ponderosa pine ecosystems. In a retrospective
+analysis of forests in northern Arizona, Huﬀman et al. (2017) found that
+resource objective wildﬁres had been eﬀective in restoring historical
+ranges for 17–67% of the structural and hazardous fuels attributes ex-
+amined, depending on burn severity.
+Natural ﬁre ignitions managed to improve ecological conditions and
+accomplish natural resource objectives on non-wilderness public lands
+are typically allowed to burn when weather and fuel moisture condi-
+tions are mild (e.g., low wind speeds and air temperatures, and high
+relative humidities). Such burning conditions are sought by managers
+to avoid ﬁre escape and undesirable eﬀects, and to protect various
+values on the landscape. Fires burning under mild weather and fuels
+conditions are likely to be low in severity (i.e., low tree mortality) and
+produce minimal ﬁrst-order eﬀects on forest structure (Meyer, 2015;
+Huﬀman et al., 2017). In areas where burn severity is low, stand den-
+sities and fuel loadings may remain higher than desired and fail to meet
+ecological restoration goals (Hunter et al., 2011, Higgins et al., 2015).
+Large areas within such ﬁres can remain essentially untreated (Huﬀman
+et al., 2017). In contrast, notable reductions in stand density and fuel
+loading have been observed in areas of moderate-severity ﬁre (Hunter
+et al., 2011), and these may meet an increased number of restoration
+objectives (Huﬀman et al., 2017). Land managers may be more apt to
+allow ﬁres to burn under more active weather conditions and accept
+more substantial ﬁre eﬀects in remote areas where risk to human
+communities is lower (Fulé and Laughlin, 2007; Holden et al., 2007;
+Larson et al., 2013). On lands nearer human communities, it has been
+suggested that restoration objectives could be met incrementally by
+allowing repeated, low-severity ﬁres to reburn sites (Allen et al., 2002).
+However, several studies have shown only minimal eﬀects of repeated
+resource objective wildﬁres, and few have addressed whether repeated
+ﬁres actually meet restoration and hazardous fuels reduction goals (e.g.,
+Holden et al., 2007; Hunter et al., 2011; Parks et al., 2013; Higgins
+et al., 2015).
+In this study, we analyzed areas of a ponderosa pine landscape on
+the Kaibab National Forest in northern Arizona where resource objec-
+tive wildﬁres had been allowed to reburn sites over the preceding 13
+years. We established ﬁeld sampling plots to quantify forest structural
+characteristics and hazardous fuels amounts, and compared areas that
+had burned once (single ﬁres) to others that had burned twice (re-entry
+ﬁres). Our main research questions were the following: 1) Are there
+signiﬁcant diﬀerences between single and re-entry areas in terms of
+forest structure, fuels, and potential ﬁre behavior? 2) How severe have
+Fig. 1. Map of 12,035-ha resource objective
+wildﬁre landscape on the Tusayan Ranger
+District (lighter shading within Arizona out-
+line;
+Grand
+Canyon
+National
+Park
+also
+shown, in darker shading, for reference) of
+the
+Kaibab
+National
+Forest
+in
+northern
+Arizona. Shown are single ﬁre areas (poly-
+gons without hatching) and re-entry ﬁre
+areas (hatched polygons). Re-entry ﬁre areas
+in the legend are indicted by the name of the
+ﬁrst resource objective ﬁre followed by the
+re-entry ﬁre name (e.g., “Horse - Hammer”).
+D.W. Huﬀman et al.
+Forest Ecology and Management 408 (2018) 16–24
+17
+
+past resource objective wildﬁres been? 3) How does burn severity in-
+ﬂuence forest structure and fuels between single-entry ﬁres and reburn
+areas?
+2. Methods
+2.1. Study site
+To address our research questions, we downloaded ﬁre perimeters
+from the USDA Forest Service Region 3 ﬁre history database and used a
+geographic information system (GIS) to identify non-wilderness lands
+on the Coconino and Kaibab National Forests where wildﬁres managed
+for resource objectives in ponderosa pine ecosystems had overlapped.
+We limited our study to non-wilderness lands as there is increasing
+interest in utilizing wildﬁres, along with other more conventional
+treatments (e.g., mechanized tree thinning and prescribed ﬁre), to meet
+restoration objectives in these forests. Of the few sites that showed
+overlapping ﬁres, by far the largest and most complex was located on
+the Tusayan Ranger District of the Kaibab National Forest. The Tusayan
+site was 12,035 ha in extent and comprised of 10 resource objective
+wildﬁres. Eight unique areas (2,484 ha total) had experienced two ﬁres
+(hereafter “re-entry” areas), and four unique, areas (9,551 ha total) had
+been exposed to just one resource objective ﬁre (hereafter single ﬁre
+areas) (Fig. 1). Time between ﬁrst ﬁre and ﬁre re-entry ranged
+2–11 years. Three ﬁres, (Camp 36, Twenty-Two, and Scott) had areas
+that were not reburned but were also not included in ﬁeld plot sampling
+for single ﬁres due to limited area or discrepancies in spatial data
+(Table 1). Fires occurred between 2003 and 2015, mainly during the
+months of June, July, and August. Prior to this time, thinning treat-
+ments had been minimal and dense stand conditions reﬂected inter-
+ruption of historical surface ﬁre regimes and decades of ﬁre suppres-
+sion.
+Maximum
+temperatures
+ranged
+18–34 °C,
+average
+relative
+humidities ranged 14–95%, and average wind speeds were 2–11 k h−1
+on the days of ignition (Table 1). In general, average precipitation at the
+site is 348 mm y−1, which typically falls in a bimodal pattern as winter
+snow and mid-summer, monsoonal rains. Average maximum tempera-
+ture in July is 29.3 °C and average minimum temperature in January is
+−7.3 °C. Soils at the site are mainly Alﬁsols, Inceptosols, and Mollisols,
+derived from limestone and sandstone parent materials. Forest overs-
+tories were dominated by ponderosa pine. Also occurring, but less
+common, species were Gambel oak (Quercus gambelii Nutt.), pinyon
+pine (Pinus edulis Engelm.), Utah juniper (Juniperus osteosperma (Torr.)
+Little), and oneseed juniper (J. monosperma (Engelm.) Sarg.). Unders-
+tory vegetation in these forests is primarily herbaceous and comprised
+of perennial grasses such as squirreltail (Elymus elymoides (Raf.)
+Swezey), mountain muhly (Muhlenbergia montana (Nutt.) A.S. Hitchc.),
+muttongrass (Poa fendleriana (Steud.) Vasey), and blue gramma (Bou-
+teloua gracilis (Kunth) Lag. Ex Griﬃths); graminoids such as western
+sedge (Carex occidentalis Bailey); and forbs such as spreading ﬂeabane
+(Erigeron divergens Torr. & A. Gray) and silvery lupine (Lupinus argenteus
+Pursh). Shrubs that occur include snakeweed (Gutierrezia sarothrae
+(Pursh) Britt. & Rusby) and sagebrush (Artemisia tridentata Nutt., and A.
+nova A. Nels.).
+2.2. Burn severity classiﬁcation
+We used the diﬀerenced normalized burn ratio (dNBR) to classify
+burn severity within all ﬁres. For ﬁres ≥404 ha occurring before 2015
+(Table 1), we downloaded these classiﬁcations from the Monitoring
+Trends in Burn Severity (MTBS) database (www.mtbs.gov). For smaller
+ﬁres without available MTBS data, or for ﬁres where the MTBS data
+were incomplete (i.e., larger ﬁres occurring in 2015; Table 1), we cal-
+culated dNBR following MTBS methods using IDL/ENVI software
+(version 5.3; Exelis Visual Information Solutions, Boulder Colorado).
+The dNBR classiﬁcation method utilizes Landsat imagery (30-m re-
+solution) and calculates the diﬀerence between pre-ﬁre and post-ﬁre
+reﬂectance in spectral bands 4 and 7 (near-infrared and shortwave in-
+frared, respectively). Values are then partitioned into discrete classes
+based on apparent thresholds in the dataset as well as evaluation of pre-
+and post-ﬁre imagery, plot data when available, and analyst experience.
+Resulting classes represent a range of ﬁrst-order ﬁre eﬀects on vege-
+tation biomass (Eidenshink et al., 2007). Because there is typically a
+considerable amount of variation in dNBR values between diﬀerent
+ﬁres (Miller and Thode, 2007), we did not utilize the same dNBR
+threshold values for each ﬁre when developing our burn severity clas-
+siﬁcations. Rather, we adjusted class thresholds by examining National
+Agriculture Imagery Program (NAIP) and post-ﬁre Landsat images ac-
+quired the year following the individual ﬁres (sensu Kolden et al.,
+2015). For single ﬁres, we used the following classes: unburned/low
+(U/L); low (L), moderate (M), and high (H). For reburned areas, we
+used a 16-class scheme that was a factorial combination of four burn
+severity classes identiﬁed for the initial ﬁre (i.e., ﬁrst entry), and four
+burn severity classes for the re-entry ﬁre. For example, a U/L-U/L
+classiﬁcation indicated areas that were classiﬁed as unburned/low in
+both the ﬁrst and re-entry ﬁres. Our main purpose in utilizing burn
+severity classiﬁcations for the ﬁres was to understand the role of burn
+severity in aﬀecting changes in forest structure and fuels between
+single-entry and re-entry areas, and to stratify ﬁeld sampling (see Field
+sampling below).
+2.3. Field sampling
+In order to capture variability in forest conditions due to ﬁre be-
+havior, ﬁeld sampling was stratiﬁed by burn severity class within each
+wildﬁre. Using ArcGIS (version 10.2; Environmental Systems Research
+Institute, Redlands, California), we selected a minimum sampling unit
+size of 0.81 ha from digital burn severity maps. This size was to help
+assure that sample plots would fall within the selected burn severity
+Table 1
+Resource objective wildﬁres on the Kaibab National Forest, Arizona, and average weather conditions on the day of ignition (Date). Shown are names of wildﬁres as well as corresponding
+re-entry ﬁres. Bold text indicates ﬁres with areas not reburned that were sampled for comparison.*
+Fire name
+Date
+Maximum temperature (°C)
+Relative humidity (%)
+Wind speed (km h−1)
+Size (ha)
+Re-entry ﬁre(s)
+Re-entry size (ha)
+Horse
+26 July 2003
+29
+18
+5
+61
+Hammer
+61
+Antelope
+10 August 2003
+30
+19
+6
+99
+Mudersbach
+99
+Camp 36
+08 August 2004
+29
+17
+10
+1155
+Hammer
+995
+Mudersbach
+24 June 2005
+29
+52
+6
+3206
+Hammer
+91
+North
+26 June 2005
+27
+14
+10
+616
+Hammer
+616
+West
+08 June 2006
+25
+95
+3
+851
+Scott
+151
+Twenty-two
+06 May 2008
+21
+26
+11
+508
+Hammer, Jar+
+47, 424
+Scott
+07 October 2010
+18
+36
+10
+185
+Hammer
+29 July 2014
+26
+36
+2
+3590
+Jar
+01 July 2015
+34
+19
+8
+1765
+* Three ﬁres (Camp 36, Twenty-Two and Scott) had areas that were not reburned but were not included in ﬁeld plot sampling (see text).
++ Jar Fire reburn did not overlap with Hammer Fire reburn within the Twenty-Two Fire.
+D.W. Huﬀman et al.
+Forest Ecology and Management 408 (2018) 16–24
+18
+
+classes when using hand-held global positioning systems to navigate to
+plot locations in the ﬁeld. From 1 to 21 sample plot locations were
+randomly located within each wildﬁre × burn severity class combina-
+tion (6–40 plots per ﬁre), with sample plot number based on burn se-
+verity class area. Thus in 2016 (May-August), 265 ﬁeld sample plots
+were established across the 12 ﬁre areas (eight re-entry and four single
+ﬁres), and within these plots we measured forest structure and ha-
+zardous fuels characteristics. Sample plots were 0.04 ha in size (11.28-
+m radius). For all trees ≥1.37 m in height in each plot, we identiﬁed
+species and condition (live, standing dead snag, dead and down log, or
+cut stump). For live tees, we measured diameter at breast height (dbh;
+diameter at 1.37 m height), total tree height, and height to base of live
+crown. We also measured dbh and height of standing dead snags.
+Centered within these plots, we used smaller nested plots (100 m2) to
+tally shrubs and tree regeneration (< 1.37 m height), by species. To
+sample dead, woody surface fuels, we established one 15.2-m planar
+transect on each plot and tallied fuels by moisture-lag class according to
+methods described in Brown (1974).
+2.4. Fire modeling
+To evaluate eﬀects of single and re-entry ﬁres on potential ﬁre be-
+havior, we used FlamMap (Finney, 2006; Stratton, 2006) to simulate
+wildﬁre behavior on the study landscape. The Scott and Burgan Fire
+Behavior Fuel Model (Scott and Burgan, 2005) layer was acquired
+(LANDFIRE, 2010) and used as a starting point for the ﬁre behavior fuel
+model layer required by FlamMap. Field plot data were used as re-
+ference for editing the LANDFIRE layer to more accurately reﬂect actual
+fuels conditions in 2016. Forest structure and fuels (canopy bulk den-
+sity, canopy base height, canopy cover, tree height) means calculated
+from ﬁeld sample plots (see Analysis) were used in as inputs into the
+ArcGIS inverse distance weighted (IDW) interpolation function to
+create the raster layers that were then used to parameterize the model.
+The LANDIFRE fuel model layer was reclassiﬁed within burn severity
+class polygons as needed based on ﬁeld plot fuels data and observations
+as well as examination of aerial images (Reeves et al., 2006). Re-
+classiﬁed polygons were then mosaicked over the existing 2010
+LANDFIRE fuel model layer. Topographic layers (elevation, aspect,
+slope) were derived from 1/3 arc-second Digital Elevation Model data
+downloaded from the United States Geological Survey nationalmap.gov
+website.
+Daily June ﬁre weather data (temperature, relative humidity, wind,
+fuel moisture) for the period 1990–2016 were downloaded for the
+Tusayan AZ Remote Automated Weather Station (RAWS) and imported
+into FireFamilyPlus (version 4.1; Bradshaw and McCormick, 2000).
+June was chosen as it has historically been the month with the most
+extreme ﬁre weather for this region (Fulé et al., 2001). Fire weather
+values for average, 99th percentile and “extreme” weather conditions
+were calculated (Table 2). Extreme weather values were deﬁned as
+being the maximum or minumum recorded values for the time period.
+Maximum wind speeds are often lower than reality because RAWS wind
+speed values are averages from a single 10-min period for each day
+(Stratton, 2006). To more closely reﬂect actual maximum wind speeds,
+we used wind speed values presented by Crosby and Chandler (2004)
+where several hundred wind observations were used to develop a table
+that converts average wind speeds to probable highest momentary wind
+gust speed. Gridded wind ﬁles were generated using the WindNinja
+(Forthofer and Butler, 2013) option in FlamMap. Accuracy of ﬁre
+spread simulations has been shown to improve using gridded wind data
+(Forthofer et al., 2014). Foliar moisture content (FMC) percent of 100%
+was used for the average weather scenario, whereas 85% FMC was used
+for the 99th and extreme weather scenarios. The Scott and Reinhardt
+(2001) crown ﬁre calculation method was selected for all scenarios.
+2.5. Analysis
+We used paired t-tests to compare (alpha = 0.05) weighted means
+of tree density, basal area, canopy fuel load, canopy bulk density, ca-
+nopy base height and ﬁne fuel load between single- and re-entry ﬁre
+areas. Canopy bulk density and canopy fuel load were calculated using
+allometric equations relating dbh to component biomass (i.e., foliage
+and ﬁne branches) for individual tree species and followed methods
+outlined by Roccaforte et al. (2015). We deﬁned ﬁne fuel load as mass
+per unit area of dead woody surface fuels less than 7.6 cm in diameter.
+Fuel loading was calculated following methods described in Brown
+(1974). Means were estimated using averages for structure and fuels
+variables, weighted by burn severity class proportions (i.e., amount of
+ﬁre area within each burn severity class) within each unique single ﬁre
+or re-entry area. Because we stratiﬁed ﬁeld sampling to estimate con-
+ditions within each burn severity class, and land area within the ﬁres
+was not evenly distributed among severity classes, weighted averages
+were appropriate to estimate means for entire ﬁres. Weighted averages
+of forest structure and fuels variables calculated for the eight wildﬁre
+re-entry areas were paired with those from their respective single ﬁre
+areas in tests. For example, weighted averages calculated from sample
+plots in the Horse-Hammer re-entry ﬁre were paired with those from
+the single ﬁre portion of the Hammer Fire (Table 1). We were also able
+to add an additional pair as the Hammer Fire reburned an area of the
+Mudersbach Fire, and both had single ﬁre areas that could be used as
+contrasts to this re-entry event (Table 1). Thus nine, unique single ﬁre -
+re-entry matched pairs were used in the analysis. Matched pair diﬀer-
+ences were examined for normality using the Shapiro-Wilk test. When
+diﬀerences were not normally distributed, we used the Wilcoxon
+Signed-Rank, nonparametric test to analyze the set of single - re-entry
+ﬁre pairs.
+In addition to comparing single ﬁre and re-entry areas to one an-
+other, we also examined means for forest structure and fuels conditions
+with respect to published historical ranges of variation (HRV). These
+ranges are often used to guide development of ecological restoration
+prescriptions, and can be used as baselines for evaluating restoration
+treatment eﬀectiveness (Moore et al., 1999). To examine conditions
+within single and re-entry ﬁre areas with respect to HRV, we used
+historical ranges for southwestern ponderosa pine tree density, basal
+area, canopy fuel load, canopy bulk density, and canopy base height
+compiled from published literature and presented in Huﬀman et al.
+(2017). We also used paired t-tests and similar methods to compare
+potential ﬁre behavior outputs from FlamMap between single- and re-
+entry ﬁre areas. In these analyses, we used the nine unique ﬁre area
+pairs described above and compared mean proportion of ﬁre areas
+showing active crown ﬁre as well as mean ﬂame length, rate of spread,
+ﬁre line intensity, and heat per unit area based on pixel values given in
+Table 2
+Weather and fuel moisture conditions used in three FlamMap ﬁre modeling scenarios:
+average, 99th percentile, and “extreme”. Fire behavior under these conditions was
+evaluated for single and re-entry resource objective ﬁre areas on the Kaibab National
+Forest, Arizona.
+Weather scenario
+Variable
+Average
+99th percentile
+Extreme
+Maximum temperature (°C)
+28.3
+36.8
+36.7
+Minimum temperature (°C)
+6.7
+14.4
+28.3
+Relative humidity (%)
+12
+2
+2
+Average wind speed (km h−1)
+25.7
+48.3
+64.4
+1-h fuel moisture (%)
+3
+2
+2
+10-h fuel moisture (%)
+5
+2
+2
+100-h fuel moisture (%)
+7
+4
+3
+Live herbaceous fuel moisture (%)
+76
+32
+30
+Live woody fuel moisture (%)
+66
+60
+60
+Foliar moisture content (%)
+100
+85
+85
+D.W. Huﬀman et al.
+Forest Ecology and Management 408 (2018) 16–24
+19
+
+model output tables.
+To examine burn severity patterns within re-entry ﬁre areas, we
+calculated proportional changes in burn severity class from the ﬁrst
+resource objective ﬁre to subsequent re-entry ﬁre for all re-entry ﬁre
+areas pooled. We also tested eﬀects of burn severity on tree density,
+basal area, canopy fuel load, canopy bulk density, canopy base height,
+and ﬁne fuel loading. For these tests, we compared mean eﬀect sizes (d)
+(Nakagawa and Cuthill, 2007) between burn severity classes using ﬁeld
+plot data from the nine unique single-ﬁre - re-entry ﬁre pairs described
+above. Eﬀect size (d) was calculated as:
+=
+−
+d
+m
+m
+S
+2
+1
+pooled
+where m1 was the mean of a single ﬁre area within a given burn severity
+class, m2 was the mean of a re-entry area within a burn severity class,
+and Spooled was the pooled standard deviation. Because there was little
+high severity ﬁre represented across the single ﬁre areas, we were
+limited to using means for U/L, L, and M classes in analyses. Similarly,
+re-entry ﬁre areas were overwhelmingly comprised of combinations of
+U/L and L burn severity (e.g., U/L-U/L class); thus, we were limited to
+means from these classes in eﬀect size analyses. Eﬀect size values from
+each single ﬁre - re-entry ﬁre pair were used to calculate a mean eﬀect
+size along with a 95% conﬁdence interval for each variable. When in-
+tervals did not included zero, we concluded a signiﬁcant eﬀect of single
+or re-entry ﬁres on a given variable. Non-zero, positive intervals in-
+dicated smaller single ﬁre means whereas non-zero negative intervals
+indicated smaller re-entry ﬁre means. Thus, signiﬁcant reductions of
+tree density and hazardous fuels due to re-entry ﬁre would be shown by
+non-zero negative intervals of d.
+3. Results
+3.1. Fire-level comparisons
+Re-entry with resource objective wildﬁre on the study landscape
+tended to reduce forest density and hazardous fuels compared with
+single ﬁre areas; however, paired comparisons showed few statistically
+signiﬁcant diﬀerences (Fig. 2). Mean tree density was 480.5 ha−1 and
+440.2 ha−1 for single and re-entry ﬁres, respectively, and these were
+not signiﬁcantly diﬀerent from one another. Tree densities in single and
+re-entry ﬁre areas were 3.5- and 3.2-fold greater, respectively, than the
+upper bounds of HRV (Fig. 2a). Basal area was 18.5 m2 ha−1 in single
+ﬁre areas and 19.2 m2 ha−1 in re-entry areas. Basal area means showed
+no signiﬁcant diﬀerence, and were above the upper limit of HRV by
+1.5–2.2 m2 ha−1 (Fig. 2b). Mean canopy fuel load was not signiﬁcantly
+diﬀerent between single and re-entry areas and both were within HRV
+(Fig. 2c). Canopy bulk density in single ﬁre areas was signiﬁcantly
+(p < .001) greater in single ﬁre areas than in re-entry areas. In single
+ﬁre areas, mean canopy bulk density was greater than the upper limit of
+HRV by 26%, whereas mean canopy bulk density for re-entry areas was
+within HRV (Fig. 2d). Canopy base height averaged 3.8 m in single ﬁre
+areas and 4.8 m in re-entry areas but these means were not signiﬁcantly
+diﬀerent and both were below HRV (Fig. 2e). Fine fuel load was sig-
+niﬁcantly (p = .05) greater in single ﬁre areas compared with re-entry
+areas. No HRV information for this aspect of ponderosa pine forest
+structure was available for evaluation (Fig. 2f). Coarse wood loading
+was not signiﬁcantly diﬀerent between single (4.0 Mg ha−1) and re-
+entry (5.6 Mg ha−1) ﬁre areas.
+Similar to forest structural conditions, we found few signiﬁcant
+diﬀerences in simulated potential ﬁre behavior between single ﬁre and
+re-entry areas (Table 3). In addition, trends in ﬁre behavior between
+single ﬁre and re-entry areas as well as among ﬁre weather scenarios
+were not consistent. For example, under extreme ﬁre weather, active
+crown ﬁre behavior tended to occur on a larger percentage of ﬁre area
+and average rate of spread appeared slightly greater in single ﬁre areas
+compared with re-entry areas; however, ﬂame length, ﬁre line intensity,
+and heat per unit area tended to be lower in single ﬁre than re-entry
+areas (Table 3). Under 99th percentile weather, single ﬁre areas tended
+to show more active ﬁre behavior than re-entry areas in general, al-
+though average heat per unit area was signiﬁcantly lower in single ﬁre
+areas compared with re-entry areas (Table 3). Under average ﬁre
+weather, ﬂame length was signiﬁcantly lower in single ﬁre than re-
+entry areas. Rate of spread was identical, but ﬁre line intensity tended
+to be lower in single ﬁre areas compared with re-entry areas. Average
+heat per unit area was signiﬁcantly lower in single ﬁre than re-entry
+areas under simulated average weather conditions (Table 3).
+3.2. Burn severity eﬀects
+Both single and re-entry ﬁre areas were dominated by U/L and L
+burn severity classes. For example, these classes combined made up
+91.5% on average of the extents within single ﬁre areas. Classes M and
+H severities made up 7% and 1.5% of single ﬁre areas, respectively.
+Similarly, more than half (53%) of the total hectares in re-entry ﬁre
+areas were classiﬁed as U/L burn severity after the ﬁrst resource ob-
+jective ﬁres, prior to wildﬁre re-entry (Table 4). Further, areas classiﬁed
+as L burn severity made up 43% of the total re-entry hectares prior to
+second ﬁres. Thus, 96% of the total re-entry hectares were classiﬁed as
+either U/L or L burn severity after the ﬁrst ﬁres and before re-entry.
+Burn severity classes M and H represented 3% and < 1%, respectively,
+of the total re-entry hectares after the ﬁrst ﬁres (Table 4). After second
+ﬁre occurrence, the vast majority of re-entry ﬁre areas were classiﬁed as
+either U/L or L burn severity (i.e., secondary burn severities); thus,
+eﬀects of re-entry ﬁres were mainly limited to burn severity classes U/
+L-U/L, (ﬁrst ﬁre severity class - re-entry ﬁre severity class; 764 ha) U/L-
+L (514 ha), L-U/L (624 ha), and L-L (409 ha), which combined made up
+93% of the total area where re-entry ﬁres occurred (Table 4).
+Eﬀect size analysis showed that tree density was signiﬁcantly re-
+duced by re-entry ﬁres in areas classiﬁed as U/L-L as compared with U/
+L areas of single ﬁres (Fig. 3). No other signiﬁcant eﬀects of re-entry
+ﬁres were found for reducing trees density, regardless of burn severity,
+when compared with burn severity classes in single ﬁres. Moderate
+burn severity areas in single ﬁres showed signiﬁcantly lower tree den-
+sities than U/L-U/L, U/L-L, and L-U/L areas of re-entry ﬁres (Fig. 3a).
+We found no eﬀects of re-entry ﬁre on reducing basal area regardless of
+burn severity class comparison but basal area was signiﬁcantly lower in
+moderate severity areas of single ﬁres compared with burn severity
+classes prevalent in re-entry ﬁres (Fig. 3b). Eﬀects analysis of canopy
+fuel loading showed a similar pattern to that of tree density. Re-entry
+ﬁres areas classiﬁed as U/L-U/L, U/L-L, and L/U/L were eﬀective at
+reducing canopy bulk density compared with single ﬁre areas classiﬁed
+as U/L (Fig. 3d). Additionally, signiﬁcantly lower canopy bulk densities
+were found in re-entry ﬁre areas classiﬁed as L-U/L compared with
+those in single ﬁre areas classiﬁed as L. In single ﬁres, moderate burn
+severity areas showed signiﬁcantly lower canopy bulk densities than re-
+entry areas classiﬁed as U/L-U/L and L-/UL (Fig. 3d). Canopy base
+height did not diﬀer between burn severity classes (Fig. 3e). Lastly, ﬁne
+fuel loads in re-entry ﬁre areas classiﬁed as U/L-U/L were signiﬁcantly
+lower than those of single ﬁre areas classiﬁed as U/L.
+4. Discussion
+4.1. Resource objective ﬁre eﬀectiveness
+The resource objective ﬁres we studied burned under relatively mild
+ﬁre weather conditions and had very low burn severities. As such,
+they did not produce dramatic changes to forest structure and fuels. We
+found both single ﬁre and re-entry areas to be generally outside of
+historical ranges of variability; however, forest structure and hazardous
+fuels attributes in re-entry areas tended to be closer to HRV compared
+with single ﬁre areas (Fig. 2). Tree densities in particular remained
+notably higher than HRV. Huﬀman et al. (2017) concluded that single-
+D.W. Huﬀman et al.
+Forest Ecology and Management 408 (2018) 16–24
+20
+
+entry resource objective wildﬁres in ponderosa pine forests of the Co-
+conino and Kaibab National Forests in Arizona were 42% eﬀective
+overall for meeting HRV-based targets. In their study, tree density was
+within HRV only in areas classiﬁed (dNBR-based) as moderate burn
+severity, but remained above the historical range in unburned/low and
+low burn severity areas. Canopy fuel load, however was within HRV in
+unburned/low- and low-severity areas, and canopy bulk density and
+crown base height were within historical ranges in low-severity areas
+(Huﬀman et al., 2017). Few other studies have assessed resource ob-
+jective ﬁres for meeting HRV targets in these forests. General reductions
+in tree density, basal area, and canopy fuels associated with resource
+objective ﬁres in ponderosa pine and dry mixed conifer forests of the
+Southwest have been described in other studies. For example, Hunter
+et al. (2011) found resource objective ﬁres on the Gila National Forest
+Fig. 2. Area-weighted means and standard errors for
+forest structure and hazardous fuels variables in areas
+experiencing single entry and re-entry (twice burned)
+resource objective wildﬁres on the study landscape on
+Kaibab National Forest, Arizona. Asterisks next to vari-
+able
+label
+indicate
+signiﬁcantly
+diﬀerent
+(p < .05)
+means. Gray bands within chart areas indicate historical
+ranges of variability for southwestern ponderosa pine
+forests as presented in Huﬀman et al. (2017).
+Table 3
+Means (standard errors) for potential ﬁre behavior outputs under extreme, 99th per-
+centile, and average weather conditions (see text for details) in single ﬁre and re-entry ﬁre
+areas of resource objective wildﬁres on the Kaibab National Forest, Arizona. Asterisks
+indicate statistically diﬀerent means (p < .05) for given variable.
+Fire behavior
+Single
+Re-entry
+Extreme weather
+Active crown ﬁre (% of ﬁre area)
+22.0 (0.12)
+18.3 (0.04)
+Flame length (m)
+5.9 (2.6)
+6.5 (1.1)
+Rate of spread (m min−1)
+52.5 (24.2)
+52.2 (7.1)
+Fire line intensity (kW m−1)
+5728.4 (2707.5)
+6941.3 (1360.0)
+Heat per unit area (kJ m−2)
+4403.3 (771.7)
+5622.8 (690.7)*
+99th percentile weather
+Active crown ﬁre (% of ﬁre area)
+4.3 (2.4)
+1.6 (0.5)
+Flame length (m)
+2.6 (1.1)
+2.3 (0.3)
+Rate of spread (m min−1)
+23.9 (11.1)
+21.1 (2.9)
+Fire line intensity (kW m−1)
+1928.4 (910.6)
+1860.3 (324.6)
+Heat per unit area (kJ m−2)
+3703.6 (456.2)
+4757.9 (624.7)*
+Average weather
+Active crown ﬁre (% of ﬁre area)
+< 0.1 (< 0.1)
+0
+Flame length (m)
+0.7 (0.1)
+0.8 (0.1)*
+Rate of spread (m min−1)
+3.4 (1.2)
+3.4 (0.3)
+Fire line intensity (kW m−1)
+176.4 (64.4)
+253.6 (56.7)
+Heat per unit area (kJ m−2)
+2719.2 (172.5)
+3846.3 (547.4)*
+Table 4
+Matrix showing burn severity classes from ﬁrst entry with resource objective ﬁre to
+subsequent re-entry ﬁres. Values are proportions of landscape area (hectares in margins)
+from ﬁrst ﬁre burn severity classiﬁcation that remained in, or changed to, other severity
+classes after re-entry by a second resource objective wildﬁres. For example, 0.58 (58%) of
+1318 hectares classiﬁed as U/L after a ﬁrst ﬁre were subsequently classiﬁed as U/L after
+ﬁre re-entry.
+Burn severity class
+after ﬁrst ﬁre
+Burn severity class after second (re-entry) ﬁre
+U/L
+L
+M
+H
+(Hectares)*
+U/L
+0.58
+0.39
+0.03
+0.00
+(1,318)
+L
+0.58
+0.38
+0.03
+0.01
+(1,076)
+M
+0.71
+0.24
+0.04
+0.01
+(78)
+H
+0.91
+0.07
+0.02
+0.00
+(5)
+(Hectares)
+(1,443)
+(946)
+(72)
+(16)
+(2,477)
+* Areas (seven hectares total) not processed, or shown as increased greenness in dNBR,
+not included in calculations.
+D.W. Huﬀman et al.
+Forest Ecology and Management 408 (2018) 16–24
+21
+
+of New Mexico signiﬁcantly reduced tree densities and crown bulk
+densities, and increased canopy base heights in both low and moderate-
+severity areas. Mean basal area, however, in low-severity areas was
+similar to that of unburned sites (Hunter et al., 2011). On the North Rim
+of Grand Canyon National Park, Fulé and Laughlin (2007) found that a
+single-entry resource objective wildﬁre moved conditions within a dry
+mixed conifer forest closer to historical reference conditions by redu-
+cing tree density by 54% overall, and reducing basal area by 23%. The
+majority of tree mortality was in smaller size classes of ﬁre-intolerant
+species (e.g., white ﬁr (Abies concolor), Douglas-ﬁr (Pseudotsuga men-
+ziesii), and aspen (Populus tremuloides)) (Fulé and Laughlin, 2007).
+Conversely, at similar sites in Grand Canyon National Park, Higgins
+et al. (2015) reported no signiﬁcant diﬀerence in white ﬁr seedling
+densities between unburned areas and a single, low-severity, resource
+objective wildﬁre. These authors concluded that to meet restoration
+and hazardous fuels goals re-entry as well as increasing burn severity of
+resource objective wildﬁres may be needed (Higgins et al., 2015).
+4.2. Additive beneﬁts of ﬁre re-entry
+Although we observed trends toward decreasing stand density and
+hazardous fuels conditions with re-entry of resource objective wildﬁre,
+we found few signiﬁcant diﬀerences between single and re-entry ﬁre
+areas on the study landscape. When examined at the whole-ﬁre level,
+only canopy bulk density and ﬁne fuel loading showed signiﬁcant ef-
+fects of re-entry ﬁre (Fig. 2). Further, we found few signiﬁcant diﬀer-
+ences in potential ﬁre behavior between single and re-entry ﬁre areas.
+Re-entry areas for all simulated weather scenarios showed signiﬁcantly
+greater heat per unit area than single ﬁre areas, but no other outputs
+showed diﬀerences (Table 3). Diﬀerences in heat per unit area were
+likely driven by slightly lower coarse wood loading in single ﬁres
+compared with re-entry ﬁre areas. Similarly, Holden et al. (2007) re-
+ported no signiﬁcant diﬀerences in tree density or basal area between
+ponderosa pine forests that burned once versus those that had burned
+twice, or by more recent (i.e., post-1950) resource objective ﬁres in the
+Gila Wilderness, Gila National Forest, in New Mexico, and in Saguaro
+Wilderness Area in Saguaro National Park in Arizona. Tree densities in
+single ﬁres at both sites were signiﬁcantly lower than unburned areas
+(Holden et al., 2007). Hunter et al. (2011), showed that canopy bulk
+densities in areas that had experienced two and three ﬁre entries on the
+Gila National Forest were similar to single ﬁre areas where low burn
+severity was recorded. Further, areas classiﬁed as moderate burn se-
+verity showed signiﬁcantly lower tree density and basal area than both
+low-severity, single ﬁre areas and re-entry areas (Hunter et al., 2011).
+In a second-entry ﬁre in a ponderosa pine forest on the North Rim of
+Grand Canyon Park, Higgins et al. (2015) found signiﬁcantly lower tree
+density and basal area, primarily driven by decreases in ﬁre-intolerant
+white ﬁr, compared with a ﬁrst-entry ﬁre as well as an unburned site,
+which in turn were not statistically diﬀerent. Larson et al. (2013) ob-
+served that initial reintroduction of ﬁre into a ﬁre excluded ponderosa
+pine forest of the Bob Marshall Wilderness Area in Montana reduced
+tree densities and consumed surface fuels, but subsequent ﬁre resulted
+in fewer structural changes outside of reducing tree regeneration that
+had established in the interim ﬁre period. The results of these studies
+Fig. 3. Eﬀect sizes for comparisons of forest structure and hazardous
+fuels variables between burn severity classes in single (chart legend)
+and re-entry (x-axis) resource objective wildﬁres on the Kaibab
+National Forest, Arizona. Re-entry burn severity classes show ﬁrst ﬁre
+burn severity class followed by secondary (re-entry ﬁre) burn severity
+class (see text for details). Bars show eﬀect sizes and 95% conﬁdence
+intervals (CI). Positive eﬀect sizes indicate smaller single ﬁre mean
+(i.e., greater fuels reduction in single ﬁre), whereas negative eﬀect
+sizes indicate smaller re-entry ﬁre mean. Asterisks indicate signiﬁcant
+eﬀects (CI does not include zero) for given comparisons.
+D.W. Huﬀman et al.
+Forest Ecology and Management 408 (2018) 16–24
+22
+
+suggest that single moderate-severity resource objective wildﬁres are
+eﬀective for reducing stand densities and hazardous fuels in degraded
+ponderosa pine forests, but commonly few immediate additive eﬀects
+may be seen from repeated low-severity ﬁres. By controlling tree re-
+generation, re-entry ﬁres may serve a maintenance function in long-
+term restoration and fuels reduction projects. In addition, repeated ﬁres
+may reduce abundance of shade-tolerant and ﬁre-intolerant species in
+moister forests where these species have tended to increase as a result
+of ﬁre exclusion (Strahan et al., 2016). In our study, time between
+wildﬁre re-entry ranged 2–11 years across the landscape, and this is
+within the historical range of frequencies described for natural ﬁre re-
+gimes in these forests (Reynolds et al., 2013). However, assuming that
+subsequent ﬁres, managed similarly to those observed in our study,
+each will reduce tree density by about 40 trees ha−1 on average
+(Fig. 2), our study landscape will require more than seven additional
+ﬁre entries for mean tree density to be restored to within the upper
+bounds of HRV. This, in turn, may require several decades to achieve
+(Table 1).
+4.3. Burn severity eﬀects
+Re-entry ﬁre areas on our study landscape were primarily comprised
+of unburned-low (U/L) and low (L) burn severity classes after secondary
+ﬁres (96%; U/L and L combined) (Table 4). Various studies have de-
+monstrated inﬂuences of prior wildﬁre on subsequent ﬁre behavior and
+burn severity (Parks et al., 2013; Lydersen et al., 2014; Coop et al.,
+2016). For example, Parks et al. (2013) showed that burn severity
+(dNBR-based) means in re-entry ﬁres within the Gila-Aldo Leopold
+Wilderness (New Mexico) and Frank Church-River of No Return Wild-
+erness (Idaho) were substantially lower than those of initial ﬁres, with
+this eﬀect still evident after 22 years. These results suggest that re-
+ductions in stand density and hazardous fuels produced by single ﬁres
+temper burn severity in subsequent ﬁres for periods of time that cor-
+respond
+to
+typical
+public
+land
+management
+planning
+horizons
+(∼10–20 years). Similarly, Collins et al. (2009) found that repeated
+ﬁres burning over 31 years in upper elevation mixed conifer forests of
+the Sierra Nevada became “self-limiting” in terms of fuel consumption,
+spatial extent, and ﬁre eﬀects (i.e., burn severity). Thus, in more remote
+areas, managers may allow ﬁres to burn with higher severity in order to
+substantially alter structure, fuels and subsequent ﬁre behavior. We did
+not speciﬁcally analyze eﬀects of ﬁrst-entry ﬁre on burn severity of re-
+entry ﬁre in our study. However, we observed that 97% of all re-entry
+hectares were classiﬁed as U/L or L severity (combined) after the ﬁrst
+ﬁres. Thus, ﬁrst-entry ﬁres on our study landscape appeared to result in
+only minor reductions in fuels and structure (Fig. 2), and low burn
+severity outcomes in subsequent re-entry ﬁres likely reﬂected the mild
+weather conditions under which the wildﬁres were allowed to burn. For
+example, on the day of ignition (Table 1) maximum temperatures for
+half the ﬁres were below the 27-year (1990–2016) June average sce-
+nario that we used in FlamMap simulations (Table 2). In all the ﬁres,
+relative humidities were higher and wind speeds were substantially
+lower on the day of ignition than the average FlamMap scenario. Si-
+milar results were report by Huﬀman et al. (2017), who described
+temperatures, wind speeds, and relative humidities as generally low on
+the day of ignition for single-entry resource objective wildﬁres in Ar-
+izona, and correspondingly U/L and L severity classes made up 85% of
+ﬁre area on average.
+Most (58%) of the areas on our study site classiﬁed as U/L after the
+ﬁrst resource objective ﬁres were again classiﬁed as U/L after sub-
+sequent re-entry, while nearly all of the remainder (39%) of U/L hec-
+tares was secondarily classiﬁed as L severity after ﬁre re-entry
+(Table 4). Further, most (58%) areas classiﬁed as L after initial ﬁres
+were classiﬁed as U/L after re-entry. Only 16% of the total re-entry ﬁre
+hectares was classiﬁed as L-L (low severity after one ﬁre and low again
+after the second ﬁre) (Table 4). We interpret these classiﬁcations, and
+the thus the corresponding re-entry ﬁre landscape, in terms of
+treatment implementation as follows: 1) U/L-U/L: “missed” by both the
+ﬁrst as well as the re-entry ﬁres. Although within ﬁre perimeters, stand
+densities in these areas remained essentially untreated (764 ha); 2) U/L-
+L: “cleanup” areas; stands untreated after the ﬁrst resource objective
+ﬁre, and subsequently treated by low-severity ﬁre in re-entry (514 ha);
+3) L-U/L: treated by low-severity ﬁre in initial ﬁres; no detectable ef-
+fects of re-entry ﬁre (624 ha); and 4) L-L: stands treated by low-severity
+ﬁre after one entry, then additionally treated by low-severity ﬁre in re-
+entry; areas where “additive eﬀects” may be expected (409 ha). These
+additive eﬀects parallel the incremental approach to restoration sug-
+gested by Allen et al. (2002). However, we found relatively few of these
+areas (i.e., L-L burn severity class) on the ﬁre re-entry landscape and
+variability in eﬀects was relatively high. Eﬀect size analysis indicated
+that reductions in tree density and canopy fuels observed at the whole-
+ﬁre level were consistently driven by areas classiﬁed as U/L (untreated)
+in initial ﬁres then were secondary classiﬁed as L burn severity after re-
+entry ﬁre (i.e., U/L-L burn severity). Thus, the trends toward lower tree
+density and hazardous fuel loads we observed on our study landscape
+appeared to be largely produced through “cleanup” eﬀects, whereby
+areas with little detectable eﬀects after the ﬁrst ﬁre subsequently ex-
+perienced low severity burning in a re-entry ﬁre.
+4.4. Conclusions and implications
+Analysis of nine unique single - re-entry ﬁre pairs on the 12,035-ha
+landscape in norther Arizona showed that resource objective wildﬁre
+re-entries may reduce stand densities and hazardous fuels, and may
+help managers meet restoration goals by moving forests closer to his-
+torical ranges of variability. However, we found few statistically sig-
+niﬁcant diﬀerences between single and re-entry areas, and reaching
+restoration goals at the current pace will likely require several more
+decades and ﬁre entries. Minor diﬀerences in structure and fuels be-
+tween single and re-entry ﬁre areas appeared to be primarily due to
+eﬀects of low-severity re-entry ﬁre, burning in areas classiﬁed as U/L
+severity after a ﬁrst resource objective ﬁre. Thus, these diﬀerences can
+be interpreted as secondary “cleanup” eﬀects whereby wildﬁre “treat-
+ment” was implemented in areas left “untreated” by preceding ﬁres.
+Evidence of incremental restoration, whereby areas classiﬁed as L burn
+severity after a ﬁrst ﬁre were secondarily treated by low-severity re-
+entry ﬁre, was more diﬃcult to discern. Areas classiﬁed as M burn se-
+verity after a single ﬁre consistently showed lower tree density, basal
+area, canopy fuel loading, and canopy bulk density than areas treated
+by repeated low-severity ﬁre (U/L-U/L, U/L-L, L-U/L, or L-L burn se-
+verity classes). These results suggest that continuing to allow resource
+objective wildﬁres to burn only under mild weather conditions may be
+less eﬀective for meeting restoration targets than allowing ﬁres to burn
+under more active ﬁre weather conditions (e.g., higher wind speeds and
+temperatures, and lower relative humidities). Such conditions are likely
+to produce greater reductions in tree density and canopy fuels, and thus
+achieve a broader suite of restoration objectives. Although ﬁres of low
+severity may produce conditions (e.g., reduced surface fuels) that make
+achieving additional eﬀects to stand structure in subsequent ﬁres
+challenging, such conditions are also likely to allow managers to
+manage ﬁres for resource objectives under a wider range of weather
+conditions. Allowing for more active ﬁres will increase risk of ﬁre es-
+cape as well as the possibility of resource damage in high-severity burn
+areas. These risks are typically not acceptable near human communities
+or within ecologically sensitive areas. In many dry forests of the western
+United States, the pace of ecological restoration implementation should
+be increased to reduce potential for widespread crown ﬁre and abrupt
+type shifts predicted with climate warming (Savage and Mast, 2005).
+Reintroduction of ﬁre is a central aim in restoration of these ecosys-
+tems, but managers will face challenges to balance urgency with ef-
+fectiveness if relying on resource objective wildﬁres to accomplish re-
+storation goals.
+D.W. Huﬀman et al.
+Forest Ecology and Management 408 (2018) 16–24
+23
+
+Acknowledgements
+We thank staﬀand students of the Ecological Restoration Institute at
+Northern Arizona University for ﬁeld support. In particular, we thank S.
+Curran, J. Kursky, D. Normandin, and J.P Roccaforte for assistance in
+data collection, management, and logistical help. We also thank staﬀof
+the Tusayan Ranger District, especially Q. Johnson and J. Miller, for ﬁre
+maps and treatment information. We acknowledge the helpful com-
+ments and suggestions from three anonymous reviewers on earlier
+manuscript drafts. This work was supported by a grant provided by the
+US Department of Agriculture Forest Service. Northern Arizona
+University is an equal opportunity provider.
+References
+Agee, J.K., Skinner, C.N., 2005. Basic principles of forest fuel reduction treatments. For.
+Ecol. Manage. 211, 83–96.
+Allen, C.D., Savage, M., Faulk, D.A., Suckling, K.F., Swetnam, T.W., Schulke, T., Stacey,
+P.B., Morgan, P., Hoﬀman, M., Klingel, J.T., 2002. Ecological restoration of south-
+western ponderosa pine ecosystems: A broad perspective. Ecol. Appl. 12, 1418–1433.
+Bradshaw, L., McCormick, E., 2000. FireFamily Plus user's guide, Version 2.0. USDA For.
+Serv. Gen. Tech. Rep. RMRS-GTR-67-WWW.
+J.K. Brown, J.K., 1974. Handbook for inventorying downed woody material. USDA For.
+Serv. Gen. Tech. Rep. INT-16.
+Collins, B.M., Miller, J.D., Thode, A.E., Kelly, M., van Wagtendonk, J., Stephens, S.L.,
+2009. Interactions among wildland ﬁres in a long-established Sierra Nevada natural
+ﬁre area. Ecosystems 12, 114–128.
+Coop, J.D., Parks, S.A., McClernan, S.R., Holsinger, L.M., 2016. Inﬂuences of prior
+wildﬁres on vegetation response to subsequent ﬁre in a reburned Southwestern
+landscape. Ecol. Appl. 26, 346–354.
+Covington, W.W., Fulé, P.Z., Moore, M.M., Hart, S.C., Kolb, T.E., Mast, J.N., Sackett, S.S.,
+Wagner, M.R., 1997. Restoring ecosystem health in ponderosa pine forests of the
+Southwest. J. Forest. 95, 23–29.
+Crosby, J.S., Chandler, C.C., 2004. Fire management notes. Get the most from your
+windspeed observations. Vol. 64, No. 1, Winter 2004. Reprinted from: Fire Control
+News 27, 12-13, 1966. ()
+Eidenshink, J., Schwind, B., Brewer, K., Zhu, Z., Quayle, B., Howard, S., 2007. A project
+for monitoring trends in burn severity. Fire Ecol. 3, 3–21.
+Finney, M.A., 2006. An overview of FlamMap ﬁre modeling capabilities. In: Andrews, P.
+L., Butler, B.W. (comps), Fuels Management - How to Measure Success, USDA For.
+Serv. Proc. RMRS-P-41, pp. 213–220.
+Forthofer, J., Butler, B., 2013. WindNinja. USDA For. Serv. Joint Fire Science Program.
+Forthofer, J., Butler, B.W., McHugh, C.W., Finney, M.A., Bradshaw, L.S., Stratton, R.D.,
+Shannon, K.S., Wagenbrenner, N.S., 2014. A comparison of three approaches for si-
+mulating ﬁne-scale surface winds in support of wildland ﬁre management. Part II. An
+exploratory study of the eﬀect of simulated winds on ﬁre growth simulations. Int. J.
+Wildland Fire 23, 982–994.
+Fulé, P.Z., McHugh, C., Heinlein, T.A., Covington, W.W., 2001. Potential ﬁre behavior is
+reduced following forest restoration treatments. In: Vance, R.K., Covington, W.W.,
+Edminster, C.B. (comps), Ponderosa Pine Ecosystems Restoration and Conservation:
+Steps toward Stewardship, USDA For. Serv. Proceedings RMRSP-22, pp. 28–35.
+Fulé, P.Z., Laughlin, D.C., 2007. Wildland ﬁre eﬀects on forest structure over an altitu-
+dinal gradient, Grand Canyon National Park. USA. J. Appl. Ecol. 44, 136–146.
+Higgins, A.M., Waring, K.M., Thode, A.E., 2015. The eﬀects of burn entry and burn se-
+verity on ponderosa pine and mixed conifer forests in Grand Canyon National Park.
+Int. J. Wildland Fire 24, 495–506.
+Holden, Z.A., Morgan, P., Rollins, M.G., Kavanagh, K., 2007. Eﬀects of multiple wildland
+ﬁres on ponderosa pine stand structure in two southwestern Wilderness areas, USA.
+Fire Ecol. 3, 18–33.
+Huﬀman, D.W., Sánchez Meador, A.J., Stoddard, M.T., Crouse, J.E., Roccaforte, J.P.,
+2017. Eﬃcacy of resource objective wildﬁres for restoration of ponderosa pine (Pinus
+ponderosa) forests in norhern Arizona. For. Ecol. Manage. 389, 395–403.
+Hunter, M.E., Iniguez, J.M., Lentile, L.B., 2011. Short- and long-term eﬀects on fuels,
+forest structure, and wildﬁre potential from prescribed ﬁre and resource beneﬁt ﬁre
+in southwestern forests, USA. Fire Ecol. 7, 108–121.
+Kolden, C.A., Smith, A.M.S., Abatzoglou, J.T., 2015. Limitations and utilisation of
+Monitoring Trends in Burn Severity products for assessing wildﬁre severity in the
+USA. Int. J. Wildland Fire 24, 1023–1028.
+LANDFIRE, 2010. Existing Vegetation Type Layer, LANDFIRE 1.2.0, U.S. Department of
+the Interior, Geological Survey. Accessed 13 February 2017 at http://landﬁre.cr.usgs.
+gov/viewer/.
+Landres, P.B., Morgan, P., Swanson, F.J., 1999. Overview of the use of natural variability
+concepts in managing ecological systems. Ecol. Appl. 9, 1179–1188.
+Larson, A.J., Belote, R.T., Cansler, C.A., Parks, S.A., Dietz, M.S., 2013. Latent resiliece in
+ponderosa pine forest: eﬀects of resumed frequent ﬁre. Ecol. Appl. 23, 1243–1249.
+Lydersen, J.M., North, M.P., Collins, B.M., 2014. Severity of an uncharacteristically large
+wildﬁre, the Rim Fire in forests with relatively restored frequent ﬁre regimes. For.
+Ecol. Manage. 328, 326–334.
+Meyer, M.D., 2015. Forest ﬁre severity patterns of resorce objective wildﬁres in the
+southern Sierra Nevada. J. Forest. 113, 49–56.
+Miller, J.D., Thode, A.E., 2007. Quantifying burn severity in a heterogeneous lanscape
+with a relative version of the delta Normalized Burn Ratio (dNBR). Remote Sens.
+Environ. 109, 66–80.
+Moore, M.M., Covington, W.W., Fulé, P.Z., 1999. Reference condition and ecological
+restoration: a southwestern ponderosa pine perspective. Ecol. Appl. 9, 1266–1277.
+Nakagawa, S., Cuthill, I.C., 2007. Eﬀect size, conﬁdence interval and statistical sig-
+niﬁcance: a practical guide for biologists. Biol. Rev. 82, 591–605.
+Parks, S.A., Miller, C., Nelson, C.R., Holden, Z.A., 2013. Previous ﬁres moderate burn
+severity of subsequent wildland ﬁres in two large western US wilderness areas.
+Ecosystems 17, 29–42.
+Reeves, M.C., Kost, J.R., Ryan, K.C., 2006. Fuels products of the LANDFIRE Project. In:
+Andrews, P.L., Butler, B.W. (comps), Fuels Management – How to Measure Success,
+USDA For. Serv. Proc. RMRS-P-41, pp. 239–252.
+Reynolds, R.T., Sánchez Meador, A.J., Youtz, J.A., Nicolet, T., Matonis, M.S., Jackson, P.,
+DeLorenzo, D.G. and Graves, A.D., 2013. Restoring composition and structure in
+southwestern frequent-ﬁre forests: a science-based framework for improving eco-
+system resiliency. USDA For. Serv. Gen. Tech. Rep. RMRS-GTR-310.
+Roccaforte, J.P., Fulé, P.Z., Covington, W.W., 2010. Monitoring landscape-scale pon-
+derosa pine restoration treatment implementation and eﬀectiveness. Restor. Ecol. 18,
+820–833.
+Roccaforte, J.P., Huﬀman, D.W., Fulé, P.Z., Covington, W.W., Chancellor, W.W.,
+Stoddard, M.T., Crouse, J.E., 2015. Forest structure and fuels dynamics following
+ponderosa pine restoration treatments, White Mountains, Arizona, USA. For. Ecol.
+Manage. 337, 174–185.
+Savage, M., Mast, J.N., 2005. How resilient are southwestern ponderosa pine forests after
+crown ﬁres? Can. J. For. Res. 35, 967–977.
+Scott, J.H., Burgan, R.E., 2005. Standard ﬁre behavior fuel models: a comprehensive set
+for use with Rothermel’s surface ﬁre spread model. USDA For. Serv. Gen. Tech. Rep.
+RMRS-GTR-153.
+Scott, J.H, Reinhardt, E.D., 2001. Assessing crown ﬁre potential by linking models of
+surface and crown ﬁre behavior. USDA For. Serv. Res. Paper RMRS-RP-29.
+Strahan, R.T., Sánchez Meador, A.J., Huﬀman, D.W., Laughlin, D.C., 2016. Shifts in
+community-level traits and functional diversity in a mixed conifer forest: a legacy of
+land-use change. J. Appl. Ecol. 53, 1755–1765.
+Stratton, R.D., 2006. Guidance on spatial wildland ﬁre analysis: models, tools, and
+techniques. USDA For. Serv. Gen. Tech. Rep. RMRS-GTR-183.
+D.W. Huﬀman et al.
+Forest Ecology and Management 408 (2018) 16–24
+24

@@ -1,0 +1,1419 @@
+Climatic constraints on trait-based forest assembly
+Daniel C. Laughlin1,2*, Peter Z. Fule´ 2, David W. Huffman3, Joseph Crouse3 and
+Etienne Laliberte´ 4
+1Department of Biological Sciences, University of Waikato, Private Bag 3105, Hamilton 3240, New Zealand; 2School
+of Forestry, Northern Arizona University, P.O. Box 15018, Flagstaﬀ, AZ 86011, USA; 3Ecological Restoration Institute,
+Northern Arizona University, P.O. Box 15017, Flagstaﬀ, AZ 86011, USA; and 4School of Plant Biology (M090), The
+University of Western Australia, 35 Stirling Highway, Crawley, Perth, WA 6009, Australia
+Summary
+1. Climatic constraints on plant distributions are well known, but predicting community composi-
+tion through knowledge of trait-based environmental ﬁltering remains an important empirical chal-
+lenge. Here, we evaluate the maximum entropy (MaxEnt) model of trait-based community
+assembly using forest communities occurring along a 12 C gradient of mean annual temperature
+(MAT).We use independent cross-validation to evaluate model predictions from sites where trait
+constraints are predicted from environmental conditions. We also test whether orthogonal axes of
+trait variation can be used as predictors to improve model parsimony and explore MaxEnt forecasts
+of species distributions in a warmer climate.
+2. Environmental factors explained between 31% and 74% of the community-weighted mean trait
+values, indicating moderate-to-strong selection of traits along the environmental gradients. A
+model with 10 traits explained 54% of the variation in observed relative abundances, which
+approached the upper limit of 57% given the available environmental information. Three orthogo-
+nal axes accounted for 81% of the trait variation among species, and environmental factors
+explained between 47% and 67% of the variation in these axes. However, the axes only explained
+18% of the variation in relative abundances, suggesting that minor axes of functional variation may
+be important or that models with many traits may achieve good predictive capacity through over-
+ﬁtting.
+3. Trait–environment relationships formed the basis for predicting vegetation change in a future
+scenario where MAT was increased by 2.5 C. The results suggested that up to 78% of Pinus pon-
+derosa forest in Arizona may transition to dominance by Juniperus monosperma, but this forecast
+likely overestimates the rates of species migration.
+4. Synthesis. MaxEnt is a mathematical translation of trait-based environmental ﬁltering of the spe-
+cies pool and performs moderately well in predicting forest community structure using empirical
+trait–environment relationships. MaxEnt required many traits to achieve good ﬁts, and three
+orthogonal axes of trait variation performed poorly as predictors of community structure. To be
+useful predictors, traits must vary strongly among species and community-weighted mean traits
+must vary predictably along environmental gradients.
+Key-words: bark thickness, community assembly, determinants of plant community diversity
+and structure, ﬁre regime, functional traits, leaf economics spectrum, maximum entropy,
+performance ﬁlter, plant strategy, wood density
+Introduction
+Climate exerts strong control over the distribution of vegeta-
+tion, and climate change will likely alter these distributions
+(Lenoir et al. 2008). Species ranges are geographically con-
+strained in large part because phenotypic properties (i.e. func-
+tional traits) of plants limit the range of environments in which
+they can sequester resources for growth and survival (Violle
+et al. 2007). For example, trees with high wood density have a
+greater resistance to drought-induced cavitation (Hacke et al.
+2001) and will therefore have a higher ﬁtness (or performance)
+in hot, dry environments than trees with low wood density.
+Many species distribution models primarily use bioclimatic
+*Correspondence author. E-mail: d.laughlin@waikato.ac.nz
+ 2011 The Authors. Journal of Ecology  2011 British Ecological Society
+Journal of Ecology 2011, 99, 1489–1499
+doi: 10.1111/j.1365-2745.2011.01885.x
+
+envelopes (Pearson & Dawson 2003) and other environmental
+factors (Guisan & Zimmermann 2000) as direct predictors of
+species occurrences (Fig. 1) and do not attempt to explain dis-
+tributions based on a physiological mechanism, such as the
+wood density–climate relationship (Hacke et al. 2001).
+A trait-based approach may simultaneously provide predic-
+tive and explanatory ability because it speciﬁes how perfor-
+mance ﬁlters alter trait distributions (Fig. 1; Keddy 1992;
+Webb et al. 2010). This approach assumes that individuals
+with traits that confer high performance in a given environ-
+ment will be able to sequester a greater proportion of limited
+resources for growth and reproduction. From these ﬁrst princi-
+ples, a predictive model of community assembly can be built
+by developing equations where species relative abundances (pi)
+are the unknowns for which we will have to solve. Shipley, Vile
+& Garnier (2006) proposed that the vector of pi’s can be esti-
+mated by developing a system of linear constraint equations of
+the general form PS
+i¼1 tipi ¼ T. This equation states that the
+linear combination of species traits (ti) and unknown species
+relative abundances (pi) is equal to the constraint T, where T is
+the trait value of an average unit of biomass (or individual,
+depending on how relative abundance is quantiﬁed) in a com-
+munity. It is biased towards trait values conferring better per-
+formance
+in
+a
+given
+environment
+because
+individuals
+possessing such traits are more abundant. T can vary predict-
+ably along environmental gradients (e.g. Cingolani et al. 2007)
+because traits have been selected along environmental gradi-
+ents over evolutionary history (Ackerly et al. 2000). Webb
+et al. (2010) referred to this step in trait-based modelling as the
+‘performance ﬁlter’, because local environments eliminate
+traits with inadequate local ﬁtness (Fig. 1).
+Most previous evaluations of the maximum entropy (Max-
+Ent) model have used ‘observed constraints’ by calculating
+T from observed relative abundances (Shipley, Vile & Garnier
+2006; Sonnier, Shipley & Navas 2010). These studies showed
+that the model can make good predictions, but a more general
+and desirable application of the model is to predict vegetation
+structure in communities where mean trait values are predicted
+from environmental conditions (Shipley, Vile & Garnier 2006).
+In this study, we use ‘predicted constraints’, such that
+T ¼ fðenvironmentÞ, thus providing a strong empirical test of
+the model. This also eliminates any apparent circularity in the
+model (Marks & Muller-Landau 2007; Roxburgh & Mokany
+2007; Haegeman & Loreau 2008). This approach is also more
+general than classic species distribution modelling (Guisan &
+Zimmermann 2000) because it considers simultaneously the
+probability of occurrence of every species in the regional pool,
+not just the distribution of species that actually occur at a site
+(Shipley 2010b).
+The MaxEnt model states that the relative abundance of
+every species in a given environment is a function of their trait
+values [i.e. log(pi) = f (traits)]. However, many traits are
+highly correlated with each other (Wright et al. 2004), and col-
+linear predictors in any model have undesirable properties
+(Webb et al. 2010). Variation among leaf traits is largely
+orthogonal to variation in stem traits (Baraloto et al. 2010),
+suggesting that a few parsimonious and independent axes of
+functional trait variation may be useful predictors of commu-
+nity structure. Here, we provide the ﬁrst test of whether
+orthogonal trait axes are useful predictors of community com-
+position.
+We tested the MaxEnt model of trait-based community
+assembly (Shipley, Vile & Garnier 2006) along a broad climatic
+gradient in upland forest communities of the south-western
+USA. We asked (i) how do traits and orthogonal trait axes
+vary along climatic gradients? and (ii) How well does MaxEnt
+utilize these empirical trait–environment relationships to
+predict forest community structure? We also explored the use
+of MaxEnt for forecasting shifts in species distributions in a
+warmer climate.
+Materials and methods
+STUDY SYSTEM
+We measured tree species abundances on 1046 plots at 19 sites in Ari-
+zona and New Mexico, USA. These sites spanned upland vegetation
+between 1900 and 3600 m altitude, corresponding to a 12 C range in
+mean annual temperature (MAT). These sites spanned the range of
+high-elevation upland south-western USA forest types including
+conifer woodlands, montane conifer forests and subalpine forests
+(Brown 2004). We encountered 15 tree species in these upland com-
+munities (Table 1). We calculated relative abundances of each of the
+15 species as the proportional basal area (at breast height, 1.37 m) of
+each of the species divided by the total basal area of the plot. See
+Appendix S1 in Supporting Information for more details about the
+forest vegetation samples.
+FUNCTIONAL TRAITS AND TRAIT AXES
+We measured functional traits thought to inﬂuence plant perfor-
+mance along climatic gradients on all 15 species following standard-
+ized protocols (see Appendix S1 for full details).We measured stem
+traits, such as wood density and twig dry matter content (TDMC),
+because of their known relationships with water transport and effects
+on plant survival along moisture gradients (Hacke et al. 2001; Corn-
+well & Ackerly 2010). Maximum plant height is also related to
+climatic gradients because shorter trees are often associated with
+more
+stressful
+environments
+(King
+1990).We
+measured
+bark
+thickness because it is known to inﬂuence tree survival following
+Fig. 1. A trait-based approach to predicting species abundances
+explicitly incorporates a physiology-based link between the local
+environment and species abundances. The classic approach to species
+distribution modelling lacks a physiological linkage.
+1490
+D. C. Laughlin et al.
+ 2011 The Authors. Journal of Ecology  2011 British Ecological Society, Journal of Ecology, 99, 1489–1499
+
+low-intensity surface ﬁres (Vines 1968) and because ﬁre regimes vary
+predictably along the climatic gradient in this study (Agee 1993).We
+measured leaf traits that inﬂuence resource acquisition, such as spe-
+ciﬁc leaf area (SLA) and leaf nutrient concentrations, because they
+have been shown to vary along global climate gradients (Wright et al.
+2004). We measured speciﬁc root length (SRL) because it may inﬂu-
+ence below-ground resource acquisition (Cornelissen et al. 2003).
+Finally, we obtained information on ﬂowering dates of species
+because the timing of ﬂowering is constrained by growing season
+length (Rathcke & Lacey 1985). We also measured seed mass and leaf
+dry matter content of each species, but these traits were excluded from
+the analysis because they were only weakly related to climate.
+The trait values used in the analysis are species-speciﬁc means that
+are assumed to be constant over plots. This is a reasonable assump-
+tion because interspeciﬁc trait variation is generally stronger than
+intraspeciﬁc variation (see Appendix S1). For example, species iden-
+tity explains 94% of the variation in leaf nitrogen concentration and
+50% of the variation in bark thickness.
+We used principal components analysis (PCA) to extract orthogo-
+nal axes of trait variation for use in the MaxEnt model. After comput-
+ing the initial eigenvectors, we rotated the axes to maximize trait
+loadings on each axis via ‘varimax’ rotation to increase interpretabil-
+ity of the axes (see Appendix S1). A constant was added to the rotated
+axis scores so that scores were non-negative, as this is a requirement
+of the Improved Iterative Scaling algorithm (Della Pietra, Della
+Pietra & Lafferty 1997).
+CLIMATE AND SOILS
+Given the complex topography of the study region, we included vari-
+ables that relate to macroclimate, mesoclimate and soil resource
+availability as predictors of trait distributions. To quantify macrocli-
+mate, we used the 1-km resolution WorldClim climate grids (Hijmans
+et al. 2005) to obtain estimates of current MAT. Given this rather
+coarse resolution for a mountainous landscape, use of these modelled
+estimates of MAT introduces a source of uncertainty into the model.
+We did not include mean annual precipitation (MAP) as a predictor
+because it was strongly negatively correlated with temperature
+(r = )0.78), and because changes in precipitation under climate
+change are far less certain (IPCC 2007).To quantify the inﬂuence of
+topography on mesoclimate, we used equations for estimating solar
+radiation from topographical slope, aspect and latitude (McCune &
+Keon 2002). To capture the inﬂuence of soil type on soil moisture and
+nutrient availability, we used a binary variable to differentiate plots
+on coarse-textured sedimentary-derived soils from ﬁne-textured igne-
+ous-derived soils. The highest elevation site (i.e. San Francisco Peaks)
+consists of only igneous-derived soil because it is a stratovolcano.
+PERFORMANCE FILTER
+We used independent cross-validation to provide a strong test of the
+MaxEnt model. We split the data set in half by stratifying by forest
+type and randomly dividing within each stratum. Strata were used to
+ensure that enough plots from less-common forest types (e.g. subal-
+pine forests) were included in the model building process. We used
+512 plots (the ‘training data set’) to develop relationships between
+environmental predictors and traits, and used 534 plots (the ‘valida-
+tion data set’) to evaluate model predictions. This approach addresses
+previous criticisms of the model, because model constraints are
+derived independently through knowledge of environmental condi-
+tions and are therefore not dependent on observed vegetation struc-
+ture (Roxburgh & Mokany 2007).
+We calculated community-weighted mean traits as T ¼ PS
+i¼1 tipi,
+where ti is the mean trait value and pi are the observed relative abun-
+dances for species i from 1, …, S. We used generalized additive mod-
+els [GAMs; using the ‘gam’ function in the ‘mgcv’ library in r (Wood
+Table 1. Tree species (and associated four-letter codes) and their mean trait values used in the analysis. Traits are listed in order from most to
+least predictable from left to right (according to the generalized additive model R2
+adj)
+Bark
+thickness
+Flowering
+date
+Max
+height
+Wood
+density
+Twig dry
+matter
+content
+Speciﬁc
+root
+length
+Speciﬁc
+leaf
+area
+Leaf
+[P]
+Leaf
+[N]
+Leaf
+[C]
+Trait abbreviations
+Bark
+Flower
+Height
+Wood
+TDMC
+SRL
+SLA
+[P]
+[N]
+[C]
+Abies concolor (ABCO)
+0.036
+166
+31.0
+0.399
+0.493
+32.1
+3.79
+0.1343
+1.26
+48.28
+Abies lasiocarpa (ABLA)
+0.015
+171
+23.5
+0.327
+0.465
+40.3
+4.05
+0.1359
+1.54
+50.82
+Juniperus deppeana (JUDE)
+0.029
+72
+15.0
+0.489
+0.479
+51.2
+3.58
+0.0800
+1.05
+49.72
+Juniperus monosperma (JUMO)
+0.040
+90
+8.4
+0.576
+0.535
+28.9
+2.72
+0.0969
+1.22
+50.45
+Juniperus osteosperma (JUOS)
+0.028
+90
+9.6
+0.486
+0.481
+23.7
+2.50
+0.0956
+1.09
+49.39
+Juniperus scopulorum (JUSC)
+0.022
+136
+10.3
+0.436
+0.495
+44.7
+4.02
+0.1137
+1.31
+51.77
+Pinus aristata (PIAR)
+0.018
+186
+17.0
+0.519
+0.498
+41.7
+4.42
+0.0852
+1.17
+49.82
+Pinus edulis (PIED)
+0.031
+120
+11.2
+0.562
+0.551
+18.0
+4.32
+0.1431
+1.22
+50.52
+Picea engelmannii (PIEN)
+0.008
+151
+28.1
+0.329
+0.491
+60.0
+3.24
+0.1043
+1.20
+48.68
+Pinus ponderosa (PIPO)
+0.041
+166
+31.8
+0.448
+0.491
+32.8
+3.81
+0.1042
+1.29
+51.75
+Pinus strobiformis (PIST)
+0.014
+166
+25.0
+0.407
+0.457
+38.3
+5.55
+0.1123
+1.29
+50.30
+Populus tremuloides (POTR)
+0.020
+151
+25.7
+0.404
+0.430
+114.1
+15.32
+0.3324
+2.89
+50.16
+Pseudotsuga menziesii (PSME)
+0.030
+120
+28.0
+0.448
+0.497
+32.0
+4.62
+0.1375
+1.09
+48.16
+Quercus gambelii (QUGA)
+0.039
+130
+13.8
+0.634
+0.549
+73.1
+13.24
+0.1941
+2.52
+48.00
+Robinia neomexicana (RONE)
+0.043
+151
+11.5
+0.594
+0.533
+62.4
+23.00
+0.3233
+4.57
+47.65
+Units
+Outer
+bark:
+d.b.h. ratio
+Julian
+day
+m
+mg mm)3
+g g)1
+m g)1
+mm2 mg)1
+%
+%
+%
+Variance explained by
+climate variables (R2
+adj)
+0.74
+0.64
+0.57
+0.55
+0.54
+0.54
+0.47
+0.42
+0.38
+0.31
+Climatic constraints on forest assembly
+1491
+ 2011 The Authors. Journal of Ecology  2011 British Ecological Society, Journal of Ecology, 99, 1489–1499
+
+2006; R Development Core Team 2010)] on the training data set to
+develop predictive models of community-weighted mean traits as
+nonlinear functions of MAT, solar radiation and soil type. We ranked
+models for each trait from high-to-low predictive capacity assessed by
+the model R2
+adj and used this order for entering traits into the MaxEnt
+model.
+EVALUATING THE MAXENT MODEL
+Using the GAMs developed from the training data set, we predicted
+the community-weighted mean trait values ( T) in the validation data
+set. These predicted community-weighted mean traits were then used
+as constraints in the MaxEnt model. If the species pool has been iden-
+tiﬁed and if the traits of every species are known, then one can solve
+for the unknown species abundances. In practice, there are typically
+far fewer constraint equations than unknown species abundances,
+which results in a system with many possible solutions. Shipley, Vile
+& Garnier (2006) proposed to select the solution with MaxEnt, i.e.
+the distribution that maximizes the entropy function,  PS
+i¼1 pi ln pi.
+Entropy maximization is justiﬁed because the MaxEnt solution (i) is
+the distribution of pi that can be realized in nature the most ways;
+therefore, it is the most probable distribution and (ii) is the only distri-
+bution of pi that is determined entirely from the speciﬁed constraints,
+without implying additional constraints (Jaynes 2003).
+We ﬁrst obtained the MaxEnt predictions using the one trait that
+was best predicted by the GAMs. We subsequently tested other mod-
+els where the two most predictable traits were used, then the four
+most predictable traits, etc., up until all 10 traits were used as con-
+straints in the model. We evaluated the impact of this order on model
+performance by running another analysis in reverse order, i.e. the
+least predictable trait was entered ﬁrst. We obtained the MaxEnt pre-
+dictions using the ‘maxent’ function in the ‘FD’ library of r (Laliberte´
+& Legendre 2010; Laliberte´ & Shipley 2010) with a tolerance level of
+1 · 10)8. Uniform prior distributions were used in all instances.
+Model predictions were compared with observed relative abundances
+using two measures of ﬁt: R2 (using untransformed relative abun-
+dances) and the Root Mean Square Error (RMSEsqrt) using square-
+root transformed relative abundances (Roxburgh & Mokany 2010).
+We evaluated the statistical signiﬁcance of model predictions by com-
+paring measures of ﬁt obtained from predicted constraints against a
+null distribution of 999 measures of ﬁt obtained by permuting
+observed relative abundances (see Appendix S2 for r code). We eval-
+uated the statistical signiﬁcance of model predictions obtained from
+‘observed constraints’ with a permutation procedure (Shipley 2010a)
+that is implemented in the ‘maxent.test’ function in the ‘FD’ library
+of r (Laliberte´ & Shipley 2010).
+We also used observed and predicted coenoclines to evaluate model
+performance. We compared nonlinear regression models (i.e. GAMs)
+of species response curves ﬁt to observed relative abundances with
+those ﬁt to MaxEnt-predicted relative abundances. This approach
+permitted us to compare how the mean predictions of relative abun-
+dances compare with mean observed relative abundances along the
+temperature gradient.
+To estimate the maximum amount of variation in the species rela-
+tive abundances that was explainable by climate directly, we ﬁt a sep-
+arate GAM relating the observed relative abundance for each of the
+15 species as a function of MAT, solar radiation and soil type using
+training data, and obtained regression predictions on the validation
+data set. Because these form-free statistical ﬁts imposed minimal
+assumptions on the relationships between relative abundances and
+climate, and because each model was ﬁt separately for each species,
+the R2 between regression model-ﬁtted and observed relative abun-
+dances represents an approximate upper bound on the predictive abil-
+ity of any model whose empirical information is derived from
+environmental variables alone.
+CLIMATE CHANGE SCENARIO
+Mean annual temperature in the south-western USA is predicted to
+rise over the next century. Given that MaxEnt has been proposed
+as a pragmatic tool for providing predictions of relative abundances
+of real species in different environmental contexts (Shipley 2010b),
+we explore the use of this trait-based model in forecasting shifts in
+species distributions in a warmer climate using empirical trait–
+climate relationships. Given the variety of global circulation models
+and emission scenarios, we focused on the median-predicted tem-
+perature change across 21 global models for the A1B scenario,
+which is an increase of 2.5 C by the year 2060 (IPCC 2007). Solar
+radiation and soil type were unchanged from current conditions in
+this scenario. We predicted a new set of community-weighted mean
+trait values ( T) at each plot with the new set of predictors, and
+these new constraints were used to obtain the MaxEnt predictions
+of species relative abundances in the year 2060. For comparison,
+we also used the classic species distribution modelling approach to
+forecast future species distributions by regressing individual species
+abundances directly on the three predictor variables and used these
+models to project species responses to an increase of 2.5 C. We
+acknowledge that this approach does not incorporate an exhaustive
+set of factors that are known to affect species distributions. For
+example, changes in precipitation will certainly affect species distri-
+butions, but future changes in precipitation are far less certain than
+changes in temperature. We discuss our results in the light of the
+limitations of this approach.
+Results
+TRAIT–CLIMATE RELATIONSHIPS
+Environmental conditions explained between 31% and 74%
+of the variance of the ten community-weighted mean func-
+tional traits (Table 1). MAT was a signiﬁcant factor for all
+traits, solar radiation was a signiﬁcant factor for all traits
+except bark thickness, and geological substrate was a signiﬁ-
+cant factor for all traits except leaf [P] (Table S1). MAT
+explained most of the trait variation and often exhibited the
+strongest bivariate relationship with the traits. Signiﬁcant non-
+linear relationships were prevalent between traits and MAT
+(Fig. 2). Bark thickness increased with increasing MAT. Flow-
+ering date was earlier with increasing MAT. Wood density and
+TDMC tended to increase with MAT, although they both
+increased slightly at the coldest MAT. Maximum height
+peaked at intermediate MAT. SLA, leaf [P] and leaf [N] were
+lowest at the extremes of MAT and peaked at c. 4 C MAT.
+The ﬁrst three PCA axes accounted for 81% of the species–
+trait correlation matrix (Fig. 3). The ﬁrst axis represented vari-
+ation in leaf and root traits (SLA, leaf [P], leaf [N] and SRL).
+The second axis represented variation in stem traits (TDMC,
+bark thickness and wood density). The third axis represented
+variation in ﬂowering date and maximum height. Environmen-
+tal conditions explained 47%, 60% and 67% of the variation
+in the community-weighted mean PCA axis 1, 2 and 3 scores,
+1492
+D. C. Laughlin et al.
+ 2011 The Authors. Journal of Ecology  2011 British Ecological Society, Journal of Ecology, 99, 1489–1499
+
+respectively. Axes varied nonlinearly with MAT, but, in
+general, the ﬁrst and third axes were negatively related to
+MAT, and the second axis was positively related to MAT
+(Fig. 2).
+MAXENT PREDICTIONS
+The MaxEnt predictions of relative abundances in the valida-
+tion data set were signiﬁcant with only one trait, and predictive
+ability increased asymptotically with the number of traits used
+in the model (Fig. 4a). The model with one trait explained 8%
+of the variance in the relative abundances of all 15 species
+(R2 = 0.08, P = 0.001; RMSEsqrt = 0.271, P = 0.001). The
+model with 10
+traits explained 54% of the variance
+(R2 = 0.54, P = 0.001; RMSEsqrt = 0.192, P = 0.001). The
+RMSEsqrt ﬁt statistics were never lower than 0.1, but they were
+always signiﬁcantly smaller than those obtained through per-
+mutation. The order of trait entry into the model inﬂuenced
+model performance because explained variance was reduced in
+models where the least predictable traits (i.e. leaf traits) were
+entered before the most predictable traits (Fig. 4).
+The MaxEnt model we tested proposes that climate con-
+strains trait distributions, which in turn inﬂuence community
+composition (Fig. 1). How much variance in observed relative
+abundances can be explained by climate directly? We found
+that 57% of the variation of observed relative abundances in
+the validation data set could be explained by the climate vari-
+ables using 15 separate species-speciﬁc regression models.
+Thus, the limit of explained variance as the number of traits
+approaches S ) 1 cannot be >57% in this case (this limit is
+2
+4
+6
+8
+10
+12
+0.010
+0.025
+0.040
+Mean annual temperature (°C)
+Bark thickness
+2
+4
+6
+8
+10
+12
+100
+140
+180
+Mean annual temperature (°C)
+Flowering date
+2
+4
+6
+8
+10
+12
+10
+15
+20
+25
+30
+Mean annual temperature (°C)
+Maximum height
+2
+4
+6
+8
+10
+12
+0.35
+0.45
+0.55
+Mean annual temperature (°C)
+Wood density
+2
+4
+6
+8
+10
+12
+0.44
+0.48
+0.52
+Mean annual temperature (°C)
+Twig dry matter content
+2
+4
+6
+8
+10
+12
+20
+40
+60
+80
+Mean annual temperature (°C)
+Specific root length
+2
+4
+6
+8
+10
+12
+2
+4
+6
+8
+12
+Mean annual temperature (°C)
+Specific leaf area
+2
+4
+6
+8
+10
+12
+0.10
+0.20
+0.30
+Mean annual temperature (°C)
+Leaf [P]
+2
+4
+6
+8
+10
+12
+1.5
+2.0
+2.5
+Mean annual temperature (°C)
+Leaf [N]
+2
+4
+6
+8
+10
+12
+1.5
+2.5
+3.5
+PCA1:
+leaf and root traits
+Mean annual temperature (°C)
+PCA1
+2
+4
+6
+8
+10
+12
+0.5
+1.5
+2.5
+3.5
+PCA2:
+wood and bark traits
+Mean annual temperature (°C)
+PCA2
+2
+4
+6
+8
+10
+12
+0.5
+1.5
+2.5
+3.5
+PCA3:
+height and flowering date
+Mean annual temperature (°C)
+PCA3
+Fig. 2. Regression models (generalized additive models) illustrating the nonlinear relationships between mean annual temperature and commu-
+nity-weighted mean functional traits (top three rows) and principal components analysis trait axes (bottom row). All models were signiﬁcant
+(P < 0.001). Black dots, sedimentary soils; grey dots, igneous soils.
+Climatic constraints on forest assembly
+1493
+ 2011 The Authors. Journal of Ecology  2011 British Ecological Society, Journal of Ecology, 99, 1489–1499
+
+illustrated by the horizontal dotted line in Fig. 4). The
+predictive ability of the MaxEnt model with 10 predicted con-
+straints approached that which was possibly given the climate
+variables (Fig. 4a), i.e. the MaxEnt model was 95% efﬁcient
+(54⁄57 = 0.95) in explaining observed relative abundances
+because of trait-based environmental ﬁltering. Models that
+used the observed community-weighted mean traits as con-
+straints obtained near perfect predictive ability (R2 = 0.94)
+using the ﬁrst four traits (Fig. 4a), suggesting that if these traits
+could be perfectly predicted from environmental conditions,
+then very accurate predictions of species relative abundances
+could be achieved with only a restricted number of traits.
+MaxEnt models that used PCA trait axes in lieu of individ-
+ual traits did not perform well (Fig. 4b). When all three pre-
+dicted community-weighted mean PCA axes were used as
+constraints, the predictions of species abundances were signiﬁ-
+cant, yet only explained 18% of the variance (R2 = 0.18,
+P = 0.001; RMSEsqrt = 0.257, P = 0.001). Models that
+used three observed community-weighted mean PCA axis
+scores accounted for 71% of the variation in observed relative
+abundances.
+Fitted response curves (i.e. coenocline) of all 15 species along
+the elevation gradient were nearly identical between observed
+and
+MaxEnt-predicted
+relative
+abundances
+(Fig. 5a,b).
+Response curves ﬁt through relative abundances predicted
+from a classic regression model approach were also very simi-
+lar to response curves ﬁt through observed relative abundances
+(data not shown). Given that only 54% of the variance of rela-
+tive abundances could be explained using the 10 predicted con-
+straints, it is somewhat surprising that the MaxEnt model
+gives reasonably good predictions of how the mean relative
+abundance of individual species changes along the climatic
+gradient (Fig. 5b).
+CLIMATE CHANGE SCENARIO
+We obtained the MaxEnt predictions of species relative abun-
+dances using the projected increase in MAT of 2.5 C by the
+year 2060. Because factors other than MAT were included in
+Fig. 3. Distribution of the 15 tree species in reduced three-dimen-
+sional trait space. Three principal components analysis axes
+accounted for 81% of the variance in the species–trait correlation
+matrix. See Table 1 for four-letter species codes.
+0
+2
+4
+6
+8
+10
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Explained variance of MaxEnt models using 1−10 traits
+Number of traits
+R2
+Variance explained by climate
+(a)
+bark flower
+height
+wood tdmc
+srl
+sla
+[P]
+[N]
+[C]
+0
+1
+2
+3
+4
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Explained variance of MaxEnt models using 1−3 PCA axes
+Number of PCA axes
+R2
+(b)
+*
+PCA 3
+phenology
+PCA 2
+wood
+PCA 1
+leaf
+Observed constraints
+Predicted constraints
+Predicted constraints entered in reverse
+Fig. 4. Relationship between the amount of explained variance of the maximum entropy model and (a) the number of traits and (b) the number
+of principal components analysis (PCA) trait axes used in the model. Filled symbols represent models that used predicted community-weighted
+mean traits as constraints, whereas open symbols represent models that used observed community-weighted mean traits as constraints. Filled cir-
+cles represent models in which traits were entered into the model in the order at which they are listed from left to right, based on how well they
+could be predicted from the environment. For example, bark thickness was the ﬁrst trait entered in (a) as the generalized additive models
+explained 74% of its variance (see Table 1 for predictive ability and trait abbreviations), and the ‘two trait model’ included both bark thickness
+and ﬂowering date as predictors. In contrast, ﬁlled triangles represent models in which the order of trait entry into models was reversed from the
+order that is shown (i.e. leaf traits were entered ﬁrst). The only non-signiﬁcant model tested was the two PCA axis model with observed con-
+straints (indicated by the asterisk).
+1494
+D. C. Laughlin et al.
+ 2011 The Authors. Journal of Ecology  2011 British Ecological Society, Journal of Ecology, 99, 1489–1499
+
+the models used to predict the community-weighted mean
+traits, the change in predicted mean trait values and consequent
+changes inspecies response curves was not a simple shift ofeach
+curve along the elevation gradient: each species responded indi-
+vidualistically to increased temperatures (Fig. 5c,d). According
+to the model, the forest surrounding Flagstaff, Arizona, is fore-
+cast to shift from a Pinus ponderosa-dominated forest to one
+thatisdominatedbyJuniperusmonospermaandJ. osteosperma.
+The elevation optimum of P. ponderosa is forecast to shift
+upward 500 m and attain dominance in the current sites
+that support mixed-conifer and subalpine forest. The subal-
+pine species (Pinus aristata, Picea engelmannii and Abies la-
+siocarpa) were forecast to decline considerably in relative
+abundance at the highest elevations. The MaxEnt forecast is
+similar, though not identical, to those obtained from a classic
+regression approach to forecasting future species distribu-
+tions where climate variables were direct predictors of species
+abundances (Fig. 5c). Differences between the two forecast-
+ing approaches are apparent in the coenoclines (Fig. 5c,d),
+but the MaxEnt forecast was signiﬁcantly correlated with the
+regression approach (r = 0.56, P = 0.001).
+Discussion
+Ecologists have long suspected that functional traits play an
+important role in community assembly (Schimper 1903),
+but the lack of an analytical framework for predicting spe-
+cies relative abundances from their traits has hindered pro-
+2000
+2500
+3000
+3500
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+(a)
+(b)
+(c)
+(d)
+GAMs of observations
+Elevation (m)
+Relative abundance
+Flagstaff
+2000
+2500
+3000
+3500
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+GAMs of MaxEnt predictions
+Elevation (m)
+Predicted relative abundance
+Flagstaff
+2000
+2500
+3000
+3500
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+GAMs of regression predictions for 2060
+Elevation (m)
+Predicted relative abundance
+Flagstaff
+2000
+2500
+3000
+3500
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+GAMs of MaxEnt predictions for 2060
+Elevation (m)
+Predicted relative abundance
+Flagstaff
+Pinus aristata
+Picea engelmannii
+Abies lasiocarpa
+Abies concolor
+Pinus strobiformis
+Populus tremuloides
+Pseudotsuga menziesii
+Pinus ponderosa
+Quercus gambelii
+Robinia neomexicana
+Juniperus deppeana
+Juniperus scopulorum
+Juniperus osteosperma
+Pinus edulis
+Juniperus monosperma
+Fig. 5. Species response curves (i.e. coenoclines) for all 15 tree species along the elevation gradient in the contemporary time period [top panels
+(a) and (b)] and under a future climate change scenario of a 2.5 C increase in mean annual temperature (MAT) [bottom panels (c) and (d)]. Panel
+(a) illustrates nonlinear regression models (generalized additive models, GAMs) ﬁt through recently observed species relative abundances. Panel
+(b) illustrates nonlinear regression models (GAMs) ﬁt through maximum entropy (MaxEnt)-predicted relative abundances that were obtained
+from independent cross-validation using the model with the 10 predicted community-weighted mean traits. It should be noted that the high corre-
+spondence between models ﬁt through (a) observed and (b) MaxEnt-predicted relative abundances. Panel (c) illustrates models of future species
+distributions using classic regression modelling where species abundances were directly modelled as functions of climate. Panel (d) illustrates
+models of future species distributions using MaxEnt-predicted relative abundances under a 2.5 C increase in MAT. It should be noted that we
+restricted elevations to be >2000 m in panels (c) and (d) because the future temperature scenarios at elevations <2000 m were well-above the
+range of those used in model development.
+Climatic constraints on forest assembly
+1495
+ 2011 The Authors. Journal of Ecology  2011 British Ecological Society, Journal of Ecology, 99, 1489–1499
+
+gress in identifying trait-based assembly rules (Keddy 1992).
+Shipley, Vile & Garnier (2006) translation of trait-based
+environmental ﬁltering into a mathematical model has given
+ecologists a new tool for testing the importance of traits in
+the assembly process. Given the many factors that control
+the assembly process (i.e. population demography, species
+interactions, etc.), it seems a tall order for a model based
+only on mean trait values to be able to accurately predict
+the relative abundances of every species in the species pool.
+Our analysis suggests that trait-based environmental ﬁlter-
+ing of the regional species pool explains half of the varia-
+tion in tree community composition across uplands in the
+south-western USA. This is likely a minimum estimate of
+the
+relative
+importance
+of
+trait-based
+species
+sorting,
+because we may have excluded important traits, we may
+have excluded important environmental variables, and we
+did not explicitly account for measurement error in either
+traits or environmental variables.
+Not all traits were equally useful for predicting species
+abundances. If the constraints in the MaxEnt model are pre-
+dicted from environmental gradients, the traits that are
+strongly selected along the gradients will likely be the most
+useful for predicting species abundances. Figure 4 illustrates
+that if the ﬁrst four traits in the model could be perfectly
+predicted from climate (i.e. the predicted values of T  the
+observed values of T), then the model would achieve near
+perfect predictions of species abundances. However, this was
+not the case. Leaf traits accounted for a signiﬁcant amount
+of functional variation among the tree species in this study,
+but they were not well predicted from climatic conditions
+(Table 1, Fig. 2). The performance of the model declined
+when leaf traits were entered into the model ﬁrst because
+they did not vary predictably along the climatic gradient
+(Fig. 4). Shipley et al. (2011) also found that leaf traits, such
+as SLA and leaf [N], were poorly predicted from environ-
+mental conditions, even though SLA and leaf [N] exhibited
+considerable variation among the species in that study
+(Laughlin et al. 2010).
+This raises a critical issue with respect to trait-based mod-
+els of community assembly: traits can only be good predic-
+tors of abundance if they vary among species, but traits that
+vary strongly among species are not necessarily the best pre-
+dictors of relative abundance. Shipley (2010b) described how
+the Lagrangian multipliers (k) found in the objective function
+of the model provide information about the relative strength
+and sign of the selection of a trait along a gradient. Theoreti-
+cally, Lagrangian multipliers with large absolute values are
+the most important (if traits are scaled to unit variance) for
+determining relative abundances in the context of the Max-
+Ent model. However, this is only true when model predic-
+tions closely match observations, which is often not the case
+when ‘predicted constraints’ are used in the model. From a
+prediction-oriented perspective, we conclude that when ‘pre-
+dicted constraints’ are used in the MaxEnt model, the best
+traits for predicting species abundances must both (i) vary
+strongly among species and (ii) vary predictably along envi-
+ronmental gradients.
+Stem traits met both of these conditions. Bark thickness, for
+example, varied strongly among species, and it was the most
+predictable community-weighted mean trait (Table 1, Fig. 2).
+Bark thickness is indirectly related to climate through the
+mediating effects of ﬁre regimes. Climate inﬂuences ﬁre
+regimes by controlling fuel loadings, fuel moisture and weather
+conditions (Westerling et al. 2006). Fires are most frequent in
+the pine–oak and lower mixed-conifer forest types (Agee
+1993). Species with thick outer bark (e.g. P. ponderosa and
+Pseudotsuga menziesii) have greater protection from heat-
+induced cambial death (Vines 1968) and will have a higher
+probability of growing, reproducing and surviving in a regime
+of frequent ﬁres than species with thin outer bark. In contrast,
+thin bark is prevalent among species that occur in cold subal-
+pine forests (e.g. A. lasiocarpa) that burn very infrequently.
+Wood density is another stem trait that was predictable
+along the climatic gradient. Following expectations (Hacke
+et al. 2001), mean wood density was highest in the hot and dry
+pinyon–juniper woodlands and lowest in the more mesic upper
+mixed-conifer forests. However, mean wood density increased
+towards tree line because the dominant species, P. aristata,
+produce very dense wood. Dense wood is likely an advanta-
+geous trait at tree line where physiological drought is caused
+by desiccating winds and cold temperatures. The identiﬁcation
+of traits that reﬂect climatic conditions is a crucial step towards
+understanding how vegetation will respond to climate change.
+Although no single trait has been identiﬁed to capture a species
+temperature optimum, traits such as wood density and ﬂower-
+ing date do reﬂect a species’ ability to tolerate certain climatic
+conditions.
+Flowering date was another predictable trait in this study.
+Tree species in warm climates ﬂower early in the season,
+whereas species in cold climates must wait until much later in
+the season to ﬂower owing to constraints on growing season
+length (Table 1, Fig. 2). Phenological events, such as ﬂowering
+and leaf out, are changing in response to warming (Iba´ n˜ ez
+et al. 2010), suggesting that the plasticity of ﬂowering time
+may render a model based on species-speciﬁc means of ques-
+tionable value. However, there is a tremendous range in ﬂow-
+ering
+dates
+among
+tree
+species
+in
+this
+study
+(range = 114 days). Shifts in ﬂowering date are most often
+unidirectional (i.e. earlier), suggesting that ﬂowering dates of
+species relative to each other may remain intact if they change
+in response to warming. Nevertheless, the assumption of a con-
+stant mean trait for each species in any model seems overly
+simplistic, and the sensitivity of this assumption needs further
+testing with a data set that includes adequate information on
+intraspeciﬁc variation in trait distributions.
+Orthogonal spectra of coordinated traits were not good pre-
+dictors of species abundances. This was surprising given that
+81% of the variation in the trait data was captured by the ﬁrst
+three principal components. Apparently, enough variation in
+the trait values among species was lost in the data reduction to
+render the MaxEnt solutions poor ﬁts to observed abundances
+compared with predictions obtained using individual traits.
+Other studies have clearly shown that wood and leaf traits are
+important to community assembly (Cornwell and Ackerly
+1496
+D. C. Laughlin et al.
+ 2011 The Authors. Journal of Ecology  2011 British Ecological Society, Journal of Ecology, 99, 1489–1499
+
+2010), but in this study the wood and leaf trait axes did not
+provide enough information by themselves to make good pre-
+dictions of community structure. This suggests that the Max-
+Ent model requires many traits to achieve excellent ﬁts, which
+can easily lead to statistical over-ﬁtting. Over-ﬁtting can be
+partially avoided through the judicious selection of traits and
+through statistical signiﬁcance testing (Shipley 2010a; see
+approach in Appendix S2). This also implies that climatic con-
+straints on functional traits are not the only factors that deter-
+mine species distributions, especially in the light of the fact that
+environment could only explain a maximum of 57% of the var-
+iance in relative abundances.
+Trait–environment relationships formed the basis for pre-
+dicting shifts in species distributions in a warmer world. In the-
+ory, changes in climate at a given site will shift the average trait
+in a community towards values that confer high performance
+in that new climate. For example, if warming causes an
+increase in drought-induced cavitation, thereby giving an
+advantage to species with higher wood density (Hacke et al.
+2001), then the average wood density of the community should
+increase at that site. The MaxEnt model allows us to estimate
+how such a fundamental physiological mechanism will lead to
+changes in community composition. The MaxEnt model fore-
+casted an upward shift of c. 500 m in tree species elevation
+optimums (Lenoir et al. 2008) that would dramatically alter
+the character of northern Arizona landscapes. These shifts are
+within the range of vegetation change that has been observed
+in the palaeoecological record in the south-western USA (Cole
+1990), suggesting that these are possible given adequate dis-
+persal and recruitment. Tree species range shifts could already
+be underway given that tree mortality rates have recently
+increased across the western USA, possibly because of climate
+stressors (van Mantgem et al. 2009).
+According to the model results, the transition between
+J. monosperma woodland and P. ponderosa forest will shift
+upward from 2000 m to 2350 m (Fig. 5a,d). P. ponderosa
+forest currently occupies 1 857 200 ha in Arizona, of which
+1 440 700 ha occurs below 2350 m. This implies that up to
+78% of P. ponderosa forest in Arizona may transition to domi-
+nance by J. monosperma by 2060. These results are useful for
+informing management strategies to passively assist the migra-
+tion of species into climatically suitable environments. For
+example, managers could promote J. monosperma individuals
+that currently exist in P. ponderosa stands, thereby providing a
+seed source to passively facilitate the upward migration. Given
+that P. ponderosa is forecast to dominate higher elevation sites
+that are predicted to burn more frequently in a warmer climate
+(Westerling et al. 2006), P. ponderosa should be favoured in
+any silvicultural treatment in mixed-conifer forests to assist this
+upward migration. These results suggest that the MaxEnt
+model has practical uses in applied ecology, but this forecast
+suggests an extremely rapid shift in species distributions.
+The approach used here likely overestimates the rate of vege-
+tation change that will occur by the year 2060 because it did
+not incorporate other important climatic factors and demo-
+graphical processes known to inﬂuence species migration. For
+example, the increasing CO2 concentration may offset poten-
+tially negative consequences of increasing temperatures by
+increasing water use efﬁciency (Long et al. 2004). Changes in
+precipitation will also control range shifts, but we did not
+incorporate precipitation into the model because future
+changes in precipitation are far less predictable than changes in
+temperature (IPCC 2007) and because the WorldClim model-
+predicted normals of precipitation are strongly correlated with
+temperature.
+The MaxEnt approach used here did not account for dis-
+persal limitation, trait plasticity or evolutionary adaptation
+(Dullinger, Dirnbo¨ ck & Grabherr 2004; Morin, Viner & Chu-
+ine 2008). Forecasts of rapid migration rates are common to
+niche-based approaches (e.g. Iverson & Prasad 1998), and
+strict niche-based forecasts likely need tempering because dis-
+persal limitation will limit migration rates (Morin, Viner &
+Chuine 2008; Cole 2010; Moser et al. 2011). MaxEnt can
+potentially account for dispersal limitation by using more
+informative prior distributions that reﬂect local abundance
+patterns (Sonnier, Shipley & Navas 2010). We restricted our
+analyses to models with uniform (i.e. uninformative) prior dis-
+tributions. Trait plasticity and adaptation could be incorpo-
+rated into MaxEnt by altering trait values of species, but it is
+uncertain how species’ traits will adapt to such rapid climate
+change.
+Another limitation of the MaxEnt model is that it lacks an
+explicit mechanism relating plant traits to performance in dif-
+ferent environments (Webb et al. 2010). We assessed the per-
+formance ﬁlter using nonlinear regression models to develop
+equations for predicting community-weighted mean trait val-
+ues from climatic conditions. We acknowledge that this
+approach is largely phenomenological; that is, we relied on
+empirical ﬁts to observed data to learn inductively how com-
+munity-weighted mean traits vary along climatic gradients,
+rather than building a model from ﬁrst principles. Such models
+built from ﬁrst principles have not yet been fully developed,
+but recent theoretical advances suggest a promising way for-
+ward (Falster et al. 2010). Until this theory is more fully devel-
+oped, empirical models built from real data as a ﬁrst
+approximation to the assessment of the performance ﬁlter
+must be used.
+Why should ecologists bother with a trait-based approach
+when classical species distribution modelling approaches are
+easier to apply and often yield better predictions? First, trait-
+based approaches allow ecologists to statistically evaluate the
+importance of interspeciﬁc trait variation in community assem-
+bly and therefore attempt to explain observed distributional
+patterns based on physiology-based trait–environment con-
+straints. Classic modelling approaches lack a physiology-based
+link between species and environment. Secondly, the MaxEnt
+approach attempts to predict the relative abundance of every
+species in the species pool simultaneously (including those that
+never actually successfully establish), in contrast to the classic
+approach, which models either a single species at a time or
+just the species that are known to occur in a local site. Lastly, a
+predictive model based on trait–climate relationships is better
+suited for making predictions outside the range of where the
+model was developed (Webb et al. 2010). Given that climate
+Climatic constraints on forest assembly
+1497
+ 2011 The Authors. Journal of Ecology  2011 British Ecological Society, Journal of Ecology, 99, 1489–1499
+
+can predict biome types across the planet (Whittaker 1975),
+trait–climate relationships developed in one region may be sim-
+ilar to trait–climate relationships in other regions. Using a per-
+formance ﬁlter that is developed in one region to predict the
+relative abundances of a different set of species in another
+region is the natural next step for evaluating this trait-based
+model of community assembly.
+Acknowledgements
+This work was supported by a Joint Venture Agreement (#08-JV-11221633-
+233) with the USDA Forest Service Rocky Mountain Research Station.
+References
+Ackerly, D.D., Dudley, S.A., Sultan, S.E., Schmitt, J., Coleman, J.S., Linder,
+C.R., Sandquist, D.R., Geber, M.A., Evans, A.S., Dawson, T.E. & Lech-
+owicz, M.J. (2000) The evolution of plant ecophysiological traits: recent
+advances and future directions. BioScience, 50, 979–995.
+Agee, J.K. (1993) Fire Ecology of Paciﬁc Northwest Forests. Island Press, Wash-
+ington, DC.
+Baraloto, C., Paine, C.E.T., Poorter, L., Beauchene, J., Bonal, D., Domen-
+ach, A., He´ rault, B., Patin˜ o, S., Roggy, J. & Chave, J. (2010) Decou-
+pled leaf and stem economics in rain forest trees. Ecology Letters, 13,
+1338–1347.
+Brown, D.E. (2004) Biotic Communities: Southwestern United States and North-
+western Mexico. University of Utah Press, Salt Lake City, UT, USA.
+Cingolani, A.M., Cabido, M., Gurvich, D.E., Renison, D. & Dı´az, S. (2007)
+Filtering processes in the assembly of plant communities: are species
+presence and abundances driven by the same traits? Journal of Vegetation
+Science, 18, 911–920.
+Cole, K.L. (1990) Reconstruction of past desert vegetation along the Colorado
+River using packrat middens. Palaeogeography, Palaeoclimatology, Palaeoe-
+cology, 76, 349–366.
+Cole, K.L. (2010) Vegetation response to early Holocene warming as an analog
+for current and future changes. Conservation Biology, 24, 29–37.
+Cornelissen, J.H.C., Lavorel, S., Garnier, E., Dı´az, S., Buchmann, N., Gurvich,
+D.E., Reich, P.B., terSteege, H., Morgan, H.D., van der Heijden, M.G.A.,
+Pausas, J.G. & Poorter, H. (2003) A handbook of protocols for standardized
+and easy measurement of plant functional traits worldwide. Australian Jour-
+nal of Botany, 51, 335–380.
+Cornwell, W.K. & Ackerly, D.D. (2010) A link between plant traits and abun-
+dance: evidence from coastal California woody plants. Journal of Ecology,
+98, 814–821.
+Della Pietra, S., Della Pietra, V. & Lafferty, J. (1997) Inducing features of ran-
+dom ﬁelds. IEEE Transactions Pattern Analysis and Machine Intelligence, 19,
+1–13.
+Dullinger, S., Dirnbo¨ ck, T. & Grabherr, G. (2004) Modelling climate change-
+driven treeline shifts: relative effects of temperature increase, dispersal, and
+invisibility. Journal of Ecology, 92, 241–252.
+Falster, D.S., Bra¨ nnstro¨ m, A˚ ., Dieckmann, U. & Westoby, M. (2010) Inﬂuence
+of four major plant traits on average height, leaf-area cover, net primary pro-
+ductivity, and biomass density in single-species forests: a theoretical investi-
+gation. Journal of Ecology, 99, 148–164.
+Guisan, A. & Zimmermann, N.E. (2000) Predictive habitat distribution models
+in ecology. Ecological Modelling, 135, 147–186.
+Hacke, U., Sperry, J.S., Pockman, W.T., Davis, S.D. & McCulloh, K.A. (2001)
+Trends in wood density and structure are linked to prevention of xylem
+implosion by negative pressure. Oecologia, 126, 457–461.
+Haegeman, B. & Loreau, M. (2008) Limitations of entropy maximization in
+ecology. Oikos, 117, 1700–1710.
+Hijmans, R.J., Cameron, S.E., Parra, J.L., Jones, P.G. & Jarvis, A. (2005) Very
+high resolution interpolated climate surfaces for global land areas. Interna-
+tional Journal of Climatology, 25, 1965–1978.
+Iba´ n˜ ez, I., Primack, R.B., Miller-Rushing, A.J., Ellwood, E., Higuchi, H., Lee,
+S.D., Kobori, H. & Silander, J.A. (2010) Forecasting phenology under
+global warming. Philosophical transactions of the Royal Society of London.
+Series B, Biological Sciences, 365, 3247–3260.
+IPCC (2007) Climate change 2007: the physical science basis. Contribution of
+Working Group I to the Fourth Assessment Report of the Intergovernmental
+Panel on Climate Change (eds S. Solomon, D. Qin, M. Manning, Z. Chen,
+M. Marquis, K.B. Averyt, M. Tignor & H.L. Miller). University Press, Cam-
+bridge, UK, 996p.
+Iverson, L.R. & Prasad, A.M. (1998) Predicting abundance of 80 tree species
+following climate change in the Eastern United States. Ecological Mono-
+graphs, 68, 465–485.
+Jaynes, E.T. (2003) Probability Theory: The Logic of Science. Cambridge
+University Press, Cambridge, MA, USA.
+Keddy, P. (1992) Assembly and response rules: two goals for predictive com-
+munity ecology. Journal of Vegetation Science, 3, 157–164.
+King, D.A. (1990) The adaptive signiﬁcance of tree height. American Naturalist,
+135, 809–828.
+Laliberte´ , E. & Legendre, P. (2010) A distance-based framework for measuring
+functional diversity from multiple traits. Ecology, 91, 299–305.
+Laliberte´ , E. & Shipley, B. (2010) FD: Measuring Functional Diversity from
+Multiple Traits, and Other Tools for Functional Ecology. R package in The
+Comprehensive R Archive Network (CRAN), Vienna, Austria. http://
+cran.r-project.org/package=FD.
+Laughlin, D.C., Leppert, J.J., Moore, M.M. & Sieg, C.H. (2010) A multi-trait
+test of the leaf-height-seed plant strategy scheme with 133 species from a pine
+forest ﬂora. Functional Ecology, 24, 493–501.
+Lenoir, J., Ge´ gout, J.C., Marquet, P.A., de Ruffray, P. & Brisse, H. (2008) A
+signiﬁcant upward shift in plant species optimum elevation during the 20th
+century. Science, 320, 1768–1771.
+Long, S., Ainsworth, E., Rogers, A. & Ort, D. (2004) Rising atmospheric car-
+bon dioxide: plants FACE the future. Annual Review of Plant Biology, 55,
+591–628.
+van Mantgem, P.J., Stephenson, N.L., Byrne, J.C., Daniels, L.D., Franklin,
+J.F., Fule´ , P.Z., Harmon, M.E., Larson, A.J., Smith, J.M., Taylor, A.H. &
+Veblen, T.T. (2009) Widespread increase of tree mortality rates in the wes-
+tern United States. Science, 323, 521–524.
+Marks, C.O. & Muller-Landau, H.C. (2007) Comment on ‘‘from plant traits to
+plant communities: a statistical mechanistic approach to biodiversity’’. Sci-
+ence, 316, 1425c.
+McCune, B. & Keon, D. (2002) Equations for potential annual direct incident
+radiation and heat load. Journal of Vegetation Science, 13, 603–606.
+Morin, X., Viner, D. & Chuine, I. (2008) Tree species range shifts at a continen-
+tal scale: new predictive insights from a process-based model. Journal of
+Ecology, 96, 784–794.
+Moser, B., Fridley, J.D., Askew, A.P. & Grime, J.P. (2011) Simulated
+migration in a long-term climate change experiment: invasions impeded
+by dispersal limitation not biotic resistance. Journal of Ecology, 99,
+1229–1236.
+Pearson, R.G. & Dawson, T.P. (2003) Predicting the impacts of climate change
+on the distribution of species: are bioclimate envelope models useful? Global
+Ecology & Biogeography, 12, 361–371.
+R Development Core Team. (2010) R: A Language and Environment for Statis-
+tical Computing. R Foundation for Statistical Computing, Vienna, Austria,
+http://www.R-project.org.
+Rathcke, B. & Lacey, E.P. (1985) Phenological patterns of terrestrial plants.
+Annual Review of Ecology and Systematics, 16, 179–214.
+Roxburgh, S.H. & Mokany, K. (2007) Comment on ‘‘From plant traits to plant
+communities: a statistical mechanistic approach to biodiversity’’. Science,
+316, 1425b.
+Roxburgh, S.H. & Mokany, K. (2010) On testing predictions of species relative
+abundance from maximum entropy optimisation. Oikos, 119, 583–590.
+Schimper, A.F.W. (1903) Plant-Geography Upon on a Physiological Basis.
+Clarendon Press, Oxford, UK.
+Shipley, B. (2010a) Inferential permutation tests for maximum entropy models
+in ecology. Ecology, 91, 2794–2805.
+Shipley, B. (2010b) From Plant Traits to Vegetation Structure: Chance and
+Selection in the Assembly of Ecological Communities. Cambridge University
+Press, Cambridge, MA, USA.
+Shipley, B., Vile, D. & Garnier, E. (2006) From plant traits to plant communi-
+ties: a statistical mechanistic approach to biodiversity. Science, 314, 812–814.
+Shipley, B., Laughlin, D.C., Sonnie´ r, G. & Otﬁnowski, R. (2011) A strong test
+of the maximum entropy model of trait-based community assembly. Ecol-
+ogy, 92, 507–517.
+Sonnier, G., Shipley, B. & Navas, M.L. (2010) Plant traits, species pools and
+the prediction of biodiversity in plant communities: a maximum entropy
+approach. Journal of Vegetation Science, 21, 318–331.
+Vines, R.G. (1968) Heat transfer through bark, and the resistance of trees to
+ﬁre. Australian Journal of Botany, 16, 499–514.
+Violle, C., Navas, M.-L., Vile, D., Kazakou, E., Fortunel, C., Hummel, I. &
+Garnier, E. (2007) Let the concept of trait be functional! Oikos, 116, 882–
+892.
+1498
+D. C. Laughlin et al.
+ 2011 The Authors. Journal of Ecology  2011 British Ecological Society, Journal of Ecology, 99, 1489–1499
+
+Webb, C.T., Hoeting, J.A., Ames, G.M., Pyne, M.I. & Poff, N.L. (2010) A
+structured and dynamic framework to advance traits-based theory and pre-
+diction in ecology. Ecology Letters, 13, 267–283.
+Westerling, A.L., Hidalgo, H.G., Cayan, D.R. & Swetnam, T.W. (2006)
+Warming and earlier spring increase western U.S. forest wildﬁre activity. Sci-
+ence, 313, 940–943.
+Whittaker, R.H. (1975) Communities and Ecosystems. Macmillan Publishing
+Co. Inc., New York, USA.
+Wood, S. (2006) Generalized Additive Models: An Introduction with R. Chap-
+man & Hall ⁄ CRC, Boca Raton, FL, USA.
+Wright, I.J., Reich, P.B., Westoby, M., Ackerly, D.D., Baruch, Z., Bongers, F.
+et al. (2004) The worldwide leaf economics spectrum. Nature, 428, 821–827.
+Received 10 February 2011; accepted 29 July 2011
+Handling Editor: Jonathan Newman
+Supporting Information
+Additional supporting information may be found in the online ver-
+sion of this article:
+Appendix S1. Methodological details.
+Appendix S2. r code for evaluating the ﬁt of MaxEnt predictions
+when the constraints are predicted from environmental conditions.
+Table S1. Summary of GAM results relating traits to environment.
+As a service to our authors and readers, this journal provides support-
+ing information supplied by the authors. Such materials may be
+re-organized for online delivery, but are not copy-edited or typeset.
+Technical support issues arising from supporting information (other
+than missing ﬁles) should be addressed to the authors.
+Climatic constraints on forest assembly
+1499
+ 2011 The Authors. Journal of Ecology  2011 British Ecological Society, Journal of Ecology, 99, 1489–1499
+
+Copyright of Journal of Ecology is the property of Wiley-Blackwell and its content may not be copied or
+emailed to multiple sites or posted to a listserv without the copyright holder's express written permission.
+However, users may print, download, or email articles for individual use.

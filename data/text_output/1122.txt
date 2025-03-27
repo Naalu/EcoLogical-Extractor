@@ -1,0 +1,2008 @@
+RESEARCH ARTICLE
+Southwestern ponderosa pine forest patterns following
+wildland ﬁres managed for resource beneﬁt differ
+from reference landscapes
+Jonathon J. Donager
+. Andrew J. Sa´nchez Meador
+. David W. Huffman
+Received: 1 January 2021 / Accepted: 3 October 2021
+ The Author(s), under exclusive licence to Springer Nature B.V. 2021
+Abstract
+Context
+Managers aiming to utilize wildland ﬁre to
+restore
+southwestern
+ponderosa
+pine
+landscapes
+require better understanding of forest cover patterns
+produced at multiple scales. Restoration effectiveness
+of wildland ﬁres managed for resource beneﬁt can be
+evaluated against natural ranges of variation.
+Objectives
+We describe landscape patterns within
+reference landscapes, including restored and function-
+ing ponderosa pine forests of northern Arizona, and
+compare them to wildland ﬁres managed for resource
+beneﬁt. We make comparisons along a gradient of
+extents and assess the effects of scale on landscape
+differences.
+Methods
+Using Sentinel-2 imagery, we classiﬁed
+ponderosa pine forest cover and calculated landscape
+metrics across a gradient of landscape extent within
+reference and managed landscapes. We used non-
+parametric tests to assess differences. We used random
+forest models to assess and explore which landscape
+metrics were most importance in differentiating land-
+scape patterns.
+Results
+Restored forests exhibited landscapes pat-
+terns consistent with those of ecologically intact forest
+landscapes. Managed wildﬁre landscape patterns dif-
+fered signiﬁcantly when compared to reference land-
+scape patterns among nearly all landscape metrics
+considered and became increasingly different with
+increasing landscape extent (15–840 ha), tending
+towards both denser and larger patch areas.
+Conclusions
+Landscape patterns from wildland ﬁres
+managed for resource beneﬁt we examined differ from
+those of reference landscapes. Differences become
+more pronounced with increasing landscape size.
+Landscape patterns among large managed forest
+landscapes suggest that the predominately single-
+entry, low-severity disturbance regime from these
+managed ﬁres is failing to reduce tree densities and
+break up large contiguous areas of canopy cover.
+Keywords
+Forest structure  Frequent-ﬁre forests 
+Fire-adapted forest management  Scale relationships 
+Random forest classiﬁcation  Sentinel-2  Resource
+management
+Supplementary Information
+The online version contains
+supplementary material available at https://doi.org/10.1007/
+s10980-021-01352-1.
+J. J. Donager (&)  A. J. Sa´nchez Meador 
+D. W. Huffman
+Ecological Restoration Institute, Northern Arizona
+University, Southwest Forest Science Complex,
+PO Box 15017, Flagstaff, AZ 86011, USA
+e-mail: jonathon.donager@nau.edu
+123
+Landscape Ecol
+https://doi.org/10.1007/s10980-021-01352-1 (0123456789().,-volV)(
+01234567
+89().,-volV)
+
+Introduction
+In northern Arizona, USA, an extensive history of ﬁre
+exclusion and the subsequent densiﬁcation of pon-
+derosa pine (Pinus ponderosa var. scopulorum P. & C.
+Lawson) forest conditions have led to the need for
+landscape-scale restoration (Allen et al. 2002; Moore
+et al. 2004; Churchill et al. 2013). Climate change,
+uncharacteristic wildﬁre, and other disturbances oper-
+ating over spatial extents of thousands of hectares
+challenge public land managers to develop landscape-
+scale restoration plans. Restoration efforts typically
+utilize a combination of mechanical treatments, such
+as tree thinning to introduce forest structure compat-
+ible with natural ﬁre disturbance processes, yet these
+treatments can be costly and limited in scale and are
+not suitable for all lands (Hjerpe et al. 2009; Reynolds
+et al. 2013; North et al. 2015). Silvicultural prescrip-
+tions for mechanized restoration approaches are often
+guided by reference information, or descriptions of
+intact forest structure and processes (Fule´ et al. 1997;
+Reynolds et al. 2013). Such reference information is
+commonly used as a baseline against which effective-
+ness of various restoration approaches are evaluated
+(Morgan et al. 1994; White and Walker 1997; Landres
+et al. 1999). For southwestern ponderosa pine forests,
+natural ranges of variation have been well described
+for ﬁne-scale (\ 10 acres) structural attributes, but
+there has been little work done to quantify landscape
+patterns among mid- (10–1000 acres) to landscape-
+([ 1000 acres) scales of ecologically functioning
+forest stands and large restored sites (see Reynolds
+et al. 2013). An approach moving beyond typical plot-
+based comparisons is needed to capture the variability
+of landscape patterns across such a gradient of
+landscape scales and examine the current state of
+forest structure across the region.
+Using naturally occurring wildland (henceforth
+‘‘managed wildﬁre’’) ﬁre as an additional or comple-
+mentary treatment alternative to mechanical treatment
+has seen increased interest (North et al. 2012; Huffman
+et al. 2017, 2020). As frequent low-severity surface
+ﬁre plays an integral role in regulation of structure and
+function in these ponderosa pine ecosystems, managed
+wildﬁres may provide a cost-effective approach for
+restoring contemporary forest conditions, including
+reduction in small-diameter tree densities, lower
+hazardous fuel loads and potential ﬁre behavior, and
+increased ecological resilience (Hunter et al. 2011;
+Ager et al. 2017; Fitch et al. 2018; Barros et al. 2018;
+Huffman et al. 2020). While low-severity ﬁre will
+provide some beneﬁts, including maintenance of
+healthy forest structure, such as tree density, without
+mechanical intervention higher severity ﬁre is needed
+to alter forest structure to reduce tree density and break
+up continuous canopies (Hunter et al. 2011; Hagmann
+et al. 2013; McCauley et al. 2019; Owen et al. 2020).
+Moderate burn severity among both single- and
+multiple-entry managed wildﬁres meet more restora-
+tion objectives related to ponderosa pine forest
+structure, fuels, and ecological function, than areas
+in other burn severity classes, in northern Arizona and
+across western North America (Collins et al. 2011;
+Lydersen et al. 2013; Huffman et al. 2017, 2018, 2020;
+Stevens et al. 2017; Kane et al. 2019). However, the
+operational reality within the mosaic of multiuse lands
+is such that ﬁre managers are typically averse to the
+risks
+associated
+with
+moderate-severity
+burning
+(Young et al. 2019, 2020), resulting in the majority
+of reported treated acres falling into unburned and
+low-severity ﬁre, which generally lack the ability to
+alter forest structure (Stephens et al. 2016; Huffman
+et al. 2017, 2018, 2020; Weber and Yadav 2020).
+Given the contemporary structure of southwestern
+ponderosa pine forests, large-scale low-intensity ﬁre
+results in a homogenized disturbance landscape pat-
+tern, as opposed to the more varied patchwork of
+disturbance age and intensity that would have existed
+historically (Mast et al. 1999; Fule´ et al. 2007;
+Reynolds et al. 2013). The relationship of ﬁre severity
+and resulting forest structure has largely been studied
+at ﬁne-scales using ﬁxed area plots, typically less than
+one acre (Sa´nchez Meador et al. 2009, 2011; Huffman
+et al. 2017, 2018).
+To place managed wildﬁre landscapes in context,
+undisturbed, functioning, or restored landscapes (here-
+after referred to as reference landscapes) can provide
+estimates for a natural range of variability of landscape
+structure (White and Walker 1997; Fule´ et al. 2002a;
+Collins et al. 2007, 2017). Contemporary restored
+forest conditions are particularly helpful for deriving
+landscape-scale reference information, as landscape
+metrics derived from reconstructed, small-extents
+(0.04–1 ha) are notoriously difﬁcult to extrapolate to
+larger extents (e.g. 800 ha) due to the highly dynamic
+disturbance regime of in frequent ﬁre forests over
+larger scales and lack of large-scale empirical evi-
+dence(Sa´nchez Meador et al. 2011; Barth et al. 2015;
+123
+Landscape Ecol
+
+Cannon et al. 2018). Today, precious few landscapes
+exist in the Southwest we would consider ecologically
+intact, but notable exceptions include remote areas in
+national parks and wilderness areas, as well as large
+landscape with ongoing monitoring efforts (Roc-
+caforte et al. 2010; Strahan et al. 2015; Stoddard
+et al. 2018). For this study, we chose to compare both
+ecologically functioning and ecologically restored
+landscapes, which together provide more comprehen-
+sive estimates of the natural range of variability of
+landscape metrics examined here and baseline infor-
+mation for evaluating outcomes of managed wildﬁres
+in southwestern ponderosa pine forests.
+Quantifying forest structure over large areas is only
+possible through remote sensing approaches, which
+have a well-established role within forest research.
+Speciﬁcally, medium resolution (10–100 m) multi-
+spectral satellite imagery such as the Landsat family of
+satellites
+(30 m)
+or
+the
+Sentinel-2
+satellites
+(10–20 m), provide frequent image coverage that
+can be used to monitor forest cover and dynamics
+(Eidenshink et al. 2007; Wulder et al. 2012; Li and
+Roy 2017). While we cannot directly measure tree
+density or tree size or age distribution, those compo-
+nents of forest structure are directly correlated to forest
+cover (Donager et al. 2021), allowing us to gain insight
+in to the overall structure of the forest through a
+snapshot from above. The quantiﬁcation of forest
+structure from inter-stand (* 15 ha) to landscape
+scales ([ 400 ha) is sensitive to the grain of the data
+used to quantify landscape metrics (Wasserman et al.
+2019). Imagery from the Sentinel-2 satellites are
+medium-resolution (10–20 m), multispectral (12 spec-
+tral band) datasets and provide wall-to-wall coverage
+every 5 days on average (Li and Roy 2017). While
+sacriﬁcing ﬁne-scale (e.g., 1–3 m) detail compared to
+higher-resolution datasets, which are often also lim-
+ited to four multispectral bands, Sentinel-2 imagery
+allowed for increased discrimination of land cover
+types through integrating spectral and temporal infor-
+mation into the classiﬁcation scheme (Li and Roy
+2017).
+The intent of this study was to quantify forest
+structure through classiﬁcation of forest cover from
+remotely-sensed imagery across a gradient of land-
+scape scales to better understand spatial patterns
+within wildland ﬁres managed for resource beneﬁt
+and reference landscapes, consisting of restored and
+functioning ponderosa pine forests. From the forest
+cover classiﬁcation, we calculated a suite of landscape
+metrics to quantify landscape patterns. We then used a
+series of random forest models to better understand
+which components of landscape structure are driving
+the differences between these two landscape types and
+the scales at which those differences manifest. To
+accomplish this, we focused on three speciﬁc objec-
+tives: (1) quantify and test differences in landscape
+metrics calculated across a gradient of landscape
+extents among managed and reference landscapes,
+including restored and functioning landscapes (2)
+determine which landscape metrics are most important
+for distinguishing landscapes and identify how this
+relationship changes with landscape extent, and (3)
+interpret the management implications of multi-scale
+landscape metric differences among landscape types.
+Methods
+Study area
+Our study focused on two classes of landscapes within
+northern Arizona among federally controlled lands
+(Fig. 1): reference and wildﬁre managed for resource
+beneﬁt. Reference landscapes included both intact and
+experimental restoration landscapes. We included four
+large reference landscapes (\ 840 ha) and seven small
+(* 10–15 ha) experimental restoration areas in the
+study (Table 1). We compared these collectively
+described reference landscapes to 16 recent and
+sufﬁciently large managed ﬁres which ﬁt the study
+criteria (Fig. 1, Table 1). The sites encompassed a
+range of elevation, soil type, and topography, which in
+turn inﬂuences local climate. Average yearly precip-
+itation ranges from 385 to 825 mm (1st and 99th
+percentiles of precipitation) and average temperatures
+range from 6.1 to 12.0 C (1st and 99th percentiles of
+temperature) when considering values within the
+distribution of ponderosa pine across the study area
+(PRISM Climate Group, accessed May 2020). Eleva-
+tion within the distribution of ponderosa pine range
+from 1346 to 3449 m across the study extent. Inter-
+national soil classiﬁcations across the study area are
+generally Luvisols and Kastanozems (Hengl et al.
+2017). We limited our study to the distribution of the
+‘‘Rocky Mountain Ponderosa Pine Woodland’’ forest
+type land cover according to Southwest ReGAP data
+(SWReGAP 2005), as this represents forest cover
+123
+Landscape Ecol
+
+Fig. 1 Reference landscapes include Mt. Trumbull, Powell
+Plateau, Rainbow Plateau, and Fire Point (ranging in size from
+452 to 14,579 ha) and seven smaller sites (ranging in size from 8
+to 15 ha) located at Centennial Forest, Fort Valley, and
+Grandview (Tusayan Ranger District of the Kaibab National
+Forest). Also shown are 16 managed wildﬁres (e.g., Mormon
+ﬁre) which ranged in size from 450 to 14,000 ha and occurred in
+years 2015–2017. Panel insets show all reference landscapes
+and one example of wildland ﬁre managed for resource beneﬁt.
+Overview map shows ponderosa pine distribution according to
+the Southwest ReGAP classiﬁcation; insets show classiﬁcation
+output of ponderosa canopy cover
+123
+Landscape Ecol
+
+Table 1 Landscapes examined in the study, arranged from the smallest (restoration sites) to the largest (managed wildﬁres)
+landscapes considered
+Landscape type
+Name
+Size
+(ha)
+Treatment
+year
+Severity %
+(U;L;M;H)
+Mean
+elevation
+(m)
+Dominant soil
+groups
+Mean
+temp (C)
+Mean
+precip
+(mm)
+Restoration site
+Tusayan 1
+8.4
+1999
+–
+2267.3
+Luvisols
+8.6
+517.7
+Tusayan 2
+11.9
+1999
+–
+2259.5
+Luvisols
+8.6
+511.8
+Fort Valley
+1
+15.2
+2000
+–
+2336.2
+Luvisols
+6.9
+624.0
+Fort Valley
+2
+12.8
+2000
+–
+2326.9
+Luvisols
+6.9
+620.6
+Fort Valley
+3
+14.2
+2000
+–
+2266.9
+Luvisols
+7.0
+584.5
+Centennial
+Forest 1
+11.2
+2003
+–
+2242.7
+Luvisols
+7.1
+574.1
+Centennial
+Forest 2
+11.9
+2004
+–
+2201.1
+Luvisols/
+Kastanozems
+8.1
+646.2
+Reference
+landscape
+Mt.
+Trumbull
+701.1
+2002
+–
+2125.1
+Kastanozems/
+Luvisols
+9.4
+462.7
+Powell
+Plateau
+793.0
+–
+–
+2242.4
+Luvisols/
+Kastanozems
+8.7
+465.9
+Rainbow
+Plateau
+270.5
+–
+–
+2257.1
+Luvisols/
+Kastanozems
+8.6
+464.5
+Fire Point
+171.4
+–
+–
+2282.6
+Luvisols/
+Kastanozems
+8.5
+474.7
+Resource
+objective
+wildﬁre
+Fox
+452.3
+2015
+67; 33; 0; 0
+1972.4
+Luvisols
+10.6
+660.2
+Eden
+476.8
+2016
+60; 31; 8; 1
+2067.8
+Luvisols
+9.0
+552.5
+Crackerbox
+514.4
+2016
+64; 34; 0; 0
+2152.4
+Luvisols
+8.9
+652.2
+Echo
+810.0
+2015
+66; 31; 3; 0
+2079.2
+Luvisols
+9.8
+704.9
+Cowboy
+860.8
+2016
+60; 31; 8; 1
+2133.2
+Luvisols
+8.6
+736.6
+Rebel
+1017.7
+2015
+65; 32; 3; 0
+2195.4
+Luvisols
+8.7
+611.5
+General
+1175.0
+2015
+59; 35; 3; 0
+2129.3
+Luvisols
+8.9
+574.1
+Horse tank
+1558.2
+2015
+57; 31; 10; 2
+2067.7
+Luvisols
+10.7
+720.9
+Pinchot
+1562.8
+2016
+59; 39; 2; 0
+2205.7
+Luvisols
+9.0
+695.4
+Burnt
+complex
+1663.7
+2015
+64; 34; 2; 0
+2366.2
+Luvisols/
+Chernozems
+8.2
+558.0
+Pine hollow
+1718.3
+2017
+68; 30; 2; 0
+2219.7
+Luvisols/
+Kastanozems
+9.2
+490.6
+Pivot rock
+2432.0
+2016
+55; 36; 8; 1
+2133.7
+Luvisols
+9.7
+764.0
+Springs
+2997.9
+2015
+67; 33; 0; 0
+2144.9
+Luvisols
+9.1
+638.2
+Mormon
+3193.7
+2016
+54; 23; 19; 2
+2205.6
+Luvisols
+8.0
+709.8
+Snake ridge
+5713.5
+2017
+68; 31; 1; 0
+2074.6
+Luvisols/
+Kastanozems
+9.1
+620.7
+Jack
+14,527.8
+2016
+66; 25; 8; 1
+2146.6
+Luvisols/
+Kastanozems
+8.4
+572.0
+Restoration sites were only used for comparisons to managed ﬁre landscapes at the smallest extent. The percent area by ﬁre severity
+(U: unburned, L: low, M: moderate, and H: high) was calculated from Monitoring Trends in Burn Severity (MTBS); dominant soil
+groups are an international soil classiﬁcation for each area from SoilGrids data (Hengl et al. 2017); and mean climatic variables are
+30-year averages from PRISM (PRISM Climate Group 2020). Reference landscape mean elevations were not signiﬁcantly different
+from resource objective wildﬁre mean elevations according to Wilcoxian rank sum and Kolmogorov–Smirnov tests, while restoration
+site elevations were signiﬁcantly higher in elevation
+123
+Landscape Ecol
+
+dominated by ponderosa pine, but can include other
+components, including Gambel oak (Quercus gambe-
+lii). For a managed wildﬁre to be included in the study,
+the bounding polygon needed to be classiﬁed predom-
+inantly (2/3) as this forest type.
+The four large reference landscapes for this study
+included Mt. Trumbull, a restored experimental land-
+scape initially treated with a thin/harvest treatment in
+1996–1997 followed by initial prescribed ﬁre and
+subsequent maintenance burning in 2000–2008 (Roc-
+caforte et al. 2010); and Powell Plateau, Rainbow
+Plateau and Fire Point, three landscapes considered
+intact and ecologically functioning as logging and ﬁre
+suppression have not occurred in large part due to their
+remoteness on the North Kaibab Plateau (Fule´ et al.
+2002a, 2004). Small experimental restoration sites
+(see Table 1) were treated using evidence-based
+ecological restoration guidelines (‘‘ERG’’ sensu Tuten
+et al. 2015) wherein the resulting forest structure was
+targeted to be consistent with site-speciﬁc historical
+conditions and ranged (see Fule´ et al. 2001, 2002b) in
+size from 8 to 15 ha (Table 1). These experimental
+sites located within Centennial Forest, Fort Valley
+Experimental Forest on the Coconino National Forest,
+and the Tusayan Ranger District (Fig. 1) of the Kaibab
+National Forest. All reference landscapes and restora-
+tion sites are dominated by ponderosa pine (P.
+ponderosa), but also include varying amounts of
+Gambel oak (Q. gambelii).
+We selected recent managed wildﬁres for analysis
+which met the following criteria: (1) size ([ 405 ha),
+(2) year of occurrence between 2015 and 2018, (3)
+identiﬁed as being managed for resource beneﬁt from
+the Forest Service Activity Tracking System (FACTS)
+database and (4) had a vegetation cover type domi-
+nated ([ 66%) by ponderosa pine, as classiﬁed by the
+Southwest ReGAP land cover classiﬁcation (Lowry
+et al. 2007). We cross-referenced selected ﬁres with
+the Monitoring Trends in Burn Severity (MTBS)
+dataset to ensure the dates, locations, and perimeter of
+wildﬁres matched (MTBS 2017). A total of 16
+wildﬁres matched all criteria (Fig. 1, Table 1). Fire
+weather and fuels information for each ﬁre on the date
+of ignition is included in the Online Appendix (A). We
+used FireFamily Plus (4.2) to summarize fuels and
+weather conditions for the ﬁrst 30 days following
+ignition of the wildﬁres (Bradshaw and McCormick
+2009). Historical weather data summarized was from
+Happy Jack (ID 020291), Flagstaff (ID 020209), and
+Tusayan, Arizona (ID 020207) Remote Automated
+Weather Stations. As our focus for this study was on
+ponderosa pine forest, we removed any ﬁre meeting
+our criteria but not having a majority proportion of
+ponderosa pine forest cover (\ 66%). Among the total
+burned area covered by the 16 wildﬁres, approxi-
+mately 90% was classiﬁed as unburned and low
+severity, while medium and high severity classiﬁca-
+tions were 8.3% and 1.7%, respectively (www.mtbs.
+gov).
+Canopy cover classiﬁcation
+We used seasonal image composites of Sentinel-2
+satellite imagery to classify the landscape into four
+categories: evergreen canopy cover, deciduous canopy
+cover, non-tree cover and water. As our areas of
+interest were limited in extent, this simple classiﬁca-
+tion scheme proved to be adequate to isolate pon-
+derosa pine cover from deciduous cover, particularly
+Gambel oak. We built the seasonal image composites
+in Google Earth Engine (Gorelick et al. 2017) using
+Sentinel-2 level 2A multispectral imagery calibrated
+to surface reﬂectance for the year 2019. These images
+are radiometrically calibrated and geographically
+referenced. For each seasonal composite, we calcu-
+lated the median value for each pixel after masking out
+cloud and cloud shadow pixels from the image stack
+using all available imagery in a time period that
+spanned 1 month prior to and following solstice and
+equinox dates. We conducted all subsequent analysis,
+including random forest classiﬁcation models of the
+image composites in R using the ranger package (ver
+0.12.1; Wright and Ziegler 2017) for random forest
+classiﬁcation. Rasters representing elevation (http://
+ned.usgs.gov), derived slope and aspect as well as a
+soil parent material classiﬁcation (Theobald et al.
+2015) were included in the classiﬁcation. We main-
+tained the pixel resolution of the classiﬁcation and
+resulting grain of landscape analyses at 10 m based on
+the Sentinel-2 imagery by down sampling coarser
+resolution image bands using a smoothing ﬁlter to
+match the resolution of the visible and near-infrared
+bands.
+We built training and testing datasets of labeled
+point locations through manually examining NAIP
+imagery (2017) in combination with summarized
+Sentinel-2 image stacks to ensure selected points were
+not in an incorrect pixel due to geographic offsets of
+123
+Landscape Ecol
+
+the two datasets. The non-tree category was an all-
+inclusive ‘‘other’’ category which, for example,
+included training points representing bare ground,
+herbaceous cover, and roads. All training and testing
+points were located inside of a 1 km buffered area of
+reference landscape and wildﬁre perimeters. A total of
+450 training points were chosen, with approximately
+equal quantities for each category (* 130 points)
+other than water (59 points).
+The resulting canopy cover classiﬁcation had an
+accuracy of 99.7% based on out-of-bag sampling, or
+compared tothe training labels, from the random forest
+model creation. A manual accuracy assessment was
+conducted using250 randomly sampled points gener-
+ated within 1 km of reference landscapes and managed
+wildﬁre perimeters(Table 2). Overall accuracy was
+less than the random forest out-of-bag estimate, but
+still high at 93%. Mean Usersaccuracy was 91% while
+mean producer’s accuracy was 92%.
+Sampling along a gradient of landscape extents
+From our classiﬁed map, we calculated landscape
+metrics along a gradient of subsampled extents
+randomly generated within the reference and wildﬁre
+landscape perimeters. This approach allowed us to
+move beyond the traditional dependency on plot-
+based comparisons and undertake a more holistic
+assessment of each landscape. As ponderosa pine was
+the dominant component of the landscape, and the
+cover type forest managers are interested in manipu-
+lating, we eliminated all other cover classiﬁcation
+types before calculating metrics (Fig. 2). While we
+calculated a total of 55 class-level landscape metrics
+using the R package landscapemetrics (ver 1.4;
+Hesselbarth et al. 2019), we chose to focus on twelve
+metrics which encompassing a range of relevance to
+land management. Metrics analyzed were patch area
+and edge, core area, and several shape and aggregation
+metrics (see Table 1). A complete list of class-level
+landscape metrics and corresponding summaries for al
+focal landscapes (55 metrics) are included in Online
+Appendix B. For each landscape extent from that of
+restoration sites (* 15 ha) to the largest managed
+wildﬁre extent (* 15,000 ha), we calculated all class-
+level landscape metrics. For the purposes of this
+research, we speciﬁcally focus on a set of landscape
+metrics directly applicable to landscape-scale forest
+management among area and edge metrics (proportion
+of landscape, mean and standard deviation of patch
+area, and edge density), core area metrics (core area
+proportion of landscape, mean and standard deviation
+Table 2 Accuracy assessment of classiﬁcation outputs using
+randomly sampled validation points (n = 250) located inside
+and within 1 km of the reference and managed wildﬁre
+landscapes included in the study. User’s accuracies (right side
+column), producer’s accuracies (bottom row) and overall
+accuracy (bottom-right) suggest high overall classiﬁcation
+accuracies. Relatively lower accuracies associated with decid-
+uous cover likely results from understory greenness obfuscat-
+ing the signal. The grey color highlights counts of correctly
+classiﬁed validation points
+Manual classification
+Evergreen 
+cover
+Deciduous 
+cover
+Non-forest 
+cover
+Total
+ts
+er
+o
+F
+m
+o
+d
+n
+a
+R
+n
+oita
+cifiss
+alc
+Evergreen cover
+98
+0
+3
+101
+0.97
+Deciduous cover
+0
+33
+7
+40
+0.825
+Non-forest cover
+3
+5
+101
+109
+0.927
+Total
+101
+38
+111
+232
+0.97
+0.868
+0.91
+0.928
+123
+Landscape Ecol
+
+of the core area index), shape metrics (mean and
+standard deviation of the shape index), and aggrega-
+tion metrics (patch density, normalized landscape
+shape index, and the division index). For further
+details, see McGarigal et al. (2012). We compared
+restoration sites to larger reference landscapes by
+randomly sampling 15 ha extents from within the
+reference landscape boundary to create a distribution
+of metrics at that same extent, allowing sampled
+extents to overlap at random (Fig. 2B). In the same
+way, we compared reference landscapes to managed
+wildﬁres among intervals of landscape extents by
+subsampling both within reference landscapes and
+managed wildﬁre boundaries and comparing the
+resulting distribution of landscape metrics. In this
+way, comparisons were made at each of those extents
+so as to avoid metric comparisons sensitive to extent
+(Wasserman et al. 2019). The maximum extent for
+comparison was approximately 800 ha, which was
+determined by the maximum size of available refer-
+ence landscapes within the study area. We generated
+subsampled extents by randomly generating point
+locations within an inward-buffered landscape and
+buffering those points by the appropriate radius to
+achieve the desired extent which was then clipped by
+the landscape boundary (Fig. 2). The size of the
+inward buffer is a function of the radius of the desired
+subsample extent. The number of points generated is a
+function of the desired subsample extent area and the
+total area of the landscape, whereby for each individ-
+ual landscape, we divided the total area by the target
+sampled extent, multiplied that resulting number by
+three, and chose that many random samples within that
+landscape with an interior buffer to reduce sampled
+areas falling too much outside the landscape extent
+Those sampled points were then buffered to the correct
+target extent. Resulting extent polygons were then
+ﬁltered by removing buffered polygons whose cen-
+troid fell within a threshold number of resulting
+polygons (C 5% of the total subsampled extents
+within the landscape) to promote the independence
+of the metrics calculated within a given landscape. As
+a ﬁnal check, subsampled extents were removed if
+they were less than 75% of the target landscape extent
+area.
+Comparisons of landscape metrics
+Our analysis resulted in three general strata of
+landscape metrics: (1) inclusion of restoration sites
+at approximately 15 ha extent, (2) comparisons to
+reference landscapes up to approximately 800 ha
+extent, and (3) values only resulting from large
+wildﬁres
+up
+to
+approximately
+15,000 ha
+extent
+(Fig. 2). Managed wildﬁres varied in size, from 452
+to 14,529 ha while reference landscapes were smaller
+overall, ranging from 8 to 800 ha (Table 1). We only
+compared metrics calculated at similar extents, for
+each extent considered. Comparisons of metrics drawn
+from different landscape types were made using the
+Kolmogorov–Smirnov test (Marsaglia et al. 2003) in
+addition to the Mann–Whitney test (Sijtsma and
+Emons 2010). For both tests, signiﬁcance was deter-
+mined by an alpha value smaller than that of the
+appropriate Bonferroni correction (a = 0.01). The
+two-sample
+Kolmogorov–Smirnov
+test
+is
+a
+Fig. 2 Example of A 100 ha sampled extents and B 15 ha
+sampled extents for the Mt. Trumbull reference landscape. The
+dark dashed line shows the inward buffering used in the process
+of creating the sampled extents, within which random points
+were generated (red dots). And then buffered and clipped to the
+landscape boundary. Sampled extents were removed if their
+centroid intersected many other polygons (determined relative
+to the total number of sampled extents). Extents were removed if
+their resulting area was less than 75% of the target extent area
+123
+Landscape Ecol
+
+nonparametric test of how similar the shapes are for
+two continuous distributions are through a comparison
+of the empirical distribution function and the cumu-
+lative distribution function of the two samples,
+respectively (Marsaglia et al. 2003). The Mann–
+Whitney test is also a nonparametric rank sum test
+which examines the probability than any single sample
+is drawn from differing distributions (Sijtsma and
+Emons 2010).
+Determining metric importance across scale using
+random forest classiﬁers
+Finally, to understand which landscape metrics were
+the most important in discriminating reference and
+managed wildﬁre landscapes and how those differ-
+ences changed with scale, we implemented a series of
+random forest classiﬁcation models and retrieved
+variable importance, model accuracy, and sample
+sizes for each model (n = 11). Random forest models
+were built using the 12 landscape metrics as predictors
+of landscape type (managed vs. reference). Models
+were built using 10,000 trees and assessing half of the
+landscape metrics at each tree node and individual
+landscape metric importance was assessed using a
+permutation approach within the random forest model.
+Variable importance values in combination with
+model accuracy were used to infer how individual
+landscape metrics are more or less differentiable
+across the scale gradient applicable to both reference
+and managed wildﬁre landscapes. Kendall rank cor-
+relation coefﬁcients among the variables are included
+as an Online Appendix (C).
+Results
+Comparison of small restoration sites to reference
+landscapes
+We initially compared landscape metrics among
+restored (15 ha) and reference landscapes (\ 800 ha)
+as separate groups. However, testing showed that
+restored and reference landscapes were not statisti-
+cally different from one another at our smallest
+landscape extent (Fig. 3). Because our analysis
+showed that these sites were consistent with functional
+landscapes when randomly subsampled at a similar
+extent (* 15 ha) from both Kolmogorov–Smirnov
+and Mann–Whitney test results we collapsed these
+categories into the singular ‘reference’ landscape
+category for further analysis. Of the metrics we
+examined, only edge density displayed signiﬁcant
+differences (Fig. 3). Elevations of the smaller restored
+sites were greater than the managed wildﬁre land-
+scapes on average, according to Wilcox and Kol-
+mogorov–Smirnov tests. However, they were not
+signiﬁcantly
+different
+from
+larger
+reference
+landscapes.
+Comparisons of landscape metrics among extents
+Similarities among restoration and reference land-
+scape metrics justiﬁed combining them into a single
+‘‘reference’’ class (see section ‘Comparisons of land-
+scape metrics’). Most landscape metrics were signif-
+icantly different between reference and wildﬁre
+landscapes across the gradient of all extents tested
+(Fig. 4). The entirety of landscape metric values (55
+metrics) are included as an Online Appendix (B).
+Among most landscape metrics we focused on, the
+distribution of metric values was signiﬁcantly differ-
+ent according to both statistical tests and differences
+tended to increase as sampled extent increased. Of
+particular note were proportion of the landscape, (i.e.,
+canopy cover), mean and standard deviation of canopy
+patch area, all three aggregation metrics, and the
+standard deviation of the shape index (Fig. 4). Median
+canopy cover in managed landscapes decreased with
+scale from 70.5% (15-ha extent) to 60.8% (840-ha
+extent) and continued to less than 50% at the largest
+wildland ﬁre extent (15,000-ha). Similarly, canopy
+cover on reference landscapes decreased from 48.8%
+(15-ha) to 28.8% (840-ha). Differences in canopy
+cover between landscapes were statistically signiﬁcant
+across all extents tested. Median patch area similarly
+decreased with scale, from 2.17 ± 3.32 ha (15-ha
+extent) to 1.5 ± 22.4 ha (840-ha extent) among
+managed landscapes and from 0.52 ± 1.45 ha (15-
+ha extent) to 0.24 ± 1.78 ha (840-ha extent) among
+reference landscapes. The opposite relationship was
+true for patch density, which increased from 33.2 ha-1
+(15-ha extent) to 40.9 ha-1 (840-ha extent) among
+managed landscapes and from 84.1 ha-1 (15-ha
+extent) to 122.2 ha-1 (840-ha extent) among reference
+landscapes.
+Of the remaining landscape metrics, the distribu-
+tion of landscape metric values among reference and
+123
+Landscape Ecol
+
+managed wildﬁre sampled extents were signiﬁcantly
+different among smaller landscape extent comparisons
+but became non-signiﬁcantly different from one
+another as sampled landscape extent increased accord-
+ing to both comparison tests (Fig. 4). However, the
+majority of metric distributions were signiﬁcantly
+different according to the Kolmogorov–Smirnov test.
+The notable exception was edge density, for which
+both tests were not signiﬁcant at any sampled extent
+but differed signiﬁcantly according to the Kol-
+mogorov–Smirnov
+test
+for
+sampled
+extents
+of
+240 ha and smaller (Fig. 4). While there was no
+Fig. 3 Boxplot comparisons of restoration treatment samples
+(lighter blue; n = 57) to reference landscapes (darker blue;
+n = 148) sampled at approximately 15-ha extents for A area and
+edge metrics, B core area metrics, C aggregation metrics and
+D shape metrics. Restoration boxplots are outlined in black if
+comparison tests were signiﬁcant (p \ 0.01), and semi-trans-
+parent otherwise. The only signiﬁcant difference was for edge
+density. Test results are displayed above the x-axis with asterisks
+for signiﬁcance in each of the comparison tests (Kolmogorov–
+Smirnov, Mann–Whitney) and a point otherwise
+123
+Landscape Ecol
+
+comparison for managed wildﬁre extents greater than
+840 ha, among the majority of landscape metrics the
+trend established among smaller extents continued
+through the largest extent of 15,000 ha, with metrics
+tending smaller or larger in accordance with values
+extracted from smaller sampled extents (Fig. 4).
+Landscape metric importance across scale
+Overall, relative importance of the twelve landscape
+metrics for distinguishing between managed wildﬁres
+and reference sites decline with increasing landscape
+extent with greater importance among scales less than
+Fig. 4 Comparison of landscape metrics among a gradient of
+extents within reference landscapes (blue) and managed
+wildﬁres (red) for area and edge (Area), core area (Core),
+aggregation (Agg.), and shape (Shape) metrics. While we show
+metrics for the largest extents of wildﬁres, comparisons to
+reference were only possible up to 840 ha extents. Individual
+boxplots are outlined in black if both comparison tests were
+signiﬁcant (p \ 0.01), and transparent otherwise. Test results
+displayed above the x-axis with asterisks for each of the
+comparison
+tests
+(Kolmogorov–Smirnov,
+Mann–Whitney).
+Outlier values are included but transparent to highlight the
+main distribution of metric values
+123
+Landscape Ecol
+
+240 ha (Fig. 5A). Despite this, model accuracy
+increased to nearly 100% with increasing sampled
+extent, increasingly rapidly up to 240 ha (Fig. 5B, C).
+In other words, as landscape extent increases, our
+resulting models were better able to distinguish
+landscape type (reference vs. managed) given less
+data and increasingly similar variable importance
+among predictors. An inﬂection in predictive accuracy
+appears to occur at the 240-ha scale (Fig. 5).
+Area and aggregation metrics were consistently the
+most important landscape metrics for discriminating
+between landscape types across all scales examined.
+Speciﬁcally, proportion of the landscape, mean patch
+area and the normalized landscape shape index were
+the most important among landscape extents smaller
+than 240 ha (Fig. 5). Among these intermediary scales
+(up to 240 ha), we observed a shift in which variables
+were most important from proportion of landscape and
+the normalized landscape shape index to patch area
+and patch density. Patch area and division index are
+the most important landscape metrics at the largest
+extent (840 ha). Shape metrics were consistently less
+important among all scales while edge density was the
+least important metric at all extents greater than
+240 ha (Fig. 5).
+Discussion
+Through a landscape-scale assessment of forest
+canopy cover and landscape patterns, we found that
+restored forests exhibited patterns consistent with
+intact landscapes and that managed wildﬁres were
+largely unsuccessful at altering forest structure. We
+also found that homogeneity of landscape pattern
+increased with landscape scale, but homogeneity
+trends differed signiﬁcantly among reference and
+managed wildﬁre landscapes. While aggregate differ-
+ences are relatively minor at small scales, stemming
+from a high degree of variability, differences tended to
+increase with scale and the metrics deﬁning those
+differences change in their importance as we moved to
+landscape scales. Although we initially explored a
+large suite of landscape metrics, we ultimately con-
+centrated on twelve common metrics which easily
+translate to forest management and silvicultural pre-
+scriptions (Reynolds et al. 2013; Churchill et al. 2013;
+Rodman et al. 2016), were parsimonious in their
+description of landscape pattern (Cushman et al.
+2008), and have been found to be useful in evaluating
+restoration treatment success (Dickinson et al. 2016;
+Ziegler et al. 2017; Huffman et al. 2017). Our
+Fig. 5 Heatmap showing variable importance among random
+forest models for each extent from 15 to 840 ha (A), sample
+sizes for each landscape extent (B) and overall model accuracy
+for each scale (C). Variable importance was normalized to a 0–1
+scale for ease of interpretation. Overall, variables became less
+important with increasing landscape extent while overall model
+accuracy increases to nearly 100%, despite having fewer
+samples to draw from. Area and aggregation metrics remain
+the most important metric classes among all models. Importance
+values were re-scaled from 0 to 1 by dividing by the maximum
+importance value from the model series
+123
+Landscape Ecol
+
+approach to assessing differences across scale allowed
+us to examine those outcomes and provided some
+insight into the scales at which management would be
+necessary to address particular ecological processes
+and functions (Kerr and Ostrovsky 2003; Uuemaa
+et al. 2013; Wan et al. 2020) and could serve to help
+outline future restoration planning efforts (Churchill
+et al. 2013; Dickinson et al. 2016; Cannon et al. 2020;
+Wan et al. 2020).
+Reference landscape patterns
+Landscape patterns at restored sites around the 15-ha
+extent were consistent with those of intact ponderosa
+pine forest landscapes that had not experienced
+notable impacts of late nineteenth century livestock
+grazing and ﬁre exclusion. Based on this initial result,
+we were able to combine restored and functioning
+landscapes into a single reference class for subsequent
+analysis. This is unsurprising, as the removal of trees
+during the process of restoration mimics the discon-
+tinuous canopy patterns we would expect from low-
+severity, frequent ﬁres over sufﬁciently long time
+periods. Mount Trumbull stands out as a unique
+landscape in the Southwest in that it was the only
+large, restored landscape in the region we could
+include in the study. Ambitious efforts are presently
+underway to apply restoration treatments across
+millions
+of
+hectares
+throughout
+the
+Southwest
+(Schultz et al. 2012), but much more needs to be
+treated to assist with the restoration of large land-
+scapes. Similarity between restoration sites and intact
+landscapes suggests that restoration treatments, as
+implemented using the ERG method (see Tuten et al.
+2015), have measurably promoted forest structural
+conditions consistent with reference landscapes, com-
+plementing many previous studies relying on plot-
+based measurements of forest structure (Mast et al.
+1999; Fule´ et al. 2002b; Waltz et al. 2003; Roccaforte
+et al. 2010, 2015; Tuten et al. 2015). Canopy
+proportion of the landscape, mean patch size and
+patch density were very similar among restored and
+functioning landscapes, with restored landscapes were
+comprised of smaller and denser canopy patches. Edge
+density was the only metric that showed signiﬁcant
+differences between restored and intact landscapes.
+This single difference could result from the imple-
+mentation of mechanical treatments which have
+operation limitations and target the restoration of
+functioning conditions through tree spacing and patch
+sizes, but fail to promote spatial complexity that stems
+from low-severity, frequent ﬁre (Hargis et al. 1998;
+McIver et al. 2013).
+Elevations of small restoration sites did prove to be
+higher than those of managed wildﬁres but did not
+signiﬁcantly differ from elevations of large reference
+landscapes. While these landscapes tended to be
+slightly higher in elevation, on average, they do not
+persist at the upper limit of ponderosa pine distribu-
+tion, but reside well inside the elevation band of
+ponderosa pine forests (Moir et al. 1997). It should
+also be noted that these larger reference landscapes
+only occur in the northern latitudes of our study area.
+While we desired to incorporate a greater number of
+reference landscapes representing a greater diversity
+of environmental conditions, this was simply not a
+possibility within the forests of our study area as they
+did not exist. These larger landscapes represent what
+we expect to see given the range of environmental and
+disturbance factors that would have existed histori-
+cally across the region (Moir et al. 1997; Reynolds
+et al. 2013; Ritter et al. 2020). The structure of these
+reference landscapes is dependent upon the removal of
+trees and limits on establishment, through either
+mechanical (e.g. restoration activities) or disturbance
+(e.g. low-severity ﬁre) mechanisms, coupled with
+frequently recurring ﬁre to maintain those structural
+patterns (Covington et al. 1997; Fule´ et al. 2002a;
+Stoddard et al. 2021).
+Comparisons to managed wildland ﬁres
+Landscape metrics derived from wildland ﬁres man-
+aged for resource beneﬁt were signiﬁcantly different
+from those of reference sites across the gradient of
+landscape extents we examined. Managed wildﬁres
+exhibited greater canopy cover, larger patch size and
+corresponding lower patch density, and divergent
+shape complexity as compared with reference sites.
+Taken together, these differences continue to reﬂect
+the denser forest conditions typical of ﬁre-excluded
+ponderosa pine forests that dominate a region where
+surface ﬁre has been excluded for decades and
+thinning activities have not yet occurred (Covington
+et al. 1997). Dense forest conditions and larger patches
+of contiguous canopy on the managed wildﬁre sites
+reﬂect the management tendency towards unburned or
+low burn severity and limited re-entry, conclusions
+123
+Landscape Ecol
+
+that parallel those drawn in previous studies examin-
+ing managed wildﬁres in the Southwest (Huffman
+et al. 2017, 2018). While these studies have suggested
+that some mixed severities may be necessary to alter
+forest structure, only one ﬁre examined had greater
+than 10% of its area classiﬁed as moderate burn
+severity, and only two ﬁres had more than 1% of total
+area classiﬁed as high severity. Current research has
+shown that the presence of high-severity conditions
+within a managed wildﬁre is correlated with landscape
+patterns within southwestern forests (Singleton et al.
+2021). Interestingly, edge density was similar among
+all landscape types in our study, perhaps resulting
+from larger patches having a similar amount of patch
+edge to that observed for smaller, yet more complex,
+canopy patches (see Cushman et al. 2008) and perhaps
+suggesting edge density is not a good metric for
+assessing active forest management.
+Larger contiguous patches of forest canopy within
+managed wildﬁres suggest that numerous restoration
+objectives, such as the reduction of canopy fuels and
+crown ﬁre hazard, promotion of understory plant
+production and diversity through decreased resource
+competition from overstory trees, and increases in
+habitat suitability for wildlife species associated with
+forest edges, have not been effectively met (Covington
+et al. 1997; Laughlin et al. 2008; Fule´ et al. 2012;
+Reynolds et al. 2013). Homogeneity of forest canopy
+and lack of structural complexity also increase
+vulnerability of ecosystems to landscape-scale distur-
+bances such as stand-replacing wildﬁre, bark beetle
+attacks, and density-dependent or drought induced
+mortality (Covington et al. 1997, Agee and Skinner
+2005; Kolb et al. 2007; McWethy et al. 2019).
+Although, interconnected tree crowns and greater
+canopy cover are important for some wildlife species,
+such as the tassel-eared squirrel (Sciurus aberti),
+Mexican spotted-owl (Strix occidentalis lucida), and
+northern goshawk (Accipiter gentilis) (Ganey et al.
+1999; Prather et al. 2006; Loberger et al. 2011; Tuten
+et al. 2015; Bagdon et al. 2016), severe loss of habitat
+due to stand-replacing ﬁre remains of high concern to
+forest managers. Over time, repeated ﬁre occurrence,
+especially if allowed to burn at severity levels that
+reduce tree density, can increase heterogeneity by
+breaking up larger forest stands and creating discon-
+tinuous, smaller tree patches as well as moderating
+understory tree growth into the overstory (Hargis et al.
+1998; Covington et al. 2001; Hunter et al. 2011;
+Reynolds et al. 2013; Huffman et al. 2018; Kane et al.
+2019). Thus, to meet objectives associated with
+ecological restoration, repeated low- to moderate-
+severity wildﬁres are necessary to disrupt continuous
+canopy structure typical of ﬁre-excluded forests and
+restore spatial patterns more consistent with the
+natural range of variation (Allen et al. 2002; Reynolds
+et al. 2013; Huffman et al. 2017). If ﬁres are
+consistently managed for minimal effects and low
+burn severity, time required to incrementally produce
+ﬁne-grain structural patterns may be beyond typical
+planning horizons for public land managers (Collins
+et al. 2009; van Wagtendonk et al. 2012; Huffman
+et al. 2018; Yocom et al. 2019). Generally, fragmen-
+tation, which in ﬁre-excluded ponderosa pine forests is
+likely to increase heterogeneity, has been shown to be
+linearly related to the proportion of the landscape
+disturbed (Hargis et al. 1998; McGarigal et al. 2012).
+First-entry wildﬁres can reestablish canopy structure
+consistent with reference landscapes if allowed to burn
+at some moderate severities (Huffman et al. 2018;
+Kane et al. 2019), but this is often not preferable when
+natural resource and other values are perceived to be at
+high risk (North et al. 2015).
+Landscape patterns in southwestern ponderosa pine
+forests are a product of the dominant disturbance
+process: low-severity, frequent ﬁre (Allen et al. 2002;
+Veblen 2003; Reynolds et al. 2013). In a functioning
+forest, such as our reference landscapes, this distur-
+bance is sufﬁcient to maintain low tree density and
+discontinuous canopy, but fails to do so once the age of
+dominant trees develop ﬁre resistance and high tree
+densities promote canopy transmission of ﬁre (Rey-
+nolds et al. 2013; Taranco´n et al. 2014; Bottero et al.
+2017; Ritter et al. 2020). Repeated low-severity
+wildﬁre will promote heterogeneity at small scales,
+but lead to homogenous landscape patterns at increas-
+ingly larger scales (Wasserman et al. 2019). Our
+results showed that among all landscape metrics,
+greater variability transitions to increased homogene-
+ity of metric values with increases in landscape extent.
+While the range of landscape metric values became
+increasingly constrained with increasing extent, ref-
+erence landscape metrics were generally more con-
+strained than their managed wildﬁre counterpart,
+suggesting that heterogeneity may not have been a
+key element at all scales for reference landscapes. It is
+possible that we were not able to examine landscapes
+large
+enough
+to
+see
+an
+eventual
+increase
+in
+123
+Landscape Ecol
+
+heterogeneity at larger landscape extents, exemplify-
+ing a key constraint to our study, the lack of large
+reference landscapes. Variability in patch area was the
+only metric examined which exhibited the opposite
+pattern of increased heterogeneity with increasing
+scale, and this was only among managed wildﬁre
+landscapes. This was likely due to increasingly large
+patches being included in summaries as extents
+became larger; the same was not true for reference
+landscapes.
+The effect of scale on metrics
+We were surprised by the random forest model results
+showing that decreasing sample sizes among larger
+landscapes extents were associated with increasing
+model accuracy, coupled with an overall decline in
+variable importance (Cutler et al. 2007). These results
+suggest that the landscape types predicted in the model
+became
+increasingly
+differentiable
+with
+smaller
+amounts of data. In other words, as landscape extent
+increased, managed and reference landscapes became
+increasingly distinct. Increased homogeneity of land-
+scape metrics with increasing landscape extent sug-
+gest that these landscape types homogenize with scale
+in different ways, which is also evident in the distinct
+trajectories of each landscape metric across the
+gradient of sampled extents. An inﬂection in both
+model accuracy and variable importance was apparent
+at the 240-ha landscape extent, coincidentally corre-
+sponding to a suggested deﬁnition of mid-scale
+landscape structure in southwestern ponderosa pine
+forests (Reynolds et al. 2013). The inﬂection suggests
+that landscapes are more variable among scales up to
+240 ha, likely the result of ﬁne-scale processes and
+management (Kalies and Yocom Kent 2016; Ritter
+et al. 2020), but become increasingly homogeneous
+following scales greater than this threshold, exhibiting
+diverging structural patterns.
+Landscape metrics scaled predictably across the
+gradient of extents we examined, consistent with a
+type I scaling relationship (Wu and Hobbs 2002; Wu
+2004). We expect this behavior in ponderosa pine
+forests due to the dominant disturbance regime of low-
+intensity wildﬁre, leading to increased homogeneity
+with scale (Wasserman et al. 2019). We see evidence
+for this as the range of most metric values became
+increasingly constrained as the scale of landscape
+extents grew, while tending towards divergent metric
+values for each landscape type. Understanding the
+behavior of ponderosa pine forest landscape patterns is
+necessary for scale-dependent ecological function and
+management objectives (Turner and Gardner 2015),
+including wildland ﬁre behavior (Povak et al. 2018),
+habitat suitability (Timm et al. 2016; McGarigal et al.
+2016; Wan et al. 2020), forest health and ecohydrol-
+ogy (Stevens 2017), and climate mitigation and carbon
+sequestration (McCauley et al. 2019). Shape metrics
+were consistently unimportant in our models, suggest-
+ing area and aggregation metrics may be more
+important for assessing treatment effectiveness and
+guiding future restoration plans.
+Methods, limitations and next steps
+Our classiﬁcation of ponderosa pine forest cover had
+high accuracy according to both out-of-bag model
+training and an independent comparison of manual
+classiﬁcations. This was in part due to the relatively
+simple classiﬁcation scheme as well as the inclusion of
+a seasonal component, which effectively discrimi-
+nated between evergreen and deciduous vegetation.
+While the Sentinel-2 imagery can fail to detect single
+trees and small tree groups due to the size of the object
+of interest relative to the 10-m resolution of the
+imagery, the resolution is sufﬁcient to detect mature
+individual trees or tree groups of ponderosa pine due to
+their average size (e.g. we expect a mature ponderosa
+to have a radius around 6 m) and thus appropriate for
+examining forest structure over large landscapes
+(Wasserman et al. 2019; Grabska et al. 2020; Schu-
+macher et al. 2020). See Wasserman et al. (2019) for a
+comparison of landscape metrics resulting from a
+gradient of data resolution. Higher resolution data,
+such as lidar or airborne imagery, may more accu-
+rately capture smaller patch sizes; however, expense
+and availability of these types of datasets for regional
+landscapes is limited (Buyantuyev and Wu 2007;
+Wasserman et al. 2019). We suggest that methods used
+in our study have broad applicability for assessment
+and post-treatment monitoring of ponderosa pine
+forest structure in the Southwest (see also Botequilha
+Leita˜o and Ahern 2002; de Almeida et al. 2020).
+However, further research is needed to understand
+why metrics vary not only with extent, but also grain
+as interpretation of landscape structure and pattern are
+known to vary with grain (Hargis et al. 1998;
+Buyantuyev and Wu 2007; Corry and Lafortezza
+123
+Landscape Ecol
+
+2007; Rutchey and Godin 2009; Sˇı´mova´ and Gdulova´
+2012; Wasserman et al. 2019; Wickham and Riitters
+2019).
+We were limited by potential reference landscape
+quantity, size, and abiotic variability; stemming from
+the widespread and prolonged effects of historical
+livestock grazing and ﬁre exclusion (Covington et al.
+1997; Moore et al. 1999; Reynolds et al. 2013) and the
+limited large-scale restoration activities that have
+occurred to date. With these limitations of reference
+landscapes, we were unable to control for the entirety
+of potential variation in abiotic factors, speciﬁcally
+soil parent material, elevation, topography, climate,
+and disturbance history (Puhlick et al. 2012; Larson
+and Churchill 2012; Reynolds et al. 2013; Rodman
+et al. 2017). Sampling extents from reference land-
+scapes were limited to a maximum of approximately
+800 ha, while managed wildﬁre landscapes included
+in our analysis were as large as 15,000 ha. This
+discrepancy presents an inherent challenge for under-
+standing reference landscapes of the Southwest, where
+managers desire to better understand the importance
+scale on structural metrics and where comparisons
+between contemporary and reference landscapes are
+instrumental to assessing treatment effectiveness. We
+hope to increase the geographic footprint of the study
+area in future research, but with that increased
+geographic scope comes the need to account for
+increasingly diverse sources of variability in both
+biotic and abiotic factors contributing to forest struc-
+ture (Johnston et al. 2016; Rodman et al. 2017). The
+scarcity of reference landscapes reiterates the urgent
+need for accelerated large-scale forest management
+(Stephens et al. 2016; Cannon et al. 2018), but also
+highlights continued difﬁculties in managing for
+ecologically functioning, resilient forest landscapes
+under threat of climate change and competing land
+uses (Bradford and D’Amato 2012; Stanturf et al.
+2014; Jacobs et al. 2015; Gleason et al. 2017;
+McCauley et al. 2019; Cannon et al. 2020).
+While our smaller (\ 15 ha) reference sites tended
+to be slightly higher (\ 100 m) in elevation as
+compared to our managed wildﬁre elevations, these
+site elevations did not signiﬁcantly differ from larger
+restoration landscapes, nor did the elevations of larger
+reference landscapes signiﬁcantly differ from man-
+aged wildﬁre landscapes. The smaller (\ 15 ha)
+reference sites were only included in the smallest
+scale comparison to managed wildﬁre landscapes (1 of
+11 comparison extents) and make up only four percent
+of the sample size at that scale. The managed wildﬁre
+landscapes we examined encompass a greater range of
+elevations compared to reference landscapes, but
+mean differences in elevation are less than 100 m,
+on average. We also did not include wildﬁres at the
+upper or lower elevational limits of ponderosa pine
+forest, having ﬁltered potential ﬁres to only include
+predominately ponderosa pine forest types based on an
+auxiliary land cover classiﬁcation. Research suggests
+that within the limited regional extent included in the
+study, the managed ﬁre landscapes we examined
+would have exhibited a structure prior to disturbance
+largely in line with that of reference landscapes (Mast
+et al. 1999; Allen et al. 2002; Williams and Baker
+2012; Rodman et al. 2017).
+Conclusion
+In general, southwestern ponderosa pine forest land-
+scape patterns resulting from wildland ﬁres managed
+for resource beneﬁt differ from reference landscape
+pattern at analogous scales. Ecologically functioning
+landscapes, both relict and restored, facilitated com-
+parisons up to approximately 800 ha, a scale at which
+we found managed wildﬁre landscapes signiﬁcantly
+differed from reference. At this scale and larger,
+landscape patterns examined in our study were found
+to become increasingly homogenous, most likely due
+to a lack of disturbance events, which allowed large,
+contiguous forest canopies to persist. Our results point
+to predominately low burn severity and limited re-
+entry of wildﬁre leading to in minimal changes in
+forest structure, such that large scale landscape
+patterns are largely homogenized through continuous
+canopy cover. At the current rate of multiple re-entries
+in this landscape, low-severity ﬁre would take an
+exceedingly long time to sufﬁciently alter forest
+landscape pattern. Repeated, mixed-severity ﬁre or
+mechanical treatments are needed to move forest
+structure towards that of ecologically functioning
+landscapes through the reduction of tree density,
+which in turn alters the canopy and overall forest cover
+patch patterns. However, these mechanisms largely do
+not occur at rates sufﬁcient to alter landscape patterns
+among the larger scales we examined. Understanding
+the scale-dependent relationships of management
+activities and ecological function with landscape
+123
+Landscape Ecol
+
+patterns is necessary to improve management out-
+comes and ﬁre policy. Greater emphasis on the
+restoration of forest structure across scales is needed
+to provide for resilient, healthy ponderosa pine forests.
+Acknowledgements
+We thank staff and students of the
+Ecological
+Restoration
+Institute
+at
+Northern
+Arizona
+University for ﬁeld data collection, logistical support, and
+providing ideas and considerations while formulating the study
+and manuscript. We also thank our colleagues with the
+Coconino and Kaibab National Forests for their continued
+support. Northern Arizona University is an equal opportunity
+provider.
+Author contributions All authors contributed to the study
+conception and design. Material preparation, data collection and
+analysis were performed by JJD. The ﬁrst draft of the manuscript
+was written by JJD and all authors commented on previous
+versions of the manuscript. All authors read and approved the
+ﬁnal manuscript.
+Funding
+This research was supported by a grant from the
+USDA Forest Service.
+Data availability
+All data used for the analysis is available
+through Google Earth Engine.
+References
+Agee JK, Skinner CN (2005) Basic principles of forest fuel
+reduction treatments. For Ecol Manag 211(1–2):83–96
+Ager AA, Evers CR, Day MA et al (2017) Network analysis of
+wildﬁre transmission and implications for risk governance.
+PLoS ONE 12:e0172867
+Allen CD, Savage M, Falk DA et al (2002) Ecological restora-
+tion of southwestern ponderosa pine ecosystems: a broad
+perspective. Ecol Appl 12:1418
+Bagdon BA, Huang C-HH, Dewhurst S (2016) Managing for
+ecosystem services in northern Arizona ponderosa pine
+forests using a novel simulation-to-optimization method-
+ology. Ecol Model 324:11–27
+Barros AMG, Ager AA, Day MA et al (2018) Wildﬁres man-
+aged for restoration enhance ecological resilience. Eco-
+sphere 9:e02161
+Barth MAF, Larson AJ, Lutz JA (2015) A forest reconstruction
+model to assess changes to Sierra Nevada mixed-conifer
+forest during the ﬁre suppression era. For Ecol Manag
+354:104–118
+Botequilha Leita˜o A, Ahern J (2002) Applying landscape eco-
+logical concepts and metrics in sustainable landscape
+planning. Landsc Urban Plan 59:65–93
+Bottero A, D’Amato AW, Palik BJ et al (2017) Density-de-
+pendent vulnerability of forest ecosystems to drought.
+J Appl Ecol 54:1605–1614
+Bradford JB, D’Amato AW (2012) Recognizing trade-offs in
+multi-objective land management. Front Ecol Environ
+10:210–216
+Bradshaw LS, McCormick E (2009) FireFamily Plus user’s
+guide, version 4.0
+Buyantuyev A, Wu J (2007) Effects of thematic resolution on
+landscape pattern analysis. Landsc Ecol 22:7–13
+Cannon JB, Barrett KJ, Gannon BM et al (2018) Collaborative
+restoration effects on forest structure in ponderosa pine-
+dominated
+forests
+of
+Colorado.
+For
+Ecol
+Manag
+424:191–204
+Cannon JB, Gannon BM, Feinstein JA et al (2020) Simulating
+spatial complexity in dry conifer forest restoration: impli-
+cations for conservation prioritization and scenario evalu-
+ation. Landsc Ecol 8:1–19
+Churchill DJ, Larson AJ, Dahlgreen MC et al (2013) Restoring
+forest resilience: from reference spatial patterns to silvi-
+cultural prescriptions and monitoring. For Ecol Manag
+291:442–457
+Collins BM. Kelly M, Van Wagtendonk JW, Stephens SL
+(2007) Spatial patterns of large natural ﬁres inSierra
+Nevada wilderness areas. Landsc Ecol 22(4):545–557
+Collins BM, Miller JD, Thode AE, Kelly M, Van Wagtendonk
+JW, Stephens SL (2009) Interactions among wildland ﬁres
+in a long-established Sierra Nevada natural ﬁre area.
+Ecosystems 12(1):114–128
+Collins BM, Everett RG, Stephens SL et al (2011) Impacts of
+ﬁre exclusion and recent managed ﬁre on forest structure in
+old growth Sierra Nevada mixed-conifer forests. Eco-
+sphere 2:1–14
+Collins BM, Stevens JT, Miller JD, Stephens SL, Brown PM,
+North MP (2017) Alternative characterization of forest ﬁre
+regimes: incorporating spatial patterns. Landsc Ecol
+32(8):1543–1552
+Corry RC, Lafortezza R (2007) Sensitivity of landscape mea-
+surements to changing grain size for ﬁne-scale design and
+management. Landsc Ecol Eng 3:47–53
+Covington WW, Fule´ PZ, Moore MM et al (1997) Restoring
+ecosystem health in ponderosa pine forests of the south-
+west. J For 95:23–29
+Covington WW, Fule´ PZ, Hart SC, Weaver RP (2001) Modeling
+ecological restoration effects on ponderosa pine forest
+structure. Restor Ecol 9:421–431
+Cushman SA, McGarigal K, Neel MC (2008) Parsimony in
+landscape metrics: strength, universality, and consistency.
+Ecol Indic 8:691–703
+Cutler DR, Edwards TC, Beard KH et al (2007) Random forests
+for classiﬁcation in ecology. Ecology 88:2783–2792
+de Almeida DRA, Stark SC, Valbuena R et al (2020) A new era
+in forest restoration monitoring. Restor Ecol 28:8–11
+Dickinson Y, Pelz K, Giles E, Howie J (2016) Have we been
+successful? Monitoring horizontal forest complexity for
+forest restoration projects. Restor Ecol 24:8–17
+Donager JJ, Sa´nchez Meador AJ, Blackburn RC (2021) Adju-
+dicating perspectives on forest structure: how do airborne,
+terrestrial, and mobile lidar-derived estimates compare?
+Remote Sens 13:2297
+Eidenshink J, Schwind B, Brewer K et al (2007) A project for
+monitoring trends in burn severity. Fire Ecol 3:3–21
+Fitch RA, Kim YS, Waltz AEM, Crouse JE (2018) Changes in
+potential wildland ﬁre suppression costs due to restoration
+treatments in Northern Arizona ponderosa pine forests. For
+Policy Econ 87:101–114
+123
+Landscape Ecol
+
+Fule´ PZ, Covington WW, Moore MM (1997) Determining
+reference conditions for ecosystem management of south-
+western ponderosa pine forests. Ecol Appl 7:895–908
+Fule´ PZ, Covington WW, Moore MM et al (2002a) Natural
+variability in forests of the Grand Canyon, USA. J Bio-
+geogr 29:31–47
+Fule´ PZ, Covington WW, Smith HB et al (2002b) Comparing
+ecological restoration alternatives: Grand Canyon, Ari-
+zona. For Ecol Manag 170:19–41
+Fule´ PZ, Crouse JE, Cocke AE et al (2004) Changes in canopy
+fuels and potential ﬁre behavior 1880–2040: Grand Can-
+yon, Arizona. Ecol Model 175:231–248
+Fule´ PZ, Moore MM, Covington WW et al (2007) Restoration of
+presettlement age structure of an Arizona ponderosa pine
+forest. Ecol Appl 9:228–239
+Fule´ PZ, Crouse JE, Roccaforte JP, Kalies EL (2012) Do thin-
+ning and/or burning treatments in western USA ponderosa
+or Jeffrey pine-dominated forests help restore natural ﬁre
+behavior? For EcolManag 269:68–81
+Ganey JL, Block WM, Jenness JS, Wilson RA (1999) Mexican
+spotted owl home range and habitat use in pine-oak forest:
+implications for forest management. For Sci 45:127–135
+Gleason KE, Bradford JB, Bottero A et al (2017) Competition
+ampliﬁes drought stress in forests across broad climatic and
+compositional gradients. Ecosphere. https://doi.org/10.
+1002/ecs2.1849
+Gorelick N, Hancher M, Dixon M et al (2017) Google Earth
+Engine: planetary-scale geospatial analysis for everyone.
+Remote Sens Environ 202:18–27
+Grabska E, Frantz D, Ostapowicz K (2020) Evaluation of
+machine learning algorithms for forest stand species
+mapping using Sentinel-2 imagery and environmental data
+in
+the
+Polish
+Carpathians.
+Remote
+Sens
+Environ
+251:112103
+Hagmann RK, Franklin JF, Johnson KN (2013) Historical
+structure and composition of ponderosa pine and mixed-
+conifer forests in south-central Oregon. For Ecol Manag
+304:492–504
+Hargis CD, Bissonette JA, David JL (1998) The behavior of
+landscape metrics commonly used in the study of habitat
+fragmentation. Landsc Ecol 13:167–186
+Hengl T, De Jesus JM, Heuvelink GBM et al (2017) SoilGrid-
+s250m: global gridded soil information based on machine
+learning. PLoS ONE 12:e0169748
+Hesselbarth MHK, Sciaini M, With KA et al (2019) Land-
+scapemetrics: an open-source R tool to calculate landscape
+metrics. Ecography (Cop) 42:1648–1657
+Hjerpe E, Abrams J, Becker DR (2009) Socioeconomic barriers
+and the role of biomass utilization in southwestern pon-
+derosa pine restoration. Ecol Restor 27:169–177
+Huffman DW, Sa´nchez Meador AJ, Stoddard MT et al (2017)
+Efﬁcacy of resource objective wildﬁres for restoration of
+ponderosa pine (Pinus ponderosa) forests in northern
+Arizona. For Ecol Manag 389:395–403
+Huffman DW, Crouse JE, Sa´nchez Meador AJ et al (2018)
+Restoration beneﬁts of re-entry with resource objective
+wildﬁre on a ponderosa pine landscape in northern Ari-
+zona, USA. For Ecol Manag 408:16–24. https://doi.org/10.
+1016/j.foreco.2017.10.032
+Huffman DW, Roccaforte JP, Springer JD, Crouse JE (2020)
+Restoration applications of resource objective wildﬁres in
+western US forests: a status of knowledge review. Fire Ecol
+16:1–13
+Hunter ME, Iniguez JM, Lentile LB (2011) Short- and long-term
+effects on fuels, forest structure, and wildﬁre potential from
+prescribed ﬁre and resource beneﬁt ﬁre in southwestern
+forests, USA. Fire Ecol 7:108–121
+Jacobs DF, Oliet JA, Aronson J et al (2015) Restoring forests:
+what constitutes success in the twenty-ﬁrst century? New
+For 46:601–614
+Johnston JD, Bailey JD, Dunn CJ (2016) Inﬂuence of ﬁre dis-
+turbance and biophysical heterogeneity on pre-settlement
+ponderosa pine and mixed conifer forests. Ecosphere.
+https://doi.org/10.1002/ecs2.1581
+Kalies EL, Yocom Kent LL (2016) Tamm review: are fuel
+treatments effective at achieving ecological and social
+objectives?
+A
+systematic
+review.
+For
+Ecol
+Manag
+375:84–95
+Kane VR, Bartl-Geller BN, North MP et al (2019) First-entry
+wildﬁres can create opening and tree clump patterns
+characteristic
+of
+resilient
+forests.
+For
+Ecol
+Manag
+454:117659
+Kerr JT, Ostrovsky M (2003) From space to species: ecological
+applications
+for
+remote
+sensing.
+Trends
+Ecol
+Evol
+18:299–305
+Kolb TE, Agee JK, Fule PZ, McDowell NG, Pearson K, Sala A,
+Waring RH (2007) Perpetuating old ponderosa pine. For
+Ecol Manag 249(3):141–157
+Landres PB, Morgan P, Swanson FJ (1999) Overview of the use
+of natural variability concepts in managing ecological
+systems. Ecol Appl 9(4):1179–1188
+Larson AJ, Churchill D (2012) Tree spatial patterns in ﬁre-fre-
+quent forests of western North America, including mech-
+anisms of pattern formation and implications for designing
+fuel reduction and restoration treatments. For Ecol Manag
+267:74–92
+Laughlin DC, Bakker JD, Daniels ML, Moore MM, Casey CA,
+Springer JD (2008) Restoring plantspecies diversity and
+community composition in a ponderosa pine-bunchgrass
+ecosystem. Plant Ecol 197(1):139–151
+Li J, Roy DP (2017) A global analysis of Sentinel-2a, Sentinel-
+2b and Landsat-8 data revisit intervals and implications for
+terrestrial monitoring. Remote Sens 9:902
+Loberger CD, Theimer TC, Rosenstock SS, Wightman CS
+(2011) Use of restoration-treated ponderosa pine forest by
+tassel-eared squirrels. J Mammal 92:1021–1027
+Lowry J, Ramsey RD, Thomas K et al (2007) Mapping mod-
+erate-scale land-cover over very large geographic areas
+within a collaborative framework: a case study of the
+Southwest Regional Gap Analysis Project (SWReGAP).
+Remote Sens Environ 108:59–73
+Lydersen JM, North MP, Knapp EE, Collins BM (2013)
+Quantifying spatial patterns of tree groups and gaps in
+mixed-conifer forests: reference conditions and long-term
+changes following ﬁre suppression and logging. For Ecol
+Manag 304:370–382
+Marsaglia G, Tsang WW, Wang J (2003) Evaluating Kol-
+mogorov’s distribution. J Stat Softw 8:1–4
+Mast JN, Fule´ PZ, Moore MM et al (1999) Restoration of pre-
+settlement age structure of an Arizona ponderosa pine
+forest. Ecol Appl 9:228–239
+123
+Landscape Ecol
+
+McCauley LA, Robles MD, Woolley T et al (2019) Large-scale
+forest restoration stabilizes carbon under climate change in
+Southwest United States. Ecol Appl 29:e01979
+McGarigal K, Cushman SA, Ene E (2012) FRAGSTATS v4:
+spatial pattern analysis program for categorical and con-
+tinuous maps. In: Computer software program produced by
+the authors at the University of Massachusetts, Amherst.
+Available:
+http://www.umass.edu/landeco/research/
+fragstats/fragstats.html
+McGarigal K, Wan HY, Zeller KA et al (2016) Multi-scale
+habitat selection modeling: a review and outlook. Landsc
+Ecol 31:1161–1175
+McIver JD, Stephens SL, Agee JK et al (2013) Ecological
+effects of alternative fuel-reduction treatments: highlights
+of the National Fire and Fire Surrogate study (FFS). Int J
+Wildl Fire 22:63–82
+McWethy DB, Schoennagel T, Higuera PE, Krawchuk M,
+Harvey BJ, Metcalf EC, Schultz C, Miller C, Metcalf AL,
+Buma B, Virapongse A, Kulig JC, Stedman RC, Ratajczak
+Z, Nelson CR, Kolden C (2019) Rethinking resilience to
+wildﬁre. Nat Sustain 2(9):797–804
+Moir WH, Geils B, Benoit MA, Scurlock D (1997) Ecology of
+southwestern ponderosa pine forests. In: Songbird ecology
+in south-western ponderosa pine forests: a literature
+review. U.S. Deptartment of Agriculture, Forest Service,
+Rocky Mountain Forest and Range Experiment Station,
+Fort Collins, pp 3–27
+Moore MM, Covington WW, Fule´ PZ (1999) Reference con-
+ditions and ecological restoration: a southwestern pon-
+derosa pine perspective. Ecol Appl 9:1266–1277
+Moore MM, Huffman DW, Fule´ PZ et al (2004) Comparison of
+historical and contemporary forest structure and composi-
+tion on permanent plots in southwestern ponderosa pine
+forests. For Sci 50:162–176
+Morgan P, Aplet GH, Hauﬂer JB, Humphries HC, Moore MM,
+Wilson WD (1994) Historical range of variability: a useful
+tool for evaluating ecosystem change. J Sustain For
+2(1–2):87–111
+MTBS (2017) MTBS data access: ﬁre level geospatial data. In:
+Monitoring trends burn severity project (USDA) forest
+service
+geological
+survey.
+http://mtbs.gov/direct-
+download. Accessed 1 Nov 2019
+North M, Collins BM, Stephens S (2012) Using ﬁre to increase
+the scale, beneﬁts, and future maintenance of fuels treat-
+ments. J For 110:392–401
+North MP, Stephens SL, Collins BM et al (2015) Reform forest
+ﬁre management: agency incentives undermine policy
+effectiveness. Science 349:1280–1281
+Owen SM, Sieg CH, Fule´ PZ et al (2020) Persistent effects of
+ﬁre severity on ponderosa pine regeneration niches and
+seedling growth. For Ecol Manag 477:118502
+Povak NA, Hessburg PF, Salter RB (2018) Evidence for scale-
+dependent topographic controls on wildﬁre spread. Eco-
+sphere 9:e02443
+Prather JW, Dodd NL, Dickson BG et al (2006) Landscape
+models to predict the inﬂuence of forest structure on tassel-
+eared squirrel populations. J Wildl Manag 70:723–731
+PRISM Climate Group OSU (2020) http://prism.oregonstate.
+edu
+Puhlick JJ, Laughlin DC, Moore MM (2012) Factors inﬂuencing
+ponderosa pine regeneration in the southwestern USA. For
+Ecol Manag 264:10–19
+Reynolds RT, Sa´nchez Meador AJ, Youtz JA et al (2013)
+Restoring composition and structure in southwestern fre-
+quent-ﬁre forests: a science-based framework for improv-
+ing ecosystem resiliency. Gen Tech Rep RMRS-GTR-310
+86
+Ritter SM, Hoffman CM, Battaglia MA et al (2020) Fine-scale
+ﬁre patterns mediate forest structure in frequent-ﬁre
+ecosystems. Ecosphere 11:e03177
+Roccaforte JP, Fule´ PZ, Covington WW (2010) Monitoring
+landscape-scale
+ponderosa pine
+restoration
+treatment
+implementation and effectiveness. Restor Ecol 18:820–833
+Roccaforte JP, Huffman DW, Fule´ PZ et al (2015) Forest
+structure and fuels dynamics following ponderosa pine
+restoration treatments, White Mountains, Arizona, USA.
+For Ecol Manag 337:174–185
+Rodman KC, Sa´nchez Meador AJ, Huffman DW, Waring KM
+(2016) Reference conditions and historical ﬁne-scale spa-
+tial dynamics in a dry mixed-conifer forest, Arizona, USA.
+For Sci 62:268–280
+Rodman KC, Sa´nchez Meador AJ, Moore MM, Huffman DW
+(2017) Reference conditions are inﬂuenced by the physical
+template and vary by forest type: a synthesis of Pinus
+ponderosa-dominated sites in the southwestern United
+States. For Ecol Manag 404:316–329
+Rutchey K, Godin J (2009) Determining an appropriate mini-
+mum mapping unit in vegetation mapping for ecosystem
+restoration: a case study from the Everglades, USA. Landsc
+Ecol 24:1351–1362
+Sa´nchez Meador AJ, Moore MM, Bakker JD, Parysow PF
+(2009) 108 years of change in spatial pattern following
+selective harvest of a Pinus ponderosa stand in northern
+Arizona, USA. J Veg Sci 20:79–90
+Sa´nchez Meador AJ, Parysow PF, Moore MM (2011) A new
+method for delineating tree patches and assessing spatial
+reference conditions of ponderosa pine forests in Northern
+Arizona. Restor Ecol 19:490–499
+Schultz CA, Jedd T, Beam RD (2012) The collaborative forest
+landscape restoration program: a history and overview of
+the ﬁrst projects. J For 110:381–391
+Schumacher J, Hauglin M, Astrup R, Breidenbach J (2020)
+Mapping forest age using National Forest Inventory, air-
+borne laser scanning, and Sentinel-2 data. For Ecosyst.
+https://doi.org/10.1186/s40663-020-00274-9
+Sijtsma K, Emons WHM (2010) Nonparametric statistical
+methods. International encyclopedia of education. Wiley,
+Hoboken, pp 347–353
+Sˇı´mova´ P, Gdulova´ K (2012) Landscape indices behavior: a
+review of scale effects. Appl Geogr 34:385–394
+Singleton MP, Thode AE, Sa´nchez Meador AJ et al (2021)
+Management strategy inﬂuences landscape patterns of
+high-severity burn patches in the southwestern United
+States. Landsc Ecol. https://doi.org/10.1007/s10980-021-
+01318-3
+Stanturf JA, Palik BJ, Dumroese RK (2014) Contemporary
+forest restoration: a review emphasizing function. For Ecol
+Manag 331:292–323
+123
+Landscape Ecol
+
+Stephens SL, Collins BM, Biber E, Fule´ PZ (2016) U.S. federal
+ﬁre and forest policy: emphasizing resilience in dry forests.
+Ecosphere 7:1–19
+Stevens JT (2017) Scale-dependent effects of post-ﬁre canopy
+cover on snowpack depth in montane coniferous forests.
+Ecol Appl 27:1888–1900
+Stevens JT, Collins BM, Miller JD et al (2017) Changing spatial
+patterns of stand-replacing ﬁre in California conifer forests.
+For Ecol Manag 406:28–36
+Stoddard MT, Huffman DW, Fule´ PZ et al (2018) Forest
+structure and regeneration responses 15 years after wildﬁre
+in a ponderosa pine and mixed-conifer ecotone, Arizona,
+USA. Fire Ecol 14:12
+Stoddard MT, Roccaforte JP, Meador AJS et al (2021) Eco-
+logical restoration guided by historical reference condi-
+tions can increase resilience to climate change of
+southwestern U.S. ponderosa pine forests. For Ecol Manag.
+https://doi.org/10.1016/j.foreco.2021.119256
+Strahan RT, Stoddard MT, Springer JD, Huffman DW (2015)
+Increasing weight of evidence that thinning and burning
+treatments help restore understory plant communities in
+ponderosa pine forests. For Ecol Manag 353:208–220
+SWReGAP (2005) Southwest regional GAP analysis project—
+land cover descriptions. 250
+Taranco´n AA, Fule´ PZ, Shive KL et al (2014) Simulating post-
+wildﬁre forest trajectories under alternative climate and
+management scenarios. Ecol Appl 24:1626–1637
+Theobald DM, Harrison-Atlas D, Monahan WB, Albano CM
+(2015) Ecologically-relevant maps of landforms and
+physiographic diversity for climate adaptation planning.
+PLoS ONE 10:e0143619
+Timm BC, McGarigal K, Cushman SA, Ganey JL (2016) Multi-
+scale Mexican spotted owl (Strix occidentalis lucida) nest/
+roost habitat selection in Arizona and a comparison with
+single-scale modeling results. Landsc Ecol 31:1209–1225
+Turner MG, Gardner RH (2015) Landscape ecology in theory
+and practice: pattern and process, 2nd edn. Springer, New
+York
+Tuten MC, Sa´nchez Meador A, Fule´ PZ (2015) Ecological
+restoration and ﬁne-scale forest structure regulation in
+southwestern ponderosa pine forests. For Ecol Manag
+348:57–67
+Uuemaa E, Mander U¨ , Marja R (2013) Trends in the use of
+landscape spatial metrics as landscape indicators: a review.
+Ecol Indic 28:100–106
+van Wagtendonk JW, van Wagtendonk KA, Thode AE (2012)
+Factors associated with the severity of intersecting ﬁres in
+Yosemite National Park, California, USA. Fire Ecol
+8(1):11–31
+Veblen TT (2003) Historic range of variability of mountain
+forest ecosystems: concepts and applications. For Chron
+79:223–226
+Waltz AE, Fule´ PZ, Covington WW, Moore MM (2003)
+Diversity in ponderosa pine forest structure following
+ecological restoration treatments. For Sci 49:885–900
+Wan HY, Cushman SA, Ganey JL (2020) The effect of scale in
+quantifying ﬁre impacts on species habitats. Fire Ecol
+16:1–15
+Wasserman TN, Sa´nchez Meador AJ, Waltz AEM (2019) Grain
+and extent considerations are integral for monitoring
+landscape-scale desired conditions in ﬁre-adapted forests.
+Forests 10:1–21
+Weber KT, Yadav R (2020) Spatiotemporal trends in wildﬁres
+across the Western United States (1950–2019). Remote
+Sens 12:2959
+White PS, Walker JL (1997) Approximating nature’s variation:
+selecting and using reference information in restoration
+ecology. Restor Ecol 5(4):338–349
+Wickham J, Riitters KH (2019) Inﬂuence of high-resolution data
+on the assessment of forest fragmentation. Landsc Ecol
+34:2169–2182
+Williams MA, Baker WL (2012) Spatially extensive recon-
+structions show variable-severity ﬁre and heterogeneous
+structure in historical western United States dry forests.
+Glob Ecol Biogeogr 21:1042–1052
+Wright MN, Ziegler A (2017) Ranger: a fast implementation of
+random forests for high dimensional data in C?? and R.
+J Stat Softw 77:1–17
+Wu J (2004) Effects of changing scale on landscape pattern
+analysis: scaling relations. Landsc Ecol 19:125–138
+Wu J, Hobbs R (2002) Key issues and research priorities in
+landscape ecology. Landsc Ecol 17:355–365
+Wulder MA, Masek JG, Cohen WB et al (2012) Opening the
+archive: how free data has enabled the science and moni-
+toring promise of Landsat. Remote Sens Environ 122:2–10
+Yocom LL, Jenness J, Fule´ PZ, Thode AE (2019) Previous ﬁres
+and roads limit wildﬁre growth in Arizona and New
+Mexico, USA. For Ecol Manag 449:117440
+Young JD, Thode AE, Huang CH et al (2019) Strategic appli-
+cation of wildland ﬁre suppression in the southwestern
+United States. J Environ Manag 245:504–518
+Young JD, Evans AM, Iniguez JM et al (2020) Effects of policy
+change on wildland ﬁre management strategies: evidence
+for a paradigm shift in the western US? Int J Wildl Fire.
+https://doi.org/10.1071/wf19189
+Ziegler JP, Hoffman C, Battaglia M, Mell W (2017) Spatially
+explicit measurements of forest structure and ﬁre behavior
+following restoration treatments in dry forests. For Ecol
+Manag 386:1–12
+Publisher’s Note
+Springer Nature remains neutral with
+regard
+to
+jurisdictional
+claims
+in
+published
+maps
+and
+institutional afﬁliations.
+123
+Landscape Ecol

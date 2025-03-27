@@ -1,0 +1,1464 @@
+Relationships of exotic plant communities with native vegetation,
+environmental factors, disturbance, and landscape ecosystems
+of Pinus ponderosa forests, USA
+Scott R. Abella a,⇑, E. Cayenne Engel a, Judith D. Springer b, W. Wallace Covington c
+a Department of Environmental and Occupational Health, University of Nevada Las Vegas, Las Vegas, NV 89154-3064, USA
+b Ecological Restoration Institute, Northern Arizona University, Flagstaff, AZ 86011-5017, USA
+c Ecological Restoration Institute and School of Forestry, Northern Arizona University, Flagstaff, AZ 86011-5017, USA
+a r t i c l e
+i n f o
+Article history:
+Received 10 November 2011
+Received in revised form 20 January 2012
+Accepted 20 January 2012
+Available online 28 February 2012
+Keywords:
+Distribution
+Ecological land classiﬁcation
+Ecosystem classiﬁcation
+Ponderosa pine
+Soil
+Species richness
+a b s t r a c t
+Invasions by exotic plant species can threaten forest ecosystems in numerous ways. Theories on relation-
+ships of exotic species invasions with native vegetation, resource availability, and disturbance could
+assist in managing exotic plants by identifying parts of the landscape and ecological conditions most sus-
+ceptible to invasion. However, generality of these theories is complicated by considerable variation
+among landscapes and ecology of individual species. We assessed hypotheses on relationships of exotic
+plant communities with native vegetation, environmental (soil, topographic, and climate), and distur-
+bance (roads and grazing) variables using data from 66 plots within a 110,000-ha Pinus ponderosa forest
+landscape in northern Arizona, USA. We further assessed exotic plant relationships with ecosystem clas-
+siﬁcation, which has a long history of use in forest ecology and management but has been underutilized
+for understanding exotic species distributions. Plots contained a total of 251 native and 20 exotic plant
+species. As hypothesized for distributional studies, native and exotic species were positively correlated,
+but the correlation varied with scale for species richness (m2, r = 0.65; 500 m2, r = 0.41) and was weaker
+for cover (r = 0.32). Multiple regression, including native vegetation and environmental variables,
+accounted for similar amounts of variation in exotic species richness (50% of variation) and cover
+(51%). Disturbance variables only entered regression models when native vegetation was excluded from
+models. Exotic species richness m2, cover, and community composition were strongly related to the eco-
+system classiﬁcation. For example, mean exotic cover ranged from <0.1% in ecosystems with volcanic cin-
+der soils to 7% in ecosystems containing Populus tremuloides. As hypothesized, moist ecosystems were
+generally most invaded. However, also considering factors such as past management of the ecosystems
+and literature on the introduction histories (e.g., intentional seeding for range improvement) of the spe-
+cies, we hypothesize that the ecosystem classiﬁcation integrated co-varying environmental, disturbance,
+and management variables related to exotic plant communities. Ecosystem classiﬁcation was a useful
+framework for understanding distributions of exotic plant communities across the landscape.
+ 2012 Elsevier B.V. All rights reserved.
+1. Introduction
+Exotic plant species can impact human–environment forested
+systems in numerous ways, such as by replacing high-quality
+native forage on rangelands, ‘engineering’ novel ﬁre regimes
+through fuel production, reducing indigenous biodiversity, and
+interfering with tree regeneration (Chornesky et al., 2005). Recog-
+nizing the threat that exotic species pose to indigenous ecosys-
+tems, many countries have created legal mandates for managing
+exotic species. In 1999, for example, Executive Order 13112 by
+the U.S. government established the National Invasive Species
+Council which seeks to promote management strategies for exotic
+species on U.S. federal lands (Clinton, 1999). As a participating
+agency, the U.S. Forest Service (2004) issued guidelines for manag-
+ing exotic species on its lands. These guidelines emphasized pre-
+vention (limiting invasions from occurring), early detection of
+new infestations, strategically managing priority exotic species
+and parts of the landscape, and restoration to strengthen indige-
+nous ecosystems. Knowledge of the relationships of exotics with
+indigenous vegetation and disturbance, and the distribution and
+abundance of exotics across landscapes, is fundamental to meeting
+these guidelines. Ecological theories provide some general expec-
+tations regarding these relationships and distributions, but in
+order to make management decisions, further work is needed to
+understand reliability of these theories and to relate exotic species
+0378-1127/$ - see front matter  2012 Elsevier B.V. All rights reserved.
+doi:10.1016/j.foreco.2012.01.035
+⇑Corresponding author. Tel.: +1 702 774 1446.
+E-mail address: scott.abella@unlv.edu (S.R. Abella).
+Forest Ecology and Management 271 (2012) 65–74
+Contents lists available at SciVerse ScienceDirect
+Forest Ecology and Management
+journal homepage: www.elsevier.com/locate/foreco
+
+distributions to spatial maps (e.g., ecosystem classiﬁcation) avail-
+able for some forestlands. Some of the key general principles re-
+lated
+to
+exotic
+species
+distributions
+advanced
+by
+invasion
+ecology are that native and exotic species richness are positively
+correlated at the landscape scale and invasibility increases when
+moisture, nutrients, or disturbance increase.
+A general postulate from landscape sampling studies is that
+native plant species richness and cover are positively correlated
+with exotic richness and cover, suggesting that environments
+favorable for native species also are favorable for exotic species
+(Stohlgren et al., 1999; Gilbert and Lechowicz, 2005; Fornwalt
+et al., 2010). These favorable environments often are nutrient-rich
+and productive. However, some studies have not reported positive
+correlations between native and exotic species (e.g., Vilà et al.,
+2007; Hejda et al., 2009) or have found that for richness, results
+vary with spatial scale (e.g., Keeley et al., 2003). Moreover, a com-
+peting theory predicts that moist, nutrient-rich sites with high pro-
+ductivity would have lower species richness because a few
+dominant species usurp the resources and competitively exclude
+other species (Levine et al., 2004). This could reduce an ecosys-
+tem’s invasibility by exotic species.
+Invasibility is considered related to resource availability and
+disturbance, but the relative strength of relationships of environ-
+mental variables and disturbance with exotic species is not fully
+understood and can vary among landscapes and exotic species
+(Lockwood et al., 2009; Mortensen et al., 2009). The intermediate
+disturbance hypothesis predicts that total species richness peaks
+at intermediate levels of disturbance (Huston, 1979). Speciﬁcally
+for exotic species, however, high disturbance levels may promote
+high richness and abundance of exotic species through a variety
+of mechanisms, including disturbance effects on native vegetation
+(Eschtruth and Battles, 2009). Similar to environmental variables,
+the importance of disturbance variables to species invasions
+appears to vary among landscapes and species (Fowler et al.,
+2008; Eschtruth and Battles, 2009; Fornwalt et al., 2010). This var-
+iation complicates efforts to develop general theories and practical
+strategies for exotic species mapping and management, underscor-
+ing a use for multifactor studies that examine several factors
+potentially related to landscape-scale distributions of exotic spe-
+cies communities. Data sets including native and exotic plant com-
+munity composition, disturbance variables, and environmental
+variables (with soil properties) at the landscape scale are rare but
+necessary for evaluating reliability of predictions regarding exotic
+species community distributions (Bashkin et al., 2003; Keeley
+et al., 2003; Gilbert and Lechowicz, 2005).
+Ecosystem classiﬁcation could be a valuable tool for integrating
+often co-varying factors such as environment and disturbance that
+affect exotic species distributions across landscapes, but its poten-
+tial has been little explored for this purpose. Also known as ecolog-
+ical
+land
+classiﬁcation,
+forest
+site
+classiﬁcation,
+and
+other
+designations, ecosystem classiﬁcation is based on the concept of
+ecosystems as volumetric units that include the atmosphere, topog-
+raphy, vegetation, and soil (Barnes et al., 1982; Dolan and Parker,
+2005). The landscape is viewed as a mosaic of polygons representing
+different ecosystems that can be conceived at different resolutions
+by combining or dividing (e.g., moist versus dry ecosystems) ecosys-
+tems at different hierarchical levels (Palik et al., 2000). Ecosystem
+classiﬁcation could be useful for understanding exotic species inva-
+sions across landscapes by integrating environmental factors and
+some disturbance regimes, if they are ecosystem-speciﬁc, poten-
+tially linked to exotic species distributions. If exotic species abun-
+dance and composition differ among ecosystems, ecosystem
+classiﬁcation could also facilitate development of ecosystem-spe-
+ciﬁc management strategies.
+The objectives of this study were to: (1) assess relationships
+between native and exotic species richness and cover; (2) evaluate
+relationships of environmental, disturbance, and native vegetation
+variables with exotic plant community distributions across the
+landscape; and (3) compare exotic species richness, cover, and
+composition among landscape ecosystems. We anticipated that:
+(1) native and exotic richness would be positively correlated at
+multiple spatial scales and native and exotic cover also would be
+positively correlated; (2) native vegetation, environmental, and
+disturbance variables would account for equal proportions of the
+variance in distribution of exotic species communities; and (3) dis-
+tribution of exotic species communities would correspond to the
+distribution of ecosystems across the landscape, with moist, nutri-
+ent-rich ecosystems being the most heavily invaded.
+2. Methods
+2.1. Study area
+We conducted this study within a 110,000-ha Pinus ponderosa
+forest landscape within the Coconino National Forest and Northern
+Arizona University School of Forestry Centennial Forest in northern
+Arizona, USA (Fig. 1). Topography is primarily ﬂat to undulating,
+dissected by canyons, limestone ridges, and volcanic landforms
+such as cinder cones. Six ﬁre-history studies within the study area
+have reported ﬁre frequencies of 2–5 years in the centuries preced-
+ing 1880 (Van Horne and Fulé, 2006). Following approximately
+1880, Euro-American settlement introduced new land-use prac-
+tices including livestock grazing (cattle and sheep), timber harvest,
+and ﬁre exclusion. Based on a study reconstructing historical tree
+density at 53 sites, the 1880 density of ponderosa pine trees varied
+across the landscape, ranging from treeless basins several hectares
+in size (locally termed ‘parks’) and low-density (<10 trees ha1)
+sites (e.g., due to high clay content likely limiting regeneration),
+to a site containing 183 trees ha1 (Abella and Denton, 2009). With
+few exceptions, such as in some parks, density of ponderosa pine
+trees has increased by orders of magnitude since 1880 (Bakker
+and Moore, 2007). The landscape was generally historically domi-
+nated by graminoids and remains so today, although herbaceous
+vegetation has declined overall in many areas concomitant with
+the increase in tree density (Covington et al., 1994). Cattle and
+sheep are still grazed, but at lower stocking levels than near the
+turn of the 20th century and grazing intensity is spatially variable
+(Bakker and Moore, 2007).
+The study area is covered by a terrestrial ecosystem survey, the
+U.S. Forest Service’s ecosystem classiﬁcation and mapping program
+for national forests in Arizona and New Mexico (U.S. Forest Service,
+1986). The Forest Service mapped ecosystems with a 16-ha mini-
+mum mapping unit (U.S. Forest Service, 1986; Miller et al., 1995).
+In our study, we included 11 terrestrial ecosystem types predomi-
+nant in the study area and encompassing a range of climatic regimes
+and soil parent materials. Ecosystems spanned four soil orders, with
+major soil great groups including Ustochrepts and Ustorthents on
+drier sites and Eutroboralfs and Argiborolls on moister sites (Miller
+et al., 1995). Based on similarity in environmental and vegetation
+factors determined in a previous study (Abella and Covington,
+2006a), we grouped plots on basalt soils from four to three ecosys-
+tems for analysis to result in 10 total ecosystems. Ecosystems ran-
+ged from xeric, nutrient-poor, black cinder ecosystems containing
+little understory vegetation, to moist basalt ecosystems with silt
+loam soils and productive understories (Table 1).
+2.2. Data collection
+Using a geographic information system (GIS), we randomly
+selected 6–7 mapping units of each of the terrestrial ecosystem
+types for sampling and generated a random point to establish a
+66
+S.R. Abella et al. / Forest Ecology and Management 271 (2012) 65–74
+
+plot in each mapping unit. The slight variation in the number of
+mapping units among ecosystems resulted from rejecting units
+for sampling if they had been burned by wildﬁre and did not con-
+tain forest cover. Excepting park and aspen ecosystems that had
+either continuous open (park) or forest (aspen) cover, we estab-
+lished the plot in the nearest opening to the random point in each
+unit. Openings were usually located near groups of old trees
+(establishing prior to 1880), were ca. 0.1–1 ha in size, and were
+readily identiﬁable in the ﬁeld (Larson and Churchill, 2012). We
+sampled openings because they contain understory vegetation, as
+opposed to dense post-settlement tree patches where understory
+vegetation is minimal or absent (Covington et al., 1994). Moreover,
+in a previous study we found that the probability of detecting exo-
+tic species was lowest when sampling in densely treed patches,
+which usually contain no exotic plants (Abella and Covington,
+2006a). In May–August 2003, we measured a total of 66 plots that
+were sampled in a temporal sequence of alternating plots by eco-
+system so there was no temporal bias to sampling. Plots were
+20  25 m (0.05 ha) and contained 15, 1-m2 subplots centered at
+0.5, 5, 12.5, 20, and 24.5 m along the bottom, middle, and top
+25-m sides. The areal percent cover of each vascular plant species
+rooted in each subplot was visually categorized as 0.1%, 0.25%, or
+0.5%, 1% intervals from 1–10% cover, and 5% intervals from 10–
+100%. Measurement error, based on remeasuring two randomly se-
+lected subplots every six plots and calculating the difference be-
+tween original and repeated measures, averaged <0.25% for total
+cover and <0.25 species m2. We also surveyed the whole 0.05-
+ha plot for species not already detected in subplots and assigned
+these species a cover of 0.0067% (0.1%/15 subplots). We named
+species, categorized their lifeform (graminoid, forb, or shrub),
+and assigned native/exotic status (in North America) following
+NRCS (2011).
+In addition to plant community composition, we recorded and
+derived a suite of environmental and disturbance variables on each
+plot. From the center of plots, we recorded slope gradient (in %,
+using a clinometer), aspect (transformed following Beers et al.
+(1966)),
+elevation,
+and
+geographic
+location
+(in
+Universal
+Transverse Mercator [UTM] coordinates, using a global positioning
+Fig. 1. Locations of 66 sample plots for evaluating exotic plant communities in Pinus ponderosa forests of a northern Arizona landscape, USA. Plots are symbolized according to
+exotic plant cover. The two-letter codes represent ecosystem types: AN = aspen, BC = black cinder, CB = clay basalt, MB = mesic basalt, ML = mesic limestone, PK = park,
+RB = rocky basalt, RC = red cinder, XB = xeric basalt, and XL = xeric limestone. Coordinates are Universal Transverse Mercator (m), North American Datum 1927.
+S.R. Abella et al. / Forest Ecology and Management 271 (2012) 65–74
+67
+
+system). At the southwestern and northeastern corners of plots, we
+collected a 0–15 cm sample of the mineral soil from soil pits. We
+analyzed the <2-mm fraction of samples for texture (hydrometer
+method), pH (1:2 soil:CaCl2), organic C and total N (C/N analyzer),
+and CaCO3 equivalent (gravimetric method) following Sparks
+(1996) and Dane and Topp (2002). We converted nutrient concen-
+trations to contents based on bulk density averaged from two,
+280-cm3 soil cores with coarse fragment (>2 mm) volume in-
+cluded. We obtained average annual precipitation and temperature
+(using average minimum or maximum temperature returned re-
+sults similar to average annual) for each plot using PRISM climate
+data (Daly et al., 2008). We obtained several indicators of distur-
+bance on plots including a grazing intensity variable (three catego-
+ries of low, medium, and high) from Laughlin and Abella (2007),
+distance in km to the nearest source of water (usually to livestock
+tanks which can concentrate animal use and disturbance), and dis-
+tance in km to the nearest road (based on mapped roads) from
+georeferenced layers supplied by the U.S. Forest Service (Coconino
+National Forest, Flagstaff, Arizona).
+2.3. Data analysis
+We calculated frequency (% of the 66 plots occupied) for each
+species and its average percent cover (based on the mean of 15
+subplots plot1) and relative percent cover. Relative percent cover
+was calculated using the midpoints of cover classes for each spe-
+cies on each plot as: (cover of speciesi/P cover of all species)  100.
+For each plot, we calculated the mean number of species (richness)
+m2 and the total number of species.
+We assessed exotic species richness and cover relationships
+with habitat variables using several techniques. We examined rela-
+tionships between native and exotic richness at the two scales (m2
+and 500 m2) and between native and exotic cover using best-ﬁt
+regressions that maximized coefﬁcients of determination. To
+assess multivariate relationships for exotic species richness and
+cover, we used multiple regression with all potential environmen-
+tal, disturbance, and native vegetation variables input as candidate
+variables and with native vegetation variables excluded to isolate
+inﬂuences of abiotic variables (SAS Institute, 2009). We used
+one-way analysis of variance to compare exotic species richness
+(m2 and 500-m2 scales) and cover and relative cover among eco-
+systems followed by Tukey’s test for mean separation (SAS
+Institute, 2009). All variables met assumptions of equal variance
+(Levene’s test) and normality (Shapiro–Wilk test) after relative
+cover was log transformed.
+We evaluated patterns of exotic species composition using indi-
+cator species analysis and multi-response permutation procedures.
+At different hierarchical levels starting with a broad, two-group
+classiﬁcation of dry (the ﬁrst four ecosystems of Table 1) and moist
+(the last six) ecosystems, and ending at the ﬁnest resolution with
+10 groups corresponding to each of the ecosystems, we used indi-
+cator species analysis (Dufrêne and Legendre, 1997) to identify
+species that signiﬁcantly corresponded to different ecosystem
+groupings. Indicator species analysis combines the relative fre-
+quency (based on the number of sampling units, in our case, plots
+that a species occupied within a group) and relative abundance
+(relative cover in our study) to produce an indicator value ranging
+from 0% (no ﬁdelity to a group) to 100% (high ﬁdelity to a group)
+for each species. We calculated P-values through 1000 permuta-
+tions and implemented the analysis in PC-ORD (McCune and
+Mefford, 1999). To compare exotic species composition (relative
+cover) among ecosystems, we used multi-response permutation
+procedures, with a Bonferroni correction for multiple tests applied
+for pairwise comparisons among ecosystems (corrected P = 0.001;
+McCune and Mefford, 1999).
+3. Results
+We recorded a total of 271 species (251 native and 20 exotic) on
+the 66 plots. Of the exotic species, 10 were annuals or biennials,
+two were annuals–perennials, and eight were perennials (Table
+2). All of the exotic species were forbs or grasses; none were
+shrubs. Taraxacum ofﬁcinale, Tragopogon dubius, Bromus tectorum,
+Verbascum thapsus, and Poa pratensis were the most prevalent exo-
+tic species. The total relative cover of exotic species ranged from 0%
+to 47% among plots and averaged 4 ± 8% (±1 SD) across all plots.
+Native and exotic species richness was positively correlated at
+both the m2 and 500-m2 scales (Fig. 2). Native and exotic species
+cover was also positively correlated, but the correlation was
+weaker.
+Multiple regressions including native vegetation and environ-
+mental variables (no disturbance variables were statistically signif-
+icant in these models) accounted for similar amounts of the
+variance in exotic species richness (50% of variance) and cover
+(51%; Table 3). Models excluding native vegetation variables and
+including only environmental and disturbance variables portrayed
+Table 1
+Features of 10 ecosystem types sampled by this study in Pinus ponderosa forests of northern Arizona, USA.
+Ecosystema
+PP (cm yr1)b
+Texturec
+SId
+SPPe
+Description
+Black cinder
+45 ± 1
+Sand
+15
+PS, ND
+Dry, gravelly, N-poor volcanic cinders; low plant cover
+Red cinder
+46 ± 1
+Sandy loam
+15
+BD, MM
+Dry, gravelly, volcanic cinders; moderate plant cover
+Clay basalt
+55 ± 2
+Clay loam
+17
+GS, BG
+Clayey soils; drier climate than other basalt types
+Xeric limestone
+50 ± 1
+Sandy loam
+17
+BG, HF
+More neutral pH and climatically dry than mesic limestone
+Mesic limestone
+64 ± 4
+Sandy loam
+21
+FA, MM
+Climatically moister and lower pH (6.1) than xeric limestone
+Xeric basalt
+57 ± 4
+Loam
+21
+MM, MC
+Least N of basalt ecosystems; drier sites
+Rocky basalt
+67 ± 6
+Loam
+18
+SI, PC
+Rocky sites with low plant cover; clay loam subsoils
+Mesic basalt
+59 ± 4
+Silt loam
+23
+FA, CG
+High water-holding capacity soils; bunchgrasses dominate
+Aspen
+66 ± 8
+Loam
+21
+LL, LA
+Deep soils high in N; Populus tremuloides overstory
+Park
+65 ± 2
+Clay loam
+–
+SA, AG
+Treeless basins; deep soils; concentrated grazing
+a Forest service terrestrial ecosystem survey identiﬁcation numbers (Miller et al., 1995) for the ecosystems are as follows: black cinder = 558, red cinder = 513, clay
+basalt = 523, xeric limestone = 500, mesic limestone = 536, xeric basalt = 570 and 551, rocky basalt = 585, 570, and 582, mesic basalt = 582, 551, 570, and 585, aspen = 611,
+and park = 55.
+b Precipitation is derived from PRISM (Daly et al., 2008) and is mean ± SD based on site averages.
+c Soil properties are for the 0–15 cm layer from Abella and Covington (2006a).
+d Site index (m, base age 100 yr) from Miller et al. (1995).
+e Characteristic understory native species from Abella and Covington (2006b): PS = Phacelia sericea, ND = Nama dichotomum, BD = Bahia dissecta, MM = Muhlenbergia
+montana, GS = Gutierrezia sarothrae, BG = Bouteloua gracilis, HF = Hymenopappus ﬁlifolius, FA = Festuca arizonica, MC = Machaeranthera canescens, SI = Sporobolus interruptus,
+PC = Pedicularis centranthera, CG = Carex geophila, LL = Lathyrus lanszwertii, LA = Lupinus argenteus, SA = Symphyotrichum ascendens, and AG = Allium geyeri. Native species
+richness and cover by ecosystem are provided in Fig. 3.
+68
+S.R. Abella et al. / Forest Ecology and Management 271 (2012) 65–74
+
+26–32% of the variance among exotic species measures. Combina-
+tions of variables best estimating exotic species measures varied
+by the measure of exotics and whether models included native
+species. For example, exotic richness m2 was most strongly ex-
+plained by geographic location and native plant cover. When na-
+tive species variables were removed, however, distance to water
+and slope gradient were included in the model, replacing location
+variables. Native richness or individual native species were related
+to exotic species richness at the 500-m2 scale and to exotic species
+relative cover, but not to exotic richness m2. While exotic species
+cover was positively related to total native cover, it was negatively
+related to cover of two dominant native species, Muhlenbergia
+montana and Bouteloua gracilis.
+Exotic species richness m2, cover, and relative cover were
+strongly related to ecosystem types (Fig. 3). Mean exotic richness
+m2 varied from 0 in the black cinder to 1.6 species in the park eco-
+system (F9,56 = 10.86, P < 0.001). In general, moist ecosystems were
+more heavily invaded than dry ecosystems. Variation among eco-
+systems did not statistically differ (F9,56 = 1.83, P = 0.080) at the
+500-m2 scale, but the overall pattern of variation at the extremes
+was the same: black cinder contained the fewest and park ecosys-
+tems the most exotic species. Exotic species raw (F9,56 = 6.48,
+P < 0.001) and relative cover (F9,56 = 4.00, P < 0.001) differed among
+ecosystems, being greater in park and aspen ecosystems than in
+drier ecosystems.
+Exotic species community composition varied across ecosys-
+tems based on multi-response permutation procedures (A = 0.18,
+P < 0.001). Composition of park ecosystems differed from all eco-
+systems except mesic limestone, mesic basalt, and aspen. This dif-
+ference
+was
+driven
+by
+Poa
+compressa,
+as
+park
+ecosystems
+averaged 1.4 ± 0.9% (±1 SD) while differing communities averaged
+0.001 ± 0.007%,
+and
+by
+P.
+pratensis
+where
+parks
+exhibited
+4.0 ± 3.6% compared to an absence of this species in ecosystems
+that differed from parks. Exotic communities in xeric limestone
+ecosystems differed from all but clay basalt and xeric basalt ecosys-
+tems. B. tectorum relative cover was greater in xeric limestone than
+in differing ecosystems, with 0.8 ± 1.6% compared to 0.03 ± 0.15%.
+Black cinder ecosystems differed from xeric limestone, mesic lime-
+stone, rocky basalt, and park ecosystems. Five of six plots of the
+sparsely invaded black cinder ecosystem were free of exotic plants.
+Distributional patterns of individual species were harder to dis-
+cern than those of community measures because more than half the
+species were infrequent, occupying <10% of plots (Table 2). How-
+ever, indicator species analysis at different hierarchical ecosystem
+groupings and ecosystem-level analyses of frequency revealed that
+some species showed ﬁdelity to some ecosystems. At the broadest
+grouping (moist versus dry ecosystems), B. tectorum indicated drier
+sites (indicator value [IV] = 44, P = 0.013).
+P. pratensis (IV = 50,
+P < 0.001) and T. ofﬁcinale (IV = 69, P < 0.001) indicated moist sites.
+At the ﬁnest resolution (ecosystem level), P. compressa (IV = 83,
+P < 0.001) and Polygonum aviculare (IV = 83, P < 0.001) indicated
+park ecosystems. T. ofﬁcinale (IV = 69, P = 0.003) and P. pratensis
+(IV = 46, P = 0.024) both indicated aspen ecosystems. Considering
+plot frequencies among ecosystems, T. ofﬁcinale only occurred in
+the six moist ecosystems, P. aviculare only in parks, P. pratensis
+and P. compressa only in moist ecosystems, and Sisymbrium altissi-
+mum only in drier ecosystems (Table 2). T. dubius, V. thapsus, and
+Lactuca serriola displayed no clear site afﬁnities.
+4. Discussion
+4.1. General patterns
+Some of the general ecological principles advanced in the litera-
+ture and our a priori expectations for distributions of exotic species
+communities were supported by the data, while others were not.
+We found support for the principle that native and exotic species
+richness and cover are positively correlated in landscape-scale sam-
+pling studies (Stohlgren et al., 1999; Gilbert and Lechowicz, 2005;
+Table 2
+Exotic species and their frequency among ecosystem types in Pinus ponderosa forests of northern Arizona, USA.
+Ecosystemb
+Overallc
+BC
+RC
+CB
+XL
+ML
+XB
+RB
+MB
+AN
+PK
+Frequency (%)
+Forb
+Taraxacum ofﬁcinale (P) * a
+0
+0
+0
+0
+67
+60
+75
+64
+83
+50
+42
+Tragopogon dubius (AB) *
+0
+50
+83
+33
+67
+60
+50
+27
+17
+50
+42
+Verbascum thapsus (B) *
+17
+50
+17
+33
+33
+60
+75
+36
+0
+17
+35
+Lactuca serriola (A)
+0
+67
+67
+33
+0
+0
+25
+27
+17
+33
+27
+Linaria dalmatica (P)
+0
+33
+17
+50
+33
+40
+0
+27
+0
+0
+20
+Convolvulus arvensis (P) *
+0
+0
+33
+0
+0
+0
+0
+9
+0
+50
+9
+Polygonum aviculare (AP) *
+0
+0
+0
+0
+0
+0
+0
+0
+0
+83
+8
+Sisymbrium altissimum (AB)
+0
+33
+33
+17
+0
+0
+0
+0
+0
+0
+8
+Erodium cicutarium (AB) *
+0
+17
+0
+17
+0
+20
+0
+9
+0
+0
+6
+Cirsium vulgare (B) *
+0
+0
+0
+0
+0
+0
+0
+9
+0
+0
+2
+Descurainia sophia (A)
+0
+0
+0
+0
+0
+0
+0
+9
+0
+0
+2
+Melilotus ofﬁcinalis (AP) *
+0
+0
+17
+0
+0
+0
+0
+0
+0
+0
+2
+Taraxacum laevigatum (P)
+0
+0
+0
+0
+0
+0
+0
+0
+17
+0
+2
+Grass
+Bromus tectorum (A) *
+0
+50
+83
+83
+50
+60
+13
+36
+0
+0
+36
+Poa pratensis (P) *
+0
+0
+0
+0
+67
+0
+63
+27
+67
+100
+33
+Poa compressa (P)
+0
+0
+0
+0
+0
+20
+13
+0
+17
+100
+14
+Bromus japonicus (A)
+0
+0
+33
+0
+17
+0
+0
+0
+0
+0
+5
+Dactylis glomerata (P) *
+0
+0
+0
+0
+0
+0
+13
+0
+17
+0
+3
+Bromus rubens (A)
+0
+0
+0
+0
+0
+0
+13
+0
+0
+0
+2
+Thinopyrum intermedium (P) *
+0
+0
+0
+0
+0
+0
+13
+0
+0
+0
+2
+a A = annual, AB = annual-biennial, AP = annual-perennial, B = biennial, and P = perennial. ‘*’ denote species on Fowler et al.’s (2008) compilation of species that were
+intentionally seeded or seed contaminants in North America. Some other species not part of Fowler et al.’s (2008) compilation, such as Poa compressa, also are likely part of
+intentional seedings or seed contamination.
+b BC = black cinder, RC = red cinder, CB = clay basalt, XL = xeric limestone, ML = mesic limestone, XB = xeric basalt, RB = rocky basalt, MB = mesic basalt, AN = aspen, and
+PK = park.
+c Frequency among all 66, 0.05-ha plots.
+S.R. Abella et al. / Forest Ecology and Management 271 (2012) 65–74
+69
+
+Fornwalt et al., 2010). However, we found that environmental vari-
+ables were more strongly related than disturbance to exotic species
+richness and cover. Moreover, we introduced a tool – ecosystem
+classiﬁcation – new to invasive species science that shows promise
+for integrating factors (both environment and disturbance along
+with management history) apparently related to exotic species dis-
+tribution. As anticipated, moist ecosystems were generally most in-
+vaded. Findings further have important implications for managing
+exotic species related to information needs identiﬁed by mandates
+such as the National Invasive Species Council (Clinton, 1999) and
+U.S.
+Forest
+Service
+(2004)
+guidelines
+for
+managing
+species
+invasions. Results can help managers understand characteristics
+of forest sites that are most invaded (useful for mapping and mon-
+itoring of invasions), identify exotics that are most prevalent to
+partly help prioritize species for monitoring and management,
+and prioritize particular ecosystems for management and develop
+ecosystem-speciﬁc management strategies. Evidence for our a pri-
+ori hypotheses about native–exotic species relationships, the rela-
+tive
+importance
+of
+habitat
+variables,
+and
+relationships
+of
+ecosystem classiﬁcation with distributions of exotic species com-
+munities is important both for advancing theory on species inva-
+sions and formulating management strategies.
+4.2. Native–exotic species relationships
+The hypothesis that native and exotic species richness would be
+positively correlated was supported, indicating that sites with high
+native richness were the most invaded. Determining the underly-
+ing mechanisms behind the observed positive correlations requires
+experimental research. Mechanisms could be related to environ-
+mental conditions, inﬂuences of species richness per se, or other
+factors. Positive correlations can result from site conditions favor-
+able for natives also being favorable for exotics, coupled with the
+ability of some or all of these species to thus far coexist (Levine
+et al., 2004). The data provide some support for the hypothesis that
+the most invaded sites were favorable for both native and exotic
+species. The top two invaded ecosystems both share the character-
+istic of lack ofP. ponderosa dominance: aspen ecosystems have only
+small proportions of P. ponderosa and park ecosystems have no tree
+overstories. These conditions alleviated a well-known limitation to
+understory growth in P. ponderosa forests, as many studies have re-
+ported negative correlations between P. ponderosa tree density and
+understory productivity likely due to heavy shading, litter produc-
+tion, and resource use by the trees (Sabo et al., 2009). Moreover,
+both native (r = 0.55) and exotic (r = 0.51) species richness m2
+were positively correlated with soil total N and negatively with
+sand (r = 0.58 native, 0.43 exotic). This suggested that sites high
+in N and water-holding capacity (primarily of the aspen and park
+ecosystems) were favorable to both species groups. On the other
+hand, the least-invaded ecosystem (black cinder) had the driest,
+most nutrient-poor surface soils of all ecosystems (Table 1). This
+ecosystem, also with the fewest native species, was apparently
+unfavorable for the establishment of native and exotic species.
+Palmer and Maurer (1997) offered three explanations for how
+species richness per se might promote invasion. First, high species
+richness can enhance environmental heterogeneity (e.g., multi-lay-
+ered vegetation), creating a diversity of microsites available for col-
+onization by invaders. Understory vertical and horizontal structure
+was more complicated in the most-invaded ecosystems compared
+to the least invaded (black cinder), but more detailed methods
+quantifying structure would be needed to evaluate patterns in
+intermediately invaded ecosystems. Second, sites with high rich-
+ness can have a greater chance of containing a species promoting
+invasion (i.e. ‘sampling effect’), such as a species that enhances soil
+N availability. This is difﬁcult to evaluate in our data, as it is not
+known which species in the P. ponderosa forest ﬂora might facili-
+tate invasion. Moreover, legumes (e.g., Lupinus argenteus) that
+may ﬁx N occurred in some heavily invaded ecosystems (e.g., as-
+pen) but not others (park), and characteristics of potential inva-
+sion-facilitators may vary among ecosystems. Additionally, high
+species richness could have the opposite effect: a greater chance
+of a site containing an invasion-inhibiting species (Fargione and
+Tilman, 2005). Third, ecological equivalency can facilitate high
+invasibility of species-rich sites. This theory suggests that species
+can coexist because the environment is segregated into patches,
+and while competitive exclusion can occur within a patch, the
+‘winner’ will vary from patch to patch, if the species are equivalent,
+thus increasing overall site species richness. None of our sample
+sites contained >57% total plant cover, with vegetated patches
+Fig. 2. Relationships between native and exotic species richness at the (a) m2 and
+(b) 500-m2 scale, and (c) the relationship between native and exotic plant cover in
+Pinus ponderosa forests of northern Arizona, USA.
+70
+S.R. Abella et al. / Forest Ecology and Management 271 (2012) 65–74
+
+alternating
+with
+bare
+ground
+or
+litter.
+At
+an
+experimental
+P. ponderosa forest site, McGlone et al. (2011) found that estab-
+lished vegetated patches (whether comprised of native perennial
+plants or the exotic annual B. tectorum) were resistant to invasion,
+implying that new species would need to invade openings rather
+than vegetated patches. The many mechanisms that might result
+in observed invasibility patterns lend themselves to multifactor
+experiments that manipulate these factors and also include the
+potential for interactions among the factors and ecosystem types
+across the landscape.
+Based on Palmer and Maurer’s (1997) proposed mechanisms, it
+could be hypothesized that in mensurative studies, the native:exo-
+tic species richness correlation is strongest at broader (such as
+500 m2) than at ﬁner scales (m2). Larger areas would include more
+Table 3
+Relationships of habitat variables with exotic species richness and cover for Pinus ponderosa forests of northern Arizona, USA. Partial r2 values (with the parameter estimate  100
+in parentheses) are presented for each variable signiﬁcant at P < 0.05 included in multiple regressions estimating the exotic species response variables.
+Exotic species richness m2
+Exotic species richness 500 m2
+Exotic species cover (log10 %)
+Environmental and native plant descriptors
+Intercept
+23.16
+163.24
+39.43
+UTM y (m)
+0.14 (0.0005)
+0.05 (0.004)
+0.04 (0.001)
+UTM x (m)
+0.16 (0.0006)
+–
+–
+Native cover (%)
+0.10 (0.4)
+–
+0.19 (4.9)
+Gravel (% wt.)
+0.05 (0.3)
+0.08 (5.9)
+–
+pH
+0.05 (8.4)
+–
+–
+Native species 500 m2
+–
+0.17 (10.7)
+–
+Erigeron divergens (%)a
+–
+0.15 (21.4)
+–
+Elymus elymoides (%)
+–
+0.05 (55.3)
+–
+Muhlenbergia montana (%)
+–
+–
+0.12 (6.4)
+Bouteloua gracilis (%)
+–
+–
+0.16 (5.9)
+Model R2
+0.50
+0.50
+0.51
+Environmental data only
+Intercept
+0.12
+221.86
+55.86
+Distance to water (m)
+0.18 (0.03)
+–
+–
+Slope gradient (%)
+0.09 (4.2)
+–
+–
+Gravel (% wt.)
+0.05 (1.8)
+–
+–
+UTM y (m)
+–
+0.17 (0.006)
+0.09 (0.001)
+Sand (%)
+–
+0.09 (3.4)
+–
+Soil total N (g m2)
+–
+–
+0.17 (0.4)
+Model R2
+0.32
+0.26
+0.26
+a Cover for individual native species is raw cover.
+Fig. 3. Mean exotic species richness at the (a) m2 and (b) 500-m2 scale, and exotic species (c) raw and (d) relative cover among 10 ecosystem types of Pinus ponderosa forests
+of northern Arizona, USA. Error bars are standard errors of means. Means without shared letters differ (P < 0.05). Numbers at the base of or above bars are native species
+richness or cover.
+S.R. Abella et al. / Forest Ecology and Management 271 (2012) 65–74
+71
+
+species, greater chances for equivalency, and more patch structure
+and heterogeneity. However, we actually observed a stronger posi-
+tive relationship between native and exotic richness at the m2
+compared to 500-m2 scale. This ﬁnding also differs from Keeley
+et al. (2003), where native and exotic richness were more posi-
+tively correlated (r = 0.67) at 1000-m2 than m2 (r = 0.26) scales in
+California Sierra Nevada conifer forests. Apparently in our study,
+the averaging of the 15, m2 subplots spatially distributed within
+a plot captured mechanisms responsible for the positive relation-
+ship, or the number of exotic species 500 m2 had begun to satu-
+rate. With the exception of the black cinder ecosystem, there was
+evidence for saturation in that exotic species richness 500 m2
+was more consistent among ecosystems than was exotic richness
+m2. In other words, the 500-m2 plots may have detected the
+majority of exotic species in the vicinity of plots which was reason-
+ably consistent across ecosystems (with most averaging 3–4 exotic
+species plot1), tempering variation in exotic richness between na-
+tive species-poor and species-rich sites (Fig. 3).
+The relationship between native and exotic species cover also
+was positive, but weaker than for species richness. What appeared
+consistent, however, based on examining the scatterplot, was a
+threshold where sites with less than about 10% native cover did
+not support the higher levels of exotic cover that could occur on
+sites containing >10% native cover (Fig. 2). This may arise from
+dry, infertile environments not being favorable for either exotic
+or native species. Many sites with >10% native cover, however, also
+supported minimal amounts of exotic cover. In these cases, the
+identity of the native species might be more tightly linked to com-
+munity invasibility than total native cover, serving to temper nati-
+ve:exotic cover relationships (Abella et al., in press). For example,
+the native perennial bunchgrasses (e.g., Festuca arizonica) and
+sedges (e.g., Carex geophila) are strong competitors (Pearson,
+1942) and may have reduced exotic cover on some of the sites with
+high native cover.
+4.3. Relative importance of habitat variables
+Contrary to our hypothesis that native vegetation, environmen-
+tal factors, and disturbance would account for equal proportions of
+the variance in exotic species communities, native vegetation and
+environmental factors were more closely related to exotic species
+communities than the disturbance variables. Only distance to
+water (linked primarily to artiﬁcial tanks where livestock and dis-
+turbance are concentrated) entered exotic species models as a dis-
+turbance variable and only when native vegetation variables were
+not included (Table 3). However, our ﬁndings related to distur-
+bance should be placed within the sampling context of the study.
+For instance, we did not sample intensively disturbed areas such
+as severe burns, expected to promote exotic plants (Floyd et al.,
+2006; Hunter et al., 2006; Fornwalt et al., 2010). Examining a range
+of disturbances across ecosystems warrants further research to
+understand if disturbance and ecosystem type interact statistically
+to inﬂuence exotic species communities. The landscape also was
+the scale of our sampling. We did not speciﬁcally sample, for in-
+stance, ﬁne-scale gradients (e.g., a scale of tens of meters) in dis-
+tance from roads that can be related to exotic plant distribution
+(e.g., Fowler et al., 2008; Mortensen et al., 2009), though not al-
+ways (e.g., Craig et al., 2010). We also acknowledge that our mea-
+sures of disturbance are crude (e.g., categorical variable of grazing
+intensity). Yet, some other studies have used similar measures of
+disturbance and have found stronger relationships with exotic
+plant distributions (e.g., Gelbard and Harrison, 2003). The possible
+importance of historical disturbances, such as late 1800s grazing
+and railroad line development, in creating opportunities for exotic
+plant introduction and spread should not be dismissed but are dif-
+ﬁcult to retrospectively evaluate.
+While a central tenet in invasive species science is that distur-
+bance promotes invasions, we also should not assume that distur-
+bance is always the principal driving factor for the establishment
+and spread of exotic plant invasions (Alpert et al., 2000; Eschtruth
+and Battles, 2009). Our ﬁnding of weaker relationships of exotic
+plants with disturbance than with native vegetation and environ-
+mental factors concurs with ﬁndings of some other studies includ-
+ing in P. ponderosa forests. In Colorado, for instance, Fornwalt et al.
+(2003) found that no exotic species measures differed between a
+study area where logging, grazing, and most human recreation
+had been excluded for the past 100 years compared to an area
+where these uses had occurred. Speciﬁcally considering grazing,
+studies in P. ponderosa forests have not reported that grazed areas
+contain more abundant exotic plants than ungrazed areas. Study-
+ing a 93-year-old livestock grazing exclosure within our study area,
+Bakker et al. (2010) concluded that differences in plant composi-
+tion were negligible inside and outside the exclosure. Similarly,
+Sorensen and McGlone (2010) found that cover of the exotic
+annual B. tectorum averaged 1% both inside and outside of 2-
+year-old exclosures, while Rambo and Faeth (1999) reported that
+exotic cover was actually greater outside (21%) compared to inside
+(13%) exclosures. Again, however, a historical context is needed,
+because all of these studies occurred in a contemporary period of
+less intensive grazing than occurred in the past (Bakker and Moore,
+2007). Furthermore, several of the exotic plants we recorded were
+speciﬁcally introduced for range ‘improvements’ to provide live-
+stock forage or were seed contaminants (Fowler et al., 2008).
+4.4. Utility of ecosystem classiﬁcation
+The hypothesis that exotic plant communities differed among
+ecosystems was supported, with a general gradient of decreasing
+invasion from moist to dry ecosystems. The speciﬁc patterns, how-
+ever, suggested that factors other than general moisture availabil-
+ity were related to invasion patterns and were captured by the
+ecosystem classiﬁcation. For example, the rocky basalt ecosystem
+is moist (Table 1) but had among the lowest exotic richness m2
+and exotic cover. Rocky soils and clay bands near the surface
+may have limited plant establishment (Abella and Covington,
+2006a). Aspen ecosystems, among the most heavily invaded, con-
+tained different overstories, leaf litter, soil properties, and likely
+animal use (Martinsen et al., 1990) than other ecosystems, all of
+which may have inﬂuenced the growing environment for plants.
+The mesic basalt ecosystem contained silty soils high in N and
+available water, which could be predicted to promote invasion,
+yet this ecosystem was not among the most heavily invaded. Na-
+tive species identity in this ecosystem may have been important
+because the ecosystem was dominated by perennial bunchgrasses
+and sedges that might competitively constrain invasion (McGlone
+et al., 2011). An additional factor warranting consideration and fu-
+ture research is that geographic locations of sites of some ecosys-
+tems
+were
+clustered.
+Spatial
+correlation
+of
+sites
+within
+ecosystems would be expected if particular geographic regions
+have a climate that supports only certain ecosystems or if soil par-
+ent material is spatially clustered (Urban et al., 2000). For example,
+sites of the black cinder ecosystem were clustered in the northeast-
+ern part of the study area because this was an area of recent volca-
+nic activity that also was climatically dry (Fig. 1). This type of
+spatial structure can be viewed as a positive for helping to under-
+stand species distributions if other factors (e.g., broad-scale species
+dispersal) are also related to this spatial structure (Hawkins, 2012).
+However, sites of other ecosystems were not spatially clustered,
+such as the widely dispersed aspen ecosystem or the clay basalt
+ecosystem
+which
+contained
+sites
+separated
+by
+over
+65 km
+(Fig. 1). These ecosystems appeared to re-occur wherever their
+characteristic environments were located.
+72
+S.R. Abella et al. / Forest Ecology and Management 271 (2012) 65–74
+
+We hypothesize that the ecosystem classiﬁcation was related to
+exotic species communities because it reﬂected interconnected envi-
+ronmental, disturbance, and management regimes. In other words,
+ecosystem-speciﬁc environments may have led to ecosystem-
+speciﬁc disturbance and management regimes. For instance, parks
+have unique environments because they are treeless, occupy low
+positions in the landscape that accumulate water, and often have
+clayey soils (Abella and Covington, 2006a). These are also locations
+where native ungulates and livestock congregate; thus grazing (or
+grazing-related activities such as livestock herding) may have been
+important in this particular ecosystem even if not reﬂected in overall
+landscape patterns. In another example, black cinder ecosystems
+have unique environments characterized by coarse, gravelly soils.
+These droughty, N-poor soils in turn limit plant productivity and
+suitability for construction of livestock watering tanks. As a result,
+livestock management and range improvements through intentional
+seeding of exotic plants would not be anticipated to be as important
+in this ecosystem in comparison to others (Abella and Covington,
+2006a). While the regression models using continuous independent
+variables accounted for ca. 50% of the variation in exotic species mea-
+sures, these variables (e.g., soil laboratory data) are expensive to ob-
+tain. The ecosystem classiﬁcation is already available to forest
+managers as a map, and it accounted for orders of magnitude varia-
+tion among forest sites in exotic plant abundance (Fig. 3). The data
+suggest that ecosystem classiﬁcation integrated co-varying factors
+related to exotic community distribution and is a useful tool for land-
+scape-scale exotic species management.
+4.5. Species distributions, introduction history, and impacts
+The exotic species we detected appear widespread in south-
+western P. ponderosa forests and many were introduced intention-
+ally. For example, 14 of the 20 species detected in our study were
+also detected by Fowler et al. (2008) at sites in three northern
+Arizona national forests including our study forest. Excepting
+Taraxacum laevigatum, 19 of our study’s species were on Sieg’s
+(2003) list of exotic plants of P. ponderosa forests.
+Over half of the exotic species in our study were on Fowler
+et al.’s (2008) compilation of exotic species surmised to have been
+intentionally introduced to North America or introduced as seed
+contaminants (Table 2). It is difﬁcult to evaluate which species,
+in what quantities, and in which locations exotic plants were
+seeded speciﬁcally within our study area. Rangeland seeding pro-
+jects have occurred for over 70 years, foresters and others some-
+times carried seed bags and sowed seed during routine travels
+and project visits (C.W. Denton, U.S. Forest Service retired, personal
+communication, 2012), and little or no documentation exists for
+most seedings. Lavin and Springﬁeld (1955), however, do provide
+speciﬁc examples of seeding the exotics Dactylis glomerata, P. prat-
+ensis, and Thinopyrum intermedium for livestock within our study
+area, and based on Fowler et al. (2008), several other species have
+likely been seeded speciﬁcally within the study area. Some exotic
+species we recorded, such as Melilotus ofﬁcinalis, D. glomerata,
+and T. intermedium, also have been used for wildﬁre revegetation
+in the past 40 years in the Southwest (Peppin et al., 2011). While
+the importance of these intentional seedings in the establishment
+and spread of exotic plants is not known relative to other dispersal
+mechanisms (e.g., transport by animals, wind, and human forest
+visitors), the potential impact of intentional seeding and seed con-
+tamination should not be overlooked (Fowler et al., 2008).
+The stage of invasion of the species in our study is not clear, nor
+is it apparent what impacts these species have had in the past or
+may have in the future (Crooks, 2005). Many exotics seeded for
+revegetation purposes have the ability to spread from introduction
+sites, as Williamson and Harrison (2002) documented for D. glom-
+erata in California grasslands and woodlands, at least under certain
+climatic and site conditions. A common invasion pattern is a lag
+phase after introduction, which can last many decades, followed
+by exponential population growth of species with high invasive-
+ness (Crooks, 2005). Few data on long-term spread rates of exotic
+species are available for P. ponderosa forests, highlighting the po-
+tential application of plot networks such as this study, combined
+with other methods (e.g., surveys) for monitoring exotic plant dis-
+tributions. Impacts of the invaders to indigenous ecosystems may
+include competing with native plants, altering forage for native
+herbivores and livestock, modifying soil properties, and changing
+fuel characteristics that can alter ﬁre ecology (Parker et al.,
+1999). Not all of the invaders may impact indigenous ecosystems
+equally, however, potentially inﬂuencing which species are the pri-
+orities for management. For example, B. tectorum is known to alter
+soil properties and fuel characteristics (Upadhyaya et al., 1986). In
+contrast, species such as T. ofﬁcinale may have less substantial im-
+pact, or in the case of species such asV. thapsus, disappear from vig-
+orous stands of native species (Stoddard et al., 2011). Moreover,
+managers might be less concerned about the study area’s exotic
+perennial grasses, which provide forage values, but more con-
+cerned about species such as B. tectorum or Linaria dalmatica that
+have little documented beneﬁt relative to their harmful effects in
+indigenous ecosystems (Sieg et al., 2003).
+4.6. Conclusion
+Results can help meet information needs identiﬁed by the
+National Invasive Species Council (Clinton, 1999) and U.S. Forest
+Service (2004) guidelines for managing exotic species. For exam-
+ple, while not intended as an exhaustive botanical survey, the data
+provide a landscape-scale inventory of exotic species. This inven-
+tory identiﬁed species that are currently infrequent, which can as-
+sist
+with
+early
+detection,
+including
+detecting
+a
+species
+(T. laevigatum) not previously found on lists of exotic plants in
+southwestern P. ponderosa forests (Sieg et al., 2003). Relating exotic
+species community measures to native vegetation and environ-
+mental factors helped to identify areas of the landscape that were
+most invaded, which generally included sites with high ﬁne-scale
+(1 m2) native species richness, high soil N and available water
+(excepting rocky basalt sites), and low amounts of native perennial
+bunchgrasses. This study also found that ecosystem classiﬁcation
+was valuable for understanding invasion patterns across the land-
+scape and is useful for exotic species management planning. For
+example, management strategies may be ecosystem-speciﬁc: in
+the little-invaded black cinder ecosystem, early detection of new
+invaders may be a primary strategy, whereas containing existing
+invasions may be more important in heavily invaded ecosystems.
+Acknowledgments
+We thank the U.S. Forest Service and Ecological Restoration
+Institute (ERI) for funding this study; Kyle Christie, Allison Bair,
+Steve Buckley, and other ERI students and staff for help with
+ﬁeldwork; Sheila Sandusky (Coconino National Forest), J.J. Smith
+(Centennial
+Forest),
+and
+Keith
+Pajkos
+(Arizona
+State
+Land
+Department) for permission to collect samples; Brian Zimmer for
+performing soil nutrient analyses; Sharon Altman (University of
+Nevada Las Vegas) for formatting ﬁgures; and three anonymous
+reviewers and Sharon Altman for reviewing the manuscript.
+References
+Abella, S.R., Covington, W.W., 2006a. Forest ecosystems of an Arizona Pinus
+ponderosa landscape: multifactor classiﬁcation and implications for ecological
+restoration. J. Biogeogr. 33, 1368–1383.
+S.R. Abella et al. / Forest Ecology and Management 271 (2012) 65–74
+73
+
+Abella, S.R., Covington, W.W., 2006b. Vegetation–environment relationships and
+ecological species groups of an Arizona Pinus ponderosa landscape, USA. Plant
+Ecol. 185, 255–268.
+Abella, S.R., Denton, C.W., 2009. Spatial variation in reference conditions: historical
+tree density and pattern on a Pinus ponderosa landscape. Can. J. For. Res. 39,
+2391–2403.
+Abella, S.R., Craig, D.J., Smith, S.D., Newton, A.C., in press. Identifying native
+vegetation for reducing exotic species during the restoration of desert
+ecosystems. Restor. Ecol.
+Alpert, P., Bone, E., Holzapfel, C., 2000. Invasiveness, invasibility and the role of
+environmental stress in the spread of non-native plants. Perspect. Plant Ecol. 3,
+52–66.
+Bakker, J.D., Moore, M.M., 2007. Controls on vegetation structure in southwestern
+ponderosa pine forests, 1941 and 2004. Ecology 88, 2305–2319.
+Bakker, J.D., Rudebusch, F., Moore, M.M., 2010. Effects of long-term livestock grazing
+and habitat on understory vegetation. West. N. Am. Nat. 70, 334–344.
+Barnes, B.V., Pregitzer, K.S., Spies, T.A., Spooner, V.H., 1982. Ecological forest site
+classiﬁcation. J. For. 80, 493–498.
+Bashkin, M., Stohlgren, T.J., Otsuki, Y., Lee, M., Evangelista, P., Belnap, J., 2003. Soil
+characteristics and plant exotic species invasions in the Grand Staircase-
+Escalante National Monument, Utah, USA. Appl. Soil Ecol. 22, 67–77.
+Beers,
+T.W.,
+Dress,
+P.E.,
+Wensel,
+L.C.,
+1966.
+Aspect
+transformation
+in
+site
+productivity research. J. For. 64, 691–692.
+Chornesky, E.A., Bartuska, A.M., Aplet, G.H., Britton, K.O., Cummings-Carlson, J.,
+Davis, F.W., Eskow, J., Gordon, D.R., Gottshalk, K.W., Haack, R.A., Hansen, A.J.,
+Mack, R.N., Rahel, F.J., Shannon, M.A., Wainger, L.A., Wigley, T.B., 2005. Science
+priorities for reducing the threat of invasive species to sustainable forestry.
+Bioscience 55, 335–348.
+Clinton, W.J., 1999. Executive Order 13112 of February 3, 1999: invasive species.
+Fed Regist 64, 6183–6186.
+Covington, W.W., Everett, R.L., Steele, R., Irwin, L.L., Daer, T.A., Auclair, A.N.D., 1994.
+Historical and anticipated changes in forest ecosystems of the Inland West of
+the United States. J. Sustain. For. 2, 13–63.
+Craig, D.J., Craig, J.E., Abella, S.R., Vanier, C.H., 2010. Factors affecting exotic annual
+plant cover and richness along roadsides in the eastern Mojave Desert, USA. J.
+Arid Environ. 74, 702–707.
+Crooks, J.A., 2005. Lag times and exotic species: the ecology and management of
+biological invasions in slow-motion. Ecoscience 12, 316–329.
+Daly, C., Halbleib, M., Smith, J.I., Gibson, W.P., Doggett, M.K., Taylor, G.H., Curtis, J.,
+Pasteris, P.P., 2008. Physiographically sensitive mapping of climatological
+temperature and precipitation across the conterminous United States. Int. J.
+Climatol. 28, 2031–2064.
+Dane, J.H., Topp, G.C. (Eds.), 2002. Methods of Soil Analysis: Part 4 – Physical
+Methods. Soil Sci. Soc. Am., Inc., Madison, WI.
+Dolan, B.J., Parker, G.R., 2005. Ecosystem classiﬁcation in a ﬂat, highly fragmented
+region of Indiana, USA. For. Ecol. Manage. 219, 109–131.
+Dufrêne, M., Legendre, P., 1997. Species assemblages and indicator species: the need
+for a ﬂexible asymmetrical approach. Ecol. Monogr. 67, 345–366.
+Eschtruth, A.K., Battles, J.J., 2009. Assessing the relative importance of disturbance,
+herbivory, diversity, and propagule pressure in exotic plant invasion. Ecol.
+Monogr. 79, 265–280.
+Fargione, J.E., Tilman, D., 2005. Diversity decreases invasion via both sampling and
+complementarity effects. Ecol. Lett. 8, 604–611.
+Floyd, M.L., Hanna, D., Romme, W.H., Crews, T.E., 2006. Predicting and mitigating
+weed invasions to restore natural post-ﬁre succession in Mesa Verde National
+Park, Colorado, USA. Int. J. Wildland Fire 15, 247–259.
+Fornwalt, P.J., Kaufmann, M.R., Huckaby, L.S., Stoker, J.M., Stohlgren, T.J., 2003. Non-
+native plant invasions in managed and protected ponderosa pine/Douglas-ﬁr
+forests of the Colorado Front Range. For. Ecol. Manage. 177, 515–527.
+Fornwalt, P.J., Kaufmann, M.R., Stohlgren, T.J., 2010. Impacts of mixed severity
+wildﬁre on exotic plants in a Colorado ponderosa pine-Douglas-ﬁr forest. Biol.
+Invasions 12, 2683–2695.
+Fowler, J.F., Sieg, C.H., Dickson, B.G., Saab, V., 2008. Exotic plant species diversity:
+inﬂuence of roads and prescribed ﬁre in Arizona ponderosa pine forests.
+Rangeland Ecol. Manage. 61, 284–293.
+Gelbard, J.L., Harrison, S., 2003. Roadless habitats as refuges for native grasslands:
+interactions with soil, aspect, and grazing. Ecol. Appl. 13, 404–415.
+Gilbert, B., Lechowicz, M.J., 2005. Invasibility and abiotic gradients: the positive
+correlation between native and exotic plant diversity. Ecology 86, 1848–1855.
+Hawkins, B.A., 2012. Eight (and a half) deadly sins of spatial analysis. J. Biogeogr. 39,
+1–9.
+Hejda, M., Pyšek, P., Jarošik, V., 2009. Impact of invasive plants on the species
+richness, diversity and composition of invaded communities. J. Ecol. 97, 393–
+403.
+Hunter, M.E., Omi, P.N., Martinson, E.J., Chong, G.W., 2006. Establishment of non-
+native plant species after wildﬁres: effects of fuel treatments, abiotic and biotic
+factors, and post-ﬁre grass seeding treatments. Int. J. Wildland Fire 15, 271–281.
+Huston, M., 1979. A general hypothesis of species diversity. Am. Nat. 113, 81–101.
+Keeley, J.E., Lubin, D., Fotheringham, C.J., 2003. Fire and grazing impacts on plant
+diversity and alien plant invasions in the southern Sierra Nevada. Ecol. Appl. 13,
+1355–1374.
+Larson, A.J., Churchill, D., 2012. Tree spatial patterns in ﬁre-frequent forests of
+western North America, including mechanisms of pattern formation and
+implications for designing fuel reduction and restoration treatments. For.
+Ecol. Manage. 267, 74–92.
+Laughlin, D.C., Abella, S.R., 2007. Abiotic and biotic factors explain independent
+gradients of plant community composition in ponderosa pine forests. Ecol.
+Model. 205, 231–240.
+Lavin, F.H., Springﬁeld, H.W., 1955. Seeding in the Southwest pine zone for forage
+improvement and soil protection. USDA Forest Service, Agric. Handb. No. 89.
+Levine, J.M., Adler, P.B., Yelenik, S.G., 2004. A meta-analysis of biotic resistance to
+exotic plant invasions. Ecol. Lett. 7, 975–989.
+Lockwood, J.L., Cassey, P., Blackburn, T.M., 2009. The more you introduce the more
+you get: the role of colonization pressure and propagule pressure in invasion
+ecology. Divers. Distrib. 15, 904–910.
+Martinsen, G.D., Cushman, J.H., Whitham, T.G., 1990. Impact of gopher disturbance
+on plant species diversity in a shortgrass prairie community. Oecologia 83, 132–
+138.
+McCune, B., Mefford, M.J., 1999. PC-ORD: multivariate analysis of ecological data.
+Version 4. User’s guide. MjM Software Design, Gleneden Beach, OR.
+McGlone, C.M., Sieg, C.H., Kolb, T.E., 2011. Invasion resistance and persistence:
+established plants win, even with disturbance and high propagule pressure.
+Biol. Invasions 13, 291–304.
+Miller, G., Ambos, N., Boness, P., Reyher, D., Robertson, G., Scalzone, K., Steinke, R.,
+Subirge, T., 1995. Terrestrial Ecosystems Survey of the Coconino National Forest.
+USDA Forest Service, Southwestern Region.
+Mortensen, D.A., Rauschert, E.S.J., Nord, A.N., Jones, B.P., 2009. Forest roads facilitate
+the spread of invasive plants. Invasive Plant Sci. Manage. 2, 191–199.
+NRCS [Natural Resources Conservation Service], 2011. The PLANTS database.
+National
+Plant
+Data
+Center,
+Baton
+Rouge,
+LA.
+Available
+from:
+http://
+plants.usda.gov.
+Palik, B.J., Goebel, P.C., Kirkman, L.K., West, L., 2000. Using landscape hierarchies to
+guide restoration of disturbed ecosystems. Ecol. Appl. 10, 189–202.
+Palmer, M.W., Maurer, T.A., 1997. Does diversity beget diversity? A case study of
+crops and weeds. J. Veg. Sci. 8, 235–240.
+Parker, I.M., Simberloff, D., Lonsdale, W.M., Goodell, K., Wonham, M., Kareiva, P.M.,
+Williamson, M.H., Von Holle, B., Moyle, P.B., Byers, J.E., Goldwasser, L., 1999.
+Impact: toward a framework for understanding the ecological effects of
+invaders. Biol. Invasions 1, 3–19.
+Pearson, G.A., 1942. Herbaceous vegetation a factor in natural regeneration of
+ponderosa pine in the Southwest. Ecol. Monogr. 12, 315–338.
+Peppin, D.L., Fulé, P.Z., Sieg, C.H., Beyers, J.L., Hunter, M.E., Robichaud, P.R., 2011.
+Recent trends in post-wildﬁre seeding in western forests: costs and seed mixes.
+Int. J. Wildland Fire 20, 702–708.
+Rambo, J.L., Faeth, S.H., 1999. Effect of vertebrate grazing on plant and insect
+community structure. Conserv. Biol. 13, 1047–1054.
+Sabo, K.E., Sieg, C.H., Hart, S.C., Bailey, J.D., 2009. The role of disturbance severity and
+canopy closure on standing crop of understory plants species in ponderosa pine
+stands in northern Arizona, USA. For. Ecol. Manage. 257, 1656–1662.
+SAS Institute, 2009. SAS/STAT User’s Guide. SAS Institute, Inc., Cary, NC.
+Sieg, C.H., Phillips, B.G., Moser, L.P., 2003. Exotic invasive plants. In: Friederici, P.
+(Ed.), Ecological Restoration of Southwestern Ponderosa Pine Forests. Island
+Press, Washington, DC, pp. 251–267.
+Sorensen, C.D., McGlone, C.M., 2010. Ponderosa pine understory response to short-
+term grazing exclusion (Arizona). Ecol. Restor. 28, 124–126.
+Sparks, D.L. (Ed.), 1996. Methods of Soil Analysis: Part 3 – Chemical Methods. Soil
+Science Society of America, Inc. and American Society of Agronomy, Inc.,
+Madison, WI.
+Stoddard, M.T., McGlone, C.M., Fulé, P.Z., Laughlin, D.C., Daniels, M.L., 2011. Native
+plants dominate
+understory vegetation following
+ponderosa pine forest
+restoration treatments. West. N. Am. Nat. 71, 206–214.
+Stohlgren, T.J., Binkley, D., Chong, G.W., Kalkhan, M.A., Schell, L.D., Bull, K.A., Otsuki,
+Y., Newman, G., Bashkin, M., Son, Y., 1999. Exotic plant species invade hot spots
+of native plant diversity. Ecol. Monogr. 69, 25–46.
+U.S. Forest Service, 1986. Terrestrial Ecosystem Survey Handbook. USDA Forest
+Service, Albuquerque, NM.
+U.S. Forest Service, 2004. National Strategy and Implementation Plan for Invasive
+Species Management. USDA Forest Service, Washington, D.C.
+Upadhyaya, M.D., Turkington, R., McIlvride, D., 1986. The biology of Canadian
+weeds. 75. Bromus tectorum L. Can. J. Plant Sci. 66, 689–709.
+Urban, D.L., Miller, C., Halpin, P.N., Stephenson, N.L., 2000. Forest gradient response
+in Sierran landscapes: the physical template. Landscape Ecol. 15, 603–620.
+Van Horne, M.L., Fulé, P.Z., 2006. Comparing methods of reconstructing ﬁre history
+using ﬁre scars in a southwestern United States ponderosa pine forest. Can. J.
+For. Res. 36, 855–867.
+Vilà, M., Pino, J., Font, X., 2007. Regional assessment of plant invasions across
+different habitat types. J. Veg. Sci. 18, 35–42.
+Williamson, J., Harrison, S., 2002. Biotic and abiotic limits to the spread of exotic
+revegetation species. Ecol. Appl. 12, 40–51.
+74
+S.R. Abella et al. / Forest Ecology and Management 271 (2012) 65–74

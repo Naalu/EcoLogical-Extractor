@@ -1,0 +1,2077 @@
+Use of Risk Management 
+Assistance During the  
+2021 Fire Season
+A technical report
+AUTHORS: Tyler A. Beeton, Michael D. Caggiano,  
+Melanie M. Colavito, and Ch’aska Huayhuaca
+November 2022
+S O U T H W E ST 
+ECOLOGICAL
+RESTORATION 
+I N S T I T U T E S
+Northern Arizona 
+University
+Colorado State 
+University
+New Mexico Highlands  
+University
+
+Publication date: November 2022
+Cover photo: Dixie Fire. Source: Ty O’Neil, This 
+is Reno.
+Authors: Tyler A. Beeton1, Michael D. Caggiano1,  
+Melanie M. Colavito2, and Ch’aska Huayhuaca1
+1. Colorado Forest Restoration Institute, Department of Forest 
+and Rangeland Stewardship, Colorado State University, Fort 
+Collins, CO
+2. Ecological Restoration Institute, Northern Arizona University, 
+Flagstaff, AZ.
+Suggested Citation: Beeton, T.A., Caggiano, 
+M.D., Colavito, M.M., Huayhuaca, C. 2022. Use of 
+Risk Management Assistance During the 2021  
+Fire Season: A technical report.
+The Colorado Forest Restoration Institute (CFRI) was established 
+in 2005 as an application-oriented, science-based outreach and 
+engagement organization hosted at Colorado State University. 
+Along with institutes at Northern Arizona University (Ecological 
+Restoration Institute) and New Mexico Highlands University (New 
+Mexico Forest and Watershed Restoration Institute), CFRI is one of 
+three institutes that make up the Southwest Ecological Restoration 
+Institutes, which were authorized by Congress through the 
+Southwest Forest Health and Wildfire Prevention Act of 2004. 
+We develop, synthesize, and apply locally relevant, actionable 
+knowledge to inform forest management strategies and achieve 
+wildfire hazard reduction goals in Colorado and the Interior West. 
+We strive to earn trust by being rigorous and objective in 
+integrating currently available scientific information into decision-
+making through collaborative partnerships involving researchers, 
+land managers, policy makers, interested and affected 
+stakeholders, and communities. CFRI holds itself to high standards 
+of scientific accuracy and aims to promote transparency in the 
+production and communication of science-based information. 
+Always carefully evaluate sources for rigor and appropriateness 
+before applying them in your own work.
+CSU Land Acknowledgment: Colorado State University 
+acknowledges, with respect, that the land we are on today is the 
+traditional and ancestral homelands of the Arapaho, Cheyenne, 
+and Ute Nations and peoples. This was also a site of trade, 
+gathering, and healing for numerous other Native tribes. We 
+recognize the Indigenous peoples as original stewards of this land 
+and all the relatives within it. As these words of acknowledgment 
+are spoken and heard, the ties Nations have to their traditional 
+homelands are renewed and reaffirmed. CSU is founded as 
+a land-grant institution, and we accept that our mission must 
+encompass access to education and inclusion. And, significantly, 
+that our founding came at a dire cost to Native Nations and 
+peoples whose land this University was built upon. This 
+acknowledgment is the education and inclusion we must practice 
+in recognizing our institutional history, responsibility,  
+and commitment.
+Preface and Acknowledgements: In FY21, the USDA Forest 
+Service Fire and Aviation Management (FAM) requested 
+assistance from the Southwest Ecological Restoration Institutes 
+(SWERI) to assess Risk Management Assistance (RMA) use among 
+line officers and Incident Management Teams (IMTs) during the 
+2021 fire season. The SWERI developed and deployed an online 
+questionnaire to assess: 1) what RMA tools were used; 2) how they 
+were used to inform decision-making; 3) factors that facilitated 
+and frustrated use; and 4) practitioner recommendations to 
+improve RMA use. The report herein summarizes findings from 
+the RMA use assessment. The assessment provides a baseline 
+understanding of RMA use during fire incidents. Results from 
+this assessment will inform best practices for developing, 
+disseminating, and using RMA tools. This assessment provides a 
+baseline for longitudinal evaluation of the RMA through time and 
+as RMA products and processes evolve.
+This white paper was made possible with a grant from the 
+Forest Service, an agency of the U.S. Department of Agriculture, 
+specifically an agreement (#21-DG-11030000-018) between the 
+Southwestern Region and Colorado State University/CFRI. The 
+white paper is published in partial fulfillment of deliverable #8 
+under Project 1 in CFRI’s fiscal year 2021 work plan.
+The authors would like to acknowledge Hannah Brown for her 
+insightful feedback on an earlier draft and Angela Hollingsworth 
+for designing the layout of this report. We would also like to thank 
+all the participants for taking the time to fill out the questionnaire. 
+Also, many thanks to Rick Stratton, Dave Calkin, and members 
+of the USDA Forest Service Rocky Mountain Research Station 
+Wildfire Risk Management Science team for reviewing and piloting 
+the assessment.
+ 
+The Colorado Forest Restoration Institute at Colorado State 
+University receives financial support under the Southwest Forest 
+Health and Wildfire Prevention Act provided through the United 
+States Forest Service. In accordance with Federal law and 
+United States Department of Agriculture policy, this institution is 
+prohibited from discriminating on the basis of race, color, national 
+origin, sex, age, or disability. To file a complaint of discrimination, 
+write: USDA, Director, Office of Civil Rights Room 326-A, Whitten 
+Building 1400 Independence Avenue,  SW Washington, DC, 
+20250-9410 or call (202) 720-5964 (voice  & TDD). The survey 
+portion of this project and survey administration is supported 
+by funding from the Arizona Board of Regents through the 
+Technology, Research and Innovation Fund (TRIF).
+S O U T H W E ST 
+ECOLOGICAL
+RESTORATION 
+I N S T I T U T E S
+Northern Arizona 
+University
+Colorado State 
+University
+New Mexico Highlands  
+University
+
+Table of contents
+Executive summary......................................................................................................................4
+Introduction and background.....................................................................................................5
+Methods...........................................................................................................................................6
+Results.............................................................................................................................................6
+A. Fire incident information..................................................................................................................6
+B. What RMA dashboard tools and products were used?............................................................7
+C. How were RMA tools used to support incident management?..............................................7
+D. Did tool use help meet core principles of RMA?.........................................................................10
+E. Facilitating and frustrating factors................................................................................................10
+F. Recommendations..............................................................................................................................14
+G. How was RMA used in non-incident management contexts?................................................16
+Conclusion and next steps..........................................................................................................18
+References......................................................................................................................................19
+Appendix 1: Frequency distribution of number of respondents by incident..................21
+Appendix 2: Frequency distribution of Incident Management Team  
+representation in the survey......................................................................................................22
+
+4                    Use of Risk Management Assistance during the 2021 fire season: A technical report
+Executive summary
+The USDA Forest Service developed Risk Management 
+Assistance (RMA) in 2016 to enhance the use of risk-
+informed management principles and decision-support 
+tools that improve decision quality and accountability and 
+minimize unnecessary risk to firefighters during wildfire 
+response. To evaluate and improve RMA, the USDA Forest 
+Service Fire and Aviation Management (FAM) requested 
+assistance from the Southwest Ecological Restoration 
+Institutes (SWERI) to assess RMA use among line officers 
+and Incident Management Teams (IMTs) during the 2021 
+fire season. The SWERI developed and deployed an online 
+questionnaire (n=94 usable responses) to assess: 1) what 
+RMA tools were used; 2) how they were used to inform 
+decision-making; 3) factors that facilitated and frustrated 
+use; and 4) practitioner recommendations to improve 
+RMA use. 
+Incident information: The questionnaire captured 
+RMA use on 69 incidents across 11 states. Twenty of 
+the incidents were over 100,000 acres, and more than 6 
+million acres were burned in the 69 incidents. 27 IMTs 
+from 9 Geographic Area Coordination Centers were 
+represented in the questionnaire. Type 1 teams were 
+most represented, followed by Type 2 and Type 3 teams. 
+The majority of respondents indicated a full suppression 
+fire management strategy, though one-third indicated a 
+management strategy other than full suppression (e.g., 
+confine and contain, point protection). About one quarter 
+of respondents indicated that multiple fire management 
+strategies were used on the same incident.
+RMA tools used: The Suppression Difficulty Index (SDI) 
+and Potential Control Location (PCL) analysis were the 
+most frequently used RMA tools, followed by the Season-
+ending Analysis, Estimated Ground Evacuation Time, 
+Snag Hazard, and Potential Operational Delineations 
+(PODs). The suite of products used for RMA continues 
+to evolve as developers innovate to meet practitioners’ 
+needs. The new Fire Comparison Spreadsheet (and 
+associated prioritization and radar plot tabs), for 
+example, was used by the national and Geographic Area 
+Coordination Centers to prioritize resources across 
+incidents. 
+How RMA was used: RMA was most frequently used to 
+support incident operations and long-term assessment; 
+inform incident objectives, requirements, and strategy; 
+and evaluate, or re-evaluate, courses of action. RMA was 
+also used to inform dialogue with stakeholders, provide 
+situational awareness on emerging incidents and for 
+incoming teams, support incident level and operational 
+decision-making (e.g., direct and indirect line placement, 
+validate existing or justify new decision), and to prioritize 
+resource allocation across incidents. 
+Facilitating and frustrating factors: Familiarity with 
+RMA, trust in the accuracy of analytics, receptiveness to 
+new tools and processes, internal capacity and expertise, 
+and the presence of leaders who advocated for RMA use 
+to support fire and land management decision-making 
+facilitated RMA use. The absence of these characteristics 
+frustrated use. A majority of respondents felt that the 
+tools on the RMA dashboard were easy to interpret, 
+relevant to decision making, provided at the appropriate 
+scale, and accurately depicted conditions on the ground. 
+The RMA dashboard was reportedly easy to access and 
+use by practitioners, and provided products that helped 
+develop strategies quickly. 
+Recommendations: Respondents recommended: 1) 
+more education and outreach before, during, and after 
+incidents (e.g., risk management and RMA training 
+in National Wildfire Coordinating Group (NWCG) 
+coursework; integration into PODs workshops; training 
+for Operations section chiefs and line officers); 2) clear 
+leadership direction and intent (e.g., intended use of RMA; 
+use with the Wildland Fire Decision Support System 
+(WFDSS); support investments in analytical capacity, for 
+example regional analysts, strategic operations positions); 
+3) enhance tool delivery and more frequent updates (e.g., 
+integrate with other platforms, such as WFDSS and the 
+Interagency Fuel Treatment Decision Support System 
+(IFTDSS); 4) more frequent tool updates to capture 
+changing conditions; and 5) expand products and usage 
+(e.g., integrate with fuels and prescribed fire planning and 
+implementation). 
+RMA use in non-incident management: Several 
+respondents indicated that they are already using RMA 
+to support non-incident management. Specifically, 
+respondents are using RMA for: 1) pre-season wildfire 
+planning (e.g., PODs workshops, strategic response 
+planning); 2) fuels treatment design and prioritization; 
+3) environmental analysis and decision-making; and 4) 
+developing shared understanding, communication, and 
+learning with communities and partners. 
+Conclusions and next steps: This assessment provided 
+baseline information on the use of RMA during fire 
+incidents, contributed to our understanding of what 
+facilitates and frustrates RMA use, and identified 
+actionable recommendations to improve RMA products 
+and processes. Our hope is that this is the first in what 
+will become a long-term evaluation of RMA products and 
+processes. This questionnaire could be readministered 
+longitudinally to track trends in RMA use and determine 
+
+Use of Risk Management Assistance during the 2021 fire season: A technical report                    5
+the extent to which RMA is useful and used. Additionally, 
+case studies can add local context and nuance to 
+questionnaire findings. Future evaluations should be 
+grounded in the needs and priorities of practitioners and 
+FAM leadership. Next steps for our research team include 
+case studies that: 1) assess RMA use during 2022 wildfire 
+incidents; and 2) document how leadership direction 
+and intent on RMA is conceptualized, defined, and 
+disseminated to lower levels of authority and cooperators. 
+Future work will maintain our focus on co-developing 
+actionable knowledge with practitioners to inform 
+improved decision-making before, during, and after fires.
+Introduction and background
+Wildland fire management in the western U.S. is 
+increasingly complex. Climate change-driven increases 
+in fire activity and fire season length, continued 
+development in the wildland-urban interface, and 
+interactions between fire and other large disturbances 
+(e.g., pest and pathogen disturbances) combine to increase 
+suppression difficulty and exacerbate risks to human 
+lives and property (Holden et al., 2018; Jolly et al., 2015; 
+Radeloff et al., 2018). These challenges have increased 
+emphasis on—and the need for—risk management 
+principles and decision support tools that provide a 
+framework and structure for collaborative, proactive 
+spatial fire planning and wildfire incident management. 
+The USDA Forest Service developed Risk Management 
+Assistance (RMA)1 to integrate a structured risk 
+management processes into fire management. The 
+overarching goal of RMA is to support improved, safer 
+outcomes with structured decision-making and analytics 
+(R. Stratton, Personal Comm.). RMA uses the best 
+available science and spatial analytical tools to evaluate 
+alternate management strategies, consider the likelihood 
+that objectives can be achieved, and analyze trade-offs 
+between multiple incident objectives (Calkin et al., 2021). 
+RMA focuses on pre- and post-fire season training, 
+education, and outreach, fire season support, and line 
+officer development to meet the following core principles:  
+1) improve decision quality; 2) improve accountability;  
+and 3) minimize unnecessary risks to firefighters  
+(Calkin et al., 2021). 
+RMA is still relatively new in the suite of tools and 
+processes already available for wildfire management, but 
+its usage has increased rapidly. For instance, in 2016 RMA 
+personnel responded to 8 fire inquires. RMA personnel 
+then responded to 11 incidents in 2017, 35 in 2018 (16 on 
+site and 19 virtual), 29 in 2019, 66 in 2020, and 113 in the 
+2021 fire season. It is clear from this progression that 
+RMA is increasingly being used to support incident 
+management decision-making. RMA transitioned to 
+completely virtual support mode in 2019. In 2020 the 
+RMA dashboard was developed, at which point users 
+could pull pre-loaded data for individual use.2 
+A small but growing body of research has provided initial 
+understanding of how Potential Operational Delineations 
+(PODs), RMA, and other wildfire decision support tools 
+are used and the factors that support or inhibit their use 
+(Caggiano et al., 2021; Calkin et al., 2021; Colavito, 2021; 
+Greiner et al., 2020; Noble and Paveglio, 2020; Rapp et 
+al., 2020; Schultz et al., 2021; Vásquez et al., 2021). Still, 
+the rate at which RMA has been used on the ground 
+has outpaced the capacity to assess how it has been 
+deployed in different contexts and, more importantly, 
+its impact on decision making and outcomes. RMA 
+products and modes of delivery are routinely revised, 
+enhanced, and adapted to meet different land and fire 
+management objectives. Therefore, it is crucial to build 
+on previous assessments to document how and under 
+what conditions RMA products are used, facilitating and 
+frustrating factors, and needs to enhance the use and 
+usability of such tools. 
+The USDA Forest Service Fire and Aviation Management 
+(FAM) department requested assistance from the 
+Southwest Ecological Restoration Institutes (SWERI)3 
+to develop an online questionnaire to assess RMA use 
+during the 2021 wildfire season. The assessment is 
+framed by the following research questions:
+1.	 Which RMA products are used on wildfires?
+2.	 How is RMA used to inform decision-making? 
+3.	 What factors facilitate or frustrate use? 
+4.	 How can RMA be improved to enhance its use and 
+legitimacy in wildland fire management? 
+The questionnaire was administered to fire managers 
+and personnel (e.g., Incident Management Teams 
+[IMTs], Agency Administrators [AAs]) who engaged with 
+RMA products and assistance during the 2021 wildfire 
+season. The report herein summarizes findings from 
+the assessment and describes the state of RMA use in 
+incident management contexts. The audience for this 
+report includes USDA Forest Service FAM personnel and 
+fire management practitioners (e.g., AAs, IMTs, and fire 
+managers). Results from this assessment will inform 
+best practices for developing, disseminating, and using 
+RMA tools. This assessment provides a baseline for 
+longitudinal evaluation of the RMA and as RMA products 
+and processes evolve. 
+  1 RMA Website - https://wfmrda.nwcg.gov/rma
+  2 RMA dashboard - https://nifc.maps.arcgis.com/apps/MapSeries/index.html?appid=c5bc811ee22e4da0bde8abec7c20b8b4
+  23SWERI website - https://sweri.eri.nau.edu/
+
+6                    Use of Risk Management Assistance during the 2021 fire season: A technical report
+Utah
+Montana
+California
+Idaho
+Nevada
+Arizona
+Oregon
+Colorado
+Wyoming
+New Mexico
+Washington
+Methods
+We developed an online questionnaire in Qualtrics 
+to address our research questions. The questionnaire 
+consisted of 27 fixed response and open-ended 
+statements and questions. These statements were based 
+on the objectives and research questions of the study, and 
+grounded in a review of the literature on RMA (Caggiano 
+et al., 2021; Calkin et al., 2021; Schultz et al., 2021), other 
+decision-support tools (Colavito, 2021; Noble and Paveglio, 
+2020; Rapp et al., 2020), and the theory and practice of 
+usable science (e.g., Dilling and Lemos, 2011; Lemos, 
+2008). Prior to administration, we piloted the assessment 
+with, and received feedback from, 5 fire managers. The 
+questionnaire was also reviewed by the USDA Forest 
+Service Wildfire Risk Management Science team and 
+FAM staff. Feedback was used to revise the questionnaire.
+Our sample consisted of fire managers, AAs, and 
+IMTs who were assigned to a wildfire in 2021 where 
+RMA was used. We worked with FAM staff to identify 
+listservs and contact lists for recruitment. The Ecological 
+Restoration Institute at Northern Arizona University 
+administered the questionnaire to fire analysts, fire 
+directors, IMTs, and line officers on March 14, 2022. 
+The questionnaire remained open for 4 weeks and was 
+closed on April 11, 2022. Two reminders were sent to 
+each of the email listservs. We used Qualtrics and Excel 
+to analyze quantitative and qualitative response data. 
+We utilized a thematic analysis approach to document 
+themes (repeated examples of concepts described by 
+respondents) in the qualitative portions of responses 
+(Ryan and Bernard, 2003). 
+Out of a total of 94 useable responses, we received 58 
+complete responses and 36 partial responses (delineated 
+as questionnaires that were at least 30% complete). All of 
+the questions were voluntary, and several respondents 
+chose not to answer some of the questions. Of the 
+respondents who provided their affiliation information 
+(n=47), the majority were USDA Forest Service employees. 
+A few respondents represented State, Department of the 
+Interior (DOI), county, or university affiliations (Figure 1). 
+Results
+A. Fire incident information
+Respondents reported the use of RMA on 69 incidents 
+across 11 states in 2021 (Figure 2; Appendix 1). This sample 
+represents more than 50% of the incidents that used RMA 
+in 2021 (R. Stratton, Personal Comm.). Twenty fires were 
+greater than 100,000 acres and more than 6 million acres 
+were burned in those 69 incidents (Figure 2). Respondents 
+represented 27 Incident Management Teams (IMTs) from 
+9 Geographic Area Coordination Centers (GACCs). Rocky 
+Mountain Type 1 Team and Northwest Interagency Team 
+6 (Type 2) were the most represented in the questionnaire 
+(Appendix 2). Respondents were most frequently 
+associated with the Rocky Mountain GACC, followed by 
+the Northwest and Northern Rockies GACCs. 
+Wildfire Incident Information
+69 incidents
+11 states
+20 incidents greater than 100,000 acres
+6 million acres burned
+27 Incident Management Teams
+53% Type 1; 38% Type 2; 9% Type 3
+69% of incidents used full suppression as management strategy
+24% of incidents used multiple management strategies
+Figure 2: Locations of wildfires and incident information represented in RMA questionnaire. 
+Figure 1: Respondent affiliation. Note: 47 of 94 respondents provided 
+their affiliation information. USDA = United States Forest Service; DOI = 
+Department of the Interior.
+2%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+USDA
+State
+DOI
+University
+County
+Respondent Aﬃliations
+2%
+6%
+6%
+83%
+90%
+
+Use of Risk Management Assistance during the 2021 fire season: A technical report                    7
+Type 1 teams represented 53% of the sample, Type 2 
+represented 38%, and Type 3 represented 9%. Of the 
+respondents who reported which incident management 
+strategies were used on a given fire, 69% indicated 
+the incident was managed for full suppression, while 
+31% indicated the incident was managed for a strategy 
+other than full suppression (e.g., confine, monitor, 
+point protection, managed for resource benefit). 24% of 
+respondents indicated multiple management strategies 
+were used for a single incident (Figure 2).
+B. What RMA dashboard tools and products 
+were used?
+The RMA dashboard hosts 15 primary products and 
+several other associated products.4 The primary products 
+most used included the Suppression Difficulty Index 
+(SDI) (79%), Potential Control Locations (PCLs) (78%), 
+Season Ending Analysis (70%), Ground Evacuation 
+(55%), PODs (54%), and the Snag Hazard (54%) (Figure 
+3). It is important to note that the suite of products 
+available through the RMA Dashboard continues to 
+evolve as developers improve the tools. For example, the 
+Fire Comparison Spreadsheet—new in 2021— was used 
+to prioritize where to invest resources based on fire 
+modeling, the risk large fires posed to firefighter safety 
+(through evaluating SDI), and critical values and assets 
+of concern (e.g., housing unit density, population, critical 
+infrastructure, drinking water). One respondent noted a 
+customized RMA product that they developed and used:
+I used SDI, PCL, and merged SDI/PCL rasters in a tool I 
+developed that analyzes and identifies the lowest “cost” 
+lines between likely control points around a fire.5 
+The RMA dashboard hosts an assortment of other 
+products that are relevant to incident management. 
+The most frequently used among respondents were fire 
+behavior and fire weather tools, including fire danger 
+by Predictive Service Areas (PSAs; 59%), the National 
+Weather Service Fire Weather products (e.g., fire weather 
+matrix; 57%), and the Wildland Fire Assessment System 
+Severe Fire Danger Mapping System (53%), followed 
+by regional quantitative wildfire risk assessments, and 
+wildland-urban interface data products (Figure 4).
+C. How were RMA tools used to support  
+incident management?
+We asked respondents to select from a list of 
+predetermined 
+response 
+categories 
+that 
+generally 
+represent the fire lifecycle to indicate how they used 
+4 2022 RMA product list and explanation. Note: The list continues to be updated.  
+5 In other words, the respondent developed a customized product that integrates SDI and PCL to 
+delineate the location of containment opportunities around a fire with the highest potential for control. 
+SDI
+PCLs
+Season ending analysis
+Ground evacuation
+Snag hazard
+PODs
+Perimeter/proposed line
+Incident timeline
+Trade-oﬀ/Risk assessment
+Resource timeoine
+Fires comparison spreadsheet
+Aviation use summary
+Exceedance probability curves
+Personnel timeline
+Other
+Mngmt direction alignment table
+79%
+78%
+70%
+55%
+54%
+54%
+36%
+36%
+33%
+27%
+25%
+25%
+15%
+15%
+  12%
+6%
+Figure 3: Frequency of RMA products used by respondents. List of products 
+derived from RMA dashboard and personal communication with USDA 
+Forest Service FAM personnel. For an updated product list, see here. 
+Statement: Select the RMA products that were used during the incident(s) 
+(Select all that apply).
+Fire danger
+Fire weather
+Severe ﬁre weather
+Quantitative Risk 
+Assessment (QRA)
+Wildland Urban Interface (WUI)
+Fire library
+Fire and smoke map
+Housing unit density
+Landﬁre
+Incident stats
+59%
+57%
+53%
+45%
+41%
+37%
+37%
+35%
+35%
+33%
+Figure 4: Additional products used from the RMA dashboard. Statement: 
+What, if any, additional tools from the RMA dashboard were utilized in 
+conjunction with RMA products? (Select all that apply).
+
+8                    Use of Risk Management Assistance during the 2021 fire season: A technical report
+RMA products (R. Stratton, Personal Comm.). RMA 
+was used most frequently for: 1) operations and long-
+term assessment; 2) incident objectives, requirements, 
+and/or strategy; and 3) evaluating different courses of 
+action. Just over half used RMA to frame Wildland Fire 
+Decision Support System (WFDSS) decisions, to delineate 
+management action points (MAPs), and for initial 
+framing of the incident (Figure 5). 
+We also asked respondents to provide a more detailed 
+open-ended response about how they used RMA products 
+to support incident management. Five themes emerged 
+from the responses, which included the use of RMA 
+to: 1) generate situational awareness for individuals 
+responding to the fire; 2) facilitate dialogue between 
+stakeholders; 3) inform WFDSS; 4) support incident and 
+operational decision making; and 5) facilitate regional 
+prioritization of multiple incidents. 
+Generate situational awareness
+RMA helped respondents generate initial situational 
+awareness for both emerging incidents and existing 
+incidents. RMA was used to quickly help firefighters, 
+agency staff, and other individuals on IMTs better 
+understand the unique fire management considerations, 
+challenges, and opportunities associated with particular 
+landscapes. It also provided situational awareness to 
+support communication internally, with cooperators, and 
+with affected publics, as indicated here: 
+RMA products provide the science needed to efficiently 
+utilize minimal resources to provide the highest level of 
+success. We always get PCL and SDI maps while enroute 
+to the fire to gain situational awareness. We can quickly 
+ground truth this and build more effective plans [with] 
+the safety and OPS [operations section] work[ing] 
+directly hand in hand utilizing several of these products 
+to develop strategic alternatives.
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+87%
+68%
+67%
+55%
+52%
+47%
+45%
+42%
+17%
+  10%
+52%
+Operations and
+long-term assessment
+Incident objectives,
+requirements, strategy
+Evaluating/re-evaluating
+courses of action
+Framing of reinforcing
+WFDSS decision
+Delineating MAPs
+Initial framing
+Evaluate resource use,
+needs, eﬀectiveness
+Delineating PACE
+Incident rationale
+Other
+After Action Review
+Figure 5: How RMA tools were used to inform fire management. Statement: 
+Please indicate how RMA products were used on the incident(s) (Select all 
+that apply). Lifecycle stages derived from R. Stratton. 
+Communicate decision rationale
+clearly to colleagues/ partners
+Educate the public about fire
+management responses
+Validate an existing decision(s) or
+action(s)
+Inform a new decision(s) or
+action(s)
+0%
+20%
+40%
+60%
+80%
+7%
+22%
+41%
+37%
+63%
+69%
+44%
+13%
+28%
+19%
+Figure 6: Agreement scale (strongly disagree to strongly agree) on whether respondents felt RMA helped communicate decision rational to partners, educate 
+the public about decisions, validate an existing decision, and/or inform a new decision. Statement: In general, the use of RMA products on wildfire incidents 
+has helped… (if you don’t know, select don’t know). Responses that selected “Don’t know” are not depicted in the figure.
+
+Use of Risk Management Assistance during the 2021 fire season: A technical report                    9
+Facilitate dialogue between stakeholders
+RMA helped inform discussions between agency 
+administrators, IMTs, cooperators and adjacent units, 
+impacted communities, and the public regarding 
+fire management concerns, operational strategies, 
+challenges, and opportunities; the information created 
+transparency in the decision-making process. RMA 
+helped staff develop a common operating picture from 
+which to explain the logic and rationale behind decisions 
+and articulate incident strategies in relation to resources 
+and values at risk (Figure 6). In the exemplar below, an 
+AA described how RMA tools helped maintain a coherent 
+vision and strategy on long-term events as IMTs cycle 
+through incidents:
+As an active and engaged AA, I appreciate having 
+multiple sources of information available to me as I 
+work with the multiple IMTs that cycle through long 
+term events. Having RMA products directly available to 
+me allows me to do some exploration on my own, match 
+it up to where we have been and what our current plans 
+are indicating, and then have some rich dialogue with 
+my IMTs. 
+IMT members also noted RMA’s utility in helping 
+articulate their decision-making process to AAs. RMA was 
+used to develop alignment between IMT sections (e.g., 
+planning and operations). One respondent noted that 
+while functional areas of the IMT use different products, 
+together they help tell a holistic, risk-informed narrative 
+to gain alignment between the IMT and AAs. Similarly, 
+RMA tools were used to develop alignment between 
+federal and non-federal partners, as indicated here:
+Local cultural differences between the USFS [USDA  
+Forest Service] and our State partners causes 
+occasionally [sic] differences in opinion regarding long-
+term management of incidents. The [RMA] tools provide 
+a way to model outcomes and display information in 
+order to gain alignment.
+Inform Wildland Fire Decision Support System 
+(WFDSS)
+WFDSS is commonly used to document incident strategy 
+and decision-making processes on large wildfires. 
+WFDSS is also closely aligned with RMA, as RMA 
+provides information to help develop incident strategy. 
+Both are spatial decision support systems that rely on fire 
+modeling products and identify highly valued resources 
+and assets to inform planning. One respondent indicated 
+that RMA was used in most of the analyses produced for, 
+and referenced in, WFDSS decisions: 
+RMA products were incorporated in almost all 
+documents and analyses produced, and referenced in 
+multiple WFDSS decisions that I assisted with. 
+RMA was used to identify initial planning areas, justify 
+and document decisions, identify management action 
+points (MAPs), and identify primary, alternative, 
+contingency, and emergency (PACE) lines used to contain 
+a wildfire. 
+Support incident level and operational  
+decision-making
+RMA also supported operational strategies and tactics, 
+including the identification of direct and indirect 
+line placement. Staff used RMA to identify potential 
+containment lines, identify areas where there was 
+high or low potential for fire control, and estimate 
+probability of success for different tactics. This proved 
+especially useful when fire behavior necessitated 
+indirect response strategies. RMA tools helped staff 
+understand where landscape and fuel characteristics 
+suggested the fire would likely slow or stop, and where 
+resources would have high probability of success, as 
+indicated by one respondent:
+We used the SDI, PCL, and Snag Hazard maps to help 
+the team determine probability of success with the 
+actions that they were taking or were planning to take 
+on the incident.
+RMA tools also helped identify the real challenges 
+associated with proposed suppression actions: 
+Overlaying specific RMA products over possible 
+suppression actions provided a strong depiction of 
+the realistic challenges inherent in a proposed course  
+of action.
+RMA was useful on incidents where fire behavior was 
+outside the bounds of what was historically experienced 
+on the forest. This was described by a respondent 
+assigned to the Leland Complex:
+On the Leland Complex, the area the fire was burning 
+had a limited large fire history. Since the fires in the 
+complex already exceeded the size of the largest fires any 
+of the current locals had experience on the forest, they 
+were burned well outside of “normal.” The traditional 
+local strategy of direct attack was not successful and 
+indirect actions needed to be implemented. The RMA 
+products were useful in identifying potential line 
+locations. Additionally, using the RMA products to 
+compare where the fire paused or slowed to SDI and 
+PCL data helped identify what fuel changes were needed 
+to stop the fires in the complex.
+
+10                    Use of Risk Management Assistance during the 2021 fire season: A technical report
+RMA was also used to validate decisions. RMA was used 
+to validate potential lines with Operations section staff, 
+inform new decisions, and justify existing decisions 
+(Figure 6), as evidenced here:
+The SDI and PCL did not drive decisions, but confirmed 
+what Ops [the operations section] and the local unit 
+already knew. They were a good gut-check to reevaluate 
+actions and whether or not they were worth the risk 
+based on the low probability of success. 
+Facilitate regional prioritization
+Respondents speaking from a regional perspective noted 
+that RMA helped them make data-driven decisions 
+about where to commit resources and IMTs based on 
+values at risk and probability of success, especially when 
+resources were limited and needed to be prioritized. RMA 
+helped respondents standardize, visualize, and assess 
+information provided by IMTs assigned to individual 
+incidents, compare incidents, and then prioritize 
+scarce resources based on need. Specifically, the Fire 
+Comparison Spreadsheet (and prioritization and radar 
+plot tabs) was a notable asset for evaluating incident 
+priorities. One respondent explained:
+RMA tools are very effective in helping frame up the 
+initial decision of where to commit resources, to the 
+extreme when we ran out of IMT’s, where to put the 
+next IMT. [RMA] tools help measure probability of 
+success when making resource allocations. 	
+D. Did tool use help meet core principles  
+of RMA?
+A series of statements assessed whether RMA use 
+supported the core principles of RMA (Calkin et al., 2021). 
+Over 80% of respondents somewhat to strongly agreed 
+that RMA tools improved decision quality. A majority 
+of respondents agreed to strongly agreed that RMA 
+minimized unnecessary risk to firefighters (69%), and 
+a slight majority agreed RMA improved accountability 
+(58%) (Figure 7). 
+E. Facilitating and frustrating factors
+Respondents 
+were 
+asked 
+to 
+provide 
+open-ended 
+responses about what key factors facilitated or frustrated 
+their (or their team’s/local unit’s) use of RMA products on 
+incidents. We focus first on facilitating factors followed 
+by frustrating factors, and organize results around: 1) 
+Figure 7: Agreement scale (strongly disagree to strongly agree) on whether participants felt RMA supported core principles of RMA. Core principles include 
+improved decision quality, improved accountability, and reduced risks to firefighters. Core principles were derived from Calkin et al. (2021). Statement: In 
+general, the use of RMA products on wildfire incidents has helped...(if you don’t know, select don’t know).
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+Improve decision quality
+Improve accountability
+Minimize unnecessary risks to
+firefighters
+Consider trade-offs of alt. incident
+objectives and strategic options
+0%
+20%
+40%
+60%
+80%
+6%
+6%
+6%
+20%
+13%
+7%
+43%
+43%
+52%
+50%
+41%
+15%
+17%
+33%
+
+Use of Risk Management Assistance during the 2021 fire season: A technical report                    11
+characteristics of the RMA tools), 2) characteristics of 
+respondents, teams, and/or their organization, and 3) 
+external factors that facilitate or frustrate the use of RMA 
+tools on incidents (Table 1). 
+Facilitating factors
+Several characteristics of the RMA tools facilitated their 
+use. Specifically, respondents mentioned that the tools 
+were user friendly, easy to access through the RMA 
+dashboard, provided quick, timely information, had high 
+agreement with conditions on the ground, and/or were 
+relevant to their decision context. The RMA dashboard 
+was reportedly easy for practitioners to access and use, 
+and provided products that helped develop strategies 
+quickly. The usability of the suite of tools offered on the 
+RMA dashboard was also reflected in a fixed-response 
+statement (Figure 8). A strong majority of respondents 
+somewhat to strongly agreed tools were provided at 
+the appropriate scale to inform planning and decision-
+making (94%), were relevant to decision-making processes 
+(87%), accurately depicted conditions on the ground (81%), 
+and were easy to interpret (78%; Figure 8). Respondents 
+witnessed how the products (especially PCL and SDI) 
+aligned with final fire perimeters, which helped them to 
+gain trust in the analytics, which, in turn, supported use. 
+Characteristics of the individual, team, or organization 
+also facilitated the use of RMA on incidents. The most 
+frequently cited characteristic was previous experience 
+with RMA, followed by having leaders or champions 
+Theme or 
+category
+Frequency
+Example 
+Characteristics 
+of individuals, 
+teams, and/or 
+organizations
+64
+•  Previous experience 
+with RMA
+•  Technical expertise/
+capacity
+•  Leadership/
+champions
+•  Agency or team 
+culture
+•  Receptiveness to 
+innovations
+•  Trust in RMA – related 
+to accuracy
+Characteristics of 
+RMA tools
+15
+•  Easy to use or 
+interpret
+•  Accuracy of products 
+or relevance to 
+decision context
+•  Easy to access
+•  Timely
+External factors
+6
+•  Uncharacteristic fire 
+weather, conditions 
+and scale
+•  Team transitions
+•  Litigation concerns
+•  Strategic risk and 
+operational planning
+Table 1: Factors that facilitated RMA use in wildfire incident management. 
+Question: What key factors supported your (or your team’s/local unit’s) use 
+of RMA products?
+Figure 8: Agreement scale (strongly disagree to strongly agree) on usability of RMA tools. Statement: In general, RMA products were... (if you don’t know, 
+select don’t know).
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Easy to interpret
+Relevant to planning/
+decision-making process
+Appropriate scale to inform
+planning/ decision-making
+Accurate (e.g., depicted conditions
+on ground)
+0%
+20%
+40%
+60%
+80%
+100%
+11%
+7%
+11%
+7%
+13%
+11%
+48%
+41%
+54%
+59%
+30%
+46%
+30%
+22%
+
+12                    Use of Risk Management Assistance during the 2021 fire season: A technical report
+provide help in interpreting RMA tools, local agency or 
+team culture, and receptiveness to innovative ways of 
+doing business. Previous experience with the tools and 
+the accuracy of those tools relative to past fire footprints 
+helped built trust in their utility: 
+[Seeing an] assessment of the final foot print of the fires 
+I was on in 2020 compared to where the RMA products 
+showed potential line locations helped me determine 
+the usefulness of the products.
+Leaders are key to integrating new tools and processes 
+into 
+organizational 
+routines. 
+Local 
+and 
+regional 
+leadership encouragement to utilize RMA tools was 
+a key factor supporting their use. Some respondents 
+themselves were key leaders working to integrate the 
+tools with teams, while others worked with leaders that 
+helped train teams and individuals on RMA. For example, 
+one respondent was an AA coach and encouraged AA 
+trainees to familiarize themselves with RMA tools. 
+Further, one respondent described how they are trying to 
+champion RMA use during incidents and in their day job:
+As the SITL [Situation Unit Leader), I am aware of the 
+products and try to sell them to the team. Ops (the 
+operations section) is not fully convinced of the SDI, PCL, 
+and PODs yet, but [I am] working to get them used to 
+the products and view them early on in the assignment. 
+[I am] also trying to sell them to my local unit (during 
+my day job), including AAs, and progress is being  
+made slowly.
+Others reported team and agency culture and their 
+receptiveness to innovative tools played a large role 
+in facilitating the use of RMA tools on incidents, as 
+indicated by one respondent:
+Receptiveness of new tools was key. We have a strategic 
+planning unit within our planning section that  
+actively seeks data and analytics to understand 
+the fire’s tendencies and how best to inform the  
+operational organization and communicate with 
+Agency Administrators.
+One respondent suggested the openness of the 
+operations section to RMA and fire analytics during their 
+time on the incident was helpful for integrating across 
+the planning and operations sections. Some respondents 
+indicated that turnover of staff provided a window of 
+opportunity to consider new ways of doing business, 
+particularly in the context of using the suite of RMA 
+tools. Turnover often has negative impacts, as it can 
+erode trust and relationships, and diminish institutional 
+knowledge, but it also provides opportunities to take 
+new approaches.
+External conditions also facilitated the use of RMA. 
+According to respondents, the uncharacteristic fire 
+weather, conditions, and scale force them to consider 
+other ways of managing and planning for fire. Future fire 
+realities further underscored the need to be receptive to 
+new tools:
+In the fire behavior business, we are using a 50-year-
+old approach that has been repackaged various ways. 
+The wildfires we are experiencing are not the same 
+character of fires that occurred 50 years ago. I am 
+looking for new approaches to this issue - so I’m open 
+to seeing new tools.
+Theme or 
+category
+Frequency
+Example 
+Characteristics 
+of individuals, 
+teams, and/or 
+organizations
+31
+•  Resistance or 
+hesitance to use
+•	 Team/Agency culture
+•	 Familiarity/knowledge 
+of RMA
+•	 Lack of leadership, 
+champions
+•	 Expertise/technical 
+capacity to use and 
+interpret
+External factors
+17
+•  Resource capacity
+•	 WIFI and 
+telecommunications 
+availability
+•	 External support/
+guidance (e.g., 
+training on products)
+•	 Tool overload, or 
+competes with 
+required products 
+Characteristics of 
+RMA tools
+7
+•  Complex terminology 
+makes difficult to 
+integrate
+•	 Coarse resolution 
+limits applicability
+•	 Tools perceived as 
+static, generalized 
+representations of 
+conditions
+•	 Fire conditions or 
+fire history limits use, 
+applicability of tools
+Table 2: Factors that frustrated RMA use in wildfire incident management. 
+Question: What, if any, challenges inhibited your (or your team’s/local unit’s) 
+ability to use RMA products?
+
+Use of Risk Management Assistance during the 2021 fire season: A technical report                    13
+Others reported RMA tools were used because they were 
+already in use on an incident by the previous IMT, as a 
+tool to address litigation concerns, and in response to the 
+recent focus on strategic risk assessment and strategic 
+operations planning processes. 
+Frustrating factors
+On the other hand, several frustrating factors impeded 
+RMA use. As above, in many cases whether tools were 
+used (or not) depended on individual respondents, their 
+experience on the incident, and incident context. Again, 
+these challenges reflected factors associated with the 
+individuals, teams, or organizations, external factors, and/
+or characteristics of the RMA tools (Table 2). 
+The most frequently cited barriers to RMA use among 
+individuals, organizations, or teams was lack of 
+familiarity or knowledge of RMA and hesitance to use 
+RMA tools. According to respondents, some operations 
+and planning section staff and AAs still have limited 
+knowledge of the products, how to use them, and how to 
+interpret them. This was, at least partly, because the RMA 
+dashboard and suite of tools are still relatively new; teams 
+still wanted to validate how tools reflected conditions on 
+the ground, which—while important—takes time and can 
+slow the decision-making process. Respondents indicated 
+that unfamiliar tools will be used less frequently in 
+stressful situations:
+Folks are unfamiliar with products and default to what 
+they are comfortable with. When stressed we default to 
+what/who we know.
+At times, it was difficult to convince teams and leadership, 
+interagency partners and cooperators of RMA’s utility. For 
+instance, some teams who cycle onto an incident may 
+elect to develop their own strategy and not use existing 
+long-term strategies or plans developed with RMA. One 
+respondent suggested that since most fires were caught 
+at initial attack, some fire managers didn’t see a need for 
+long-term analyses or large fire prioritization. The same 
+respondent emphasized the need for more leadership 
+awareness and exposure to RMA tools to mitigate this 
+issue. Relatedly, local leaders who fail to share existing 
+products (e.g., local PODs networks) with incoming IMTs 
+also limit the use of those tools:
+I have also been on fires where the local unit never 
+mentions that they have PODs. If they do not push 
+them, then our Ops [Operations section] will be much 
+less likely to look at them.
+Some managers are reluctant to use RMA tools because 
+they don’t trust them yet:
+Having people to believe in what is being shown is the 
+biggest challenge I see. When the analytics (PCL/SDI, 
+etc.) are showing a big box…they tend to get thrown out 
+and replaced with “local knowledge or experience” and 
+then we end up with yet another indirect line that will 
+either get burned over or never used.
+External factors also limited RMA use. The most 
+frequently cited external factor was resource capacity 
+(e.g., time, competing demands). Fire behavior or rate 
+of spread often dictated whether RMA tools were used 
+or not. In some instances, respondents wanted to use 
+an assortment of RMA and non-RMA tools to inform 
+decision-making, but were afraid that doing so would 
+slow down their decision-making process. Further, 
+GIS specialists are required to produce certain maps to 
+support fire management, which often resulted in no 
+capacity to produce alternative maps that incorporate 
+RMA tools. Some respondents expressed feeling 
+overwhelmed with the existing requirements of their 
+job (e.g., WFDSS, in-briefings, managing multiple 
+incidents) and felt there was limited time to incorporate 
+RMA. A couple of respondents indicated that competing 
+demands locally and at the regional level limited the use 
+of RMA tools:
+Due to competing demands on my time from  
+supporting multiple incidents, I didn’t have enough 
+time to fully explore and utilize new RMA products to 
+their fullest potential.
+Respondents also noted the challenge of utilizing web-
+based decision support tools in locations with limited 
+WIFI or telecommunications services. Others indicated 
+external support, guidance, or training was lacking. For 
+example, one respondent mentioned they didn’t know 
+what tools were available, how to get them, or who to 
+ask for help; another suggested lack of training on the 
+RMA dashboard in the pre-season limited RMA use 
+during incidents. 
+While the majority of respondents noted RMA tools were 
+provided at the appropriate scale, were relevant to the 
+decision-making process, accurately depicted conditions 
+on the ground, and were easy to interpret (Figure 
+8), a small number of respondents suggested some 
+characteristics of the tools impeded use. Specifically, 
+the resolution, update frequency, complex terminology, 
+spatial variability in the accuracy of RMA products, and 
+limitations on who can generate some of the RMA tools 
+and data frustrated tool use. One respondent considered 
+RMA sufficient for coarse-scale overviews but suggested 
+they were less useful for understanding fine-scale fire 
+behavior and movement:
+
+14                    Use of Risk Management Assistance during the 2021 fire season: A technical report
+It is usually the case that we can access information 
+and data from sources like RMA products that are a 
+good overview and somewhat coarse in nature. As we 
+have to take a deeper dive into the nuances and unique 
+characteristics of what is making a particular fire move 
+- the tools like RMA products become less useable.
+Others felt tools would be used more if the products were 
+updated more frequently or varied dynamically with 
+changing conditions. Some respondents noted RMA tools 
+used complex terminology and concepts, which led to 
+them not being readily understood or adopted. Finally, 
+some respondents noted limitations of specific RMA tools 
+and products. For instance, one respondent indicated that 
+the accuracy of the SDI and PCL was spatially variable:
+RMA products are pretty good out west; RMA products 
+in the lake states need to be improved; risk data/SDI/
+PCL all needs to be updated.
+Another respondent felt the Aviation Use Summaries in 
+particular were difficult to access “due to the limitation 
+of the number of people allowed to generate that data.” 
+Finally, the PCL analysis relies on past fire history to train 
+and parametrize the model. On a particular landscape 
+with limited large fire history, it was difficult for fire 
+managers to use the SDI and PCL to locate control line 
+opportunities:
+The lack of large fire history in the area did not allow  
+me to exam[ine] where past fires had stopped and 
+compare these with the PCL/SDI data to determine 
+what fuel/terrain changes are typically successful places 
+to locate line.
+F. Recommendations
+Little research has been published on the use of RMA 
+(Calkin et al., 2021; Schultz et al., 2021). From what 
+has been published, we identified recommendations 
+for improving the use of RMA for incident decision-
+making and polled respondents on whether those 
+recommendations are important to consider. Each of the 
+six recommendations listed in Figure 9 were considered 
+very important to extremely important. The three top 
+recommendations were: 1) integrate RMA products and 
+processes with next generation WFDSS (88% indicated 
+this was very to extremely important); 2) invest in local 
+analytical capacity to use and interpret RMA tools (82%); 
+and 3) increase RMA outreach in the preseason, for 
+example during PODs workshops (75%).
+Figure 9: Importance scale (not at all important - extremely important) on the importance of documented recommendations for enhancing RMA tool use. 
+Recommendations derived from Schultz et al. (2021) and Calkin et al. (2021). Statement: Several recommendations have been suggested to enhance the 
+integration of RMA products on incidents. Please indicate the importance of each suggested recommendation.
+Not at all important
+Slightly important
+Moderately important
+Very important
+Extremely important
+Leadership direction on intended
+RMA use
+Leadership direction on RMA
+integration w/ wildfire DSSs
+Increase risk management training
+opportunities
+More RMA outreach in pre-season
+(e.g., PODs workshops)
+Invest in local analytical capacity
+to use, interpret RMA products
+Integrate RMA products and
+processes with next gen. WFDSS
+0%
+20%
+40%
+60%
+80%
+100%
+5% 5%
+7%
+29%
+20%
+27%
+23%
+18%
+11%
+30%
+44%
+36%
+41%
+41%
+34%
+30%
+25%
+34%
+34%
+41%
+54%
+
+Use of Risk Management Assistance during the 2021 fire season: A technical report                    15
+Respondents were prompted to provide additional 
+recommendations to enhance the delivery and use of 
+RMA on wildfire incidents. Many comments elaborated 
+on the recommendations in Figure 9 and those 
+articulated in the facilitating and frustrating factors 
+section (See Tables 1 and 2, respectively), but additional 
+recommendations 
+were 
+also 
+provided. 
+Responses 
+have been grouped into four broad themes: 1) increase 
+awareness and familiarity through training and outreach; 
+2) increase RMA use through socialization of tools and 
+processes; 3) improve delivery and experience of existing 
+products; and 4) grow and expand the products available 
+and their uses (Table 3).
+Many respondents elaborated on how increased 
+opportunities for training and pre-season outreach could 
+help expand use and overcome barriers to use, such 
+as lack of awareness, familiarity, and trust in the RMA 
+tools. Respondents recommended training for several 
+audiences, including Operations Section Chiefs:
+The most ‘typical’ of Operations Section Chiefs need to 
+be trained on and comprehend these products. 
+Other audiences mentioned were AAs, Administratively 
+Determined staff (ADs), analysts (e.g., Long Term Fire 
+Analysts, Fire Behavior Analysts), leadership, IMTs, 
+and interagency partners (especially states and local 
+government). One respondent recommended more 
+training for AAs and leadership direction to encourage 
+AA participation in training:
+The FS [Forest Service] has not been able to bring about  
+a 
+complete 
+package 
+of 
+training 
+for 
+Agency 
+Administrators. We have very little attendance in 
+fire training with line officers and little leadership  
+direction for them to participate.
+In terms of information delivery, respondents suggested 
+short webinars, while others suggested longer-term 
+integration of risk management principles and RMA 
+tools into coursework, such as National Wildfire 
+Coordinating Group (NWCG) RT130 and 200-, 300-, 
+and 400-level courses, to increase RMA familiarity. 
+Respondents suggested ‘road show’ style in-person 
+presentations to help familiarize audiences and build 
+trust in the products in the pre-season:
+Advertise a few folks who are experts in this stuff 
+and available to attend pre-season meetings or  
+trainings anywhere to give more people exposure to this 
+valuable resource. 
+PODs workshops where fire managers, cooperators, 
+and relevant stakeholders co-develop potential control 
+locations and PODs networks may be an appropriate 
+venue for this. Subsequent engagement with entities and 
+organizations as they integrate PODs into land and fire 
+management objectives could also provide opportunities 
+for RMA education and outreach.
+The second theme involves integrating RMA use into 
+typical practice through norming and socialization. 
+Some recommended more exposure to the tools during 
+incidents to build trust in the accuracy of the tools:
+Theme or 
+category
+Frequency
+Example 
+Increase 
+awareness/ 
+familiarity through 
+training and 
+outreach
+17
+•  Training audiences 
+- AAs, ADs, IMTs, 
+Operations Sections 
+Chiefs, interagency 
+partners)
+•	 Methods of delivery 
+– short webinars, 
+traveling training 
+teams, incorporate 
+into fire class and 
+coursework at all 
+levels
+Integrate RMA 
+use through 
+norming/
+socialization
+10
+•  Delineate 
+expectations for use
+•	 Change 
+organizational 
+structures
+•	 Build/lean on local 
+champions
+•	 Increase local 
+exposure to tools 
+Improve existing 
+tool delivery/ 
+experience
+8
+•  Integrate with other 
+platforms
+•	 Improve availability 
+of tools (e.g., Aviation 
+Use Summaries)
+•	 Make it simpler/more 
+user-friendly
+•	 Consider more 
+frequent updates
+•	 Mitigate spatial 
+variability in tool 
+accuracy/quality
+Expand products 
+and uses
+7
+•	 Integrate with 
+fuels/prescribed 
+fire planning and 
+implementation
+•	 Increase tools 
+available on RMA 
+dashboard
+Table 3: Recommendations to improve the use and usability of RMA tools for 
+wildfire management. Question: What other recommendations do you have 
+to enhance the delivery and use of RMA products on wildfire incidents?
+
+16                    Use of Risk Management Assistance during the 2021 fire season: A technical report
+For some groups of people, it is going to take them 
+actually seeing the products work on the ground before 
+they will fully believe what the science is telling them. 
+“Seeing the products work” was noted as a strong 
+facilitating 
+factor 
+by 
+respondents. 
+Respondents 
+highlighted 
+the 
+importance 
+of 
+local 
+or 
+peer 
+demonstrations of the tools’ value to IMTs and AAs, 
+and they emphasized utilizing the tools early (i.e., initial 
+attack), often, and throughout extended fire events. In 
+this vein, respondents suggested the need for leaders, or 
+champions, on local units and IMTs to demonstrate the 
+use and utility of RMA. One respondent recommended 
+outreach to Incident Commanders (ICs) on incidents 
+to identify what needs they may have, which could 
+provide valuable on-incident support and help develop 
+future RMA champions. In order for RMA to be used, 
+respondents recommended agency leadership set clear 
+expectations for how to use the RMA tools throughout 
+the fire lifecycle. Further, respondents recommended 
+the need for 1) funding additional analysts and other 
+personnel dedicated to RMA; and 2) changing IMT 
+organizational configurations to ensure teams have the 
+appropriate skillsets and experience in risk management 
+principles and RMA:
+All IMTs should be required to have a SOPL 
+[Strategic Operational Planner] in their “short team” 
+configuration. There should not always be ‘strike teams 
+of Ops [Operations section] chiefs’ with exactly the same 
+qualifications rolling out with IMTs. Any IMT that 
+carries more than two Ops Chiefs needs to ensure they 
+carry a SOPL.
+The third theme included recommendations for technical 
+improvements to the existing set of RMA products. 
+For example, respondents recommended integrating 
+these tools into existing platforms and systems in 
+use, including next-gen WFDSS, the Interagency Fuel 
+Treatment Decision Support System (IFTDSS), and the 
+Enterprise Geospatial Portal (EGP). Some respondents 
+suggested expanding the ways in which tools were made 
+available during incidents particularly where internet 
+connectivity is uncertain: 
+It would be good to figure out a way to get it into 
+a format that is better used while on an incident. 
+Sometimes there is limited WIFI capacity or access to 
+printers/plotters… maybe a written handbook or guides 
+when connectivity is lacking.
+Respondents also emphasized the importance of 
+generating RMA maps to support incident response 
+as soon as the first team is ordered and assigned to  
+an incident:
+RMA maps will be more widely used if maps are created 
+as soon as the leadership knows [the] fire will extend 
+into extended response.
+Respondents requested tools be updated more frequently 
+to represent dynamic and changing conditions on 
+the ground, and to mitigate spatial variability in the 
+accuracy of products. They also suggested increasing 
+the availability of, or access to, Aviation Use Summaries. 
+Tools that would support line identification in areas 
+with limited large fire history was recommended. Where 
+possible, making the RMA dashboard and tools more 
+user-friendly for a variety of audiences by adding features 
+like help links may enhance adoption of RMA products. 
+As one respondent noted:
+It would be great if the products provided were simple 
+enough for most to understand while providing 
+options for those users with more skills to extrapolate 
+if necessary.
+Some respondents suggested improving RMA use 
+by making the dashboard a “one stop shop” for 
+integrated wildfire mitigation, pre-fire planning, and 
+incident management. One respondent suggested that 
+incorporating more information about how critical values 
+and assets of concern may respond to fire (and the extent 
+to which they may be positively or negatively affected by 
+fire under various conditions) into the RMA dashboard 
+could improve decision making: 
+When line officers are faced with suppress fire small 
+[sic] and commit few resources versus big box and lots 
+of time/resources......then our history shows what way 
+line officers will go despite what the analytics show. 
+Decisions based on risk alone are very subjective (in 
+spite of analytics) where effect on the resource is more 
+science based and provable.
+Respondents saw opportunities to apply RMA tools to 
+wildfire mitigation (i.e., fuels reduction and prescribed 
+fire planning and implementation). They considered 
+RMA tools well-suited to validate the purpose and 
+need for treatments, and where to put them. When 
+managers are able to use the same systems and tools for 
+both wildfire mitigation and response, it increases the 
+exposure and familiarity of the tools to local units, and 
+the lines between mitigation and response begin to blur. 
+G. How was RMA used in non-incident manage-
+ment contexts?
+Respondents indicated that they are using RMA tools in 
+non-incident management contexts, including pre-season 
+wildfire planning, fuels planning, and environmental 
+analysis and decision-making (Figure 10).
+
+Use of Risk Management Assistance during the 2021 fire season: A technical report                    17
+We asked respondents to describe how they were using 
+RMA in non-incident management contexts in an 
+open-ended question. Three common themes emerged 
+from those responses, two of which expanded on the 
+fixed-response statement (Figure 10). They included: 
+1) pre-season fire planning; 2) fuel treatment planning 
+and proposed actions requiring environmental review 
+pursuant to the National Environmental Policy Act 
+(NEPA); and 3) communication, learning, and shared 
+understanding (Table 4). 
+The distinction between pre-season fire planning 
+and fuel treatment planning refers primarily to the 
+temporal scale in which the planning occurs. In this 
+context, pre-season fire planning refers to shorter- to 
+mid-term tactical planning for the fire season, whereas 
+fuel treatment planning refers to longer-term, strategic 
+planning to implement treatments to reduce wildfire 
+risk or improve opportunities for safe and effective fire 
+management. At the same time, the distinctions between 
+how these were discussed by respondents was somewhat 
+blurry. For example, one respondent described how RMA 
+use can support a range of applications: 
+POD development that uses RMA is being used as 
+a collaborative planning framework, supporting 
+interagency coordination, evacuation planning, CWPP 
+[Community Wildfire Protection Plan] development, etc.
+The most prominent example in the responses was using 
+RMA in the development and use of PODs in pre-season 
+fire planning. One respondent described using these 
+applications to inform potential fire season strategy:
+[We] use PODs and PCLs to conduct pre-season fire 
+management planning (assess opportunities to manage 
+fire for resource benefit). 
+Others used RMA to brief line officers on expected 
+high-problem areas in the event of an ignition. Many 
+respondents also described using RMA products to 
+inform risk assessments:
+I encourage my Rangers to use this tool [RMA]  
+in development of risk assessments for any activity in 
+the woods. 
+Meanwhile, others noted RMA tools were used to 
+support grant applications. One respondent in particular 
+used risk assessments and fire danger products on 
+the RMA dashboard to write Federal Emergency 
+Management 
+Agency 
+(FEMA) 
+Fire 
+Management 
+Assistance Grant applications. 
+With respect to fuel treatment planning, numerous 
+respondents provided examples of RMA use to support 
+prioritization, NEPA processes, and strategy development. 
+For example, one respondent explained the use of RMA in 
+prioritizing treatments:
+I have successfully incorporated RMA products (SDI/
+PCL primarily) in prioritizing fuels treatments in 
+areas with multiple values at risk (VARs) and recently 
+as supporting documentation in an Environmental 
+Assessment (EA).
+Another respondent used RMA for effects analysis on a 
+proposed action, which helped justify where treatments 
+should occur and why:
+Figure 10: Frequency of respondents that used RMA for non-incident 
+management activities. Statement: I am using RMA products for non-incident 
+management purposes, including... (select all that apply).
+Pre-season wildﬁre 
+planning
+Fuels planning (e.g., 
+prioritization, treatment design)
+Enviromental analysis 
+and decision-making
+(e.g., NEPA, Forest
+Plan Revision)
+Other
+63%
+7%
+46%
+29%
+Theme or 
+category
+Frequency
+Example 
+Pre-season fire 
+planning
+33
+•  Inform quantitative 
+risk assessments
+•	 Use RMA to draft 
+PODs
+•	 Use for pre-season 
+training
+•	 Bolster grant 
+proposals
+Fuel treatment 
+planning
+24
+•  NEPA
+•	 Prioritization of 
+treatment type and 
+location
+•	 Firesheds 
+•	 Inform CWPPs 
+Shared 
+understanding, 
+communication 
+and learning
+5
+• 	Situational awareness
+•	 Outreach with 
+partners
+•	 Coordination of 
+fuels treatments with 
+partners
+Table 4: RMA use in non-incident management contexts. Statement: Please 
+explain how you have used/are using RMA products to support non-incident 
+management (e.g., fuels planning, NEPA, prioritization).
+
+18                    Use of Risk Management Assistance during the 2021 fire season: A technical report
+[We] used PODs and PCL in fuels planning as well as 
+NEPA effects analysis. Certainly, [these tools] help[ed] in 
+[developing the] rational[e] for why here, why now. 
+One respondent aligned RMA products with the USDA 
+Forest Service Firesheds and 5-year plans to identify new 
+priority treatment areas. Respondents noted that RMA 
+was also used for communication with communities 
+and partners for planning fuel reduction treatments, 
+learning or training purposes, and generating general 
+understanding or situational awareness. Finally, one 
+respondent highlighted how the RMA dashboard helped 
+provide information to increase situational awareness 
+during and leading into the fire season:
+[We] use the [RMA] dashboard to look at drought/
+weather/fuels, past fires on the district, etc. to 
+prepare exercises ahead of the season with my fire 
+staff and crews. 
+Conclusion and next steps
+The USDA Forest Service Fire and Aviation Management 
+(FAM) department requested assistance from the 
+Southwest Ecological Restoration Institutes (SWERI) 
+to develop an online questionnaire to assess Risk 
+Management Assistance (RMA) use during the 2021 fire 
+season. We framed the assessment around four research 
+questions: 1) Which RMA products are used on wildfires; 
+2) How is RMA used to inform decision-making; 3) 
+What factors facilitate or frustrate use; and 4) How can 
+RMA be improved to enhance its use and legitimacy 
+in wildland fire management? The questionnaire 
+was administered to fire managers and personnel 
+(e.g., Incident Management Teams [IMTs], Agency 
+Administrators) who engaged with RMA products and 
+assistance during the 2021 fire season. We received 
+94 usable responses that captured 69 incidents across 
+11 states and over 6 million acres burned. 27 IMTs, 9 
+regional Geographic Area Coordination Centers (GAACs), 
+and multiple type 1, 2, and 3 teams were represented  
+in the sample. 
+Our findings indicated that RMA was overwhelmingly 
+seen as a useful set of tools and processes which helped 
+inform incident decision making. RMA tools were used 
+to facilitate dialogue with cooperators and stakeholders, 
+inform strategic, operational, and tactical decision-
+making, and support regional prioritization of incidents. 
+Regional coordination and prioritization are especially 
+important given the increased complexity of the fire 
+environment, limited resources, increased reliance on 
+out-of-region teams during high preparedness levels, and 
+increased frequency of multiple, long duration events 
+where numerous teams cycle through an incident. 
+A majority of respondents felt that RMA met the core 
+principles of the program – improve decision quality, 
+improve accountability, and minimize unnecessary risk 
+to firefighters (Calkin et al., 2021). Most respondents 
+felt that the tools on the RMA dashboard were easy to 
+interpret, relevant to decision making, provided at the 
+appropriate scale, and accurately depicted conditions on 
+the ground. The RMA dashboard was reportedly easy to 
+access and use by practitioners, and respondents agreed 
+that the dashboard provided products that helped develop 
+strategies quickly. A number of factors facilitated use, 
+including familiarity with RMA, trust in the accuracy 
+of analytics, receptiveness to new tools and processes, 
+internal capacity and expertise, and the presence of 
+leaders who advocated for RMA use to support fire and 
+land management decision-making.
+Still, practitioners provided several recommendations that 
+could improve RMA use and legitimacy. These included: 
+1) increased education and outreach; 2) clear leadership 
+direction and intent; 3) more support for regional analysts 
+and incident personnel trained in risk management 
+principles and RMA; and 4) more frequent tool updates 
+and tool enhancements. More education, training, and 
+outreach on RMA was recommended. Suggestions  
+included targeted webinars, integrating RMA and risk 
+management principles into the National Wildfire 
+Coordinating Group course curriculum for firefighters 
+and agency administrators, introducing RMA products 
+and processes during Potential Operational Delineations 
+(PODs) workshops, and additional opportunities for peer 
+learning and knowledge exchange. Peer-to-peer learning 
+and training during incidents (e.g. Strategic Risk Analysis 
+and Strategic Operations) and extending training to 
+local fire managers and Type 3 teams could help bolster 
+the use of RMA on extended and emerging incidents. 
+National-level peer learning networks, such as the PODs 
+user group, are key to supporting education, outreach, 
+and social learning around PODs and RMA. In addition, 
+more frequent, and regionally-focused communities of 
+practice would be beneficial to further the socialization of 
+RMA, its applications, and innovations in the field. Many 
+respondents indicated the use of RMA for non-incident 
+environmental analysis and decision making for fuels 
+and other land management objectives. When managers 
+are able to use the same systems and tools for wildfire 
+mitigation and response, it increases the exposure 
+and familiarity of the tools to local units, and the lines 
+between mitigation and response begin to blur. 
+Respondents recommended clear leadership direction on 
+
+Use of Risk Management Assistance during the 2021 fire season: A technical report                    19
+how RMA should be used on incidents and incorporated 
+within existing decision-support tools, including the 
+Wildland Fire Decision Support System (WFDSS). 
+Opportunities to distill leadership intent and direction 
+could be achieved in the IMT, at annual coordination 
+meetings, or through the delegation of authority on 
+incidents. There is a need to invest in analytical capacity 
+on units, teams, and at the regional and national level 
+to use and interpret risk-informed spatial analytics and 
+RMA tools in particular. Regional analysts are becoming 
+more common and could be integrated in all GACCs to 
+support multiple incidents and regional prioritization. 
+IMTs could incorporate strategic operations positions in 
+planning and operations sections who are trained in risk 
+management principles and analytics. Learning modules 
+and help links for tools in the RMA dashboard was 
+recommended. Also, adapting delivery systems so that 
+tools are updated more frequently as conditions change 
+may support usage. 
+This assessment provided baseline information on 
+the use of RMA during fire incidents, contributed to 
+our understanding of what facilitates and frustrates 
+RMA use, and identified actionable recommendations 
+to improve RMA products and processes. Our hope 
+is that this is the first in what will become a long-
+term evaluation of RMA products and processes. This 
+structured and systematic questionnaire could be 
+readministered longitudinally to track trends in RMA 
+use and determine the extent to which RMA is useful 
+and used. Additionally, case studies can add local context 
+and nuance to questionnaire findings. These should be 
+grounded in the needs and priorities of forest and fire 
+practitioners and FAM leadership. 
+Next steps for our research team include case studies 
+that: assess RMA use during 2022 wildfire incidents 
+that will help further explain questionnaire findings; 
+document how leadership direction and intent on RMA is 
+conceptualized, defined, and disseminated to lower levels 
+of authority and cooperators; and share recommendations 
+for improving the suite of analytical tools and products 
+available on the RMA dashboard. We are particularly 
+interested in collaborative planning processes facilitated 
+by RMA. Future work may evaluate the strategic 
+risk assessment and strategic operations processes, 
+particularly with regard to how RMA was integrated 
+into these processes by coaches and IMTs. There are also 
+opportunities to learn more about those who do not use 
+RMA and why, as our survey focused specifically on fires 
+where RMA was used. We will maintain our focus on co-
+developing actionable knowledge with practitioners to 
+improve decision-making before, during, and after fires. 
+References
+Caggiano, M.D., Beeton, T.A., Gannon, B.M., White, 
+J., 2021. The Cameron Peak Fire: Use of Potential 
+Operational Delineations and Risk Management 
+Assistance Products (No. CFRI-2106). Colorado Forest 
+Restoration Institute, Fort Collins, CO. https://cfri.
+colostate.edu/wp-content/uploads/sites/22/2021/06/
+CameronPeakFirePODsReport.pdf
+Calkin, D.E., O’Connor, C.D., Thompson, M.P., Stratton, R., 
+2021. Strategic Wildfire Response Decision Support and 
+the Risk Management Assistance Program. Forests 12, 
+1407. https://doi.org/10.3390/f12101407
+Colavito, M., 2021. The Human Dimensions of Spatial, 
+Pre-Wildfire Planning Decision Support Systems: A 
+Review of Barriers, Facilitators, and Recommendations. 
+Forests 12, 18. https://doi.org/10.3390/f12040483
+Dilling, L., Lemos, M.C., 2011. Creating usable science: 
+Opportunities and constraints for climate knowledge 
+use and their implications for science policy. Global 
+environmental 
+change 
+21, 
+680–689. 
+https://doi.
+org/10.1016/j.gloenvcha.2010.11.006
+Greiner, S.M., Schultz, C.A., Kooistra, C., 2020. Pre-
+season fire management planning: the use of Potential 
+Operational Delineations to prepare for wildland fire 
+events. Int. J. Wildland Fire. https://doi.org/10.1071/
+WF20124
+Holden, Z.A., Swanson, A., Luce, C.H., Jolly, W.M., Maneta, 
+M., Oyler, J.W., Warren, D.A., Parsons, R., Affleck, D., 
+2018. Decreasing fire season precipitation increased 
+recent western US forest wildfire activity. Proc Natl 
+Acad Sci USA 115, E8349–E8357. https://doi.org/10.1073/
+pnas.1802316115
+Jolly, W.M., Cochrane, M.A., Freeborn, P.H., Holden, Z.A., 
+Brown, T.J., Williamson, G.J., Bowman, D.M.J.S., 2015. 
+Climate-induced variations in global wildfire danger 
+from 1979 to 2013. Nature Communications 6, 7537. 
+https://doi.org/10.1038/ncomms8537
+Lemos, M.C., 2008. What Influences Innovation Adoption 
+by Water Managers? Climate Information Use in Brazil 
+and the United States1. JAWRA Journal of the American 
+Water Resources Association 44, 1388–1396. https://doi.
+org/10.1111/j.1752-1688.2008.00231.x
+Noble, P., Paveglio, T.B., 2020. Exploring Adoption of the 
+Wildland Fire Decision Support System: End User 
+Perspectives. Journal of Forestry 118, 154–171. https://doi.
+org/10.1093/jofore/fvz070
+Radeloff, V.C., Helmers, D.P., Kramer, H.A., Mockrin, M.H., 
+Alexandre, P.M., Bar-Massada, A., Butsic, V., Hawbaker, 
+
+20                    Use of Risk Management Assistance during the 2021 fire season: A technical report
+T.J., Martinuzzi, S., Syphard, A.D., Stewart, S.I., 2018. 
+Rapid growth of the US wildland-urban interface raises 
+wildfire risk. Proc Natl Acad Sci USA 115, 3314–3319. 
+https://doi.org/10.1073/pnas.1718850115
+Rapp, C., Rabung, E., Wilson, R., Toman, E., 2020. Wildfire 
+decision support tools: an exploratory study of use in 
+the United States. International journal of wildland fire 
+29, 581–594. https://doi.org/10.1071/WF19131
+Ryan, G.W., Bernard, H.R., 2003. Techniques to Identify 
+Themes. 
+Field 
+Methods 
+15, 
+85–109. 
+https://doi.
+org/10.1177/1525822X02239569
+Schultz, C., Miller, L.F., Greiner, S., Kooistra, C., 2021. 
+A Qualitative Study on the US Forest Service’s 
+Risk Management Assistance Efforts to Improve 
+Wildfire Decision-Making. Forests 12, 344. https://doi.
+org/10.3390/f12030344
+Vásquez, F., Cravero, A., Castro, M., Acevedo, P., 2021. 
+Decision Support System Development of Wildland 
+Fire: A Systematic Mapping. Forests 12, 943. https://doi.
+org/10.3390/f12070943
+ 
+
+Use of Risk Management Assistance during the 2021 fire season: A technical report                    21
+Appendix 1: Frequency distribution of number of respondents by incident.
+Incident Name
+Frequency
+Alder Creek 
+7
+Devils Knob Complex
+7
+Trail Creek 
+7
+Dixie 
+5
+KNP Complex
+5
+Rough Patch Complex
+5
+Balsinger 
+4
+Bootleg
+4
+Bull Complex
+4
+Cub Creek 2
+4
+Jack 
+4
+Tamarack 
+4
+Green Ridge
+3
+Greenwood 
+3
+Middle Fork Complex
+3
+River Complex
+3
+Sylvan lake 
+3
+Telegraph
+3
+Antelope 
+2
+Backbone
+2
+Black Mountain 
+2
+Cedar Creek
+2
+Haystack
+2
+Lick Creek
+2
+McCash 
+2
+Monument 
+2
+Ptarmigan 
+2
+Twenty-five Mile
+2
+12 mile
+1
+American Fork
+1
+Beckwourth
+1
+Black Butte
+1
+Boulder 2700
+1
+Burnt  Peak
+1
+Caldor
+1
+Chickadee
+1
+Christensen
+1
+Cornville
+1
+Cougar Peak
+1
+Cougar Rock Complex
+1
+Crater Ridge
+1
+Darlene
+1
+Delta Lake
+1
+Gales
+1
+Goose 
+1
+Granite Mtn
+1
+Greenside Butte 
+1
+Haystack (AK)
+1
+Johnson
+1
+Johnson Creek
+1
+Lava
+1
+Leland Complex
+1
+McFarland
+1
+Pack Creek
+1
+Pinnacle
+1
+Rafael
+1
+Red Apple
+1
+Rincon
+1
+Robertson Draw
+1
+Robinson 
+1
+Rush Creek
+1
+Snake River Complex
+1
+Storm Theatre Complex
+1
+Thorne Creek
+1
+Too Kush 2
+1
+Vinegar
+1
+West Lolo
+1
+Windy 
+1
+Woods Creek
+1
+
+22                    Use of Risk Management Assistance during the 2021 fire season: A technical report
+IMT
+Frequency
+Rocky Mountain Type 1
+6
+Northwest Interagency Incident Management Team 6
+4
+Eastern Area Gold
+3
+Northern Rockies Team 5
+3
+Alaska Team 1
+2
+Boise NIMO Team 2
+2
+California Interagency IMT Team 1
+2
+Great Basin Team 1
+2
+Great Basin Team 4
+2
+Northwest Interagency Incident Management Team 3
+2
+Southern Area Blue Team
+2
+Southwest Area Team 2
+2
+Alaska Black Team
+1
+Atlanta NIMO Team 1
+1
+California Interagency IMT Team 13
+1
+California Interagency IMT Team 4
+1
+California Interagency IMT Team 5
+1
+Great Basin Team 5
+1
+Northern Rockies Team 3
+1
+Northern Rockies Team 4
+1
+Northern Rockies Team 6
+1
+Northwest Interagency Incident Management Team 2
+1
+Rocky Mountain Black Team
+1
+Rocky Mountain Blue Team
+1
+Southern Area Red Team
+1
+Southwest Area Team 1
+1
+Southwest Area Team 3
+1
+Appendix 2: Frequency distribution of Incident Management Team representation in the 
+survey 
+Respondents who were on the same team for multiple incidents (respondents could include up to three incidents) were 
+only counted once. 
+
+Southwest
+Southern
+Rocky Mountain
+Northwest
+Northern Rockies
+Great Basin
+Eastern
+Southern California
+NIMO
+Alaska
+GACC                                                       IMT                                                                                                          FREQUENCY

@@ -1,0 +1,2059 @@
+Long-term impact of a stand-replacing ﬁre on ecosystem
+CO2 exchange of a ponderosa pine forest
+S . D O R E *, T. E . K O L B *w , M . M O N T E S - H E L U *, B . W. S U L L I VA N *, W. D . W I N S L O W *,
+S . C . H A R T *w, J . P. K AY E z, G . W. K O C H w § and B . A . H U N G AT E w §
+*School of Forestry, Northern Arizona University, PO Box 15018, Flagstaff, AZ 86011-5018, USA, wMerriam-Powell Center
+for Environmental Research, Northern Arizona University, Flagstaff, AZ 86011, USA, zCrop & Soil Sciences Department,
+The Pennsylvania State University, University Park, PA, USA, §Department of Biological Sciences, Northern Arizona
+University, Flagstaff, AZ 86011, USA
+Abstract
+Ponderosa pine (Pinus ponderosa) forests of the southwestern United States are a mosaic
+of stands where undisturbed forests are carbon sinks, and stands recovering from
+wildﬁres may be sources of carbon to the atmosphere for decades after the ﬁre. However,
+the relative magnitude of these sinks and sources has never been directly measured in
+this region, limiting our understanding of the role of ﬁre in regional and US carbon
+budgets. We used the eddy covariance technique to measure the CO2 exchange of two
+forest sites, one burned by ﬁre in 1996, and an unburned forest. The ﬁre was a high-
+intensity stand-replacing burn that killed all trees. Ten years after the ﬁre, the burned
+site was still a source of CO2 to the atmosphere [109  6 (SEM) g C m2 yr1], whereas the
+unburned site was a sink (164  23 g C m2 yr1). The ﬁre reduced total carbon storage
+and shifted ecosystem carbon allocation from the forest ﬂoor and living biomass
+to
+necromass.
+Annual
+ecosystem
+respiration
+was
+lower
+at
+the
+burned
+site
+(480  5 g C m2 yr1) than at the unburned site (710  54 g C m2 yr1), but the difference
+in gross primary production was even larger (372  13 g C m2 yr1 at the burned site and
+858  37 g C m2 yr1at the unburned site). Water availability controlled carbon ﬂux in the
+warm season at both sites, and the burned site was a source of carbon in all months, even
+during the summer, when wet and warm conditions favored respiration more than
+photosynthesis. Our study shows that carbon losses following stand-replacing ﬁres in
+ponderosa pine forests can persist for decades due to slow recovery of the gross primary
+production. Because ﬁre exclusion is becoming increasingly difﬁcult in dry western
+forests, a large US forest carbon sink could shift to a decadal-scale carbon source.
+Keywords: carbon, CO2 ﬂux, conifer, disturbance, eddy covariance, GPP, NEE, Pinus ponderosa,
+respiration
+Received 27 July 2007; revised version received 21 December 2007 and accepted 18 January 2008
+Introduction
+Terrestrial ecosystems strongly inﬂuence the global
+carbon cycle and, combined with oceans, are estimated
+to absorb about half of the carbon dioxide (CO2) cur-
+rently released by human activities (Schimel et al., 2001;
+Dilling et al., 2003). Simulated global patterns of carbon
+ﬂux suggest that forests dominated by ponderosa pine
+(Pinus ponderosa), including those represented by our
+study sites in northern Arizona, are a carbon sink
+(Potter & Klooster, 1999). Yet regional estimates of
+carbon sequestration by terrestrial ecosystems are likely
+overestimated, because most studies avoid recently
+disturbed sites and do not adequately consider impact
+of disturbance on carbon ﬂuxes (Pacala et al., 2001;
+Breshears & Allen, 2002; Hurtt et al., 2002; Schimel &
+Baker, 2002; Dilling et al., 2003; Litton et al., 2003; Saleska
+et al., 2003; Law et al., 2004; Misson et al., 2005). Simula-
+tions and empirical data suggest that stand-scale CO2
+ﬂux depends strongly on stand age and time since
+disturbance (Thornton et al., 2002; Amiro et al., 2003;
+Law et al., 2003; Song & Woodcock, 2003; Pregitzer &
+Euskirchen, 2004). Elucidation of the magnitude, spatial
+Correspondence: Sabina Dore, 21134 Montgomery Avenue,
+Hayward, CA 94541, USA, e-mail: sabina.dore@nau.edu
+Global Change Biology (2008) 14, 1801–1820, doi: 10.1111/j.1365-2486.2008.01613.x
+r 2008 The Authors
+Journal compilation r 2008 Blackwell Publishing Ltd
+1801
+
+and temporal scales, and biological processes of such
+inﬂuences is essential to improve estimates of carbon
+balance in forested landscapes.
+Stand-replacing wildﬁres cause a sudden conversion
+of carbon stored in vegetation and soil to CO2, which is
+then released to the atmosphere. Such short-term effects
+of ﬁre can be reasonably estimated from information on
+fuel consumption and extent of burning (Auclair &
+Carter, 1993; Conard & Ivanova, 1997; Harden et al.,
+2000; Page et al., 2002; Law et al., 2004). Longer term
+effects of ﬁre on the carbon balance are more uncertain
+and are inﬂuenced by ﬁre effects on local hydrology,
+surface energy exchange, soil temperature (Amiro et al.,
+1999), rate of vegetation recovery (Amiro et al., 2003;
+Law et al., 2003; Litton et al., 2003; Kashian et al., 2006),
+soil respiration, and erosion of soil organic carbon
+(Black & Harden, 1994).
+The effects of ﬁre on the carbon balance can last for
+variable periods, depending on the intensity of the ﬁre
+and the recovery of the ecosystem. Several studies show
+that ﬁre reduces net ecosystem production in young,
+regrowing stands, because decomposition of necromass
+produced from the disturbance causes heterotrophic
+respiration to exceed net primary production, changing
+the ecosystem from a sink to a source of CO2 (Amiro,
+2001; Thornton et al., 2002; Wirth et al., 2002; Law et al.,
+2004; Randerson et al., 2006). In intensively managed
+pine forests, 2–5 years may elapse after disturbance
+before regrowing forests shift from a carbon source to
+a sink (Thornton et al., 2002; Misson et al., 2005), while
+the same transition may require 10–30 years for conifers
+in the Paciﬁc Northwest United States (Cohen et al.,
+1996; Law et al., 2001) and many decades for boreal
+forests (Schulze et al., 2000; Fredeen et al., 2007). Current
+understanding of the effects of severe ﬁre or high-
+intensity harvesting on carbon ﬂuxes in ponderosa pine
+forests suggests that it may take 50–100 years to replace
+the carbon lost from these disturbances and a period of
+10–20 years to shift the ecosystem from a carbon source
+to a carbon sink (Law et al., 2001). These estimates from
+more mesic forests (Thornton et al., 2002; Amiro et al.,
+2003; Law et al., 2003; Litton et al., 2003; Kashian et al.,
+2006) may have limited application in southwestern
+ponderosa pine forests, where the drier climate appears
+to slow recovery following stand-replacing wildﬁre
+(Savage et al., 1996; Savage & Mast, 2005).
+Over a century of ﬁre suppression and heavy live-
+stock grazing have eliminated the natural low-intensity
+surface ﬁre regime of ponderosa pine forests in most
+areas of the southwestern United States (Cooper, 1960;
+Swetnam & Baisan, 1996; Fule´ et al., 1997). Ecosystem
+structure has shifted from open savanna-like forests
+maintained by frequent (every 3–25 years) surface ﬁres
+to dense forests of small trees with little understory
+(Covington et al., 1994; Swetnam & Baisan, 1996; Fule´
+et al., 1997). This shift is considered an important
+component of the recent carbon sink of terrestrial eco-
+systems (Potter & Klooster, 1999; Houghton et al., 2000;
+Pacala et al., 2001; Schimel et al., 2001; Hibbard et al.,
+2003), but the sink is not sustainable because increasing
+carbon storage in woody fuels (Covington et al., 1994;
+Covington et al., 2001; Keane et al., 2002; Fule´ et al., 2004;
+Moore et al., 2004) and recent climate warming (Brown
+et al., 2004; Westerling et al., 2006) lead to stand-
+replacing wildﬁres in arid and semiarid forests that
+cover large areas of the western United States (GAO,
+1998; Breshears & Allen, 2002). Measurements of carbon
+exchange in burned and ﬁre-suppressed, unburned
+forests provide data necessary for understanding the
+carbon balance implications of different forest manage-
+ment strategies in semiarid regions. Attempts to mea-
+sure or predict spatial variation in carbon sinks for the
+western United States will have large errors if impacts
+of severe ﬁre are not considered.
+The overall objective of this study was to evaluate the
+effects of stand-replacing ﬁre on the carbon cycle of
+ponderosa pine forests in northern Arizona. We mea-
+sured ecosystem CO2 and water ﬂuxes for 17 months
+(2005–2006) in an unburned ponderosa pine forest and a
+forest that was burned by a high-intensity stand-
+replacing wildﬁre that killed all trees in 1996 to (1)
+compare carbon ﬂuxes, pools, and environmental re-
+sponses of ﬂuxes, and (2) provide the ﬁrst data on
+ecosystem carbon ﬂuxes, using eddy covariance for
+ponderosa pine forests of the southwestern United
+States.
+Materials and methods
+Study sites
+Our study compares two ponderosa pine sites: an
+unmanaged, undisturbed forest and a forest that
+burned in a stand-replacing wildﬁre. The sites are
+located 35 km apart, in the vicinity of Flagstaff, in
+northern Arizona, United States.
+The unburned site is located on the Northern Arizona
+University Centennial Forest (3515020.500N, 111145043.3300W,
+elevation 2180ma.s.l.) and represents a typical example of
+the ponderosa pine forests of this area, with no distur-
+bances (harvests, thinning, or ﬁres) having occurred for
+many decades. Season maximum leaf area index (LAI,
+projected area) during the study was 2.3, tree basal area
+was 30m2ha1, and average tree age was 87 years
+(Table 1). The forest is dominated by ponderosa pine
+and includes a sparse understory (maximum LAI 0.06)
+of grasses and forbs.
+1802
+S . D O R E et al.
+r 2008 The Authors
+Journal compilation r 2008 Blackwell Publishing Ltd, Global Change Biology, 14, 1801–1820
+
+The burned site is located on the Coconino National
+Forest (35126043.4300N, 111146018.6400W, elevation 2270 m
+a.s.l.) in a 10 500 ha area burned by a high-intensity
+stand-replacing wildﬁre in 1996. The ground surface
+of the site is covered with sparse grasses, shrubs, and
+woody debris (WD) produced by the ﬁre. Before the
+ﬁre, the burned site had stand characteristics similar to
+the unburned site (Table 1). Since the 1996 ﬁre, no
+postﬁre management, such as salvage logging or tree
+planting, has occurred at the site, and no tree seedlings
+have established. The vegetation at the site consists
+of grasses (Bromus tectorum, Elymus repens), shrubs
+(Ceanothus
+fendleri),
+and
+forbs
+(Oxytropis
+lambertii,
+Verbascum thapsus, Linaria dalmatica, Circium wheeleri).
+The climate of the area is characterized by cold
+winters, sunny but dry springs, and irregular and
+moderate annual precipitation (610 mm, 30-year aver-
+age, Western Regional Climatic Center, http://www.
+wrcc.dri.edu/index.html) about equally divided be-
+tween winter and the July–August monsoon season
+(Sheppard et al., 2002). The two sites had similar incom-
+ing radiation and seasonal trends for most of the
+measured meteorological variables during the study
+(Table 2, Fig. 1). The main environmental differences
+between the sites can be explained by the absence of the
+tree canopy cover at the burned site, where soil and air
+temperatures were lower in the winter and higher in the
+summer, soil water content (SWC) was lower, and vapor
+pressure deﬁcit (VPD) higher compared with that at the
+unburned site (Table 2, Fig. 1). Precipitation in 2006 was
+also lower at the burned site than at the unburned site
+(Table 2, Fig. 1).
+Stand characteristics were measured at ﬁve 25 m
+radius circular plots located in the eddy covariance
+footprint at each site. The plots were located between
+150 and 400 m in the prevailing wind direction, in the
+east–west section from the towers. At the burned site,
+preﬁre stand characteristics were determined in 2006
+from adjacent, unburned areas. Diameter at breast
+height (1.4 m above ground) was measured for all trees
+in the plots and was used to calculate basal area, LAI,
+and biomass, using allometric equations and speciﬁc
+leaf area developed for ponderosa pine in northern
+Arizona (Kaye et al., 2005; McDowell et al., 2006). Allo-
+metric equations developed for ponderosa pine in New
+Mexico (Omdal et al., 2001) were used to estimate coarse
+root biomass at the unburned site. Understory LAI was
+measured at each site at four, 0.5 m2 subplots for each of
+the ﬁve plots (total 20 per site). All understory vegeta-
+tion was clipped from the subplots at the time of peak
+standing crop (late September 2006), and projected leaf
+area was measured in the laboratory with an image
+analyzer (Agvision, Monochrome System, Decagon
+Devices Inc., Pullman, WA, USA). Fine root biomass
+(diameter o2 mm) was obtained at the two sites in
+2006 at each of the ﬁve plots from three soil cores (total
+15 per site) of 20.4 cm2 in area and a depth of 15 cm,
+where most of the ﬁne root biomass is concentrated
+(Hart et al., 2005). Roots were extracted from the soil
+with a hydropneumatic elutriation system (Scienceware
+Bel-Art Products, Pequannock, NJ, USA). The carbon
+content of the mineral soil was obtained from Grady &
+Hart’s (2006) study of the same ﬁre for samples col-
+lected in 2005.
+Table 1
+Stand and soil characteristics of the unburned and burned sites (1 SE)
+Characteristic
+Unit
+Unburned
+Burned
+LAI total
+m2 m2
+2.3 ( 0.38)
+0/before ﬁre 2.4 ( 0.45)
+LAI understory
+m2 m2
+0.06 ( 0.02)
+0.6 (  0.17)
+Tree density
+N ha1
+853 ( 189)
+0/before ﬁre 343 ( 49)
+Basal area
+m2 ha1
+30 ( 4.7)
+0/before ﬁre 31 ( 6)
+Canopy height
+m
+18
+o0.5
+Soil type
+Complex of Mollic Eutroboralf
+and Typic Argiboroll
+Mollic Eutroboralf
+Depth of A horizon
+cm
+0–5
+0–7
+Bulk density A horizon
+g cm3
+1.15
+1.01
+Sand A horizon
+%
+37
+30
+Silt A horizon
+%
+39
+57
+Clay A horizon
+%
+24
+13
+Depth of B horizon
+cm
+5–15
+7–15
+Bulk density B horizon
+g cm3
+1.15
+1.21
+Sand B horizon
+%
+31
+20
+Silt B horizon
+%
+34
+55
+Clay B horizon
+%
+35
+25
+W I L D F I R E A LT E R S P O N D E R O S A P I N E N E E
+1803
+r 2008 The Authors
+Journal compilation r 2008 Blackwell Publishing Ltd, Global Change Biology, 14, 1801–1820
+
+Fine WD (diameter o7.5 cm) was measured at each
+site, using the Brown method (1974) on four 3.7 m
+transects from each plot center. Coarse WD (diameter
+47.5 cm) was measured on four, 0.04 ha plots per site.
+Length, top, middle, and base diameters of coarse WD
+were recorded, and mass was calculated using New-
+ton’s formula and a bulk density of 0.4 g cm3 (Harmon
+& Sexton, 1996). WD was calculated as the sum of ﬁne
+and coarse materials. Forest ﬂoor depth was measured
+on nine evenly spaced points along each transect and
+converted to mass (Ffolliot et al., 1968). Of this mass,
+25% was subtracted as mineral soil, and the forest ﬂoor
+carbon pool (Fule´, 1990) was then determined using a
+carbon concentration of 0.58 g carbon per gram forest
+ﬂoor (Nelson & Sommers, 1982). The carbon concentra-
+tion of the organic matter of all other pools was
+assumed to be 0.50 g carbon per gram dry weight.
+Decomposition of WD was estimated at each site based
+on changes in speciﬁc gravity of WD from a chronose-
+quence (Erickson et al., 1985; Harmon & Sexton, 1996).
+The chronosequence at the burned site consisted of
+10-year-old WD produced by the ﬁre (n 5 25) and fresh
+WD produced by logging at a nearby site in 2006
+(n 5 35). The chronosequence at the unburned site con-
+sisted of 20-year-old WD produced by thinning at a
+nearby site (n 5 25 slash piles) and fresh WD produced
+by logging at another nearby site (n 5 35).
+Eddy measurements
+The data we present were collected between September
+2005 and December 2006. We used the same equipment
+at each site: a closed-path analyzer (Li-7000, LI-COR,
+Lincoln, NE, USA), a 3-D sonic anemometer (CSAT3,
+Campbell Scientiﬁc, Logan, UT, USA), and a pump
+(N89, KNF Neuberger, Freiburg, Germany) drawing
+air with a ﬂow of 10 L min1 through Teﬂon tubing of
+4 mm i.d. Tubing was 9 m long at the burned site and
+4 m long at the unburned site. Every 2 weeks, the air
+intake ﬁlters (Acro 50, Gelman Sci., Ann Arbor, MI,
+USA, 1 mm pore diameter) were changed and the ana-
+lyzers were calibrated maintaining the analyzer cells at
+the same pressure occurring during sampling. The eddy
+covariance system was positioned at a height of 23 m,
+5 m above the canopy (18 m) at the unburned site and
+4 m above the ground at the burned site. Data were
+recorded at 20 Hz by a datalogger (CR1000, Campbell
+Scientiﬁc, and 2 Gbyte memory cards, SanDisk, USA)
+and averaged over 30-min intervals. Raw data were
+postprocessed in the laboratory using the software
+MASE (designed by G. Manca, JRC Italy, following Au-
+binet et al., 2000). In particular, the 30-min ﬂuxes were
+quality ﬂagged using the Carboeurope methodology
+(steady-state test and integral turbulence characteristic
+test; Foken & Vichura, 1996; http://www.geo.uni-bayr
+euth.de/mikrometeorologie/QC_Workshop/QA_QC_
+012.f90). Precipitation, variances in the measured sca-
+lars, spikes, and number of rejected data during the
+30-min intervals were additional parameters considered
+in the quality assessment.
+At the unburned site, the storage ﬂuxes were com-
+puted until July 2006 using the concentration measured
+by the analyzer at the top of the tower (Hollinger et al.,
+1999; Morgenstern et al., 2004), and afterwards using a
+CO2, water, and temperature proﬁle. The proﬁle system
+sampled at 1, 8, and 16 m in addition to the 23 m height
+sampled by the eddy system analyzer. An infrared gas
+analyzer (LI-840, LI-COR) measured concentrations of
+Table 2
+Meteorological parameters for the unburned and burned sites in the year 2006
+Parameter
+Unit
+Unburned
+Burned
+Soil temperature (10 cm)
+Average
+1C
+8.5
+10.4
+Minimum
+1C
+2.0
+4.0
+Maximum
+1C
+22.3
+28.8
+Air temperature*
+Average
+1C
+8.8
+8.5
+Minimum
+1C
+12.6
+17.6
+Maximum
+1C
+29.6
+30.1
+Precipitation
+Total
+mm
+695.6
+516.7
+Vapor pressure deﬁcit
+Maximumw
+kPa
+1.3
+1.4
+Average
+kPa
+0.77
+0.81
+Sum
+Pa
+2398
+2501
+Global radiation
+Total
+MJ m2
+6920
+6859
+Soil water content (10 cm)
+Average
+Vol.%
+18.6
+15.8
+Minimum
+Vol.%
+8.0
+6.3
+Only periods in which both datasets were complete were included.
+*Air temperature is measured above the canopy at both sites (3 m height at the burned site, 22 m at the unburned site).
+wMaximum vapor pressure deﬁcit is the average of the maximum daily vapor pressure deﬁcit.
+1804
+S . D O R E et al.
+r 2008 The Authors
+Journal compilation r 2008 Blackwell Publishing Ltd, Global Change Biology, 14, 1801–1820
+
+water and CO2, switching every 20 s between three lines
+where the ﬂow was maintained at 1 L min1. A 1 L
+volume buffer, averaging the air collected in the pre-
+vious minute, allowed the three heights to be measured
+continuously. At the burned site, no proﬁle was
+installed because of the low stature of the vegetation,
+and the storage term was estimated using the top
+concentration measurements.
+Meteorological measurements at the two sites in-
+cluded global and net radiation calculated from the
+incoming and outgoing short- and long-wave radiation
+(CNR1, Kipp and Zonen, Delft, the Netherlands), total
+and diffuse photosynthetic photon ﬂux density (PPFD;
+with BF3 DeltaT devices, Cambridge, UK), reﬂected
+PPFD (LI-190, LI-COR), and precipitation (5.4103.20.041
+Thies Clima, Goettingen, Germany). In addition, wind
+speed and direction, atmospheric pressure, precipita-
+tion, air humidity, and air temperature were measured
+at both sites with the same instrument (WXT510,
+Vaisala, Helsinki, Finland). Volumetric SWC (ECH2O-
+EC20 Decagon, Pullman, WA, USA) and soil tempera-
+ture (107, Campbell Scientiﬁc)
+were measured at
+mineral soil depths of 2, 10, 20, and 50 cm. The SWC
+sensors were calibrated for soil A and B horizons of
+both sites in the laboratory, under controlled conditions
+(e.g. McMichael & Lascano, 2003). In addition, an
+equation to correct for the sensor sensitivity to tempera-
+ture was determined empirically. Soil heat ﬂux was
+measured at depth of 8 cm (HFP01SC Hukseﬂux, Delft,
+the Netherlands) at both sites and additionally at the
+unburned site with a second sensor (HFT3 REBS Inc.,
+Seattle, WA, USA) because of the high spatial variability
+Months
+Jan/06
+Precipitation (mm)
+0
+10
+20
+30
+40
+50
+Air T (°C)
+–15
+–5
+5
+15
+25
+UNB
+ B
+Max  Ts (°C)
+5
+15
+25
+Max VPD (kPa)
+0
+2
+4
+Glob rad (MJ m   )
+ 
+0
+10
+20
+30
+SWC (%)
+5
+15
+25
+35
+Min Ts (°C)
+–5
+5
+15
+ Dec/06
+Nov/06
+Oct/06
+Sep/06
+Aug/06
+ Jul/06
+Jun/06 
+ May/06
+Apr/06
+Mar/06 
+Feb/06
+Fig. 1
+Daily mean air temperature (Air T), maximum (max Ts) and minimum soil temperature (min Ts), vapor pressure deﬁcit (VPD),
+global radiation (Glob rad), volumetric soil water content (SWC), and precipitation in the year 2006 for the unburned (UNB) and burned
+(B) sites.
+W I L D F I R E A LT E R S P O N D E R O S A P I N E N E E
+1805
+r 2008 The Authors
+Journal compilation r 2008 Blackwell Publishing Ltd, Global Change Biology, 14, 1801–1820
+
+at this site. SWC and soil temperature (averaged be-
+tween 2 and 6 cm mineral soil depths) were measured
+within 50 cm of the soil heat ﬂux plates to allow for
+calculation of soil heat storage. All meteorological para-
+meters were measured every 15 s and recorded at 30-
+min intervals by a datalogger (CR10X 1 AM16-32 multi-
+plexer, Campbell Scientiﬁc). The systems were powered
+by 12 V solar panels, positioned more than 30 m from
+the anemometer.
+We report carbon source to the atmosphere as a
+positive ﬂux and carbon sink as a negative ﬂux. Net
+ecosystem exchange (NEE) included the storage term
+and is used to refer to instantaneous ﬂuxes, as well as
+long-term monthly and annual sums. Ecosystem gross
+primary production (GPP) was considered to be the
+same as gross ecosystem production (GEP; Law et al.,
+2002) and was calculated for daytime conditions at a 30-
+min interval as NEE 1 total ecosystem respiration
+(TER). Daytime TER was calculated from the relation-
+ship between night-time TER and soil temperature
+(Law et al., 2002; Richardson et al., 2006). GPP was set
+to 0 during night-time conditions, even if NEE 1 TER
+was negative (thus suggesting night-time carbon up-
+take; Giasson et al., 2006), and this caused a slight
+imbalance of carbon ﬂuxes on an annual scale, so that
+annual NEE was not equal to annual GPPannual TER
+(difference of 16 g m2 yr1 at the unburned site and
+1 g m2 yr1 at the burned site).
+Gap-ﬁlling
+We divided data into three quality classes: good, inter-
+mediate, and bad (http://www.geo.uni-bayreuth.de/
+mikrometeorologie/QC_Workshop/QA_QC_012.f90).
+The good-quality data were used to determine the
+relationships of NEE, GPP, and TER with environmen-
+tal factors. The intermediate-quality data were included
+in computations of daily, monthly, and annual sums.
+Bad-quality data were excluded from all analyses and
+were replaced by modeled data for the daily, monthly,
+and yearly carbon budget calculations. The datasets of
+the two sites were treated with the same analytical
+criteria and procedures.
+We estimated uncertainty in the annual carbon bud-
+get by assessing the sensitivity of the annual sums to
+different ﬁltering criteria and different procedures for
+ﬁlling bad-quality and missing data (e.g. McCaughey
+et al., 2006). Data were gap-ﬁlled using look-up tables
+and nonlinear regressions (Falge et al., 2001). Look-up
+tables were built using 2 months best quality datasets
+(up to 4 months for winter TER). For night-time NEE,
+2 1C soil temperature classes and SWC classes (from two
+to three classes depending on the measured range) were
+used. For daytime NEE, 200 mmol m2 s1 PPFD classes
+and one additional environmental factor that explained
+the most variation in NEE were used. This factor was
+SWC in four to ﬁve classes depending on the measured
+range, or VPD in 0.5 kPa classes, or soil temperature in 2
+or 5 1C classes. Nonlinear regressions were ﬁtted on
+monthly good-quality datasets, using a rectangular
+hyperbola equation (Ruimy et al., 1995) for daytime
+NEE, and on a bimonthly basis, using a Q10 relationship
+with soil temperature for night-time NEE (Richardson
+et al., 2006). Two-month intervals were used to reconcile
+the lack of best quality data of shorter periods with the
+need to include the short-time sensitivity of ecosystem
+respiration to temperature (Reichstein et al., 2005;
+Richardson et al., 2006). The use of only temperature
+for this night-time NEE gap-ﬁlling approach is based on
+the assumption that the bimonthly relationship indir-
+ectly includes the effect of other parameters, such as
+SWC, phenology, litter and substrate availability, that
+are often difﬁcult to measure adequately (Curiel et al.,
+2004). Next, we used three different data ﬁltering criter-
+ia. The ﬁrst was the replacement of bad-quality data
+with gap-ﬁlled data. The second was the replacement of
+bad-quality data and the application of u* ﬁltering,
+where u* ﬁltering consists of rejecting night-time TER,
+when u* is below a site-speciﬁc threshold. The third was
+the application of only u* ﬁltering, which is used in
+most eddy covariance studies (Falge et al., 2001; Aubinet
+et al., 2002; Hollinger & Richardson, 2005; Humphreys
+et al., 2006; Morgenstern et al., 2004; Stoy et al., 2006).
+The combination of different gap-ﬁlling and data ﬁlter-
+ing methods produced seven different procedures:
+(1) look-up tables applied to bad-quality data, (2)
+look-up tables applied to bad-quality and u*-ﬁltered
+data, (3) nonlinear regression applied to bad-quality
+data, (4) nonlinear regression applied to bad-quality
+and u*-ﬁltered data, (5) nonlinear regression applied
+to u*-ﬁltered data, (6) an automatic gap-ﬁlling proce-
+dure available on the web (Markus Reichstein, Max
+Planck Institute, Germany; http://gaia.agraria.unitus.
+it/database/eddyproc/) applied without u* ﬁltering,
+and (7) the same automatic gap-ﬁlling procedure avail-
+able on the web, with u* ﬁltering.
+At the burned site, 5% of the data were missing in
+2006, 43% of the data were gap-ﬁlled because they were
+missing or bad, and 60% were gap-ﬁlled when u*
+ﬁltering was also applied. In contrast, the standard u*
+ﬁltering application replaced only 25% of the data at the
+burned site. At the unburned site, 14% of the data were
+missing in 2006, 32% of the data were gap-ﬁlled because
+they were missing or bad, and 46% were gap-ﬁlled
+when the u* ﬁltering was also applied. The standard
+u* ﬁltering application replaced only 40% of the data at
+the unburned site. Data losses and data rejection were
+in the same range as for similar studies (Baldocchi et al.,
+1806
+S . D O R E et al.
+r 2008 The Authors
+Journal compilation r 2008 Blackwell Publishing Ltd, Global Change Biology, 14, 1801–1820
+
+2001; Falge et al., 2001; McCaughey et al., 2006). Com-
+pared with the unburned site, high wind speed was
+more frequent during both day and night, and good-
+quality data, particularly during the day, were always
+less frequent at the burned site (Fig. 2). An increase in
+wind speed decreased data quality at the burned site,
+whereas it increased the data quality at the unburned
+site (Fig. 2).
+The site-speciﬁc u* threshold used in the night-time
+TER u* ﬁltering procedure was calculated using only
+the best quality data following Reichstein et al. (2005)
+and was 0.3 m s1 at the burned site and 0.2 m s1 at the
+unburned site. The same methodology applied by the
+automatic on-line gap-ﬁlling tool on night-time TER
+data of all qualities gave a threshold of 0.1 m s1 at both
+sites and resulted in a lower amount of gap-ﬁlled data.
+The daily energy balance closure (Aubinet et al., 2000;
+Wilson et al., 2002) for 2006, excluding days with snow
+on the ground, was 0.92 (r2 5 0.90, Po0.0001, n 5 302)
+for the burned site and 0.84 (r2 5 0.94, Po0.0001,
+n 5 262) for the unburned site (data not shown), and it
+was in the range of what is often measured by eddy
+covariance (Wilson et al., 2002). The difference in closure
+between sites can be attributed to site-speciﬁc charac-
+teristics, considering that identical settings, equipment,
+and software were used at the two sites. A possible
+reason for this difference is the high spatial heteroge-
+neity at the unburned site caused by groups of trees
+alternating with irregularly sized openings, resulting in
+different footprints for eddy covariance and net radia-
+tion measurements.
+We analyzed the relationship between NEE and PPFD
+(30-min data) on a monthly basis by ﬁtting the best
+quality data with a rectangular hyperbola model, de-
+termining night-time TER, apparent quantum yield,
+and maximum assimilation (Ruimy et al., 1995). A Q10
+function was used for night-time TER. The 30-min
+residuals (difference between the modeled and the
+measured values for night-time TER, and for daytime
+NEE when PPFD 4800 mmol m2 s1) were regressed
+against other environmental factors with a second-
+degree
+polynomial,
+and
+the
+regression
+coefﬁcient
+plotted for each month and factor.
+We compared the effect of diffuse light on NEE
+between the burned and unburned sites. NEE of CO2
+for clear and cloudy conditions (diffuse PPFD o30%
+and 460% of total PPFD, respectively) was averaged
+using 200 mmol m2 s1 PPFD classes. We assumed that
+Wind speed classes (m s–1)
+0–2
+%
+0
+20
+40
+60
+80
+100
+Wind speed classes (m s–1)
+%
+0
+20
+40
+60
+80
+100
+% Best quality
+% Frequency
+Wind speed classes (m s–1)
+%
+0
+20
+40
+60
+80
+100
+Wind speed classes (m s–1)
+%
+0
+20
+40
+60
+80
+100
+Burned
+Unburned
+Day
+Night
+>10
+8–10
+6–8
+4–6
+2–4
+0–2
+>10
+8–10
+6–8
+4–6
+2–4
+0–2
+>10
+8–10
+6–8
+4–6
+2–4
+0–2
+>10
+8–10
+6–8
+4–6
+2–4
+(a)
+(b)
+(d)
+(c)
+Fig. 2
+Wind-speed distribution classes and percentage of good-quality eddy covariance data for the unburned (b, d) and burned sites
+(a, c), and during daytime (a, b) and night-time periods (c, d).
+W I L D F I R E A LT E R S P O N D E R O S A P I N E N E E
+1807
+r 2008 The Authors
+Journal compilation r 2008 Blackwell Publishing Ltd, Global Change Biology, 14, 1801–1820
+
+night-time NEE data were not affected by the daytime
+contribution of diffuse PPFD, and thus the night-time
+average was used for both cloudy and clear sky condi-
+tions. Often, on a monthly basis, clear and cloudy
+conditions did not overlap: cloudy conditions were
+common only at low PPFD and did not occur at high
+PPFD, while the opposite trend occurred for clear sky
+conditions. For each PPFD class, we also calculated
+average VPD, air temperature, soil temperature, and
+SWC. For the burned site, the diffuse light analysis
+was limited by a short growing season, and technical
+problems with the diffuse PPFD measurements oc-
+curred during July–August 2006. Consequently, we
+analyzed data from October 2006 for both sites and
+compared August and October 2006 for the unburned
+site only.
+Results and discussion
+Carbon ﬂuxes
+Because of similar preﬁre stand and soil characteristic
+(Table 1) and local climate (Fig. 1, Table 2) between the
+sites, the differences measured in this study can be
+attributed to the wildﬁre. The stand-replacing ﬁre al-
+tered both the abiotic (e.g. soil temperature) and the
+biotic (e.g. biomass, LAI) characteristics of the ecosys-
+tem. The ﬁre had a large effect on NEE, even 10 years
+after the ﬁre (Figs 3, 5 and 6). Compared with the
+unburned site, NEE was lower at the burned site and
+CO2 uptake was limited to a very short period (Fig. 3).
+In contrast to large parts of the world, including pon-
+derosa pine forests in Oregon (Law et al., 2000) and
+California (Misson et al., 2005), where the months of
+May and June are often characterized by peaks in NEE
+(Baldocchi et al., 2001; Aubinet et al., 2002; Morgestern
+et al., 2004; McCaughey et al., 2006), NEE was low
+during June at our sites (Fig. 3) and reached its max-
+imum only during the wet July–August monsoon sea-
+son (Fig. 3). The NEE peak was in August at the
+unburned site (monthly light curve maximum assim-
+ilation 517 mmol m2 s1), and in September, after the
+full leaf development of the herbaceous annual plants,
+at the burned site (monthly light curve maximum
+assimilation 57.7 mmol m2 s1). At the unburned site,
+as in other coniferous (Hollinger et al., 1999; Morgen-
+stern et al., 2004) and ponderosa pine forests (Anthoni
+et al., 1999; Misson et al., 2005), CO2 uptake occurred in
+winter, when environmental conditions were favorable
+(Figs 3 and 5).
+Oct 05  
+SWC (%)
+5
+10
+15
+20
+25
+30
+35
+40
+B
+UNB
+Burned
+   
+   
+   
+   
+NEE (µmol m–2 s–1)
+–15
+–10
+–5
+0
+5
+10
+15
+Unburned
+NEE (µmolm–2 s–1)
+–15
+–10
+–5
+0
+5
+10
+15
+Months
+Dec 06 
+Oct 06 
+Aug 06
+Jun 06
+Apr 06  
+Feb 06  
+Dec 05 
+(a)
+(b)
+(c)
+Fig. 3
+Thirty-minute, gap-ﬁlled net ecosystem exchange of carbon (NEE) from September 2005 to December 2006 for (a) the burned site,
+(b) the unburned site, and (c) soil water content (SWC) for the burned (B) and unburned sites (UNB).
+1808
+S . D O R E et al.
+r 2008 The Authors
+Journal compilation r 2008 Blackwell Publishing Ltd, Global Change Biology, 14, 1801–1820
+
+The effect of SWC on CO2 uptake is illustrated
+by comparing the dry and warm October 2005 and the
+wet and cooler October 2006 at the unburned site.
+Weekly averages of the ﬁrst 3 weeks of October were
+used in the comparison. Compared with October
+2006, GPP in October 2005 was substantially lower
+(23.9 g C m2 week1
+vs.
+7.4 g C m2 week1),
+while
+TER was only moderately lower (16.9 g C m2 week1
+vs. 12.5 g C m2 week1). The changes likely reﬂect the
+greater sensitivity of GPP to drought than TER (Fig. 4),
+as has been reported previously (Misson et al., 2005;
+Granier et al., 2007). In addition, only the effect of the
+increased SWC on TER was counteracted by the effect
+of the decreased soil temperature, suggesting that TER
+was more sensitive to temperature than was GPP
+(Fig. 4). The increase in SWC in late October 2005 was
+quickly followed by an increase in NEE at the unburned
+site (Fig. 3). The same SWC increase did not increase
+NEE at the burned site, because of the already advanced
+senescence of the herbaceous vegetation.
+Wildﬁre shifted the monthly and annual carbon bud-
+gets from a CO2 sink at the unburned site to a CO2
+source at the burned site (Fig. 5), due primarily to lower
+GPP at the burned site. In many ecosystems, distur-
+bances, such as ﬁre, are expected to increase TER
+because of increased above- and belowground necro-
+mass and an increase in soil decomposition rate. How-
+ever, little effects or even reduced TER have been
+measured in the past in conifers (Amiro, 2001; Kowalski
+et al., 2003; Misson et al., 2005; Giasson et al., 2006; Irvine
+et al., 2007). Kowalski et al. (2004) summarized the
+effects of disturbance on TER in two different cases
+depending on species: (1) TER is increased by distur-
+bance in resprouting species, where the belowground
+Ts (°C)
+−2
+0
+10
+20
+30
+40
+SWC (%)
+5
+GPP, TER (g C m–2 week–1) 
+GPP, TER (g C m–2 week–1) 
+0
+10
+20
+30
+40
+50
+GPP
+TER
+GPP regressions
+TER regressions
+29
+27
+25
+23
+21
+19
+17
+15
+13
+11
+9
+7
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+(a)
+(b)
+Fig. 4
+Relationship of weekly gross ecosystem production (GPP) and total ecosystem respiration (TER) with soil water content (SWC)
+and soil temperature (Ts), both measured at 10 cm. In the top panel, symbols represent weekly relationship of GPP and TER with SWC for
+the period 28 May–21 October 2005 and 2006. The ﬁtted regressions have equations GPP 5 1.5 1 1.2  SWC (r2 5 0.82, Po0.0001,
+n 5 24); TER 5 7.28 1 0.6  SWC (r2 5 0.44, P 5 0.0007, n 5 24). In the bottom panel, symbols represent weekly sums for 2006. The ﬁtted
+regressions have equations GPP 5 2.4 1 3.6  Ts0.14  Ts
+2 (r2 5 0.73, Po0.0001, n 5 52); TER 5 26.59  1.83[(Ts20)/10] (r2 5 0.99, Po0.0001,
+n 5 52).
+W I L D F I R E A LT E R S P O N D E R O S A P I N E N E E
+1809
+r 2008 The Authors
+Journal compilation r 2008 Blackwell Publishing Ltd, Global Change Biology, 14, 1801–1820
+
+system did not die after the disturbance; (2) TER is
+decreased by disturbance in nonsprouting species,
+where the decrease in living biomass, exudates, and
+photosynthetic assimilates is more important than the
+increase in decaying necromass. In our study, lower
+GPP was more important than a change in TER in
+decreasing NEE at the burned site. The burned site
+was a source of carbon during every month of 2006
+(Fig. 5). Even during the warm and wet conditions in
+August and September, the most favorable period for
+carbon uptake at the burned site, TER was stimulated to
+a greater extent than GPP, resulting in the site being a
+net source of carbon to the atmosphere.
+The different gap-ﬁlling methodologies produced
+different estimates of yearly NEE (Fig. 6), but all esti-
+mates showed that the burned site was a net carbon
+source, whereas the unburned site was a net carbon
+sink. The use of look-up tables or monthly nonlinear
+regression for gap-ﬁlling had a small effect on the total
+annual carbon balance at both sites (maximum differ-
+ence of 9 g C m2 yr1). In contrast, the ﬁltering criteria
+had larger consequences. For example, a difference of
+95 g C m2 yr1 was found if annual NEE at the un-
+burned site was calculated by gap-ﬁlling only bad-
+quality data or by also applying the u* ﬁltering
+(Fig. 6). In all cases, adding the quality check of NEE
+to the traditional u* ﬁltering increased the amount
+of
+gap-ﬁlled
+data,
+resulting
+in
+a
+difference
+of
+21 g C m2 yr1 in annual NEE at the burned site, and
+10 g C m2 yr1 at the unburned site (Fig. 6). Applying
+the standard on-line gap-ﬁlling procedure caused dif-
+ferences in the annual NEE only if the u* ﬁltering was
+not considered (Fig. 6).
+Annual NEE, calculated as an average ( SEM) of the
+seven methods, was 109 ( 6) g C m2 at the burned site
+and 164 ( 23) g C m2 at the unburned site; annual
+TER was 480 ( 5) g C m2 at the burned site and 710
+( 54) g C m2 at the unburned site; annual GPP was
+372 ( 13) g C m2 at the burned site and 858
+( 37) g C m2 at the unburned site (Fig. 5). The ratio
+of annual NEE to GPP was 0.19 for the burned site and
+0.30 for the unburned site, compared with 0.27 for a
+ponderosa pine forest in Oregon (Anthoni et al., 1999).
+Annual TER/GPP was 1.3 at the burned site and 0.83 at
+the unburned site, compared with 0.70 reported by
+Granier et al. (2007) for various European forest ecosys-
+tems, and very similar to the value reported for conifers
+(0.85; Law et al., 2002) and to the value found for an
+unburned ponderosa pine forest in Oregon (0.82;
+Anthoni et al., 1999).
+Ten years after the ﬁre, the burned forest was a
+moderate carbon source, while the unburned site was
+a moderate carbon sink. This ﬁnding is in agreement
+with other studies, where disturbances such as ﬁre,
+wind throw, or harvest caused ecosystems to become
+carbon sources (Amiro, 2001; Knohl et al., 2002; Thorn-
+ton et al., 2002; Wirth et al., 2002; Humphreys et al.,
+2006). Thornton et al. (2002) reported that the modeled
+C fluxes (g C m–2)
+–140
+–110
+–80
+–50
+–20
+10
+40
+70
+100
+NEE
+TER
+GPP
+B
+Months
+Jan
+C fluxes (g C m–2)
+–140
+–110
+–80
+–50
+–20
+10
+40
+70
+100
+UNB
+C fluxes (g C m–2)
+– 900
+–700
+–500
+–300
+–100
+100
+300
+500
+700
+900
+Year
+2006
+C fluxes (g C m–2)
+– 900
+– 700
+– 500
+– 300
+– 100
+100
+300
+500
+700
+900
+B
+UNB
+Dec
+Nov
+Oct
+Sept
+Ag
+Jul
+Jun
+May
+Apr
+Mar
+Feb
+Fig. 5
+Monthly net ecosystem carbon exchange (NEE), gross primary production (GPP), and total ecosystem respiration (TER; left
+panels), and annual NEE, GPP, and TER (right panels) for the burned (B) and unburned sites (UNB) in 2006.
+1810
+S . D O R E et al.
+r 2008 The Authors
+Journal compilation r 2008 Blackwell Publishing Ltd, Global Change Biology, 14, 1801–1820
+
+carbon compensation point, the time taken for an eco-
+system to become a net sink for carbon, differed among
+sites and depended on the type of disturbance, with
+longer periods for ﬁre and shorter periods for harvests.
+The carbon compensation point for ponderosa pine
+forest after stand replacing ﬁre was one of the longest
+(14–16 years) in the Thornton et al. (2002) analysis. The
+carbon compensation point depends on species, cli-
+mate, management type and intensity, and frequency
+of disturbance and is estimated to range from 2 to 30
+years (Cohen et al., 1996; Schulze et al., 1999; Litvak et al.,
+2003; Bond-Lamberty et al., 2004; Kowalski et al., 2004).
+Our burned site is still a carbon source of 109 g m2 yr1
+in the 10th year after burning, and no trees have
+established yet. Likely, the site will not shift to a carbon
+sink until the vegetation cover re-establishes, which
+could take many decades (e.g. Savage & Mast, 2005).
+Carbon pools
+Ten years after the ﬁre, the burned site contained
+substantially less (53%) total carbon than the unburned
+site (Table 3). The mineral soil carbon content was
+similar between sites (Grady & Hart, 2006), but in the
+burned site, the aboveground biomass carbon was only
+2%, the forest ﬂoor 12%, and the ﬁne root carbon 31% of
+the pools found at the unburned site. In contrast, WD at
+the burned site was ﬁve times greater than that at the
+unburned site and constituted 43% of the total carbon of
+the burned site (Table 3). But despite the high contribu-
+tion of this pool to the total ecosystem carbon, the
+decomposition of the aboveground WD, calculated
+using a site-speciﬁc empirically determined annual
+decomposition
+constant
+(k)
+of
+0.031,
+was
+only
+78 g C m2 yr1, 16% of the yearly TER. At the unburned
+site, k was 0.014 and ﬂux from aboveground WD to the
+atmosphere was calculated to be 7 g C m2 yr1, 1% of
+the yearly TER. The k values determined in our study
+are in the same range of other ponderosa pine studies
+[0.015 in Turner et al., in the Rocky Mountains (1995),
+and 0.027 in Law et al. (2001) in Oregon]. The higher k at
+the burned compared with that at the unburned site
+might be related to colonization of ﬁre-killed trees
+by bark beetles and wood borers (McHugh et al., 2003)
+that accelerate subsequent decomposition and could
+explain the slightly higher respiration losses per stored
+carbon at the burned site: the respiratory loss of carbon
+per unit of stored carbon was 0.081 g C m2 yr1 at the
+Months
+Jan/06 
+NEE (g C m–2)
+–300
+–250
+–200
+–150
+–100
+–50
+0
+50
+100
+150
+B1
+B2
+B3
+B4
+B5
+B6
+B7
+UNB1
+UNB2
+UNB3
+UNB4
+UNB5
+UNB6
+UNB7
+Jan/07 
+Dec/06 
+ Nov/06
+ Oct/06
+Sep/06
+Aug/06
+ Jul/06 
+Jun/06
+May/06 
+Apr/06
+Mar/06 
+ Feb/06
+Fig. 6
+Cumulative net ecosystem carbon exchange (NEE) at the burned site (B) and the unburned site (UNB) for 2006 calculated using
+different gap-ﬁlling methodologies. B1, UNB1: bad-quality data were gap-ﬁlled using look-up tables; B2, UNB2: bad-quality and
+u*-ﬁltered data were gap-ﬁlled using look-up tables; B3, UNB3: bad-quality data were gap-ﬁlled using monthly nonlinear regressions;
+B4, UNB4: bad-quality and u*-ﬁltered data were gap-ﬁlled using monthly nonlinear regressions; B5, UNB5: only u*-ﬁltered data were
+gap-ﬁlled using nonlinear regressions; B6, UNB6: on-line gap-ﬁlling tool applied with u* ﬁltering option; B7, UNB7: on-line gap-ﬁlling
+tool applied without u* ﬁltering.
+W I L D F I R E A LT E R S P O N D E R O S A P I N E N E E
+1811
+r 2008 The Authors
+Journal compilation r 2008 Blackwell Publishing Ltd, Global Change Biology, 14, 1801–1820
+
+burned site, compared with 0.063 g C m2 yr1 at the
+unburned site.
+Environmental control: daytime NEE
+We assessed whether SWC and soil temperature at
+different depths, water vapor deﬁcit (VPD), and air
+temperature were important controls on daytime NEE
+by examining residuals (modeled minus measured va-
+lue) from regression of light-saturated NEE on PPFD.
+Correlations between residuals and the environmental
+factors varied over months (Fig. 7a), and the highest
+value of r2 was 0.70. In general, the residuals were more
+weakly correlated with the environmental factors when
+the relationship between PPFD and NEE was tighter
+(for example at the unburned site in April 2006, r2 was
+0.86, Po0.0001, n 5 917) and were more strongly corre-
+lated for the unburned site than for the burned site
+(Fig. 7a). The seasonal trend in the correlations was
+similar for all SWC and temperature depths, but the
+relative contribution of the different depths to mea-
+sured NEE changed each month. In general, the correla-
+tion between NEE and SWC was highest from March to
+August, whereas correlations between NEE and soil
+temperature increased during winter (Fig. 7a). Most
+environmental factors were correlated with NEE in
+May. Air temperature and VPD often were correlated
+with NEE only at the unburned site. In short, no single
+environmental factor secondary to PPFD consistently
+predicted daily NEE, and the two sites did not behave
+the same. Correlations between NEE and environmen-
+tal factors other than PPFD were higher in our study
+than in others, where r2o0.25 (Hollinger et al., 1994;
+Aubinet et al., 2002; Giasson et al., 2006). This difference
+among sites is likely in part biological and site speciﬁc,
+as the dissimilarity of our two sites shows, and in part
+methodological,
+as
+we
+restricted
+the
+analysis
+of
+residuals to the best quality data and the light-saturated
+part of the day.
+At both sites, NEE per unit light availability (quantum
+yield, F) was higher under cloudy conditions than that
+under clear conditions (Fig. 8, Table 4), consistent with
+many other studies (Hollinger et al., 1994; Goulden et al.,
+1997; Baldocchi et al., 2001; Law et al., 2002). This effect
+has been explained as a greater penetration of diffuse
+light deep into the canopy (Oechel & Lawrence, 1985;
+Weiss, 2000) or, alternatively, because environmental
+conditions more favorable for carbon assimilation, such
+as lower VPD, occur on cloudy days (Gu et al., 2002). We
+expected that at the burned site, where the canopy is
+very open (LAI 0.6), greater penetration of diffuse
+radiation in the canopy would be minimal. However,
+an increase in the apparent quantum yield (F) between
+clear and cloudy conditions occurred at both sites (Table
+4). Environmental factors at the unburned site differed
+between August and October (e.g. air temperature was
+higher for clear conditions in August but lower in
+October; Fig. 8), thus confounding the effect of cloudi-
+ness and environmental conditions. However, August
+was mostly warm and wet, and the lower VPD, air
+temperature, and higher SWC found in cloudy versus
+clear conditions were more favorable for NEE. In con-
+trast, in October, when lower temperatures limited NEE,
+cloudy conditions were associated with higher air and
+soil temperatures, slightly lower SWC, and similar, low
+VPD (1 kPa compared with 1.6kPa in August) compared
+with clear conditions. Thus, we conclude that NEE was
+stimulated by cloudy conditions because of more favor-
+able environment conditions for photosynthesis and not
+because of enhancement of photosynthesis by deeper
+light penetration into the canopy.
+Environmental control: night-time NEE
+Residuals between night-time TER modeled from tem-
+perature and measured night-time TER were weakly
+correlated with all environmental variables, for both the
+burned and unburned sites (Fig. 7b). It is possible that a
+Table 3
+Ecosystem carbon pools (g C m2;  1 SE) for the unburned and burned sites
+Carbon pool
+Unburned
+Burned
+Biomass
+Aboveground
+5963 (  982)
+103 ( 9)
+Belowground
+Coarse root*
+877 (  147)
+0
+Fine rootw
+127 (  13)
+79.7 ( 18)
+Mineral soil carbon
+3000 (  48)
+3173 ( 264)
+Forest ﬂoor
+745 (  133)
+87 ( 7)
+Woody debris
+Aboveground
+516 (  189)
+2552 ( 827)
+Total carbon
+11 228 (  1512)
+5956 ( 1116)
+The belowground woody debris was not considered at both sites.
+*Coarse root: diameter 42 mm.
+wFine root: diameter o2 mm.
+1812
+S . D O R E et al.
+r 2008 The Authors
+Journal compilation r 2008 Blackwell Publishing Ltd, Global Change Biology, 14, 1801–1820
+
+relationship between TER and environmental factors
+other than soil temperature was less obvious than for
+daytime NEE (Fig. 7a) because, unlike for CO2 uptake,
+several processes and different CO2 sources, with pos-
+sible counterbalancing effects, contribute to TER (Trum-
+bore, 2006; Granier et al., 2007). It is also possible that,
+compared with the daytime, the lower correlation in the
+night was caused by the greater difﬁculty of measuring
+SWC2
+r 2
+Months
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+UNB
+B
+SWC10
+r 2
+SWC20
+r 2
+SWC50
+r 2
+T  2–6
+r 2
+r 2
+SWC2
+r 2
+Months
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+SWC10
+r 2
+SWC20
+r 2
+SWC50
+r 2
+r 2
+r 2
+r 2
+r 2
+VPD
+r 2
+r 2
+r 2
+r 2
+VPD
+r 2
+r 2
+(b)
+(a)
+T  2–6
+T  2
+T  10
+T  10
+T  20
+T  20
+T  50
+T
+T  50
+Fig. 7
+Correlation coefﬁcients between environmental factors and (a) residuals between measured and modeled daytime net ecosystem
+exchange of CO2 (NEE), and (b) residuals between measured NEE and temperature-modeled night-time NEE (2 cm soil temperature at
+the unburned site, air temperature at the burned site). SWC2, SWC10, SWC20, and SWC50 are the volumetric soil water contents
+measured at 2, 10, 20, and 50 cm depths, respectively. Ts 2-6 is the average soil temperature between 2 and 6 cm, and Ts 2, Ts 10, Ts 20 and
+Ts 50 are the soil temperatures measured at 2, 10, 20, and 50 cm, respectively. VPD is the water vapor pressure deﬁcit and Ta the air
+temperature. Data are shown on monthly intervals and for the unburned (UNB) and burned (B) sites. June is missing at the unburned
+site.
+W I L D F I R E A LT E R S P O N D E R O S A P I N E N E E
+1813
+r 2008 The Authors
+Journal compilation r 2008 Blackwell Publishing Ltd, Global Change Biology, 14, 1801–1820
+
+night-time TER, and thus by the small night-time
+dataset.
+The correlation of soil temperature proﬁles and night-
+time TER exhibited different patterns between the two
+sites (Fig. 7b). At the burned site, 30-min TER was best
+correlated with the deepest soil temperature (50 cm,
+r2 5 0.23, Po0.0001, n 5 576) and at the unburned site
+with the most shallow soil temperature (2 cm, r2 5 0.35,
+Po0.0001, n 5 2804). The same trend was found by
+Richardson et al. (2006) while comparing a northern
+hardwood forest and a grassland. The difference could
+be explained by differences in root distribution between
+herbaceous and woody species, or by the contribution
+of the litter layer, which was present only at the un-
+burned site. Clearly, selection of drivers for ecosystem
+ﬂuxes, such as the soil temperature depth, is difﬁcult to
+generalize across different ecosystems.
+The relationship between soil temperature and night-
+time TER (1 year of data, temperature measured at a
+common depth of 10 cm) was similar in shape for the
+two sites. However, TER was consistently lower at the
+burned than at the unburned site, even when SWC was
+Fig. 8
+Light curve for clear [diffuse photosynthetic photon ﬂux density (PPFD) o30%] and cloudy (diffuse PPFD 460%) conditions at
+the burned (B) and unburned (UNB) sites in October 2006 (left and center panels) and at the UNB site in August 2006 (right panel).
+Symbols represent bin-averages (1 standard error) of 200 mmol m2 s1 PPFD classes. For each PPFD class, the average water vapor
+pressure deﬁcit (VPD in kPa), air temperature (Ta in 1C), soil temperature at mineral soil depth of 10 cm (Ts in 1C), and volumetric soil
+water content (SWC in %) are shown. Parameters of the ﬁtted equation are described in Table 4.
+Table 4
+Parameters of the light response curves for cloudy sky (diffuse light 460%) and clear sky conditions (diffuse light o30%),
+in October 2006 at the burned site, and August and October 2006 at the unburned site
+Parameter
+Burned (October 2006)
+Unburned (October 2006)
+Unburned (August 2006)
+Clear
+Cloudy
+Clear
+Cloudy
+Clear
+Cloudy
+R0 (mmol m2 s1)
+1.64
+1.76
+2.05
+2.51
+3.95
+4.18
+f
+0.01
+0.016
+0.011
+0.026
+0.013
+0.033
+Asat (mmol m2 s1)
+5.00
+6.37
+22.68
+19.71
+27.19
+24.65
+r2
+0.94
+0.99
+0.98
+0.98
+0.97
+0.97
+Night respiration (R0), quantum yield (f), and maximum assimilation (Asat) were determined by ﬁtting averaged NEE within PPFD
+classes with a rectangular hyperbole (Ruimy 1995). The correlation coefﬁcient (r2) of the ﬁtted equation is shown.
+1814
+S . D O R E et al.
+r 2008 The Authors
+Journal compilation r 2008 Blackwell Publishing Ltd, Global Change Biology, 14, 1801–1820
+
+similar between sites (Fig. 9). Moreover, TER at the
+burned site decreased at the highest temperature and
+lowest SWC, conditions outside the range of those that
+occurred at the unburned site (Fig. 9). The absolute
+difference in TER between the two sites was smallest
+(0.46 mmol m2 s1) at the lowest soil temperature and
+largest (2.2 mmol m2 s1) at the highest soil temperature
+recorded at both sites (Fig. 9). On an annual basis, the
+burned site lost 480 ( 5 SEM) g C m2 yr1 via TER to
+the atmosphere, considerably lower than the 710 ( 54
+SEM) g C m2 yr1 lost by the unburned site (Fig. 5). A
+cause of the lower TER at the burned compared with
+the unburned site is smaller carbon pools at the burned
+site: while there was no change in the mineral soil
+carbon and the WD increased, the forest ﬂoor, ﬁne root
+biomass, and the aboveground biomass decreased con-
+siderably (Table 3). The lower SWC (at 10 cm) at the
+burned site (Figs 1 and 3) may also contribute to the
+lower TER. During all of 2006, in part because of the
+lower precipitation and in part because of the absence
+of shade created by the tree canopy, the burned site had
+lower SWC than the unburned site, even though evapo-
+transpiration (ET) was lower at the burned site than at
+the unburned site (Fig. 9). Fitting the average night-time
+TER for each soil temperature class (Fig. 9) with an
+exponential model based only on soil temperature
+(Lloyd & Taylor, 1994; Janssens et al., 2001; Reichstein
+et al., 2005; Richardson et al., 2006) explained 60% of the
+observed variation at the burned site and 93% at the
+unburned site. If an equation including SWC was used
+TER (µmol m–2 s–1)
+0
+1
+2
+3
+4
+5
+UNB
+B
+Ts (oC)
+–5
+SWC (%)
+10
+12
+14
+16
+18
+20
+22
+24
+30
+25
+20
+15
+10
+5
+0
+(a)
+(b)
+Fig. 9
+(a) Average ( standard error) net total ecosystem respiration (TER) for 2 1C soil temperature (Ts) classes (mineral soil depth of
+10 cm for both sites) for the unburned (UNB) and burned (B) sites, and (b) average volumetric soil water content (SWC) for each class.
+W I L D F I R E A LT E R S P O N D E R O S A P I N E N E E
+1815
+r 2008 The Authors
+Journal compilation r 2008 Blackwell Publishing Ltd, Global Change Biology, 14, 1801–1820
+
+(Hanson et al., 1993; Richardson et al., 2006), the ex-
+plained variation increased to 83% and 97%, respec-
+tively, for the burned and unburned sites. The Q10 for
+TER based on soil temperature (10 cm) was 1.75 ( 0.10
+SEM) at the unburned site and 1.47 ( 0.15 SEM) at the
+burned site, and it increased to 1.92 ( 0.16 SEM) at the
+burned site if the soil temperature was limited to the
+range also experienced at the unburned site. This result
+is similar to data reported in other studies of ponderosa
+pine: a Q10 of 1.8 was reported by Law et al. (1999) in
+Oregon and 1.6 by Xu et al. (2001) for a young plantation
+in California. The higher control on TER by SWC at the
+burned site compared with the unburned site is likely
+due to higher soil temperature and lower SWC at the
+burned site. Reduction of TER by dry and warm con-
+ditions has often been reported (Janssens et al., 2001;
+Hart et al., 2006; Granier et al., 2007).
+Controls over GPP and water use efﬁciency
+GPP was less strongly linked to ET at the burned site
+than at the unburned site (Fig. 10a). Lower LAI at the
+burned site than at the unburned site (Table 2) can
+explain the difference in the slope between sites. Water
+use efﬁciency at the burned site was lower and less
+tightly related to ET than at the unburned site (Fig. 10b).
+More of the variation of GPP was explained by soil
+temperature at the burned site than at the unburned site
+(Fig. 10c). GPP was more responsive to VPD at the
+unburned site than at the burned site (Fig. 10d) and
+followed the same trend observed in other ponderosa
+pine forests (Anthoni et al., 1999).
+Conclusion
+The ponderosa pine forest that we studied in northern
+Arizona, 10 years after a stand-replacing ﬁre, was a
+moderate carbon source (109 g C m2 yr1) compared
+with a moderate carbon sink (164 g C m2 yr1) ob-
+served in a nearby unburned stand. The most pronoun-
+ced effect of the ﬁre was to reduce photosynthesis (GPP
+was circa 60% lower) and next to reduce TER (30%
+lower). The ﬁre also changed ecosystem carbon pools by
+reducing carbon in the forest ﬂoor and living biomass
+and increasing carbon in WD. Carbon ﬂux from above-
+ground WD via decomposition was greater at the
+(d)
+(c)
+(b)
+(a)
+Fig. 10
+Monthly gross primary production (GPP) and water use efﬁciency (WUE) relationships with evapotranspiration (ET) and
+environmental factors for the unburned (UNB) and burned (B) sites: (a) GPP and ET; (b) WUE and ET; (c) GPP and monthly average soil
+temperature at mineral soil depth of 10 cm (Ts); and (d) GPP and monthly average daytime vapor pressure deﬁcit (VPD). Plots (n 5 16)
+were ﬁtted with linear or second-degree polynomial equations.
+1816
+S . D O R E et al.
+r 2008 The Authors
+Journal compilation r 2008 Blackwell Publishing Ltd, Global Change Biology, 14, 1801–1820
+
+burned site than at the unburned site, but both were a
+small fraction (o16%) of TER. The TER was lower at all
+soil temperatures at the burned site than at the un-
+burned site, even when SWC was similar, consistent
+with other reports for conifer forests disturbed by
+severe ﬁre (Kowalski et al., 2004).
+The regional climate of the study sites explains part of
+the slow ecosystem recovery from ﬁre. Cold winters,
+dry springs, and low and irregular precipitation limit
+GPP, while the wet, warm summer is often more favor-
+able for carbon losses than for carbon uptake. The
+burned site was a carbon source to the atmosphere in
+all months. The severity of the ﬁre, where all trees were
+killed and most of the forest ﬂoor consumed, also had
+an important role in slowing ecosystem recovery. High-
+intensity, stand-replacing ﬁres, such as the one we
+studied, are a consequence of management polices of
+the past centuries (Covington et al., 1994), and, because
+of climate changes, are expected to become more com-
+mon in the future (Brown et al., 2004; Westerling et al.,
+2006).
+Environmental variables secondary to light intensity
+and temperature, such as SWC, VPD, and soil tempera-
+ture at different depths, exhibited a control that was
+seasonally variable and stronger on daytime NEE than
+night-time TER, and stronger for the unburned than for
+the burned site. In addition, cloudy conditions were
+more favorable for carbon uptake than clear sky condi-
+tions at both sites, likely because of more favorable
+environment conditions for photosynthesis on cloudy
+days.
+Stand-replacing ﬁre had a strong and persistent effect
+on NEE in ponderosa pine forests of northern Arizona.
+It is unlikely that the burned site will shift from being a
+carbon source to being a carbon sink in the immediate
+future due to slow vegetation recovery after ﬁre.
+Persistent effects of severe ﬁre must be included to
+accurately quantify the carbon balance of ponderosa
+pine forests in the southwestern United States, and,
+in general, in large-scale and long-term biome produc-
+tivity assessments.
+Acknowledgements
+This research was supported by grants from the North American
+Carbon Program/USDA CREES NRI (2004-35111-15057), the
+National
+Science
+Foundation
+MRI
+Program,
+the
+Mission
+Research
+Program,
+School
+of
+Forestry,
+Northern
+Arizona
+University (McIntire-Stennis/AZ Bureau of Forestry), and the
+Hooper Undergraduate Research Program at Northern Arizona
+University. We thank G. Manca (JRC, Italy) for help with the
+eddy covariance software, and the Northern Arizona University
+Centennial Forest and the Coconino National Forest for allowing
+our research on their lands.
+References
+Amiro BD (2001) Paired-tower measurements of carbon and
+energy ﬂuxes following disturbance in the boreal forest. Global
+Change Biology, 7, 253–268.
+Amiro BD, MacPherson JI, Desjardins RL (1999) BOREAS ﬂight
+measurement of forest-ﬁre effects on carbon dioxide and
+energy ﬂuxes. Agricultural and Forest Meteorology, 96, 199–208.
+Amiro BD, MacPherson JI, Desjardins RL, Chen JM, Liu J (2003)
+Post-ﬁre carbon dioxide ﬂuxes in the western Canadian boreal
+forest: evidence from towers, aircraft and remote sensing.
+Agricultural and Forest Meteorology, 115, 91–107.
+Anthoni PM, Law BE, Unsworth MH (1999) Carbon and water
+vapor exchange of an open-canopied ponderosa pine ecosys-
+tem. Agricultural and Forest Meteorology, 95, 151–168.
+Aubinet M, Grelle A, Ibrom A et al. (2000) Estimates of the annual
+net carbon and water exchange of forests: the EUROFLUX
+methodology. Advances in Ecological Research, 30, 113–175.
+Aubinet M, Heinesh B, Longdoz B (2002) Estimation of the
+carbon sequestration by a heterogeneous forest: night ﬂux
+corrections, heterogeneity of the site and inter-annual varia-
+bility. Global Change Biology, 8, 1053–1071.
+Auclair AND, Carter TB (1993) Forest wildﬁres as a recent source
+of CO2 at northern latitudes. Canadian Journal of Forest Research,
+23, 1528–1536.
+Baldocchi D, Falge E, Gu L (2001) FLUXNET: a new tool to study
+the temporal and spatial variability of ecosystem-scale carbon
+dioxide, water vapor, and energy ﬂux densities. Bulletin of the
+American Meteorological Society, 82, 2415–2434.
+Black TA, Harden JW (1994) Effect of timber harvest on soil
+carbon storage at Blodgett Experimental Forest, California.
+Canadian Journal of Forest Research, 25, 1385–1396.
+Bond-Lamberty B, Wang C, Gower ST (2004) Net primary
+production and net ecosystem production of a boreal black
+spruce wildﬁre chronosequence. Global Change Biology, 10,
+473–487.
+Breshears DD, Allen CD (2002) The importance of rapid, dis-
+turbance-induced losses in carbon management and seques-
+tration. Global Ecology and Biogeography, 11, 1–5.
+Brown JK (1974) Handbook for inventorying downed woody material.
+General Technical Report INT-16, USDA Forest Service Inter-
+mountain Forest and Range Experiment Station, Ogden, Utah,
+24 pp.
+Brown TJ, Hall BL, Westerling AL (2004) The impact of twenty-
+ﬁrst century climate change on wildland ﬁre danger in the
+western United States: an applications perspective. Climatic
+Change, 62, 365–388.
+Cohen WB, Harmon ME, Wallin DO, Fiorella M (1996) Two
+decades of carbon ﬂux from forests of the Paciﬁc Northwest.
+Bioscience, 46, 836–844.
+Conard SG, Ivanova GA (1997) Wildﬁre in Russian foreal forests
+– potential impacts of ﬁre regime characteristics on emissions
+and global carbon balance estimates. Environmental Pollution,
+98, 305–313.
+Cooper CF (1960) Changes in vegetation, structure, and growth
+of southwestern pine forests since white settlement. Ecological
+Monographs, 30, 129–164.
+Covington WW, Everett RL, Steele R, Irwin LL, Auclair AND
+(1994) Historical and anticipated changes in forest ecosystems
+W I L D F I R E A LT E R S P O N D E R O S A P I N E N E E
+1817
+r 2008 The Authors
+Journal compilation r 2008 Blackwell Publishing Ltd, Global Change Biology, 14, 1801–1820
+
+of the inland west of the United States. Journal of Sustainable
+Forestry, 2, 13–63.
+Covington WW, Fule´ PZ, Hart SC, Weaver RP (2001) Modeling
+ecological restoration effects on ponderosa pine forest struc-
+ture. Restoration Ecology, 9, 421–431.
+Curiel YJ, Janssens IA, Carrara A, Ceulemans R (2004) Annual
+Q10 of soil respiration reﬂects plant phenological patterns as
+well as temperature sensitivity. Global Change Biology, 10,
+161–169.
+Dilling L, Doney SC, Edmonds J et al. (2003) The role of carbon
+cycle observations and knowledge in carbon management.
+Annual Review of Environment and Resources, 28, 521–558.
+Erickson HE, Edmonds RL, Peterson CE (1985) Decomposition of
+logging residues in Douglas-ﬁr, western hemlock, Paciﬁc
+silver ﬁr, and ponderosa pine ecosystems. Canadian Journal of
+Forest Research, 15, 914–921.
+Falge E, Baldocchi D, Olson R et al. (2001) Gap ﬁlling strategies
+for defensible annual sums of net ecosystem exchange. Agri-
+cultural and Forest Meteorology, 107, 43–69.
+Ffolliot PF, Clary WP, Davis JR (1968) Some characteristics of the
+forest ﬂoor under ponderosa pine in Arizona. USDA Forest
+Service Research note RM-127.
+Foken T, Wichura B (1996) Tools for quality assessment of
+surface-based ﬂux measurements. Agricultural and Forest
+Meteorology, 78, 83–105.
+Fredeen AL, Waughtal JD, Pypker TG (2007) When do replanted
+sub-boreal clearcuts become net sinks for CO2? Forest Ecology
+and Management, 239, 210–216.
+Fule´ PZ (1990) Predicting forest ﬂoor fuel loading under ponderosa
+pine at Grand Canyon National Park, Arizona. Master thesis,
+Northern Arizona University, Flagstaff, AZ.
+Fule´ PZ, Covington WW, Moore MM (1997) Determining refer-
+ence conditions for ecosystem management of southwestern
+ponderosa pine forests. Ecological Applications, 7, 895–908.
+Fule´ PZ, Crouse JE, Cocke AE, Moore MM, Covington WW
+(2004) Changes in canopy fuels and potential ﬁre behavior
+1880–2040: Grand Canyon National Park. Ecological Modelling,
+175, 231–248.
+GAO (US General Accounting Ofﬁce) (1998) Western national
+forests: catastrophic wildﬁres threaten resources and commu-
+nities. US GAO/T-RCED-98-273.
+Giasson M, Coursolle C, Margolis HA (2006) Ecosystem-level
+CO2 ﬂuxes from a boreal cutover in eastern Canada before and
+after scariﬁcation. Agricultural and Forest Meteorology, 140,
+23–40.
+Goulden ML, Daube BC, Fan S, Sutton DJ, Bazzaz A, Munger JW,
+Wofsy SC (1997) Physiological responses of a black spruce forest
+to weather. Journal of Geophysical Research, 102, 987–28,996.
+Grady KC, Hart SC (2006) Inﬂuences of thinning, prescribed
+burning, and wildﬁre on soil processes and properties in
+southwestern ponderosa pine forests: a retrospective study.
+Forest Ecology and Management, 234, 123–135.
+Granier A, Reichstein M, Bre´da N et al. (2007) Evidence for soil
+water control on carbon and water dynamics in European
+forests during the extremely dry year: 2003. Agricultural and
+Forest Meteorology, 143, 123–145.
+Gu L, Baldocchi D, Verma SB, Black TA, Vesala T, Falge EM,
+Dowty PR (2002) Advantages of diffuse radiation for terres-
+trial ecosystem productivity. Journal of Geophysical Research,
+107, 4050.
+Hanson PJ, Wullschleger SD, Bohlman SA, Todd DE (1993)
+Seasonal and topographic patterns of forest ﬂoor CO2 efﬂux
+from upland oak forest. Tree Physiology, 13, 1–15.
+Harden JW, Trumbore SEW, Stocks BJ, Hirsh A, Gower ST,
+O’Neill KP, Kasischke ES (2000) The role of ﬁre in the boreal
+carbon budget. Global Change Biology, 6 (Suppl. 1), 174–184.
+Harmon ME, Sexton J (1996) Guideline for Measurements of Woody
+Detritus in Forest Ecosystems Publication no. 20. U.S. LTER
+Network Ofﬁce, University of Washington, Seattle, WA.
+Hart SC, Classen AT, Wright RJ (2005) Long-term interval burn-
+ing alters ﬁne root and mycorrhizal dynamics in a ponderosa
+pine forest. Journal of Applied Ecology, 42, 752–761.
+Hart SC, Selmants PC, Boyle SI, Overby ST (2006) Carbon and
+nitrogen cycling in southwestern ponderosa pine forests.
+Forest Science, 52, 683–693.
+Hibbard KA, Schimel DS, Archer S, Ojima DS, Parton W (2003)
+Grassland to woodland transitions: integrating changes in
+landscape structure and biogeochemistry. Ecological Applica-
+tions, 132, 911–926.
+Hollinger DY, Goltz SM, Davidson EA, Lee JT, Tu K, Valentine
+HT (1999) Seasonal patterns and environmental control of
+carbon dioxide and water vapour exchange in an ecotonal
+boreal forest. Global Change Biology, 5, 891–902.
+Hollinger DY, Kelliher FM, Byers JN, Hunt JE, McSeveny TM,
+Weir PL (1994) Carbon dioxide exchange between an undis-
+turbed old-growth temperate forest and the atmosphere. Ecol-
+ogy, 75, 134.
+Hollinger DY, Richardson AD (2005) Uncertainty in eddy covar-
+iance measurements and its application to physiological mod-
+els. Tree Physiology, 25, 873–885.
+Houghton RA, Hackler JL, Lawrence KT (2000) Changes in
+terrestrial carbon storage in the United States. 2: the role of
+ﬁre and ﬁre management. Global Ecology and Biogeography, 9,
+145–170.
+Humphreys ER, Black TA, Morgenstern K, Cai T, Drewitt GB, Nesic
+Z, Trofymow JA (2006) Carbon dioxide ﬂuxes in coastal Douglas-
+ﬁr stands at different stages of development after clearcut harvest-
+ing. Agricultural and Forest Meteorology, 140, 6–22.
+Hurtt GC, Pacala SW, Moorcroft PR, Caspersen J, Shevliakova E,
+Houghton RA, Moore III B (2002) Projecting the future of the
+U.S. carbon sink. Proceedings of the National Academy of Sciences,
+99, 1389–1394.
+Irvine J, Law BE, Hibbard KA (2007) Post-ﬁre carbon pools and
+ﬂuxes in semi-arid ponderosa pine in central Oregon. Global
+Change Biology, 13, 1–13. doi: 10.1111/j.1365-2486.2007.01368.x.
+Janssens IA, Lankreijer H, Matteucci G et al. (2001) Productivity
+overshadows temperature in determining soil and ecosystem
+respiration across European forests. Global Change Biology, 7,
+269–278.
+Kashian DM, Romme WH, Tinker DB, Turner MG, Ryan MG
+(2006) Carbon storage on landscapes with stand-replacing
+ﬁres. Bioscience, 56, 598–606.
+Kaye JP, Hart SC, Fule´ PZ, Covington WW, Moore MM, Kaye
+MW (2005) Initial carbon, nitrogen, and phosphorus ﬂuxes
+following ponderosa pine restoration treatments. Ecological
+Applications, 15, 1581–1593.
+1818
+S . D O R E et al.
+r 2008 The Authors
+Journal compilation r 2008 Blackwell Publishing Ltd, Global Change Biology, 14, 1801–1820
+
+Keane RE, Ryan KC, Veblen TT, Allen CD, Logan J, Hawkes B
+(2002) Cascading effects of ﬁre exclusion in Rocky Mountain
+ecosystems: a literature review. General Technical Report GTR-
+91, USDA Forest Service, Rocky Mountain Research Station.
+Knohl A, Kolle O, Minayeva TY, Milyukova IM, Vygodskaya
+NN, Foken T, Schulze E (2002) Carbon dioxide exchange of a
+Russian boreal forest after disturbance by wind throw. Global
+Change Biology, 8, 231–246.
+Kowalski AS, Loustau D, Berbigier P et al. (2004) Paired compar-
+isons of carbon exchange between undisturbed and regenerat-
+ing stands in four managed forests in Europe. Global Change
+Biology, 10, 1707–1723.
+Kowalski AS, Sartore M, Burlett R, Berbigier P, Loustau D (2003)
+The annual carbon budget of a French pine forest (Pinus
+pinaster) following harvest. Global Change Biology, 9, 1051–1065.
+Law BE, Falge E, Gu L et al. (2002) Environmental controls over
+carbon dioxide and water vapor exchange of terrestrial vege-
+tation. Agricultural and Forest Meteorology, 113, 97–120.
+Law BE, Ryan MG, Anthoni PM (1999) Seasonal and annual
+respiration of a ponderosa pine ecosystem. Global Change
+Biology, 5, 169–182.
+Law BE, Sun OJ, Campbell J, Van Tuyl S, Thornton PE (2003)
+Changes in carbon storage and ﬂuxes in a chronosequence of
+ponderosa pine. Global Change Biology, 9, 510–524.
+Law BE, Thornton PE, Irvine J, Anthoni PM, Van Tuyl S (2001)
+Carbon storage and ﬂuxes in ponderosa pine forests at differ-
+ent developmental stages. Global Change Biology, 7, 755–777.
+Law BE, Turner D, Campbell J, Sun OJ, Van Tuyl S, Ritts WD,
+Cohen WB (2004) Disturbance and climate effects on carbon
+stocks and ﬂuxes across Western Oregon USA. Global Change
+Biology, 10, 1429–1444.
+Law BE, Waring RH, Anthoni PM, Aber JD (2000) Measurements
+of gross and net ecosystem productivity and water vapour
+exchange of a Pinus ponderosa ecosystem, and an evaluation of
+two generalized models. Global Change Biology, 6, 155–168.
+Litton CM, Ryan MG, Knight DH, Stahl PD (2003) Soil-surface
+carbon dioxide efﬂux and microbial biomass in relation to tree
+density 13 years after a stand replacing ﬁre in a lodgepole pine
+ecosystem. Global Change Biology, 9, 680–696.
+Litvak M, Miller S, Wofsy SC, Goulden M (2003) Effect of stand
+age on whole ecosystem CO2 exchange in the Canadian boreal
+forest. Journal of Geophysical Research, 108, 8225.
+Lloyd J, Taylor J (1994) On the temperature dependence of soil
+respiration. Functional Ecology, 8, 315–323.
+McCaughey JH, Pejam MR, Arain MA, Cameron DA (2006)
+Carbon dioxide and energy ﬂuxes from a boreal mixed wood
+forest ecosystem in Ontario, Canada. Agricultural and Forest
+Meteorology, 140, 79–96.
+McDowell MG, Adams HD, Bailey JD, Hess M, Kolb TE (2006)
+Homeostatic maintenance of ponderosa pine gas exchange in
+response to stand density changes. Ecological Applications, 16,
+1164–1182.
+McHugh C, Kolb TE, Wilson JL (2003) Bark beetle attacks on
+ponderosa pine following ﬁre in northern Arizona. Environ-
+mental Entomology, 32, 510–522.
+McMichael B, Lascano RJ (2003) Laboratory evaluation of a
+commercial dielectric soil water sensor. Vadose Zone Journal,
+2, 650–654.
+Misson L, Tang J, Xu M, McKay M, Goldstein A (2005) Inﬂuences
+of recovery from clear-cut, climate variability, and thinning on
+the carbon balance of a young ponderosa pine plantation.
+Agricultural and Forest Meteorology, 130, 207–222.
+Moore MM, Huffman DW, Fule´ PZ, Covington WW, Crouse JW
+(2004) Comparison of historical and contemporary forest
+structure and composition on permanent plots in southwes-
+tern ponderosa pine forests. Forest Science, 50, 162–176.
+Morgenstern K, Black TA, Humphreys ER et al. (2004) Sensitivity
+and uncertainty of the carbon balance of a Paciﬁc Northwest
+Douglas-ﬁr forest during an El Nin˜o/La Nin˜a cycle. Agricul-
+tural and Forest Meteorology, 123, 201–219.
+Nelson DW, Sommers LE (1982) Total carbon, organic carbon,
+and organic matter. In: Methods of Soil Analysis: Part 2 Chemical
+and Microbiological Properties. Agronomy Monograph 9 (ed. Page
+AL et al.), pp. 539–579. ASA, Madison, WI.
+Oechel WC, Lawrence WT (1985) Taiga. In: Physiological Ecology
+of North American Plant Communities (eds Chabot BF, Mooney
+HA), pp. 66–94. Chapman & Hall, New York, London.
+Omdal DW, Jacobi WR, Shaw CG (2001) Estimating large-root
+biomass from breast-height diameters for ponderosa pine in
+northern New Mexico. Western Journal of Applied Forestry, 16,
+18–21.
+Pacala SW, Hurtt GC, Baker D et al. (2001) Consistent land- and
+atmosphere-based U.S. carbon sink estimates. Science, 292,
+2316–2320.
+Page SE, Siegert F, Rieley JO, Boehm JO, Jaya A, Limin S (2002)
+The amount of carbon released from peat and forest ﬁres in
+Indonesia during 1997. Nature, 420, 61–66.
+Potter CS, Klooster SA (1999) Detecting a terrestrial biosphere
+sink for carbon dioxide: interannual ecosystem modeling for
+the mid-1980s. Climatic Change, 42, 489–503.
+Pregitzer KS, Euskirchen ES (2004) Carbon cycling and storage in
+world forests: biome patterns related to forest age. Global
+Change Biology, 10, 2052–2077.
+Randerson JT, Liu H, Flanner MG et al. (2006) The impact of boreal
+forest ﬁre on climate warming (reports). Science, 314, 1130.
+Reichstein M, Falge E, Baldocchi D et al. (2005) On the separation
+of net ecosystem exchange into assimilation and ecosystem
+respiration: review and improved algorithm. Global Change
+Biology, 11, 1424–1439.
+Richardson AD, Braswell BH, Hollinger DY et al. (2006) Com-
+paring simple respiration models for eddy ﬂux and dy-
+namic chamber data. Agricultural and Forest Meteorology, 141,
+219–234.
+Ruimy A, Jarvis PG, Baldocchi DD, Saugier B (1995) CO2 ﬂuxes
+over plant canopy and solar radiation: a review. Advances in
+Ecological Research, 26, 1–64.
+Saleska SR, Miller SD, Matross DM et al. (2003) Carbon in
+Amazon forests: unexpected seasonal ﬂuxes and distur-
+bance-induced losses. Science, 302, 1554–1557.
+Savage M, Brown PM, Feddema J (1996) The role of climate in a
+pine forest regeneration pulse in the southwestern United
+States. Ecoscience, 3, 310–318.
+Savage M, Mast JN (2005) How resilient are southwestern
+ponderosa pine forests after crown ﬁres? Canadian Journal of
+Forest Research, 35, 967–977.
+Schimel D, Baker D (2002) The wildﬁre factor. Nature, 420, 29.
+W I L D F I R E A LT E R S P O N D E R O S A P I N E N E E
+1819
+r 2008 The Authors
+Journal compilation r 2008 Blackwell Publishing Ltd, Global Change Biology, 14, 1801–1820
+
+Schimel DS, House JI, Hibbard KA et al. (2001) Recent patterns
+and mechanisms of carbon exchange by terrestrial ecosystems.
+Nature, 414, 169–176.
+Schulze E-D, Lloyd J, Kelliher FM et al. (1999) Productivity of
+forests in the Eurosiberian boreal region and their potential to
+act as a carbon sink – a synthesis. Global Change Biology, 5,
+703–722.
+Schulze E-D, Wirth C, Heimann M (2000) Managing forests after
+Kyoto. Science, 289, 2058–2059.
+Sheppard PR, Comrie AC, Packin GD, Angersbach K, Hughes
+MK (2002) The climate of the US Southwest. Climate Research,
+21, 219–238.
+Song C, Woodcock CE (2003) A regional forest ecosystem carbon
+budget model: impacts of forest age structure and land use
+history. Ecological Modelling, 164, 33–47.
+Stoy PC, Katul GG, Siqueira MBS et al. (2006) Separating the
+effects of climate and vegetation on evapotranspiration along a
+successional chronosequence in the southeastern US. Global
+Change Biology, 12, 2115–2135.
+Swetnam TW, Baisan CH (1996) Historical ﬁre regime patterns in
+the southwestern United States since AD 1700. In: Fire Effects in
+Southwestern Forests. USDA Forest Service General Technical
+Report RM-246 (ed. Allen CD), pp. 11–32.
+Thornton PE, Law BE, Gholz HL et al. (2002) Modeling and
+measuring the effects of disturbance history and climate on
+carbon and water budgets in evergreen needleleaf forests.
+Agricultural and Forest Meteorology, 113, 185–222.
+Trumbore S (2006) Carbon respired by terrestrial ecosystems –
+recent progress and challenges. Global Change Biology, 12,
+141–153.
+Turner DP, Koerper GJ, Harmon ME, Lee JJ (1995) A carbon
+budget for forests of the conterminous United States. Ecological
+Applications, 5, 421–436.
+Weiss SB (2000) Vertical and temporal distribution of insulation
+in gaps in an old-growth coniferous forest. Canadian Journal of
+Forest Research, 30, 1953–1964.
+Westerling AL, Hidalgo HG, Cayan DR, Swetnam TW (2006)
+Warming and earlier spring increases western U.S. forest
+wildﬁre activity. Science, 313, 940–943.
+Wilson K, Goldstein A, Falge E et al. (2002) Energy balance
+closure at FLUXNET sites. Agricultural and Forest Meteorology,
+113, 223–243.
+Wirth C, Schulze E-D, Lu¨hker B et al. (2002) Fire and site type
+effects on the long-term carbon and nitrogen balance in pris-
+tine Siberian Scots pine forests. Plant and Soil, 242, 41–63.
+Xu M, DeBiase TA, Qi Y, Goldstein A, Liu Z (2001) Ecosystem
+respiration in a young ponderosa pine plantation in the
+Sierra Nevada Mountains, California. Tree Physiology, 21,
+309–318.
+1820
+S . D O R E et al.
+r 2008 The Authors
+Journal compilation r 2008 Blackwell Publishing Ltd, Global Change Biology, 14, 1801–1820

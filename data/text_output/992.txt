@@ -1,0 +1,2033 @@
+LIFE CYCLE IMPACTS OF MANUFACTURING REDWOOD DECKING
+IN NORTHERN CALIFORNIA
+Richard D. Bergman*{
+Research Forest Products Technologist
+Economics and Statistics Unit
+USDA Forest Service
+Forest Products Laboratory
+Madison, WI 53726
+E-mail: rbergman@fs.fed.us
+Elaine Oneil
+Research Scientist and Executive Directive Director (CORRIM)
+School of Environmental and Forest Science
+E-mail: eoneil@uw.edu
+Ivan L. Eastin
+Professor and Director
+Center for International Trade in Forest Products
+University of Washington
+Seattle, WA 98195
+E-mail: eastin@uw.edu
+Han-Sup Han
+Professor
+Forest Operations and Engineering
+Department of Forestry and Wildland Resources
+Humboldt State University
+Arcata, CA 95521
+E-mail: hh30@humboldt.edu
+(Received December 2013)
+Abstract.
+Awareness of the environmental footprint of building construction and use has led to increasing
+interest in green building. Defining a green building is an evolving process with life cycle inventory and life
+cycle impact assessment (LCIA) emerging as key tools in that evolution and definition process. This study
+used LCIA to determine the environmental footprint associated with manufacturing 38-  138-mm redwood
+(Sequoia sempervirens) decking from sustainably managed northern California redwood forests. Primary
+survey data were collected from four redwood mills that represent 90% of redwood lumber production. The
+primary data were then weight-averaged on a per-unit basis of 1 m3 of planed redwood decking (380 oven-
+dry kg/m3) to calculate material flows and energy use. All of the raw material consumption and environ-
+mental outputs were assigned to dry planed redwood decking and none to coproducts. The gate-to-gate,
+cumulative energy consumption associated with manufacturing 1 m3 of planed redwood decking from
+1.8 m3 of incoming logs was 1.36 GJ/m3 with 19% of the energy provided by burning wood residues.
+Emission data produced through modeling the production process found that the estimated biomass and
+fossil CO2 emissions were 20.9 and 52.9 kg/m3, respectively. Based on the carbon content of redwood of
+53%, a cubic meter of 38-  138-mm redwood decking product stores 201 kg of carbon and if released
+* Corresponding author
+{ SWST member
+Wood and Fiber Science, 46(3), 2014, pp. 322–339
+# 2014 by the Society of Wood Science and Technology
+
+into the atmosphere would emit 738 kg of CO2. The amount of carbon stored in redwood decking is
+equivalent to about 10 times the total CO2 emissions released during the manufacturing process.
+Low carbon emissions during the manufacturing process and carbon storage during the service life of
+a redwood deck are positive environmental attributes that should be considered when selecting a
+decking product.
+Keywords:
+Redwood
+decking,
+life
+cycle
+assessment,
+greenhouse
+gases,
+manufacturing,
+environmental impacts.
+INTRODUCTION
+Buildings consume approximately 41% of all
+energy used in the US (USDOE 2012). Although
+much of that energy is used during building occu-
+pation, there is increased interest in decreasing
+the embodied energy, the amount of energy used
+in the production of a building material, as part
+of the overall goal of decreasing the environ-
+mental footprint of a building. Green construc-
+tion practices have evolved substantially during
+the past 30 yr in an effort to decrease energy
+consumption, improve overall building perfor-
+mance, and move toward more sustainable prac-
+tices. In practice, green building started as a
+series of prescriptions that experts thought were
+the most critical to move construction toward
+sustainability goals. Green building has now
+expanded to include life cycle analysis that pro-
+vides insight on how to improve energy and
+material efficiency throughout the material pro-
+duction and building construction and operation
+while lowering overall environmental burdens
+throughout the building’s entire life cycle.
+Identifying building materials that possess posi-
+tive environmental attributes is one result of the
+increased interest in green building practices.
+These practices may include using building mate-
+rials with lower environmental impacts as well
+as reusing or reducing the use of building mate-
+rials capable of performing the same function.
+The green building market for new nonresidential
+construction in 2013 was originally expected to
+triple to about $96-140 billion from $42 billion
+in 2008 (MHC 2010). However, a newer fore-
+cast made by McGraw Hill Construction (MHC
+2012) indicates that the green building market in
+2013 is expected to be $98-106 billion, on the
+low end of the original forecast made in 2008.
+This was most likely the result of the slow US
+economic recovery during this time. Despite the
+soft US economy, the percentage of new US res-
+idential and nonresidential construction being
+built green is forecasted to make up 45% of the
+market by the end of 2016 (MHC 2012). In addi-
+tion, building codes and standards such as the
+International Green Construction Code (IgCC)
+are implementing performance-based decision-
+making based on scientific approaches including
+life cycle analysis (Bowyer et al 2012).
+There are a number of green building certifica-
+tion systems in the US with the most well known
+being LEED, ICC-700 National Green Building
+Standard, Green Globes, IgCC, CA Green Con-
+struction Code (CalGreen), and ASHRAE 189.1
+(Ritter et al 2011). These green building certifi-
+cation systems are based on a variety of param-
+eters, and in recent years, there has been
+increasing interest in using life cycle inventory
+(LCI) and life cycle assessment (LCA) data as
+an objective scientific basis for quantifying the
+relative environmental benefit, or “greenness,”
+of projects built using these certification systems.
+This trend represents a shift away from prescrip-
+tive-based toward performance-based certifica-
+tion systems. In anticipation of the adoption of
+such policies and their market implications, a
+number of industries have initiated efforts to
+develop LCI data for their products (Puettmann
+and Wilson 2005; Puettmann et al 2010a; FAL
+2010, 2011). Whole building LCA tools, such as
+the ATHENA Impact Estimator for Buildings,
+are becoming a necessary part of determining
+a building’s environmental impact and are
+increasingly becoming part of green building
+certification systems (ASMI 2014). Developing
+metrics to measure sustainability are part of the
+green building process.
+Bergman et al—LIFE CYCLE IMPACTS OF MANUFACTURING REDWOOD DECKING
+323
+
+LCA can be used to provide a measure of building
+sustainability. As part of an LCA, LCI measures
+the inputs and outputs of the energy, material,
+and waste associated with a product within a
+specified system boundary. LCI that measure
+from resource extraction through manufactur-
+ing, use, and disposal are called cradle-to-grave
+LCI. If only a subset of these steps is evaluated,
+the LCI may be called a cradle-to-gate, gate-to-
+gate, or gate-to-grave analysis. The goal of this
+study was to document a gate-to-gate LCA of
+redwood (Sequoia sempervirens) decking lumber
+from incoming logs to dry planed redwood deck-
+ing in northern California. A companion study
+(Han et al 2014) examined the life cycle of
+upstream processes from the seedling through
+to harvest of redwood logs. In the companion
+study, Han et al (2014) discuss the sustainable
+forest harvesting practices conducted by the red-
+wood industry by adhering to forest certification
+standards and to the California Forest Practice
+Rules, one of the most stringent forest harvest-
+ing regulations in the US. Sustainable harvesting
+is critical because it highlights the climate change
+mitigation value of long-lived wood products
+through their carbon storage capacity.
+The LCA tracked all steps in the production of
+redwood decking from the logs in the log yard
+through the manufacturing process including
+sawing, drying, and planing. We evaluated the
+material flow, energy consumption, and emissions
+for the redwood decking manufacturing process
+on a per-unit basis (ie functional unit) of 1 m3.
+Primary data were collected by visiting the major
+redwood sawmills and administering a ques-
+tionnaire. Peer-reviewed literature provided sec-
+ondary data per Consortium for Research on
+Renewable Industrial Material (CORRIM) guide-
+lines (CORRIM 2010). Wood mass balances
+were constructed with a spreadsheet algorithm
+using data from primary and secondary sources.
+From material and energy inputs and reported
+emissions, SimaPro 7 software (PRe´ Consultants,
+Amersfoort, The Netherlands) was used to model
+the estimates for raw material consumption and
+environmental outputs on a per-functional-unit
+basis (PRe´ Consultants 2014). The study used the
+US LCI database for secondary LCI data inputs
+such as fuels and electricity (NREL 2014).
+This study includes life cycle impact assessment
+(LCIA) impact categories of global warming
+potential (GWP) (kg CO2-eq), acidification
+potential (AP) (kg SO2-eq), respiratory effects
+(RE) (PM 2.5-eq), eutrophication potential (EP)
+(kg N-eq), ozone depletion potential (ODP) (kg
+CFC-11-eq), and smog potential (SP) (kg O3-eq)
+(Bare 2011). Other impact measures included
+the cumulative (total) energy demand (primary
+energy) (MJ-eq), including both the biomass and
+fossil fuel contributions, which were calculated
+and reported directly from LCI flows. We also
+tracked fresh water consumption (in liters) and
+renewable and nonrenewable material resource
+consumption (nonfuel resources). Impact cate-
+gories and other impact measures were reported
+per cubic meter of production.
+Redwood
+decking
+is
+the
+primary
+product
+manufactured from redwood logs although fenc-
+ing, siding, sashes, doors, blinds, and millwork
+are also made (Wiemann 2010). According to
+Binam (2013), 12 redwood mills produced
+614,000 m3 of redwood lumber in 2010, which
+was about a 20% increase from 2009 (USDOC
+2011; Binam 2013, 2014). Redwood decking pro-
+duction has declined substantially during the past
+several decades, with annual production volumes
+in 2012, 2001, 1994, and 1968 of 0.637, 1.33,
+1.91, and 2.29 Mm3, respectively (Barrette et al
+1970; USDOC 1995, 2006, 2011; Binam 2013,
+2014). However, for 2009-2010, much of the
+increase in redwood decking production has
+been attributed to the increase in new residential
+single-family construction. Units of single-family
+residential construction on a seasonally adjusted
+annual rate increased about 20% from 358,000 in
+January 2009 to 429,000 in December 2010
+(USDOC 2014). Redwood decking is used in
+both new residential construction and repair and
+remodeling of existing residential buildings.
+Regardless of the current housing market, which
+is expected to fully recover this year, increasing
+environmental concerns regarding the building
+industry will continue to define “green building”
+materials and practices.
+324
+WOOD AND FIBER SCIENCE, JULY 2014, V. 46(3)
+
+METHODOLOGY
+Scope
+This study covered the processing of redwood
+logs arriving at the sawmill gate into redwood
+decking leaving the sawmill (ie gate to gate),
+following ISO (2006a, 2006b). LCA data from
+this stage of the redwood decking production
+process were used to facilitate a comparative
+LCA between redwood decking and other non-
+wood decking materials (Bergman et al 2013)
+and to develop a business-to-consumer environ-
+mental
+product
+declaration
+(an
+LCA-based
+ecolabel) (AWC 2014). To construct the full
+LCA, this LCA manufacturing stage was linked
+to the forest resource (Han et al 2014) through
+log transportation (upstream) and product trans-
+portation (downstream). Figure 1 shows the pro-
+cess flow for the gate-to-gate manufacturing of
+redwood decking. This LCA manufacturing stage
+provided a gate-to-gate analysis of the cumula-
+tive energy of manufacturing including resource
+(ie log) transportation.
+In 2011, four redwood mills, representing 90%
+of redwood lumber production, were visited.
+The surveyed mills provided detailed annual
+production data for 2010 for their production
+facilities, including on-site energy consumption,
+electrical usage, log volumes, and decking pro-
+duction. The survey instrument administered at
+the redwood sawmills can be found in the
+Appendix of Bergman et al (2013).
+Functional Unit
+Specifying the system boundaries determined
+the unit processes to include in the LCA and
+Figure 1.
+Process flow for gate-to-gate manufacturing of redwood decking.
+Bergman et al—LIFE CYCLE IMPACTS OF MANUFACTURING REDWOOD DECKING
+325
+
+helped standardize the material flows, energy
+use, and emission data. This study selected a
+functional unit of 1 m3 of decking material
+38 mm thick and no spacing between deck
+boards. One cubic meter of dry redwood decking
+equates to 26.3 m2 at 38 mm thick. Results were
+reported per cubic meter of planed redwood
+decking. Based on US industry measurements,
+the following conversions were used for green
+and dry wood decking: 2.36 and 1.62 m3 per
+thousand board feet (bf), respectively. The differ-
+ent conversions were used because wood shrinks
+as it dries from its green state to its final dry state
+and is then planed (Bergman 2010).
+System Boundary
+Selection of the system boundary helps track the
+material and energy flows crossing the boundary
+precisely. To track flows tied to redwood decking
+production, two system boundaries were consid-
+ered. One—the cumulative system boundary—is
+represented by the solid line shown in Fig 2 and
+includes both on- and off-site emissions from
+the materials and energy consumed within
+the redwood decking manufacturing process.
+Energy and material resources used for the gen-
+eration and production of transportation and
+boiler fuels and grid electricity were included
+within the cumulative system boundary and were
+considered off-site. Off-site emissions include
+emissions released during the production of grid
+electricity, during the transportation of logs to
+the mill, and during the production of the fuels
+consumed on-site for process energy and trans-
+portation. The on-site system boundary (repre-
+sented by the dotted line shown in Fig 2)
+covered emissions occurring only at the mill
+from the four unit processes involved: log yard,
+sawing, drying, and planing. Energy consump-
+tion associated with log transportation was
+included as a separate upstream process. Ancil-
+lary material data such as lumber packaging,
+motor oil, paint, and hydraulic fluid were col-
+lected and were part of the analysis.
+Data Quality
+To ensure high-quality data, the original goal of
+this study was to survey a minimum of 50% of
+the redwood production capacity in the US.
+According to Binam (2013), 12 redwood mills
+produced 614,000 m3 of redwood lumber in 2010.
+The annual production of the four California
+redwood sawmills surveyed was 552,000 m3,
+representing approximately 90% of the total
+redwood lumber production in the US in 2010,
+which was well above the original goal.
+Figure 2.
+System boundaries for the redwood decking manufacturing process.
+326
+WOOD AND FIBER SCIENCE, JULY 2014, V. 46(3)
+
+The weight-averaged annual production for the
+four redwood sawmills was 174,000 m3 with a
+range of 44,300-239,000 m3 of rough green
+redwood
+lumber.
+The
+weight-averaged
+log
+diameter was 27 cm, log length was 6.2 m, and
+kiln capacity was 2830 m3. One mill did no
+kiln-drying. Green chips comprised the greatest
+proportion of wood residue produced at 147 oven-
+dry (OD) kg/m3 planed dry redwood decking
+(Table 1).
+The researchers collected process-specific (ie pri-
+mary) annual data from each sawmill wherever
+possible. The primary data obtained from the
+four
+surveyed
+mills
+were
+weight-averaged
+(Milota 2004). Following CORRIM (2010)
+guidelines, a mass balance (from material input
+to material output for each sawmill), energy
+comparison with other wood products, and a
+sensitivity analysis were conducted to quantify
+uncertainty in data quality.
+The method used for this study was consistent
+with the Mahalle and O’Connor (2009) LCA
+study for western red cedar (Thuja plicata)
+decking because of the large price differential
+(10 to 1) between western red cedar decking
+and coproducts. As is the case for western red
+cedar decking, redwood decking also has a large
+price differential relative to its coproducts. For
+this reason, all emissions (ie environmental out-
+puts) as well as the energy and material con-
+sumed were assigned to the redwood decking
+and no environmental burdens were assigned to
+the redwood residues, including green sawdust,
+chips, hog fuel, bark from sawing logs into
+rough green decking, and dry shavings from the
+planing process.
+The LCI flows and environmental impacts of
+this no-allocation approach are similar to the
+revenue-allocation approach because the revenue
+of redwood decking far exceeds the revenue gen-
+erated from the wood residues. In the revenue-
+allocation approach, the environmental burdens
+are assigned based on the revenue generated
+from the products and the coproducts (ie wood
+residues). The coproducts are made up of green
+and dry wood residues resulting from processing
+the redwood logs into redwood decking.
+A sensitivity analysis was conducted that allo-
+cated LCI flows and environmental impacts on a
+mass basis to redwood decking and its associ-
+ated wood residues. The analysis determined
+the difference between the no-allocation and
+mass-allocation approaches. The mass-allocation
+method is generally preferred for assigning
+environmental outputs because the final wood
+products have much greater mass than any of
+the coproducts generated during the manufac-
+turing
+process
+(CORRIM
+2010;
+Puettmann
+et al 2010a).
+Manufacturing Process of Redwood Decking
+Four main unit processes were identified in
+manufacturing
+redwood
+decking:
+log
+yard,
+Table 1.
+Mass balance of redwood decking production.
+Material (OD kg)
+Sawing process
+Boiler process
+Dryer process
+Planer process
+All processes combined
+In
+Out
+In
+In
+Out
+In
+Out
+In
+Out
+Difference
+Green logs (wood)
+648
+—
+—
+—
+—
+—
+—
+648
+0
+648
+Green logs (bark)
+71
+—
+—
+—
+—
+—
+—
+71
+0
+71
+Green chips
+—
+147
+—
+—
+—
+—
+—
+0
+147
+147
+Green sawdust
+—
+68
+—
+—
+—
+—
+—
+0
+68
+68
+Green bark
+—
+71
+—
+—
+—
+—
+—
+0
+71
+71
+Green shaving
+—
+12
+—
+—
+—
+—
+—
+0
+12
+12
+Green hog fuel
+—
+32
+—
+—
+—
+—
+—
+0
+32
+32
+Rough green decking
+—
+388
+—
+388
+—
+—
+—
+388
+388
+0
+Rough dry decking
+—
+—
+—
+—
+388
+388
+—
+388
+388
+0
+Planed dry decking
+—
+—
+—
+—
+—
+—
+380
+0
+380
+380
+Dry shavings
+—
+—
+8
+—
+—
+—
+8
+8
+8
+0
+Sum
+719
+719
+8
+388
+388
+388
+388
+1503
+1495
+8
+Bergman et al—LIFE CYCLE IMPACTS OF MANUFACTURING REDWOOD DECKING
+327
+
+sawing, drying, and planing. Energy generation
+is considered as an auxiliary process.
+Log yard. Diesel logging trucks transported
+the redwood logs from the forest landing to the
+sawmill log yard. Log transport data were not
+included in the LCA results but were reported
+separately. The log yard operation therefore
+started with the logs already in the log yard,
+with inputs and outputs evaluated when moving
+the logs from the yard to the sawmill. On arrival
+at the log yard, logs were scaled using the
+Scribner short scale in thousand bf. In some
+seasons and for some mills, logs stored in the
+log yard were sprayed with a water sprinkler to
+prevent checking or splitting. Log stackers or
+front-end loaders were used to transport logs
+from the log yard to the sawmill. Inputs included
+logs with bark, electricity, water, fuel, and lubri-
+cants. Outputs included logs with bark and
+emissions from burning the fuels used by the
+log yard machines.
+Sawing. Sawing began when the logs arrived
+at the debarker. In the sawing process, incoming
+redwood logs were sawn into 38-  138-mm
+rough green decking. Sawing logs is typically a
+major source of electrical consumption for pro-
+ducing lumber products such as redwood deck-
+ing (Puettmann and Wilson 2005; Puettmann
+et al 2010a). The rough green decking lumber
+was then tallied (to measure production volume)
+and, if necessary, stickered for drying. Outputs
+from the sawing process (less the bark) include
+rough green decking lumber (59.9%), wood chips
+(22.7%), sawdust (9.5%), hog fuel (5.0%), and
+shavings (1.9%). Hog fuel is comprised of a
+mixture of the wood residues. Two of the saw-
+mills reported that they grind their wood resi-
+dues into hog fuel, and another reported that
+they grind all wood residues together before
+measuring them. After grinding, all green wood
+residues left the system boundary with 71%
+trucked off-site for use in boilers that generate
+grid electricity, 25% sent to operations that
+ground them into mulch, and the remaining 4%
+was made into other wood products. In contrast,
+many sawmills burn their wood residues to
+generate process energy for their kiln driers
+(Puettmann and Wilson 2005; Puettmann et al
+2010a). Once sawing is complete, there are three
+processing options for the rough green decking
+lumber, including 1) planing on all four sides
+and selling as green planed decking (7.6%);
+2) selling as-is as rough green lumber (28.4%);
+or 3) drying, planing, and selling as dry planed
+decking (64.0%).
+Drying. Rough green decking is first air-
+dried to minimize kiln-drying (which is an
+energy-intensive process) (Denig et al 2000;
+Bergman 2010). Second-growth redwood has a
+high moisture content of about 127% dry basis
+(Isenberg et al 1980; Simpson 1991). Air-
+drying is typically done to bring that moisture
+content down to the FSP, which is about 30%.
+Drying redwood decking lowers the total mass
+of the lumber and decreases the volume of the
+boards after they dry below the FSP (although
+the mass of the wood per board remains con-
+stant). Sawmills account for wood shrinkage
+when sawing the logs into green lumber.
+Depending on customer demand, some redwood
+decking is kiln-dried before the FSP is reached.
+Of the original 100% rough green decking pro-
+duced, 64% was dried. After air-drying, 57% of
+the incoming rough green decking was kiln-dried
+to 15-19% MC. Therefore, 36.5% (¼ 64% 
+57%) of total redwood decking was kiln-dried,
+whereas the remaining product, 27.5% (43% *
+64%), was just air-dried. Of the rough dry
+decking, 1.02% was shipped rough without
+being planed.
+Planing. After drying, rough dry decking is
+usually planed on all four sides, which produces
+planer shavings, a dry wood residue. Inputs into
+the planing process include dry rough redwood
+decking, whereas outputs include dry planed
+redwood decking (98%) and dry planer shavings
+(2%). The dry planer shavings are used to fuel
+an on-site wood boiler that generates energy for
+the kiln dryer. Most redwood decking is sold
+as dry planed decking (62.4%), whereas the
+remaining 1.6% is sold as dry rough redwood
+decking. Dry planed redwood decking includes
+328
+WOOD AND FIBER SCIENCE, JULY 2014, V. 46(3)
+
+both air-dried decking (25.9%) and kiln-dried
+decking (36.5%).
+Auxiliary energy generation. The auxiliary
+energy
+process
+provided
+process
+(thermal)
+energy. Thermal energy used at the plant was
+provided by burning a mix of natural gas and
+dry wood residue generated from the planing
+process. Thermal energy was also produced in
+the form of steam and was used in the dry kilns.
+Another major source of energy was derived
+from off-site (grid) electricity, which released
+emissions off-site. Outputs from this upstream
+process included steam from the boilers, com-
+bustion gases from the drying process, solid
+waste (wood ash), and air emissions (eg CO2,
+CO) from combustion.
+Coproducts from the redwood decking produc-
+tion process included both materials that were
+sold off-site and wood residues that were burned
+on-site for energy generation. In this study,
+byproducts are also referred to as coproducts
+because all wood residuals whether used on-site
+or sold off-site had further use and were not
+landfilled. In this study, when referring to logs,
+lumber, and coproducts, the term green was used
+in the context of freshly cut materials.
+Project Assumptions
+Higher heating values. This study converted
+fuel from its volume or mass basis to its energy
+value. Higher heating values (HHV) is the pre-
+ferred method in the US to calculate energy
+values (EIA 2014). HHV represents the (gross)
+energy content of a fuel with the combustion
+products at 25C with all water vapor brought
+to liquid form.
+Log conversion factor. Log volume is mea-
+sured using the Scribner log scale, which reports
+volume in thousand bf. This volume was con-
+verted to cubic meters using a log conversion
+factor of 5.37 m3/thousand bf (Fonseca 2005),
+and that solid wood measure combined with
+average specific gravity was used to determine
+the mass balance.
+Project Limitations
+Omissions of life cycle stages, processes, and
+input or output flows. Human labor and the
+manufacturing LCA of the machinery and infra-
+structure were outside the system boundaries
+and therefore were not modeled in this analysis.
+Cutoff rules. All materials used in the logging
+and manufacturing process were tracked. Accord-
+ing to the North American product category
+rule, if the mass/energy of a flow is less 1% of
+the cumulative mass/energy of the model flow,
+it may be excluded provided its environmental
+relevance is minor. This analysis included all
+energy
+and
+mass
+flows
+for
+primary
+data
+(FPInnovations 2011).
+RESULTS AND DISCUSSION
+Detailed primary data on mass flow, energy con-
+sumption, and fuel types were obtained from
+the redwood mill surveys and collated with
+upstream process data for grid electricity and
+other inputs included in the SimaPro and data-
+bases to produce LCI and LCIA data for red-
+wood decking. We used SimaPro 7 to model the
+weight-averaged survey data to estimate non-
+wood raw material use and emission data on a
+1-m3 unit basis. With SimaPro 7, the life cycle
+data were compiled into impact measures using
+the Tool for the Reduction and Assessment
+of Chemical and other environmental Impacts
+(TRACI) (Bare 2011) impact estimation method.
+Product Yields
+Mass balance. The results of a mass balance
+analysis that was used to confirm the data qual-
+ity obtained from surveys and site visits of the
+redwood sawmills are summarized in Table 1.
+In performing the mass balance for redwood
+decking, all unit processes located within the
+site system boundary were considered. With a
+weight-averaged approach for the four surveyed
+mills, 648 OD kg (1.8 m3) of incoming redwood
+logs, with a green density (127% MC) of 803 kg/
+m3, produced 1.0 m3 (380 OD kg) of planed
+Bergman et al—LIFE CYCLE IMPACTS OF MANUFACTURING REDWOOD DECKING
+329
+
+redwood decking. The sawing process yielded
+388 kg of rough green decking. No loss of wood
+material occurred during the drying process.
+Planing the rough lumber into surfaced decking
+decreased the 388 OD kg of rough dry decking to
+380 OD kg of planed dry redwood decking (a 2%
+decrease in mass). All 8 OD kg of dry shavings
+produced on-site were burned to produce thermal
+process energy in the on-site boiler. Overall, an
+average redwood log was decreased to 58.6%
+(380 of 648) of its original mass during its con-
+version to planed dry redwood decking. The hog
+fuel listed as 32 OD kg/m3 is a mixture of wood
+residues generated from the sawing process and
+was not used on-site.
+Carbon storage. Redwood decking stores
+carbon during its service life. The carbon con-
+tent for redwood has been estimated at 53% of
+OD mass (Jones and O’Hara 2012). When this
+carbon content factor of 0.53 and the molecular
+weight ratio of CO2 (44 g/mole) and carbon
+(12 g/mole) are used to calculate, the carbon
+stored in 1 m3 (380 OD kg) of redwood decking
+if released into the atmosphere would produce
+738 kg of CO2.
+Electrical Grid Composition
+Table 2 shows the composite grid used in
+SimaPro 7 to model the environmental effects
+from using grid electricity. For redwood deck-
+ing produced in northern California, the com-
+posite electrical grid is comprised of the CAMX
+2008
+(50%)
+and
+the
+NWPP
+2008
+(50%)
+regional grids (EPA 2012). The CAMX 2008
+and NWPP 2008 grids provide power to lower
+and upper northern California, respectively.
+Natural gas (35.9%), hydro (27.0%), and coal
+(19.3%) are the three main contributors to the
+composite electrical grid.
+Energy Consumption
+Overall. Redwood decking production requires
+both electrical and thermal energy inputs for
+processing logs into decking. Electrical energy
+was required for the log yard operations, sawing,
+drying, and planing unit processes. Electricity
+for the sawmills was obtained off-site from the
+combined NWPP/CAMX power grids (50/50) as
+shown in Table 2. Thermal energy was only
+used during the drying process. The mill surveys
+reported that most thermal energy was produced
+on-site, although one mill used waste steam
+from a nearby wood-fired power plant. Primary
+energy was not included in the electricity values
+in Table 3. Primary energy is energy embodied
+in natural resources such as biomass and fossil
+Table 2.
+Composite electrical grid data for producing
+redwood decking in northern California.
+Energy resources
+CAMX 2008a
+(%)
+NWPP 2008b
+(%)
+Composite
+(%)
+Natural gas
+59.0
+12.8
+35.9
+Hydro
+11.8
+42.3
+27.0
+Coal
+1.1
+37.6
+19.3
+Uranium
+16.1
+3.0
+9.5
+Geothermal
+4.5
+0.5
+2.5
+Wind
+2.6
+2.4
+2.5
+Biomass
+1.5
+0.5
+1.0
+Crude oil
+0.8
+0.1
+0.5
+Solar
+0.3
+0.0
+0.2
+Energy, unspecified
+2.3
+0.8
+1.6
+Total
+100
+100
+100
+a CAMX 2008: electrical grid covering lower northern California (50%).
+b NWPP 2008: electrical grid covering upper northern California (50%).
+Table 3.
+Material and energy consumed on-site to
+produce 1 m3 of dry planed redwood decking (SimaPro
+7 input values).
+Fuel type
+Amount per m3
+SI units
+Fossil fuel
+Natural gas
+0.375
+m3
+Electricity
+Grid (eGrid)
+91
+kWh
+On-site transportation fuel
+Off-road diesel
+2.43
+L
+Gasoline
+0.36
+L
+Propane
+0.10
+L
+Renewable fuela
+Wood fuelb
+9.91
+kg
+Water usec
+Surface water
+187
+L
+Ground water
+22
+L
+a Values given in oven-dry mass.
+b Wood fuel includes wood burned off-site and the resultant steam piped to
+the mills for process energy.
+c These are the gross values: 86% of water is recycled and returned to
+storage ponds for reuse.
+330
+WOOD AND FIBER SCIENCE, JULY 2014, V. 46(3)
+
+fuels before conversion into useful energy.
+Table 3 shows the SimaPro 7 input values
+derived from a weighted average of the sawmill
+survey data.
+Survey results showed that 221 MJ of process
+energy was consumed per cubic meter of red-
+wood decking produced. Total electrical con-
+sumption was 91 kWh/m3 of final product. For
+the log yard operations, sawing, drying, and
+planing, the consumption of the grid electrical
+energy was 1.1, 67.7, 10.7, and 20.5% of the
+total, respectively. Based on this breakdown,
+the four unit processes used 1.0, 61.9, 9.8, and
+18.7 kWh of grid electricity per cubic meter of
+redwood decking produced. The major sources
+of process energy were derived from the wood
+fuel generated on-site during the planing process
+(76.0%), from piped-in steam produced from
+burning wood biomass off-site (17.6%), and
+from natural gas (6.5%).
+Electricity comparison. Electricity consump-
+tion of 91 kWh per cubic meter of redwood
+decking produced is similar to the value of
+99 kWh/m3 found for manufacturing northeast
+and north–central (NE/NC) US softwood lumber
+(Bergman and Bowe 2010) and approximately
+33% lower than the published value for western
+red cedar decking (118 kWh/m3) (Mahalle and
+O’Connor 2009). None of these values included
+primary energy resources. Table 4 summarizes
+the ancillary material consumed during the deck-
+ing manufacturing process as well as amounts of
+these materials used.
+Cumulative energy. Table 5 shows the cumu-
+lative energy consumption for a cubic meter of
+planed dry redwood decking. Cumulative energy
+values were determined using the HHV shown in
+Table 6. Cumulative energy consumption for
+manufacturing redwood decking was 1.34 GJ/m3
+with wood fuel comprising about 18.8% of the
+total energy input. Natural gas (33.9%) and coal
+(22.5%) were the two largest energy resources
+consumed during the manufacturing process,
+largely because of their preponderance (35.9
+and 19.3%, respectively) of regional electricity
+grid production (Table 2). As shown in Table 5,
+coal consumption increased as a percentage
+compared with natural gas. This increase in coal
+percentage occurred despite the natural gas con-
+sumed at the mills because coal is only about
+50% as efficient when burned to generate grid
+electricity. Because coal is only 50% as efficient
+as natural gas when generating grid electricity,
+twice as much coal is needed as natural gas on a
+per-kilowatt basis.
+Table 5.
+Cumulative energy consumed during production
+of planed (surfaced) redwood decking using cumulative
+gate-to-gate life cycle inventory values.a
+Fuelb
+kg/m3
+MJ/m3
+Percent
+Wood fuel/wood waste
+11.1
+232
+17.3
+Coalc
+11.5
+302
+22.5
+Natural gasc
+8.35
+454
+33.9
+Crude oilc
+3.27
+149
+11.1
+Hydro
+0
+85
+6.3
+Uraniumc
+0.000285
+109
+8.1
+Energy, unspecified
+0
+9
+0.7
+Total
+—
+1340
+100
+a Includes fuel used for electricity production (unallocated).
+b Values are unallocated and cumulative and based on higher heating values.
+c Materials as they exist in nature and have neither emissions nor energy
+consumption associated with them.
+Table 6.
+Higher heating values (HHV) used to calculate
+energy values from raw material resources.
+Fuel
+HHV (MJ/kg)
+Wood fuel/wood wastea,b
+20.9
+Coala
+26.2
+Natural gasa
+54.4
+Crude oila
+45.5
+Diesela
+44.0
+Gasolinea
+48.4
+Uraniumc
+381,000
+a As per Consortium for Research on Renewable Industrial Materials
+(CORRIM) guidelines.
+b Oven-dry basis.
+c Todrewas and Kazimi (1995).
+Table 4.
+List of ancillary materials consumed during
+manufacturing.
+Ancillary materials
+kg/m3
+Hydraulic fluid
+2.41E-01
+Motor oil
+6.63E-02
+Grease
+0.00Eþ00
+Cardboard
+1.21E-04
+Plastic strapping
+6.36E-02
+Paint
+2.12E-03
+Potable water
+1.81Eþ00
+Replacement stickers
+3.40Eþ00
+Bergman et al—LIFE CYCLE IMPACTS OF MANUFACTURING REDWOOD DECKING
+331
+
+Kiln-drying lumber products is energy-intensive
+with the primary boiler fuel being derived from
+the wood residue generated on-site (Puettmann
+and Wilson 2005; Puettmann et al 2010a). Low
+wood fuel consumption, as reported for redwood
+decking, indicates that little kiln-drying occurs
+and when it does occur, the energy input is
+decreased because of the initial air-drying of
+the decking lumber. Only 9.91 OD kg of wood
+fuel per cubic meter of redwood decking
+produced was burned for thermal energy used
+on-site. Additional wood fuel amounting to
+1.15 OD kg/m3 was consumed to kiln-dry the
+wood stickers that are used as spacers when
+stacking the redwood decking for drying. Red-
+wood decking is not the only wood product to
+have a low energy consumption profile. Douglas-
+fir (Pseudotsuga menziesii) used for structural
+lumber is usually not kiln-dried. Thus, the energy
+profile for green Douglas-fir looks similar to
+that of redwood decking (Milota et al 2005;
+Puettmann and Wilson 2005).
+Energy comparison. Most wood products
+consume more energy per cubic meter of final
+product during the manufacturing process than
+does redwood decking. In the Pacific Northwest
+(PNW) of the US, the cumulative allocated
+energy consumption for manufacturing 1 m3 of
+planed dry softwood lumber is 3.364 GJ/m3 of
+which 47% comes from wood fuel (Milota et al
+2005). The values listed in Milota et al (2005)
+and Puettmann et al (2010b) use mass allocation
+to estimate energy consumption. This study allo-
+cates all primary energy to the redwood decking
+and none to the residues. Primary energy is
+defined as the energy embodied in the original
+resources such as natural gas and coal found in
+the earth before conversion. However, the cumu-
+lative energy used to manufacture redwood deck-
+ing is 1.34 GJ/m3, which is only 40% of the
+energy used to produce softwood lumber in the
+PNW (Milota et al 2005). The low cumulative
+energy for redwood decking can be attributed
+largely to the minimal use of kiln-drying, which
+is the most energy-intensive part of producing
+dry lumber. Assigning primary energy con-
+sumption and environmental outputs to both the
+primary product and its associated wood resi-
+dues (ie mass allocation) would further decrease
+the energy values for redwood lumber.
+Mass-allocation approach. As indicated in
+Table 7, allocating by mass to both the product
+and wood residues lowers the cumulative energy
+consumption substantially. Cumulative energy
+dropped to 0.951 GJ/m3 from 1.34 GJ/m3, about
+a 29% decrease. This decrease was largely driven
+by allocating electrical consumption between
+rough green decking and the wood residues gen-
+erated during the sawing process. Rough green
+decking made up about 54% of the incoming log
+(including bark) with the remaining log converted
+into chips, sawdust, shavings, bark, and hog fuel.
+This mass allocation decreased coal consumption
+from 11.5 to 7.7 kg/m3. Hydro and nuclear power
+use decreased similarly. Coal, hydro, and ura-
+nium were only consumed to generate grid elec-
+tricity, unlike wood fuel and natural gas, which
+were used on-site for boiler fuel.
+Fresh Water Consumption
+Fresh water was used primarily for spraying the
+logs in the log yard and for cooling the saw, with
+most of the water being recycled back into hold-
+ing ponds for reuse. Three of the four surveyed
+redwood mills reported that they sprinkle their
+logs with water to maintain freshness and to
+prevent the logs from checking and splitting in
+the hot summer sun. Fresh water consumption
+Table 7.
+Cumulative energy consumed during production
+of planed (surfaced) redwood decking using cumulative,
+mass-allocated gate-to-gate life cycle inventory values.a
+Fuelb
+kg/m3
+MJ/m3
+Percent
+Wood fuel/wood waste
+10.3
+216
+22.7
+Coalc
+7.7
+201
+21.1
+Natural gasc
+5.66
+308
+32.4
+Crude oilc
+1.99
+90
+9.5
+Hydro
+0
+57
+6.0
+Uraniumc
+0.000190
+73
+7.6
+Energy, unspecified
+0
+6
+0.6
+Total
+—
+951
+100
+a Includes fuel used for electricity production (allocated).
+b Values are allocated and cumulative and based on higher heating values
+(Table 6).
+c Materials as they exist in nature and have neither emissions nor energy
+consumption associated with them.
+332
+WOOD AND FIBER SCIENCE, JULY 2014, V. 46(3)
+
+rates were based on responses obtained from all
+four sawmills. Surface and ground water con-
+sumption were found to average 187 and 22 L/m3
+of planed dry redwood decking with 86% of the
+water being recycled (Table 3).
+Resource Transportation
+Redwood logs are transported from the forest
+with diesel-powered logging trucks. Logging
+trucks collect the redwood logs (127% MC) at
+the forest landing and transport the logs an aver-
+age of 54 km to the sawmill log yard. No other
+material transported to the mill was reported to be
+more than 1% of the mass of the incoming logs.
+Therefore, resource transport was determined
+to include only log transport for the purposes of
+any calculations. Energy impacts for the resource
+transport module have been reported separately.
+The cumulative energy consumption during
+the log transport phase was calculated to be
+111 MJ/m3, and this value must be added to the
+combination of forest management activities
+and lumber production to calculate the cradle-
+to-gate cumulative energy.
+Environmental Emission Profile
+Gate-to-gate. Table 8 lists the cumulative
+environmental outputs generated during the pro-
+duction of 1 m3 of redwood decking for the
+on-site (mill only) and base-case (no-allocation)
+system boundaries (Fig 2) along with the cumu-
+lative outputs using a mass-allocation approach.
+Table 8.
+Environmental outputs for manufacturing one cubic meter of dry planed redwood decking.
+Substance
+On-sitea (kg/m3)
+Cumulativeb (kg/m3)
+Cumulativec (kg/m3)
+Water effluents
+BOD5 (biological oxygen demand)
+1.41E-01
+2.09E-01
+1.91E-01
+Chloride
+0.00
+1.74
+1.15
+COD (chemical oxygen demand)
+5.64E-04
+2.17E-02
+1.42E-02
+DOC (dissolved organic carbon)
+0.00Eþ00
+2.16E-03
+1.39E-03
+Oils, unspecified
+1.65E-06
+3.10E-03
+2.01E-03
+Suspended solids, unspecified
+8.15E-05
+5.15E-02
+3.28E-02
+Industrial wasted
+Waste in inert landfill
+0.267
+0.267
+0.261
+Waste to recycling
+0.222
+0.222
+0.217
+Solid wastee
+0.081
+0.111
+0.103
+Air emissions
+Acetaldehyde
+9.30E-05
+1.19E-04
+9.84E-05
+Acrolein
+2.94E-04
+4.05E-04
+3.76E-04
+Benzene
+3.44E-04
+4.95E-04
+4.38E-04
+Carbon monoxide
+0.122
+0.196
+0.143
+Carbon dioxide, biogenic
+14.1
+20.9
+19.1
+Carbon dioxide, fossil
+7.6
+52.9
+34.9
+Formaldehyde
+3.70E-04
+5.08E-04
+4.51E-04
+Mercury
+2.55E-07
+8.28E-07
+6.45E-07
+Methane
+0.002
+0.171
+0.115
+Nitrous oxide
+2.08E-05
+5.36E-04
+3.57E-04
+Nonmethane VOC,f unspecified origin
+0.00Eþ00
+1.10E-02
+6.87E-03
+Particulates, >2.5 and <10 mm
+4.01E-02
+5.64E-02
+5.05E-02
+Particulates, unspecified
+0.00Eþ00
+1.54E-02
+1.01E-02
+Phenol
+0.00Eþ00
+3.79E-07
+2.02E-07
+Sulfur dioxide
+0.00Eþ00
+0.352
+0.237
+VOC
+4.29E-02
+5.13E-02
+4.61E-02
+a Environmental outputs released on-site from fuel burned on-site (no allocation).
+b All environmental outputs assigned to the final product, dry planed redwood decking (no allocation).
+c Environmental outputs assigned to the final product by mass allocation.
+d Includes solid materials not incorporated into the product or coproducts but left the system boundary.
+e Solid waste was boiler ash from burning wood. Wood ash is typically used as soil amendment or is landfilled.
+f VOC, volatile organic compound.
+Bergman et al—LIFE CYCLE IMPACTS OF MANUFACTURING REDWOOD DECKING
+333
+
+For the base-case cumulative system boundary,
+biogenic CO2 and fossil CO2 emissions were
+20.9 and 52.9 kg/m3, respectively. Fossil CO2
+for the base-case cumulative case was about
+seven times (52.9/7.6) the fossil CO2 emitted
+on-site because the only sources of on-site fossil
+CO2 came from the equipment used at the mill
+facility (eg front-end loaders and forklifts).
+Also, mercury emissions to the air dropped by a
+factor of 86 (0.171/0.002) because coal grid
+electricity, the primary source of mercury emis-
+sions, occurred outside of the mill.
+Coal power plants are major emitters of mercury
+in the US (Pirrone et al 2010). The amount of
+sulfur dioxide emitted is similar to mercury,
+because its emissions correlate to coal power
+production. Biogenic (biomass-based) CO2 emit-
+ted from mill operations is about 67% of the
+cumulative total with the remaining 33% com-
+ing from wood fuel that is burned off-site to
+provide thermal energy for the dry stickers that
+were used as spacers between the decking dur-
+ing the drying process and from steam produced
+from wood fuel that was piped into the sawmill
+from outside the system boundary. The alloca-
+tion of biogenic CO2 emissions was approxi-
+mately equal between the stickers and the piped
+steam, mainly because kiln-drying the stickers
+requires substantial amounts of energy. Solid
+waste (wood boiler ash), such as biogenic CO2,
+is generated during the consumption of wood
+fuel during the manufacture of redwood decking.
+There is only a slight variation in biogenic CO2
+emissions between the no-allocation and mass-
+allocation approaches. This slight variation occurs
+because most biogenic CO2 is released during
+the drying process from burning wood fuel on-site
+for steam production (ie thermal energy), which
+happens after the log breakdown into decking
+and its associated green wood residues.
+Unit processes. Table 9 portrays the air emis-
+sion profiles for each unit process. Air emissions,
+especially carbon emissions, are of primary
+importance to many “green building” stake-
+holders because carbon emissions are tied to
+energy consumption and global warming. There-
+fore, decreasing energy consumption during the
+manufacture of building materials would aid in
+decreasing the overall environmental impact of
+the building. As expected, the kiln-drying pro-
+cess released the most biogenic CO2 emissions,
+17.6 kg/m3 of the total 20.9 kg/m3. This can be
+attributed to the fact that wood fuel was burned
+Table 9.
+Air emission profile by individual unit processes per cubic meter of dry planed redwood decking using
+cumulative gate-to-gate life cycle inventory values.a
+Substances
+Log yard (kg/m3)
+Sawing (kg/m3)
+Drying (kg/m3)
+Planing (kg/m3)
+Total (kg/m3)
+Acetaldehyde
+2.60E-05
+1.37E-05
+7.63E-05
+2.67E-06
+1.19E-04
+Acrolein
+3.16E-06
+4.26E-05
+3.59E-04
+5.90E-07
+4.05E-04
+Benzene
+3.28E-05
+6.97E-05
+3.82E-04
+1.01E-05
+4.95E-04
+Carbon monoxide
+0.071
+0.038
+0.065
+0.021
+0.196
+Carbon dioxide, biogenic
+0.0
+3.0
+17.6
+0.3
+20.9
+Carbon dioxide, fossil
+6.7
+30.7
+5.9
+9.5
+52.9
+Formaldehyde
+4.05E-05
+6.06E-05
+3.99E-04
+7.24E-06
+5.08E-04
+Mercury
+1.16E-08
+3.56E-07
+3.65E-07
+9.58E-08
+8.28E-07
+Methane
+0.011
+0.105
+0.023
+0.032
+0.171
+Nitrous oxide
+2.02E-05
+3.51E-04
+5.63E-05
+1.09E-04
+5.36E-04
+Nonmethane VOC,b unspecified
+4.57E-03
+4.01E-03
+7.64E-04
+1.63E-03
+1.10E-02
+Particulates, >2.5 and <10 mm
+3.35E-03
+7.04E-03
+4.53E-02
+7.12E-04
+5.64E-02
+Particulates, unspecified
+7.52E-04
+1.03E-02
+1.52E-03
+2.89E-03
+1.54E-02
+Phenol
+1.86E-10
+3.75E-07
+1.17E-09
+2.27E-09
+3.79E-07
+Sulfur dioxide
+0.007
+0.231
+0.043
+0.070
+0.352
+VOC
+3.28E-03
+6.00E-03
+1.31E-03
+1.93E-03
+1.25E-02
+a Includes fuel used for electricity production (unallocated).
+b VOC, volatile organic compound.
+334
+WOOD AND FIBER SCIENCE, JULY 2014, V. 46(3)
+
+in the boilers to supply heat for kiln-drying
+the redwood decking. In addition, the sawing
+process consumed the most electricity and gener-
+ated the most fossil CO2 emissions, 30.7 kg/m3
+of the total 52.9 kg/m3. Other emissions, includ-
+ing methane, mercury, and sulfur dioxide, are
+linked to grid electricity consumption because
+coal burning makes up 22.1% of the composite
+grid (Table 2). Sawing released some biogenic
+CO2 (3.0 kg/m3) because the wood energy con-
+sumed during production of the stickers that are
+used to space the decking during drying was
+allocated to the sawing process. In this study,
+the redwood decking was considered to be
+stickered before going to the drying process
+(both air-drying and kiln-drying).
+An air emission comparison shows that redwood
+decking generates less greenhouse gas (GHG)
+emissions than most other US softwood products.
+For example, Puettmann et al (2010b) reported
+fossil and biogenic CO2 emissions for Inland
+West softwood lumber of 71.7 and 116 kg/m3,
+respectively. In addition, Bergman and Bowe
+(2010) reported fossil and biogenic CO2 emis-
+sions for NE/NC softwood lumber of 65.1 and
+187 kg/m3, respectively. The NE/NC included
+log production emissions, whereas the Inland
+West estimates did not. Regardless, the reported
+values show the higher impacts of the drying
+process if the wood product is mostly kiln-dried
+instead of air-dried.
+The distinction among sources of CO2 emissions
+is made because GWP is reported in kg CO2
+equivalents using the default TRACI impact
+assessment method (Bare 2011; Branda˜o and
+Levasseur 2011). This default method does not
+count the CO2 emissions released during the
+combustion of woody biomass during produc-
+tion. Other emissions associated with wood com-
+bustion such as methane or nitrogen oxides,
+however, do contribute to and are included in
+the GWP impact category. This approach to
+reporting the impacts of biogenic CO2 is consis-
+tent with the Intergovernmental Panel for Climate
+Change (IPCC 2006) inventory reporting frame-
+work in that there is no assumption that biomass
+combustion is carbon-neutral but that net car-
+bon emissions from biomass combustion are
+accounted for under the Land Use Change and
+Forestry Sector and are therefore ignored in
+energy emissions reporting for the product LCA
+to prevent double counting.
+Impact Categories and Impact Measures
+With the LCI flows from the individual unit pro-
+cesses for the no-allocation approach, six envi-
+ronmental impact categories were estimated
+using TRACI 2.1 (PRe´ Consultants 2014).
+Tables 10 and 11 show that GWP, AP, and RE
+were highest for the sawing process whereas
+ODP and EP were highest for the drying pro-
+cess. Most fossil CO2 was generated during the
+sawing process from burning coal and natural
+gas for grid electricity, which translated into a
+higher GWP. AP followed GWP because of the
+fossil fuel usage for electricity. High RE impacts
+can be attributed to refining natural gas. For
+the drying process, burning wood for thermal
+energy and refining diesel for fuel contributed
+the most to ODP, whereas burning diesel and use
+of coal for electricity production on the grid con-
+tributed the most to EP. In addition, the log yard
+Table 10.
+Environmental impacts by individual unit processes by values per cubic meter of dry planed redwood decking
+using cumulative gate-to-gate LCI values.a
+Impact categories
+Unit
+Log yard
+Sawing
+Drying
+Planing
+Total
+Ozone depletion potential
+kg CFC-11 eq
+5.78E-08
+5.78E-07
+2.97E-06
+7.97E-08
+3.69E-06
+Global warming potential
+kg CO2 eq
+6.99
+33.5
+6.49
+10.4
+57.4
+Smog potential
+kg O3 eq
+2.80
+2.04
+1.01
+0.76
+6.61
+Acidification potential
+kg SO2 eq
+0.086
+0.286
+0.072
+0.090
+0.534
+Eutrophication potential
+kg N eq
+0.0055
+0.006
+0.0107
+0.0017
+0.0234
+Respiratory effects
+kg PM2.5 eq
+0.0021
+0.0165
+0.0133
+0.0047
+0.0365
+a Includes fuel used for electricity production (unallocated).
+Bergman et al—LIFE CYCLE IMPACTS OF MANUFACTURING REDWOOD DECKING
+335
+
+process contributed the most to SP because con-
+sumption of diesel burned in log yard equipment
+is greater than in any other unit process. Mass-
+allocation impacts were not shown but were
+lower, as expected (about 38.4% less than the
+no-allocation impacts on average for the six envi-
+ronmental impact categories).
+Carbon Balance
+The carbon balance associated with the produc-
+tion of redwood decking was calculated by esti-
+mating the amount of carbon found in wood and
+bark using a carbon content of 53% and allocat-
+ing it to the wood material uses shown in Table 1.
+Table 12 shows the carbon balance for 1 m3 of
+dry planed redwood decking and all coproducts.
+Seventy-one percent of redwood sawmill resi-
+due is used for generating electricity in off-site
+wood power plants to supply power to the elec-
+trical grid. If the wood residue was not available,
+nonrenewable resources (eg coal and natural gas)
+would be required to make up the difference.
+Additional carbon benefits accrued from using
+the wood residue to offset power production, but
+this energy impact was not considered in the
+analysis. Nearly 53% of the carbon contained in
+the redwood logs (including the bark) remains
+stored in the redwood decking. The carbon
+stored in the final product (201 kg) outweighed
+all wood residue generated and is a long-term
+carbon benefit because the carbon is sequestered
+within the product for as long as it remains in
+service. The amount of carbon stored in redwood
+decking if emitted into the atmosphere as CO2
+would be approximately 10 times the total CO2
+emissions released during its manufacturing.
+CONCLUSIONS
+Wood products store carbon while in service.
+The amount of carbon stored in redwood deck-
+ing if emitted into the atmosphere as CO2 is
+approximately 10 times greater than the total
+CO2 emissions released during manufacturing.
+Low carbon manufacturing emissions and the
+carbon storage inherent in redwood decking
+during its service life are positive environmental
+attributes that should be strongly considered
+when selecting a decking product.
+During the entire life cycle of wood products,
+the manufacturing stage typically consumes the
+Table 11.
+Environmental impacts by individual unit processes by percentage per cubic meter of dry planed redwood
+decking using cumulative gate-to-gate life cycle inventory values.a
+Impact categories
+Log yard (%)
+Sawing (%)
+Drying (%)
+Planing (%)
+Total (%)
+Ozone depletion potential
+1.6
+15.7
+80.6
+2.2
+100
+Global warming potential
+12.2
+58.4
+11.3
+18.1
+100
+Smog depletion potential
+42.4
+30.8
+15.3
+11.4
+100
+Acidification potential
+16.2
+53.5
+13.5
+16.9
+100
+Eutrophication potential
+23.3
+23.9
+45.6
+7.1
+100
+Respiratory effects
+5.7
+45.1
+36.4
+12.9
+100
+a Includes fuel used for electricity production (unallocated).
+Table 12.
+Carbon balance of redwood decking in the manufacturing stage.
+Carbon flows per cubic meter of dry planed redwood decking made
+kg CO2-eq/m3
+Percentage (%)
+Carbon stored in incoming log (carbon uptake)
+1260
+90.1
+Carbon stored in incoming bark (carbon uptake)
+138
+9.9
+Mill residue combusted on-site for on-site thermal energy
+16
+1.1
+Mill residue leaving site and combusted for electricity (71%)
+457
+32.7
+Mill residue leaving site and decayed as soil amendment/mulch (25%)
+161
+11.5
+Mill residue leaving site and made into new wood product (4%)
+26
+1.8
+Carbon stored in final product
+738
+52.8
+Balance
+0
+0
+336
+WOOD AND FIBER SCIENCE, JULY 2014, V. 46(3)
+
+most energy and releases the highest GHG emis-
+sions because of the electricity used for sawing
+and the energy-intensive nature of the kiln-drying
+process. The release of GHG emissions is
+especially high when fossil fuels are consumed
+to generate steam (ie thermal energy) for the dry
+kilns. Wood product manufacturing in general
+typically consumes far more fossil and wood
+fuel than was reported for redwood decking per
+functional unit of 1 m3. This disparity between
+products arises because most wood manufactur-
+ing facilities, including those processing hard-
+woods, kiln-dry their lumber while it is still
+green. Air-drying redwood decking prior to kiln-
+drying dramatically lowers energy consumption
+during the manufacturing process and thus sub-
+stantially lowers GHG emissions.
+Air-drying also affects variation in results between
+LCA allocation methods. The difference between
+no-allocation and mass-allocation methods has
+only a small impact on biogenic CO2 emissions
+because most coproducts (ie wood residues) were
+removed during the sawing process, at which
+point almost 70% of the energy has already
+been expended. However, biogenic CO2 is just
+one of many environmental outputs that need to
+be considered.
+Overall, the selection of the allocation approach
+does affect most of the environmental outputs
+assigned to the final product. Mass allocation
+for wood products results in lower environmental
+burdens being assigned to the final products than
+a no-allocation approach. This occurs for red-
+wood decking because although it makes up
+about 53% of the volume of the incoming log,
+the final product carries the entire environmen-
+tal burden in a no-allocation approach. There-
+fore, conducting both a mass- and no-allocation
+approach would show the differences if any in
+the environmental outputs.
+REFERENCES
+ASMI (2014) ATHENA impact estimator for buildings. Ver-
+sion 4.5. ATHENA Sustainable Materials Institute, Ottawa,
+Ontario. http://www.athenasmi.org (11 March 2014).
+AWC (2014) Environmental product declaration: Redwood
+decking. American Wood Council, Leesburg, VA. 14 pp.
+http://www.awc.org/pdf/EPDs/Redwood_Decking_EPD.pdf
+(11 March 2014).
+Bare JC (2011) TRACI 2.0: The tool for the reduction and
+assessment of chemical and other environmental impacts
+2.0. Clean Technol Envir 13:687-696.
+Barrette BR, Gedney DR, Oswald DD (1970) California
+timber industries—1968. Mill characteristics and wood
+supply.
+Division
+of
+Forestry,
+State
+of
+California,
+San Francisco, CA. 117 pp.
+Bergman RD (2010) Drying and control of moisture content
+and dimensional changes. Pages 13-1-13-20 in RJ Ross,
+ed, Wood handbook: Wood as an engineering material.
+Gen Tech Rep FPL-GTR-113 USDA For Serv Forest
+Prod Lab, Madison, WI.
+Bergman RD, Bowe SA (2010) Environmental impact
+of manufacturing softwood lumber determined by life-
+cycle inventory. Wood Fiber Sci 42(CORRIM Special
+Issue):67-78.
+Bergman RD, Han H, Oneil E, Eastin IL (2013) Life-cycle
+assessment of redwood decking in the United States with
+a comparison to three other decking materials. CORRIM
+Final Report. University of Washington, Seattle, WA.
+101 pp.
+Binam K (2013) President, Western Wood Products Asso-
+ciation, Portland, OR. Personal communication with R
+Bergman (25 February 2013).
+Binam K (2014) President, Western Wood Products Asso-
+ciation, Portland, OR. Personal communication with R
+Bergman (1 January 2014).
+Bowyer J, Howe J, Stai S, Trusty W, Bratkovich S, Fernholz
+K (2012) The international green construction code impli-
+cations for materials selection in commercial construc-
+tion. Dovetail Partners, Inc, Minneapolis, MN. 16 pp.
+http://www.dovetailinc.org/files/DovetailIGCC0512.pdf
+(11 March 2014).
+Branda˜o M, Levasseur A (2011) Assessing temporary
+carbon storage in life-cycle assessment and carbon
+footprinting: Outcome of an expert workshop. 7-8 October
+2010. Ispra, Italy. Publications Office of the European
+Union, Luxembourg.
+CORRIM (2010) Research guidelines for life-cycle inven-
+tories. Consortium for Research on Renewable Industrial
+Materials, Inc., University of Washington, Seattle, WA.
+40 pp.
+Denig J, Wengert EM, Simpson WT (2000) Drying hard-
+wood lumber. Gen Tech Rep FPL-GTR-118 USDA For
+Serv Forest Prod Lab, Madison, WI. 138 pp.
+EIA (2014) Independent statistics and analysis: Glossary (H).
+United States Energy Information Association. Washington,
+DC.
+http://www.eia.gov/tools/glossary/index.cfm?id¼H
+(11 March 2014).
+EPA (2012) eGRID2012 Version 1.0 Year 2009 GHG
+Annual Output Emission Rates. United States Environ-
+mental Protection Agency. Washington, DC. http://www
+.epa.gov/cleanenergy/documents/egridzips/eGRID2012V1_
+0_year09_GHGOutputrates.pdf (11 March 2014).
+Bergman et al—LIFE CYCLE IMPACTS OF MANUFACTURING REDWOOD DECKING
+337
+
+FAL (2010) Life cycle inventory of 100% postconsumer
+HDPE and PET recycled resin from postconsumer
+containers and packaging. Franklin Associates. Prairie
+Village,
+KS.
+198
+pp.
+http://www.napcor.com/pdf/
+FinalReport_LCI_Postconsumer_PETandHDPE.pdf (11
+March 2014).
+FAL (2011) Cradle-to-gate life cycle inventory of nine
+plastic resins and four polyurethane precursors. Franklin
+Associates, Prairie Village, KS. 73 pp. http://plastics
+.americanchemistry.com/LifeCycle-Inventory-of-9-Plastics-
+Resins-and-4-Polyurethane-Precursors-Rpt-Only (11 March
+2014).
+Fonseca MA (2005) The measurement of roundwood:
+Methodologies and conversion ratios. CABI Publishing,
+Cambridge, MA. 269 pp.
+FPInnovations
+(2011)
+Product
+Category
+Rule
+(PCR):
+For preparing an Environmental Product Declaration
+(EPD) for North American Structural and Architectural
+Wood Products. UN CPC 31. NAICS 21. FPInnovations,
+Vancouver, British Columbia, Canada. 17 pp. http://
+www.fpinnovations.ca/ResearchProgram/environment-
+sustainability/epd-program/Documents/wood-products-
+pcr-version-1-november-2011.pdf (11 March 2014).
+Han HS, Oneil E, Bergman RD, Eastin IL (2014) Life cycle
+impacts of redwood forest resource harvesting in northern
+California (submitted to a journal and out for review).
+IPCC (2006) Task force on national greenhouse gas inven-
+tories. Prepared by the National Greenhouse Gas Inven-
+tories Programme. Pages 4.1-4.83 in HS Eggleston,
+K Buendia, K Miwa, T Ngara, and K Tanabe, eds. Inter-
+national
+Panel
+on
+Climate
+Change
+Guidelines
+for
+National Greenhouse Gas Inventories. IGES, Hayama,
+Kanagawa, Japan.
+Isenberg IH, Harder ML, Louden L (1980) Pulpwoods of
+the United States and Canada: Volume 1—Conifers.
+Institute of Paper Chemistry, Appleton, WI. 219 pp.
+ISO
+(2006a)
+Environmental
+management—Life-cycle
+assessment—Principles and framework. ISO 14040.
+International Organization for Standardization, Geneva,
+Switzerland. 20 pp.
+ISO
+(2006b)
+Environmental
+management—Life-cycle
+assessment—Requirements and guidelines. ISO 14044.
+International Organization for Standardization, Geneva,
+Switzerland. 46 pp.
+Jones DA, O’Hara KL (2012) Carbon density in managed
+coast redwood stands: Implications for forest carbon
+estimation. International Journal of Forest Research
+85(1):99-110.
+Mahalle L, O’Connor J (2009) Life cycle assessment of
+western red cedar siding, decking, and alternative products.
+FPInnovations–Forintek
+Division,
+Western
+Region,
+Vancouver, British Columbia, Canada. 126 pp.
+MHC (2010) Green outlook 2011: Trends driving change.
+McGraw-Hill Construction, New York, NY. 32 pp.
+MHC (2012) 2013 Dodge construction green outlook.
+McGraw-Hill Construction, New York, NY. 32 pp.
+Milota MR (2004) Softwood lumber—Pacific Northwest
+Region. CORRIM Phase I Final Report Module B.
+University of Washington, Seattle, WA. http://www
+.corrim.org/reports/. 75 pp. (11 March 2014)
+Milota MR, Wes CD, Hartley ID (2005) Gate-to-gate life
+inventory of softwood lumber production. Wood Fiber
+Sci 37(Special Issue):47-57.
+NREL (2014) Life-cycle inventory database project. National
+Renewable Energy Laboratory, Golden, CO. https://
+www.lcacommons.gov/nrel/search (11 March 2014).
+Pirrone N, Cinnirella S, Feng X, Finkelman RB, Friedli HR,
+Leaner J, Mason R, Mukherjee AB, Stracher GB, Streets
+DG, Telmer K (2010) Global mercury emissions to the
+atmosphere from anthropogenic and natural sources.
+Atmos Chem Phys 10:5951-5964.
+PRe´ Consultants (2014) SimaPro 7 life-cycle assessment
+software package, Version 7. Plotter 12, 3821 BB
+Amersfoort, The Netherlands. http://www.pre.nl/ (11
+March 2014).
+Puettmann ME, Bergman RD, Hubbard S, Johnson L,
+Lippke B, Wagner F (2010a) Cradle-to-gate life-cycle
+inventories of US wood products production—CORRIM
+Phase I and Phase II Products. Wood Fiber Sci 42
+(CORRIM Special Issue):15-28.
+Puettmann ME, Wagner FG, Johnson LF (2010b) Life-
+cycle inventory of softwood lumber from the Inland West
+US. Wood Fiber Sci 42(CORRIM Special Issue):52-66.
+Puettmann ME, Wilson JB (2005) Life-cycle analysis
+of wood products: Cradle-to-gate LCI of residential
+wood building materials. Wood Fiber Sci 37(Special
+Issue):18-29.
+Ritter MA, Skog KE, Bergman RD (2011) Science
+supporting the economic and environmental benefits of
+using wood and wood products in green building con-
+struction. Gen Tech Rep FPL-GTR-206. USDA For Serv
+Forest Prod Lab, Madison, WI. 9 pp.
+Simpson WT (1991) Dry kiln operator’s manual. Agric
+Handb 188. USDA For Serv Forest Prod Lab, Madison,
+WI. 274 pp.
+Todrewas NE, Kazimi MS (1995) Nuclear system I—Thermal
+hydraulics fundamentals. Taylor and Francis, Philadelphia,
+PA. Page 2, Table 1-1.
+USDOC (1995) Lumber production and mill stocks–1994.
+US Department of Commerce, Census Bureau, Washington,
+DC.
+http://academicarchive.snhu.edu/bitstream/handle/
+10474/1049/ma24t94.txt?sequence=1 (11 March 2014).
+USDOC (2006) Lumber production and mill stocks—2005.
+US Department of Commerce, Census Bureau, Washington,
+DC.
+http://www.census.gov/industry/1/ma321t05.pdf
+(11 March 2014).
+USDOC (2011) Lumber production and mill stocks—2010.
+US Department of Commerce, Census Bureau, Washington,
+DC. http://www.census.gov/manufacturing/cir/historical_
+data/ma321t/ma321t10.xls (11 March 2014).
+USDOC (2014) New privately owned housing units
+started: Seasonally adjusted annual rate. US Department
+of Commerce, Bureau of the Census, Washington, DC.
+http://www.census.gov/construction/nrc/pdf/startssa.pdf
+(11 March 2014).
+338
+WOOD AND FIBER SCIENCE, JULY 2014, V. 46(3)
+
+USDOE (2012) 2011 buildings energy data book. Chapter 1:
+Buildings Sector. 1.1 Buildings Sector Energy Con-
+sumption. US Department of Energy. 286 pp. http://
+buildingsdatabook.eren.doe.gov/docs/DataBooks/2011_
+BEDB.pdf (11 March 2014).
+Wiemann MC (2010) Characteristics and availability of
+commercially important woods. Pages 2-1-2-45 in RJ
+Ross, ed, Wood handbook: Wood as an engineering
+material. Gen Tech Rep FPL-GTR-113. USDA For Serv
+Forest Prod Lab, Madison, WI.
+Bergman et al—LIFE CYCLE IMPACTS OF MANUFACTURING REDWOOD DECKING
+339

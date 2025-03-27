@@ -1,0 +1,533 @@
+ERI–Issues in Forest Restoration
+Forest Restoration Treatments: Their Effect on Wildland Fire  
+Suppression Costs
+
+The Ecological Restoration Institute 
+ 
+Te Ecological Restoration Institute at Northern Arizona University is a pioneer in researching, 
+implementing, and monitoring ecological restoration of dry, frequent-ﬁre forests in the Intermountain 
+West. Tese forests have been signiﬁcantly altered during the last century, with decreased ecological  
+and recreational values, near-elimination of natural low-intensity ﬁre regimes, and greatly increased risk 
+of large-scale ﬁres. Te ERI is working with public agencies and other partners to restore these forests  
+to a more ecologically healthy condition and trajectory—in the process helping to signiﬁcantly reduce  
+the threat of catastrophic wildﬁre and its eﬀects on human, animal, and plant communities.
+Cover photo: 
+Several ﬁre crews, comprised of more than 6,000 ﬁreﬁghters from across the country, fought night and day to 
+suppress the Wallow Fire, which ignited on May 29, 2011 in eastern Arizona and burned more than 538,000 acres. 
+Photo: U.S. Forest Service
+Northern Arizona University
+Ecological Restoration Institute
+PO Box 15017
+Flagstaff, AZ 86011-5017
+928-523-7182
+nau.edu/eri
+Northern Arizona University 
+School of Forestry
+P.O. Box 15018
+Flagstaff, AZ 86011-5018
+Publication date: May 2013
+Authors: Ryan A. Fitch, Ecological Restoration Institute and School of Forestry, Northern Arizona University
+Yeon-Su Kim, PhD, Northern Arizona School of Forestry, Northern Arizona University
+Amy E.M. Waltz, PhD, Ecological Restoration Institute, Northern Arizona University
+Editor: Dave Egan
+Series Editor: Tayloe Dubay
+Please contact the ERI for reproduction policies: 928-523-5697
+All material copyright © 2013 ERI, NAU
+Northern Arizona University is an Equal Opportunity/Afﬁrmative Action Institution   
+NAU Printing Services/05-13
+
+Table of Contents
+1
+Executive Summary .....................................................................................................................2
+Introduction ...................................................................................................................................2 
+The Ecological Restoration Solution: Will it Reduce Suppression Costs? ..............................3 
+Methods and Study Area .............................................................................................................3 
+Regression Analysis and Suppression Costs ............................................................................5 
+ 
+Results .................................................................................................................................7
+ 
+Regression Analysis and Suppression Costs ..................................................................8 
+Discussion .....................................................................................................................................9 
+Management Implications .........................................................................................................10 
+Conclusion ..................................................................................................................................10 
+References  ................................................................................................................................. 11
+
+Executive Summary
+We modeled the eﬀects of proposed forest restoration treatments in Arizona’s Four Forest Restoration Initiative 
+(4FRI) on ﬁre behavior characteristics and ﬁre suppression costs. We found two signiﬁcant factors that help explain 
+total wildﬁre suppression costs: 1) distance from the wildﬁre to the wildland-urban interface and 2) the proportion 
+of ﬁres with high burn severity. Given our results, we estimate a range for wildland suppression costs at $706–$825 
+per acre for the current conditions of the 4FRI landscape. After the proposed forest restoration treatments, the 
+suppression costs should be reduced to $287–$327 per acre for the same size ﬁre.
+Introduction
+Federal land management agencies, including the USDA Forest Service (USFS) and agencies within the 
+Department of Interior (DOI), have experienced a signiﬁcant rising trend in wildland ﬁres and subsequent 
+wildland ﬁre suppression expenditures. For example, the appropriations for wildland ﬁre management activities 
+by these agencies rose from $1.2 billion annually from 1996–2000 to more than $2.9 billion annually during 
+2001–2007 (GAO 2009, Table 1). Tis rising trend is forecast to continue with higher frequency of wildland 
+ﬁre occurrences, longer durations of wildland ﬁre seasons (Westerling et al. 2006), and the continued expansion 
+of residential development within the vulnerable wildland-urban interface, also known as WUI (Headwaters 
+Economics 2008).
+Table 1. Forest Service and Interior Wildland Fire Appropriations, Fiscal Years 1996 through 2007 
+Total appropriations (millions of dollars) 
+Fiscal year 
+Nominal 
+Inﬂation-adjusted
+a
+1996 
+$772.4 
+$984.2
+1997 
+$1,432.1 
+$1,793.3
+1998 
+$1,116.7 
+$1,381.7
+1999 
+$1,159.3 
+$1,415.9
+2000 
+$1,598.9 
+$1,914.2
+2001 
+$2,859.9 
+$3,344.7
+2002 
+$2,238.8 
+$2,569.0
+2003 
+$3,165.1 
+$3,560.2
+2004 
+$3,230.6 
+$3,541.6
+2005 
+$2,929.8 
+$3,144.0
+2006 
+$2,701.4 
+$2,775.4
+2007 
+$3,047.0 
+$3,047.0
+Source: GAO analysis of Congressional Research Service data.
+Tere have been considerable research eﬀorts designed to understand the factors aﬀecting the overall costs of wildland 
+ﬁres (Donovan and Rideout 2003, Lynch 2004, Calkin et al 2005, Gebert et al. 2007, Liang et al. 2008, Prestemon et 
+al. 2008). Tese studies indicate that the increasing trend in wildland ﬁre suppression expenditures corresponds to a trend 
+of increasing acres burned by large, wildland ﬁres (i.e., ﬁres greater than 988 acres in size). While these large wildland 
+2
+
+3
+ﬁres are relatively small in number, they account for nearly 98 percent of the total acres burned (Calkin et al. 2005). Te 
+frequency of large ﬁres has markedly increased since the mid-1980s with almost four times as many large ﬁres burning 
+nearly seven times more land between 1987 and 2003 compared to the period 1970–1986.
+Total wildland ﬁre suppression cost has also been positively correlated with various spatial factors, in addition 
+to ﬁre size. For example, Liang and colleagues (2008) examined 100 wildland ﬁres greater than 300 acres in 
+size between 1996 and 2005, and found that 58 percent of the variation in wildland ﬁre suppression costs was 
+attributed to ﬁre size and percentage of private land burned. Likewise, after examining 1,550 wildland ﬁres 
+across the United States, Gebert and colleagues (2007) discovered that total housing value within 20 miles of 
+the wildland ﬁre ignition point had a positive eﬀect on expected suppression cost. Yoder and Gebert (2012) 
+also found that housing values and other values-at-risk positively contribute to an increase in ﬁre suppression 
+costs. Although total ﬁre size (area burned) increases overall suppression cost, expected suppression cost per acre 
+decreases as ﬁre size increases due to the ﬁxed nature of many ﬁre suppression related expenditures.  
+ 
+ 
+The Ecological Restoration Solution:  
+Will it Reduce Suppression Costs?
+Trough the Collaborative Forest Landscape Restoration Program (CFLRP) and other measures, the USFS 
+and its partners have plans and projects under way to restore forested landscapes that are now susceptible to 
+large wildﬁres. Using ecological forest restoration principles, these projects envision returning forests to healthy 
+ecological conditions, increasing ecosystem services, protecting forest communities from catastrophic wildﬁre, 
+and providing support to local and regional economies. In terms of increasing ﬁre safety, ecological restoration 
+treatments are designed to change ﬁre behavior conditions from high-severity crown ﬁres to low-severity surface 
+ﬁres, largely by thinning trees using mechanical treatments and/or prescribed burning. Tese approaches, which 
+have been successful at smaller scales, will be applied to hundreds of thousands acres on now ﬁre-prone forested 
+landscapes. Te questions we sought to answer in our research were: 1) What will be the eﬀect of restoration 
+treatments on ﬁre behavior at the landscape scale?  2) If these treatments are successful, what, if any, ﬁre 
+suppression cost savings might be realized? 
+Methods and Study Area
+To answer our questions, we began by adopting the Cost plus Net Value Change (C+NVC) model because it 
+provides a basis for determining the relationship between wildland ﬁre suppression costs and fuel treatments. 
+In the C+NVC model, costs (C) are all costs associated with wildland ﬁre suppression and fuel treatments. 
+Meanwhile, NVC represents all other ﬁre-related losses, including property and facilities damage as well as other 
+value changes in non-market ecosystem services. Teoretically, some aspects of fuel treatments can be considered 
+substitutes for suppression costs for a given level of NVC, while some components of fuel treatments complement 
+those in ﬁre suppression (Donovan and Rideout 2003, Rideout et al. 2008). Tus, an increase in fuel treatments 
+does not necessarily imply a reduction in suppression costs unless optimum NVC was set at a ﬁxed level. Rather 
+than viewing fuel treatments as a substitute for ﬁre suppression, fuel treatments and ﬁre suppression expenditures 
+are viewed as inputs to NVC in terms of their individual marginal and joint eﬀects. 
+Next, we employed wildland ﬁre models to determine wildland ﬁre suppression costs per acre in order to predict 
+changes in wildland ﬁre suppression costs. Using FlamMap via the ArcFuels extension in conjunction with 
+ArcGIS, we selected the factors of “ﬂame length,” “crown ﬁre activity,” and “burn probability” to categorize the 
+
+4
+potential of severe wildﬁre across the landscape. We then established a baseline analysis with the ﬁre models 
+to show how the restoration treatments aﬀected ﬁre behavior on the treated landscape. Since the restoration 
+treatments produced reductions in wildland ﬁre probability and/or wildland ﬁre severity potential, we were then 
+able to estimate the changes in wildland ﬁre suppression costs. Comparing the expected reduction in wildﬁre 
+suppression costs with treatment costs will provide a metric for the cost-beneﬁt analysis of treatment costs to 
+avoided wildland ﬁre suppression costs for a given NVC level. 
+Our initial study area for modeling ﬁre behavior is a portion of the Coconino National Forest, which is south/
+southeast of the City of Flagstaﬀ, Arizona and is designated as restoration unit 1 (RU1) as part of the CFLRP-
+funded Four Forest Restoration Initiative Project, or 4FRI  (Figure 1). 
+Current analysis of the landscape is limited strictly to reducing the costs of wildland ﬁre suppression (C). We 
+have not incorporated treatment costs into the calculation of C, because ﬁnal costs of the proposed treatment 
+are highly uncertain at this point depending on the rate of resulting biomass utilization from the 4FRI project. 
+For example, past estimates of similar mechanical thinning operations in the area was $300–$433 per acre, 
+but the current contractor proposed to pay the USFS up to $22 per acre for recovery of the materials. If ﬁre 
+suppression costs are to be mitigated, it seems appropriate to focus on the factors and treatments that relate to 
+ﬁres categorized as “large” in size or where the severe wildﬁre threat is greatest (Pollet and Omi 2002).
+We used the current conditions of the entire 4FRI landscape to create the landscape ﬁles (LCPs) for the 
+ﬁre modeling carried out in FlamMap, version 3 (Mary Lata and Neil McCuster, personal communication). 
+Te LCP consisted of a compilation of fuel model, canopy cover, height to live crown (canopy base height), 
+canopy bulk density, slope, aspect, and elevation raster layers. Te LCP was then cropped to focus on the 
+4FRI treatment area, RU1. Two ﬁles—a fuel moisture ﬁle and a wind ﬁle—were created to approximate 
+environmental conditions. Each ﬁle was based on conditions observed during the Schultz Fire, which occurred 
+under non-extreme ﬁre conditions. Te Schultz Fire burned more than 15,000 acres north of Flagstaﬀ in 2010, 
+Figure 1. Study Area RU 1 
+within the 4FRI (Source: Four 
+Forest Restoration Initiative 
+Draft Proposed Action Scoping 
+Report, June 2011).
+
+5
+and we assumed the ﬁre conditions for the Schulz Fire were conservative and would be present in the RU1 area 
+during ﬁre season. Wind speed and direction were also based on conditions during the Schultz Fire, that is, a 
+20-mph wind out of the southwest (Mary Lata, personal communication). We used the Scott/Reinhardt 2001 
+Crown Fire Calculation Method (Scott and Reinhardt 2001) to calculate ﬂame length and crown ﬁre activity 
+outputs in FlamMap.
+Using a ﬂame length categorization model (Ager et al. 2011), we categorized the ﬂame length outputs into 
+hauling categories (a typical categorization that corresponds directly to suppression eﬀorts required: 0–4 feet, 4–8 
+feet, 8–11 feet, and 11+ feet) in order to determine the eﬀectiveness of initial wildland ﬁre suppression activities. 
+Because of the various resource costs associated with more severe wildland ﬁres, we found this categorization to 
+be useful in assessing burn severity. A ﬁfth ﬂame length category, 20-foot or higher ﬂame lengths, was included 
+in the ﬁre behavior analysis to show areas where we expect to observe high burn severity ﬁre conditions.
+Crown ﬁre activity outputs from FlamMap are expressed in crown activity potential as classiﬁed by “active crown 
+ﬁre,” “passive crown ﬁre,” “surface ﬁre,” and “unburned.” Crown ﬁre activity was used as one of the ﬁre behavior 
+proxies for burn severity. If a pixel was in the active crown ﬁre category, that pixel was estimated as indicating 
+high burn severity. 
+Burn probabilities were calculated from 1,000 random ignitions. Previous case studies using burn probability 
+applied considerably higher numbers of random ignitions, but lack of computing power limited our runs. Te 
+resolution of calculations was set to 394 feet (120 meters); the maximum simulation time was one day (1,440 
+minutes); and the interval for minimum travel paths was 1,640 feet (500 meters). 
+FlamMap outputs were transferred into ArcGIS 10 for geospatial referencing and further analysis. We used 
+the spatial analyst tool, “Raster Calculator,” to combine the ﬁre behavior metrics, burn probability, and the 
+boundaries of the suggested treatment area within the RU1 area. Te “Reclassify” and “Calculate” tools were used 
+to ﬁnd the number of acres in each of the combined ﬁre behavior metrics and burn probability categories within 
+the treatment area. Tese outputs were exported to Excel 2010 to calculate the total acres of each of the ﬁre 
+behavior metrics and burn probability categories.
+Regression Analysis and Suppression Costs
+We calculated the expected wildﬁre suppression costs within the RU1 study area using a general linearized 
+model output for the average cost per acre of $695 within the USDA National Forest System Region 3 (Gebert 
+et al. 2007). In addition, we compared this cost to our results from the regression analysis. Te wildland ﬁre 
+suppression cost estimate is also based solely on suppression costs and did not include rehabilitation and other net 
+value changes. No consideration was given to the probability of ﬁre spreading into the area. 
+We employed a regression analysis based on 39 wildland ﬁres, each more than 1,000 acres in size, that occurred 
+within the overall 4FRI area between 2001 and 2009 in order to estimate wildland ﬁre suppression costs. Table 
+2 provides information about the variables used and information sources. Other variables of interest that were 
+identiﬁed and collected include: vegetation cover type, proximity to the WUI area, proportion of private land 
+burned, and total acres of the landscape being modeled. We used designated WUI areas as deﬁned by each of 
+the national forests within our sample. Te “Euclidean Distance Tool” within the “Spatial Analyst” toolbox of 
+ArcGIS was used to calculate this distance (Table 3). 
+
+6
+With the ﬁre behavior outputs available to us from the FlamMap ﬁre modeling, we used burn severity and 
+dominant vegetation type to represent ﬁre behavior and distance to WUI and proportion of ﬁre burned in private 
+land to represent ﬁre location. We represented other locational variables that might aﬀect ﬁre suppression costs 
+by the dummy variable for each national forest where each ﬁre occurred. Tis model helped us understand and 
+forecast wildland ﬁre suppression costs given our ability to model the impacts of proposed treatments on changes 
+in ﬁre behavior.
+Table 2. Dependent and independent variables used in the regression analysis
+Variable
+Description
+Source
+Cost
+Forest Service and DOI suppression expenditure
+US Forest Service
+Size (fz)
+Number of acres burned
+www.mtbs.gov
+Distance to WUI (ﬂ)
+Shortest distance from WUI perimeter to ﬁre perimeter
+National Forest web-
+site
+Burn Severity (fb)
+Proportion of ﬁre that burned at high, medium, and low 
+severity
+www.mtbs.gov
+Private Land (ﬂ)
+Proportion of ﬁre burned in private land
+www.land.state.az.us
+Dominant Vegetation 
+Type (fb)
+Vegetation type that had the highest percent cover 
+within the ﬁre perimeter
+National Forest web-
+site
+Forest (ﬂ)
+Dummy variable for the National Forest in which the ﬁre 
+occurred
+National Forest web-
+site
+Table 3. Equations from the regression analysis 
+Equation
+P-value
+R2
+C/A = 245.29664** - 0.01227* x D + 16.10641** x H
+0.00
+0.33
+C = 406,343 - 46.9942 x D + 94,510** x H + 124.6876** x A
+0.00
+0.59
+C = total suppression expenditure, A = acres burned, P = % private land, D = distance to WUI, and H = % high severity burn.
+**, P < 0.01; *, P < 0.1
+
+7
+Results
+Fire Behavior
+In terms of ﬁre behavior, we found several related results. Tey are:
+1. According to the models, if ﬁre were to occur under current conditions in the proposed treatment area 
+we estimate 50,287 acres would burn at high severity. After restoration treatments, we project this 
+would decrease to 4,502 acres, a reduction of 45,785 acres (see Figure 2). In other words, under the 
+current conditions, 28.6 percent of the 175,617 acres of proposed treatment area is likely to burn at 
+high severity while only 2.6 percent of the same area would be at high severity following the proposed 
+restoration treatment. 
+2. We observed a large decrease in passive and active crowning within the boundaries of the treated areas. 
+Tis resulted because the treated areas had fewer trees per acre, decreased canopy bulk density, and an 
+increase in canopy base height compared to the current conditions.
+3. Te models showed a decrease in ﬂame length within the treatment compared to the current conditions.
+4. Models showed an overall increase in the probability that areas in the treated landscape will burn when 
+compared to the current conditions. Te ranges of burn probabilities are 0–27.4 percent and 0–32.8 
+percent for current and treated conditions, respectively. Tis was especially the case in the northwestern 
+boundaries of the treatment areas and is likely due to “opening” the landscape, causing wind to have a 
+larger impact on ﬁre behavior. 
+Figure 2. Distribution of estimated high burn severity from active crown ﬁre activity and ﬂame  
+length greater than 20 feet. Current conditions and proposed treatment as (a) and (b), respectively. 
+
+8
+Regression Analysis and Suppression Costs
+Our results show the total acres burned was signiﬁcant in predicting wildland ﬁre suppression costs as expected, 
+although we also found that the percent of area burned at high severity better explained the variation of 
+suppression costs. With regards to distance from the WUI, we found a marginal (three-foot increase) decrease 
+in suppression costs of $46.99 for total expenditures and $0.01 for cost per acre when total acres burned and 
+proportion of high burn severity were held constant. Tis result is consistent with previous ﬁndings of higher 
+wildland ﬁre suppression costs in WUI areas (Donovan et al. 2004, Liang et al. 2008). Te proportion of area 
+with a high burn severity variable had a marginal (in terms of a 1 percent increase) increase in suppression cost  
+of $94,510 for total expenditures and $16.11 for cost per acre when total acres burned and distance from WUI 
+held constant. 
+Using the more conservative estimate of high burn severity being deﬁned as active crown ﬁre or ﬂame lengths 
+greater than 20 feet, our linear regression result estimates a wildland ﬁre suppression cost of $706 per acre for 
+RU1 area in its current condition. Te linear regression model estimate for wildland ﬁre suppression cost after 
+ecological restoration treatment is $287 per acre—a signiﬁcant diﬀerence of $419 per acre. Using the total cost 
+linear regression equation, our estimates are $25 million and $22.5 million for the current conditions and post 
+treatment, respectively. However, if other factors of wildland ﬁre costs, including rehabilitation and ecosystem 
+service loss, are included to suppression costs, the total cost of wildﬁres (C+NVC) has been estimated to be in 
+the range of 2 to 30 times greater than the costs associated with suppression alone (Western Forestry Leadership 
+Coalition 2010).
+If we expand high burn severity to include both passive and active crown ﬁre or ﬂame lengths greater than 11 
+feet, our regression equation estimates suppression costs to be $825 per acre for current conditions and $327 per 
+acre after restoration treatment—a diﬀerence of $498 per acre. In terms of total suppression costs, our regression 
+estimates are $25.7 million for the current conditions and $22.8 million post treatment. Tese estimates are 
+summarized in Table 4.
+Table 4. Estimated wildland ﬁre suppression costs
+Per Acre Cost
+Total Cost
+Current conditions with active 
+crown ﬁre or ﬂame length > 20 ft.
+$706
+$25,006,591
+Current conditions with passive 
+and active crown ﬁre or ﬂame 
+length > 11 ft.
+$825
+$25,706,910
+Post-treatment with active crown 
+ﬁre or ﬂame length > 20 ft.
+$287
+$22,549,331
+Post-treatment with passive and 
+active crown ﬁre or ﬂame length > 
+11 ft.
+$327
+$22,784,661
+
+9
+Discussion
+Recent studies of large wildﬁres have repeatedly pointed to the size of the ﬁre as the most signiﬁcant factor in 
+determining wildﬁre suppression costs. While recognizing the importance of ﬁre size, we also suspected that ﬁre 
+behavior characteristics play an important role when modeling wildﬁre suppression expenditures. In this study, 
+we used linear regression models focused on ﬁre behavior characteristics and produced promising preliminary 
+results. Our regionally speciﬁc regression analysis estimates a per acre suppression cost in the range of $706 to 
+$825 under current conditions with signiﬁcantly lower costs, ranging from $287 to $327 per acre, after restoration 
+treatments. Previous research by Gebert and colleagues (2007) found that the average suppression cost for large 
+(greater than 300 acres) wildﬁres was $695 per acre for the Southwest region between 1995 and 2004.  
+Assuming that our results are relatively accurate (and we do acknowledge that a parameter estimate bias may be 
+present due to our relatively small sample of wildﬁres greater than 1,000 acres; see Yoder and Gebert 2012), what 
+do they mean in terms of the overall costs of maintaining and restoring forest health? To determine this answer, 
+we studied the ability of the restoration treatments to help defray wildland ﬁre suppression costs using a cost-
+beneﬁt analysis. Tese results suggest to us that whenever a restoration treatment costs less than $420 per acre 
+on our conservative estimate ($498 per acre on our expanded classiﬁcation), the restoration treatment will have a 
+positive net saving with regards to suppression costs. Similarly, the treatments would produce a net saving if the 
+treatments can be implemented over the landscape at a total cost of $2.5 million or less (less than $2.9 million as 
+the upper end range). Of course, this is assuming a constant NVC level as discussed above.
+Fire size has long been correlated with ﬁre suppression costs. We acknowledge this association in our econometric 
+model, but sought to predict ﬁre suppression costs through ﬁre behavior characteristics we can model. Our total 
+expenditure model is largely driven by the explanatory variable “total acres burned.” In both the treated and 
+untreated landscape, we are assuming the same number of acres will burn, the area encompassed by the proposed 
+treatments. Te reduction in total expenditure is strictly due to changes in ﬁre behavior characteristics (burn 
+severity). Te goal of restoration treatments in this area is not to mitigate ﬁre size or prevent the occurrence of 
+ﬁre, but to reintroduce ﬁre into the landscape in a socially acceptable and ecologically resilient manner. 
+Our ongoing research is currently expanding the use of our regression analysis by including ﬁres from the 2010 
+ﬁre season as well as ﬁres that occurred on the Tonto National Forest. Once this modeling is completed, we will 
+have a larger sample size to strengthen the results reported in this paper. We plan to reﬁne the measure of burn 
+severity that can be derived from ﬁre behavior modeling outputs because predicting ﬁre behavior is critical to the 
+inputs that we have identiﬁed for estimating wildland ﬁre suppression costs.
+Fireﬁghters perform blacklining 
+operations, where hand drip 
+torches are used to burn fuels 
+along a perimeter to limit a ﬁre’s 
+growth. Photo courtesy of the 
+Ecological Restoration Institute
+
+10
+Management Implications
+Te results of this study identiﬁed several management implications and important research areas for the future. 
+• 
+As with any restoration treatment, reduction of severe wildland ﬁres is only one of the goals and beneﬁts. 
+Other beneﬁts include the enhancement of additional ecosystem services such as improved carbon 
+storage, water yields and ﬁltration, wildlife habitat, and recreational opportunities. All of these improved 
+or maintained ecosystem service beneﬁts need to be considered in the overall cost-beneﬁt analysis of 
+implementing restoration treatments. Further analysis of the NVC of the landscape is required to 
+determine the true cost of wildland ﬁre (Donovan and Rideout 2003).
+• 
+We found that restoration treatments may create unintended, negative consequences. In particular, 
+while they reduce burn severity of the treated area, such activities may increase the burn probability 
+of areas adjacent and outside the management boundary. To oﬀset this tendency, managers and ﬁre 
+planners might examine the values and infrastructure at risk in the adjacent areas prior to treatment 
+implementation, paying particular attention to wind direction and ﬁre spread probabilities. 
+• 
+Our models indicate that high burn severity conditions are interspersed throughout the landscape under 
+the current conditions but change to a disconnected, spotty conﬁguration of high burn severity following 
+restoration treatments (Figure 2). Tis may aﬀect the wildﬁre suppression cost estimate as areas under 
+“severe” conditions could be allowed to burn, with suppression eﬀorts focused on areas that exhibit lower 
+predicted severity (i.e., have smaller ﬂame length or surface ﬁres). Under these circumstances, a more 
+holistic estimate of ﬁre suppression costs, one that includes low burn severity, could be beneﬁcial. 
+• 
+Reintroducing prescribed ﬁres is a typical restoration goal and may be implemented instead of or as a 
+complement to mechanical thinning. Tere are costs involved when using this approach that are often 
+not included in ﬁre suppression cost studies, including this one. A more detailed measure of wildﬁre 
+suppression costs linked to diﬀerences in ﬁre behaviors could provide a more accurate measure of the total 
+estimated suppression costs.
+Conclusion
+In this paper, we applied wildﬁre models and an econometric regression model to predict per acre wildland ﬁre 
+suppression costs as well as changes in total wildland ﬁre suppression costs within a proposed landscape-scale 
+restoration project, the Four Forest Restoration Initiative in northern Arizona. Our results suggest that changing 
+potential ﬁre behavior through ecological restoration treatments can have a generally positive eﬀect on projected 
+wildland ﬁre suppression costs. For instance, if the 4FRI restoration treatments can be implemented at a cost less 
+than our estimated treatment costs of $706–$825 per acre, then, based strictly on cost savings from wildland ﬁre 
+suppression costs, the restoration treatments will be cost eﬃcient. Tis level of cost eﬃciency may not reﬂect the 
+true economic value, however, because our analysis does not take into account net value changes to the landscape. 
+For example, the 4FRI ecosystem could be providing greater quantities or qualities of ecosystem services (e.g., 
+more water, cleaner water) following restoration treatments. Additionally, the ecosystem may be more resilient to 
+future ecosystem disturbances (e.g., wildland ﬁre) thereby altering the net value change component of the model. 
+Finally, our results complement the U.S. Forest Service Risk and Cost Analysis Tools Package (R-CAT), which 
+is now required for all projects funded by the USFS Collaborative Forest Landscape Restoration Program, and 
+are not meant to replace that procedure.
+
+11
+References
+Ager, A.A., N.M. Vaillant, and M.A. Finney. 2011. Integrating ﬁre behavior models and geospatial analysis for 
+wildland ﬁre risk assessment and fuel management planning. Journal of Combustion 2011(Article ID 572452).
+Allen, C.C., M. Savage, D. Falk, K.F. Suckling, T.W. Swetnam, T. Schulke, P.B. Stacey, P. Morgan, M. 
+Hoﬀman, and J.T. Klingel. 2002. Ecological restoration of southwestern ponderosa pine ecosystems: A broad 
+perspective. Ecological Applications 12(5):1418-433.
+Calkin, D.E., K.M. Gebert, G.J. Jones, and R.P. Neilson. 2005. Forest service large ﬁre area burned and 
+suppression expenditure trends, 1970-2002. Journal of Forestry 103(4):179-183. 
+Calkin, D.E. and K.M. Gebert. 2009. Economics of wildland ﬁre risk management. Tucson, AZ: Wildﬁre 
+Lessons Learned Center. Online at: http://www.wildﬁrelessons.net/documents/Economics.pdf
+Donovan, G.H., P. Noordijk, and V. Radeloﬀ. 2004. Estimating the impact of proximity of houses on wildﬁre 
+suppression costs in Oregon and Washington. In Proceedings of the Second International Symposium on Fire 
+Economics, Planning, and Policy: A global view.
+Donovan, G.H. and Rideout, D.B. 2003. A Reformulation of the Cost plus Net Value Change (C+NVC) Model 
+of Wildﬁre Economics. Forest Science, Vol. 49, No. 2, pp. 318 – 323.
+Gebert, K.M., D.E. Calkin, and J. Yoder. 2007. Estimating suppression expenditures for individual large 
+wildland ﬁres. Western Journal of Applied Forestry 22(3):188-196.
+Government Accountability Oﬃce (GAO). 2009. Wildland ﬁre management: Federal agencies have taken 
+important steps forward, but additional action is needed to address remaining challenges. Washington, DC: 
+Government Accountability Oﬃce. Online at: http://www.gao.gov/new.items/d09906t.pdf.
+Headwaters Economics. 2008. Montana wildﬁre cost study technical report. Bozeman, MT: Headwaters 
+Economics. Online at: http://headwaterseconomics.org/pubs/wildﬁre/HeadwatersEconomics_FireCostStudy_
+TechnicalReport.pdf
+Liang, J., D.E. Calkin, K.M. Gebert, T.J. Venn, and R.P. Silverstein. 2008. Factors inﬂuencing large wildland 
+ﬁre suppression expenditures. International Journal of Wildland Fire 17:650-659.
+Pollet, J. and P.N. Omi. 2002. Eﬀect of thinning and prescribed burning on crown ﬁre severity in ponderosa pine 
+forests. International Journal of Wildland Fire 11(1):1-10.
+Rideout, D.B., Y. Wei, A.G. Kirsch, and S.J. Botti. 2008. Toward a uniﬁed economic theory of ﬁre program 
+analysis with strategies for empirical modeling. Pages 361-380 in T.P. Holmes, J.P. Prestemon, and K.L. Abt, eds., 
+Te economics of forest disturbances: Wildﬁres, storms, and invasive species. Dordrecht, Te Netherlands: Springer.
+Scott, J.H. and E.D. Reinhardt. 2001. Assessing Crown Fire Potential by Linking Models of Surface and Crown 
+Fire Behavior. USFS Rocky Mountain Research Station: Research Paper RMRS RP 29.
+
+12
+Westerling, A.L., H.G. Hidalgo, D.R. Cayan, and T.W. Swetnam. 2006.Warming and earlier spring increase 
+western U.S. forest wildfire activity. Science 313: 940-943.
+Western Forestry Leadership Coalition. 2010. The true cost of wildfire in the western U.S. Lakewood, CO: 
+Western Forestry Leadership Coalition. Online at: http://www.wflccenter.org/news_pdf/324_pdf.pdf.
+Yoder, J. and K. Gebert. 2012. An econometric model for ex ante prediction wildfire suppression costs. Journal  
+of Forest Economics 18:76-89.
+
+13
+Ecological restoration is a practice that seeks to heal degraded ecosystems by reestablishing native species, structural characteristics, and 
+ecological processes. Te Society for Ecological Restoration International deﬁnes ecological restoration as “an intentional activity that 
+initiates or accelerates the recovery of an ecosystem with respect to its health, integrity and sustainability. … Restoration attempts to 
+return an ecosystem to its historic trajectory” (Society for Ecological Restoration International 2004).
+Troughout the dry forests of the western United States, most ponderosa pine forests have been degraded during the last 150 
+years. Many ponderosa pine areas are now dominated by dense thickets of small trees, and lack their once diverse understory of 
+grasses, sedges, and forbs. Forests in this condition are highly susceptible to damaging, stand-replacing ﬁres and increased insect 
+and disease epidemics. Restoration of these forests centers on reintroducing frequent, low-intensity surface ﬁres—often after 
+thinning dense stands—and reestablishing productive understory plant communities.
+Te Ecological Restoration Institute at Northern Arizona University is a pioneer in researching, implementing, and monitoring 
+ecological restoration of dry, frequent-ﬁre forests in the Intermountain West. By allowing natural processes, such as ﬁre, to 
+resume self-sustaining patterns, we hope to reestablish healthy forests that provide ecosystem services, wildlife habitat, and 
+recreational opportunities.
+Te ERI Issues in Forest Restoration series provides overviews and policy recommendations derived from research and 
+observations by the ERI and its partner organizations. While the ERI staﬀ recognizes that every forest restoration is site 
+speciﬁc, we feel that the information provided in the series may help decision makers elsewhere.
+Tis publication would not have been possible without funding from the USDA Forest Service. Te views and conclusions 
+contained in this document are those of the authors and should not be interpreted as representing the opinions or policies of 
+the United States Government. Mention of trade names or commercial products does not constitute their endorsement by the 
+United States Government or the ERI.
+ERI—Issues in Forest Restoration
+1. Forestlands Health and Carbon Sequestration: Strengthening the Case for Western Forest Restoration
+2. Smoke from Prescribed Burning: Issues on Public Forestlands of the Western United States
+3. Public Perceptions of Forest Restoration in the Southwest: A Synthesis of Selected Literature and Surveys
+4. Integrating Ecological Restoration and Conservation Biology: A Case Study from Southwestern Ponderosa  
+ 
+Pine Forests
+5. Communications between Forest Managers and Property Owners in Pine Flat, Arizona: A Case Study of Community  
+ 
+Interactions in a High Fire Hazard Area
+6. Wilderness Management and the Restoration of Fire: An Analysis of Laws and Regulations in Northern Arizona
+7. Navigating the Motives and Mandates of Multiparty Monitoring
+8. Forest Service Contracting: A Basic Guide for Restoration Practitioners
+9. Case Study of Community Stewardship Success: The White Mountain Stewardship Contract
+10.  What to Expect from Collaboration in Natural Resource Management: A Research Synthesis for Practitioners
+11.  Southwest Ecological Restoration Institutes (SWERI) Biophysical Monitoring Workshop Report
+12.  Carbon Credits for Restored Western Forests?
+13.  Ecological Restoration as Economic Stimulus: A Regional Analysis
+14.  Exploring the Potential of Obtaining Carbon Credits for Restoration Activities on Navajo Tribal Forest Lands
+15.  Integrating Domestic and Wild Ungulate Grazing into Forest Restoration Plans at the Landscape Level
+16.  Workforce Needs of the Four Forests Restoration Initiative Project: An Analysis
+17.  A Full Cost Accounting of the 2010 Schultz Fire
+
+Ecological Restoration Institute
+PO Box 15017
+Flagstaff, AZ 86011-5017
+ERI34KV
+Return Service 
+Requested
+Non-Proﬁt Org
+U.S. Postage 
+PAID
+Northern Arizona 
+University

@@ -1,0 +1,668 @@
+Forest Ecology and Management, 44 ( 1991 ) 161-173 
+161 
+Elsevier Science Publishers B.V., Amsterdam 
+A model of ponderosa pine growth response to 
+prescribed burning 
+Elaine Kennedy Sutherland a'~, W. Wallace Covington b and Steve Andariese b 
+aNative Plants, Inc., 417 Wakara Way, Salt LakeCity, UT84108, USA 
+bSchool of Forestry, Northern Arizona University, Flagstaff, AZ 86011, USA 
+(Accepted 3 August 1990) 
+ABSTRACT 
+Sutherland, E.K., Covington, W.W. and Andariese, S., 1991. A model of ponderosa pine growth re- 
+sponse to prescribed burning. For. Ecol. Manage., 44:16 l-173. 
+Our objective was to model the radial growth response of individual ponderosa pines to prescribed 
+burning in northern Arizona. We sampled 188 trees from two study areas, which were burned in 1976. 
+Within each study area, control and burned trees were of similar age, vigor, height, and competition 
+index. At Chimney Spring, trees were older, less vigorous, and taller and had a higher competition 
+index than at Brannigan. For each tree, periodic basal area increment (PBA1) was calculated for the 
+years 1974-1984. To determine which variable would best model growth, post-fire growth (1977- 
+1984 ) was correlated with the 3 year average of previous growth, crown ratio, competition index, and 
+diameter. 
+Post-fire growth response was modeled using stepwise multiple linear regression as a function of 
+previous growth and indicator variables for treatment, treatment-site interaction, climatic variation, 
+and treatment-year interaction. Independent variables of the final model included previous growth, 
+climatic variation, and treatment-year interaction (r2= 0.72). Model coefficients indicated that fire 
+affected growth significantly and negatively for 2 years, and then burned trees grew similarly to con- 
+trol trees. Differences in management history at the two sites did not affect growth after fire. We 
+propose a linear aggregate model of variables controlling radial growth response of southwestern pon- 
+derosa pines to fire. 
+INTRODUCTION 
+Use of fire as a management tool is gaining increased importance in both 
+wildland and managed forests. Fires are prescribed primarily to reduce fuel 
+loading and hence the probability of uncontrolled, catastrophic fires, but they 
+are also advocated to promote nutrient release and thinning. Determining the 
+effect of prescribed fire on tree growth and productivity is important to man- 
+agers and researchers alike. 
+Many environmental and treatment-related factors can affect growth re- 
+~Author to whom correspondence should be addressed at: 1457 E. Harrison Ave., Salt Lake 
+City, UT 84105, USA. 
+0378-1127/91/$03.50 © 1991 Elsevier Science Publishers B.V. All rights reserved. 
+
+162 
+E.K. SUTHERLAND ET AL. 
+sponse, and not surprisingly, studies of wild and prescribed fire effects on 
+ponderosa pine growth have yielded contradictory results (Morris and 
+Mowat, 1958; Lynch, 1959; Van Sickle and Hickmann, 1959; Wooldridge and 
+Weaver, 1965; Pearson et al., 1972; Wyant et al., 1983; Landsberg et al., 1984); 
+the response depended on how much damage the trees sustained or how their 
+environment was affected. 
+The objective of this study was to delineate the factors that can affect growth 
+response to prescribe fired, develop a mathematical model for predicting 
+growth response to prescribed burning, and derive parameter estimates for 
+southwestern ponderosa pine. (The resulting model is specific for ponderosa 
+pine growing on basalt soil in the Flagstaff, Arizona, area. ) 
+STUDY AREA HISTORIES AND CHARACTERISTICS 
+The two study areas, Chimney Spring and Brannigan Flat, are located 9 km 
+apart, within the interior ponderosa pine type (Eyre, 1980) north of Flags- 
+taff, Arizona. The stands are essentially monotypic. Both areas were pre- 
+scribed burned in 1976 and have control plots within 500 m of burned areas. 
+Soils are stony clay loams derived from volcanic cinders and basalt (Meu- 
+risse, 1971 ), and both areas are nearly flat (0-5% slope). The climate is cool 
+and dry (Schubert, 1974). 
+Chimney Spring is a unit of the Forth Valley Experimental Forest, l 0 km 
+north of Flagstaff, at about 2270 m elevation. The overstory consists of un- 
+even-aged ponderosa pine in groups (White, 1985 ). Dense thickets of young 
+trees, less than or approximately equal to 70 years of age, occupy what were 
+previously open areas between groups of mature trees. Chimney Spring has 
+never been logged; however, it was grazed until 1926 (Pearson, 1933 ). Before 
+Anglo-American settlement, Chimney Spring burned every 2-3 years, and the 
+last fire occurred in 1876 (Dieterich, 1980). Chimney Spring has been the 
+site of a prescribed fire research experiment since 1976; overall research de- 
+sign and objectives as well as fuel and burning conditions have been described 
+by Sackett (1980) and Covington and Sackett (1986). 
+Brannigan Flat is more representative of managed ponderosa pine forests 
+in northern Arizona. It lies within the Coconino National Forest, at about 
+2220 m elevation. Silvicultural records (Flagstaff District Ranger Office, Co- 
+conino National Forest, N. Highway 89, Flagstaff, AZ, 86004) indicate that 
+Brannigan Flat was partially harvested in 1908, 1952, and 1971. The stand 
+consists of pole-sized timber with an overstory of mature sawtimber growing 
+in clumps. Brannigan Flat was precommercially thinned in 1974 (trees of less 
+than l 0 cm diameter at breast height (DBH) were cut ), and the slash lopped 
+and scattered. No records were available concerning the date of burning or 
+burning conditions. 
+
+PONDEROSA PINE GROWTH RESPONSE TO BURNING 
+163 
+METHODS 
+Chimney Spring was sampled in autumn 1984 and 1985, and Brannigan 
+Flat in autumn 1985. At both sites, subject trees were selected along a belt 
+transect 20 m wide, but transect length varied. All transects ran southeast to 
+northwest. At Chimney Spring, the study plots were 1 ha in size ( 100 m each 
+side) and we sampled two control and two once-burned plots. No plot was 
+more than 500 m distant from any other plot, and transects were 70 m long. 
+An unsampled buffer zone 12 m wide was established inside plot perimeters 
+to avoid effects from adjacent treatments. When there were insufficient trees 
+to sample in the transect itself, subject trees were chosen near the transect, 
+but not in the buffer zone (this occurred no more than five times per plot). 
+At Brannigan Flat, a control area (150 m× 150 m) had been established 
+before the fire. Both belt transects were 100 m long and had a 30 m buffer 
+zone and the burned transect began 30 m north of the control area fireline. 
+Three diameter classes of trees were sampled: 20.3-30.5 cm DBH, more 
+than 30.5-40.6 cm DBH and more than 40.6 cm DBH. On each transect, 50 
+trees in the size classes less than 40.6 cm DBH were numbered and chosen as 
+a preliminary set. Only trees which met the following criteria were sampled: 
+single bole (no forked trees ), normal-appearing crown ( no deformities indic- 
+ative of disease or damage), no unusually heavy branching patterns, no visi- 
+ble insect or mistletoe infestation, and no apparent fire or lightning scars. 
+From these 50 trees, 15 subject trees in the smaller size classes were selected 
+randomly. Trees of more than 40.6 cm DBH were relatively rare, and vir- 
+tually all trees on the plots that fit the criteria were selected (minimum 15 ). 
+At each site, at least 45 trees were sampled in each treatment ( 188 for the 
+entire study). 
+Data measured and recorded on each tree included DBH, total tree height 
+to base of crown (crown base was defined as the height of the lowest green 
+foliage), estimated competition from other ponderosa pines, and radial 
+growth. Increment ones (two per tree) were taken at breast height 180 o from 
+each other if possible, and if not (e.g. a branch or branch scar was in the way ), 
+at least 90 o from each other. 
+To estimate competition around subject trees, DBH of all trees that were 
+sighted within a 2.3 m 2 ha- 1 basal area factor wedge prism was measured with 
+a diameter tape. Because fire-caused thinning occured, we also measured DBH 
+of trees that died from the fire to estimate a thinning index as well as pre-burn 
+competition. 
+Increment cores were prepared and crossdated using techniques described 
+by Stokes and Smiley ( 1968 ). Growth rings were measured to 0.01 mm (Ro- 
+binson and Evans, 1980). 
+The expression of growth used in this study is periodic basal area increment 
+(PBAI (cm2); Avery and Burkhart, 1983). Annual PBAI estimates were de- 
+
+164 
+E.K. SUTHERLAND ET AL. 
+rived from the raw ring widths of a given year's growth using the average of 
+two cores per tree, and the tree's diameter during any known year. 
+A dimensionless index of competition was calculated for each tree. Simi- 
+larly, a thinning index was also calculated for the burned, dead trees around 
+each subject tree, to quantify fire-related thinning. Competing trees were de- 
+fined as those trees sighted in the prism within a distance of 40 times the 
+subject tree diameter (Sutherland, 1989 ). Competition before the fire on the 
+burned plots was estimated by adding to the data the diameters of trees that 
+died from fire. The index used was 
+n 
+( ~D/)/Di 
+(1) 
+j=l 
+where Di is the diameter of subject tree for i trees, and Dj is the diameter of 
+the jth competing tree. 
+Descriptive statistics (range, mean and standard deviation) were calcu- 
+lated for tree heights, crown ratios (crown length/tree height), tree ages (es- 
+timated to within 5 years), and competition indices. Distribution of these 
+tree descriptors were compared using the Kolmogorov-Smirnov (K-S) two- 
+sample test (Gibbons, 1976, p. 250). 
+In a series of simple linear regressions we correlated competition index, 
+thinning index, crown ratio, diameter, previous growth, and growth since fire 
+to determine which variable was most strongly correlated with growth since 
+fire, to determine the relationships among variables, and to assess 
+multicollinearity. 
+The data were tested for constancy of error variance over all observations 
+and were natural logarithm-transformed where necessary (Neter et al., 1985, 
+p. 615). 
+We used binary indicator variables to account for other potential sources 
+of variation in post-fire growth. Climatic variation contributes significantly 
+to growth variance in southwestern ponderosa pine (Fritts, 1976); we ac- 
+counted for climatic variation effects with seven binary indicator variables 
+(for each year since burning). We also used binary indicators for treatment 
+effects, treatment-site interactions (treatment response caused by site differ- 
+ences), and treatment-year interactions (treatment response associated with 
+time since burning). 
+We used one-half of the data set to develop models and reserved the other 
+half to validate them, by assigning alternate trees to each set. The multiple 
+linear regressions were performed with the development data set using a step- 
+wise search procedure (P<0.05, F to include; Neter et al., 1985, pp. 430- 
+431 ). 
+The regression coefficients were applied to the validation data set to predict 
+growth each year after burning and the ratio of predicted residual mean square 
+
+PONDEROSA PINE GROWTH RESPONSE TO BURNING 
+165 
+to observed residual mean square was assessed for difference from perfect 
+agreement (a ratio of 1.0). 
+RESU LTS 
+Statistics describing tree heights, crown ratios, estimated tree age, and di- 
+ameters for both sizes are given in Table 1. Distributions of all descriptive 
+variables (tree height, crown ratio, tree age, and competition index) are sim- 
+ilar for burned and unburned plots, within sites (Dmax < D, P< 0.05 ). HOW- 
+ever, in comparing the descriptors between sites, there are differences in all 
+distributions (Dmax>D, P> 0.05). The data indicate that compared with 
+Chimney Spring, trees at Brannigan were shorter, had larger crown ratios, 
+were younger, and had lower competition indices. 
+Correlations between the quantitative variables are given in Table 2. Pre- 
+vious growth was most strongly correlated with growth since fire, and was also 
+significantly correlated with all other variables. 
+Not surprisingly, previous growth, competition index, crown ratio, and DBH 
+were all significantly correlated with each other. All correlations were positive 
+except for those related to competition indices. Crown ratio (vigor) and com- 
+petition index were inversely and significantly related to each other; more 
+vigorous trees grew in relatively less dense stands. Diameter was positively 
+correlated with crown ratio and negatively with competition index; small trees 
+with low crown ratios were in relatively dense stands, whereas large trees with 
+high crown ratios had relatively less competition. Correlations between growth 
+TABLE 1 
+Descriptive statistics (range, mean, and standard deviation ) of tree descriptor variables (N= 45-48 ); 
+between study areas, all variables are distributed significantly differently (K-S test, P< 0.05), but 
+there are no differences between treatments within study areas (K-S test, P> 0.05 ) 
+Mean 
+Range 
+Control 
+Burned 
+Control 
+Burned 
+Height (m) 
+Chimney Spring 
+18.8 + 3.76 
+20.2 + 6.25 
+12.2-27.4 
+11.4-34.4 
+Brannigan Flat 
+15.8 _+ 5.02 
+16.3 s 6.49 
+9.9-26.2 
+9.1-29.0 
+Crown ratio 
+Chimney Spring 
+0.54_+ 0.135 
+0.56 + 0.140 
+0.32-0.84 
+0.36-0.76 
+Brannigan Flat 
+0.63 +_ 0.129 
+0.67 + 0.119 
+0.40-0.92 
+0.45-0.89 
+Competition index 
+Chimney Spring 
+15.1 + 6.73 
+15.3 + 5.09 
+4.9-29.2 
+5.3-26.0 
+Brannigan Flat 
+7.6 + 2.96 
+7.0_+ 3.26 
+2.4-12.9 
+0.0-15.2 
+Age (5-year category) 
+Chimney Spring 
+86 _+ 25 
+100_+ 36 
+60-185 
+65-180 
+Brannigan Flat 
+95 _+ 55 
+85 +_ 43 
+50-190 
+50-170 
+
+166 
+E.K. SUTHERLAND ETAL. 
+TABLE 2 
+Simple correlation coefficients (r) between quantitative variables used in developing growth models 
+Previous 
+Competition 
+Crown ratio 
+Thinning 
+DBH 
+growth 
+index 
+index 
+Growth since fire 
+0.816 a 
+-0.487 a 
+0.549 a 
+-0.089 
+0.562 a 
+Previous growth 
+1.000 
+- 0.584 a 
+0.624 ~ 
+- 0.172 
+0.633 a 
+Competition index 
+1.000 
+-0.568 a 
+0.370 a 
+-0.458 ~ 
+Crown ratio 
+1.000 
+0.154 
+0.615 a 
+Thinning index 
+1.000 
+-0.013 
+DBH 
+1.000 
+aSignificant, P< 0.05, N= 88. 
+and diameter indicate that as tree size increased, growth before and after 
+burning increased; large trees had relatively larger PBAI. 
+Thinning index was not significantly related to post-fire growth. Perhaps 
+the fires did not cause enough thinning to affect post-fire growth, or the thin- 
+ning offset damage from fire, resulting in no apparent overall effect. How- 
+ever, as there was no statistically significant relationship between fire-caused 
+thinning and growth, thinning index was not included in any further analysis. 
+Of the other variables, previous growth, competition index, and crown ra- 
+tio were significantly correlated with change in competition as a result of 
+burning. The positive relationship between competition index and thinning 
+index was reasonable; trees in dense stands are often suppressed and weak, 
+and may be more susceptible to fatal damage from fire. Harrington (1987) 
+found that smaller trees, the usual occupants of dense stands of southwestern 
+ponderosa pine, were more susceptible to death from burning than larger, 
+more open-grown trees. This may, in fact, partially explain why there was no 
+relationship between thinning index and post-fire growth; the small trees that 
+died were probably not effective competitors with the subject trees. Because 
+there was no difference between lowest green foliage height distributions in 
+control and burned trees at Chimney Spring or at Brannigan Flat (Ornax < D, 
+P> 0.05 ), foliage loss was not considered as a potential variable. Similarly, 
+thinning index was not included as an independent variable as there was not 
+a significant relationship between this index and growth after burning. Crown 
+ratio, competition index, and DBH were significantly correlated with pre- 
+vious growth, so, to avoid inferential problems associated with multicolli- 
+nearity, we did not consider them in the model. 
+Using only the development data set, the dependent variable was individ- 
+ual tree In (post-fire growth ) of each year since burning, and the initial inde- 
+pendent variable was previous growth. Stepwise addition of variables re- 
+suited in the following model (from the development data set only ): 
+
+PONDEROSA PINE GROWTH RESPONSE TO BURNING 
+167 
+In ( PFG ) = - 0.014 + 0.9071n (PRG)* - 0.376Y 1 + 0.020Y2 
++ 0.203Y3" + 0.203Y4.- 0.204Y5 + 0.099Y6 + 0.048Y7 
+- 0.254TY 1" - 0.197TY2" - 0.108TY3 + 0.025TY4 
++ 0.025TY5 - 0.010TY6 + 0.045TY7 
+where PFG is post-fire growth, PRG is previous growth, Y 1 is year I after fire 
+( 1977 )...Y7 is year 7 after fire ( 1983 ), TY is treatment-year interaction, and 
+the intercept, flo, took into account year 8 ( 1984); variables with an asterisk 
+indicate significant t-values for the coefficients (P< 0.05 ). Inclusion of treat- 
+ment and treatment-site interactions did not add to explicable variance. 
+Significant autocorrelation (r~=0.567, Durbin-Watson statistic 0.865, 
+P< 0.05 ) implied an important relationship between growth of one year and 
+the following year, effectively reducing the model degrees of freedom. We es- 
+timated the effective degrees of freedom (N') as 
+N'=N(l-rl)/(l+rl) 
+(Mitchell et al., 1966) where N= 88 trees X 8 years = 704 and N'= 194. The 
+F-value of the final model was 118.952 (P<0.001). Overall, the model ex- 
+plained 72% of total growth variance since burning (adjusted multiple 
+r2=0.722). 
+Some of the coefficients associated with sets of variables (years and treat- 
+ment-year interactions) did not have significant t-values, but were not 
+dropped from the equation. These coefficients represented categories which 
+were being compared with each other to assess for differential effects (Nie et 
+al., 1975), and because significant autocorrelation existed, and the years 
+themselves could not be considered separately (Neter et al., 1985, pp. 444- 
+448). 
+Signs of the estimated coefficients were as expected; the relationship be- 
+tween In (PRG) and In (PFG) was positive. Signs of the years-since-burning 
+coefficients fluctuated, as might be expected, with climatic variation. Annual 
+precipitation and temperature for Flagstaff for the hydrologic years ( 1 Octo- 
+ber-30 September) 1977-1984 (National Oceanographic and Atmospheric 
+Administration, 1984) are plotted in Fig. 1. Water availability limits ponde- 
+rosa pine growth (Fritts, 1976, pp. 240-241 ), and we would expect low growth 
+during drought years (low precipitation, often with high temperatures ). The 
+coefficient for year 1 after burning (1977) was relatively large and negative; 
+although temperature was below average, precipitation was far below aver- 
+age. Years 3 and 4 (1979 and 1980) had significant, positive coefficients, 
+when years were cool and wet. 
+Over the entire time period, there was no significant treatment effect, but 
+treatment-year interactions indicated that growth responded to treatment with 
+time. The treatment-year interaction was significant and negative for 2 years 
+
+168 
+E.K. SUTHERLAND ET AL. 
+70 
+65 
+~ 6o 
+~ 55 
+~ 5o 
+45 
+4o 
+35 
+3o 
+75 
+L 
+i 
+2 
+3 
+---0-- 
+Precipilotion 
+~Temperolure 
+I 
+I 
+I 
+I 
+4 
+5 
+6 
+7 
+9.0 
+8.5 
+8.0 
+7.5 
+7 
+E 
+7.0 
+6.5 
+t 
+6.0 
+5.5 
+5.0 
+8 
+YEARS SINCE BURNING 
+Fig. 1. Annual precipitation and temperature at Flagstaff, AZ, during the years after burning 
+(hydrologic years 1977-1984). 
+0.1 
+0.0 
+-0.1i 
+z 
+-0.2 
+-0.3 
+L 
+L 
+I 
+I 
+I 
+2 
+3 
+4 
+5 
+6 
+7 
+YEARS SINCE BURNING 
+Fig. 2. Coefficients of the treatment-year interaction in the multiple regression model, vs. years 
+after burning (1977-1984). Only coefficients for the first 2 years after fire had t-values signifi- 
+cantly different from zero. 
+immediately after fire. No other treatment-year interaction coefficients were 
+significant, but they gradually became less negative and varied around zero. 
+This growth response to burning is illustrated in Fig. 2. For the first three 
+
+PONDEROSA PINE GROWTH RESPONSE TO BURNING 
+169 
+years after the fires (1977-1979), coefficients were negative, but less nega- 
+tive with each succeeding year. By year 4 (1980), the values had apparently 
+stabilized, and varied around zero. Autocorrelation in the series effectively 
+smoothed this curve; without it, the year 1 (1977) value would probably be 
+more negative, and one or more values after year 4 (1980) might be positive. 
+However, the curve as it is and the t-values of the coefficients show that there 
+were early, negative effects of burning on ponderosa pine growth, but these 
+effects were short lived (only 3 years). Reinhardt and Ryan (1988 ) found a 
+similar response in prescribed-burned Larix occidentalis, where negative ef- 
+fects lasted only 1 year and growth significantly increased for 4 years. 
+This model validated well. The residual mean square of the equation was 
+0.1243. The mean square of values of the validation data set minus values 
+predicted from the model was 0.1290. These mean squares have a ratio very 
+close to one (1.04), which means that the model adequately predicted the 
+validation data set (Snee, 1977). 
+DISCUSSION AND CONCLUSIONS 
+The strong and positive relationship between previous growth and post-fire 
+growth suggests that factors affecting tree growth rate before the fire contin- 
+ued to affect post-fire growth; trees that grew well before the fire grew well 
+after the fire. Trees that grew well had fewer competitors, were large, and had 
+high crown ratios. 
+Management history did not affect growth response to burning (indicated 
+by non-significant contribution of site-treatment interaction to explained 
+variance ). The two study areas had different management histories: Chimney 
+Spring was protected from logging and grazing, whereas Brannigan Flat was 
+grazed continually since settlement, logged several times, and thinned before 
+burning. In this case, differences in management history resulted in different 
+competition levels, and the correlation analysis indicated an inverse relation- 
+ship between post-fire growth and competition. Chimney Spring had signifi- 
+cantly higher competition levels than Brannigan Flat. The fact that site-treat- 
+ment interaction is not an important contributor to growth variance implied 
+that, in this case, management history itself is not an important factor in de- 
+termining growth response to burning. Thus, the important difference be- 
+tween the study areas was stand density, and not thinning history. 
+The results from the model suggest that there was a significant decrease in 
+growth of burned trees for 2 years at both study areas (Fig. 2). After that, 
+burned-tree growth stabilized and was similar to that of control trees. There 
+were no significant positive growth effects on burned trees in the 8 years after 
+fire. Similarly, Chambers et al. ( 1986 ) noted that, in general, conifer growth 
+recovery after burning occurred within 2-3 years. 
+What fire-related factor(s) were responsible for the observed growth re- 
+
+170 
+E.K. SUTHERLAND ET AL. 
+sponse? Increased stem growth proportional to fire-related thinning in pon- 
+derosa pine has been noted by Morris and Mowat (1958), Lynch (1959), 
+Van Sickle and Hickman (1959), and Pearson et al. (1972). In our study, 
+however, stand density was high, and little thinning occurred; Schubert ( 1971 ) 
+noted that under high stand density conditions, southwestern ponderosa pine 
+responds slowly to thinning. 
+Other studies have found foliage loss to be an important determinant of 
+growth response to burning. Pearson et al. ( 1972 ) found that, after an Ari- 
+zona wildfire, trees with less than 60% foliage exhibited increased growth. 
+Alternatively, Wyant et al. ( 1983 ) attributed an increase in shoot growth to 
+removal of lower, less efficient foliage, and improved photosynthetic effi- 
+ciency. We inferred from lowest green foliage height comparison that there 
+was probably no significant foliage loss after the fire at our sites, so foliage 
+loss was not a likely contributing factor to decreased growth. 
+The effect of cambial damage on growth of burned ponderosa pine trees 
+has not been studied, but could reasonably contribute to decreased growth 
+after burning. Mortality has been related to severe bole burning in ponderosa 
+pine (Lynch, 1959; Wyant et al., 1986). Ryan et al. (1988) found that the 
+number of dead cambium samples in Pseudotsuga menziesii trees was the most 
+important predictor of mortality after prescribed burning. In our initial sam- 
+piing, trees with fire scars or bark sloughing were excluded from the sample, 
+which eliminated the most severely damaged trees. The correlation analysis 
+showed a positive relationship between post-fire annual growth and diameter. 
+This result could have occurred because larger trees generally have thicker 
+bark, and bark insulates cambium from heat. Cambial damage probably oc- 
+curred to smaller trees. 
+Trees may have experienced root damage from the fires. The fire at Chim- 
+ney Spring was observed to be of low intensity but of localized long duration; 
+some deep organic debris smoldered for 2-3 days (Sackett, 1980). Low heat- 
+ing over a long period of time could kill shallow roots (Hare, 1961 ). Cham- 
+bers et al. (1986) noted that these roots, usually fine feeder roots, should 
+quickly regenerate in a healthy tree, during favorable environmental condi- 
+tions. Notably, the year after the fire in this study (1977) was an extreme 
+drought year. These conditions would not have favored quick root recovery. 
+No factor that we could measure appeared to be responsible for the ob- 
+served lower basal area growth for the first few years after burning. In fact, 
+improved nutrient relations (Harris and Covington, 1983; Covington and 
+Sackett, 1986; Ryan and Covington, 1986) and water availability (Haase, 
+1986 ) should have contributed positively to growth. However, where fire did 
+cause cambial and root damage, nutrient and water uptake could have been 
+inhibited (especially under drought conditions ), and trees may have directed 
+available photosynthates to repair, not new cambial growth. Of all woody tis- 
+sue, cambium has the lowest priority for photosynthate allocation (Waring, 
+
+PONDEROSA PINE GROWTH RESPONSE TO BURNING 
+17 1 
+1983). Four years after the fire, nutrient levels were similar to those before 
+the fire, so perhaps when damage was repaired, the cambium could not ben- 
+efit from the nutrient pulse. In any case, growth was more limited by negative 
+factors than promoting factors for the first years after the fire. 
+Our study areas were burned with a single prescribed fire after a century of 
+fire exclusion; response to burning may be different following repeated fires. 
+There should be less fuel, particularly by the third fire, as the first fire may 
+produce even more fuel than existed before the initial fire (Sackett, 1980). 
+Thinning from fire should decrease with each successive fire, as weak individ- 
+uals die. If nutrient release continues to occur with repeated burns, as indi- 
+cated by Covington and Sackett ( 1986 ), then stem growth may increase. A 
+study of growth in areas repeatedly burned should clarify these questions. 
+The results of this study are clear, although the mechanisms causing them 
+are not yet conclusively resolved. Although we attempted to eliminate and 
+account for factors related and unrelated to fire that affect growth, we found 
+that there were important potential fire-related factors, that, 8 years after the 
+fire, we could not directly measure or relate to growth (for example, foliage 
+loss, change nutrient relations, and root damage). From literature cited ear- 
+lier in this paper, and our results, we propose the following linear aggregate 
+model for southwestern ponderosa pine growth response to fire in the ith year 
+of n years since burning: 
+PFGi = PC+ CD + RD+ FL+TI+ 8N+ 8W+Yi +TY, 
+where PFG is post-fire growth, PC is the previous condition, CD is cambial 
+damage, RD is root damage, FL is foliage loss, TI is thinning, 8N is change in 
+nutrient availability, 8W is change in water availability, Y is an indicator for 
+year since burning, to account for climatic variability, and TY is an indicator 
+for treatment-year interaction, to account for response and recovery. Coeffi- 
+cients would indicate the proportional post-fire growth limitation of given 
+variables. The signs of the coefficients are predictable. Sign of the previous 
+condition coefficient could be positive or negative, root and cambial damage 
+would always be negative, foliage loss could be negative or positive, nutrient 
+and water availability losses would probably be positive, and sign of the year 
+coefficient would depend on climate for that year. 
+Studies of growth response to fire (or indeed, any environmental distur- 
+bance) must delineate and factor out the general and site-specific variables 
+related and unrelated to treatment than can affect tree growth. Only then can 
+fire effects be quantified, and appropriate fire management programs 
+implemented. 
+ACKNOWLEDGMENTS 
+This research was undertaken as part of the senior author's doctoral re- 
+search at the University of Arizona, Department of Watershed Management, 
+
+172 
+E.K. SUTHERLAND ET AL. 
+and supported by Mclntire-Stennis Cooperative State Forest Research funds. 
+We thank Steve Sackett for permission to work at Chimney Spring and for 
+technical assistance. Field assistants included Paige Bausman, Mike Wilson, 
+Andrea Wilson, Bob Peterson, Jan Russell, Larry Young, Steve Sutherland, 
+Tom Swetnam, Tom Harlan, Jim Burns, Mike Kearsley and Penny Morgan. 
+We thank the Coconino National Forest, Flagstaff District Ranger's office 
+(Flagstaff, AZ) for silvicultural records, Michael Treshow for use of his tree- 
+ring equipment at the University of Utah, Department of Biology, and two 
+anonymous reviewers for their comments on the manuscript. 
+REFERENCES 
+Avery, T.E. and Burkhart, H.E., 1983. Forest Measurements, 3rd Edn. MacGraw-Hill, New 
+York, 331 pp. 
+Chambers, J.L., Dougherty, P.M. and Hennessey, T.C., 1986. Fire: its effects on growth and 
+physiological processes in conifer forests. In: T.C. Hennessey, P.M. Dougherty, S.V. Dossuth 
+and J.D. Johnson (Editors), Stress Physiology and Forest Productivity. Martinus Nijhoff, 
+Dordrecht, 239 pp. 
+Covington, W.W. and Sackett, S.S., 1986. Effect of periodic burning on soil nitrogen concentra- 
+tions in ponderosa pine. Soil Sci. Soc. Am. J., 50: 452-457. 
+Dieterich, J.H., 1980. Chimney Spring fire history. U.S. Dep. Agric. For. Serv., Rocky Moun- 
+tain For. Range Exp. Sta. Res. Pap. RM-220, 8 pp. 
+Eyre, F.H. (Editor), 1980. Forest Cover Types of the United States and Canada. Society of 
+American Foresters, Washington, DC, 148 pp. 
+Fritts, H.C., 1976. Tree Rings and Climate. Academic Press, London, 567 pp. 
+Gibbons, J.D., 1976. Nonparametric Methods for Quantitative Analysis. American Sciences 
+Press, Columbus, OH, 463 pp. 
+Haase, S.M., 1986. Effect of prescribed burning on soil moisture and germination of southwest- 
+ern ponderosa pine seed on basaltic soils. US Dep. Agric. For. Serv., Rocky Mountain For. 
+Range Exp. Sta. Res. Note RM-462, 6 pp. 
+Hare, R.C., 1961. Heat effects on living plants. US Dep. Agric. For. Serv., South. For. Exp. Sta. 
+Occas. Pap. 183, 32 pp. 
+Harrington, M.G., 1987. Ponderosa pine mortality from spring, summer and fall crown scorch- 
+ing. West. J. Appl. For., 2: 14-16. 
+Harris, G.R. and Covington, W.W., 1983. The effect of a prescribed fire on nutrient concentra- 
+tion and standing crop of understory vegetation in ponderosa pine. Can. J. For. Res., 13: 
+501-507. 
+Landsberg, J.D., Cochran, P.H., Finck, M.M. and Martin, R.E., 1984. Foliar nitrogen content 
+and tree growth after prescribed fire in ponderosa pine. US Dep. Agric. For. Serv., Pacific 
+Northwest For. Range Exp. Sta. Res. Note PNW-412, 15 pp. 
+Lynch, D.W., 1959. Effects of a wildlife on mortality and growth of young ponderosa pine trees. 
+US Dep. Agric. For. Serv. Intermountain For. Range Exp. Sta. Res. Note INT-66, 8 pp. 
+Meurisse, R.T., 1971. Soils report, San Francisco Peaks area. Elden and Flagstaff Ranger Dis- 
+tricts, Coconino National Forest, Flagstaff, AZ, 47 pp. (unpublished). 
+Mitchell, J.M., Jr., Dzerdzeevskii, B., Flohn, H., Hofmeyer, W.L., Lamb, H.H., Rao, K.N. and 
+Wallen, C.C., 1966. Climatic change. World Meteorological Organization, Geneva, Tech. 
+Note 79, 119 pp. 
+
+PONDEROSA PINE GROWTH RESPONSE TO BURNING 
+173 
+Morris, W.G. and Mowat, E.L., 1958. Some effects of thinning a ponderosa pine thicket with a 
+prescribed fire. J. For., 56: 203-209. 
+National Oceanographic and Atmospheric Administration, 1984. Local climatological data, an- 
+nual summary with comparative data, Flagstaff, Arizona. National Environmental Satellite 
+Data and Information Service, National Climatic Data Center, Asheville, NC, 6 pp. 
+Neter, J., Wasserman, W. and Kutner, M.H., 1985. Applied Linear Statistical Models, 2rid edn. 
+Richard D. Irwin, Homewood, IL, 1127 pp. 
+Nie, N.H., Hull, C.H., Jenkins, J.G., Steinbrenner, K. and Brent, D., 1975. Statistical Package 
+for the Social Sciences, McGraw-Hill, New York, 675 pp. 
+Pearson, G.A., 1933. A twenty-year record of changes in an Arizona pine forest. Ecology, 3: 
+272-285. 
+Pearson, H.A., Davis, J.R. and Schubert, G.H., 1972. Effects of wildfire on timber and forage 
+production in Arizona. J. Range Manage., 25: 250-253. 
+Reinhardt, E.D. and Ryan, K.C., 1988. Eight-year tree growth following prescribed underburn- 
+ing in a western Montana Douglas-fir/Western larch stand. US Dep. Agric. For. Serv., Inter- 
+mountain Res. Sta. Res. Note INT-387, 6 pp. 
+Robinson, W.J. and Evans, R., 1980. A microcomputer-based tree-ring measuring system. Tree- 
+Ring Bull., 40: 59-64. 
+Ryan, K.C., Peterson, D.L. and Reinhardt, E.D., 1988.a Modeling long-term fire-caused mor- 
+tality of Douglas-fir. For. Sci., 34: 190-199. 
+Ryan, M.G. and Covington, W.W., 1986. Effect of a prescribed burn in ponderosa pine on in- 
+organic nitrogen concentrations of mineral soil. US Dep. Agric. For. Serv., Rocky Mountain 
+For. Range Exp. Sta. Res. Note RM-464, 5 pp. 
+Sackett, S.S., 1980. Reducing natural ponderosa pine fuels using prescribed fire: two case stud- 
+ies. US Dep. Agric. For. Serv., Rocky Mountain For. Range Exp. Sta. Res. Note RM-392, 
+4 pp. 
+Schubert, G.H., 1971. Growth response of even-aged ponderosa pines related to stand density 
+levels. J. For., 69: 857-860. 
+Schubert, G.H., 1974. Silviculture of southwestern ponderosa pine: the status of our knowledge. 
+US Dep. Agric. For. Serv., Rocky Mountain For. Range Exp. Sta. Res. Paper RM-123, 71 
+pp. 
+Snee, R.D., 1977. Validation of regression models: methods and examples. Technometrics, 19: 
+415-428. 
+Stokes, M.A. and Smiley, T.L., 1968. An Introduction to Tree-Ring Dating. University of Chi- 
+cago Press, Chicago, 73 pp. 
+Sutherland, E.K., 1989. The effect of prescribed burning on southwestern ponderosa pine growth. 
+Doctoral thesis, School of Renewable Natural Resources, Department of Watershed Man- 
+agement, University of Arizona, Tucson, AZ, 112 pp. 
+Van Sickle, M.S. and Hickman, R.D., 1959. The effect of understory competition on the growth 
+rate of ponderosa pine in north central Oregon. J. For., 57: 852-853. 
+Waring, R.H., 1983. Estimating forest growth and efficiency in relation to canopy leaf area. In: 
+A. Macfadyen and E.D. Ford (Editors), Advances in Ecological Research, Vol. 13. Aca- 
+demic Press, New York, pp. 327-354. 
+White, A.S., 1985. Presettlement regeneration patterns in a southwestern ponderosa pine stand. 
+Ecology, 66: 589-594. 
+Wooldridge, D.D. and Weaver, H., 1965. Some effects of thinning a ponderosa pine thicket with 
+a prescribed fire, II. J. For., 63: 92-95. 
+Wyant, J.G., Omi, P.N. and Laven, R.D., 1983. Fire effects on shoot growth characteristics of 
+ponderosa pine in Colorado. Can. J. For. Res., 13: 620-625. 
+Wyant, J.G., Omi, P.N. and Laven, R.D., 1986. Fire-induced tree mortality in a Colorado pon- 
+derosa pine/Douglas-fir stand. For. Sci., 32: 49-59. 

@@ -1,0 +1,2828 @@
+Tamm Review
+Effects of tree cutting and ﬁre on understory vegetation in mixed conifer
+forests
+Scott R. Abella a,⇑, Judith D. Springer b
+a Natural Resource Conservation LLC, 1400 Colorado Street, Boulder City, NV 89005, USA
+b Ecological Restoration Institute, Northern Arizona University, Flagstaff, AZ 86011-5017, USA
+a r t i c l e
+i n f o
+Article history:
+Available online 17 September 2014
+Keywords:
+Fuel reduction
+Groundlayer
+Non-native species
+Silviculture
+Western North America
+Wildﬁre
+a b s t r a c t
+Mixed conifer forests of western North America are challenging for ﬁre management, as historical ﬁre
+regimes were highly variable in severity, timing, and spatial extent. Complex ﬁre histories combined with
+site factors and other disturbances, such insect outbreaks, led to great variation in understory plant com-
+munities, and management activities inﬂuence future dynamics of both overstory and understory com-
+munities. This variation needs to be considered as part of ecosystem-scale efforts to inﬂuence future
+ﬁres and restore the composition and structure of mixed conifer forests. We undertook a systematic
+review of published studies evaluating effects of tree cutting and ﬁre on understory vegetation in western
+North American mixed conifer forests. Forty-one studies, published in 50 articles, met inclusion criteria
+and encompassed projects in seven states in the USA and British Columbia in Canada. Total understory
+plant abundance (cover, biomass, or density) commonly declined in the short term within 4 years after
+treatment. This may result from damage to plants during tree cutting operations or ﬁre, heavy loadings
+of slash, little change or even expansion of tree canopies after low-intensity treatments, herbivory, or
+drought. In contrast, all 7 studies measuring understories longer than 5 years since treatment reported
+increases in understory metrics. Treatments in these long-term studies also persistently decreased tree
+canopy cover. Most or all native species endured (even if reduced in abundance) through cutting opera-
+tions or ﬁre. A model of understory response has emerged that treatments generally do not eliminate spe-
+cies, and often beneﬁt species absent or uncommon in untreated forest. Groups of native species (e.g.,
+Epilobium spp.) appear ﬁre-dependent, because they are uncommon or absent in unburned mixed conifer
+forests and after tree cutting alone. Cutting and prescribed ﬁre applied together resulted in the greatest
+invasion of non-native plants, but non-native cover was minimal compared to native cover. Few studies
+examined inﬂuences of intensity of tree cutting or severity of prescribed ﬁre, but overstory–understory
+relationships suggest that treatments must substantially reduce overstory density from maximum values
+(which can exceed 3000 stems ha1 and 80 m2 ha1 basal area) and tree canopy cover to <30–50% cover
+to elicit appreciable responses from the forest understory. Few studies examined understory dynamics
+after wildﬁre relative to unburned forest, and further work is warranted because wildﬁre is a likely even-
+tual outcome of passive management in these forests. Across a broad region from the southwestern Uni-
+ted States into Canada, prescribed ﬁre and tree cutting consistently increased disturbance-promoted
+native species in the short term and total understory abundance in the long term. Active management
+using tree cutting and ﬁre will likely beneﬁt both biodiversity conservation and ﬁre management in cur-
+rent mixed conifer forests.
+ 2014 Elsevier B.V. All rights reserved.
+Contents
+1.
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 282
+2.
+Study area and forest description . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 283
+3.
+Methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 285
+3.1.
+Data collection. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 285
+http://dx.doi.org/10.1016/j.foreco.2014.09.009
+0378-1127/ 2014 Elsevier B.V. All rights reserved.
+⇑Corresponding author. Tel.: +1 928 600 4625.
+E-mail address: abellaNRC@gmail.com (S.R. Abella).
+Forest Ecology and Management 335 (2015) 281–299
+Contents lists available at ScienceDirect
+Forest Ecology and Management
+journal homepage: www.elsevier.com/locate/foreco
+
+3.2.
+Data analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 285
+4.
+Results. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 287
+4.1.
+Description of the literature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 287
+4.2.
+Study designs and quality of evidence. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 287
+4.3.
+Evidence for responses to treatments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 287
+4.3.1.
+Question 1 (relative influences of treatments on total understory plant abundance and species richness). . . . . . . . . . . . . . . . .
+287
+4.3.2.
+Question 2 (influence of time since treatment) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+287
+4.3.3.
+Question 3 (responses among plant groups). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+288
+4.3.4.
+Question 4 (treatment effects in moist versus dry mixed conifer) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+288
+4.3.5.
+Question 5 (influence of treatment intensity or fire severity). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+288
+5.
+Discussion. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 288
+5.1.
+Time since treatment and long-term studies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 289
+5.2.
+Short-term declines: importance of time, overstory, slash, plant damage, and herbivory . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 290
+5.3.
+Pre-treatment vegetation and soil seed banks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 292
+5.4.
+Comparing cutting and prescribed fire, including disturbance-promoted species . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 293
+5.5.
+Wildfire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 293
+5.6.
+Is active revegetation warranted? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 293
+5.7.
+Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 294
+Acknowledgements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 294
+Appendix A. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 294
+Appendix B. Supplementary material . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 296
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 296
+1. Introduction
+Conserving forest biodiversity and maintaining ecosystem ser-
+vices is challenging forest managers globally (Honnay et al.,
+2002; Hart and Chen, 2006; Paillet et al., 2010). Meeting this chal-
+lenge beneﬁts from a comprehensive understanding of the effects
+of a range of forest management activities – including passive
+management – on ecosystem components (Metlen et al., 2004;
+North et al., 2007; Kalies et al., 2010). Understory plant communi-
+ties are a critical forest component containing a major proportion
+of forest species diversity and providing numerous ecosystem
+functions that can both affect and be affected by forest manage-
+ment activities (Roberts, 2004; Gilliam, 2007; Barbier et al.,
+2008). Tree cutting and ﬁre are two of the main management activ-
+ities affecting forest understory dynamics (Selmants and Knight,
+2003; Ares et al., 2010; Halpern and Lutz, 2013). For example,
+different methods of tree cutting can differentially inﬂuence
+understories, and a particular cutting method could affect plant
+cover differently than it affects species richness (Dodson et al.,
+2007; Kreyling et al., 2008; Knapp et al., 2013). Similarly, plant
+groups, such as native and non-native species, could respond dif-
+ferently to management activities (Abella and Covington, 2004;
+Sutherland and Nelson, 2010; Fiedler et al., 2013). The imprint of
+major events in forests on understory plant communities can be
+long-lived, such as persistent effects to plant diversity from Roman
+clearing of French forests 2000 years ago (Dambrine et al., 2007).
+Undesirable legacies of forest practices might be avoided if we
+have a foundation of clear insights on impacts to understory
+communities.
+To help provide such a foundation, systematic reviews are
+emerging tools for evaluating evidence for ecological questions,
+including effects of forest management activities (e.g., Rosenvald
+and Lõhmus, 2008; Verschuyl et al., 2011; Duguid and Ashton,
+2013). Systematic reviews are complementary to traditional narra-
+tive reviews, but differ by having reproducible methods for locat-
+ing literature, criteria for including or excluding studies, and an
+evaluation of evidence from reproducibly synthesized primary
+data (Pullin and Stewart, 2006). Systematic reviews and statistical
+meta-analyses are not synonymous: data gathered by a systematic
+review can be analyzed with or without a statistical meta-analysis,
+and meta-analysis can be applied to numerous data sets other than
+those assembled through a systematic review (Koricheva et al.,
+2013).
+Here, we conducted a systematic review of the effects of tree
+cutting and ﬁre on understory vegetation in mixed conifer forests
+of interior western North America. Mixed conifer forests are con-
+sidered among North America’s most difﬁcult for ﬁre management,
+and conservation of these forests is currently of keen interest
+(Agee, 1993; Klenner et al., 2008; Jain et al., 2012). Contemporary
+conditions of mixed conifer forests differ from those before or dur-
+ing initial Euro-American settlement (Parsons and DeBenedetti,
+1979; Covington et al., 1994; Minnich et al., 1995; Reynolds
+et al., 2013). Major changes to ﬁre regimes, tree structure and com-
+position, forest ﬂoor and light conditions, climate, and introduction
+of livestock and exotic species may all inﬂuence understory vege-
+tation (Battaglia and Shepperd, 2007; Knapp et al., 2013). Except
+for rare forests such as those with natural ﬁre regimes continued
+through the 1900s (mostly in Mexico; Minnich et al., 2000) or with
+managed active ﬁre programs (e.g., Sequoia/Kings Canyon National
+Parks; Webster and Halpern, 2010), the key evolutionary process of
+low- and mixed-severity ﬁre has been excluded after settlement
+(Heinlein et al., 2005; Baker et al., 2007; Falk et al., 2011). Fuel
+loads accrued during the 1900s support severe, stand-replacing ﬁre
+regimes in many areas (Freeman et al., 2007; Crotteau et al., 2013;
+Fornwalt and Kaufmann, 2014). Tree density and basal area have
+increased on average by orders of magnitude, now often exceeding
+1000 trees ha1 and 30–80 m2 ha1 basal area (Cocke et al., 2005;
+North et al., 2007; Fulé et al., 2009). Tree composition has generally
+shifted toward an increased proportion of species with low ﬁre tol-
+erance and higher shade tolerance, at the expense of ﬁre-tolerant
+species such as Pinus ponderosa (ponderosa pine; Barbour et al.,
+2002; Vankat, 2011; Abella et al., 2012). Concomitant with
+increased tree density, light reaching the forest ﬂoor has decreased,
+while O horizons have thickened (Bigelow and North, 2012;
+Lydersen et al., 2013). Stocking levels of livestock (primarily cattle
+and sheep) peaked in the mid-1800s or early 1900s among regions,
+with likely profound but poorly understood impacts (Riggs et al.,
+2000). A suite of non-native species, ranging from tree pests to
+plants, can dramatically inﬂuence mixed conifer forests at local
+to regional scales (Hessburg and Agee, 2003).
+Associated with these land use and forest structural changes,
+examples of repeat-photography studies and historical records
+282
+S.R. Abella, J.D. Springer / Forest Ecology and Management 335 (2015) 281–299
+
+have frequently revealed dramatic changes in understory vegeta-
+tion since the early Euro-American settlement period. In early set-
+tlement photos of Rocky Mountain mixed conifer forests in Idaho
+and Montana, Gruell (1983) showed examples 50–100 years later
+of herbaceous understories of Lupinus spp. or Pseudoroegneria spi-
+cata (bluebunch wheatgrass) largely disappearing under expanded
+tree canopy; reduced shrub understories such as of Shepherdia
+canadensis (buffaloberry); and shifts in shrub dominance such as
+to Cercocarpus ledifolius (mountain mahogany). Striking aspects of
+the geographically extensive photos included abundant evidence
+of disturbance (predominately ﬁre, timber cutting, and livestock)
+in the late 1800s/early 1900s which related to mosaics of different
+understories, and numerous pathways of vegetation change in the
+1900s, but generally signiﬁcant expansion of conifer trees and
+reduced herbaceous plants and shrubs (Gruell, 1983). In analyzing
+historical inventories from 1897–1902 in California mixed conifer
+forest reserves, McKelvey and Johnston (1992) concluded that
+understories were sparse at that time (even though overstories
+remained open and dominated by large, old trees) owing to
+drought in the late 1800s, intensive livestock grazing, and severe
+burning by sheepherders. Subsequent exclusion of nearly all ﬁre
+corresponded with pervasive tree recruitment, resulting in contin-
+ued limiting of understory plant growth (McKelvey and Johnston,
+1992). Overall conclusions from these, and other studies in mixed
+conifer forests (e.g., Kaufmann et al., 1998; Gruell, 2001; Taylor,
+2004), indicate that: (i) understory plant cover has generally
+decreased during the past 100 years, likely linked with increased
+tree density and supported by negative relationships between tree
+abundance and understory vegetation (Larson and Wolters, 1983);
+(ii) grazing, ﬁre exclusion, different climatic conditions (from the
+1800s to today), and other factors (e.g., air pollution) have likely
+interacted to change composition or abundance of understory
+plants in ways not well understood; and (iii) it is difﬁcult to ascer-
+tain speciﬁc past reference conditions for these understories, sug-
+gesting opportunity for developing reference information based
+on how contemporary vegetation responds to disturbance to help
+guide future forest management efforts.
+The primary question of our systematic review was: How do
+tree cutting and ﬁre inﬂuence understory vegetation in western
+North American mixed conifer forests? We had ﬁve speciﬁc ques-
+tions, each with anticipated outcomes:
+(1) Do tree cutting, managed ﬁre (prescribed or wildland ﬁre
+use), tree cutting + managed ﬁre, and wildﬁre have differ-
+ent effects on total understory plant abundance (cover,
+biomass, density, or other reported measures) and species
+richness? We anticipated that relative treatment effects
+would increase in the order: managed ﬁre < cutting < cut-
+ting + managed
+ﬁre < wildﬁre.
+Our
+rationale
+was
+that,
+owing to negative relationships between overstory tree
+abundance
+and
+understory
+vegetation
+in
+undisturbed
+mixed conifer forests (Larson and Wolters, 1983), treat-
+ments should represent a gradient of decreasing overstory
+correlated with increasing understory vegetation. Note
+that we purposely refer to wildﬁre as a ‘treatment’ in this
+paper, because wildﬁre often is an eventual ‘de facto’
+treatment implemented via passive management in these
+forests (Stark et al., 2006; Knapp et al., 2012; Crotteau
+et al., 2013).
+(2) Are understory metrics such as plant cover and species rich-
+ness related to time since tree cutting or time since ﬁre? We
+expected that short/moderate time durations after treat-
+ment would have the greatest difference with controls,
+because longer post-treatment durations (decades) could
+exhibit tree canopy ingrowth or re-accumulation of O hori-
+zons (Stephens et al., 2012).
+(3) Do responses to these disturbances vary among plant groups
+(growth forms and native/non-native species groups)? We
+anticipated that shrub, forb, and graminoid growth forms
+overall would respond similarly to treatment, because all
+these growth forms had evolved in often-disturbed mixed
+conifer forest and each has mechanisms for persisting in
+disturbed forest (Bradley et al., 1992). For example, many
+species of each growth form readily resprout if top-killed
+and also form soil seed banks to endure through or colonize
+after disturbance (Abella and Springer, 2012). Although non-
+native plants do not always require disturbance to become
+established, disturbance often facilitates their establishment
+and expansion (McGlone and Egan, 2009). Thus, we evalu-
+ated the expectation that non-native plants would exhibit
+stronger relative responses than native plants to distur-
+bance, at least in the short term.
+(4) Do understory responses to tree cutting and ﬁre differ
+between moist and dry mixed conifer forest? Relative
+responses in moist versus dry forest were difﬁcult to fore-
+cast, owing to potential counteracting differences between
+the forest types. For example, dry soil could limit response
+in dry mixed conifer, yet dense tree canopy from higher tree
+productivity in moister forest could reduce understories
+(North et al., 2005), potentially creating similar understory
+response to treatment between these forest types.
+(5) How do understory responses vary with intensity of tree
+cutting (e.g., proportion of trees removed) or severity of ﬁre?
+We
+forecasted
+that
+understory
+plant
+measures
+would
+increase with intensity of cutting and severity of ﬁre,
+because overstory limitations imposed on the understory
+would be alleviated through tree mortality (Fornwalt and
+Kaufmann, 2014).
+2. Study area and forest description
+Mixed conifer forests frequently occupy elevations between
+those supporting lower-elevation P. ponderosa or Pinus jeffreyi
+(Jeffrey pine) forests and higher-elevation forests such as pure
+Abies concolor (white ﬁr) or subalpine including Picea-Abies
+(spruce-ﬁr) among different regions supporting mixed conifer for-
+ests (Battaglia and Shepperd, 2007). Minimum elevation required
+to support mixed conifer forests generally decreases from southern
+to northern latitudes (Klenner et al., 2008). Major physiographic
+regions occupied by mixed conifer forests include the inland Paciﬁc
+Coast (e.g., Klamath and Sierra Nevada Mountains), Intermountain
+Region, and Rocky Mountains (Fig. 1). Inland mixed conifer forests
+occupy parts of northern Mexico, over 17 million ha in the western
+United States (Schoennagel and Nelson, 2011), and 4 million ha in
+southwestern Canada (British Columbia Ministry of Forests, 2010).
+Local topography inﬂuences mixed conifer distribution within cli-
+mate regions and elevation zones, with mixed conifer often inhab-
+iting drainages or north aspects in areas otherwise supporting drier
+forest. Precipitation in mixed conifer forests usually is about 30–
+100 cm annually but can exceed 100 cm mainly in the western
+Sierra Nevada, Klamath, and other mountains closest to the Paciﬁc
+coast (Appendix A). Snow is common, often providing an important
+source of early growing season moisture. Summers characteristi-
+cally are dry, excepting areas receiving late-summer monsoonal
+storms. Tree species vary by region, with dominants commonly
+including P. ponderosa, A. concolor, Pseudotsuga menziesii (Doug-
+las-ﬁr), and Pinus lambertiana (sugar pine). Historical forest struc-
+ture generally was characterized by mostly (>50%) open areas
+without tree canopy and interspersed clumps and individuals of
+trees (Hagmann et al., 2013; Reynolds et al., 2013). Tree densities
+historically ranged from ca. tens to hundreds per hectare among
+regions and sites within regions (North et al., 2007; Fulé et al.,
+S.R. Abella, J.D. Springer / Forest Ecology and Management 335 (2015) 281–299
+283
+
+2009; Reynolds et al., 2013). Physiognomy of understories cur-
+rently varies broadly from shrubby, grassy, or forb-dominated, to
+sparsely vegetated with extensive O horizons (Gruell, 1983;
+Fites-Kaufman et al., 2007).
+Mixed conifer forests are dynamic and shaped by disturbance,
+with long-term evolutionary development providing a baseline
+for comparing characteristics of present forest (Covington et al.,
+1994). Anderson et al. (2008), for instance, reported temporal
+development of mixed conifer forest in the Jemez Mountains,
+New Mexico: Picea parkland inhabited the area 14,000 years ago
+after the glacial period, P. ponderosa colonized by ca. 11,500 years
+ago during a warmer climate, and with increased moisture by
+6400 years ago, mixed conifer forest arose resembling present tree
+composition (P. menziesii, A. concolor, P. ponderosa, and others).
+Charcoal inﬂux sharply increased after 4600 years ago, suggesting
+a long history of ﬁre, and consistent with a more recent tree-
+ring-derived
+ﬁre
+interval
+of
+35 years
+from
+1624
+to
+1902
+(Anderson et al., 2008). Many mixed-conifer forests sustained ﬁres
+at least as frequent (often <10-year return intervals) as those in P.
+ponderosa forests, but longer return intervals (including longer
+than 50 years) could occur in moister forest or where topography
+limited ﬁre spread, and during climatic periods unfavorable to ﬁre
+spread. Mixed-severity ﬁre regimes, consisting mostly of low-
+intensity surface ﬁre punctuated by more severe surface ﬁre or
+patches of crown ﬁre (Fulé et al., 2003), have been broadly reported
+in mixed conifer forests from Mexico (Minnich et al., 2000) through
+the U.S. to Canada (Heyerdahl et al., 2012). Seasonality of ﬁre var-
+ied from spring/summer (Fulé et al., 2003) to predominately late
+summer or fall (Taylor, 2004). In addition to ﬁre, periodic
+windthrow, insect/disease outbreaks, and extreme climatic events
+created spatial and temporal heterogeneity via patch creation from
+individual tree death to larger areas hectares in size (Veblen et al.,
+2012). These disturbances likely created different biophysical ﬁl-
+ters to understory vegetation, both within stands and landscapes,
+Fig. 1. Distribution of mixed conifer forests in western North America and locations of 41 studies evaluating response of mixed conifer understories to tree cutting or ﬁre.
+Studies are numbered 1–41 corresponding with Table 1. Mixed conifer distribution adapted from U.S. National Vegetation Classiﬁcation and ponderosa pine and interior
+Douglas-ﬁr biogeoclimatic divisions in British Columbia. Ecoregions provided by The Nature Conservancy (Arlington, Virginia). Photo shows mixed conifer forest of Pinus
+ponderosa–Pinus ﬂexilis–Pseudotsuga menziesii on San Francisco Peaks, near Flagstaff, Arizona (by S.R. Abella, 17 Aug 2008).
+284
+S.R. Abella, J.D. Springer / Forest Ecology and Management 335 (2015) 281–299
+
+and through time on the same site (Keith et al., 2010; Lydersen
+et al., 2013).
+Few deﬁnitions exist of mixed conifer forest (also described as
+mixed evergreen) in the literature, with one of the few provided
+by Reynolds et al. (2013) speciﬁc to the Southwest: forest occupy-
+ing elevations between 1525 and 3050 m, sustaining relatively
+frequent (<35 year ﬁre-return interval) surface ﬁre including some
+mixed-severity effects, and containing species mixtures of shade-
+intolerant P. ponderosa and shade-tolerant P. menziesii or A. concol-
+or depending on seral stage. Throughout the range of mixed conifer
+forest in western North America, tree species present, ﬁre regimes,
+and elevations inhabited vary among regions (Agee, 1993; Fites-
+Kaufman et al., 2007; Jain et al., 2012). We deﬁne mixed conifer
+forest as: mixtures of two or more conifer tree species at interme-
+diate elevation (above lower forests such as P. ponderosa forest but
+below higher forests such as Picea–Abies) that occupy inland conti-
+nental locations generally of semi-arid climate in western North
+America. We consider only stands with two or more conifer species
+sharing overstory dominance to be mixed conifer, which excludes
+stands such as pure overstory P. ponderosa invaded by other coni-
+fers in the understory. In our study, we include both dry and moist
+mixed conifer, as well as forest with some Populus tremuloides
+(quaking aspen), but not pure Populus forest. Reynolds et al.
+(2013) distinguished dry mixed conifer as having mean ﬁre inter-
+vals of <35 years (and >35 years for moist) and occupying south
+aspects or other dry topographic positions. Dry versus moist types
+are usually differentiated on a relative basis on regional (e.g., cli-
+matically moister versus drier regions) or within-landscape (e.g.,
+opposing north versus south aspects) scales (Jain et al., 2012).
+3. Methods
+3.1. Data collection
+We systematically obtained literature addressing our study
+questions by searching literature databases, screening articles for
+meeting inclusion criteria, and preparing a database including each
+study’s ﬁndings. In April 2014, we searched for articles in the fol-
+lowing databases: AGRICOLA, Agris, Academic Search Complete,
+BioOne, ProQuest (including Biological Sciences, Environmental
+Science, GeoRef, and Zoological Record), Web of Science, Forest Sci-
+ence Database (CABdirect), Treesearch, and GoogleScholar. We
+used the following search words and their combinations for article
+titles and key words: forest, mixed conifer, coniferous, evergreen,
+understory, understorey, plants, vegetation, forb, shrub, grass, col-
+onization, indicator species, seed, revegetation, species richness,
+diversity, regeneration, recruitment, composition, succession, tree,
+overstory, cutting, felling, thinning, removal, silviculture, shelter-
+wood, harvest, timber, density, fuel, reduction, treatment, manage-
+ment, restoration, burning, ﬁre, and wildﬁre. We also examined the
+reference list of each located article for other pertinent articles.
+We screened the 128 relevant articles located by this search for
+their suitability for inclusion in the systematic analysis by requir-
+ing that studies meet all of the following criteria. First, studies
+must be in western North American mixed conifer forest, following
+our deﬁnition. Second, they must present primary, quantitative
+data on response of an understory species or community to tree
+cutting or ﬁre. Third, studies must provide a benchmark (pre-treat-
+ment condition, untreated/unburned condition, or both) against
+which to compare effects of tree cutting or ﬁre. By making these
+relative comparisons of treatment effects within studies, potential
+differences in vegetation measurement methods, climatic time
+periods in which data were collected, or other factors that can con-
+found comparisons among studies should be minimized within
+studies. Fourth, for studies of wildﬁres, they must also have
+included areas not subject to post-ﬁre rehabilitation treatments
+such as seeding or fertilization. This criterion is important because
+post-ﬁre treatments can impact species composition by both
+directly introducing new species and inﬂuencing the course of nat-
+ural recovery (Crane et al., 1983; Peppin et al., 2010). If wildﬁre
+studies included areas receiving post-ﬁre rehabilitation treatments
+and those that did not, we only included data from sites not receiv-
+ing post-ﬁre treatments. Fifth, studies must be published, either as
+journal articles, conference proceedings, government serial publi-
+cations, book chapters, or books.
+3.2. Data analysis
+We created a database from quantitative results presented for
+any available understory measure in articles. The main measures
+presented were plant cover and species richness, but some papers
+reported biomass, plant density, shrub survival or vigor, and soil
+seed bank density and species richness. Completeness of vegeta-
+tion data varied, with some studies providing community compo-
+sition
+(species
+present
+and
+their
+relative
+abundance)
+or
+components of the community (e.g., shrub cover only). Accord-
+ingly, we used every study available for each of our study questions
+independently, with some studies presenting comprehensive com-
+munity data used for nearly all questions and other studies used
+only for questions related to speciﬁc community components.
+We calculated a total ‘abundance’ measure, derived from cover
+whenever it was presented or from biomass or density, and a ‘rich-
+ness’ measure, based on species density per sampling unit. When
+multi-scale species richness estimates were presented (e.g., species
+m2 and species 1000 m2), we averaged richness across scales but
+noted any differences in response to treatment among spatial
+scales. We used the longest-term data presented in a study, and
+except for analyses to evaluate treatment intensity or burn sever-
+ity, we averaged data across different intensities of a treatment
+type (e.g., different levels of thinning) in the infrequent cases
+where different intensities were presented.
+From extracted data for both understory abundance and rich-
+ness, we calculated a ratio of treatment:control or after:before
+treatment. For studies with both pre-treatment data and controls,
+we ﬁrst calculated the after:before ratio then used that to calculate
+the treatment:control ratio. Some papers presented data as relative
+differences (such as percent change from pre- to post-treatment),
+which could result in negative ratios. Additionally, some studies
+had zeros as denominators (e.g., if controls had zero plants), pre-
+cluding calculation of ratios. In these cases, we simply calculated
+the raw difference between after/before or treated/control values.
+We considered conducting a formal statistical meta-analysis,
+but the available data had several features that limited meta-
+analysis. Presentation of relative differences (resulting in negative
+values) or presence of zeros in some studies, together with many
+papers not reporting a measure of variability or being unreplicated,
+complicated calculation of meta-analytical statistics (Harrison,
+2011). It is noteworthy, but not uncommon, that some of the most
+ecologically insightful studies in our data set did not meet require-
+ments for calculation of standard meta-analysis statistics, such as
+Knapp et al.’s (2013) remeasurement of 79-year-old silvicultural
+treatments installed in 1929. Another signiﬁcant issue was that,
+for several of our questions, approximately equal proportions of
+decreases and increases were reported across studies. Analyzing
+an average or median effect size in this situation represented an
+effect size (i.e., zero or no change) rarely or never actually occur-
+ring in the literature.
+We adopted a hybrid approach to data analysis by using a
+combination of effect sizes (after:before or treatment:control
+ratios) as appropriate, ranking relative responses to treatments,
+and categorizing understory responses to treatment as relative
+S.R. Abella, J.D. Springer / Forest Ecology and Management 335 (2015) 281–299
+285
+
+increase (ratios >1, or raw difference >0), no change (ratios = 1 or
+difference = 0), or decrease (ratios <1, difference <0). For Question
+1 (relative inﬂuences of treatments on total understory plant abun-
+dance and species richness), we ranked relative responses of an
+understory measure among treatments within a study (e.g., +++
+signiﬁed the greatest increase among treatments in a study where
+an understory measure increased in all three treatments) and as
+increase (+) or decrease () if only one treatment was evaluated
+in a study. For Question 2 (inﬂuence of time since treatment), we
+regressed time since treatment with treatment : control ratio of
+total plant abundance and species richness. For Question 3
+(responses among plant groups), we categorized responses of
+growth forms (shrub, forb, graminoid) as increase or decrease to
+each treatment type (‘no change’ did not occur). We compiled
+relative responses to treatment (in the same way as for Question
+1) of non-native plants, because most studies that evaluated
+Table 1
+Summary of 41 studies examining effects of tree cutting, prescribed ﬁre, or wildﬁre in mixed conifer forests of western North America. Studies are organized by general region
+from south to north. For studies reporting a measure of total plant abundance (e.g., cover, biomass) and total species richness, relative magnitude of response to treatments is
+provided.
+Reference
+Treatmentsb
+Years post-tmt
+Plant abundancec
+Species richnessc
+Data extractedd
+Map No.e
+C
+PF
+C+PF
+W
+C
+PF
+C+PF
+W
+Southwest
+Cram et al. (2007)
+T
+0.5
+
+GF cv
+1
+Ffolliott and Gottfried (1989)
+Patch cutting
+8
++
+Herb biomass
+2
+Huisinga et al. (2005)
+PF
+6
++
++
+CC
+3
+Mason et al. (2009)
+T
+2–3
++
++
+GF cv, sr
+4
+Patton (1976)
+Patch cutting
+2
++
+GF biomass
+5
+Thill et al. (1983)
+T, patch cutting
+4 (T), 16 (patch)
++
+Biomass
+6
+Sierra Nevada
+Battles et al. (2001)
+S, single tree
+19
++
++
+GF cv, sr
+7
+Bêche et al. (2005)
+PF
+0.5
+
+
+cv, sr
+8
+Chiono et al. (2012)
+T with PF
+2–15
+Shrub cv
+9
+Collins et al. (2007)a
+T, PF, T+PF
+1–2
+
++
+
+
+
+
+GF cv, sr
+10
+Hurteau and North (2008)
+PF
+1
+
+
+GF cv, sr
+11
+Kauffman and Martin (1990)
+PF
+2
+Shrub survival
+12
+Knapp et al. (2007)
+PF
+2
++
++
+CC
+13
+Knapp et al. (2012)
+PF, wildﬁre
+4 (PF), 15 (W)
+Shrub cv, sb
+14
+Knapp et al. (2013)
+T, selection cutting
+79
+Herb sr, shrub cv
+15
+Siegel and DeSante (2003)
+T
+5–8
++
+cv
+16
+Walker et al. (2012)
+T, PF, T+PF
+4
++
+
+
+cv, biomass
+17
+Walker et al. (2013)
+Wildﬁre
+4
+
+GF cv, biomass
+18
+Wayman and North (2007)
+T, PF, T+PF
+3
+
+
++
+++
++
++++
+GF cv, sr
+19
+Webster and Halpern (2010)
+1st, 2nd entry PF
+20
++
++
+GF cv, sr
+20
+Zhang et al. (2008)
+T with PF
+5
+Shrub cv, sr
+21
+California Cascades/Klamaths
+Crotteau et al. (2013)
+Wildﬁre
+10
+Shrub cv, sr
+22
+Donato et al. (2009)
+Wildﬁre
+2
++
++
+CC
+23
+Northwest
+Dodson et al. (2008)a
+T, PF, T+PF
+1–3
+
++
+
+
++
+++
+GF cv, sr, biomass
+24
+Fonda and Binney (2011)
+PF
+3
+
+cv
+25
+Hardman and McCune (2010)
+T with PF
+3–4
+Shrub cv
+26
+Harrod and Halpern (2009)
+PF
+2
+Survival 2 rare spp
+27
+Metlen et al. (2004)a
+T, PF, T+PF
+1–6
+
+
+
+
+
+
+CC
+28
+Scherer et al. (2000)
+CL, CL with PF
+2
+
+
+
++
+cv, sr
+29
+Young et al. (1967), Hedrick et al. (1968)
+Sanitation cutting
+3–4
+
+GF biomass
+30
+Central Rockies
+Ayers et al. (1999), Bedunah et al. (1999)
+S, S+PF
+1
+Shrub density
+31
+Gordon (1976)
+PF
+2
+Shrub density
+32
+Lyon (1966)
+PF
+2
+
+GF density, sr
+33
+Metlen and Fiedler (2006)a
+T, PF, T+PF
+3
+
+
+
++
+
+++
+CC
+34
+Newland and DeLuca (2000)
+PF, wildﬁre
+9
+N-ﬁxing plant cv
+35
+Steele and Beaufait (1969)
+CL, CL with PF
+1
+
+
++
+
+cv, sr
+36
+Interior British Columbia
+Ducherer et al. (2009)
+PF
+3
++
+
+CC
+37
+Ducherer et al. (2013)
+T
+4
++
+
+CC
+38
+Lochhead and Comeau (2012)
+Selection cutting
+15
++
+GF cv
+39
+Page et al. (2005)
+T
+1
+Herb cover
+40
+Stark et al. (2006, 2008)
+CL, wildﬁre
+1
+
+
+
+
+sb density and sr
+41
+a Fire and Fire Surrogate study sites with complete listing of understory papers from which data were extracted: Blodgett, Collins et al. (2007); Mission Creek, Dodson et al.
+(2008), Dodson and Peterson (2010), Agee and Lolley (2006); Blue Mountains, Metlen et al. (2004), Youngblood et al. (2006); Lubrecht, Metlen and Fiedler (2006), Dodson and
+Fiedler (2006), Dodson et al. (2007), Gundale et al. (2006).
+b CL, clearcutting; PF, prescribed ﬁre; S, shelterwood; T, thinning.
+c Plant abundance and richness are for studies that measured the complete vascular plant community (i.e. excludes studies that did not measure all vascular plant growth
+forms). Treatments are abbreviated as: C, cutting (includes any type of cutting such as thinning, shelterwood, and patch cutting); PF, prescribed ﬁre; and W, wildﬁre. Response
+is categorized as decrease (, , or , proportional to magnitude of decrease across treatments within a study, or as [] for studies with only one treatment), or increase
+(same notation, where +++ indicates the greatest increase). For richness in Metlen et al. (2004), there was a tie, so two treatments were assigned [].
+d CC (community composition, which includes species present and a measure of their relative abundance), GF (data provided by growth form), cv (cover), sr (species
+richness, and in rare cases a diversity index), and sb (seed bank).
+e Study location in Fig. 1.
+286
+S.R. Abella, J.D. Springer / Forest Ecology and Management 335 (2015) 281–299
+
+non-natives applied treatments factorially to enable relative
+ranking. No studies were identiﬁed that evaluated Question 4
+(treatment effects in moist versus dry mixed conifer), but we did
+assess potential relationships between long-term average precipi-
+tation of a study area and understory response to treatment for
+studies that provided precipitation data. For Question 5 (inﬂuence
+of treatment intensity or ﬁre severity), we calculated the number
+of studies in which the greatest response to treatment was in high
+or low treatment intensity or burn severity. We designated the
+cutting treatment that removed the most tree basal area to be most
+intensive, and we used the classiﬁcation of severity presented in
+papers for managed ﬁres (hereafter referred to as prescribed,
+because no wildland ﬁre use ﬁres were reported) and wildﬁres (if
+low, moderate, and high severity were all presented, we used
+low and high). We summarized quality of evidence for each study
+by tabulating metrics of study design (collection of pre-treatment
+data, inclusion of unmanipulated controls, site replication, and rep-
+lication across some type of environmental gradient such as soil
+parent material or burn severity for wildﬁre) and duration of data
+collection after treatment.
+4. Results
+4.1. Description of the literature
+The systematic literature search identiﬁed 41 published studies,
+reported in 50 articles (some studies were reported in >1 article),
+which met inclusion criteria for quantitatively evaluating inﬂu-
+ences of tree cutting and ﬁre on understory vegetation in western
+mixed conifer forests (Table 1). Most articles were published
+recently: 78% (39 of 50 articles) in the 2000s, 6% (3 articles) in
+the 1990s, 4% (2 articles) each in the 1980s and 1970s, and 8% (4
+articles) in the 1960s. Four studies, reported in 10 articles, were
+from four of the network of sites in the U.S. Fire and Fire Surrogate
+Study initiated in the early and mid-2000s (Table 1).
+Studies covered a broad geographic area, being conducted in
+one Canadian province (British Columbia, 5 studies, 12% of 41 stud-
+ies) and seven states in the U.S.: Arizona (4 studies, 10%), New
+Mexico (2, 5%), California (16, 39%), Oregon (4, 10%), Washington
+(4, 10%), Montana (5, 12%), and Idaho (1, 2%). No studies were
+identiﬁed from Mexico, although mixed conifer forests occur there.
+Regions in which several studies were conducted included the Col-
+orado Plateau in the Southwest, Sierra Nevada Mountains, Cascade
+Mountains, Blue Mountains, northern Rocky Mountains, and inte-
+rior British Columbia. Estimates of annual precipitation in study
+areas were provided for 79% of studies and were commonly
+40–80 cm yr1, with some study areas inland, but nearest the
+coast, reporting >100 cm yr1 of precipitation (Appendix A). Spe-
+cies richness and identity of dominant tree species were diverse
+among studies. Overstory dominants commonly included P. pon-
+derosa, Pseudotsuga menziesi, A. concolor, P. jeffreyi, P. lambertiana,
+Calocedrus decurrens (incense cedar), Picea engelmannii (Engelmann
+spruce), and nine others. About half (43%) of studies reported
+average ﬁre intervals for their study areas before ﬁre exclusion in
+1900. Fire was common in study areas, with intervals often
+<10 years and usually <30 years. Longer intervals averaging 40–
+75 years were reported in some study areas.
+Dominant understory growth form (shrub, forb, graminoid, or
+forbs and graminoids combined into an herbaceous category), in
+the pre-treatment or control plant community, was identiﬁed in
+46% of studies by providing cover or biomass across growth forms.
+Seven (37%) of these 19 studies reported that shrubs were most
+dominant, 11 (58%) that herbaceous understories predominated,
+and 1 (5%) study reported equal shrub and herbaceous abundance.
+Appendix B provides photographs from a range of studies illustrat-
+ing understory condition.
+Treatments evaluated were diverse and implemented for
+numerous objectives, such as patch cutting to create openings for
+wildlife (Patton, 1976), silvicultural improvement (e.g., Knapp
+et al., 2013), timber harvest (e.g., Steele and Beaufait, 1969), resto-
+ration of frequent ﬁre in a national park context (Webster and
+Halpern, 2010), and hazardous fuel reduction (e.g., Mason et al.,
+2009; Chiono et al., 2012). Twelve studies (29%) examined some
+variation alone of tree cutting (e.g., patch cutting, tree thinning),
+13 (31%) examined prescribed ﬁre alone, 10 (24%) evaluated com-
+posite or factorially applied cut + burn treatments, and 6 (14%)
+studies included wildﬁres.
+4.2. Study designs and quality of evidence
+Nearly half (43%) of studies had both pre-treatment data and
+controls, with about the same percentage having only controls
+and the remainder before/after designs (Appendix A). Most studies
+(71%) included replicated treated sites. No study replicated sites
+across any type of stratiﬁed environmental gradient such as eleva-
+tion or soil parent material, but three studies of wildﬁres stratiﬁed
+by burn severity (Stark et al., 2006; Donato et al., 2009; Crotteau
+et al., 2013). The time since treatment that measurements were
+made ranged from <1 year to P10 years (Thill et al., 1983;
+Chiono et al., 2012; Lochhead and Comeau, 2012; Crotteau et al.,
+2013), including the longest-term studies of 19 (Battles et al.,
+2001), 20 (Webster and Halpern, 2010), and 79 (Knapp et al.,
+2013) years after treatment. Most studies (63%) were of short
+duration, measuring response a maximum of three years post-
+treatment.
+4.3. Evidence for responses to treatments
+4.3.1. Question 1 (relative inﬂuences of treatments on total understory
+plant abundance and species richness)
+Cutting and
+prescribed ﬁre
+applied individually similarly
+increased understory plant abundance (usually measured as cover)
+or species richness in about half of studies (Fig. 2). Applying cutting
+and prescribed ﬁre together typically resulted in decreased plant
+abundance, but increased species richness.
+4.3.2. Question 2 (inﬂuence of time since treatment)
+The longest-term studies usually found increases in total under-
+story plant measures after cutting or prescribed ﬁre (Fig. 3). The
+ﬁve longest-term (8 to 19 years after treatment) studies of cutting
+(that included total plant measures) all reported increases in total
+plant abundance, and seven of the eight studies (87%) P4 years in
+duration found increases. In comparison, only 2 of 10 studies (20%)
+with durations <4 years reported increases. For prescribed ﬁre, the
+two longest-term studies (6 and 20 years) reported the greatest
+increase in total plant abundance. There were fewer data points
+for cutting and prescribed ﬁre applied together, and no study
+exceeded 4 years in duration.
+Species richness was measured in fewer long-term cutting stud-
+ies than was plant abundance, but the greatest relative increase
+also was reported in the longest-term study of 19 years (Fig. 3).
+Although the two longest-term (6 and 20 years) studies of pre-
+scribed ﬁre reported the 2nd and 3rd greatest increase in richness,
+the greatest increase occurred in a study two years post-ﬁre. Nev-
+ertheless, only a third of nine studies 64 years in duration reported
+increased richness. After cutting + prescribed ﬁre, the two shortest-
+term studies (both of 1 year) both reported declines in richness,
+whereas four of ﬁve studies of P2 years reported increases.
+Other long-term studies evaluating speciﬁc components of the
+plant community illustrated post-treatment dynamics. Chiono
+S.R. Abella, J.D. Springer / Forest Ecology and Management 335 (2015) 281–299
+287
+
+et al. (2012) found that the oldest fuel treatments (cut + prescribed
+ﬁre) 8–15 years old exhibited the highest shrub cover (16%) rela-
+tive to controls (7%), compared to younger treatments 2–7 years
+old in the Sierra Nevada Mountains. Knapp et al. (2013) reported
+that shrub cover was reduced from 29% before selection cutting
+in 1929 to 15% after treatment, rebounded to near pre-treatment
+levels by two years after treatment in 1931, and declined to 3%
+at 79 years after cutting in 2008. Similarly, herbaceous species
+richness averaged 1.5 species/4 m2 in 1929 before cutting, declined
+to 1.0 species later that summer after cutting but doubled two
+years after cutting, and again declined to 1.0 species/4 m2 in
+2008. Tree density by 2008 was more than twice that (739
+compared to 315 trees ha1) before cutting in 1929, and repeat
+photographs depicted a shift from forest ﬂoors dominated by shrub
+cover to thick O horizons (Appendix B5). Ten years after wildﬁre,
+Crotteau et al. (2013) reported that shrub cover was 2–8 times
+greater across burn severities compared to unburned forest. Simi-
+larly, Lochhead and Comeau (2012) found that graminoid and
+shrub cover were about 1.4 times greater than controls at 15 years
+after selective cutting in British Columbia. Collectively, results of
+these studies supported those of the long-term studies evaluating
+total community measures in ﬁnding that understory measures
+were increased on older treatments, though Knapp et al. (2013)
+suggested limits to treatment longevity associated with tree
+canopy inﬁlling.
+4.3.3. Question 3 (responses among plant groups)
+Forbs and graminoids increased more frequently in abundance
+than did shrubs across cutting, prescribed ﬁre, and combined
+cutting + ﬁre treatments (Fig. 4a–c). Shrub abundance usually
+decreased after treatments, a trend particularly evident after com-
+bined cutting + ﬁre, where seven of eight (13%) studies reported
+that shrubs declined. Fewer studies measured species richness
+than measured cover, and no conclusive trends in richness
+emerged, except that forb richness may increase more frequently
+after treatment than other plant groups. Results were mixed after
+wildﬁres: half of studies reported decreases in shrub cover while
+half reported increases (Fig. 4d).
+Frequency and magnitude of increase in non-native plant
+abundance (which was exclusively reported as cover) was least
+after cutting, intermediate after prescribed ﬁre, and greatest after
+cutting + prescribed ﬁre (Fig. 5). Non-native species richness
+increased after all treatments, and most vigorously when cutting
+and prescribed ﬁre were both applied, in all studies measuring
+non-native richness. Despite these increases, non-natives com-
+prised only small portions of total plant cover and richness. For
+example, non-native cover six years after prescribed ﬁre was 1%
+(compared to 49% native) in mixed conifer forest in Grand Canyon
+National Park of Arizona (Huisinga et al., 2005), also 1% (compared
+to 12% native) one year after cutting + prescribed ﬁre in the Sierra
+Nevada Mountains of California (Collins et al., 2007), and 10%
+(compared to 58% native and 4% non-native cover in the control)
+three years after cutting + ﬁre in the University of Montana Lubr-
+echt Experimental Forest (Dodson and Fiedler, 2006). Thus, native
+species largely constituted the total plant abundance and richness
+measures and corresponding responses to treatments (Fig. 2). It is
+noteworthy that few non-native plant data are available for
+wildﬁre to compare with cutting and prescribed ﬁre.
+4.3.4. Question 4 (treatment effects in moist versus dry mixed conifer)
+No studies compared response to treatment between moist and
+dry mixed conifer forest. Effect sizes for total plant abundance after
+cutting (r2 = 0.04, n = 18) and prescribed ﬁre (r2 = 0.01, n = 13) were
+not closely related to average long-term precipitation in study
+areas, indicating little relationship between response to treatment
+and average precipitation in this data set. Similarly, there was little
+relationship between effect sizes for species richness and average
+long-term precipitation of study areas for cutting (r2 = 0.11,
+n = 10) or prescribed ﬁre (r2 = 0.00, n = 12).
+4.3.5. Question 5 (inﬂuence of treatment intensity or ﬁre severity)
+Results were mixed for the few studies comparing cutting
+intensity (Fig. 6). For prescribed ﬁre and wildﬁre, high-severity
+burning generally (4 of 5 studies) displayed greater increase in
+total plant abundance and richness than did low-severity burning.
+5. Discussion
+Consistency of available evidence with our a priori expectations
+varied among our ﬁve speciﬁc questions and among understory
+metrics. Increasing plant abundance did not occur along the
+expected gradient of prescribed ﬁre < cutting < cutting + prescribed
+ﬁre (less information was available for wildﬁre). About the
+same proportion of cutting and prescribed ﬁre studies reported
+increases,
+and
+cutting + ﬁre
+together
+usually
+resulted
+in
+decreases, but as will be discussed, these were short-term results.
+Cutting + prescribed ﬁre did induce the largest increase in species
+richness, but increases occurred less frequently after prescribed
+ﬁre alone than after cutting alone. Time since treatment was
+related to understory response, but contrary to our expectation,
+the longest-term studies reported the greatest increases, with the
+exception of a 79-year study likely exceeding treatment longevity
+in the absence of ﬁre (Knapp et al., 2013). Although each plant
+growth
+form
+did
+exhibit
+both
+increases
+and
+decreases
+to
+Fig. 2. Response of total understory plant abundance (cover, biomass, or density)
+and species richness among treatments in mixed conifer forests of western North
+America. Magnitude of response is categorized relative to treatments compared
+within studies (e.g., +++ signiﬁes the greatest increase within a study that included
+the three treatments of cutting, ﬁre, and their combination) or as increase (+) or
+decrease () in studies including one treatment. Number of studies is given at the
+top of bars.
+288
+S.R. Abella, J.D. Springer / Forest Ecology and Management 335 (2015) 281–299
+
+treatments among studies, forbs and graminoids most often
+increased compared to shrubs. This differed from our expectation
+of similar responses among growth forms, although variability
+among studies was high. Consistent with our expectation, non-
+native plants increased more frequently after treatment than did
+natives, but it is noteworthy that non-native plants were sparse
+after treatments compared to native species. Insufﬁcient evidence
+existed to compare response of moist and dry mixed conifer
+understories. Few studies compared intensities of cutting or
+severities of ﬁre, and results were mixed for response of plant
+abundance to cutting, but increases were generally greatest after
+higher severity than lower severity ﬁre.
+In interpreting ﬁndings, some key points explored in the follow-
+ing sections include short- versus long-term dynamics in post-
+treatment understories; factors such as amount of tree canopy
+cover removed, treatment implementation operations, slash, and
+grazing potentially inﬂuencing understory response in both the
+short and long term; a possible tradeoff in short-term decrease of
+understory abundance (total community cover or biomass) with
+enhancements of disturbance-promoted native species; condition
+of the pre-treatment plant community (including soil seed banks)
+and often a century of ﬁre exclusion as a factor in post-treatment
+response; and treatment strategies requiring further experimenta-
+tion, such as delaying prescribed ﬁre following tree cutting. It is
+also noteworthy that none of the 41 studies had a goal to ‘restore
+the understory’. Rather, project goals included reducing fuels,
+meeting silvicultural objectives (e.g., timber harvest, sanitation
+cuts), or promoting forage availability to livestock and wildlife.
+Thus, a potential criticism of the studies – that reference conditions
+(before disruption of disturbance regimes beginning in the middle-
+1800s) for understories of mixed conifer forests are poorly under-
+stood – is not applicable, because study goals were to assess effects
+of manipulating tree structure and ﬁre on understory vegetation
+and not to ‘restore’ the understory. Even when tree cutting or ﬁre
+reduced total understory abundance in the short term, there was
+no evidence that these treatments eliminated species within study
+areas. On the contrary, there was evidence that treatments mini-
+mally
+inﬂuenced or
+increased
+native species
+uncommon in
+untreated forests, including some state-listed endemic species
+(Harrod and Halpern, 2009), and all 7 long-term studies exceeding
+5 years post-treatment reported increases in total plant abundance
+and species richness. Collectively, published literature suggests a
+model of understory response to cutting and ﬁre that often
+includes short-term declines but long-term increases, and particu-
+lar beneﬁts to disturbance-promoted native understory species. It
+is possible that these species had been reduced by ﬁre exclusion
+and concurrent tree canopy closure during the past century.
+5.1. Time since treatment and long-term studies
+Declines in understory vegetation (especially in abundance)
+relative to pre-treatment or controls were commonly reported
+for the ﬁrst few years after treatment, but most longer term studies
+exceeding 4 years after treatment reported increases in understory
+Fig. 3. Relationship between time since treatment and response of total understory plant abundance (cover, biomass, or density) and species richness among treatments in
+mixed conifer forests of western North America. Treatment : control ratios exceeding 1.0 (above broken horizontal lines) indicate that treatments increased understory
+measures. Note how the longest-term studies, exceeding 6 years post-treatment, usually found that treatments increased understory measures. Coefﬁcients of determination
+(r2) are given when they exceeded 0.10 (note for [d], the high r2 largely results from the single long-term study).
+S.R. Abella, J.D. Springer / Forest Ecology and Management 335 (2015) 281–299
+289
+
+vegetation. In examining the 7 longest-term studies which all
+found increases in plant cover or richness, the studies included 5
+cutting and 2 prescribed ﬁre studies, were widely distributed geo-
+graphically from the Southwest to British Columbia, and included
+several different assemblages of overstory trees and understories
+dominated by shrubs or herbaceous vegetation. In addition to
+being long term, the main commonality among these studies was
+that substantial reduction in overstory tree abundance was
+achieved and the reduction persisted. Two cutting studies in Ari-
+zona had no residual trees in patch cuts up to 1 ha in size
+(Patton, 1976; Ffolliott and Gottfried, 1989), and Huisinga et al.
+(2005), also in Arizona, had 30% tree canopy cover after prescribed
+ﬁre compared to 63% in unburned areas. Nineteen years after a
+shelterwood cut in the Sierra Nevada Mountains in California, basal
+area was 10 m2 ha1 compared to 80 m2 ha1 in controls (Battles
+et al., 2001). Also in the Sierra Nevada, Webster and Halpern
+(2010) found that prescribed ﬁre reduced tree density by 60%,
+and density in burned areas remained proportionally lower than
+unburned areas for their 20-year study. Similarly, density was
+reduced by 56% in Siegel and DeSante (2003) in the Sierra Nevada,
+and basal area by 33% in Lochhead and Comeau (2012) in British
+Columbia 15 years after selection cutting.
+Annual variation in weather during post-treatment periods
+could inﬂuence response to treatment in both the short and long
+term, but this is difﬁcult to evaluate because few studies exceeding
+four years in duration measured multiple post-treatment years.
+Webster and Halpern (2010) was one of the few studies to do so,
+ﬁnding that cover increased slightly 2 and 5 years after prescribed
+burning but did not differ signiﬁcantly from controls until 10 years
+post-ﬁre. The years post-ﬁre corresponded with different calendar
+years depending on when different sites were burned, complicat-
+ing relating vegetation dynamics with weather patterns. Other
+long-term studies gathered post-treatment measurements in years
+of below average (Huisinga et al., 2005) or near average precipita-
+tion (Thill et al., 1983).
+5.2. Short-term declines: importance of time, overstory, slash, plant
+damage, and herbivory
+Numerous
+factors
+could
+relate
+to
+why
+most
+short-term
+(<4 years) studies found declines in understory plant abundance
+after treatments. In the two shortest-term studies of 0.5 years,
+for example, cutting or prescribed ﬁre was implemented in fall
+and the post-treatment measurement occurred the following
+spring or early summer, so warm-season plants in particular may
+not have had opportunity to initiate growth (Bêche et al., 2005;
+Cram et al., 2007). It should be noted, however, that primary goals
+Fig. 4. Response of plant abundance (cover, biomass, or density; left column) and
+species richness (right column) by growth form as increase or decrease to treatment
+among studies in mixed conifer forests of western North America. Number of
+studies is given at the top of bars.
+Fig. 5. Response of non-native plant abundance (cover) and species richness among
+treatments in mixed conifer forests of western North America. Magnitude of
+response is categorized relative to treatments compared within studies (e.g., +++
+signiﬁes the greatest increase within a study that included the three treatments of
+cutting, ﬁre, and their combination) or as increase (+) or decrease () in studies
+including one treatment. There was no change (signiﬁed by a zero) in exotic plant
+abundance after prescribed ﬁre in one study (Collins et al., 2007). Number of studies
+is given at the top of bars.
+290
+S.R. Abella, J.D. Springer / Forest Ecology and Management 335 (2015) 281–299
+
+of these studies were to evaluate short-term treatment effects on
+stream chemistry (Bêche et al., 2005) or soil erosion (Cram et al.,
+2007), not on understory vegetation. Moreover, temporal photos
+in follow-up by Cram et al. (2007) suggested increasing amounts
+of understory cover (Appendix B1).
+Treatments that do not appreciably reduce overstory tree can-
+opy cover may not substantially change the understory. The four
+ﬁre and ﬁre surrogate studies – all of which reported short-term
+declines in understory abundance – noted that reductions in over-
+story cover were often relatively subtle, post-treatment overstory
+cover was likely greater than in historical forests, and relatively
+dense post-treatment overstories may have limited understory
+growth (e.g., Metlen et al., 2004; Dodson et al., 2008). Prescriptions
+were not tailored speciﬁcally to promote understories, as the pri-
+mary objective of these studies was to modify fuel conditions such
+that 80% of dominant or co-dominant trees in the post-treatment
+forest would survive wildﬁre modeled under 80th percentile
+weather conditions (McIver et al., 2013). Some authors of other
+studies, such as Mason et al. (2009), also suspected that minimal
+treatment effects on the overstory tempered understory response
+within one or more of their treatment units.
+Relationships depicted in regression equations between over-
+story tree abundance and understory measures in untreated mixed
+conifer forests may provide a framework for estimating overstory
+reductions needed to stimulate understory vegetation (Larson
+and Wolters, 1983; Page et al., 2005). For example, in Rocky Moun-
+tain mixed conifer forests of Colorado, Mitchell and Bartling (1991)
+reported that understory biomass averaged 535 g m2 when tree
+canopy cover was 11–40%, but when tree cover exceeded 60%,
+understory biomass was reduced by 84% to only 86 g m2. In Idaho
+Abies grandis (grand ﬁr)–P. menziesii forest, understory biomass
+exceeded 1000 kg ha1 only up to 40% tree canopy cover (Pyke
+and Zamora, 1982). Similarly, Hedrick et al. (1968) found that
+understory production was lowered by over half when tree canopy
+cover exceeded 40% in the Blue Mountains of Oregon. A doubling of
+tree basal area from 11.5 m2 ha1 to 23 m2 ha1 also approxi-
+mately halved understory biomass in the White Mountains of
+Arizona (Thill et al., 1983). While speciﬁc quantities vary among
+regions and likely with soil properties within regions, <40–50% tree
+canopy cover is apparently a threshold above which understory
+production is minimal. Moreover, treatments need to reduce tree
+cover down to roughly 20–30% to achieve vigorous understory pro-
+duction based on these overstory-understory relationships (Larson
+and Wolters, 1983). Similarly, reductions in basal area down to
+<20 m2 ha1,
+and
+commonly
+8–15 m2 ha1,
+are
+apparently
+approximate thresholds for understory abundance (Thill et al.,
+1983; Battles et al., 2001; Lochhead and Comeau, 2012).
+Residual slash following tree cutting may play a major, but
+poorly understood, role in post-treatment understory dynamics.
+Slash can decrease understory vegetation by burying plants
+(Metlen et al., 2004), or through other mechanisms such as immo-
+bilization of soil nutrients in carbon-enriched soil (Perry et al.,
+2010). These negative impacts, at least at the heavy loadings of
+slash resulting from contemporary densely treed forests, appar-
+ently outweigh any positive effects like creation of shaded micro-
+sites. Slash can persist for some time: Munger and Westveld
+(1931) noted that slash scattered in Oregon dry conifer forest
+remained largely intact for 7 years and partially broke up by
+15 years, with piled slash largely intact longer than 15 years.
+How slash was handled was not always speciﬁed in papers of our
+systematic review, and methods of treating slash rarely tested. At
+least ﬁve studies scattered slash (e.g., Metlen et al., 2004; Metlen
+and Fiedler, 2006; Collins et al., 2007; Cram et al., 2007; Dodson
+et al., 2008) and others moved it off site (Ffolliott and Gottfried,
+1989). Among studies examining slash handling methods, Mason
+et al. (2009) found that piling slash correlated with lower site-level
+understory biomass than did scattering slash. Two studies found
+that burning slash (either scattered, Steele and Beaufait (1969),
+or chipped slash, Walker et al. (2012)) reduced plant cover more
+than simply leaving the scattered or chipped slash.
+Studies focused on effects of slash on understory vegetation in
+other western forests have mainly reported that slash negatively
+impacts understories and provide comparisons of treatment
+options that may be applicable to mixed conifer forests. In thinned
+New Mexico pinyon-juniper woodlands, Brockway et al. (2002)
+reported that plant abundance was greatest when slash was moved
+off site, compared to scattering slash or leaving it around cut trees.
+Similarly, in thinned Sierra Nevada P. ponderosa forest, Kane et al.
+(2010) found that plant cover increased most after removing slash
+compared to mastication or mastication + ﬁre. In Arizona P. ponder-
+osa (Korb et al., 2004) and Colorado Pinus contorta (lodgepole pine)
+forest (Fornwalt and Rhoades, 2011), burning piled slash sterilized
+soil and essentially eliminated plant cover in areas that had been
+underneath piles. Collectively, these observations suggest that
+slash (and associated slash treatments) can temper understory
+response to tree cutting and may be related to reductions in under-
+story vegetation reported in some short-term studies of this
+review. While in some cases it may be practical to move slash off
+site, such as moving slash to cover decommissioned roads or skid
+trails, transporting slash off site is usually impractical, necessitat-
+ing that slash be left or treated on site (Jones, 1974). Deciding
+Fig. 6. Response of total understory plant abundance (cover, biomass, or density;
+left column) and species richness (right column) to intensity of tree cutting (high
+signiﬁes greatest overstory reduction) or severity of ﬁre in mixed conifer forests of
+western North America. For example, for (a), two studies found that shrub
+abundance was highest in the most intensive cutting treatment, while one study
+found that shrub abundance was highest in a low-intensity cutting treatment.
+S.R. Abella, J.D. Springer / Forest Ecology and Management 335 (2015) 281–299
+291
+
+whether to leave slash untreated on site, or to choose among can-
+didate treatments for slash (e.g., broadcast burning, pile burning,
+mastication), represents tradeoffs among balancing ﬁre hazard,
+economic costs, limiting insect/disease potential that can be exac-
+erbated through concentrating dead wood, and aesthetics (Seidel
+and Cochran, 1981; Kreye et al., 2014). Further research that com-
+pares inﬂuences of slash treatment methods on vegetation in the
+short and long term in mixed conifer forest is warranted.
+Tree cutting operations and ﬁre can damage or kill plants,
+requiring time for them to recover, especially in the short growing
+season typifying mixed conifer forests (Metlen et al., 2004).
+Depending on how and when (e.g., summer versus over snow
+cover) tree cutting operations are implemented, soil disturbance
+can be substantial. Young et al. (1967) reported that 39% of the
+ground was disturbed in some way by a sanitation cut, and 62%
+was disturbed on steep slopes when thinning trees using heavy
+machinery (Cram et al., 2007). Machinery, as well as felling trees
+by hand coupled with slash treatments, can damage or kill
+aboveground plant parts or disturb root systems belowground
+(Page-Dumroese et al., 1991). Similarly, ﬁre can damage or kill
+plants, especially if they are a primary fuel (Kauffman and
+Martin, 1990). Bedunah et al. (1999), for example, reported that
+62% of Purshia tridentata (antelope bitterbrush) shrubs were killed
+by even low-severity ﬁre in a Montana mixed conifer forest. If
+extant vegetation, including root systems, is appreciably damaged
+by treatment operations and without rapid recruitment from soil
+seed banks or off-site seed sources, reduced understory vegetation
+for one or more growing seasons following treatment may not be
+surprising.
+Based on the few studies that examined herbivory after treat-
+ment, combined with herbivory exclusion research in mixed coni-
+fer forests, herbivory (or lack thereof) may have inﬂuenced
+understory responses. In one of the few studies in our review both
+evaluating herbivory and ﬁnding short-term increases in plant
+cover, Mason et al. (2009) concluded that incidence of grazing
+was low, with no more than 15% of individual forbs and grasses
+displaying evidence of grazing. Two studies evaluating grazing in
+mixed conifer forests that had already been cut or burned reported
+major inﬂuences of grazing on plant abundance and composition.
+Kosco and Bartolome (1983) found that ungrazed Sierra Nevada
+clearcuts had 3 times the plant cover of clearcuts grazed by cattle
+and deer. Similarly, Riggs et al. (2000) found that understory bio-
+mass in cut and burned Oregon mixed conifer forest ungrazed for
+27–30 years was double that of grazed areas. Species richness, on
+the other hand, often has been little affected or increased by
+grazing, usually through positive responses of annuals and other
+short-lived species (Riggs et al., 2000). More extensive research
+in P. ponderosa forests has supported these ﬁndings: when appre-
+ciable herbivores are present, plant abundance can be substantially
+reduced, individual species can decrease or increase in response to
+herbivory (Clary, 1975; Huffman et al., 2009), and plant richness
+often is less inﬂuenced or increases depending on the forest over-
+story (Bakker and Moore, 2007). Particularly in mixed conifer for-
+est containing P. tremuloides, a tree whose recruitment is limited
+by browsing, herbivory could also inﬂuence post-treatment under-
+story dynamics via effects mediated through tree structure (Coop
+et al., 2014). Where possible, overlaying herbivory treatments
+(including excluding large herbivores) with tree cutting and ﬁre
+may augment insight into understory dynamics.
+5.3. Pre-treatment vegetation and soil seed banks
+Pre-treatment condition of the plant community is likely a
+major variable inﬂuencing post-treatment condition. Persistence
+and priority effects, or species present initially being difﬁcult to
+displace, appear strong in western coniferous forests (Kreyling
+et al., 2008; McGlone et al., 2012; Halpern and Lutz, 2013). This
+does not necessarily preclude new species from becoming estab-
+lished, but rather that species present initially persist through
+treatment even if their abundance is reduced (Dodson et al.,
+2007). Mechanisms including resprouting and tight links between
+soil seed banks and aboveground composition, promote species
+persistence (Lyon and Stickney, 1976; Fischer and Clayton, 1983;
+Bradley et al., 1992). The cutting + prescribed ﬁre treatment in this
+review suggests species persistence, because plant abundance was
+usually reduced immediately after treatment, but species richness
+(driven by persistence with smaller components of new species)
+was typically maintained or increased (Fig. 3c and f).
+Interestingly, in one of the few studies to directly correlate
+pre-
+and
+post-treatment
+vegetation
+within
+individual
+plots,
+Dodson et al. (2008) reported that difference between pre- and
+post-treatment understory cover and richness was negatively
+related to pre-treatment levels. In other words, plots with the least
+pre-treatment
+understory
+plant
+cover
+or
+richness
+generally
+increased the most after treatment (in some cases nearly equaliz-
+ing out pre-existing differences), leading to the conclusion that
+treatments beneﬁt the least vegetated areas the most (Dodson
+et al., 2008). This warrants assessment in other mixed conifer for-
+ests, because a different expectation could be that areas with the
+least pre-treatment vegetation respond the least, owing to sparse
+seed production, depleted soil seed banks, and low potential for
+vegetative propagation such as sprouting (Bossuyt and Hermy,
+2001). Determining whether there is a critical amount of under-
+story vegetation needed before treatment to produce a large
+response, or whether convergence occurs after treatment, may
+help explain variation in post-treatment dynamics. Moreover, bet-
+ter understanding which species are ‘persisters’ or ‘colonizers’ –
+likely a function of relative importance of aboveground vegetation
+and soil seed banks – may be useful for forecasting treatment inﬂu-
+ences given an initial assemblage of species (c.f. Dodson et al.,
+2007).
+Studies that relate soil seed bank composition to aboveground
+vegetation, including before and after disturbance, can aid under-
+standing plant community maintenance and recruitment mecha-
+nisms (Archibold, 1989; Stark et al., 2006; Abella et al., 2007).
+Further work is needed for detailed understanding of the role of
+seed banks in understory response to treatments (e.g., estimates
+of what proportion of the seed bank germinates following distur-
+bance, or is lost to disturbance), and several studies have provided
+a baseline by quantifying soil seed bank composition in untreated
+mixed conifer forest. Overall conclusions from these studies sug-
+gest that soil seed banks in mixed conifer forests are usually not
+large (typically 61000 seeds m2 for the upper 5 cm of mineral
+soil), but they can be species-rich (30 to >80 species) and contain
+native perennials and shorter-lived species often associated with
+disturbance (Strickler and Edgerton, 1976; Kramer and Johnson,
+1987; Stark et al., 2006; Abella and Springer, 2012). Compared to
+many other ecosystems, a unique feature of soil seed banks of
+mixed conifer forests is that they often contain appreciable
+amounts of native perennial species. For instance, native perenni-
+als constituted 75% (of 78) of taxa in soil seed banks of mixed coni-
+fer forests in Idaho (Kramer and Johnson, 1987) and 79% (of 39
+taxa) in Nevada (Abella and Springer, 2012). Some of the dominant
+perennials, such as Ceanothus velutinus (snowbrush ceanothus) in
+Kramer and Johnson (1987), include species thought to be ﬁre-
+stimulated (Conard and Radosevich, 1982; Weatherspoon, 1988).
+Some of the shorter-lived species dominant in mixed conifer seed
+banks, such as the annuals Chamerion angustifolium ssp. angustifo-
+lium (ﬁreweed) and Epilobium ciliatum (fringed willowherb), are
+also stimulated by ﬁre or disturbance to overstory or forest ﬂoor
+(Stark et al., 2006). These studies have further reported that >85%
+of taxa in soil seed banks were native (Kramer and Johnson,
+292
+S.R. Abella, J.D. Springer / Forest Ecology and Management 335 (2015) 281–299
+
+1987; Stark et al., 2006; Abella and Springer, 2012). Collectively,
+ﬁndings suggest that: (i) the relatively small size of soil seed banks
+in mixed conifer forests may partly account for the typical lack of
+rapid increase in post-treatment vegetation; (ii) native species
+including perennials in the seed bank suggest longer term under-
+story recruitment potential after treatments; and (iii) low amounts
+of non-native species in seed banks may relate to the observed low
+abundance of non-natives after treatments.
+5.4. Comparing cutting and prescribed ﬁre, including disturbance-
+promoted species
+Tree cutting and prescribed ﬁre had similar overall inﬂuence on
+total understory cover and richness. If burns are sufﬁciently severe
+to reduce tree density, prescribed ﬁre and cutting may not be that
+dissimilar in their inﬂuence on ecosystem properties affecting
+understory vegetation (Ma et al., 2010; Fulé et al., 2012; North
+et al., 2012). Both can expose mineral soil, via burning O horizons
+or during cutting operations (Cram et al., 2007; Laughlin and Fulé,
+2008). Both also usually at least temporarily decrease total ecosys-
+tem nutrient pools (e.g., Clayton and Kennedy, 1985), but plant-
+available nutrients can increase (Gundale et al., 2006).
+Species composition may represent the greatest potential for
+inﬂuences of cutting and prescribed ﬁre to diverge, such as through
+germination cues. Some understory species of mixed conifer
+forests,
+including
+Ceanothus
+integerrimus
+(deerbrush)
+that
+is
+stimulated by heat (Kauffman and Martin, 1991) and Penstemon
+spp. stimulated by smoke (Abella et al., 2007), may be favored by
+ﬁre. Six studies reported groups of native species abundant after
+prescribed ﬁre or cutting + ﬁre that are apparently ﬁre-dependent,
+because the species were infrequent or absent in unburned forest,
+including after tree cutting alone (Lyon, 1966; Huisinga et al.,
+2005; Stark et al., 2006; Dodson et al., 2007; Knapp et al., 2007;
+Dodson and Peterson, 2010). These ﬁre-stimulated groups were
+mainly forbs and included species such as: perennial forbs C.
+angustifolium (ﬁreweed), Claytonia perfoliata (miner’s lettuce), Epil-
+obium glaberrimum (glaucus willowherb), Pseudognaphalium canes-
+cens (Wright’s cudweed), and Lotus crassifolius (big deervetch); and
+the annual forbs Epilobium brachycarpum (tall annual willowherb),
+Gayophytum diffusum (spreading groundsmoke), and Cryptantha
+simulans (pinewoods cryptantha). It is possible that these species
+were once more common (at least ephemerally) in ﬁre-prone his-
+torical forests.
+Applying both cutting and prescribed ﬁre resulted in the
+greatest invasion of non-native plants, but even in this treatment,
+non-native cover was low (Dodson and Fiedler, 2006; Collins et al.,
+2007; Dodson et al., 2008). Fiedler et al. (2013) hypothesized
+potential pathways of post-treatment non-native plant dynamics,
+including scenarios such as slight increases after treatment then
+declines through time, versus increases and persistence in the trea-
+ted forest. Non-native dynamics may partly depend on identity of
+the invader, where perseverance of some species appears low (e.g.,
+Verbascum thapsus [common mullein]), compared to high for spe-
+cies such as Bromus tectorum (cheatgrass, Fiedler et al., 2013).
+While non-natives are usually not prevalent in mixed conifer for-
+ests, non-native plants generally have increased in western North
+America (Keeley, 2006; Abella and Fornwalt, 2014). This increases
+chance that some will become established in mixed conifer forest,
+combined
+with
+expanding
+wildland-urban
+interfaces
+likely
+increasing opportunities for seed transport. Moreover, with rein-
+troducing open stand structures and ﬁre, sustainability of the cur-
+rent low invasion status of mixed conifer forests could be uncertain
+(Keeley, 2006). It should be noted, however, that untreated forest
+that burns in stand-replacing wildﬁre can become heavily invaded
+over time (McGlone and Egan, 2009). These observations suggest
+that: (1) monitoring non-native plant dynamics is warranted, (2)
+consideration could be given to proactively treating incipient infes-
+tations of priority species as a precautionary approach, and (3)
+non-native abundance after severe wildﬁre is likely an appropriate
+benchmark against which to compare non-native abundance after
+tree cutting and prescribed ﬁre treatments (Abella, 2014).
+5.5. Wildﬁre
+Few studies of post-wildﬁre dynamics have been conducted in
+mixed conifer forests, and few of these met our inclusion criteria.
+The main unmet criterion was including either pre-ﬁre data (difﬁ-
+cult for unplanned events such as wildﬁres) or comparisons to
+unburned areas. Some studies not meeting inclusion criteria com-
+pared ﬁre severities within a burned area, but this does not provide
+insight into actual effect of burning (relative to no burning), which
+was the focus of our analysis. We suggest that wherever possible,
+studies of wildﬁres include unburned areas for comparison that
+also can be monitored through time. On large wildﬁres exceeding
+tens of thousands of hectares, unburned areas may not exist
+nearby, yet measuring unburned areas as close as possible would
+represent unburned forest now extant on the landscape.
+Some preliminary expectations for wildﬁre effects developed
+from extant research of wildﬁre inﬂuences on mixed conifer
+understories include reductions in shrub soil seed banks (Stark
+et al., 2006; Knapp et al., 2012), variable responses of shrub cover
+which might hinge on the pre-ﬁre shrub community (Donato et al.,
+2009; Knapp et al., 2012; Crotteau et al., 2013; Walker et al., 2013),
+increased total species richness and forb abundance (Donato et al.,
+2009; Walker et al., 2013), and contingency of effects upon ﬁre
+severity likely partly mediated through overstory tree mortality
+(Stark et al., 2006; Crotteau et al., 2013). Research also suggests
+probable increases in understory native plant cover and richness
+after severe burning where tree overstories are mostly or com-
+pletely removed (Newland and DeLuca, 2000; Laughlin and Fulé,
+2008; Fornwalt and Kaufmann, 2014). Stand-replacing ﬁres, where
+in
+formerly
+frequent-ﬁre
+forest
+containing
+old
+trees,
+are
+catastrophic from a forest ecosystem perspective, but may create
+species-rich understory communities for at least decades (Abella
+and Fornwalt, 2014).
+5.6. Is active revegetation warranted?
+Short-term reductions in vegetation cover after treatment or
+reductions in certain species after wildﬁre may invoke consider-
+ation of seeding or planting nursery-grown plants to attempt
+actively accelerating plant establishment (Peppin et al., 2010). It
+should be noted that actively augmenting seeds or plants is only
+effective if plant propagules are actually limiting to plant establish-
+ment (Turnbull et al., 2000). If other factors, such as drought, over-
+story density, or herbivory are limiting, active revegetation is
+unlikely to have much inﬂuence. Seeding after wildﬁre in western
+forests has been controversial, partly from using non-native plants
+(or exotic genetics); it often is unclear if seeding is needed or inter-
+feres with natural recovery; and it can be expensive and prone to
+failure (Peppin et al., 2010). Using native seed can reduce some
+of this concern, but better understanding long-term understory
+dynamics (to evaluate if seeding is even necessary) and manipulat-
+ing other factors such as slash or grazing to understand their
+effects on plant establishment after tree cutting or ﬁre would be
+warranted. Another consideration, little discussed, is the possibil-
+ity of identifying uncommon native species, such as those poten-
+tially associated with ﬁre (or, conversely, vulnerable to severe
+ﬁre in the case of wildﬁre), and focusing any active revegetation
+treatments on those species. Seeding has facilitated native plant
+establishment on discrete disturbances such as sterilized soil of
+burned slash piles (Korb et al., 2004; Fornwalt and Rhoades,
+S.R. Abella, J.D. Springer / Forest Ecology and Management 335 (2015) 281–299
+293
+
+2011). Planting greenhouse-grown plants has effectively revege-
+tated decommissioned forest roads, skid trails, landings, and
+post-tree thinning areas, where plant survival has exceeded 70%
+(Page and Bork, 2005; Abella and Springer, 2009). Using nursery-
+grown plants to create vegetated patches, which then can produce
+seed themselves, can be a more reliable revegetation strategy than
+attempting seeding across large areas. There may be a place for
+active revegetation in mixed conifer forest management, such as
+for areas severely disturbed by treatment operations, but possible
+disadvantages (including cost) need to be balanced against other
+strategies for promoting understories, including managing herbiv-
+ory, treating slash, and controlling non-native plants.
+5.7. Conclusion
+Two of the most important factors in understory dynamics after
+tree cutting and ﬁre in mixed conifer forests were time since treat-
+ment and speciﬁc operational aspects of treatments (e.g., whether
+cutting and ﬁre were applied together, and amount of forest over-
+story removed). Understory measures often declined for the ﬁrst
+few years after treatment, but subsequently increased if forest
+overstories had been reduced to well below 40–50% canopy cover.
+There are often ﬁre-stimulated native species in the understory
+ﬂora that are uncommon in long-unburned mixed conifer forests
+and after tree cutting alone, but that are stimulated by prescribed
+burns or wildﬁres. Non-native plants were generally sparse and
+subordinate in abundance to native species in both untreated for-
+est and after cutting and prescribed ﬁre, but long-term monitoring
+and precautionary non-native plant control warrant consideration
+if maintaining this status quo is a management goal. Based on our
+review of existing literature, further research needs include: (i)
+assessing effects of speciﬁc components of treatment operations
+(e.g., cutting intensity and residual spatial arrangements of trees,
+methods of slash treatment, grazing management) and their inter-
+action on understory trajectories; (ii) comparing responses in
+moist versus dry mixed conifer forest; (iii) evaluating long-term
+similarities and differences between tree cutting and prescribed
+ﬁre regimes and their combination; (iv) further identifying groups
+of native species beneﬁting from treatments or sensitive to treat-
+ment alternatives; (v) determining feasibility of forecasting treat-
+ment effects based on the initial plant community including seed
+bank composition; and (vi) more thoroughly understanding inﬂu-
+ences of wildﬁres. For operational monitoring of projects, early
+monitoring is important to detect an initial surge in disturbance-
+promoted species (both native and non-native). However, the
+delayed increase in total understory plant cover and richness
+indicated that monitoring for at least 4 years after treatment is
+necessary to accurately appraise longer term trajectories of
+post-treatment understories. Monitoring both total understory
+measures and management-priority groups of species (e.g., ﬁre-
+stimulated ﬂora, or shrubs for browse) is useful for identifying
+whether further management (e.g., non-native species control)
+can provide competitive advantages to desired species groups.
+We conclude that native understory species, even if temporarily
+reduced in abundance, persist through tree cutting and prescribed
+ﬁre and have beneﬁted from these treatments after 5 years
+post-treatment, as long as forest overstories remain open.
+Acknowledgements
+This review was funded by the Ecological Restoration Institute
+(ERI) through an agreement (organized by Wally Covington, Diane
+Vosick, and Kathleen Mitchell of the ERI) to Natural Resource Con-
+servation LLC. We thank Meg Eastwood and Mary Dejong, librari-
+ans at Cline Library (Northern Arizona University) for help in
+performing batch systematic searching; authors of papers who
+responded to our inquiries regarding photos of study sites and sup-
+plemental information about their ﬁndings (Appendix B); Joe
+Crouse for developing the base map for Fig. 1; Sharon Altman for
+creating ﬁgures and reviewing the manuscript; Robert Strahan
+for discussions of ﬁndings and reviewing the manuscript; and
+two anonymous reviewers and Editor-in-Chief Dan Binkley for
+helpful comments on the manuscript.
+Appendix A
+Characteristics of 41 studies examining effects of tree cutting,
+prescribed ﬁre, or wildﬁre in mixed conifer forests of western
+North America. Location, average precipitation, ﬁre-return interval,
+tree species, relative proportion of understory growth form, and
+study design are provided. Studies are organized by general region
+from south to north, corresponding with Table 1 and map locations
+therein for Fig. 1.
+Reference
+Areab
+Locationc
+PP
+(cm yr1)d
+FI
+(yrs)e
+Tree speciesf
+Shrubsg
+Herbsg
+Unitsg
+Designh
+Southwest
+Cram et al. (2007)
+NM
+Sacramento Mtns
+74
+–i
+AC, PM, PP
+0
+<1
+cv %
+0,1,0,0,0
+Ffolliott and Gottfried
+(1989)
+AZ
+White Mtns
+77
+–
+AC, AL, PCP, PE,
+PM, PP, PS
+–
+–
+–
+0,1,1,0,2
+Huisinga et al. (2005)
+AZ
+Grand Canyon NP
+65
+5
+AC, PE, PM, PP
+–
+–
+–
+0,1,0,0,2
+Mason et al. (2009)
+NM
+Sacramento Mtns
+70
+–
+AC, PM, PP, PS
+5
+6
+cv %
+0,1,1,0,1
+Patton (1976)
+AZ
+White Mtns
+76
+–
+AC, AL, PP, PS,
+PCP, PE, PM
+–
+11
+g m2
+1,0,0,0,1
+Thill et al. (1983)
+AZ
+White Mtns
+69
+–
+AC, AL, PCP, PE,
+PM, PP, PS
+–
+–
+–
+0,1,1,0,3
+Sierra Nevada
+Battles et al. (2001)
+CA
+Blodgett EF
+158
+–
+AC, CD, PL, PM,
+PP
+3
+6
+cv %
+0,1,1,0,3
+294
+S.R. Abella, J.D. Springer / Forest Ecology and Management 335 (2015) 281–299
+
+Appendix A (continued)
+Reference
+Areab
+Locationc
+PP
+(cm yr1)d
+FI
+(yrs)e
+Tree speciesf
+Shrubsg
+Herbsg
+Unitsg
+Designh
+Bêche et al. (2005)
+CA
+Blodgett EF
+156
+7
+CD, PL, PM, PP
+–
+–
+–
+1,1,0,0,0
+Chiono et al. (2012)
+CA
+Sierra Nevada,
+Cascade Mtns
+38–230
+6-18
+AC, CD, PJ, PL,
+PM, PP
+–
+–
+–
+0,1,1,0,2
+Collins et al. (2007)a
+CA
+Blodgett EF
+160
+5
+AC, CD, PL, PM,
+PP
+9
+6
+cv %
+1,1,1,0,1
+Hurteau and North (2008)
+CA
+Yosemite NP,
+Teakettle EF
+125
+–
+AC, AM, CD, PJ, PL
+20
+2
+g m2
+1,1,1,0,0
+Kauffman and Martin
+(1990)
+CA
+Blodgett EF,
+nearby sites
+90–180
+8-10
+AC, PJ, PP, PM
+–
+–
+–
+1,1,1,0,1
+Knapp et al. (2007)
+CA
+Sequoia NP
+121
+27
+AC, AM, CD, PJ,
+PL, PP
+3
+14
+cv %
+1,1,1,0,1
+Knapp et al. (2012)
+CA
+Shasta-Trinity,
+Lassen NFs
+103
+–
+AC, AM, CD, PJ,
+PL, PM, PP
+–
+–
+–
+0,1,1,0,2
+Knapp et al. (2013)
+CA
+Stanislaus-
+Tuolumne EF
+103
+< 9
+AC, CD, PJ, PL, PP
+–
+–
+–
+1,0,1,0,3
+Siegel and DeSante (2003)
+CA
+Sierra Paciﬁc
+Industries
+134
+–
+AC, CD, PL, PM,
+PP
+–
+–
+–
+0,1,1,0,2
+Walker et al. (2012)
+CA
+Lake Tahoe Basin
+81
+–
+AC, CD, AM, PJ, PL
+–
+–
+–
+1,1,0,0,2
+Walker et al. (2013)
+CA
+Lake Tahoe Basin
+87
+–
+AC, CD, PJ, PL
+158
+1
+–
+1,1,0,0,2
+Wayman and North (2007)
+CA
+Teakettle EF
+125
+12-
+17
+AC, CD, PJ, PL
+25
+5
+–
+1,1,1,0,1
+Webster and Halpern
+(2010)
+CA
+Sequoia/Kings
+Canyon NPs
+105
+2-30
+AC, CD, PJ, PL, PP
+3
+9
+cv %
+1,1,1,0,3
+Zhang et al. (2008)
+CA
+Blacks Mountain
+EF
+46
+–
+AC, CD, PJ, PP
+–
+–
+–
+0,0,1,0,2
+California Cascades/Klamaths
+Crotteau et al. (2013)
+CA
+Cascade Mtns
+189
+9-43
+AC, CD, PL, PM,
+PP
+–
+–
+–
+0,1,1,1,3
+Donato et al. (2009)
+OR
+Klamath-Siskiyou
+Mtns
+150-300
+5-75
+AC, CD, PL, PM
+15
+5
+–
+0,1,0,1,1
+Northwest
+Dodson et al. (2008)a
+WA
+Cascade Mtns
+68
+6-21
+PM, PP
+101
+42
+g m2
+1,1,1,0,1
+Fonda and Binney (2011)
+WA
+Olympic NP
+64
+21
+PM, TH
+–
+–
+–
+1,0,1,0,1
+Hardman and McCune
+(2010)
+OR
+Blue Mtns
+55
+–
+AG, LO, PM, PP
+–
+–
+–
+0,1,1,0,1
+Harrod and Halpern (2009)
+WA
+Wenatchee Mtns
+22
+–
+PM, PP
+–
+–
+–
+1,1,1,0,1
+Metlen et al. (2004)a
+OR
+Blue Mtns
+50
+< 20
+PM, PP
+18
+62
+cv %
+1,1,1,0,1
+Scherer et al. (2000)
+WA
+Cascade Mtns
+121
+–
+AG, AL, PM
+–
+–
+–
+0,1,1,0,1
+Young et al. (1967),
+Hedrick et al. (1968)
+OR
+Blue Mtns
+46
+–
+AG, PM, PP
+1894
+35
+g m2
+0,1,0,0,1
+Central Rockies
+Ayers et al. (1999),
+Bedunah et al. (1999)
+MT
+Lick Creek Demo
+Area
+53
+1-30
+PM, PP
+–
+–
+–
+1,1,0,0,0
+Metlen and Fiedler (2006)a
+MT
+Lubrecht EF
+50
+–
+LO, PC, PM, PP
+10
+10
+–
+1,1,1,0,1
+Gordon (1976)
+MT
+Absaroka Range
+>40
+–
+PE, PM
+–
+–
+–
+1,0,0,0,1
+Lyon (1966)
+ID
+Sawtooth NF
+43
+–
+PM
+–
+–
+–
+1,1,0,0,1
+Newland and DeLuca
+(2000)
+MT
+Lick Creek, Lolo NF
+62
+13-
+50
+PM, PP
+–
+–
+–
+0,1,1,0,2
+Steele and Beaufait (1969)
+MT
+Lubrecht EF
+50
+–
+LO, PM
+–
+–
+–
+0,1,1,0,0
+Interior British Columbia
+Ducherer et al. (2009)
+BC
+Near City of
+Kamloops
+30
+10-
+12
+PM, PP
+1
+33
+g m2
+1,1,1,0,1
+Ducherer et al. (2013)
+BC
+Near City of
+Kamloops
+30
+–
+PM, PP
+0
+101
+g m2
+1,1,1,0,2
+Lochhead and Comeau
+(2012)
+BC
+St Mary River
+Research Trial
+38
+–
+LO, PC, PE, PG,
+PM, PP
+7
+21
+–
+0,1,1,0,3
+Page et al. (2005)
+BC
+East Kootenay
+region
+38
+5-50
+PM, PP
+15
+20
+cv %
+1,0,0,0,0
+(continued on next page)
+S.R. Abella, J.D. Springer / Forest Ecology and Management 335 (2015) 281–299
+295
+
+Appendix B. Supplementary material
+Supplementary data associated with this article can be found, in
+the online version, at http://dx.doi.org/10.1016/j.foreco.2014.09.
+009.
+References
+Abella, S.R., Covington, W.W., 2004. Monitoring an Arizona ponderosa pine
+restoration: sampling efﬁciency and multivariate analysis of understory
+vegetation. Restor. Ecol. 12, 359–367.
+Abella, S.R., Fornwalt, P.J., 2014. Ten years of vegetation assembly after a North
+American mega-ﬁre. Global Change Biol. (in press).
+Abella, S.R., Springer, J.D., 2009. Planting trials in northern Arizona ponderosa pine
+forests. Ecol. Restor. 27, 290–299.
+Abella, S.R., Springer, J.D., 2012. Soil seed banks in a mature coniferous forest
+landscape: dominance of native perennials and low spatial variability. Seed Sci.
+Res. 22, 207–217.
+Abella, S.R., Springer, J.D., Covington, W.W., 2007. Seed banks of an Arizona Pinus
+ponderosa landscape: responses to environmental gradients and ﬁre cues. Can. J.
+For. Res. 37, 552–567.
+Abella, S.R., Hurja, J.C., Merkler, D.J., Denton, C.W., Brewer, D.G., 2012. Overstory–
+understory relationships along forest type and environmental gradients in the
+Spring Mountains of southern Nevada, USA. Folia Geobot. 47, 119–134.
+Abella, S.R., 2014. Effectiveness of exotic plant treatments on National Park Service
+lands in the United States. Invasive Plant Sci. Manage. 7, 147–163.
+Agee, J.K., Lolley, M.R., 2006. Thinning and prescribed ﬁre effects on fuels and
+potential ﬁre behavior in an eastern Cascades forest, Washington, USA. Fire
+Ecol. 2, 142–158.
+Agee, J.K., 1993. Fire ecology of Paciﬁc Northwest forests. Island Press, Washington,
+DC, 493 pp.
+Anderson, R.S., Jass, R.B., Toney, J.L., Allen, C.D., Cisneros-Dozal, L.M., Hess, M.,
+Heikoop, J., Fessenden, J., 2008. Development of the mixed conifer forest in
+northern New Mexico and its relationship to Holocene environmental change.
+Quatern. Res. 69, 263–275.
+Archibold, O.W., 1989. Seed banks and vegetation processes in coniferous forests.
+pp. 107–122. In: Leck, M.A., Parker, V.T., Simpson, R.L. (Eds.), Ecology of Soil
+Seed Banks. Academic Press, New York, p. 462.
+Ares, A., Neill, A.R., Puettmann, K.J., 2010. Understory abundance, species diversity
+and functional attribute response to thinning in coniferous stands. For. Ecol.
+Manage. 260, 1104–1113.
+Ayers, D.M., Bedunah, D.J., Harrington, M.G., 1999. Antelope bitterbrush and
+Scouler’s willow response to a shelterwood harvest and prescribed burn in
+western Montana. West. J. Appl. For. 14, 137–143.
+Baker, W.L., Veblen, T.T., Sherriff, R.L., 2007. Fire, fuels and restoration of ponderosa
+pine-Douglas ﬁre forests in the Rocky Mountains, USA. J. Biogeogr. 34, 251–269.
+Bakker, J.D., Moore, M.M., 2007. Controls on vegetation structure in southwestern
+ponderosa pine forests, 1941 and 2004. Ecology 88, 2305–2319.
+Barbier, S., Gosselin, F., Balandier, P., 2008. Inﬂuence of tree species on understory
+vegetation diversity and mechanisms involved – a critical review for temperate
+and boreal forests. For. Ecol. Manage. 254, 1–15.
+Barbour, M., Kelley, E., Maloney, P., Rizzo, D., Royce, E., Fites-Kaufmann, J., 2002.
+Present and past old-growth forests of the Lake Tahoe Basin, Sierra Nevada,
+USA. J. Veg. Sci. 13, 461–472.
+Battaglia, M.A., Shepperd, W.D., 2007. Ponderosa pine, mixed conifer, and spruce-ﬁr
+forests. pp. 7–37. In Hood, S.M., Miller, M. (Eds.), Fire Ecology and Management
+of the Major Ecosystems of Southern Utah. General Technical Report RMRS-
+GTR-202. U.S. Department of Agriculture, Forest Service, Rocky Mountain
+Research Station, Fort Collins, CO. 110 pp.
+Battles, J.J., Shlisky, A.J., Barrett, R.H., Heald, R.C., Allen-Diaz, B.H., 2001. The effects
+of forest management on plant species diversity in a Sierran conifer forest. For.
+Ecol. Manage. 146, 211–222.
+Bêche, L.A., Stephens, S.L., Resh, V.H., 2005. Effects of prescribed ﬁre on a Sierra Nevada
+(California, USA) stream and its riparian zone. For. Ecol. Manage. 218, 37–59.
+Bedunah, D.J., Harrington, M.G., Ayers, D.M., 1999. Antelope bitterbrush and
+Scouler’s willow response to a forest restoration project. pp. 256–259. In:
+McArthur, E.D., Ostler, W.K., Wambolt, C.L. (compilers), Proceedings: Shrubland
+Ecotones; 1998 Augst 12–14, Ephraim, UT. Proceedings RMRS-P-11. U.S.
+Department of Agriculture, Forest Service, Rocky Mountain Research Station,
+Ogden, UT. 299 pp.
+Bigelow, S.W., North, M.P., 2012. Microclimate effects of fuels-reduction and group-
+selection silviculture: implications for ﬁre behavior in Sierran mixed-conifer
+forests. For. Ecol. Manage. 264, 51–59.
+Bossuyt, B., Hermy, M., 2001. Inﬂuence of land use history on seed banks in
+European temperate forest ecosystems: a review. Ecography 24, 225–238.
+Bradley, A.F., Noste, N.V., Fischer, W.C., 1992. Fire ecology of forests and woodlands
+in Utah. General Technical Report INT-287. U.S. Department of Agriculture,
+Forest Service, Intermountain Research Station, Ogden, UT. 128 pp.
+British Columbia Ministry of Forests, Mines and Lands, 2010. The state of British
+Columbia’s forests. Forest Practices and Investment Branch, Victoria, British
+Columbia, 308 pp.
+Brockway, D.G., Gatewood, R.G., Paris, R.B., 2002. Restoring grassland savannas from
+degraded pinyon-juniper woodlands: effects of mechanical overstory reduction
+and slash treatment alternatives. J. Environ. Manage. 64, 179–197.
+Chiono, L.A., O’Hara, K.L., De Lasaux, M.J., Nader, G.A., Stephens, S.L., 2012.
+Development of vegetation and surface fuels following ﬁre hazard reduction
+treatment. Forests 3, 700–712.
+Clary, W.P. 1975. Range management and its ecological basis in the ponderosa pine
+type of Arizona: the status of our knowledge. Research Paper RM-158. USDA
+Forest Service, Rocky Mountain Forest and Range Experiment Station, Fort
+Collins, CO. 35 pp.
+Clayton, J.L., Kennedy, D.A., 1985. Nutrient losses from timber harvest in the Idaho
+batholith. Soil Sci. Soc. Am. J. 49, 1041–1049.
+Cocke, A.E., Fulé, P.Z., Crouse, J.E., 2005. Forest change on a steep mountain gradient
+after extended ﬁre exclusion: San Francisco Peaks, Arizona, USA. J. Appl. Ecol.
+42, 814–823.
+Collins, B.M., Moghaddas, J.J., Stephens, S.L., 2007. Initial changes in forest structure
+and understory plant communities following fuel reduction activities in a Sierra
+Nevada mixed conifer forest. For. Ecol. Manage. 239, 102–111.
+Conard, S.G., Radosevich, S.R., 1982. Postﬁre succession in white ﬁr (Abies concolor)
+vegetation of the northern Sierra Nevada. Madroño 29, 42–56.
+Coop, J.D., Barker, K.J., Knight, A.D., Pecharich, J.S., 2014. Aspen (Populus tremuloides)
+stand dynamics and understory plant community changes over 46 years near
+Crested Butte, Colorado, USA. For. Ecol. Manage. 318, 1–12.
+Covington, W.W., Everett, R.L., Steele, R., Irwin, L.L., Daer, T.A., Auclair, A.N.D., 1994.
+Historical and anticipated changes in forest ecosystems of the inland west of
+the United States. J. Sust. For. 2, 13–63.
+Cram, D.S., Baker, T.T., Fernald, A.G., Madrid, A., Rummer, B., 2007. Mechanical
+thinning impacts on runoff, inﬁltration, and sediment yield following fuel
+reduction treatments in a southwestern dry mixed conifer forest. J. Soil Water
+Conserv. 62, 359–366.
+Crane, M.F., Habeck, J.R., Fischer, W.C., 1983. Early postﬁre revegetation in a western
+Montana Douglas-ﬁr forest. Research Paper INT-RP-319. USDA Forest Service,
+Intermountain Forest and Range Experiment Station, Ogden, UT, USA.
+Appendix A (continued)
+Reference
+Areab
+Locationc
+PP
+(cm yr1)d
+FI
+(yrs)e
+Tree speciesf
+Shrubsg
+Herbsg
+Unitsg
+Designh
+Stark et al. (2006, 2008)
+BC
+Near City of
+Kamloops
+30–85
+–
+PC, PM, PP
+–
+–
+–
+0,1,1,1,0
+a Fire and Fire Surrogate study sites: Blodgett, Collins et al. (2007); Mission Creek, Dodson et al. (2008), Dodson and Peterson (2010), Agee and Lolley (2006); Blue
+Mountains, Metlen et al. (2004), Youngblood et al. (2006); Lubrecht, Metlen and Fiedler (2006), Dodson and Fiedler (2006), Dodson et al. (2007), Gundale et al. (2006).
+b U.S. states and Canadian province: AZ, Arizona; NM, New Mexico; CA, California; OR, Oregon; WA, Washington; MT, Montana; ID, Idaho; BC, British Columbia.
+c EF, experimental forest; NF, national forest; NP, national park.
+d Long-term average precipitation provided by papers, or if in italics, our estimated average precipitation based on PRISM using study location provided in papers (e.g.,
+geographic coordinates, distance from nearest city).
+e Mean or range of mean ﬁre-return interval provided in papers.
+f AC, Abies concolor; AG, Abies grandis; AL, Abies lasiocarpa; AM, Abies magniﬁca; CD, Calocedrus decurrens; LO, Larix occidentalis; PC, Pinus contorta; PE, Picea engelmannii; PG,
+Picea glauca; PJ, Pinus jeffreyi; PL, Pinus lambertiana; PM, Pseudotsuga menziesii; PCP, Picea pungens; PP, Pinus ponderosa; PS, Pinus strobiformis; TH, Tsuga heterophylla.
+g Amount of understory vegetation before treatment or in controls (or pre-treatment in controls), shown as percent cover (cv %) or biomass (g m2). Forbs and graminoids
+were combined in many studies and are shown here as herbaceous vegetation.
+h Study design as: 1 for yes for pre-treatment data collected, controls present, replication of treatments across independent sites, replication across some environmental
+gradient (e.g., soil parent material, or ﬁre severity class for wildﬁre), and, for duration, <2 years = 0, 2–3 years = 1, 4–9 years = 2, and P 10 years = 3. Duration is the longest
+time since treatment that the last post-treatment measurement was made.
+i – signiﬁes not provided in a study.
+296
+S.R. Abella, J.D. Springer / Forest Ecology and Management 335 (2015) 281–299
+
+Crotteau, J.S., Varner, J.M., Ritchie, M.W., 2013. Post-ﬁre regeneration across a
+ﬁre severity gradient in the southern Cascades. For. Ecol. Manage. 287, 103–
+112.
+Dambrine, E., Dupouey, J.L., Laüt, L., Humbert, L., Thinon, M., Beauﬁls, T., Richard, H.,
+2007. Present forest biodiversity patterns in France related to former Roman
+agriculture. Ecology 88, 1430–1439.
+Dodson, E.K., Fiedler, C.E., 2006. Impacts of restoration treatments on alien plant
+invasion in Pinus ponderosa forests, Montana, USA. J. Appl. Ecol. 43, 887–897.
+Dodson, E.K., Peterson, D.W., 2010. Dry coniferous forest restoration and understory
+plant diversity: the importance of community heterogeneity and scale of
+observation. For. Ecol. Manage. 260, 1702–1707.
+Dodson, E.K., Metlen, K.L., Fiedler, C.E., 2007. Common and uncommon understory
+species differentially respond to restoration treatments in ponderosa pine/
+Douglas-ﬁr forests, Montana. Restor. Ecol. 15, 696–708.
+Dodson, E.K., Peterson, D.W., Harrod, R.J., 2008. Understory vegetation response to
+thinning and burning restoration treatments in dry conifer forests of the eastern
+Cascades, USA. For. Ecol. Manage. 255, 3130–3140.
+Donato, D.C., Fontaine, J.B., Robinson, W.D., Kauffman, J.B., Law, B.E., 2009.
+Vegetation responses to a short interval between high-severity wildﬁres in a
+mixed-evergreen forest. J. Ecol. 97, 142–154.
+Ducherer, K., Bai, Y., Thompson, D., Broersma, K., 2009. Dynamic responses of a
+British Columbian forest-grassland interface to prescribed burning. West. North
+Am. Nat. 69, 75–87.
+Ducherer, K., Bai, Y., Thompson, D., Broersma, K., 2013. Thinning of a ponderosa
+pine/Douglas-ﬁr forest in south-central BC: impacts on understorey vegetation.
+J. Ecosyst. Manage. 14, 1–15.
+Duguid,
+M.C.,
+Ashton,
+M.S., 2013.
+A
+meta-analysis of
+the effect
+of
+forest
+management for timber on understory plant species diversity in temperate
+forests. For. Ecol. Manage. 303, 81–90.
+Falk, D.A., Heyerdahl, E.K., Brown, P.M., Farris, C., Fulé, P.Z., McKenzie, D., Swetnam,
+T.W., Taylor, A.H., Van Horne, M.L., 2011. Multi-scale controls of historical
+forest-ﬁre regimes: new insights from ﬁre-scar networks. Front. Ecol. Environ.
+9, 446–454.
+Ffolliott, P.F., Gottfried, G.J., 1989. Production and utilization of herbaceous plants in
+small clearcuts in an Arizona mixed conifer forest. Research Note RM-494. U.S.
+Department of Agriculture, Forest Service, Rocky Mountain Forest and Range
+Experiment Station, Fort Collins, CO. 5 pp.
+Fiedler, C.E., Dodson, E.K., Metlen, K.L., 2013. Exotic plant response to forest
+disturbance in the western United States. pp. 93–112. In: Jose, S., Singh, H.P.,
+Batish, D.R., Kohli, K.K. (Eds.), Invasive Plant Ecology. CRC Press, Boca Raton, FL,
+p. 302.
+Fischer, W.C., Clayton, B.D., 1983. Fire ecology of Montana forest habitat types east
+of the Continental Divide. General Technical Report INT-141. U.S. Department of
+Agriculture, Forest Service, Intermountain Forest and Range Experiment Station,
+Ogden, UT. 83 pp.
+Fites-Kaufman, Rundel, P., Stephenson, N., Weixelman, D.A., 2007. Montane and
+subalpine vegetation of the Sierra Nevada and Cascade Ranges. pp. 456–501. In:
+Barbour, M.G., Keeler-Wolf, T., Schoenherr, A.A. (Eds.), Terrestrial Vegetation of
+California. University of California Press, Berkeley, p. 712.
+Fonda, R.W., Binney, E.P., 2011. Vegetation response to prescribed ﬁre in Douglas-ﬁr
+forests, Olympic National Park. Northwest Sci. 85, 30–40.
+Fornwalt, P.J., Kaufmann, M.R., 2014. Understorey plant community dynamics
+following a large, mixed severity wildﬁre in a Pinus ponderosa-Pseudotsuga
+menziesii forest, Colorado, USA. J. Veg. Sci. 25, 805–818.
+Fornwalt, P.J., Rhoades, C.C., 2011. Rehabilitating slash pile burn scars in upper
+montane forests of the Colorado Front Range. Nat. Areas J. 31, 177–182.
+Freeman, J.P., Stohlgren, T.J., Hunter, M.E., Omi, P.N., Martinson, E.J., Chong, G.W.,
+Brown, C.S., 2007. Rapid assessment of postﬁre plant invasions in coniferous
+forests of the western United States. Ecol. Appl. 17, 1656–1665.
+Fulé, P.Z., Crouse, J.E., Heinlein, T.A., Moore, M.M., Covington, W.W., Verkamp, G.,
+2003. Mixed-severity ﬁre regime in a high-elevation forest: Grand Canyon,
+Arizona. Landscape Ecol. 18, 465–486.
+Fulé, P.Z., Korb, J.E., Wu, R., 2009. Changes in forest structure of a mixed conifer
+forest, southwestern Colorado, USA. For. Ecol. Manage. 258, 1200–1210.
+Fulé, P.Z., Crouse, J.E., Roccaforte, J.P., Kalies, E.L., 2012. Do thinning and/or burning
+treatments in western USA ponderosa or Jeffrey pine-dominated forests help
+restore natural ﬁre behavior? For. Ecol. Manage. 269, 68–81.
+Gilliam, F.S., 2007. The ecological signiﬁcance of the herbaceous layer in temperate
+forest ecosystems. Bioscience 57, 845–858.
+Gordon, F.A., 1976. Spring burning in an aspen-conifer stand for maintenance of
+moose habitat, West Boulder River, Montana. In: Proceedings Annual 14th Tall
+Timbers Fire Ecology Conference and Intermountain Fire Research Council Fire
+& Land Management Symposium. Missoula, MN. Tall Timbers Research Inc.,
+Tallahassee, FL. pp. 501–538.
+Gruell,
+G.E.,
+1983.
+Fire
+and
+vegetative
+trends
+in
+the
+Northern
+Rockies:
+interpretations from 1871–1982 photographs. General Technical Report INT-
+158. U.S. Department of Agriculture, Forest Service, Intermountain Research
+Station, Ogden, UT. 117 pp.
+Gruell, G.E., 2001. Fire in Sierra Nevada Forests: A Photographic Interpretation of
+Ecological Change since 1849. Mountain Press Publishing, Missoula, MT.
+Gundale, M.J., Metlen, K.L., Fiedler, C.E., DeLuca, T.H., 2006. Nitrogen spatial
+heterogeneity inﬂuences diversity following restoration in a ponderosa pine
+forest, Montana. Ecol. Appl. 16, 479–489.
+Hagmann,
+R.K.,
+Franklin,
+J.F.,
+Johnson,
+K.N.,
+2013.
+Historical
+structure
+and
+composition of ponderosa pine and mixed-conifer forests in south-central
+Oregon. For. Ecol. Manage. 304, 492–504.
+Halpern, C.B., Lutz, J.A., 2013. Canopy closure exerts weak controls on understory
+dynamics: a 30-year study of overstory-understory interactions. Ecol. Monogr.
+83, 221–237.
+Hardman, A., McCune, B., 2010. Bryoid layer response to soil disturbance by fuel
+reduction treatments in a dry conifer forest. Bryologist 113, 235–245.
+Harrison, F., 2011. Getting started with meta-analysis. Methods Ecol. Evol. 2, 1–10.
+Harrod, R.J., Halpern, C.B., 2009. Effects of experimental burning on individual
+performance and population structure of two rare plants of north-central
+Washington. Restor. Ecol. 17, 215–225.
+Hart, S.A., Chen, H.Y.H., 2006. Understory vegetation dynamics of North American
+boreal forests. Crit. Rev. Plant Sci. 25, 381–397.
+Hedrick, D.W., Young, J.A., McArthur, J.A.B., Keniston, R.F., 1968. Effects of forest and
+grazing practices on mixed coniferous forests of northeastern Oregon. Technical
+Bulletin
+103.
+Agricultural
+Experiment
+Station,
+Oregon
+State
+University,
+Corvallis, Oregon. 24 pp.
+Heinlein, T.A., Moore, M.M., Fulé, P.Z., Covington, W.W., 2005. Fire history and stand
+structure of two ponderosa pine-mixed conifer sites: San Francisco Peaks,
+Arizona, USA. Int. J. Wildland Fire 14, 307–320.
+Hessburg, P.F., Agee, J.K., 2003. An environmental narrative of Inland Northwest
+United States forests, 1800–2000. For. Ecol. Manage. 178, 23–59.
+Heyerdahl, E.K., Lertzman, K., Young, C.M., 2012. Mixed-severity ﬁre regimes in dry
+forests of southern interior British Columbia, Canada. Can. J. For. Res. 42, 88–98.
+Honnay, O., Bossuyt, B., Verheyen, K., Butaye, J., Jacquemyn, H., Hermy, M., 2002.
+Ecological perspectives for the restoration of plant communities in European
+temperate forests. Biodivers. Conserv. 11, 213–242.
+Huffman, D.W., Laughlin, D.C., Pearson, K.M., Pandey, S., 2009. Effects of vertebrate
+herbivores and shrub characteristics on arthropod assemblages in a northern
+Arizona forest ecosystem. For. Ecol. Manage. 258, 616–625.
+Huisinga, K.D., Laughlin, D.C., Fulé, P.Z., Springer, J.D., McGlone, C.M., 2005. Effects of
+an intense prescribed ﬁre on understory vegetation in a mixed conifer forest. J.
+Torrey Bot. Soc. 132, 590–601.
+Hurteau, M., North, M., 2008. Mixed-conifer understory response to climate change,
+nitrogen, and ﬁre. Glob. Change Biol. 14, 1543–1552.
+Jain, T.B., Battaglia, M.A., Han, H., Graham, R.T., Keyes, C.R., Fried, J.S., Sandquist, J.E.,
+2012. A comprehensive guide to fuel management practices for dry mixed
+conifer forests in the northwestern United States. General Technical Report
+RMRS-GTR-292. U.S. Department of Agriculture, Forest Service, Rocky Mountain
+Research Station, Fort Collins, CO. 331 pp.
+Jones, J.R., 1974. Silviculture of southwestern mixed conifers and aspen: the status
+of our knowledge. Research Paper RM-122. U.S. Department of Agriculture,
+Forest Service, Rocky Mountain Forest and Range Experiment Station, Fort
+Collins, CO. 44 pp.
+Kalies, E.L., Chambers, C.L., Covington, W.W., 2010. Wildlife responses to thinning
+and burning treatments in southwestern conifer forests: a meta-analysis. For.
+Ecol. Manage. 259, 333–342.
+Kane, J.M., Varner, J.M., Knapp, E.E., Powers, R.F., 2010. Understory vegetation
+response to mechanical mastication and other fuels treatments in a ponderosa
+pine forest. Appl. Veg. Sci. 13, 207–220.
+Kauffman, J.B., Martin, R.E., 1990. Sprouting shrub response to different seasons and
+fuel consumption levels of prescribed ﬁre in Sierra Nevada mixed conifer
+ecosystems. Forest Sci. 36, 748–764.
+Kauffman, J.B., Martin, R.E., 1991. Factors inﬂuencing the scariﬁcation and
+germination of three montane Sierra Nevada shrubs. Northwest Sci. 65, 180–
+187.
+Kaufmann, M.R., Huckaby, L.S., Regan, C.M., Popp, J., 1998. Forest reference
+conditions for ecosystem management in the Sacramento Mountains, New
+Mexico.
+General
+Technical
+Report
+RMRS-GTR-19.
+U.S.
+Department
+of
+Agriculture, Forest Service, Rocky Mountain Research Station, Fort Collins, CO.
+87 pp.
+Keeley, J.E., 2006. Fire management impacts on invasive plants in the western
+United States. Conserv. Biol. 20, 375–384.
+Keith, R.P., Veblen, T.T., Schoennagel, T.L., Sherriff, R.L., 2010. Understory vegetation
+indicates historic ﬁre regimes in ponderosa pine-dominated ecosystems in the
+Colorado Front Range. J. Veg. Sci. 21, 488–499.
+Klenner, W., Walton, R., Arsenault, A., Kremsater, L., 2008. Dry forests in the
+southern interior of British Columbia: historic disturbances and implications for
+restoration and management. For. Ecol. Manage. 256, 1711–1722.
+Knapp, E.E., Schwilk, D.W., Kane, J.M., Keeley, J.E., 2007. Role of burning season on
+initial understory vegetation response to prescribed ﬁre in a mixed conifer
+forest. Can. J. For. Res. 37, 11–22.
+Knapp, E.E., Weatherspoon, C.P., Skinner, C.N., 2012. Shrub seed banks in mixed
+conifer forests of northern California and the role of ﬁre in regulation
+abundance. Fire Ecol. 8, 32–48.
+Knapp, E.E., Skinner, C.N., North, M.P., Estes, B.L., 2013. Long-term overstory and
+understory change following logging and ﬁre exclusion in a Sierra Nevada
+mixed-conifer forest. For. Ecol. Manage. 310, 903–914.
+Korb, J.E., Johnson, N.C., Covington, W.W., 2004. Slash pile burning effects on soil
+biotic and chemical properties and plant establishment: recommendations for
+amelioration. Restor. Ecol. 12, 52–62.
+Koricheva, J., Gurevitch, J., Mengersen, K. (Eds.), 2013. Handbook of Meta-analysis in
+Ecology and Evolution. Princeton University Press, Princeton, New Jersey,
+498pp.
+Kosco, B.H., Bartolome, J.W., 1983. Effects of cattle and deer on regenerating mixed
+conifer clearcuts. J. Range Manag. 36, 265–268.
+Kramer, N.B., Johnson, F.D., 1987. Mature forest seed banks of three habitat types in
+central Idaho. Can. J. Bot. 65, 1961–1966.
+S.R. Abella, J.D. Springer / Forest Ecology and Management 335 (2015) 281–299
+297
+
+Kreye, J.K., Brewer, N.W., Morgan, P., Varner, J.M., Smith, A.M.S., Hoffman, C.M.,
+Ottmar, R.D., 2014. Fire behavior in masticated fuels: a review. For. Ecol.
+Manage. 314, 193–207.
+Kreyling, J., Schmiedinger, A., Macdonald, E., Beierkuhnlein, C., 2008. Slow
+understory redevelopment after clearcutting in high mountain forests. Biodiv.
+Conserv. 17, 2339–2355.
+Larson, F.R., Wolters, G.L., 1983. Overstory-understory relationships: mixed conifer
+forests. pp. 21–25. In: Bartlett, E.T., Betters, D.R. (Eds.), Overstory-understory
+Relationships in Western Forests. Western Regional Research Publication No. 1.
+Colorado State University Experiment Station, Fort Collins, CO. 36 pp.
+Laughlin,
+D.C.,
+Fulé,
+P.Z.,
+2008.
+Wildland
+ﬁre
+effects
+on
+understory
+plant
+communities in two ﬁre-prone forests. Can. J. For. Res. 38, 133–142.
+Lochhead, K.D., Comeau, P.G., 2012. Relationships between forest structure,
+understorey light and regeneration in complex Douglas-ﬁr dominated stands
+in south-eastern British Columbia. For. Ecol. Manage. 284, 12–22.
+Lydersen, J.M., North, M.P., Knapp, E.E., Collins, B.M., 2013. Quantifying spatial
+patterns of tree groups and gaps in mixed-conifer forests: reference conditions
+and long-term changes following ﬁre suppression and logging. For. Ecol.
+Manage. 304, 370–382.
+Lyon, L.J., Stickney, P.F., 1976. Early vegetal succession following large northern
+Rocky Mountain wildﬁres. In: Proceedings: 14th Tall Timbers Fire Ecology
+Conference, October 8–10, 1974, Missoula, MT, pp. 355–373. Tall Timbers
+Research Station: Tallahassee, FL, USA.
+Lyon, L.J., 1966. Initial vegetal development following prescribed burning of
+Douglas-ﬁr in south-central Idaho. Research Paper INT-29. U.S. Department of
+Agriculture, Forest Service, Intermountain Forest and Range Experiment Station,
+Ogden, UT. 17 pp.
+Ma, S., Concilio, A., Oakley, B., North, M., Chen, J., 2010. Spatial variability in
+microclimate in a mixed-conifer forest before and after thinning and burning
+treatments. For. Ecol. Manage. 259, 904–915.
+Mason, G.J., Baker, T.T., Cram, D.S., Boren, J.C., Fernald, A.G., VanLeeuwen, D.M.,
+2009. Mechanical fuel treatment effects on fuel loads and indices of crown ﬁre
+potential in a south central New Mexico dry mixed conifer forest. For. Ecol.
+Manage. 251, 195–204.
+McGlone, C.M., Egan, D., 2009. The role of ﬁre in the establishment and spread of
+nonnative plants in Arizona ponderosa pine forests: a review. J. Arizona-Nevada
+Acad. Sci. 41, 75–86.
+McGlone, C.M., Sieg, C.H., Kolb, T.E., 2012. Invasion resistance and persistence:
+established plants win, even with disturbance and high propagule pressure.
+Biol. Invasions 13, 291–304.
+McIver, J.D., Stephens, S.L., Agee, J.K., Barbour, J., Boerner, R.E.J., Edminster, C.B.,
+Erickson, K.L., Farris, H.L., Fettig, C.J., Fiedler, C.E., Haase, S., Hart, S.C., Keeley, J.E.,
+Knapp, E.E., Lehmkuhl, J.F., Moghaddas, J.J., Otrosina, W., Outcalt, K.W., Schwilk,
+D.W.,
+Skinner,
+C.N.,
+Waldrop,
+T.A.,
+Weatherspoon,
+C.P.,
+Yaussy,
+D.A.,
+Youngblood, A., Zack, S., 2013. Ecological effects of alternative fuel-reduction
+treatments: highlights of the National Fire and Fire Surrogate study (FFS). Int. J.
+Wildland Fire 22, 63–82.
+McKelvey, K.S., Johnston, J.D., 1992. Historical perspectives on forests of the Sierra
+Nevada and the transverse ranges of southern California: forest conditions at
+the turn of the century. pp. 225–246. In: Verner, J., McKelvey, K.S., Noon, B.R.,
+Gutierrez, R.J., Gould, G.I., Beck, T.W. (Eds.), The California Spotted Owl: A
+Technical Assessment of Its Current Status. General Technical Report PSW-GTR-
+133. U.S. Department of Agriculture, Forest Service, Paciﬁc Southwest Research
+Station, Albany, CA.
+Metlen, K.L., Fiedler, C.E., 2006. Restoration treatment effects on the understory of
+ponderosa pine/Douglas-ﬁr forests in western Montana, USA. For. Ecol. Manage.
+222, 355–369.
+Metlen, K.L., Fiedler, C.E., Youngblood, A., 2004. Understory response to fuel
+reduction treatments in the Blue Mountains of northeastern Oregon. Northwest
+Sci. 78, 175–185.
+Minnich, R.A., Barbour, M.G., Burk, J.H., Fernau, R.F., 1995. Sixty years of change in
+Californian conifer forests of the San Bernardino Mountains. Conserv. Biol. 9,
+902–914.
+Minnich, R.A., Barbour, M.G., Burk, J.H., Sosa-Ramirez, J., 2000. Californian mixed-
+conifer forests under unmanaged ﬁre regimes in the Sierra San Pedro Mártir,
+Baja California, Mexico. J. Biogeogr. 27, 105–129.
+Mitchell, J.E., Bartling, P.N.S., 1991. Comparison of linear and nonlinear overstory-
+understory models for ponderosa pine. For. Ecol. Manage. 42, 195–204.
+Munger, T.T., Westveld, R.H., 1931. Slash disposal in the western yellow pine forests
+of Oregon and Washington. Technical Bulletin 259. U.S. Department of
+Agriculture, Washington, DC. 58 pp.
+Newland, J.A., DeLuca, T.H., 2000. Inﬂuence of ﬁre on native nitrogen-ﬁxing plants
+and soil nitrogen status in ponderosa pine-Douglas-ﬁr forests in western
+Montana. Can. J. For. Res. 30, 274–282.
+North, M., Oakley, B., Fiegener, R., Gray, A., Barbour, M., 2005. Inﬂuence of light and
+soil moisture on Sierran mixed-conifer understory communities. Plant Ecol.
+177, 13–24.
+North, M., Innes, J., Zald, H., 2007. Comparison of thinning and prescribed ﬁre
+restoration treatments to Sierran mixed-conifer historic conditions. Can. J. For.
+Res. 37, 331–342.
+North, M., Collins, B.M., Stephens, S., 2012. Using ﬁre to increase the scale, beneﬁts,
+and future maintenance of fuels treatments. J. Forest. 110, 392–401.
+Page, H.N., Bork, E.W., 2005. Effect of planting season, bunchgrass species, and
+neighbor control on the success of transplants for grassland restoration. Restor.
+Ecol. 13, 651–658.
+Page, H.N., Bork, E.W., Newman, R.F., 2005. Understory responses to mechanical
+restoration and drought within montane forests of British Columbia. Br.
+Columb. J. Ecosyst. Manage. 6, 8–21.
+Page-Dumroese, D., Harvey, A., Jurgensen, M., Graham, R., 1991. Organic matter
+function in the western-montane forest soil system. pp. 95–100. In: Harvey,
+A.E.,
+Neuenschwander,
+L.F.
+(compilers),
+Proceedings-management
+and
+Productivity of Western-montane Forest Soils. General Technical Report INT-
+280. U.S. Department of Agriculture, Forest Service, Intermountain Research
+Station, Ogden, UT. 254 pp.
+Paillet, Y., Bergès, L., Hjältén, J., et al., 2010. Biodiversity differences between
+managed and unmanaged forests: meta-analysis of species richness in Europe.
+Conserv. Biol. 24, 101–112.
+Parsons, D.J., DeBenedetti, S.H., 1979. Impact of ﬁre suppression on a mixed-conifer
+forest. For. Ecol. Manage. 2, 21–33.
+Patton, D.R., 1976. Timber harvesting increases deer and elk use of a mixed conifer
+forest. Research Note RM-329. U.S. Department of Agriculture, Forest Service,
+Rocky Mountain Forest and Range Experiment Station, Fort Collins, CO. 3 pp.
+Peppin, D., Fulé, P.Z., Sieg, C.H., Beyers, J.L., Hunter, M.E., 2010. Post-wildﬁre seeding
+in forests of the western United States: an evidence-based review. For. Ecol.
+Manage. 260, 573–586.
+Perry, L.G., Blumenthal, D.M., Monaco, T.A., Paschke, M.W., Redente, E.F., 2010.
+Immobilizing nitrogen to control plant invasion. Oecologia 163, 13–24.
+Pullin, A.S., Stewart, G.B., 2006. Guidelines for systematic review in conservation
+and environmental management. Conserv. Biol. 20, 1647–1656.
+Pyke, D.A., Zamora, B.A., 1982. Relationships between overstory structure and
+understory production in the grand ﬁr/myrtle boxwood habitat type of
+northcentral Idaho. J. Range Manag. 35, 769–773.
+Reynolds, R.T., Sánchez Meador, A.J., Youtz, J.A., Nicolet, T., Matonis, M.S., Jackson,
+P.L., DeLorenzo, D.G., Graves, A.D., 2013. Restoring composition and structure in
+southwestern frequent-ﬁre forests: a science-based framework for improving
+ecosystem
+resiliency.
+General
+Technical
+Report
+RMRS-GTR-310.
+U.S.
+Department of Agriculture, Forest Service, Rocky Mountain Research Station,
+Fort Collins, CO. 76 pp.
+Riggs, R.A., Tiedemann, A.R., Cook, J.G., Ballard, T.M., Edgerton, P.J., Vavra, M.,
+Krueger, W.C., Hall, F.C., Bryant, L.D., Irwin, L.L., Delcurto, T., 2000. Modiﬁcation
+of mixed-conifer forests by ruminant herbivores in the Blue Mountains
+ecological
+province.
+Research
+Paper
+PNW-RP-527.
+U.S.
+Department
+of
+Agriculture, Forest Service, Paciﬁc Northwest Research Station, Portland, OR.
+77 pp.
+Roberts, M.R., 2004. Response of the herbaceous layer to natural disturbance in
+North American forests. Can. J. Bot. 82, 1273–1283.
+Rosenvald, R., Lõhmus, A., 2008. For what, when, and where is green-tree retention
+better than clear-cutting? a review of the biodiversity aspects. For. Ecol.
+Manage. 255, 1–15.
+Scherer, G., Zabowski, D., Java, B., Everett, R., 2000. Timber harvesting residue
+treatment. Part II. Understory vegetation. For. Ecol. Manage. 126, 35–50.
+Schoennagel, T., Nelson, C.R., 2011. Restoration relevance of recent National Fire
+Plan treatments in forests of the western United States. Front. Ecol. Environ. 9,
+271–277.
+Seidel, K.W., Cochran, P.H., 1981. Silviculture of mixed conifer forests in eastern
+Oregon and Washington. General Technical Report PNW-121. U.S. Department
+of Agriculture, Forest Service, Paciﬁc Northwest Forest and Range Experiment
+Station, Portland, OR. 70 pp.
+Selmants, P.C., Knight, D.H., 2003. Understory plant species composition 30–50
+years after clearcutting in southeastern Wyoming coniferous forests. For. Ecol.
+Manage. 185, 275–289.
+Siegel, R.B., DeSante, D.F., 2003. Bird communities in thinned versus unthinned
+Sierran mixed conifer stands. Wilson Bull. 115, 155–165.
+Stark, K.E., Arsenault, A., Bradﬁeld, G.E., 2006. Soil seed banks and plant community
+assembly following disturbance by ﬁre and logging in interior Douglas-ﬁr
+forests of south-central British Columbia. Can. J. Bot. 84, 1548–1560.
+Stark, K.E., Arsenault, A., Bradﬁeld, G.E., 2008. Variation in soil seed bank species
+composition
+of
+a
+dry
+coniferous
+forest:
+spatial
+scale
+and
+sampling
+considerations. Plant Ecol. 197, 73–181.
+Steele, R.W., Beaufait, W.R., 1969. Spring and autumn broadcast burning of interior
+Douglas-ﬁr slash. Bulletin 36. University of Montana, School of Forestry,
+Missoula, MT. 12 p.
+Stephens, S.L., Collins, B.M., Roller, G., 2012. Fuel treatment longevity in a Sierra
+Nevada mixed conifer forest. For. Ecol. Manage. 285, 204–212.
+Strickler, G.S., Edgerton, P.J., 1976. Emergent seedlings from coniferous litter and
+soil in eastern Oregon. Ecology 57, 801–807.
+Sutherland, S., Nelson, C.R., 2010. Nonnative plant response to silvicultural
+treatments:
+a
+model
+based
+on
+disturbance,
+propagule
+pressure,
+and
+competitive abilities. West. J. Appl. For. 25, 27–33.
+Taylor, A.H., 2004. Identifying forest reference conditions on early cut-over lands,
+Lake Tahoe Basin, USA. Ecol. Appl. 14, 1903–1920.
+Thill, R.E., Ffolliott, P.F., Patton, D.R., 1983. Deer and elk forage production in Arizona
+mixed conifer forests. Research Note RM-248. U.S. Department of Agriculture,
+Forest Service, Rocky Mountain Forest and Range Experiment Station, Fort
+Collins, CO. 13 pp.
+Turnbull, L.A., Crawley, M.J., Rees, M., 2000. Are plant populations seed-limited? a
+review of seed sowing experiments. Oikos 88, 225–238.
+Vankat, J.L., 2011. Post-1935 changes in forest vegetation of Grand Canyon National
+Park, Arizona, USA: Part 2 – mixed conifer, spruce-ﬁr, and quaking aspen
+forests. For. Ecol. Manage. 261, 326–341.
+298
+S.R. Abella, J.D. Springer / Forest Ecology and Management 335 (2015) 281–299
+
+Veblen, T.T., Romme, W.H., Regan, C., 2012. Regional application of historical
+ecology at ecologically deﬁned scales: forest ecosystems in the Colorado Front
+Range. pp. 149–165. In: Wiens, J.A., Hayward, G.D., Safford, H.D., Giffen, C.
+(Eds.), Historical Environmental Variation in Conservation and Natural Resource
+Management. John Wiley and Sons, Hoboken, New Jersey, p. 352.
+Verschuyl, J., Riffell, S., Miller, D., Wigley, T.B., 2011. Biodiversity response to
+intensive biomass production from forest thinning in North American forests –
+a meta-analysis. For. Ecol. Manage. 261, 221–232.
+Walker, R.F., Fecko, R.M., Frederick, W.B., Miller, W.W., Johnson, D.W., 2012.
+Inﬂuences of thinning, chipping, and ﬁre on understory vegetation in a Sierran
+mixed conifer stand. J. Sust. For. 31, 493–517.
+Walker, R.F., Fecko, R.M., Johnson, D.W., Miller, W.W., 2013. Wildﬁre effects on
+understory vegetation, natural regeneration, and forest ﬂoor fuels in a Sierran
+mixed conifer stand. J. Sust. For. 32, 456–494.
+Wayman, R.B., North, M., 2007. Initial response of a mixed-conifer understory plant
+community to burning and thinning restoration treatments. For. Ecol. Manage.
+239, 32–44.
+Weatherspoon,
+C.P.,
+1988.
+Preharvest
+prescribed
+burning
+for
+vegetation
+management: effects on Ceanothus velutinus seeds in duff and soil. pp. 125–
+141. In Tomascheski, J.H. (chairperson), Proceedings: 9th Annual Vegetation
+Management Conference; 3–5 November 1987, Redding, CA. Forest Vegetation
+Management Conference, Redding, CA. 226 pp.
+Webster,
+K.M.,
+Halpern,
+C.B.,
+2010.
+Long-term
+vegetation
+responses
+to
+reintroduction and repeated use of ﬁre in mixed-conifer forests of the Sierra
+Nevada. Ecosphere 1(5):art9.
+Young, J.A., Hedrick, D.W., Kenniston, R.F., 1967. Forest cover and logging-herbage
+and browse production in the mixed conifer forest of northeastern Oregon. J.
+Forest. 65, 807–813.
+Youngblood, A., Metlen, K.L., Coe, K., 2006. Changes in stand structure and
+composition after restoration treatments in low elevation dry forests of
+northeastern Oregon. For. Ecol. Manage. 234, 143–163.
+Zhang, J., Ritchie, M.W., Oliver, W.W., 2008. Vegetation responses to stand structure
+and prescribed ﬁre in an interior ponderosa pine ecosystem. Can. J. For. Res. 38,
+909–918.
+S.R. Abella, J.D. Springer / Forest Ecology and Management 335 (2015) 281–299
+299

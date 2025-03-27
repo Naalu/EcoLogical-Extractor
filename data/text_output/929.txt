@@ -1,0 +1,1030 @@
+ECOLOGICAL RESTORATION INSTITUTE
+Working Paper 40
+Resources for Predicting  
+and Mitigating Smoke 
+Impacts of Wildland Fires
+August 2018
+
+Authors: By Caleb Stotts, Pete Lahm, and Claudia Standish
+Reviewers: Jackie Banks, USDA Forest Service; Rob Budge, USDA Forest Service; Josh Hall, 
+USDA Forest Service; Roy Hall, Arizona State Forestry Division
+Series Editor: Tayloe Dubay 
+Cover photo: Fire managers monitor the Wallow Fire near Eagar, Arizona. The Wallow Fire of 2011 was the largest 
+fire in Arizona history. Extreme smoke impacts from the fire provided significant lessons regarding public and firefighter 
+health and safety impacts, further crystallizing efforts that led to the development of the Wildland Fire Air Quality 
+Response Program (WFAQRP). Photo courtesy of ERI
+Please use the following citation when referencing this working paper:
+Stotts, C., P. Lahm, and C. Standish. 2018. Resources for Predicting and Mitigating Smoke Impacts of Wildland Fires. 
+ERI Working Paper No. 40. Ecological Restoration Institute, Northern Arizona University. 11 pp.
+Intermountain West Frequent-Fire Forest Restoration
+Ecological restoration is a practice that seeks to heal degraded ecosystems by reestablishing native species, 
+structural characteristics, and ecological processes. The Society for Ecological
+Restoration International defines ecological restoration as “an intentional activity that initiates or 
+accelerates the recovery of an ecosystem with respect to its health, integrity and sustainability….
+Restoration attempts to return an ecosystem to its historic trajectory” (Society for Ecological Restoration 
+International Science and Policy Working Group 2004).
+Most frequent-fire forests throughout the Intermountain West have been degraded during the last 150 
+years. Many of these forests are now dominated by unnaturally dense thickets of small trees, and lack 
+their once diverse understory of grasses, sedges, and forbs. Forests in this condition are highly susceptible 
+to damaging, stand-replacing fires and increased insect and disease epidemics. Restoration of these forests 
+centers on reintroducing frequent, low-severity surface fires—often after thinning dense stands—and 
+reestablishing productive understory plant communities.
+The Ecological Restoration Institute at Northern Arizona University is a pioneer in researching, 
+implementing, and monitoring ecological restoration of frequent-fire forests of the Intermountain West. 
+By allowing natural processes, such as low-severity fire, to resume self-sustaining patterns, we hope to 
+reestablish healthy forests that provide ecosystem services, wildlife habitat, and recreational opportunities.
+The Southwest Fire Science Consortium (SWFSC) is a way for managers, scientists, and policy makers 
+to interact and share science. SWFSC’s goal is to see the best available science used to make management 
+decisions and scientists working on the questions managers need answered. The SWFSC tries to bring 
+together localized efforts to develop scientific information and to disseminate that to practitioners on the 
+ground through an inclusive and open process.
+ERI working papers are intended to deliver applicable science to land managers and practitioners 
+in a concise, clear, non-technical format. These papers provide guidance on management decisions 
+surrounding ecological restoration topics. This publication would not have been possible without funding 
+from the USDA Forest Service and the Southwest Fire Science Consortium. The views and conclusions 
+contained in this document are those of the author(s) and should not be interpreted as representing the 
+opinions or policies of the United States Government. Mention of trade names or commercial products 
+does not constitute their endorsement by the United States Government or the ERI.
+
+Table of Contents
+Executive Summary.............................................................................. 1
+Introduction......................................................................................... 1
+Smoke Impacts and Public Perception................................................. 1
+The Role of Air Resource Advisors...................................................... 2
+The ARA Toolkit: The Three “M”s..................................................... 4
+Modeling....................................................................................... 4
+Monitoring.................................................................................... 4
+Messaging...................................................................................... 5
+Examples from ARA Deployments...................................................... 6
+Lessons from the WFAQRP for Prescribed Fires and  
+Smaller Wildfires................................................................................. 8
+Monitoring Lessons....................................................................... 9
+Modeling Lessons.......................................................................... 9
+Messaging Lessons........................................................................ 9
+Conclusion and Management Implications.......................................... 9
+Acknowledgments................................................................................ 9
+References.......................................................................................... 10
+
+Resources for Predicting and Mitigating Smoke Impacts of Wildland Fires
+1
+Ecological Restoration Institute  •  working paper 40  
+Executive Summary
+Fire managers use prescribed fire and some wildfires to meet 
+resource management objectives, like restoring and maintaining 
+ecological processes, watershed function, and wildlife habitat, 
+as well as to reduce fuels and mitigate the risk of severe 
+wildfires. However, public concerns about smoke impacts 
+are often a limiting factor for accomplishing fuels reduction 
+and ecological restoration goals. It is vital that agency land 
+managers mitigate smoke impacts from wildland fire for the 
+health and safety of the public. The Wildland Fire Air Quality 
+Response Program (WFAQRP) has smoke impact assessment 
+and forecast tools to assist agencies in managing fire incidents 
+and predicting and messaging smoke impacts to communities. 
+New smoke modeling tools, along with technical specialists 
+called Air Resource Advisors (ARAs), can help inform fire 
+management operations and provide important information 
+to air quality, public health, and safety officials and the public. 
+This working paper describes how ARAs use smoke modeling 
+and monitoring tools to build a toolkit for fire managers and to 
+improve public communication.
+Introduction
+Managed fire is a valuable tool used by land managers to 
+mitigate the risk of severe wildfire and to meet other resource 
+management objectives, such as restoring and maintaining 
+ecological processes, watershed function, and wildlife habitat. 
+Fire managers use prescribed fire and some wildfires to 
+accomplish these goals. However, public concerns about the 
+impacts of smoke emissions are often cited by fire managers as a 
+limiting factor for accomplishing fuels reduction and ecological 
+restoration goals (Toman et al. 2014). The smoke produced 
+from fire management actions can have negative consequences 
+for public health and safety and regional economics (Fowler 
+2003), which creates an imperative for agency land managers to 
+mitigate smoke impacts from wildland fires (Lahm 2018).
+In recent years, the development of the Wildland Fire 
+Air Quality Response Program (WFAQRP) has helped 
+develop smoke impact assessment and forecast tools, as 
+well as other resources, to assist agencies in managing fire 
+events while mitigating smoke impacts to communities 
+(wildlandfiresmoke.net). Modeling tools use a variety of 
+information sources to project the location and concentration 
+of smoke emissions. Deployment of emergency portable 
+monitoring equipment provides site-specific information 
+regarding concentrations of harmful particulates. Analysis of 
+this data, and that of permanent monitors, serve as the basis 
+for public health messaging and evaluation of model outputs. 
+For wildfire incidents, technical specialists called Air Resource 
+Advisors (ARAs) are trained and developed by the program. 
+They help organize this information and coordinate with 
+the public and air regulatory agencies. Ordering an ARA is 
+similar to ordering an Incident Meteorologist. When needed, 
+an ARA is requested by name as a technical specialist (THSP) 
+through the WFAQRP leader. The order is then placed into 
+the national Resource Order and Status System (ROSS). 
+Specialists like ARAs can help inform fire management 
+operations and agency administrators. They also provide 
+important information to air quality, public health, and safety 
+officials and the public.
+Understanding the applications of the best available tools 
+and resources can help agencies and fire management teams 
+better meet fire/fuels management and ecological restoration 
+goals while mitigating the impacts of smoke. While there is 
+a need for fire management programs to develop strategies 
+to mitigate smoke impacts (Lahm 2018), there is a gap 
+between many fire management operations and the most 
+recent smoke management tools and resources (Figure 1). This 
+working paper focuses on how ARAs use smoke modeling 
+and monitoring tools to build a toolkit for fire management 
+operations to better communicate internally and with incident 
+management teams, cooperators, and the public. By examining 
+the ARA toolkit, we highlight some of the best practices for 
+predicting and mitigating smoke impacts on individuals and 
+communities. During smaller wildfire events, which have less 
+smoke impacts and do not warrant use of a higher cost incident 
+management team (IMT) or ordering an ARA, these tools and 
+practices can be employed by local land managers to alert the 
+public and mitigate smoke impacts. Prescribed fire managers 
+can also use these tools and practices to help address smoke 
+impacts on the public. 
+Smoke Impacts and Public Perception
+Smoke can negatively impact human health and is of particular 
+concern when the duration of exposure is prolonged and 
+concentrations are high (Fowler 2003). Certain segments 
+of the population are at greater risk of smoke exposure. 
+Approximately one-third of US households have someone with 
+existing respiratory health issues at risk of experiencing serious 
+medical issues with prolonged breathing of the fine particulate 
+matter (PM2.5) found in smoke (McCaffrey and Olsen 2012). 
+Besides the health impacts of smoke, it can also lead to reduced 
+visibility on roadways, which has been a factor in fatal traffic 
+accidents throughout the US. Additionally, smoke can be a 
+serious problem when it affects airports and transportation 
+corridors (Matthews 2018). 
+In addition to public health and safety concerns, smoke 
+emissions can have economic and social impacts. One recent 
+study indicates that smoke impacts on outdoor recreation, 
+scenery, and school recess can be of greater concern to the 
+public than impacts to personal health, particularly in rural 
+communities (Blades and Hall 2012). As many communities 
+in the western US are shifting to amenity-based economies 
+(Winkler et al. 2007), there is increasing public concern about 
+smoke effects on tourism and outdoor recreation (Blades et al. 
+2012). There are also increasing concerns surrounding smoke 
+impacts on firefighter health (NWCG 2012a, NWCG 2012b, 
+Domitrovich et al. 2017).
+Public perceptions about smoke are variable and complex. 
+While some members of the public perceive the use of fire as 
+discretionary (Lahm 2018), one longitudinal study focusing on 
+the wildland-urban interface (WUI) showed that the public is 
+generally supportive of fuels reduction treatments, including 
+the use of fire to accomplish management goals (Toman et al. 
+2013). Certain factors are known to increase public tolerance 
+
+Ecological Restoration Institute  •  working paper 40    
+Resources for Predicting and Mitigating Smoke Impacts of Wildland Fires
+2
+of smoke. These key factors include public understanding of 
+fuel treatment practices and the positive effects of fire, levels of 
+trust in land management agencies, and measures taken by fire 
+management operations to mitigate smoke impacts (Blades et 
+al. 2018, Toman et al. 2014). As Blades et al. (2018) describe 
+in the National Wildfire Coordinating Group (NWCG) 
+Smoke Management Guide for Prescribed Fire, “Reinforcing 
+and improving public understanding about the role of fire in 
+improving ecosystem health and reducing community wildfire 
+risk should be a focal point of public communication aimed at 
+increasing public tolerance of smoke.”	
+While education about fuels and fire management 
+strategies is important, advanced warning was identified in 
+one study as the most important aspect of public tolerance 
+of smoke from wildland fire (Blades et al. 2012). Forecasting 
+smoke impacts is a valuable tool to protect public health and 
+help communities cope with wildland fire smoke (Rappold et 
+al. 2014). Timely smoke impact information and predictions 
+reduce the public safety risk and can change behaviors and 
+health outcomes (Lahm 2017). If people know what to expect, 
+they can plan and react accordingly, especially those sensitive 
+to high air pollution levels (Rappold et al. 2014). While early 
+messaging and intervention is important, it is also important 
+that messages are consistent between agencies. 
+Studies emphasize the importance of smoke messaging, 
+but traditionally it has not been a high priority for land 
+management agencies. A multi-region analysis found that most 
+agency smoke emissions and management communications 
+efforts lacked funding and strategic focus, and were not well 
+coordinated across agencies (Toman et al. 2014). According 
+to Lahm (2018), “A lynchpin to addressing the future role of 
+fire, whether through wildfires or use of prescribed fire, will 
+likely depend upon land managers proactively communicating 
+about and responding to public concerns about air quality.” 
+Increasingly, the public expects timely communication about 
+wildfire events, including smoke impacts. During wildfires, it 
+is critical that land management agencies are proactive, as the 
+public trusts the agencies and IMTs to provide that outreach 
+(Steelman et al. 2014). 
+The Role of Air Resource Advisors
+Air Resource Advisors emerged in 2013 (Larkin 2013) as the 
+need grew for technical specialists with expertise in air quality 
+and smoke dispersion science. The USDA Forest Service 
+created the Wildland Fire Air Quality Response Program 
+(WFAQRP) with key cooperators, such as the National Park 
+Service and the Environmental Protection Agency (EPA), 
+as a direct response to the public and firefighter health and 
+safety risks posed by wildfire smoke. A key component of 
+this program are ARAs. They are trained in monitoring, 
+data analysis, air quality, meteorology, computer simulation 
+modeling and interpretation, and effective communication on 
+the health and safety impacts of smoke. They are deployed 
+nationwide during large wildfire events, often at the direct 
+request of IMTs or agency administrators. According to 
+the NWCG, their objective is to use best available science 
+to provide IMTs with timely smoke impact and forecast 
+information (NWCG 2017). 
+Air Resource Advisors use their diverse skillset to analyze, 
+summarize, and communicate smoke impacts to IMTs, agency 
+administrators, air quality regulators, public health agencies, 
+and the public (Figure 1). Some of their many duties include:
+• 
+Determining and addressing specific wildland fire smoke 
+risks at incidents.
+• 
+Monitoring air quality to determine effects on public 
+safety and health.
+• 
+Working with state, tribal or local air regulators and health 
+departments to determine impacts from smoke and PM2.5 
+and develop joint messages to aid in reducing public 
+exposure to smoke. This includes working closely with 
+IMTs in the Planning Section under the Planning Section 
+Chief (PSC) with Fire Behavior Analysts (FBANs) and 
+Incident Meteorologists (IMETs) so the most accurate 
+information about fire growth, fuels, emissions, and 
+atmospheric dispersion including local and long-range 
+downwind impacts all support the public messages.
+• 
+Working directly with Public Information Officers (PIOs) 
+to disseminate the daily smoke outlook to the public, 
+develop smoke mitigation plans when needed that address 
+public exposure and transportation safety; and participate 
+in public meetings to address local concerns.
+• 
+Working within the IMT to support key personnel 
+participating in cooperator, planning and command meetings 
+as needed so that key strategic and possibly tactical decisions 
+consider smoke impacts when possible and appropriate.
+• 
+Routinely collecting and exchanging smoke information 
+within the IMT, with the agency administrator and 
+cooperating agencies to ensure dissemination of accurate 
+information.
+• 
+Producing reports, and documentation of smoke impacts 
+to support decision making and post-fire analysis of 
+exceedances of air quality standards.
+• 
+Helping to address agency administrator smoke concerns 
+and objectives as outlined in the respective Wildland 
+Fire Decisions Support System (WFDSS) objectives and 
+decisions.  
+• 
+Interpreting weather forecasts, fire behavior predictions, 
+smoke dispersion prediction models, remote sensing tools, 
+and different monitoring sources to evaluate smoke impacts.
+• 
+Notifying incident team members, including the Safety 
+Officer (SOF), of conditions that contribute to hazardous 
+smoke levels to fire personnel.
+• 
+Providing projected smoke impacts to transportation 
+roadway visibility through the incident SOF to law 
+enforcement, public safety, emergency management, and 
+state transportation departments to alert motorists and fire 
+personnel of smoke and possible unsafe driving conditions 
+due to smoke reducing roadway visibility (NWCG 2017).	
+“A lynchpin to addressing the future role of fire, 
+whether through wildfires or use of prescribed 
+fire, will likely depend upon land managers 
+proactively communicating about and responding 
+to public concerns about air quality.”
+
+Resources for Predicting and Mitigating Smoke Impacts of Wildland Fires
+3
+Ecological Restoration Institute  •  working paper 40  
+Figure 1. Flow chart showing critical positions within the IMT planning section where the ARA works most effectively, 
+information flow within the IMT, and how the elements of the WFAQRP support the ARA and IMT (Lahm 2017). 
+
+Ecological Restoration Institute  •  working paper 40    
+Resources for Predicting and Mitigating Smoke Impacts of Wildland Fires
+4
+The ARA Toolkit: The Three “M”s
+Air Resource Advisors use a number of tools to predict and 
+mitigate smoke impacts. While technology and its applications 
+are constantly evolving, there are three key elements ARAs 
+use to accomplish their task — modeling, monitoring, and 
+messaging (Figure 2). 
+Modeling
+Fire managers have traditionally used simple approximation 
+systems to model smoke, such as fire location information and 
+weather observations. However, there have been significant 
+advances in smoke prediction science over the past decade. 
+According to Strand et al. (2018), “These advances can be 
+attributed to faster, more sophisticated wildland fire emissions 
+and smoke plume modeling systems, enhanced databases of on-
+the-ground fuels, and the use of new technologies that allow 
+for direct user interaction and input with smoke prediction 
+tools via computer applications and the web.” Using new 
+developments in technology, these complex and sophisticated 
+smoke modeling frameworks take into account multiple types 
+of models that influence smoke emissions, and combine the 
+information to develop refined predictions for smoke location 
+and concentrations (Figure 3). While it is impossible to 
+accurately predict the timing, location, and concentration of 
+smoke from a fire, complex modeling frameworks exhibit a 
+major improvement from simple approximation systems, but 
+also emphasize the need to have a trained ARA interpreting 
+their outputs 
+One of the most commonly used smoke prediction tools 
+for wildfires and prescribed fires is known as the BlueSky 
+modeling framework (www.airfire.org/bluesky) developed 
+by the USDA Forest Service’s Pacific Northwest Research 
+Laboratory and its AirFire Team. BlueSky is an evolving 
+modeling framework that is accessible by ARAs, air resource 
+managers, prescribed burn bosses, and the public. It integrates 
+relevant outputs from multiple models and datasets that 
+interact to influence smoke emission outputs (Figure 4). 
+BlueSky represents a highly complex modeling framework 
+that maximizes the quality of the prediction, integrating 
+different modeling fields such as fire information, fuel 
+loadings, consumption modeling, emissions modeling, time 
+rate of emissions modeling, plume height estimations, smoke 
+trajectory, and dispersion modeling (Figure 4) (Larkin 2017). 
+The smoke modeling field is changing rapidly due to new 
+field study programs and new modeling techniques (Strand et 
+al. 2018), and one major benefit to the BlueSky framework is 
+that it can incorporate the latest developments in these fields. 
+Air Resource Advisors are highly trained in the use of the 
+framework as well as other smoke modeling tools. BlueSky 
+can visually display smoke predictions on different scales, 
+and represents a sophisticated smoke model that provides 
+information on ground-level smoke location and concentration. 
+The BlueSky model and BlueSky Playground, which models 
+for individual fire smoke impacts, are both useful for assessing 
+smoke impacts of wildland fires.     
+Monitoring
+Smoke impacts are monitored through a variety of methods, 
+from visual estimates based on how far one can see in low 
+humidity areas to quantitative measuring devices (EPA 2016a). 
+In addition to using permanent air quality monitoring site 
+data, which are maintained by states and tribes to demonstrate 
+compliance with the EPA’s National Ambient Air Quality 
+Standards (NAAQS), ARAs have access to a national cache of 
+emergency monitoring equipment that measures PM2.5. These 
+monitors can be deployed in strategic locations to monitor 
+smoke impacts in communities near wildfire incidents and 
+are used by ARAs to support operational smoke forecasting, 
+including validating and improving model performance. 
+Figure 3. Simple model types require less information (left side) while more 
+complex model types require additional information (right side) (Strand et 
+al. 2018).
+Figure 2. The three “M”s that ARAs utilize to predict and mitigate smoke 
+impacts – modeling, monitoring, and messaging. 
+
+Resources for Predicting and Mitigating Smoke Impacts of Wildland Fires
+5
+Ecological Restoration Institute  •  working paper 40  
+Generally, orders for monitors are tied to the overall emergency 
+response of a wildfire through the interagency supply ordering 
+systems that support IMTs (wildlandfiresmoke.net). Air 
+Resource Advisors set up air quality monitoring equipment on 
+fires to determine whether air quality standards set by state and 
+federal agencies are exceeded and to better understand the level 
+of smoke impacts affecting a population in a given area. 
+While monitoring equipment provides valuable information 
+about smoke concentrations in a small number of key locations, 
+it may not capture the range of impacts to a wide area. Due 
+to their limited number, monitoring equipment is assembled 
+in strategic locations and other monitoring tools are used to 
+fill in information gaps. Air Resource Advisors and many air 
+quality regulatory agencies use a program called Monitoring 
+v4.0 (https://tools.airfire.org/monitoring/v4/) developed for 
+the WFAQRP by the AirFire Team to analyze the monitoring 
+data and understand when smoke impacts peak and subside on 
+a daily basis. This critical information forms part of the ARAs 
+daily Smoke Outlook and can guide the public on when to 
+avoid the peak smoke periods, thereby reducing their exposure 
+to fine particulates. Personal visual observation guidelines of 
+smoke may be helpful for the public to understand snap-shot air 
+quality conditions, but they do not provide the quantifiable data 
+needed to verify against EPA air quality index thresholds based 
+on health impacts for PM2.5 concentrations. There is increased 
+use of low-cost personal air quality sensors, some of which are 
+helpful to understand current air quality impacts, but they are 
+limited in accuracy and difficult to align to EPA’s thresholds. 
+When the information tracks with nearby quantitative methods, 
+both methods can help guide the public on when to reduce 
+exposure. On a wildfire, ARAs combine air quality data gathered 
+from the temporary and fixed monitors along with weather 
+observations and forecasts, fire behavior analyses, satellite 
+imagery, webcams, aircraft observations, field observations, and 
+community feedback.    
+Messaging
+Air Resource Advisors organize modeling and monitoring 
+information into a daily Smoke Outlook (Figure 5), which 
+is crucial for communication and coordination. These daily 
+reports illustrate smoke modeling projections and potential 
+impacts for communities that are likely to experience ground-
+level concentrations of fine particulates in smoke. The simple 
+format of the one-page daily Smoke Outlook is designed 
+to maximize usefulness as a communication tool for public 
+audiences so they can plan and understand when smoke will 
+be at its worst and when to use averting behavior to minimize 
+exposure. These reports use the same language, classification 
+metrics, and color-scheme as the EPA Air Quality Index and 
+NowCast (https://airnow.gov/) to provide for cross-boundary 
+and national consistency in messaging.  	
+Effective communication and coordination—both 
+internally within the IMT, with the agency administrator, 
+and externally—is central to the role of an ARA. Within the 
+IMT, ARAs tie-in daily with operations personnel (Figure 1) 
+to understand the latest incident decisions and fire situation. 
+Air Resource Advisors enter the most current fire information, 
+i.e., fuels, fire weather, fire behavior prediction data, and fuel 
+consumption, into their models to predict smoke impacts and 
+relay that information to the IMT and outward to cooperators. 
+If requested, ARAs can offer guidance and advice to the IMT 
+regarding likely smoke impacts to base camp and nearby 
+roads, and they can provide the public with information about 
+different fire management strategies. 
+Communications for the PIO is in the form of the daily 
+Smoke Outlook. The PIO then disseminates that information 
+to the public through a variety of outlets. Air Resource Advisors 
+assist the PIO in message development and communications 
+regarding smoke impacts and often attend public meetings to 
+relay that messaging directly to the public. Air Resource Advisors 
+coordinate with transportation safety agencies to help predict 
+Figure 4. Factors in the BlueSky modeling chain. For each factor, there 
+are different models and datasets available to develop custom smoke 
+projections best suited for a particular situation (Larkin 2017).
+
+Ecological Restoration Institute  •  working paper 40    
+Resources for Predicting and Mitigating Smoke Impacts of Wildland Fires
+6
+fire boundary. The public typically has many questions about 
+smoke and often raises concerns at community meetings hosted 
+by the land management agency and IMT. The ARAs can help 
+provide answers to questions by the public about smoke and 
+how to avoid and mitigate its effects. The integration of ARAs 
+into IMT structures is becoming typical on large, long-duration, 
+smoke-producing incidents and smaller fire events that may 
+significantly impact nearby towns or cities. In cases where smoke 
+could adversely impact visibility on roads used by firefighters 
+and/or the public, ARAs can help address this safety hazard. 
+In some infrequent situations, smoke may impact base camp 
+and result in concerns about personnel smoke exposure; again, 
+ARAs may be able to forecast smoke levels and provide useful 
+mitigation strategies in concert with appropriate personnel, such 
+as the IMT’s safety officer. Smoke forecasts can also be used 
+to help fire managers and IMTs relocate firefighting aircraft to 
+helibases and airports with a better chance of “clean” air so that 
+flight operations do not get suspended due to poor visibility. 
+Just as every wildfire is unique, so is every ARA 
+deployment. As the WFAQRP and the development 
+of ARAs are fairly new, the technical tools, monitoring 
+equipment, and roles of ARAs are evolving with each 
+wildfire year. For every ARA deployment, there are 
+opportunities for dialogue with communities and 
+cooperators. Case studies are illustrated in Boxes 1 and 2 to 
+highlight where ARAs added value to IMT functions and 
+helped mitigate smoke impact on two separate wildfires.
+smoke impacts to roadways and transportation corridors. This 
+coordination helps agencies warn motorists of smoke impacts 
+and set potentially life-saving traffic control measures.
+Coordination with state, tribal, and local air quality 
+regulatory agencies and health departments is another critical 
+function performed by ARAs. In addition to the Smoke 
+Outlook, ARAs frequently provide a more in-depth report on 
+fire growth, emissions data, and projected smoke impacts to air 
+quality regulatory agencies, which have their own monitoring, 
+information, and outreach networks. These agencies and 
+departments distribute information to community institutions 
+and organizations, such as schools, that are concerned with 
+populations vulnerable to smoke. Often ARAs need to 
+coordinate far beyond the immediate areas of the fire, at 
+times reaching out to multiple states impacted by smoke. Air 
+Resource Advisors also coordinate with states that may have to 
+address EPA requirements and documentation associated with 
+the Clean Air Act (wildlandfiresmoke.net) and the Exceptional 
+Event Rule, which is used to document when exceedances of 
+NAAQS are caused by natural events such as wildfires.             
+Examples from ARA Deployments
+With specialized training in smoke impact assessment and 
+mitigation, ARAs add significant value to an IMT. Air Resource 
+Advisors can relieve the burden of trying to monitor and predict 
+the ever-changing smoke situation away from the IMT and 
+Figure 5. An example daily Smoke Outlook from 
+the 2018 Burro and 416 fires near Durango, 
+Colorado (www.wildlandfiresmoke.net).
+
+Resources for Predicting and Mitigating Smoke Impacts of Wildland Fires
+7
+Ecological Restoration Institute  •  working paper 40  
+The Boundary Fire Air Quality Report and Outlook for June 17, 2017.
+Box 1. The Boundary Fire      
+Location: Coconino and Kaibab national forests, Arizona
+Incident type: Wildfire
+Cause: Lightning
+Date of ignition: June 1, 2017
+Date of completion: July 11, 2017
+Total acres burned: 17,788*          
+The Boundary Fire originated with a lighting strike 
+in early June 2017, the height of tourist season in 
+northern Arizona. Fire managers initially used indirect 
+suppression tactics for firefighter safety and to meet 
+resource objectives; however, the incident management 
+team (IMT) and agency administrators understood that 
+the fire was going to burn for a few weeks and smoke 
+would impact several nearby communities. Smoke also 
+was going to impact a heavily used road leading to 
+Grand Canyon National Park. With the importance of 
+smoke recognized, smoke and air quality objectives were 
+included in the Wildland Fire Decision Support System 
+(WFDSS) objectives by the agency administrator to 
+ensure clear understanding of the issue by the IMT, 
+cooperators, partners, and even the public.
+Kaibab National Forest Supervisor and the fire’s 
+designated Agency Administrator Heather Provencio 
+noted there may be similar smoke effects to those 
+that occurred during the 2015 Sitgreaves Fire, during 
+which the public had been very concerned about smoke 
+impacts. Provencio recognized the need to inform 
+community members about Boundary Fire smoke 
+impacts. “Right away we knew it would be important 
+to bring in an Air Resource Advisor (ARA) to help us 
+tell that story, to help us manage those expectations,” 
+she said. Provencio said the ARA was especially skilled 
+in communicating with the public. “We were able to 
+get great soundbites from him as we put out (our) 
+public messages,” she said. “He had some wonderful 
+tools that helped the public understand, and had 
+recommendations for what to do if you were going to 
+have heavy smoke impacts.” 
+According to Provencio, the ARA also provided 
+valuable three-day predictive smoke outlooks that 
+allowed managers to communicate when heavy smoke 
+would be present and what the community could do to 
+mitigate the impacts. Another benefit to having an ARA 
+was communicating operational tactics to minimize 
+smoke, she said. “The ARA was a huge asset to the 
+entire incident management team,” Provencio said. 
+“That position reported out at each of our briefings, 
+and helped everyone who was on the line understand 
+the story behind smoke, and be able to relay that as we 
+talked with partners, as we talked with the public, and to 
+think about how we might shift our tactics on the fire to 
+reduce those impacts.” 
+Kaibab National Forest Fire Management Officer 
+Art Gonzales agreed that an ARA was a huge benefit 
+to the fire team. “We knew from the beginning that we 
+wanted an ARA on this fire,” Gonzales said. “It was 
+so nice to have someone who was just solely focused 
+on smoke, relieving that burden from other IMT 
+members.” 
+Ron Sherron, USDA Forest Service smoke 
+coordinator for the state of Arizona, works as a 
+liaison between federal and state land managers and 
+the Arizona Department of Environmental Quality 
+(ADEQ). Sherron helped order the ARA for the 
+Boundary Fire, and by working with the ARA and 
+ADEQ, he helped coordinate messages from the 
+incident to communities and the county emergency 
+response team. Sherron said the ARA was particularly 
+valuable for reaching out to impacted communities 
+on tribal lands. “For the first time, the smoke outlooks 
+were translated into the Navajo language to help those 
+communities understand when the smoke impacts were 
+likely going to happen and what the magnitude of those 
+impacts would be.” 
+*Boundary Fire information from InciWeb,  
+https://inciweb.nwcg.gov/
+
+Ecological Restoration Institute  •  working paper 40    
+Resources for Predicting and Mitigating Smoke Impacts of Wildland Fires
+8
+Box 2. Beaver Creek Fire		
+	
+Location: Medicine Bow-Routt National Forests, Colorado
+Incident type: Wildfire
+Cause: Human 
+Date of ignition: June 19, 2016
+Date of completion: October 13, 2016 
+Total acres burned: 38,380*          
+The Beaver Creek Fire was located approximately 24 
+miles northwest of Walden in north central Colorado, 
+just south of Wyoming. It burned in heavy beetle-killed 
+lodgepole pine timber in the Medicine Bow-Routt 
+National Forests and Bureau of Land Management 
+lands. Agency administrators recognized the fire 
+would be a long duration event and that smoke would 
+eventually become an issue, and they made the decision 
+to bring on an Air Resource Advisor (ARA). Concerns 
+were raised from the Wyoming governor via the state 
+forester that the wildfire smoke could have impacts 
+on Cheyenne and its famous Frontier Days, which 
+could have had substantial economic impacts on the 
+region. The ARA was assigned to work for the agency 
+administrator but was also tied into the incident 
+management teams (IMTs).
+Andrea Holland was the first ARA to work on 
+the fire. Holland had a solid background as an agency 
+public information officer on wildfires as well as air 
+quality experience. When she came on board, she first 
+introduced herself and explained that her role as ARA 
+was to model, monitor, and message smoke impacts. 
+She said she stressed to the team that she was not there 
+to regulate smoke, but to communicate and be a part 
+of the team. She asked, “How can I help your team be 
+successful with its mission?” Once this “circle of trust” 
+was established, Holland said it helped ensure the 
+success of the entire mission. 
+One of the biggest challenges on the fire was 
+tracking smoke dispersal because the winds kept 
+changing direction and impacts were not always 
+significant. When smoke did have significant 
+impacts, the ARA would communicate them with 
+the appropriate entities. When acres are burning 
+without significant air quality impacts, an ARA can 
+help convey the critical message that fire can be used 
+to meet resource objectives while not burdening 
+local communities with air pollution. This relieved 
+some of the pressure from the IMT and the agency 
+administrator. 
+Mike Broughton, Forest Service smoke coordinator 
+in Colorado and ARA, worked remotely to provide 
+regional oversight. Broughton said that ARAs can act 
+as a bridge between an agency and local communities. 
+“Having an ARA on the fire even during times when 
+the smoke plumes were not that active,” he said, “created 
+a significant amount of positive public good will.” 
+Hahns Peak/Bears Ears District Ranger 
+Chad Stewart said he believed that trust was built 
+with the ARAs’ modeling outputs, products, and 
+communications. “It was superior to anything seen 
+before and very useful for public information officers,” 
+Stewart said. “The products were very relevant and well 
+received by the public.” 
+Jeremiah Zamora, an agency administrator and 
+district ranger for the Parks Ranger District, said the 
+ARAs spent a lot of time “chasing the smoke” on the 
+Beaver Creek Fire. Monitoring equipment was shifted 
+to try and match where the smoke was hitting. By 
+August, a few smoke warnings were issued in Laramie, 
+Wyoming, and the ARAs were advising schools when 
+to keep children indoors for sport practice, as there were 
+some days when smoke impacts could have impacted 
+their health.
+“Smoke and air quality are major concerns here, as 
+we have lots of Class I Airsheds,” Zamora said. Class 
+I Airsheds are Parks and Wilderness Areas established 
+prior to 1977 and greater than 5,000 acres. They are 
+given special protection status under the Clean Air 
+Act for protection of visibility and other air pollution 
+impacts. He added that his experience with the ARAs 
+was a positive one. “I trusted them and their knowledge 
+of where to place monitors,” he said. “They worked 
+through PIOs directly and helped to calm people 
+down.” Zamora said he would consider using ARAs on 
+fires in the future and would recommend them to other 
+agency administrators. 
+*Beaver Creek Fire information from InciWeb,  
+https://inciweb.nwcg.gov/
+Lessons from the WFAQRP for 
+Prescribed Fires and Smaller Wildfires
+Smoke impacts are an important consideration in the use of 
+prescribed fire. Smoke impacts influence decisions on how 
+much to burn, when to burn, or whether special public events, 
+like holidays and graduations, allow for burning at all. Because 
+minimizing smoke impacts is an important aspect of prescribed 
+fire operations, smoke impacts are often relatively minor 
+compared to the severe air quality impacts that often result from 
+large, high-severity wildfires (Lahm 2018). Smoke management 
+requirements and policies are well-defined for federal agencies 
+that use prescribed fire in their agency specific manuals and 
+the NWCG’s “Interagency Prescribed Fire Planning and 
+Implementation Procedures Guide” where the use of Basic 
+Smoke Management Practices is directed (EPA 2016b).   
+Efforts to mitigate smoke impacts can help managers not 
+just in the planning stage, but also during implementation, 
+including contingency measures that address unplanned 
+effects (Lahm 2018). The use of prescribed fire is gaining 
+support among communities, and even air regulatory agencies, 
+because of its ecosystem health benefits and effectiveness 
+
+Resources for Predicting and Mitigating Smoke Impacts of Wildland Fires
+9
+Ecological Restoration Institute  •  working paper 40  
+in wildfire prevention (Hardy and Peterson 2018). However, 
+according to Hardy and Peterson (2018), “this tentative support 
+will only continue and expand if fire practitioners commit 
+to continuously learning and applying the best science and 
+methods for protecting air quality as well as emphasizing public 
+communications and outreach to address concerns.” Building 
+upon the WFAQRP approach of monitoring, modeling, and 
+messaging to address smoke impacts, there are critical tools and 
+lessons for smaller, less impacting wildfires and prescribed fires 
+that can help land managers meet their fire objectives while 
+addressing public concerns about smoke. 
+Monitoring Lessons
+On these less impacting fires, monitoring of smoke impacts, 
+whether through quantitative measures provided by a 
+PM2.5 monitor or by qualitative observation, is critical to 
+understanding the effects of smoke in terms of duration and 
+level of impact. Monitoring data, whether from a fixed long-
+term site or from a temporary monitor, is useful for prescribed 
+fire managers to quantitatively understand the degree to which 
+smoke is impacting an area. A prescribed burn boss can utilize 
+the monitoring tool, Monitoring v4.0, to understand when 
+smoke concentrations are at their peak so they can effectively 
+develop messages to inform the public, which will help them 
+cope with the impact and time their daily activities accordingly.  
+Modeling Lessons
+On large wildfires, an ARA will forecast potential smoke 
+impacts by assessing weather predictions, evaluating potential 
+smoke production, and modeling smoke emissions. The same 
+predictive models such as BlueSky Playground and other tools 
+used by ARAs are available to prescribed burn bosses and fire 
+effects monitors on prescribed fires or smaller, less impacting 
+wildfires. Federal prescribed burn bosses (RXB1 and 2) should 
+have exposure to some of these tools through their required 
+NWCG’s RX-410 Smoke Management Techniques class. 
+While weather and wind forecasts can provide fire managers 
+with a simple approximation of smoke impacts during a fire, 
+more complex modeling systems (i.e., the BlueSky modeling 
+framework and BlueSky Playground), can provide the best 
+estimations regarding the location and concentration of smoke 
+emissions (Strand et al. 2018). BlueSky Playground is designed 
+for rapid and simple assessment of a single fire based on many 
+assumptions; or it can be customized for greater accuracy to 
+give results on the location of projected impacts and their 
+duration and severity. The model now has extensive help 
+screens to assist in understanding options in use, and it is tied 
+to finer scale weather grids allowing for improved performance. 
+This impact information can be the basis for deciding whether 
+to ignite a prescribed burn or to conduct a burnout operation 
+on a smaller wildfire.  
+Messaging Lessons
+On prescribed fires or small wildfires, land management 
+agencies can use monitoring and modeling information as 
+critical inputs to develop a message for the public on possible 
+smoke impacts. The prescribed burn boss communicating 
+useful smoke impact information to their respective public 
+affairs office is the same method used by ARAs on larger 
+incidents so that the public can reduce their smoke exposure. 
+Communicating in advance with the public so they can 
+respond accordingly to minimize their exposure to smoke and 
+particulates has been very successful for larger wildfires and 
+can help build public support for prescribed fire operations and 
+on less impacting wildfires. Even when a burn is not ignited 
+because of potential adverse smoke impacts, or if ignited 
+and smoke was of little impact, it can provide useful public 
+information and build long-term trust with the agency. The 
+principles of the one-page Smoke Outlook, where information 
+about smoke impact and timing of impacts is outlined, can be 
+mimicked by combining the smoke impacts information from 
+a model run along with information on how to reduce exposure 
+with messages crafted by a public information or public affairs 
+offices. This approach can be a valuable communication and 
+coordination tool to engage with communities impacted 
+by prescribed fire smoke. These skills and tools are not just 
+relevant for prescribed fire operations, but also for smaller 
+wildfire operations that do not necessarily warrant an ARA.  
+Conclusion and Management 
+Implications
+Ecologists and land managers understand that the increased 
+use of prescribed fire and some wildfire is needed to improve 
+ecosystem health and to reduce the threat of catastrophic 
+wildfire. However, the public, including regulators, place a high 
+value on clean air and at times lack an understanding of the use 
+of fire for ecosystem health (Lahm 2018). As land managers 
+increase the use of fire to restore landscapes, public concern 
+about smoke impacts will likely increase (Toman et al. 2014). 
+Air Resource Advisors can add much-needed capacity 
+during wildfire incidents. An agency administrator can 
+include smoke and air quality objectives into the WFDSS 
+decision for an incident, which provides a clear direction to 
+the IMT, fire managers, cooperators, and the public about this 
+critically important impact. For prescribed fire and smaller, 
+less impacting wildfires, managers can use the ARA toolkit 
+and lessons from the WFAQRP to build skills for predicting 
+smoke impacts and creating valuable public messages about 
+smoke to mitigate impacts. While not all fire managers need 
+to be certified as an ARA technical specialist, there are many 
+training opportunities, tools, and resources to help build smoke 
+management capacity. The available modeling, monitoring, 
+and messaging tools and lessons allow fire and land managers 
+to help the public anticipate, mitigate, and cope with smoke 
+impacts while achieving fire and fuels management goals. 
+Acknowledgments
+The authors would like to acknowledge those who advised 
+and assisted in the production of this paper. Special thanks to 
+Tayloe Dubay, Amy Waltz, Jackie Banks, Andrea Thode, Barb 
+Satink Wolfson, Will Basye, Art Gonzales, Heather Provencio, 
+Ron Sherron, Andrea Holland, Mike Broughton, Jeremiah 
+Zamora, Chad Steward, and the many folks who helped 
+develop the tools utilized by Air Resource Advisors.
+
+Resources for Predicting and Mitigating Smoke Impacts of Wildland Fires
+10
+Ecological Restoration Institute  •  working paper 40  
+References
+AirFire Team. 2017. Research Topics: Emissions and Smoke. 
+USDA Forest Service, Pacific Northwest Research 
+Station, AirFire Team website. https://www.airfire.
+org/topics/#Emissions
+Blades, J., and T.H. Hall. 2012. The future is smoky: Toward 
+explaining public tolerance of smoke from wildland 
+fire and fuels management [Abstract]. Paper 
+presented at the 3rd Human Dimensions of Wildland 
+Fire Conference, Seattle, Washington.
+Blades, J., T.H. Hall, and S. Shook. 2012. Deconstructing 
+public preferences and tradeoffs about smoke from 
+wildland fires in the Northern Rockies using conjoint 
+analysis [Abstract]. Paper presented at the 3rd 
+Human Dimensions of Wildland Fire Conference, 
+Seattle, Washington.
+Blades, J., T.H. Hall, and S. McCaffrey. 2018. Public 
+Perceptions of Smoke from Wildland Fire, Chapter 
+6.2. NWCG Smoke Management Guide for 
+Prescribed Fire. PMS-420-2. Boise, ID: National 
+Wildfire Coordination Group, National Interagency 
+Fire Center. 293 p.
+Domitrovich, J.W., G.A. Broyles, R.D. Ottmar, T.E. 
+Reinhardt, L.P. Naeher, M.T. Kleinman, K.M. 
+Navarro, C.E. Mackay, and O. Adetona. 2017. 
+Wildland Fire Smoke Health Effects on Wildland 
+Firefighters and the Public. Technical Report. Joint 
+Fire Science Program. JFSP PROJECT ID: 13-1-02-
+14. https://www.firescience.gov/projects/13-1-02-14/
+project/13-1-02-14_final_report.pdf
+Fowler, C.T. 2003. Human health impacts of forest fires in the 
+southern United States: A literature review. Journal of 
+Ecological Anthropology, 7: 39-63.
+Hardy, C., and J. Peterson. 2018. Foreword. NWCG Smoke 
+Management Guide for Prescribed Fire. PMS-420-2. 
+Boise, ID: National Wildfire Coordination Group, 
+National Interagency Fire Center. 293 p.
+Lahm, P. 2017. Wildland Fire Air Quality Response Program 
+– Past, Present and Future with Expectations for the 
+Week. Powerpoint for 2017 ARA training program. 
+Lahm, P. 2018. The Air Quality and Smoke Management 
+Imperative, Chapter 1.1. NWCG Smoke 
+Management Guide for Prescribed Fire. PMS-420-2. 
+Boise, ID: National Wildfire Coordination Group, 
+National Interagency Fire Center. 293 p.
+Larkin, S. 2013. “AirFire team hosts first Air Resource Advisor 
+training.” News Post, U.S. Forest Service, Pacific 
+Northwest Research Station, AirFire Team. Adapted 
+from the USFS Chief ’s Desk: People Places and 
+Things, March 22, 2013. https://www.airfire.org/
+news/airfire-team-hosts-first-air-resource-advisor-
+training/
+Larkin, S. 2017. Smoke Modeling Uncertainty. PowerPoint 
+presentation for 2017 ARA training program. 
+Matthews, A. 2018. Smoke and Transportation Safety. 
+NWCG Smoke Management Guide for Prescribed 
+Fire. PMS-420-2. Boise, ID: National Wildfire 
+Coordination Group, National Interagency Fire 
+Center. 293 p.
+McCaffrey, S., and C. Olsen. 2012. Research perspectives 
+on the public and fire management: A synthesis of 
+current social science on eight essential questions. 
+Gen. Tech. Rep. NRS-104. Newtown Square, PA: 
+U.S. Department of Agriculture, Forest Service, 
+Northern Research Station. 40 p.
+National Interagency Fire Center (NIFC). 2016. Wildfire 
+Talking Points: Smoke. https://www.nifc.gov/PIO_
+bb/fs.html.
+National Wildfire Coordinating Group (NWCG). 2012a. 
+Monitoring and Mitigating Exposure to Carbon 
+Monoxide and Particulates at Incident Base 
+Camps. National Wildfire Coordinating Group 
+Memorandum #006-2012. National Interagency Fire 
+Center. https://www.nwcg.gov/sites/default/files/
+memos/eb-m-12-006.pdf
+______. 2012b. Monitoring and Mitigating Exposure to 
+Carbon Monoxide and Particulates at Incident 
+Base Camps, Attachment A. National Wildfire 
+Coordinating Group Memorandum #006-2012. 
+National Interagency Fire Center. https://www.nwcg.
+gov/sites/default/files/memos/eb-m-12-006a.pdf
+______. 2017. Air Resource Advisor. Accessed April 18, 
+2018. https://www.nwcg.gov/ad-positions/thsp-air-
+resources-advisor
+Rappold, A.G., N.L. Fann, J. Crooks, J. Huang, W.E. Cascio, 
+R.B. Devlin, and D. Diaz-Sanchez. 2014. Forecast-
+based interventions can reduce the health and 
+economic burden of wildﬁres. Environmental Science 
+& Technology, 48(8): 10571–10579.
+Steelman, T., S. McCaffrey, A.L. Velez, and J. Briefel. 2014. 
+What information do people use, trust, and find 
+useful during a disaster? Evidence from five large 
+wildfires. Natural Hazards, 76. 615-634. 10.1007/
+s11069-014-1512-x 
+Strand, T., S. Larkin, M. Rorig, S. Goodrick, S. O’Neill, 
+R. Solomon, J. Peterson, and S.A. Ferguson. 
+2018. Smoke Prediction Models. NWCG Smoke 
+Management Guide for Prescribed Fire. PMS-420-2. 
+Boise, ID: National Wildfire Coordination Group, 
+National Interagency Fire Center. 293 p.
+
+Resources for Predicting and Mitigating Smoke Impacts of Wildland Fires
+11
+Ecological Restoration Institute  •  working paper 40  
+Toman, E., C.S. Olsen, and A. Fischer. 2014. Examining 
+the influence and effectiveness of communication 
+programs and community partnerships on public 
+perceptions of smoke management: A multi-region 
+analysis. Final Project Report: JFSP Project Number 
+10-1-03-7.
+Toman, E.; Stidham, M.; Shindler, B., and S. McCaffrey. 
+2013. Social science at the wildland-urban interface: 
+a compendium of research results. General Technical 
+Report NRS-111. Newton Square, PA: U.S. 
+Department of Agriculture, Forest Service, Northern 
+Research Station. 75 p.
+Toman, E., C.S. Olsen, and S. McCaffrey. 2012. Where There’s 
+Smoke: An Introduction to Public Perceptions of 
+Smoke Management. Presented at the 3rd Human 
+Dimensions of Wildland Fire Conference, April 
+17–19, Seattle, Washington.
+U.S. Environmental Protection Agency (EPA). 2016a. Wildfire 
+Smoke: A Guide for Public Health Officials. https://
+www3.epa.gov/airnow/wildfire_may2016.pdf
+______. 2016b. 40 CFR parts 50 and 51. Treatment of data 
+influenced by exceptional events; final rule. U.S. 
+Federal Register Vol. 81 No. 191 p. 68216-68282.
+Wildland Fire Air Quality Response Program (WFAQRP). 
+2018. https://wildlandfiresmoke.net/. Accessed April 
+18, 2018
+Winkler, R., D.R. Field, A.E. Luloff, R.S. Krannich, and 
+T. Williams. 2007. Social landscapes of the inter-
+mountain west: A comparison of “old West” and “new 
+West” communities. Rural Sociology, 72: 478–501.
+
+Resources for Predicting and Mitigating Smoke Impacts of Wildland Fires
+12
+Northern Arizona University is an Equal Opportunity/Affirmative Action Institution.
+This report was funded by a grant from the USDA Forest Service.
+For more information about forest restoration, contact the ERI at (928) 523-7182 or nau.edu/eri.
+Working Papers in Intermountain West
+Frequent-Fire Forest Restoration
+	1.	 Restoring the Uinkaret Mountains: Operational Lessons and Adaptive Management Practices
+	2.	 Understory Plan Community Restoration in the Uinkaret Mountains, Arizona
+	3.	 Protecting Old Trees from Prescribed Fire
+	4.	 Fules Treatments and Forest Restoration: An Analysis of Benefits
+	5.	 Limiting Damage to Forest Soils During Restoration
+	6.	 Butterflies as Indicators of Restoration Progress
+	7.	 Establishing Reference Conditions for Southwestern Ponderosa Pine Forests
+	8.	 Controlling Invasive Species as Part of Restoration Treatments
+	9.	 Restoration of Ponderosa Pine Forests to Presettlement Conditions
+	10.	The Stand Treatment Impacts on Forest Health (STIFH) Restoration Model
+	11.	Collaboration as a Tool in Forest Restoration
+	12.	Restoring Forest Roads
+	13.	Treating Slash after Restoration Thinning
+	14.	Integrating Forest Restoration Treatments with mexican Spotted Owl Habitat Needs
+	15.	Effects of Forest Thinning Treatments on Fire Behavior
+	16.	Snags and Forest Restoration
+	17.	Bat Habitat and Forest Restoration Treatments
+	18.	Prescribed and Wildland Use Fires in the Southwest: Do Timing and Frequency Matter?
+	19.	Understory Seeding in Southwestern Forests Following Wildfire and Ecological Restoration Treatments
+	20.	Controlling Cheatgrass in Ponderosa Pine and Pinyon-Juniper Restoration Areas
+	21.	Managing Coarse Woody Debris in Frequent-fire Southwestern Forests
+	22.	Restoring Spatial Pattern to Southwestern Ponderosa Pine Forests
+	23.	Guidelines for Managing Small Mammals in Restored Ponderosa Pine Forests of Northern Arizona
+	24.	Protecting Old Trees from Prescribed Burning
+	25.	Strategies for Enhancing and Restoring Rare Plants and Their Habitats in the Face  
+	 	 of Climate Change and Habitat Destruction in the Intermountain West
+26. Wildlife Habitat Values and Forest Structure in Southwestern Ponderosa Pine: Implications for Restoration
+	27.	Fuel Treatment Longevity
+	28.	Southwestern Mixed-Conifer Forests: Evaluating Reference Conditions to Guide Ecological Restoration Treatments
+	29.	Post-Wildfire Restoration of Structure, Composition, and Function in Southwestern Ponderosa Pine  
+	 	 and Warm/Dry Mixed-Conifer Forests
+	30.	Impact of Forest Restoration Treatments on Southwestern Ponderosa Pine Tree Resistance to Bark Beetles
+	31.	Climage Change Impact on Bark Beetle Outbreaks and the Impact of Outbreaks on Subsequent Fires
+	32.	An Evaluation of Fire Regime Recontstruction Methods
+	33.	The 2012 Mexican Spotted Owl Recovery Plan Guidelines for Forest Restoration in the American Southwest
+	34.	Climate Change and Fire in the Southwest
+	35.	Carbon Cycling in Southwestern Forests: Reservoirs, Fluxes, and the Effects of Fire and Management
+	36.	Wildlife and Fire: Impacts of Wildfire Prescribed Fire on Wildlife and Habitats in Southwestern Coniferous Forests
+	37.	The Influence of Restoration Treatments on Hydrologic Output in Fire-Adapted Forests of the Southwest
+38.	Reference Conditions and Restoration of Transitional Ponderosa Pine Forests in the Southwest
+39.	Restoration as a Mechanism to Manage Southwestern Dwarf Mistletoe in Ponderosa Pine Forests
+
+P.O. Box 15017
+Flagstaff, AZ 86011-5017
+eri.nau.edu
+Ecological 
+Restoration 
+Institute
+College of Engineering, Forestry,  
+and Natural Sciences

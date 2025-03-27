@@ -1,0 +1,1265 @@
+Contents lists available at ScienceDirect
+Forest Ecology and Management
+journal homepage: www.elsevier.com/locate/foreco
+Spatial patterns of ponderosa pine regeneration in high-severity burn
+patches
+Suzanne M. Owena,b,⁎, Carolyn H. Siega, Andrew J. Sánchez Meadorb, Peter Z. Fuléb,
+José M. Inigueza, L. Scott Baggettc, Paula J. Fornwaltc, Michael A. Battagliac
+a USDA Forest Service: Rocky Mountain Research Station, 2500 S. Pine Knoll Drive, Flagstaﬀ, AZ 86001, United States
+b School of Forestry, Northern Arizona University, PO Box 15018, Flagstaﬀ, AZ 86011, United States
+c USDA Forest Service: Rocky Mountain Research Station, 240 W Prospect Rd, Fort Collins, CO 80526, United States
+A R T I C L E I N F O
+Keywords:
+Pinus ponderosa
+Fire severity
+Forest resilience
+Spatial heterogeneity
+Gambel oak (Quercus gambelii)
+Arizona
+A B S T R A C T
+Contemporary wildﬁres in southwestern US ponderosa pine forests can leave uncharacteristically large patches
+of tree mortality, raising concerns about the lack of seed-producing trees, which can prevent or signiﬁcantly
+delay ponderosa pine regeneration. We established 4-ha plots in high-severity burn patches in two Arizona
+wildﬁres, the 2000 Pumpkin and 2002 Rodeo-Chediski Fires, to determine if: (1) distance from forest edge
+inﬂuences the density and spatial patterns of regenerating ponderosa pine and sprouting tree species, (2) in-
+teractions with re-sprouting trees aﬀect spatial patterns of ponderosa pine regeneration, and (3) distance from
+forest edge and species competition aﬀect regenerating ponderosa pine height. Plots were located in high-se-
+verity burn patches (deﬁned as 100% tree mortality) and either adjacent to residual live forest edges (edge
+plots), or > 200 m from any residual live trees (interior plots). We found higher ponderosa pine regeneration
+densities in the edge plots (13–154 (median = 69) stems ha−1) than the interior plots (12–124 (median = 29)
+stems ha−1) on both wildﬁres, but no diﬀerences in spatial patterns between edge and interior plots. Ponderosa
+pine regeneration displayed patterns of small-scale spatial aggregation in all plots, except one edge and one
+interior plot on the Pumpkin Fire, which displayed random distributions. These patterns suggest both short- and
+long-distance dispersal play important roles in ponderosa pine regeneration in high-severity burn patches.
+Sprouting trees dominated tree regeneration on the Rodeo-Chediski Fire, but they were spatially independent of
+ponderosa pine and did not inﬂuence ponderosa pine height. Regenerating ponderosa pine height was positively
+correlated with neighboring ponderosa pine densities and height, suggesting that intraspeciﬁc facilitation or
+similar habitat preferences occur in high-severity burn patches. Collectively, these results indicate that pon-
+derosa pines are re-establishing with heterogeneous spatial patterns in large high-severity burn patches, but
+often with low densities. Also, ponderosa pine regeneration could be more strongly inﬂuenced by intraspeciﬁc
+facilitation than interspeciﬁc competition from dense sprouting species. Future forest spatial patterns and
+composition are still unclear, but at this stage of development, these heterogeneous patches, characterized by
+drought-tolerant sprouting species or low pine densities, could be more resilient to climate change and severe
+wildﬁres than the overly-dense ponderosa pine forests that were present before the wildﬁres.
+1. Introduction
+Over the past three decades, wildﬁres in southwestern US ponderosa
+pine (Pinus ponderosa Lawson & C. Lawson) forests have increased in
+size and severity, leaving large, contiguous patches of tree mortality
+(often ≥100 ha) (Dillon et al., 2011; Poling, 2016). Increases in ﬁre
+size and severity are attributed to the accumulation of abnormally high
+canopy and surface fuel loads from over 100 years of ﬁre exclusion
+(Fulé et al., 1997, 2009; Moore et al., 2004), warmer and drier climate
+conditions, and longer ﬁre seasons (Dillon et al., 2011; Jolly et al.,
+2015; Reilly et al., 2017). High-severity wildﬁres are in stark contrast to
+the low- to moderate-severity wildﬁres that dominated the historical
+ﬁre regime in ponderosa pine forests (Covington and Moore, 1994; Fulé
+et al., 1997; Moore et al., 2004). Consequently, there is concern for the
+future sustainability of ponderosa pine forests in large burn patches that
+kill seed-producing trees, which can prevent or signiﬁcantly delay post-
+http://dx.doi.org/10.1016/j.foreco.2017.09.005
+Received 6 July 2017; Received in revised form 21 August 2017; Accepted 1 September 2017
+⁎ Corresponding author at: USDA Forest Service: Rocky Mountain Research Station, 2500 S. Pine Knoll Drive, Flagstaﬀ, AZ 86001, United States.
+E-mail addresses: smowen@fs.fed.us (S.M. Owen), csieg@fs.fed.us (C.H. Sieg), andrew.sanchezmeador@nau.edu (A.J. Sánchez Meador), pete.fule@nau.edu (P.Z. Fulé),
+jiniguez@fs.fed.us (J.M. Iniguez), lsbaggett@fs.fed.us (L.S. Baggett), pfornwalt@fs.fed.us (P.J. Fornwalt), mbattaglia@fs.fed.us (M.A. Battaglia).
+Forest Ecology and Management 405 (2017) 134–149
+0378-1127/ Published by Elsevier B.V.
+MARK
+
+ﬁre pine regeneration (Stephens et al., 2013).
+Because ponderosa pines evolved under ﬁre regimes dominated by
+low- to moderate-severity wildﬁres, they are poorly adapted to re-
+generate in large patches of high-severity ﬁre (He et al., 2012). Pon-
+derosa pines do not sprout or have serotinous cones, and do not
+maintain long-lived soil seedbanks; therefore regeneration is dispersal-
+limited in large patches of high-severity ﬁre and is dependent on sur-
+viving seed-sources or residual live trees (Oliver and Ryker, 1990;
+Chambers et al., 2016; Kemp et al., 2016). Ponderosa pine seeds are
+morphologically adapted for wind dispersal but their relatively large
+seeds rarely travel farther than 30 m from seed sources (Oliver and
+Ryker, 1990), which limits regeneration in the center of large, high-
+severity burn patches, often > 200 m from seed sources (Chambers
+et al., 2016). Ponderosa pine seed can also be animal dispersed, and
+long-distance dispersal by birds may be important for regeneration in
+the interiors of high-severity burn patches (Li and Wilson, 1998; Lesser
+and Jackson, 2013; Pesendorfer et al., 2016). However, poor ponderosa
+pine seed crops, seed predation, and drought can all limit tree re-
+generation (Pearson, 1950; Larson and Schubert, 1970).
+Consistent with the above limitations, a body of research docu-
+mented low ponderosa pine regeneration densities in large high-se-
+verity burn patches (Lentile et al., 2005; Savage and Mast, 2005;
+Roccaforte et al., 2012; Savage et al., 2013), and declining regeneration
+with increasing distance from residual live trees (Haire and McGarigal,
+2010; Chambers et al., 2016; Rother and Veblen, 2016). For example,
+regeneration in Arizona and New Mexico ranged from 11 to 26 stems
+ha−1 > 200 m from forest edges in large patches of high-severity ﬁre
+(Haire and McGarigal, 2010). The strongest predictor of conifer re-
+generation in high-severity burn patches in the Colorado Front Range
+was distance from surviving forest, but regeneration also declined with
+elevation and on more xeric sites (Chambers et al., 2016; Rother and
+Veblen, 2016). Less is known about how the spatial arrangement of
+regenerating ponderosa pines in large high-severity burn patches will
+diﬀer near forest edges compared to the interior of burn patches (e.g. if
+there are aggregated, random or uniform spatial arrangements). Re-
+generation spatial patterns should be considered when planning re-
+storation treatments, or to better predict the spatial structure of forest
+development (Larson and Churchill, 2012; Donato et al., 2012). Pon-
+derosa pine regeneration could be aggregated near the edges of high-
+severity burn patches due to a clustering of dense pine seeds that fall
+relatively close to parent trees, better growing conditions, or from ro-
+dent seed caches (Oliver and Ryker, 1990; Li and Wilson, 1998; Vander
+Wall, 2003). Regeneration spatial patterns could also be inﬂuenced by
+competition with sprouting trees to capture new post-ﬁre growing
+spaces (Fulé and Covington, 1998).
+A potential trajectory in large high-severity burn patches in pon-
+derosa pine-dominated forests is a dominance by sprouting tree species
+(Fulé and Covington, 1998; Barton, 2005; Savage and Mast, 2005;
+Strom and Fulé, 2007; Coppoletta et al., 2016). Following high-severity
+ﬁres, sprouting species have regeneration strategies that allow them to
+quickly recover (Bond and Midgley, 2001; Keeley et al., 2011). High-
+severity burn patches could potentially exclude tree species establishing
+from seed and favor a dominance of sprouting species for decades to
+centuries after high-severity ﬁres (Iniguez et al., 2009). This pattern has
+been observed in some southwestern ponderosa pine forests (Savage
+and Mast, 2005; Strom and Fulé, 2007) and in forests that are tax-
+onomically related to ponderosa pine with similar adaptations to fre-
+quent ﬁre (P. arizonica, P. durangensis, P. engelmannii and P. nigra)
+(McCune, 1988; Fulé and Covington, 1998; Martín-Alcón and Coll,
+2016). However, it is unclear whether or not regenerating ponderosa
+pines in large, high-severity burn patches will exhibit random associa-
+tions, attraction (implying facilitation or similar habitat preferences) or
+repulsion (implying a negative interaction like competition, or diﬀerent
+habitat preferences) with sprouting tree species (Luo et al., 2012).
+Competition with other species and proximity to forest edges can
+also aﬀect regenerating ponderosa pine height (Li and Wilson, 1998;
+Comeau et al., 1993; Nelson and Bragg, 2016), which could play an
+important role in site dominance and survival after subsequent ﬁres
+(Bailey and Covington, 2002; Battaglia et al., 2009; Schwinning and
+Kelly, 2013). Variation in regeneration height across recovering high-
+severity burn patches could be driven by variability in seedling age, or
+proximity to forest edges and/or competition with sprouting species.
+Hypothetically, regenerating ponderosa pines may grow faster and es-
+tablish sooner near unburned forest edges than the far interior of burn
+patches because of protection from wind and shade (Oliver and Ryker,
+1990; Li and Wilson, 1998), available microbial symbionts (Nara, 2006;
+Teste et al., 2009), and nearby seed sources (Bonnet et al., 2005). Post-
+wildﬁre tree regeneration height can also be driven by competition for
+light, water and nutrients with other regenerating species (Comeau
+et al., 1993; Schwinning and Kelly, 2013).
+The goal of this study was to better understand spatial patterns of
+ponderosa pine regeneration, as well as interactions with sprouting
+species and regeneration height in contiguous, high-severity burn pat-
+ches. In order to develop spatially explicit data on post-wildﬁre tree
+regeneration, we selected high severity burn patches in two wildﬁres
+(the 2000 Pumpkin and 2002 Rodeo-Chediski Fires) and recorded the
+spatial location of regenerating trees in 4-ha plots located either ad-
+jacent to the forest edge (edge plots) or > 200 m from residual live
+trees (interior plots). We tested the following hypotheses: H1: Higher
+ponderosa pine regeneration densities and aggregated spatial patterns
+will be found near forest edges; whereas lower densities and random
+spatial patterns will be found farther from residual live trees; H2:
+Ponderosa pine and sprouting species will display a spatial pattern of
+repulsion; and H3: Height of ponderosa pine regeneration will be
+greater near residual live trees and with less inter- and intra-speciﬁc
+competition.
+2. Methods
+2.1. Study sites and plots
+We investigated the patterns of ponderosa pine regeneration in large
+high-severity burn patches in two large Arizona wildﬁres: the 2000
+Pumpkin and 2002 Rodeo-Chediski Fires (Fig. 1). These ﬁres were
+chosen from all 10 to 15 year old Arizona wildﬁres because they had
+extensive patches of high-severity ﬁre (we deﬁne high-severity as 100%
+tree mortality) with no post-ﬁre logging, planting, or subsequent ﬁres.
+We collected data in 2013 on the Pumpkin Fire (13 years post-ﬁre) and
+in 2014 and 2015 (12–13 years post-ﬁre) on the Rodeo-Chediski Fire.
+The
+Pumpkin
+Fire
+burned
+approximately
+6500 ha,
+including
+1400 ha of high-severity burned area, on the Kaibab and Coconino
+National Forests (http://www.mtbs.gov/). The average 15 year post-
+ﬁre annual precipitation was 57.7 cm and the average temperature was
+7.2 °C (Prism Climate Group: http://prism.oregonstate.edu/). The ele-
+vation ranged from 2350 to 2600 m on our plots. The soils are derived
+from basalt and study plots are located on soil conditions ranging from
+moderately deep cobbly clay loam to shallow gravelly sandy loam (Web
+Soil Survey: http://websoilsurvey.nrcs.usda.gov. Accessed 10/5/16).
+The Rodeo-Chediski Fire burned 189,651 ha, including 68,409 ha of
+high-severity burn area, on the White Mountain Apache lands and the
+Apache-Sitgreaves National Forest (http://www.mtbs.gov/). Our plots
+were on the Apache-Sitgreaves National Forest, from 2000 to 2350 m
+elevation. The average 12-year post-ﬁre annual precipitation was
+54.5 cm and the average yearly temperature was 10.7 °C (Prism Climate
+Group: http://prism.oregonstate.edu/). The soils are derived from
+sandstone and limestone and are deeper than those at the Pumpkin Fire.
+The pre-ﬁre vegetation was dominated by ponderosa pine on both
+ﬁres, as evidenced by extensive ponderosa pine snags and downed logs
+burned in the severely-burned areas of the ﬁre, nearby unburned pon-
+derosa pine forest, and dendrochronological reconstructions of forest
+structure in 1879 near both wildﬁres (Rodman et al., 2016, 2017).
+Other common species included grasses such as Arizona fescue (Festuca
+S.M. Owen et al.
+Forest Ecology and Management 405 (2017) 134–149
+135
+
+arizonica Vasey) and mountain muhly (Muhlenbergia montana (Nutt.)
+Hitchc.), forbs, and shrubs such as Fendler's ceanothus (Ceanothus fen-
+dleri A.) on the Pumpkin Fire, and Fendler's ceanothus, Gambel oak
+(Quercus gambelii Nutt.) and alligator juniper (Juniperus deppeana
+Steud.), on the Rodeo-Chediski Fire.
+We used Monitoring Trends in Burn Severity (MTBS, 2014) maps
+with ﬁeld validation to identify all high-severity burn patches > 10 ha
+in the Pumpkin and Rodeo-Chediski Fires. We used ArcGIS 10.1 (ESRI,
+2012) to randomly select three high-severity burn patches per wildﬁre,
+within which we established one 4-ha (200 × 200 m) “edge” plot and
+one 4-ha “interior” plot, for a total of six 4-ha plots per wildﬁre. Edge
+plots were established in high-severity burn patches adjacent to re-
+sidual live trees, and interior plots were established where no surviving
+trees were found within at least 200 m from the plot boundaries
+(Fig. 1). From observation, most residual tree edges had high densities,
+e.g., 250–1000 trees/ha with very little understory vegetation. Plots
+were at least 30 m away from any roads and from another plot. Edge
+plot perimeters ranged from 2 to 220 m from residual live trees, and
+interior plot perimeters ranging from 203 to 455 m from residual live
+trees. This design allowed us to measure large areas, but does not
+capture regeneration in between plots, and the partial overlap of dis-
+tance from residual live trees may limit a true separation between plot
+types.
+2.2. Determining regeneration density and spatial patterns
+To test the hypothesis that ponderosa pine regeneration densities
+and aggregation will be higher in edge than interior plots, we recorded
+the spatial location of all regenerating trees (≥10 cm in height). We
+established
+reference
+points
+with
+a
+GPS
+(Trimble
+GeoXH
+with
+Terrasync, accurate to ± 20 cm) within each plot and used a range-
+ﬁnder (Laser Technologies Inc. TruePulse 360-B, accurate to ± 38 cm
+distance and ± 1° azimuth) to mark the geographic location of re-
+generating trees from each reference point. We veriﬁed that regenera-
+tion establishment dates were post-ﬁre by whorl-counting and de-
+termining pith age on a subset of 46 regenerating ponderosa pines from
+both wildﬁres. Regenerating ponderosa pines were from multiple co-
+horts ranging from 2 to 9 years post-ﬁre on the Pumpkin Fire and
+5–13 years post-ﬁre on the Rodeo-Chediski Fire. The two wildﬁres were
+treated as separate case-studies because of diﬀerences in soil types and
+pre-ﬁre understory vegetation, and because post-ﬁre regeneration in
+the Rodeo-Chediski Fire was dominated by sprouting species.
+We tested for diﬀerences in ponderosa pine regeneration density
+between edge and interior plots on each ﬁre with a measure of “in-
+tensity” that accounts for spatially explicit patterns, using mppm
+(model ﬁtted to multiple point patterns) with the spatstat package in R
+v.3.4.1 (R development Core Team, 2016), as described by Baddeley
+et al. (2015). Intensity is measured as stems per m2 and can vary across
+each plot with a inhomogeneous process; therefore density is intensity
+integrated over a larger area. We assumed a Poisson spatial point
+Fig. 1. Location of 4-ha research plots within the high-severity burned area of the 2000 Pumpkin Fire and the 2002 Rodeo-Chedeski Fire in Arizona, USA. Study plots are not to scale.
+S.M. Owen et al.
+Forest Ecology and Management 405 (2017) 134–149
+136
+
+distribution because we were interested in evaluating overall location-
+dependent density for this analysis and not patterns of inhomogeneity
+within plots. We considered the three plots within each edge or interior
+location as replicates. The model results were interpreted similarly to a
+typical Analysis of Variance (ANOVA) that evaluates the null hypoth-
+esis that the treatment level eﬀects of location are simultaneously zero
+by generating t-statistics and associated p-values (Bell and Grunwald,
+2004). Juniper species on the Pumpkin Fire were excluded from this
+model because some plots did not contain juniper regeneration. We also
+tested for diﬀerences in stem density in each individual plot with dis-
+tance from forest edge by using a Thomas process (kppm: cluster pro-
+cess model) model that evaluates Poisson-distributed parent clusters
+with oﬀspring distributed as bivariate normal (Baddeley et al., 2015).
+The null hypothesis tests the conditional slope being equal to zero
+where the response is the log-intensity, and signiﬁcance is determined
+by a Z-statistic and associated p-value (Baddeley et al., 2015). For these
+plot-level assessments, we accounted for other covariates such as Beer’s
+aspect (Beers et al., 1966), elevation, percent slope, and topographic
+position index (TPI) (Jenness, 2006), each measured at 10-m resolution.
+We did not ﬁnd any consistent patterns for these covariates across edge
+and interior plots on either ﬁre.
+To compare regeneration spatial patterns between edge and interior
+plots, we used the spatstat package (Baddeley et al., 2015) in R v.3.4.1.
+We ﬁrst used a Monte Carlo method to test the hypothesis that the
+points exhibited Complete Spatial Randomness (CSR) on each plot. We
+used the inhomogeneous Ripley’s K(r) function (Baddeley et al., 2015)
+for all plots, unless they exhibited homogeneous patterns within the
+plot, where we used the traditional form of the Ripley’s K(r) function
+(Ripley, 1976, 1977, 1979). To determine whether regeneration was
+distributed in a uniform, random or aggregated fashion, we used Ri-
+pley’s K(r) function or the inhomogeneous Ripley’s K(r) function for all
+plots. These tests compare the distances of all pairs of points, the null
+hypothesis being that all points are randomly distributed (Ripley,
+1976). The variance was stabilized to simplify visual interpretations by
+using the L(r)-r transformation (Besag, 1977). Interpretation of point
+pattern analysis results were limited to lag distances of 0–100 m (half
+the shortest plot dimension; sensu Dixon, 2002) to minimize the inﬂu-
+ence of unobserved points near observed points close to the plot edge
+(Boots and Getis, 1988). Signiﬁcant aggregation or uniformity was
+determined by comparing observed L(r)-r transformation values to a
+95% conﬁdence envelope based on 999 permutations of simulated
+complete spatial randomness (Upton and Fingleton, 1985). We quan-
+tiﬁed patch sizes from the lag distance and value of L(r) at the highest
+point of separation from CSR (Boyden et al., 2005; Sánchez Meador
+et al., 2009).
+2.3. Determining species interactions and predictors of regeneration height
+To test the hypothesis that pine and sprouting species will display a
+spatial pattern of repulsion, we performed Ripley’s bivariate K12(r)-r
+analysis (Lotwick and Silverman, 1982) on each plot, also using the
+spatstat package in R v.3.4.1. For this analysis, we pooled spatial loca-
+tions of the sprouting species, Gambel oak and alligator juniper, as
+“sprouters” on the Rodeo-Chediski Fire, and we also tested individual
+eﬀects of each sprouter species on ponderosa pine spatial patterns. We
+analyzed ponderosa pine regeneration as an event occurring a poster-
+iori populations of sprouting species (holding the location of sprouting
+species constant) instead of randomizing the location of all species,
+assuming that most sprouting species established soon after the wild-
+ﬁres, whereas ponderosa pine establishment likely occurred later
+(Harrington, 1989; Haire and McGarigal, 2010). We used the Ri-
+pley’s K12(r) bivariate function transformed form, L12(r)-r, proposed by
+Besag (1977) to calculate the distances between points from diﬀerent
+populations and formed conﬁdence envelopes by holding the locations
+of the sprouting species constant while simulating ponderosa pine lo-
+cations. Interpretation of analysis results were limited to lag distances
+of 0–50 m (one-quarter the shortest plot dimension) to describe re-
+lationships between two or more point patterns (e.g., pine regeneration
+and established oak), to minimize the inﬂuence of unobserved points
+near observed points close to the plot edge, and to maximize compar-
+isons to similar studies reporting bivariate patterns in pine regeneration
+(e.g., Sánchez Meador and Moore, 2010). A 95% conﬁdence envelope
+was created by 999 Monte Carlo simulations of the independent point
+processes null hypothesis (Goreaud and Pélissier, 2003), to evaluate
+deviations from the null hypothesis. In our case, the null hypothesis was
+that the location of ponderosa pine and sprouting species was produced
+from two independent spatial point processes. The alternative hypoth-
+esis was that the position of ponderosa pine seedlings was dependent on
+the location of sprouting species; L12(r)-r values > 0 indicate a posi-
+tive dependence between species, and L12(r)-r values < 0 indicate
+repulsion between species (Goreaud and Pélissier, 2003).
+To test the hypothesis that ponderosa pine regeneration height will
+be greater near residual live trees and with less interspeciﬁc competi-
+tion, we measured the heights of all stem-mapped regeneration, and we
+derived the distance from each regenerating ponderosa pine to the
+nearest residual live ponderosa pine tree and the density of regenera-
+tion within 1 m of each regenerating pine. We determined the distance
+from each regenerating ponderosa pine to the nearest residual live
+ponderosa pine tree using imagery (Google Earth©, 2016) and ﬁeld
+validation, including trees found along the forest edge, as well as single
+trees within the interior of the burned patches. We used the Proximity-
+Near tool in ArcGIS to determine the closest mature trees from all re-
+generation. We deﬁned amount of competition as the density of
+neighbors within a ﬁxed radius of 1 m around each regenerating pon-
+derosa pine. Density and height of neighboring ponderosa pines (in-
+traspeciﬁc competition) and sprouting species (interspeciﬁc competi-
+tion) were determined within the 1-m buﬀer around each regenerating
+ponderosa pine. We used a generalized linear mixed model (GLMM)
+with a log-link function and Gaussian distribution to test the eﬀects of
+closest residual ponderosa pine tree and the density and height of intra-
+and interspeciﬁc neighbors on ponderosa pine height, and we included
+plot as a random eﬀect in the model. All GLMM analyses were com-
+pleted in SAS 9.4 (SAS PROC GLIMMIX©, 2017). We tested the eﬀect of
+Gambel oak and alligator juniper density on ponderosa pine height
+separately to understand the inﬂuence of each species.
+3. Results
+3.1. Regeneration density and spatial patterns
+Regenerating ponderosa pine densities were lower in the interior
+plots than edge plots on the Pumpkin Fire (t = −8.6; p < 0.01;
+Fig. 2A), supporting part of our ﬁrst hypothesis. All plots exhibited
+inhomogeneous point processes, except one interior plot (interior 2) on
+the Pumpkin Fire (Appendix A). At a plot level, pine density sig-
+niﬁcantly decreased with distance from forest edge in two out of the
+three edge plots (three edge plots: p = 0. 01, 0.05, 1.0), and density did
+not diﬀer with distance in any of the interior plots (p = 1.0 in all three
+interior plots; Appendix B). Ponderosa pine densities were highly
+variable on both edge and interior plots (edge plots: 13, 51.3, 153.8
+stems ha−1; interior plots: 15.2, 31.2, 12 stems ha−1) (Fig. 2A). Other
+tree species made up a small portion of the total regeneration. We
+documented an average of 15.2 quaking aspen (Populus tremuloides
+Michx.) stems ha−1 in the interior plots and 9.1 stems ha−1 in the edge
+plots. We found an average of 6 juniper stems ha−1 in the edge plots
+and 4.8 juniper stems ha−1 in the interior plots. These were likely al-
+ligator juniper or Rocky Mountain juniper (Juniperus scopulorum Sarg.),
+but we could not identify juveniles to species. We found an average
+of < 1 Douglas-ﬁr (Pseudotsuga menziesii (Mirb.) Franco) stem ha−1 in
+the interior plots, and Douglas-ﬁr was not observed in the edge plots.
+Both edge and interior plots on the Pumpkin ﬁre were dominated by
+understory herbaceous plants.
+S.M. Owen et al.
+Forest Ecology and Management 405 (2017) 134–149
+137
+
+On the Rodeo-Chediski Fire, ponderosa pine regeneration densities
+were also lower in the interior plots than the edge plots (t = −3.5;
+p < 0.01; Fig. 2B). All plots exhibited inhomogeneous point processes
+(Appendix A). At a plot level, ponderosa pine densities decreased sig-
+niﬁcantly with distance from forest edge in two out of the three edge
+plots (three edge plots: p = 0.01, < 0.01, 1.0), and one interior plot
+(p = 0.05). Ponderosa pine densities were not correlated with distance
+from forest edge in one interior plot (p = 1.0), and density actually
+increased (p = 0.01) with distance in one interior plot (Appendix B).
+Ponderosa pine density was highly variable on edge and interior plots
+(edge plots: 148.5, 86.3, 45.8 stems ha−1; interior plots: 44.5, 27.3,
+124.0 stems ha−1). One interior plot located 220–420 m from any re-
+sidual live trees unexpectedly had almost 3 times higher regeneration
+densities than a nearby edge plot (interior and edge plots 3). Both edge
+and interior plots on the Rodeo-Chediski Fire were dominated by
+sprouting species. We documented an average of 969 Gambel oak stems
+ha−1 (58, 415.8, and 2,433.8 stems ha−1) on the edge plots and 453
+Gambel oak stems ha−1 (246, 8.3, and 1,104.5 stems ha−1) on the
+interior plots. We found an average of 330 alligator juniper stems ha−1
+(14.3, 519, 457.5 stems ha−1) on the edge plots and 464 alligator ju-
+niper stems ha−1 (77, 291.8, 94.8 stems ha−1) on the interior plots. The
+relationship between ponderosa pine vs. sprouter density was not
+consistent. The edge plot with the highest density of sprouting species
+had the least ponderosa pine regeneration. However, the interior plot
+with the highest density of sprouting species had the most ponderosa
+pine regeneration.
+Contrary to our hypothesis, we did not observe diﬀerences in pon-
+derosa pine spatial patterns between edge and interior plots on the
+Pumpkin Fire (Fig. 3, Table 1, Appendix C). Ponderosa pine regenera-
+tion exhibited signiﬁcant small-scale aggregation in two edge and two
+interior plots from approximately 1 to 22 m lag distance, and had
+uniform and/or random spatial patterns at larger scales (Fig. 3, Table 1,
+Appendix C). Ponderosa pine regeneration did not fall outside complete
+spatial randomness in one edge and in one interior plot (Fig. 3, Table 1,
+Appendix C). Regeneration that displayed aggregation had patch sizes
+ranging from 0.001 to 0.045 ha on one edge and one interior plot (edge
+2, interior 1) (Table 1, Appendix C). Aspen regeneration was sig-
+niﬁcantly aggregated on 5 of the 6 plots at varying lag distances (from 1
+to 10 m up to 1 to 75 m) and displayed spatial randomness at other
+distances (from 59 to 100 up to 1 to 100 m) on the Pumpkin Fire
+(Appendices D and E).
+We also did not observe diﬀerences in ponderosa pine spatial pat-
+terns between edge and interior plots on the Rodeo-Chediski Fire
+(Fig. 3, Table 1, Appendix C). Pine regeneration exhibited signiﬁcant
+small-scale aggregation from 1 to 35 m lag distances, and had uniform
+and/or random spatial patterns at larger scales on all plots (Fig. 3,
+Table 1, Appendix C). Average patch sizes ranged from 0.001 to
+0.031 ha, with the highest density on 2 interior plots (Table 1,
+Appendix C). Furthermore, Gambel oak and alligator juniper were also
+signiﬁcantly aggregated in all edge and interior plots at varying dis-
+tances, except Gambel oak displayed a random distribution in one in-
+terior plot (Fig. 4, Appendix F). Gambel oak and alligator juniper also
+had varying patch sizes, and on some plots the patch was almost as
+large as the 4-ha plot due to such high densities (Fig. 4, Appendix E).
+3.2. Ponderosa pine species interactions and regeneration height
+Populations of ponderosa pine and sprouting species were spatially
+independent, contrary to our second hypothesis (Fig. 5). Ponderosa pine
+and quaking aspen populations were spatially independent on all edge
+and interior plots on the Pumpkin Fire. Ponderosa pine and pooled
+sprouting species (alligator juniper and Gambel oak) were spatially
+independent on all edge and interior plots on the Rodeo-Chediski Fire
+(Fig. 5), and when sprouting species were analyzed separately, pon-
+derosa pine and individual populations of alligator juniper and Gambel
+oak were spatially independent on all plots (Appendix F). There was a
+trend for more repulsion between pine and alligator juniper on plots
+when juniper regeneration was dense, and attraction with Gambel oak,
+but there were no statistically signiﬁcant patterns (Appendix F).
+Contrary to our third hypothesis, regenerating pine height was not
+greater near residual live trees or with less interspeciﬁc competition,
+and model diﬀerences were driven by density and similar heights of
+intraspeciﬁc neighbors. Distance from residual live trees did not explain
+variation in regenerating ponderosa pine heights on either wildﬁre
+(Pumpkin Fire: F = 1.40, p = 0.24; Rodeo-Chediski Fire: F = 0.22,
+p = 0.64; Appendix G). The Pumpkin Fire had too few sprouting
+neighbors within 1-m radius of regenerating ponderosa pines for the
+model; therefore only intraspeciﬁc neighbors were included for neigh-
+borhood density and height variables. Neighborhood intraspeciﬁc
+density (F = 4.73, p = 0.03) and height (F = 9.21, p < 0.01) were
+both positively correlated with ponderosa pine height on the Pumpkin
+Fire
+(Fig.
+6A,
+Appendix
+H).
+Neighborhood
+intraspeciﬁc
+density
+(F = 45.47, p < 0.01) and height (F = 171.13, p < 0.01) were also
+both positively correlated with ponderosa pine height on the Rodeo-
+Chediski Fire, but the heights of neighboring sprouting species were not
+signiﬁcant predictors of ponderosa pine height (Fig. 6B, Appendix H).
+A) 2000 Pumpkin Fire                                              B) 2002 Rodeo-Chediski Fire 
+Fig. 2. Ponderosa pine regeneration densities (stems ha−1) were lower in interior plots than edge plots in large high-severity burn patches for both (A) the 2000 Pumpkin Fire and (B) the
+2002 Rodeo-Chediski Fire. The central boxes span the ﬁrst to the third quartile, a center line represents the median, and the “whiskers” above and below the box represent the minimum
+and maximum values.
+S.M. Owen et al.
+Forest Ecology and Management 405 (2017) 134–149
+138
+
+Neighboring Gambel oak (F = 1.90, p = 0.17) and alligator juniper
+density (F = 3.33, p = 0.07) were also not signiﬁcant predictors of
+ponderosa pine height (Appendix H).
+4. Discussion
+Our study found that pine densities were lower in the interiors of
+high-severity burn patches than near forest edges, consistent with
+previous studies (Haire and McGarigal, 2010; Chambers et al., 2016).
+Seed dispersal from forest edges, protection from wind and sun, and
+favorable soil conditions near forest edges likely led to higher pon-
+derosa pine densities than in the interior plots (Teste et al., 2009; Haire
+and McGarigal, 2010; Reynolds et al., 2013; Chambers et al., 2016;
+Kemp et al., 2016). It may take longer for regeneration to occur within
+the interiors than the edges of burn patches due to dispersal by wind or
+birds vs. high seed pressure from nearby residual trees. Low ponderosa
+pine regeneration densities in both plot types, and a dominance of ei-
+ther understory herbaceous plants or sprouting trees, could be due to a
+lack of adequate ponderosa pine seed-sources, slow recovery, or un-
+favorable post-ﬁre habitat or climate conditions for ponderosa pine
+regeneration (Pearson, 1950; Larson and Schubert, 1970; Haire and
+McGarigal, 2010). These results could also be from superior regenera-
+tion strategies from herbaceous or sprouting species that allowed them
+to quickly recover in these large, treeless patches (Bond and Midgley,
+2001; Battaglia et al., 2002). We investigated potential diﬀerences in
+regeneration densities from topography and aspect and found no con-
+sistent patterns, although two Colorado studies found reduced pine
+regeneration
+on
+lower
+elevations
+and
+more
+southerly
+aspects
+(Chambers et al., 2016, Rother and Veblen, 2016).
+Even though pine densities were lower in interior than edge plots,
+regenerating ponderosa pines were nonetheless found over 300 m from
+any residual live tree in all interior plots, suggesting long-distance
+dispersal may be an important mechanism for regeneration in the in-
+terior of burn patches (Haire and McGarigal, 2010; Lesser and Jackson,
+2013). Similar to our ﬁndings, post-ﬁre ponderosa pine regeneration
+has been found > 200 m from residual live trees (Bonnet et al., 2005;
+Haire and McGarigal, 2010), and even up to > 10 km away from parent
+trees, likely from scatter-hoarding by corvids and other birds (Lesser
+and Jackson, 2013; Pesendorfer et al., 2016). Long-distance dispersal of
+seeds can have a critical eﬀect on species survival and increase genetic
+diversity in patchy landscapes (Ozawa et al., 2013). Long-distance
+Fig. 3. Stem maps of ponderosa pine regeneration 13 years after the Pumpkin Fire and 12–13 years after the Rodeo-Chediski Fire in 3 edge plots along residual live ponderosa pine trees
+and 3 plots > 200 m from any residual live ponderosa pine trees (interior). Plots are rotated for this ﬁgure (north arrows are correct) to line up forest edges for ease of interpretation, but
+actual plot locations occur at varying distances from residual live forest edges and other plots.
+Table 1
+Lag distances and average patch sizes (determined by the lag distance and maximum
+deviation from complete spatial randomness (CSR)) for ponderosa pine regeneration with
+spatial aggregation, uniform, or CSR distributions from univariate Ripley’s K, corre-
+sponding to the stem maps shown in Fig. 3. Individual Ripley’s K outputs are shown in
+Appendix C.
+Lag distance (m)
+Patch size (ha)
+Aggregation
+Uniform
+Random
+Pumpkin Fire plots
+Edge 1
+1–100
+Edge 2
+1–15
+57–100
+16–56
+0.001
+Edge 3
+1–10
+23–100
+11–22
+0.008
+Interior 1
+1–22
+61–100
+23–60
+0.031
+Interior 2
+5–16
+17–100
+0.045
+Interior 3
+1–100
+Rodeo-Chediski Fire plots
+Edge 1
+1–20
+21–100
+0.001
+Edge 2
+1–30
+31–100
+0.008
+Edge 3
+1–35
+51–100
+36–50
+0.031
+Interior 1
+1–30
+40–100
+31–39
+0.008
+Interior 2
+1–18
+40–100
+19–39
+0.002
+Interior 3
+1–30
+51–100
+31–50
+0.031
+S.M. Owen et al.
+Forest Ecology and Management 405 (2017) 134–149
+139
+
+dispersal likely contributed to the heterogeneous spatial patterns of
+regenerating ponderosa pine in the interior plots as well.
+We did not observe diﬀerences in the spatial patterns of re-
+generating ponderosa pine between plot types as expected, suggesting
+factors other than proximity to forest edges, such as animal seed dis-
+persal or favorable microhabitat contributed to small-scale ponderosa
+pine aggregation in both edge and interior plots (Oliver and Ryker,
+1990; Lesser and Jackson, 2013; Pesendorfer et al., 2016). Ponderosa
+pine regeneration was spatially aggregated at scales similar to those
+found in managed ponderosa pine stands in Arizona and Montana
+(Fajardo et al., 2006; Sánchez Meador and Moore, 2010). Small-scale
+spatial aggregation in the edge plots may have been from rodents be-
+cause they usually cache ponderosa pine seeds within 30 m of seed-
+source trees (Vander Wall, 2003); whereas birds may have contributed
+to seedling aggregation in the interior plots because they can cache
+seeds > 10 km away from parent trees (Lesser and Jackson, 2013).
+Aggregated ponderosa pine regeneration could occur in pockets of
+preferred microhabitat, such as favorable soil conditions or near logs or
+stumps that provide extra moisture or wind protection (Oliver and
+Ryker, 1990; Teste et al., 2009; Sánchez Meador and Moore, 2010;
+Castro et al., 2011). Southwest prevailing winds can also inﬂuence the
+spatial location of seed dispersal, but we did not observe regeneration
+aggregating along this direction. Post-ﬁre ponderosa pine can re-
+generate in clumps, as well as by remotely dispersed individuals, de-
+pending on seed sources and competition with sprouting species (Haire
+and McGarigal, 2010).
+We expected a spatial pattern of repulsion between ponderosa pine
+and sprouting species because competition with sprouters inﬂuenced
+seedling regeneration in other studies (Fulé and Covington, 1998;
+Higgins et al., 2008). We observed a dominance of sprouting tree spe-
+cies on the Rodeo-Chediski Fire, a pattern similarly found by other
+studies (Barton, 2005; Savage and Mast, 2005; Strom and Fulé, 2007;
+Coppoletta et al., 2016). Even though sprouting species were found at
+high densities, we found spatial independence between ponderosa pine
+and sprouting species on all of our plots, suggesting that sprouting
+species did not repulse nor attract pine regeneration. Regenerating
+ponderosa pine had a random association with the locations of Gambel
+oak trees in northern Arizona under diﬀerent harvesting regimes
+(Sánchez Meador and Moore, 2010). Perhaps interspeciﬁc competition
+or facilitation is not always a strong driver of pine regeneration and
+survival. There is evidence that ponderosa pine can establish beneath
+oaks and eventually overtop them as they mature, which can sometimes
+lead to decreases in sprouting species (McDonald, 1990; Vankat, 2013).
+Interspeciﬁc competition and distance from forest edges did not
+inﬂuence ponderosa pine growth as expected. Ponderosa pine re-
+generation height in large high-severity burn patches could be the re-
+sult of seedling age, microsite conditions, herbivory or facilitation
+(Fajardo and McIntire, 2011; Waring and Goodrich, 2012; Smith et al.,
+2016), rather than distance from forest edge or competition. A limita-
+tion of this study was not knowing the age of each pine seedling. We
+attributed diﬀerences in regenerating ponderosa heights between the
+two wildﬁres (2-3X taller on the Rodeo-Chediski Fire) to diﬀerences in
+Fig. 4. Stem maps of Gambel oak (blue squares) and alligator juniper
+(brown triangles) regeneration 12–13 years after the Rodeo-Chediski Fire in
+3 plots along the forest edges (edge), and 3 plots > 200 m from any live
+residual ponderosa pine tree (interior).
+S.M. Owen et al.
+Forest Ecology and Management 405 (2017) 134–149
+140
+
+temperature, moisture, soil nutrients, or herbivore or insect damage
+(Puhlick et al., 2012, 2013). The positive correlation between pon-
+derosa pine height and neighboring ponderosa pine heights and den-
+sities, suggests that similar ages established together or similar en-
+vironmental conditions inﬂuenced establishment and growth (Oliver
+and Ryker, 1990). It is also possible that facilitation could be a stronger
+process than intraspeciﬁc competition, a pattern observed by Fajardo
+and McIntire (2011), and led to greater height and ultimately survival.
+Rapid height growth may also allow regenerating ponderosa pines to
+survive a subsequent ﬁre (Bailey and Covington, 2002; Battaglia et al.,
+2009). Approximately half of the ponderosa pine regeneration on the
+Rodeo-Chediski Fire and a fourth on the Pumpkin Fire had heights >
+1.4 m, with a measurable diameter at breast height (DBH). Ponderosa
+pine seedlings can be more ﬁre-resistant at 3 m height (Bailey and
+Covington, 2002), and those ∼2 m tall are predicted to require > 2 m
+tall ﬂame length to cause mortality (Battaglia et al., 2009).
+If established post-ﬁre ponderosa pines survive and regeneration
+continues to occur on these high-severity burn patches, some tree cover
+will be regained, even if below historical densities. Historical ponderosa
+pine densities ranged from 49 to 115 trees ha−1 in areas near the
+Pumpkin
+and
+Rodeo-Chediski
+Fires,
+determined
+by
+den-
+drochronological reconstructions of forest structure in 1879 (Rodman
+et al., 2016, 2017). Four out of our twelve plots fell within this range,
+and others were just below based on a projected 44% survival rate of
+seedlings to mature trees from the 5th to 50th year after planting in
+northern Arizona (DeWald and Mahalovich, 2008; Ouzts et al., 2015).
+Pine regeneration is potentially faced with additional challenges such
+as ﬁre, drought, herbivory, disease, and further competition with
+neighboring species that could reduce survival rates (Huﬀman et al.,
+2012; Waring and Goodrich, 2012; Savage et al., 2013; Rother and
+Veblen, 2016). However, most regenerating pines have already made it
+through the high-mortality stage, within the ﬁrst few years of germi-
+nation (Pearson, 1950), and new seedlings on our study sites are still
+establishing. The small subset of aged post-ﬁre ponderosa pines (data
+Fig. 5. Ripley’s K12(t) bivariate statistic is shown for the comparison of ponderosa pine regeneration to sprouting species locations (quaking aspen (POTR) in the Pumpkin Fire and
+alligator juniper and Gambel oak (sprouters) in the Rodeo-Chediski Fire) in three edge plots and three interior plots. The x-axis (r) is the lag distance, and the y-axis is the square root,
+variance-stabilizing transformation of Ripley’s K. The red line (values = 0) is the expectation under complete spatial randomness and the shaded areas are the 95% conﬁdence limits.
+Values that fall outside of the conﬁdence interval are signiﬁcant; values > 0 indicate attraction and values < 0 indicate repulsion between ponderosa pine and sprouting species.
+Fig. 6. Regenerating ponderosa pine height was signiﬁcantly correlated with the average height of neighboring intraspeciﬁc ponderosa pine regeneration in both the A) Pumpkin Fire and
+B) Rodeo-Chediski Fire.
+S.M. Owen et al.
+Forest Ecology and Management 405 (2017) 134–149
+141
+
+not shown) revealed an age range of 2–13 years-old, suggesting that
+regeneration is episodic in this area and not necessarily concentrated in
+the ﬁrst few years after the ﬁres, similar to ﬁndings by Haire and
+McGarigal (2010). We did not observe any pine seedlings or saplings
+that were producing cones on our plots; in the future, such reproduction
+may become a localized seed-source and serve to ﬁll in treeless gaps,
+assuming seedlings survive and reproduce.
+Historical ponderosa pine forests also had patterns of structural
+heterogeneity at multiple spatial scales (Mast and Wolf, 2004; Reynolds
+et al., 2013; Rodman et al., 2016), including trees of diﬀerent size and
+age classes and an open structure over large portions of the landscape
+(Sánchez Meador et al., 2011). Regenerating ponderosa pines on our
+study sites already exhibit some patterns of spatial and structural
+(variable seedling ages and heights) heterogeneity, but with reduced
+average patch sizes. Regenerating ponderosa pine patch sizes from our
+plots averaged ≥3 X smaller than reported historical regeneration
+patch sizes (averaging 0.01 ha) across northern Arizona (reviewed in
+Stephens and Fry, 2005). Ponderosa pine regeneration patch sizes
+varied across the burned landscape, and the stem-maps revealed
+openings, widely-spaced single seedlings, and seedling aggregation,
+similar to the mosaic of ﬁre-frequent forests described by Larson and
+Churchill (2012). However, it is unclear if regeneration on our study
+sites will emulate historical spatial patterns because drier conditions,
+increased wildﬁre activity and widespread conifer loss are forecasted to
+increase in the coming decades (McDowell et al., 2016; Abatzoglou and
+Williams, 2016).
+4.1. Conclusions and management implications
+Both spatial and non-spatial information on post-ﬁre regeneration
+are vital for future management plans. By contrasting the edge and
+interiors of burn patches, we found that 12+ years post-ﬁre, in high-
+severity burn patches, ponderosa pine regeneration had similar het-
+erogeneous spatial patterns and interactions with neighboring species,
+yet lower densities in the interior patches. Intraspeciﬁc facilitation and
+more time could eventually lead to higher ponderosa pine densities.
+However, given the predictions for warming climates and increased
+wildﬁres (McDowell et al., 2016; Abatzoglou and Williams, 2016), this
+heterogeneous stage of forest development, that includes native
+sprouting species could be more resilient to drought and high-severity
+ﬁres than dense pine stands. Forest managers may need to adopt new
+objectives such as accepting forest types that could be more adapted to
+climate change and high-severity ﬁres (including more drought-tolerant
+sprouting species). High-severity wildﬁres and climate change are
+predicted to favor sprouting species over ponderosa pine on the Rodeo-
+Chediski Fire (Strom and Fulé, 2007; Azpeleta Tarancón et al., 2014).
+New vegetation types may be a future reality, especially since a com-
+bination of adequate moisture and ﬁre-free periods are needed for the
+initiation of ponderosa pine regeneration and maintenance of pine-
+dominant forests (Iniguez et al., 2016). Future climate change is pre-
+dicted to result in large-scale vegetation displacement and reorganiza-
+tion for some elevation zones in Arizona (Flatley and Fulé, 2016). Post-
+wildﬁre non-forested patches or alternative vegetation types can also be
+areas of resilience to climate variability and resistance to subsequent
+ﬁre within portions of the pine-dominant landscape (Coop et al., 2016;
+Schoennagel et al., 2017).
+We recommend that managers use an experimental/adaptive ap-
+proach to reach goals of resilient landscapes and ﬁre-adapted commu-
+nities in light of the prediction of potential vegetation shifts and in-
+creased risk of high-severity wildﬁres in the future. Biotic and abiotic
+conditions vary greatly across western US ponderosa pine forests
+(Oliver and Ryker, 1990), and management treatments should adapt
+accordingly. There is value in experimenting with a variety of treat-
+ments by incorporating a before–after–control–impact (BACI) design;
+this approach is useful in controlling confounding factors, so that ob-
+served changes are likely due to management treatments (Underwood,
+1994). Potential post-ﬁre management strategies could include in-
+troducing ﬁre (with seasonal variabilities), while regeneration is small
+if overly dense, or waiting for trees to reach greater heights to become
+more ﬁre-resistant (Bailey and Covington, 2002; Battaglia et al., 2009).
+If management goals are to restore ponderosa forests, planting pine
+seedlings in the interiors of high-severity burn patches could be an
+option (Ouzts et al., 2015). However, plantings should reﬂect the goal
+of spatial heterogeneity instead of uniformity, and should not be overly
+dense so that they increase future ﬁre severity (Thompson et al., 2007).
+There are also advantages for a natural recovery processes, such as
+increased plant diversity and more resilient vegetation types (Haire and
+McGarigal, 2010; Fornwalt and Kaufmann, 2014; Coop et al., 2016).
+Other management options revolve around reducing the potential
+for large high severity ﬁres by increasing thinning and managed ﬁre to
+maintain recently treated stands that resemble historical forests or
+thinning high density stands (Fulé et al., 2012; Stevens-Rumann et al.,
+2012; Stephens et al., 2016; Huﬀman et al., 2017). Pre-wildﬁre thin-
+ning and prescribed ﬁre treatments on the Rodeo-Chediski Fire reduced
+ﬁre severity and signiﬁcantly increased ponderosa pine regeneration,
+compared to untreated areas (Shive et al., 2013). Restoration eﬀorts to
+reduce the risk of stand-replacing wildﬁres should include the goal of
+spatial heterogeneity to increase resilience to future climate and wild-
+ﬁre conditions, as recommended by Larson and Churchill (2012), and
+long-term, permanent plots are essential for quantifying treatment
+success or ecosystem changes over time (Sánchez Meador and Moore,
+2010).
+Acknowledgements
+We thank Scott Vojta, Jennifer Blanks, Patrick Cassidy, Spenser
+Biehler, Katie Gibble, Kimberly Istok, Thallita Mendes, Sam Ebright,
+Alec Soderberg, and Thomas Huck for helping with ﬁeld data collec-
+tion; Danna Muise for helping with ArcGIS and map development, and
+Chis Barrett, FS Enterprise team, for GIS support. This work was sup-
+ported by the USDA FS Rocky Mountain Research Station, The National
+Fire Plan NFP-13-16-FWE-43, and Achievement Rewards for College
+Students (ARCS) Foundation.
+Appendix A
+Results from Monte Carlo method to test for Complete Spatial Randomness (CSR) on each plot, indicating all plots exhibited inhomogeneous
+point processes, except for one plot on the Pumpkin Fire (Interior 2).
+Pumpkin ﬁre
+X2
+p
+Edge 1
+36.3
+0.05∗
+Edge 2
+180.96
+0.001∗
+Edge 3
+1656.9
+0.001∗
+Interior 1
+56.51
+0.004∗
+Interior 2
+27.22
+0.28
+Interior 3
+120.48
+0.001∗
+S.M. Owen et al.
+Forest Ecology and Management 405 (2017) 134–149
+142
+
+Rodeo-Chediski ﬁre
+X2
+p
+Edge 1
+211.7
+0.001∗
+Edge 2
+1977
+0.001∗
+Edge 3
+561.14
+0.001∗
+Interior 1
+129.09
+0.001∗
+Interior 2
+88.67
+0.001∗
+Interior 3
+148.21
+0.001∗
+Appendix B
+Results of the kppm model testing for diﬀerences in ponderosa pine stem intensity with distance from residual live trees. The x-axis illustrates
+distance from residual live trees (m), and the y-axis and the black lines near the x-axis indicate regenerating ponderosa pine intensity per m2. The
+scale diﬀerences between panels are due to diﬀerences in seedling locations along varying distances from residual live trees.
+S.M. Owen et al.
+Forest Ecology and Management 405 (2017) 134–149
+143
+
+Appendix C
+Results of the univariate Ripley’s K statistic (transformed as L(r) as lag distance) for ponderosa pine in each plot, corresponding to the stem maps
+shown in Fig. 3. The shaded area is the expectation under complete spatial randomness; values that fall outside of this are statistically signiﬁcant;
+values > 0 (red line) indicate aggregation and values < 0 indicate uniform spatial distribution.
+S.M. Owen et al.
+Forest Ecology and Management 405 (2017) 134–149
+144
+
+Appendix D
+Stem maps of aspen regeneration 13 years after the Pumpkin Fire in 3 plots along the forest edges, and 3 plots > 200 m from any live tree
+(Interior plots).
+Appendix E
+The lag distance for aspen stems on the Pumpkin Fire and Gambel oak and alligator juniper stems on the Rodeo-Chediski Fire with spatial
+aggregation, complete spatial randomness, or uniform spatial distribution from the univariate Ripley’s K, corresponding to the stem maps shown in
+Appendix D and Fig. 4. Values that fall outside the 95% conﬁdence limits > 0 indicate aggregation and values < 0 indicate uniform spatial patterns,
+and values within the conﬁdence limit are expected under complete spatial randomness.
+Pumpkin ﬁre
+Lag distance (m)
+Aspen
+Aggregation
+Uniform
+Random
+Edge 1
+1–60
+61–100
+Edge 2
+1–75
+76–100
+Edge 3
+1–100
+Interior 1
+1–58
+59–100
+Interior 2
+1–15
+16–100
+Interior 3
+1–10
+11–100
+S.M. Owen et al.
+Forest Ecology and Management 405 (2017) 134–149
+145
+
+Rodeo-Chediski ﬁre
+Lag distance (m)
+Gambel oak
+Aggregation
+Uniform
+Random
+Edge 1
+1–95
+96–100
+Edge 2
+1–35
+40–100
+36–39
+Edge 3
+1–100
+Interior 1
+1–100
+Interior 2
+1–100
+Interior 3
+1–100
+Alligator juniper
+Aggregation
+Uniform
+Random
+Edge 1
+1–15
+80–100
+16–79
+Edge 2
+1–75
+76–100
+Edge 3
+1–100
+Interior 1
+1–100
+Interior 2
+1–100
+Interior 3
+1–80
+81–100
+Appendix F
+Ripley’s K12(t) bivariate statistic is shown for the comparison of ponderosa pine regeneration to location of Gambel oak and alligator juniper in
+the Rodeo-Chediski Fire. The red line is the expectation under complete spatial randomness and the shaded areas are the 95% conﬁdence limits.
+Values that fall outside of the conﬁdence interval are signiﬁcant; values > 0 indicate attraction and values < 0 indicate repulsion between ponderosa
+pine and sprouting species.
+S.M. Owen et al.
+Forest Ecology and Management 405 (2017) 134–149
+146
+
+Appendix G
+Distance from residual live ponderosa pine trees (or potential seed sources) is not signiﬁcantly correlated with regenerating ponderosa pine
+height on either wildﬁre.
+Appendix H
+Ponderosa pine seedling height is positively correlated with the density of intraspeciﬁc neighbors within 1 m radius in the (A) Pumpkin Fire and
+the (B) Rodeo-Chediski Fire, but density of Gambel oak and alligator juniper are not signiﬁcant predictors of ponderosa pine height in the Rodeo-
+Chediski Fire. Model ﬁt with 95% conﬁdence limits.
+References
+Abatzoglou, J.T., Williams, A.P., 2016. Impact of anthropogenic climate change on
+wildﬁre across western US forests. Proc. Natl. Acad. Sci. 113, 11770–11775. http://
+dx.doi.org/10.1073/pnas.1607171113.
+Azpeleta Tarancón, A., Fulé, P.Z., Shive, K.L., Sieg, C.H., Sánchez Meador, A.J., Strom, B.,
+2014. Simulating post-wildﬁre trajectories under alternate climate and management
+scenarios. Ecol. Appl. 24, 1626–1637.
+Baddeley, A., Rubak, E., Turner, R., 2015. Spatial Point Patterns: Methodology and
+Applications with R. Chapman and Hall/CRC Press, London. URL < http://www.
+crcpress.com/Spatial-Point-Patterns-Methodology-and-Applications-with-R/
+Baddeley-Rubak-Turner/9781482210200/ > .
+Bailey, J.D., Covington, W.W., 2002. Evaluating ponderosa pine regeneration rates fol-
+lowing ecological restoration treatments in northern Arizona, USA. For. Ecol.
+Manage. 155, 271–278.
+Barton, A.M., 2005. Madrean Pine-Oak Forest in Arizona: altered ﬁre regimes, altered
+communities. In: Proc. RMRS-P-36. USDA For. Serv. Rocky Mtn. Res. Station, Fort
+Collins, CO, pp. 455–459.
+Battaglia, M.A., Mou, P., Palik, B., Mitchell, R.J., 2002. The eﬀect of spatially variable
+overstory on the understory light environment of an open-canopied longleaf pine
+forest. Can. J. For. Res. 32, 1984–1991.
+Battaglia, M.A., Smith, F.W., Shepperd, W.D., 2009. Predicting mortality of ponderosa
+pine regeneration after prescribed ﬁre in the Black Hills, South Dakota. USA. Int. J.
+Wildl. Fire 18, 176–190.
+Beers, T.W., Dress, P.E., Wensel, L.C., 1966. Aspect transformation in site productivity
+research. J. For. 64, 691.
+Bell, M., Grunwald, G., 2004. Mixed models for the analysis of replicated spatial point
+patterns. Biostatistics 5, 633–648.
+Besag, J., 1977. Eﬃciency of pseudolikelihood estimation for simple Gaussian ﬁelds.
+Biometrika 64, 616–618.
+Bond, W., Midgley, J., 2001. Ecology of sprouting in woody plants: the persistence niche.
+Trends Ecol. Evol. 16, 45–51.
+Bonnet, V.H., Schoettle, A.W., Shepperd, W.D., 2005. Post-ﬁre environmental conditions
+inﬂuence the spatial pattern of regeneration for Pinus ponderosa. Can. J. For. Res. 35,
+37–47.
+Boots, N.B., Getis, A., 1988. Point Pattern Analysis. Sage Publications, New York, NY, US.
+Boyden, S., Binkley, D., Shepperd, W., 2005. Spatial and temporal patterns in structure,
+regeneration, and mortality of an old-growth ponderosa pine forest in the Colorado
+Front Range. For. Ecol. Manage. 219, 43–55.
+S.M. Owen et al.
+Forest Ecology and Management 405 (2017) 134–149
+147
+
+Castro, J., Allen, C.D., Molina-Morales, M., Marañón-Jiménez, S., Sánchez-Miranda, A.,
+Zamora, R., 2011. Salvage logging versus the use of burnt wood as a nurse object to
+promote post-ﬁre tree seedling establishment. Restor. Ecol. 19, 537–544.
+Chambers, M.E., Fornwalt, P.J., Malone, S.L., Battaglia, M.A., 2016. Patterns of conifer
+regeneration following high severity wildﬁre in ponderosa pine – dominated forests
+of the Colorado Front Range. For. Ecol. Manage. 378, 57–67.
+Comeau, P.G., Braumandi, T.F., Xie, C.-Y., 1993. Eﬀects of overtoppiong vegetation of
+light availability and growth of Engelmann spruce (Picea engelmannii) seedlings. Can.
+J. For. Res. 23, 2044–2048.
+Coop, J.D., Parks, S.A., McClernan, S.R., Holsinger, L.M., 2016. Inﬂuences of prior
+wildﬁres on vegetation response to subsequent ﬁre in a reburned Southwestern
+landscape. Ecol. Appl. 26, 346–354.
+Coppoletta, M., Merriam, K.E., Collins, B.M., 2016. Post-ﬁre vegetation and fuel devel-
+opment inﬂuences ﬁre severity patterns in reburns. Ecol. Appl. 26, 686–699.
+Covington, W.W., Moore, M.M., 1994. Southwestern ponderosa pine forest structure:
+changes since Euro-American settlement. J. For. 92, 39–47.
+DeWald, L.E., Mahalovich, M.F., Tech Coords., 2008. Historical and contemporary lessons
+from ponderosa pine genetic studies at the Fort Valley Experimental Forest, Arizona.
+In: Olberding, S.D., Moore, M.M. (Eds.), Fort Valley Experimental Forest – A Century
+of Research 1908–2008. Proc. RMRS-P-55. USDA For. Serv. Rocky Mtn. Res. Station,
+Fort Collins, CO.
+Dillon, G.K., Holden, Z.A., Morgan, P., Crimmins, M.A., Heyerdahl, E.K., Luce, C.H., 2011.
+Both topography and climate aﬀected forest and woodland burn severity in two re-
+gions of the western US, 1984 to 2006. Ecosphere 2, 130. http://dx.doi.org/10.1890/
+ES11-00271.1.
+Dixon, P.M., 2002. Ripley’s K function. Encyclopedia of. Environmetrics 3, 1796–1803.
+Donato, D.C., Campbell, J.L., Franklin, J.F., 2012. Multiple successional pathways and
+precocity in forest development: can some forests be born complex? J. Veg. Sci. 23,
+576–584.
+ESRI, 2012. ArcGIS Desktop: Release 10. Environmental Systems Research Institute,
+Redlands, CA.
+Fajardo, A., Goodburn, J.M., Graham, J., 2006. Spatial patterns of regeneration in
+managed uneven-aged ponderosa pine/Douglas-ﬁr forests of Western Montana. USA.
+For. Ecol. Manage. 223, 255–266.
+Fajardo, A., McIntire, E.J.B., 2011. Under strong niche overlap conspeciﬁcs do not
+compete but help each other to survive: facilitation at the intraspeciﬁc level. J. Ecol.
+99, 642–650.
+Flatley, W.T., Fulé, P.Z., 2016. Are historical ﬁre regimes compatible with future climate?
+Implications for forest restoration. Ecosphere 7, 1–10.
+Fornwalt, P.J., Kaufmann, M.R., 2014. Understorey plant community dynamics following
+a large, mixed severity wildﬁre in a Pinus ponderosa-Pseudotsuga menziesii forest,
+Colorado, USA. J. Veg. Sci. 25, 805–818.
+Fulé, P.Z., Covington, W.W., 1998. Spatial patterns of Mexican Pine-Oak forests under
+diﬀerent recent ﬁre regimes. Plant Ecol. 134, 197–209.
+Fulé, P.Z., Covington, W.W., Moore, M.M., 1997. Determining reference conditions for
+ecosystem management of southwestern ponderosa pine forests. Ecol. Appl. 7,
+895–908.
+Fulé, P.Z., Crouse, J.E., Roccaforte, J.P., Kalies, E.L., 2012. Do thinning and/or burning
+treatments in western USA ponderosa or Jeﬀrey pine-dominated forests help restore
+natural ﬁre behavior? For. Ecol. Manage. 269, 68–81.
+Fulé, P.Z., Korb, J.E., Wu, R., 2009. Changes in forest structure of a mixed-conifer forest,
+southwestern Colorado, USA. For. Ecol. Manage. 258, 1200–1210.
+Goreaud, F., Pélissier, R., 2003. Avoiding misinterpretation of biotic interactions with the
+intertype K12-function: population independence vs. random labelling hypotheses. J.
+Veg. Sci. 14, 681–692.
+Haire, S.L., McGarigal, K., 2010. Eﬀects of landscape patterns of ﬁre severity on re-
+generating ponderosa pine forests (Pinus ponderosa) in New Mexico and Arizona,
+USA. Landsc. Ecol. 25, 1055–1069.
+Harrington, M.G., 1989. Gambel oak root carbohydrate response to spring, summer, and
+fall prescribed burning. J. Range Manage. 42, 504–507.
+He, T.H., Pausas, J.G., Belcher, C.M., Schwilk, D.W., Lamont, B.B., 2012. Fire-adapted
+traits of Pinus arose in the ﬁery Cretaceous. New Phytol. 194, 751–759.
+Higgins, S.I., Flores, O., Schurr, F.M., 2008. Costs of persistence and the spread of com-
+peting seeders and sprouters. J. Ecol. 96, 679–686.
+Huﬀman, D.W., Crouse, J.E., Chancellor, W.W., Fulé, P.Z., 2012. Inﬂuence of time since
+ﬁre on pinyon–juniper woodland structure. For. Ecol. Manage. 274, 29–37.
+Huﬀman, D.W., Sánchez Meador, A.J., Stoddard, M.T., Crouse, J.E., Roccaforte, J.P.,
+2017. Eﬃcacy of resource objective wildﬁres for restoration of ponderosa pine (Pinus
+ponderosa) forests in northern Arizona. For. Ecol. Manage. 4, 395–403.
+Iniguez, J.M., Swetnam, T.W., Baisan, C.H., 2009. Spatially and temporally variable ﬁre
+regime on Rincon Peak, Arizona, USA. Fire Ecol. 5, 3–21.
+Iniguez, J.M., Swetnam, T.W., Baisan, C.H., 2016. Fire history and moisture inﬂuences on
+historical forest age structure in the sky islands of southern Arizona, USA. J.
+Biogeogr. 43, 85–95.
+Jenness, J. 2006. Topographic Position Index (tpi_jen.avx) extension for ArcView 3.x, v.
+1.2.
+Jolly, W.M., Cochrane, M.A., Freeborn, P.H., Holden, A.A., Brown, T., Williamson, G.J.,
+Bowman, D.M.J.S., 2015. Climate-induced variations in global wildﬁre danger from
+1979–2013. Nat. Commun. 6, 7537. http://dx.doi.org/10.1038/ncomms8537.
+Keeley, J.E., Pausas, J.G., Rundel, P.W., Bond, W.J., Bradstock, R., 2011. Fire as an
+evolutionary pressure shaping plant traits. Trends Plant Sci. 16, 406–411.
+Kemp, K.B., Higuera, P.E., Morgan, P., 2016. Fire legacies impact conifer regeneration
+across environmental gradients in the U.S. northern Rockies. Landsc. Ecol. 31,
+619–636.
+Larson, A.J., Churchill, D., 2012. Tree spatial patterns in ﬁre-frequent forests of western
+North America, including mechanisms of pattern formation and implications for
+designing fuel reduction and restoration treatments. For. Ecol. Manage. 267, 74–92.
+Larson, M.M., Schubert, G.H., 1970. Cone crops of ponderosa pine in central Arizona
+including the inﬂuence of Albert squirrels. In: Res. Pap. RM-58. USDA For. Serv.
+Rocky Mtn. For. Range Exp. Station. Fort Collins, CO.
+Lentile, L.B., Smith, F.W., Shepperd, W.D., 2005. Patch structure, ﬁre scar formation and
+tree regeneration in a large mixed severity ﬁre in the South Dakota Black Hills. Can.
+J. For. Res. 35, 2875–2885.
+Lesser, M.R., Jackson, S.T., 2013. Contributions of long-distance dispersal to population
+growth in colonizing Pinus ponderosa populations. Ecol. Lett. 16, 380–389.
+Li, X., Wilson, S.D., 1998. Facilitation among woody plants establishing in an old ﬁeld.
+Ecology 79, 2694–2705.
+Lotwick, H.W., Silverman, B.W., 1982. Methods for analysing spatial processes of several
+types of points. J. R. Stat. Soc. Ser. B (Methodol.) 44, 406–413.
+Luo, Z.R., Yu, M.J., Chen, D.L., Wu, Y.G., Ding, B.Y., 2012. Spatial associations of tree
+species in a subtropical evergreen broad-leaved forest. J. Plant Ecol. 5, 346–355.
+Martín-Alcón, S., Coll, L., 2016. Unraveling the relative importance of factors driving
+post-ﬁre regeneration trajectories in non-serotinous Pinus nigra forests. For. Ecol.
+Manage. 361, 13–22.
+Mast, J.N., Wolf, J.J., 2004. Ecotonal changes and altered tree spatial patterns in lower
+mixed-conifer forests, Grand Canyon National Park, Arizona, USA. Landsc. Ecol. 19,
+167–180.
+McCune, B., 1988. Ecological diversity in North American pines. Am. J. Bot. 75, 353–368.
+McDonald, P., 1990. California Black Oak. In: Burns, R.M., Honkala, B.H., (Eds.), Tech.
+Coords. Silvics of North America: Hardwoods, vol. 2. USDA Ag. Hand. 654. USDA,
+Washington, DC, US, pp. 661–671.
+McDowell, N.G., Williams, A.P., Xu, C., Pockman, W.T., Dickman, L.T., Sevanto, S.,
+Pangle, R., Limousin, J., Plaut, J., Mackay, D.S., Ogee, J., Domec, J.C., Allen, C.D.,
+Fisher, R.A., Jiang, X., Muss, J.D., Breshears, D.D., Rauscher, S.A., Keven, C., 2016.
+Multi-scale predictions of massive conifer mortality due to chronic temperature rise.
+Nat. Clim. Change 6, 295–300. http://dx.doi.org/10.1038/nclimate2873.
+Moore, M.M., Huﬀman, D.W., Fulé, P.Z., Covington, W.W., Crouse, J.E., 2004.
+Comparison of historical and contemporary forest structure and composition on
+permanent plots in southwestern ponderosa pine forests. For. Sci. 50, 162–176.
+MTBS [Monitoring Trends in Burn Severity], 2014. Monitoring Trends in Burn Severity
+(MTBS). US Department of Agriculture, Geological Survey and US Department of
+Agriculture, Forest Service < http://www.mtbs.gov > (accessed 01.02.14).
+Nara, K., 2006. Ectomycorrhizal networks and seedling establishment during early pri-
+mary succession. New Phytol. 169, 169–178.
+Nelson, A.S., Bragg, D.C., 2016. Multidecadal response of naturally regenerated southern
+pine to early competition control and commercial thinning. For. Sci. 62, 115–124.
+Oliver, W.W., Ryker, R.A., 1990. Pinus ponderosa. In: Burns, R.M., Honkala, B.H., (Eds.),
+Silvics of North America: 1. Conifers, vol 1. USDA Ag. Handb. 654. USDA,
+Washington, DC.
+Ouzts, J., Kolb, T., Huﬀman, D., Sánchez Meador, A.J., 2015. Post-ﬁre ponderosa pine
+regeneration with and without planting in Arizona and New Mexico. For. Ecol.
+Manage. 354, 281–290.
+Ozawa, H.A., Watanabe, A., Uchiyama, K., Saito, Y., Ide, Y., 2013. Inﬂuence of long-
+distance seed dispersal on the genetic diversity of seed rain in fragmented Pinus
+densiﬂora populations relative to pollen-mediated gene ﬂow. J. Heredity 104,
+465–475.
+Pearson, G.A., 1950. Management of Ponderosa Pine the Southwest. Ag. Monogr. No. 6.
+USDA For. Serv, Washington, DC.
+Pesendorfer, M.B., Sillett, T.S., Koenig, W.D., Morrison, S.A., 2016. Scatter-hoarding
+corvids as seed dispersers for oaks and pines: a review on a widely distributed mu-
+tualism and its utility to habitat restoration. The Condor 118, 215–237.
+Poling, M.E., 2016. Trends in Burn Severity in New Mexico and Arizona Forests and
+Woodlands from 1984–2013. M.S. Thesis. Northern Arizona University, Flagstaﬀ, AZ.
+Puhlick, J.J., Laughlin, D.C., Moore, M.M., 2012. Factors inﬂuencing ponderosa pine
+regeneration in the southwestern USA. For. Ecol. Manage. 264, 10–19.
+Puhlick, J.J., Moore, M.M., Weiskittel, A.R., 2013. Factors inﬂuencing height-age re-
+lationships and recruitment of ponderosa pine regeneration in northern Arizona.
+West. J. Appl. For. 28, 91–96.
+R Core Team, 2016. R: A Language and Environment for Statistical Computing. R
+Foundation for Statistical Computing, Vienna, Austria URL < https://www.R-pro-
+ject.org/ > .
+Reilly, M.J., Dunn, C.J., Meigs, G.W., Spies, T.A., Kennedy, R.E., Bailey, J.D., Briggs, K.,
+2017. Contemporary patterns of ﬁre extent and severity in forests of the Paciﬁc
+Northwest, USA (1985–2010). Ecosphere 8, 1–28.
+Reynolds, R.T., Sánchez Meador, A.J., Youtz, J.A., Nicolet, T., Matoni, M.S., Jackson, P.L.,
+DeLorenzo, D.G., Graves, A.D., 2013. Restoring Composition and Structure in
+Southwestern Frequent-ﬁre Forests: A Science-based Framework for Improving
+Ecosystem Resiliency. Gen. Tech. Rep. RMRS-GTR-310, USDA For. Serv. Rocky Mtn.
+Res. Station, Fort Collins, CO.
+Ripley, B.D., 1976. The second-order analysis of stationary point processes. J. Appl.
+Probab. 13, 255–266.
+Ripley, B.D., 1977. Modelling spatial patterns. J. R. Stat. Soc. Ser. B 39, 172–192.
+Ripley, B.D., 1979. Tests of ‘randomness’ for spatial point patterns. J. R. Stat. Soc. Ser. B
+41, 368–374.
+Roccaforte, J.P., Fulé, P.Z., Chancellor, W.W., Laughlin, D.C., 2012. Woody debris and
+tree regeneration dynamics following severe wildﬁres in Arizona ponderosa pine
+forests. Can. J. For. Res. 42, 593–604.
+Rodman, K.C., Sánchez Meador, A.J., Huﬀman, D.W., Waring, K.M., 2016. Reference
+conditions and historical ﬁne-scale spatial dynamics in a dry mixed-conifer forest,
+Arizona, USA. For. Sci. 62, 268–280.
+Rodman, K.C., Sánchez Meador, A.J., Moore, M.M., Huﬀman, D.W., 2017. Inﬂuence of
+forest type and abiotic factors on variability in reference conditions across Pinus
+S.M. Owen et al.
+Forest Ecology and Management 405 (2017) 134–149
+148
+
+ponderosa-dominated forests in the Southwestern United States. For. Ecol. Manage.
+http://dx.doi.org/10.1016/j.foreco.2017.09.012. in press.
+Rother, M.T., Veblen, T.T., 2016. Limited conifer regeneration following wildﬁres in dry
+ponderosa pine forests of the Colorado Front Range. Ecosphere 7, 12. http://dx.doi.
+org/10.1002/ecs2.1594.
+Sánchez Meador, A.J., Moore, M.M., Bakker, J.D., Parysow, P.F., 2009. 108 years of
+change in spatial pattern following selective harvest of a ponderosa pine stand in
+northern Arizona, USA. J. Veg. Sci. 20, 79–90.
+Sánchez Meador, A.J., Moore, M.M., 2010. Lessons from long-term studies of harvest
+methods in southwestern ponderosa pine-Gambel oak forests on the Fort Valley
+Experimental Forest, Arizona, U.S.A. For. Ecol. Manage. 260, 193–206.
+Sánchez Meador, A.J., Parysow, P.F., Moore, M.M., 2011. A new method for delineating
+tree patches and assessing spatial reference conditions of ponderosa pine forest in
+northern Arizona. Restor. Ecol. 19, 490–499.
+SAS PROC GLIMMIX, 2017. SAS 9.4, Help and Documentation. SAS Institute Inc,
+Cary, NC.
+Savage, M., Mast, J.N., 2005. How resilient are south-western ponderosa pine forests after
+crownﬁre? Can. J. For. Res. 35, 967–977.
+Savage, M., Mast, J.N., Feddema, J.J., 2013. Double whammy: high-severity ﬁre and
+drought in ponderosa pine forests of the Southwest. Can. J. For. Res. 43, 570–583.
+Schoennagel, T., Balch, J.K., Brenkert-Smith, H., Dennison, P.E., Harvey, B.J., Krawchuk,
+M.A., Mietkiewicz, N., Morgan, P., Moritz, M.A., Rasker, R., Turner, M.G., Whitlock,
+C., 2017. Adapt to more wildﬁre in western North American forests as climate
+changes. Proc. Natl. Acad. Sci. 114, 4582–4590.
+Schwinning, S., Kelly, C.K., 2013. Plant competition, temporal niches and implications for
+productivity and adaptability to climate change in water-limited environments.
+Funct. Ecol. 27, 886–897.
+Shive, K.L., Sieg, C.H., Fulé, P.Z., 2013. Pre-wildﬁre management treatments interact with
+ﬁre severity to have lasting eﬀects on post-wildﬁre vegetation response. For. Ecol.
+Manage. 297, 75–83.
+Smith, A.L., Blanchard, W., Blair, D.P., McBurney, L., Banks, S.C., Driscoll, D.A.,
+Lindenmayer, D.B., 2016. The dynamic regeneration niche of a forest following a rare
+disturbance event. Divers. Distrib. 22, 457–467.
+Soil Survey Staﬀ, NRCS, Natural Resources Conservation Service, United States
+Department of Agriculture. Web Soil Survey: < http://websoilsurvey.nrcs.usda.
+gov > (accessed [10.05.16]).
+Stephens, S., Agee, J., Fulé, P.Z., et al., 2013. Managing forests and ﬁre in changing
+climates. Science 342, 41–42.
+Stephens, S.L., Collins, B.M., Biber, E., Fulé, P.Z., 2016. U.S. federal ﬁre and forest policy:
+emphasizing resilience in dry forests. Ecosphere 7(11), e01584. 10.1002/ecs2.1584.
+Stephens, S.L., Fry, D.L., 2005. Spatial distribution of regeneration patches in an old-
+growth Pinus jeﬀreyi-mixed conifer forest in northwestern Mexico. J. Veg. Sci. 16,
+693–702.
+Stevens-Rumann, C.S., Sieg, C.H., Hunter, M.E., 2012. Ten years after wildﬁres: how does
+varying tree mortality impact ﬁre hazard and forest resiliency? For. Ecol. Manage.
+267, 199–208.
+Strom, B.A., Fulé, P.Z., 2007. Pre-wildﬁre fuel treatments aﬀect long-term ponderosa pine
+forest dynamics. Int. J. Wildl. Fire 16, 128–138.
+Teste, F.P., Simard, S.W., Durall, D.M., Guy, R.D., Jones, M.D., Schoonmaker, A.L., 2009.
+Access to mycorrhizal networks and roots of trees: Importance for seedling survival
+and resource transfer. Ecology 90, 2808–2822.
+Thompson, J.R., Spies, T.A., Ganio, L.M., 2007. Reburn severity in managed and un-
+managed vegetation in a large wildﬁre. Proc. Natl. Acad. Sci. 104, 10743–10748.
+Underwood, A.J., 1994. On beyond BACI: sampling designs that might reliably detect
+environmental disturbances. Ecol. Appl. 4, 3–15.
+Upton, G., Fingleton, B., 1985. Spatial Data Analysis by Example: Point Pattern and
+Quantitative Data. Wiley and Sons, NY, US.
+Vander Wall, S.B., 2003. Eﬀects of seed size of wind-dispersed pines (Pinus) on secondary
+seed dispersal and the caching behavior of rodents. Oikos 100, 25–34.
+Vankat, J.L., 2013. Vegetation Dynamics on the Mountains and Plateaus of the American
+Southwest. Springer, NY, pp. 387.
+Waring, K.M., Goodrich, B.A., 2012. Artiﬁcial regeneration of ﬁve-needle pines of western
+North America: a survey of current practices and future needs. Tree Plant. Notes 55,
+55–71.
+S.M. Owen et al.
+Forest Ecology and Management 405 (2017) 134–149
+149

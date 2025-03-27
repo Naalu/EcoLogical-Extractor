@@ -1,0 +1,757 @@
+Article
+Amount and Location of Damage to Residual Trees
+from Cut-to-Length Thinning Operations in a Young
+Redwood Forest in Northern California
+Kyungrok Hwang 1,*, Han-Sup Han 2, Susan E. Marshall 1 and Deborah S. Page-Dumroese 3 ID
+1
+Department of Forestry and Wildland Resources, Humboldt State University, Arcata, CA 95521, USA;
+susan.marshall@humboldt.edu
+2
+Ecological Restoration Institute, Northern Arizona University, Flagstaff, AZ 86011, USA;
+Han-Sup.Han@nau.edu
+3
+USDA Forest Service Rocky Mountain Research Station, Moscow, ID 83843, USA; ddumroese@fs.fed.us
+*
+Correspondence: kh2322@humboldt.edu; Tel.: +82-10-4101-6301
+Received: 10 April 2018; Accepted: 8 June 2018; Published: 13 June 2018
+
+
+Abstract: A cut-to-length (CTL) harvest system using a harvester and forwarder has been recently
+introduced in northern California (USA) for thinning young (<25 years old) redwood forests
+(Sequoia sempervirens (Lamb. ex D. Don) Endl.). However, the severity of CTL damage to residual
+trees in this forest type are unknown. The goals of this study were to (1) determine the location, size,
+and number of scars resulting from CTL harvesting and (2) compare scar size differences between
+redwood clumps and individual trees in two units. Most scars occurred on trees located near the
+forwarding trails. Wider and longer scars were associated with clumped trees (9.1–12.2 cm wide
+and 28.1–46.2 cm long) as compared to scars on individual trees (8.1–9.5 cm wide and 16.7–31.3 cm
+long), and 16–32% of the residual trees were scarred. Determining a minimum scar size will deﬁne
+the severity of stand damage; larger scars result in a longer time until closure. However, counting all
+the smaller scars that result from CTL harvesting will result in a large number of counted damaged
+trees. Therefore, we suggest that scars smaller than 5–10 cm width are acceptable on coastal redwood
+after CTL thinning.
+Keywords: mechanized harvest system; harvester; forwarder; redwood stand damage; thinning
+1. Introduction
+Redwood (Sequoia sempervirens (Lamb. ex D. Don) Endl.) is a coniferous species which grows from
+central California to southwest Oregon. Its range extends inland from the Paciﬁc coast 80 km. Thinning
+in redwood stands provides wood for beautiful products and a source of revenue for landowners [1].
+Redwood is one of the most productive timber species in North America because it is closely associated
+with the presence of marine fog, grows on productive soils, has a long growing season, and has a rapid
+growth rate [2]. In addition, stand thinning is one method to control stand density to promote tree
+productivity. Thinning in redwood stands increases tree diameter and height growth because of less
+competition from surrounding vegetation [3]. Thinning activities can reduce a ﬁre hazard, increase
+residual stand growth [4], change wildlife habitat, increase forest health [5], and yield intermediate
+revenues [6]. One distinctive characteristic of redwood trees is that a proportion of trees occur as
+a clump, resulting in a cluster of trees [4]. This clumpy growth form may make it difﬁcult to use
+mechanical harvesting equipment to thin stands without producing a large amount of damage to the
+tree cambium.
+In many areas, mechanized harvesting used for forest thinning operations have increased in
+popularity because they are effective tools to manage overstocked stands and restore ecosystem
+Forests 2018, 9, 352; doi:10.3390/f9060352
+www.mdpi.com/journal/forests
+
+Forests 2018, 9, 352
+2 of 12
+services. However, the range of stem sizes, particularly large diameter trees, makes thinning in
+redwood stands difﬁcult with mechanized systems. Thus, in the past, logging operators previously
+harvested redwoods using labor-intensive manual felling. Over time, coastal redwood forest stand
+structure has shifted in composition from a majority of the stand consisting of old growth trees to
+overstocked stands of young trees (<25 years old). This shift in stand structure makes the trees more
+accessible to harvesting using newer mechanized methods.
+One mechanized method for harvesting is the cut-to-length (CTL) system, which is comprised
+of a harvester and forwarder. This equipment is optimal for cutting small to medium-sized trees
+(from 10 to 41 cm diameter at breast height (DBH)), but may have a high initial costs during forest
+operations [7,8]. Harvesters fell and process trees in the stand, and place the branches and foliage
+on the soil surface. The trees are then left on the trail for the forwarder to pick up and move to a
+landing. One concern with using CTL systems has been the potential impact to the residual stand.
+In particular, CTL harvesting can cause a signiﬁcant amount of damage to the residual trees, which
+may subsequently impact tree growth and future timber values [9]. In western Oregon, 47years-old
+Douglas-ﬁr (Pseudotsuga menziesii (Mirb.) Franco) and western hemlock (Tsuga heterophylla (Raf.) Sarg.)
+scar damage from CTL operations did not affect tree growth directly [8] but provided a pathway
+for fungi to cause wood defects, such as pitch rings, resulting in a loss of tree volume [10]. Similar
+damage was noted in the Romanian Carpathians [11], the northeastern USA [12], and in the Amazon
+region [13]. Furthermore, although Kiser [14] reported the growth responses of coastal Douglas-ﬁr
+from mechanical damage was not signiﬁcant between damaged and undamaged trees, there was a
+reduction in crown length after scarring. These studies indicate that stand damage from cut-to-length
+harvest operations can be a signiﬁcant cause of tree growth decline or increased disease resulting in
+lower quality wood.
+Han and Kellogg [15] deﬁne scar resulting from mechanical harvest operations as the removal
+of wood ﬁber from the tree stem. Each scar location (height from ground level) and size (width,
+height, and depth) is recorded. Scar size is an important characteristic that deﬁnes the amount, extent,
+and impact of CTL harvest operations. However, it is difﬁcult for landowners to agree on an absolute
+deﬁnition of acceptable size scar so that tree growth is not impeded [10]. For example, the minimum
+acceptable scar size can vary from 6.5 cm2 to 464 cm2, and the severity of the tree damage usually
+depends on the scar location (e.g., roots, stem, or crown) [10,16]. Han [10] reported that helicopter
+logging resulted in damage high on the bole (5.4 m), followed by damage lower on the bole when
+using skyline harvest systems (2.0 m). Harvesting with CTL systems usually results in tree damage
+at approximately 1.6 m high on the bole while tractor logging tree scars were most often located
+approximately 0.9 m above the soil surface. In the Carpathian Mountain, CTL harvesting produced
+stand damage at a height of less than 1 m on 65% of the trees [11].
+The severity of scar damage depends on several factors, such as harvest system [10,17], operator
+proﬁciency [18], harvest season [19,20], and tree species [8].
+In a loblolly pine (Pinus taeda L.)
+stand using whole-tree (WT) and CTL harvest systems, Lanford and Stokes [17] reported that WT
+harvesting had 40% more scars that were 10 times larger than CTL harvest systems. Furthermore,
+Limbeck-Lilienau [20] noted that, in mountainous terrain, 43% of the residual trees were damaged
+during WT harvesting, while only 20% of the trees were damaged in the CTL units. Residual stand
+damage frequently occurs during timber transport (i.e., skidding and forwarding) [10,17,21]. Froese
+and Han [22] found that when using a CTL system, damaged trees were often located near forwarding
+trails and were not distributed randomly throughout the stand. In addition, the timing of harvest
+operations can help minimize stand damage. For example, winter operations in Austria caused less
+damage than summer logging [20] while Cline et al. [19] reported the greatest number of damaged
+trees occurred between summer and fall.
+We could ﬁnd no published studies that evaluate CTL harvesting in redwood forests and the
+subsequent evaluation of tree damage. However, since this harvest system is now being proposed for
+many redwood stands in northern California, it is critical to understand the number of trees damaged,
+
+Forests 2018, 9, 352
+3 of 12
+the level of damage (scar size), and the location of damage on the tree. Therefore, the objectives of this
+study were to determine (1) scar characteristics and their distribution on the bole, (2) scar size on both
+tree clump and individual trees, and (3) best management practices to reduce stand damage.
+2. Materials and Methods
+Data for this study were collected from two units in the Crannell tract, a Green Diamond Resource
+Company forest in northern California, USA. One unit is located on road CR 1200 (41◦01′27” N,
+124◦05′50” W), and the other on CR 1003 (41◦01′27” N, 124◦05′03” W), (Figure 1). Unit CR 1200 was
+harvested in January through April, and CR 1003 was harvested in June through August in 2017.
+Before thinning, CR 1200 was 10.1 ha, including 1.2 ha within a watercourse and lake protection zone
+(WLPZ) at an elevation of 126 m with a ﬂat slope (approximately 0%). Stand characteristics and species
+distribution for both units are shown in Table 1. There were 2390 trees per hectare (TPH), with redwood
+being the dominant species, followed by red alder (Alnus rubra Bong.), Douglas-ﬁr, and Sitka spruce
+(Picea sitchensis (Bong.) Carr.). CR 1003 was 12.1 ha in size at an elevation of 188 m, and a ground
+slope ranging from 0% to 27%. This area had an average DBH of 21 cm and average tree height of
+19 m, and was dominated by redwood, red alder, Sitka spruce, and Douglas-ﬁr. It is worth noting
+that both CR 1200 and 1003 had some trees with bear damage (gouging of the bark) before thinning
+operations began.
+ 
+Figure 1. Map of the study sites and forwarding trails used by cut-to-length (CTL) systems.
+Table 1. Stand composition characteristics including average diameter at breast height (DBH), height,
+trees per hectare (TPH), basal area (BA), and species distribution (percent of stand) before thinning.
+Units
+DBH (cm)
+Height (m)
+TPH a
+BA (m2/ha)
+RW (%)
+DF (%)
+RA (%)
+SS (%)
+CR 1200
+20
+19
+2390
+99
+77
+5
+17
+1
+CR 1003
+21
+19
+1970
+92
+61
+10
+17
+13
+Note: a Only includes trees 5 cm or greater in diameter at breast height (DBH), RW: redwood, DF: Douglas-ﬁr,
+RA: red alder, SS: Sitka spruce.
+Commercial CTL thinning operations were performed in each unit to provide a range of soil
+moisture conditions, equipment types, and operator skill. A Ponsse Bear harvester with a H8 head
+was used to fell, delimb, and buck trees in CR 1200, and another harvester (Ponsse Ergo), with a H7
+head, was used in CR 1003. The operator harvesting CR 1200 had more than 20 years of experience
+
+Forests 2018, 9, 352
+4 of 12
+whereas the operator in CR 1003 had ﬁve years of experience. Forwarding operations were performed
+by a Ponsse Buffalo. For each unit, the thinning objectives were similar: (1) cut the dead trees
+(2) increase spacing for trees (3) reduce forest ﬁre fuel continuity. Other restrictions on cutting were
+that, trees greater than 60 cm at DBH were not to be harvested, 60% canopy closure was maintained,
+and the healthiest and vigorous dominant and co-dominant trees were retained to result in a basal
+area (BA) of 23 m2 per hectare.
+We deﬁned tree damage as the removal of the bark and cambial layer, exposing sapwood [10].
+We used a systematic sampling method determining damage. This method gives similar results as total
+tree sampling, and provides an equal probability of selecting a damaged tree [10]. We systematically
+installed a ﬁxed circular plot (0.04 ha in size) perpendicular to the forwarder trails every 106 m.
+All trees within the plot circle were measured. We had a total of 21 plots in CR 1200 and 30 plots in
+CR 1003. Individual trees or clumps occurring at the circular plot were used to count tree damage.
+Only scars on the tree stem (not branches) were assessed. Number of scars per tree, number of trees
+damaged per hectare, height of scar from ground level, distance from the scar to the forwarding trail
+centerline, and scar size (width and length) were recorded. Furthermore, we distinguished if the scar
+was on individual or clumped tree. However, we did not measure trees (or scars) that had existing bear
+damage to prevent confounding our data. All trees with scars within a 0.04 ha plot were measured
+regardless of scar size. Trees less than 5 cm DBH were excluded from scar measurements.
+The R Package (R Development Core Team 2008) was used for the data analysis. Each unit was
+analyzed separately and residual stand damage was the independent variable. We tested for normality
+using the Shapiro-Wilk test. The ANOVA test was performed to identify the interaction of scar width
+between tree species and DBH, and units and species, respectively. The Mann–Whitney U test was
+used to determine scar size differences among tree clumps and individuals.
+3. Results
+3.1. Stand Characteristics after Thinning
+Post-thinning stand characteristics for both units are summarized in Table 2. After thinning, 67%
+of trees were harvested in CR 1200, leaving 768 TPH, and a BA was reduced to 40 m2/ha. In this unit,
+the average DBH signiﬁcantly increased after thinning, but height was similar. In CR 1003, 74% of trees
+were thinned, and the residual stand had an average of 28 cm DBH and 19 m of height. There were no
+signiﬁcant changes in tree species distribution in both units.
+Table 2. Post-thinning stand characteristics of DBH, height, trees per hectare (TPH), basal area (BA),
+and species distribution (percent of stand).
+Units
+DBH (cm)
+Height (m)
+TPH a
+BA (m2/ha)
+RW (%)
+DF (%)
+RA (%)
+SS (%)
+CR 1200
+23
+19
+768
+40
+79
+4
+15
+2
+CR 1003
+28
+19
+509
+40
+73
+9
+11
+7
+Note: a Only includes trees 5 cm or greater in diameter at breast height (DBH), RW: redwood, DF: Douglas-ﬁr,
+RA: red alder, SS: Sitka spruce.
+3.2. Description of Residual Scar Damage
+In unit CR 1200, winter harvesting resulted in 16.2% of residual trees having scar damage from
+the CTL equipment and operators. These trees had an average DBH of 24.8 cm with an average of
+1.7 scars per tree (Table 3). Red alder trees had the greatest number of scars (approximately three
+scars per tree), redwood had more than one scar regardless of growing type (clump or individual
+tree), and Douglas-ﬁr and Sitka spruce had minor scarring (Table 4). On all the trees in unit CR 1200,
+the average scar was 9.0 cm wider, and 27.3 cm long with scars occurring 4.8 m from the centerline of
+the forwarding trails at a height of 1.3 m above ground level (Table 5). Over 60% of the scars had a
+
+Forests 2018, 9, 352
+5 of 12
+width less than 10 cm and length less than 40 cm (Figure 2). The majority of scars were located within
+2 m of the forwarding trail, and less than 1 m above ground level.
+Table 3. Summary of residual tree scars resulting from CTL operations in each unit.
+Units
+Percent of
+Damaged Tree a (%)
+# of Damaged Trees b
+# of Damaged
+Trees per ha
+# of Scars
+per Tree
+Total
+RW
+DF
+RA
+SS
+CR 1200
+16.2
+96
+81
+5
+10
+0
+108
+1.7
+CR 1003
+32.2
+150
+99
+24
+19
+8
+139
+1.7
+Note: a Calculated based on all scar sizes. Value represents the ratio from total number of trees we sampled.
+b RW: redwood, DF: Douglas-ﬁr, RA: red alder, SS: Sitka spruce.
+Table 4. Number and percent of scars per tree for each tree species a.
+Units
+Number of Scars per Trees
+Percentage of Damaged Trees b (%)
+RW
+DF
+RA
+SS
+RW
+DF
+RA
+SS
+CR 1200
+1.5
+0.4
+2.9
+0.0
+20
+21
+15
+0
+CR 1003
+1.5
+2.0
+1.7
+2.4
+30
+36
+30
+46
+Note: a RW: redwood, DF: Douglas-ﬁr, RA: red alder, SS: Sitka spruce. b Ratio of damaged to the total sampled trees
+per species not only to the undamaged.
+Table 5. Summary of scar characteristics from CTL thing for each unit.
+Units
+Scar Width (cm)
+Scar Length (cm)
+Distance from Centerline (m)
+Height from Ground (m)
+CR 1200
+9.0
+27.3
+4.8
+1.3
+CR 1003
+10.4
+36.1
+4.5
+1.5
+Figure 2. Scar distribution percentage as related to (a) width and (b) length, (c) height from ground,
+and (d) distance from centerline of forwarding trail for each unit.
+In CR 1003, which was harvested during summer, 32.2% of residual trees had scar damage. Trees
+with scar damage averaged 30.7 cm DBH, and had 1.7 scars (Table 3). In this unit, Sitka spruce and
+Douglas-ﬁr had the greatest number of scars, with an average of more than two per tree. Redwood
+
+Forests 2018, 9, 352
+6 of 12
+and red alder had an average of 1.6 scars per tree (Table 4). Overall, scars on residual trees in this
+unit averaged 10.4 cm wide and 36.1 cm long (Table 5). In addition, scarred trees were located 4.5 m
+from the centerline of forwarding trails, with scars located 1.5 m above ground level. More than
+60% of the scars were wider than 10 cm and less than 40 cm long (Figure 2). The majority of scarred
+trees were located within 4 m of the forwarding trail, and 34% of scars were located less than 1 m of
+ground height.
+To determine if clumped or individual trees had more scarring from CTL harvesting, we compared
+scar size according to tree growing form. There was only a slight difference in scar width between
+clump and individual trees in CR 1200 (Table 6), but they were not statistically different (p = 0.1611).
+However, scar length in clumped trees in unit CR 1200 was almost twice as large as those on individual
+trees (p < 0.0001). In unit CR 1003, scars were 3 cm wider and 15 cm longer in clumped trees as
+compared to individual trees, and were statistically different for both width (p = 0.0054) and length
+(p < 0.0001).
+Table 6. Mean (± standard deviation) scar size (cm) of individual and clumped trees in each unit.
+Units
+Scar Width
+Scar Length
+Individual
+Clump
+p-Value
+Individual
+Clump
+p-Value
+CR 1200
+8.1 ± 5.0
+9.1 ± 5.1
+0.1611
+16.7 ± 12.1
+28.1 ± 22.2
+0.0001
+CR 1003
+9.5 ± 5.1
+12.2 ± 7.1
+0.0054
+31.3 ± 30.3
+46.2 ± 36.7
+<0.0001
+Our data also show that tree DBH was a signiﬁcant factor in determining the width of scarring
+damage (Table 7). Although our data is limited to two units, we tested scar width using a two-way
+ANOVA for species and units (Table 8). We found that scar width was signiﬁcantly greater in unit
+CR 1003 as compared to unit CR 1200. We found tree species was also important factor with Sitka
+spruce and red alder having greater scar widths in unit CR 1003. In unit CR 1200 there were scar width
+differences among all species (Figure 3).
+Table 7. Two-way ANOVA for combined data from units CR 1200 and CR 1003 showing degree of
+freedom, F statistics, and p-value for main effects (species and DBH), and their interaction with scar
+width (dependent variable).
+Source
+DF *
+F
+p-Value
+Species
+3
+1.452
+0.2270
+DBH
+1
+76.346
+<0.0001
+Species × DBH
+3
+0.579
+0.6290
+Note: * DF: degree of freedom.
+Table 8. Two-way ANOVA for combined data from units CR 1200 and CR 1003 showing degree of
+freedom, F statistics, and p-value for main effects (unit and species), and their interaction with scar
+width (dependent variable).
+Source
+DF *
+F
+p-Value
+Species
+3
+1.323
+0.2664
+Unit
+1
+8.359
+0.0040
+Unit × Species
+2
+12.693
+<0.0001
+Note: * DF: degree of freedom.
+
+Forests 2018, 9, 352
+7 of 12
+Figure 3. Scar width difference among species in CR 1200 and CR 1003 (RW: redwood, DF: Douglas-ﬁr,
+RA: red alder, and SS: Sitka spruce). Each name on horizontal axes is composed of unit and species.
+4. Discussion
+4.1. Factors Affecting Residual Tree Scar Damages
+Except for evaluating scar width between units and species, we analyzed each unit (CR 1200
+and CR 1003) separately because of several reasons: (1) CR 1200 was winter harvested and CR 1003
+was summer harvested; (2) each unit had unique stand structure and species composition; (3) tree
+DBH differed between units; (4) different equipment and operators were used in each unit; and (5) CR
+1200 was ﬂat, and CR 1003 had a slope ranging from 0–27%. All of these factors can lead to different
+conclusions if the stands were combined for all analyses. For example, Limbeck-Lilienau [20] noted
+that there was more severe scar damage to residual trees (20–21%) on steep slope units as compared to
+only 3–6% of residual trees on ﬂat ground.
+Numerous studies have pointed out that one key to increasing the number of trees harvested
+during a day is the size of the tree [23–25], and this may be dependent on the type of equipment
+used [26]. In addition to tree size, operator skill may be the most important factor governing the
+number, size, and distribution of scars on residual trees. As noted previously, the operator for unit
+CR 1200 had over 20 years of working experiences, and had been practicing for six months before
+harvesting the unit. In contrast, the operator harvesting unit CR 1003 had worked for only ﬁve years,
+and only had one month of training on the CTL equipment. Thus, combined with differences in
+slope and harvest season, unit CR 1003 had a greater number and larger sized scars. Furthermore,
+the operator working in unit CR 1003 was not familiar with cutting tree clumps, which could also lead
+to the increased residual tree damage. Kelley [18] showed that different operators could result in a
+difference in scarring of 16% in Vermont. In addition, on Scandinavian forest sites, Sirén [27] found
+that different operators only caused a stand damage ranging from 1.4% to 6.6%.
+Although equipment operators and tree size may dictate much of the residual stand damage,
+harvest season is also a critical consideration [8,19,20]. Harvest operations that occur in the summer
+have been shown to cause increased scarring damage because the cambium and bark are loose
+and susceptible to removal when struck by equipment or another tree [28]. This is similar to work
+
+Forests 2018, 9, 352
+8 of 12
+conducted by Yilmaz and Akay [29], and Bobik [30], in which the greatest number of tree scars occurred
+during the summer.
+Our data clearly show that tree species is an important factor in how many and the size of
+scar damage on residual trees. Although the average number of scars per tree were similar for each
+unit (1.7 scars/tree), redwood, Douglas-ﬁr, and red alder sustained a substantial number of scars,
+while Sitka spruce had less damage. Previous studies suggest that the scarring varies in different
+tree species because of differences in bark type. Aho et al. [31] suggested that the trees that are
+thin-barked and non-resinous are more susceptible to damage from logging. In redwood trees,
+the sapwood is not decay-resistant, as it is in other members of the Cupressaceae family, but it has
+decay-resistant bark and heartwood making this tree species immune to insects and disease if the bark
+is not damaged [32]. These redwood characteristics may be important for preventing deep scars and
+diseases in redwoods, but there is little data on this species. Similarly, Froese and Han [22] showed
+that scar size was different between Douglas-ﬁr (65 cm2) and grand-ﬁr (Abies grandis (Douglas ex D.
+Don) Lindley) (425 cm2). Howard [33] reported that scars from cable yarding operations also varied
+among Douglas-ﬁr, western hemlock, and western red cedar (Thuja plicata Donn ex D.Don). Western
+red cedar was damaged nearly twice as much as Douglas-ﬁr, which suggests that Douglas-ﬁr has bark
+thick enough to minimize scarring. In our study, however, we could not test the seasonal and operator
+effects separately, since these two variables are confounded. Thus, we could not detect whether the
+scar width differences in each species were from operators, harvest season, or slope.
+The interval between felling and forwarding was very short in our study, therefore, we could
+not detect the number, distribution, or size of scars attributed to each machine. Instead, we observed
+how each machine generated scar damage during operations. When the harvester was working, scars
+on residual trees were a result of grappling large-sized trees, or when felled trees got hung-up on
+residual trees. Scars from the forwarding operation occurred when logs were moved from the deck
+(ground) to the bunk. Han and Kellogg [34] showed that a harvester caused more damage than a
+forwarder (63.8% vs. 28.6%), however, the forwarder caused larger scars on residual trees as compared
+to the harvester (178.7 cm2 vs. 143.9 cm2). They suggested that damage could be reduced by retaining
+optimal trail spacing for harvester, and making trails as straight as possible for the forwarder. Both
+machines generated scarring low to the ground as they moved along the trees near the forwarding
+trails, and this location of scarring damage may make trees more susceptible to fungal infestations [35].
+4.2. Scar Damage on between Clumps and Individual Trees
+We detected longer and wider scars in clumped trees as compared to individual trees in both
+harvest units. When cutting a clumped tree, the harvester operator spent a long time grappling a tree
+in the clump since there was limited space to handle the trees. This would often generate larger scars
+on the residual trees within the clumps. Likewise, when a harvester initially grabbed a clumped tree,
+the head was slightly higher up in a clump than on an individual tree because it was difﬁcult for the
+harvester head to catch the lower part of the tree. This caused the harvester head to travel downward
+on the tree, causing lengthwise scarring. Kelley [18] also found that trees in high-density stands were
+difﬁcult to cut without scarring the neighboring trees. Additionally, there were some residual trees
+that were cut by the harvester sawblade, resulting in indirect damage. These trees can be unstable and
+prone to windthrow, particularly when the soil is wet, resulting in additional damage to the residual
+standing trees. We did not count windfall or bear damage, but we found more scars from sawblades
+in CR 1200 as compared to CR 1003. The equipment operator working in unit CR 1003 adjusted the
+harvester head system so the sawblade cut only as much as the head grabbed. This likely prevented
+additional scarring on adjacent trees.
+4.3. Scar Distribution
+Our data supports the work of others who have examined residual tree scars associated with CTL
+logging operations [8,15,16,22]. We found a majority of the scars on the residual trees were located near
+
+Forests 2018, 9, 352
+9 of 12
+the ground (within 1 m) in both units. Froese and Han [22] reported that over 30% of the scars were
+located within 1 m of ground, suggesting that the majority of scars are associated with machine passes,
+timber processing, and handling. Bettinger and Kellogg [8] also found this same result, and suggested
+that trees with scars this low to the ground may be more vulnerable to wood-decaying fungi than
+those with scars higher on the stem [35]. Nevill [36] reported that roots and stems scarred near the
+ground were always infected with the decay fungi, Heterobasidion annosum. This fungus spreads by
+basidiospores or conidia in fresh wounds created by thinning operations [37]. In CR 1200, the trees
+growing in clumps were frequently cut lower on the bole to increase the volume harvested. However,
+trees in CR 1003 were cut higher on the stem to have enough space for operators to cut one tree from
+the clump.
+The majority of the scars were mainly located on residual trees within 4 m of the centerline of
+the forwarding trails in both units. Only a small proportion of scars were found on trees located
+over 4 m from the trails, but a greater number of trees over 4 m from the centerline in CR 1003 had
+scars. This is similar to the pattern of scarring noted by Bettinger and Kellogg [8], and Han and
+Kellogg [15], in which 64–72.2% of scars occurred within 4.5 m of trail centerline when using a CTL
+system. Athanassiadis [38] suggested that as the distance between the operator and the tree increases,
+it is harder to control both the machine and logs, therefore, most operators will do a majority of work
+near the forwarding trail.
+Scar size is an important factor associated with future activity of wood decay fungi [39,40].
+Speciﬁcally, scar width has been shown to be more important than length when determining fungal
+decay incidence [41]. This can be important for determining the value of wood that may be produced
+in the future, or for estimating the number of trees that may die due to fungal infections. However,
+scar size is critical for determining how many residual trees could be counted as damaged after CTL
+harvest operations. This information is important for land managers to understand when determining
+the acceptable level of residual stand damage. For example, we show that if scars wider than 5 cm were
+counted, 13.9% of the residual trees in CR 1200 and 31.5% of the trees with scars be considered damage
+(Table 9). Similarly, if only scars greater than 20 cm are counted, then 1.7% in CR 1200 and 3.9% in
+CR 1003 would be considered damaged. Green Diamond Resources Company provided us with their
+deﬁnition of what they consider stand damage for both redwood and Douglas-ﬁr. Their standards for
+when scars should be counted as damage are redwood scars wider than 30% of the circumference of
+tree at DBH, and Douglas-ﬁr scars wider than 20% of the circumference of the tree at DBH. To illustrate
+this, we calculated the percent of damaged trees using these deﬁnitions, (Table 10). This change in
+the deﬁnition for determining when trees are considered damaged results in an approximately 5%
+decrease in damaged trees in CR 1200, and 9% decrease in damaged trees in CR 1003. Based on the
+percent of trees with different scar widths (Table 9) and using the company’s standards, we suggest
+that scar widths between 5 and 10 cm would be an acceptable level of stand damage for these coastal
+redwood sites.
+Table 9. Percentage of number of damaged trees in different scar width (cm) categories.
+Units
+% of Scarred Trees
+None
+More than 5 cm
+More than 10 cm
+More than 15 cm
+More than 20 cm
+CR 1200
+16.2
+13.9
+7.6
+3.2
+1.7
+CR 1003
+32.2
+31.5
+21.0
+11.4
+3.9
+
+Forests 2018, 9, 352
+10 of 12
+Table 10. Percentage of number of damaged trees based on the landowner’s deﬁnition.
+Units
+% of Scarred Trees
+Number of Scarred Trees a
+Total
+RW
+DF
+AR
+SS
+CR 1200
+11.0
+65
+50
+5
+10
+0
+CR 1003
+22.7
+106
+59
+20
+19
+8
+Note: a RW: redwood, DF: Douglas-ﬁr, RA: red alder, and SS: Sitka spruce.
+4.4. Best Management Practices (BMPs) for Reducing CTL Scarring
+Previous studies have suggested BMPs that would reduce the amount of scar damage associated
+with CTL logging operations [15,18,31,36], but they are not speciﬁc to coastal redwood stands. Both
+public land management agencies and private timber companies understand that good planning and
+logging practices can reduce residual stand damage, particularly tree scarring, and decrease operating
+time and labor [16]. In coastal redwood stands, we recommend the following BMPs:
+•
+Cut trees to leave stumps lower to the ground surface within the forwarding trail, so that
+harvesting equipment does not have to move to the side of the trails.
+•
+In areas of clumped trees, leaving a higher stump provides space for the harvester head to move
+without damaging trees. Higher stumps may also help prevent damage from windthrow.
+•
+Use experienced operators when cutting redwood clumps and on steep slopes, since these
+situations require specialized skills.
+•
+Select units so that operations are conducted in the winter, and avoid spring and summer
+harvesting in coastal redwood stands.
+Using these BMPs will help ensure that these highly productive stands continue to produce
+high-quality timber products, and that the damage assessed is meaningful to land managers.
+Understanding where stand damage occurs on trees close to forwarding trails, the species mix, slope,
+operator, and equipment will limit the amount of residual tree damage from CTL harvest operations.
+5. Conclusions
+There are many concerns about CTL logging damage to residual redwood trees. In the two units
+we assessed, we found a total of 16.2% of trees were damaged in CR 1200, and 32.2% in CR 1003,
+and the scar-damaged trees were concentrated near the forwarding trails (less than 4 m) with scars at
+or near the ground (less than 1 m). Scar width and length were greater on trees growing in clumps
+than on individual trees, which highlights the need for skilled operators, given the limited space
+within a clump. We encourage additional studies of CTL harvesting in coastal redwood stands to
+determine if residual stand damage results in increased fungal infection and tree damage associated
+with decay fungi.
+Author Contributions: K.H.: He did an experiment of this study and conducted all statistical analyses as a
+primary author. H.-S.H.: Han-Sup Han developed and directed the implementation of the research project in
+collaboration with a local forest products company. S.E.M.: She gave a comments regarding result of our study.
+D.S.P.-D.: She gave a lot of comments and revised the manuscript.
+Conﬂicts of Interest: The authors declare no conﬂicts of interest.
+References
+1.
+Noss, R.F. The Redwood Forest: History, Ecology, and Conservation of the Coast Redwoods; Island Press:
+Washington, DC, USA, 1999.
+2.
+Oliver, W.W.; Lindquist, J.L.; Strothmann, R.O. Young-growth Redwood Stands Respond Well to Various
+Thinning Intensities. West. J. Appl. For. 1994, 9, 106–112.
+3.
+Cole, D.W. Redwood Sprout Growth Three Decades After Thinning. J. For. 1983, 81, 148–157.
+
+Forests 2018, 9, 352
+11 of 12
+4.
+O’Hara, K.L.; Narayan, L.; Cahill, K.G. Twelve-year Response of Coast Redwood to Precommercial Thinning
+Treatments. For. Sci. 2015, 61, 780–789. [CrossRef]
+5.
+Franklin, J.F.; Johnson, K.N. A Restoration Framework for Federal Forests in the Paciﬁc Northwest. J. For.
+2012, 110, 429–439. [CrossRef]
+6.
+Tappeiner, J.C.; Bell, J.F.; Brodie, J.D. Response of Young Douglas-Fir to 16 Years of Intensive Thinning; Oregon
+State University: Corvallis, OR, USA, 1982.
+7.
+Kellogg, L.; Bettinger, P.; Robe, S.; Steffert, A. Mechanized Harvesting:
+A Compendium of Research;
+Forest Research Laboratory, College of Forestry, Oregon State University: Corvallis, OR, USA, 1992.
+8.
+Bettinger, P.; Kellogg, L.D. Residual Stand Damage from Cut-to-length Thinning of Second-growth Timber
+in the Cascade Range of Western Oregon. For. Prod. J. 1993, 47, 59–64.
+9.
+Mirkala, R.M. Comparison of Damage to Residual Stand Due to Applying Two Different Harvesting Methods
+in the Hyrcanian Forest of Iran: Cut-to-length Vs. Tree Length. Casp. J. Environ. Sci. 2017, 15, 13–27.
+10.
+Han, H.-S. Damage to Young Douglas-ﬁr Stands from Commercial Thinning with Various Timber Harvesting
+Systems and Silvicultural Prescriptions: Characteristics, Sampling Strategy for Assessment and Future Value
+Loss. Ph.D. Thesis, Oregon State University, Corvallis, OR, USA, 1997.
+11.
+Câmpu, V.R.; Borz, S.A. Amount and Structure of tree damage when using cut-to-length system. Environ. Eng.
+Manag. J. EEMJ 2017, 16, 2053–2061.
+12.
+Heitzman, E.; Grell, A.G. Residual tree damage along forwarder trails from cut-to-length thinning in Maine
+spruce stands. North. J. Appl. For. 2002, 19, 161–167.
+13.
+Johns, J.S.; Barreto, P.; Uhl, C. Logging damage during planned and unplanned logging operations in the
+eastern Amazon. For. Ecol. Manag. 1996, 89, 59–77. [CrossRef]
+14.
+Kiser, J.D. Growth Response of Coastal Douglas-ﬁr (Pseudotsuga Menziesii [Mirbel] Franco) in Western Oregon
+Following Mechanical Commercial Thinning Damage. Math. Comput. For. Natl. Resour. Sci. 2017, 9, 22.
+15.
+Han, H.-S.; Kellogg, L.D. Damage Characteristics in Young Douglas-ﬁr Stands from Commercial Thinning
+with Four Timber Harvesting Systems. West. J. Appl. For. 2000, 15, 27–33.
+16.
+Tavankar, F.; Bonyad, A.E.; Majnounian, B. Affective Factors on Residual Tree Damage During Selection
+Cutting and Cable-skidder Logging in the Caspian Forests, Northern Iran. Ecol. Eng. 2015, 83, 505–512.
+[CrossRef]
+17.
+Lanford, B.L.; Stokes, B.J. Comparison of Two Thinning Systems. Part 1 Stand and Site Impacts. For. Prod. J.
+1995, 45, 74–79.
+18.
+Kelley, R.S. Stand Damage from Whole-tree Harvesting in Vermont Hardwoods. J. For. 1983, 81, 95–96.
+19.
+Cline, M.L.; Hoffman, B.F.; Cyr, M.; Bragg, W. Stand Damage Following Whole-tree Partial Cutting in
+Northern Forests. North. J. Appl. For. 1991, 8, 72–76.
+20.
+Limbeck-Lilienau, B. Residual Stand Damage Caused by Mechanized Harvesting Systems. In Proceedings
+of the Austro2003 Meeting: High Tech Forest Operations for Mountainous Terrain, Schlaegl, Austria,
+5–9 October 2003; Available online: http://www.boku.ac.at/ﬁleadmin/data/H03000/H91000/H91500/
+limbeck-lilienau.pdf (accessed on 11 June 2018).
+21.
+Košir, B. Damage to Young Forest Due to Harvesting in Shelterwood Systems. Croat. J. For. Eng. 2008, 29,
+141–153.
+22.
+Froese, K.; Han, H.-S. Residual Stand Damage from Cut-to-length Thinning of a Mixed Conifer Stand in
+Northern Idaho. West. J. Appl. For. 2006, 21, 142–148.
+23.
+Tufts, R.A.; Brinker, R.W. Productivity of a Scandinavian cut-to-length system while second thinning pine
+plantations. For. Prod. J. 1993, 43, 24–32.
+24.
+Kellogg, L.D.; Bettinger, P. Thinning productivity and cost for mechanized cut-to-length system in the
+Northwest Paciﬁc coast region of the USA. J. For. Eng. 1994, 5, 43–52. [CrossRef]
+25.
+Tufts, R.A. Productivity and cost of the Ponsse 1997, 15-series, cut-to-length harvesting system in southern
+pine plantations. For. Prod. J. 1997, 47, 39–46.
+26.
+Kärhä, K.; Rönkkö, E.; Gumse, S.-I. Productivity and cutting costs of thinning harvesters. Int. J. For. Eng.
+2004, 15, 43–56.
+27.
+Sirén, M. Tree Damage in Single-grip Harvester Thinning Operations. Int. J. For. Eng. 2001, 12, 29–38.
+28.
+Kellogg, L.D.; Olsen, E.D.; Hargrave, M.A. Skyline Thinning a Western Hemlock-Sitka Spruce Stand: Harvesting
+Costs and Stand Damage; Forest Research Laboratory, College of Forestry, Oregon State University: Corvallis,
+OR, USA, 1986.
+
+Forests 2018, 9, 352
+12 of 12
+29.
+Yilmaz, M.; Akay, A. Stand Damage of a Selection Cutting System in a Uneven Aged Mixed Forest of
+Cimendagi in Kahramanmaras-Turkey. Int. J. Natl. Eng. Sci. 2008, 2, 77–82.
+30.
+Bobik, M. Damages to Residual Stand in Commercial Thinnings. Master’s Thesis, Swedish University of
+Agricultural Sciences, Uppsala, Sweden, 2008.
+31.
+Aho, P.E.; Fiddler, G.; Srago, M. Logging Damage in Thinned, Young-Growth True Fir Stands in California and
+Recommendations for Prevention; Res. Paper PNW-304; Paciﬁc Northwest Research Station: Portland, OR,
+USA, 1983.
+32.
+Krokene, P.; Nagy, N.E.; Krekling, T. Traumatic Resin Ducts and Polyphenolic Parenchyma Cells in Conifers.
+In Induced Plant Resistance to Herbivory; Schaller, A., Ed.; Springer: Berlin, Germany, 2008; pp. 147–169.
+33.
+Howard, A.F. Damage to Residual Trees from Cable Yarding When Partial Cutting Second-growth Stands in
+Coastal British Columbia. Can. J. For. Res. 1996, 26, 1392–1396. [CrossRef]
+34.
+Han, H.S.; Kellogg, L.D. Comparison of Damage Characteristics to Young Douglas-ﬁr Stands from
+Commercial Thinning Using Four Timber Harvesting Systems. In Proceedings of the 1997 Annual COFE
+Meeting, Rapid City, SD, USA, 26–28 June 1997.
+35.
+Hunt, J.; Krueger, K.W. Decay Associated with Thinning Wounds in Young-growth Western Hemlock and
+Douglas-Fir. J. For. 1962, 60, 336–340.
+36.
+Nevill, R.J. A Review of Tree Wounding; Paciﬁc Forestry Cenrer, Canadian Forest Sevice: Victoria, BC,
+Canada, 1997.
+37.
+Stenlid, J. Population Structure of Heterobasidion Annosum as Determined by Somatic Incompatibility,
+Sexual Incompatibility, and Isoenzyme Patterns. Can. J. Bot. 1985, 63, 2268–2273. [CrossRef]
+38.
+Athanassiadis, D. Residual Stand Damage Following Cut-to-length Harvesting Operations with a Farm
+Tractor in Two Conifer Stands. Silva Fenn. 1997, 31, 461–467. [CrossRef]
+39.
+Aho, P.E.; Fiddler, G.; Filip, G.M. Decay Losses Associated with Wounds in Commercially Thinned True Fir
+Stands in Northern California; Res. Paper PNW-RP-403; U.S. Department of Agriculture, Forest Service,
+Paciﬁc Northwest Research Station: Portland, OR, USA, 1989; Volume 8, p. 403. Available online: https:
+//www.fs.usda.gov/treesearch/pubs/9236 (accessed on 11 June 2018).
+40.
+Camp, A. Damage to Residual Trees by Four Mechanized Harvest Systems Operating in Small-diameter,
+Mixed-conifer Forests on Steep Slopes in Northeastern Washington: A Case Study. West. J. Appl. For. 2002,
+17, 14–22.
+41.
+Wallis, G.W.; Morrison, D.J. Root Rot and Stem Decay Following Commercial Thinning in Western Hemlock
+and Guidelines for Reducing Losses. For. Chron. 1975, 51, 203–207. [CrossRef]
+© 2018 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).

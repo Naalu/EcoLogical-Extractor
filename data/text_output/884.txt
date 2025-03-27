@@ -1,0 +1,1211 @@
+R E V I E W A R T I C L E
+Soil functional responses to ecological restoration
+treatments in frequent-fire forests of the western
+United States: a systematic review
+Andrew Sánchez Meador1,2,3, Judith D. Springer1, David W. Huffman1, Matthew A. Bowker2,
+Joseph E. Crouse1
+We investigated general effects of ecological restoration treatments on soil function in frequent-fire forests of the western
+United States using a systematic review methodology. We searched numerous publication databases for original research
+papers and used well-defined criteria developed a priori to select papers for review. We used meta-analysis and qualitative
+summaries to compare reported responses of macronutrients, nitrogen cycling, and soil respiration among tree thinning (thin),
+prescribed fire (burn), and thinning plus prescribed fire treatments (composite). Results of meta-analysis showed that mean
+differences in macronutrients were consistently higher in composite treatments (standardized using controls) when compared
+to thin-only and burn-only treatments. Mean responses related to nitrogen cycling showed similar patterns, with significant
+increases detected in composite treatments for all nitrogen cycling variables (mineralization, ammonification, and nitrification)
+and insignificant responses for the majority of the burn-only and thin-only treatments. Mean difference in response for soil
+respiration following composite treatments showed increases as compared to the controls, and no significant differences were
+detected in response to burn- and thin-only treatments. While soil function, nutrient cycling, and soil respiration differed
+among treatments, the most significant effects were observed for nitrogen and carbon responses, net mineralization and
+nitrification, ammonium availability, and soil respiration rate, which experienced the greatest increase following treatments
+that were both thinned and burned.
+Key words: fire, macronutrients, nutrient cycling, Pinus jeffreyi, Pinus ponderosa, thinning
+Implications for Practice
+• This study substantiates that systematic reviews are pow-
+erful and efficient tools for providing reproducible sum-
+maries of evidence relevant to restoration treatments and
+exhibit great potential to guide policy decisions and con-
+sideration of management alternatives.
+• The most significant responses to restoration treat-
+ments were positive and observed for total nitrogen-
+and carbon-related variables, ammonium availability, net
+mineralization and nitrification, and soil respiration rate.
+• The most significant responses to restoration treatments
+resulted from composite treatments that included both tree
+thinning and prescribed fire.
+• Manipulation of forest structure and composition, partic-
+ularly through thinning and/or prescribed fire, may affect
+soil processes and function and consideration should be
+given to the complex nature of interactions among veg-
+etation, soil microbiota, and physicochemical processes
+when planning restoration treatments.
+Introduction
+Many frequent-fire ecosystems around the globe are actively
+managed for fuel reduction to minimize fire severity, resilience
+to disturbances, and to reestablishing natural ranges of
+variability for structure, pattern, and ecological processes
+(e.g. Burrows 2008; Moya et al. 2011; Franklin & Johnson
+2012). However, the reintroduction of fire and the use of
+prescribed burning, alone or following thinning, remains some-
+what contentious among scientists and within the broader
+community (Clarke 2008; Morrison et al. 1996; Reinhardt
+et al. 2008; North et al. 2015). Globally, tree mortality as a
+result of sustained drought, uncharacteristic wildfires, and
+biotic agents appears to be increasing, driven in part by climate
+change (van Mantgem et al. 2009; Allen et al. 2010; Weed et al.
+2013; Dennison et al. 2014). In some ecosystems, such as the
+western frequent-fire forests of the United States (including
+forests dominated by ponderosa pine, Pinus ponderosa, and
+Author contributions: ASM, DWH conceived and designed the research; JDS, JEC
+performed search for inclusion; ASM analyzed data, created figures and tables; JEC
+contributed the map; ASM, JDS, DWH, MAB wrote and edited the manuscript.
+1Ecological Restoration Institute, Northern Arizona University, PO Box 15017,
+Flagstaff, AZ 86011, U.S.A.
+2School of Forestry, Northern Arizona University, PO Box 15018, Flagstaff, AZ 86011,
+U.S.A.
+3Address correspondence to A. Sánchez Meador, email
+andrew.sanchezmeador@nau.edu
+© 2017 Society for Ecological Restoration
+doi: 10.1111/rec.12535
+Supporting information at:
+http://onlinelibrary.wiley.com/doi/10.1111/rec.12535/suppinfo
+Restoration Ecology
+1
+
+Soil functional responses to ecological restoration
+Jeffrey pine, Pinus jeffreyi), anthropogenic disruption of natural
+disturbance regimes has led to large increases in tree and
+woody plant density, reductions in understory plant community
+abundance and species richness, and increases in forest floor O
+horizon (Covington & Moore 1994; Kaye et al. 1999; Laughlin
+et al. 2006). Currently, overly dense forests show symptoms of
+ecological degradation in terms of lack of resilience to natural
+disturbance and loss of habitat quality and natural levels of
+heterogeneity (Waltz et al. 2014).
+Although reference information on soil processes is lacking,
+substantial alteration of ecosystem function has likely accompa-
+nied structural and compositional changes stemming from fire
+exclusion (Hart et al. 2005; Grady & Hart 2006). For example,
+a strong body of research indicates that increases in seques-
+tration of nutrients in needle accumulations on the forest floor
+have resulted in reduced nitrogen transformation and carbon
+cycling rates (Kaye & Hart 1998; Selmants et al. 2008). Lack
+of frequent surface fire and associated reduction in abundance
+of N-fixing plant species may have negatively affected soil C
+and N fluxes and concentrations in upper horizons (Johnson &
+Curtis 2001). Increases in forest cover and shading, increases
+in litter depths, decreases in soil temperature due to shading,
+and decreased moisture availability due to increased tree densi-
+ties have also likely negatively impacted microbial community
+activity and soil respiration (Ma et al. 2004; Concilio et al. 2005;
+Ryu et al. 2009).
+Ecological restoration treatments in these forests assist the
+recovery of ecosystem function through removal of smaller,
+younger trees, management of fuel loads, and reintroduction of
+low-intensity surface fire (Covington et al. 1997; Allen et al.
+2002; Fulé et al. 2012). In practice, the success of a restora-
+tion project is often based on the establishment of a target plant
+community rather than on the establishment of a vital, dynamic,
+and living community of organisms belowground, or the func-
+tions of these soil communities, primarily because ecologists
+tend to focus on soils as a medium for plant growth (Callaham
+et al. 2008). The impact to the physical, chemical, and biological
+properties of the soil following ecological restoration treatments
+is of fundamental importance and interest.
+Soil processes in natural systems are complex, and our under-
+standing of these processes in relation to ecological restoration
+practices is still in relatively early stages. Manipulation of forest
+density and application of prescribed fire may affect soil func-
+tion in a number of ways, and responses reflect complex interac-
+tions among vegetation, soil microbiota, and physicochemical
+processes. For example, tree thinning activities that decrease
+light interception by forest canopies, and increase soil tempera-
+ture and moisture, may lead to increased microbial activity, res-
+piration, and nutrient cycling (Hart et al. 2006; Selmants et al.
+2008). However, whole-tree removal may result in net losses of
+nutrients and carbon from sites (Johnson & Curtis 2001) while
+nutrient cycling may remain unaffected where thinning and log-
+ging residues are not subsequently burned or removed (DeLuca
+& Zouhar 2000). While treatments that include prescribed fire
+have common outcomes such as a net nutrient influx, enrichment
+of P, Ca2+, Mg2+, K+, and an often temporary increase in pH,
+treatment effects on soil nutrients and biotic responses are often
+variable (sometimes including no net change) and depend upon
+attributes examined, time frame, intensity of fire, and frequency
+of burning (DeBano et al. 1998; Hart et al. 2005; DeLuca & Sala
+2006). Thus, prediction of soil functional responses to ecologi-
+cal restoration treatments is problematic and to date no system-
+atic analysis of general patterns or drivers of variation in patterns
+in this area has been undertaken.
+Systematic reviews use an evidence-based framework to
+review the effectiveness of various interventions, including
+manipulations at an ecosystem level (Pullin & Stewart 2006).
+Systematic reviews are powerful and efficient for assisting with
+knowledge transfer and have an aim of providing reproducible
+summaries of evidence to guide policy decisions and consider-
+ation of management alternatives (Roberts et al. 2006; Bilotta
+et al. 2014). They differ from traditional narrative reviews in a
+number of ways, from question formulation all the way through
+to dissemination of the results. For some reviews, prepublished
+protocols are developed. In addition, members of the team
+attempt to locate all relevant published and unpublished stud-
+ies in order to lessen publication bias, and the type of stud-
+ies to be included are defined prior to the systematic literature
+search. Reviewers attempt to assess study quality and base con-
+clusions from those papers on sound methodology (Petticrew
+2001; Bilotta et al. 2014). Systematic reviews are not a sub-
+stitute for quality primary research, but they serve a valuable
+purpose of identifying where primary research may be lack-
+ing (Petticrew 2001). Although systematic reviews have been
+produced in the medical field for decades, many environmen-
+tal researchers, practitioners, and policymakers are just now
+becoming familiar with the steps involved in developing such
+reviews (Petticrew 2001; Bilotta et al. 2014).
+Furthermore, it is important to realize that systematic reviews
+differ from traditional narrative reviews in numerous ways. Nar-
+rative reviews tend to be largely qualitative, do not adhere to
+a strict systematic search of the literature, and often concen-
+trate on a subsample of studies chosen based on convenience
+or author selection. Thus narrative reviews, while informative,
+often include selection bias. Additionally, narrative reviews can
+be confusing, particularly if comparable studies have differ-
+ing results. Systematic reviews, as the name implies, should be
+conducted according to a detailed and comprehensive plan and
+search strategy, with the goal of reducing bias by identifying,
+appraising, and synthesizing all relevant studies on a particular
+topic. Often, systematic reviews include a meta-analysis com-
+ponent which uses statistical techniques to synthesize the data
+from several studies into a single, directly comparable, standard-
+ized estimate, or summary of effect sizes (Petticrew & Roberts
+2006).
+In this study, we reviewed published literature to determine
+whether ecological restoration treatments in frequent-fire forests
+of the western United States generally resulted in positive,
+negative, or neutral effects on soil function. We utilized a
+systematic review methodology, and due to the availability
+of data, we chose to focus on response data for three basic
+indicators: macronutrient stocks, macronutrient cycling, and
+soil respiration.
+2
+Restoration Ecology
+
+Soil functional responses to ecological restoration
+Table 1. Inclusion criteria of studies and search terms utilized in the review.
+Inclusion Category
+Specific Criteria
+Subjects
+Western United States (Pacific Northwest, Sierra Nevada, Rocky Mountains, and Southwest) coniferous forests
+dominated by (1) ponderosa pine (Pinus ponderosa), Jeffrey pine (Pinus jeffreyi), (2) pines mixed with oak
+(Quercus spp.), or (3) dry mixed conifer forests dominated by one of these pine species but also containing
+firs (Abies spp.), Douglas-fir (Pseudotsuga menzieseii), other pine species (e.g. Pinus lambertiana, Pinus coulteri),
+and quaking aspen (Populus tremuloides)
+Time frame
+1940–present
+Treatments
+Treatments conceived as ecological or ecosystem “restoration,” hazardous fuel reduction or ecosystem/forest health
+management including: thin only; burn only (prescribed fire, controlled fire, and/or wildland fire use); composite
+(thin and burn); control (untreated); pre- and post-treatment observations
+Outcomes
+Soil function and ecological restoration variables: soil respiration; nutrient cycling, macronutrients (N, K, Ca, Mg, P,
+and S); soil carbon; nitrogen cycling (mineralization, ammonification, and nitrification); microbiota (bacteria, fungi,
+actinomycete, microbes, and other microfauna); plant root-fungal symbionts (mycorrhizae, ectomycorrhizae)
+Search terms
+Soil infiltration
+Soil moisture
+Soil temperature
+Respiration
+Nutrient availability
+Macronutrient
+Nitrogen or Nitrate or Nitrification
+Potassium
+Nutrient uptake
+Plant uptake
+Phosphorus
+Nutrient cycling
+Mineralization or Mineralizable
+Ammonia or Ammonium or Ammonification
+Amino
+Bacteria
+Fungi or Fungal or Fungus
+Protozoa
+Actinomycete
+Heterotroph*
+Microbiota
+Microflora
+Microorganism
+Microbe or Microbial
+Fermentation
+Rhizosphere
+Mycorrhiza* or
+Ectomycorrhiz*
+Fine root*
+Denitrification
+Microfauna
+Methods
+We conducted our review following the steps suggested by
+Pullin and Stewart (2006): (1) formulate questions, (2) develop a
+review protocol, (3) search data sources, (4) select relevant data,
+(5) assess the quality of methodology (evidence), (6) extract
+data, and (7) synthesize (analyze) data. We drafted questions,
+which were then refined using informal discussions with outside
+experts in natural resource management. We developed a review
+protocol that described criteria for data searching, inclusion, and
+quality of evidence (Table 1).
+We systematically searched CAB ABSTRACTS (which
+includes Forest Science Database), Web of Science, Biosis, and
+GREENfile for original research papers using the review pro-
+tocol, search terms, and inclusion criteria provided in Table 1.
+Searches were conducted on both the common and scientific
+names of the primary tree species, ponderosa and/or Jeffrey
+pine, and had to include the terms “soil” and “forest.” Types of
+literature were limited to primary research and included only
+refereed journal articles and peer-reviewed scientific reports.
+We evaluated each study to insure that the results presented were
+based on unique data and assessed them against our inclusion
+criteria (Table 1), with only studies considered relevant being
+included in a database for review and analyses. All studies were
+individually reviewed and data were extracted using Engauge
+Digitizer 5.1 (http://digitizer.sourceforge.net) and summarized
+in a spreadsheet using categories describing the subjects (forest
+type, geographic region), treatments (burn only, thin only, thin
+and burn), and outcomes (nitrogen, phosphorus, nitrate, soil
+respiration, microbiota, etc.) (Table 1).
+Quantitative data on soil function and ecological restora-
+tion responses were compared across forest types and treat-
+ments (e.g. mechanical thinning, prescribed fire; see Table 1
+for a full list of treatments considered) using meta-analysis
+techniques and qualitative summaries. Meta-analysis techniques
+(Gurevitch et al. 1992) and the metaphor package (Viechtbauer
+2010) were implemented in R 3.2.1 (R Core Team 2015).
+Meta-analyses commonly use standardized mean differences or
+“effect sizes” (e.g. Cohen’s d; Cohen 1969), which are calcu-
+lated based on sample size and variance, assuming that studies
+with large sample sizes and smaller variances are more reli-
+able (Hedges & Olkin 1985). For each response with two or
+more observations, we calculated a standardized mean effect
+size with 95% confidence intervals and corrected for negative
+bias, yielding interval estimates of Hedges’ g (Hedges 1981).
+Mean effect sizes were considered to be significantly differ-
+ent from 0 when the corresponding confidence interval did not
+Restoration Ecology
+3
+
+Soil functional responses to ecological restoration
+include 0. A standardized mean difference of 0, positive, or
+negative indicated no change between treatment and control,
+an increase in the response variable compared to the control,
+or a decrease in the response variable, respectively. For each
+outcome, meta-analytic fixed-effects models were fit without
+covariates and using inverse-variance weighting to obtain sum-
+mary estimates or an overall estimated mean difference (Thomp-
+son & Sharp 1999) in effect size.
+To examine the robustness of our study against publication
+bias (i.e. the “file drawer problem” or the failure to publish null
+results), we computed “fail-safe” numbers (Rosenthal 1979;
+Gates 2002) for effect size (g) estimates. A fail-safe number
+estimates the number of additional null-result studies needed
+to produce statistically insignificant results, or the higher the
+number the more confident we are in detected effects. The
+reliance of this technique on variance estimates limited fail-safe
+number estimation to 35 of the 43 studies only.
+In cases where a measure of variability (e.g. standard devi-
+ation) between treatment means was not reported and each
+response contained two or more observations, we calculated a
+variation of a response ratio (Hedges et al. 1999), relativized to
+the control mean, as our measure of effect size. We defined this
+standardized response as:
+SR =
+(Control mean −treatment mean
+Control mean
+)
+Response
+ratios
+have
+become
+commonly
+used
+in
+meta-analysis (Schmitz et al. 2000; Mosquera et al. 2000;
+Côté et al. 2001; Ainsworth & Long 2005; Parker et al. 2006;
+Miller et al. 2010; Fulé et al. 2012), as they are specifically
+designed to measure relative differences. For each outcome
+or response, the mean standardized response and standard
+deviation were calculated. In cases where standardized mean
+differences or standardized response could not be calculated
+given the information reported, qualitative descriptions of
+responses were summarized.
+Results
+Our initial database search returned 942 candidate papers.
+After abstract and title review, we retained 110 papers to eval-
+uate for inclusion based on the criteria presented in Table 1.
+Forty-nine met inclusion criteria but three of these were
+excluded from review (n = 46) because reported outcomes were
+strictly expressed in terms of surface fuels (e.g. litter weight)
+or soil macrobiota (e.g. density of mites). Studies were located
+throughout the western United States and spanned a range of
+frequent-fire forest types, with northern Arizona (42%), Cal-
+ifornia’s Sierra Nevada Mountains (21%), and Oregon (14%)
+being the most strongly represented (Fig. 1). Least represented
+(making up approximately 19% of the data) and in decreasing
+order, were studies from Montana, Nevada, New Mexico,
+Idaho, and Colorado (with the latter two states only including
+one study from each). Thirty-six studies (75%) were published
+in the year 2000 or later. Just over half (55%) of the studies
+were from ponderosa pine forest types, with the remaining
+studies being conducted in mixed conifer forests dominated
+by either ponderosa (30%) or Jeffrey (15%) pine. Study sites
+ranged from 1,150 (Gundale et al. 2005) to 2,590 m (Concilio
+et al. 2005) in elevation.
+Six variables related to macronutrients and three related to
+nitrogen cycling and soil respiration had sufficient data (two
+or more observations) for meta-analysis. While five studies
+reported responses related to microbiota (namely mycorrhizal
+symbionts), no two studies reported common outcomes and
+therefore none were included in meta-analysis. Macronutri-
+ent variables included those related to carbon (C), total nitro-
+gen (Ntotal), available nitrogen (Navail), nitrate (NO3
+−), ammo-
+nium (NH4
++), phosphorus (P), and potassium (K+); while
+nitrogen cycling variables included measures of net mineral-
+ization (conversion of organic N to mineral forms; hereafter
+“mineralization”), ammonification (conversion of organic N to
+ammonium, hereafter “ammonification”), and nitrification (con-
+version of ammonium to nitrate). Figures 2A and 2B show
+standardized mean differences in total and available nitrogen
+responses for thin, burn, and composite restoration treatments.
+For the studies reporting burn-only treatments for Ntotal (n = 6)
+and Navail (n = 3), the mean difference was largely evenly dis-
+tributed among possible outcomes (e.g. Ntotal exhibited two
+with increases, two with decreases, and two with no signifi-
+cant effect) resulting in an overall estimated mean difference not
+significantly different from 0 for both Ntotal and Navail (Fig. 2;
+−0.52 to 0.36 and −0.46 to 2.18, respectively). Similar to the
+burn-only results, overall estimated mean difference for Navail
+following thin-only treatments was not significantly different
+from 0 (−0.18 to 1.57) and was slightly negative (−1.19 to
+−0.19) for Ntotal. All studies reporting effects of composite
+treatments on Ntotal and Navail showed positive mean increases
+with eight of ten being significantly different from 0. Overall
+estimated mean differences for Ntotal and Navail were 3.73 and
+2.91, with 95% confidence interval estimates of 3.0–4.47 and
+1.97–3.85, respectively.
+Figure 3 demonstrates 95% confidence intervals of overall
+estimated mean difference summarized for all macronutrients
+(including Ntotal and Navail). Mean difference in macronutrients
+showed a consistent pattern of significant increases compared to
+controls in composite treatments, while burn and thin treatments
+alone were lower in difference as compared to the untreated
+controls. One exception in this pattern was mean difference
+in NH4
++ (Fig. 3D), where thin-only treatments resulted in a
+4.52–9.66 increase. Burn treatments significantly decreased
+C and NH4
++, and had no detectable effect on the remaining
+macronutrients. Thin treatments significantly decreased P and
+Ntotal, increased NH4
++ and K+, and had no significant effect on
+remaining macronutrients.
+Estimated mean difference for variables related to nitro-
+gen cycling showed a similar pattern to those observed for
+macronutrients. Specifically, results (Fig. 4A–C) suggest sig-
+nificant increases compared to controls in composite treatments
+for all nitrogen cycling variables (mineralization, ammonifica-
+tion, and nitrification), and insignificant responses for all burn-
+and thin-only treatments, except for increased mineralization
+observed for thin treatments (Fig. 4A). While mean difference
+4
+Restoration Ecology
+
+Soil functional responses to ecological restoration
+Figure 1. Geographical regions of the western United States containing coniferous forest dominated by ponderosa pine (Pinus ponderosa), Jeffrey pine
+(Pinus jeffreyi), or dry mixed conifer forests dominated by one of these pine species and approximate locations of studies included in the review (Appendix
+S1, Supporting Information).
+in response for soil respiration ranged from 0.72 to 1.45, and
+averaged 1.09 as compared to untreated controls, no significant
+difference from controls was detected for burn- and thin-only
+treatments (Fig. 4D).
+Given the number of studies available for meta-analysis,
+fail-safe numbers were relatively low for all response variables
+when examining burn- and thin-only treatments (Figs. 3 & 4).
+In contrast, fail-safe numbers for composite treatments were
+relatively high for all response variables, and ranged from 21
+for potassium (Fig. 3G) to 221 for Ntotal (Fig. 3b). However,
+ammonification had a composite treatment fail-safe number of
+3 (Fig. 4B).
+Standardized macronutrient responses, carbon and nitro-
+gen cycling-related responses, and soil respiration for three
+restoration treatments had inconclusive results (Table 2).
+With the exception of a significant increase in carbon-related
+responses (SR = 0.93, SD = 0.07) and an insignificant decrease
+in nitrification-related responses (SR = −0.87, SD = 1.17), all
+other responses to burn-only treatments exhibited significant
+decreases. Conversely, all responses to thin-only and composite
+treatments were not significantly different from 0, with the
+exception of a decrease in carbon-related responses following
+composite treatments (SR = −0.14, SD = 0.15) and an increase
+in ammonium-related responses following thin-only treatments
+(SR = 0.23, SD = 1.09).
+Discussion
+Fisher and Binkley (2000) refer to soils as the “hidden half”
+of forests; a half which may be of equal importance to that
+aboveground, but which is more difficult to observe and there-
+fore less frequently studied. Abundant research suggests that
+the removal of fire from frequent-fire forest types in the west-
+ern United States results in various types of deviation from
+reference conditions observable aboveground, including: (1)
+increased fuel loads that lead to an infrequent stand-replacing
+Restoration Ecology
+5
+
+Soil functional responses to ecological restoration
+Figure 2. Forest plot showing standardized mean differences in total (A) and available (B) nitrogen responses for thin, burn, and composite restoration
+treatments. Positive mean difference values indicate nitrogen increases, whereas negative difference indicates decreases. Responses were considered not
+statistically significant (grayed) when confidence intervals intersected 0.00 difference (dotted line).
+fire regime (Kalies & Yocom Kent 2016); (2) reduced biodi-
+versity and loss of herbaceous plants (Moore et al. 2006); and
+(3) decreased productivity in the form of tree and stand growth
+due to overcrowding (Kolb et al. 2007). Effects resulting from
+long-term absence of fire may also be evident belowground
+due to indirect effects of high tree biomass and concomitant
+litter deposition and accumulation. Higher tree densities may
+induce lower water availability (Kaye et al. 1999) due to con-
+sumption and canopy interception, possibly slowing microbial
+activity and decomposition (Aerts 1997). Litter accumulation
+may further alter nutrient cycles because tree litter, particularly
+that of conifers, tends to be of low quality (i.e. high lignin:N
+and C:N), suppressing decomposition rates (Aerts 1997) and
+favoring nitrogen immobilization over mineralization (Lewis
+& Kaye 2012). Both enhanced canopy and litter cover can be
+expected to cool the soil during the growing season, which may
+also suppress microbial activity, and therefore decomposition,
+due to a strong positive dependence on temperature (Davidson
+& Janssens 2006). Our systematic review sought to determine
+if the results from ecological restoration studies designed to
+restore aboveground structure, composition, and function could
+provide evidence of soil functional outcomes.
+Restoration Treatments Effect on Soil Function
+The response of physical, chemical, and biological soil prop-
+erties to forest restoration treatments is fundamentally impor-
+tant because soils are the sites where were most decomposition
+occurs and are thus directly linked to the nutrient cycling pro-
+cess. Decomposition, along with primary production, is one of
+the two major life-generating processes on Earth (Wall et al.
+2005), and mineral nutrient pools may constrain production
+(Wieder et al. 2015). As ecological restoration seeks to assist the
+recovery of normal ecosystem function (SER 2004), achieving
+normal decomposition and nutrient cycling rates are integral
+6
+Restoration Ecology
+
+Soil functional responses to ecological restoration
+Figure 3. Standardized mean difference in effect size and ±95% CI for three restoration treatments compared for each of six macronutrient-related responses.
+Standardized mean difference of 0, positive, or negative indicated no change between treatment and control, increases in the response variable compared to
+the control, or decreases in the response variable, respectively. The number below each confidence interval is the corresponding “fail-safe” number
+(Rosenthal 1979) for effect size.
+Figure 4. Standardized mean difference in effect size and ±95% CI for three restoration treatments compared for each of three nitrogen cycling-related
+responses and for soil respiration-related responses. Standardized mean difference of 0, positive, or negative indicated no change between treatment and
+control, increases in the response variable compared to the control, or decreases in the response variable, respectively. The number below each confidence
+interval is the corresponding “fail-safe” number (Rosenthal 1979) for effect size.
+to the practice, though often not explicitly addressed. Our
+meta-analysis of macronutrients, nutrient cycling, and soil res-
+piration responses to forest restoration treatments across the
+western United States indicated that ecological restoration treat-
+ments implemented aboveground can effectively alter soil func-
+tion belowground, but that various techniques are differentially
+effective.
+The impacts of fire on soils depend strongly upon the heat
+generated, which is in turn well-predicted by the amount of
+fuel consumed (DeBano et al. 1998). In our analysis, burning
+alone either significantly reduced or had little short-term effect
+(≤5 years) on most macronutrients, nutrient cycling, and soil
+respiration. It is very likely that nutrients were lost in the O
+horizon (Covington & Sackett 1986), but such an effect did
+not translate to mineral horizons or undifferentiated surface
+soils. These trends are likely the result of multiple processes.
+Carbon on or near the soil surface is lost due to combustion,
+but ash and other residues are also a C input. This may explain
+some apparently conflicting results suggesting burning alone
+may either increase or decrease soil C. Nitrogen is susceptible
+to loss through oxidation, volatilization, or convection in ash
+(Fisher & Binkley 2000). Organic P may also volatilize, but at
+higher temperatures. In contrast, metal cations such as K+, Ca2+,
+and Mg2+ neither volatilize nor oxidize; rather they accumulate
+in ash fall (Fisher & Binkley 2000). Although a burned stand
+experiences a net loss of nutrients, ash fall represents a nutrient
+input into soil pools from aboveground pools or from O horizon
+to mineral soil horizons, at least initially. The concentration of
+K+, Ca2+, and Mg2+ ions in the soil can increase or be unaffected
+by fires, whereas nitrogen and sulfur often decrease (Hough
+1981). Additionally, NH4
++ is a direct product of the combustion
+of organic matter, while NO3
+−is created from NH4
++ sometime
+after fire as a result of nitrification (Covington & Sackett 1992).
+If not promptly taken up by plants or microbes (both of which
+are likely reduced by the fire), available nutrients including
+PO4
+−, K+, Mg2+, Ca2+, NH4
++, and NO3
+−can quickly decrease,
+Restoration Ecology
+7
+
+Soil functional responses to ecological restoration
+Table 2. Summary attributes (mean, standard deviation, and sample size) for standardized responses (SR) examined for three restoration treatments compared
+for each of nine macronutrient-related responses (top) expressed per unit area or mass and for soil respiration, carbon, and nitrogen cycling-related responses
+(bottom) expressed as a rate. Standardized responses reflect variability in the short term (≤5 years since treatment), site variability, measurement unit, treatment
+differences, and individual study sample size effects. Values considered significantly different from 0 (bold) when their corresponding ±95% CI did not
+include 0.
+Burn
+Thin
+Composite
+Mean
+SD
+n
+Mean
+SD
+n
+Mean
+SD
+n
+SR per unit area or mass
+C
+0.93
+0.07
+12
+−0.03
+0.30
+15
+−0.14
+0.15
+14
+Ca
+−0.91
+0.08
+5
+−0.15
+0.29
+5
+0.15
+0.29
+8
+K
+−0.72
+0.47
+5
+0.10
+1.52
+5
+−0.11
+0.21
+7
+Mg
+−0.94
+0.07
+5
+−0.21
+0.32
+5
+−0.14
+0.13
+4
+Navail
+−0.75
+0.40
+7
+0.26
+0.74
+7
+0.52
+1.55
+8
+Ntotal
+−0.76
+0.56
+12
+0.18
+0.78
+16
+−0.02
+0.16
+15
+NH4
+−0.77
+0.64
+12
+0.23
+1.09
+16
+0.29
+2.94
+23
+NO3
+−0.69
+0.40
+10
+0.00
+0.91
+13
+2.22
+277.36
+21
+P
+−0.85
+0.25
+13
+0.02
+2.33
+14
+0.09
+0.45
+10
+SO
+−0.85
+0.17
+3
+−0.11
+0.40
+3
+Insufficient data
+SR expressed as a rate (per unit area or mass per time period)
+C
+−0.95
+0.00
+2
+−0.06
+0.05
+2
+−0.05
+0.04
+2
+Navail
+−0.73
+0.32
+6
+0.3
+0.94
+6
+0.19
+1.08
+7
+NH4
+−0.64
+0.27
+4
+0.2
+0.74
+4
+0.02
+0.39
+4
+NO3
+−0.87
+1.17
+6
+0.99
+2.36
+6
+1.50
+2.46
+5
+Respiration
+−0.83
+0.11
+10
+−0.04
+0.30
+15
+0.14
+0.43
+14
+either by leaching (e.g. during snowmelt events), erosion (e.g.
+during summer monsoonal storms), or sorption reactions that
+render nutrients less available (Mroz et al. 1980; Kaye et al.
+1999; Johnson & Curtis 2001).
+Thinning is likely to affect soils in fundamentally different
+ways. Rather than directly impacting nutrient pools, removal
+of trees allows more solar energy to reach the soil surface, and
+may favor greater soil moisture due to decreased evapotranspi-
+ration and canopy interception of precipitation (Sun et al. 2015).
+Because this alteration of the soil environment affects microbial
+activity, thinning activities may result in increased soil func-
+tion, respiration, and nutrient cycling (Hart et al. 2006; Selmants
+et al. 2008). Recent studies indicate that a positive response of
+nutrient concentrations or soil respiration to forest thinning is
+not universal. For example, Klemmedson (1992) reported lit-
+tle or no loss in N, C, and S and significant increases in P and
+K following thinning in ponderosa pine forest of northern Ari-
+zona, while Tang et al. (2005) report that thinning decreased soil
+respiration as a result of decreased root density after thinning
+in a ponderosa pine plantation in the Sierra Nevada Mountains.
+However, soil function may remain unaffected in stands where
+tree removal slash is left in place and not burned (DeLuca &
+Zouhar 2000). Our results suggest that it is difficult to detect
+an overall effect of thinning on soil nutrient pools, cycling or
+respiration, likely due to such variability among study sites. A
+notable exception was that thinning alone appeared to have a
+positive effect on nitrogen cycling, especially the NH4
++ pool.
+Composite treatments that included tree thinning and pre-
+scribed fire generally induced showed greater positive soil
+responses compared to burning or thinning alone, a finding
+similar to that reported for fuels reduction treatments by Kalies
+and Yocom Kent (2016). This was true for all of the measured
+processes, and several nutrient pools. We believe that this is
+either because less fuel was consumed in the cases where debris
+was removed before burning, or because less of the soil sur-
+face was exposed to high temperatures in the cases where pile
+burns were implemented. Lower burn temperatures should lead
+to fewer nutrient losses by volatilization, oxidation, or con-
+vection (Fisher & Binkley 2000). Concentrating the impact of
+burning, and therefore omitting burn impacts over much of the
+soil surface, is likely to retain more of the plant cover, and soil
+biota biomass, thus reducing leaching losses. While burning
+alone has primarily negative effects on soil nutrient pools and
+cycling, and thinning has some positive effects, the composite
+treatment illustrates an interactive effect on frequent-fire forest
+ecosystems. Like treatments employing burning alone, losses of
+nutrients from O-horizons almost surely occurred in compos-
+ite treatments compared to thinning-only treatments. However,
+the presence of fire is an explicit part of the desired outcome of
+restoration of these ecosystems, and fire alleviates the need for
+costly recurrent thinning and removal of biomass. We suggest
+that, of the three ecological restoration approaches, compos-
+ite treatments most closely mimic the evolutionary environment
+of these ecosystems (Moore et al. 1999), and therefore is most
+likely to produce favorable responses both aboveground and
+belowground.
+While our systematic review suggests that composite treat-
+ments may exhibit an additive effect on macronutrient stocks,
+macronutrient cycling, and soil respiration, limited understand-
+ing exists for equivalence among contrasting treatments (e.g.
+burning alone vs. thinning and burning) in terms of soil and
+ecosystem function worldwide. Simply speaking, the effects of
+8
+Restoration Ecology
+
+Soil functional responses to ecological restoration
+prescribed burning alone on soil function are better understood
+compared to those resulting from burning following tree thin-
+ning or harvesting. For example, Wang et al. (2012) reported
+significant decreases in soil organic C and soil respiration, with
+increases in soil total N (observed relative to the control) in a
+meta-analysis of 76 papers related to wildfire, prescribed burn-
+ing, and soil macronutrients from around the globe. Prober et al.
+(2005) observed similar declines in soil ammonium and few
+changes in nitrate following repeated prescribed fires, conclud-
+ing that soil nitrate fluctuated greatly following burn-only treat-
+ments in restored grassy woodlands in temperate agricultural
+regions of Australia. Banning et al. (2007) found that thinning
+affected soil N cycling up to at least 2 years post-treatment, by
+increasing the potential for nitrification, particularly when com-
+bined with prescription burning for rehabilitated post-mining
+forests in Western Australia. Furthermore, our results align well
+with numerous studies reporting inconclusive or net losses in
+soil macronutrients following single and multiple prescribed
+burns in fire-prone grassy woodlands of Australia (Prober et al.
+2005; Burrows et al. 2010), Allepo pine (Pinus halepensis)
+shrublands of Spain (Outeiro et al. 2008), and following tree
+thinning and prescribed burning in other fire adapted ecosystems
+of North America (Knoepp et al. 2004; Boerner & Brinkman
+2004; Trammell et al. 2004; Grady & Hart 2006; Ganzlin et al.
+2016).
+Systematic Review Challenges and Data Gaps
+The results of our systematic review are representative of
+a methodical search of published research concerning soils
+responses to restoration treatments in frequent fire ecosys-
+tems of the western United States. Paralleling our findings,
+similar reviews have noted geographic irregularities in restora-
+tion science. For example, just under 80% of the studies
+used by Martinson and Omi (2013) were from the western
+United States (initial search was not limited to the United
+States) of which 50% were studies including data from
+only California, Arizona, Oregon, New Mexico, and Col-
+orado. Likewise, Kalies and Yocom Kent’s (2016) study
+was dominated by results from California, Arizona, Oregon,
+and Washington. These studies, with the addition of our
+work, suggest a possible under-representation of research
+results in other frequent-fire ecosystems of the western
+United States (those not dominated by ponderosa pine or
+Jeffrey pine), such as those in Idaho, Montana, Colorado, and
+Nevada.
+Furthermore, systematic reviews offer many advantages over
+other research synthesis techniques often used in ecology,
+forestry, and restoration ecology. The results may be more accu-
+rately evaluated, investigated, and updated. These are some of
+the reasons for its popularity in medicine and other fields. One
+of the ways in which bias is reduced in other fields is that sys-
+tematic reviews may be registered before being conducted, with
+strict protocols detailed in advance and followed during the
+review process (e.g. Higgins & Green 2009). There have been
+suggestions to adopt this practice in the field of conservation
+biology (e.g., Stewart 2010) and while it has slowly become
+a more prominent method, the fields of ecology, forestry and
+restoration ecology have yet to adopt them.
+While fire and thinning effects on soils have been summarized
+in review or meta-analysis publications (e.g. see Neary et al.
+1999; Johnson & Curtis 2001; Carter & Foster 2004; Certini
+2005; Nave et al. 2011), we present the first known applica-
+tion of systematic review methodology to quantitatively assess
+restoration treatment effectiveness. Nevertheless, our efforts to
+identify ubiquitous macronutrient, nutrient cycling, and soil res-
+piration response patterns were impeded by numerous obstacles.
+The primary problems included: (1) inconsistent quality of pub-
+lished data and results; (2) lack of rigorous study designs; and
+(3) a dearth of replicated studies where “restoration” was an
+explicit focus. These limitations indicate a clear need for more
+statistically rigorous studies (i.e. highly replicated, short- and
+long-term experimental designs with control treatments) and
+improved data reporting. Failure to sample or report on control
+treatments as well as collect and/or report quantitative macronu-
+trient, soil respiration, and microbiota responses resulted in ren-
+dering numerous studies unusable for meta-analysis.
+Although we were able to conduct analyses relevant to
+macronutrient pools, and N and C cycling, our understanding is
+still only partial. For example, we lack sufficient information on
+other N cycling processes such as N-fixation and denitrification.
+We were also unable to provide any new general insights regard-
+ing the soil biota, despite using several search terms intended to
+capture information about them. The soil biota may change in
+predictable ways in response to restoration treatments, and these
+community shifts could have contributed to observed changes
+in soil function. The major barrier that we encountered was the
+small number of studies presenting data describing the biota,
+and wide variation in the data reported among the studies. This is
+unsurprising, considering that there are many different attributes
+of the biotic community that could be measured, and many
+studies simply have different goals. Nonetheless, we can sug-
+gest some characteristics of the soil community and their func-
+tionality that may respond to ecological restoration and would
+be of broad interest and utility: (1) the ratio of fungi to bac-
+teria generally declines as organic substrate quality increases
+(Blagodatskaya & Anderson 1998) and (2) the ratio of arbus-
+cular to ectomycorrhizal fungi would be expected to increase in
+response to any ecological restoration technique that bolstered
+herbaceous vegetation. Such a shift in the foundational sym-
+biotic fungi is likely to ripple throughout the soil community,
+affecting ecosystem function (Antoninka et al. 2008; Cavagnaro
+et al. 2007). Increasingly economical next generation molecu-
+lar approaches such as HiSeq2000 and MiSeq Illumina platform
+sequencing (Caporaso et al. 2012), and bioinformatics pipelines
+such as QIIME (Quantitative Insights Into Microbial Ecology)
+(Caporaso et al. 2010), are expanding the possibilities of exam-
+ining the structure and diversity of soil microbial communities
+using standardized approaches.
+Conclusion
+The overall results of our systematic review of functional
+responses to restoration treatments in frequent-fire forests of
+Restoration Ecology
+9
+
+Soil functional responses to ecological restoration
+the western United States indicate that composite treatments
+combining small-diameter tree thinning and prescribed fire have
+an interactive effect and, for most variables measured, produce
+greater positive soil responses than burning or thinning treat-
+ments alone. When planning ecological restoration projects, in
+addition to the more well-known impacts to the aboveground
+vegetation from thinning and burning, the chemical, biologi-
+cal, and physical impacts to soils should be considered of equal
+importance.
+Acknowledgments
+We thank librarians M. DeJong and M. Eastwood of Northern
+Arizona University’s (NAU) Cline Library and are grateful
+to D. Normandin, J.P. Roccaforte, and M. Stoddard (NAU
+Ecological Restoration Institute) for their assistance with data
+extraction. This manuscript was funded by a grant from the
+USDA Forest Service. Northern Arizona University is an Equal
+Opportunity/Affirmative Action Institution.
+LITERATURE CITED
+Aerts R (1997) Climate, leaf litter chemistry and leaf litter decomposition in
+terrestrial ecosystems: a triangular relationship. Oikos 79:439–449
+Ainsworth EA, Long SP (2005) What have we learned from 15 years of free-air
+CO2 enrichment (FACE)? A meta-analytic review of the responses of
+photosynthesis, canopy properties and plant production to rising CO2. New
+Phytologist 165:351–372
+Allen CD, Savage M, Falk DA, Suckling KF, Swetnam TW, Schulke T, Stacey
+PB, Morgan P, Hoffman M, Klingel JT (2002) Ecological restoration of
+southwestern ponderosa pine ecosystems: a broad perspective. Ecological
+Applications 12:1418–1433
+Allen CD, Macalady AK, Chenchouni H, Bachelet D, McDowell N, Vennetier M,
+et al. (2010) A global overview of drought and heat-induced tree mortality
+reveals emerging climate change risks for forests. Forest Ecology and
+Management 259:660–684
+Antoninka AJ, Wolf JE, Bowker MA, Classen AT, Johnson NC (2008) Linking
+above- and belowground responses to global change at community and
+ecosystem scales. Global Change Biology 15:914–929
+Banning NC, Willers J, Grant CD, Grigg A, Murphy DV (2007) Combined thin-
+ning and burning impacts soil N cycling in rehabilitation jarrah (Eucalyp-
+tus marginata) forest. Pages 13–14. In: Xu ZH, Johnson CE, Chen CR,
+Blumfield TJ (eds) The Proceedings of the International Symposium on
+Forest Soils and Ecosystem Health. Centre for Forestry and Horticultural
+Research, Griffith University, Brisbane, Australia
+Bilotta GS, Milner AM, Boyd I (2014) On the use of systematic reviews to inform
+environmental policies. Environmental Science and Policy 42:67–77
+Blagodatskaya EV, Anderson TN (1998) Interactive effects of pH and substrate
+quality on the fungal-to-bacterial ratio and qCO2 of microbial communities
+in forest soils. Soil Biology and Biochemistry 30:1269–1274
+Boerner REJ, Brinkman JA (2004) Spatial, temporal, and restoration treatment
+effects on soil resources in Ohio hardwood forests. Pages 241–254. In:
+Yaussy D, Hix DM, Long RP, Goebel PC (eds) Proceedings of the 14th
+Central Hardwood Forest Conference. Gen. Tech. Rep. NE-316. U.S.
+Department of Agriculture, Forest Service, Northeastern Research Station,
+Newtown Square, Pennsylvania
+Burrows ND (2008) Linking fire ecology and fire management in south-west
+Australian
+forest
+landscapes.
+Forest
+Ecology
+and
+Management
+255:2394–406
+Burrows N, Ward B, Robinson A (2010) Fire regimes and tree growth in low
+rainfall jarrah forest of south-west Australia. Environmental Management
+45:1332–1343
+Callaham MA, Rhoades CC, Heneghan L (2008) A striking profile: soil ecolog-
+ical knowledge in restoration management and science. Restoration Ecol-
+ogy 16:604–607
+Caporaso JG, Kuczynski J, Stombaugh J, Bittinger K, Bushman FD, Costello
+EK, et al. (2010) QIIME allows analysis of high-throughput community
+sequencing data. Nature Methods 7:335–336
+Caporaso JG, Lauber CL, Walters WA, Berg-Lyons D, Huntley J, Fierer N,
+et al. (2012) Ultra-high-throughput microbial community analysis on the
+Illumina HiSeq and MiSeq platforms. ISME Journal 6:1621–1624
+Carter MC, Foster CD (2004) Prescribed burning and productivity in southern
+pine forests: a review. Forest Ecology and Management 191:93–109
+Cavagnaro TR, Jackson LE, Scow KM, Hristova KR (2007) Effects of arbuscular
+mycorrhizas on ammonia oxidizing bacteria in an organic farm soil.
+Microbial Ecology 54:618–626
+Certini G (2005) Effects of fire on properties of forest soils: a review. Oecologia
+143:1–10
+Clarke MF (2008) Catering for the needs of fauna in fire management: science
+or just wishful thinking? Wildlife Research 35:385–394
+Cohen J (1969) Statistical power analysis for the behavioral sciences. Academic
+Press, New York
+Concilio A, Ma SY, Li QL, LeMoine J, Chen JQ, North M, Moorhead D, Jensen
+R (2005) Soil respiration response to prescribed burning and thinning in
+mixed-conifer and hardwood forests. Canadian Journal Forest Research
+35:1581–1591
+Côté IM, Mosquera I, Reynolds JD (2001) Effects of marine reserve characteris-
+tics on the protection of fish populations: a meta-analysis. Journal of Fish
+Biology 59:178–189
+Covington WW, Moore MM (1994) Southwestern ponderosa forest structure:
+changes since Euro-American settlement. Journal of Forestry 92:39–47
+Covington WW, Sackett SS (1986) Effect of periodic burning on soil nitrogen
+concentrations in ponderosa pine. Soil Science Society America Journal
+50:452–457
+Covington WW, Sackett SS (1992) Soil mineral nitrogen changes following
+prescribed burning in ponderosa pine. Forest Ecology and Management
+54:175–191
+Covington WW, Fulé PZ, Moore MM, Hart SC, Kolb TE, Mast NJ, Sackett SS,
+Wagner MR (1997) Restoring ecological health in ponderosa pine forests
+of the Southwest. Journal of Forestry 95:23–29
+Davidson EA, Janssens IA (2006) Temperature sensitivity of soil carbon decom-
+position and feedbacks to climate change. Nature 440:165–173
+DeBano LF, Neary DG, Ffolliot PF (1998) Fire effects on ecosystems. John
+Wiley & Sons, New York
+DeLuca TH, Sala A (2006) Frequent fire alters nitrogen transformations in
+ponderosa pine stands of the inland northwest. Ecology 87:2511–2522
+DeLuca TH, Zouhar KL (2000) Effects of selection harvest and prescribed
+fire on the soil nitrogen status of ponderosa pine forests. Forest Ecology
+Management 138:263–271
+Dennison PE, Brewer SC, Moritz MA (2014) Large wildfire trends in the western
+United States, 1984–2011. Geophysical Research Letters 41:2928–2933
+Fisher RF, Binkley D (2000) Ecology and management of forest soils. 3rd edition.
+Wiley, New York
+Franklin JF, Johnson KN (2012) A restoration framework for federal forests in
+the Pacific Northwest. Journal of Forestry 110:429–439
+Fulé PZ, Crouse JE, Roccaforte JP, Kalies EL (2012) Do thinning and/or
+burning treatments in western U.S.A. ponderosa or Jeffrey pine-dominated
+forests help restore natural fire behavior? Forest Ecology and Management
+269:68–81
+Ganzlin PW, Gundale MJ, Becknell RE, Cleveland CC (2016) Forest restoration
+treatments have subtle long-term effects on soil C and N cycling in mixed
+conifer forests. Ecological Applications 26:1503–1516
+Gates S (2002) Review of methodology of quantitative reviews using
+meta-analysis in ecology. Journal of Animal Ecology 71:547–557
+Grady KC, Hart SC (2006) Influences of thinning, prescribed burning, and
+wildfire on soil processes and properties in southwestern ponderosa
+pine forests: a retrospective study. Forest Ecology and Management
+234:123–135
+10
+Restoration Ecology
+
+Soil functional responses to ecological restoration
+Gundale MJ, DeLuca TH, Fiedler CE, Ramsey PW, Harrington MG, Gannon
+JE (2005) Restoration treatments in a Montana ponderosa pine forest:
+effects on soil physical, chemical and biological properties. Forest Ecology
+Management 213:25–38
+Gurevitch J, Morrow LL, Wallace A, Walsh JS (1992) A meta-analysis of
+competition in field experiments. American Naturalist 140:539–572
+Hart SC, DeLuca TH, Newman GS, MacKenzie MD, Boyle SI (2005) Post-fire
+vegetative dynamics as drivers of microbial community structure and
+function in forest soils. Forest Ecology Management 220:166–184
+Hart SC, Selmants PC, Boyle SI, Overby ST (2006) Carbon and nitrogen cycling
+in southwestern ponderosa pine forests. Forest Science 52:683–693
+Hedges LV (1981) Distribution theory for Glass’ estimator of effect size and
+related estimators. Journal of Educational Statistics 6:107–128
+Hedges LV, Olkin I (1985) Statistical methods for meta-analysis. Academic
+Press, Inc., Orlando, Florida
+Hedges LV, Gurevitch J, Curtis PS (1999) The meta-analysis of response ratios
+in experimental ecology. Ecology 80:1150–1156
+Higgins JPT, Green S (2009) Cochrane handbook for systematic reviews of
+interventions. John Wiley & Sons Ltd., West Sussex, United Kingdom.
+http://handbook.cochrane.org (accessed 6 Jan 2017)
+Hough WA (1981) Impact of prescribed fire on understory and forest floor nutri-
+ents. Res. Note SE-303. U.S. Department of Agriculture, Forest Service,
+Southeastern Forest Experiment Station, Asheville, North Carolina
+Johnson DW, Curtis PS (2001) Effects of forest management on soil C and N
+storage: meta analysis. Forest Ecology Management 140:227–238
+Kalies EL, Yocom Kent LL (2016) Tamm Review: Are fuel treatments effective
+at achieving ecological and social objectives? A systematic review. Forest
+Ecology and Management 375:84–95
+Kaye JP, Hart SC (1998) Ecological restoration alters nitrogen transforma-
+tions in a ponderosa pine-bunchgrass ecosystem. Ecological Applications
+8:1052–1060
+Kaye JP, Hart SC, Cobb RC, Stone JE (1999) Water and nutrient outflow follow-
+ing the ecological restoration of a ponderosa pine-bunchgrass ecosystem.
+Restoration Ecology 7:252–261
+Klemmedson JO (1992) Decomposition and nutrient release from mixtures of
+Gambel oak and ponderosa pine leaf litter. Forest Ecology and Manage-
+ment 47:349–361
+Knoepp JD, Vose JM, Swank WT (2004) Long-term soil responses to site prepa-
+ration burning in the southern Appalachians. Forest Science 90:540–550
+Kolb TE, Agee JK, Fulé PZ, McDowell NG, Pearson K, Sala A, Waring RH
+(2007) Perpetuating old ponderosa pine. Forest Ecology and Management.
+249:141–157
+Laughlin DC, Moore MM, Bakker JD, Casey CA, Springer JD, Fulé PZ,
+Covington WW (2006) Assessing targets for the restoration of herbaceous
+vegetation in ponderosa pine forests. Restoration Ecology 14:548–560
+Lewis D, Kaye JP (2012) Inorganic nitrogen immobilization in live and sterile soil
+of old-growth conifer and hardwood forests: implications for ecosystem
+nitrogen retention. Biogeochemistry 111:169–186
+Ma SY, Chen JQ, North M, Erickson HE, Bresee M, Moine J (2004) Short-term
+effects of experimental burning and thinning on soil respiration in
+an
+old-growth,
+mixed-conifer
+forest.
+Environmental
+Management
+33:148–159
+van Mantgem PJ, Stephenson NL, Byrne JC, Daniels LD, Franklin JF, Fulé PZ,
+et al. (2009) Widespread increase of tree mortality rates in the western
+United States. Science 323:521–524
+Martinson EJ, Omi PN (2013) Fuel treatments and fire severity: A meta-analysis.
+Research Paper RMRS-RP-103WWW. U.S. Department of Agriculture,
+Forest Service, Rocky Mountain Research Station, Fort Collins, Colorado
+Miller SW, Budy P, Schmidt JC (2010) Quantifying macroinvertebrate responses
+to in-stream habitat restoration: applications of meta-analysis to river
+restoration. Restoration Ecology 18:8–19
+Moore MM, Covington WW, Fulé PZ (1999) Reference conditions and eco-
+logical restoration: a ponderosa pine perspective. Ecological Applications
+9:1266–1277
+Moore MM, Casey CA, Bakker JD, Springer JD, Fulé PZ, Covington WW,
+Laughlin DC (2006) Herbaceous vegetation responses (1992–2004) to
+restoration treatments in a ponderosa pine forest. Rangeland Ecology and
+Management 59:135–144
+Morrison DA, Buckney RT, Bewick BJ, Cary GJ (1996) Conservation conflicts
+over burning bush in south-eastern Australia. Biological Conservation
+76:167–175
+Mosquera I, Côté IM, Jennings S, Reynolds JD (2000) Conservation benefits of
+marine reserves for fish populations. Animal Conservation 4:321–332
+Moya D, De Las Heras J, Ferrandis P, Herranz JM, Martínez-Sánchez JJ (2011)
+Fire resilience and forest restoration in Mediterranean fire-prone areas.
+Technology and Knowledge Transfer e-Bulletin 2:1–5
+Mroz GD, Jurgensen MF, Harvey AE, Larsen MJ (1980) Effects of fire on
+nitrogen in forest floor horizons. Soil Science Society of America Journal
+44:395–400
+Nave LE, Vance ED, Swanston CW, Curtis PS (2011) Fire effects on temperate
+forest soil C and N storage. Ecological Applications 21:1189–1201
+Neary DG, Klopatek CC, DeBano LF, Ffolliott PF (1999) Fire effects on
+belowground sustainability: a review and synthesis. Forest Ecology and
+Management 122:51–71
+North MP, Stephens SL, Collins BM, Agee JK, Aplet G, Franklin JF, Fulé
+PZ (2015) Reform forest fire management—agency incentives undermine
+policy effectiveness. Science 349:1280–1281
+Outeiro L, Aspero F, Ubeda X (2008) Geostatistical methods to study spatial vari-
+ability of soil cation after a prescribed fire and rainfall. Catena 74:310–320
+Parker JD, Burkepile DE, Hay ME (2006) Opposing effects of native and exotic
+herbivores on plant invasions. Science 311:1459–1461
+Petticrew M (2001) Systematic reviews from astronomy to zoology: myths and
+misconceptions. British Medical Journal 322:98–101
+Petticrew M, Roberts H (2006) Systematic reviews in the social sciences: a
+practical guide. Blackwell, Oxford, United Kingdom
+Prober SM, Thiele KR, Lunt IA, Koen TB (2005) Restoring ecological function
+in temperate grassy woodlands: manipulating soil nutrients, exotic annuals
+and native perennial grasses through carbon supplements and spring burns.
+Journal of Applied Ecology 42:1073–1085
+Pullin AS, Stewart GB (2006) Guidelines for systematic review in conservation
+and environmental management. Conservation Biology 20:1647–1656
+R Core Team (2015) R: a language and environment for statistical computing.
+R Foundation for Statistical Computing, Vienna, Austria. http://www.R-
+project.org/
+Reinhardt ED, Keane RE, Calkin DE, Cohen JD (2008) Objectives and con-
+siderations for wildland fuel treatment in forested ecosystems of the inte-
+rior western United States. United States Forest Ecology and Management
+256:1997–2006
+Roberts PD, Stewart GB, Pullin AS (2006) Are review articles a reliable source
+of evidence to support conservation and environmental management? A
+comparison with medicine. Biologial Conservation 132:409–423
+Rosenthal R (1979) The “file drawer problem” and tolerance for null results.
+Psychological Bulletin 86:638–641
+Ryu SR, Concilio A, Chen JQ, North M, Ma SY (2009) Prescribed burning and
+mechanical thinning effects on belowground conditions and soil respira-
+tion in a mixed-conifer forest, California. Forest Ecology Management
+257:1324–1332
+Schmitz OJ, Hambäck PA, Beckerman AP (2000) Trophic cascades in terrestrial
+systems: a review of the effects of carnivore removals on plants. American
+Naturalist 155:141–153
+Selmants PC, Hart SC, Boyle SI, Gehring CA, Hungate BA (2008) Restoration
+of a ponderosa pine forest increases soil CO2 efflux more than either water
+or nitrogen additions. Journal Applied Ecology 45:913–920
+SER (Society for Ecological Restoration) (2004) The SER international primer
+on ecological restoration. Society for Ecological Restoration International,
+Science & Policy Working Group, Washington D.C.
+Stewart G (2010) Meta-analysis in applied ecology. Biology Letters 6:78–81
+Sun G, Caldwell PV, McNulty SG (2015) Modelling the potential role of forest
+thinning in maintaining water supplies under a changing climate across the
+conterminous United States. Hydrological Processes 29:5016–5030
+Restoration Ecology
+11
+
+Soil functional responses to ecological restoration
+Tang J, Qi Y, Xu M, Misson L, Goldstein AH (2005) Forest thinning and
+soil respiration in a ponderosa pine plantation in the Sierra Nevada. Tree
+Physiology 25:57–66
+Thompson SG, Sharp SJ (1999) Explaining heterogeneity in meta-analysis: a
+comparison of methods. Statistics in Medicine 18:2693–2708
+Trammell TLE, Rhoades CC, Bukaveckas PA (2004) Effects of prescribed fire on
+nutrient pools and losses from glades occurring within oak–hickory forests
+of Central Kentucky. Restoration Ecology 12:597–604
+Viechtbauer W (2010) Conducting meta-analyses in R with the metafor package.
+Journal of Statistical Software 36:1–48
+Wall DH, Fitter A, Paul E (2005) Developing new perspectives from advances in
+soil biodiversity research. Pages 3–30. In: Bardgett RD, Usher MB, Hop-
+kins DW (eds) Biological diversity and function in soils. British Ecological
+Society, Cambridge University Press, Cambridge, United Kingdom
+Waltz AEM, Stoddard MT, Kalies EL, Springer JD, Huffman DW, Sánchez
+Meador AJ (2014) Effectiveness of fuel reduction treatments: assessing
+metrics of forest resiliency and wildfire severity after the Wallow Fire, AZ.
+Forest Ecology and Management 334:43–52
+Wang QK, Zhong MC, Wang SL (2012) A meta-analysis on the response
+of microbial biomass, dissolved organic matter, respiration, and N
+mineralization in mineral soil to fire in forest ecosystems. Forest Ecology
+and Management 271:91–97
+Weed AS, Ayres MP, Hicke JA (2013) Consequences of climate change for
+biotic disturbances in North American forests. Ecological Monographs
+84:441–470
+Wieder WR, Cleveland CC, Smith WC, Todd-Brown K (2015) Future produc-
+tivity and carbon storage limited by terrestrial nutrient availability. Nature
+Geoscience 8:441–444
+Supporting Information
+The following information may be found in the online version of this article:
+Appendix S1. List of systematic review references.
+Coordinating Editor: Mark Paschke
+Received: 15 August, 2016; First decision: 13 September, 2016; Revised: 15
+March, 2017; Accepted: 20 March, 2017
+12
+Restoration Ecology

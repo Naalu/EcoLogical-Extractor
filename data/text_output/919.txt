@@ -1,0 +1,1946 @@
+Review
+Annotated Bibliography of the Global Literature on
+the Secondary Transportation of Raw and
+Comminuted Forest Products (2000–2015)
+Anil Koirala 1,2 ID , Anil Raj Kizha 1,*, Cornelis F. De Hoop 3, Brian E. Roth 4 ID , Han-Sup Han 5 ID ,
+Patrick Hiesl 6 ID , Dalia Abbas 7 ID , Shuva Gautam 8 ID , Srijana Baral 9, Steve Bick 10
+and Kamalakanta Sahoo 11
+1
+School of Forest Resources, University of Maine, Orono, ME 04469, USA; anil.koirala@psu.edu
+2
+Department of Agricultural and Biological Engineering, Pennsylvania State University,
+University Park, PA 16802, USA
+3
+Louisiana Forest Products Development Center, Louisiana State University, Baton Rouge, LA 70803, USA;
+cdehoop@lsu.edu
+4
+Cooperative Forestry Research Unit, University of Maine, Orono, ME 04469, USA; brian.roth@maine.edu
+5
+Ecological Restoration Institute, Northern Arizona University, Flagstaff, AZ 86011, USA;
+Han-Sup.Han@nau.edu
+6
+Department of Forestry and Environmental Conservation, Clemson University, Clemson, SC 29634, USA;
+phiesl@clemson.edu
+7
+Department of Environmental Science, American University, Washington, DC 20016, USA;
+saleh@american.edu
+8
+College of Natural Resources, University of Wisconsin-Stevens Point, WI 54481, USA;
+shuva.gautam@uwsp.edu
+9
+Warnell School of Forestry and Natural Resources, University of Georgia, Athens, GA 30602, USA;
+Srijana.Baral@uga.edu
+10
+Northeast Forest LLC, New York, Thendara, NY 13472, USA; steve@northeastforests.com
+11
+Forest Products Laboratory, US Forest Service, Madison, WI 53726, USA; ksahoo@fs.fed.us
+*
+Correspondence: anil.kizha@maine.edu; Tel.: +1-207-581-2581
+Received: 10 June 2018; Accepted: 9 July 2018; Published: 10 July 2018
+
+
+Abstract: Secondary transportation of raw and comminuted forest products is a major component
+in forest harvesting operations in terms of economics, public perception, and safety. Consequently,
+there is a substantial amount of literature on this topic. The existing literature has dealt with many
+of the technical aspects of transportation with a majority of them focusing on improving supply
+chain issues; however, there are only few speciﬁc to secondary transportation issues in general.
+This annotated bibliography will help practitioners, researchers, and stakeholders gain a better
+understanding of the existing literature from 2000 to 2015. To this end, we began by classifying the
+selected literature into six themes: cost, roads and routes, trucking, efﬁciency and safety, other modes
+of transportation, and supply chain and optimization. Woody biomass for bioenergy production was
+the most researched forest product with respect to transportation. About one-third of the articles were
+presented in the context of supply chain modeling and optimization. More than half of the studies
+originated from Europe while the United States had the most publications for any given country.
+Most articles (16) were published in 2013. Biomass and Bioenergy published the highest number of
+articles (29) during the timeframe.
+Keywords: forest biomass; timber harvest residue; supply chain; trucking; delivery; logging residue
+Forests 2018, 9, 415; doi:10.3390/f9070415
+www.mdpi.com/journal/forests
+
+Forests 2018, 9, 415
+2 of 28
+1. Introduction
+Transportation in forest operations can be broadly divided into two phases. The ﬁrst phase
+involves moving wood from the stump to the roadside/landing sites, referred to as primary
+transportation. The second phase involves the hauling of the processed forest products (sawlog,
+pulpwood, or energy wood biomass) from the roadside/landing sites to the processing facilities,
+referred to as secondary transportation [1]. Secondary transportation is considered to be one of the
+most expensive elements in the harvesting operation, generally accounting for 30–50% of the total
+cost, depending on the distance travelled and compared to the cost of the primary transportation [2–4].
+Therefore, improvements in secondary transportation may yield signiﬁcant overall cost reductions.
+Secondary transportation is predominantly road-based. Various factors inﬂuence the cost of
+secondary transportation including—but not limited to—the road network (road types) and conditions
+(infrastructure), cost of operating the truck, weight limitations, and hauling distance. Research
+generally focuses on the transportation problem addressing one or some of these factors, but rarely
+all at the same time. It cannot be expected that one research activity can look into all of these
+factors because addressing each topic requires expertise in different domains. Nonetheless, having all
+informational aspects on transportation integrated will be of great value to stakeholders.
+The purpose of this study is to address this gap by proposing a classiﬁcation of a collection of
+scientiﬁc literature and addressing several relevant topics in forest products secondary transportation.
+It provides an overview of the current state of the art, and helps in identifying knowledge gaps that
+require further attention. To this end, the objective of this article is to list the major ﬁndings from these
+studies and assess the chronological development of forest products secondary transportation research
+from 2000 to 2015.
+2. Materials and Methods
+2.1. Literature Review
+The literature was searched using major online databases and library catalogs: CrossRef, Scopus,
+Google Scholar, and Web of Science. The initial search started in November 2016 with three keywords:
+“forest transportation”, “forest trucking”, and “wood supply chain”, which yielded 71 scientiﬁc
+articles. After careful analysis of those articles, four more keywords, “forest optimization”, “biomass”,
+“sawlogs”, and “forest roads” were used to gather more literature. Additionally, the reference section
+of the previously-selected articles was also utilized for more speciﬁc search. A total of 169 scientiﬁc
+articles (related to forest products secondary transportation) were identiﬁed as relevant to this process.
+The four major journals with the highest publication frequency of related articles were selected and
+every issue of those journals from year 2000 to 2015 was searched again (Table 1). These journals were
+accessed through the University of Maine library resources from January to April 2016. A total of
+369 volumes and issues of these four journals were assessed in order to include all information in these
+four journals related to forest products transportation. A total of 131 articles were chosen as relevant
+for the purpose of this review. The article search was limited to English-written scientiﬁc articles.
+Table 1.
+Peer-reviewed journals that published articles related to forest products secondary
+transportation, 2000–2015.
+Journal
+Number of Publication
+Biomass and Bioenergy
+29
+Croatian Journal of Forest Engineering
+26
+International Journal of Forest Engineering (Journal of
+Forest Engineering before 2001)
+25
+Renewable and Sustainable Energy Reviews
+10
+European Journal of Operational Research
+3
+Forest Policy and Economics
+3
+Transportation Research: Part A
+2
+
+Forests 2018, 9, 415
+3 of 28
+Table 1. Cont.
+Journal
+Number of Publication
+European Journal of Forest Research
+2
+Canadian Journal of Forest Research
+2
+Journal of Cleaner Production
+2
+Western Journal of Applied Forestry
+2
+European Journal of Forest Engineering
+2
+Others (Journals with single publication) 1
+23
+Total
+131
+1 Publication details can be accessed from reference section.
+2.2. Literature Categorization and Classiﬁcation
+Based on the scope and objectives of articles identiﬁed, six major research themes emerged:
+I.
+Cost of transportation
+II.
+Roads and route planning
+III.
+Trucking characteristics
+IV.
+Efﬁciency and safety
+V.
+Other modes of transportation
+VI.
+Supply chain and optimization.
+The classiﬁcation is intended to facilitate compilation and reporting. Understandably, some of the
+themes overlapped. For example, there were several software and models which generated results that
+could be included in Theme II—roads and route planning and VI—supply chain and optimizations.
+Several articles dealt with more than one theme. Additionally, for minimizing ambiguity, no articles in
+one theme have been repeated in another.
+Theme I (cost) primarily dealt with articles focusing on ﬁnancial aspects of trucking operations.
+The theme also included articles related to detailed time studies; strategies to minimize the overall
+transportation costs; assessing the impacts of transportation distance on the ﬁnal cost of delivered
+forest products; and evaluating the performance of transportation cost estimating software and
+models. Theme II (roads and route planning), focused on every aspect of forest roads, including
+engineering, planning, design, construction, maintenance, spatial modeling, and computer software.
+Theme III (trucking characteristics) was speciﬁc to road transportation: truck size and conﬁguration,
+speed at various road conditions, weight limits, payload enhancement measures, trucking performance,
+and features of trailers.
+Theme IV (efﬁciency and safety) dealt with fuel efﬁciency, log truck
+accident analysis, social surveys with related stakeholders, evaluation of fuel consumption capacity,
+and potential effects of forest road erosion on the supply chain.
+Theme V (other modes of
+transportation) focused on articles dealing with railways and water transportation. Theme VI (supply
+chain and optimizations) included modelling supply chain in different regions, geospatial evaluations,
+linear programming, strategic and tactical planning, optimization of supply chain, decision support
+tools for wood procurement and management, and simulation of logistics models.
+Each article was evaluated for country of study, objectives researched and major ﬁndings,
+resulting in Table 2.
+Table 2. Distribution of articles related to forest products secondary transportation based on the
+geographic location of the study.
+Region
+Number of Articles
+Europe
+73
+North America
+43
+Asia
+8
+Australia & New Zealand
+3
+Africa
+2
+South America
+2
+
+Forests 2018, 9, 415
+4 of 28
+3. Results
+Out of the 131 articles reviewed, 127 were published in peer-reviewed scientiﬁc journals, three
+in conference proceedings, and one was a cooperative extension article.
+With more than 22%
+publications, Biomass and Bioenergy published the highest number of articles related to the ﬁeld,
+followed by the Croatian Journal of Forest Engineering (Table 1). On a regional basis, about 56% of the
+research articles were published by authors based in Europe, followed by 33% from North America
+(Table 2). However, the United States had the highest number of publications on a per country basis.
+Several articles were authored by authors from multiple countries.
+For the given period, the highest number of articles was published in 2013 (16 articles) followed by
+2005 (15) (Figure 1). Hence, the interest seems to be growing. On average, eight articles related to forest
+products transportation and supply chain were published per year from 2000 to 2015. Nearly 33% of
+the reviews were related to supply chain logistics and optimization (Figure 2).
+Figure 1. Distribution of articles related to forest products secondary transportation over the years of
+publication (2000 to 2015).
+Figure 2. Distribution of articles in forest products secondary transportation based on research themes.
+
+Forests 2018, 9, 415
+5 of 28
+3.1. Theme I—Cost
+There were 18 articles in this category, accounting for approximately 15% of the total articles
+reviewed. An average of a little more than one article per year was published in this category.
+A majority of the articles (more than 80%) were based on comminuted forest products, mainly wood
+chips, logging, and industrial residues for bioenergy and biofuel production (Table 3). The greatest
+number of publications (six articles) were based in the USA, followed by Sweden, Finland, and Austria.
+3.2. Theme II—Roads and Route Planning
+A total of 40 articles (about 31%) were categorized under this theme, averaging 2.5 articles
+published per year. Similar to the Theme I, the greatest number of publications were from the
+United States (12 articles) followed by Turkey, Croatia, Slovenia, Sweden, Iran, and Japan (Table 4).
+Articles related to GIS (Geographic Information Systems/Studies) modeling and linear and mixed
+integer programming to solve forest road planning problems were included in this theme instead of
+Theme VI (supply chain and optimization). Similarly, for articles analyzing costs related to certain
+aspects of forest roads (i.e., construction) were included in Theme II instead of Theme I (cost).
+
+Forests 2018, 9, 415
+6 of 28
+Table 3. Published scientiﬁc articles handling the cost of transportation. The cost values mentioned reﬂects the actual value presented in the article.
+Author(s)
+Country
+Wood Products *
+Research Objective(s)
+Major Finding(s) and/or Suggestions
+Acuna et al. [5]
+Australia
+3
+Demonstrated the beneﬁts of adjusting
+efﬁciency and cost of trucking.
+Model predicted a savings of 52% of costs in truck payload and 29%
+in chipper utilization.
+Aksoy et al. [6]
+USA
+4, 5
+Assessed economic impacts of four different
+types of bio-reﬁnery.
+Average transportation distance was 52 km to the bio-reﬁnery plants.
+Among different techniques evaluated simultaneous sacchariﬁcation
+and fermentation (SSF) and direct spouted bed (DSB) gasiﬁcation
+techniques were viable to conduct in terms of economy.
+Frisk et al. [7]
+Sweden
+1, 2, 3
+Used cost allocation method for allocating
+transportation costs among forest companies.
+Improved individual company-based planning saved about 5%
+transportation cost while collaboration between companies saved
+14% cost.
+Graham et al. [8]
+USA
+3, 4
+Estimated potential transportation costs of
+energy feedstock in eleven US states.
+Transportation cost was lowest in Iowa, North Dakota, and South
+Dakota the highest was in South Carolina, Missouri, Georgia
+and Alabama.
+Grebner et al. [9]
+USA
+1, 2, 3
+Excel-based program “Routechaser” to assess
+the impacts of different variables on
+transportation cost.
+This tool was useful for establishing contract rates from timber
+harvest units to markets.
+Jones et al. [10]
+USA
+4
+Analyzed ﬁnancial effects of changes in diesel
+and delivered biomass price on transportation.
+In case of lowest delivered biomass price ($32 ODT−1) and diesel
+price ($0.05 L−1), the ﬁnancially viable volume was 28%; while only
+6% was available with the highest diesel price ($1.32 L−1).
+Junjinger et al. [11]
+Sweden
+4
+Quantiﬁed cost savings in primary forest fuel
+supply chain.
+In forwarding and chipping major cost savings was obtained for
+forest fuel supply chain.
+Kizha et al. [3]
+USA
+4, 5
+Identiﬁed potential biomass feedstock
+available regionally based on
+transportation cost.
+Transportation cost zone within $20 ODT−1 had the highest potential
+supply of woody biomass for the region.
+Kurka et al. [12]
+UK
+3
+Allocated biomass feedstock supply to
+bioenergy plants and estimated
+transportation costs.
+Ten bioenergy plants could potentially produce 49 MW (megawatts)
+and 129 MW of electrical and thermal energy respectively. Based on
+this the transportation cost was calculated at ~$23 million year−1.
+Möller and Nielsen [13]
+Denmark
+3
+Estimated transportation costs.
+Large energy plants with optimal road connections had higher costs
+of fuel supply.
+Paolotti et al. [14]
+Italy
+6
+Compared and evaluated economic feasibility
+of various transportation modes.
+Road and water transport cost ranged between $19–120 ton−1 and
+$73–88 ton−1, respectively.
+Ranta and Rinne [15]
+Finland
+4
+Proﬁtability and possible measures for
+improving forest residue transportation.
+Most cost-efﬁcient way to transport raw material was in the form of
+bundles and most expensive was as loose residues. The difference
+between options increased with increase in distance.
+Rauch and Gronalt [16]
+Austria
+4
+Impacts of increasing energy costs on forest
+residue procurement costs.
+20% increment in energy costs resulted in 7% increment in
+procurement cost. Reducing the empty trips of trucks and trailers can
+reduce procurement costs.
+
+Forests 2018, 9, 415
+7 of 28
+Table 3. Cont.
+Author(s)
+Country
+Wood Products *
+Research Objective(s)
+Major Finding(s) and/or Suggestions
+Rauch et al. [17]
+Austria
+4
+Cost gap between co-operative and
+non-co-operative BSC (biomass
+Supply Chain).
+Collaboration between power plants reduced 23% transportation
+costs and 26% transportation distance.
+Spinelli et al. [18]
+Italy and
+USA
+1, 2
+Modelled transportation cost for short
+rotation plantations.
+Whole tree (WT) system proved to be cheaper in terms of
+transportation than the cut-to-length (CTL) system. The pulp chips
+delivered cost from WT was ~$21 GT−1 while it was $27–30 GT−1
+from CTL.
+Tahvanainen and Antilla [19]
+Finland
+3
+Estimated costs of forest chips
+procurement for long-distance transport.
+For shorter distances (<60 km), trucking of loose residues and
+end-facility comminution was most cost-effective while it was
+roadside chipping with chip truck transportation, for longer
+distances. For a distance range of 135–165 km, rail transportation
+provided lower cost.
+Yemshanov et al. [20]
+Canada
+4
+Potential amount and ﬁnancial costs of
+forest residue biomass supply.
+Annual available biomass was about ~19.2–23.3 Tg year−1 and
+16.5–20.0 Tg year−1. If residue extraction cost was decreased by 35%,
+the residues availability would have increased by ~5.5 to 5.7 times at
+$45 ODT−1 supply price and ~1.5 to 1.6 times at the $60 ODT−1
+supply price.
+Yoshioka et al. [21]
+Japan
+4
+Examined the cost viability of transporting
+logging residues.
+Comparison between European countries and Japan showed that
+there was need of a low-cost timber harvesting, transporting,
+and comminution techniques in Japan.
+* Type of wood products dealt in the article: sawlogs (1), pulpwood (2), wood chips (3), logging residue (4), sawmill residue (5), and wood pellets (6). ODT, oven dry ton; Tg year−1,
+tera-gram per year.
+
+Forests 2018, 9, 415
+8 of 28
+Table 4. Published scientiﬁc articles handling various aspects related to forest roads. The recommendation/ﬁndings are speciﬁc to the research/region and conditions
+described in the article.
+Authors
+Countries
+Objective(s)
+Major Findings and/or Suggestions
+Abeli et al. [22]
+Tanzania
+Addressed issues of road alignment and grades
+on a gravel forest road maintenance costs.
+Alignment and gradient of roads affected soil loss rate. Grades less than
+6% and a radius more than 100 m provided fewer maintenance costs.
+Akay and Sessions [23]
+Turkey
+Plan an alternative forest route from a software
+(TRACER) to predict lowest cost in terms of
+construction, maintenance and transportation.
+Unit costs were $46 m−1 and $28 m−1, respectively. for two given
+stations (A and B). Construction cost was the largest component,
+followed by maintenance and transportation costs.
+Akay et al. [24]
+Turkey
+Reviewed the evolution of software to design
+forest roads.
+Development of modern heuristics techniques such as “Tabu Search”,
+“Threshold Accepting”, “Simulated Annealing”, “Genetic Algorithm”,
+and their hybridization with traditional solution techniques into
+meta-heuristic algorithms can offer opportunities for future research.
+Aruga et al. [25]
+USA
+Optimized road alignments using the Dijkstra
+shortest path method and cubic spline function.
+The solution with a spline function was inferior compared to the
+solution without it. Additional investigations using given functions
+were recommended.
+Beck and Sessions [26]
+USA
+Determining access of woods chip trailers in
+forest roads utilizing Ant Colony optimization
+and Breakeven analysis.
+Forest transportation network that can accommodate larger trucks could
+lower hauling costs. Feasibility of biomass operations were depended on
+road modiﬁcation cost, transport volume, and transportation costs.
+Beck et al. [27]
+USA
+Developing a novel algorithm using aerial
+LiDAR for forest road extraction.
+Comparing geometric variables from aerial and terrestrial LiDAR
+datasets showed that the average difference in road width was 1.1 m,
+while the slope differences of cut/ﬁll was minimum of 4%. In addition,
+the difference in slope across road was only 2%.
+Boston et al. [28]
+USA
+Discussed the potential economic gain in
+construction of surface layer of roads by
+improving subgrade.
+Results from the study showed that a 34% saving in road aggregates cost
+was possible with improvement in road subgrades.
+Contreras et al. [29]
+USA
+Compared ant colony optimization (ACO)
+meta-heuristic and mixed-integer programming
+(MIP) to solve forest transportation
+planning problems.
+The solutions obtained from ACO were equal to or inferior to the MIP
+solution. However, the ACO algorithm took less computational time
+than the latter.
+Contreras et al. [30]
+USA
+Developing a model to enhance earthwork
+volume estimation for forest roads using digital
+elevation model with high resolutions.
+As the spacing of cross-section increased, the capability of the model to
+capture differences in terrain decreased. Thus, the correctness of
+earthwork volume estimation was low. As a result, short cross-section
+spacing was favorable to improve accuracy in earthwork volume
+estimation in the case of hilly and rugged terrain.
+Demir [31]
+Turkey
+Analyzed forest road network system.
+There was a need of ~201,000 km forest roads in Turkey. The anticipated
+time to complete those planned road networks was about 20 years.
+
+Forests 2018, 9, 415
+9 of 28
+Table 4. Cont.
+Authors
+Countries
+Objective(s)
+Major Findings and/or Suggestions
+Devlin et al. [32]
+Ireland
+Comparing the existing timber transportation
+routes from a central depot to other destinations
+with GIS (Geographic Information System/Studies)
+generated simulated routes.
+The ﬁndings showed that the real GPS (Global Positioning System)
+routes were not as same as the shortest route generated by the Network
+Analyst Tool (NAT). Nevertheless, after manipulation of NAT the
+similarity increased to more than 90%.
+Ghaffarian and Sobhani [33]
+Iran
+Determining the best-ﬁt forest road network that
+could minimize the total cost of road maintenance.
+The data analysis in Network 2000 based on pre-existing forest road
+network showed that the best solution can be achieved in the cost of
+27.19 € m−3.
+Ghajar et al. [34]
+Iran
+Demonstration of a procedure that incorporated
+rock proportion for embankment construction in
+forest roads.
+This approach was useful to show the variability of rock proportion and
+model excavation costs.
+Greulich [35] (review paper)
+USA
+Analyzed the evolution of transportation network
+in forest harvesting.
+Theoretical basis for transportation networks in forest harvesting was
+mainly developed by early European academics. From the 20th century,
+this theory sustained its development in America. In the last 50 years,
+there has been swift development in Europe and America, with Asia
+also offering signiﬁcant contributions.
+Gumus [36]
+Turkey
+Assessed the future use of forest road networks for
+sustainable forestry.
+The ﬁndings showed that most of the roads in the study area was in the
+standard to fulﬁll sustainable forestry target. However, 20% of the roads
+were in worse condition.
+Gumus et al. [37]
+Turkey
+Developing a new road network planning
+procedure and comparing it to pre-existing
+networks for environmental impact
+assessment (EIA).
+More than 90% of the planned roads were in minimum negative impact
+zone while only about 10% of the planned roads were in maximum risk
+zone. The purposed criteria for future road development was 20 m ha−1.
+Hernández-Díaz et al. [38]
+Mexico
+Assessing the impacts of forest roads on soil in a
+timber harvesting area.
+The level of ground along the truck ruts was decreased to about 38–58
+mm in rainy season by run-off. Removal of some tertiary roads were
+proposed for road density reduction. The expected soil loss reduction
+could be 20% with this proposed plan.
+Košir and Krˇc [39]
+Slovenia
+Presented the existing condition of forest road
+design and construction in Slovenia and adopt
+multi-criteria decision model to build new forest
+roads.
+Results showed that the terrain was suitable for the planning and
+execution of forest roads construction. The model proposed could be
+considered for future forest road construction in Slovenia.
+Krˇc and Beguš [40]
+Slovenia
+Developed a model that can identify inaccessible
+forests and helped in future forest roads planning.
+There was still 210,385 ha of inaccessible forests. The construction of
+758 km of new roads was planned at the national level to access some
+parts of the inaccessible forests. The researcher believed that the model
+could be used for different scenarios and for other regions in the world.
+
+Forests 2018, 9, 415
+10 of 28
+Table 4. Cont.
+Authors
+Countries
+Objective(s)
+Major Findings and/or Suggestions
+Lugo and Gucinski [41]
+USA
+Analyzed the function and effects of forest roads
+on forested rural landscape.
+The study suggested that a road ecosystem approach that incorporates
+environmental gradient analysis should be used for planning and design
+of forest roads.
+Murphy and Stander [42]
+USA
+Developed a two-stage robust optimization
+model to deal with the actual transportation
+problems in forestry.
+The results showed that the deterministic solution was unstable and
+dependent on some degree of uncertainty, that the robust solution was
+dependent on the variables used.
+Najaﬁand Richards [43]
+Iran and
+Canada
+Developed a model using mixed integer
+programming to design a forest road system
+including logging roads for trucking and access
+spurs for skidding.
+The model was able to reduce overall costs of road construction and
+maintenance. High-quality solutions were obtained in considerably
+less time.
+Najaﬁet al. [44]
+Iran
+Developed a model that can evaluate the
+efﬁciency of road network from the viewpoint
+of cost.
+The accepted network model had less environmental impacts, and the
+costs of road networking were minimized.
+Neveˇcerel et al. [45]
+Croatia
+Categorized forest roads by calculating the
+trafﬁc loads and distance with GIS tools.
+Designation of the forest roads by GPS and snap-back method offered a
+comparatively efﬁcient technique. The ﬁndings from the trafﬁc load
+examination suggested that the construction of the individual sections of
+same forest road could be done differently.
+Olsson [46]
+Sweden
+Mixed integer model (decision support system)
+for strategic planning of road investments for
+large areas focusing solely on gravel
+road upgrading.
+The study concluded that the all forest roads network should be
+optimized simultaneously. Even if the study area included 440 roads, it
+was expected that the approach could be useful for getting global
+optimal solutions.
+Olsson [47]
+Sweden
+Comparison of a solution from two-stage
+stochastic model (SM) to optimize the
+upgrading of a forest road network with that of
+deterministic scenario analysis model (SAM).
+The solutions obtained from SM and SAM were different. In fact, the
+solution from SM model was 2.9% better than that of SAM.
+Olsson and Lohmander [48]
+Sweden
+Optimized round wood transport and road
+investments on the gravel road.
+The solutions obtained were near to optimal for investment decisions for
+gravel roads.
+Pellegrini et al. [49]
+Italy
+Use of decision support system to prioritize the
+maintenance of forest road network.
+The ﬁndings suggested that the combined use of GIS tools and Analytic
+Hierarchy Process techniques could give important decision regarding
+forest road management. The priority ranking was made for road
+maintenance based on actual conditions.
+Pentek et al. [50]
+Croatia
+Analysis of the quality of existing forest road
+network using GIS.
+The analysis helped the forest managers to allocate resources efﬁciently
+to speciﬁc forest areas. The overall relative openness of the selected
+forest areas was 81.04%. The road network efﬁciency coefﬁcient obtained
+from the analysis was 42.37%.
+
+Forests 2018, 9, 415
+11 of 28
+Table 4. Cont.
+Authors
+Countries
+Objective(s)
+Major Findings and/or Suggestions
+Pentek et al. [51]
+Croatia
+Analyzed and discussed the overall status of
+forest roads in Croatia with focus on planned
+openness, and average construction and
+design cost.
+An average of 272 and 319 km of lower and upper forest road layers
+were constructed annually at an average cost of 118,134 and 135,020
+Croatian Kuna km−1, respectively.
+Péterfalvi et al. [52]
+Hungary
+Assessed the lime-stabilization effects on the
+forest road pavement.
+The bearing capacity of the lime stabilization was 500 MPa. For long
+term performance, 25–35 cm of lime stabilization under the pavements
+was considered good.
+Potoˇcnik et al. [53]
+Japan
+Maintenance of forest road network in the
+natural forest management conditions.
+The main roads were maintained every year while the management
+roads every 10 years, coinciding with the rotation year of
+selection cutting.
+Potoˇcnik et al. [54]
+Slovenia
+Analyzed trafﬁc load on forest roads due to
+forest operations.
+The cumulative trafﬁc load and hauled forest products quantity were
+highest at the cross-section of forest roads and public roads while it was
+lowest at the farthest point from public road.
+Robek and Klun [55]
+Slovenia
+Innovations and trends in forest road
+construction in Slovenia.
+The study showed forest road network in Slovenia was not considered
+optimal. It was becoming increasingly worn out, and the new
+transportation technologies demand certain adaptations to be made in
+the existing technical elements.
+Saito et al. [56]
+Japan
+Examined a model that uses LiDAR data to
+spontaneously design forest roads on shallow
+landslides area.
+The program that used a LiDAR-based digital terrain model could
+minimize the earthwork costs while avoiding shallow landslide
+risk areas.
+Sessions and Boston [57]
+USA
+Determined optimal policies for road
+aggregates management.
+A mathematical model was suggested to determine optimal policies to
+manage high quality durable rock aggregates resources.
+Stückelberger et al. [58]
+Switzerland
+Estimated the life-cycle costs of forest roads.
+By using location-speciﬁc slope gradients, costs reduced by 17% from
+that of available practices. Nevertheless, when both slope gradient and
+geotechnical formations were included, the costs decreased by 20%.
+Tan [59]
+Australia
+Optimized internal forest road location.
+A programming procedure integrated with a spatial database and
+transportation network models were used to assist foresters in
+determining the optimum location for a forest road.
+Trzci´nski and Kaczmarzyk [60]
+Poland
+Evaluated the carrying capacity of forest roads
+with slag and gravel pavements.
+The carrying capacity of slag and gravel pavements was insufﬁcient.
+The largest mean deformation module for gravel pavement was
+123 MPa. The two-ply gravel pavements that was 25 cm in thickness was
+only able to comply with the requirements of low trafﬁc intensity.
+
+Forests 2018, 9, 415
+12 of 28
+3.3. Theme III—Trucking Characteristics
+This section comprised of 14 articles which was about 11% of the total (Table 5). About 60% of
+the studies were related to the transportation of sawlogs and pulpwood. A total of ﬁve studies were
+carried out in the USA followed by four in Finland. Apart from trucking features, Theme III also
+included topics such as GPS tracking systems, options for backhauling empty trucks, and a solution
+for truck scheduling problems in forest operations.
+3.4. Theme IV—Efﬁciency and Safety
+There were 11 articles in this category contributing to 8% of total literature, with an average of
+less than one article was published per year (Table 6).
+3.5. Theme V—Other Modes of Transportation
+Only ﬁve articles comprised this category which was the least of all categories (Table 7).
+Even though this theme is associated with modes of transportation other than trucking, certain articles
+involved trucking as internodal or intermediate transportation.
+3.6. Theme VI—Supply Chain and Optimization
+The supply chain logistics and optimization was the most studied topic related to forest products
+transportation in the given timeline. There were 42 articles in this category with an average frequency
+of 2.6 articles per year (Table 8). More than 70% of the studies were based on biomass, energy woods
+and logging residues. The highest number of studies were carried out in Canada and the US with eight
+articles each, followed by Sweden (six articles), and Finland and Greece (ﬁve articles each).
+
+Forests 2018, 9, 415
+13 of 28
+Table 5. Published scientiﬁc articles handling various aspects related to forest trucking. The recommendations/ﬁndings are speciﬁc to the research/region and
+conditions described in the article.
+Authors
+Countries
+Wood Products *
+Objectives
+Major Finding(s) and/or Suggestions
+Antonaide et al. [61]
+Romania
+1
+Estimate maximum loading heights for
+vehicles used in timber transportation.
+The maximum truck load height for average conditions varied the
+main characteristics of the loading-unloading equipment, as well as
+the maximum allowable loads per axle.
+Devlin and McDonnell [62]
+Ireland
+1
+Evaluated the performance of real-time GPS
+asset tracking systems for timber
+hauling trucks.
+The horizontal root mean square (HRMS) accuracy values were
+2.55–2.47 m for public roads while, for forest road, the values were
+27–41 m.
+Han and Murphy [63]
+USA
+3
+Modelled woody biomass truck
+scheduling problem.
+An optimization model was developed for transporting four types of
+woody biomass. The model was signiﬁcantly improved by using
+50-load order size within 18 s. The transportation costs and travel
+time reduced by 18 and 15%, respectively.
+Han et al. [64]
+USA
+4
+Evaluate the economic feasibility of removing
+hand-piled slash using a roll off trucking
+system in mountainous terrains.
+The overall cost to collect and haul hand-piled slash was $34 ODT−1.
+The roll-off trucking system was found to be better for short hauling
+distances because trucking costs signiﬁcantly increased with small
+increases in distance.
+Laitila and Väätäinen [65]
+Finland
+2
+Evaluated the truck transportation
+productivity for whole trees and
+energy woods.
+Whole-tree harvesting, chipping, and trucking near roadside landing
+was the most cost-efﬁcient technique. The transportation
+productivity of energy shortwood was higher than whole-tree.
+Malinen et al. [66]
+Finland
+1, 2
+Surveyed challenges related to timber trucking
+in a changing operational environment.
+Half of respondents thought that the proﬁtability of timber trucking
+had decreased greatly. Results showed most inﬂuential infrastructure
+factor affecting timber trucking was winter maintenance,
+including removing snow and ice and anti-slip measures.
+McDonald et al. [67]
+USA
+1, 2
+Applying optimization techniques to reduce
+the distance driven by log-truck.
+The optimized route achieved a loaded-distance driven proportion of
+66%, which was signiﬁcantly higher than the human-assigned routes.
+This could save the ﬁrm up to 24,000 km of road per year.
+Nurnimen and Hainonen [68]
+Finland
+1
+Introduced time-consumption models for
+general logs transportation in Finland.
+The models included explanatory variables like driving distance,
+number of log decks, log product and load volume. The models
+showed optimal solution to calculate the cost and proﬁtability of
+trucking activities.
+Palander et al. [69]
+Finland
+3
+Presented a backhauling model to minimize
+empty travel phase of trucks while returning.
+The results proved that the method was able to minimize the travel
+empty route of log trucking.
+
+Forests 2018, 9, 415
+14 of 28
+Table 5. Cont.
+Authors
+Countries
+Wood Products *
+Objectives
+Major Finding(s) and/or Suggestions
+Picchi and Eliasson [70]
+Sweden
+3
+Evaluated the use and performance of
+container handling chipper trucks (CCT).
+The average productivity varied between 9.3 and 13.5 ODT PMH0
+based on grapple choice. For CCT, a standard residue grapple proved
+better. With wise planning and adjusting the number of container
+trucks used, total waiting expenditures could be minimized.
+Roscher et al [71]
+Sweden
+1, 2, 3
+Examined transport patterns of trucks with
+(ﬁrst group) or without the support (second
+group) using mobile data systems (MDS).
+Trucks with MDS attached were able to reach more destinations per
+day than trucks without.
+Shafer and Stuart [72]
+USA
+1, 2, 3
+Developed a checklist for efﬁcient log trucking.
+A guideline for efﬁcient timber trucking for the state of Virginia.
+Spinelli et al. [73]
+Europe
+2
+Tested a chipper truck performance in different
+geographic conditions.
+Productivity was from 13 to 19 tons green chips per hour with delays.
+Fuel consumption was between 1.8 and 2.8 liter per ton of green
+chips. Machine utilization was from 68 to 89%.
+Thompson et al [74]
+USA
+2
+Evaluated the transportation of in-wood
+chipped biomass.
+The larger trailers (94 m3) can accommodate 19% more volume than
+conventional trailers (76 m3). However, it only increased the payload
+by 10%. If used exclusively, larger trailers can reduce to six loads to
+transport all chips from the site.
+* Wood products: sawlogs (1); pulpwood (2); wood chips (3); and logging residue (4).
+
+Forests 2018, 9, 415
+15 of 28
+Table 6. Published scientiﬁc articles handling various aspects related to efﬁciency in transportation. The recommendations/ﬁndings are speciﬁc to the research/region
+and conditions described in the article.
+Authors
+Countries
+Objectives
+Major Finding(s) and/or Suggestions
+Abbas et al. [75]
+USA
+Surveyed current forest operation capacity and its
+supply potential for large scale startup industries.
+The survey had 28% response rate. The study provided the new insight
+to forest trucking in the region.
+Arce et al. [76]
+Brazil
+Solved forest-level bucking optimization problem
+by considering transportation costs.
+There were two modules in the system: Cutting Pattern Generation
+(CPG) and the Global Bucking Optimization (GBO). Apart from these
+the biometrics, like tree height, taper, and volume, were also integrated
+in the system for optimal solution.
+Greene et al. [77]
+USA
+Analyzed log hauling vehicle accidents in
+Georgia, USA.
+Accidents per million tons of wood consumed had increased steadily
+from 11 in 1991 to 19 in 2003.
+Hall et al. [78]
+New Zealand
+Identiﬁed promising delivery systems of logging
+residues to an energy plant and evaluate the
+associated costs.
+The cheapest system identiﬁed ranged from NZ$22–37 ODT−1 for
+residues from the landing and NZ$29–42 per ODT for those collected
+from the cutover.
+Hedlinger et al. [79]
+Sweden
+Examined the service divergence potential of round
+wood transport.
+The results showed that the focus for the wood suppliers and
+transporters was the mill service. The top ranked service focus was
+“maintaining suitable stock level”, while the second ranked was
+“delivery precision”.
+Holzleitner et al. [80]
+Austria
+Analyzed time and fuel consumption in road
+transport for round wood.
+The transport distance from the forest to sawmill averaged 51 km.
+The average share on forest roads within a route to the sawmill was 14%
+with an average speed of 14 km per hour. Transport cost was € 11 m−3
+for average load size of 25 m3. The average fuel consumption was
+0.77 L km−1 of diesel.
+Jerbi et al. [81]
+Canada
+Evaluated supply chain management policies in the
+forest products industry using simulation
+based framework.
+The framework was based on two phases. The tactical phase was
+supported by software called LogiLab. In the second phase, the user
+evaluated this policy at the operational/execution level on combination
+with execution policies, using a discrete events simulation supported by
+Simio software.
+Klvaˇc et al. [82]
+Czech Republic
+Evaluated fuel consumption by timber trucks.
+The results showed that the fuel consumption of trucks decreased by
+0.5 L m−3 by the use of new trucks and trailers during study period.
+Rackley and Chung [83]
+USA
+Analyzed the effects of forest road erosion and
+incorporated it on transportation planning.
+The results indicated that by considering different environmental effects
+in transportation plans, an alternative road networks could be made.
+This can help reduce the loss of large amount of sediments.
+Ranta and Corpinen [84]
+Finland
+Maximized the forest fuel supply availability to
+power plants
+The total availability of forest fuel to the CHP (combined heat and
+power) plants was 7 TWh (terawatt hour(s)) at a maximum
+transportation distance of 100 km.
+Sikanen et al. [85]
+Finland
+Investigated an internet-based, general-purpose
+logistics control system, using mobile terminals in
+forest fuel chipping and transportation.
+The management tool, Arbonaut Fleet Manager TM, was tailored for
+forest fuel supply chain management and trailed for three months.
+It was found that use of mobile handsets with GPS and map display
+assisted in ﬁnding exact location of in-wood storage piles.
+
+Forests 2018, 9, 415
+16 of 28
+Table 7. Published scientiﬁc articles handling various aspects related to other modes of primary transportation. The recommendation/ ﬁndings are speciﬁc to the
+research/ region and conditions described in the article.
+Authors
+Countries
+Wood Products *
+Objectives
+Major Finding(s) and/or Suggestions
+Ackerman and Pulkki [86]
+South Africa
+2
+Analyzed economic impact of secondary
+intermediate transportation (SIT) of pulpwood.
+The ﬁndings showed that the average annual penalty because of
+maintaining SIT for South African forest industry was SA$4.32 million or
+US $0.82 m−3. This showed the need of maintaining good quality forest
+roads and eliminating the SIT system.
+Asikainen [87]
+Finland
+1
+Simulated barge transportation of wood from
+forests to an island.
+A new push barge system was compared to the available powered barge
+system for wood transportation. Setting with three barges together gave
+the lowest transportation costs when the distance was higher than
+100 km. However, for shorter distance, the available system was cheaper.
+Flodén and Williamsson [88]
+Sweden
+3
+Evaluated the business models for sustainable
+biofuel transport using intermodal transport.
+Some of the key ﬁndings that can increase the potential of intermodal
+transportation were increased cooperation, sharing of transport
+resources and infrastructure, joint purchases, and others.
+Gonzales et al. [89]
+USA
+3
+Evaluate cost and productivity associated with
+various mode of transportation; rail, road
+and barge.
+Barge transportation was the cheapest option for transporting densiﬁed
+biomass feedstock from mid-west to southeast USA. Unit trains were the
+cheapest mode for distance over 340 km, from mid-west to the west USA.
+For shorter distances, trucking was the cheapest option.
+Lautala et al. [90]
+USA
+3
+Analyzed the role of railroads in multimodal
+transportation in Michigan, USA.
+Challenges associated with rail transportation of forest products were
+short length of trip; many point of origins with limited shipping
+volumes; difﬁculty to reach destination without rail to rail interchanges;
+and lack of rail access.
+* Wood products: sawlogs (1); pulpwood (2); biomass (3).
+
+Forests 2018, 9, 415
+17 of 28
+Table 8. Published scientiﬁc articles handling various aspects related to forest products supply chains. The recommendations/ﬁndings are speciﬁc to the
+research/region and conditions described in the article.
+Authors
+Countries
+Wood Products *
+Objectives
+Major Finding(s) and/or Suggestions
+Akhtari et al. [91]
+Canada
+3
+Literature review on economic assessment of district energy
+systems using forest biomass feedstock.
+Bulk density showed the highest impact for the transportation cost and
+choice of biomass type. Transportation cost contributed to 50% of the total
+delivered costs.
+Arabatzis et al. [92]
+Greece
+3, 5
+Examined the uncertainty of demand in the biomass supply
+chain (BSC).
+The generated model can be used to minimize the total cost of operation,
+including fuel wood transportation.
+Asikainen [93]
+Finland
+1, 2, 3, 5
+Analyzed the effects of integration of work tasks and supply
+chains in wood harvesting.
+At the operational level, integration enabled in improving cooperation
+between the sawlog and biomass logging crews and ﬂeet.
+Aydinel et al. [94]
+Canada
+1, 2, 3
+Analyzed different options for a wood manufacturing
+company for transportation of different forest products to
+different customers.
+Models were run, and the test results indicated the possibilities of cost
+savings over the company’s current practices. The company further
+customized the models. The approach resulted in real cost savings for
+the company.
+Beaudoin et al. [95]
+Canada
+1, 2, 3
+Developed a detailed tactical model to support centralized
+annual planning by an integrated forest company that may
+own several mills, and allowed for wood exchanges
+between companies.
+The results showed that the purposed MIP approach could achieve 9%
+proﬁt compared to deterministic model that uses average parameter value.
+The sensitivity analysis showed that the accurate inventory of standing
+trees and market conditions were the most important variables.
+Cambero and Sowlati [96]
+Canada
+3
+Reviewed studies focusing on the economic, social and
+environmental aspects of forest BSC.
+Most of the problems studied used mixed integer programming models.
+The main objectives of the reviewed articles were to minimize biomass
+supply chain cost and, to some extent, maximize proﬁt.
+Carlsson and Rönnqvist [97]
+Sweden
+1, 2, 3
+Developed a supply chain management model.
+Five projects to improve supply chain were described. The models
+provided better decision support. The major beneﬁt included objective
+based discussions and decision “over the borders” between stakeholders.
+Díaz-Yáñez et al. [98]
+Europe
+3
+Reviewed the current procurement methods for wood chips.
+The main source of wood chips in EU (European Union) was logging
+residue which in future could be replaced by stumps and round wood.
+With the development of novel technology, countries could improve the
+efﬁciency of the supply.
+Dumanli et al. [99]
+Turkey
+5
+Investigated logical aspects of forest BSC.
+Results showed that Turkey has good rail and road infrastructures to
+transport and utilize its available biomass resources in coming future.
+Eriksson et al. [100]
+Sweden
+3, 5
+Evaluated numerous systems for stump wood transport to
+minimize costs.
+The results showed high variation in productivity and costs of different
+systems. The system that utilized the self-loading truck was
+proved efﬁcient.
+Forsberg [101]
+Sweden
+5
+Life cycle methods to analyze bioenergy transport.
+The results showed that there was possibilities to transport biomass from
+Scandinavian countries to Netherland without affecting the environmental
+beneﬁts from it.
+Frayret et al. [102]
+Canada
+1, 2, 3
+Developing a new generic software to test forest products
+distribution planning and scheduling systems.
+The program presented signiﬁcant improvements in wood supply chain
+than manual level of planning process.
+
+Forests 2018, 9, 415
+18 of 28
+Table 8. Cont.
+Authors
+Countries
+Wood Products *
+Objectives
+Major Finding(s) and/or Suggestions
+Freppaz et al. [103]
+Italy
+3
+Assessed the supply of forest biomass for thermal and
+electric energy production.
+The biomass resources available in the study area was split into subsections
+of varying sizes. This system helped in determining and analyzing the cost
+of harvesting and transporting of forest biomass for energy production.
+Frombo et al. [104]
+Italy
+3
+Detail description of strategic planning of woody
+biomass logistics.
+The GIS-based Environmental Decision Support System (EDSS) was able
+to generate an optimal solution in terms harvesting and transportation.
+Gautam et al. [105]
+Canada
+1, 2, 3
+Analyzed scientiﬁc articles focusing on the improvement of
+the agility of wood procurement systems (WPS).
+The review identiﬁed opportunities to improve the agility of WPS.
+The suggestion from the review was to focus on higher investments in
+agility section to gain higher proﬁts in wood supply chain.
+Gerasimov et al. [106]
+Russia
+4
+Developed a GIS-based system to support planning of
+shortwood transport in Russia.
+The system showed an increase of 40% in the efﬁciency of shortwood
+transportation. The system could be used for numerous purposes.
+Gold and Seuring [107]
+Germany
+3, 5
+Synthesized the information from scientiﬁc literatures that
+covers issues of bioenergy production and BSC.
+Most of the articles were from the Biomass and Bioenergy journal, whereas
+the year with most publications was 2007. The primary focus was on the
+system design for bioenergy production.
+Gronalt and Rauch [108]
+Austria
+5
+Designed a regional forest fuel supply network in Austria.
+The overall supply chain cost decreases with reduction in distance.
+The regional terminals were crucial for cost reduction. In order to obtain
+an optimal supply network, the costs of transporting to terminals and to
+plants should be considered.
+Gunnarsson et al. [109]
+Sweden
+5
+Mathematical model to analyze BSC.
+Two modeling approaches were used. The heuristic method was two time
+faster than “CPLEX 6.5” programming. The presented model could be
+used for strategic and tactical planning of forest biomass supply chain.
+Haartveit and Fjeld [110]
+Norway and Sweden
+1, 2, 3, 4
+Using Wood Games (WG) approach to study the effects of
+different components of supply chain on its performance.
+The wood game (WG) approach was useful for ﬁnding out the challenges
+associated with forest products supply chain.
+Kanzian et al. [111]
+Austria
+5
+Designed forest energy supply network using
+multi-objective optimization.
+The results showed that to minimize CO2 emissions, 30% of biomass
+should be transported in chipped condition from the terminal, 50% in
+chipped condition directly from the forest, and the remaining should be
+transported in raw or solid form from forest to plant.
+Kühmaier and Stampfer [112]
+Austria
+5
+Developed a decision tool for managing energy
+wood supply.
+The cut-to-length and tree-length methods were more suitable than
+whole-tree system. The comminution of wood was preferred at terminals
+or plants rather than on forest roads.
+Kurian et al. [113]
+Canada
+3
+Reviewed the alternative logistical practices for important
+ligno-cellulosic biomass feedstock.
+Results showed that it was not economical to increase transportation
+distance of biomass for its value addition. Involvement of locals in
+biomass collection, and transportation could help to systemize the process.
+Lautala et al. [114]
+USA
+3
+Reviewed opportunities and challenges in designing BSC.
+Important challenges were availability of data; lack of a mutual agenda;
+and less integrated analysis.
+Miao et al. [115]
+USA
+3
+Reviewed equipment conﬁguration, regulations and
+transportation costs of supplying biomass feedstock
+for bioenergy.
+At present, road transportation is the most used system for biomass
+transport. The ﬁndings suggested to consider the use of intermodal system
+(using more than one system together) in near future.
+
+Forests 2018, 9, 415
+19 of 28
+Table 8. Cont.
+Authors
+Countries
+Wood Products *
+Objectives
+Major Finding(s) and/or Suggestions
+Nivala et al. [116]
+Finland
+5
+Assessed the hauling of energy woods from forests to
+power plants for longer distances.
+Train-based system was cost efﬁcient than traditional trucking system.
+The total cost of supply chain that used high-capacity transport (HCT)
+vehicles of 68 and 76 tons was lower than the train-based system.
+Rantala et al. [117]
+Finland
+6
+Analyzed the cost and spatial information for long distance
+seedling transportation.
+Cost-effectiveness was improved by centralized transportation strategy
+than decentralized transportation strategy. The cost saving observed was
+from 13 to 37%, depending upon number of nurseries and other factors.
+Rauch and Gronalt [118]
+Austria
+5
+Suggested choice of spatial arrangement of terminal facility
+in the forest fuel supply network.
+A simulated increase made in the transportation cost of forest fuel depicted
+that the presented model was stable for such increase up to 20–50%.
+Ravula et al. [119]
+USA
+3
+Simulated cotton logistics as a model for a forest biomass
+transportation system.
+The utilization factor of the transportation system improved to 99% by
+implementing the new strategy.
+Rentizelas et al. [120]
+Greece
+3
+Compared three biomass storage techniques, in terms of
+total supply chain cost.
+The lowest cost storage system was the most efﬁcient solution.
+However, it showed some health and safety risks.
+Selkimäki et al. [121]
+Finland and Sweden
+3
+Analyzed the trends in wood pellets supply chain logistics.
+The transportation cost was lower because of the vicinity of wood pellet
+plants to the source. Trucks were the primary means of transportation.
+Shabani et al. [122]
+Canada
+3
+Reviewed scientiﬁc research on deterministic and stochastic
+mathematical models in BSC.
+The focus of those studies was on the economic aspects of BSC. Topics like
+environmental and social aspects should be considered in future studies.
+Sharma et al. [123]
+USA
+3
+Reviewed BSC design and modelling.
+Approximately 41% of the work related to modelling of BSC was from
+2011. Common network design for most of the models had biomass supply
+sites, collection sites, and processing sites.
+Stone et al. [124]
+USA
+3
+Evaluated BSC and harvesting innovation activities among
+logging contractors.
+Extraordinary collaboration among the key players of BSC (landowners,
+logging contractors, and biomass consuming facilities) was regarded
+essential for innovations to enter the forest products industry.
+Troncoso and Garrido [125]
+Chile
+1, 2, 3
+Presented a mathematical model to solve problems related
+to forestry logistics.
+The validation process showed that the model was applicable to the real
+world problems. The model was expected to enhance the capabilities of
+forest companies.
+Uusitalo [126]
+Finland
+1
+Developed an outline for CTL (cut-to-length)-based wood
+products logistics.
+The future studies should focus more on improving harvesting type
+classiﬁcation and available transportation systems.
+Valenzuela et al. [127]
+USA
+1, 2, 3
+Proposed a computer meta-heuristic model for scheduling
+several silvicultural projects simultaneously.
+A small size problem with ﬁve worksites, solutions could be obtained in
+less than four minutes using the model. Larger problems with 20 worksites
+took 30 min.
+van Belle et al. [128]
+Belgium
+5
+Presented a technique to create a wood-based supply chain
+for power plants by taking into account of different
+economic, ﬁnancial and resources constraints.
+The total available wood resources in the study area was 400,000 dry tons
+per year. The capital cost for equipment ranged from 45,860 to 545,366
+Euros. The productivity of high cost system was 105 Euro per dry ton
+while it was only 31 Euro for the least expensive system.
+Van Dyken et al. [129]
+Norway
+3
+Developed a linear mixed-integer models for biomass
+supply chains.
+A linear model for biomass supply chain was developed and tested for
+case study. The model presented in the study was regarded as a baseline
+model by researchers for future studies and development.
+
+Forests 2018, 9, 415
+20 of 28
+Table 8. Cont.
+Authors
+Countries
+Wood Products *
+Objectives
+Major Finding(s) and/or Suggestions
+Windisch et al. [130]
+Germany
+1, 5
+Integrated business process modeling and engineering
+approaches to an integrated forest products and biomass
+supply chain in Germany.
+This new approach of redesigning the available business process had
+potential of saving 20–39% of total costs. The study proved that a very
+simple business approach could achieve substantial savings.
+Wolfsmayr and Rauch [131]
+Austria
+5
+Investigated the key issues on the transportation of primary
+forest fuel to heat and/or power plants.
+Key challenges were: transportation modes, terminal types, and BSC
+management. The rail system and water transportation were
+recommended for longer distances because of low cost and low
+CO2 emissions.
+Zhang et al. [132]
+USA
+3
+Developed simulation model for biomass supply chain.
+The model proved to be important for BSC management including
+transportation logistics and other factors.
+* Wood products: sawlogs and timber (1); pulpwood (2); biomass (3); short woods (4); bioenergy and forest fuels (5); seedlings (6).
+
+Forests 2018, 9, 415
+21 of 28
+4. Discussion
+The collection and classiﬁcation of scientiﬁc literature on secondary forest products’ transportation
+found that more than half of the studies addressed the transportation of woody biomass from forests
+and industrial residues for bioenergy generation. Generally, woody biomass generated from forest
+operations and forest products industries are regarded as low-value products compared to the primary
+forest products, such as sawlogs and pulpwood. This raises a question as to why the frequency of
+the scientiﬁc studies was higher for transportation of low-value biomass. Woody biomass constitutes
+forest residues with low bulk density that are not economically feasible to transport in the raw form.
+In regions without a demand for biomass, forest residues are generally left at the harvesting site [133].
+Much of the reasoning for this comes from the funding sources for research. Empirical evidence
+tells us that most research funding comes from government agencies, as opposed to direct industry
+input, and government policies lately have been focused more upon biomass than high-value forest
+products. Much of this is driven by interests in atmospheric carbon issues and in the reduction of
+hazardous forest ﬁre fuels.
+Several governments have supported logistics research on national or regional grounds,
+substantiating the signiﬁcance of the topic. For example, the United States has published the Billion-ton
+Report which focuses on the holistic nature of logistics from a utilization perspective [134]. Even though
+the results derived from these studies can be helpful in acquiring regional information, they should
+still be used with caution for local research. The primary constraint in adopting these results lies in
+the variation of multiple factors, including policies, road conditions, vehicles utilized, biomass yield,
+transportation distance, and social aspects of the region. To a large extent, on the ground research is
+also being conducted by the forest products industries; however, this knowledge remains conﬁdential
+due to the inter-competition within the industry.
+An important outcome of analyzing the literature was to assess the possibilities of implementing
+strategies developed or applied in other regions to any given situation. Such approaches will be
+crucial to policymakers, natural resource managers, and the forest product industry for the continual
+improvement of the forest products supply chain. Even though abundant studies have been conducted
+on the different themes discussed in the article, there was still a dearth of knowledge on the social
+aspects of logistics [135]. These opinions from the stakeholders, including public, foresters, landowners,
+loggers, truck drivers, and policymakers, are critical in terms of actual implementation of any research.
+Another gap in the knowledge base is the lack of connection between the engineering advancements
+in modern trucks and its application in forestry. There was limited scientiﬁc research conducted
+on the productivity of different trucking systems (based on the products hauled) on distinct road
+conditions. This aspect is a crucial input for developing accurate logistic models. Moreover, it may
+not be either practical or cost effective to perform experiments to quantify transport performance.
+Therefore, discrete-event simulation models for biomass supply logistics can be an inexpensive tool
+to estimate transport cost and its performance. With the integration of Geographic Information
+Systems, biomass logistics simulation models can provide more accurate and reliable information
+regarding transport cost and identify bottlenecks. Other than cost, biomass transportation also affects
+the environment (i.e., greenhouse gas emissions, forest ecology, wildlife, etc.) and social aspects of
+society (job creation, fatal accidents, trafﬁc congestion, etc.), which requires further study.
+On a regional basis, a higher number of studies were published from Europe, followed by North
+America and Asia. This high number of articles from Europe can be attributed to the policies favoring
+biomass utilization. While transportation cost is considered to be one of the major limiting factors
+for biomass utilization, the feasibility also depends heavily on favorable policies. Country-wise, USA
+had the highest number of publications, which could be due to the large area of managed timberland,
+and a developed economy which sustains a high level of research.
+The Biomass and Bioenergy journal published the highest number of articles on the subject.
+This is related to the higher number of studies focusing on the transportation of forest residues.
+Forest products transportation is an important component of forest engineering, thus, there was
+
+Forests 2018, 9, 415
+22 of 28
+a signiﬁcant number of articles in journals like the Croatian Journal of Forest Engineering and the
+International Journal of Forest Engineering.
+Two of the most studied research topics on forest products transportation were supply chain
+models and forest roads. Many site- and region-speciﬁc optimization and supply chain models have
+been tested and presented, which increased the number of publications. Similarly, forest roads are
+crucial for hauling wood materials from harvesting sites to the markets. Construction and maintenance
+of roads requires huge amount of investment. In this study, there were only 14 articles directly related
+to trucking characteristics, however, most of the other articles (dealt with in the study) also discussed
+trucking in many different ways.
+Overall, the results indicated a need for more research on increasing the efﬁciency of transportation
+systems, speciﬁcally trucking. Except for one study conducted in Finland, there was no research
+focusing on the overall challenges facing the forest trucking industry as a whole [66]. The cost of
+transportation is also another major topic that needs to be addressed in the future.
+5. Conclusions
+Regardless of the categorization into different research themes, the main aim of all of the collected
+articles in this study was to address the challenges faced by the secondary transportation of forest
+products. Major details on each article, including research location, forest products dealt with,
+primary objectives, and key ﬁndings related to transportation, were presented in tabular format.
+This review is expected to help researchers by summarizing prior studies on forest transportation.
+It will also serve as a repository for the strategies implemented for addressing distinct challenges.
+This could eventually help in assessing the suitability of these strategies for speciﬁc on-the-ground
+situations.
+The variabilities and uncertainties for the forest biomass transportation cost were
+due to the variability of input factors, such as biomass yield, transport distance, road conditions,
+vehicle utilization, etc. More research is required in the area of the development of integrated logistics
+models to provide site-speciﬁc transportation costs and its performance. The review is also expected to
+provide insight on the details that are lacking in this sector and show the way ahead for future research
+and innovation. This article is based on literature collection and assortment and, thus, should not be
+regarded as a critical literature synthesis article.
+Author Contributions: Conceptualization of this article was done by A.K. and A.R.K.; methodology, data analysis,
+and manuscript preparation for this article was primarily done by A.K.; A.K., A.R.K., C.F.D.H., B.E.R., H-S.H.,
+P.H., D.A., S.G., S.B. (Srijana Baral), S.B. (Steve Bick) and K.S. contributed to editing and partially to data collection;
+and project administration and funding acquisition for the study was done by A.R.K.
+Funding: Maine Agricultural and Forest Experiment Station Publication Number 3610. This project was supported
+by the USDA National Institute of Food and Agriculture, McIntire-Stennis project number #ME041621 through
+the Maine Agricultural and Forest Experiment Station.
+Conﬂicts of Interest: The authors declare no conﬂict of interest. The funders had no role in the design of the
+study; in the collection, analyses, or interpretation of data; in the writing of the manuscript; or in the decision to
+publish the results.
+Abbreviations
+BSC
+Biomass Supply Chains
+CHP
+Combined Heat and Power
+CJFE
+Croatian Journal of Forest Engineering
+CTL
+Cut-to-length
+EU
+European Union
+GIS
+Geographic Information System/Studies
+GT
+Green Ton
+IJFE
+International Journal of Forest Engineering
+Km
+Kilometer
+L
+Liter
+m
+Meter
+MPa
+Megapascals
+
+Forests 2018, 9, 415
+23 of 28
+MW
+Mega Watts
+ODT
+Oven Dry Ton
+PMH
+Productive Machine Hour
+Tg year−1
+Tera-gram per year
+TWh
+Terawatt Hour(s)
+WPS
+Wood Procurement System
+WT
+Whole-tree
+US/USA
+United States of America
+References
+1.
+Pentek, T.; Poršinsky, T. Forest transportation systems as a key factor in quality management of forest
+ecosystems. In Forest Ecosystems—More Than Just Trees; Blanco, J.A., Lo, Y.H., Eds.; InTech: Rijeka, Croatia,
+2012; pp. 433–464.
+2.
+Hachemi, N.E.; Gendreau, M.; Rousseau, L.-M. A heuristic to solve the synchronized log-truck scheduling
+problem. Comput. Oper. Res. 2013, 40, 666–673. [CrossRef]
+3.
+Kizha, A.R.; Han, H.-S.; Montgomery, T.; Hohl, A. Biomass power plant feedstock procurement: Modeling
+transportation cost zones and the potential for competition. Calif. Agric. 2015, 69, 184–190. [CrossRef]
+4.
+Koirala, A.; Kizha, A.R.; Roth, B. Forest trucking industry in Maine: A review on challenges and resolutions.
+In Proceedings of the 39th Annual Meeting of the Council on Forest Engineering, Vancouver, BC, Canada,
+19–21 September 2016.
+5.
+Acuna, M.; Mirowski, L.; Ghaffariyan, M.R.; Brown, M. Optimising transport efﬁciency and costs in
+Australian wood chipping operations. Biomass Bioenergy 2012, 46, 291–300. [CrossRef]
+6.
+Aksoy, B.; Cullinan, H.; Webster, D.; Gue, K.; Sukumaran, S.; Eden, M.; Sammons, N., Jr. Woody biomass
+and mill waste utilization opportunities in Alabama: Transportation cost minimization, optimum facility
+location, economic feasibility, and impact. Environ. Prog. Sustain. Energy 2011, 30, 720–732. [CrossRef]
+7.
+Frisk, M.; Göthe-Lundgren, M.; Jörnsten, K.; Rönnqvist, M. Cost allocation in collaborative forest
+transportation. Eur. J. Oper. Res. 2010, 205, 448–458. [CrossRef]
+8.
+Graham, R.L.; English, B.C.; Noon, C.E. A geographic information system-based modeling system for
+evaluating the cost of delivered energy crop feedstock. Biomass Bioenergy 2000, 18, 309–329. [CrossRef]
+9.
+Grebner, D.L.; Grace, L.A.; Stuart, W.; Gilliland, D.P. A practical framework for evaluating hauling costs.
+Int. J. For. Eng. 2005, 16, 115–128.
+10.
+Jones, G.; Loefﬂer, D.; Butler, E.; Hummel, S.; Chung, W. The ﬁnancial feasibility of delivering forest treatment
+residues to bioenergy facilities over a range of diesel fuel and delivered biomass prices. Biomass Bioenergy
+2013, 48, 171–180. [CrossRef]
+11.
+Junginger, M.; Faaij, A.; Björheden, R.; Turkenburg, W.C. Technological learning and cost reductions in wood
+fuel supply chains in Sweden. Biomass Bioenergy 2005, 29, 399–418. [CrossRef]
+12.
+Kurka, T.; Jefferies, C.; Blackwood, D. GIS-based location suitability of decentralized, medium scale bioenergy
+developments to estimate transport CO2 emissions and costs. Biomass Bioenergy 2012, 46, 366–379. [CrossRef]
+13.
+Möller, B.; Nielsen, P.S. Analysing transport costs of Danish forest wood chip resources by means of
+continuous cost surfaces. Biomass Bioenergy 2007, 31, 291–298. [CrossRef]
+14.
+Paolotti, L.; Martino, G.; Marchini, A.; Pascolini, R.; Boggia, A. Economic and environmental evaluation of
+transporting imported pellet: A case study. Biomass Bioenergy 2015, 83, 340–353. [CrossRef]
+15.
+Ranta, T.;
+Rinne, S. The proﬁtability of transporting uncomminuted raw materials in Finland.
+Biomass Bioenergy 2006, 30, 231–237. [CrossRef]
+16.
+Rauch, P.; Gronalt, M. The effects of rising energy costs and transportation mode mix on forest fuel
+procurement costs. Biomass Bioenergy 2011, 35, 690–699. [CrossRef]
+17.
+Rauch, P.; Gronalt, M.; Hirsch, P. Co-operative forest fuel procurement strategy and its saving effects on
+overall transportation costs. Scand. J. For. Res. 2010, 25, 251–261. [CrossRef]
+18.
+Spinelli, R.; Ward, S.M.; Owende, P.M. A harvest and transport cost model for Eucalyptus spp. fast-growing
+short rotation plantations. Biomass Bioenergy 2009, 33, 1265–1270. [CrossRef]
+19.
+Tahvanainen, T.; Anttila, P. Supply chain cost analysis of long-distance transportation of energy wood in
+Finland. Biomass Bioenergy 2011, 35, 3360–3375. [CrossRef]
+
+Forests 2018, 9, 415
+24 of 28
+20.
+Yemshanov, D.; McKenney, D.W.; Fraleigh, S.; McConkey, B.; Huffman, T.; Smith, S. Cost estimates of post
+harvest forest biomass supply for Canada. Biomass Bioenergy 2014, 69, 80–94. [CrossRef]
+21.
+Yoshioka, T.; Aruga, K.; Nitami, T.; Sakai, H.; Kobayashi, H. A case study on the costs and the
+fuel consumption of harvesting, transporting, and chipping chains for logging residues in Japan.
+Biomass Bioenergy 2006, 30, 342–348. [CrossRef]
+22.
+Abeli, W.S.; Shemwetta, D.T.; Meiludie, R.O.; Kachwele, M. Road alignment and gradient issues in the
+maintenance of logging roads in Tanzania. J. For. Eng. 2000, 11, 15–21.
+23.
+Akay, A.E.; Sessions, J. Applying the decision support system, TRACER, to forest road design. West. J.
+Appl. For. 2005, 20, 184–191.
+24.
+Akay, A.E.; Boston, K.; Sessions, J. The evolution of computer-aided road design systems. Int. J. For. Eng.
+2005, 16, 73–79.
+25.
+Aruga, K.; Tasaka, T.; Sessions, J.; Miyata, E.S. Tabu search optimization of forest road alignments combined
+with shortest paths and cubic splines. Croat. J. For. Eng. 2006, 27, 37–47.
+26.
+Beck, S.; Sessions, J. Forest road access decisions for woods chip trailers using Ant Colony Optimization and
+breakeven analysis. Croat. J. For. Eng. 2013, 34, 201–215.
+27.
+Beck, S.J.C.; Olsen, M.J.; Sessions, J.; Wing, M.G. Automated Extraction of Forest Road Network Geometry
+from Aerial LiDAR. Eur. J. For. Eng. 2015, 1, 21–33.
+28.
+Boston, K.; Pyles, M.; Bord, A. Compaction of forest roads in Northwestern Oregon–room for improvement.
+Int. J. For. Eng. 2008, 19, 24–28.
+29.
+Contreras, M.A.; Chung, W.; Jones, G. Applying ant colony optimization metaheuristic to solve forest
+transportation planning problems with side constraints. Can. J. For. Res. 2008, 38, 2896–2910. [CrossRef]
+30.
+Contreras, M.A.; Aracena, P.; Chung, W. Improving accuracy in earthwork volume estimation for proposed
+forest roads using a high-resolution digital elevation model. Croat. J. For. Eng. 2012, 33, 125–142.
+31.
+Demir, M. Impacts, management and functional planning criterion of forest road network system in Turkey.
+Transp. Res. Part A Policy Pract. 2007, 41, 56–68. [CrossRef]
+32.
+Devlin, G.J.; McDonnell, K.; Ward, S. Timber haulage routing in Ireland: An analysis using GIS and GPS.
+J. Transp. Geogr. 2008, 16, 63–72. [CrossRef]
+33.
+Ghaffarian, M.R.; Sobhani, H. Optimization of an existing forest road network using Network 2000. Croat. J.
+For. Eng. 2007, 28, 185–193.
+34.
+Ghajar, I.; Najaﬁ, A.; Torabi, S.A.; Khamehchiyan, M.; Boston, K. An adaptive network-based fuzzy inference
+system for rock share estimation in forest road construction. Croat. J. For. Eng. 2012, 33, 313–328.
+35.
+Greulich, F. Transportation networks in forest harvesting: Early development of the theory. In Proceedings
+of the International Seminar on New Roles of Plantation Forestry Requiring A ppropriate Tending and
+Harvesting Operations, Tokyo, Japan, 29 September–5 October 2003.
+36.
+Gumus, S. Evaluation of forest road networks located in Karadeniz Technical University Research and
+Practice Forest. Eur. J. For. Eng. 2015, 1, 15–20.
+37.
+Gumus, S.; Acar, H.H.; Toksoy, D. Functional forest road network planning by consideration of environmental
+impact assessment for wood harvesting. Environ. Monit. Assess. 2008, 142, 109–116. [CrossRef] [PubMed]
+38.
+Hernández-Díaz, C.; Soto-Cervantes, J.; Corral-Rivas, J.; Montiel-Antuna, E.; Alvarado, R.; Goche-Télles, R.
+Impacts of Forest Roads on Soil in a Timber Harvesting Area in Northwestern Mexico (a Case Study). Croat. J.
+For. Eng. 2015, 36, 259–267.
+39.
+Košir, B.; Krˇc, J. Where to Place and Build Forest Roads—Experience From the Model. J. For. Eng. 2000,
+11, 7–19.
+40.
+Krˇc, J.; Beguš, J. Planning Forest Opening with Forest Roads. Croat. J. For. Eng. 2013, 34, 217–228.
+41.
+Lugo, A.E.; Gucinski, H. Function, effects, and management of forest roads. For. Ecol. Manag. 2000,
+133, 249–262. [CrossRef]
+42.
+Murphy, G.; Stander, H. Robust optimisation of forest transportation networks: A case study. South. Hemisph.
+For. J. 2007, 69, 117–123. [CrossRef]
+43.
+Najaﬁ, A.; Richards, E.W. Designing a forest road network using mixed integer programming. Croat. J.
+For. Eng. 2013, 34, 17–30.
+44.
+Najaﬁ, A.; Sobhani, H.; Saeed, A.; Makhdom, M.; Mohajer, M.M. Planning and assessment of alternative
+forest road and skidding networks. Croat. J. For. Eng. 2008, 29, 63–73.
+
+Forests 2018, 9, 415
+25 of 28
+45.
+Neveˇcerel, H.; Pentek, T.; Piˇcman, D.; Stankic, I. Trafﬁc load of forest roads as a criterion for their
+categorization—GIS analysis. Croat. J. For. Eng. 2007, 28, 27–38.
+46.
+Olsson, L. Road investment scenarios in Northern Sweden. For. Policy Econ. 2005, 7, 615–623. [CrossRef]
+47.
+Olsson, L. Optimal upgrading of forest road networks: Scenario analysis vs.
+stochastic modelling.
+For. Policy Econ. 2007, 9, 1071–1078. [CrossRef]
+48.
+Olsson, L.; Lohmander, P. Optimal forest transportation with respect to road investments. For. Policy Econ.
+2005, 7, 369–379. [CrossRef]
+49.
+Pellegrini, M.; Grigolato, S.; Cavalli, R. Spatial multi-criteria decision process to deﬁne maintenance priorities
+of forest road network: An application in the Italian alpine region. Croat. J. For. Eng. 2013, 34, 31–42.
+50.
+Pentek, T.; Piˇcman, D.; Potoˇcnik, I.; Dvorsˇcak, P.; Neveˇcerel, H. Analysis of an existing forest road network.
+Croat. J. For. Eng. 2005, 26, 39–50.
+51.
+Pentek, T.; Neveˇcerel, H.; Piˇcman, D.; Poršinsky, T. Forest road network in the Republic of Croatia—Status
+and perspectives. Croat. J. For. Eng. 2007, 28, 93–106.
+52.
+Péterfalvi, J.; Primusz, P.; Markó, G.; Kisfaludi, B.; Kosztka, M. Evaluation of the effect of lime-stabilized
+subgrade on the performance of an experimental road pavement. Croat. J. For. Eng. 2015, 36, 269–282.
+53.
+Potoˇcnik, I.; Yoshioka, T.; Miyamoto, Y.; Igarashi, H.; Sakai, H. Maintenance of forest road network by natural
+forest management in Tokyo University Forest in Hokkaido. Croat. J. For. Eng. 2005, 26, 71–78.
+54.
+Potoˇcnik, I.; Pentek, T.; Piˇcman, D. Impact of trafﬁc characteristics on forest roads due to forest management.
+Croat. J. For. Eng. 2005, 26, 51–57.
+55.
+Robek, R.; Klun, J. Recent developments in forest trafﬁc way construction in Slovenia. Croat. J. For. Eng. 2007,
+28, 83–91.
+56.
+Saito, M.; Goshima, M.; Aruga, K.; Matsue, K.; Shuin, Y.; Tasaka, T. Study of automatic forest road design
+model considering shallow landslides with LiDAR data of Funyu Experimental Forest. Croat. J. For. Eng.
+2013, 34, 1–15.
+57.
+Sessions, J.; Boston, K.; Thoreson, R.; Mills, K. Optimal policies for managing aggregate resources on
+temporary forest roads. West. J. Appl. For. 2006, 21, 207–216.
+58.
+Stückelberger, J.A.; Heinimann, H.R.; Burlet, E.C. Modeling spatial variability in the life-cycle costs of
+low-volume forest roads. Eur. J. For. Res. 2006, 125, 377–390. [CrossRef]
+59.
+Tan, J. Application of dynamic programming to optimum location of a forest road. J. For. Eng. 2000, 11, 33–42.
+60.
+Trzcinski, G.; Kaczmarzyk, S. Estimation of carrying capacity of slag and gravel forest road pavements.
+Croat. J. For. Eng. 2006, 27, 27–36.
+61.
+Antoniade, C.; ¸Slincu, C.; Stan, C.; Ciobanu, V.; ¸Stefan, V. Maximum loading heights for heavy vehicles used
+in timber transportation. Bull. Transilv. Univ. Bra¸sov. Ser. II–For. Wood Ind. Agric. Food Eng. 2012, 5, 7–12.
+62.
+Devlin, G.J.; McDonnell, K. Performance accuracy of real-time GPS asset tracking systems for timber haulage
+trucks travelling on both internal forest road and public road networks. Int. J. For. Eng. 2009, 20, 45–49.
+63.
+Han, S.-K.; Murphy, G.E. Solving a woody biomass truck scheduling problem for a transport company in
+Western Oregon, USA. Biomass Bioenergy 2012, 44, 47–55. [CrossRef]
+64.
+Han, H.-S.; Halbrook, J.; Pan, F.; Salazar, L. Economic evaluation of a roll-off trucking system removing forest
+biomass resulting from shaded fuelbreak treatments. Biomass Bioenergy 2010, 34, 1006–1016. [CrossRef]
+65.
+Laitila, J.; Väätäinen, K. Truck transportation and chipping productivity of whole trees and delimbed energy
+wood in Finland. Croat. J. For. Eng. 2012, 33, 199–210.
+66.
+Malinen, J.; Nousiainen, V.; Palojarvi, K.; Palander, T. Prospects and challenges of timber trucking in a
+changing operational environment in Finland. Croat. J. For. Eng. 2014, 35, 91–100.
+67.
+McDonald, T.P.; Haridass, K.; Valenzuela, J.; Gallagher, T.V.; Smidt, M.F. Savings in distance driven from
+optimization of coordinated trucking. Int. J. For. Eng. 2013, 24, 31–41. [CrossRef]
+68.
+Nurminen, T.; Heinonen, J. Characteristics and time consumption of timber trucking in Finland. Silva Fenn.
+2007, 41, 471–487. [CrossRef]
+69.
+Palander, T.; Väätäinen, J.; Laukkanen, S.; Malinen, J. Modeling backhauling on Finnish energy-wood
+network using minimizing of empty routes. Int. J. For. Eng. 2004, 15, 79–84.
+70.
+Picchi, G.; Eliasson, L. Chip truck utilization for a container handling chipper truck when chipping logging
+residues and the effect of two grapple types on chipping efﬁciency. Int. J. For. Eng. 2015, 26, 203–211.
+71.
+Roscher, M.; Fjeld, D.; Parklund, T. Spatial patterns of round wood transport associated with mobile data
+systems in Sweden. Int. J. For. Eng. 2004, 15, 53–59.
+
+Forests 2018, 9, 415
+26 of 28
+72.
+Shaffer, R.M.; Stuart, W.B. A Checklist for Efﬁcient Log Trucking. Available online: https://vtechworks.lib.
+vt.edu/bitstream/handle/10919/54904/420-094.pdf?sequence=1 (accessed on 9 June 2018).
+73.
+Spinelli, R.; De Francesco, F.; Eliasson, L.; Jessup, E.; Magagnotti, N. An agile chipper truck for
+space-constrained operations. Biomass Bioenergy 2015, 81, 137–143. [CrossRef]
+74.
+Thompson, J.D.; Klepac, J. Trucking characteristics for an in-woods biomass chipping operation.
+In Proceedings of the 35th Council on Forest Engineering Annual Meeting, New Bern, NC, USA,
+9–12 September 2012.
+75.
+Abbas, D.; Handler, R.; Hartsough, B.; Dykstra, D.; Lautala, P.; Hembroff, L. A survey analysis of forest
+harvesting and transportation operations in Michigan. Croat. J. For. Eng. 2014, 35, 179–192.
+76.
+Arce, J.E.; Carnieri, C.; Sanquetta, C.R.; Filho, A.F. A forest-level bucking optimization system that considers
+customer’s demand and transportation costs. For. Sci. 2002, 48, 492–503.
+77.
+Greene, W.D.; Baker, S.A.; Lowrimore, T. Analysis of Log Hauling Vehicle Accidents in the State of Georgia,
+USA, 1988–2004. Int. J. For. Eng. 2007, 18, 52–57.
+78.
+Hall, P.; Gigler, J.K.; Sims, R.E.H. Delivery systems of forest arisings for energy production in New Zealand.
+Biomass Bioenergy 2001, 21, 391–399. [CrossRef]
+79.
+Hedlinger, C.; Nilsson, B.; Fjeld, D. Service divergence in swedish round wood transport. Int. J. For. Eng.
+2005, 16, 153–166.
+80.
+Holzleitner, F.; Kanzian, C.; Stampfer, K. Analyzing time and fuel consumption in road transport of round
+wood with an onboard ﬂeet manager. Eur. J. For. Res. 2011, 130, 293–301. [CrossRef]
+81.
+Jerbi, W.; Gaudreault, J.; D’Amours, S.; Nourelfath, M.; Lemieux, S.; Marier, P.; Bouchard, M.
+Optimization/simulation-based framework for the evaluation of supply chain management policies in
+the forest product industry. In Proceedings of the 2012 IEEE International Conference on Systems, Man,
+and Cybernetics (SMC), Seoul, Korea, 14–17 Octber 2012; pp. 1742–1748.
+82.
+Klvaˇc, R.; Kolaˇrík, J.; Volná, M.; Drápela, K. Fuel consumption in timber haulage. Croat. J. For. Eng. 2013,
+34, 229–240.
+83.
+Rackley, J.; Chung, W. Incorporating forest road erosion into forest resource transportation planning: A case
+study in the Mica Creek Watershed in northern Idaho. Trans. ASAE (Am. Soc. Agric. Eng.) 2008, 51, 115–127.
+[CrossRef]
+84.
+Ranta, T.; Korpinen, O.-J. How to analyse and maximise the forest fuel supply availability to power plants in
+Eastern Finland. Biomass Bioenergy 2011, 35, 1841–1850. [CrossRef]
+85.
+Sikanen, L.; Asikainen, A.; Lehikoinen, M. Transport control of forest fuels by ﬂeet manager, mobile terminals
+and GPS. Biomass Bioenergy 2005, 28, 183–191. [CrossRef]
+86.
+Ackerman, P.A.; Pulkki, R.E. Economic impact of secondary intermediate transport of pulpwood to truck
+transport depots in South Africa: Three case studies. Int. J. For. Eng. 2003, 14, 53–63.
+87.
+Asikainen, A. Simulation of logging and barge transport of wood from forests on islands. Int. J. For. Eng.
+2001, 12, 43–50.
+88.
+Flodén, J.; Williamsson, J. Business models for sustainable biofuel transport: The potential for intermodal
+transport. J. Clean. Prod. 2016, 113, 426–437. [CrossRef]
+89.
+Gonzales, D.; Searcy, E.M.; Ek¸sio˘glu, S.D. Cost analysis for high-volume and long-haul transportation of
+densiﬁed biomass feedstock. Transp. Res. Part A Policy Pract. 2013, 49, 48–61. [CrossRef]
+90.
+Lautala, P.; Pouryousef, H.; Handler, R.; Chartier, S. The role of railroads in multimodal woody biomass
+transportation in Michigan. In Proceedings of the 2012 Joint Rail Conference, Philadelphia, PA, USA,
+17–19 April 2012; pp. 465–473.
+91.
+Akhtari, S.; Sowlati, T.; Day, K. Economic feasibility of utilizing forest biomass in district energy
+systems—A review. Renew. Sustain. Energy Rev. 2014, 33, 117–127. [CrossRef]
+92.
+Arabatzis, G.; Petridis, K.; Galatsidas, S.; Ioannou, K. A demand scenario based fuelwood supply chain:
+A conceptual model. Renew. Sustain. Energy Rev. 2013, 25, 687–697. [CrossRef]
+93.
+Asikainen, A. Integration of work tasks and supply chains in wood harvesting-cost savings or complex
+solutions? Int. J. For. Eng. 2004, 15, 11–17.
+94.
+Aydinel, M.; Sowlati, T.; Cerda, X.; Cope, E.; Gerschman, M. Optimization of production allocation and
+transportation of customer orders for a leading forest products company. Math. Comput. Model. 2008,
+48, 1158–1169. [CrossRef]
+
+Forests 2018, 9, 415
+27 of 28
+95.
+Beaudoin, D.; LeBel, L.; Frayret, J.-F. Tactical supply chain planning in the forest products industry through
+optimization and scenario-based analysis. Can. J. For. Res. 2007, 37, 128–140. [CrossRef]
+96.
+Cambero, C.; Sowlati, T. Assessment and optimization of forest biomass supply chains from economic,
+social and environmental perspectives—A review of literature. Renew. Sustain. Energy Rev. 2014, 36, 62–73.
+[CrossRef]
+97.
+Carlsson, D.; Rönnqvist, M. Supply chain management in forestry—Case studies at Södra Cell AB. Eur. J.
+Oper. Res. 2005, 163, 589–616. [CrossRef]
+98.
+Díaz-Yáñez, O.; Mola-Yudego, B.; Anttila, P.; Röser, D.; Asikainen, A. Forest chips for energy in Europe:
+Current procurement methods and potentials. Renew. Sustain. Energy Rev. 2013, 21, 562–571. [CrossRef]
+99.
+Dumanli, A.; Gulyurtlu, I.; Yurum, Y. Fuel supply chain analysis of Turkey. Renew. Sustain. Energy Rev. 2007,
+11, 2058–2082. [CrossRef]
+100. Eriksson, A.; Eliasson, L.; Jirjis, R. Simulation-based evaluation of supply chains for stump fuel. Int. J.
+For. Eng. 2014, 25, 23–36. [CrossRef]
+101. Forsberg, G. Biomass energy transport: Analysis of bioenergy transport chains using life cycle inventory
+method. Biomass Bioenergy 2000, 19, 17–30. [CrossRef]
+102. Frayret, J.-M.; D’Amours, S.; Rousseau, A.; Harvey, S.; Gaudreault, J. Agent-based supply-chain planning in
+the forest products industry. Int. J. Flex. Manuf. Syst. 2007, 19, 358–391. [CrossRef]
+103. Freppaz, D.; Minciardi, R.; Robba, M.; Rovatti, M.; Sacile, R.; Taramasso, A. Optimizing forest biomass
+exploitation for energy supply at a regional level. Biomass Bioenergy 2004, 26, 15–25. [CrossRef]
+104. Frombo, F.; Minciardi, R.; Robba, M.; Rosso, F.; Sacile, R. Planning woody biomass logistics for energy
+production: A strategic decision model. Biomass Bioenergy 2009, 33, 372–383. [CrossRef]
+105. Gautam, S.; LeBel, L.; Beaudoin, D. Agility capabilities in wood procurement systems: A literature synthesis.
+Int. J. For. Eng. 2013, 24, 216–232. [CrossRef]
+106. Gerasimov, Y.; Sokolov, A.; Karjalainen, T. GIS-based decision-support srogram for planning and analyzing
+short-wood transport in Russia. Croat. J. For. Eng. 2008, 29, 163–175.
+107. Gold, S.; Seuring, S. Supply chain and logistics issues of bio-energy production. J. Clean. Prod. 2011, 19, 32–42.
+[CrossRef]
+108. Gronalt, M.; Rauch, P. Designing a regional forest fuel supply network. Biomass Bioenergy 2007, 31, 393–402.
+[CrossRef]
+109. Gunnarsson, H.; Rönnqvist, M.; Lundgren, J.T. Supply chain modelling of forest fuel. Eur. J. Oper. Res. 2004,
+158, 103–123. [CrossRef]
+110. Haartveit, E.Y.; Fjeld, D.E. Simulating effects of supply chain conﬁguration on industrial dynamics in the
+forest sector. Int. J. For. Eng. 2003, 14, 21–30.
+111. Kanzian, C.; Kühmaier, M.; Zazgornik, J.; Stampfer, K. Design of forest energy supply networks using
+multi-objective optimization. Biomass Bioenergy 2013, 58, 294–302. [CrossRef]
+112. Kühmaier, M.; Stampfer, K. Development of a multi-criteria decision support tool for energy wood supply
+management. Croat. J. For. Eng. 2012, 33, 181–198.
+113. Kudakasseril Kurian, J.; Raveendran Nair, G.; Hussain, A.; Vijaya Raghavan, G.S. Feedstocks, logistics and
+pre-treatment processes for sustainable lignocellulosic bioreﬁneries: A comprehensive review. Renew. Sustain.
+Energy Rev. 2013, 25, 205–219. [CrossRef]
+114. Lautala, P.T.; Hilliard, M.R.; Webb, E.; Busch, I.; Richard Hess, J.; Roni, M.S.; Hilbert, J.; Handler, R.M.;
+Bittencourt, R.; Valente, A.; et al. Opportunities and challenges in the design and analysis of biomass supply
+chains. Environ. Manag. 2015, 56, 1397–1415. [CrossRef] [PubMed]
+115. Miao, Z.; Shastri, Y.; Grift, T.E.; Hansen, A.C.; Ting, K.C. Lignocellulosic biomass feedstock transportation
+alternatives, logistics, equipment conﬁgurations, and modeling. Biofuels Bioprod. Bioreﬁn. 2012, 6, 351–362.
+[CrossRef]
+116. Nivala, M.; Anttila, P.; Laitila, J. A GIS-based comparison of long-distance supply of energy wood for future
+needs from young forests to the coast of Finland. Int. J. For. Eng. 2015, 26, 185–202.
+117. Rantala, J.; Kiljunen, N.; Harstela, P. Effect of seedling production and long-distance transportation planning
+strategies on transportation costs of a nursery company. Int. J. For. Eng. 2003, 14, 65–73.
+118. Rauch, P.; Gronalt, M. The terminal location problem in the forest fuels supply network. Int. J. For. Eng. 2010,
+21, 32–40.
+
+Forests 2018, 9, 415
+28 of 28
+119. Ravula, P.; Grisso, R.; Cundiff, J. Cotton logistics as a model for a biomass transportation system.
+Biomass Bioenergy 2008, 32, 314–325. [CrossRef]
+120. Rentizelas, A.A.; Tolis, A.J.; Tatsiopoulos, I.P. Logistics issues of biomass: The storage problem and the
+multi-biomass supply chain. Renew. Sustain. Energy Rev. 2009, 13, 887–894. [CrossRef]
+121. Selkimäki, M.; Mola-Yudego, B.; Röser, D.; Prinz, R.; Sikanen, L. Present and future trends in pellet markets,
+raw materials, and supply logistics in Sweden and Finland. Renew. Sustain. Energy Rev. 2010, 14, 3068–3075.
+[CrossRef]
+122. Shabani, N.; Akhtari, S.; Sowlati, T. Value chain optimization of forest biomass for bioenergy production:
+A review. Renew. Sustain. Energy Rev. 2013, 23, 299–311. [CrossRef]
+123. Sharma, B.; Ingalls, R.G.; Jones, C.L.; Khanchi, A. Biomass supply chain design and analysis: Basis, overview,
+modeling, challenges, and future. Renew. Sustain. Energy Rev. 2013, 24, 608–627. [CrossRef]
+124. Stone, I.J.; Benjamin, J.G.; Leahy, J.E. Innovation impacts on biomass supply in Maine’s logging industry.
+For. Prod. J. 2011, 61, 579–585. [CrossRef]
+125. Troncoso, J.J.; Garrido, R.A. Forestry production and logistics planning: An analysis using mixed-integer
+programming. For. Policy Econ. 2005, 7, 625–633. [CrossRef]
+126. Uusitalo, J. A framework for CTL method-based wood procurement logistics. Int. J. For. Eng. 2005, 16, 37–46.
+127. Valenzuela, J.F.; Balci, H.H.; McDonald, T. A Transportation-scheduling system for managing silvicultural
+projects. Int. J. For. Eng. 2005, 16, 65–75.
+128. Van Belle, J.-F.; Temmerman, M.; Schenkel, Y. Three level procurement of forest residues for power plant.
+Biomass Bioenergy 2003, 24, 401–409. [CrossRef]
+129. Van Dyken, S.; Bakken, B.H.; Skjelbred, H.I. Linear mixed-integer models for biomass supply chains with
+transport, storage and processing. Energy 2010, 35, 1338–1350. [CrossRef]
+130. Windisch, J.; Röser, D.; Sikanen, L.; Routa, J. Reengineering business processes to improve an integrated
+industrial roundwood and energywood procurement chain. Int. J. For. Eng. 2013, 24, 233–248. [CrossRef]
+131. Wolfsmayr, U.J.; Rauch, P. The primary forest fuel supply chain: A literature review. Biomass Bioenergy 2014,
+60, 203–221. [CrossRef]
+132. Zhang, F.; Johnson, D.M.; Johnson, M.A. Development of a simulation model of biomass supply chain for
+biofuel production. Renew. Energy 2012, 44, 380–391. [CrossRef]
+133. Kizha, A.R.; Han, H.-S. Processing and sorting forest residues: Cost, productivity and managerial impacts.
+Biomass Bioenergy 2016, 93, 97–106. [CrossRef]
+134. Langholtz, M.H.; Stokes, B.J.; Eaton, L.M.; Brandt, C.C.; Davis, M.R.; Theiss, T.J.; Turhollow, A.F., Jr.;
+Webb, E.; Coleman, A.; Wigmosta, M.; et al. 2016 Billion-Ton Report: Advancing Domestic Resources for A
+Thriving Bioeconomy, Volume 1: Economic Availability of Feedstocks; ORNL/TM-2016/160; Oak Ridge National
+Laboratory: Oak Ridge, TN, USA, 2016.
+135. Koirala, A.; Kizha, A.; De Urioste-Stone, S. Policy Recommendation from stakeholders to improve forest
+products transportation: A qualitative study. Forests 2017, 8, 434. [CrossRef]
+© 2018 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).

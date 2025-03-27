@@ -1,0 +1,1510 @@
+Spatiotemporal variability of ﬁre regimes in adjacent Native
+American and public forests, New Mexico, USA
+ALICIA AZPELETA TARANCON,1, PETER Z. FULE,1 ANDREW J. SANCHEZ MEADOR,1
+YEON-SU KIM,1 AND THORA PADILLA2
+1School of Forestry, Northern Arizona University, P.O. Box 15018, Flagstaff, Arizona 86011 USA
+2Division of Resource Management and Protection, Mescalero Apache Tribe, P.O. Box 250, 268 Pine St., Mescalero, New Mexico 88340 USA
+Citation: Azpeleta Tarancon, A., P. Z. Fule, A. J. Sanchez Meador, Y.-S. Kim, and T. Padilla. 2018. Spatiotemporal
+variability of ﬁre regimes in adjacent Native American and public forests, New Mexico, USA. Ecosphere 9(11):e02492.
+10.1002/ecs2.2492
+Abstract.
+Statistical descriptions of reconstructed ﬁre regimes are often extrapolated from a composite of
+small forest stands to represent extensive geographical areas. However, statistical properties of ﬁre regimes
+are scale-dependent, thus causing some extrapolations from ﬁne scale to coarse scale and comparisons
+between ﬁre-scar-based reconstructions to be inappropriate. We assessed landscape ﬁre regimes of the
+Sacramento Mountains, in southern New Mexico, using dendrochronological methods and a variety of ﬁre
+statistics and analysis ﬁlters. We reconstructed historical and recent ﬁre regimes for the Mescalero Apache
+Tribal Lands (MATL) at tree and site scale (25 ha). We then estimated the Sacramento Mountains historical
+and recent ﬁre regimes by combining paleo ﬁre data from this study with published data from the adjacent
+Lincoln National Forest (LNF). We applied ﬁlters to provide ﬁre statistics that are relatively unbiased to
+the different spatial measurement extent of the studies. This is the ﬁrst study to assess ﬁre regime in the
+MATL over multiple spatial and temporal scales. The results show that frequent surface ﬁres occurred at
+all scales in the Sacramento Mountains until ﬁre was excluded from the landscape in the early 1900s.
+Historical ﬁres were found to be synchronous with drought years, typically La Ni~na events, and often
+preceded by wet years. We did not ﬁnd evidence supporting differences in ﬁre regimes between the MATL
+and the LNF, suggesting that ﬁre cessation following intensive Euro-American settlement was widespread.
+The interruption of frequent surface ﬁres, together with other changes in forest structure and climate, pose
+a signiﬁcant threat to sustainability of forest ecosystems on Native American tribal lands.
+Key words:
+climate; dendrochronology; ENSO; ﬁre regime; LEENT; PDSI.
+Received 12 September 2018; accepted 20 September 2018. Corresponding Editor: Debra P. C. Peters.
+Copyright: © 2018 The Authors. This is an open access article under the terms of the Creative Commons Attribution
+License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.
+ E-mail: a.azpeleta@gmail.com
+INTRODUCTION
+Landscape ﬁre ecology is the study of ﬁre at
+multiple
+scales,
+both
+spatial
+and
+temporal
+(McKenzie et al. 2011). Fires have shaped and
+continue to shape ecosystems at different spatial
+scales, generating the highly diverse forest struc-
+ture and landscape mosaic found in ponderosa
+and mixed conifer forests. The southwestern Uni-
+ted States has the world’s highest density of ﬁre-
+scar-based reconstructions, but most ﬁre statistical
+outcomes from reconstruction studies are extrapo-
+lated from a composite of small forest stands to
+represent extensive geographical areas or moun-
+tain ranges. Statistical properties of ﬁre regime,
+such as mean ﬁre interval (MFI), are spatially
+explicit
+and
+scale-dependent
+(Swetnam
+and
+Baisan 1996). Extrapolation from ﬁne-scale ﬁre-
+scarred tree studies to coarse-scale regional pat-
+terns can be inaccurate (Morgan et al. 2001).
+Altered ﬁre regimes often lead to a cascade of
+ecological effects (Leopold 1924). Southwestern
+ ❖www.esajournals.org
+1
+November 2018 ❖Volume 9(11) ❖Article e02492
+
+U.S. landscapes have experienced major alteration
+of ﬁre regimes since the late 19th century due to
+the introduction of livestock grazing, selective
+logging, and ﬁre suppression (Allen et al. 2002,
+Swetnam
+and
+Baisan
+2003).
+Geographically
+and/or policy isolated landscapes offer examples
+of ﬁre regime contrasts. For example, Baisan and
+Swetnam (1995) and Fule et al. (2012) carried out
+comparisons across the international U.S./Mexico
+border of mountain ranges with similar topogra-
+phy, climate, ﬁre-adapted ecosystems, and histori-
+cal ﬁre frequency. While the U.S. sites underwent
+ﬁre interruption in the late 19th century, ﬁres per-
+sisted up to the 21st century in the Mexican sites.
+This divergence was explained by differences in
+land use between the two countries: early, heavy
+grazing, and effective ﬁre suppression on the U.S.
+side vs. extensive agricultural management and
+minimal ﬁre suppression on the Mexican side
+(Marshall 1962). Native American Tribal Lands
+are also examples of landscapes isolated by geog-
+raphy and/or policy. In Arizona, Stan et al. (2014)
+reconstructed pine forest ﬁre regimes on Hualapai
+Tribal Lands, a sovereign Native American nation
+that has implemented frequent prescribed ﬁres
+since the 1960s. In contrast with the continuous
+public land forest management of ﬁre suppression
+policy since early 1900s, the Hualapai tribe has
+used prescribed ﬁre for the last six decades as a
+forest management tool, a practice encouraged by
+leadership in the Bureau of Indian Affairs at the
+time (Weaver 1951, Stan et al. 2014). Geographical
+differences in ﬁre regime were reported by Savage
+and Swetnam (1990) and Whitehair et al. (2018)
+on the Navajo Nation, the largest sovereign
+Native American nation in the United States,
+where landscapes differed from public lands in
+ﬁre regime as early as the 1830s likely due to dif-
+ferences in sheep pastoralism. Apache lands in
+Arizona were considered examples of continued
+ﬁre regimes into the 20th century (Weaver 1951,
+Cooper 1960), and the San Carlos Apache Tribe is
+a national leader in applying wildland ﬁre as a
+management tool (Pyne 2014).
+The Sacramento Mountains (NM) have both
+policy and geographic isolation, offering a poten-
+tial example of ﬁre regime contrast. The mountain
+range is a Sky Island, an isolated forested moun-
+tain surrounded by desert. Brown et al. (2001)
+reconstructed the historical ﬁre regime across an
+elevational gradient of woodland, ponderosa, and
+mixed conifer forests in the Lincoln National
+Forest (LNF), adjacent to the Mescalero Apache
+Tribal Lands (MATL). They did not ﬁnd conclu-
+sive evidence of Native American-induced ﬁre,
+but Kaye and Swetnam (1999) in a canyon near
+the MATL interpreted the locations and timing of
+certain ﬁre events as evidence of ﬁre use by
+Mescalero Apache people. Asynchronous ﬁre
+dates among neighboring sites and ﬁre frequency
+change in areas highly used by Native Americans
+were hypothesized to be related to indigenous ﬁre
+use (Kaib et al. 1996, Morino 1996, Seklecki et al.
+1996). Given the differences in ﬁre management
+policy observed on many Native American lands
+in the Southwest and the geographic isolation of
+the
+Sacramento
+Mountain
+range,
+we
+asked
+whether they resulted in differences in the histori-
+cal ﬁre regime. The combination of annually
+resolved ﬁre data from multiple studies, including
+the previous work in the region by Brown et al.
+(2001) and Kaye and Swetnam (1999), provides a
+valuable means to extend ﬁre reconstructions to
+large landscapes (Metlen et al. 2018) and regions
+(Falk et al. 2011). We used this approach to study
+ﬁre regimes at the mountain range scale.
+We reconstructed ﬁre regimes on the MATL at
+multiple spatial and temporal scales to increase
+our understanding of forest ﬁre in Native Ameri-
+can tribal lands and assess landscape ﬁre ecology
+for discerning future management options. The
+objectives of the present study were (1) to recon-
+struct the ﬁre regimes at tree and site scale on the
+MATL, (2) to relate ﬁre regimes with climate
+and/or human drivers, and (3) to compare the
+MATL ﬁre regimes with adjacent National Forest
+ﬁre regimes and reconstruct the Sacramento
+Mountains ﬁre regime.
+STUDYAREA
+The MATL is located in the Sacramento Moun-
+tains in south-central New Mexico. The Apache
+historically ranged over vast areas in the south-
+western United States and northern Mexico (Son-
+nichsen 1973). The Mescalero Apache Reservation
+was established in 1873. The tribe is a sovereign
+nation that is comprised of three sub-tribes: Mes-
+calero, Chiricahua, and Lipan Apache.
+The climate is semi-arid with an average
+annual precipitation of 640 mm occurring mostly
+in the summer, during the monsoon season
+ ❖www.esajournals.org
+2
+November 2018 ❖Volume 9(11) ❖Article e02492
+AZPELETA TARANCON ET AL.
+
+(June–September), jointly with frequent lightning
+strikes. The highest temperatures occur in June
+averaging
+26°C
+and
+minimum
+temperatures
+reach 6.8°C in December–January (temperature
+averages from three climate stations in and near
+the Sacramento Mountains. Stations are: Mesca-
+lero at 1897 m, Cloudcroft at 2639 m, and Rui-
+doso at 2097 m; data from wrcc).
+The MATL ranges in elevation from 1200 to
+3650 m and includes large landscapes of mixed
+conifer forests, pinyon–juniper woodlands, desert
+shrubs, and grasslands. The highest and coolest
+north-facing slopes are dominated by mixed coni-
+fers including Douglas-ﬁr (Pseudotsuga menziesii
+Mirbel Franco), southwestern white pine (Pinus
+strobiformus Engelm.), and white ﬁr (Abies concolor
+Gord. & Glend. Lindl. ex Hildebr. var. concolor).
+Quaking aspen (Populus tremuloides Michx.) is
+found in post-stand replacing wildﬁre areas.
+Above 2000 m, the dominant plant species is the
+ponderosa pine (Pinus ponderosa var. scopulorum
+Engelm.), frequently accompanied by oak (Quer-
+cus sp.). On mid-elevations, 1300–2100 m, pon-
+derosa pine stands are surrounded by woodland,
+where one-seed juniper (Juniperus monosperma
+Engelm. Sarg.) and pinyon pine (Pinus edulis
+Engelm.) are the dominant species. At lower
+elevations, grasslands are dominated by blue
+grama (Bouteloua gracilis Willd. ex Kunth. Lag. ex
+Grifﬁths) associated with other grasses and by
+semi-desert brush in poor soil conditions, primary
+mesquite (Prosopis glandulosa Torr. var. glandulosa),
+cholla (Cylindropuntia spp.), and yucca (Yucca bac-
+cata Torr. var baccata).
+METHODS
+Field sampling
+We established eight ﬁre scar sampling sites in
+2015 and 2016 in the ponderosa and dry mixed
+conifer forest to characterize ﬁre regimes at tree
+and site scale in the MATL (Fig. 1). To represent
+the geographic range and forest diversity, we
+used a vegetation cover map and ﬁeld reconnais-
+sance to locate potential sampling sites. Sites
+were ﬁrst inspected to ensure that they retained
+tree-ring evidence from old trees, mostly in the
+form of stumps. We avoided sampling on recent
+severe wildﬁres because of the loss of old wood
+(Swetnam
+and
+Baisan
+1996),
+although
+one
+Fig. 1. Location of the Mescalero Apache Tribal
+Lands (MATL) in south-central New Mexico. Mesca-
+lero Apache Tribal Lands boundary (yellow, study
+sites are squares) and the Lincoln National Forest
+(LNF; gray, study sites are rectangles) cover the Sacra-
+mento Mountains Sky Island. The inset map (top right)
+shows a 500 9 500 m study site (Potato Patch [PP])
+with contour lines. The location of each sampled ﬁre-
+scarred tree is represented with an arrow pointing at
+the aspect of the ﬁre-scarred catface.
+ ❖www.esajournals.org
+3
+November 2018 ❖Volume 9(11) ❖Article e02492
+AZPELETA TARANCON ET AL.
+
+burned site (Turkey Canyon) was included in
+order to maintain an adequate geographical rep-
+resentation across the MATL.
+Each site was 25 ha (500 9 500 m) in size, for a
+total of 200 ha sampled. We thoroughly searched
+each site for ﬁre-scarred trees and cut partial cross
+sections from scarred snags, logs, and stumps of
+conifers that apparently contained more extensive
+ﬁre records. We collected 192 partial cross sections
+with a chainsaw, ten of which were from living
+trees. This procedure does not require felling the
+tree and rarely damages large pine trees (Heyer-
+dahl and McKay 2001). The characteristics of the
+study sites are summarized in Table 1.
+Laboratory methods
+We mounted and sanded the samples until the
+cell structure was clearly visible under a binocular
+microscope. We crossdated the samples visually
+using characteristic patterns of narrow marker
+years (Stokes and Smiley 1968). We used a master
+tree-ring chronology developed in Sacramento
+Mountains to crossdate the samples (M. Wilkinson
+Kaye, C. H. Baisan, T. W. Swetnam-West Side
+Road Sacramento Mountains-PIPO-ITRDB NM573.
+Online resource: https://www.ncdc.noaa.gov/paleo/
+study/5253 [Kaye et al. 2002]). We measured the
+tree-ring widths of each sample and checked the
+crossdating with the COFECHA software program
+(Holmes 1983). We estimated the season of ﬁre
+occurrence based on the relative position of each
+ﬁre lesion within the annual ring according to the
+following categories: EE (early earlywood), ME
+(middle earlywood), LE (late earlywood), L (late-
+wood), and D (dormant; Baisan and Swetnam
+1990). We assigned scars positioned at the ring
+boundary to the following year. We listed the ﬁre
+scar as undetermined when the position of the scar
+was not clear.
+Statistical analysis
+Fire at tree scale.—We analyzed the individual
+tree scale ﬁre regime in the MATL calculating the
+point MFI as the best estimator of single-tree ﬁre
+interval (Dieterich 1980, Van Horne and Fule
+2006). We calculated the distribution of tree ﬁre
+Table 1. Mescalero Apache Tribal Lands (MATL) study site characteristics summary.
+Study site (Abbr.)
+Elevation,
+m  SD
+Slope,
+%  SD
+Site
+aspect(s)
+Samples
+crossdated|collected
+Species
+n
+Mean tree diameter,
+cm  SD
+Turkey Spring (TS)
+2285  28
+40  10
+NW, SE
+20|25
+PIPO
+13
+56  16
+PIST
+10
+PSME
+1
+Snow Cyn. (SC)
+2407  18
+25  12
+NW
+26|26
+PIPO
+14
+75  28
+PIST
+7
+PSME
+3
+Mistletoe Cyn. (MC)
+2405  20
+28  5
+N, NW
+12|12
+PIPO
+9
+50  25
+PIST
+1
+PSME
+2
+Turkey Cyn. (TC)
+2334  14
+19  8
+NE, SE
+15|16
+PIPO
+15
+52  20
+PIST
+–
+PSME
+–
+Solon (S)
+2237  25
+36  10
+N, NW
+25|28
+PIPO
+27
+63  20
+PIST
+1
+PSME
+–
+Turkey Track (TT)
+2523  27
+40  12
+E, SE, S
+22|24
+PIPO
+23
+58  19
+PIST
+1
+PSME
+–
+Potato Patch (PP)
+2575  30
+37  13
+SW, W
+32|32
+PIPO
+26
+75  22
+PIST
+1
+PSME
+4
+Turkey Pen (TP)
+2632  31
+36  11
+S, SE
+20|29
+PIPO
+5
+6  20
+PIST
+23
+PSME
+1
+Notes: PIPO, ponderosa pine; PIST, southwestern white pine; PSME, Douglas-ﬁr. Sites are arranged north (top) to south
+(bottom) within the MATL.
+ ❖www.esajournals.org
+4
+November 2018 ❖Volume 9(11) ❖Article e02492
+AZPELETA TARANCON ET AL.
+
+intervals for all recording years and within a
+commonly used analysis period, from 1700 to
+1900.
+Fire at site scale.—We analyzed ﬁre recurrence
+at site scale using the R package burnr (Malevich
+et al. 2015). We analyzed each site starting at the
+ﬁrst ﬁre year recorded by two or more of the
+total number of recording trees at each site.
+Recording trees are those with open ﬁre scars or
+other injuries (e.g., lightning scars); the presence
+of these open wounds makes the trees more
+likely to record scars in subsequent ﬁres (Swet-
+nam and Baisan 1996).
+We carried out the statistical analysis by site
+with three ﬁlters: (1) all ﬁre years, with at least
+two scarred sample trees; (2) ﬁre years in which
+10% or more of the recording sample trees were
+scarred; and (3) ﬁre years in which 25% or more
+of the recording sample trees were scarred, rep-
+resenting extensive ﬁre years (Swetnam and Bai-
+san 1996). For each ﬁlter, we calculated the MFI,
+as well as the standard deviation and minimum–
+maximum ﬁre intervals. We also calculated the
+Weibull median probability interval, considered
+a better estimator than MFI because ﬁre intervals
+are often not normally distributed (Grissino-
+Mayer 2001).
+Fire–climate relationship
+We evaluated the ﬁre–climate relationship dur-
+ing reconstructed ﬁre events as well as antece-
+dent and subsequent years with two proxy
+indices: one of drought, Palmer Drought Severity
+Index (PDSI: Cook et al. 2004), and one of the El
+Ni~no Southern Oscillation (ENSO) Index (Ni~no-3
+Sea Surface Temperature; Cook 2000).
+We analyzed the inﬂuence of mean climate on
+ﬁre occurrence with a non-parametric statistical
+tool, Superposed Epoch Analysis (SEA: Swetnam
+1993), using the R package burnr (Malevich et al.
+2015) to test the null hypotheses that there is no
+relationship between climate conditions and ﬁre
+occurrence in years prior, during, and after ﬁre
+years. We determined signiﬁcant climate anoma-
+lies using bootstrap simulation because anomalies
+from average climate conditions are associated
+with ﬁre occurrence. Superposed Epoch Analysis
+was used to assess ﬁre as a response of drought
+and ENSO for 5 yr pre-ﬁre and 2 yr post-ﬁre, a
+period that covers the range of ENSO oscillations
+(Grissino-Mayer 2001).
+We carried out statistical analysis considering
+the same three different ﬁlters (≥2%, ≥10% and
+≥25%) described in the section above.
+Fire at Sacramento Mountains landscape scale
+We estimated the ﬁre regime at mountain
+range scale by combining the data from all eight
+sites within the MATL and 17 sites previously
+collected in the adjacent LNF (Kaye and Swet-
+nam
+1999,
+Brown
+et al.
+2001;
+Fig. 1).
+We
+obtained the LNF ﬁre scar chronologies from the
+International
+Multiproxy
+Paleoﬁre
+Database
+(www.ncdc.noaa.gov/paleo-search).
+To compare our results at the MATL with the
+results previously obtained at the LNF, we deter-
+mined a common temporal and spatial scale. We
+selected a period of analysis from 1700 to 1900
+for all the MATL and the LNF sites together. This
+period was analyzed because there was adequate
+sample depth across sites to 1700 and because
+ﬁre was generally excluded from the landscape
+by 1900. Our eight study sites had the same grain
+(tree) and measurement extent (25 ha), but the
+Kaye and Swetnam (1999) and Brown et al.
+(2001) study sites ranged from 10 to 30 ha. The
+25%-scarred
+ﬁlter
+eliminates
+ﬁre
+dates
+that
+appear only in one or few samples, providing a
+ﬁre statistic that is relatively consistent over a
+range of scales (Van Horne and Fule 2006).
+RESULTS
+Mescalero Apache Tribal Lands fire regime
+reconstruction
+We collected 192 partial cross sections from
+three
+species:
+ponderosa
+pine,
+southwestern
+white pine, and Douglas-ﬁr (Table 1). Nineteen
+could not be crossdated because of a short ring
+series and/or wood deterioration; these cross sec-
+tions were excluded from the study. The earliest
+ﬁre date was 1549, and the latest was 2004. Dur-
+ing this period, we identiﬁed 1138 ﬁre scars rep-
+resenting 114 distinct ﬁre years. The oldest
+sample was from a 150 cm diameter ponderosa
+pine that lived from 1372 until at least 1964 and
+recorded 19 ﬁre events. The analysis of ﬁre inter-
+vals started in the mid-1600s at most study sites
+except for Turkey Canyon (TC), which was
+burned in the 1971 Elk Springs Fire, apparently
+consuming the oldest evidence of historical ﬁres.
+We only found one sample older than 1750. As a
+ ❖www.esajournals.org
+5
+November 2018 ❖Volume 9(11) ❖Article e02492
+AZPELETA TARANCON ET AL.
+
+result, the period of analysis for this site starts in
+1801.
+Fire at tree scale.—Fires were frequent until early
+1900s. Trees within site Turkey Pen (TP) recorded
+the longest mean and maximum ﬁre interval, 27
+and 133 yr, respectively. Trees within sites TC and
+Potato Patch (PP) recorded the shortest mean, 12.2
+and 12.6 yr, respectively, and shorter maximum
+ﬁre interval, 59 and 54 yr, respectively (Fig. 2).
+Fire at site scale.—Historical ﬁres were frequent
+at the site scale until the early 1900s (Fig. 3).
+Trees at three sites (Turkey Spring [TS], Turkey
+Track [TT], and PP) did not record any ﬁre after
+early 1900s while the rest of the sites experi-
+enced at least one recent ﬁre in different time
+periods (Fig. 3). The historical MFI ranged from
+6 to 18 yr when considering all ﬁres (Table 2),
+from 4.4 to 16 yr when considering the 10% ﬁl-
+ter, and from 6 to 17 yr when considering the
+25% ﬁlter (Table 2). A ﬁre-free gap of 24–26 yr
+in the early 1800s was observed at four sites, TS
+and Snow Canyon in the north (1806–1832) and
+TT and TP in the south (1806–1830). The other
+four sites did not show an apparent ﬁre gap
+(Fig. 3).
+Many extensive ﬁres, ﬁre dates scarring 25%
+or more of recording trees, occurred in the
+MATL. For example, in 1684, four sites out of the
+seven sites with recording samples recorded a
+ﬁre. In 1736 and 1773, ﬁve out of the seven sites
+with recording samples recorded a ﬁre. The
+highest degree of synchrony in ﬁre dates across
+the MATL sites was in the 1800s when 58% and
+23% of the recording samples recorded a ﬁre in
+all eight sites in 1806 and 1836, respectively.
+These extensive ﬁres also deﬁned the limits of
+the 24- to 26-yr ﬁre-free gap noted above. In the
+remaining years of the 1800s, 43%, 36%, and
+29% of the samples recorded a ﬁre in 1870, 1879,
+and 1893, respectively, in seven of the eight sites
+(Fig. 3).
+Fire–climate relationship
+Fires tended to occur in drought years along
+with a wetter than normal condition two years
+before ﬁre. The results of the SEA for all the
+MATL sites indicate that ﬁres occurred in signiﬁ-
+cantly lower than average moisture (PDSI 99%
+conﬁdence interval [CI]) when considering all
+ﬁre events (Fig. 4a), ﬁre events scarring 10% or
+more of recording trees (Fig. 4b), and ﬁre events
+scarring 25% or more of recording trees (Fig. 4c).
+Superposed Epoch Analysis results also indicate
+a wetter than normal condition (PDSI 95% CI)
+two years before ﬁre years when considering ﬁre
+events scarring 10% or more of recording trees
+(Fig. 4b) and ﬁre events scarring 25% or more of
+recording trees (Fig. 4c).
+The results of the SEA for all the MATL sites
+indicate with a 99% CI that ﬁres occurred in the
+0
+20
+40
+60
+80
+100
+120
+140
+TS
+SC
+MC
+TC
+S
+TT
+PP
+TP
+Years
+Sites
+25th pctl
+min
+1700-1900
+outlier
+site analysis
+max
+75th pctl
+median
+Fig. 2. Distribution of point ﬁre intervals at tree scale within the eight sites in the Mescalero Apache Tribal
+Lands. The boxplots indicate the median and the lower and upper quartiles. Whiskers represent maximum and
+minimum values. Outliers are represented with a circle. Gray shaded boxplots represent each site’s individual
+analysis period (Table 2), while unshaded boxplots represent the common 1700–1900 period. Sites are arranged
+north (left) to south (right).
+ ❖www.esajournals.org
+6
+November 2018 ❖Volume 9(11) ❖Article e02492
+AZPELETA TARANCON ET AL.
+
+negative phase of ENSO, La Ni~na years, when
+considering all ﬁre events (Fig. 4d), ﬁre events
+scarring 10% or more of recording trees (Fig. 4e),
+and ﬁre events scarring 25% or more of recording
+trees (Fig. 4f).
+Fire at Sacramento Mountains landscape scale
+Frequent surface ﬁres occurred along
+the
+Sacramento Mountains until the early 1900s.
+During the historical period 1700–1900, we found
+3672 ﬁre scars representing 142 distinct ﬁre
+1500
+1600
+1700
+1800
+1900
+2000
+TS
+SC
+MC
+TC
+S
+TT
+PP
+TP
+Fig. 3. Fire chronologies for the eight sites in the Mescalero Apache Tribal Lands with ﬁre years in which 25%
+or more of the recording sample trees were scarred. Horizontal lines represent samples, vertical ticks represent
+ﬁre scars, and points represent the pith or bark of the sample. Solid lines represent the recording period of sam-
+ple lifetime. Site codes are in Table 1. Sites are arranged north (top) to south (bottom).
+ ❖www.esajournals.org
+7
+November 2018 ❖Volume 9(11) ❖Article e02492
+AZPELETA TARANCON ET AL.
+
+events for the full data set of the eight MATL
+sites plus the 17 LNF sites. The average MFI was
+18 with a minimum interval of 2 and a maximum
+of 33 yr.
+Extensive ﬁres occurred until the early 1900s.
+The ﬁre scar composite from the MATL and the
+LNF shows many synchronous ﬁre years at the
+mountain range scale. We identiﬁed 1748, 1773,
+1806, 1832, 1847, and 1879 as extensive ﬁre years
+within the Sacramento Mountains. Five of the six
+extensive ﬁre years correspond to regional years
+described by Swetnam and Baisan (2003; Fig. 5).
+Small ﬁres, burning one or two sites, were
+numerically dominant. The ﬁre-size distribution
+as inferred from the number of sites burned was
+skewed indicating a higher number of small ﬁre
+years (Fig. 5).
+Fire dates were highly synchronous between
+the MATL and the LNF during drier than normal
+years. Our ﬁndings show that the MATL and the
+LNF samples recorded ﬁre in unison during
+years with PDSI values ranging from moderate,
+2, to extreme, 4.9, droughts (Fig. 6).
+Fire seasonality was similar in the MATL and
+the LNF. Fires in the MATL occurred mostly dur-
+ing the dormant to early growing season. From
+the 1138 total number of ﬁre scars, we were able
+to identify the seasonality of 62% of the ﬁre scars.
+The 28% of the ﬁre events occurred during dor-
+mant season, 30% during early-earlywood, 22%
+during mid-earlywood, 11% occurred during
+late-earlywood, and 10% during latewood. Fig. 7
+summarizes the ﬁre seasonality for MATL and
+LNF. Note that the differences in seasonality pro-
+portions between the MATL and the LNF could
+be due to subjective differences in the den-
+drochronologists’ criteria in the assignment of
+the scar position.
+Table 2. Historical ﬁre interval statistics at the eight study sites analyzed from the ﬁrst to the last ﬁre date with a
+minimum of two scarred samples per site.
+Study site
+Analysis period
+Number of intervals, yr
+Interval range, min|max yr
+MFI  SD, yr
+WMPI, yr
+All ﬁre years
+TS
+1659–1879
+13
+3|77
+16.9  19
+12.6
+SC
+1549–1883
+34
+3|44
+9.8  9
+8
+MC
+1750–1893
+12
+3|36
+12  10
+10.2
+TC
+1801–1893
+14
+2|11
+6.6  3
+6.5
+S
+1666–1899
+41
+2|27
+5.6  4
+5.1
+TT
+1705–1904
+19
+3|33
+10.5  8
+9.1
+PP
+1730–1904
+21
+3|29
+8  6
+7.2
+TP
+1598–1893
+17
+5|58
+17.3  14
+14.7
+Fire events scarring 10% or more of recording trees
+TS
+1659–1879
+14
+3|42
+15.7  12
+13.4
+SC
+1549–1883
+46
+3|31
+7.3  5
+6.5
+MC
+1750–1893
+22
+2|18
+6.5  4
+6
+TC
+1801–1893
+21
+1|10
+4.4  2
+4.2
+S
+1666–1899
+52
+1|12
+4.5  2
+4.3
+TT
+1705–1904
+21
+2|25
+9.5  6
+8.6
+PP
+1730–1899
+25
+2|19
+6.8  4
+6.2
+TP
+1598–1893
+27
+2|35
+11  8
+9.6
+Fire events scarring 25% or more of recording trees
+TS
+1659–1879
+13
+3|42
+16.9  12
+14.9
+SC
+1549–1883
+24
+4|44
+13.7  10
+12
+MC
+1750–1893
+16
+3|27
+9  6
+8
+TC
+1801–1893
+16
+2|10
+5.7  2
+5.7
+S
+1666–1899
+29
+1|32
+8.0  7
+6.9
+TT
+1705–1904
+19
+2|25
+10.5  6
+9.6
+PP
+1549–1883
+18
+2|29
+9.4  7
+8.1
+TP
+1598–1893
+18
+3|40
+16.4  11
+14.6
+Notes: TS, Turkey Spring; SC, Snow Canyon; MC, Mistletoe Canyon; TC, Turkey Canyon; S, Solon; TT, Turkey Track; PP,
+Potato Patch; TP, Turkey Pen; MFI, mean ﬁre interval; SD, standard deviation; WMPI, Weibull median probability interval.
+Study sites are arranged north to south within the Mescalero Apache Tribal Lands.
+ ❖www.esajournals.org
+8
+November 2018 ❖Volume 9(11) ❖Article e02492
+AZPELETA TARANCON ET AL.
+
+Fig. 4. Superposed epoch analysis (SEA) illustrating departures from the mean values of Palmer Drought
+Severity Index (PDSI; left column) and Ni~no-3 (right column) for the 1700–1900 period, over an eight-year win-
+dow in association with all ﬁre years (a, d), ﬁre events scarring 10% or more of recording trees (b, e), and ﬁre
+events scarring 25% or more of recording trees (c, f). Horizontal axes represent ﬁre years lags: 5 to 1 = one to
+ﬁve years prior to ﬁre years; 0 = ﬁre year (represented with a vertical discontinuous line); 1–2 = one to two years
+following ﬁre years. Vertical axes represent SEA departures: Negative values represent drier than normal PDSI
+or negative (La Ni~na) El Ni~no Southern Oscillation phase; positive values are the reverse. Dashed and solid lines
+represent 95% and 99% conﬁdence intervals determined from a bootstrap simulation with 1000 iterations.
+ ❖www.esajournals.org
+9
+November 2018 ❖Volume 9(11) ❖Article e02492
+AZPELETA TARANCON ET AL.
+
+DISCUSSION
+The overall goal of our ﬁre reconstruction
+study was to estimate tree-to-mountain range ﬁre
+regimes, from spatially explicit measurements.
+On the MATL, ﬁres were frequent and often
+extensive. Fire was the dominant disturbance in
+ponderosa and mixed conifer forests in the
+MATL, occurring at least on a 20-yr interval. The
+ﬁre intervals in our study are consistent with
+other ﬁre reconstructions in ponderosa and
+mixed
+conifer
+forests
+(Swetnam
+and Baisan
+2003). The highly ﬁre-scarred trees indicate that
+low severity ﬁres, predominantly surface ﬁres,
+removed ﬁne fuels, seedlings, and saplings and
+maintained an open ponderosa-dominated old-
+growth forest. The severity of these ﬁres cannot
+be measured directly, but the fact that individual
+trees survived dozens of burns indicates that
+they
+were
+predominantly
+low-severity
+ﬁres.
+Many
+ﬁres
+were
+synchronous
+within
+and
+between sites showing that ﬁres were extensive
+in many cases. In addition, numerous localized
+ﬁres burned in interspersed sites which suggest
+that ﬁres were patchy within the MATL.
+A ﬁre-free gap occurred in the early 1800s, but
+it was not consistent in all sites. Many studies
+have observed a similar ﬁre gap during the late
+1700s and early 1800s, also known as late
+eighteenth early nineteenth century transition
+(LEENT). Grissino-Mayer and Swetnam (2000)
+observed a longer than average gap between
+1780 and 1794; Kitzberger et al. (2001) and
+Skinner et al. (2008) observed a decrease in ﬁre
+occurrence between 1780 and 1830 and 1770 and
+1800, respectively. These authors suggested that
+the unusual gap was related to a change in
+ENSO activity that affected the ﬁre–climate
+Fig. 5. Frequency of ﬁre events by number of sites from 1700 to 1900. Horizontal axes represent ﬁre recording
+sites and are arranged left to right from small ﬁre years to extensive ﬁre years. Vertical axes represent frequency
+of ﬁre years. Black shaded bars represent ﬁre years recorded within the eight Mescalero Apache Tribal Lands
+(MATL) sites; hollow bars represent ﬁre events recorded within the 17 Lincoln National Forest (LNF) sites from
+Kaye and Swetnam (1999) and Brown et al. (2001). Gray shaded bars represent ﬁre years recorded within the 25
+Sacramento Mountain range (MATL and LNF ﬁre years combined). Years recorded in ≥25% of the recording trees
+in the Sacramento Mountain range composite are identiﬁed in bold. Regional ﬁre years identiﬁed in Swetnam
+and Baisan (2003) are identiﬁed with an asterisk.
+ ❖www.esajournals.org
+10
+November 2018 ❖Volume 9(11) ❖Article e02492
+AZPELETA TARANCON ET AL.
+
+relationship. Farther south in Nuevo Leon, Mex-
+ico, Yocom et al. (2010) documented a shift circa
+1830 in the ENSO phase associated with ﬁre.
+However, numerous other studies in the South-
+west have not found evidence of a gap or shift in
+the LEENT period in northern Arizona (Fule
+et al. 2002, Stan et al. 2014) or northern New
+Mexico (Touchan et al. 1996, Rother and Gris-
+sino-Mayer 2014). Our study showed that sites
+with and without a gap between 1806 and 1830
+are interspersed and therefore not necessarily
+consistent with a change in ENSO alone. A nota-
+ble shift from one of the wettest years in the PDSI
+reconstruction, 1816, to one of the driest, 1818,
+occurred in the middle of the gap period (Fig. 6).
+This type of wet-to-dry shift was associated with
+ﬁre years during other time periods, but no ﬁres
+burned at the MATL sites in 1818 or nearby
+years. While the ﬁre-free gap remains elusive to
+explain, it likely had ecological consequences
+such as those reported by Brown and Wu (2005)
+in Colorado, where pulses of pine regeneration
+became established between ﬁres. The ﬁre-free
+gap could have allowed the accumulation of con-
+tinuous ﬁne fuels and saplings explaining the
+extensive ﬁres that occurred in 1832 and espe-
+cially in 1836, when all the eight MATL sites
+recorded a ﬁre.
+There was a clear ﬁre regime alteration after
+1900. Three sites do not record any ﬁre after early
+1900s while the rest of the sites experienced at
+least one recent ﬁre in different time periods.
+These recent ﬁres were recorded by multiple
+trees within sites but were not synchronous
+between sites, which might indicate prescribed
+burning or small wildﬁres. This is a generalized
+PDSI
+MATL fire events
+LNF fire events
+LNF samples
+MATL samples
+1748
+1773
+1806
+1832
+1879
+1847
+-6
+-4
+-2
+0
+2
+4
+6
+0
+50
+100
+150
+200
+250
+1700
+1710
+1720
+1730
+1740
+1750
+1760
+1770
+1780
+1790
+1800
+1810
+1820
+1830
+1840
+1850
+1860
+1870
+1880
+1890
+1900
+1910
+1920
+1930
+1940
+1950
+1960
+1970
+1980
+1990
+2000
+PDSI mean departure
+s
+e
+l
+p
+m
+a
+s
+ f
+o
+ r
+e
+b
+m
+u
+N
+Year
+Fig. 6. Fire events and Palmer Drought Severity Index (PDSI) from 1700 to 2012. Shaded bars represent sam-
+ples recording ﬁre within the Mescalero Apache Tribal Lands (MATL) sites, while hollow bars represent samples
+recording ﬁre within the Lincoln National Forest (LNF) sites from Kaye and Swetnam (1999) and Brown et al.
+(2001). The continuous black line represents the MATL study sample depth; the discontinuous black line repre-
+sents the LNF study sample depth. The continuous red line represents the PDSI mean departure. Negative values
+represent drier than normal climate conditions, and positive values represent higher than normal moisture condi-
+tions. Gray shaded time periods represent the ﬁre-free gap for some MATL sites and ﬁre cessation after the early
+1900s. Years recorded in ≥25% of the recording trees in the Sacramento Mountain range composite are identiﬁed.
+ ❖www.esajournals.org
+11
+November 2018 ❖Volume 9(11) ❖Article e02492
+AZPELETA TARANCON ET AL.
+
+pattern found in other ﬁre reconstruction studies
+in southwestern ponderosa and mixed conifer
+forests (Swetnam and Baisan 2003). In addition
+to a strict policy of ﬁre control beginning in the
+early twentieth century (Pyne 1982), livestock
+such as sheep, cattle, and horses overgrazed
+grasses and selective old-growth logging chan-
+ged forest structure and fuel loads (Covington
+and Moore 1994).
+Climate was a major driver of historical ﬁres at
+all
+scales.
+Extensive
+ﬁres
+were highly
+syn-
+chronous with La Ni~na positive phase of ENSO.
+This regional periodic ﬂuctuation inﬂuences ﬁne
+fuels availability in Arizona and New Mexico
+and explains the synchronous ﬁre activity in the
+Southwest (Swetnam and Betancourt 1990). We
+also found that historical ﬁres were highly syn-
+chronous with a wetter than normal condition
+two years before the ﬁre. This was evident in the
+analysis of ﬁre events scarring 25% or more of
+recording trees but was still important for ﬁre
+events scarring 10% or more of recording trees.
+Wet years increased ﬁne fuel availability favoring
+the spread of ﬁre during dry condition (Swetnam
+and Baisan 2003). All six years identiﬁed as the
+most extensive ﬁre years at mountain range
+scale, 1748, 1773, 1806, 1832, 1847, and 1879,
+were consistent with extensive ﬁre years within
+the MATL sites, LNF sites, and the list of the top
+20 regional ﬁres identiﬁed by Swetnam and Bai-
+san (2003) across the Southwest.
+Landform, vegetation composition, ignitions,
+and the legacy of past ﬁre occurrence were prob-
+able drivers of localized ﬁres, since we could not
+identify any single factor explaining the variety
+of ﬁre interval between sites. Native American-
+set ﬁres could also be drivers of historical local
+ﬁres, but we could not distinguish human-
+caused from lightning-caused ﬁres using the ﬁre-
+scarred tree samples. Based on conifers’ cambial
+phenology (Stephens et al. 2017), ﬁre scars in
+early earlywood to latewood interannual posi-
+tion form in the summer, which suggests light-
+ning ignition during the summer monsoon,
+while ﬁre scars in the dormant position form
+during the fall and winter, which Kaye and Swet-
+nam (1999) attributed to human ignition.
+Although the MATL was recognized as a Native
+American sovereign land since the 1870s, the colo-
+nial structure of reservations and management
+requirements forced the tribe to comply with the
+general federal ﬁre policy, which would explain
+why there is no evidence of a distinct ﬁre regime
+between the MATL and the LNF. Some argued
+against the exclusion of surface ﬁres from Native
+lands (Weaver 1951) and in a few places in the
+Southwest ﬁre continued to be used, on Western
+Apache lands (Cooper 1960) and Hualapai lands
+(Stan et al. 2014), as well as in some similar forests
+in adjacent Chihuahua, Mexico (Fule et al. 2011).
+We collected ﬁre-scarred tree samples from
+sites with the same scale (grain: tree; extent:
+25 ha), which enabled us to establish compar-
+isons between sites at tree and site scale. Sample
+sites within the LNF had different extent. While
+it is not possible to adjust the sizes of previously
+measured sites, it is appropriate to acknowledge
+this potential source of error. To overcome the
+problem of different scales, we selected a com-
+mon temporal scale, 1700–1900, and we used a
+ﬁlter of 25% or more recording trees for compar-
+isons across spatial scale. The ﬁlter eliminates ﬁre
+dates that appear only in a few samples, provid-
+ing a ﬁre statistic that is relatively indifferent to
+the
+potential
+spatial-confounding
+bias
+(Van
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+Fig. 7. Seasonality of historical ﬁre events in Sacra-
+mento Mountains based on the position of ﬁre scars
+within the annual tree rings from 1700 to 1900. Shaded
+bars represent averages of the Mescalero Apache Tri-
+bal Lands sites, while hollow bars represent averages
+from the Lincoln National Forest (LNF) sites from
+Kaye and Swetnam (1999) and Brown et al. (2001). U,
+undetermined; D, dormant; EE, early-earlywood; ME,
+mid-earlywood; LE, late-earlywood; L, latewood.
+ ❖www.esajournals.org
+12
+November 2018 ❖Volume 9(11) ❖Article e02492
+AZPELETA TARANCON ET AL.
+
+Horne and Fule 2006). The use of a coarse-scale
+ﬁlter to analyze ﬁre years from multiple sites
+with different spatial measurement scale has
+been widely used in the literature to represent
+regional ﬁre regimes (Swetnam and Baisan 2003).
+The legacy of recent history forest manage-
+ment has altered forest fuel loads and has chan-
+ged ﬁre behavior in ponderosa and mixed
+conifer forest of the southwestern United States.
+Fire exclusion in ﬁre-prone forests, coupled with
+warming climate (Westerling et al. 2006), has
+many negative ecological, cultural, and economic
+impacts. Recent ﬁres, such as the 2012 Little Bear
+Fire adjacent to the MATL, are not only expen-
+sive to contain, but the intensity of the ﬂames is
+capable of destroying thousands of houses and
+structures. After these severe wildﬁres, ecosys-
+tem productivity, timber and non-timber forest
+products, and traditional and medicinal plants,
+and water resources are degraded.
+Severe wildﬁres are predicted to increase sub-
+stantially in the next few decades due to warming
+climate (Kitzberger et al. 2017). Managers and
+policymakers in the southwestern United States
+face grave challenges in seeking forest manage-
+ment alternatives that conserve natural resources
+(Loehman et al. 2018). The reintroduction of ﬁre
+in the landscape does have demonstrable effect in
+reducing the risk of severe wildﬁres and its
+adverse consequences (Walker et al. 2018). The
+ﬁndings of our study provide data on the histori-
+cal ecological role of ﬁre over multiple scales. Tri-
+bal
+leaders,
+forest
+managers,
+and
+regional
+stakeholders can apply landscape disturbance
+data together with climate-sensitive ecological
+simulation models to develop strategies for forest
+restoration and adaptation in warming climate.
+ACKNOWLEDGMENTS
+We thank the Mescalero Apache Tribe for permis-
+sion to conduct the research and would also like to
+thank Bill Hornsby and Erica Enjady. Samuel Ebright,
+Lionel Whitehair, Jaime Yazzie, Blanca Cespedes, and
+Tyler Mockta provided ﬁeld and woodshop assistance.
+Don Normandin and the Ecological Restoration Insti-
+tute at Northern Arizona University helped facilitate
+ﬁeld and laboratory work. This research was funded
+by the USDA National Institute of Food and Agricul-
+ture (# 2015-67019-23185) and by McIntire-Stennis
+appropriations to NAU and the State of Arizona.
+LITERATURE CITED
+Allen, C. D., M. Savage, D. A. Falk, K. F. Suckling, T. W.
+Swetnam, T. Schulke, P. B. Stacey, P. Morgan, M. Hoff-
+man, and J. T. Klingel. 2002. Ecological restoration of
+southwestern ponderosa pine ecosystems: a broad
+perspective. Ecological Applications 12:1418–1433.
+Baisan, C. H., and T. W. Swetnam. 1990. Fire history on
+a desert mountain range: Rincon Mountain Wilder-
+ness, Arizona, USA. Canadian Journal of Forest
+Research 20:1559–1569.
+Baisan, C. H., and T. W. Swetnam. 1995. Historical ﬁre
+occurrence in remote mountains of southwestern
+New Mexico and northern Mexico. Pages 153–156
+in J. K. Brown, R. W. Mutch, C. W Spoon, and R. H.
+Wakimoto, technical
+coordinators.
+Proceedings:
+Symposium on Fire in Wilderness and Park Man-
+agement.
+INT-GTR-320,
+USDA
+Forest
+Service,
+Ogden, Utah, USA.
+Brown, P. M., M. W. Kaye, L. S. Huckaby, and C. H.
+Baisan. 2001. Fire history along environmental gra-
+dients in the Sacramento Mountains, New Mexico:
+inﬂuences of local patterns and regional processes.
+Ecoscience 8:115–126.
+Brown, P. M., and R. Wu. 2005. Climate and distur-
+bance forcing of episodic tree recruitment in a
+southwestern ponderosa pine landscape. Ecology
+86:3030–3038.
+Cook, E. R. 2000. Ni~no3 index reconstruction. IGBP
+Pages/World Data Center for Paleoclimatology
+Data
+Contribution
+Series
+#2000–052.
+NOAA/
+NGDC Paleoclimatology Program, Boulder, Color-
+ado, USA.
+Cook, E. R., D. M. Meko, D. W. Stahle, and M. K.
+Cleaveland. 2004. North American summer PDSI
+reconstructions. IGBP PAGES/World Data Center
+for Paleoclimatology Data Contribution Series #
+2004–045, grid point 134 (Lat/Lon: 32.5, -105).
+NOAA/NGDC Paleoclimatology Program, Boul-
+der, Colorado, USA.
+Cooper, C. F. 1960. Changes in vegetation, structure,
+and growth of southwestern pine forests since
+white settlement. Ecology 42:493–499.
+Cooperative Climatological Data Summaries, Western
+Regional Climate Center. http://www.wrcc.dri.edu
+Covington, W. W., and M. M. Moore. 1994. Postsettle-
+ment changes in natural ﬁre regimes and forest
+structure: ecological restoration of old-growth pon-
+derosa pine forests. Journal of Sustainable Forestry
+2:153–181.
+Dieterich, J. H. 1980. The composite ﬁre interval—a
+tool for more accurate interpretations of ﬁre his-
+tory. Pages 8–14 in M. A. Stokes and J. H. Dieterich,
+technical coordinators. Proceedings of the Fire His-
+tory Workshop, October
+20–24, 1980, Tucson,
+ ❖www.esajournals.org
+13
+November 2018 ❖Volume 9(11) ❖Article e02492
+AZPELETA TARANCON ET AL.
+
+Arizona RN-GTR-81. USDA Forest Service, Rocky
+Mountain Research Station, Fort Collins, Colorado,
+USA.
+Falk, D. A., E. K. Heyerdahl, P. M. Brown, C. Farris, P.
+Z. Fule, D. McKenzie, T. W. Swetnam, A. H. Taylor,
+and M. L. Van Horne. 2011. Multiscale controls of
+historical forest ﬁre regimes: new insights from
+ﬁre-scar networks. Frontiers in Ecology and the
+Environment 9:446–454.
+Fule, P. Z., W. W. Covington, M. M. Moore, T. A. Hein-
+lein, and A. E. M. Waltz. 2002. Natural variability
+in forests of Grand Canyon, USA. Journal of Bio-
+geography 29:31–47.
+Fule, P. Z., M. Ramos-Gomez, C. Cortes-Monta~no, and
+A. M. Miller. 2011. Fire regime in a Mexican forest
+under indigenous resource management. Ecologi-
+cal Applications 21:764–775.
+Fule, P. Z., L. L. Yocom, C. Cortes-Monta~no, D. A. Falk,
+J. Cerano, and J. Villanueva-Diaz. 2012. Testing a
+pyroclimatic hypothesis on the
+Mexico-United
+States border. Ecology 93:1830–1840.
+Grissino-Mayer, H. D. 2001. Evaluating crossdating
+accuracy: a manual and tutorial for the computer
+program COFECHA. Tree-Ring Research 57:205–221.
+Grissino-Mayer, H. D., and T. W. Swetnam. 2000. Cen-
+tury-scale climate forcing of ﬁre in the American
+southwest. Holocene 10:213–220.
+Heyerdahl, E. K., and S. J. McKay. 2001. Condition of
+live, ﬁre-scarred ponderosa pine trees six years
+after removing partial cross sections. Tree-Ring
+Research 57:131–139.
+Holmes, R. L. 1983. Computer-assisted quality control
+in tree-ring dating and measurement. Tree-Ring
+Bulletin 43:69–75.
+Kaib, H., C. H. Baisan, H. D. Grissino-Mayer, and T.
+W. Swetnam. 1996. Fire history in the gallery pine-
+oak forests and adjacent grasslands of the Chiric-
+ahua Mountains of Arizona. Pages 253–264 in P. F.
+Folliott, L. DeBano, M. Baker Jr., G. Gottfried, G.
+Solis-Garza, C. Edminster, D. Neary, L. Allen, and
+R. Hamre, technical coordinators. Proceedings of
+the Symposium on effects of ﬁre on Madrean Pro-
+vince Ecosystems, March 11–14, 1996, Tucson, AZ,
+USDA Forest Service RM-GTR-289. USDA Forest
+Service, Rocky Mountain Research Station, Fort
+Collins, Colorado, USA.
+Kaye, M. W., C. H. Baisan, and T. W. Swetnam. 2002.
+West Side Road Sacramento Mountains. National
+Centers for Environmental Information, Paleocli-
+matology Datasets. https://www.ncdc.noaa.gov/paleo/
+study/5253
+Kaye, M. W., and T. W. Swetnam. 1999. An assessment
+of ﬁre, climate, and Apache history in the Sacra-
+mento Mountains, New Mexico. Physical Geogra-
+phy 20:305–330.
+Kitzberger, T., D. A. Falk, A. L. Westerling, and T. W.
+Swetnam. 2017. Direct and indirect climate controls
+predict heterogeneous early-mid 21st century wild-
+ﬁre burned area across western and boreal North
+America. PLoS ONE 12:e0188486.
+Kitzberger, T., T. W. Swetnam, and T. T. Veblen. 2001.
+Inter-hemispheric synchrony of forest ﬁres and the
+El Ni~no-Southern Oscillation. Global Ecology and
+Biogeography 10:315–326.
+Leopold, A. 1924. Grass, brush, timber, and ﬁre in
+southern Arizona. Journal of Forestry 22:1–10.
+Loehman, R. A., et al. 2018. Effects of climate change
+on ecological disturbance in the Northern Rockies.
+Pages 317–352 in J. E. Halofsky and D. L. Peterson,
+editors. Climate change and Rocky Mountain
+ecosystems. RM-GTR-289. USDA Forest Service,
+Rocky Mountain Research Station, Fort Collins,
+Colorado, USA.
+Malevich, S. B., E. Q. Margolis, and C. H. Guiterman.
+2015. burnr: ﬁre history analysis in R. https://
+githubcom/ltrr-arizona-edu/burnr
+Marshall Jr., J. T. 1962. Land use and native birds of
+Arizona. Journal of the Arizona Academy of
+Science 2:75–77.
+McKenzie, D., C. Miller, and D. A. Falk. 2011. Toward
+a theory of landscape ﬁre. Pages 3–25 in D. McKen-
+zie, C. Miller, and D. A. Falk, editors. The land-
+scape ecology of ﬁre. Springer, New York, New
+York, USA.
+Metlen, K. L., C. N. Skinner, D. R. Olson, C. Nichols,
+and D. Borgias. 2018. Regional and local controls
+on historical ﬁre regimes of dry forests and wood-
+lands in the Rogue River Basin, Oregon, USA. For-
+est Ecology and Management 430:43–58.
+Morgan, P., C. C. Hardy, T. W. Swetnam, M. G. Rollins,
+and D. G. Long. 2001. Mapping ﬁre regimes across
+time and space: understanding coarse and ﬁne
+scale patterns. International Journal of Wildland
+Fire 10:329–342.
+Morino, K. A. 1996. Reconstruction and interpretation
+of historical patterns of ﬁre occurrence in the
+Organ Mountains, New Mexico. Thesis. University
+of Arizona, Tucson, Arizona, USA.
+Pyne, S. J. 1982. Fire in America. A cultural history of
+wildland and rural ﬁre. Princeton University Press,
+Princeton, New Jersey, USA.
+Pyne, S. J. 2014. The Southwest: a ﬁre survey. Univer-
+sity of Arizona Press, Tucson, Arizona, USA.
+Rother, M. T., and H. D. Grissino-Mayer. 2014. Cli-
+matic inﬂuences on ﬁre regimes in ponderosa pine
+forests of the Zuni Mountains, NM, USA. Forest
+Ecology and Management 322:69–77.
+Savage, M., and T. W. Swetnam. 1990. Early 19th-century
+ﬁre decline following sheep pasturing in a Navajo
+ponderosa pine forest. Ecology 71:2374–2378.
+ ❖www.esajournals.org
+14
+November 2018 ❖Volume 9(11) ❖Article e02492
+AZPELETA TARANCON ET AL.
+
+Seklecki, M. T., H. D. Grissino-Mayer, and T. W. Swet-
+nam. 1996. Fire history and the possible role of
+Apache-set ﬁres in the Chiricahua Mountains of
+Southeastern Arizona. Pages 238–246 in P. F. Fol-
+liott, L. F. DeBano, M. B. Maker Jr., G. J. Gottfried,
+G. Solis-Garza, C. B. Edminster, D. G. Neary, L. S.
+Allen, and R. H. Hamre, technical coordinators.
+Proceedings of the Symposium on Effects of Fire
+on Madrean Province Ecosystems. Tucson, Ari-
+zona, March 11–15, 1996. RM-GTR-289. USDA For-
+est Service, Rocky Mountain Research Station, Fort
+Collins, Colorado, USA.
+Skinner, C. N., J. H. Burk, M. G. Barbour, E. Franco-
+Vizcaino, and S. L. Stephens. 2008. Inﬂuences of
+climate on ﬁre regimes in montane forests of north-
+western
+Mexico.
+Journal
+of
+Biogeography
+35:
+1436–1451.
+Sonnichsen, C. L. 1973. The Mescalero Apaches.
+University of Oklahoma Press, Norman, Okla-
+homa, USA.
+Stan, A. B., P. Z. Fule, K. B. Ireland, and J. S. Sanderlin.
+2014. Modern ﬁre regime resembles historical ﬁre
+regime in a ponderosa pine forest on Native Amer-
+ican lands. International Journal of Wildland Fire
+23:686–697.
+Stephens, S. L., L. Maier, L. Gonen, J. D. York, B. M.
+Collins, and D. L. Fry. 2017. Variation in ﬁre scar
+phenology from mixed conifer trees in the Sierra
+Nevada. Canadian Journal of Forest Research
+48:101–104.
+Stokes, M. A., and T. L. Smiley. 1968. An introduction
+to tree-ring dating. University of Chicago Press,
+Chicago, Illinois, USA.
+Swetnam, T. W. 1993. Fire history and climate change
+in giant sequoia groves. Science 262:885–889.
+Swetnam, T. W., and C. H. Baisan. 1996. Historical ﬁre
+regime patterns in the southwestern United States
+since AD 1700. Pages 11–32 in C. D. Allen, editor.
+Fire effects in southwestern forests. Proceedings of
+the Second La Mesa Fire Symposium, Los Alamos,
+New Mexico, March 29–31, 1994. RM-GTR-286.
+USDA Forest Service, Rocky Mountain Research
+Station, Fort Collins, Colorado, USA.
+Swetnam, T. W., and C. H. Baisan. 2003. Tree-ring
+reconstructions of ﬁre and climate history in the
+Sierra Nevada and the Southwestern United States.
+Pages 158–195 in T. T. Veblen, W. L. Baker, G. Mon-
+tenegro, and T. W. Swetnam, editors. Fire and cli-
+matic change in temperate ecosystems of the Western
+Americas. Ecological Studies 160, Springer, New
+York, New York, USA.
+Swetnam, T. W., and J. L. Betancourt. 1990. Fire-south-
+ern oscillation relations in the southwestern United
+States. Science 249:1017–1020.
+Touchan, R., C. D. Allen, and T. W. Swetnam. 1996.
+Fire history and climatic patterns in ponderosa
+pine and mixed-conifer forests of the Jemez Moun-
+tains, northern New Mexico. Pages 33–46 in C. D.
+Allen, editor. Fire effects in southwestern forests.
+Proceedings of the Second La Mesa Fire Sympo-
+sium. Los Alamos, New Mexico, March 29–31,
+1994. RM-GTR-286. USDA Forest Service, Rocky
+Mountain Research Station, Fort Collins, Colorado,
+USA.
+Van Horne, M. L., and P. Z. Fule. 2006. Comparing
+methods of reconstructing ﬁre history using ﬁre
+scars in a southwestern United States ponderosa
+pine forest. Canadian Journal of Forest Research
+36:855–867.
+Walker, R. B., J. D. Coop, S. A. Parks, and A. Trader.
+2018. Fire regimes approaching historic norms
+reduce wildﬁre-facilitated conversion from forest
+to non-forest. Ecosphere 9:e02182.
+Weaver, H. 1951. Fire as an ecological factor in the
+southwestern ponderosa pine forests. Journal of
+Forestry 49:93–98.
+Westerling, A. L., H. G. Hidalgo, D. R. Cayan, and T.
+W. Swetnam. 2006. Warming and earlier spring
+increase western US forest wildﬁre activity. Science
+313:940–943.
+Whitehair, L., P. Z. Fule, A. J. Sanchez Meador, A.
+Azpeleta Tarancon, and Y.-S. Kim. 2018. Fire
+regime on a cultural landscape: Navajo Nation.
+Ecology and Evolution. https://doi.org/10.1002/ece
+3.44
+Yocom, L. L., P. Z. Fule, P. M. Brown, J. Cerano, J. Vil-
+lanueva-Dıaz, D. A. Falk, and E. Cornejo-Oviedo.
+2010. El Ni~no-Southern Oscillation effect on a ﬁre
+regime in northeastern Mexico has changed over
+time. Ecology 91:1660–1671.
+ ❖www.esajournals.org
+15
+November 2018 ❖Volume 9(11) ❖Article e02492
+AZPELETA TARANCON ET AL.

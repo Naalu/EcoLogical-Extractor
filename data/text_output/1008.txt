@@ -1,0 +1,1055 @@
+WOOD STRUCTURE AND FUNCTION (S HIZIROGLU, SECTION EDITOR)
+Moisture Content in Forest Residues: an Insight on Sampling
+Methods and Procedures
+Anil Raj Kizha1 & Han-Sup Han2
+# Springer International Publishing AG 2017
+Abstract
+Purpose of Review Taking moisture content samples from
+forest residue stack piles has been a challenge due to numer-
+ous factors such as varying shapes of piles, difference in ma-
+terial types, and financial constraint of the research.
+Additionally, there has been no standard sampling procedure
+set for the task encompassing the various constraints, especial-
+ly in-wood conditions. For these reasons, samples taken from
+forest residue piles may not accurately represent the average
+moisture content of the population. This study attempts to
+classify the sampling methods commonly used for measuring
+moisture contents of forest residue piles for scientific research.
+Recent Finding We reviewed over 28 studies focusing on
+moisture content in forest residues to develop four general
+sampling methods, namely weighing stack piles, weight from
+scale ticket, fixed location sampling, and transect sampling.
+Advantages and limitations for each sampling method along
+with the type of data generated from each were described in
+detail. For example, weighing stack piles provided the most
+accurate form of continuous data, but could not be used for in-
+wood conditions and was usually limited to small pile struc-
+tures. On the other hand, fixed location sampling and transect
+sampling would be preferred in field experiments and could
+detect moisture content variation within layers of the pile.
+Attempts were also made to determine the situations in which
+each of these sampling methods could be adopted.
+Summary This study could assist researchers set up their ex-
+perimental designs and provide insight for handling potential
+challenges during data collection.
+Keywords Bioenergy . Data collection . Renewable energy .
+Slash piles . Sampling techniques . Woody biomass
+Introduction
+With recent trends to incorporate more renewable options into
+energy portfolios, forest residues generated from timber har-
+vesting operations have been gaining increasing significance
+as a valuable feedstock source for bioenergy production.
+Around 11 million acres of timberland are harvested annually
+in the USA generating approximately 162 million dry ton of
+forest residues, which accounts for about 2.01 × 10e15 Btu of
+renewable energy [1, 2]. Woody biomass in the form of forest
+residues for energy production comes primarily from sources
+such as timber harvests, forest restorations, and fuel reduction
+thinning treatments.
+Forest residues can be classified based on the forms of
+storage, material types, and arrangement patterns. It is com-
+mon for forest residues destined for bioenergy production to
+be temporarily stacked either in open or under roofed condi-
+tions. While left open, the storage could be either in-woods or
+in the yards of power plants. Stack piles are often covered with
+paper or plastic to protect them from rain or snow. Forest
+residues can also be left at the harvest site, unstacked over
+long periods for drying, referred to as scattered [3, 4].
+This article is part of the Topical Collection on Wood Structure and
+Function
+* Anil Raj Kizha
+anil.kizha@maine.edu
+Han-Sup Han
+Han-Sup.Han@humboldt.edu
+1
+School of Forest Resources, University of Maine,
+Orono, Maine 04469, USA
+2
+Department of Forestry and Wildland Resources, Humboldt State
+University, Arcata, California 95521, USA
+Curr Forestry Rep
+DOI 10.1007/s40725-017-0060-5
+
+The next form of classification is based on the types of
+forest residue material. Whole trees of small-diameter and
+non-merchantable species are common forest residue generat-
+ed during timber harvest and thinning treatments. Stem wood
+and treetops are the next category of material types, which are
+typical to timber harvest operations [3, 5, 6••, 7••]. These two
+categories of materials can be chipped (instead of
+grinded) to produce feedstock with homogenous particle
+size distribution [8]. The last material type, namely
+slash, includes chunks (off-shoots), broken logs, roots,
+branches, and foliage, can be potentially bundled for
+feeding to grinders. However, slash materials are usually
+left at the harvesting sites for nutrient recycle consider-
+ations or burned on site for disposal.
+Forest residues can also be classified based on shapes or
+arrangement patterns of the stack piles (Fig. 1). This form of
+classification originated from fire ecology studies to predict
+the potential energy content and burning intensity of the pile.
+This technique may be used to estimate weight or volume of
+the piles for fire analysis purpose [9, 10•]. Stack pile structures
+are constructed by different machines with specific intention.
+Some structures are built for production of energy or value-
+added bio-based products such as briquettes and biochar,
+while others are meant for slash disposal as it would not be
+financially or technically viable to utilize them. Forest resi-
+dues intended for high-quality feedstock are processed and
+sorted into different material types to facilitate the chipping
+process [11]. The cost of piling and compactness of materials
+within are also dependent on the pile structure, which varies
+widely across different regions. The arrangement patterns of
+forest residues that are common to the Western United States
+are the following:
+1.
+Teepees: These piles are created by loader and compose
+all forest residues generated during timber harvest opera-
+tions, such as treetops, chunks, branches, broken logs, and
+small-diameter and non-merchantable whole trees. The
+shape is usually asymmetrical with some resemblance to
+a cone. Even though the sizes of these piles vary, they tend
+to accumulate more materials per unit area and are less
+costly to construct compared to other pile structures.
+Teepees are generally intended for burning but could be
+utilized for grinding if appropriate markets are available.
+2.
+Windrowed: Processor-made piles located on the road-
+sides next to the log landing. They are common to steep
+grounds (cable yarded unit), where landing space is a
+major constraint. Similar to teepees, they comprise of all
+types of materials mixed within the same the pile and can
+be burned for slash disposal or grinded for utilization.
+3.
+Stack/processor piled: Uniformly arranged piles created
+by the processors with butt ends facing the same direction.
+These piles are usually intended for utilization, as they
+predominantly consist of treetops and stem wood mate-
+rials that could be comminuted (processed) using a chip-
+per [12].
+4.
+Criss-cross: Arrangement of treetops, broken logs, and
+stem wood piled to a 90° from each other to promote
+airflow between materials and thereby potentially increas-
+ing the rate of drying. This arrangement is not commonly
+practiced in timber harvesting operations and is currently
+restricted to research experiments [13–15••].
+5.
+Scattered: Forest residues left in a harvest unit (at stump)
+unstacked. Drying is promoted as a result of increased
+surface area being exposed to the surroundings. These
+materials are not brought to the landing during skidding
+Fig. 1 Classification of forest
+residue piles based on the
+geometric shape (Source: Hardy
+[10•])
+Curr Forestry Rep
+
+or yarding and thereby requires machine re-entry for
+collecting the materials later [11].
+Controlling Moisture Content of Forest Residues
+for Energy Production
+From an economic point of view, multiple factors affect the
+utilization of forest residues for energy production, among
+which high moisture content (MC) is regarded as one of the
+major issues [16]. The MC in feedstock affects everything
+from energy content to efficiency of transportation and con-
+version process. Dry feedstock increases heating value and
+improves boiler efficiency. Higher MC leads to lower heating
+value as a portion of the combustion energy is used to evap-
+orate moisture [17•, 18••]. Energy efficiency of feedstocks
+increases by 1% for each 1% drop in MC above 50 and
+0.5% for each 1% reduction in MC below 40% [19•, 20].
+MC also plays a significant role in determining transporta-
+tion costs and subsequent market price of the delivered com-
+modity. It has been proven that feedstock with lower MC has a
+higher market value; therefore, letting feedstock dry up to
+one year is a profitable investment for suppliers as long as
+purchasers pay based on MC of the feedstock [7••, 17•, 21].
+Additionally, current state-of-the-art biomass conversion tech-
+nologies like torrefaction, palletization, and briquetting have a
+very narrow MC specification range for their feedstock [22].
+On a broader perspective, proper management of MC can lead
+to economic gains [23].
+Accurate measurement of MC also plays a critical role for
+many other applications within the forest product industry. For
+example, in chemical pulping, dosing of digestion chemicals
+can be more precisely determined if MC of feedstock is
+known. In mechanical pulping, MC critically influences the
+feedstock processing properties related to fiber quality [24].
+All of these suggest that an accurate MC measurement using
+efficient sampling methods is pivotal to the forest products
+and wood bioenergy industries.
+There have been several studies related to the MC in forest
+residues. While results and implications of these studies are
+well documented, often times, the sampling method (SM) is
+not described in explicit detail. Furthermore, most of these
+studies have employed different types of SM which shows a
+lack of standardized methods, making it difficult for other
+researchers to adopt them. One major reason is due to the
+varying nature of the residues itself, such as, species compo-
+sition, material type, and size and shape of piles. Apart from
+this, the local weather and time of the year also contribute to
+the variability of the residue pile moisture. Adopting the ap-
+propriate SM often governs the applicability of any results
+furnished. On the other hand, difference in the SM and mea-
+surement techniques can yield a range of results with varying
+degrees of accuracies [25••]. Researchers have also been de-
+veloping unique SMs to measure MC primarily based on their
+objective and other factors, such as type of data required,
+financial budget of the study, structural arrangement, and
+shape of piles. One of the major reasons for these differences
+is due to the lack of a concrete procedural standard to sample
+MC in varying stack piles, especially in-woods.
+Study Scope
+This study attempts to examine and document some common-
+ly adopted MC measurement techniques and SMs to monitor
+MC for various forest residues in different pile structures in
+the research world. SM is defined as the scientific procedure
+of selecting samples which would provide the required esti-
+mates with associated margins of uncertainty, arising from
+examining only a portion of the whole population [26]. For
+this study, we reviewed over 28 research articles and found
+four major sampling methods, namely weighing stack piles,
+weight from scale ticket, fixed location sampling, and transect
+sampling, that were most commonly used for MC measure-
+ment (Table 1). Attempts were made to identify the purpose
+behind using each SM and to classify the conditions in which
+they could be adopted. Some of these SMs were either inter-
+changeable or could be used in combination; this article close-
+ly examined the limitations and advantages of each method in
+different scenarios. Sampling methods for comminuted forest
+residues such as hog fuels and wood chips were not the focus
+for this study; however, common issues related to them were
+briefly discussed.
+Determining Moisture Content in Piled Forest Residues
+There are two approaches adopted to measure MC in forest
+residues in the scientific world: (1) indirect measurement and
+(2) direct measurement. The indirect approach is defined by
+two interpretations. First, indirect measurements have been
+defined as the measurement techniques that do not involve
+the removal of water present in the wood sample during MC
+quantification [27]. Taking this definition into account, all
+techniques, other than oven drying, could be potentially clas-
+sified as indirect measurement. According to the second inter-
+pretation (which was used to interpret indirect measurements
+in this article), indirect measurements are based on models
+built using results from direct measurements and weather pa-
+rameters such as equilibrium moisture content, temperature,
+humidity, and precipitation, to predict the drying rates [17•,
+25••]. Here, MC readings need to be recorded initially.
+In the direct approach, MC data is collected directly from
+the population (i.e., forest residue piles). While implementing
+direct measurement, it is critical to ensure that samples truly
+represent the target population. Every material type within a
+pile must have an equal probability of being sampled. In
+Curr Forestry Rep
+
+Table 1
+A summary of different sampling methods adopted for determining moisture content in the past studies
+Study
+Geographical
+location
+Objective
+Sampling method
+Material type
+Pile type/dimension
+Gigler et al. [23] Netherlands
+Investigate the mechanism of natural wind drying and develop a drying model
+Weighing stack piles
+Stems
+Stack piles,
+7 m × 7 m × 3.6 m
+Pettersson and
+Nordfjell [42]
+Sweden
+Examine fuel quality of compacted small-diameter trees and both stacked and
+scattered logging residues
+Comminution (chipping)
+Logging residues
+Baled, windrowed,
+scattered
+Casal et al. [21] Spain
+Develop a methodology for forest residues to be used as fuel in a co-combustion
+plant
+Chipped followed by fixed
+location sampling
+Wood chips
+Pyramidal configuration;
+3 m × 10.5 m
+Filbakk et al. [4] Norway
+Model moisture content changes related to species, climate, tree size, harvesting
+time, and storage time
+Fixed location sampling
+followed by chipping
+Treetops
+Stack piles
+2.5 m × 10 m
+Brand et al.
+[33••]
+Brazil
+Evaluate the influence of species, harvest season, storage season, and storage span in
+the physical and chemical properties of the wood biomass
+Fixed location sampling
+followed by chipping
+Logs (length 2.5 m)
+Stack piles
+6 m × 2.5 m × 2.5 m
+Röser et al.
+[18••]
+Finland,
+Scotland, and
+Italy
+Investigate the natural drying in different regions
+Weighing stack piles and
+fixed sample location
+Small-diameter trees
+Covered pile, ~5 m3
+Gautam et al.
+[34••]
+Canada
+Determine a storage regime to enhance the fuel quality
+Transect sampling
+Logging residues
+Teepees and windrow
+Kim and
+Murphy [19•]
+USA
+Forecasting air-drying rates of stacked logs
+Weighing stack piles
+Small logs
+Stack piles (2261 kg)
+Erber et al. [7•]
+Austria, Finland
+and Sweden
+Develop prototypes for estimating the optimal storage time and sorting of fuel wood Weighing stack piles and
+chipping
+Fuel wood
+Stack piles
+(2.5 m × 2.5 m × 2.7 -
+m)
+Kizha and Han
+[31••]
+USA
+Estimate amount of logging residues
+Scale ticket
+Small-diameter trees
+and logging residues
+Teepees and scattered
+Kizha et al.
+[15••]
+USA
+Estimate moisture content changes in different arrangement patterns
+Transect sampling
+Small-diameter trees
+and logging residues
+Teepees, stack piles,
+scattered, and
+criss-cross
+Curr Forestry Rep
+
+reality, this is not often feasible for non-comminuted forest
+residue piles due to the restricted accessibility to the interior
+of the pile. Therefore, researchers have developed several
+techniques to obtain samples that are representative of the
+population. It has been proven that both indirect and direct
+measurement approaches complement each other [28].
+However, for this study, we focused on the different direct
+sampling methods commonly used.
+Weighing Stack Piles
+Weighing stack piles is a SM employed to obtain MC of the
+entire pile over a period of time. With this SM, fluctuations in
+total weight of piles can be captured over time, without sam-
+ples being drawn from the pile every time [7••, 18••, 23, 29].
+Samples are initially drawn from various parts of the pile to
+estimate MC and are later used to relate differences in total
+weight to the whole pile. This SM offers the best opportunity
+to acquire data on a continuous scale. It can be used to com-
+pare variation in MC between various attributes such as ma-
+terial types and species composition if stacked in respective
+piles [30]. This SM has been used to sample both comminuted
+and non-comminuted forest residues and is highly recom-
+mended for its accuracy [7••].
+Forest residues are erected on frames (pallets or metal),
+which hold the piles together and facilitate the weighing pro-
+cess (Fig. 2). It is important to erect the frames free from
+distortive stresses to ensure precision during load
+measurement. Additionally, metal frames are preferred over
+wooden frames, as the latter can be affected comparatively
+more by air temperature and humidity [7••]. This SM can be
+carried out by multiple approaches based on the availability of
+equipment. The stack piles can be weighed using external
+lifting mechanism (like forklift/front-end loaders) or support-
+ed by load sensors attached to the frame [18••, 30]. While
+using load sensors, the ground pressure is to be evenly distrib-
+uted by putting metal plates or square edged logs as a platform
+(Fig. 2).
+Utilizing external lifting mechanism to weigh the residue
+piles provides data in longer fixed time intervals compared to
+the load sensor data logger which generate data on a more
+continuous level depending on the time interval set. Other
+limitations while using forklifts are the possibility of
+disrupting pile structure during the weighing process and
+weight being limited to measurable load of the scale.
+Therefore, this SM is usually restricted to small stack piles
+up to 20 metric tons [7••]. In field-based experiments, using
+external lifting mechanisms leads to multiple-entry equipment
+costs. Hence, this method is often restricted to controlled ex-
+periments. Additionally, weighing stack pile SM cannot be
+used for determining variation within and across the pile.
+Weight from Scale Ticket
+Scale ticket is a different version of weight sampling where
+MC of forest residues is provided via scale tickets at the end-
+use facility. This SM is widely used in forest operations re-
+search [31••]. In most cases, measurement is obtained by
+weighing loaded trucks on a weighbridge followed by taking
+random samples. MC estimation using radio frequency waves
+have also been adopted at certain power plants [32]. The main
+reasons for measuring MC at the facilities are to determine
+price and fuel combustion efficiency. MC provided by scale
+tickets are generally very accurate because suppliers are often
+paid based on these values. However, as various industries
+have adopted different standards for drawing samples and
+measurement methods, the procedure adopted by each facility
+has to be carefully comprehended to properly interpret the
+results. In some cases, the values from scale tickets are further
+modified by accounting for specific gravity of the species
+delivered [31].
+Fixed Location Sampling
+Storage of forest residues in piles results in uneven moisture
+loss throughout the pile structure. During winter, the best dry-
+ing conditions occur inside the pile where there is less expo-
+sure to the elements (rain and snow) and no direct contact with
+the ground. In summer, this effect is reversed due to lack of air
+flow within the pile [6••]. Sampling at fixed locations provides
+an opportunity to evaluate variations in MC across the various
+Fig. 2 Metal frame (above) and load cells (below) used for weighing
+piles (Source: Erber et al. [7••])
+Curr Forestry Rep
+
+strata or layers of the pile [4, 21, 33••]. This SM, regarded as a
+stratified random sampling technique, identifies sampling lo-
+cations prior to sample collection. For example, sampling
+points are designated as the top, middle, and bottom of the
+stack pile (Fig. 3) [6••, 33••, 34••]. Samples are taken from a
+particular point or fixed location using either moisture meters
+from freshly cut wood or by extracting wood discs using
+chainsaws. The spots are usually marked/flagged on the pile
+to help identify sampling locations during re-entry. Another
+approach to this SM is to comminute the selected sample
+materials prior to MC analysis [33••].
+The piles selected for fixed location sampling should pref-
+erably have uniform geometric shapes to facilitate extrapola-
+tion of data to the intended layers. The samples are usually
+collected from designated parts of the pile throughout study.
+This method is suited for taking measurements from covered
+stack piles, along with large piles (which cannot be weighed).
+Forest residue piles are generally arranged with butt ends
+aligned together, as it is the easiest way to pile and handle
+[23]. In this case, special access to an interior sampling point
+should be considered during the construction of the pile.
+Thermocouples or other weather data loggers can be set inside
+the pile to monitor internal micro-weather conditions. This
+data are often compared with external weather conditions
+and MC of the interior is estimated using regression models
+(indirect measurement). However, in large piles, access to
+interior areas is subjected to the safety of the researcher
+collecting the data.
+Fixed location sampling is often employed to estimate var-
+iation in MC within piles that differ in height, length, and
+azimuth. This method is best suited for in-woods measure-
+ments which lack access to weighing mechanisms. This SM
+can also deal with heterogeneous forest residue variables
+(such as species, diameter, residue type, etc.). Fixed location
+sampling allows for frequent readings without multiple ma-
+chine entry costs that are incurred when weighing stack piles
+using external lifting mechanism. This SM provides less ac-
+curate data compared to weighing stack piles or scale tickets,
+due to the low probability of equally sampling all materials in
+the population. Even though frequent data can be collected,
+these data are not as continuous compared to weighing stack
+piles with sensors, in other words, Bsnap shots^ of the drying
+behavior are the results from this SM [7••].
+Transect Sampling
+Similar to fixed location sampling, transect sampling is also
+employed to account for MC measurement within the pile.
+However, here, no fixed sampling points are plotted prior to
+sampling; instead, transects are drawn across the piles.
+Transects are created by markings or laying ribbons in a spe-
+cific orientation at required intervals/depths. Materials that fall
+on the transect are then systematically selected based on the
+required number of samples for each class (e.g., diameter
+class, tree species) [4]. Selected sample materials are cut with
+chainsaws at the point of the intersection with the transect, to
+expose the complete diameter for MC estimation [34••].
+Appropriate actions are taken to prevent edge effects. The
+remaining un-sampled materials are left undisturbed for future
+sampling. The sampled wood materials (branches) are
+discarded after the diameter is exposed. This approach is most
+suitable for teepee, windrowed piles, or scattered trees
+(Fig. 4), where the shape and size of the material vary consid-
+erably. In such conditions, fixed location sampling would not
+provide a true representation of the stack pile.
+The advantage of this SM is in its ability to capture varia-
+tion across different depths and lengths and increase the prob-
+ability of all materials being sampled compared to the fixed
+location method. Similar to fixed location sampling, transect
+sampling method can also be utilized for comparing various
+pile structures and arrangement patterns. Some of the advan-
+tages transect sampling has over fixed location sampling are
+as follows: (1) it can capture piles with irregular shapes and
+structures; (2) the possibility of including different materials
+into the sampling population is comparatively higher as
+Transects
+Fig. 4 Wood disc being extracted for moisture content measurement
+from teepees piles using transect sampling method. New transects are
+marked every time prior to the data collection with flags or ribbon
+Fig. 3 Schematic diagram of drawing samples for fixed point sampling
+method (Source: Filbakk et al. [4])
+Curr Forestry Rep
+
+transects are not predetermined; (3) interior entry to the piles is
+relatively easier by adjusting alignment of the transects,
+allowing to capture variation in MC within pile in more detail;
+and (4) more applicable in regions with limited woody bio-
+mass market where all forest residues generated are usually
+piled as teepees. However, this method is more labor intensive
+and demands a high attention to safety when compared to
+fixed location sampling during sample collections from inte-
+riors of pile (Fig. 4).
+Sampling Methods for Comminuted Forest Residues (Wood
+Chips/Hog Fuel)
+Evaluating MC in comminuted forest residues such as wood
+chips and hog fuel necessitates adoption of one of the previ-
+ously described SM. When comminuted materials are mea-
+sured with weighing stack piles, it can provide continuous and
+accurate estimates of the average MC, but cannot be used to
+show the variation in MC within the pile. Fixed location SM
+can be used to determine the variation between different strata
+of the comminuted pile. In such cases, probes have to be used
+for sampling the interiors. Here, the geometric shape of pile
+has to be adjusted to allow access. Sample collection from the
+interior of piles has also been done by making vertical cuts at
+the sides of pile [21]. A drawback to this approach is that
+subsequent sampling results could be impacted due to expo-
+sure of sampling point to atmosphere. MC through scale
+tickets are also used commonly when the processed forest
+residues are sent to end-use facilities.
+Factors Affecting Selection of Sampling Methods
+Each SM has their own unique advantages and shortcomings
+and are designed for specific situations. Some of the factors
+affecting the selection of SM are as follows:
+1.
+Utilization of data derived: Objective of the study and
+nature of data required are crucial factors that dictate the
+choice of SM. For example, SM will vary based on
+whether the study objective focuses on MC variation
+within the pile or variation between the piles.
+2.
+Temporal nature: Data collection techniques employed for
+one-time data would be different from that for a continu-
+ous scale. Experimental design (e.g., simple random,
+stratified random, or purposive sampling) would also af-
+fect the choice of the SM.
+3.
+Field study or controlled experiment: In-wood studies of-
+ten have limited access to equipment compared to con-
+trolled experiments which are usually near research facil-
+ities and have more equipment accessible.
+4.
+Financial budgets and time needed: Cost of initial exper-
+imental setup and measurement varies with each SM.
+SMs like weighing stack piles using sensors would incur
+higher cost for initial setup followed by lesser price to
+collect data periodically. In contrast, the initial setup cost
+is often not expensive for transect sampling and fixed
+location sampling methods; however, these come with a
+high cost for sample collection (due to the involvement of
+professional sawyers). Other SMs like weighing using
+forklifts may require multiple machine entry cost, for in-
+wood data monitoring.
+5.
+Equipment and drying site availability: Availability of
+equipment such as forklift trucks, weight data loggers,
+frame works for placing the forest residues, moisture me-
+ter, and professional sawyers also plays a major role in the
+selection of the SM.
+6.
+Material type: SM employed for evaluating MC of com-
+minuted forest residues (woodchips and hog fuel) will be
+different from that of non-comminuted forms such as
+tops, chunks, branches, and small-diameter trees.
+7.
+Material size: Pieces greater than 15 cm in diameter have
+to be dealt differently from those with small-diameter ma-
+terials (<15 cm). The 15-cm-diameter range was adopted
+considering the general market conditions for pulpwood
+in Western United States. Twigs less than 5 cm can be
+collected in plastic bags, weighed, and later sent to the
+lab for drying to get the moisture content. However, for
+larger size material, chain saws are used for both
+extracting wood discs and ensuring fresh-cut for accurate
+moisture meter readings.
+8.
+Shape and structure of forest residue piles: An important
+factor to be considered is the structure of piles along with
+its shape. Shapes of forest residues piles have been gen-
+eralized by forest fire ecologists for estimating the volume
+[10•]. Recently, LiDAR technology is utilized to accurate-
+ly model the shape of the pile to predict the quantity of
+forest residues [35]. In comminuted forest residues, piles
+usually have a pyramidal structure or similar.
+9.
+Compactness of material: It can be challenging to acquire
+samples from the middle of the pile when the materials are
+tightly packed. As a solution, special access are created to
+sampling points while constructing the pile [21].
+Techniques for Moisture Content Measurement
+After acquiring samples, the next step is the actual estimation
+of MC:
+Oven Drying
+Oven drying is regarded as the most common method. Here,
+samples are taken in the form of disc (cookies) or sawdust by
+cutting with a chainsaw. Wood discs are generally preferred,
+as sawdust samples can become contaminated with chainsaw
+Curr Forestry Rep
+
+lubricants and lose a higher percentage of water due to the heat
+generated during sawing [7••]. Wood discs are cut from
+branches of the required samples with a thickness ranging
+from 2 to 3 cm. Once a branch is selected, the sample should
+be cut at least 0.5 m away from the end of the branch because
+wood gains and loses moisture very rapidly through the end
+grain; a phenomenon referred to as edge effect [36]. MC with-
+in the branch varies along the length, with lower MC towards
+the ends. Freshly cut disc are weighed in field or immediately
+placed in sealed plastic bags to be weighed later in a laboratory
+setting [18••]. Samples are then oven dried for 1 to 4 days
+(ASTM standard D 2016) depending on the procedure
+adopted [15••, 19•]. Dried weight of the disc is later measured,
+and MC is calculated on a green basis for woody biomass
+[Eq. 1] from the following,
+Mositure content% Green basis
+ð
+Þ
+¼
+Weight of water
+Weight of water þ dry weight of wood
+
+
+ 100 ð1Þ
+where weight of water is the difference between fresh weight
+and oven dry weight of the wood sample.
+Even though oven drying techniques provide very accurate
+MC measurement, there are certain inherent limitations, such
+as being a destructive sampling method and requiring a min-
+imum timeframe of 24 h (depending on the standards used) to
+attain results. Additionally, oven drying can drive volatile
+compounds out of the wood (ASTM D4442). When volatiles
+are removed, the wood weighs less than if only water was
+removed, resulting in an overestimation of MC.
+Moisture Meters
+Moisture meters predominantly come in the form of dielectric
+and resistance meters. They are considered a quick, reliable,
+and non-destructive way to assess moisture content and are
+widely used in both research and commercial practices.
+Measurements are taken along the rays and cross section of
+the branch. While collecting samples, similar to disc collec-
+tion (for oven drying techniques), fresh cuts are made from the
+middle of the stem rather than measuring from the exposed
+outer portion, to avoid the edge effect. Studies have shown
+that it is important to evaluate reliability of the readings ob-
+tained from the moisture meter by comparing readings to MC
+estimated from oven dry measurements [34••, 37]. Prior to
+data collection, a paired t test analysis is done to understand
+the variation between the two measurement techniques. The
+equality test would involve collecting a number of samples
+from various species and diameter classes used in the study.
+The difference in the value should also be gauged.
+At present, different types of moisture content measuring
+instruments are available. Ochoa [25••] tested six different
+tools and utilized three different measurement technologies
+(acoustic, conductance, and capacitance) on different species
+in various forms such as sawlogs and comminuted forest res-
+idues. Results showed even the best model/tool combination
+was only explaining about 80% of the variability in measure-
+ments. Other types of measurement techniques such as
+electro-magnetic rays including ultra-violet, near infra-
+red, resonance acoustic velocity, and dynamic modulus
+of elasticity have also been used to monitor MC with
+varying degrees of accuracy [38–40]. Currently, these
+methods are still under development and are mostly re-
+stricted to laboratories.
+Accessory Data: Weather Parameters
+Changes in MC are directly associated with weather and cli-
+matic conditions under which forest residues are placed. The
+ambient temperature (°C), relative air humidity (%), wind
+speed (km h−1), wind direction (°), insolation (W m−2), and
+precipitation (mm) are usually measured [4, 19•, 41]. The data
+can also be taken from nearby meteorological stations [15••,
+21]. Thermocouples or atmospheric data loggers have also
+been placed in the stack pile at strategic positions to monitor
+internal weather condition. These procedures have been
+adopted for fixed location sampling and transect sampling.
+However, due to the smaller size of the stack pile used in the
+weighing stack pile method, internal weather monitoring
+would not provide any substantial data.
+Comparison of the Sampling Method Techniques
+Each SM comes with its own advantages and limitations that
+are meant for achieving a specific objective. Apart from mon-
+itoring MC, these SM have also been used for sampling ma-
+terials for collecting data on other attributes, including energy
+content and ash content. The scale ticket method is accurate
+and comparatively inexpensive, yet only provides one-time
+data. Weighing the stack pile can provide greater accuracy
+and is useful in estimating the variation of a pile’s MC over
+a given time period. The sampling frequency can range from
+monthly to seasonal sampling [21, 33••]. However, the
+weighing method is not appropriate to estimate the var-
+iation in MC within the pile and involves greater costs
+associated with equipment requirements (Table 2).
+Weighing stack pile would provide best results for the
+following situations:
+&
+Developing drying models based on weather conditions
+&
+MC variation in piles differing in material types, species,
+etc.
+&
+Evaluation of drying patterns over time
+Curr Forestry Rep
+
+For evaluating the variation of MC across the depth of a
+wood stack pile and across various diameter classes, the tran-
+sect method and fixed point sampling method are very effec-
+tive. In cases where it becomes physically not feasible to ex-
+tract samples from the interiors of the pile (especially while
+estimating the variation between layers of the pile), regression
+models are developed to predict MC variation within the pile.
+Here, selected wood pieces from the pile are initially pulled
+out and several samples are taken along the length of the piece.
+These measurements are used to model the MC variation
+within the pile. Additionally, once a sample is taken from a
+branch, the remainder of that material is generally excluded
+from the study unless the sampling population is small.
+Conclusions
+Selection of the appropriate SM is pivotal for addressing the
+objectives for any research. The scope of this article was to
+comprehend the different sampling methods adopted for mea-
+suring the MC in forest residue feedstock. As the MC in forest
+residues after felling is dependent on several factors including
+weather, post-harvest handling, and storage conditions, it is
+important to consider the advantages and limitations of the
+different SMs. This article reviewed four SMs to sample MC
+from a forest residue pile.
+Acknowledgements
+This project was supported by a grant funded by
+the US Department of Energy under the Biomass Research and
+Development Initiative program: Award Number DE-EE0006297.
+Compliance with Ethical Standards
+Conflict of Interest
+Drs Kizha and Han declares no conflicts of
+interests.
+Human and Animal Rights and Informed Consent
+This article does
+not contain any studies with human or animal subjects performed by any
+of the authors.
+Table 2 Advantages and
+limitations of sampling methods
+that are commonly used for
+sampling moisture content (MC)
+in forest residues for energy pro-
+duction. The factors for each
+sampling methods were ranked
+based on comparison
+Weighing stack pile
+Fixed location
+sampling
+Transect
+sampling
+Weight from
+scale tickets
+Factors
+Sensors on
+platform
+External lifting
+mechanism
+1. Periodic interval
+of data
+collectiona
+Continuous
+Snap shots
+Snap shots
+Snap shots
+One-time
+data
+2. Multiple-entry
+costb
+Least
+High
+Minimal
+Minimal
+Not
+applicable
+3. Accuracy in
+data
+Highest
+High
+Limited
+Limited
+high
+4. In-woods data
+collectionc
+Possible
+Limited
+Preferred
+Preferred
+Not
+applicable
+5. MC variation
+within forest
+residue pile
+Not suited
+Not suited
+Preferred
+Most preferred
+No
+6. Comminuted
+forest residuesd
+Preferred
+Limited (chances in
+disrupting pile
+shape)
+Preferred
+Not applicable
+Preferred
+7. Cost of periodic
+sampling
+Less
+High
+Medium
+Medium
+Minimum
+8. Initial cost of
+experimental
+setup
+High
+High
+Low
+Low
+Low
+9. Controlled
+experimentse
+Preferred
+Preferred
+Not suited due
+to high
+variation
+Not suited due
+to high
+variation
+No
+a Referring to the temporal continuity of data. Snap shots represents one-time measurement during the data
+collection period
+b Cost associated with bringing in the machines or equipment required for data collection
+c Data collected from piles built during forest harvesting operation. These are typical business as usual and
+represent the forest residues piled in real-world conditions
+d Processed (grinded or chipped) forest residues
+e Studies exclusively designed for estimating moisture content and not typically the piles built during forest
+operation activities
+Curr Forestry Rep
+
+References
+Papers of particular interest, published recently, have been
+highlighted as:
+• Of importance
+•• Of major importance
+1.
+US Department of Energy. 2016 billion ton report: advancing do-
+mestic resources for a thriving bioeconomy. Oak Ridge: Oak Ridge
+National Laboratory; 2016. p. 448. Report No.: ORNL/TM-2016/
+160
+2.
+EIA (U.S. Energy Information Administration). Short-term energy
+outlook [Internet]. Washington DC: US Department of Energy;
+2016 Jul. Available from: https://www.eia.gov/forecasts/steo/
+report/renew_co2.cfm
+3.
+Nurmi J. The storage of logging residue for fuel. Biomass
+Bioenergy. 1999;17:41–7.
+4.
+Filbakk T, Høibø O, Nurmi J. Modelling natural drying efficiency
+in covered and uncovered piles of whole broadleaf trees for energy
+use. Biomass Bioenergy. 2011;35:454–63.
+5.
+Suadicani K, Gamborg C. Fuel quality of whole-tree chips from
+freshly felled and summer dried Norway spruce on a poor sandy
+soil and a rich loamy soil. Biomass Bioenergy. 1999;17:199–208.
+6.•• Filbakk T, Skjevrak G, Høibø O, Dibdiakova J, Jirjis R. The influ-
+ence of storage and drying methods for scots pine raw material on
+mechanical pellet properties and production parameters. Fuel
+Process Technol. 2011;92:871–8. The authors describes MC re-
+duction in stacked piles using a fixed location sampling method.
+7.•• Erber G, Routa J, Wilhelmsson L, Raitila J, Toiviainen M,
+Riekkinen J, et al. A prediction model prototype for estimating
+optimal storage duration and sorting [Internet]. Vantaa, Finland:
+Finnish Forest Research Institute. 2014:76. Report No.: ISBN
+978-951-40-2476-4. Available from: http://www.metla.fi/
+julkaisut/workingpapers/2014/mwp297.htm. The report
+discusses some of the advantages and limitations of weighing
+stack piles. The report also describes a step-by-step procedure
+to set up an experiment.
+8.
+Bisson JA, Han H-S. Quality of feedstock produced from sorted
+Forest residues. Am J Biomass Bioenergy. 2016;5:81–97.
+9.
+Wright CS, Balog CS, Kelly JW, others. Estimating volume, bio-
+mass, and potential emissions of hand-piled fuels [Internet]. US
+Department of Agriculture, Forest Service, Pacific Northwest
+Research Station Portland, OR; 2010 [cited 2016 Jul 26].
+Available from: http://www.arlis.org/docs/vol1/B/588869493.pdf
+10.• Hardy CC. Guidelines for estimating volume, biomass, and smoke
+production for piled slash. 1998 [cited 2017 Apr 3]; Available from:
+http://www.treesearch.fs.fed.us/pubs/download/26244.pdf. The
+report classifies forest residues piles based on shape. This data is
+essential to determine the type of sampling method when
+conducting an in-field study to estimate biomass volume.
+11.
+Kizha AR, Han H-S. Processing and sorting forest residues: cost,
+productivity and managerial impacts. Biomass Bioenergy. 2016;93:
+97–106.
+12.
+Spinelli R, Hartsough B. A survey of Italian chipping operations.
+Biomass Bioenergy. 2001;21:433–44.
+13.
+Golser M, Pichler W, Hader F. Energieholztrocknung (wood energy
+and drying). Holzforschung Austria; 2005.
+14.
+Elber U. Changes in moisture content: fresh wood in forest storage.
+Bern: Vision Engineering; 2007 Nov. p. 31. Report No.: 101410.
+15.•• Kizha AR, Han H-S, Paulson JS. Techniques to reduce moisture
+content of forest residues at the harvest site. Lexington, Kentucky;
+2015. The study focusses on MC reduction for four types of pile
+arrangements (teepees, stack pile, criss-cross and scattered)
+using a transect method.
+16.
+Jirjis R. Storage and drying of wood fuel. Biomass Bioenergy.
+1995;9:181–90.
+17.• Roise JP, Catts G, Hazel D, Hobbs A, Hopkins C. Balancing bio-
+mass harvesting and drying tactics with delivered payment practice
+[Internet]. North Carolina State University; 2013. Available from:
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.639.
+8702&rep=rep1&type=pdf. The report analyze the economic
+benefit by lowering MC in forest residue piles.
+18.•• Röser D, Mola-Yudego B, Sikanen L, Prinz R, Gritten D, Emer B,
+et al. Natural drying treatments during seasonal storage of wood for
+bioenergy in different European locations. Biomass Bioenergy.
+2011;35:4238–47. The authors describes a MC reduction study
+conducted in four different parts of Europe using weighing
+stack method.
+19.• Kim D-W, Murphy G. Forecasting air-drying rates of small
+Douglas-fir and hybrid poplar stacked logs in Oregon, USA. Int J
+For Eng. 2013;24:137–47. Authors explores the effects of weath-
+er parameters on MC reduction.
+20.
+Liang T, Khan MA, Meng Q. Spatial and temporal effects in drying
+biomass for energy. Biomass Bioenergy. 1996;10:353–60.
+21.
+Casal MD, Gil MV, Pevida C, Rubiera F, Pis JJ. Influence of storage
+time on the quality and combustion behaviour of pine woodchips.
+Energy. 2010;35:3066–71.
+22.
+Uslu A, Faaij APC, Bergman PCA. Pre-treatment technologies, and
+their effect on international bioenergy supply chain logistics.
+Techno-economic evaluation of torrefaction, fast pyrolysis and
+pelletisation. Energy. 2008;33:1206–23.
+23.
+Gigler JK, Van Loon WKP, Van den Berg JV, Sonneveld C,
+Meerdink G. Natural wind drying of willow stems. Biomass
+Bioenergy. 2000;19:153–63.
+24.
+Järvinen T. Valtion teknillinen tutkimuskeskus. Rapid and accurate
+biofuel moisture content gauging using magnetic resonance mea-
+surement technology. 2013;
+25.•• Ochoa FAB. Evaluation of six tools for estimating woody biomass
+moisture content [Internet]. [Corvallis Oregon]: Oregon State
+University; 2012 [cited 2016 Jun 16]. Available from: http://ir.
+library.oregonstate.edu/xmlui/handle/1957/37209. The study
+compares the relative accuracy of MC measurement for six
+different tools.
+26.
+Fairfax County. Overview of sampling procedures. Fairfax County
+Department of Neighborhood and Community Services: Fairfax;
+2012.
+27.
+Owens F, Soderlund S, Hi-Bred P, Business AD. Methods for mea-
+suring moisture content of grains and implications for research and
+industry. Proc. Okla. State Univ. Cattle Grain Process. Symp. Okla.
+State Univ. Tulsa OK [Internet]. 2006 [cited 2017 Apr 4]. p. 238–
+244. Available from: http://beefextension.com/proceedings/cattle_
+grains06/06-32.pdf
+28.
+Fauchon T, Deleuze C, Chantre G. How to control the variation of
+the wood moisture content of logs from the stand to the woodyard?
+The contribution of both direct techniques of assessment and
+modeling. France: Laboratorie Bois Process (Wood Processing
+Lab); 2000. p. 419–63.
+29.
+Erber G, Kanzian C, Stampfer K. Modelling natural drying of
+European beech ( Fagus sylvatica L.) logs for energy based on
+meteorological data. Scand J For Res. 2016;31:294–301.
+30.
+Visser R, Berkett H, Spinelli R. Determining the effect of storage
+conditions on the natural drying of radiata pine logs for energy use.
+N Z J For Sci. 2014;44:1–8.
+31.•• Kizha AR, Han H-S. Forest residues recovered from whole-tree
+timber harvesting operations. Eur J For Eng. 2015;1:46–55. The
+article estimates MC of the forest residues using weight scales.
+32.
+Nyström J, Dahlquist E. Methods for determination of moisture
+content in woodchips for power plants—a review. Fuel. 2004;83:
+773–9.
+Curr Forestry Rep
+
+33.•• Brand MA, Bolzon de Muñiz GI, Quirino WF, Brito JO. Storage as
+a tool to improve wood fuel quality. Biomass Bioenergy. 2011;35:
+2581–8. The study estimates MC using a fixed-location sam-
+pling method.
+34.•• Gautam S, Pulkki R, Shahi C, Leitch M. Fuel quality changes in full
+tree logging residue during storage in roadside slash piles in
+Northwestern Ontario. Biomass Bioenergy. 2012;42:43–50. The
+authors describe some of the practical situations where transect
+sampling can be performed.
+35.
+Long JJ, Boston K. An evaluation of alternative measurement tech-
+niques for estimating the volume of logging residues. For Sci.
+2013;60:200–4.
+36.
+Reeb JE, Milota MR. Moisture content by the oven-dry method for
+industrial testing [Internet]. Corvallis, Oregon; 1999 p. 9. Available
+from: http://ir.library.oregonstate.edu/xmlui/handle/1957/5190
+37.
+Garrahan P, Lavoie V. Evaluation of factors affecting moisture es-
+timates from a dielectric type moisture meter. 9 th International
+IUFRO wood drying conference. Nanjing, China; 2005.
+38.
+Carter P, Chauhan S, Walker J. Sorting logs and lumber for stiffness
+using director HM200. Wood Fiber Sci. 2007;38:49–54.
+39.
+Jensen P, Hartmann H, Bohm T, Temmerman M, Rabier F, Morsing
+M. Moisture content determination in solid biofuels by dielectric
+and NIR reflection methods. Biomass Bioenergy. 2006;30:935–43.
+40.
+Chan JM, Walker J, Raymond CA. Effects of moisture content and
+temperature on acoustic velocity and dynamic MOE of radiata pine
+sapwood boards. Wood Sci Technol. 2011;45:609–26.
+41.
+Belart Lengerich MF. Forest harvest residue moisture management
+in the Pacific Northwest, USA [Internet]. [Corvallis Oregon]:
+Oregon State University; 2016 [cited 2017 Mar 13]. Available from:
+http://ir.library.oregonstate.edu/xmlui/handle/1957/59544
+42.
+Pettersson M, Nordfjell T. Fuel quality changes during seasonal
+storage of compacted logging residues and young trees. Biomass
+Bioenergy. 2007;31:782–92.
+Curr Forestry Rep

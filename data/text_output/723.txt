@@ -1,0 +1,1382 @@
+Shifts in community-level traits and functional
+diversity in a mixed conifer forest: a legacy of
+land-use change
+Robert T. Strahan1*, Andrew J. Sanchez Meador2, David W. Huffman3 and
+Daniel C. Laughlin4
+1New Mexico Forest and Watershed Restoration Institute, New Mexico Highlands University, P.O. Box 9000, Las
+Vegas, NM 87701, USA; 2School of Forestry, Northern Arizona University, Flagstaff, AZ, USA; 3Ecological
+Restoration Institute, Northern Arizona University, Flagstaff, AZ, USA; and 4Environmental Research Institute, School
+of Science, University of Waikato, Hamilton, New Zealand
+Summary
+1. Historical reference conditions have long been used to guide the restoration of degraded
+ecosystems. However, a rapidly changing climate and altered disturbance regimes are calling
+into question the usefulness of this approach. As a consequence, restoration goals are increas-
+ingly focused on creating communities that are resilient to novel environmental stressors and
+emphasis is being placed on deﬁning functional targets through the use of plant traits. While
+changes in forest structure and composition have received much attention, long-term changes
+in stand-level functional traits are not well understood.
+2. We used dendrochronology to reconstruct historical forest structure and composition in
+1880, the year immediately following the disruption of the natural ﬁre regime in a mixed
+conifer forest in Arizona, USA. We analysed the differences in pre-settlement and contem-
+porary forest composition, structure and community-weighted mean (CWM) traits, and
+functional diversity metrics (Rao’s Q and functional richness) for four plant functional
+traits: leaf nitrogen content (leaf N), speciﬁc leaf area (SLA), wood density and bark
+thickness.
+3. We observed signiﬁcant shifts in forest composition, structure, CWM traits and functional
+diversity from 1880 to 2011. These changes reﬂect a reduction in ﬁre and drought tolerance,
+driven largely by increases in the relative importance of Abies concolor and Pinus strobiformis.
+Compositional changes were associated with declines in CWM leaf N, SLA, wood density
+and bark thickness. We found lower multitrait functional diversity (Rao’s Q) in contemporary
+forests driven primarily by leaf N; however, bark thickness variation was greater in contem-
+porary forests than in 1880.
+4. Synthesis and applications. Compositional shifts towards reduced average bark thickness
+and wood density in contemporary forests driven by land-use change have likely reduced
+forest resilience to both ﬁre and drought. Managers can manipulate forest structure and
+species composition to achieve functional objectives by increasing stand-level bark thick-
+ness to promote ﬁre tolerance and increasing stand-level wood density to promote drought
+tolerance. Forecasts for extended ﬁre seasons along with declining precipitation are pro-
+jected for many ecosystems around the planet. A focus on restoring optimal functional
+trait combinations may be as important as managing ecosystem structure for restoring
+resilient ecosystems.
+Key-words: bark thickness, community structure, frequent ﬁres, functional diversity, func-
+tional traits, leaf economics, leaf nitrogen, mixed conifer forest, speciﬁc leaf area, wood density
+*Correspondence author. E-mail: rtstrahan@nmhu.edu
+© 2016 The Authors. Journal of Applied Ecology © 2016 British Ecological Society
+Journal of Applied Ecology 2016
+doi: 10.1111/1365-2664.12737
+
+Introduction
+Synergistic effects of climate and wildﬁre constrain the
+distribution and abundance of tree species around the
+world (Bond, Woodward & Midgley 2005). As weather
+patterns trend towards warmer and drier conditions, the
+size and severity of forest wildﬁres will intensify in many
+regions (Westerling et al. 2006), and ecosystems are likely
+to experience novel combinations of environmental condi-
+tions and disturbances (Hobbs, Higgs & Harris 2009).
+Anticipating ecological responses to these processes is
+relevant to restoration practitioners attempting to meet
+multiple management objectives. Recent advances in trait-
+based restoration ecology offer promise in addressing
+these problems (Laughlin 2014; Ostertag et al. 2015).
+Mixed conifer forests of the western United States are
+complex in terms of structure and disturbance regimes
+(Romme, Floyd & Hanna 2009). Based on the variation
+in abiotic and biotic conditions, two major mixed conifer
+subtypes are widely recognized: a ‘warm/dry’ type and a
+‘cool/moist’ type. This study focuses on the former of the
+two forest types. Warm/dry forests were historically domi-
+nated by ﬁre-tolerant Pinus ponderosa Lawson & C. Law-
+son and Pseudotsuga menziesii (Mirb.) Franco but also
+included Quercus gambelii Nutt., Abies concolor (Gord. &
+Glend.) Lindl. ex Hildebr., Pinus strobiformis Engelm.
+and Populus tremuloides Michx. (Romme, Floyd & Hanna
+2009). There is strong evidence that composition was reg-
+ulated by frequent, low-intensity surface ﬁres that burned
+at mean return intervals ranging 2–30 years. (Grissino-
+Mayer et al. 2004; Huffman, Zegler & Fule 2015).
+Over the last century, intensive land uses including
+unregulated livestock grazing, selective timber harvesting
+and active ﬁre suppression have resulted in signiﬁcant
+shifts in forest composition and structure in warm/dry
+mixed conifer forests (Fule, Korb & Wu 2009). A major
+consequence of this has been large increases in tree densi-
+ties and a shift in dominance towards more shade- and
+ﬁre-intolerant species (Huffman, Zegler & Fule 2015). In
+turn, wildﬁres in these forests have become increasingly
+more severe (Westerling et al. 2006). There is a concerted
+effort
+to
+mitigate
+this
+risk
+through
+landscape-scale
+restoration efforts (Schultz, Jedd & Beam 2012). Restora-
+tion treatments are based largely on applying the concept
+of reference conditions and the natural range of variabil-
+ity, deﬁning targets based on historical forest structure
+and composition (Roccaforte et al. 2015).
+Although recent changes in contemporary forest struc-
+ture and composition have received much attention, func-
+tional trait responses related to these changes are not
+fully understood. Studies have shown that shifts in struc-
+ture and composition have been primarily due to decreas-
+ing relative importance of ﬁre-tolerant P. ponderosa and
+P. menziesii (Korb, Fule & Wu 2013; Huffman, Zegler &
+Fule 2015). A signiﬁcant decline of the historically domi-
+nant species can restrict the ability of practitioners to
+deﬁne species-speciﬁc targets using historical composition
+and structure. Additionally, as climate change progresses,
+forest ecosystems in many regions are expected to experi-
+ence conditions outside of their natural range of variabil-
+ity, increasing the probability of widespread mortality and
+large-scale disturbance events (Williams et al. 2010). As a
+consequence, deﬁning restoration targets based on histori-
+cal conditions might become less relevant. One alternative
+is for restoration practitioners to focus on restoring resili-
+ent ecosystems by targeting functional attributes better
+adapted to anticipated future environmental conditions.
+A trait-based approach offers a complementary alterna-
+tive that focuses restoration efforts on meeting functional
+targets (Ostertag et al. 2015). Functional targets can be
+deﬁned based on historical reference conditions or future
+desired
+conditions
+under
+anticipated
+environmental
+changes (Laughlin et al. 2016). Deﬁning functional targets
+based on historical conditions would provide a useful
+complement when the loss of historically dominant species
+makes it difﬁcult to restore past forest composition and
+structure. In this case, species abundance distributions can
+be targeted that meet historical wood density, bark thick-
+ness or ﬁre tolerance indices. Alternatively, in systems that
+lack reference information, practitioners may want to
+increase ﬁre tolerance by targeting species abundance dis-
+tributions that increase stand-level bark thickness (Pausas
+2015), or may want to increase wood density to enhance
+drought tolerance (Laughlin et al. 2011). Applying a trait-
+based framework requires an understanding of how traits
+confer ﬁtness under different environmental conditions
+and management practices (Garnier & Navas 2012).
+Recent work in comparative ecology has identiﬁed two
+independent axes of plant specialization. The leaf eco-
+nomics spectrum (LES) describes a gradient from species
+with short-lived leaves that allow for the acquisition and
+processing of carbon, nutrients and water more rapidly
+than those with longer-lived leaves that reduce carbon and
+nutrient turnover (Reich 2014). Species with leaf traits that
+allow for the quick acquisition of resources tend to domi-
+nate in early successional, higher resource environments
+compared to species that use a more conservative resource
+use strategy (Reich 2014). Leaf traits associated with the
+LES such as speciﬁc leaf area (SLA, ratio of leaf area to dry
+mass) and nutrient concentrations have also been shown to
+inﬂuence litter ﬂammability (Grootemaat et al. 2015). This
+has important implications in semi-arid environments
+where litter accumulation is high and ﬁne surface fuels are
+the primary source of surface ﬁre spread (Bradstock &
+Cohn
+2002).
+The
+wood
+economics
+spectrum
+(WES)
+describes a gradient from species with dense wood with low
+tissue moisture content to species with lower wood density
+and higher moisture content (Baraloto et al. 2010). Higher
+density wood confers greater resistance to drought-induced
+cavitation (Hacke et al. 2001) and may also play a role in
+ﬁre tolerance by allowing species to compartmentalize dam-
+age and reduce the risk of mortality (Romero & Bolker
+2008; Brando et al. 2012). Bark thickness has been shown
+to align with the WES (Baraloto et al. 2010) and represents
+© 2016 The Authors. Journal of Applied Ecology © 2016 British Ecological Society, Journal of Applied Ecology
+2
+R. T. Strahan et al.
+
+a key adaptation related to ﬁre resistance (Jackson, Adams
+& Jackson 1999).
+Our objective was to assess century-long changes in
+overstorey forest composition, structure and functional
+diversity in a warm/dry mixed conifer forest where the
+historical surface ﬁre regime was interrupted ca 1880 and
+where subsequent selective harvesting occurred in the
+mid-1900s (e.g. Huffman, Zegler & Fule 2015). This land-
+use history is common in mixed conifer forests of the
+western
+United
+States.
+Community-weighted
+mean
+(CWM) traits are useful for assessing the changes in the
+dominant trait values within a community and can be
+related to successional shifts in plant strategies (Lohbeck
+et al. 2013). Functional diversity reﬂects the variation in
+trait values present within a community (Mason & de
+Bello 2013) and can be useful for understanding how envi-
+ronmental
+ﬁltering
+inﬂuences
+community
+assembly
+(Enquist
+et al.
+2015).
+We
+analysed
+four
+traits
+that
+together represent the LES and WES and reﬂect impor-
+tant characteristics of species adapted to semi-arid, fre-
+quent-ﬁre ecosystems. We asked the following questions:
+(i) ‘How have forest composition and structure changed
+since ﬁre exclusion in 1880?’; (ii) ‘How have community-
+level SLA, leaf N, wood density, bark thickness and func-
+tional diversity changed since ﬁre exclusion in 1880?’; and
+(iii) ‘Do the long-term changes reﬂect a shift in ﬁre toler-
+ance on the landscape?’
+Materials and methods
+STUDY SYSTEM
+We conducted our study within a 1135-ha warm/dry mixed coni-
+fer ecosystem on the Black Mesa Ranger District of the Apache-
+Sitgreaves National Forest in northern Arizona (34°2203857″N &
+111°001518″W). Elevation on the site ranges from 2313 to
+2405 m with an average annual precipitation of 695 mm and
+average temperature of 55 °C (Laing et al. 1987; Fig. 1). Over-
+storey community composition was composed of the following
+tree species: P. ponderosa, P. menziesii, Q. gambelii Nutt., Pinus
+strobiformis Engelm., Abies concolor (Gord. & Glend.) Lindl. ex
+Hildebr., Populus tremuloides Michx., Acer grandidentatum Nutt.
+and Robinia neomexicana A. Gray (Table 1). Topography of the
+site is characterized by gently sloping terrain bisected by small,
+steep drainages with infrequent rock outcroppings present.
+Huffman, Zegler & Fule (2015) found that the last major ﬁre
+at the site occurred in 1879; only one scar recording a ﬁre date
+after this time was identiﬁed across 133 wood samples (1023
+cross-dated ﬁre scars). Similar ﬁre regime disruptions have been
+widely documented in western frequent-ﬁre forests and linked to
+intensive, unregulated livestock grazing associated with industrial-
+ization as well as active ﬁre suppression (Covington & Moore
+1994). Recent livestock grazing has not occurred at the site. In
+addition, large cut stumps of P. ponderosa and P. menziesii trees
+at the site evidenced extensive selective timber harvesting that
+took place across the Mogollon Rim in the mid-1900s (Huffman,
+Zegler & Fule 2015; Rodman et al. 2016).
+Fig. 1. Study site and plot (004-ha, n = 146) location map for the Black Mesa mixed conifer study site on the Apache-Sitgreaves
+National Forest near Heber, Arizona.
+© 2016 The Authors. Journal of Applied Ecology © 2016 British Ecological Society, Journal of Applied Ecology
+Plant traits reveal changes in ﬁre tolerance
+3
+
+FOREST STRUCTURE
+Current overstorey composition and structure were determined
+using 146 permanent 004-ha plots, arrayed on a 250-m system-
+atic grid originating from a randomly selected starting point
+within the project area. Grid point locations were generated using
+a geographic information system (ARCGIS 9.3; Environmental
+Systems Research Institute, Redlands, CA, USA) and overlaid on
+a site map. Points were used as centres of circular (1128-m-
+radius) sample plots on which species and condition for all trees
+present, both living and dead, were recorded. Diameter at breast
+height (dbh, measured at 137 m height on stem) was recorded
+for live trees, and diameter at stump height (dsh, measured at
+40 cm above root collar) was recorded for dead trees. Increment
+cores were collected at dsh from all live trees presumed to be
+≥130 years old and a random sample (10%) of younger trees.
+For conifers, increment cores were collected from all live trees
+≥375 cm dbh; we collected cores from all aspen trees ≥20 cm
+dbh, and from all oak, maple and locust ≥17 cm dbh, following
+the methods described in Fule, Covington & Moore (1997).
+In the absence of ﬁre, wood decomposition in the south-west is
+extremely slow and evidence of remnant tree structures (i.e.
+stumps, snags, logs) from the late 1800s is still readily apparent
+(Fule, Covington & Moore 1997; Sanchez Meador & Moore
+2010). This remnant evidence in combination with contemporary
+forest structure can be used to develop reliable forest reconstruc-
+tions (Huffman et al. 2001). To quantify the forest composition
+and structure prior to ﬁre exclusion, we used techniques of den-
+drochronology (Stokes & Smiley 1996) and the process outlined
+by Bakker (2005) and Fule, Covington & Moore (1997) to recon-
+struct historical tree basal area, density and composition on each
+plot. In brief, we used live and dead (stumps, snags, logs, etc.)
+tree morphological characteristics combined with increment cores
+to determine tree age, with species-speciﬁc basal area increment,
+tree allometry (e.g. bark thickness equations from Laughlin et al.
+2011) and snag and log decomposition (Rogers et al. 1984) equa-
+tions to determine the historical status (live or dead) and size of
+all trees sampled prior to ﬁre exclusion. These methods have been
+validated and are widely used in P. ponderosa and mixed conifer
+forests in the south-west. Comparisons of reconstructed stand
+conditions with actual historical data indicate that these methods
+are reliable within 10% (Huffman et al. 2001; Moore et al.
+2004) and robust to assumptions (Fule, Covington & Moore
+1997; Sanchez Meador & Moore 2010). We chose to reconstruct
+forest conditions in the year 1880, which represented conditions
+at the time of disruption of the natural ﬁre regime at our site
+(Huffman, Zegler & Fule 2015). Reconstructing forest structure
+to an earlier date would not be appropriate given that the fre-
+quent ﬁres during this time would have likely consumed much of
+the downed woody material.
+FUNCTIONAL STRUCTURE
+We assessed the changes in functional structure using four func-
+tional traits: leaf nitrogen content (leaf N), speciﬁc leaf area
+(SLA), wood density and bark thickness. Trait values were
+obtained
+for
+each
+species
+using
+standardized
+methods
+as
+described in Appendix S1 (Supporting Information).
+Two important metrics were calculated to describe the changes
+in overstorey functional structure. First, we calculated a commu-
+nity-weighted mean (CWM) trait value for each trait in both the
+reconstructed historical forest and the contemporary forest. A
+CWM trait value was calculated as:
+X
+s
+i¼1
+tijpik;
+eqn 1
+where tij is the average value of trait j for species i and pik is the
+relative abundance of species i in plot k. In this study, we used
+importance values (IV)s as our measure of abundance and calcu-
+lated the proportions of relative abundance based on IVs for each
+species at the plot level. Importance values represent a measure
+of dominance of species in a given community by combining tree
+density and basal area. Plot-level species importance values (IV:
+sensu Curtis & McIntosh 1951) were calculated as:
+IVi ¼
+BAi
+BAk total
+
+
+ 100
+
+
+þ
+Di
+Dk total
+
+
+ 100
+
+
+;
+eqn 2
+where BAi is the basal area (m2 ha1) and Di the density
+(trees ha1) of species i, respectively, and BAk total and Dk total are
+the total basal area and tree density in plot k. Therefore, a CWM
+trait value (i.e. eqn 1) calculated using relative importance (i.e.
+pik eqn 1) can be interpreted as the CWM value expressed by an
+individual of average importance.
+To examine the inﬂuence of species dominance on plot- and
+landscape-scale ﬁre tolerance, a plot-level ﬁre tolerance index was
+calculated as:
+FTI ¼
+X
+n
+i
+ðIV  wFTÞ;
+eqn 3
+where IV is the importance value for species i calculated using
+eqn 2, wFT are the species-speciﬁc ﬁre tolerance weights from
+Table 1. Fire tolerance weights range in value from 12, signifying
+high species ﬁre tolerance, to 1, signifying low species tolerance,
+and were determined from the information provided in Reynolds
+et al. (2013). The resulting plot-level FTI values represent a mea-
+sure of relative ﬁre tolerance, ranging from ≤1000 (highly ﬁre-
+intolerant plot-level importance values) to ≥2000 (highly ﬁre-tol-
+erant). Lastly, we examined the changes or heterogeneity in ﬁre
+Table 1. Names, codes and ﬁre tolerance weights (wFT) for tree
+species occurring at the Black Mesa mixed conifer study site. Spe-
+cies are sorted from most ﬁre-tolerant to ﬁre-intolerant based on
+the information from Reynolds et al. (2013)
+Species
+Common name
+Code
+wFT
+Pinus ponderosa P. & C.
+Lawson
+Ponderosa pine
+PIPO
+12
+Pseudotsuga menziesii (Mirb.)
+Franco
+Douglas-ﬁr
+PSME
+10
+Quercus gambelii Nutt.
+Gambel oak
+QUGA
+8
+Pinus strobiformis Engelm.
+South-western
+white pine
+PIST
+6
+Populus tremuloides Michx.
+Quaking
+aspen
+POTR
+4
+Abies concolor (Gordon &
+Glendinning) Hoopes.
+White ﬁr
+ABCO
+2
+Robinia neomexicana A. Gray
+New Mexico
+locust
+RONE
+1
+Abies lasiocarpa (Hooker)
+Nuttall
+Subalpine ﬁr
+ABLA
+1
+Acer grandidentatum Nutt.
+Bigtooth maple
+ACGR
+1
+© 2016 The Authors. Journal of Applied Ecology © 2016 British Ecological Society, Journal of Applied Ecology
+4
+R. T. Strahan et al.
+
+tolerance variability, both temporally and spatially, by quantify-
+ing and comparing the observed change in plot-level FTI value
+frequency and autocorrelation (Moran 1950) for the landscape in
+1880 and 2011.
+Next, we quantiﬁed the functional trait diversity for each trait
+using
+two
+indices:
+functional
+richness
+and
+Rao’s
+quadratic
+entropy (hereafter referred to as functional diversity; Botta-Dukat
+2005). Functional richness is calculated as the minimum convex
+hull that includes all species in T-dimensional space. Functional
+richness describes the volume of trait space ﬁlled by the commu-
+nity and has been shown to perform well in communities with
+low richness (Mouchet et al. 2010). Calculations of multitrait
+functional richness require the number of species in a community
+to be greater than the number of traits. Because this was not
+strictly the case (i.e. many plots had fewer than ﬁve species), we
+chose to calculate single-trait functional richness indices. For a
+single trait, functional richness indices represent a measure of the
+range of trait values within a community. Functional diversity
+(i.e. Rao’s quadratic entropy) is a measure of functional diver-
+gence and takes into account both the range of functional space
+and the similarity between species weighted by their relative
+abundance. As such, diversity characterizes the degree to which
+the species are distributed towards the most extreme values
+within the community (Mouchet et al. 2010). Because diversity is
+not limited by species richness, we calculated both multitrait and
+single-trait
+diversity
+indices.
+Both
+diversity
+and
+functional
+richness were calculated using the FD package in R (Laliberte,
+Legendre & Shipley 2014).
+DATA ANALYSIS
+First, we examined the differences between the reconstructed 1880
+(i.e. pre-settlement) and contemporary 2011 forest composition
+and structural attributes using permutational multivariate analysis
+of variance (PERMANOVA; Anderson 2001). This method is appropri-
+ate for ecological data because it avoids strict assumptions of nor-
+mality. A dissimilarity matrix can be obtained using distance
+measures appropriate for multivariate (i.e. Bray–Curtis distance)
+data. Differences in basal area, trees ha1 and importance values
+were examined with time as a ﬁxed effect. Next, differences in com-
+munity-weighted mean (CWM) trait values, functional diversity
+(i.e. Rao’s quadratic entropy) and functional richness before (1880)
+and after (2011) ﬁre exclusion were tested using a paired Wilcoxon
+signed-rank test. All analyses were conducted at a = 005 in R ver.
+3.1.3 (R Core Development Team 2015). Lastly, changes in ﬁre tol-
+erance were explored by computing a single-step transition matrix
+(Asmussen 2003) for species dominance of FTI on all plots as
+reconstructed following ﬁre exclusion. That is, the transition matrix
+is the matrix consisting of the transition probabilities from state x
+to state y, rxy, based on estimates derived from changes in species
+dominance in FTI for each plot over the 132-year study period
+(from 1880 to 2011). Because the sum total probability of transi-
+tioning from an initial state i to some state j must be 1, this matrix
+is a right stochastic matrix, so that the P
+y rxy ¼ 1.
+Results
+OVERSTOREY COMPOSITION AND STRUCTURE
+We found signiﬁcant differences between pre-settlement
+(1880) and contemporary (2011) forest composition in
+terms of basal area, tree density and species importance
+values (Table 2). Pre-settlement basal area was dominated
+by P. ponderosa and P. menziesii with average contribu-
+tions of 39% and 28%, respectively. Abies concolor and
+Q. gambelii each contributed 11%. Pinus strobiformis,
+P. tremuloides and A. grandidentatum represented minor
+components, averaging <1% of the total basal area
+(Table 3).
+Table 2. PERMANOVA results for compositional differences in basal
+area, tree density and importance values between pre-settlement
+(1880) and contemporary (2011) data
+Source
+d.f.
+MS
+F
+P
+Basal area (m2 ha1)
+Time
+1
+1179
+4693
+<0001
+Residuals
+290
+025
+086
+Total
+291
+100
+Tree density (trees ha1)
+Time
+1
+1825
+8898
+<0001
+Residuals
+290
+021
+077
+Total
+291
+100
+Importance value
+Time
+1
+759
+4223
+<0001
+Residuals
+290
+018
+087
+Total
+291
+100
+Table 3. Pre-settlement (1880) and contemporary (2011) forest structural attributes. Standard errors are presented in parentheses. Species
+codes are given in Table 1 and sorted by ﬁre tolerance
+Species
+Basal area (m2 ha1)
+Density (tree ha1)
+Importance value
+1880
+2011
+1880
+2011
+1880
+2011
+PIPO
+357 (038)
+822 (086)
+452 (33)
+172 (400)
+879 (560)
+434 (414)
+PSME
+261 (058)
+783 (059)
+289 (31)
+186 (163)
+392 (403)
+458 (293)
+QUGA
+101 (020)
+244 (035)
+309 (39)
+529 (52)
+292 (318)
+166 (181)
+PIST
+051 (019)
+451 (062)
+51 (14)
+142 (144)
+834 (227)
+292 (244)
+POTR
+042 (013)
+029 (012)
+96 (25)
+29 (11)
+105 (250)
+097 (038)
+ABCO
+104 (023)
+799 (067)
+190 (23)
+261 (193)
+237 (313)
+601 (351)
+RONE
+–
+001 (001)
+–
+05 (03)
+–
+018 (013)
+ABLA
+–
+001 (001)
+–
+01 (01)
+–
+006 (006)
+ACGR
+001 (001)
+034 (012)
+21 (11)
+267 (115)
+111 (051)
+374 (122)
+Totals
+918
+3162
+1404
+84413
+200
+200
+© 2016 The Authors. Journal of Applied Ecology © 2016 British Ecological Society, Journal of Applied Ecology
+Plant traits reveal changes in ﬁre tolerance
+5
+
+Pre-settlement size distribution was heavily right skewed
+(Fig. 2a). Pinus ponderosa dominated the 15-cm to 35-cm
+and ≥75-cm size classes, P. menziesii and Q. gambelii were
+consistently represented across all size classes, and A. con-
+color was present in most size classes, including 017
+tree ha1 in the 95-cm size class (Fig. 2a). By 2011, over-
+all basal area had increased from 918 to 3163 m2 ha1.
+Pinus ponderosa basal area had more than doubled yet its
+overall contribution declined to 26% (Fig. 2b). Pseudot-
+suga menziesii also increased in absolute terms, yet its
+average contribution to basal area declined 13%. Abies
+concolor basal area increased to an average of 23% of
+total basal area, whereas the basal area contribution of
+Q. gambelii decreased from pre-settlement to make up 1%
+of total BA. Pinus strobiformis represented an average of
+14% of the total basal area in 2011, with marked
+increases in tree densities under the 25-cm size class.
+Reconstructed pre-settlement tree density averaged 140
+trees ha1 (Table 3). Pinus ponderosa accounted for the
+majority (32%) at 45 trees ha1, followed by Q. gambelii
+(22%) at 31 trees ha1, P. menziesii (29 trees ha1) and
+A. concolor (19 trees ha1). Mean tree density increased
+to 844 tree ha1 by 2011. Abies concolor was the domi-
+nant species numerically and contributed an average of
+31% to total tree density, followed by P. menziesii (22%)
+and P. ponderosa (20%). Quercus gambelii’s contribution
+declined to 6%. Acer grandidentatum increased in both
+absolute and relative terms yet contributes <5% to total
+tree density.
+Prior to ﬁre exclusion, P. ponderosa was the most
+important species in the pre-settlement 1880 forest, fol-
+lowed
+by
+P. menziesii,
+Q. gambelii,
+A. concolor
+and
+P. tremuloides, respectively (Table 4). By 2011, A. concolor
+was the most important species in contemporary forests,
+followed by P. menziesii, P. ponderosa, P. strobiformis and
+Q. gambelii. The majority of P. ponderosa-dominated FTIs
+(ﬁre tolerance index) remained dominated by ﬁre-tolerant
+species (i.e. P. ponderosa and P. menziesii) with a third
+transitioning to A. concolor and the remainder becoming
+P. strobiformis. Contemporary FTIs were clearly domi-
+Fig. 2. Species-speciﬁc diameter distributions in (a) pre-settlement (1880) and (b) contemporary (2011) time periods. The list of species is
+sorted by ﬁre tolerance from highest to lowest. Note the order of magnitude difference between y-axes in panels a and b.
+Table 4. Single-step (132-years) transition matrix for species dominance of importance index on all plots (004-ha, n = 146) observed at
+Black Mesa mixed conifer study site between pre-settlement (1880) and contemporary (2011) conditions
+Contemporary
+Species
+PIPO
+PSME
+QUGA
+PIST
+POTR
+ABCO
+RONE
+ABLA
+ACGR
+Total
+Pre-settlement
+PIPO
+034
+023
+001
+010
+–
+030
+–
+–
+–
+053
+PSME
+016
+036
+–
+008
+–
+040
+–
+–
+–
+017
+QUGA
+008
+023
+023
+–
+–
+046
+–
+–
+–
+009
+PIST
+–
+033
+–
+050
+–
+017
+–
+–
+–
+004
+POTR
+–
+030
+–
+010
+060
+–
+–
+–
+007
+ABCO
+013
+020
+–
+007
+–
+060
+–
+–
+–
+010
+RONE
+–
+–
+–
+–
+–
+–
+–
+000
+ABLA
+–
+–
+–
+–
+–
+–
+–
+000
+ACGR
+–
+–
+–
+–
+–
+–
+–
+000
+Total
+023
+026
+003
+010
+000
+038
+000
+000
+001
+100
+Values indicate species dominance (sorted by ﬁre tolerance) shifts (from 1880 to 2011) in ﬁre tolerance index and thus observed changes in
+species importance. Larger transition probabilities are indicated by progressively darker tones of grey. Total values for each column repre-
+sent species dominance transitions from pre-settlement to contemporary conditions expressed as the proportion of plots transitioning.
+© 2016 The Authors. Journal of Applied Ecology © 2016 British Ecological Society, Journal of Applied Ecology
+6
+R. T. Strahan et al.
+
+nated by A. concolor (55 plots or 38% of the landscape),
+with the majority of these transitioning from either P. pon-
+derosa (42%) or P. menziesii (18%). Lastly, the majority
+of the historically aspen-dominated plots (10 plots or 7%
+of the landscape) transitioned to have FTIs dominated by
+either A. concolor (60%) or P. menziesii (30%). While the
+landscape as a whole transitioned from largely ﬁre tolerant
+to intolerant, areas of higher ﬁre tolerance persisted and
+overall heterogeneity in ﬁre tolerance increased from 1880
+to 2011 (Fig. 3). Spatially, the historical FTI values for
+the landscapes were found to be independent, with con-
+temporary conditions exhibiting statistically signiﬁcant
+spatial autocorrelation at distances at or below 250 m
+(Fig. 3d,e).
+FUNCTIONAL TRAITS
+We found signiﬁcant directional shifts in all four CWM
+traits between 1880 and 2011 (Table 5). Bivariate trait
+densities (Fig. 4) revealed that contemporary forests con-
+verged on lower SLA, leaf N, wood density and bark
+thickness. Since the late 1800s, community-weighted mean
+SLA declined by 7%, leaf N by 10%, wood density by
+4% and bark thickness by 11% (Table 5).
+Shifts in trait means over time were accompanied by
+shifts in trait variances as well. Contemporary forest con-
+ditions exhibited signiﬁcantly lower multitrait functional
+diversity, indicating that the volume of trait space was
+more fully occupied in pre-settlement forests. Lower mul-
+titrait diversity was driven by a signiﬁcant decline in
+the individual diversity of leaf N. Functional richness of
+leaf N also declined, indicating a narrower range of values
+in the contemporary forest compared with the forest of
+1880. In contrast, both functional richness and diversity
+of bark thickness increased in the contemporary forest.
+No difference in individual trait diversity of SLA or wood
+density was detected; however, functional richness of both
+traits increased from 1880 to 2011 (Table 5).
+Discussion
+This study advances our understanding of reference condi-
+tions and natural range of variability by quantifying his-
+torical forests in terms of plant functional traits. The
+(a)
+(c)
+(d)
+(e)
+(f)
+(b)
+Fig. 3. Inverse distance-weighted interpolation of ﬁre tolerance index in 1880 (a) and 2011 (b) and corresponding plot-level landscape
+proportions (n = 146) and spatial autocorrelograms for six classes of ﬁre tolerance index. For the latter, black circles indicate the signiﬁ-
+cance in autocorrelation (P < 0001) for the given lag.
+© 2016 The Authors. Journal of Applied Ecology © 2016 British Ecological Society, Journal of Applied Ecology
+Plant traits reveal changes in ﬁre tolerance
+7
+
+contemporary mixed conifer forest was signiﬁcantly differ-
+ent in overstorey composition, structure, ﬁre tolerance,
+CWM traits and functional diversity than the 1880 forest.
+Forests in 1880 appeared relatively open, largely ﬁre toler-
+ant and dominated by shade-intolerant, ﬁre-tolerant spe-
+cies (Reynolds et al. 2013). Multitrait diversity was high
+as were CWM SLA, leaf N, wood density and bark thick-
+ness. Over the last 132 years, signiﬁcant increases in tree
+densities and basal area have altered the distribution of
+species relative importance resulting in lower CWM trait
+values and diversity. Together, this has led to increases in
+both heterogeneity in ﬁre tolerance at the landscape scale
+(up to 2500 9 2500 m or 650 ha, distance across study
+site)
+and
+homogeneity
+at
+small
+scales
+(≤
+below
+250 9 250 m or 625 ha, distance between plots). These
+changes likely resulted from the combined impacts of ﬁre
+suppression and selective harvesting practices that began
+in the late 19th century (Huffman, Zegler & Fule 2015).
+Greater CWM SLA and leaf N in 1880 reﬂected greater
+dominance of Q. gambelii and P. tremuloides. These spe-
+cies resprout rapidly after ﬁre, reﬂecting a key adaptation
+for persistence in ﬁre-prone ecosystems (Pausas & Brad-
+stock 2007). This corresponds to the ﬁndings of Huffman,
+Zegler & Fule (2015), who noted large increases in tree
+establishment following ﬁre regime disruption and sug-
+gested that historical surface ﬁres likely maintained more
+open forest conditions. Greater light availability would
+have allowed Q. gambelii and P. tremuloides to pre-emp-
+tively acquire resources and out-compete slower-growing,
+shade-tolerant species. Leaves with higher SLA and nutri-
+ent concentrations (e.g. leaf N) have faster ignition rates
+but lower ﬂame and smouldering durations (Murray,
+Hardstaff
+&
+Phillips
+2013;
+Grootemaat
+et al.
+2015).
+Although herbaceous understorey species, which con-
+tribute ﬁne fuels needed for frequent surface ﬁres, exhibit
+these traits to a greater degree than woody species (Reich,
+Walters & Ellsworth 1997), our ﬁndings suggest that these
+functional adaptations also extend to the overstorey com-
+munity. Selective harvesting of P. ponderosa and P. men-
+ziesii in the mid-1900s (Huffman, Zegler & Fule 2015)
+likely allowed for an increase in establishment of ﬁre-
+intolerant species and a greater range of SLA values. We
+also found a lower range of leaf N values along with a
+reduction in leaf N diversity, which indicated that the
+community became functionally more homogeneous in
+terms of leaf N.
+Higher CWM wood density in 1880 forests corre-
+sponded to a greater importance of P. ponderosa, P. men-
+ziesii and Q. gambelii. Wood density is associated with
+hydraulic properties and drought tolerance (Chave et al.
+2009). Our results suggest that the overstorey community
+may have been more tolerant to drought historically. In
+addition, wood density has been shown to inﬂuence
+wound closure rates, and species with denser woody could
+have a competitive advantage in isolating decay from sur-
+face ﬁre wounds and thereby reducing mortality (Romero
+& Bolker 2008). Shifts in functional richness and diversity
+can be attributed to both ﬁre exclusion and selective har-
+vesting. These factors would have promoted the recruit-
+ment and establishment of additional species, leading to a
+greater range of wood density values and functional rich-
+ness
+in
+contemporary
+forests.
+However,
+our
+results
+showed lower diversity and a more even distribution of
+trait values, indicating a community dominated by species
+similar in average wood density. Thus, historically ﬁre
+was likely a strong environmental ﬁlter, which selected for
+higher mean wood density within a narrower range of val-
+ues. Under these conditions, there was a greater relative
+abundance of species with unique trait values, namely
+P. ponderosa, P. menziesii and Q. gambelii.
+Bark thickness was also thicker historically than in con-
+temporary forests at the site. Lower CWM bark thickness
+in 2011 was driven primarily by lower relative importance
+of P. ponderosa (bark thickness mean = 199 mm) and
+increases
+in
+P. strobiformis
+(bark
+thickness
+mean =
+76 mm). Bark thickness confers resistance to surface ﬁre
+(Lawes et al. 2011). Our ﬁndings further indicate that ﬁre
+played an integral role in determining the functional and
+taxonomic
+composition
+of
+forests
+at
+the
+study
+site.
+Increases in functional richness of bark thickness suggest
+that historically frequent surface ﬁres restricted the viable
+range of trait values across these communities. In addition,
+a lower diversity of bark thickness in 1880 indicates that
+the forest was dominated by a few species with similar bark
+thickness.
+The importance values used in our analysis accounted
+for relative species abundance in terms of both tree den-
+sity and basal area. This is important in mixed species
+stands in which species differ in important life-history
+Table 5. Functional attributes (mean  SD) in pre-settlement
+(1880) and contemporary (2011) time periods
+Functional
+attributes
+Pre-settlement
+Contemporary
+Wilcoxon
+signed-rank
+test
+V
+P
+CWM traits
+SLA
+623  018
+574  018
+6811
+0001
+Leaf N (%)
+152  033
+137  015
+8482
+<00001
+Wood density
+046  004
+044  003
+8911
+<00001
+Bark
+thickness
+150  320
+134  240
+8717
+<00001
+Functional richness
+SLA
+066  005
+087  006
+2090
+<00001
+Leaf N (%)
+121  087
+093  058
+7301
+<00001
+Wood density
+115  089
+150  077
+2837
+<00001
+Bark
+thickness
+131  077
+195  063
+1523
+<00001
+Diversity (Rao’s Q)
+Multitrait
+113  007
+094  006
+6664
+0004
+SLA
+011  002
+015  003
+6172
+005
+Leaf N (%)
+035  033
+011  011
+9122
+<00001
+Wood density
+032  033
+028  027
+5642
+04006
+Bark
+thickness
+035  028
+039  023
+4150
+00329
+© 2016 The Authors. Journal of Applied Ecology © 2016 British Ecological Society, Journal of Applied Ecology
+8
+R. T. Strahan et al.
+
+characteristics such as regeneration and growth. For
+example, within our community, Q. gambelii regenerates
+primarily through re-sprouting and as a result can be
+found at higher densities for a given area than P. pon-
+derosa. In contrast, P. ponderosa is a larger species and
+will obtain a greater basal area at a given density com-
+pared to Q. gambelii. Analysis using a single metric, such
+as relative basal area (i.e. BAi=BAk total, eqn 2), yields
+qualitatively similar results to those using an importance
+index; however, there are differences that highlight the
+need to account for relative density (i.e. Di=Dk total, eqn 2)
+as well (see Table S1). For example, when relative basal
+area is used to calculate CWM traits, SLA does not differ
+between time periods. In this case, no change in CWM
+SLA reﬂects a greater contribution, in terms of relative
+abundance, of larger growing species in both time periods.
+Furthermore, pre-settlement CWM SLA and leaf N are
+lower when using only basal area because the contribu-
+tion, in terms of relative abundance, of species such as
+Q. gambelii and P. tremuloides, is not accounted for ade-
+quately. Using basal area alone does not account for
+important life-history differences between species and may
+bias results towards larger species.
+Our approach assumes that the temporal variation in
+intraspeciﬁc mean trait values was negligible. Historical
+climate and disturbance regimes experienced by individu-
+als could have resulted in different average trait values
+than those expressed by individuals in contemporary for-
+ests. While the direction of change may be similar across
+species, trait plasticity may differ substantially between
+Fig. 4. Bivariate trait densities for wood density, leaf nitrogen (leaf N), speciﬁc leaf area (SLA) and bark thickness in pre-settlement
+(1880) and contemporary (2011) time periods. Different colour shades represent the density (in terms of quintiles) of co-occurring CWM
+trait values.
+© 2016 The Authors. Journal of Applied Ecology © 2016 British Ecological Society, Journal of Applied Ecology
+Plant traits reveal changes in ﬁre tolerance
+9
+
+species which could inﬂuence the rate at which trait values
+change (Enquist et al. 2015).
+CONCLUSION AND MANAGEMENT IMPLICATIONS
+Current conditions in temperate mixed conifer forests put
+them at increased susceptibility to high-severity ﬁres and
+drought as a result of signiﬁcant increases in tree densities
+and a shift in dominance towards more ﬁre- and drought-
+intolerant species (Fule, Korb & Wu 2009; Huffman, Zeg-
+ler & Fule 2015). These compositional and structural
+changes were associated with declines in CWM leaf N,
+SLA, wood density and bark thickness, and coincide with
+an overall decline in functional diversity.
+Strategies for restoring ecological resilience and sustain-
+ability are a top priority for natural resource managers
+(Suding 2011), and a focus on plant traits may be useful to
+achieve this goal (Ostertag et al. 2015). This is due in part
+to recent advances in trait-based models that provide a
+mechanism for translating functional targets into distribu-
+tions of species abundance (Laughlin 2014). Deﬁning
+appropriate functional targets is fundamental to this
+approach. This study integrated historical changes in com-
+position with shifts in community-level functional traits of
+a mixed conifer forest in western North America, but his-
+torical reference information is not always available. Func-
+tional traits are being applied in the restoration of multiple
+ecosystems throughout the planet (Ostertag et al. 2015;
+Cole et al. 2016), by basing restoration treatments on eco-
+physiological principles to achieve functional outcomes.
+Ecophysiological adaptations to ﬁre and drought pro-
+vide a robust framework for restoring ecosystems under
+global change. Fire and drought are globally important
+disturbances that are projected to increase as a result of
+longer ﬁre weather seasons in many ecosystems around
+the world (Jolly et al. 2015). Manipulating forest structure
+and composition to increase wood density and bark thick-
+ness could be a ﬁrst step in restoring forests that are more
+resilient to increased ﬁres and drought. Implementing this
+new framework will be challenging and require innovative
+approaches. A high priority for future research is to test
+the success and efﬁcacy of restoring ecosystem resilience
+when management objectives are focused on functional
+traits.
+Acknowledgements
+This research was supported through funding by the Ecological Restora-
+tion Institute, the New Mexico Forest and Watershed Restoration Institute
+and a grant from the Royal Society of New Zealand Marsden Fund
+(UOW1201).
+Data accessibility
+Functional trait and plot-level overstorey data: Northern Arizona Univer-
+sity Cline Library’s Open Knowledge repository (http://openknowledge.
+nau.edu/2933/). These data are currently embargoed until 1 August 2017
+due to its use in a separate manuscript.
+References
+Anderson, M.J. (2001) A new method for non-parametric multivariate
+analysis of variance. Austral Ecology, 26, 32–46.
+Asmussen, S.R. (2003) Markov chains. Applied probability and queues.
+Stochastic Modelling and Applied Probability, 51, 3–38.
+Bakker, J.D. (2005) A new, proportional method for reconstructing histor-
+ical tree diameters. Canadian Journal of Forest Research, 35, 2515–2520.
+Baraloto, C., Paine, C.E.T., Poorter, L., Beauchene, J., Bonal, D., Domen-
+ach, A.-M. et al. (2010) Decoupled leaf and stem economics in rain for-
+est trees. Ecology Letters, 13, 1338–1347.
+Bond, W.J., Woodward, F.I. & Midgley, G.F. (2005) The global distribu-
+tion of ecosystems in a world without ﬁre. New Phytologist, 165, 525–
+538.
+Botta-Dukat, Z. (2005) Rao’s quadratic entropy as a measure of func-
+tional diversity based on multiple traits. Journal of Vegetation Science,
+16, 533–540.
+Bradstock, R. & Cohn, J. (2002) Fire regimes and biodiversity in semi-arid
+mallee ecosystems. Flammable Australia: The Fire Regimes and Biodiver-
+sity of a Continent (eds R. Bradstock, J. Williams & A. Gill), pp. 238–
+258. Cambridge University Press, Cambridge, UK.
+Brando, P.M., Nepstad, D.C., Balch, J.K., Bolker, B., Christman, M.C.,
+Coe, M. & Putz, F. (2012) Fire-induced mortality in a neotropical for-
+est: the roles of bark traits, tree size, wood density and ﬁre behavior.
+Global Change Biology, 18, 630–641.
+Chave, J., Coomes, D., Jansen, S., Lewis, S.L., Swenson, N.G. & Zanne,
+A.E. (2009) Towards a worldwide wood economics spectrum. Ecology
+Letters, 12, 351–366.
+Cole, I.A., Prober, S.M., Lunt, I.D. & Koen, T.B. (2016) A plant traits
+approach to managing legacy species during restoration transitions in
+temperate eucalypt woodlands. Restoration Ecology, 24, 354–363.
+Covington, W.W. & Moore, M.M. (1994) Southwestern ponderosa pine
+forest structure. Changes since Euro-American settlement. Journal of
+Forestry, 92, 39–47.
+Curtis, J.T. & McIntosh, R.P. (1951) An upland forest continuum in the
+prairie-forest border region of Wisconsin. Ecology, 32, 476–496.
+Enquist, B.J., Norberg, J., Bonser, S.P., Violle, C., Webb, C.T., Hender-
+son, A., Sloat, L.L. & Savage, V.M. (2015) Scaling from traits to
+ecosystems: developing a general trait driver theory via integrating trait-
+based and metabolic scaling theories. Advances in Ecological Research,
+52, 249–318.
+Fule, P.Z., Covington, W.W. & Moore, M.M. (1997) Determining refer-
+ence conditions for ecosystem management of southwestern ponderosa
+pine forests. Ecological Applications, 7, 895–908.
+Fule, P.Z., Korb, J.E. & Wu, R. (2009) Changes in forest structure of a
+mixed conifer forest, southwestern Colorado, USA. Forest Ecology and
+Management, 258, 1200–1210.
+Garnier, E. & Navas, M.-L. (2012) A trait-based approach to comparative
+functional plant ecology: concepts, methods and applications for agroe-
+cology. Agronomy for Sustainable Development, 32, 365–399.
+Grissino-Mayer, H.D., Romme, W.H., Floyd, M.L. & Hanna, D.D.
+(2004) Climatic and human inﬂuences on ﬁre regimes of the southern
+San Juan mountains, Colorado, USA. Ecology, 85, 1708–1724.
+Grootemaat, S., Wright, I.J., van Bodegom, P.M., Cornelissen, J.H. &
+Cornwell, W.K. (2015) Burn or rot: leaf traits explain why ﬂammability
+and decomposability are decoupled across species. Functional Ecology,
+29, 1486–1497.
+Hacke, U.G., Sperry, J.S., Pockman, W.T., Davis, S.D. & McCulloh,
+K.A. (2001) Trends in wood density and structure are linked to preven-
+tion of xylem implosion by negative pressure. Oecologia, 126, 457–461.
+Hobbs, R.J., Higgs, E. & Harris, J.A. (2009) Novel ecosystems: implica-
+tions for conservation and restoration. Trends in Ecology and Evolution,
+24, 599–605.
+Huffman, D.W., Zegler, T.J. & Fule, P.Z. (2015) Fire history of a mixed
+conifer forest on the Mogollon Rim, northern Arizona, USA. Interna-
+tional Journal of Wildland Fire, 24, 680–689.
+Huffman,
+D.W.,
+Moore,
+M.M.,
+Covington,
+W.W.,
+Crouse,
+J.E.
+&
+Fule, P.Z. (2001) Ponderosa pine forest reconstruction: comparisons
+with historical data. In: Vance, R.K., Edminster, C.B., Covington,
+W.W., Blake (comps.), J.A. (Eds.), Ponderosa pine ecosystems restora-
+tion and conservation: steps toward stewardship. U.S. Forest Service
+RMRS-P-22, Washington, DC, USA, pp. 3-8.
+Jackson, J.F., Adams, D.C. & Jackson, U.B. (1999) Allometry of constitu-
+tive defense: a model and a comparative test with tree bark and ﬁre
+regime. The American Naturalist, 152, 614–632.
+© 2016 The Authors. Journal of Applied Ecology © 2016 British Ecological Society, Journal of Applied Ecology
+10
+R. T. Strahan et al.
+
+Jolly, W.M., Cochrane, M.A., Freeborn, P.H., Holden, Z.A., Brown, T.J.,
+Williamson, G.J. & Bowman, D.M.J.S. (2015) Climate-induced varia-
+tions in global wildﬁre danger from 1979 to 2013. Nature Communica-
+tions, 6, 7537.
+Korb, J.E., Fule, P.Z. & Wu, R. (2013) Variability of warm-dry mixed
+conifer forests in southwestern Colorado, USA: implications for ecologi-
+cal restoration. Forest Ecology and Management, 304, 182–191.
+Laing, L., Ambos, N., Subirge, T., McDonald, C., Nelson, C. & Robbie,
+W.
+(1987)
+Terrestrial
+Ecosystems
+Survey
+of
+the
+Apache-Sitgreaves
+National Forests. USDA Forest Service, Southwest Region, Albu-
+querque, NM, USA.
+Laliberte, E., Legendre, P. & Shipley, B. (2014) FD: measuring functional
+diversity from multiple traits, and other tools for functional ecology. R
+package version 1.0-12.
+Laughlin, D.C. (2014) Applying trait-based models to achieve functional
+targets for theory-driven ecological restoration. Ecology Letters, 17,
+771–784.
+Laughlin, D.C., Fule, P.Z., Huffman, D.W., Crouse, J. & Laliberte, E.
+(2011) Climatic constraints on trait-based forest assembly. Journal of
+Ecology, 99, 1489–1499.
+Laughlin, D.C., Strahan, R.T., Huffman, D.W. & Sanchez Meador, A.J.
+(2016) Using trait-based ecology to restore resilient ecosystems: histori-
+cal conditions and the future of montane forests in western North
+America. Restoration Ecology, doi:10.1111/rec.12342.
+Lawes, M.J., Adie, H., Russell-Smith, J., Murphy, B. & Midgely, J.J.
+(2011) How do small savanna trees avoid stem mortality by ﬁre? The
+roles of stem diameter, height and bark thickness. Ecosphere, 2, 1–13.
+Lohbeck, M., Poorter, L., Lebrija-Trejos, E., Martınez-Ramos, M., Meave,
+J.A., Paz, H. et al. (2013) Successional changes in functional composi-
+tion contrast for dry and we tropical forest. Ecology, 94, 1211–1216.
+Mason, N.W.H. & de Bello, F. (2013) Functional diversity: a tool for
+answering
+challenging
+ecological
+questions.
+Journal
+of
+Vegetation
+Science, 24, 777–780.
+Moore, M.M., Huffman, D.W., Fule, F.Z., Covington, W.W. & Crouse,
+J.E. (2004) Comparison of historical and contemporary forest structure
+and composition on permanent plots in southwestern ponderosa pine
+forests. Forest Science, 50, 162–176.
+Moran, P.A.P. (1950) Notes on continuous stochastic phenomena. Biome-
+trika, 37, 17–37.
+Mouchet, M.A., Villeger, S., Mason, N.W.H. & Mouillot, D. (2010) Func-
+tional diversity measures: an overview of their redundancy and their
+ability to discriminate community assembly rules. Functional Ecology,
+24, 867–876.
+Murray, B.R., Hardstaff, L.K. & Phillips, M.L. (2013) Differences in leaf
+ﬂammability, leaf traits and ﬂammability-trait relationships between
+native and exotic plant species of dry sclerophyll forest. PLoS ONE, 8,
+e79205.
+Ostertag, R., Warman, L., Cordell, S. & Vitousek, P.M. (2015) Using
+plant functional traits to restore Hawaiian rainforest. Journal of Applied
+Ecology, 52, 805–809.
+Pausas, J.G. (2015) Bark thickness and ﬁre regime. Functional Ecology, 29,
+315–327.
+Pausas, J.G. & Bradstock, R.A. (2007) Fire persistence traits of plants
+along a productivity and disturbance gradients in Mediterranean shrub-
+lands of south-east Australia. Global Ecology and Biogeography, 16,
+330–340.
+R Core Team (2015) R: A Language and Environment for Statistical Com-
+puting. R Foundation for Statistical Computing, Vienna, Austria.
+Reich, P.B. (2014) The world-wide ‘fast-slow’ plant economics spectrum: a
+traits manifesto. Journal of Ecology, 102, 275–301.
+Reich, P.B., Walters, M.B. & Ellsworth, D.S. (1997) From tropics to tun-
+dra: global convergence in plant functioning. Proceedings of the National
+Academy of Sciences of the United States of America, 94, 13730–13734.
+Reynolds, R.T., Sanchez Meador, A.J., Youtz, J.A., Nicolet, T., Matonis,
+M.S., Jackson, P.L., DeLorenzo, D.G. & Graves, A.D. (2013) Restoring
+composition and structure in Southwestern frequent-ﬁre forests: A
+science-based framework for improving ecosystem resiliency. Gen. Tech.
+Rep. RMRS-GTR-310. Fort Collins, CO: U.S. Department of Agricul-
+ture, Forest Service, Rocky Mountain Research Station. 76 p.
+Roccaforte, J.P., Huffman, D.W., Fule, P.Z., Covington, W.W., Chancel-
+lor, W.W., Stoddard, M.T. & Crouse, J.E. (2015) Forest structure and
+fuels dynamics following ponderosa pine restoration treatments, White
+Mountains, Arizona, USA. Forest Ecology and Management, 337, 174–
+185.
+Rodman, K.C., Sanchez Meador, A.J., Huffman, D.W. & Waring, K.M.
+(2016) Reference conditions and historical ﬁne-scale spatial dynamics in
+a dry mixed-conifer forest, Arizona, USA. Forest Science, 62, 15–136.
+Rogers, J.J., Prosser, J.M., Garrett, L.D. & Ryan, M.G. (1984) ECOSIM:
+a system for projecting multiresource outputs under alternative forest
+management regimes. USDA Forest Service, Administrative Report,
+Rocky Mountain Forest and Range Experiment Station, Fort Collins,
+Colorado, USA.
+Romero, C. & Bolker, B.M. (2008) Effects of stem anatomical and struc-
+tural traits on responses to stem damage: an experimental study in the
+Bolivian Amazon. Canadian Journal of Forestry, 38, 611–618.
+Romme, W.H., Floyd, M.L. & Hanna, D. (2009) Historical Range of Vari-
+ability and Current Landscape Condition Analysis: South Central High-
+lands Section, Southwestern Colorado and Northwestern New Mexico.
+Colorado Forest Restoration Institute, Colorado State University, Fort
+Collins, CO, USA.
+Sanchez Meador, A.J. & Moore, M.M. (2010) Lessons from long-term
+studies of harvest methods in southwestern ponderosa pine-Gambel oak
+forests on the Fort Valley Experimental Forest, Arizona, U.S.A. Forest
+Ecology and Management, 260, 193–206.
+Schultz, C.A., Jedd, T. & Beam, R.D. (2012) The collaborative forest
+landscape restoration program: a history and overview of the ﬁrst pro-
+jects. Journal of Forestry, 110, 381–391.
+Stokes, M.A. & Smiley, T.L. (1996) An Introduction to Tree-Ring Dating.
+University of Chicago Press, Chicago, IL, USA.
+Suding, K.N. (2011) Toward an era of restoration in ecology: success, fail-
+ures, and opportunities ahead. Annual Review of Ecology, Evolution, and
+Systematics, 42, 465–487.
+Westerling, A.L., Hidalgo, H.G., Cayan, D.R. & Swetnam, T.W. (2006)
+Warming and earlier spring increase western US forest wildﬁre activity.
+Science, 313, 940–943.
+Williams, A.P., Allen, C.D., Millar, C.I., Swetnam, T.W., Michaelsen, J.,
+Still, C.J. & Leavitt, S.W. (2010) Forest responses to increasing aridity
+and warmth in the southwestern United States. Proceedings of the
+National Academy of Sciences of the United States of America, 107,
+21289–21294.
+Received 30 March 2016; accepted 29 June 2016
+Handling Editor: Luke Flory
+Supporting Information
+Additional Supporting Information may be found in the online version
+of this article.
+Appendix S1. Functional trait measurements.
+Table S1. Methodological details.
+© 2016 The Authors. Journal of Applied Ecology © 2016 British Ecological Society, Journal of Applied Ecology
+Plant traits reveal changes in ﬁre tolerance
+11

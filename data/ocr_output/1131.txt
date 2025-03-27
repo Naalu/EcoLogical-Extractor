@@ -1,0 +1,859 @@
+Page 1:
+NORTHERN
+ARIZONA
+
+Testing Metrics for Implementation Success: Mobile Lidar Systems
+and Ground Plots
+
+4 Rupid Accestment Jor Katha Naionul Farest
+
+June 2022
+
+Prepared for
+our Forest Reworabon Iniuative FRY
+Inerdewsplinsrs Team
+Mutt. Pars Monitoring Bord
+The Nature (omer ann
+Karbab National Fore
+
+Prepared by
+amy alte, Wy Sue otter
+Andrew Sanches Meade, Silica.
+Jonathon Donager
+Beye Boch, Hes Dacca
+Eeological Rewotatnn Inttute
+Nentheen Arana Unrestety
+PO Bare SL
+Hlagseal A? MODS?
+
+SA sn npmstarpeen
+Phases tgs fd nf
+
+
+
+Page 2:
+Table of Contents
+
+Aatrodartion
+Methods.
+Rows.
+—
+Managemen Implications
+Referemces
+
+‘Agpendes A. Mobile Lidar Duta Processing Metiods.
+Appendix B. Mobile Lider Dats for Tlave Patch Delineation Methods for Each Tranecct
+
+Appendix C. AFRI Landacape Meaics, 2013. Mukigarty Moweoring Bou
+
+Acknowtedgements
+
+3
+ry
+i
+*
+0
+2
+
+‘Thanks ve the Kialheb Notional Feoent, iachuding level Cus, Campbell Gtcbel; end we he
+
+Ecolagical Resronation Lasiovte's Kyte Redman ths his ewe,
+
+
+Page 3:
+Intredaction
+
+Effort wo restore the fic-adayec forests om western pubic lads have imcreamed im s0ape and
+scale since the cnty 20000, Au the ftcs and extcats of Weutmcnt mcrense, therein» nocd 90
+qeichly ivces and tectinot Wextmcnt meocem to inform project Planacts. pkcmcatrs, and Dit
+\tabcholders of wesamnna effoctivencan. Forest canopy coves and the reciprocal metric
+“openness” have ticon wilined in the Sowtrecet vo describe amd aunty wiki habit
+(Reeymoida oto 1992). More recently, hear metria have been wacd to saipblish desired
+onfations for rectared forests. Th wae of canopy cover far wikife habia is grounded inthe
+‘need for hiding cover (Germaine ot al. 2004), nesting habitat (L/S Fish and Wildkife Survey 2012;
+Ganey etal. 1999), or prey npecres habia for cribcal indicator species (Reyuokds etal. 1992).
+‘Metrics for restored forests, i contra, are derived frou dctailed forest charactcrstcs imciading
+(Woes pet acre, Wex npOTiCs Composition, ad dinmmctet datribetion. These wcwics afc typically
+bbeed on plottevel moamarcmcnts, which im addition io carom forest strectare, cat be wed ©
+recone hintorical forest conditions. Historical Foren strectae is coined from Ting tees
+Cstablhed peor 10 fie excheion, and ao cations of W658 hive the time OF fre cxchation
+‘rom eed romacnts incading theme, lags, sad seas (Flt ct al. 1997). These Mekd-derived,
+smctrice work well for ploaning atad-acele Wrentments sad scting dewred culcames ad ae
+cantly mdertcod and interpreted by manager However, the direction to restr? forest
+(amdacape scales (¢ 5. dhe Collaborative Forest Landacape Restoration Act (CFLRA) 2004) as
+pesked forest managers and thew stakeholder to wse detects and derived metncs tat cam be
+fficicaly collected and maatyzod actos Inger ares.
+
+‘The Fous Forest Restoration lnittive (4FRID is 2 4-mnilbion-scte froqac fire fore
+restoration projet. The First l-anitionecre plansing effort, appre in 2015, wed camry
+Cpcnncas to devcribe reatmem cakcponics and desired condom. Following inital efforts,
+implementation practitioners amd AFR stahcholders nicaifiod comerme with Ge opeARCH
+smectic: mony practitinners flit backed cleer defidtion ond wes Gfiou wo translate io
+operational atnd-tevel prescriptions (M. Nebel, peracmal commenicaion}. For ataicholder, the
+‘varability of meanca, depending om method of collection and calculatoe, cred a lack of
+collaborative conscama: ou deared opcamess comdbons, This lack of joint wndcrotancing revatod
+‘a varied imerpretation by the plmmmers, implementers, and the federab-tond wtakcboiders
+Ieplomoners and sebcholdors idestified stood vo beset define und amem inplcmowtation
+ngucts on canopy opeances, end devctoped thn opportanity through an cnqowng projet ot Parks
+‘Weak, am the Kaibab National Forest.
+
+{a on effort wo incarporvtc apetal chemeats of farce sirwctere into silvicwlewal
+prescriptions. many analytical techaigecs have been developed 1 qventify ree group and
+opening charactertica (Sdachez Meador etal 2011, Chechill to. 201, Loran and Charchil
+‘2012; Chara al. 2017) Reynolds t a. 2013) Past reacarch uacd canopy conmectodaeas or
+berwonmaee distances as different methods of defiaung wee groupe. For example, er Gro
+Ihave boon variably defined! wmmng inerfockong crowns (Reyaokds cal, 20134, tee-bole discmces
+
+
+Page 4:
+(Cherchil ct al. 201, Larton and Cherchall 2012,
+‘Stacker Mesdor et ol 2011}, a predictions based
+om pixel antipaments of canopy a differing
+commectiedmeas thresholds (using tools origaaally
+developed to charactermae wildlife habveat
+comectrty, ¢.g., PachMoxpls, Garvetr and Greco
+2007), Tresament planing snd mnpicmentation we
+and crams and crating deta to mform canrent
+conditions and develop prescription pmidclincs.
+‘And more recently, practitioner wots inched digital
+smerking vin tablct-Gelivered imagery date.
+However. typacal plaaaung nd implementation
+Aechniguecs have not all been exaemined inthe
+omtex! of the anabybeal deacreptions of wpana
+
+‘Wet treatments wore designed by Kaibab National
+Forest tvacutoriats who prodiced 8 cutting pide
+that provided guidance to proqoct foresters, amber
+smarter, and operates onthe general direction of
+the uma preacripoous (Pants Went Proyect Wede
+Sitvicaivarl Guidetines) bn adit, the progect
+made woe of newer computer twbicttockmotony amd
+digital precripcions. The tablets we portable for
+innplemcancrs, and ranted in operational tinting,
+eigmmceh,voch tw let -bonchers.
+
+‘0 June 2020, the AFRUsatcdinciplinary
+team and external stnkcholder jointly generated 2
+tat of qucationa addressing the desired forest
+sirius identified through the collaborative
+(Plamming process and found m the final ELS, These
+(qeesorm were addressed om the time Pars
+‘West peattont min,
+
+|. What isthe dinribation of tree growp patch
+sizes (acres) and of toe demity within prowpa?
+‘We exseninod three Gifread metrics:
+2 nneriocking (ar neatly imertockang) crowns
+trom canopy perocatage of landacape, at
+‘found ws Reyuokda t a, 2013.
+
+‘Bor 1. Vad Prescriptions*
+Ioormmen:
+
+Ratan a yoo ping and Wackjacks
+24 in DOL, rapurdioe of frm, bla,
+se igee,
+
+(Dat 529% 40% epee
+
+‘Semmmdiog Mein
+
+ead cn coment evidence 2d high
+as of DM infection, aim 0 crm
+aoboiae poupe (025-05 0c} Defoe
+inerspnce by mening ol woes tr 28
+35 around grow of ey toms,
+Where doef niece (DM) lected
+
+Exablish groupe of eivanced
+sagenertan in 20% oft saad,
+Sermnien er:
+
+Crome pompe of woe i211 05 08
+rovps. Define intenpsce by romaving
+ll wavs ar 0-107 betwen romps.
+Aanerepece vse erveape i taed ot
+
+
+
+Page 5:
+1. Betwron wee bole ling ditance (€ $6 oF -208 boke-to-bole sistance; Sémcher
+Mondor et ol 2011, Chachi et ol. 2012),
+. PaichMlorph fentional ior ptch end openings (0 act propertion of pap-eper potcatial
+‘combiaations to determane patch/opening casa fications).
+
+22. How eam single toes ae left per acre?
+
+3. How do tee demmty (wees per nore. TPA) mad basal mea (BA per acre) vary within md
+sweoeg treatments, and betweee differeat methods of collection (ic. plot-baned md motile
+fda?
+
+4. How do postarcanmen TRA and BA compare 10 « rapid amcrance of bitoni reference
+condiiome?
+
+$. How do AFI MIPMIS andacape mewica,baned om connpy cover-derived patches, vary acroa
+‘tee thro MILS aggregation methods?
+
+A pond of this project was to rapaby aanas the reste allocations (Uni $: 29% 40%
+copomens, Fig. }bbor: Units 3 and 29: 40%-59% opemmeas, Fig. 3 greem: and Box 2) for expected,
+‘Yanabiliny i spatial dsinbation of roe patches and openings. We also were auked to provide
+fecdbeck to US Forest Service mamgers om how prvectigtion diflereaccs, and oycratiou
+sceivinics, impact stil vnwetare outcomes,
+
+‘The Ecological Restoration Intinote (ERT) devetoped methods, inclacing & rapid
+‘evcwemcm of Fores srectara cheracteioics wing grovnd plots wo along rendonmly Located
+Iramacets, ond 8 mobil Lider acon slog tae some trameccta The ground murvey method is moa!
+‘mila 1th sascauments thet ner anke admins and implementers wie for establishing
+Dreacrytions for operator, snd mcnauring comptiance, However, ths method cam proface na
+‘complete pace of fareat wtractare wihea the dered outcomes mchude patchy, variable
+isirduaion of trea, as is common practice im resiorabos tresiment within frogucat-fire forests
+‘Tobener characterize toe (roap and opening characteristics. we msed the motile lider sym 1
+capenre the mpl tectate ofthe wees and ummity Canopy coretiopcaes valucs,
+
+‘The project genie were 1 teat ground plot methods and mobile lidar dts cooction
+cto fot data collction eficicncics and sctricrekevancy of the atribuies moet impart
+beth menager and stkchokder éesived conditions. Got ota included sacating options to tier
+ommunicaie the desired rested forest condition che wowd thea inform prescription
+development and waplemcatstos throeghoud the 4° treatment ares.
+
+Metheda
+‘Ste and Transect Selection
+
+“Te Parks Wont proc is part of the AFR planning arct, and wes implemented through a Manet
+‘Stewenduhip Agreement betevce US Forest Service Regina } and The Nate Comservancy
+(gers 1). Approzimatly 200 eros within the Pos West project nd srcaty bom mated ot
+(he time of ate collection. Treatment types aclected ty the partners were al uneven aged
+(UEA), and inched tyatment designations (Forest Service 4FRI ot Ensuvemncifal ness
+‘Sascment, 2015) of desired opemes ranges of 40%-55% (UEAAD), 25% 40% (UEAZS), and
+
+
+Page 6:
+19%-29% (UEAIOD. To addroes the above questions, the 4FRI partners sclected one UEAAO and
+‘one VEAZS wr, bath over 200 aczes, and am addhtionel UEAA0 wnt of just $4 acres (Table 1},
+
+“Tete 1 Unk ppnerpon and cruge. Lt 2 ep mer af mot pet em Th Yay
+Comey
+
+ERA [RX TEATOUT METHOD _[ STATUS TERES | TRANSECT S
+7_ [oe Tabla Comples [3S 3
+| as Tobe Compo | D0, o
+[ue Tabla Compien | 34 2
+
+‘We coabtiched sompke plats and scqvired mobile ider dom slong cight 1 640-9 (300-5)
+troneccts. tn coch walt 2 16.4-f (30-an) pot grid nponaing the svdy roe sre crewed ia AreOES
+(Deakagp v, 10.8.1 waing the Fahmet loo: we thea clipped potratil plot loceions to the exit of
+‘ues 3, 5, and 29, Searing plats for ence tramagcs were randowsty actocted frm ths grid, mang, 2
+‘ado tmaber gotersit abgaed to thr plot FID to detains thr merting pols. We deterasind
+the boating ofthe rasmoxt by poecriting 3 randoas Gunabes betwece { uta 8. I-N, 2-NE, 3-E,
+APSE, 5-8, 6-SW, 7+ W sad BNW,
+
+Phgere 1 Map of te Pes Went roped is empl bene, ed eh pot irate.
+
+
+Page 7:
+Mobite Lidar System Dato Collection und Processing
+
+To addren qurvtote | and 2 fociang 08 tee proup sure nad pattern, and qurson § of landcape
+metry, mobale hair dats were collected wang 2 (acuta Zeb Liencn (wm grata om a ar
+‘hurts Vhamdeld mebik lace tcanact (MLS) on thece cceatons, reo days om Awgust 2020, and
+‘dry o8 September 2020 Un the Feld. dhe analyatwevtated the vearner aed waRhed an oval path
+approvanately 100 9 (30 ma) around cach 1640-0 (S0D-et) racer (are Frgute 2), The siobie Id
+employs. Veladyne VLP-I8 acanacr om a rolsnng mows, rousing i 1 scam nequssiion woth 2
+mca total fetd of vuew around the device coflecting apprenumeely 300,000 ponnts per second,
+saudi scare throuphond each tramect were then mceged win uafied pow clouds ang Che
+‘Smtukancow Localuatios aid Mappaig (SLAM) alyonitan. As sop fot wher mtalyarn, We
+ned ued pom cloud m cach ramacct to develop 1A (0-33-mb canopy beupht mode (CHM
+and tree fie eth dhs bud tevelartnbates chad. armctcr a brent height (DBHE, 4 $837
+ft] above ground level, tee hewght, and crown area. Fos each tratart, the CHM and toe bal were
+lapped to areas rprrarating the rook! craps nobelr ela data coliecuom, approumately 28-25
+(COs) transect" A ther description of mobi Inder date processing 11 pro“od ie Appa A
+
+Figere 2 Fearne date accared wing s mote har scammer (as seen fom above, colored by hewgt fr one
+Sota wmsect 12 “Sample Framer ed ime) and the correaponsing traced wal [tn cobered fom
+(tee to red locke) covering approtimatcty $0 ac (20 ha, wh Fak 10h ar wh gh it
+dena othe Mack for mt J tract 3
+
+
+Page 8:
+‘Ground Baved Plot Dasa Collection
+
+‘As an shesnative cata of Charechsizing lol forest strectare, we wed 8 snaifhd vernion of
+the rapid forest snocsemcat methed (Davis tal. 2015) originally weed on the Keibeb National
+Forest by the Leb of Londacape Ecology and Conservation Biology at NAU ia 2014 (Ray otal
+12012, Harncadtie and Dickson 2014) lacdrvidl sample plots were 1053-8 (32-m) diameter
+Ccecles(0-2acre), Inthe fled, we located plots slong the predetermined tranaect locations at ©
+and every 324 f (1000). We eatablathed wp to 3 plot por rmacc. oquating to 15 plots por
+\weatmrat vt (10 plots for mat 29), Withan cach plot, we marveyed all ve toes gromer thm 4 in
+[DBH. A sonar kypeoweter or tape memare was med to determine whetber trocs were within the
+plot boundary. For all ive es, we roxorded species. OBH (vo the mcarest ©:04-2n[0.(-con, and
+east mimic rating, Live ponderous panes of any nize with yellowed bark (White 1995), fat
+tops, or ower branch with lage bark plaice, as wel on all oaks. jenipcrs, and pinyon trees > 7
+in AGH (Fed et ol. 1997) were comiderod to potentially pre-dote fire exchasion (Le. 1876 im tis
+sea), providing catimeles of local reireace conditions. la xiGiion. deed trees, ump. of anags
+Potemtialty olf andr large enough to have become established print to 1E76 wens ideatified at
+pre-fire-cachauon i the fied. For these shampa, logs, and mags, we reconed chamncter at scam
+Ihenght (approaumatcty | foot abows ground eve; OSH), and combos clase (Thomas tab
+1879), Oo meighbormg mics tx the Cocommo Plscms, the last widewpread fie year w documented
+1876 (Covingsom ol, 1997}; this date was med for appraise timing whon nasaral
+(roccamcs were iment,
+
+Analysis
+
+‘We ered mobil Fr date wcron cight 25-0 anaes te character pte pater of post
+twceement landecapes (i.<., questions |. 2. and 5}. Mobile bider~derived maps provided rich,
+srownd-level descriptions of the senda on 2 small fraction of the time required Sar stcm-mepping
+cr mare tional fckd rveys (Figure 2) For example, m three dys of field tame fr a waiacd
+operator, approsumatcty 25 ac (10 ha} were fully sampled per tramarct, for a total sample ares of
+729005 (100 a).
+
+India toes were determaned from LIDAR scans poiad cloud srpmentatioe sad
+ccxznction of mdivideal wee anribuies (DBH, 4.5 above prowad level; tee eight, crown aren)
+‘wm performed emg LiDARSO vl. 0 ma the revaiimg te hts were fered to remove
+Potential crs, Lat, the individaal segimceted wees and remain CHM were clipped remating,
+im 2 vample arce of appronimetcly 25 2¢ (or approximately 10 ha)
+
+‘The creation of mobile ider-Gcrived maps elhowed we to compere Gare methods of wee~
+(group detimeetions: 1} tree-bole mniting distamce (19.7 (6 mJ between stcma: srase Loran ond
+‘Chamchall 2012 and Sdacher Meador 2011), 2) imtertocking camopies (1-f [0.33-<n] reaobution:
+‘Reyaok co 2013) and 3) Pach Morph (Cirvetz and Greco 2007; rvailabie at
+‘bb som mince patchworh). Ia PchMorph. rows were deatgaaied based om adyaceat
+Poses that were idewtfed as continous patches ian mm-ecaled approach (i, where pila
+‘were ideaified as cmapy in > 50% ofthe wrihin pap mad spur values swe borweoem 3.3 A! sa}
+snd 33 [VO map (Box 2 md a shown in Figare 3, ML tn for al ermect in showin
+‘Appendin B). We eles idcattid openings wing » inner melt-ecaled procees with PxichMorph
+
+
+Page 9:
+(i, by ideatitying sdjocce pels tcled we “womecanopy” of “opening” where more than 96%
+tthe wid pap and oper valu weed were between 3.3 [I mj and 33 @ [10 mp). For additions!
+staid on mobile le dats analy soe Appendix A.
+
+‘To.anrwer questions 2 and 4 ve Woes per ace (TPA) and tive haul area (HA) were
+snemmmerized by field pot amd weeraged crows wamsccts whan units snd fo cack wnat. Estas
+OFTPA md BA prior to widewprend fre exchanon were samarind bused om Wor Tomes
+Iistoncal evidences from cack plot, and averaged by trumsoct mad wt.
+
+(gare 3 Example of mais Vda wrasect om Unt 3, Trunsct 2. Total are of anayzed ova (coi) is 266
+(cre Foe ape ofa amis and wrseci, noe Append 8
+
+
+Page 10:
+Comparison of Tree-Group Delineation Methods
+‘Acrons te roe nits, thr three methods fr te gromp detmestion differed im thes wdeatfcation
+of singhe-troe and amar eve groups (nee Table 2).Of particu moe is 10-S0d ifieremce
+eastics of tadividenl woes acrom the three methods, The twe-boteHouiting distor of -20 (6
+(6) iatiied the green mambes of individ woes, a 14 ere". This method dows not ec om
+connectod canopies 1 iensify groups, and therefore may ower-eprescen indies tooe (elaine
+to canes meshed) by minting some large wees thet have iatrtocking crowns with edbes
+‘ncividvla. Using canopy cover aad interlocking comopies (ot 1-8 (0.39-m] reaction) hed to 6.6
+indevienl toca per ne (TPA), eas thom hel thet of ee bole tating distnace method. fy
+comparison, using th Patch Morph method of group defination acoat scange of gop and pws
+‘alec (i, mmit-ecaled group detaacation), led to 1.4 imdrvidal TPA. pant 10% that ofthe re
+bole lanking distance method. Notably, the Patch Morph method is nemative 1o the selection of
+(7 md pm poremeter, White the rmge of values mctaden here is consistent with oer
+Vicranate and our undoratanding of fiae-scale spatial ucr in Cropucnt-fic fotcata, changing
+the range of paramone vahacs a well an the ert Kot iaclanion in rouge screws Cana Souk
+create 9 difcreet Baal patch layer. White te specific members vary by group dctincation
+mctnod, the over potion actin tramaccts (.<.. many well prow pet acre and relatively few
+Ange groups x ore othe extent of mobile lider-aurveyed areas) was comsitent acroat al
+methods of rowp detention.
+
+‘Tebte 3 Toes group ore (210m ils) afr to the manbber of woes no contgnous group Table vahaon ive
+(te nde of groups pet Sc (hy grey sae) Gr the res group deineaen motels ros Wametcs.
+
+Comparison of Freaswctts
+
+‘Slight differences were observed for posl-trestmeat ive group nue dhatribaions across westmest
+anita, showgh remus differed mang the three different group drimention methods (Figpare 4e-
+de) The greatest differences among trestmeats were vera it the mumber of mmgle trees, Usmg
+‘anctlocking cmsopics (Figure 4a) to distinguid tree peaches, Usie } had 3 lower wmiaber of mage
+(coon than did units $ ot 29, even though Unit 3 and Unit 29 had » wimitar prescription, The met of
+
+
+Page 11:
+es 2. Mathada ts Quandily Tew
+Creapa
+
+antici ceo: The vorwcal
+rofecten of crowns (cmapy cover is
+enmrered bye camcyy layer, pene
+‘a camaiened the inveent of comp,
+onver Raymolis oak 2813) Trams
+‘eh stows hat bert i veri
+(rcpecinne oe ssigned to the seme
+
+‘sine (man pe sin of wamaaae or,
+‘wile sma ares) and pred
+‘ebb te deere a vale etch,
+Greet oad Cope 2067)
+
+tror bole msi dhstmces to defmente groups
+pre nanan reves (a erm of vida
+TPA) betwecn amit 3 and 29 m mingle oe
+Sitroatona, and highs omits oF dividend
+TRA ia Unit 5. PachMoeph pve thc lowest
+somber of ndivideel TPA, cominiet with
+figs acto a ont, tain dics Cet
+(Unit 9 hd mae indigent TPA tha id
+nit 3a $. Deane rocogatned ditteremces in
+Aetmeston eacthods, group size dstrnaions
+
+Flare 4. Cov of wwe pope sa clans) sro
+‘venmee was. 29% 40% opmanens (Vad tee)
+‘and 20% 59%, open (Line Sag proen, and
+es 29-dart green) A) lateriocang Camopy,
+‘Tree Boke Dataace C) Paap
+
+‘across the Harve treatments generally showed s larger wammber of mal growpa, aa rtatively few
+(ange tex groupe atthe exteat of mobile Hides-surveyed areas,
+
+
+Page 12:
+Understanding Canopy Cover and Openness
+
+For both inntlocking canopy and wec-bole ditance sucthods, re tified canopy cover ftom
+(he romping connpry layer (Table $). Opcancas far thear two methodologies cam be colcelated at
+Jat the err of canopy covet or 100%-CO% tooe coleman. The tex eit had differ
+treotmecet Sesignations beved oa a metric of opeamens (UEA 40-$5 and UEA 25-40, s06 Box 1;
+however, post-treatment asarsumenis showed tate differeaccs among wnats,repardicas of
+methods. For Pach Morph, 0 difforomt met-Sefined method wis unc bo dieting ud ify
+‘openangy: therefore. Opcaneas + Camapy Cover does not equal 100% (Table 3, * valves: ato
+Fig 3)
+
+Opcnings ae 6 diffe componces of patil siructare to charartrire buco, im low
+demsity fore tary ofa represeat « simaows matrix within which mdividen tees and groupe
+(£e aringed. Soil, sting setbods of opening delincation in vabeabic became it provi
+‘sitions! information thes con te wact to plan sad evehvete eetments, ead heipa io identify
+Uber: to conmwumicatios and implemewtation. The methods 1 idcatify openings were Rot
+imply the reciprocal of tre wos groups, and ws resi, patch morph paich cover combined with
+Copommg docs act ad to 100%. Harriers to wing openings alonc — namunasty, edge.
+
+‘Tete 3 Canopy Cover (CC) end Opens (OPEN by Uni. wing Gove patch apgragsnon meted.
+
+CaNOEYCOVER | CC | GPEN- | CC- ]QPEN-] CC- | OFEN-
+oxrrs | usres | owrrs | usreae | unre as
+-3 FI
+
+ms us [oss | om? | ms
+™o we | ne | ms | ma
+sor | wo | ae | m2 | oe
+
+(Pigeer 5. Peahergh tos gronp ond pram deinen (eas Perse mn M4, Tre $21
+
+
+Page 13:
+Plo-Based Forest Characteristics
+
+‘We ured vandard fored metics of TPA and BA, collected trom 1/S-vcre Cuedeeadins plots, 00
+dees differences among the weetmonts and te compare with mobile Vider-derived sand TPA
+(end BA (Question 3) (10 tabice 4 ond 5). Only panderose pine (Pines pondreme) rece were
+memorized: however, Gee vats comtained smell portions of jasiper (Auniperict onngperme).
+‘Across the three wnits, che plot-baard aummarict showed premier varabltity m catimatcs of TPA
+and BLA (are standard error, SE), bat alao high differences among the waits A total of 1 phos
+each were sampled w= the lrper emits 3 and 3: 10 plots were aard to sample chr emailer Unk 29.
+(Comversety, the waobile lider data, which munpled three 25-ncre wansects in thet emirety,
+showed lide differeace weamg the wits. Se tables 3 and 4 for a manetmry actom phot mtd
+
+acbie hear derived circa,
+
+‘Tete 4 Dirty entiation tom ouch sampling method (2, po busod dts. mobile hia-terved mae) wih
+
+ie tesed baal comet,
+Cl
+tt | rhavn | Phot | est | aatsa | atts | ase | «se
+53 DZ) SD e037
+38] —o13] ta] 3 3] 18] 73] ons
+5) AC) OC] BD 2 BD a.
+‘Tebte 5. et wes?) p20! tm ch sg cid 4 pn don Srl ep
+eee ean a
+tnt | Pion | ptoe | ese | arse | sas | ase, | MH | ese
+Estimate
+Fs 3 OE) A) Dd I
+‘S[_15[ oan [a6 [3] ain eas] 106 | 20
+le epee] — a} ar] 23] sat
+
+(Using mobile lider-derived maps, sl wns bed meen TPAs clear to $0 wish overtopping senders
+‘cron, regeedicas of preacription. kmportsatty, mobile lader-derrved cxtmates aad plct-baacdd
+sampling showed very different mean vahwes widhes a gives anit (Table 4). This is ibety de 20
+(he differences ix the cxtrat of each mmmpling method (mabibe lider covered 20 acrex for every |
+ste of plot smipled), bet could also late to the scale of hetrrogencity wiki cach teaniicat
+
+
+Page 14:
+Landscape Patch Mesrics
+
+“The mobile Fda its was she we to amvews 2 wt of lana coohogy metre (Qucation 5),
+sclecied bythe 4FRT Mal-Momitoring Hloud, for experimental tom of sensitivity were the
+lendacape (Appendix C). We annconcd thon metrics for oil iramsects serous oll units (Table 3).
+ad ving te PaichMarph opening method (Table 6).
+
+‘Table 6 Landacape metre of te patches ening tweets.
+
+7
+Mente (Aare a —
+
+Sample star
+
+Comey coves (Fiand 5)
+
+Pac wes fares 220)
+
+Foch ors (woe, og 8)
+
+Te daly (od, Oc}
+
+[Eage 0 wren revo (pare, wien)
+
+Poach daneley (pa coma ac)
+
+Ene. nemo weaghbor (own 8)
+
+[Aggregation iad (al, aco)
+
+Landecupe shops eden (ts. dex)
+
+‘The 4F Monitoring Plan catbladhed these landacape metrics at earning matics (4FR1 Fenal
+1S 2015, hope ww. fads gov loternet FSE_ DOCUMENTS stp MAD gf there
+‘asa recognized gap i the Ktcratere ou lmdhacape metrics that are beat pemntive tothe desired
+{forest stectaral conditions for the 4FR landacape restoration project (bat sox Conia al
+2008 sad Haman a, 2013}. This work comeributcs to the bearing of how shows mctics ory
+how changes cro treatments, presrostmeat and post Arcotmoat (Waltz a 2000). This
+report represents 8 well vemple vie. of only post-treetment enecwoments. More work wonked
+to felly underatond both scaaiivity 0 reannatinn rcooment chengos in londecope srvetore. aad
+the range of Seired conditions thet cowid be queatifid for these metres. However. smell grow
+‘ecdhack trom the FRI iatendiaciplinary toom ond the SFI MPME sogges!thel metrics dhovd
+(be cary 10 communicate, and correlate well with knows desired straceaal conditions, iachading
+twee demity, toe mer, md some metric of hetcrogearsty (MPM mevting. March 2022: M.
+\Nigreli, personal comvermsion}. Canopy cover is a cmsily communicuted metic, cace clearty
+Aefincd. Patch ates is abso camly wiicrtood: fordback maggesied the couverios fove Bctos 0
+amare fot was comics fot mkcbokders to comccpimalize, ladicos (AL, LSI) ated yoousettic
+smcanurce (ENN), ike ofien wood in lamdecape ecology revcesch, are more difficelt to wanalase
+(ato moeningfelidces hor ealichokders trom mipis Bctde. Finely, metrics of edge end arco
+‘edotiomships (ED, PARLA) could be helptel far ongning midlife hebiel enmitoring, Feaure wort
+may help contrite ko vaderutanding sbwadences in obacrved wildlife hoist wat.
+
+
+Page 15:
+Discussion
+
+We examined » mall at of forest resorshos mit to ames difireat momoring mcttics for
+tow varabitiny and nem to stand characaeratics tat arc impartan to Forest Service
+implemenior and sikcholder. While the 4FR progect has investod im ground plots for
+mceneremeats of cy end stiroten, tere has tong bce « desire te imcorporsécogaial mctics
+‘both sand and landucepe wetie to ances hetcrogenciy. ba bat wit years, LIDAR based
+‘ccimology continacs to hovowc mote ancomibic and affordable. LIDAR proceming and malas
+methodologpes ae sill being explored, md standardized metrics for feral ind project
+saacammeal are not available. To hep fil tis gop, we une mob lar a wel at ARI plot-
+theaod monisonag protocol to eaerss and compere forest wend mnctics, swell sa smell -scoke
+wcrica of spatial heterogeneity.
+
+‘We found that he mobile dar many be ah efficiemt tool to quickly monitor mad inform
+\weutmest suscem. Additiounly, two trer-patch-dctineting metbods—imtevlocking crowss amd
+\wee-bole differences —mary best reac to preacrption guidance provuded to mmplemeniers. Tablet
+methodology iacarporstcs serial imagery or dar to identity openings and remeining Wee
+‘champs; ree-martors walking trough mands vec specing 0 heip determine remaining toe
+seeps. Hesrever, the procensing snd unatynin of mobik Hides date roqeine comsitemn date method
+armiectcts, ws wictbodological diflercaces tcaah ivory diflrcat penis. Ther i x acolo pre>
+determme methodology for pre-rostment mad post reimen! smcummcats.
+
+‘The AFR project lists dered conditions far forest tractare, which mctade a landacape
+‘eorex snectare within th mebore renge of varistion (NV): Fares! trecore mctrics ore well
+kno interme. of roe Gomeity and tee sine ditributions. However, there are lied om mop,
+stadics Gat quancify torical spatial pererns and disribations, These hasovical spatiel puter
+cotwanies cam also be Famine in that they qumatity trex wptial sractare at very flee scales oft
+berween 2.5 0 $ acres. However, many lines of atorical evidence, imchuding tart
+ecomatrwctedsiemamaps, port that fequral fir forests were characterized by finr-acake
+Aspetil hetcrogenity. Fer example, Radeon tal (2017, Figure 6) quantified groupe from 33
+temomaps, on «per hectare (per ~2.5 ect} basis. Similar to other work (Sdanches Mosdot to
+201, Cloud nl. 2013, 2016), Rod ctw. (2017) idetiicd hatorical toe dntibatiow
+‘ectaded 5 diversity of tre grow izes hom | to 10 pes growp (Figure 6), Theor sims
+omisientty document a large manber of ungie-tree to few tree groups acroas the historical
+Aondacape wich intact fire regimes.
+
+
+Page 16:
+q
+IL
+
+APigety 6 From nm ca 9017, Thy cate torical dati
+(0) ean samp ute = 39) AZ amd NAL Nate cms of grep mes rp, dv by 3.47
+spree hc pr noe vate
+
+For practtacmcrs and many maheral resource makcholders, furkd plot mand siractarc
+charactenstics and variabilsty are well understood. Field plot imformabom is at » acabe to deteremme
+stand and landocape differences, particularly ifthe sampling demmty 1 hagh. However, plots requ:
+tae and eeaktiphe poopichowts to impiconcet. A hey tenwinton im plct-bamcd mampiing. i the inaibiliny
+to copinec spatinl vervabihity in wor peaches eax! opcmings Spatial hetcsogemity conan be muceawred
+ty plots, aad ety informed byte are wen tampbing at mcbe hcam prov, we
+_retarvety torte field effort.
+
+Ged om precrted gowp rcs end open (Bax 1} wx expected to baci ore
+snlorain i oretmrvctrt vad prop = Geriboms among a fro was Wil rete
+‘ponneat (4 wns} and 29.40% 59% erpace), en wih prorat have mer
+cpemen (Uea 5; 25-40% opemmenh
+
+Annevestingty, the plot-derrved metncs more clouely reflect these expectatroms, winle mobile:
+Iider-deried mens ffl « oc cmplea paces of powers Draco We
+‘endis boreve pct sed MLS opgrochen could Be Ov tac wave mall some of pot asad
+‘mewics compared to mabe hr, where Gor every | ace of plot amped thre were -20 acres of
+smote de de cota
+
+Orficring rene among MLS prowp dctmontion ects wid rec wits ets septs
+Sein spgucat the cock group deacon mesa in wmv os in rete ad Sree
+and pamcn ia ferent way. Mane wath mcd aren cforeat fae sacs peso aerae
+‘vtec wor powp deharwnce mrtod asthe bent comnuteny fr te expected demred condoms
+froquewt-fire forests. Addmonally, metnes derived from MLS can be micrmod by stated obyectives,
+gwen. Thre ote racer saws offers mplescaanon th the Promiptone
+‘evelopment. ad hc operon. These rectal ms my ifr monirng ad adaptive
+‘mansormeat ot wel ha cre maybe addrtieal meres aod a ances eclngiel ctcomes of
+Ccremecnt, We apie that move work w needed to develo «commetea we of mete and certy
+tncd meter et cold whee prriptone. cretion of tows meccom, and sy ode
+tdaptvc memegomcat ta lege projorm bh te 2 ions SFR] projec iad momegor md
+‘omabormivepamors have worked fr 10 yours to beer waeraand how co dfn aad ec
+tumdacape eeence across flere cals to best manners progrss toward restored frnas. As dcred
+conditions wc dcveloped in plawumg. imephcmented om the landecepe, und momitoved, the metric
+tormaianlogy bem chenged for cuch iencerdod sudicnee. Bosh plet-level det. ond other rommacty weed
+ata tok can belp inform cof come IL.
+
+
+Page 17:
+Management Implications
+Than project memos wechanically thimmed vt of wnis tha represented tbtct-emined,
+designation by-preseripnon (DXP+ treatise aes,
+
+1 Metrics of and wate hoterogecity are important feral land managers, ated facie
+akcholders; however, 8 wenderdized methodology to sew spatial heterogeneity i et
+arailabte for work om federal tend.
+
+2 Thc male of ssacsument snd the data resolation impact metrics of heteropencity
+Profertable manners. Managers and wakchcidort ped to wneratind these effers and
+maintain scale and reaolation for propriate Comparisons acToes SUSIMERES, oF
+dervngh tine.
+
+2 Comintons ee patch ate opesing detiitions are nccled For anaiysis of spi
+Iescogeaeity wctrics. There isa ack of waiforaty i defistions of wex mid opcaing.
+lawifcations. Troe patches, und convey Wee openings, vary depen om howe
+they are defined, eth i terme of obeereod (conopy imtertocking, or toe bole
+distance). or fonctionel (acr-defincd porometers often based on feactional struts
+tie wikdlite commoctedmess).
+
+1 Plot taned metrics of and comfitnons ansest metrics alan wed for preacriptoas, iachufing
+‘TPA md GA, bet commot captare spatial hetcrogenenty metrics.
+
+1 Mobite LIDAR trumects can smneple faye mit mains wich renal fick tite,
+
+2 Withous consisicat metiodology. 9roccesing anal analysis can the time and
+epccintnod experi.
+
+2 The wand reachaion of intividel woes depends om stand wtractere: mie lider may
+‘wort well. recored fares, bt teas well in demee, mele-atoied orcs found im
+lnighly departed stone.
+
+
+Page 18:
+References
+
+‘Nobels, 8... and CW, Deaion. 2009. Spatial venation i eference conditions: historical wee damity
+end pera cn» Pas ponder nmdacepe. Canaan Saran of Fare Hesnarch, 3
+2391-2003,
+
+(Cammom, 18. K, Barve, BM. Gammon, B.N. Addington, M.A. Bamagis, P.), Forewah, GH. Aplet,
+‘AS. Cheng, JL Underhill, 1S, Briggn, PM. Beown, 2010. Collaborative restoration effect,
+‘am fanoal sree in pemberean pimg-dominated forests of Coleen. Fargat Ecaingy aud
+Management, 414; 191-204
+
+(Chachi, D., AJ, Larvom, MC. Dablgroen, J.P, Frankie, ?.F. Homburg. and J.A. Latz 2013,
+(Restoring forest resticace: Fram ccfcronce spatial palicras to silviculsaral preacriptions aad
+monitoring. Forest Ecology end Management, 201; 442-457,
+
+(Chmrchil, DJ AJ, Larwoe, $.M.A. berowime, PW. Fincher, MLC, Dafngroon, and JF. Franka
+2016. The ICO approach to qumtifying und restoring fore spatial pater: implementation,
+(pride. Version 1.0 Saowendahip Fareatry and Scivace. Veshom, Woahingaan, USA.
+
+(Conbanan, B.A, K. MeGarigal, and MC. Nec 2008. Parvimony in landecape caries: songs,
+‘emivernaty, and comsisemey. Ecological hadicavers, U 691-703,
+
+Covngion, W.W., PZ. Pale, MM. Meore, SC. Hart, and TLE. Kolb, 1997, Restorstion of ecasysiran
+(heuhl in meathnwostor pemderems pie foeeats. Jowaal of Farestry, 98: 23-29.
+
+Devin, CR, RT. Beton, MA. Wiltimnmon, A.J. Laniom, and BLE. Each, 2016, A rapid foro
+‘amamemeat method for maftpurty monitoring acroas mdscapes. Journal of Fores,
+128-133,
+
+(Dickineon, YK Pets. E. Gil, amd J. Howie. 2016, Have we been swccomtlel? Moninring
+Ibori foreet complexity for loreal reworatios projects. Rrstoretion Ecology, 24: 8-17,
+
+Pale, 7.2, W.W. Covingion, and MLM. Moore, 1997, Determining reference condisioas for
+‘caeyatea manegemeat of scuiinnesters paatcrams pine forests. Eraloyirat Applinaticnn,
+Oy 895-008.
+
+Ganey, JL, WM. Block, 18. eanem, and R.A. Wikeon. 1999, Mecucen spomed owl home range and
+(habit mac in pine-cak foema: lemplications for forest managemnrat. Forest Science, 45411:
+$27-135,
+
+Gormame. 8. HL German. and $.8. Box. 2004. Characteristics of make doar dry -bod and forage
+‘sts m cureat-comiioce and cesoration-treated ponsieroea pane forest Wakdiye Society
+Padicam, 3212 $4564,
+
+Garnetz, EH. snd SE. Greco, 2007. How wo doting» patch: A spain! mde for hicrwechicaly
+deleeating orpamam-specitic haba petches, Landscape Ecology, 22° 1131-0142,
+Hamashow, RS, Cushman, K. McCatham, N. McCsker, T. Mellin, M. Nigret, and M, Withamaoe,
+‘2013, Mabincae ladacape pattern monitoring ning remote musing: The Four Forest
+
+ax
+
+
+
+Page 19:
+Resortioe lative. RSAC-I0022-RFTI. Salt Lake City, UT: US Department of
+‘Agiiculer. Foros Serve. RestcteSeming Apphnanion Ceatet. 4 p
+
+Homcaic, VJ, end BG. Dickson. 2014, Testmg of the “Rapid Plot Design” plot meplomonanon,
+{ic vadaton, wed anahyns for the Kabab National Forest Lab of Landacape Ecobogy and
+Comscration Bilogy, Nooers Arianaa Usiverty, aga, AZ.
+
+(Larus, A. wed J. Chesil 2012. Trex apa ptmcems i Beefhcpnat Sorento weaker Neth
+‘Amenca, mchetmg mechareems of poner formate md enpcations fox domgang fet
+redaction and resin Weatments. Forest Ecokoy ond Management, 267. 4-92
+
+hay, CT, MA Wiliamaon, {J Zachmann, 0. Wang, and B.C. Dickson. 2012. Rapid Pct
+‘Meninring Dewign fot th: Kanu Netional Font, bonito Report othe Kaibab Netonal
+Forest. Lab of Landacape Ecology and Comscrvation Bckogy, Nevers Arizoes Univer,
+Faget AZ 20pm.
+
+Reymolds Richend T_ AL. Sdaches Mondo, 1A. Vous, T. Nile MS. Mania PL ckuan,
+avic I, 0G. DeLorense, A.D. Grive. 2013. Renorme compontion and wrectar in
+soatevescra toques fe foreta: A tcieace-baed tmcwork for tmgrovng econyniom
+seailienry. Gea. Tock. Rep. RMRS-CTR-31O. Fort CoBiaa, CO. US Depastmeat of
+Agriceberc. Forcat Scnnee, Rocky Mowstem Rescarch Station. 76 p.
+
+Rodman, K.C, AJ, Sdaches Mendon, M.M. More, mad DW, Hatem, 2017. Reference comiioas
+ry imthaenced bythe paysical mplaa ane vary by fare type: A syns of Pas
+pombromedeminated scan the ssiwenios Unita Sain. Fare Eralogy mad
+‘Menagemen, 404; 16-32.
+
+‘Stacker Meador, A1..P. Paryoow, mad MM, More 2011, A mew method for dcinting be
+Patches and sneating spl evtereace camttions of panderesa pine foes ia arthern
+‘icons, Restration Ecobogy, 1AA 90-498
+
+‘Temes, JW. LG. Andere, C. Mamet and EL, Bal 1979 “Seng” Pages 69-77 tn Wife
+abies to managed Grert— the Bae Momeams of Orague and Wanhingaon USDA
+‘Agpielerl Yhadbock $53, Weshingloa, BC
+
+US Fuh and Wiki Service. 2012. Final Recawory Plan forthe Mexican Sputed Orel (Sete
+
+ceidretals cide), First Revision. US Fach and Wildhfe Service. ARagueraee, New
+‘Manica, USA. 413 pp
+
+‘Welts, ALM. 1. Domager,C. Stem, A. Stucke Meedor. oad B. Each. 2000: Aa cvabeatian of
+petal reciente Fl. Valley restotatbon blocks aed tar pre-ercement 4FRI Chinancy
+‘Springs Project Arm. Techmical Report, Ecolopal Restoration bnenats, Northern Arias
+(Univer.
+
+Prone, © 5.04.8. Won, I Wang, D. Xie, X. Wang. and G. Yan. 2016. An Eany-te-Lie Aitborme
+LIDAR Dow Fibering Method Based os Cloth Sewalation. Remowe Sensing, 4S) 301
+hap_wew suigs com 2072-42926 503m
+
+
+Page 20:
+Appendix A. Mebite Lider Dats Processing Methods
+
+‘Aa met data for becca analyoes of Sorex strocsare and watial prima in toatment unit, we
+‘wee mobile lider-derived post load to develay canopy Weight models (CHM) und tve tints
+‘with individ araibatcs sm Follows. Using the uificd prio <lowds for cach tataect, we dow:
+ameptod the lar dats wing 0.4-in(1-em) voxels (wolemetnc pine ot cube) te standardise
+ein demtity 60 poi pet 0.06 in| cow’, codocing computational demand. Next, we clatifiod
+pound points wting 2 clot simalaticn Mer (Zhong oof. 2016) 2.86 (0 25-m} reaciion,
+deatitying prow points at ail candida points within |.6 8 (0.$ m) ofthe bottom ofthe scam
+(ce. pot that came into comtnct wile the simmaated clk). Using the ground poimts, we buh 3
+1-9 (0.33-a) dighal elevation model (DEM) wing spatial tmierpolasion via Deimmay
+\rampalsion and the remaming noe-ground poimts were normalized mg this DEM (ic, closest
+(pow om the DEM was muberactod Sorin 2 pout to convent ts eight from clevation so height
+dbo the ground), Neu, we removed soi: points—thowe that had fewer than $ neighboring
+ons wichin 3.3 (1 m9} —exing wn nckated vane fer Lastly, we developed 8 1-A1(0.33-m)
+(eschation pies (ening 9 0.7-41(0-2-m) oab-ciece to interpolate and fi) gaps i toe canopies)
+(CIDM fom the comeining son-grownd points.
+
+Point clowd scgmeatetion aad extraction of mdivideel wes stribwics (Gimcter wt breeet
+lncaght [DAH 4.5 W above growad fevel: ve heaght: coon ares) wa performed using.
+{LUDAR360 v4.0 and chr rembing tee hats were fered to remove poteatel Go (16. es im
+size greicr than 1.8 im [40 can] DB; crocs with tights Beas ham 0.2 f1(2.5 mi]; mma wees wih
+Ibcight-so-déameser ratios lems than 0 | or rostcs than 20), Landy, the individ seppacetod ters
+aed covabng CHM were clipped to 9 270A (82. 1-to rade (ic. plot radian 0f $2.7 116.03 ot]
+152 plas an aditional 164 A [50 ot] baered area rewaiing im x samephe ance of approninetcly 25,
+1 (or sppresiomatcty 10 ba),
+
+
+
+Page 21:
+Appendix B. Mobile Lidar Data for Three Patch Delineation Methods for
+Each Tramsect
+
+Ca ee |
+
+
+Page 22:
+Se oe |
+
+
+Page 23:
+
+
+Page 24:
+ee i ete
+
+peered ecm ce tee
+
+
+
+Page 25:
+
+
+Page 26:
+
+
+Page 27:
+
+
+Page 28:
+-
+4
+4
+wy a wy <r
+
+ew EH OHEes gy
+
+
+Page 29:
+Appendts C. 4FRI Landscape Metrics, 2015, Mukiparty Monloring Beard
+
+‘Tiws tbe fowtarcs the mctncs cuamimed for thi project, thei umocisted eactne type, how Gicy
+ze calcalited, and nome implicatons of this wecfuinces to meeces powderosa pane Uamdacapes.
+
+(PLAN) oy indivi pce 4
+Ave md tt Pacha ‘Semmery of arom of Tron demity nd mad are,
+‘Meerica (amen) (AREA) indiridasl perc within ne mmaaliey
+ny
+Edn temsity Quantity aE puachoge Malate ts tn emai snd
+(Dy cote to tot re complerity of putas,
+Peewmevirarca (Edge + Arga} The patch Simpinse shape mci, bn
+TWOUPARA) —permeter divided by the varie woh pate sine
+patch acm
+‘Shape Metrten Patch dewity The umber of patches How many mvidual forest
+Dy retetve othe total ecient tcc seth » landacape.
+ey regedit of ma.
+Fechlons The vernon mreight ian ‘angio meena of
+
+‘eave meighber  diance herween the focal aggregstinavinetaion
+demmnce (EN) patch mad eomrentueighbor
+
+Aggepsicn = aenemre nggregstion by Menem aggregation st
+Weber (AD bool eheerved adjacent ‘mmtacepe sone. bat
+
+Mores (peach to meinem Chompinan my hie far
+emia adpacencian (Camvacale
+Landacape shape USTs ta tte penc A bmdacepe mais of
+
+(mies (LST) pertmanar divided bys wl primate nd wen 8
+eh wen, forte handecape —werurary of tal pave
+achale ‘amples.

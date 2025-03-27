@@ -1,0 +1,2143 @@
+Glob Change Biol. 2023;00:1–22.	
+wileyonlinelibrary.com/journal/gcb
+ | 1
+© 2023 John Wiley & Sons Ltd.
+Received: 23 February 2023 | Revised: 25 August 2023 | Accepted: 31 August 2023
+DOI: 10.1111/gcb.16939  
+R E S E A R C H  A R T I C L E
+Refuge-­yeah or refuge-­nah? Predicting locations of forest 
+resistance and recruitment in a fiery world
+Kyle C. Rodman1
+ |   Kimberley T. Davis2
+ |   Sean A. Parks3
+ |   Teresa B. Chapman4
+ |   
+Jonathan D. Coop5  |   Jose M. Iniguez6  |   John P. Roccaforte1  |   Andrew J. Sánchez Meador1,7  |  
+Judith D. Springer1
+ |   Camille S. Stevens-­Rumann8,9
+ |   Michael T. Stoddard1 |    
+Amy E. M. Waltz1
+ |   Tzeidle N. Wasserman1
+1Ecological Restoration Institute, Northern 
+Arizona University, Flagstaff, Arizona, USA
+2Fire Sciences Laboratory, Rocky 
+Mountain Research Station, USDA Forest 
+Service, Missoula, Montana, USA
+3Aldo Leopold Wilderness Research 
+Institute, Rocky Mountain Research 
+Station, USDA Forest Service, Missoula, 
+Montana, USA
+4Monitoring, Evaluation, and Learning 
+Program, Chief Conservation Office, The 
+Nature Conservancy, Arlington, Virginia, 
+USA
+5Clark School of Environment and 
+Sustainability, Western Colorado 
+University, Gunnison, Colorado, USA
+6Rocky Mountain Research Station, USDA 
+Forest Service, Flagstaff, Arizona, USA
+7School of Forestry, Northern Arizona 
+University, Flagstaff, Arizona, USA
+8Colorado Forest Restoration Institute, 
+Colorado State University, Fort Collins, 
+Colorado, USA
+9Department of Forest and Rangeland 
+Stewardship, Colorado State University, 
+Fort Collins, Colorado, USA
+Correspondence
+Kyle C. Rodman, Ecological Restoration 
+Institute, Northern Arizona University, 
+Flagstaff, AZ 86011, USA.
+Email: kyle.rodman@nau.edu
+Funding information
+U.S. Forest Service, Grant/Award Number: 
+22-­DG-­11030000-­012
+Abstract
+Climate warming, land use change, and altered fire regimes are driving ecological 
+transformations that can have critical effects on Earth's biota. Fire refugia—­locations 
+that are burned less frequently or severely than their surroundings—­may act as sites 
+of relative stability during this period of rapid change by being resistant to fire and 
+supporting post-­fire recovery in adjacent areas. Because of their value to forest eco-
+system persistence, there is an urgent need to anticipate where refugia are most 
+likely to be found and where they align with environmental conditions that support 
+post-­fire tree recruitment. Using biophysical predictors and patterns of burn severity 
+from 1180 recent fire events, we mapped the locations of potential fire refugia across 
+upland conifer forests in the southwestern United States (US) (99,428 km2 of forest 
+area), a region that is highly vulnerable to fire-­driven transformation. We found that 
+low pre-­fire forest cover, flat slopes or topographic concavities, moderate weather 
+conditions, spring-­season burning, and areas affected by low-­ to moderate-­severity 
+fire within the previous 15 years were most commonly associated with refugia. Based 
+on current (i.e., 2021) conditions, we predicted that 67.6% and 18.1% of conifer forests 
+in our study area would contain refugia under moderate and extreme fire weather, 
+respectively. However, potential refugia were 36.4% (moderate weather) and 31.2% 
+(extreme weather) more common across forests that experienced recent fires, sup-
+porting the increased use of prescribed and resource objective fires during moderate 
+weather conditions to promote fire-­resistant landscapes. When overlaid with models 
+of tree recruitment, 23.2% (moderate weather) and 6.4% (extreme weather) of forests 
+were classified as refugia with a high potential to support post-­fire recruitment in 
+the surrounding landscape. These locations may be disproportionately valuable for 
+ecosystem sustainability, providing habitat for fire-­sensitive species and maintaining 
+forest persistence in an increasingly fire-­prone world.
+K E Y W O R D S
+climate vulnerability, disturbance refugia, ecological resilience, fire severity, fire-­driven 
+transformations, post-­fire tree recruitment, southwestern United States
+
+2 |   
+RODMAN et al.
+1  |  INTRODUCTION
+Climate change, human land use, and altered fuels complexes are 
+modifying fire regimes and reshaping forest ecosystems worldwide 
+(Arias et al., 2021; Balch et al., 2017; Clarke et al., 2022; Hartmann 
+et al., 2022). Shifting climate conditions, combined with severe fire 
+activity, can overwhelm forest resilience processes (e.g., survival 
+and recruitment) and drive rapid ecological reorganization (Falk 
+et al., 2022; Johnstone et al., 2016). Forests dominated by conifer-
+ous obligate seeders (i.e., cone-­bearing trees that reproduce only 
+from seed) may be particularly vulnerable to fire-­driven transforma-
+tions towards non-­forest cover (e.g., shrubland or grassland), with 
+potential effects on carbon storage, nutrient cycling, biodiversity, 
+and other important ecosystem services (Guiterman et al.,  2022; 
+Hessburg et al., 2019). Fire-­driven transformations can occur when 
+(1) severe fires eliminate seed-­bearing trees in large patches that ex-
+ceed typical seed dispersal distances, (2) fires occur at sites or in time 
+periods where regeneration is limited by environmental conditions, 
+or (3) increases in fire frequency (e.g., severe, short-­interval reburns) 
+exceed the ability of local species to establish, reach fire-­tolerant 
+sizes, and/or reach reproductive maturity (Coop et al., 2020; Enright 
+et al., 2015). However, the rate and magnitude of fire-­driven eco-
+system changes will not play out uniformly across landscapes and 
+species' ranges but will depend on the suite of factors that influence 
+fire severity and species' environmental tolerances. Locations where 
+current forests are buffered from altered fire regimes and climate 
+change are critical to sustaining forest biota and ecosystem func-
+tions over upcoming decades, and may also facilitate species migra-
+tion and adaptation over longer time scales (Jump & Peñuelas, 2005; 
+Krawchuk et al., 2020; Morelli et al., 2020). Accordingly, identifying 
+such locations will be valuable for predicting and mitigating the ef-
+fects of fire-­driven transformations in forested ecosystems.
+Resilience, or the ability of systems to withstand and per-
+sist through disturbance, is controlled by both resistance and re-
+covery mechanisms (Albrich et al.,  2020; Hodgson et al.,  2015; 
+Holling, 1973). Fire refugia are defined as locations that are disturbed 
+less frequently or less severely by fire than their surroundings (Camp 
+et al., 1997; Krawchuk et al., 2020; Meddens et al., 2018). Because 
+these locations embody resistance to change and can also promote 
+post-­fire recovery in the surrounding landscape, they can serve as 
+key elements of forest resilience in the context of a warming and 
+more fire-­prone world. Fire refugia have been identified across vary-
+ing temporal and spatial scales, ranging from locations of tree sur-
+vival after a single fire (Chapman et al., 2020), to forest stands that 
+remain stable through multiple fire events (Downing et al., 2021). 
+Here, we seek to identify forested (i.e., ≥10% canopy cover) sites 
+that are likely to be skipped (i.e., unburned islands) or burned at low 
+severity within future fire events, a definition that is broadly rele-
+vant to a range of forest ecosystems (Meddens et al., 2018).
+Unburned and low-­severity areas can make up 40% or more 
+of a given fire event (Kolden et al., 2012; Krawchuk et al., 2016). 
+However, predicting the locations of such areas in future events is 
+challenging because individual fires can be shaped by a wide range 
+of factors such as fuels, topography, weather, past fire effects, and 
+their interactions (Figure 1). For example, vegetation structure, com-
+position, and spatial pattern can influence fire behavior at a range 
+of spatial scales, and open-­canopied forests might be expected 
+to have greater fire resistance (Finney, 2001; Koontz et al., 2020; 
+Yocom et al., 2022). Refugia are also more likely to be found in valley 
+bottoms and sheltered topographic settings that are skipped during 
+periods of active fire behavior (Estes et al., 2017; Meigs et al., 2020). 
+Weather is an important driver of fire behavior that can interact 
+with fuels and topography; forests burning under moderate weather 
+conditions (e.g., low wind speeds, cool temperatures) may be more 
+likely to contain refugia (Chapman et al., 2020; Collins et al., 2019; 
+Downing et al., 2021). Across many forests of the western United 
+States (US), large fires have been shown to reduce subsequent fire 
+occurrence or severity for 10 years or more (Buma et al., 2020; Har-
+ris et al., 2021; Stevens-­Rumann et al., 2016), though these effects 
+can vary based on local plant community traits and the severity of 
+the initial fire (Coppoletta et al., 2016; Tepley et al., 2018). A range of 
+individual factors influence fire severity and the locations of refugia, 
+but there is a pressing need to understand how these factors inter-
+act with regeneration processes to shape the resilience of today's 
+forest ecosystems.
+While refugia play an important role in post-­fire tree recruit-
+ment by providing critical seed sources (Chambers et al., 2016; Coop 
+et al., 2019; Kemp et al., 2016) and buffering microclimatic condi-
+tions (Carlson et al., 2021; Wooten et al., 2022), recruitment adja-
+cent to refugia is also likely to vary based on biophysical conditions 
+and individual species' climatic tolerances (Figure 1). For successful 
+recruitment, seed dispersal must occur in sites that can support ger-
+mination and longer-­term seedling survival (Grubb, 1977; Rodman, 
+FI G U R E 1 A summary of factors influencing forest resilience 
+to wildfire. Fire severity is influenced by fuels, topography, and 
+weather conditions during burning, as well as the effects of prior 
+fires. For obligate seeders, post-­fire tree recruitment is then 
+constrained by seed availability and environmental conditions.
+
+    |  3
+RODMAN et al.
+Veblen, Chapman, et al., 2020). However, a warming climate is al-
+ready altering site suitability for post-­fire conifer recruitment (Davis 
+et al., 2023; Korb et al., 2019; Stevens-­Rumann et al., 2018). Even 
+in close proximity to seed sources, tree regeneration is often lim-
+ited at dry sites or when fires are followed by drought events 
+(Guz et al., 2021; Harvey et al., 2016; Rodman, Veblen, Battaglia, 
+et al., 2020). More broadly, many western US forests are in a state of 
+disequilibrium with current and near-­term-­future climate due to the 
+rapid pace of environmental change over the past century (Gray & 
+Hamann, 2013; Parks, Dobrowski, et al., 2019). Furthermore, within 
+any given tree species, seedlings are more climatically sensitive than 
+large trees (Bell et al., 2014; Dobrowski et al., 2015). Thus, it is un-
+likely that all refugia will facilitate post-­fire forest recruitment be-
+cause locations with surviving trees may not consistently align with 
+conditions necessary for post-­fire tree regeneration of the existing 
+tree species.
+Identifying refugia that are likely to facilitate tree recruitment 
+in the surrounding landscape is particularly valuable in forests of 
+the southwestern US, which are highly vulnerable to the effects of 
+a changing climate (Thorne et al., 2018; Triepke et al., 2019). For-
+ests in this region have recently experienced increases in both fire 
+severity and annual area burned (Higuera et al., 2021; Parks & Abat-
+zoglou, 2020; Singleton et al., 2019), as well as some of the driest 
+conditions since at least 800 CE (Williams et al., 2022). Indeed, shift-
+ing wildfire regimes and climate warming have already driven forest 
+transformations across southwestern US ecosystems (Guiterman 
+et al., 2022; Stevens et al., 2021), with further increases expected 
+in the future (Davis et al., 2020; Parks, Dobrowski, et al., 2019; Rod-
+man, Veblen, Battaglia, et al., 2020). Management strategies such 
+as mechanical thinning (i.e., using mechanized equipment to remove 
+tree biomass), prescribed fire, resource objective fire (i.e., allowing 
+lightning-­ignited fires to burn without aggressive suppression), and 
+post-­fire reforestation are increasingly used to offset the effects of 
+a changing climate and altered fire activity on southwestern US for-
+ests (Huffman et al., 2020; North et al., 2015; Stevens et al., 2021). 
+The explicit incorporation of fire refugia into the planning of such 
+strategies is new, yet promising (Krawchuk et al.,  2020; Martinez 
+et al., 2019; Stevens et al., 2021). For example, locations of poten-
+tial refugia might be used to conserve habitat and maintain connec-
+tivity for fire-­sensitive species (Andrus et al.,  2021; Landesmann 
+& Morales, 2018; Robinson et al., 2014) or considered as essential 
+elements that influence the outcomes of larger fuel treatments 
+(Pradhan et al., 2023; Wilkin et al., 2016). After over a century of 
+fire exclusion, fire is now regarded as a key tool to promote resil-
+ient social-­ecological systems (North et al.,  2021; Schoennagel 
+et al., 2017). Predictions of refugia could also play a crucial role in fire 
+management decisions by identifying sites, seasons, and weather 
+conditions in which fire might be most effectively utilized.
+Here, we use remotely sensed severity data from 1180 fires, 
+in combination with gridded biophysical predictors, to better un-
+derstand the factors that influence patterns of fire severity in the 
+southwestern US. We then use these models to map the locations of 
+potential refugia throughout all upland conifer forests in the region. 
+Finally, we overlay potential refugia with species-­specific maps of 
+post-­fire conifer recruitment developed in a recent, west-­wide syn-
+thesis (Davis et al., 2023) to identify refugia that are best aligned 
+with environmental conditions that support post-­fire recruitment. 
+Specifically, we asked: (Q1) What fuel characteristics, topographic fac-
+tors, weather conditions, and prior fire effects best predict fire severity 
+within large (>404 ha), recent fires (i.e., 2002–­2020) in the southwestern 
+US? (Q2) Based on empirical models of fire severity from Q1 and current 
+(i.e., 2021) landscape conditions, where are likely locations of unburned 
+or low-­severity fire areas (i.e., refugia) in southwestern US forests? (Q3) 
+Where are environmental conditions most suitable for post-­fire tree re-
+cruitment of existing forest communities? (Q4) Where are potential fire 
+refugia most likely to support post-­fire tree recruitment? Answering 
+these questions will help to predict fire-­driven forest transforma-
+tions in a climatically vulnerable region and an era of accelerating 
+fire activity.
+2  |  METHODS
+2.1  |  Study area, climate, and vegetation
+Our study area included upland conifer forest ecosystems of the 
+southwestern US, within EPA Level III Ecoregions 19, 21, 23, and 
+79 (Figure 2). Climate in the study area is generally semi-­arid and 
+continental, with maximum July temperatures from 15.9 to 34.5°C 
+(mean = 24.6°C), January minimum temperatures from −21.3 to 3.6°C 
+(mean = −10.4°C), and total precipitation from 231 to 1918 mm year−1 
+(mean = 637 mm year−1) (PRISM Climate Group, Oregon State Uni-
+versity, 2022). Average temperatures decline and precipitation lev-
+els increase with both elevation and latitude. The North American 
+monsoon (i.e., rainfall from July to September) provides 7.6%–­59.3% 
+(mean = 31.5%) of annual precipitation, with higher percentages in 
+the southern and eastern portions of the study area.
+Typical tree species in the study area include Douglas-­fir 
+(Pseudotsuga menziesii var. glauca [Mayr] Franco), Engelmann spruce 
+(Picea engelmannii var. engelmannii Parry ex Engelm. and var. mexi-
+cana [Martínez] Silba; also called Mexican spruce), lodgepole pine 
+(Pinus contorta var. latifolia Engelm. ex S. Watson), ponderosa pine 
+(Pinus ponderosa var. scopulorum Engelm.), subalpine fir (Abies la-
+siocarpa var. lasiocarpa [Hook.] Nutt. and var. arizonica [Merriam] 
+Lemmon; also called corkbark fir), and white fir (Abies concolor var. 
+concolor [Gordon & Glend.] Lindl. ex Hildebr). Though other trees are 
+also present, these species comprise 72.9% of the total tree basal 
+area throughout our study area (Wilson et al., 2013) and are those 
+for which post-­fire recruitment data were most widely available 
+(Davis et al., 2023). Thus, we focused on forests including at least 
+one of these species for our analyses (Little,  1971; Rollins,  2009; 
+Wilson et al., 2013). The relative dominance of these species var-
+ies across abiotic gradients (Figures S3.2–­S3.7), with pine-­oak (i.e., 
+Quercus spp.) forests and pure stands of ponderosa pine occupying 
+the driest sites, often intergrading with Douglas-­fir and white fir in 
+wetter areas. Lodgepole pine is commonly found at intermediate 
+
+4 |   
+RODMAN et al.
+to high elevations at the northern end of the study area, typically 
+forming even-­aged cohorts that established following severe fires or 
+extensive logging activity in the past 200 years (Sibold et al., 2006). 
+Engelmann spruce and subalpine fir often co-­dominate at higher ele-
+vations (O'Connor et al., 2017; Peet, 1981; Veblen, 1986).
+These tree species have a range of strategies to persist in the fire-­
+prone southwestern US (Appendix S1). Due to thick bark, relatively 
+deep roots, and an open branch structure, lower-­elevation species 
+(e.g., ponderosa pine and Douglas-­fir) are typically more resistant to 
+fire than are high-­elevation species (e.g., Engelmann spruce and sub-
+alpine fir) that occupy wetter sites with infrequent fire occurrence 
+(Baker, 2009; Stevens et al., 2020). Lodgepole pine has low to moder-
+ate fire resistance but can quickly recolonize areas following severe 
+fire due to partial serotiny, where closed cones found on some indi-
+viduals open following fire and can trigger prolific tree regeneration 
+(Tinker et al., 1994; Turner et al., 2007). On average, lodgepole pine 
+(<10 years), Engelmann spruce (25 years), and subalpine fir (30 years) 
+can become reproductively mature early in life under open, post-­
+fire conditions (Andrus et al.,  2020; Turner et al., 2007), whereas 
+Douglas-­fir (40 years) and ponderosa pine (50 years) may take longer 
+to bear cones (Rodman, Veblen, et al., 2021). Though wind, water, 
+and animals all play important roles in post-­fire seed dispersal, most 
+seedling establishment for these species occurs close to reproduc-
+tively mature trees (Table 1).
+2.2  |  Overview of analyses
+To answer our research questions, we performed analyses in the fol-
+lowing steps (detailed descriptions of each step are provided in sub-
+sections below). First, we developed statistical models to describe 
+relationships between remotely sensed patterns of fire severity and 
+biophysical predictors within past fire events (Q1). We then used these 
+models with regionwide data to map potential fire severity through-
+out upland conifer forests in the study area and identify sites that 
+were most likely to be unburned or burn at low severity (i.e., refugia) 
+under different weather conditions (Q2). Next, we developed maps 
+of environmental suitability for post-­fire recruitment throughout the 
+study area using empirical models for each of the six most common 
+conifer species (Q3). Finally, we overlaid maps of potential refugia 
+from Q2 and potential recruitment from Q3 to identify refugia that 
+were most likely to facilitate recruitment of existing tree species into 
+adjacent areas (Q4). Information from past fires (Q1) was restricted 
+to upland conifer forests—­as defined by LANDFIRE Environmental 
+Site Potential data (Rollins, 2009), species range maps (Little, 1971), 
+and >1 m2 ha−1 combined basal area of our focal tree species early 
+in the study period (Wilson et al., 2013)—­that burned from 2002 to 
+2020, with ≥10% tree canopy cover in the year before the fire (Jones 
+et al., 2018). Regionwide predictive maps (Q2–­Q4) were similarly re-
+stricted to upland conifer forests, but also constrained to areas with 
+≥10% canopy cover in 2021, for a total mapped area of 99,428 km2.
+2.3  |  Q1, fire severity data
+We obtained perimeters for all large (>404 ha) fire events that oc-
+curred from 1985 to 2020 from the Monitoring Trends in Burn Se-
+verity (MTBS) program (Eidenshink et al., 2007). While our analyses 
+focused on fires that occurred from 2002 to 2020 (n = 1180), earlier 
+fires (i.e., 1985–­2001; n = 634) were included to describe prior fire 
+effects following Downing et al. (2021). The majority of the 1180 
+recent fires in our study area were wildfires (75.1% of all events; 
+91.1% of the total burned area), with the remaining events classified 
+as prescribed fire (17.7% of events; 5.5% of area), resource objective 
+fire (2.5% of events; 1.9% of area), or unknown (4.7% of events; 1.6% 
+of area). To describe fire activity under a range of weather condi-
+tions and suppression strategies, thereby ensuring a representative 
+sample for use in predictive models, we retained all incident types in 
+our analyses. To quantify fire severity at a 30-­m resolution in each 
+FI G U R E 2 Study area, included EPA Level III ecoregions 
+(EPA, 2021), and the locations of large (>404 ha) fire events that 
+occurred from 1985 to 2020 (Eidenshink et al., 2007) throughout 
+the southwestern US.
+
+    |  5
+RODMAN et al.
+event, we developed raster maps of the bias-­corrected composite 
+burn index (CBI) following Parks, Holsinger, et al. (2019). This pro-
+cedure maps CBI within each fire using statistical models developed 
+from field-­derived CBI data collected in 263 fires across a range 
+of forest types in North America; predictors in this model include 
+Landsat-­derived spectral indices, latitude, and 1981–­2010 annual 
+average climatic water deficit. The CBI, a continuous index ranging 0 
+(unburned) to 3 (highest severity) (Key & Benson, 2006), was treated 
+as a response variable in subsequent statistical analyses.
+2.4  |  Q1 and Q2, predictors of fire severity
+To characterize the influence of fuels on fire severity, we used vegeta-
+tion conditions in the year prior to a fire from the Rangeland Analysis 
+Platform (RAP) (Jones et al., 2018) (Table 2). We summarized RAP data 
+within each 30-­m pixel, as well as a 910-­m radius surrounding each 
+pixel, an extent that approximates the median daily spread rate in re-
+cent large fire events throughout the western US (Coop et al., 2022). 
+Within each fire perimeter, we used RAP to describe pre-­fire canopy 
+cover, the mean and coefficient of variation of canopy cover in the sur-
+rounding area (i.e., 910-­m radius), the distance (m) to the closest pixel 
+with less than 10% canopy cover (i.e., nonforest), and pre-­fire shrub 
+cover. We described forest composition using the Fire Resistance 
+Score (FRS), a community-­weighted index that uses measured species 
+traits from western US conifers (e.g., flammability, bark thickness) to 
+estimate fire resistance of a community (Stevens et al., 2020).
+To describe differing aspects of topography that might influence 
+fire severity (Table  2), we used ca. 10-­m digital elevation models 
+(USGS, 2021) to calculate slope angle, roughness (i.e., the standard 
+deviation of elevation), topographic position (Weiss,  2001), and 
+mean curvature (Safanelli et al., 2020). We also obtained the con-
+tinuous heat load index from Theobald et al. (2015). For roughness 
+and topographic position, we used a 910-­m radius circular window 
+to describe neighborhood effects. For curvature, we used a 90-­m 
+window to describe local terrain shape.
+To quantify the effects of fire weather on severity, we developed 
+two metrics to describe daily weather conditions and fire seasonality. 
+We first calculated the Severe Fire Danger Index (SFDI), a derived 
+metric that combines different elements of fire weather and flamma-
+bility (i.e., daily temperature, humidity, wind speed, and fuel moisture) 
+into a single daily value (Jolly et al., 2019) (Table 2). We obtained val-
+ues of Energy Release Component and Burning Index, components 
+of SFDI, from the GridMET database (Abatzoglou, 2013). Daily SFDI 
+was developed as a continuous index ranging from 2 (least extreme 
+fire weather) to 200 (most extreme fire weather), with values rela-
+tive to the long-­term climatology (all days 1979–­2020) within each 
+4-­km pixel. Following Parks et al. (2014), we developed 30-­m date of 
+burning (DOB) maps for each fire by interpolating moderate resolu-
+tion imaging spectroradiometer (MODIS) and visible infrared imaging 
+radiometer suite (VIIRS) active fire detections. We assigned fire de-
+tections occurring between midnight and 6 am to the previous day 
+following Coop et al.  (2022). We used DOB maps to extract daily 
+SFDI values for each burned 30-­m pixel and to quantify the poten-
+tial effects of seasonality on fire severity. FRS (250 m), topography 
+(10 m), and SFDI (4 km) data were resampled and aligned to 30-­m fire 
+severity grids using “average” resampling, which limits changes in 
+data values (GDAL—­Geospatial Data Abstraction Library, 2020). For 
+areas with two overlapping fire events in the same 30-­m pixel, we 
+extracted severity in the initial event as well as time between fires to 
+describe prior fire effects (Table 2).
+2.5  |  Q1 and Q2, predicting and mapping 
+fire severity
+We developed two Random Forest (RF) (Breiman, 2001) models to 
+predict fire severity in 30-­m pixels that were within (1) a single large 
+TA B LE 1 Descriptions of the six focal tree species in this study, including elevational zone in which they are most commonly found, 
+fire resistance (i.e., the ability of trees to tolerate and survive fire), serotiny (i.e., fire-­adapted canopy seedbanks), and post-­fire dispersal 
+distances.
+Species
+Elevational range
+Fire 
+resistance
+Serotiny
+Typical dispersal distance
+Douglas-­fir (15.1%)
+Low to Intermediate
+0.49
+No
+<120 m from live trees (Kemp et al., 2016; McCaughey 
+et al., 1986; Rodman, Veblen, Chapman, et al., 2020)
+Engelmann spruce (20.0%)
+High
+0.26
+No
+<150 m from live trees (Gill et al., 2020; McCaughey 
+et al., 1986)
+Ponderosa pine (38.5%)
+Low to Intermediate
+0.77
+No
+<90 m from live trees (Chambers et al., 2016; Kemp 
+et al., 2016; McCaughey et al., 1986)
+Lodgepole pine (16.1%)
+Intermediate to High
+0.39
+Partial (Tinker 
+et al., 1994)
+<60 m of live (non-­serotinous) or recently burned 
+(serotinous) trees (Gill et al., 2020; Kemp 
+et al., 2016; McCaughey et al., 1986)
+Subalpine fir (7.1%)
+High
+0.31
+No
+<150 m from live trees (Gill et al., 2020; McCaughey 
+et al., 1986)
+White fir (3.2%)
+Low to Intermediate
+0.43
+No
+<150 m from live trees (McCaughey et al., 1986)
+Note: Fire resistance scores range from 0 (lowest fire resistance) to 1 (highest fire resistance) based on flammability and fire-­adaptive traits (Stevens 
+et al., 2020). Percentages of the study area dominated by each species (Wilson et al., 2013) are provided in parentheses after species names.
+
+6 |   
+RODMAN et al.
+TA B LE 2 List of spatial datasets tested to predict fire severity during large recent fire events in the southwestern US, original data 
+resolution, methods of calculation, and their rationale for inclusion.
+Category
+Variable
+Spatial/temporal 
+resolution
+Methods
+Rationale
+Fuels
+Local Canopy 
+Cover
+30 m/Annual
+Percent forest cover in a 30-­m pixel 
+in the year before fire occurrence 
+(Jones et al., 2018)
+Local forest structure influences fuel availability 
+and crowning potential (Stephens et al., 2009)
+Landscape 
+Canopy Cover
+30 m/Annual
+Mean forest cover within a 910-­m radius 
+surrounding a pixel in the year before 
+the fire (Jones et al., 2018)
+As a contagious process, fire severity and spread 
+are influenced by forest structure in the 
+surrounding landscape (Finney, 2001)
+Landscape 
+Canopy 
+Variation
+30 m/Annual
+Standard deviation of forest cover 
+within a 910-­m radius surrounding 
+a pixel in the year before the fire 
+(Jones et al., 2018)
+Heterogeneous forest conditions on local to 
+landscape scales may influence fire severity 
+by breaking up canopy fuel continuity (Koontz 
+et al., 2020; Reynolds et al., 2013)
+Distance to 
+Treeless Area
+30 m/Annual
+Distance from a given pixel to the 
+closest pixel with less than 10% 
+canopy cover (Jones et al., 2018)
+Proximity to meadows or open areas may reduce 
+the potential for tree mortality during fire 
+(Chapman et al., 2020)
+Shrub Cover
+30 m/Annual
+Percent shrub cover in a 30-­m pixel 
+in the year before the fire (Jones 
+et al., 2018)
+Flammable shrubs can influence fuel complexes 
+and the potential for tree survival during fire 
+(Coppoletta et al., 2016; Paritsis et al., 2015)
+Fire Resistance 
+Score (FRS)
+250 m/Time-­
+Invariant
+Relative fire resistance of a forest 
+community based on measured 
+species traits (e.g., bark thickness, 
+flammability) (Stevens et al., 2020)
+Tree species range widely in fire resistance and 
+have differential susceptibility under similar 
+burning conditions (Baker, 2009; Stevens 
+et al., 2020)
+Topography
+Slope
+10 m/Time-­
+Invariant
+Slope angle of a pixel, in degrees 
+based on digital elevation model 
+(USGS, 2021)
+Slope angle influences fire spread rates through 
+convective pre-­heating, with lower severity 
+expected on flat slopes (Rothermel, 1972)
+Terrain 
+Roughness
+10 m/Time-­
+Invariant
+The standard deviation of elevation 
+(USGS, 2021) in a 910-­m radius 
+surrounding each pixel
+Areas with high roughness are more often 
+characterized by infrequent or mixed-­severity 
+fire regimes (Stambaugh & Guyette, 2008)
+Topographic 
+Position
+10 m/Time-­
+Invariant
+The elevation of a pixel minus the 
+mean elevation in a 910-­m radius 
+surrounding area (Weiss, 2001)
+Ridgetops are often prone to high-­severity fire, 
+whereas valley bottoms are commonly fire 
+skips (Estes et al., 2017; Meigs et al., 2020)
+Heat Load
+10 m/Time-­
+Invariant
+An index of terrain-­driven solar heating, 
+which combines slope, aspect, and 
+latitude (Theobald et al., 2015)
+Aspect can influence vegetation types and fuel 
+moisture, helping to form local refugia (Camp 
+et al., 1997)
+Terrain Curvature
+10 m/Time-­
+Invariant
+Mean concavity/convexity of a local 
+neighborhood along axes parallel and 
+perpendicular to the slope (Safanelli 
+et al., 2020)
+Local slope curvature influences soil moisture 
+and exposure, which have the potential to 
+influence fire severity (Bigler et al., 2005; 
+Viedma et al., 2015)
+Weather
+Date of Burning 
+(DOB)
+30 m/Daily
+Calculated using interpolation of thermal 
+anomalies from Moderate Resolution 
+Imaging Spectroradiometer (MODIS) 
+and Visible Infrared Imaging 
+Radiometer Suite (VIIRS) active fire 
+detections following (Parks, 2014)
+The season of fire occurrence is related to 
+both weather and the phenology of plant 
+communities, which may influence fire 
+severity (Miller et al., 2019; Ritter et al., 2023)
+Severe Fire 
+Danger Index 
+(SFDI)
+30 m/Daily
+Describes weather conditions and fuel 
+moisture during the burn date in a 
+pixel, relative to the long-­term (i.e., 
+1979–­2020) climatology at a site 
+(Jolly et al., 2019)
+Fire weather is a key driver of fire behavior, with 
+extreme weather sometimes overriding the 
+influence of local fuels and terrain (Collins 
+et al., 2019; Krawchuk et al., 2016)
+Prior Fire
+Time Since Fire
+30 m/Annual
+The number of years since the last 
+recorded fire in a pixel (Eidenshink 
+et al., 2007)
+The time since last fire can either enhance or 
+buffer communities against fire through 
+positive or negative fire feedbacks (Buma 
+et al., 2020; Kitzberger et al., 2016)
+Prior Composite 
+Burn Index
+30 m/Annual
+The severity of the last recorded fire in 
+a pixel following Parks, Holsinger, 
+et al. (2019)
+Prior fire severity can enhance or buffer 
+subsequent fire severity depending on 
+fuel profiles and flammability (Coppoletta 
+et al., 2016; Tepley et al., 2018)
+
+    |  7
+RODMAN et al.
+fire event (hereafter ‘one-­fire’ model), or (2) in two large fire events 
+(hereafter ‘reburn’ model). In the one-­fire model, we considered 
+pixels that were located within the boundary of one fire perimeter 
+from 2002 to 2020, with no other recorded fires, and used potential 
+predictors related to fuels, topography, and weather. In the reburn 
+model, we considered pixels within exactly two fires—­at least one 
+fire from 2002 to 2020 and one preceding fire as early as 1985—­
+and used predictors related to fuels, topography, weather, and prior 
+fire effects. Too few areas were within the intersections of three 
+or more fires in our study area and timeframe (188,815 ha; 3.7% 
+of total fire area) to develop a generalizable model for areas with 
+multiple reburns.
+To obtain training data for each RF model, we used a stratified 
+sampling approach to extract fire severity and biophysical pre-
+dictors at point locations throughout the study area. Our strata 
+were based on fire ID, ecoregion, fire severity (unburned or low 
+[CBI < 1.25], moderate [1.25 ≤ CBI < 2.25], or high [CBI ≥ 2.25]; Miller 
+& Thode,  2007), and community fire resistance (low [FRS < 33rd 
+percentile], moderate [FRS ≥33rd and <66th percentile] and high 
+[FRS ≥66th percentile]). While we attempted to maintain a bal-
+anced sample across strata, some strata were so uncommon (e.g., 
+low FRS in fires that primarily burned in ponderosa pine) that the 
+overall sample is unbalanced, though it is broadly representative 
+of burned areas throughout the study area. To limit the effects of 
+fires for which we had no data on prior severity, we excluded areas 
+that burned in 1984 (preceding the time period of our CBI maps), in 
+fire events that were too small to be included in the MTBS dataset 
+(e.g., within NIFC fire perimeters <404 ha; NIFC, 2022) or with more 
+than two fire occurrences since 1985. We also restricted sampling 
+to upland conifer forests with at least 10% canopy cover in the year 
+before the fire. We extracted separate samples to inform each RF 
+model, with 36,227 points (0.1% sample) from 547 fire events in 
+one-­fire areas, and 20,769 points (0.3% sample) from 481 unique 
+combinations of fires in reburn areas. Though we did not use a 
+minimum spacing between sampled points, we used spatial cross-­
+validation to limit the effects of spatial autocorrelation on variable 
+selection and accuracy assessment (see below).
+Using sampled data, we fit RF models of fire severity using the 
+‘ranger’ (Wright & Ziegler, 2017) and ‘spatialRF’ (Benito, 2021) pack-
+ages in R (R Core Team, 2021). These data showed no evidence of 
+multicollinearity of predictors based on a variance inflation factor 
+cutoff of 5. From an initial set of predictors (Table 2), we selected 
+final predictors for each RF model using a two-­stage variable se-
+lection approach. First, we used recursive feature elimination to 
+remove variables with low relative importance and little influence 
+on overall predictive accuracy (Kuhn et al.,  2019). Next, we used 
+30-­fold spatially stratified cross-­validation (Benito,  2021) to re-
+move any variables that reduced model accuracy when predicting 
+to new fires and areas, thereby ensuring generalizable models for 
+regionwide predictions (Meyer et al., 2019). After identifying final 
+predictor variables, we tuned models using spatially stratified cross-­
+validation to optimize the number of predictors to select at each 
+tree split (i.e., ‘mtry’), and the number of samples included in each 
+terminal node (i.e., ‘min.node.size’). To summarize the effects of final 
+variables in each model, we calculated relative variable importance 
+(i.e., the permutation-­based mean decrease in accuracy statistic, 
+scaled to sum to 100) (Wright & Ziegler, 2017) and developed accu-
+mulated local effects plots, which illustrate the effect of each vari-
+able on predicted values of the response (Molnar et al., 2018). We 
+summarized model accuracy using Pearson's correlation coefficient 
+(r) and the root-­mean-­square error between observed and predicted 
+values of fire severity in (1) the out-­of-­bag dataset created during 
+model fitting and (2) in 30-­fold spatially stratified cross validation. 
+Because RF regression predictions can be biased towards the mean 
+of the response variable (Belitz & Stackelberg, 2021), we applied a 
+bias correction to RF-­predicted values following Rodman, Andrus, 
+et al. (2021) (Appendix S2).
+To map potential fire refugia throughout upland conifer forests 
+in the study area, we used final RF models to develop 30-­m pre-
+dictions of fire severity based on topography, 2021 fuels, and mod-
+erate and severe fire weather scenarios. We defined moderate fire 
+weather as having an SFDI value of 150 (i.e., the 75th percentile of 
+daily weather in a pixel) and a burn date of May 1st. We defined 
+severe fire weather as an SFDI value of 198 (i.e., 99th percentile of 
+daily weather in a pixel) and a burn date of July 1st, spanning the 
+range of conditions under which large fires typically burn in our 
+study area. For areas without any recorded fires from 1985 to 2020 
+in the MTBS dataset, we predicted fire severity using the one-­fire 
+model, and for areas with at least one prior fire event (i.e., 15.7% of 
+the final study area), we used the reburn model.
+2.6  |  Q3, quantifying environmental suitability for 
+recruitment
+To describe environmental suitability for the recruitment of existing 
+forest communities, we developed a community weighted recruitment 
+index (RI) (Appendix S3; Figure S3.1). First, we used statistical models 
+from Davis et al. (2023) to make 30-­m regionwide predictions of post-­
+fire recruitment probability for each of the six focal conifer species 
+based on recent (i.e., 2001–­2020) climate, and existing topography. To 
+account for the effects of variables unrelated to environmental suit-
+ability in our predictions (Table S3.1), we assumed that high-­severity 
+fire occurred in a given 30-­m pixel, but that seed was available fol-
+lowing Rodman, Veblen, Battaglia, et al.  (2020). Next, we used the 
+distance-­squared-­weighted density metric of Coop et al.  (2019) to 
+summarize recruitment predictions in the area around each potential 
+refugia pixel, with window sizes for each species based on typical dis-
+persal distances (Appendix S3; Table 1). Finally, we calculated RI as the 
+weighted sum of individual species recruitment maps, with weights 
+based on species' relative abundances (Wilson et al., 2013). RI, ranging 
+from 0 (poor conditions) to 100 (excellent conditions), is a continuous 
+metric that estimates how well a locally resistant fire refugium might 
+facilitate tree recruitment in the surrounding landscape.
+
+8 |   
+RODMAN et al.
+2.7  |  Q4, identifying refugia that support conifer 
+tree recruitment
+To identify refugia with a high potential to facilitate post-­fire recruit-
+ment, we overlaid maps of predicted fire severity (under moderate 
+and severe fire weather, separately) and RI as follows. First, we clas-
+sified potential fire refugia as 30-­m pixels with predicted fire severity 
+of unburned or low in regionwide maps (i.e., CBI values <1.25; Miller 
+& Thode, 2007). Next, because RI is a new metric with no empirical 
+threshold of what constitutes high or low values, we used k-­means 
+cluster analysis of all 30-­m pixels in the study area to split RI values 
+into two relatively distinct groups (low [<46] and high [≥46]). We then 
+classified pixels as “refugia with high recruitment” (i.e., CBI < 1.25 and 
+RI ≥ 46), “refugia with low recruitment” (i.e., CBI < 1.25 and RI < 46), or 
+“non-­refugia” (i.e., CBI ≥ 1.25) under each fire weather scenario.
+2.8  |  Q2–­Q4, quantifying uncertainty in 
+predictions of fire severity, recruitment, and refugia
+Major uncertainty exists in predicting forest ecosystem dynamics 
+across regional extents. To quantify and map this uncertainty, we de-
+veloped pointwise prediction intervals (i.e., mean ± 1 standard error 
+of prediction) using models of fire severity and species-­specific post-­
+fire recruitment probability. Using these prediction intervals, we 
+then propagated uncertainty throughout the same processing steps 
+involved in developing maps of potential refugia under “upper” (i.e., 
+lower than expected fire severity and higher than expected recruit-
+ment) and “lower” scenarios (i.e., higher than expected fire severity 
+and lower than expected recruitment). We present abbreviated re-
+sults of these uncertainty analyses in the main text, and additional 
+analyses and figures in Appendix S4.
+FI G U R E 3 Results of the random forest model predicting fire severity (CBI; Composite Burn Index) in locations that burned once in the study 
+period. Panel (a) shows the relative importance of predictors included in the final model using the permutation-­based mean decrease in accuracy 
+statistic. Panels (b–­n), sorted by relative importance of each predictor, are accumulated local effect plots showing predicted changes in fire 
+severity (y-­axis) across the range of each predictor (x-­axis), after accounting for the effects of other predictors in the model. Where solid black 
+lines are above the dashed line in (b–­n), values of a given predictor are associated with a higher fire severity, while values below the dashed line 
+indicate a relationship with lower fire severity. Boxplots above panels (b–­n) show the range of sampled values for each predictor.
+
+    |  9
+RODMAN et al.
+3  |  RESULTS
+3.1 | (Q1) What fuel characteristics, topographic 
+factors, weather conditions, and prior fire effects 
+best predict fire severity within large (>404 ha), 
+recent fires (i.e., 2002–­2020) in the southwestern 
+US?
+Pre-­fire fuels were the most important group of predictors in the 
+fire severity models, comprising 38% (one-­fire) and 27% (reburn) 
+of total variable importance. Fire severity was positively associ-
+ated with both local-­ and landscape-­scale canopy cover, with nota-
+ble increases in severity above 30%–­40% cover (Figures 3c,e and 
+4g,i). Similarly, distance to nonforest had a positive relationship 
+with fire severity, where forests within 100 m of nonforest areas 
+had lower fire severity in the one-­fire model (Figure 3k), though 
+this term was excluded from the reburn model. Canopy cover vari-
+ation had a positive relationship with fire severity in each model 
+(Figures  3j and 4f). Pre-­fire shrub cover had contrasting effects 
+on fire severity in the one-­fire and reburn models. In the one-­fire 
+model, low shrub cover was associated with higher fire severity, 
+though the relationship was relatively weak (Figure 3l); in the re-
+burn model, fire severity increased when shrub cover exceeded 
+10% (Figure 4l). The FRS, an indicator of forest community resist-
+ance to fire, was non-­linearly related to fire severity. In the one-­fire 
+model, severity was typically greatest with FRS values of 0.4 to 0.6 
+(Figure 3g). Low FRS values may be indicative of cold, wet areas 
+that are more likely to remain unburned within larger perimeters, 
+FI G U R E 4 Results of the Random Forest model predicting fire severity (CBI; Composite Burn Index) in locations that burned twice in the 
+study period. Panel (a) shows the relative importance (x-­axis) of predictors (y-­axis) included in the final model using the permutation-­based 
+mean decrease in accuracy statistic. Panels (b–­n), sorted by relative importance of each predictor, are accumulated local effect plots showing 
+predicted changes in fire severity (y-­axis) across the range of each predictor (x-­axis), after accounting for the effects of other predictors in 
+the model. Where solid black lines are above the dashed line in (b–­n), values of a given predictor are associated with a higher fire severity, 
+while values below the dashed line indicate a relationship with lower fire severity. Boxplots above panels (b–­n) show the range of sampled 
+values for each predictor.
+
+10 |   
+RODMAN et al.
+whereas high values represent communities composed of thick-­
+barked and fire-­tolerant conifers.
+Overall, topographic predictors accounted for 30% and 27% of 
+the total variable importance in the one-­fire and reburn models, re-
+spectively. Of these predictors, terrain roughness had the strongest 
+relationship with severity in each model, with sites located in more 
+variable topographic settings tending to burn at higher severity 
+(Figures  3d and 4c). Positive values of topographic position (Fig-
+ures 3m and 4m) and curvature (Figures 3n and 4n), representing 
+ridgetops and outwardly convex slopes, respectively, were also as-
+sociated with higher fire severities in each model. Likewise, slopes 
+between 10 and 30 degrees tended to burn at higher severity than 
+did flat areas or extremely steep slopes (Figures 3i and 4j). Finally, 
+southwest-­facing slopes (i.e., high heat load values) burned at lower 
+severities than did northeast-­facing slopes (Figures 3h and 4k).
+Weather variables were also key drivers of severity in recent 
+fires throughout our study area, accounting for 24% and 27% of 
+total variable importance in the one-­fire and reburn models, re-
+spectively (Figures 3 and 4). SFDI was the top individual predictor 
+of fire severity in each model (Figures  3a and 4a), and severity 
+increased substantially when SFDI exceeded the 90th percentile 
+at a given site (i.e., >180) (Figures 3b and 4b). Likewise, DOB was 
+among the best predictors of fire severity, ranking fifth (one-­fire) 
+and third (reburn) in terms of relative importance in each model 
+(Figures  3a and 4a). Spring-­season fires (i.e., prior to June 1st; 
+DOB < 151) typically burned at lower severities than did summer 
+or fall fires (Figures 3f and 4d).
+Prior fire effects accounted for 19% of total variable impor-
+tance in the reburn model (Figure  4a). Time since fire was the 
+highest ranking predictor in this group, where fire severity was 
+reduced for up to 15 years after an initial fire event (Figure 4e). 
+Prior CBI had a complex non-­linear effect on fire severity, where 
+low-­ to moderate-­severity events (CBI < 1.5) had the greatest 
+buffering effect (Figure 4h). Though time since fire and prior CBI 
+were related to severity in reburns, sampled areas within reburns 
+had lower severities overall (mean CBI = 0.96) than did first-­entry 
+fires (mean CBI = 1.45), indicating a consistent buffering effect 
+of past fire. Final one-­fire and reburn models performed well in 
+cross-­validation, and were deemed adequate for regionwide pre-
+dictions (Table 3).
+3.2  |  (Q2) Based on empirical models of fire 
+severity from Q1 and current (i.e., 2021) conditions, 
+where are predicted locations refugia?
+Predicted fire severity differed widely between the two weather 
+scenarios, with mean CBI values of 0.94 under moderate weather 
+(Figure 5a), as compared to 1.83 under extreme weather (Figure 5b). 
+Overall, predicted severities were highest in the northern portion 
+of the study area, and lowest in the southern portion, likely due to 
+more abundant past fire activity (Figure 2) and lower forest cover 
+in the South (Figure 5; Table S4.1). Potential refugia (i.e., areas with 
+predicted CBI < 1.25) comprised 67.6% of forests in the study area 
+under moderate weather conditions, and 18.1% under extreme 
+weather. Recent (i.e., 1985–­2020) large fires played an important 
+role in the predicted locations of refugia. Under moderate weather, 
+98.4% of areas within recent fires were predicted refugia, as com-
+pared to 61.9% of recently unburned areas. Likewise, under extreme 
+weather, 44.4% of areas within recent fires were identified as po-
+tential refugia, as compared to just 13.2% of unburned areas. There 
+was notable uncertainty in predictive maps of fire severity, likely 
+due to the stochastic factors and fine-­scale processes influencing 
+fire behavior in our training data, as well as the high-­variance nature 
+of base learners (i.e., individual trees) within RF models (Figure S4.1; 
+Table S4.1).
+3.3  |  (Q3) Where are environmental conditions 
+most suitable for post-­fire tree recruitment of current 
+tree species?
+Values of the RI, which describes the extent to which surviving trees 
+might facilitate post-­fire recruitment in the surrounding landscape, also 
+varied across the study area (Figure 6). In general, recruitment prob-
+abilities were highest at intermediate to wet portions of each species' 
+range, such as at higher elevations and latitudes (Figures S3.2–­S3.7). 
+Indeed, mean RI values were highest and had comparatively greater 
+certainty in the northern ecoregions (Table S4.1). Mean RI across the 
+study area was 37.9, with 39.7% of the total area classified as having 
+high recruitment potential (RI ≥ 46). In comparison to maps of fire se-
+verity, there was greater certainty in predictions of recruitment prob-
+ability and RI, but uncertainty was relatively high in the Arizona/New 
+Mexico Mountains, where recruitment conditions are marginal for the 
+dominant tree species (Figures S4.2–­S4.8; Table S4.1).
+3.4  |  (Q4) Where are fire refugia most likely to 
+support post-­fire tree recruitment?
+Refugia with high recruitment (i.e., CBI < 1.25 and RI ≥ 46)—­sites 
+that were predicted to resist fire and also support recruitment into 
+TA B LE 3 Accuracy metrics from final Random Forest models 
+used to predict fire severity in forests of the southwestern US that 
+experienced one (i.e., one-­fire) and two (i.e., reburn) large fires.
+Model
+Accuracy metric
+Pearson's r
+RMSE
+One-­fire
+0.58 (0.38)
+0.78 (0.85)
+Reburn
+0.69 (0.46)
+0.58 (0.75)
+Note: Accuracy metrics were calculated on out-­of-­bag data during 
+model fitting and in 30-­fold spatially-­stratified cross-­validation, 
+which are presented before parentheses and inside of parentheses, 
+respectively.
+Abbreviation: RMSE, root-­mean-­square error.
+
+    |  11
+RODMAN et al.
+adjacent areas—­were located in 23.2% of the study area under mod-
+erate weather conditions (Figure 7a) as opposed to just 6.4% under 
+extreme weather (Figure 7b). Likewise, refugia with low recruitment 
+(i.e., CBI < 1.25 and RI < 46) were more widespread under moder-
+ate weather (44.4% of the study area) than under extreme weather 
+(11.7%) throughout the study area. Though southern ecoregions 
+(i.e., Arizona/New Mexico Mountains and Madrean Archipelago) 
+had lower average RIs when compared to northern ecoregions, 
+they were also predicted to burn at lower severity (Figures 5 and 
+6; Table S4.1). In combination, these factors led to slightly higher 
+percentages of predicted refugia in the southern ecoregions, par-
+ticularly under extreme fire weather (Figure 7; Table 4). However, 
+predictions of refugia had relatively high uncertainty across the 
+study area, primarily due to uncertainty in predictions of fire sever-
+ity (Figure S4.9; Table S4.1).
+4  |  DISCUSSION
+Forests worldwide are becoming increasingly vulnerable to 
+fire-­driven transformations (Hartmann et al.,  2022; Seidl & 
+Turner,  2022). Indeed, shifting fire regimes, combined with lim-
+ited post-­fire tree recruitment, may reshape the coniferous for-
+ests that are emblematic of many western US landscapes (Coop 
+et al., 2020). The present study contributes to the understanding 
+of fire-­driven transformations by helping to identify forested sites 
+across the southwestern US that may be locally resistant to fire 
+(i.e., refugia) and facilitate post-­fire tree recruitment in the sur-
+rounding landscape. This is the first empirical study to predict 
+both fire severity and post-­fire recruitment across a broad range 
+of forest types and ecoregions, helping to assess vulnerability 
+to fire-­driven forest transformations across a diversity of land-
+scapes. Our results demonstrate that (1) fuels, topography, and 
+weather were all useful predictors of fire severity throughout the 
+study area, (2) initial fires can meaningfully reduce the severity of 
+reburns, with the strongest effects when the initial fire occurred 
+at low or moderate severity and reburns occurred within 15 years, 
+(3) post-­fire recruitment potential varied according to community 
+composition and the environmental tolerances of individual tree 
+species, but was generally greatest in the northern ecoregions, 
+and (4) refugia with a high potential to support recruitment rep-
+resented a relatively small percentage of the study area, but these 
+areas are likely to play an important role in forest ecosystem dy-
+namics over upcoming decades.
+4.1  |  Factors influencing fire severity
+Fuels played a critical role in the severity of recent large fires in our 
+study area, and such information may help to anticipate and mitigate 
+FI G U R E 5 Predicted fire severity (CBI; Composite Burn Index) throughout upland conifer forests of the southwestern US based on 2021 
+fuels conditions, existing topography, and two fire weather scenarios. Moderate (a) fire weather conditions were based on 75th percentile 
+daily weather (i.e., Severe Fire Danger Index [SFDI] value of 150) and a burn date of May 1. Extreme (b) fire weather conditions were based 
+on 99th percentile of daily weather (i.e., SFDI of 198) and a burn date of July 1. Boxplots above each panel show the distribution of predicted 
+fire severity values across the study area. CBI values <1.25 were predicted to be unburned or low-­severity areas (i.e., refugia).
+
+12 |   
+RODMAN et al.
+the effects of climate-­driven forest transformations. Forests below 
+40% canopy cover and those within 100 m of non-­forest areas (e.g., 
+meadows) were most likely to be unburned or burn at low severity, 
+suggesting that low-­density forests interspersed with open areas are 
+particularly resistant to fire. These findings align with prior research 
+illustrating the importance of pre-­fire vegetation (Parks et al., 2018; 
+Taylor et al., 2021) and low-­density savannas (Chapman et al., 2020) in 
+shaping landscape-­scale patterns of fire severity. Fuels are one side of 
+the fire behavior triangle (i.e., fuels, topography, and weather) that can 
+be most feasibly altered by humans, using activities such as mechanical 
+thinning and/or prescribed fire. These management activities can be 
+utilized for a range of purposes, including the protection of communi-
+ties and infrastructure or the restoration of degraded systems (Sch-
+oennagel et al., 2017; Stephens et al., 2021). Dense stand conditions 
+and high-­severity fire are an inherent component of some southwest-
+ern US ecosystems, such as cold/mesic forests found at high elevations 
+(Baker & Veblen, 1990; Romme & Knight, 1981), where fuels reduc-
+tion can be valuable to protect important human infrastructure (e.g., 
+reservoirs, houses), but is not necessarily congruent with restoration 
+objectives (Schoennagel et al.,  2004). In contrast, ponderosa pine-­
+dominated forests comprise roughly 39% of our study area (Wilson 
+et al., 2013) and are where strategic thinning and burning are more 
+likely to accomplish both restoration and fuels reduction objectives 
+(Stephens et al., 2021). Thus, while active management to reduce fuels 
+may help to buffer some ecosystems from fire-­driven forest transfor-
+mations in the near term, such activities must also be considered in the 
+context of both societal needs and the natural disturbance regime of 
+the system (Allen et al., 2002).
+Topography is an important determinant of both vegetation pat-
+terns and fire behavior, and topographic variation was linked to fire 
+severity across our study area. Fire severity increased with terrain 
+roughness and topographic position, peaking on moderately steep 
+slopes, ridges, and areas with rugged topography, findings that are 
+consistent with prior studies in the western US (Camp et al.,  1997; 
+Chapman et al., 2020; Krawchuk et al., 2016). Valley bottoms and topo-
+graphic concavities afforded the greatest reductions in fire severity, 
+where fire spread and severity may be diminished by reduced wind 
+speeds, shallower slopes, higher levels of soil moisture, and cooler tem-
+peratures associated with thermal inversions and smoke (Bradstock 
+et al., 2010; Downing et al., 2021; Romme & Knight, 1981). Indeed, the 
+importance of such settings in moderating fire severity and promoting 
+fire refugia has been demonstrated over a wide range of ecosystems 
+and spatiotemporal scales (Collins et al., 2012; Haire et al., 2017; Leon-
+ard et al., 2014; Robinson et al., 2014). Heat load was also a useful pre-
+dictor of fire severity, with southwest-­facing aspects showing a greater 
+potential for refugia. In our study area, southwesterly slopes tend to be 
+warmer and drier, with more open canopies and grassy understories 
+that can support frequent, lower-­severity fire (Margolis et al., 2022). 
+As highlighted by our uncertainty analyses (Appendix S4) and prior re-
+search (Kolden et al., 2017), the locations of surviving trees after any 
+given fire may be heavily shaped by stochastic processes; however, 
+refugia that persist through multiple fire events are increasingly likely 
+to owe their existence to deterministic processes including protection 
+afforded by topographic factors that impede crown fire transition and 
+spread (Downing et al., 2021). Accordingly, associations between refu-
+gia and topography may become both stronger and more predictable 
+as more fires eliminate susceptible forest patches from the landscape, 
+and over longer time frames as fire-­sensitive vegetation becomes re-
+stricted to the most protected locations (Krawchuk et al., 2020; Wood 
+et al., 2011).
+Daily fire weather and the DOB were two of the strongest 
+individual predictors of fire severity in our study area, and we 
+found that areas that burned under moderate weather conditions 
+(SFDI < 90th percentile) and in the spring season (DOB < 151) were 
+most often associated with refugia. These findings were unrelated 
+to differences in fire incident types among seasons. For example, 
+prescribed fires and resource objective fires, which typically burn 
+at lower severities than wildfires (Huffman et al.,  2017), repre-
+sented 12.5% of all fire events in the summer and fall (DOB ≥ 151) 
+as compared to just 5.5% of events in the spring (DOB < 151) 
+(Eidenshink et al.,  2007). Fire weather has been a strong pre-
+dictor of severity and the presence of refugia across a diversity 
+FI G U R E 6 Predicted values of the recruitment index (RI) 
+throughout upland conifer forests of the southwestern US, 
+with higher values indicating a greater potential for post-­fire 
+recruitment. Boxplot at the top shows the distribution of predicted 
+RI values across the study area.
+
+    |  13
+RODMAN et al.
+of ecosystems, from the southern Rocky Mountains (Chapman 
+et al., 2020) to the Pacific Northwest US (Krawchuk et al., 2016; 
+Meigs et al., 2020; Taylor et al., 2021) and southeastern Australia 
+(Collins et al.,  2019). While there has been substantial research 
+regarding fire weather, comparatively little is known about the 
+broad-­scale relationships between seasonality and fire severity. 
+Still, one observational study of prescribed fire suggests that 
+spring burns may be less severe than summer or fall burns in the 
+Southwest (Ritter et al., 2023). Though weather and seasonality 
+are often related, fire seasonality is likely to have a wide range 
+of additional effects on plant communities due to intra-­annual 
+differences in physiological and demographic processes (Miller 
+Ecoregion
+Moderate weather
+Extreme weather
+Refugia w/ high 
+recruitment
+Refugia w/ low 
+recruitment
+Refugia w/ high 
+recruitment
+Refugia w/ low 
+recruitment
+Arizona/New 
+Mexico 
+Mountains
+28.8% (66.8)
+64.7% (24.8)
+14.1% (68.6)
+26.3% (27.4)
+Madrean 
+Archipelago
+6.0% (20.3)
+88.4% (53.0)
+2.8% (19.7)
+23.8% (76.0)
+Southern Rocky 
+Mountains
+18.2% (51.5)
+38.5% (39.7)
+3.6% (38.1)
+6.9% (38.7)
+Wasatch and 
+Uinta 
+Mountains
+38.1% (61.5)
+32.3% (27.4)
+5.4% (52.7)
+6.5% (29.8)
+Overall
+23.2% (56.3)
+44.4% (22.4)
+6.4% (47.3)
+11.7% (35.0)
+Note: Numbers in parentheses are estimates of uncertainty (i.e., the range of percentage estimates 
+given prediction error in underlying CBI and RI maps) surrounding these percentages, as described 
+in Appendix S4 and Figure S4.9, with higher values showing comparatively greater uncertainty.
+TA B LE 4 Percentages of 2021 upland 
+conifer forests within each EPA Level III 
+ecoregion (EPA, 2021) classified as refugia 
+with high recruitment (i.e., predicted 
+CBI [Composite Burn Index] < 1.25 and 
+RI [Recruitment Index] ≥ 46), and refugia 
+with low recruitment (i.e., CBI < 1.25 and 
+RI < 46), under moderate and extreme fire 
+weather scenarios.
+FI G U R E 7 Predicted locations of fire refugia throughout upland conifer forests of the southwestern US based on moderate (a) and 
+extreme (b) fire weather. “Refugia with high recruitment” are sites with low predicted fire severity and a high recruitment index (i.e., a high 
+ability to support conifer forest recruitment into adjacent, severely burned areas), whereas refugia with low recruitment have low predicted 
+fire severity and low recruitment indices. “Non-­refugia” were predicted to burn at moderate or high fire severity. Stacked bar graphs above 
+each panel give the percentage of the study area in each category.
+
+14 |   
+RODMAN et al.
+et al., 2019). Humans modify the fire season through accidental 
+ignitions (Balch et al., 2017) and through management activities 
+that can target periods of mild weather (e.g., prescribed fire or re-
+source objective wildfire) (Huffman et al., 2020; Ryan et al., 2013; 
+Young et al., 2020). For example, while summer is the natural wild-
+fire season of many western US forests, prescribed and managed 
+fires are more commonly used in the shoulder seasons (i.e., spring 
+and fall) (Ryan et al., 2013; Young et al., 2020). Our results indicate 
+that the expanded use of such strategies under moderate weather 
+conditions and in the spring season is likely to promote low-­ and 
+moderate-­severity fire throughout the southwestern US.
+4.2  |  Fire as a management tool
+Fires are a keystone process in western US conifer forests, which 
+have developed fire-­adaptive traits over millions of years of evo-
+lutionary history (Keeley & Pausas, 2022). After an extended pe-
+riod of fire exclusion in many western US landscapes (Hagmann 
+et al., 2021), a majority of fires are still actively suppressed due to 
+existing government policies and potential risks to infrastructure 
+(North et al., 2015). However, there is an increasing recognition 
+that restoration of fire is critical for developing climate-­resilient 
+forests and human communities (North et al., 2021; Schoennagel 
+et al., 2017; Young et al., 2020). Our results highlight the impor-
+tance of prior fires in reducing subsequent fire severity and pro-
+moting refugia, reinforcing the value of fire as a key management 
+tool. Indeed, our predictive maps indicated that fire refugia were 
+36.4% (under moderate weather) and 31.2% (extreme weather) 
+more common across forested areas with at least one large, recent 
+fire (i.e., 1985–­2020), as compared to recently unburned forests, 
+illustrating that fire plays a critical role in promoting and maintain-
+ing fire-­resistant landscapes.
+Though prior burning may have positive or negative effects on 
+fire severity depending on site productivity and the traits of local 
+vegetation communities (Coppoletta et al., 2016; Taylor et al., 2021; 
+Tepley et al.,  2018), the consistent buffering effects of fire ob-
+served in the present study are similar to those found across many 
+coniferous forests of the Intermountain West (Parks et al., 2014; 
+Walker et al., 2018; Yocom et al., 2022). We also found that the 
+strongest buffering effects of fires occur within 15 years of initial 
+fire occurrence and when initial fires burned at low to moderate 
+severity (i.e., CBI < 1.5). A 15-­year buffering effect is within the 
+range of 1 to 30 years reported by other studies of fire severity and 
+spread (Buma et al., 2020; Cansler et al., 2022; Parks et al., 2014; 
+Stevens-­Rumann et al., 2016; Yocom et al., 2019); beyond this time, 
+the effects of the initial fire may wane due to surface fuel accu-
+mulation. Likewise, the comparatively greater buffering effects of 
+low-­ to moderate-­severity fire might be attributed to increases in 
+coarse wood (Roccaforte et al., 2012; Stevens et al., 2021) or re-
+sprouting vegetation following high-­severity fire (Coop et al., 2016; 
+Guiterman et al., 2018). Indeed, the cover of shrubs, many of which 
+are resprouting angiosperms in this region, had a positive effect on 
+fire severity in our reburn model. Overall, fires with the greatest 
+ability to reduce subsequent fire severity may be those that reduce 
+live fuels, but do not lead to substantial increases in coarse wood 
+or a strong vegetative resprouting response (Huffman et al., 2020; 
+Hunter et al.,  2011). Fire will play an increasingly important role 
+in forest management throughout the western US over upcom-
+ing decades (DellaSala et al., 2022); as such, mitigating fire-­driven 
+forest transformations will require identifying weather windows, 
+topographic settings, and fuels conditions in which both prescribed 
+fire and natural ignitions can be most effectively utilized to achieve 
+management goals (North et al., 2021).
+4.3  |  Constraints on post-­fire recruitment
+Building off a west-­wide synthesis of post-­fire regeneration data 
+(Davis et al., 2023), we leveraged extensive field inventories (i.e., 
+>10,000 individual plots) and species-­specific models of recruit-
+ment probability to predict forest community-­level responses 
+to wildfire. Overall, recruitment potential varied regionally, with 
+higher average recruitment in Colorado and Utah when compared 
+to Arizona and New Mexico. Similarly, other studies have identi-
+fied substantial recruitment limitations in dry forests of Arizona 
+and New Mexico (Guiterman et al., 2022; Haffey et al., 2018) and 
+comparatively greater recruitment to the north and west (Davis 
+et al., 2020; Hoecker & Turner, 2022; Vanderhoof et al., 2020), due 
+to differences in both environmental conditions and tree species 
+composition. Recruitment is a key indicator of forest resilience to 
+wildfire, and it is valuable to consider this process in tandem with 
+fire severity when assessing vulnerability to forest transformations 
+(Coop et al., 2020; Savage et al., 2013). As many western US coni-
+fers are obligate seeders, seed availability acts as a primary filter 
+of recruitment (Chambers et al., 2016; Kemp et al., 2016; Rodman, 
+Veblen, Chapman, et al., 2020). Seed availability can be influenced 
+by both high-­severity patch sizes and the presence or abundance 
+of seed-­bearing trees (Chapman et al., 2020; Gill et al., 2020; Ste-
+vens et al.,  2017). However, even in locations where seeds are 
+available, existing forest communities are not always in alignment 
+with local environmental conditions (Davis et al., 2019; Rodman, 
+Veblen, Chapman, et al., 2020; Stevens-­Rumann et al., 2018). Our 
+newly developed RI, which combines dispersal characteristics of 
+the constituent species and environmental conditions in the sur-
+rounding landscape, highlights many of these potential limitations 
+to conifer recruitment and helps to identify refugia that can sup-
+port post-­fire tree recruitment in adjacent, severely-­burned areas.
+4.4  |  Potential fire refugia across the 
+southwestern US
+Patterns of fire severity and post-­fire recruitment are driven 
+by different sets of factors in southwestern US conifer forests, 
+but the intersection of these factors has critical implications 
+
+    |  15
+RODMAN et al.
+for the resilience of forest communities (Coop et al.,  2020; 
+Davis et al.,  2020). For example, fire severity is strongly influ-
+enced by fuels and daily weather (Cansler et al.,  2022; Parks 
+et al., 2018), whereas post-­fire recruitment is more commonly lim-
+ited by seasonal, annual, or average climate conditions of a site 
+(Davis et al., 2019; Guz et al.,  2021; Rodman, Veblen, Battaglia, 
+et al.,  2020). Overall, we predicted that 67.6% (under moderate 
+weather) and 18.1% (under extreme weather) of the study area 
+were potential refugia (i.e., CBI < 1.25), and 39.7% of the study 
+area had high recruitment potential. However, when overlay-
+ing maps of fire severity and recruitment, just 23.2% (moderate 
+weather) and 6.4% (extreme weather) of the study area was refu-
+gia with a high potential to support recruitment in the surround-
+ing landscape. Though these sites represent a small fraction of 
+the region, it is important to note that such areas act as potential 
+centers of nucleation and dispersal that can affect a much larger 
+area (Coop et al., 2019). Fire refugia also contribute to the mainte-
+nance of community components and ecosystem functions, such 
+as by providing critical habitat for fire-­sensitive plant and animal 
+species (Andrus et al., 2021; Downing et al., 2019; Landesmann 
+& Morales, 2018; Robinson et al., 2014). These habitat patches, 
+nested within larger networks, could be relatively buffered from 
+near-­term changes in climate and allow for both migration and in-­
+situ adaptation in a period of rapid change (Haire et al., 2022; Mo-
+relli et al., 2020). Thus, refugia with high recruitment potential are 
+disproportionately valuable in conifer forests of the southwestern 
+US, a region that is especially vulnerable to fire-­driven forest con-
+versions (Davis et al., 2020; Parks, Dobrowski, et al., 2019).
+Additional research is needed into how management activi-
+ties (e.g., mechanical thinning, prescribed fire, resource objective 
+fires) might foster and maintain fire refugia in the region (Stevens 
+et al., 2021), and how networks of potential refugia might interact 
+to facilitate the persistence of fire-­sensitive species (e.g., Mexican 
+spotted owl; Strix occidentalis lucida) (Jones et al., 2022). Identifying 
+the locations and drivers of potential fire refugia, as done in the 
+present study, is a first step towards building this new knowledge. 
+However, our findings also point unequivocally toward two man-
+agement strategies that can support and maintain refugia by re-
+ducing the likelihood of severe fire: (1) reducing canopy cover and 
+creating heterogeneous fuels conditions using mechanical thinning 
+where it is ecologically appropriate and socially acceptable, and 
+(2) utilizing additional prescribed and lightning-­ignited fires under 
+moderate fire weather to mitigate the effects of future fire activity 
+under more extreme conditions when  suppression is ineffective. 
+Where feasible, these activities may help to resist fire-­driven eco-
+system transformations in portions of the southwestern US.
+4.5  |  Study limitations and directions for 
+future research
+Factors such as serotiny, animal-­mediated dispersal, the limited 
+extent of reburns in our study area, and uncertainty in predictions 
+may complicate models of refugia presented here. Several stud-
+ies have found weak or inconsistent relationships between lodge-
+pole pine establishment and distances to live trees due to partial 
+serotiny in the species (Hoecker & Turner, 2022; Kemp et al., 2016; 
+Urza & Sibold, 2017). However, even for lodgepole pine, there is 
+concern that severe, short-­interval reburns could overwhelm for-
+est resilience due to a lack of trees bearing serotinous seeds in 
+young post-­fire stands (Gill et al., 2020; Turner et al., 2019). Refu-
+gia may remain valuable, even for this exceptionally fire-­adapted 
+species, by buffering trees against the effects of severe, short-­
+interval reburns and maintaining available seed sources on the 
+landscape. Long-­distance dispersal events, likely facilitated by 
+animals, have been noted in both montane and subalpine for-
+ests throughout the study area (Coop & Schoettle, 2009; Owen 
+et al., 2017). Thus, the influence of fire refugia may extend well 
+beyond the wind-­ and water-­driven dispersal distances that we 
+considered when calculating RI. Across the Southwest, areas with 
+three or more fires were comparatively rare (i.e., 3.7% of the total 
+burned area). Multiple reburns at a site may have additive or mul-
+tiplicative effects (Downing et al., 2021; Hunter et al., 2011) that 
+we could not adequately quantify throughout our study area due 
+to the limited sample area. Additional research is needed to bet-
+ter understand the interactions of fuels, topography, weather, and 
+prior-­fire effects in areas with multiple reburns, which are likely 
+to become increasingly common in the coming decades. Further, 
+though the study period includes some of the driest conditions in 
+the last thousand years (Williams et al., 2022), we note that the 
+spatial overlap between contemporary forest composition and re-
+generation likelihood is expected to contract under future climate, 
+and fire activity is likely to continue to increase (Coop et al., 2020; 
+Davis et al., 2023). Finally, there was sizable uncertainty in some 
+of our predictions, likely due to the stochastic and locally specific 
+nature of individual fire behavior (Appendix  S4). Some of these 
+uncertainties may be unavoidable when working with empirical 
+models and broad-­scale spatial datasets. However, we hope that 
+this work will provide a foundation that future research can build 
+upon, as more sophisticated statistical approaches (e.g., deep 
+learning) and detailed spatial datasets become increasingly com-
+mon in ecological research.
+5  |  CONCLUSION
+Here, we used empirical models of fire severity and post-­fire re-
+cruitment, developed from over 1000 unique fire events and 
+10,000 post-­fire field plots, to identify potential fire refugia across 
+ca. 100,000 km2 of forest area throughout the southwestern US. 
+Because refugia are relatively buffered from fire-­driven ecosys-
+tem transformations, they may help to “flatten the curve” during 
+a period of rapid environmental change (Krawchuk et al.,  2020; 
+Morelli et al., 2020). However, these effects are likely to be most 
+pronounced in areas where conditions promoting resistance to 
+fire align with environmental conditions supporting post-­fire tree 
+
+16 |   
+RODMAN et al.
+recruitment, as identified in the present study. Anticipating eco-
+logical transformation in this era of uncertainty is challenging, yet 
+critical for human adaptation to change (McDowell et al., 2020; 
+Seidl & Turner, 2022). For example, potential fire refugia, which 
+represent areas of relative stability, may help in outlining pro-
+tected habitat networks for fire-­sensitive or forest-­obligate spe-
+cies that require particular forest structural or compositional 
+conditions. Likewise, active forest management (e.g., mechanical 
+treatments, prescribed fire, resource objective fires, and post-­fire 
+replanting) may work with the locations of potential refugia to 
+help reinforce and expand refugial networks and maintain critical 
+ecosystem services provided by forest ecosystems. Importantly, 
+this study illustrates that open-­canopied forests and fires burn-
+ing under moderate weather conditions may promote and main-
+tain refugia. Conversely, our results also suggest that aggressive 
+suppression strategies which extinguish fires under moderate 
+weather conditions will lead to continued increases in fuel accu-
+mulation, reduce the potential for fire refugia under more extreme 
+conditions in which fires cannot be suppressed, and threaten the 
+longer-­term sustainability of southwestern US forests. Fire, as a 
+dominant terrestrial disturbance (Bowman et al.,  2009), will act 
+as a major driver of ecological transformations across Earth's 
+forests, and refugia will play an integral role in resilience to such 
+transformations.
+ACKNOWLEDGMENTS
+Our study area includes the homelands of at least 35 Indigenous 
+nations—­we honor their past, present, and future generations, who 
+have lived here for millennia and will forever call this place home. 
+The authors thank Andi Thode and Dave Huffman for helpful dis-
+cussions about this project, and the reviewers that provided use-
+ful feedback on previous versions of this manuscript. This work was 
+funded by USDA Forest Service grant #22-­DG-­11030000-­012 and 
+is published in fulfillment of Project 1.4 in the Ecological Restoration 
+Institute's fiscal year 2022 work plan. The findings and conclusions 
+in this publication are those of the authors and should not be con-
+strued to represent any official USDA or US Government determina-
+tion or policy. Northern Arizona University is an equal opportunity 
+provider.
+CONFLICT OF INTEREST STATEMENT
+The authors declare no conflict of interest.
+DATA AVAILABILITY STATEMENT
+All data and R code used to process, analyze, or visualize data in 
+this study are available through Data Dryad (Rodman et al., 2023). 
+Spatial data can also be viewed using the following web appli-
+cation: 
+https://kyler​odman​-­eri.users.earth​engine.app/view/us-­
+south​west-­refugia.
+ORCID
+Kyle C. Rodman 
+ https://orcid.org/0000-0001-9538-8412 
+Kimberley T. Davis 
+ https://orcid.org/0000-0001-9727-374X 
+Sean A. Parks 
+ https://orcid.org/0000-0002-2982-5255 
+Teresa B. Chapman 
+ https://orcid.org/0000-0003-3021-1231 
+Jonathan D. Coop 
+ https://orcid.org/0000-0002-3930-340X 
+Jose M. Iniguez 
+ https://orcid.org/0000-0002-4566-1297 
+John P. Roccaforte 
+ https://orcid.org/0000-0002-0952-0331 
+Andrew J. Sánchez Meador 
+ https://orcid.
+org/0000-0003-4238-8587 
+Judith D. Springer 
+ https://orcid.org/0000-0003-1529-3494 
+Camille S. Stevens-­Rumann 
+ https://orcid.
+org/0000-0002-7923-0487 
+Amy E. M. Waltz 
+ https://orcid.org/0000-0002-9256-7068 
+Tzeidle N. Wasserman 
+ https://orcid.org/0000-0002-6551-8164 
+REFERENCES
+Abatzoglou, J. T. (2013). Development of gridded surface meteorological 
+data for ecological applications and modelling. International Journal 
+of Climatology, 33(1), 121–­131.
+Albrich, K., Rammer, W., Turner, M. G., Ratajczak, Z., Braziunas, K. H., 
+Hansen, W. D., & Seidl, R. (2020). Simulating forest resilience: A re-
+view. Global Ecology and Biogeography, 29(12), 2082–­2096. https://
+doi.org/10.1111/geb.13197
+Allen, C. D., Savage, M., Falk, D. A., Suckling, K. F., Thomas, W., Schulke, 
+T., Stacey, P. B., Morgan, P., Hoffman, M., & Klingel, J. T. (2002). 
+Ecological restoration of southwestern ponderosa pine ecosys-
+tems: A broad perspective. Ecological Applications, 12(5), 1418–­
+1433. https://doi.org/10.1890/1051-­0761(2002)012[1418:EROSP​
+P]2.0.CO;2
+Andrus, R. A., Harvey, B. J., Hoffman, A., & Veblen, T. T. (2020). 
+Reproductive maturity and cone abundance vary with tree size 
+and stand basal area for two widely distributed conifers. Ecosphere, 
+11(5). https://doi.org/10.1002/ecs2.3092
+Andrus, R. A., Martinez, A. J., Jones, G. M., & Meddens, A. J. H. (2021). 
+Assessing the quality of fire refugia for wildlife habitat. Forest 
+Ecology and Management, 482(October 2020), 118868. https://doi.
+org/10.1016/j.foreco.2020.118868
+Arias, P., Bellouin, N., Coppola, E., Jones, R., Krinner, G., Marotzke, J., 
+Naik, V., Palmer, M., Plattner, G.-­K., Rogelj, J., Rojas, M., Sillmann, 
+J., Storelvmo, T., Thorne, P., Trewin, B., Achutarao, K., Adhikary, B., 
+Allan, R., Armour, K., … Zickfeld, K. (2021). Climate change 2021: 
+The physical science basis. Technical summary. In P. Z. V. Masson-­
+Delmotte, A. Pirani, S. L. Connors, C. Péan, S. Berger, N. Caud, Y. 
+Chen, L. Goldfarb, M. I. Gomis, M. Huang, K. Leitzell, E. Lonnoy, J. 
+B. R. Matthews, T. K. Maycock, T. Waterfield, O. Yelekçi, R. Yu, & B. 
+Zhou (Eds.), Contribution of working group I to the sixth assessment re-
+port of the Intergovernmental Panel on Climate Change (pp. 33–­144). 
+Cambridge University Press. https://doi.org/10.1017/97810​09157​
+896.002
+Baker, W. L. (2009). Fire ecology in Rocky Mountain landscapes. Island 
+Press.
+Baker, W. L., & Veblen, T. T. (1990). Spruce beetles and fires in the nineteenth-­
+century subalpine forests of western Colorado, USA. Arctic and Alpine 
+Research, 22(1), 65–­80. https://doi.org/10.2307/1551721
+Balch, J. K., Bradley, B. A., Abatzoglou, J. T., Nagy, R. C., Fusco, E. J., 
+& Mahood, A. L. (2017). Human-­started wildfires expand the fire 
+niche across the United States. Proceedings of the National Academy 
+of Sciences of the United States of America, 114(11), 2946–­2951. 
+https://doi.org/10.1073/pnas.16173​94114
+Belitz, K., & Stackelberg, P. E. (2021). Evaluation of six methods for 
+correcting bias in estimates from ensemble tree machine learn-
+ing regression models. Environmental Modelling and Software, 
+139(February), 105006. https://doi.org/10.1016/j.envso​ft.2021.​
+105006
+
+    |  17
+RODMAN et al.
+Bell, D. M., Bradford, J., & Lauenroth, W. K. (2014). Early indicators of 
+change: Divergent climate envelopes between tree life stages 
+imply range shifts in the western United States. Global Ecology and 
+Biogeography, 23, 168–­180. https://doi.org/10.1111/geb.12109
+Benito, B. M. (2021). SpatialRF: Easy spatial regression with Random Forest. 
+(1.1.4). https://doi.org/10.5281/zenodo.4745208
+Bigler, C., Kulakowski, D., & Veblen, T. T. (2005). Multiple disturbance 
+interactions and drought influence fire severity in rocky moun-
+tain subalpine forests. Ecology, 86(11), 3018–­3029. https://doi.
+org/10.1890/05-­0011
+Bowman, D. M. J. S., Balch, J. K., Artaxo, P., Bond, W. J., Carlson, J. 
+M., Cochrane, M. A., D'Antonio, C. M., DeFries, R. S., Doyle, J. 
+C., Harrison, S. P., Johnston, F. H., Keeley, J. E., Krawchuk, M. A., 
+Kull, C. A., Marston, J. B., Moritz, M. A., Prentice, I. C., Roos, C. I., 
+Scott, A. C., … Pyne, S. J. (2009). Fire in the earth system. Science, 
+324(5926), 481–­484. https://doi.org/10.1126/scien​ce.1163886
+Bradstock, R. A., Hammill, K. A., Collins, L., & Price, O. (2010). Effects of 
+weather, fuel and terrain on fire severity in topographically diverse 
+landscapes of south-­eastern Australia. Landscape Ecology, 25(4), 
+607–­619. https://doi.org/10.1007/s1098​0-­009-­9443-­8
+Breiman, L. (2001). Random forests. Machine Learning, 45(1), 5–­32.
+Buma, B., Weiss, S., Hayes, K., & Lucash, M. (2020). Wildland fire reburn-
+ing trends across the US west suggest only short-­term negative 
+feedback and differing climatic effects. Environmental Research 
+Letters, 15(3). https://doi.org/10.1088/1748-­9326/ab6c70
+Camp, A. E., Oliver, C. D., Hessburg, P. F., & Everett, R. G. (1997). Predicting 
+late-­successional fire refugia pre-­dating European settlement in the 
+Wenatchee Mountains. Forest Ecology and Management, 95(1), 63–­
+77. https://doi.org/10.1016/S0378​-­1127(97)00006​-­6
+Cansler, C. A., Kane, V. R., Hessburg, P. F., Kane, J. T., Jeronimo, S. M. 
+A., Lutz, J. A., Povak, N. A., Churchill, D. J., & Larson, A. J. (2022). 
+Previous wildfires and management treatments moderate subse-
+quent fire severity. Forest Ecology and Management, 504(September 
+2021), 119764. https://doi.org/10.1016/j.foreco.2021.119764
+Carlson, A. R., Sibold, J. S., & Negrón, J. F. (2021). Wildfire and spruce 
+beetle outbreak have mixed effects on below-­canopy temperatures 
+in a Rocky Mountain subalpine forest. Journal of Biogeography, 48, 
+216–­230. https://doi.org/10.1111/jbi.13994
+Chambers, M. E., Fornwalt, P. J., Malone, S. L., & Battaglia, M. A. (2016). 
+Patterns of conifer regeneration following high severity wild-
+fire in ponderosa pine-­dominated forests of the Colorado Front 
+Range. Forest Ecology and Management, 378, 57–­67. https://doi.
+org/10.1016/j.foreco.2016.07.001
+Chapman, T. B., Schoennagel, T., Veblen, T. T., & Rodman, K. C. (2020). Still 
+standing: Recent patterns of post-­fire conifer refugia in ponderosa 
+pine-­dominated forests of the Colorado Front Range. PLoS ONE, 
+15(1), e0226926. https://doi.org/10.1371/journ​al.pone.0226926
+Clarke, H., Nolan, R. H., De Dios, V. R., Bradstock, R., Griebel, A., Khanal, 
+S., & Boer, M. M. (2022). Forest fire threatens global carbon sinks 
+and population centres under rising atmospheric water demand. 
+Nature Communications, 13(1), 1–­10. https://doi.org/10.1038/s4146​
+7-­022-­34966​-­3
+Collins, L., Bennett, A. F., Leonard, S. W. J., & Penman, T. D. (2019). 
+Wildfire refugia in forests: Severe fire weather and drought mute 
+the influence of topography and fuel age. Global Change Biology, 
+25(11), 3829–­3843. https://doi.org/10.1111/gcb.14735
+Collins, L., Bradstock, R. A., Tasker, E. M., & Whelan, R. J. (2012). Can 
+gullies preserve complex forest structure in frequently burnt 
+landscapes? Biological Conservation, 153, 177–­186. https://doi.
+org/10.1016/j.biocon.2012.04.021
+Coop, J. D., DeLory, T. J., Downing, W. M., Haire, S. L., Krawchuk, M. 
+A., Miller, C., Parisien, M., & Walker, R. B. (2019). Contributions of 
+fire refugia to resilient ponderosa pine and dry mixed-­conifer for-
+est landscapes. Ecosphere, 10(7), e02809. https://doi.org/10.1002/
+ecs2.2809
+Coop, J. D., Parks, S. A., McClernan, S. R., & Holsinger, L. M. (2016). 
+Influences of prior wildfires on vegetation response to subsequent 
+fire in a reburned southwestern landscape. Ecological Applications, 
+26(2), 346–­354. https://doi.org/10.1890/15-­0775.1
+Coop, J. D., Parks, S. A., Stevens-­Rumann, C. S., Crausbay, S., Higuera, P. 
+E., Hurteau, M. D., Tepley, A. J., Whitman, E., Assal, T., Collins, B. 
+M., Davis, K. T., Dobrowski, S. Z., Falk, D. A., Fornwalt, P. J., Fulé, 
+P. Z., Harvey, B. J., Kane, V. R., Littlefield, C. E., Margolis, E. Q., … 
+Rodman, K. C. (2020). Wildfire-­driven forest conversion in western 
+North American landscapes. BioScience, 70(8), 659–­673. https://
+doi.org/10.1093/biosc​i/biaa061
+Coop, J. D., Parks, S. A., Stevens-­Rumann, C. S., Ritter, S. M., & Hoffman, 
+C. M. (2022). Extreme fire spread events and area burned under 
+recent and future climate in the western USA. Global Ecology 
+and Biogeography, 31(10), 1949–­1959. https://doi.org/10.1111/
+geb.13496
+Coop, J. D., & Schoettle, A. W. (2009). Regeneration of Rocky Mountain 
+bristlecone pine (Pinus aristata) and limber pine (Pinus flexilis) three 
+decades after stand-­replacing fires. Forest Ecology and Management, 
+257(3), 893–­903. https://doi.org/10.1016/j.foreco.2008.10.034
+Coppoletta, M., Merriam, K. E., & Collins, B. M. (2016). Post-­fire veg-
+etation and fuel development influences fire severity patterns 
+in reburns. Ecological Applications, 26(3), 686–­699. https://doi.
+org/10.1890/15-­0225.1
+Davis, K. T., Dobrowski, S. Z., Higuera, P. E., Holden, Z. A., Veblen, T. T., 
+Rother, M. T., Sala, A., & Maneta, M. P. (2019). Wildfires and climate 
+change push low-­elevation forests across a critical climate thresh-
+old for tree regeneration. Proceedings of the National Academy of 
+Sciences of the United States of America, 116(13), 6193–­6198.
+Davis, K. T., Higuera, P. E., Dobrowski, S. Z., Parks, S. A., Abatzoglou, 
+J. T., Rother, M. T., & Veblen, T. T. (2020). Fire-­catalyzed vegeta-
+tion shifts in ponderosa pine and Douglas-­fir forests of the west-
+ern United States. Environmental Research Letters, 15(10), 1040b8. 
+https://doi.org/10.1088/1748-­9326/abb9df
+Davis, K. T., Robles, M. D., Kemp, K. B., Higuera, P. E., Metlen, K. L., 
+Peeler, J. L., Rodman, K. C., Woolley, T., Addington, R. N., Buma, B. 
+J., Cansler, C. A., Case, M. J., Collins, B. M., Harvey, B. J., Haugo, R. 
+D., Hurteau, M. D., Kulakowski, D., Littlefield, C. E., McCauley, L., … 
+Campbell, J. (2023). Reduced fire severity offers near-­term buffer 
+to climate-­driven declines in conifer resilience across the western 
+United States. Proceedings of the National Academy of Sciences of 
+the United States of America, 120(11), e2208120120. https://doi.
+org/10.1073/pnas.22081​20120
+DellaSala, D. A., Baker, B. C., Hanson, C. T., Ruediger, L., & Baker, W. 
+(2022). Have western USA fire suppression and megafire active man-
+agement approaches become a contemporary Sisyphus? Biological 
+Conservation, 268(March), 109499. https://doi.org/10.1016/​j.biocon.​
+2022.109499
+Dobrowski, S. Z., Swanson, A. K., Abatzoglou, J. T., Holden, Z. A., Safford, 
+H. D., Schwartz, M. K., & Gavin, D. G. (2015). Forest structure and 
+species traits mediate projected recruitment declines in western 
+US tree species. Global Ecology and Biogeography, 24(8), 917–­927. 
+https://doi.org/10.1111/geb.12302
+Downing, W. M., Krawchuk, M. A., Coop, J. D., Meigs, G. W., Haire, S. L., 
+Walker, R. B., Whitman, E., Chong, G. W., Miller, C. L., & Tortorelli, 
+C. (2019). How do plant communities differ between fire refugia 
+and fire-­generated early-­seral vegetation. Journal of Vegetation 
+Science, 31(1), 26–­39.
+Downing, W. M., Meigs, G. W., Gregory, M. J., & Krawchuk, M. A. (2021). 
+Where and why do conifer forests persist in refugia through multi-
+ple fire events? Global Change Biology, 27(15), 3642–­3656. https://
+doi.org/10.1111/gcb.15655
+Eidenshink, J., Schwind, B., Brewer, K., Zhu, Z., Quayle, B., Howard, S., 
+Falls, S., & Falls, S. (2007). A project for monitoring trends in burn 
+severity. Fire Ecology, 3(1), 3–­21.
+
+18 |   
+RODMAN et al.
+Enright, N. J., Fontaine, J. B., Bowman, D. M. J. S., Bradstock, R. A., & 
+Williams, R. J. (2015). Interval squeeze: Altered fire regimes and 
+demographic responses interact to threaten woody species per-
+sistence as climate changes. Frontiers in Ecology and the Environment, 
+13(5), 265–­272. https://doi.org/10.1890/140231
+Environmental Protection Agency. (2021). Level III and IV ecoregions of the 
+continental United States. http://www.epa.gov/wed/pages/​ecore​
+gions/​level_iii_iv.htm
+Estes, B. L., Knapp, E. E., Skinner, C. N., Miller, J. D., & Preisler, H. K. 
+(2017). Factors influencing fire severity under moderate burning 
+conditions in the Klamath Mountains, northern California, USA. 
+Ecosphere, 8(5), e01794. https://doi.org/10.1002/ecs2.1794
+Falk, D. A., van Mantgem, P. J., Keeley, J. E., Gregg, R. M., Guiterman, C. H., 
+Tepley, A. J., Young, D. J. N., & Marshall, L. A. (2022). Mechanisms 
+of forest resilience. Forest Ecology and Management, 512, 120129. 
+https://doi.org/10.1016/j.foreco.2022.120129
+Finney, M. A. (2001). Design of regular landscape fuel treatment patterns 
+for modifying fire growth and behavior. Forest Science, 47(2), 219–­
+228. https://doi.org/10.1093/fores​tscie​nce/47.2.219
+GDAL—­Geospatial Data Abstraction Library (3.2.1). (2020). Open Source 
+Geospatial Foundation.
+Gill, N. S., Hoecker, T. J., & Turner, M. G. (2020). The propagule doesn't 
+fall far from the tree, especially after short-­interval, high-­severity 
+fire. Ecology, 102(1), 1–­13. https://doi.org/10.1002/ecy.3194
+Gray, L. K., & Hamann, A. (2013). Tracking suitable habitat for tree 
+populations under climate change in western North America.  
+Climatic Change, 117(1–­2), 289–­303. https://doi.org/10.1007/s1058​
+4-­012-­0548-­8
+Grubb, P. J. (1977). The maintenance of species-­richness in plant commu-
+nities: The importance of the regeneration niche. Biological Reviews 
+of the Cambridge Philosophical Society, 52, 107–­145.
+Guiterman, C. H., Gregg, R. M., Marshall, L. A. E., Beckmann, J. J., 
+van Mantgem, P. J., Falk, D. A., Keeley, J. E., Caprio, A. C., Coop, 
+J. D., Fornwalt, P. J., Haffey, C., Hagmann, R. K., Jackson, S. T., 
+Lynch, A. M., Margolis, E. Q., Marks, C., Meyer, M. D., Safford, 
+H., Syphard, A. D., … Stevens, J. T. (2022). Vegetation type con-
+version in the US southwest: Frontline observations and man-
+agement responses. Fire Ecology, 18, 6. https://doi.org/10.1186/
+s4240​8-­022-­00131​-­w
+Guiterman, C. H., Margolis, E. Q., Allen, C. D., Falk, D. A., & Swetnam, T. 
+W. (2018). Long-­term persistence and fire resilience of oak shrub-
+fields in dry conifer forests of northern New Mexico. Ecosystems, 
+21, 943–­959. https://doi.org/10.1007/s1002​1-­017-­0192-­2
+Guz, J., Gill, N. S., & Kulakowski, D. (2021). Long-­term empirical ev-
+idence shows post-­disturbance climate controls post-­fire re-
+generation. Journal of Ecology, 109(12), 4007–­4024. https://doi.
+org/10.1111/1365-­2745.13771
+Haffey, C., Sisk, T. D., Allen, C. D., Thode, A. E., & Margolis, E. Q. (2018). 
+Limits to ponderosa pine regeneration following large high-­severity 
+forest fires in the United States southwest. Fire Ecology, 14(1), 143–­
+162. https://doi.org/10.4996/firee​cology.14011​4316
+Hagmann, R. K., Hessburg, P. F., Prichard, S. J., Povak, N. A., Brown, P. 
+M., Fulé, P. Z., Keane, R. E., Knapp, E. E., Lydersen, J. M., Metlen, K. 
+L., Reilly, M. J., Sánchez Meador, A. J., Stephens, S. L., Stevens, J. T., 
+Taylor, A. H., Yocom, L. L., Battaglia, M. A., Churchill, D. J., Daniels, 
+L. D., … Waltz, A. E. M. (2021). Evidence for widespread changes 
+in the structure, composition, and fire regimes of western North 
+American forests. Ecological Applications, 31(8), e02431. https://
+doi.org/10.1002/eap.2431
+Haire, S. L., Coop, J. D., & Miller, C. (2017). Characterizing spatial 
+neighborhoods of refugia following large fires in northern New 
+Mexico, USA. Land, 6(2), 19. https://doi.org/10.3390/land6​
+010019
+Haire, S. L., Villarreal, M. L., Cortés-­Montaño, C., Flesch, A. D., Iniguez, 
+J. M., Romo-­Leon, J. R., & Sanderlin, J. S. (2022). Climate refugia 
+for Pinus spp. in topographic and bioclimatic environments of the 
+Madrean sky islands of México and the United States. Plant Ecology, 
+223(5), 577–­598. https://doi.org/10.1007/s1125​8-­022-­01233​-­w
+Harris, L. B., Drury, S. A., & Taylor, A. H. (2021). Strong legacy effects 
+of prior burn severity on forest resilience to a high-­severity fire. 
+Ecosystems, 24(4), 774–­787. https://doi.org/10.1007/s1002​1-­020-­
+00548​-­x
+Hartmann, H., Bastos, A., Das, A. J., Esquivel-­Muelbert, A., Hammond, 
+W. M., Martínez-­Vilalta, J., Mcdowell, N. G., Powers, J. S., Pugh, T. 
+A. M., Ruthrof, K. X., & Allen, C. D. (2022). Climate change risks to 
+global forest health: Emergence of unexpected events of elevated 
+tree mortality worldwide. Annual Review of Plant Biology, 73, 673–­
+702. https://doi.org/10.1146/annur​ev-­arpla​nt-­10282​0-­012804
+Harvey, B. J., Donato, D. C., & Turner, M. G. (2016). High and dry: Postfire 
+drought and large stand-­replacing burn patches reduce postfire tree 
+regeneration in subalpine forests. Global Ecology and Biogeography, 
+25(6), 655–­669. https://doi.org/10.1111/geb.12443
+Hessburg, P. F., Miller, C. L., Parks, S. A., Povak, N. A., Taylor, A. H., 
+Higuera, P. E., Prichard, S. J., North, M. P., Collins, B. M., Hurteau, 
+M. D., Larson, A. J., Allen, C. D., Stephens, S. L., Rivera-­Huerta, 
+H., Stevens-­Rumann, C. S., Daniels, L. D., Gedalof, Z., Gray, R. W., 
+Kane, V. R., … Salter, R. B. (2019). Climate, environment, and distur-
+bance history govern resilience of Western North American for-
+ests. Frontiers in Ecology and Evolution, 7. https://doi.org/10.3389/
+fevo.2019.00239
+Higuera, P. E., Shuman, B. N., & Wolf, K. D. (2021). Rocky Mountain sub-
+alpine forests now burning more than any time in recent millennia. 
+Proceedings of the National Academy of Sciences of the United States 
+of America, 118(25), 1–­5. https://doi.org/10.1073/pnas.21031​
+35118
+Hodgson, D., McDonald, J. L., & Hosken, D. J. (2015). What do you mean, 
+“resilient”? Trends in Ecology & Evolution, 30(9), 503–­506. https://
+doi.org/10.1016/j.tree.2015.06.010
+Hoecker, T. J., & Turner, M. G. (2022). A short-­interval reburn catalyzes 
+departures from historical structure and composition in a mesic 
+mixed-­conifer forest. Forest Ecology and Management, 504(October 
+2021), 119814. https://doi.org/10.1016/j.foreco.2021.119814
+Holling, C. S. (1973). Resilience and stability of ecological systems. Annual 
+Review of Ecology and Systematics, 4(1), 1–­23.
+Huffman, D. W., Roccaforte, J. P., Springer, J. D., & Crouse, J. E. (2020). 
+Restoration applications of resource objective wildfires in west-
+ern US forests: A status of knowledge review. Fire Ecology, 16, 18. 
+https://doi.org/10.1186/s4240​8-­020-­00077​-­x
+Huffman, D. W., Sanchez Meador, A. J., Stoddard, M. T., Crouse, J. E., & 
+Roccaforte, J. P. (2017). Efficacy of resource objective wildfires for 
+restoration of ponderosa pine (Pinus ponderosa) forests in northern 
+Arizona. Forest Ecology and Management, 389, 395–­403.
+Hunter, M. E., Iniguez, J. M., & Lentile, L. B. (2011). Short-­ and long-­
+term effects on fuels, forest structure, and wildfire potential from 
+prescribed fire and resource benefit fire in southwestern forests, 
+USA. Fire Ecology, 7(3), 108–­121. https://doi.org/10.4996/firee​
+cology.0703108
+Johnstone, J. F., Allen, C. D., Franklin, J. F., Frelich, L. E., Harvey, B. 
+J., Higuera, P. E., Mack, M. C., Meentemeyer, R. K., Metz, M. R., 
+Perry, G. L., Schoennagel, T. L., & Turner, M. G. (2016). Changing 
+disturbance regimes, ecological memory, and forest resilience. 
+Frontiers in Ecology and the Environment, 14(7), 369–­378. https://
+doi.org/10.1002/fee.1311
+Jolly, W. M., Freeborn, P. H., Page, W. G., & Butler, B. W. (2019). Severe 
+fire danger index: A forecastable metric to inform firefighter and 
+community wildfire risk management. Fire, 2(3), 1–­24. https://doi.
+org/10.3390/fire2​030047
+Jones, G. M., Shirk, A. J., Yang, Z., Davis, R. J., Ganey, J. L., Gutiérrez, R. 
+J., Healey, S. P., Hedwall, S. J., Hoagland, S. J., Maes, R., Malcolm, 
+K., McKelvey, K. S., Sanderlin, J. S., Schwartz, M. K., Seamans, 
+M. E., Wan, H. Y., & Cushman, S. A. (2022). Spatial and temporal 
+dynamics of Mexican spotted owl habitat in the southwestern 
+
+    |  19
+RODMAN et al.
+US. Landscape Ecology, 38, 23–­37. https://doi.org/10.1007/s1098​
+0-­022-­01418​-­8
+Jones, M. O., Allred, B. W., Naugle, D. E., Maestas, J. D., Donnelly, P., 
+Metz, L. J., Karl, J., Smith, R., Bestelmeyer, B., Boyd, C., Kerby, J. D., 
+& McIver, J. D. (2018). Innovation in rangeland monitoring: Annual, 
+30 m, plant functional type percent cover maps for U.S. rangelands, 
+1984–­2017. Ecosphere, 9(9), e02430. https://doi.org/10.1002/
+ecs2.2430
+Jump, A. S., & Peñuelas, J. (2005). Running to stand still: Adaptation and 
+the response of plants to rapid climate change. Ecology Letters, 8(9), 
+1010–­1020.
+Keeley, J. E., & Pausas, J. G. (2022). Evolutionary ecology of fire. Annual 
+Review of Ecology, Evolution, and Systematics, 53(1), 203–­225. 
+https://doi.org/10.1146/annur​ev-­ecols​ys-­10232​0-­095612
+Kemp, K. B., Higuera, P. E., & Morgan, P. (2016). Fire legacies impact 
+conifer regeneration across environmental gradients in the U.S. 
+Northern Rockies. Landscape Ecology, 31(3), 619–­635. https://doi.
+org/10.1007/s1098​0-­015-­0268-­3
+Key, C. H., & Benson, N. C. (2006). Landscape assessment (LA): 
+Sampling and analysis methods. In D. C. Lutes (Ed.), FIREMON: 
+Fire effects monitoring and inventory system. RMRS-­GTR-­164-­CD 
+(pp. LA1–­LA51). Rocky Mountain Research Station, USDA Forest 
+Service.
+Kitzberger, T., Perry, G., Paritsis, J., Gowda, J., Tepley, A., Holz, A., & 
+Veblen, T. (2016). Fire–­vegetation feedbacks and alternative 
+states: Common mechanisms of temperate forest vulnerability to 
+fire in southern South America and New Zealand. New Zealand 
+Journal of Botany, 8643, 1–­26. https://doi.org/10.1080/00288​
+25X.2016.1151903
+Kolden, C. A., Bleeker, T. M., Smith, A. M. S., Poulos, H. M., & Camp, 
+A. E. (2017). Fire effects on historical wildfire refugia in contem-
+porary wildfires. Forests, 8(400), 1–­16. https://doi.org/10.3390/
+f8100400
+Kolden, C. A., Lutz, J. A., Key, C. H., Kane, J. T., & van Wagtendonk, J. W. 
+(2012). Mapped versus actual burned area within wildfire perime-
+ters: Characterizing the unburned. Forest Ecology and Management, 
+286, 38–­47. https://doi.org/10.1016/j.foreco.2012.08.020
+Koontz, M. J., North, M. P., Werner, C. M., Fick, S. E., & Latimer, A. M. 
+(2020). Local forest structure variability increases resilience to 
+wildfire in dry western U.S. coniferous forests. Ecology Letters, 
+23(3), 483–­494. https://doi.org/10.1111/ele.13447
+Korb, J. E., Fornwalt, P. J., & Stevens-­Rumann, C. S. (2019). What drives 
+ponderosa pine regeneration following wildfire in the western 
+United States? Forest Ecology and Management, 454, 117663. 
+https://doi.org/10.1016/j.foreco.2019.117663
+Krawchuk, M. A., Haire, S. L., Coop, J. D., Parisien, M.-­A., Whitman, E., 
+Chong, G. W., & Miller, C. (2016). Topographic and fire weather 
+controls of fire refugia in forested ecosystems of northwestern 
+North America. Ecosphere, 7(12), e01632. https://doi.org/10.1002/
+ecs2.1632
+Krawchuk, M. A., Meigs, G. W., Cartwright, J. M., Coop, J. D., Davis, R., 
+Holz, A., Kolden, C., & Meddens, A. J. H. (2020). Disturbance re-
+fugia within mosaics of forest fire, drought, and insect outbreaks. 
+Frontiers in Ecology and the Environment, 18(5), 235–­244. https://doi.
+org/10.1002/fee.2190
+Kuhn, M., Wing, J., Weston, S., Williams, A., Keefer, C., Engelhardt, A., 
+Cooper, T., Mayer, Z., Team, R. C., Bennesty, M., & Lescarbeau, R. 
+(2019). caret: Classification and regression training (6.0-­84).
+Landesmann, J. B., & Morales, J. M. (2018). The importance of fire re-
+fugia in the recolonization of a fire-­sensitive conifer in northern 
+Patagonia. Plant Ecology, 219(4), 455–­466. https://doi.org/10.1007/
+s1125​8-­018-­0808-­4
+Leonard, S. W. J., Bennett, A. F., & Clarke, M. F. (2014). Determinants of 
+the occurrence of unburnt forest patches: Potential biotic refuges 
+within a large, intense wildfire in south-­eastern Australia. Forest 
+Ecology and Management, 314, 85–­93. https://doi.org/10.1016/j.
+foreco.2013.11.036
+Little, E. L. (1971). Atlas of United States trees, volume 1, conifers and im-
+portant hardwoods. USDA Forest Service.
+Margolis, E. Q., Guiterman, C. H., Chavardès, R. D., Coop, J. D., Copes-­
+Gerbitz, K., Dawe, D. A., Falk, D. A., Johnston, J. D., Larson, E., Li, 
+H., Marschall, J. M., Naficy, C. E., Naito, A. T., Parisien, M. A., Parks, 
+S. A., Portier, J., Poulos, H. M., Robertson, K. M., Speer, J. H., … 
+Weisberg, P. J. (2022). The North American tree-­ring fire-­scar net-
+work. Ecosphere, 13(7), e4159. https://doi.org/10.1002/ecs2.4159
+Martinez, A., Meddens, A., Kolden, C., & Hudak, A. (2019). An assess-
+ment of fire refugia importance criteria ranked by land managers. 
+Fire, 2(2), 1–­11. https://doi.org/10.3390/fire2​020027
+McCaughey, W. W., Schmidt, W. C., & Shearer, R. C. (1986). Seed-­
+dispersal characteristics of conifers in the Inland Mountain West. 
+In R. C. Shearer (Ed.), Conifer tree seed in the Inland Mountain west 
+symposium. General Technical Reports INT-­GTR-­203 (pp. 50–­62). 
+USDA Forest Service, Intermountain Research Station.
+McDowell, N. G., Allen, C. D., Anderson-­Teixeira, K., Aukema, B. H., 
+Bond-­Lamberty, B., Chini, L., Clark, J. S., Dietze, M., Grossiord, 
+C., Hanbury-­brown, A., Hurtt, G. C., Jackson, R. B., Johnson, D. 
+J., Kueppers, L., Lichstein, J. W., Ogle, K., Poulter, B., Pugh, T. A. 
+M., Seidl, R., … Xu, C. (2020). Pervasive shifts in forest dynamics 
+in a changing world. Science, 368(6494), eaaz9463. https://doi.
+org/10.1126/scien​ce.aaz9463
+Meddens, A. J. H., Kolden, C. A., Lutz, J. A., Smith, A. M. S., Cansler, C. 
+A., Abatzoglou, J. T., Meigs, G. W., Downing, W. M., & Krawchuk, 
+M. A. (2018). Fire refugia: What are they, and why do they mat-
+ter for global change? BioScience, 68(12), 944–­954. https://doi.
+org/10.1093/biosc​i/biy103
+Meigs, G. W., Dunn, C. J., Parks, S. A., & Krawchuk, M. A. (2020). 
+Influence of topography and fuels on fire refugia probability under 
+varying fire weather conditions in forests of the Pacific Northwest, 
+USA. Canadian Journal of Forest Research, 50(7), 636–­647. https://
+doi.org/10.1139/cjfr-­2019-­0406
+Meyer, H., Reudenbach, C., Wöllauer, S., & Nauss, T. (2019). Importance 
+of spatial predictor variable selection in machine learning 
+applications—­Moving from data reproduction to spatial prediction. 
+Ecological Modelling, 411, 108815. https://doi.org/10.1016/j.ecolm​
+odel.2019.108815
+Miller, J. D., & Thode, A. E. (2007). Quantifying burn severity in a het-
+erogeneous landscape with a relative version of the delta normal-
+ized burn ratio (dNBR). Remote Sensing of Environment, 109, 66–­80. 
+https://doi.org/10.1016/j.rse.2006.12.006
+Miller, R. G., Tangney, R., Enright, N. J., Fontaine, J. B., Merritt, D. J., Ooi, 
+M. K. J., Ruthrof, K. X., & Miller, B. P. (2019). Mechanisms of fire sea-
+sonality effects on plant populations. Trends in Ecology & Evolution, 
+34(12), 1104–­1117. https://doi.org/10.1016/j.tree.2019.07.009
+Molnar, C., Bischl, B., & Casalicchio, G. (2018). iml: An R package for in-
+terpretable machine learning. Journal of Statistical Software, 3(26), 
+786. https://doi.org/10.21105/​joss.00786
+Morelli, T. L., Barrows, C. W., Ramirez, A. R., Cartwright, J. M., Ackerly, 
+D. D., Eaves, T. D., Ebersole, J. L., Krawchuk, M. A., Letcher, B. 
+H., Mahalovich, M. F., Meigs, G. W., Michalak, J. L., Millar, C. I., 
+Quiñones, R. M., Stralberg, D., & Thorne, J. H. (2020). Climate-­
+change refugia: Biodiversity in the slow lane. Frontiers in Ecology 
+and the Environment, 18(5), 228–­234. https://doi.org/10.1002/
+fee.2189
+NIFC. (2022). Wildland fire open data. https://data-­nifc.opend​ata.arcgis.
+com/
+North, M. P., Stephens, S. L., Collins, B. M., Agee, J. K., Aplet, G., Franklin, J. 
+F., & Fulé, P. Z. (2015). Reform forest fire management: Agency incen-
+tives undermine policy effectiveness. Science, 349(6254), 1280–­1281.
+North, M. P., York, R. A., Collins, B. M., Hurteau, M. D., Jones, G. M., 
+Knapp, E. E., Kobziar, L., Mccann, H., Meyer, M. D., Stephens, S. L., 
+
+20 |   
+RODMAN et al.
+Tompkins, R. E., & Tubbesing, C. L. (2021). Pyrosilviculture needed 
+for landscape resilience of dry western United States forests. 
+Journal of Forestry, 119(5), 520–­544. https://doi.org/10.1093/jofor​
+e/fvab026
+O'Connor, C. D., Falk, D. A., Lynch, A. M., Swetnam, T. W., & Wilcox, C. P. 
+(2017). Disturbance and productivity interactions mediate stability 
+of forest composition and structure. Ecological Applications, 27(3), 
+900–­915. https://doi.org/10.1002/eap.1492
+Owen, S. M., Sieg, C. H., Sánchez Meador, A. J., Fulé, P. Z., Iniguez, J. 
+M., Baggett, L. S., Fornwalt, P. J., & Battaglia, M. A. (2017). Spatial 
+patterns of ponderosa pine regeneration in high-­severity burn 
+patches. Forest Ecology and Management, 405, 134–­149. https://doi.
+org/10.1016/j.foreco.2017.09.005
+Paritsis, J., Veblen, T. T., & Holz, A. (2015). Positive fire feedbacks con-
+tribute to shifts from Nothofagus pumilio forests to fire-­prone 
+shrublands in Patagonia. Journal of Vegetation Science, 26(1), 89–­
+101. https://doi.org/10.1111/jvs.12225
+Parks, S. A. (2014). Mapping day-­of-­burning with coarse-­resolution satel-
+lite fire-­detection data. International Journal of Wildland Fire, 23(2), 
+215–­223. https://doi.org/10.1071/WF13138
+Parks, S. A., & Abatzoglou, J. T. (2020). Warmer and drier fire seasons 
+contribute to increases in area burned at high severity in western 
+US forests from 1985 to 2017. Geophysical Research Letters, 47(22), 
+1–­10. https://doi.org/10.1029/2020G​L089858
+Parks, S. A., Dobrowski, S. Z., Shaw, J. D., & Miller, C. (2019). Living on 
+the edge: Trailing edge forests at risk of fire-­facilitated conversion 
+to non-­forest. Ecosphere, 10(3), e02651. https://doi.org/10.1002/
+ecs2.2651
+Parks, S. A., Holsinger, L. M., Koontz, M. J., Collins, L., Whitman, E., 
+Parisien, M. A., Loehman, R. A., Barnes, J. L., Bourdon, J. F., 
+Boucher, J., Boucher, Y., Caprio, A. C., Collingwood, A., Hall, R. J., 
+Park, J., Saperstein, L. B., Smetanka, C., Smith, R. J., & Soverel, N. 
+(2019). Giving ecological meaning to satellite-­derived fire severity 
+metrics across North American forests. Remote Sensing, 11(14), 1–­
+19. https://doi.org/10.3390/rs111​41735
+Parks, S. A., Holsinger, L. M., Panunto, M. H., Jolly, W. M., Dobrowski, 
+S. Z., & Dillon, G. K. (2018). High-­severity fire: Evaluating its 
+key drivers and mapping its probability across western US for-
+ests. Environmental Research Letters, 13(4), 044037. https://doi.
+org/10.1088/1748-­9326/aab791
+Parks, S. A., Miller, C., Nelson, C. R., & Holden, Z. A. (2014). Previous fires 
+moderate burn severity of subsequent wildland fires in two large 
+western US wilderness areas. Ecosystems, 17(1), 29–­42. https://doi.
+org/10.1007/s1002​1-­013-­9704-­x
+Peet, R. (1981). Forest vegetation of the Colorado Front Range. Vegetatio, 
+45, 3–­75. https://doi.org/10.1007/BF001​26830
+Pradhan, K., Ettinger, A. K., Case, M. J., & Lambers, J. H. R. (2023). 
+Applying climate change refugia to forest management and old-­
+growth restoration. Global Change Biology, 29(13), 3692–­3706. 
+https://doi.org/10.1111/gcb.16714
+PRISM Climate Group, Oregon State University. (2022). Climate normals, 
+1991–­2020. http://prism.orego​nstate.edu/normals
+R Core Team. (2021). R: A language and environment for statistical comput-
+ing (4.0.5). R Foundation for Statistical Computing.
+Reynolds, R. T., Sánchez Meador, A. J., Youtz, J. A., Nicolet, T., Matonis, 
+M. S., Jackson, P. L., Delorenzo, D. G., & Graves, A. D. (2013). 
+Restoring composition and structure in southwestern frequent-­fire for-
+ests: A science-­based framework for improving ecosystem resiliency. 
+General Technical Reports RMRS-­GTR-­310. U.S. Department of 
+Agriculture, Forest Service, Rocky Mountain Research Station.
+Ritter, S., Morici, K., & Stevens-­Rumann, C. S. (2023). Efficacy of pre-
+scribed fire as a fuel reduction treatment in the Colorado Front 
+Range. Canadian Journal of Forest Research, 53, 455–­462. https://
+doi.org/10.1139/cjfr-­2022-­0259
+Robinson, N. M., Leonard, S. W. J., Bennett, A. F., & Clarke, M. F. (2014). 
+Refuges for birds in fire-­prone landscapes: The influence of fire 
+severity and fire history on the distribution of forest birds. Forest 
+Ecology and Management, 318, 110–­121. https://doi.org/10.1016/j.
+foreco.2014.01.008
+Roccaforte, J. P., Fulé, P. Z., Chancellor, W. W., & Laughlin, D. C. (2012). 
+Woody debris and tree regeneration dynamics following severe 
+wildfires in Arizona ponderosa pine forests. Canadian Journal of 
+Forest Research, 42(3), 593–­604. https://doi.org/10.1139/x2012​
+-­010
+Rodman, K. C., Andrus, R. A., Butkiewicz, C. L., Chapman, T. B., Gill, N. 
+S., Harvey, B. J., Kulakowski, D., Tutland, N. J., Veblen, T. T., & Hart, 
+S. J. (2021). Effects of bark beetle outbreaks on forest landscape 
+pattern in the Southern Rocky Mountains, U.S.A. Remote Sensing, 
+13(6), 1089. https://doi.org/10.3390/rs130​61089
+Rodman, K. C., Davis, K. T., Parks, S. A., Chapman, T. B., Coop, J. D., 
+Iniguez, J. M., Roccaforte, J. P., Sánchez Meador, A. J., Springer, 
+J. D., Stevens-­Rumann, C. S., Stoddard, M. T., Waltz, A. E. M., & 
+Wasserman, T. N. (2023). Data from: Refuge-­yeah or refuge-­nah? 
+Predicting locations of forest resistance and recruitment in a fiery 
+world. Dryad Digital Repository, https://doi.org/10.5061/dryad.
+bcc2f​qzh3
+Rodman, K. C., Veblen, T. T., Andrus, R. A., Enright, N. J., Fontaine, J. B., 
+Gonzalez, A. D., Redmond, M. D., & Wion, A. P. (2021). A trait-­based 
+approach to assessing resistance and resilience to wildfire in two 
+iconic North American conifers. Journal of Ecology, 109(1), 313–­326. 
+https://doi.org/10.1111/1365-­2745.13480
+Rodman, K. C., Veblen, T. T., Battaglia, M. A., Chambers, M. E., Fornwalt, 
+P. J., Holden, Z. A., Kolb, T. E., Ouzts, J. R., & Rother, M. T. (2020). A 
+changing climate is snuffing out post-­fire recovery in montane for-
+ests. Global Ecology and Biogeography, 29(11), 2039–­2051. https://
+doi.org/10.1111/GEB.13174
+Rodman, K. C., Veblen, T. T., Chapman, T. B., Rother, M. T., Wion, A. 
+P., & Redmond, M. D. (2020). Limitations to recovery following 
+wildfire in dry forests of southern Colorado and northern New 
+Mexico, USA. Ecological Applications, 30(1), e02001. https://doi.
+org/10.1002/eap.2001
+Rollins, M. G. (2009). LANDFIRE: A nationally consistent vegetation, 
+wildland fire, and fuel assessment. International Journal of Wildland 
+Fire, 18(3), 235–­249. https://doi.org/10.1071/WF08088
+Romme, W. H., & Knight, D. H. (1981). Fire frequency and subalpine for-
+est succession along a topographic gradient in Wyoming. Ecology, 
+62(2), 319–­326. https://doi.org/10.2307/1936706
+Rothermel, R. C. (1972). A mathematical model for predicting fire spread in 
+wildland fuels. Res. Pap. INT-­115. U.S. Department of Agriculture, 
+Intermountain Forest and Range Experiment Station.
+Ryan, K. C., Knapp, E. E., & Varner, J. M. (2013). Prescribed fire in North 
+American forests and woodlands: History, current practice, and 
+challenges. Frontiers in Ecology and the Environment, 11, e15–­e24. 
+https://doi.org/10.1890/120329
+Safanelli, J. L., Poppiel, R. R., Chimelo Ruiz, L. F., Bonfatti, B. R., de 
+Oliveira Mello, F. A., Rizzo, R., & Demattê, J. A. M. (2020). Terrain 
+analysis in Google Earth Engine: A method adapted for high-­
+performance global-­scale analysis. ISPRS International Journal of 
+Geo-­Information, 9(6), 400. https://doi.org/10.3390/ijgi9​060400
+Savage, M., Mast, J. N., & Feddema, J. J. (2013). Double whammy: High-­
+severity fire and drought in ponderosa pine forests of the south-
+west. Canadian Journal of Forest Research, 43, 570–­583.
+Schoennagel, T., Balch, J. K., Brenkert-­Smith, H., Dennison, P. E., Harvey, 
+B. J., Krawchuk, M. A., Mietkiewicz, N., Morgan, P., Moritz, M. A., 
+Rasker, R., Turner, M. G., & Whitlock, C. (2017). Adapt to more 
+wildfire in western North American forests as climate changes. 
+Proceedings of the National Academy of Sciences of the United 
+States of America, 114(18), 4582–­4590. https://doi.org/10.1073/
+pnas.16174​64114
+Schoennagel, T., Veblen, T. T., & Romme, W. H. (2004). The interaction of 
+fire, fuels, and climate across Rocky Mountain forests. BioScience, 
+54, 393–­402.
+
+    |  21
+RODMAN et al.
+Seidl, R., & Turner, M. G. (2022). Post-­disturbance reorganization of 
+forest ecosystems in a changing world. Proceedings of the National 
+Academy of Sciences of the United States of America, 119(28), 
+e2202190119. https://doi.org/10.1073/pnas.22021​90119
+Sibold, J. S., Veblen, T. T., & González, M. E. (2006). Spatial and tem-
+poral variation in historic fire regimes in subalpine forests across 
+the Colorado Front Range in Rocky Mountain National Park, 
+Colorado, USA. Journal of Biogeography, 33(4), 631–­647. https://doi.
+org/10.1111/j.1365-­2699.2005.01404.x
+Singleton, M. P., Thode, A. E., Sanchez Meador, A. J., & Iniguez, J. M. 
+(2019). Increasing trends in high-­severity fire in the southwestern 
+USA from 1984–­2015. Forest Ecology and Management, 433, 709–­
+719. https://doi.org/10.1016/j.foreco.2018.11.039
+Stambaugh, M. C., & Guyette, R. P. (2008). Predicting spatio-­temporal 
+variability in fire return intervals using a topographic roughness 
+index. Forest Ecology and Management, 254(3), 463–­473. https://
+doi.org/10.1016/j.foreco.2007.08.029
+Stephens, S. L., Battaglia, M. A., Churchill, D. J., Collins, B. M., Coppoletta, 
+M., Hoffman, C. M., Lydersen, J. M., North, M. P., Parsons, R. A., 
+Ritter, S. M., & Stevens, J. T. (2021). Forest restoration and fuels 
+reduction: Convergent or divergent? BioScience, 71(1), 85–­101. 
+https://doi.org/10.1093/biosc​i/biaa134
+Stephens, S. L., Moghaddas, J. J., Edminster, C., Fiedler, C. E., Haase, S., 
+Harrington, M., Keeley, J. E., Knapp, E. E., Mciver, J. D., Metlen, K., 
+Carl, N., & Skinner, N. (2009). Fire treatment effects on vegetation 
+structure, fuels, and potential fire severity in western U.S. forests. 
+Ecological Applications, 19(2), 305–­320.
+Stevens, J. T., Collins, B. M., Miller, J. D., North, M. P., & Stephens, S. L. 
+(2017). Changing spatial patterns of stand-­replacing fire in California 
+conifer forests. Forest Ecology and Management, 406(June), 28–­36. 
+https://doi.org/10.1016/j.foreco.2017.08.051
+Stevens, J. T., Haffey, C. M., Coop, J. D., Fornwalt, P. J., Yocom, L., Allen, C. 
+D., Bradley, A., Burney, O. T., Carril, D., Chambers, M. E., Chapman, 
+T. B., Haire, S. L., Hurteau, M. D., Iniguez, J. M., Margolis, E. Q., 
+Marks, C., Marshall, L. A. E., Rodman, K. C., Stevens-­Rumann, C. S., 
+… Walker, J. J. (2021). Tamm review: Postfire landscape manage-
+ment in frequent-­fire conifer forests of the southwestern United 
+States. Forest Ecology and Management, 502, 119678. https://doi.
+org/10.1016/j.foreco.2021.119678
+Stevens, J. T., Kling, M. M., Schwilk, D. W., Varner, J. M., & Kane, J. M. 
+(2020). Biogeography of fire regimes in Western U.S. Conifer 
+Forests: A trait-­based approach. Global Ecology and Biogeography, 
+29(5), 944–­955. https://doi.org/10.1111/geb.13079
+Stevens-­Rumann, C. S., Kemp, K. B., Higuera, P. E., Harvey, B. J., 
+Rother, M. T., Donato, D. C., Morgan, P., & Veblen, T. T. (2018). 
+Evidence for declining forest resilience to wildfires under climate 
+change. Ecology Letters, 21(2), 243–­252. https://doi.org/10.1111/
+ele.12889
+Stevens-­Rumann, C. S., Prichard, S. J., Strand, E. K., & Morgan, P. (2016). 
+Prior wildfires influence burn severity of subsequent large fires. 
+Canadian Journal of Forest Research, 46(11), 1375–­1385. https://doi.
+org/10.1139/cjfr-­2016-­0185
+Taylor, A. H., Harris, L. B., & Drury, S. A. (2021). Drivers of fire se-
+verity shift as landscapes transition to an active fire regime, 
+Klamath Mountains, USA. Ecosphere, 12(9), e03734. https://doi.
+org/10.1002/ecs2.3734
+Tepley, A. J., Thomann, E., Veblen, T. T., Perry, G. L. W., Holz, A., Paritsis, 
+J., Kitzberger, T., & Anderson-­Teixeira, K. J. (2018). Influences of 
+fire-­vegetation feedbacks and post-­fire recovery rates on forest 
+landscape vulnerability to altered fire regimes. Journal of Ecology, 
+106(5), 1925–­1940. https://doi.org/10.1111/1365-­2745.12950
+Theobald, D. M., Harrison-­Atlas, D., & Monahan, W. B. (2015). 
+Ecologically-­relevant maps of landforms and physiographic di-
+versity for climate adaptation planning. PLoS ONE, 10(12), 1–­17. 
+https://doi.org/10.1371/journ​al.pone.0143619
+Thorne, J. H., Choe, H., Stine, P. A., Chambers, J. C., Holguin, A., Kerr, 
+A. C., & Schwartz, M. W. (2018). Climate change vulnerability as-
+sessment of forests in the Southwest USA. Climatic Change, 148(3), 
+387–­402. https://doi.org/10.1007/s1058​4-­017-­2010-­4
+Tinker, D. B., Romme, W. H., Hargrove, W. W., Gardner, R. H., & Turner, 
+M. G. (1994). Landscape-­scale heterogeneity in lodgepole pine se-
+rotiny. Canadian Journal of Forest Research, 24(5), 897–­903. https://
+doi.org/10.1139/x94-­118
+Triepke, F. J., Muldavin, E. H., & Wahlberg, M. M. (2019). Using climate 
+projections to assess ecosystem vulnerability at scales relevant 
+to managers. Ecosphere, 10(9), e02854. https://doi.org/10.1002/
+ecs2.2854
+Turner, M. G., Braziunas, K. H., Hansen, W. D., & Harvey, B. J. (2019). 
+Short-­interval severe fire erodes the resilience of subalpine lodge-
+pole pine forests. Proceedings of the National Academy of Sciences 
+of the United States of America, 166(23), 11319–­11328. https://doi.
+org/10.1073/pnas.19028​41116
+Turner, M. G., Turner, D. M., Romme, W. H., & Tinker, D. B. (2007). Cone 
+production in young post-­fire Pinus contorta stands in Greater 
+Yellowstone (USA). Forest Ecology and Management, 242, 119–­126. 
+https://doi.org/10.1016/j.foreco.2006.12.032
+United States Geological Survey. (2021). USGS 3D elevation program digi-
+tal elevation model. USGS.
+Urza, A. K., & Sibold, J. S. (2017). Climate and seed availability initiate 
+alternate post-­fire trajectories in a lower subalpine forest. Journal of 
+Vegetation Science, 28(1), 43–­56. https://doi.org/10.1111/jvs.12465
+Vanderhoof, M. K., Hawbaker, T. J., Ku, A., Merriam, K., Berryman, E., 
+& Cattau, M. (2020). Tracking rates of post-­fire conifer regen-
+eration distinct from deciduous vegetation recovery across the 
+western USA. Ecological Applications, 31(2), e02237. https://doi.
+org/10.1002/eap.2237
+Veblen, T. T. (1986). Age and size structure of subalpine forests in the 
+Colorado Front Range. Bulletin of the Torrey Botanical Club, 113(3), 
+225–­240.
+Viedma, O., Quesada, J., Torres, I., De Santis, A., & Moreno, J. M. (2015). 
+Fire severity in a large fire in a Pinus pinaster forest is highly pre-
+dictable from burning conditions, stand structure, and topogra-
+phy. Ecosystems, 18(2), 237–­250. https://doi.org/10.1007/s1002​
+1-­014-­9824-­y
+Walker, R. B., Coop, J. D., Parks, S. A., & Trader, L. (2018). Fire regimes 
+approaching historic norms reduce wildfire-­facilitated conversion 
+from forest to non-­forest. Ecosphere, 9(4). https://doi.org/10.1002/
+ecs2.2182
+Weiss, A. D. (2001). Topographic position and landforms analysis. ESRI 
+User Conference.
+Wilkin, K. M., Ackerly, D. D., & Stephens, S. L. (2016). Climate change 
+refugia, fire ecology and management. Forests, 7(4). https://doi.
+org/10.3390/f7040077
+Williams, A. P., Cook, B. I., & Smerdon, J. E. (2022). Rapid intensifica-
+tion of the emerging southwestern North American megadrought 
+in 2020–­2021. Nature Climate Change, 12, 232–­234. https://doi.
+org/10.1038/s4155​8-­022-­01290​-­z
+Wilson, B. T., Lister, A. J., Riemann, R. I., & Griffith, D. M. (2013). Live 
+tree species basal area of the contiguous United States (2000–­2009). 
+https://doi.org/10.2737/RDS-­2013-­0013
+Wood, S. W., Murphy, B. P., & Bowman, D. M. J. S. (2011). Firescape ecol-
+ogy: How topography determines the contrasting distribution of 
+fire and rain forest in the south-­west of the Tasmanian Wilderness 
+World Heritage Area. Journal of Biogeography, 38(9), 1807–­1820. 
+https://doi.org/10.1111/j.1365-­2699.2011.02524.x
+Wooten, J. T., Stevens-­Rumann, C. S., Schapira, Z. H., & Rocca, M. E. 
+(2022). Microenvironment characteristics and early regenera-
+tion after the 2018 Spring Creek Wildfire and post-­fire logging in 
+Colorado, USA. Fire Ecology, 18(1), 1–­16. https://doi.org/10.1186/
+s4240​8-­022-­00133​-­8
+
+22 |   
+RODMAN et al.
+Wright, M. N., & Ziegler, A. (2017). ranger: A fast implementation of 
+random forests for high-­dimensional data. Journal of Statistical 
+Software, 77(1), 1–­17.
+Yocom, L. L., Jenness, J., Fulé, P. Z., & Thode, A. E. (2019). Previous 
+fires and roads limit wildfire growth in Arizona and New Mexico, 
+U.S.A. Forest Ecology and Management, 449, 117440. https://doi.
+org/10.1016/j.foreco.2019.06.037
+Yocom, L. L., Jenness, J., Fulé, P. Z., & Thode, A. E. (2022). Fire sever-
+ity in reburns depends on vegetation type in Arizona and New 
+Mexico, U.S.A. Forests, 13(11), 1957. https://doi.org/10.3390/
+f1311​1957
+Young, J. D., Evans, A. M., Iniguez, J. M., Thode, A., Meyer, M. D., 
+Hedwall, S. J., McCaffrey, S., Shin, P., & Huang, C.-­H. (2020). 
+Effects of policy change on wildland fire management strategies: 
+Evidence for a paradigm shift in the western US? International 
+Journal of Wildland Fire, 29(10), 857–­877. https://doi.org/10.1071/
+WF19189
+SUPPORTING INFORMATION
+Additional supporting information can be found online in the 
+Supporting Information section at the end of this article.
+How to cite this article: Rodman, K. C., Davis, K. T., Parks, S. 
+A., Chapman, T. B., Coop, J. D., Iniguez, J. M., Roccaforte, J. P., 
+Sánchez Meador, A. J., Springer, J. D., Stevens-­Rumann, C. S., 
+Stoddard, M. T., Waltz, A. E. M., & Wasserman, T. N. (2023). 
+Refuge-­yeah or refuge-­nah? Predicting locations of forest 
+resistance and recruitment in a fiery world. Global Change 
+Biology, 00, 1–22. https://doi.org/10.1111/gcb.16939

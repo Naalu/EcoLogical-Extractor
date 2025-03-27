@@ -1,0 +1,1658 @@
+Ecological Applications, 22(1), 2012, pp. 204–217
+ 2012 by the Ecological Society of America
+Community occupancy responses of small mammals to restoration
+treatments in ponderosa pine forests, northern Arizona, USA
+E. L. KALIES,1,2,4 B. G. DICKSON,3 C. L. CHAMBERS,2 AND W. W. COVINGTON1,2
+1Ecological Restoration Institute, Northern Arizona University, P.O. Box 15017, Flagstaff, Arizona 86011 USA
+2School of Forestry, Northern Arizona University, P.O. Box 15018, Flagstaff, Arizona 86011 USA
+3School of Earth Sciences and Environmental Sustainability, P.O. Box 5694, Northern Arizona University,
+Flagstaff, Arizona 86011 USA
+Abstract.
+In western North American conifer forests, wildﬁres are increasing in frequency
+and severity due to heavy fuel loads that have accumulated after a century of ﬁre suppression.
+Forest restoration treatments (e.g., thinning and/or burning) are being designed and
+implemented at large spatial and temporal scales in an effort to reduce ﬁre risk and restore
+forest structure and function. In ponderosa pine (Pinus ponderosa) forests, predominantly
+open forest structure and a frequent, low-severity ﬁre regime constituted the evolutionary
+environment for wildlife that persisted for thousands of years. Small mammals are important
+in forest ecosystems as prey and in affecting primary production and decomposition. During
+2006–2009, we trapped eight species of small mammals at 294 sites in northern Arizona and
+used occupancy modeling to determine community responses to thinning and habitat features.
+The most important covariates in predicting small mammal occupancy were understory
+vegetation cover, large snags, and treatment. Our analysis identiﬁed two generalist species
+found at relatively high occupancy rates across all sites, four open-forest species that
+responded positively to treatment, and two dense-forest species that responded negatively to
+treatment unless speciﬁc habitat features were retained. Our results indicate that all eight small
+mammal species can beneﬁt from restoration treatments, particularly if aspects of their
+evolutionary environment (e.g., large trees, snags, woody debris) are restored. The occupancy
+modeling approach we used resulted in precise species-level estimates of occupancy in response
+to habitat attributes for a greater number of small mammal species than in other comparable
+studies. We recommend our approach for other studies faced with high variability and broad
+spatial and temporal scales in assessing impacts of treatments or habitat alteration on wildlife
+species. Moreover, since forest planning efforts are increasingly focusing on progressively
+larger treatment implementation, better and more efﬁciently obtained ecological information
+is needed to inform these efforts.
+Key words:
+ecological restoration; evolutionary environment; Microtus mogollonensis; Neotoma
+mexicana; occupancy modeling; Peromyscus maniculatus; Pinus ponderosa; Sciurus aberti; Spermophilus
+lateralis; Spermophilus variegates; Tamias cinereicollis; Thomomys bottae.
+INTRODUCTION
+Ecological restoration is the process of recovering an
+ecosystem that has degraded, often due to human
+pressures and disturbance (Society for Ecological
+Restoration International Science and Policy Working
+Group 2004). Restoration projects are among the most
+extensive conservation efforts worldwide, and are being
+implemented at increasingly larger scales (Holl et al.
+2003) because (1) of the sheer size of degraded areas,
+such as tropical forests (Lamb et al. 2005); (2) of the
+complexity and scale of the degrading factors, such as
+with coral reef loss (Gardner et al. 2003); and (3) many
+ecological processes occur at the landscape scale, such as
+migration, dispersal, and hydrologic and nutrient cycles
+(Noss 1990, Saunders et al. 1991). Dry conifer forests
+across western North America have been degrading
+since at least 1890, when Euro-American settlement
+introduced multiple ongoing pressures, such as ﬁre
+suppression, grazing, and logging (Covington and
+Moore 1994b). These pressures have contributed to
+forest stands with high densities of small-diameter trees
+and heavy fuel loads (Taylor and Skinner 1998, Fry and
+Stephens 2006), in which wildﬁres are increasing in
+frequency and severity (Westerling et al. 2006).
+To reduce the threat of stand-replacing wildﬁre,
+ecological restoration treatments are being implemented
+in forests that were once ﬁre adapted. The principal
+objective of these activities is to restore forests to
+presettlement or ‘‘reference’’ conditions using mechan-
+ical thinning and burning treatments (hereafter, treat-
+ments), after which the natural ﬁre regime can be
+reintroduced (Moore et al. 1999, Noss et al. 2006b). The
+frequent, low-severity ﬁres that used to occur would
+Manuscript received 27 April 2011; accepted 5 August 2011;
+ﬁnal version received 31 August 2011. Corresponding Editor:
+B. P. Wilcox.
+4 E-mail address: liz.kalies@nau.edu
+204
+
+maintain an open forest structure by removing under-
+story trees, thereby preventing heavy fuel accumulation
+(Fule´ et al. 1997, Everett et al. 2000). These treatments
+are also an effort to restore overall ecosystem function,
+by increasing rates of decomposition and nutrient
+cycling, water availability, carbon storage, plant biodi-
+versity, and populations of native wildlife species (Allen
+et al. 2002, Finkral and Evans 2008, Boerner et al. 2009,
+Schwilk et al. 2009). As wildﬁre risk and associated
+economic costs escalate (Snider et al. 2006), restoration
+treatments are being implemented at increasingly larger
+scales in the western United States. For example, as part
+of the 2010 Collaborative Forest Landscape Restoration
+Project (Omnibus Public Land Management Act 2009),
+nine national forests across the West are planning
+treatments at scales of tens of thousands of hectares. As
+the size and pace of treatments increase, scientists and
+stakeholders need information on the effectiveness of
+treatments in restoring multiple ecosystem components,
+including wildlife, at large temporal and spatial scales
+(Sisk et al. 2006).
+Measuring the success of restoration usually involves
+comparing restored sites to reference conditions. In the
+absence of data on reference conditions for wildlife
+populations as a baseline, approximating the evolution-
+ary environment is likely the best approach for restoring
+wildlife populations (MacMahon and Jordan 1994,
+Moore et al. 1999). The evolutionary environment is
+deﬁned as the range of abiotic and biotic conditions that
+have exerted selection pressure on and are critical to the
+survival of wildlife populations (Noss and Csuti 1994).
+Particularly at large scales, restoring the evolutionary
+environment may be more feasible than trying to meet
+speciﬁc habitat requirements for single or small groups
+of species (Moore et al. 1999, Lindenmayer et al. 2002).
+In ﬁre-adapted conifer forests across western North
+America, wildlife likely was adapted to ﬁre regimes that
+altered habitat at multiple spatial and temporal scales
+(Kennedy and Fontaine 2009). The subsequent degra-
+dation of these forests has reduced horizontal and
+structural diversity of habitat, which has had negative
+consequences for wildlife species dependent on the
+evolutionary environment (Carey 2003). At the same
+time, some species have expanded their ranges since
+presettlement times and are now dependent on dense
+forests (Battin and Sisk 2003, Chambers and Germaine
+2003). For example, Brown and Davis (1998) deter-
+mined that 34 grassland animal species have experienced
+extirpation or reduction of their ranges, and 55 forest
+species have expanded their ranges since 1890 in the
+American Southwest.
+Small mammal community composition varies across
+ﬁre adapted conifer forests, but typically includes tree
+squirrels (Sciurus sp.), ground squirrels (Spermophilus
+sp.), voles (Microtus and Clethrionomys sp.), gophers
+(Thomomys sp.), chipmunks (Tamias sp.), mice (Pe-
+romyscus sp.), woodrats (Neotoma sp.), and shrews
+(Sorex sp.; Kays and Wilson 2002, Converse et al. 2006c,
+Zwolak 2009). In forest ecosystems, small mammals are
+important for recycling nutrients by processing vegeta-
+tion, dispersing fungal spores and seeds, and aerating
+and turning soils while digging (Cork and Kenagy 1989,
+Boal and Mannan 1994). They also provide a substan-
+tial part of the prey base for multiple mammalian and
+avian predators, including federally threatened northern
+and Mexican spotted owls (Strix occidentalis caurina
+and S. o. lucida; Rosenberg et al. 2003, Block et al.
+2005). The small body sizes and high reproductive rates
+of small mammals result in populations that generally
+respond quickly to disturbance and habitat alteration
+(MacArthur and Wilson 1967, Brown and Ernest 2002).
+Thus, small mammals can be indicators of changes to
+forest structure that result from restoration treatments.
+For species within a given functional group, we would
+expect to see both positive and negative responses to
+treatment (e.g., Dickson et al. 2009, Kalies et al. 2010),
+since each species necessarily occupies a unique habitat
+niche (MacArthur and Levins 1967, Converse et al.
+2006a). However, the only large-scale small mammal
+study examining responses to restoration treatments in
+conifer stands found mostly neutral responses to
+thinning at the genus and species level (Converse et al.
+2006c).
+In the Southwest, reference conditions are particularly
+well understood (Cooper 1960, White 1985, Fule´ et al.
+1997). In ponderosa pine (Pinus ponderosa) forests,
+which cover .12 million hectares of western North
+America, the evolutionary environment persisted from
+about 10 000 years ago, when ponderosa pine trees
+retreated to the high plateaus and mountains following
+the last glacial period, up until approximately 1890,
+which brought Euro-American settlement and associat-
+ed land management impacts (Covington 2003). This
+environment included a frequent, low-severity ﬁre
+regime and open forest structure; additionally, a
+diversity of habitat components including clumps of
+Gambel oak (Quercus gambelii), snags, and down wood,
+were probably created and maintained by ﬁre in a
+patchy distribution (Spies and Turner 1999). We
+investigated the response of the small mammal commu-
+nity to large-scale forest restoration treatments in
+ponderosa pine forests in Arizona, and speciﬁcally to
+components of the evolutionary environment. We
+hypothesized that the occupancy rates for golden-
+mantled ground squirrels (Spermophilus lateralis), Mo-
+gollon voles (Microtus mogollonensis), and pocket
+gophers (Thomomys bottae) would respond positively
+to treatment and/or open forest structure; tassel-eared
+squirrels (Sciurus aberti) would respond negatively as
+dense-forest obligates; and Mexican woodrats (Neotoma
+mexicana), gray-collared chipmunks (Tamias cinereicol-
+lis), deer mice (Peromyscus maniculatus), and rock
+squirrels (Spermophilus variegates) would be tied to
+other habitat components including down wood, slash,
+snags, shrubs, oak, and rocks (Table 1). We also
+hypothesized that no single treatment type would beneﬁt
+January 2012
+205
+SMALL MAMMAL OCCUPANCY AND RESTORATION
+
+all species, but the community perspective would reveal
+tradeoffs (positive and negative responses) among
+species in response to habitat alteration.
+Large-scale design and implementation of forest
+restoration treatments necessitates a habitat-focused,
+multi-species approach to wildlife management and
+monitoring, due to the time and cost required by
+single-species approaches (Lambeck 1997, Lindenmayer
+et al. 2002). We used occupancy modeling, an analytical
+technique that allows for a rapid assessment of multiple
+sites, yielding probabilities of occupancy rather than
+information on population dynamics, such as survival,
+reproduction, and population size (MacKenzie et al.
+2006). This technique has lesser demands for ﬁeld data,
+and may be more appropriate for assessing multiple
+wildlife responses to habitat alteration at large spatial
+and temporal scales compared to traditional mark–
+recapture methods. Our speciﬁc objectives were to (1)
+TABLE 1.
+Known responses of small mammal species to forest structure, treatment, and other
+habitat features in southwestern ponderosa pine. The table also reports the source(s) and our
+hypothesized response to restoration treatments.
+Species and habitat relationships
+Source(s)
+Hypothesized occupancy
+response to
+restoration treatments
+Golden-mantled ground squirrel
+Positive
+" open forest structure, 0 ku7tree density,
+0 vegetation cover
+1, 2, 3
+0 (4) or " thinning or thin/burn
+4
+0 down wood, 0 shrub cover
+3
+Mogollon vole (Microtus sp.)
+Positive
+"open forest structure, herbaceous understory
+5, 6
+" (2) thinning
+7, 8
+Botta’s pocket gopher (Thomomys sp.)
+Positive
+"open forest structure, herbaceous understory
+9, 10
+" thinning
+11
+Tassel-eared squirrel
+Negative
+" (5) pine basal area
+12, 13, 14, 15, 16
+" (3) interlocking canopy trees
+14, 15, 17
+" quadratic mean diameter, canopy cover
+14, 16
+" or 0 tree density
+12, 13
+# (2) selective harvest, # (2) shelterwood,
+# clearcut
+13, 14, 15, 18, 19
+" (3) large trees, # saplings, 0 oak
+12, 13, 15, 17, 20
+Mexican woodrat (Neotoma sp.)
+Neutral
+0 tree density
+3
+0 (2) thinning
+3, 8
+" or # down wood, " slash, " or 0 shrubs
+3, 11, 21
+0 oak, " rocks, slope
+11, 21
+Gray-collared chipmunk (Tamias sp.)
+Neutral
+# tree density, 0 vegetation cover
+3
+0 (6) or " (3) or # (2) thinning or thin/burn
+4, 7, 8, 22
+0 shrubs, " down wood
+3
+Deer mouse
+Neutral
+# tree density, 0 vegetation cover
+3
+0 (8) or " (4) or # (2) thinning or thin/burn
+4, 7, 8, 23, 24, 25
+" large trees, " (3) or 0 down wood, " snags
+3, 11, 21, 26
+0 oak, 0 rock, 0 or # shrubs
+3, 21
+Rock squirrel
+Neutral
+" oak trees
+27
+" rocks, slope, bare ground
+27
+Notes: An up arrow indicates a positive response, a down arrow negative, 0 neutral; all responses
+are in terms of density or abundance. A parenthetical number following a response indicates the
+number of studies that support that response, and no parentheses indicates one study.
+Sources: 1, McKeever 1964; 2, Bartels and Thompson 1993; 3, Converse et al. 2006a; 4, Converse
+et al. 2006c; 5, Chambers and Doucett 2008; 6, Yarborough and Chambers 2007; 7, Wampler et al.
+2008; 8, Bagne and Finch 2009; 9, Huntly and Inouye 1988; 10, Hoffmeister 1986; 11, Goodwin and
+Hungerford 1979; 12, Ratcliff et al. 1975; 13, Patton et al. 1985; 14, Dodd et al. 2003; 15, Dodd et
+al. 2006; 16, Prather et al. 2006; 17, Patton 1977; 18, A. H. Trowbridge and L. L. Lawson,
+unpublished manuscript; 19, Pederson et al. 1987; 20, Patton and Green 1970; 21, Block et al. 2005;
+22, Lowe et al. 1978; 23, Reading 2001; 24, Roberts 2003; 25, Amacher et al. 2008; 26, Chambers
+2002; 27, Ortega 1987.
+E. L. KALIES ET AL.
+206
+Ecological Applications
+Vol. 22, No. 1
+
+quantify the importance of treatment and habitat
+attributes on occupancy for each individual species
+and collectively, (2) make inferences from the relation-
+ships between key attributes and species occupancy to
+better inform management decisions, and (3) assess the
+efﬁcacy of occupancy modeling by determining if
+treatments and habitat attributes affect species occu-
+pancy more than background interannual variation.
+METHODS
+Study area
+One study area was located on the Coconino National
+Forest, 8 km southwest of Flagstaff, Arizona, in the
+ponderosa pine-dominated forests of the wildland-urban
+interface (Fig. 1). Historically, this 18 500-ha area
+experienced a variety of forest management practices,
+including selective harvest (100þ years ago), commercial
+thinning (11–23 years ago, average 17.3), fuels reduction
+and restoration treatments (1–7 years ago, average 2.9),
+and no treatment. We established an additional 4800-ha
+study area on the Kaibab National Forest north of
+Grand Canyon National Park, Arizona, to capture
+additional untreated forested areas. Within a geographic
+information system (GIS; ArcGIS v9.3, ESRI, Red-
+lands, California, USA), we overlaid a 500-m resolution
+lattice on both study areas to locate prospective
+sampling points. We eliminated points that fell within
+private lands and non-forested patches .1 ha, or were
+located .500 m from a road. From the remaining
+points, we randomly selected 110 sampling points (100
+on the Coconino, 10 on the Kaibab), with approximate-
+ly half in recent (,10 years) treatments and half with
+older (.11 years) or no treatments, and then located and
+permanently marked them in the ﬁeld using a global
+positioning system. All treatments consisted of mechan-
+ical harvest (not ﬁre) and resulted in a range of forest
+structure conditions determined by the initial prescrip-
+tions and methods of implementation, which varied
+greatly across the study areas; thus, we focused on time
+since treatment, density of trees removed, and resulting
+basal area as the primary metrics to describe treatments.
+Data collection
+Small mammal sampling.—We used each of the 110
+sampling points as the center of a trapping ‘‘site.’’ At
+each site we centered a 5 3 5 square trap grid which
+consisted of 25 Sherman traps (model LNATDG; H. B.
+Sherman Traps, Tallahassee, Florida, USA) with 20-m
+spacing, with a 3 3 3 grid overlaid with nine Tomahawk
+traps (model 202; Tomahawk Live Trap, Hazelhurst,
+Wisconsin, USA), one at every other grid intersection.
+Including a 20-m buffer around the trap grid, total site
+sampling area was 14 400 m2 (1.4 ha). We trapped small
+mammals at each site during the summers of 2006–2009,
+over a 10-week period between late June and late
+August. We left both Sherman and Tomahawk traps
+open overnight, but closed the Sherman traps during the
+day to prevent animals from overheating. We checked
+traps twice daily over a three-day period, which resulted
+in three nighttime and three daytime trapping sessions.
+We sampled for Botta’s pocket gopher presence using an
+open-hole test, disturbing all gopher mounds located at
+the site with a shovel; we considered the species to be
+present if a mound was repaired within 24 hours
+(Smallwood and Erickson 1995). We attempted to assess
+all terrestrial small mammal species (,3000 g) but were
+unable to detect lagomorphs or shrews. We determined
+the number of surveys and relevant habitat and
+detection covariates at each site using data from our
+ﬁrst year (2006).
+Vegetation sampling.—We established an 11.3 m
+radius circular overstory plot (400 m2) at the site center
+and measured slope (degrees), total number of stumps,
+and species and diameter at breast height (dbh) for trees
+1.4 m tall. At the site center, we also established a
+subplot of 3.6 m radius (40 m2), within which we
+assessed species, percent cover, and height class for
+herbaceous plants, shrubs, and trees ,1.4 m. At each
+subplot and in four additional 40-m2 plots (located on
+the trapping grid at each cardinal direction), we
+measured the relative percent cover of bare ground,
+stumps and coarse woody debris, litter, and rocks. At
+the site center, we established a 20-m transect in a
+random direction and along it recorded the width of
+each piece of wood .7.5 cm (Brown et al. 1982). Within
+the entire site, we counted the number of slash piles, and
+used our observations and state and federal historical
+records to determine the age of each treatment and the
+number of years the slash piles were intact before being
+burned, which always occurred within four years of
+thinning treatment. All vegetation sampling was con-
+ducted in June of each year, immediately prior to small
+mammal sampling activities.
+Data analysis
+Habitat and detection covariates.—At each site, we
+quantiﬁed overstory and understory characteristics that
+we hypothesized could affect occupancy (hereafter, our
+‘‘habitat covariates’’), based on the existing literature
+and our own ﬁeld observations. For each site, we
+calculated slope, pine and oak basal area (m2/ha), large
+tree density (.40, .50, and .60 cm dbh classes;
+number/ha), snag density (all snags and .40, .50,
+.60 cm dbh classes; number/ha), and the proportion of
+trees removed by any method of harvesting (Table 1).
+We also calculated understory plant species richness,
+percent of vegetation .40 cm in height (i.e., shrub
+cover), average percent cover of each substrate, and
+volume of down wood. We determined the number of
+slash piles/site, the number of years piles were left intact,
+and the time (years) since treatment. We also calculated
+treatment size using maps of the treatment areas
+provided by the implementing federal and state agencies,
+or by delineating the treatment area using aerial photos
+and ArcGIS. For each species, we pooled detection
+histories from all four years of sampling and used ‘‘year’’
+January 2012
+207
+SMALL MAMMAL OCCUPANCY AND RESTORATION
+
+FIG. 1.
+(A) Location of the two study areas in northern Arizona, USA, with sampling points (sites) indicated by crosses. One
+study area (B) was on the Kaibab National Forest (n ¼ 10 sites) and one (C) on the Coconino National Forest (n ¼ 98 sites). Sites
+were sampled multiple times for a total sample size of n ¼ 294 samples over the four-year study.
+E. L. KALIES ET AL.
+208
+Ecological Applications
+Vol. 22, No. 1
+
+as a covariate (sensu Rodhouse et al. 2010). We used a
+binary covariate that discriminated the two study areas
+(North Kaibab and Coconino).
+Covariates that we hypothesized could cause hetero-
+geneity in detection probability (hereafter, our ‘‘detec-
+tion covariates’’) included temperature, precipitation,
+year, week, and survey (deﬁned as which of the three
+days the site was sampled). Temperature and precipita-
+tion can affect activity levels and trapability of animals
+(Getz 1961). Year and week can capture this variability
+plus other attributes that are difﬁcult to measure, such
+as changing resource availability and moon phase.
+Survey is important because some species will avoid
+traps after ﬁrst capture, while others will continue to
+visit the traps for food and shelter (Getz 1961). We
+attempted to control for weather-related covariates by
+timing the trapping session to occur after the beginning
+of the monsoons; however, we still considered as
+detection covariates the maximum daily temperature,
+minimum daily temperature, average daily humidity,
+and average daily precipitation that was recorded prior
+to the day or night sampling session. We obtained these
+data from stations 30–50 km away from each study area.
+We standardized all continuous habitat and detection
+covariates, and diagnosed univariate correlations and
+multicolinearity using a correlation matrix and variance
+inﬂation factors (VIF), respectively. When we observed
+univariate correlations .0.60, or VIF .10.0 (Neter et al.
+1996), we combined these covariates using a principal
+components analysis (PCA; implemented in JMP V8.0,
+SAS Institute Inc., Cary, North Carolina, USA).
+Preliminary analyses of covariates.—Using PCA, we
+combined four covariates into two (Table 1). We created
+a new covariate ‘‘treatment’’ (eigenvalue ¼ 1.6, explain-
+ing 80.0% of the total variance) which represents a range
+from old treatments that were selectively harvested or
+thinned at low intensity (in preparation for commercial
+harvest) with relatively few trees removed per hectare
+(negative values), to recent fuels reduction or restoration
+treatments with more trees removed per
+hectare
+(positive values). The new covariate ‘‘slash’’ (eigenvalue
+¼ 1.5, explaining 74.6% of the total variance) represents
+a range from no or few slash piles left onsite for a very
+short period of time (negative values), to many slash
+piles left on the ground for up to three years (positive
+values).
+We also assessed correlations between detection
+covariates and found that week, survey, and year were
+correlated with maximum and minimum temperature,
+humidity, and precipitation. Since week, survey, and
+year encompass climatic conditions and other environ-
+mental conditions that are difﬁcult to measure, we
+omitted the climatic covariates from further analysis.
+Occupancy modeling and multi-model inference.—
+Simple, or ‘‘naı¨ve,’’ estimates of occupancy can be
+calculated for a given site by dividing the total number
+of detections at that site by the total number of surveys;
+however, most species are detected imperfectly, so this
+method can result in more biased estimates than those
+that account for detection probability and habitat
+covariates (MacKenzie et al. 2006). For each small
+mammal species detected on our sites, we used the single
+season occupancy modeling framework of MacKenzie
+et al. (2006) to estimate both detection probability,
+deﬁned as the probability of detecting the species at a
+site if it is present, and occupancy, deﬁned as the
+expected probability that a given site is occupied. We
+used year as a covariate, and assumed that all sites have
+the same probability of being occupied regardless of
+their occupancy state in the previous year.
+In order to focus on the covariates that most
+inﬂuenced occupancy for multiple species, and to avoid
+overparameterizing our models (e.g., see Moore and
+Swihart 2005), we reduced our list of habitat covariates
+by building univariate models of each covariate and
+comparing each model against the null (i.e., intercept-
+only) model of occupancy for each species using
+Akaike’s information criterion adjusted for small sample
+sizes (AICc; Burnham and Anderson 2002). We ranked
+model importance from highest to lowest according to
+differences (D) in their AICc values, and retained the
+covariate from any model that had a lower DAICc value
+than the null model for at least three species. We
+conducted these analyses using Program PRESENCE
+(version 2.4; Hines 2009).
+Using the 10 retained covariates plus the study area
+covariate (for all species detected at both study areas),
+we constructed models for all subsets of covariates (n ¼
+1025 subsets) for each species using Program MARK
+(White and Burnham 2010). We computed AICc values,
+DAICc values, and AIC weights (wij, weight of covariate
+i for species j; Burnham and Anderson 2002). We ranked
+relative covariate importance by summing the AIC
+weights across all models in which a given covariate
+occurred, and used cumulative weights to rank relative
+covariate importance for each species. Since the larger
+the wij the more important covariate i is, relative to the
+other variables (Burnham and Anderson 2002), we
+considered wij  0.50 indicative of a strong species
+occupancy response to the covariate (Barbieri and
+Berger 2004), 0.50  wij  0.30 a moderate response,
+and wij  0.30 a weak response. For each covariate, we
+averaged wij across small mammal species to estimate its
+community-level importance (Dickson et al. 2009). We
+also calculated model-averaged parameter estimates for
+each covariate to assess the direction of the response by
+each species and the community as a whole.
+Spatial autocorrelation.—We investigated local-scale
+spatial autocorrelation in our site-level presence–ab-
+sence data using logistic regression models for all
+species, for each year and region. These models included
+the 10 habitat covariates considered in our occupancy
+analyses. We used the GLIMMIX and VARIOGRAM
+procedures in SAS to estimate the residuals in each
+model, and used a Moran’s I statistic (Z) to determine if
+statistically signiﬁcant (P , 0.05) spatial structuring was
+January 2012
+209
+SMALL MAMMAL OCCUPANCY AND RESTORATION
+
+present in our data. Only three of 30 models resulted in a
+statistically signiﬁcant Z value. Thus, we decided that
+explicitly accounting for spatial autocorrelation in our
+occupancy models would overly complicate our ability
+to interpret the estimates and relative importance of our
+covariates, when little or no residual spatial structure
+was present in our data.
+RESULTS
+Small mammal sampling
+Due to various logistical issues that occurred each
+year (e.g., impassable roads, areas closed due to ﬁre risk,
+excessive heat), sampling effort varied among years. We
+sampled 19 sites in 2006 (pilot year), 96 in 2007, 96 in
+2008, and 83 in 2009 (n ¼ 294). In each year, we detected
+the Mogollon vole, Mexican woodrat, deer mouse,
+tassel-eared squirrel, golden-mantled ground squirrel,
+rock squirrel, gray-collared chipmunk, and Botta’s
+pocket gopher.
+Detection probabilities
+Detection probabilities for the eight species of small
+mammals ranged from 0.3 to 0.9 over four years (Fig. 2),
+which are considered adequate for occupancy analysis
+(MacKenzie and Royle 2005). The most parsimonious
+models of detection probability included the following
+covariates: survey for the golden-mantled ground
+squirrel, year for the deer mouse and tassel-eared
+squirrel, week for the Mogollon vole and Botta’s pocket
+gopher, and none (null models) for the Mexican
+woodrat, rock squirrel, and gray-collared chipmunk.
+Preliminary habitat covariate analyses
+Our analysis identiﬁed nine covariates that did not
+perform better than the null model for at least three
+species, including treatment size, understory vegetation
+.40 cm high (percent shrub cover), understory vegeta-
+tion species richness, slope, downed wood volume, two
+size classes of large trees, and two size classes of snags
+(Table 2). Thus, we retained 10 habitat covariates: pine
+basal area (m2/ha), oak basal area (m2/ha), understory
+vegetation (percent cover), rock (percent cover), large
+tree density (number of trees .50 cm dbh/ha), snag
+density (number of snags/ha), large snag density
+(number of snags .40 cm dbh/ha), slash, treatment,
+and year (Table 2). Pine basal area and understory
+vegetation were not highly correlated (0.32) as other
+factors can affect understory vegetation cover, including
+livestock grazing which we did not otherwise quantify.
+Occupancy probabilities
+Forest structure was described in terms of pine basal
+area, understory vegetation cover, oak basal area, and
+large trees. Sites with higher pine basal area and lower
+understory vegetation cover were associated with a
+positive occupancy response from only tassel-eared
+squirrels and Mexican woodrats; rock squirrels respond-
+ed negatively to both pine basal area and understory
+vegetation, but positively to oak basal area (Table 3).
+Golden-mantled ground squirrels, Mogollon voles,
+Botta’s pocket gophers, gray-collared chipmunks, and
+deer mice responded negatively in terms of occupancy to
+pine basal area and positively to vegetation cover (i.e.,
+open forest structure; Table 3). All responses were
+moderate or strong. Three species responded strongly to
+oak basal area (rock squirrels, positively; Mogollon
+voles and golden-mantled ground squirrels, negatively),
+and two moderately (tassel-eared squirrel, positively;
+deer mouse, negatively; Table 3). Large tree (.50 cm
+dbh) density elicited the most consistent response across
+species of all the covariates; all but Mogollon voles
+responded positively, with all species exhibiting moder-
+ate to strong responses (Table 3).
+Five species (golden-mantled ground squirrel, Mo-
+gollon vole, gray-collared chipmunk, deer mouse, rock
+squirrel) responded positively in terms of occupancy to
+treatment, and three responded negatively (Botta’s
+pocket gopher, tassel-eared squirrel, Mexican woodrat);
+all responses were moderate or strong (Table 3). Only
+Botta’s pocket gopher has a consistent response to both
+pine basal area and treatment; i.e., it responded
+positively to open forest structural conditions, but
+negatively to the treatment that reduces tree basal area
+and density.
+Other habitat covariates assessed included slash,
+snags, and rock cover. All species but two (gray-collared
+chipmunk and rock squirrel) responded positively in
+terms of occupancy to slash quantity and duration,
+although only tassel-eared squirrels and Mexican wood-
+rats demonstrated a moderate response and golden-
+mantled ground squirrels a strong response (Table 3).
+Only one species responded strongly to snag density
+(gray-collared chipmunks; negatively) and three moder-
+ately (Botta’s pocket gopher, tassel-eared squirrel,
+Mexican woodrat; negatively), but ﬁve species responded
+strongly to large snag (.40 cm dbh) density (Mogollon
+vole, gray-collared chipmunk, deer mouse, positively;
+golden-mantled ground squirrels and rock squirrels,
+negatively; Table 3). Two species responded strongly to
+rock cover (Mogollon voles and deer mice, positively)
+and four moderately (Mexican woodrat, positively;
+golden-mantled ground squirrel, Botta’s pocket gopher,
+tassel-eared squirrel, negatively; Table 3).
+Golden-mantled ground squirrels and rock squirrels
+had strong occupancy responses to year, and Mogollon
+voles, tassel-eared squirrels, gray-collared chipmunks,
+and deer mice had moderate responses (Table 3). Gray-
+collared chipmunks had the highest rates of occupancy
+and Mexican woodrats the lowest across all sites (Fig. 3).
+Community-level response
+For the community, the habitat covariates from most
+to least importance (based on average wij) in predicting
+occupancy were understory vegetation cover, large snag
+density (.40cm dbh), treatment, large tree density
+(.50cm dbh), oak basal area, rock cover, pine basal
+E. L. KALIES ET AL.
+210
+Ecological Applications
+Vol. 22, No. 1
+
+area, year, slash, and snag density (Table 3). Although
+understory vegetation cover was the most important
+covariate, we provided occupancy rates in response to
+pine basal area as this covariate is most easily
+manipulated by managers, and impacts vegetation cover
+(Fig. 3).
+DISCUSSION AND MANAGEMENT IMPLICATIONS
+Managing ﬁre-adapted forests for the small
+mammal community
+Large-scale forest restoration does not afford the
+luxury of managing wildlife using single species ap-
+proaches (Carey 2003). Previous studies on ﬁre adapted
+forests found that most members of the small mammal
+community exhibited variable and weak responses to
+treatment and other habitat attributes (as synthesized by
+Converse et al. 2006c), making it difﬁcult to predict
+effects at other sites. However, in terms of occupancy,
+we found that members of the small mammal commu-
+nity were sensitive to treatments and consistent across
+sites in their responses to habitat covariates. Across the
+community we examined, the most important predictors
+of occupancy were understory vegetation, large snags,
+and treatment, all which can be managed through
+restoration efforts and the control of livestock grazing.
+Furthermore, most small mammal species (ﬁve of eight;
+Mogollon vole, deer mouse, golden-mantled ground
+squirrel, rock squirrel, Botta’s pocket gopher) responded
+strongly and positively to at least one feature typical of
+open or treated forest, including increased vegetation,
+decreased basal area, or treatment. One of these species
+(pocket gophers) responded positively to open forest
+structure but negatively to treatment, indicating sensi-
+tivity to disturbance caused by restoration in the short
+term. In addition, we identiﬁed two forest generalists
+(deer mice, gray-collared chipmunks) that were common
+across sites and responded positively to treatments. Past
+studies have indicated mostly neutral responses to
+treatments by these genera, likely because certain habitat
+elements, such as down wood and snags, respond
+variably to treatment (as synthesized by Converse
+et al. 2006c). By ranking the relative response of animals
+to habitat covariates, we found that chipmunks and deer
+mice responded positively to open forest structure and
+thinning, but more strongly to rocks, big trees, and large
+snags, indicating that these features are more important
+to the species than treatment.
+We identiﬁed two species that were associated with
+dense forests (tassel-eared squirrels, Mexican woodrats).
+In particular, the tassel-eared squirrel (a tree squirrel)
+has been highlighted as a species that will be negatively
+impacted by forest treatments (Patton et al. 1985, Dodd
+et al. 2003, 2006). Tassel-eared squirrels were moder-
+ately associated with high basal area and low vegetation
+cover, but responded strongly positively only to large
+trees, indicating this was its most important habitat
+feature. Restoration treatments should promote the
+growth of both small and large trees in the long term
+by releasing them from competition (Skov et al. 2005),
+and thus should eventually ameliorate treatment effects
+on reduced squirrel density in this and many similar
+forest systems (Carey 2000, Lehmkuhl et al. 2006).
+Similarly, woodrats were moderately associated with
+dense forest conditions, and responded strongly nega-
+tively to restoration treatments. However, they respond-
+ed positively to slash piles, which are only found in
+treated sites. The number and duration of slash piles
+FIG. 2.
+Detection probabilities (þSE; n¼294 samples) for eight species of small mammals over the four years of the study. Each
+model uses the most parsimonious model of occupancy for each species.
+January 2012
+211
+SMALL MAMMAL OCCUPANCY AND RESTORATION
+
+TABLE 2.
+Descriptions and summary statistics for habitat covariates measured at each sampling at each site (n ¼ 294 samples) in
+northern Arizona.
+Habitat covariate
+Calculation
+Range
+Median
+Average
+SD
+Final covariate
+Treatment size (ha)
+calculated from GIS
+3–263
+54
+79
+74
+omitted from analysis
+Pine basal area (m2/ha)
+sum([(dbh/100/2)2] 3 3.14)
+3 40
+0–109.5
+28.6
+33.4
+20.2
+pine basal area
+Oak basal area (m2/ha)
+sum([(dbh/100/2)2] 3 3.14)
+3 40
+0–42
+0
+1.8
+5.0
+oak basal area
+Understory vegetation
+(% cover)
+average of ﬁve plots per site
+0–65
+19.1
+21.4
+13.6
+understory vegetation
+Understory vegetation .40
+cm high (% shrub cover)
+average of ﬁve plots per site
+0–43
+0
+1.0
+3.5
+omitted from analysis
+Understory vegetation
+species richness (no.
+species)
+total number of species/
+center plot
+1–19
+7.3
+7.8
+3.5
+omitted from analysis
+Slope (%)
+as measured in ﬁeld
+0–30
+5.0
+6.5
+5.7
+omitted from analysis
+Rock (% cover)
+average of ﬁve plots per site
+0–47
+10.2
+12.3
+9.3
+rock
+Down wood volume
+(m3/m2)
+9.87 3 (sum of widths of
+wood pieces in plot)2/8
+3 20
+0–1910.6
+3.5
+54.5
+201.1
+omitted from analysis
+Density of trees .40 cm
+dbh (tress/ha)
+(trees/plot) 3 40
+0–240
+45.0
+68.0
+58.1
+omitted from analysis
+Density of trees .50 cm
+dbh (tress/ha)
+(trees/plot) 3 40
+0–240
+0
+25.2
+36.6
+large tree density
+Density of trees .60 cm
+dbh (trees/ha)
+(trees/plot) 3 40
+0–160
+0
+10.8
+25.7
+omitted from analysis
+Density of snags (snags/ha)
+(snags/plot) 3 40
+0–1120
+0
+54.3
+124.7
+snag density
+Density of snags .40 cm
+dbh (snags/ha)
+(snags/plot) 3 40
+0–40
+0
+2.6
+9.7
+large snag density
+Density of snags .50 cm
+dbh (snags/ha)
+(snags/plot) 3 40
+0–40
+0
+1.4
+7.3
+omitted from analysis
+Density of snags .60 cm
+dbh (snags/ha)
+(snags/plot) 3 40
+0–40
+0
+0.75
+5.3
+omitted from analysis
+Slash piles
+piles/site
+0–38
+0
+1.4
+4.9
+slash (combined using PCA)
+Time of intact slash piles
+(yr)
+years that piles are present
+0–3
+0
+0.4
+0.7
+Proportion of trees
+removed (%)
+(stumps/ha)/([total trees/ha]
+þ [stumps/ha])
+0–97.9
+37.5
+38.5
+30.5
+treatment (combined using
+PCA)
+Time since treatment (yr)
+years
+1–109
+12
+24.3
+36.1
+Year
+year 1 ¼ 2006, year 2 –
+2007, year 3 ¼ 2008,
+year 4 ¼ 2009
+year
+ The abbreviation dbh stands for diameter at breast height.
+ Calculation from Harmon and Sexton (1996).
+TABLE 3.
+Cumulative Akaike information criterion (AIC) weights (wij) for assessing the relative importance of habitat covariates
+used to predict occupancy of eight species of small mammals, and averaged over the community, followed by the direction of the
+response in parenthesis as indicated by model-averaged parameter estimates.
+Species
+Pine
+basal area
+Oak
+basal area
+Rock
+Understory
+vegetation
+Density of
+trees .50
+cm dbh
+Density
+of snags
+Mogollon vole
+0.583 ()
+0.879 ()
+0.611 (þ)
+0.990 (þ)
+0.654 ()
+0.268 ()
+Mexican woodrat
+0.483 (þ)
+0.275 ()
+0.350 (þ)
+0.362 ()
+0.398 (þ)
+0.486 ()
+Deer mouse
+0.342 ()
+0.300 ()
+0.980 (þ)
+0.386 (þ)
+0.827 (þ)
+0.294 (þ)
+Tassel-eared squirrel
+0.425 (þ)
+0.383 (þ)
+0.377 ()
+0.401 ()
+0.569 (þ)
+0.323 ()
+Golden-mantled ground
+squirrel
+0.543 ()
+0.532 ()
+0.316 ()
+0.489 (þ)
+0.309 (þ)
+0.270 ()
+Rock squirrel
+0.576 ()
+1.000 (þ)
+0.434 (þ)
+0.991 ()
+0.340 (þ)
+0.269 (þ)
+Gray-collared chipmunk
+0.335 ()
+0.277 ()
+0.275 (þ)
+0.426 (þ)
+0.373 (þ)
+0.573 ()
+Botta’s pocket gopher
+0.350 ()
+0.267 (þ)
+0.307 ()
+1.000 (þ)
+0.513 (þ)
+0.358 ()
+Mean
+0.455
+0.489
+0.456
+0.631
+0.498
+0.355
+Notes: Values in boldface type indicate strong evidence for a species response to the habitat covariate (wij  0.50). See Table 2
+for complete descriptions of habitat covariates.
+ For each species, the most parsimonious model of detection probability was used.
+E. L. KALIES ET AL.
+212
+Ecological Applications
+Vol. 22, No. 1
+
+resulted in a positive occupancy response by most of the
+small mammal community. This may be because the
+animals were using the piles as cover, given that recently
+restored sites are often devoid of woody debris,
+understory vegetation, and snags in the short term
+(Chambers and Germaine 2003). Thus, slash piles may
+serve as surrogate habitat, giving the animals an
+opportunity to reestablish while the site is otherwise
+recovering from disturbance, particularly in the absence
+of down wood. The retention of slash piles on the
+landscape for several years (piles in our sites were
+burned after no more than three years) should lead to
+increased occupancy of most members of the small
+mammal community. However, because the immediate
+removal of these piles can reduce ﬁre hazard, this
+concern often supersedes opportunities for wildlife
+habitat enhancement in dry forests.
+Although our analysis identiﬁed these two species as
+the ‘‘losers’’ of restoration treatments, their occupancy
+can be increased by retaining or creating critical habitat
+features, constituting a reasonable approach to large-
+scale management. Thus, choosing one species to
+represent the response of a functional group can be
+misleading; our ﬁnding that each small mammal species
+increased in occupancy in response to some aspect of
+restoration treatment demonstrates the beneﬁt of a
+community perspective on the implications of spatially
+extensive treatments. In addition, creating a variety of
+forest structural types on the landscape ensures that the
+dense-forest obligates are retained, and is likely to lead
+to higher overall species diversity (Noss et al. 2006a).
+The occupancy rates we generated in relation to pine
+basal area can help managers design treatments with
+varying community compositions, and we would expect
+similar tradeoffs among these small mammal species or
+genera in other ﬁre-adapted forest systems (e.g., see
+Zwolak 2009). Understanding wildlife responses at the
+community level and across the variability in habitat
+that results from treatments can thus assist in efforts to
+design large-scale forest management projects.
+Restoring the evolutionary environment
+Approximating reference conditions is a successful
+approach to restoring degraded ecosystems and increas-
+ing biodiversity and ecosystem services (Benayas et al.
+2009). Since reference conditions for wildlife popula-
+tions are difﬁcult to reconstruct, recreating the evolu-
+FIG. 3.
+Probability of occupancy (n¼294 samples) for eight species of small mammals in response to pine basal area. Error bars
+are not shown to increase readability; for each species, average SE across all values of pine basal area is ,0.05 (see the Appendix for
+graph with SEs). Each model uses the most parsimonious model of detection probability for each species.
+TABLE 3.
+Extended.
+Density of
+snags .40
+cm dbh
+Treatment
+Slash
+Year
+0.951 (þ)
+0.465 (þ)
+0.277 (þ)
+0.472 ()
+0.265 (þ)
+0.829 ()
+0.495 (þ)
+0.267 ()
+0.596 (þ)
+0.304 (þ)
+0.266 (þ)
+0.398 (þ)
+0.264 (þ)
+0.316 ()
+0.403 (þ)
+0.476 ()
+0.702 ()
+0.430 (þ)
+1.000 (þ)
+0.861 ()
+0.571 ()
+0.810 (þ)
+0.276 ()
+0.535 ()
+0.851 (þ)
+0.787 (þ)
+0.295 ()
+0.331 ()
+0.271 ()
+0.479 ()
+0.281 (þ)
+0.261 (þ)
+0.559
+0.553
+0.412
+0.450
+January 2012
+213
+SMALL MAMMAL OCCUPANCY AND RESTORATION
+
+tionary environment is often the default (Morrison
+2002). In our study area, southwestern ponderosa pine
+forests had a lower density of trees prior to Euro-
+American settlement (ca. 1880; Cooper 1960, Moore
+et al. 1999), and thus forest species were likely adapted
+to an open stand structure dominated by large-diameter
+trees and an herbaceous understory (Covington 2003).
+We found that all but three species were associated with
+increased vegetation cover. Tassel-eared squirrel and
+Mexican woodrat occupancy was associated with dense
+stands, and it is possible that these species were less
+common on the landscape before Euro-American
+settlement (Hoffmeister 1986, Brown and Davis 1998).
+However, the tassel-eared squirrel responded most
+strongly to the presence of large trees, which were a
+dominant structural feature of presettlement forests
+(Cooper 1961). Thus, our results provide evidence that
+small mammal species are adapted to the evolutionary
+environment in terms of forest composition and
+structure.
+Similar to Carey and Harrington (2001), we found
+that ﬁne-scale heterogeneity was more important to
+small mammals than landscape-scale features, as we
+detected no response of species to patch size. In
+ponderosa pine forest, heterogeneity in habitat is
+consistent with the natural process of low-severity ﬁre,
+which would burn in a patchy arrangement across the
+landscape, killing small trees but leaving large ones
+(Cooper 1961), retaining some snags and down wood
+while burning others (Spies and Turner 1999), leaving
+denser stands of trees particularly on north-facing slopes
+and steep canyons (Noss et al. 2006a), and regulating
+litter and understory vegetation levels. All but one
+species (Mogollon vole) responded positively to density
+of large trees (.50 cm dbh), and our results suggest that
+this feature was a part of the small mammal commun-
+ity’s evolutionary environment. Similarly, only two
+species responded positively to all snags but ﬁve
+responded positively to snags .40 cm, likely because
+larger snags provide larger cavities for nesting and cover
+(Chambers and Mast 2005). Large trees, and in turn,
+large snags, have decreased in density due to ﬁre
+suppression and logging (Covington and Moore 1994a,
+Mast et al. 1999), and thus managers may choose to
+make efforts to retain them in an effort to restore the
+evolutionary environment. However, more may not
+always be better; for example, although Gambel oak is
+a part of the evolutionary environment, managers in the
+Southwest retain all oak when implementing fuels
+reduction or restoration treatments, and this tree species
+has been increasing in density since presettlement times
+(Abella and Fule´ 2008). Although oak retention may be
+important for other animals, as has been shown with
+birds and bats (Rosenstock 1998, Bernardos et al. 2004),
+we found that higher oak basal area is not a driver of
+occupancy for most members of the small mammal
+community. Finally, as most of the small mammal
+species live underground in burrows (Hoffmeister 1986),
+rock cover was an important covariate across most of
+the
+community,
+and
+a
+part
+of the
+evolutionary
+environment not affected by changes to forest structure.
+Our ﬁndings that small mammals are associated with
+ﬁre-generated habitat features (e.g., patchy overstory
+distribution, snags, down wood) are consistent with
+other wildlife studies in ﬁre dependent, dry forests,
+mostly in the western and southeastern United States
+(Kennedy and Fontaine 2009). Examples include Bach-
+man’s Sparrow’s (Peucaea aestivalis) dependency on
+periodically burned herbaceous understory (Tucker
+et al. 2004), gopher tortoises (Gopherus polyphemus)
+relying on bare ground (Yager et al. 2007), ﬂying
+squirrel (Glaucomys sabrinus) associations with large
+trees (Lehmkuhl et al. 2006), and Black-backed Wood-
+pecker (Picoides arcticus) and Hairy Woodpecker
+(Picoides villosus) use of ﬁre-created snags (Saab et al.
+2009). The afﬁnity the small mammal community
+exhibited to the evolutionary environment in our study
+indicates that approximating these conditions can be a
+useful tool for restoring or sustaining native species of
+wildlife, particularly when single-species approaches are
+not feasible (Lindenmayer et al. 2002). This result is
+relevant to restoration projects in other ecosystems with
+a paucity of data on historical wildlife populations.
+Using occupancy approaches to monitor at large scales
+We found that the occupancy modeling approach we
+used was highly effective in evaluating the response of
+the small mammal community to treatment and other
+habitat attributes at a broad spatial scale. Wildlife is
+important to monitor in large-scale perturbations, as
+animal communities often recover more slowly than
+plant communities and other ecosystem functions (Jones
+and Schmitz 2009). Small mammals are often used as
+indicators of habitat alteration because they are
+relatively easy to monitor, but these studies are
+commonly confounded by high year-to-year variability
+(Brown and Ernest 2002). Species that are r selected and
+have short life spans and high reproductive rates react
+quickly and dramatically to environmental and climatic
+changes (MacArthur and Wilson 1967), and particularly
+in arid regions, many small-mammal population studies
+end up primarily tracking precipitation patterns (e.g.,
+Amacher et al. 2008, Bagne and Finch 2009). We
+attempted to account for this variability by including
+year as a covariate, and showed a lack of a year effect
+for all but two species. We attribute this to the fact that
+we estimated occupancy, which may be more robust to
+yearly changes than density or abundance metrics. In
+addition, we were able to sample a large number of sites
+per year because we did not have to uniquely mark each
+individual animal. Although our study was effort-
+intensive, we sampled more area than many comparable
+small mammal studies with similar objectives, which
+relied on mark–recapture methods for density estima-
+tion (Converse et al. 2006a, 2006b, Wampler et al. 2008,
+Bagne and Finch 2009). We assessed eight species
+E. L. KALIES ET AL.
+214
+Ecological Applications
+Vol. 22, No. 1
+
+whereas the maximum in prior studies was four, and
+were able to sample two species that had not previously
+been quantitatively assessed (rock squirrel and Botta’s
+pocket gopher). The scope and scale of our study
+revealed clear patterns of small mammal community
+response to treatments and habitat attributes, and
+resulted in reasonably precise species-level estimates of
+occupancy. We recommend our approach be utilized in
+other studies that are faced with high variability and
+broad spatial and temporal scales in assessing impacts of
+treatments or habitat alteration on wildlife species. Since
+forest managers are increasingly focusing on the design
+and implementation of spatially extensive treatments,
+improved and efﬁciently obtained ecological informa-
+tion will be necessary to inform these efforts and guide
+management of the habitats and evolutionary environ-
+ments on which native wildlife communities depend.
+ACKNOWLEDGMENTS
+We thank J. Smith, D. Normandin, L. Baker, and S. Curran
+for logistical and technical help; dozens of ﬁeld assistants,
+particularly crew leaders K. Barrett, K. Pearson, I. Johnson,
+and I. Hyp; and P. Beier, A. Finkral, J. Frey, and T. Sisk for
+providing valuable feedback on the manuscript. We extend
+sincere thanks to our funding agencies including the Ecological
+Restoration Institute at Northern Arizona University (Forest
+Service Agreement 05-CR-11031600-079 and State of Arizona
+Technology, Research and Innovation Fund), Arizona Game
+and Fish Wildlife Conservation Fund Grant 080023, the ARCS
+Foundation, and the Garden Club of America. We obtained
+Northern Arizona University Institutional Animal Care and
+Use Committee approval of our trapping methodology
+(protocol #06-005).
+LITERATURE CITED
+Abella, S. R., and P. Z. Fule´ . 2008. Changes in Gambel oak
+densities in southwestern ponderosa pine forests since Euro-
+American settlement. Research Note RMRS-RN-36. USDA
+Forest Service, Rocky Mountain Research Station, Fort
+Collins, Colorado, USA.
+Allen, C. D., M. Savage, D. A. Falk, K. F. Suckling, T. W.
+Swetnam, T. Schulke, P. B. Stacey, P. Morgan, M. Hoffman,
+and J. T. Klingel. 2002. Ecological restoration of southwest-
+ern ponderosa pine ecosystems: a broad perspective. Ecolog-
+ical Applications 12:1418–1433.
+Amacher, A. J., R. H. Barrett, J. J. Moghaddas, and S. L.
+Stephens. 2008. Preliminary effects of ﬁre and mechanical
+fuel treatments on the abundance of small mammals in the
+mixed-conifer forest of the Sierra Nevada. Forest Ecology
+and Management 255:3193–3202.
+Bagne, K. E., and D. M. Finch. 2009. Response of small
+mammal populations to fuel treatment and precipitation in a
+ponderosa pine forest, New Mexico. Restoration Ecology
+18:409–417.
+Barbieri, M. M., and J. O. Berger. 2004. Optimal predictive
+model selection. Annals of Statistics 32:870–897.
+Bartels, M. A., and D. P. Thompson. 1993. Spermophilus
+lateralis. Mammalian Species 440:1–8.
+Battin, J., and T. D. Sisk. 2003. Assessing landscape-level
+inﬂuences of forest restoration on animal populations. Pages
+175–190 in P. Friederici, editor. Ecological restoration of
+Southwestern Ponderosa pine forests. Island Press, Wash-
+ington, D.C., USA.
+Benayas, J. M. R., A. C. Newton, A. Diaz, and J. M. Bullock.
+2009. Enhancement of biodiversity and ecosystem services by
+ecological restoration: a meta-analysis. Science 325:1121–
+1124.
+Bernardos, D. A., C. L. Chambers, and M. J. Rabe. 2004.
+Selection of Gambel oak roosts by southwestern Myotis in
+ponderosa pine-dominated forests, northern Arizona. Jour-
+nal of Wildlife Management 68:595–601.
+Block, W. M., J. L. Ganey, P. E. Scott, and R. King. 2005. Prey
+ecology of Mexican spotted owls in pine–oak forests of
+northern Arizona. Journal of Wildlife Management 69:618–
+629.
+Boal, C. W., and R. W. Mannan. 1994. Northern goshawk diets
+in ponderosa pine forests on the Kaibab Plateau. Northern
+Goshawk: Ecology and Management, Studies in Avian
+Biology 16:97–102.
+Boerner, R. E. J., J. Huang, and S. C. Hart. 2009. Impacts of
+Fire and Fire Surrogate treatments on forest soil properties: a
+meta-analytical approach. Ecological Applications 19:338–
+358.
+Brown, D. E., and R. Davis. 1998. Terrestrial bird and mammal
+distribution changes in the American Southwest, 1890-1990.
+Pages 47–64 in B. Tellman, editor. The future of arid
+grasslands: identifying issues, seeking solutions. USDA
+Forest Service, Rocky Mountain Research Station, Fort
+Collins, Colorado, USA.
+Brown, J. H., and S. K. M. Ernest. 2002. Rain and rodents:
+complex dynamics of desert consumers. BioScience 52:979–
+987.
+Brown, J. K., R. D. Oberheu, and C. M. Johnston. 1982.
+Handbook for inventorying surface fuels and biomass in the
+Interior West. GTR INT-129, USDA Forest Service,
+Intermountain Forest and Range Experiment Station,
+Ogden, Utah, USA.
+Burnham, K. P., and D. Anderson. 2002. Model selection and
+multi-model inference. Second edition. Springer-Verlag, New
+York, New York, USA.
+Carey, A. B. 2000. Effects of new forest management strategies
+on squirrel populations. Ecological Applications 10:248–257.
+Carey, A. B. 2003. Biocomplexity and restoration of biodiver-
+sity in temperate coniferous forest: inducing spatial hetero-
+geneity with variable density thinning. Forestry 76:127–136.
+Carey, A. B., and C. A. Harrington. 2001. Small mammals in
+young forests: implications for management for sustainabil-
+ity. Forest Ecology and Management 154:289–309.
+Chambers, C. L. 2002. Forest management and the dead wood
+resource in ponderosa pine forests: effects on small mam-
+mals. USDA Forest Service, Paciﬁc Southwest Research
+Station, Albany, California, USA.
+Chambers, C. L., and R. R. Doucett. 2008. Diet of the
+Mogollon vole as indicated by stable-isotope analysis (d13C
+and d15N). Western North American Naturalist 68:153–160.
+Chambers, C. L., and S. S. Germaine. 2003. Vertebrates. Pages
+268–285 in P. Friederici, editor. Ecological restoration of
+southwestern ponderosa pine forests. Island Press, Wash-
+ington, D.C., USA.
+Chambers, C. L., and J. N. Mast. 2005. Ponderosa pine snag
+dynamics and cavity excavation following wildﬁre in
+northern
+Arizona.
+Forest
+Ecology
+and
+Management
+216:227–240.
+Converse, S. J., W. M. Block, and G. C. White. 2006a. Small
+mammal population and habitat responses to forest thinning
+and prescribed ﬁre. Forest Ecology and Management
+228:263–273.
+Converse, S. J., G. C. White, and W. M. Block. 2006b. Small
+mammal responses to thinning and wildﬁre in ponderosa
+pine-dominated forests of the southwestern United States.
+Journal of Wildlife Management 70:1711–1722.
+Converse, S. J., G. C. White, K. L. Farris, and S. Zach. 2006c.
+Small mammal and forest fuel reduction: national-scale
+response to ﬁre and ﬁre surrogates. Ecological Applications
+16:1717–1729.
+Cooper, C. F. 1960. Changes in vegetation, structure, and
+growth of southwestern pine forests since white settlement.
+Ecological Monographs 30:129–164.
+January 2012
+215
+SMALL MAMMAL OCCUPANCY AND RESTORATION
+
+Cooper, C. F. 1961. Pattern in ponderosa pine forests. Ecology
+42:493–499.
+Cork, S. J., and G. J. Kenagy. 1989. Rates of gut passage and
+retention of hypogeous fungal spores in two forest-dwelling
+rodents. Journal of Mammalogy 70:512–519.
+Covington, W. W. 2003. The evolutionary and historical
+context. Pages 26–47 in P. Friederici, editor. Ecological
+restoration of southwestern ponderosa pine forests. Island
+Press, Washington, D.C., USA.
+Covington, W. W., and M. M. Moore. 1994a. Postsettlement
+changes in natural ﬁre regimes and forest structure ecological
+restoration of old-growth ponderosa pine forests. Journal of
+Sustainable Forestry 2:153–181.
+Covington, W. W., and M. M. Moore. 1994b. Southwestern
+ponderosa forest structure: changes since Euro-American
+settlement. Journal of Forestry 92:39–47.
+Dickson, B. G., B. R. Noon, C. H. Flather, S. Jentsch, and
+W. M. Block. 2009. Quantifying the multi-scale response of
+avifauna to prescribed ﬁre experiments in the southwest
+United States. Ecological Applications 19:608–621.
+Dodd, N. L., R. E. Schweinsburg, and S. Boe. 2006.
+Landscape-scale forest habitat relationships to tassel-eared
+squirrel populations: implications for ponderosa pine forest
+restoration. Restoration Ecology 14:537–547.
+Dodd, N. L., J. S. States, and S. S. Rosenstock. 2003. Tassel-
+eared squirrel population, habitat condition, and dietary
+relationships in north-central Arizona. Journal of Wildlife
+Management 67:622–633.
+Everett, R. L., R. Schellhaas, D. Keenum, D. Spurbeck, and P.
+Ohlson. 2000. Fire history in the ponderosa pine/Douglas-ﬁr
+forests on the east slope of the Washington Cascades. Forest
+Ecology and Management 129:207–225.
+Finkral, A. J., and A. M. Evans. 2008. Effects of a thinning
+treatment on carbon stocks in a northern Arizona ponderosa
+pine forest. Forest Ecology and Management 255:2743–2750.
+Fry, D. L., and S. L. Stephens. 2006. Inﬂuence of humans and
+climate on the ﬁre history of a ponderosa pine-mixed conifer
+forest in the southeastern Klamath Mountains, California.
+Forest Ecology and Management 223:428–438.
+Fule´ , P. Z., W. W. Covington, and M. M. Moore. 1997.
+Determining reference conditions for ecosystem management
+of southwestern ponderosa pine forests. Ecological Applica-
+tions 7:895–908.
+Gardner, T. A., I. M. Cˆote´ , J. A. Gill, A. Grant, and A. R.
+Watkinson. 2003. Long-term region-wide declines in Carib-
+bean corals. Science 301:958–960.
+Getz, L. L. 1961. Responses of small mammals to live-traps and
+weather conditions. American Midland Naturalist 66:160–
+170.
+Goodwin, J. G., Jr., and C. R. Hungerford. 1979. Rodent
+population densities and food habits in Arizona ponderosa
+pine forests. Research Paper RM-214. USDA Forest Service,
+Rocky Mountain Forest and Range Experiment Station,
+Fort Collins, Colorado, USA.
+Harmon, M. E., and J. Sexton. 1996. Guidelines for measure-
+ments of woody detritus in forest ecosystems. No. 20. Long-
+term Ecological Research (LTER) Network Ofﬁce, Univer-
+sity of Washington, Seattle, Washington, USA.
+Hines, J. 2009. Program PRESENCE v2.4. U.S. Geological
+Survey, Patuxent Wildlife Research Center, Laurel, Mary-
+land, USA
+Hoffmeister, D. F. 1986. Mammals of Arizona. The University
+of Arizona Press, Tucson, Arizona, USA.
+Holl, K. D., E. E. Crone, and C. B. Schultz. 2003. Landscape
+restoration: moving from generalities to methodologies.
+BioScience 53:491–502.
+Huntly, N., and R. Inouye. 1988. Pocket gophers in ecosys-
+tems—patterns and mechanisms. BioScience 38:786–793.
+Jones, H. P., and O. J. Schmitz. 2009. Rapid recovery of
+damaged ecosystems. PLoS ONE 4:e5653.
+Kalies, E. L., C. L. Chambers, and W. W. Covington. 2010.
+Wildlife responses to thinning and burning treatments in
+southwestern conifer forests: a meta-analysis. Forest Ecology
+and Management 259:333–342.
+Kays, R. W., and D. E. Wilson. 2002. Mammals of North
+America. Princeton University Press, Princeton, New Jersey,
+USA.
+Kennedy, P. L., and J. B. Fontaine. 2009. Synthesis of
+knowledge of the effects of ﬁre and ﬁre surrogates on wildlife
+in U.S. dry forests. Special Report 1096. Oregon State
+University Extension Service, Corvallis, Oregon, USA.
+Lamb, D., P. D. Erskine, and J. A. Parrotta. 2005. Restoration
+of degraded tropical forest landscapes. Science 310:1628–
+1632.
+Lambeck, R. J. 1997. Focal species: a multi-species umbrella for
+nature conservation. Conservation Biology 11:849–856.
+Lehmkuhl, J. F., K. D. Kistler, J. S. Begley, and J. Boulanger.
+2006. Demography of northern ﬂying squirrels informs
+ecosystem management of western interior forests. Ecological
+Applications 16:584–600.
+Lindenmayer, D. B., A. D. Manning, P. L. Smith, H. P.
+Possingham, J. Fischer, I. Oliver, and M. A. McCarthy. 2002.
+The focal-species approach and landscape restoration: a
+critique. Conservation Biology 16:338–345.
+Lowe, P. O., P. F. Ffolliott, J. H. Dieterich, and D. R. Patton.
+1978. Determining potential wildlife beneﬁts from wildﬁre in
+Arizona ponderosa pine forests. General technical report
+RM-52. USDA Forest Service, Rocky Mountain Forest and
+Experimental Station, Fort Collins, Colorado, USA.
+MacArthur, R., and R. Levins. 1967. The limiting similarity,
+convergence, and divergence of coexisting species. American
+Naturalist 101:377–385.
+MacArthur, R. H., and E. O. Wilson. 1967. The theory of
+island biogeography. Princeton University Press, Princeton,
+New Jersey, USA.
+MacKenzie, D. I., J. D. Nichols, J. A. Royle, K. H. Pollock,
+L. L. Bailey, and J. E. Hines. 2006. Occupancy estimation
+and modeling. Elsevier, Amsterdam, The Netherlands.
+MacKenzie, D. I., and J. A. Royle. 2005. Designing occupancy
+studies: general advice and allocating survey effort. Journal
+of Applied Ecology 42:1105–1114.
+MacMahon, J. A., and W. R. Jordan III. 1994. Ecological
+restoration. Pages 409–438 in G. K. Meffe and C. R. Carroll,
+editors. Principles of conservation biology. Sinauer Associ-
+ates, Sunderland, Massachusetts, USA.
+Mast, J. N., P. Z. Fule´ , M. M. Moore, W. W. Covington, and
+A. E. M. Waltz. 1999. Restoration of presettlement age
+structure of an Arizona ponderosa pine forest. Ecological
+Applications 9:228–239.
+McKeever, S. 1964. Biology of the golden-mantled ground
+squirrel, Citellus lateralis. Ecological Monographs 34:383–
+401.
+Moore, J. E., and R. K. Swihart. 2005. Modeling patch
+occupancy by forest rodents: Incorporating detectability and
+spatial autocorrelation with hierarchically structured data.
+Journal of Wildlife Management 69:933–949.
+Moore, M. M., W. W. Covington, and P. Z. Fule´ . 1999.
+Reference conditions and ecological restoration: a south-
+western ponderosa pine perspective. Ecological Applications
+9:1266–1277.
+Morrison, M. L. 2002. Wildlife restoration. Island Press,
+Washington, D.C., USA.
+Neter, J., M. H. Kutner, C. J. Nachtsheim, and W. Wasserman.
+1996. Applied linear statistical models. fourth edition. WCB/
+McGraw-Hill, Chicago, Illinois, USA.
+Noss, R. F. 1990. Indicators for monitoring biodiversity: a
+hierarchical approach. Conservation Biology 4:355–364.
+Noss, R. F., P. Beier, W. W. Covington, R. E. Grumbine, D. B.
+Lindenmayer, J. W. Prather, F. Schmiegelow, T. D. Sisk, and
+D. J. Vosik. 2006a. Recommendations for integrating
+restoration ecology and conservation biology in ponderosa
+E. L. KALIES ET AL.
+216
+Ecological Applications
+Vol. 22, No. 1
+
+pine forests of the southwestern United States. Restoration
+Ecology 14:4–10.
+Noss, R. F., and B. Csuti. 1994. Habitat fragmentation. Pages
+237–264 in G. K. Meffe and C. R. Carroll, editors. Principles
+of conservation biology. Sinauer, Sunderland, Massachu-
+setts, USA.
+Noss, R. F., J. F. Franklin, W. L. Baker, T. Schoennagel, and
+P. B. Moyle. 2006b. Managing ﬁre-prone forests in the
+western United States. Frontiers in Ecology and the
+Environment 4:481–487.
+Omnibus Public Land Management Act. 2009. IV Forest
+Landscape Restoration, Public Law 111-11, 123 Statute 991-
+1456. U.S. Government, Washington, D.C., USA.
+Ortega, J. C. 1987. Den site selection by the rock squirrel
+(Spermophilus variegatus) in southeastern Arizona. Journal of
+Mammalogy 68:792–798.
+Patton, D. R. 1977. Managing southwestern ponderosa pine for
+the Abert squirrel. Journal of Forestry 75:264–267.
+Patton, D. R., and W. Green. 1970. Abert’s squirrels prefer
+mature ponderosa pine. Research note RM-169. USDA
+Forest Service, Rocky Mountain Forest and Range Exper-
+iment Station, Fort Collins, Colorado, USA.
+Patton, D. R., R. L. Wadleigh, and H. G. Hudak. 1985. The
+effects of timber harvesting on the Kaibab squirrel. Journal
+of Wildlife Management 49:14–19.
+Pederson, J. C., R. C. Farentinos, and V. M. Littleﬁeld. 1987.
+Effects of logging on habitat quality and feeding patterns of
+Abert squirrels. Great Basin Naturalist 47:252–258.
+Prather, J. W., N. L. Dodd, B. G. Dickson, H. M. Hampton, Y.
+Xu, E. N. Aumack, and T. D. Sisk. 2006. Landscape models
+to predict the inﬂuence of forest structure on tassel-eared
+squirrel populations. Journal of Wildlife Management
+70:723–731.
+Ratcliff, T. D., D. R. Patton, and P. F. Ffolliott. 1975.
+Ponderosa pine basal area and the Kaibab squirrel. Journal
+of Forestry 73:284–286.
+Reading, H. A. 2001. Response of small mammals and
+hantavirus to ecological restoration of ponderosa pine in
+northern Arizona. Thesis. Northern Arizona University,
+Flagstaff, Arizona, USA.
+Roberts, A. R. 2003. Ponderosa pine restoration treatment
+effects on Peromyscus truei and Peromyscus maniculatus in
+northwestern Arizona. Thesis. Northern Arizona University,
+Flagstaff, Arizona, USA.
+Rodhouse, T. J., R. P. Hirnyck, and R. G. Wright. 2010.
+Habitat selection of rodents along a phion juniper woodland
+savannah gradient. Journal of Mammalogy 91:447–457.
+Rosenberg, D. K., K. A. Swindle, and R. G. Anthony. 2003.
+Inﬂuence of prey abundance on northern spotted owl
+reproductive success in western Oregon. Canadian Journal
+of Zoology 81:1715–1725.
+Rosenstock, S. S. 1998. Inﬂuence of Gambel oak on breeding
+birds in ponderosa pine forests of northern Arizona. Condor
+100:485–492.
+Saab, V. A., R. E. Russell, and J. G. Dudley. 2009. Nest-site
+selection by cavity-nesting birds in relation to postﬁre salvage
+logging. Forest Ecology and Management 257:151–159.
+Saunders, D. A., R. J. Hobbs, and C. R. Margules. 1991.
+Biological consequences of ecosystem fragmentation: a
+review. Conservation Biology 5:18–32.
+Schwilk, D. W., et al. 2009. The national Fire and Fire
+Surrogate study: effects of fuel reduction methods on forest
+vegetation structure and fuels. Ecological Applications
+19:285–304.
+Sisk, T. D., J. W. Prather, H. M. Hampton, E. N. Aumack, Y.
+Xu, and B. G. Dickson. 2006. Participatory landscape
+analysis to guide restoration of ponderosa pine ecosystems
+in the American Southwest. Landscape and Urban Planning
+78:300–310.
+Skov, K. R., T. E. Kolb, and K. F. Wallin. 2005. Difference in
+radial growth response to restoration thinning and burning
+treatments between young and old ponderosa pine in
+Arizona. Western Journal of Applied Forestry 20:36–43.
+Smallwood, K. S., and W. A. Erickson. 1995. Estimating
+gopher populations and their abatement in forest plantations.
+Forest Science 41:284–296.
+Snider, G., P. J. Daugherty, and D. Wood. 2006. The
+irrationality of continued ﬁre suppression: an avoided cost
+analysis of ﬁre hazard reduction treatments versus no
+treatment. Journal of Forestry 104:431–437.
+Society for Ecological Restoration International Science and
+Policy Working Group. 2004. The SER International Primer
+on Ecological Restoration. Society for Ecological Restora-
+tion, Tucson, Arizona, USA.
+Spies, T. A., and M. G. Turner. 1999. Dynamic forest mosaics.
+Pages 95–160 in M. L. Hunter, Jr., editor. Maintaining
+biodiversity in forest ecosystems. Cambridge University
+Press, Cambridge, UK.
+Taylor, A. H., and C. N. Skinner. 1998. Fire history and
+landscape dynamics in a late-successional reserve, Klamath
+Mountains, California, USA. Forest Ecology and Manage-
+ment 111:285–301.
+Tucker, J. W., Jr., W. D. Robinson, and J. B. Grand. 2004.
+Inﬂuence of ﬁre on Bachman’s sparrow, an endemic North
+American
+songbird.
+Journal
+of
+Wildlife
+Management
+68:1114–1123.
+Wampler, C. R., J. K. Frey, D. M. VanLeeuwen, J. C. Boren,
+and T. T. Baker. 2008. Mammals in mechanically thinned
+and non-thinned mixed-coniferous forest in the Sacramento
+Mountains, New Mexico. Southwestern Naturalist 53:431–
+443.
+Westerling, A. L., H. G. Hidalgo, D. R. Cayan, and T. W.
+Swetnam. 2006. Warming and earlier spring increase western
+U.S. forest wildﬁre activity. Science 313:940–943.
+White, A. S. 1985. Presettlement regeneration patterns in a
+southwestern ponderosa pine stand. Ecology 66:589–594.
+White, G. C., and K. P. Burnham. 2010. Program MARK,
+version 6.0. Colorado State University, Fort Collins,
+Colorado, USA.
+Yager, L. Y., C. D. Heise, D. M. Epperson, and M. G.
+Hinderliter. 2007. Gopher tortoise response to habitat
+management by prescribed burning. The Journal of Wildlife
+Management 71:428–434.
+Yarborough, R. F., and C. L. Chambers. 2007. Using visual
+evidence of Mogollon voles (Microtus mogollonensis) to
+predict their presence in northern Arizona. Southwestern
+Naturalist 52:511–519.
+Zwolak, R. 2009. A meta-analysis of the effects of wildﬁre,
+clearcutting, and partial harvest on the abundance of North
+American small mammals. Forest Ecology and Management
+258:539–545.
+SUPPLEMENTAL MATERIAL
+Appendix
+Probability of occupancy for eight species of small mammals in response to pine basal area (Fig. 3) with standard errors
+(Ecological Archives A022-012-A1).
+January 2012
+217
+SMALL MAMMAL OCCUPANCY AND RESTORATION

@@ -1,0 +1,4 @@
+# OCR capabilities (requires Tesseract)
+# See docs/DEPENDENCIES.md for installation instructions
+pytesseract>=0.3.13            # OCR interface
+opencv-python>=4.11.0          # Image preprocessing for OCR

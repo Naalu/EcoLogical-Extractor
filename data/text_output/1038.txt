@@ -1,0 +1,1223 @@
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=tfst20
+Forest Science and Technology
+ISSN: 2158-0103 (Print) 2158-0715 (Online) Journal homepage: https://www.tandfonline.com/loi/tfst20
+Productivity and cost of whole-tree and tree-
+length harvesting in fuel reduction thinning
+treatments using cable yarding systems
+Sang-Kyun Han & Han-Sup Han
+To cite this article: Sang-Kyun Han & Han-Sup Han (2020): Productivity and cost of whole-tree
+and tree-length harvesting in fuel reduction thinning treatments using cable yarding systems, Forest
+Science and Technology, DOI: 10.1080/21580103.2020.1712264
+To link to this article:  https://doi.org/10.1080/21580103.2020.1712264
+© 2020 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group.
+Published online: 17 Jan 2020.
+Submit your article to this journal 
+Article views: 8
+View related articles 
+View Crossmark data
+
+ARTICLE
+Productivity and cost of whole-tree and tree-length harvesting in fuel
+reduction thinning treatments using cable yarding systems
+Sang-Kyun Hana and Han-Sup Hanb
+aDepartment of Forestry, Korea National College of Agriculture and Fisheries, Jeonju-si, Jeollabuk-do, South Korea; bEcological
+Restoration Insititute, Northern Arizona University, Flagstaff, AZ, USA
+ABSTRACT
+Cable yarding systems are often used to reduce hazardous fuels in dense overstocked forest
+stands on steep terrain (>35%) in the western United States. However, treatment costs tend
+to be high. The aim of this study was to broaden our knowledge by evaluating two different
+harvesting methods (whole-tree (WT) and tree-length (TL)) used for fuel reduction thinning
+treatment on mixed-conifer forest stand. Different harvesting methods greatly affected the
+productivity and cost of fuel reduction thinning, especially in felling and yarding operations.
+Total sawlog removal costs (stump-to-truck) were US$26.13/m3 in the WT-harvested unit and
+US$24.01/m3 in TL harvested unit. TL thinning resulted in higher felling time and lower
+production rate due to increased amounts of time for processing trees at the stump. In yard-
+ing operation, however, TL method had a higher production rate than WT method because
+TL method had higher number of pieces per yarding cycle. Processing production rates at a
+landing were relatively similar throughout treatments although trees in a TL thinning unit
+were already limbed and bucked at the stump. Loading productivity was consistent through-
+out treatments because loading occurred independently from other activities. For fuel reduc-
+tion thinning treatments using a cable yarding system, TL thinning was more cost-effective
+than WT thinning if leaving tree tops and branches on site is acceptable from a fuels man-
+agement perspective.
+ARTICLE HISTORY
+Received 29 November 2019
+Accepted 19 December 2019
+KEYWORDS
+Fuel treatment; skyline
+system; harvesting method;
+regression model; delay-free
+cycle time
+Introduction
+Dense, overstocked stands have increasingly contrib-
+uted to the cause of catastrophic wildfires: federal land
+managers have identified 29.5 million hectares(ha) of
+National Forest lands in the western U.S. that are char-
+acterized as having unnatural or excessive amounts of
+woody vegetation (USDA Forest Service 2003). These
+stands generally require a mechanical thinning as a
+silvicultural
+method
+to
+improve
+fire-tolerances
+(Graham et al. 2002) and the implementation of
+appropriate silvicultural and harvesting methods can
+effectively reduce wildland fires in these fire-prone
+ecosystems (Keyes and O’Hara 2002).
+Treatments to reduce hazardous fuel accumulations
+in California’s forests often involve mechanical thin-
+ning because it effectively addresses the high levels of
+fuel connectivity in high-density stands and allows the
+use of prescribed burning with reduced risk of fire
+escaping. Fuel reduction thinning generally defines the
+reduction of surface and ladder fuels with thinning
+trees, removing underbrush, and limbing trees (Pan et
+al. 2008). However, the economics of mechanical fuel
+reduction thinning are often in question to forestland
+managers because thinning treatment costs are typic-
+ally costly (Vitorelo et al. 2012). Several studies have
+examined fuel reduction thinning involving various
+machines and systems to address questions related to
+harvesting productivity and costs (Lowell et al. 2008;
+Pan et al. 2008; Bolding et al. 2009). Stand conditions
+(e.g. tree size, thinning intensity, and slope) and har-
+vesting system (e.g. ground-based or cable yarding)
+and methods (e.g. whole-tree or tree-length) were
+found to be critical factors to consider when evaluating
+economic feasibility of fuel reduction treatments. The
+unit cost of removing smaller diameter trees is gener-
+ally higher than those for larger diameter trees (Lowell
+et al. 2008). In addition, the unit cost of harvesting
+low volumes per acre is higher than those for higher
+volumes per acre. Kellogg et al. (1996) found that total
+skyline harvesting costs for thinning treatments could
+range from approximately 7 to 32% more than those
+for conventional clearcut treatments. Thinning inten-
+sity can also influence yarding production and cost.
+Yarding production increased and costs decreased as
+thinning intensity increased because of an increase in
+the average number of logs per turn (Hochrein and
+Kellogg 1988).
+The topography in the western U.S. is often too steep
+(>35%) for ground-based systems to be effectively har-
+vested. Cable-harvesting systems often are used to
+CONTACT Sang-Kyun Han
+hsk5311@korea.kr
+Department of Forestry, Korea National College of Agriculture and Fisheries, Jeonju-si,
+Jeollabuk-do, South Korea
+ 2020 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+FOREST SCIENCE AND TECHNOLOGY
+https://doi.org/10.1080/21580103.2020.1712264
+
+harvest timber in steep terrain, but harvesting with a
+cable system is typically more expensive than with a
+ground-based system (Daigle 1992). Harvesting cost in
+fuel reduction thinning ranges from US$370 (ground-
+based) to US$1360 (cable yarding) per ha, which is
+often higher than the potential revenues from selling
+the products produced from thinning (LeVan-Green
+and Livingston 2001). Kellogg et al. (1999) found that
+cable yarding operations often result in narrow profit
+margins or even a loss because of high-operating cost in
+thinning operations.
+In the western U.S., whole-tree (WT) and tree-
+length (TL) harvesting methods are commonly used in
+mechanized fuel reduction thinning operations. In the
+WT harvesting method, the tree is felled and delivered
+to landing with limbs and tops attached to the stem.
+This method is considerably efficient for a significant
+reduction of fuels in the forest stand because most of
+the felled biomass is removed from the site (Han et al.
+2004). However, fuel reduction thinning with WT
+harvesting method often triggers concerns related to
+long-term site productivity and sustainable forest pro-
+duction because nutrients are removed with the plant
+materials harvested (Elliott and Knoepp 2005). For this
+reason, managers often consider using cut-to-length
+(CTL) or TL harvesting for fuel reduction thinning
+operations. In a typical CTL or TL harvest, trees are
+felled and processed at the stump and only the bole
+wood is removed from the site. However, thinning
+costs with CTL harvesting were found to be 10–20%
+more expensive than WT harvesting when ground-
+based systems were used (Adebayo et al. 2007). The
+higher cost in CTL harvest was associated with more
+labor inputs on the ground and the difference between
+WT and CTL harvesting costs increased with decreas-
+ing tree size (Han et al. 2004). These findings are help-
+ful when selecting an appropriate harvesting method
+and system that meets both fuel treatment and cost
+management
+objectives. Additional information
+on
+nutrient impacts and economic feasibility from differ-
+ent harvesting methods and systems are needed to
+make better mechanical fuel treatment decisions, espe-
+cially on steep ground thinning operations.
+This field-based study was designed to enhance our
+knowledge of how to efficiently and economically
+implement two different harvesting methods (WT vs.
+TL) in fuel reduction thinning operations using cable
+yarding system in a mixed conifer stand on steep
+grounds. The specific objectives of this study were
+to (1) compare the thinning productivity and stump-
+to-truck cost for each harvesting method and (2) iden-
+tify important factors that affect thinning productivity
+at each phase of the operations for both harvest-
+ing methods.
+Materials and methods
+Study site and harvesting system
+This study took place on the Klamath National Forest
+as a part of the Mt. Ashland Stewardship Contract in
+northern California, US. The focus of this vegetation
+management contract was to restore or create stand
+structure characteristics of late successional stands,
+reduce fire hazard, and improve wildlife habitat. Much
+of the Mt. Ashland area is comprised of mixed conifer
+forests including white fir (Abies concolor), Douglas-fir
+(Pseudotsuga menziesii), ponderosa pine (Pinus ponder-
+osa), incense-cedar (Calocedrus decurrens), and sugar
+pine (Pinus lambertiana). The thinning site was 8.1 ha
+in size and the ground slope between 37 and 68%. Our
+experiment site was divided into two units (4.05 ha for
+each unit). Each unit was randomly assigned with one
+of the two different harvesting treatments using a cable
+yarding system: (1) WT and (2) TL harvesting method.
+The thinning prescription in this study was to reduce
+wildland fire hazard by promoting forest health and
+growth. In each unit, the marked (>22.86 cm in diam-
+eter at breast height (DBH) trees) and unmarked bio-
+mass-sized (2.54–22.86 cm) trees were cut. and all trees
+less than 2.54 cm in DBH were left uncut according to
+the silvicultural prescription. The thinning resulted in
+structural diversity by providing a mosaic of tree den-
+sities and heights and creating a variety of habitats for
+plants and animals.
+The WT harvesting method used in this study con-
+sisted of chainsaw felling and a cable yarding system
+to yard trees to the landing with limbs and tops still
+attached. However, all trees larger than 50.8 cm in
+DBH were bucked at the stump using a chainsaw and
+yarded
+to
+the
+landing.
+A
+dangle-head
+processor
+attached to a CAT322L log loader base machine at the
+landing processed the whole trees to seven different
+sawlogs sizes. Higher value sawlogs were produced
+first. The limbs and tops left from the tree processing
+were accumulated into a slash pile and the roundwood
+of the tops were kept separate and decked in a large
+pile for subsequent utilization as biomass or firewood.
+The processed sawlog deck was separated into seven
+different sorts by a CAT322C log loader. Logs were
+sorted by species and log length to facilitate rapid
+truck loading. Logs from this thinning were hauled to
+a
+sawmill
+in
+either
+White
+City,
+Oregon
+or
+Yreka, California.
+In the TL harvesting method, chainsaws were used
+to fell and process trees at the stump, followed by
+bole-wood-only yarding using a cable yarding system.
+Although logs were already limbed on three sides and
+bucked at the stump, a processor finished manufac-
+tured sawlogs of different lengths (3.1–13.1 m) down to
+a small-end diameter of 15.2 cm outside bark at the
+landing. In both units, yarding was done using a
+Madill 071 yarder (240 HP) with Eagle Eaglet motor-
+ized clamping carriage run by five crews: a yarder
+operator, a hooktender, two choker-setters and a
+chaser with 7–35 years of experience. Yarding distan-
+ces ranged from 76 to 290 m.
+Data collection and analysis
+A pre-harvest timber cruise was conducted prior to
+thinning operation to quantify stand conditions. A
+2
+S.-K. HAN AND H.-S. HAN
+E-ISSN 2158-0715
+
+systematic sampling design, made up of 0.04 ha fixe-
+d–area circular plots, was established with 100 by 100
+m spacing. In each plot, trees down to 2.54 cm DBH
+were recorded for species, DBH, and height since any
+trees below this size were retained as advanced regen-
+eration. This data was used to estimate the average
+DBH, tree height, stand density (trees/ha), volume
+(m3/ha),
+and
+basal
+area
+(m2/ha)
+for
+each
+unit.
+Allometric
+equations
+developed
+by
+MacLean
+and
+Berger (1976) were used to estimate pre-harvest tree
+volumes in cubic meter (to a 10.2 cm top) for all of
+the species present in the study units. The experimen-
+tal design showed similarities in stand and ground
+condition between WT and TL harvesting units (Table
+1). There were no significant differences in mean DBH
+between WT and TL harvesting units (p > 0.05).
+Machine
+costs
+(US$/scheduled
+machine
+hour
+(SMH)) and harvesting productivity (m3/productive
+machine hour (PMH)) for each machine were calcu-
+lated using standard shift-level and detailed time study
+methods. Hourly machine costs (US$/SMH) were esti-
+mated using standard machine rate calculation meth-
+ods (Miyata 1980; Brinker et al. 2002; Table 2).
+Information on machine prices, insurance, taxes, inter-
+est, lubrication cost, repair and maintenance cost, and
+labor cost were obtained from the project contractor.
+Fuel consumption for each machine was estimated by
+machine horse power (HP). Diesel prices were deter-
+mined from local market prices during the study.
+Estimated economic life for all the machines was set at
+5 years with an assumption 1800 SMH/year. Salvage
+value was estimated at 20% percent of the initial
+machine price. Overhead and profit allowance were
+not included in the cost analysis.
+Detailed time studies were conducted to calculate
+thinning productivity (m3/PMH) and evaluate interac-
+tions between equipment, personnel, and harvesting
+attributes on each phase of the thinning treatment: fell-
+ing,
+yarding,
+processing,
+and
+loading
+(Olsen
+and
+Kellogg 1983). Production rates for each phase of thin-
+ning were compared between WT and TL harvesting
+systems. Individual cycle components for each turn
+were timed with a stopwatch, delays were uniquely
+identified with their causes (mechanical, operational,
+and
+personal),
+and
+independent
+variables
+were recorded.
+Regression equations were developed for felling,
+yarding, processing, and loading delay-free cycle times
+to determine machine production rates (m3/PMH) and
+to understand how independent variables might affect
+harvesting productivity. A felling cycle in WT harvest-
+ing unit consisted of traveling to the tree and felling.
+In TL harvesting unit, a felling cycle included traveling
+to the tree, felling, limbing, measuring, and bucking.
+Independent variables collected during felling opera-
+tions were species, DBH, slope, travel distance, and use
+of wedge. In both units, a yarding cycle consisted of
+the following sequence: carriage traveling out from the
+landing, lateral cable traveling out to felled tree(s) or
+log(s), hooking the tree(s) or log(s), lateral cable travel-
+ing in, carriage traveling to the landing, and unhook-
+ing the tree(s) or log(s). The independent variables
+collected were: yarding distance, lateral distance, and
+number of pieces per cycle. The processor’s cycle ele-
+ments included: grappling a tree or log, processing the
+tree into logs, and piling the tops. Lastly, log-loader
+cycle consisted of swinging the empty grapple to the
+deck, grappling, swinging logs toward the logging
+truck, and bunking the logs.
+Stepwise regression analysis of detailed time study
+data and evaluation of interactions between harvesting
+attributes were performed using SPSS (SPSS Inc. 1998)
+to develop prediction models of harvesting productiv-
+ity. In all of the prediction models, normality tests,
+residual plots, and the Durbin–Watson test were used
+to determine violations of the Gauss–Markov assump-
+tions. Furthermore, a forward selection method was
+used to search for a suitable subset of explanatory
+Table 1. Stand characteristics of the whole-tree (WT) and tree-length (TL) harvested units prior to thinning operations.
+Characteristics
+WT unit
+TL unit
+Biomass tree
+Sawlog tree
+Biomass tree
+Sawlog tree
+(<22.86 cm)
+(22.86 cm)
+(<22.86 cm)
+(22.86 cm)
+Average DBHa (cm)
+9.9
+36.1
+7.6
+39.6
+Average height (m)
+7.0
+18.6
+5.2
+19.3
+Average basal area (m2/ha)
+9.6
+39.9
+5.1
+35.7
+Stand density (trees/ha)
+957.8
+338.8
+794.2
+268.4
+Stand volume (m3/ha)
+34.3
+314.8
+16.3
+262.7
+Thinning intensity (%) based on basal area
+94
+35
+92
+37
+Species composition (%) based on basal area
+Douglas-fir
+64
+49
+62
+38
+Ponderosa pine
+23
+41
+15
+54
+Sugar pine
+6
+5
+1
+1
+White fir
+4
+2
+3
+3
+Incense-cedar
+2
+2
+19
+4
+adiameter at breast height
+Table 2. Hourly machine cost ($/scheduled machine hour (SMH)) used in this study.
+Machine
+Initial price
+Total hourly cost
+(US$)
+(US$/SMH)
+Madill 071 Yarder with eagle eaglet motorized clamping carriage
+250,000
+239.46
+CAT 322L Processor
+450,000
+134.62
+CAT 322C Loader
+300,000
+139.88
+E-ISSN 2158-0715
+FOREST SCIENCE AND TECHNOLOGY
+3
+
+variables that were significant (p < .05). In order to
+evaluate and reduce multicollinearity, the matrix plots,
+Variance Inflation Factors (VIF), Pearson correlation
+values, and Mallow’ CP values were generated and
+tested. To validate the developed regression models,
+30% of the observed data were randomly selected as
+reserved data. Then, prediction models developed from
+70% of the observed data were used to predict times
+for the reserved data. A paired t-test was used to
+evaluate the differences between observed (30% of the
+data) and predicted travel times (70% of the data). In
+our data analysis, both the acceptable error level and
+significance level were set to 5% (a ¼ 0.05).
+Results and discussion
+Harvesting productivity and delay-free cycle times
+The average time and relative frequency of hand-felling
+cycle elements for WT and TL harvesting methods are
+shown in Figure 1 and Table 3. Hand-felling cycle ele-
+ments and times varied greatly between WT and TL
+harvesting methods (p < 0.05). The average felling
+delay-free cycle times in WT and TL units were 1.11
+and 2.20 min, respectively (Table 3). TL harvesting had
+longer felling delay-free cycle time because of add-
+itional time needed to process logs at the stump. In
+WT harvesting, felling time was the largest component
+of the total hand-felling delay-free cycle time at 81%
+and traveling to the selected tree made up 19% of the
+total delay-free cycle time. In TL harvesting, measuring
+and limbing (41%) and cutting (30%) activities were
+the two largest components of total hand-felling delay-
+free cycle time. Except for processing time at the
+stump, the biggest time difference between WT and
+TL harvesting units was found in traveling time
+(0.21 minutes in WT and 0.5 minutes in TL). This was
+because a faller in the TL unit often traveled back to
+the stump after processing down the length of the tree.
+The production rates for both harvesting methods
+were determined by combining the average delay-free
+cycle time with the cycle volume. The production rates
+for hand-felling were 18.96 m3/PMH in the WT unit
+and 15.80 m3/PMH in the TL unit. Even though delay-
+free cycle times in the WT unit were less than half of
+those in the TL unit, WT harvesting only had a slightly
+higher production rate because basal area was larger in
+the WT unit than the TL unit (Table 1). These results
+are consistent with observations from other studies
+that tree size is the most important measurable vari-
+able affecting felling productivity (Kellogg et al. 1986,
+1999; Hartley and Han 2007).
+In the yarding phase, the average total delay-free
+cycle time and relative frequency of the yarding cycle
+elements for WT and TL harvesting methods are
+shown in Figure 2 and Table 3. WT harvesting had
+shorter yarding delay-free cycle time compared to TL.
+The average delay-free cycle time for yarding was
+2.60 min for the WT unit and 3.59 min for TL unit.
+This difference might be attributed to lateral yarding
+operation. The time spent pulling cable laterally was
+significantly longer in the TL unit than the WT unit
+although both units had similar lateral yarding distan-
+ces (10.7 m in the WT unit and 11.6 m in the TL
+unit). In addition, the ground was steeper in the TL
+unit compared to the WT unit. The TL unit also had a
+larger amount of logging slash on the ground from
+processing trees at the stump. The logging slash inter-
+fered with the choker-setter’s movement and produced
+lot
+of
+hang-up
+problems
+during
+lateral
+yarding
+WT harvesting
+TL harvesting
+Move & 
+select
+19% 
+(0.21 
+min.)
+Cut & 
+wedge 
+81% 
+(0.90 
+min.) 
+Move & 
+select
+23% 
+(0.50 
+min.)
+Cut & 
+wedge 
+30% 
+(0.67 
+min.) 
+Measure 
+& Limb
+41%
+(0.91 
+min.) 
+Buck
+6%
+(0.12 
+min.) 
+Figure 1. Time spent for specific cycle components for hand-felling in whole-tree (WT) and tree-length (TL) harvesting methods.
+Table 3. Average delay-free cycle time and observed production rate for the whole-tree and tree-length harvest systems.
+Hand-felling
+Yarding
+Processing
+Loading
+Cycle time
+Production rate
+Cycle time
+Production rate
+Cycle time
+Production rate
+Cycle time
+Production rate
+(min.)
+(m3/PMHa)
+(min.)
+(m3/PMH)
+(min.)
+(m3/PMH)
+(min.)
+(m3/PMH)
+Whole-tree
+1.11
+18.96
+2.60
+22.49
+0.81
+40.72
+19.92
+60.48
+Tree-length
+2.20
+15.80
+3.59
+26.70
+0.99
+44.62
+18.82
+59.38
+aPMH: productive machine hour
+4
+S.-K. HAN AND H.-S. HAN
+E-ISSN 2158-0715
+
+operation. In both harvesting methods, hooking was
+the most time-consuming of the yarding cycle ele-
+ments. The sum of lateral outhaul, hook, and lateral
+inhaul time in WT and TL units consumed 54 and
+55% of the total yarding delay-free cycle time, respect-
+ively. The hooking and unhooking time was relatively
+similar throughout the treatments, but carriage out
+and in time in the TL unit were significantly higher
+than those in the WT unit (p < 0.01). Carriage travel
+time was influenced by the external yarding distance of
+each unit. The average yarding distance for the WT
+unit was 72.5 m and 118.6 m in the TL unit. The yard-
+ing production rates in the WT unit was lower com-
+pared to the TL unit, even though the WT unit had
+shorter average delay-free yarding cycle time (Table 3).
+This result was attributed from the differences of turn
+volume between WT and TL units (1.39 m3/cycle in
+the WT unit and 2.28 mt3/cycle in the TL unit). Turn
+volumes were lower in the WT unit because of the
+additional weight of green foliage and branches hauled
+to the landing. For this reason, more volume per turn
+was observed in the TL unit than the WT unit.
+Therefore,
+increasing
+volume
+per
+turn
+was
+more
+important than reducing the delay-free cycle time
+when trying to increase yarding productivity. In our
+study, skyline road change times were similar between
+WT and TL units. The average skyline road change
+time for the WT unit was 39 min (n ¼ 3, SD ¼ 11 min)
+with an average yarding distance of 207 m. The aver-
+age skyline road change time for the TL unit was
+40 minutes (n ¼ 4, SD ¼ 8 min) with an average yarding
+distance of 232 m. These values were very comparable
+with past studies (Kellogg et al. 1986, 1999; Hartley
+and Han 2007).
+The processor manufactured different log lengths
+(3.1–13.1 m) from whole trees and bole-woods at the
+road-side landing area. In our study, the average proc-
+essing delay-free cycle time in the TL unit (0.99 min/
+cycle) was higher than the WT unit (0.82 min/cycle),
+even though bole-wood in the TL unit were already
+limbed and bucked at the stump (Figure 3 and
+Table 3). Processing cycle volumes in WT and TL
+units were 0.85 and 1.13 m3/cycle, respectively. These
+results might be due to larger diameter trees in the TL
+unit. Processing production rates between WT and TL
+units were relatively similar throughout treatments due
+to higher cycle volume in the TL unit (Table 3).
+Log trucks were loaded from a cold deck by a dedi-
+cated loader resulting in a consistent loading delay-free
+cycle time and production rate between the TL and
+WT units. Log trucks were loaded until the onboard
+scales read a loaded weight of 25 tons. In our study,
+average loading time per truck was slightly longer in
+the WT unit compared to the TL unit, but there was
+no significant difference between two treatment units.
+Average loading production rates in WT and TL units
+were 60.5 m3/PMH and 59.4 m3/PMH, respectively.
+Delay-free cycle time regression equations
+Regression equations developed from the detailed time
+study predict delay-free cycle time for each machine. It
+evaluates all the associated independent variables for
+each cycle element to determine which factors influ-
+ence the models. Equations were developed separately
+for WT and TL units. All models were validated using
+a paired t-test (a ¼ 0.05). Differences between the
+observed and predicted delay-free cycle times for all
+equations in both units were insignificant (p > 0.05),
+  WT harvesting                         TL harvesting 
+Carriage 
+out
+18%
+(0.46 
+min.)
+Lateral 
+out
+19%
+(0.50 
+min.)
+Hook
+25% 
+(0.64 
+min.)
+Lateral in
+10% 
+(0.26 
+min.)
+Carriage 
+in
+18% 
+(0.47 
+min.)
+Unhook
+10%
+(0.27 
+min.)
+Carriage 
+out
+16%
+(0.57 
+min.)
+Lateral 
+out
+20%
+(0.70 
+min.)
+Hook
+20% 
+(0.70 
+min.)
+Lateral in
+15% 
+(0.54 
+min.)
+Carriage 
+in
+19% 
+(0.68 
+min.)
+Unhook
+11%
+(0.39 
+min.)
+Figure 2. Time spent for specific cycle components for yarding in whole-tree (WT) and tree-length (TL) harvesting methods.
+21%
+(0.17 min.)
+79%
+(0.65 min.)
+18%
+(0.18 min.)
+82%
+(0.81 min.)
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Grappling
+Processing
+Time allocation (% PMH)
+WT
+TL
+Figure 3. Time spent for specific cycle components when processing
+whole-tree (WT) and tree-length (TL) sawlogs.
+E-ISSN 2158-0715
+FOREST SCIENCE AND TECHNOLOGY
+5
+
+suggesting that the developed regression equations
+were good predictors (Tables 4 and 5).
+In both units, the felling equation indicated that
+tree size, the use of wedge, and traveling distances
+between trees positively impacted the felling delay-free
+cycle time. The distance traveled between trees was
+directly related to thinning intensity. A stand with a
+heavier thinning prescription would require shorter
+traveling distances, resulting in shorter felling delay-
+free cycle time. In the WT unit, slope at the stump
+was also indicated as a significant variable affecting
+felling time (Table 4). The equation suggested an
+increase delay-free cycle time with an increase in slope.
+In the TL unit, the number of buck cuts was found to
+be one of the most significant variables influencing
+felling delay-free cycle time (Table 5). Similar results
+were also found in several past studies (Kellogg et al.
+1986, 1999; Hartley and Han 2007). They reported that
+a large tree size had increased delay-free cycle times
+because it required increased amounts of time for cut-
+ting and bucking.
+Yarding delay-free cycle times were positively influ-
+enced by lateral yarding and yarding distances, mean-
+ing that a decrease in lateral yarding and yarding
+distance would reduce yarding delay-free cycle time
+(Tables 4 and 5). However, this result should be care-
+fully applied in conventional cable yarding systems
+requiring guylines because the use of shorter yarding
+and lateral distance would cause higher yarding costs
+due to an increase in skyline road changing time.
+Research from past studies found that the number of
+pieces or amount of volume per cycle were indicated
+as the most significant variable impacting yarding
+delay-free cycle time (Kellogg et al. 1986, 1999; Largo
+and Han 2004; Hartley and Han 2007). However, in
+our study, this variable was insignificant (p > .05) in
+Table 4. Delay-free average cycle time equations for whole-tree thinning. All variables included in the equations had significant p-value less
+than 0.05.
+Operations
+Average cycle time estimator (centi-min.)
+Mean
+n
+r2
+Cp
+a
+Validation p-valueb
+Chainsaw-felling
+DFCTc
+208
+0.77
+6.15
+0.72
+¼ 235.497
+þ 0.070 (DBH in centimeter)2
+30.2
+þ 6.340 (move to tree distance in meter)
+3.1
+ 59.116 lnd(slope in percent)
+46.5
+þ 78.082 (wedge)
+0.04
+Yarding
+DFCT
+156
+0.37
+4.31
+0.51
+¼ 177.149
+þ 1.941 (lateral distance in meter)
+9.3
+þ 0.845 (yarding distance in meter)
+72.2
+Processing
+ln(DFCT)
+65
+0.26
+4.12
+0.39
+¼ 4.128
+þ 0.109 (number of logs per piece)
+2.0
+Loading
+ln(DFCT)
+78
+0.40
+4.56
+0.61
+¼ 3.539
+þ 0.412 (number of logs)
+1.2
+aMellows’ Cp statistic.
+bp-value provided by a paired t-test between predicted and observed cycle times.
+cDFCT: delay-free cycle time.
+dln: natural logarithm.
+Table 5. Delay-free average cycle time equations for tree-length thinning. All variables included in the equations had significant p-value less
+than 0.05.
+Operations
+Average cycle time estimator (centi-min.)
+Mean
+n
+r2
+Cp
+a
+Validation p-valueb
+Chainsaw-felling
+ln(DFCTc)
+188
+0.82
+6.25
+0.76
+¼ 3.010
+þ 0.031 (DBH in centimeter)
+37.6
+þ 0.243 lnd (move to tree distance in meter)
+11.4
+þ 0.545 (number of bucking)
+0.94
+þ 0.298 (wedge)
+0.10
+Yarding
+DFCT
+121
+0.78
+6.78
+0.81
+¼ 212.125
+þ 3.619 (lateral distance in meter)
+9.6
+þ 0.875 (yarding distance in meter)
+59.5
+Processing
+DFCT
+52
+0.52
+5.29
+0.69
+¼ 32.280
+þ 56.348 (number of cuts per piece)
+2.4
+Loading
+DFCT
+76
+0.38
+4.06
+0.29
+¼ 30.482
+þ 27.915 (number of logs)
+1.3
+aMellows’ Cp statistic.
+bp-value provided by a paired t-test between predicted and observed cycle times.
+cDFCT: delay-free cycle time.
+dln: natural logarithm.
+6
+S.-K. HAN AND H.-S. HAN
+E-ISSN 2158-0715
+
+predicting yarding delay-free cycle time. This differ-
+ence might be a result of our data collection methods.
+Most of the yarding cycles had a consistent number of
+pieces (3 or 4 trees or bole-woods) for over 150 yard-
+ing cycles. Predictive equations covering various work
+conditions could have been generated if the operations
+were performed under different conditions. In all yard-
+ing cycles slope, turn volumes and material were
+fairly consistent.
+The equations developed for processing indicated
+that the number of logs per piece was the only factor
+influencing delay-free cycle time for both WT and TL
+units (Tables 4 and 5). In the WT unit, tree size in
+DBH was excluded in the equation due to multicolli-
+nearity with the number of logs per cycle. For the
+loading cycle equations, the number of logs was found
+to be a significant variable to predict loading delay-free
+cycle time (p < 0.05).
+Fuel reduction thinning costs for WT and TL
+harvesting methods
+The overall stump-to-truck sawlog production costs
+(US$/m3) and percentage of total for WT and TL har-
+vesting units were summarized in Table 6. Total
+sawlog
+production
+costs
+(stump-to-truck)
+were
+US$26.13/m3 in the WT unit and US$24.01/m3 in the
+TL unit. The main reason for this cost difference was
+due to the high yarding costs in the WT unit. Even
+though TL unit had longer yarding delay-free cycle
+time, smaller turn volume in the WT unit resulted in
+higher yarding costs. Yarding costs in both harvesting
+systems were the highest cost component (59% of total
+cost in WT units and 54% in TL units) of the total
+fuel reduction thinning using cable yarding system.
+Therefore,
+small
+increases
+in
+yarding
+productivity
+could significantly reduce the overall production costs.
+Yarding costs ($15.54/m3 in WT unit and US$13.07/
+m3 in TL unit) in this study were comparable with
+those (US$13.42–US$16.60/m3) found in a past study
+(Kellogg et al. 1999). However, in another skyline thin-
+ning study, yarding costs ranged from US$18.01/m3 to
+US$22.60/m3 (Kellogg et al. 1986). Lower yarding costs
+in our study were mainly caused by the higher turn
+volume (2.28 m3/turn), compared to a past study
+(1.59–2.03 m3/turn; Kellogg et al. 1986).
+In hand-felling operations, the TL unit had higher
+production cost than the WT unit due to additional
+limbing and bucking activities to manufacture bole-
+wood at the stump. Similar results were also reported
+from Kellogg et al. (1999). They suggested that “limb
+and measure”, which accounted for the most felling
+delay-free
+cycle
+time,
+would
+provide
+the
+greatest
+opportunity to reduce felling costs. In our study, the
+mechanical delimber used on the landing at WT unit
+allowed 20% decrease in the felling costs. Felling costs
+(US$3.53/m3 in WT units and US$4.24/m3 in TL unit)
+in
+this
+study
+were
+comparable
+with
+those
+(US$3.53–US$3.88/m3) found in a past study (Kellogg
+et al. 1986, 1999).
+Processing cost in the WT unit was slightly higher
+than those in the TL unit. Although the TL harvesting
+method already limbed and bucked trees at the stump
+during felling operations, higher felling costs did not
+fully compensate lower processing costs. Loading costs
+for
+WT
+and
+TL
+units
+were
+same
+(US$2.83/m3),
+because final manufactured log sizes and types between
+two different treatments were similar and loading
+occurred independently from other operation activities.
+Conclusion
+This field-based study was conducted to assess the eco-
+nomic feasibility of whole-tree (WT) and tree-length
+(TL) fuel reduction thinning using cable yarding sys-
+tems. Total sawlog production costs (stump-to-truck)
+were US$26.13/m3 in the WT harvested unit and
+US$24.01/m3 in TL harvested unit. The difference in
+fuel reduction treatment methods greatly affected the
+cost and production of harvest operations, especially in
+felling and yarding production. As expected, tree size
+in both units greatly influenced felling productivity
+and cost. Limbing and bucking trees at the stump in
+the TL unit was found to be the major factor increas-
+ing
+delay-free
+cycle
+time.
+In
+yarding
+operation,
+although the WT unit had shorter yarding delay-free
+cycle time than the TL unit, higher production rate
+and lower production costs were found in the TL unit.
+This result was caused by mainly the differences in
+turn volume of the two units. As the turn volume of
+the logs increased, yarding productivity also increased
+significantly without impacting the overall average
+yarding delay-free cycle time. Processing time and pro-
+duction rates at a landing were relatively similar
+throughout treatments, although trees in the TL unit
+were already limbed and bucked at the stump. Lower
+processing cost in the TL unit was not enough to offset
+additional costs incurred by manually processing trees
+at the stump during felling operation. Loading produc-
+tivities and costs were consistent throughout treat-
+ments because loading occurred independently from
+other activities. Log trucks were loaded from a cold
+deck by a loader, resulting in a consistent production
+in loading between two treatments.
+Our study indicated that TL harvesting was more
+cost-effective than WT harvesting. It should be noted
+that TL operations leave tree tops and branches on
+site, which may not be acceptable from a fuels man-
+agement perspective. It should be noted that this case
+study was developed under specific work and stands
+conditions. Therefore, these results should be used
+cautiously and applied to similar stands and machine
+Table 6. Stump-to-truck sawlog production costs (US$/m3) and per-
+centage of total for whole-tree and tree-length units.
+Whole-tree (WT)
+Tree-length (TL)
+Cost
+Percent
+Cost
+Percent
+(US$/m3)
+of total
+(US$/m3)
+of total
+Hand-felling
+3.53
+13
+4.24
+18
+Yarding
+15.54
+59
+13.07
+54
+Processing
+4.24
+16
+3.88
+16
+Loading
+2.83
+11
+2.83
+12
+Total
+26.13
+100
+24.01
+100
+E-ISSN 2158-0715
+FOREST SCIENCE AND TECHNOLOGY
+7
+
+configurations because the economic feasibility of dif-
+ferent thinning methods using a cable yarding system
+is often determined by the thinning intensity and
+biomass utilization. Therefore, further replications of
+this study would be needed in order to increase confi-
+dence
+in
+the
+applicability
+of
+its
+conclusion
+to
+other situations.
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+References
+Adebayo AB, Han H-S, Johnson L. 2007. Productivity and cost
+of cut-to-length and whole-tree harvesting in a mized-conifer
+stand. Forest Prod J. 57(6):59–69.
+Bolding MC, Kellogg LD, Davis CT. 2009. Productivity and costs
+of an integrated mechanical forest fuel reduction operation in
+southwest Oregon. Forest Prod J. 59(3):35–46.
+Brinker RW, Kinard J, Rummer B, Lanford B. 2002. Machine
+rates for selected forest harvesting machines. Circular 296
+(Revised). Alabama Agricultural Experiment Station. 29p.
+Daigle PW. 1992. Financial aspects of alternative harvest cutting
+methods and silvicultural treatments: a literature review.
+FRDA II Report. Victoria, BC: British Columbia Ministry of
+Forest. 51p.
+Elliott KJ, Knoepp JD. 2005. The effects of three regeneration
+harvest methods on plant diversity and soil characteristics in
+the
+southern
+appalachians.
+Forest
+Ecol
+Manage.
+211(3):
+296–317.
+Graham RT, Harvey A, Jain T, Tonn J. 2002. The effects of thin-
+ning and similar stand treatments on forest fire behavior in
+western forests. Portland, OR: USDA Forest Service, Pacific
+Northwest Research Station. 27p.
+Han H-S, Lee HW, Johnson LR. 2004. Economic feasibility of an
+integrated harvesting
+system for small-diameter trees
+in
+southwest Idaho. Forest Prod J. 54(2):21–27.
+Hartley D, Han H.-S. 2007. Effects of four silvicultural prescrip-
+tions on cable harvesting productivity and cost in western
+Washington. Western Journal of Applied Forestry. 22(3):
+204–212.
+Hochrein PH, Kellogg LD. 1988. Production and cost compari-
+son for three skyline thinning systems. Western J Appl
+Forest. 3(4):120–123.
+Kellogg LD, Miller MM Jr, Olsen ED. 1999. Skyline thinning
+production and costs: experience from the Willamette Young
+Stand Project. Research Contract 21. Corvallis, OR: Forest
+Research
+Laboratory,
+College
+of
+Forestry,
+Oregon
+State
+University. 33p.
+Kellogg LD, Milota GV, Miller M., Jr. 1996. A comparison of
+skyline harvesting costs for alternative commercial thinning
+prescriptions. J Forest Eng. 7(3):7–23.
+Kellogg LD, Olsen ED, Hargrave MA. 1986. Skyline thinning a
+western hemlock-Sitka spruce stand: harvesting costs and
+stand damage. Research Bulletin 53. Corvallis, OR: Forest
+Research
+Laboratory,
+College
+of
+Forestry,
+Oregon
+State
+University. 21p.
+Keyes CR, O’Hara KL. 2002. Quantifying stand targets for silivi-
+cultural prevention of crown fires. Western J Appl Forest.
+17(2):101–109.
+Largo S, Han H-S. 2004. Productivity and cost evaluation for
+non-guyline yarders (Yoader) in northern Idaho. Proceedings
+of the 27th Annual Council on Forest Engineering Meeting;
+Corvallis, OR: Council on Forest Engineering.
+LeVan-Green S, Livingston J. 2001. Exploring the uses for small-
+diameter trees. Forest Prod J. 51(9):10–21.
+Lowell EC, Becker DR, Larson D, Rummer R, Wadleigh L. 2008.
+An integrated approach to evaluating the economic costs of
+wildfire hazard reduction through wood utilization opportuni-
+ties in the southwestern U.S. Forest Sci. 54(3):273–283.
+MacLean C, Berger J. 1976. Softwood tree volume equations for
+major California species. Research Note PNW-266. Portland,
+OR: US Department of Agriculture, Pacific Northwest Forest
+and Range Experiment Station. 35pp.
+Miyata E.S. 1980. Determining fixed and operating cost of log-
+ging equipment. USDA Forest Service General Technical
+Report NC-55. 16p.
+Olsen E.D, Kellogg L.D. 1983. Comparison of time-study techni-
+ques
+for
+evaluating
+logging
+production.
+Research
+Paper
+1701.
+Corvallis,
+OR:
+College
+of
+Forestry,
+Oregon
+State
+University. 4p.
+Pan F, Han H-S, Johnson LR, Elliot WJ. 2008. Production and
+cost of harvesting and transporting small-diameter trees for
+energy with a whole-tree system. Forest Prod J. 58 (5):47–53.
+SPSS Inc. 1998. SPSS for Windows. Version 9.0.0. Chicago, IL:
+SPSS Inc.
+USDA Forest Service 2003. Large fire cost reduction action plan.
+Washington, D.C.: USDA Forest Service, 24p.
+Vitorelo B, Han H-S, Elliot W. 2011. Productivity and cost of
+integrated harvesting for fuel reduction thinning. Forest
+Prod J. 61(8):664–674.
+8
+S.-K. HAN AND H.-S. HAN
+E-ISSN 2158-0715

@@ -1,0 +1,1357 @@
+Ecological Modelling 175 (2004) 231–248
+Changes in canopy fuels and potential ﬁre behavior
+1880–2040: Grand Canyon, Arizona
+Peter Z. Fulé a,b,∗, Joseph E. Crouse b, Allison E. Cocke c,
+Margaret M. Moore a, W. Wallace Covington a,b
+a School of Forestry, Northern Arizona University, P.O. Box 15018, Flagstaff, AZ 86011, USA
+b Ecological Restoration Institute, Northern Arizona University, P.O. Box 15017, Flagstaff, AZ 86011, USA
+c National Park Service, P.O. Box 52, Hawaii National Park, HI 96718, USA
+Received 13 May 2003; received in revised form 30 September 2003; accepted 27 October 2003
+Abstract
+We applied detailed forest reconstructions measured on broad-scale plot grids to initialize forest simulation modeling in
+1880 and modeled spatially explicit changes in canopy fuels (canopy biomass, canopy bulk density, species composition) and
+potential ﬁre behavior (crowning index) through 2040, a 160-year period. The study sites spanned a 500-m elevational gradient
+from ponderosa pine forest through higher-elevation mixed conifer, aspen, and spruce-ﬁr forests on the North Rim of Grand
+Canyon National Park in northern Arizona. The simulations were relatively accurate, as assessed by comparing the simulation
+output in the year 2000 with ﬁeld data collected in 1997–2001, because a regionally calibrated simulator was used (Central
+Rockies variant of the Forest Vegetation Simulator) and because we added regeneration by species and density in the correct
+historical sequence. Canopy biomass increased at all sites, rising an average of 122% at the low-elevation sites and 279% at
+the high-elevation sites. The intermediate-elevation site, where mixed conifer vegetation predominated, began with the highest
+canopy biomass in 1880 but had the lowest increase through 2040 (39%). Canopy bulk density increased roughly in parallel with
+canopy biomass; however, density values were considered less accurate in non-contemporary dates because they were based on
+assumptions about canopy volume. Species composition of canopy fuels was consistent at low elevation (ponderosa pine) but
+shifted strongly toward mesic species at higher elevations, where ponderosa pine declined in absolute as well as relative terms.
+Potential crown ﬁre behavior was assessed with the Nexus model in terms of crowning index (CI), the windspeed required to
+sustain active canopy burning. CI values decreased 23–80% over the modeled period. Canopy fuel and CI values were mapped
+across the entire North Rim landscape. At a threshold windspeed of 45 km/h, only 6% of the landscape was susceptible to
+active crown ﬁre in 1880 but 33% was susceptible by 2000. Implications of the changes over time and space include altered
+contemporary habitats and the high likelihood of rapid, broad-scale disturbance by ﬁre. If managers choose to intervene to reduce
+canopy fuel mass and continuity, actions should be guided by the distinct ecological attributes of the different forest types.
+© 2003 Elsevier B.V. All rights reserved.
+Keywords: Kaibab Plateau; Picea; Pinus; Abies; Pseudotsuga; Populus; Crown ﬁre; Fire hazard
+∗Corresponding author. Tel.: +1-928-523-1463;
+fax: +1-928-523-0296.
+E-mail address: pete.fule@nau.edu (P.Z. Ful´e).
+1. Introduction
+The Rodeo-Chediski ﬁre complex in eastern Ari-
+zona in 2002 approached 200,000 ha in size, an
+order of magnitude greater than recent destructive
+0304-3800/$ – see front matter © 2003 Elsevier B.V. All rights reserved.
+doi:10.1016/j.ecolmodel.2003.10.023
+
+232
+P.Z. Ful´e et al. / Ecological Modelling 175 (2004) 231–248
+and costly ﬁres in the Southwest, such as the circa
+20,000-ha Cerro Grande ﬁre in New Mexico in 2000.
+As increasingly higher thresholds of crown ﬁre are
+crossed, understanding the causes and characteristics
+of crown ﬁre behavior has become urgent. Of the
+elements of the ﬁre environment—weather, topogra-
+phy, and fuels—the features that can be modiﬁed by
+management are the mass, arrangement, and compo-
+sition of fuels across the landscape. Thus information
+about vegetation patterns, change over time, and sus-
+ceptibility to crown ﬁre is highly useful for designing
+management strategies (Flannigan et al., 2000).
+Any fuel measurement and ﬁre modeling approach
+should be driven by the intended use of the data—from
+broad planning purposes to detailed ﬁre behavior
+predictions—within the constraints of ﬁnancial re-
+sources and technological capabilities (Keane and
+Finney, 2003). Landscape fuels have been measured
+with a great variety of strategies (Keane et al., 2001).
+For example, at a broad scale, Schmidt et al. (2002)
+mapped several vegetation and ﬁre regime variables
+at 1 km2 resolution across the U.S., basing the veg-
+etation maps on a synthesis of existing map data
+(e.g., Küchler’s Potential Natural Vegetation map).
+At ﬁner scale, Keane et al. (1998, 2000) mapped ﬁre
+behavior fuel models (Anderson, 1982) on large land-
+scapes in Montana, Idaho, and New Mexico using a
+“triplet” of base vegetation characteristics: biophys-
+ical setting, cover type (species composition), and
+structural stage (vertical stand structure). The cou-
+pling of fuel data with vegetation simulation and ﬁre
+behavior models provides an even broader array of
+approaches for modeling successional change, ﬁre
+ignition, and ﬁre spread. Rupp et al. (2001) classiﬁed
+landscape-ﬁre-succession models along gradients of
+increasing complexity, from pathway or Markovian
+models with very generalized descriptions of plant
+communities to highly speciﬁc individual-plant and
+gap-phase models. Keane et al. (1999) integrated a
+detailed mechanistic biogeochemical process model,
+FireBGC, with a spatially explicit ﬁre behavior
+model, FARSITE (Finney, 1998), to link changes in
+climate with changes in ﬁre regimes. The accuracy of
+long-term simulation may be easier to assess when
+dynamics are modeled retrospectively as well as into
+the future (Fuhlendorf et al., 1996). Stochastic sim-
+ulation approaches, such as those used by He and
+Mladenoff (1999) in Wisconsin or Miller and Urban
+(2000) in the Sierra Nevada, provide less precision
+about individual events but offer more realistic prob-
+ability distributions about long-term change.
+The Southwest is a microcosm of the variabil-
+ity in forests and ﬁre regimes found throughout
+North America but forest types adapted to frequent
+surface-ﬁre regimes predominate. Ponderosa pine and
+lower mixed conifer forests make up approximately
+2,950,000 ha in Arizona and New Mexico (O’Brien,
+2002; Fiedler et al., 2002). These vegetation types
+comprise 86% of the high-elevation, non-woodland
+forests in Arizona (O’Brien, 2002). About 90% of
+these forest types in New Mexico are considered at
+moderate or high risk for stand-replacing ﬁre (Fiedler
+et al., 2002), due to increased stand density and
+fuel accumulation following ﬁre exclusion and other
+management interventions (Covington and Moore,
+1994). The higher-elevation forest types, such as
+mixed conifer, aspen, and spruce-ﬁr stands, are rare
+but important habitats, comprising only about 3% of
+Arizona’s forests (O’Brien, 2002). Although rarely
+studied, these forests are believed to include a mix of
+surface and stand-replacing ﬁre regimes (White and
+Vankat, 1993; Grissino-Mayer et al., 1995; Rollins
+et al., 2002; Fulé et al., 2003b). There is some evidence
+that recent successional changes in the ﬁre exclusion
+period may be leading to compositional change (loss
+of aspen and meadows; Dahms and Geils, 1997) and
+fuel accumulations (White and Vankat, 1993; Fulé
+et al., 2003b).
+The challenge for landscape management is to select
+the appropriate data and tools for modeling ecological
+change, then integrating process modeling with land-
+scape pattern (Opdam et al., 2002). We reconstructed
+key fuel and ﬁre behavior variables on a large south-
+western landscape crossing a 500-m elevation gra-
+dient that encompassed forest types from ponderosa
+pine and mixed conifer to spruce-ﬁr and aspen. We
+took advantage of detailed forest data collected on
+landscape-scale plot grids in a large, never-harvested
+forest at Grand Canyon National Park. The study ob-
+jectives were to use a regionally-speciﬁc vegetation
+simulator and a ﬁre behavior model to: (1) estimate
+the changes in canopy fuels across the sampled land-
+scapes over time, from 1880 through the present and
+near future (2040); (2) estimate changes in the poten-
+tial for crown ﬁre behavior over time and space; and
+(3) assess ecological and management implications.
+
+P.Z. Ful´e et al. / Ecological Modelling 175 (2004) 231–248
+233
+2. Methods
+2.1. Study area
+The study area was a 6-km × 18-km transect on
+the Kaibab Plateau, the North Rim of the Grand
+Canyon, in northern Arizona. A series of study sites
+was arranged along an elevational gradient from Pow-
+ell Plateau (approximately 2300 m elevation) up to
+the highest elevation in Grand Canyon National Park
+(2794 m in the Little Park East study site), compris-
+ing a total of 5345 ha. The forest structures and ﬁre
+regimes at the study sites were described in detail by
+Fulé et al. (2002, 2003a, b).
+Average annual precipitation at the North Rim
+ranger station (elevation 2542 m) is 58 cm, with an
+average annual snowfall of 328 cm. Temperatures
+range from an average July maximum of 26 ◦C to
+an average January minimum of −2 ◦C (White and
+Vankat, 1993). Soils were derived from Kaibab lime-
+stone; soil textures ranged from coarse to ﬁne loams
+(A. Dewall, National Resource Conservation Service,
+personal communication, 2002).
+Forests in the western study sites were domi-
+nated by ponderosa pine with Gambel oak and New
+Mexican locust (scientiﬁc names and species codes
+are given in Table 1). At intermediate elevation
+(Swamp Ridge study site, approximately 2500 m),
+tree species included ponderosa pine, aspen, white ﬁr,
+and Douglas-ﬁr. At the highest elevation sites, Little
+Park West and Little Park East, tree species included
+ponderosa pine, aspen, white ﬁr, subalpine ﬁr, and
+spruces. Engelmann and blue spruce were combined
+in this study because of difﬁculties in distinguishing
+Table 1
+Tree species found on sampling plots at Grand Canyon study sites
+Species
+Common name
+Code
+Abies lasiocarpa (Hook.) Nutt.
+Subalpine ﬁr
+ABLA
+Abies concolor (Gordon & Glendinning) Hoopes.
+White ﬁr
+ABCO
+Picea engelmannii Parry ex Engelm.
+Engelmann spruce
+PIEN
+Picea pungens Engelm.
+Blue spruce
+Combined with PIEN
+Pinus ponderosa var. scopulorum P. & C. Lawson
+Ponderosa pine
+PIPO
+Populus tremuloides Michx.
+Quaking aspen
+POTR
+Pseudotsuga menziesii (Mirb.) Franco var. glauca (Beissn.) Franco
+Rocky Mountain Douglas-ﬁr
+PSME
+Quercus gambelii Nutt.
+Gambel oak
+QUGA
+Robinia neomexicana Gray
+New Mexican locust
+RONE
+young trees and our observation of trees at the study
+site that had characteristics intermediate between the
+two species.
+2.2. Image classiﬁcation
+Image classiﬁcation was described in detail by
+Crouse and Fulé (2003) and is summarized here.
+We used a Landsat 7 Enhanced Thematic Mapper
+(ETM+) image, acquired 6 June 2000. TM imagery
+has been shown to be the best product for consistently
+mapping vegetation for large land areas (Keane et al.,
+2000). Image classiﬁcation and analysis was done
+using Erdas Imagine (Leica Geosystems AG, Switzer-
+land). Field plot data (166 plots, described below)
+collected from 1997 to 2002 were used as training
+sites for classiﬁcation. The classiﬁcation scheme was
+developed within the National Vegetation Classiﬁca-
+tion Standards (NVCS) framework (USGS, 2000).
+The species label for each training site was based on
+“importance value” (Taylor, 2000), the sum of the
+relative frequency (percent stems) and relative abun-
+dance (percent basal area) for each species. Forest
+types were classiﬁed into four types: (1) aspen, (2)
+mixed conifer (sites where importance values were
+dominated by white ﬁr or Douglas-ﬁr), (3) ponderosa
+pine, and (4) spruce-ﬁr. The two non-forest types were
+(1) grass, and (2) burn. The “burn” category was the
+Outlet Fire of 2000, a 5260-ha stand-replacing ﬁre.
+A classiﬁcation using a minimum distance algo-
+rithm was run using the combined training site sig-
+nature set. The classiﬁed image was checked using
+aerial photographs (National High Altitude Photog-
+raphy program 1:40,000 color infrared prints) and
+
+234
+P.Z. Ful´e et al. / Ecological Modelling 175 (2004) 231–248
+individuals familiar with the area assisted in reﬁning
+the classiﬁcation. Misclassed pixels were identiﬁed us-
+ing an elevation-based model developed in Imagine.
+For example, vegetation types such as spruce do not
+occur at the lower elevations of the study area. The
+model “ﬂagged” this vegetation type if it occurred be-
+low 2250 m. These pixels were then edited to reﬂect
+the correct vegetation type. Veriﬁcation against an in-
+dependent data set of 86 ﬁre monitoring plots showed
+an overall classiﬁcation accuracy of 74.7%.
+2.3. Forest measurements
+Vegetation was measured on plots based on the Na-
+tional Park Service’s Fire Monitoring plots (Reeberg,
+1995), with modiﬁcations to collect detailed tree con-
+dition and dendroecological data. This plot design was
+chosen to correspond with NPS monitoring and be-
+cause the relatively large plots are useful for cap-
+turing variability of clumps of old trees (Fulé et al.,
+1997). A total of 166 plots was measured between
+1998 and 2001 (Fig. 1). Sampling plots were 0.1 ha
+(20 m × 50 m) in size, oriented with the 50-m sides
+uphill-downhill to maximize sampling of variability
+along the elevational gradient and to permit correc-
+tion of the plot area for slope. Plots were permanently
+marked with iron stakes were sunk ﬂush to the for-
+est ﬂoor at the corners and center of each plot and a
+large tree was tagged with the distance and bearing to
+Fig. 1. Study sites on the North Rim of Grand Canyon National Park, Arizona. From west to east, sites are Powell Plateau (PP), Fire Point
+(FP), Rainbow Plateau (RP), Swamp Ridge (SR), Little Park West (LPW) and Little Park East (LPE). Forest structure and ﬁre regimes of
+the ﬁrst four sites were described by Ful´e et al. (2002, 2003a). The Little Park area is described in Ful´e et al. (2003b). The dots at each
+study site represent the locations of permanent plots. Each plot is 20 m × 50 m in size.
+the plot center. Photos were taken at the corners and
+quarter-corners of each plot.
+Trees larger than 15 cm diameter at breast height
+(dbh) were measured on the entire plot (1000 m2)
+and trees between 2.5 and 15 cm dbh were measured
+on one quarter-plot (250 m2); all trees were tagged.
+Tree attributes measured were: species, dbh, height,
+crown base height, dwarf mistletoe rating (0–6;
+Hawksworth and Geils, 1990), and tree condition. To
+assess changes in forest structure, we differentiated
+between trees established prior to 1880 and those that
+established later. Previous research in northern Ari-
+zona showed that ponderosa pines with dbh >37.5 cm
+or ponderosa of any size with yellowed bark could
+be conservatively identiﬁed in the ﬁeld as being of
+pre-1880 origin (White, 1985; Mast et al., 1999). We
+used the same diameter breakpoint, 37.5 cm, for other
+conifers and >20 cm for aspen trees (Fulé et al., 2002).
+“Conservative” identiﬁcation meant that these crite-
+ria included all pre-1880 trees as well as numerous
+post-1880 trees. Tree status (pre/post 1880) was later
+corrected in the laboratory using age data. All living
+trees meeting the ﬁeld criteria above were considered
+potentially pre-1880 trees and were cored at 40 cm
+above ground level. A random 10% sample of all trees
+that did not meet the ﬁeld criteria was also cored.
+Seedling trees, those below 2.5 cm dbh, were tallied
+by species, condition, and height class in a 50 m2 sub-
+plot. Canopy cover measured by vertical projection
+
+P.Z. Ful´e et al. / Ecological Modelling 175 (2004) 231–248
+235
+(Ganey and Block, 1994) was recorded at 30 cm in-
+tervals along the two 50-m sidelines of each plot.
+Forest plot area was corrected for slope by multiply-
+ing the 50-m dimension by the slope correction fac-
+tor. Tree increment cores were surfaced and visually
+crossdated (Stokes and Smiley, 1968) with tree-ring
+chronologies we developed. Rings were counted on
+cores that could not be crossdated, especially younger
+trees. Additional years to the center were estimated
+with a pith locator (concentric circles matched to the
+curvature and density of the inner rings) for cores that
+missed the pith (Applequist, 1958). From previous
+studies (Fulé et al., 2002, 2003a, b), we know that ﬁre
+exclusion began after 1879 on most of the North Rim.
+Forest structure in 1880 was reconstructed using den-
+droecological methods (Fulé et al., 1997, 2002, 2003b)
+as follows: tree size at the time of ﬁre exclusion was
+reconstructed by subtracting the radial growth mea-
+sured on increment cores since 1879. We developed
+local species-speciﬁc relationships between tree diam-
+eter and basal area increment (r2 = 0.45–0.90) and
+applied these relationships to estimate past size for
+Fig. 2. Schematic of forest data and modeling process, beginning with data collection on contemporary forest structure (upper left),
+dendroecological reconstruction of forest structure in 1880, simulation modeling with FVS (upper right), crown fuel modeling, ﬁre behavior
+modeling with Nexus (lower right), and development of ﬁre hazard maps (lower left) that provide information for forest and ﬁre planning.
+In turn, management actions based on these plans affect forests on the Grand Canyon landscape.
+trees without increment cores (dead or rotten centers).
+For dead trees, the date of death was estimated based
+on tree condition class using diameter-dependent snag
+decomposition rates (Thomas et al., 1979).
+2.4. Modeling and canopy fuels
+A schematic diagram of the modeling process is
+shown in Fig. 2, leading from plot data to modeling
+of vegetation change and ﬁre behavior. Forest change
+was simulated on a per-plot basis at 10-year inter-
+vals using the Forest Vegetation Simulator (FVS, Van
+Dyck, 2000), Central Rockies variant. FVS is a sta-
+tistical model of forest growth, originally developed
+in the northern Rocky Mountains and expanded to
+serve as a nationwide platform for U.S. Forest Service
+simulation. The speciﬁc growth and yield model for
+the Central Rockies variant was largely developed in
+northern Arizona, close to the site of the present study.
+We chose this model because it is a highly precise and
+site-speciﬁc statistical model for short-term simulation
+of forest change (Edminster et al., 1991), realistically
+
+236
+P.Z. Ful´e et al. / Ecological Modelling 175 (2004) 231–248
+simulating the speciﬁc 160-year period under study,
+in contrast to a long-term ecological process modeling
+approach (e.g., Keane et al., 2002) that could provide
+a broader but less precise range of outputs. Simula-
+tions were initialized with reconstructed 1880 condi-
+tions. Actual regeneration data by species and decade
+were added to each plot. Regeneration densities were
+increased by 40%, an empirically determined value, to
+account for density-dependent mortality. For example,
+if data for a given plot showed that 10 ponderosa pine
+trees established between 1880 and 1890, then we in-
+serted 14 trees (140%) into the simulation year 1890.
+Simulations were run until 2040. Simulation data at
+the year 2000 were checked against ﬁeld plot data that
+were collected between 1998 and 2002. The simula-
+tion values were within ±20% of ﬁeld values for tree
+density (trees per hectare) and basal area.
+Tree lists were exported from FVS for each plot
+and decade. Canopy biomass was estimated with
+dbh-based allometric equations for foliage and ﬁne
+twigs, the canopy fuels that are available for burning
+in crown ﬁres (Scott and Reinhardt, 2001). Allo-
+metric equations developed in or near the Southwest
+were selected as follows: ponderosa pine (Fulé et al.,
+2001a), Gambel oak (Clary and Tiedemann, 1986),
+juniper (Grier et al., 1992), white ﬁr (Westman, 1987),
+Douglas-ﬁr (Gower et al., 1992), and equations com-
+piled by Ter-Mikaelian and Korzuhkin (1997) were
+used for aspen, subalpine ﬁr, and Engelmann spruce.
+Canopy volume was estimated on a per-plot basis
+by the maximum tree height (top of the canopy) minus
+crown base height (bottom of the canopy). We used
+maximum tree height per plot as a proxy for “dom-
+inant height” (Research Working Group #2, 1999),
+the average height of dominant and co-dominant
+trees. Even though the tallest tree on each plot was
+used, the measurement is not equivalent to “predom-
+inant height” (the tallest trees in the stand; Research
+Working Group #2, 1999), because the tallest trees
+in the stand were not evenly captured on the plots.
+Therefore, the top of canopy measured by our method
+fell in the upper portion of the tree height distribution
+but not at the maximum. For example, the average
+maximum height of PIPO trees on a per-plot basis was
+28.2 m, a value equivalent to the 85th percentile of
+the distribution of all PIPO tree heights. The bottom
+of the canopy can also be measured in varying ways
+(Scott and Reinhardt, 2001). In previous studies where
+we explored stand vulnerability to torching, we used
+the lowest quintile value (Fulé et al., 2001a). In the
+present study, however, the uncertainty of estimating
+long-term characteristics of crown base height were
+high so we chose a simple average and did not at-
+tempt to model torching. Plots measured before 1999
+had a single average crown base height value per plot.
+From 1999 onward (sites LPW and LPE), crown base
+heights were measured per tree and the average was
+used for the plot value. Canopy bulk density was cal-
+culated as canopy biomass divided by canopy volume.
+Fire behavior was modeled with the Nexus Fire
+Behavior and Hazard Assessment System (Scott
+and Reinhardt, 2001). Nexus integrates a determin-
+istic semi-empirical model of surface ﬁre behavior
+(Rothermel, 1972) with models of crown ﬁre tran-
+sition (Van Wagner, 1977) and crown ﬁre spread
+(Rothermel, 1991). Nexus required inputs of canopy
+biomass and bulk density, as described above. Foliar
+moisture content was set at 100% (Agee et al., 2002).
+Field measurements of plot slope were used. Hot and
+dry weather inputs were used to simulate ﬁre behav-
+ior under extreme conditions. Fire weather extremes
+representing the 90th and 97th percentiles of low fuel
+moisture and high temperature were calculated for
+1970–2001 at the Bright Angel weather station (North
+Rim, Grand Canyon National Park, elevation 2560 m)
+using the FireFamily Plus program (Bradshaw and
+Brittain, 1999), a statistical software package de-
+signed to analyze distributions of ﬁre-related weather
+variables. Values were calculated for June, historically
+the month with the most severe ﬁre weather (Table 2).
+Table 2
+Fuel moisture and temperature for the Bright Angel weather station
+(North Rim, Grand Canyon National Park, elevation 2560 m),
+1970–2001
+Variable
+June 90th
+percentile
+June 97th
+percentile
+1 H moisture (%)
+1.7
+1.4
+10 H moisture (%)
+2.8
+1.8
+100 H moisture (%)
+3.2
+3.2
+Temperature (◦C)
+30
+32.2
+The 90th and 97th percentiles are shown for the month of June
+(7-day analysis periods), historically the month with the most
+severe ﬁre weather. The 97th percentile conditions were used for
+ﬁre behavior analysis. “1 H” refers to 1-h timelag fuels, “10 H” to
+10-h timelag, etc. (Anderson, 1982). Foliar moisture content was
+set to 100% (Agee et al., 2002).
+
+P.Z. Ful´e et al. / Ecological Modelling 175 (2004) 231–248
+237
+Fire behavior fuel models (Anderson, 1982) used
+were 9 (sites below 2500 m elevation) and 10 (sites
+above 2500 m elevation). Fuel models are mathemat-
+ical summaries of key input variables for the surface
+ﬁre behavior model in Nexus, such as bulk density
+and surface-area-to-volume ratios.
+A variety of ﬁre behavior outputs are provided by
+Nexus, including both surface and crown ﬁre behav-
+ior variables. As discussed below (see Data Reliabil-
+ity), our assumptions about past values of crown base
+height and fuel model would have heavily inﬂuenced
+interpretation of other ﬁre behavior variables such as
+ﬂame length or torching index (windspeed required for
+passive crown ﬁre). Therefore we focused on crown
+ﬁre behavior as measured by a more reliable variable,
+the crowning index (CI), deﬁned as the windspeed at
+which active canopy burning could be sustained (Scott
+and Reinhardt, 2001).
+The variables of canopy biomass, canopy bulk den-
+sity, and crowning index were mapped to the plot co-
+ordinates. Landscape patterns of these variables at the
+six study sites were estimated using negative exponen-
+tial interpolation between plots. We also attempted to
+model CI on the entire North Rim landscape by look-
+ing for relationships between CI and slope, azimuth,
+elevation, and canopy cover within each vegetation
+type. Although some of the correlations between vari-
+ables were statistically signiﬁcant at an alpha level
+of 0.05, the predictive capabilities were very low
+(r2 < 0.1) so these models were not used. Similar
+difﬁculties in relating fuel or ﬁre characteristics to
+topographic factors or environmental gradients have
+been reported in other fuel modeling studies (Keane
+et al., 2000). Instead, we reclassiﬁed the image using
+the 1880 and 2000 CI values as training sites. The
+classiﬁcation gave realistic outputs but the accuracy
+of the map, based on linked model results, cannot be
+quantiﬁed.
+3. Results
+3.1. Changes in canopy fuels, 1880–2040
+Canopy biomass increased at all study sites be-
+tween 1880 and 2040, but the changes were most
+dramatic at the high-elevation LPW and LPE sites
+(Fig. 3, see Fig. 1 for site names). At the three
+lower-elevation sites, PP, FP, and RP, canopy biomass
+ranged from 3800 to 5600 kg/ha in 1880 (mean
+4473 kg/ha). By 2040, canopy biomass ranged from
+8510 to 9940 kg/ha (mean 9022 kg/ha), an average in-
+crease of 122%. The higher-elevation sites LPW and
+LPE also had low canopy biomass values in 1880,
+3800 and 4400 kg/ha, respectively. But by 2040, LPW
+canopy biomass increased to 14,270 kg/ha and LPE
+canopy biomass rose to 16,800 kg/ha, an average in-
+crease of 279%. The intermediate-elevation site, SR,
+had the highest 1880 canopy biomass (8370 kg/ha)
+but increased by the smallest proportion of any study
+site, only 39%, to a value of 11,700 kg/ha in 2040.
+Species composition changes differed by elevation.
+At the three low-elevation sites, almost all of the
+canopy biomass (>99%) consisted of ponderosa pine
+throughout the simulated 160-year period. But the pro-
+portion of ponderosa pine canopy biomass declined
+at the higher sites. In the intermediate-elevation SR
+site, at approximately 2500 m elevation, the canopy
+biomass contribution from non-pine species (white
+ﬁr, Douglas-ﬁr, and aspen) increased from 31% in
+1880 to 61% in 2040. At site LPW, approximately
+2650 m elevation, the non-pine component rose from
+65% in 1880 to 86% in 2040. Engelmann spruce
+and subalpine ﬁr alone made up 50% of total canopy
+biomass by 2040, rising from only 19% in 1880. The
+highest site, LPE, approximately 2700 m elevation,
+started with 86% non-pine canopy biomass in 1880
+and increased to 96%. Engelmann spruce and sub-
+alpine ﬁr alone made up 36% of total canopy biomass
+in 1880 and 67% in 2040.
+The changes in canopy biomass were interpolated
+across the landscape of the study sites at 60-year in-
+tervals (1880, 1940, and 2000) (Fig. 4). In 1880, the
+entire landscape had relatively low canopy biomass
+values, with the highest values at mid-elevation (SR).
+By 1940, however, higher canopy biomass values
+appeared in LPW and LPE, a pattern that became
+stronger with time. By 2000, heavy crown fuels cov-
+ered about 2/3 of the LPE site.
+Canopy bulk density values closely paralleled
+canopy biomass values (Fig. 5), as expected, but
+with minor variation due to plot-to-plot differences in
+canopy volume. The increases in canopy bulk density
+ranged from 34% (SR) to 291% (LPE) (Table 3).
+Summarized by vegetation type rather than by study
+site, the spruce-ﬁr type had the highest increase
+
+238
+P.Z. Ful´e et al. / Ecological Modelling 175 (2004) 231–248
+Fig. 3. Changes in biomass of foliage and ﬁne twigs (kg/ha) and crowning index (km/h), 1880–2000. Left column: PP (top), FP (middle),
+RP (bottom). Ponderosa pine made up >99% of canopy biomass at these sites. Right column: SR (top), LPW (middle), LPE (bottom).
+Species in each column are (listed lower to upper): PIPO, ABCO, POTR, PSME, ABLA, PIEN.
+(371%), while ponderosa pine had the lowest (78%).
+In 1880, the absolute values of canopy bulk density
+were below 0.05 kg/m3 in every vegetation type and
+every study site except SR. The canopy bulk density
+value of 0.05 kg/m3 is not necessarily a threshold for
+crown ﬁre behavior (see comments below on alter-
+native methods of canopy bulk density calculation),
+but values of 0.05 kg/m3 or higher have been associ-
+ated with passive or active crown ﬁre in other studies
+using Nexus in southwestern forests (Fulé et al.,
+2001a, 2001b). By 1960, all vegetation types and all
+study sites except the lowest elevation sites (PP and
+RP) had canopy bulk density >0.05 kg/m3. By 2040,
+four of the six study sites and three of the four veg-
+etation types had canopy bulk density >0.07 kg/m3
+(Table 3).
+
+P.Z. Ful´e et al. / Ecological Modelling 175 (2004) 231–248
+239
+Fig. 4. Canopy biomass values interpolated across the study site landscapes. See Fig. 1 for study site locations.
+3.2. Changes in potential ﬁre behavior, 1880–2040
+High winds were required for crown ﬁre spread at
+all sites in 1880, as shown by values of crowning
+index (CI), the windspeed required to sustain active
+crown ﬁre, plotted for each study site in Fig. 6. The
+lower-elevation sites dominated by ponderosa pine,
+PP, FP, and RP, had CI values ranging from 96 to
+
+240
+P.Z. Ful´e et al. / Ecological Modelling 175 (2004) 231–248
+Fig. 5. Canopy bulk density values interpolated across the study site landscapes. See Fig. 1 for study site locations.
+
+P.Z. Ful´e et al. / Ecological Modelling 175 (2004) 231–248
+241
+Fig. 6. Values of crowning index, the windspeed required to sustain active crown ﬁre, were estimated with the Nexus model and interpolated
+across the study site landscapes. See Fig. 1 for study site locations.
+
+242
+P.Z. Ful´e et al. / Ecological Modelling 175 (2004) 231–248
+Table 3
+Canopy bulk density values (kg/m3) and (standard errors) summarized by study site (elevational gradient) and by vegetation type
+1880
+1920
+1960
+2000
+2040
+Change (%)
+Study site (elevation)
+PP (2296 m)
+0.022 (0.0018)
+0.033 (0.0022)
+0.041 (0.0025)
+0.046 (0.0028)
+0.049 (0.0030)
+122
+FP (2338 m)
+0.042 (0.0065)
+0.054 (0.0074)
+0.062 (0.0080)
+0.068 (0.0083)
+0.072 (0.0086)
+71
+RP (2320 m)
+0.020 (0.0023)
+0.032 (0.0029)
+0.040 (0.0034)
+0.045 (0.0038)
+0.049 (0.0040)
+145
+SR (2482 m)
+0.061 (0.0057)
+0.074 (0.0053)
+0.078 (0.0040)
+0.075 (0.0042)
+0.082 (0.0058)
+34
+LPW (2650 m)
+0.021 (0.0029)
+0.035 (0.0038)
+0.050 (0.0044)
+0.061 (0.0043)
+0.079 (0.0074)
+276
+LPE (2724 m)
+0.023 (0.0032)
+0.038 (0.0044)
+0.059 (0.0058)
+0.078 (0.0088)
+0.090 (0.0102)
+291
+Vegetation type
+Aspen
+0.027 (0.0060)
+0.037 (0.0057)
+0.051 (0.0061)
+0.062 (0.0063)
+0.086 (0.0142)
+219
+Mixed conifer
+0.041 (0.0035)
+0.060 (0.0042)
+0.071 (0.0044)
+0.080 (0.0053)
+0.094 (0.0084)
+129
+Ponderosa pine
+0.032 (0.0028)
+0.044 (0.0029)
+0.051 (0.0027)
+0.054 (0.0026)
+0.057 (0.0028)
+78
+Spruce-ﬁr
+0.017 (0.0026)
+0.031 (0.0037)
+0.052 (0.0058)
+0.072 (0.0087)
+0.080 (0.0077)
+371
+Total change (%) from 1880 to 2040 is summarized in the ﬁnal column.
+156 km/h (average 128 km/h) in 1880, declining to
+55–71 km/h (average 65 km/h) in 2040, a decrease
+of 49%. CI values at the intermediate-elevation site,
+SR, dropped from 62 to 48 km/h between 1880 and
+2040, a 23% decline. At the higher-elevation sites,
+LPW and LPE, CI values were extremely high in
+1880: 272 and 371 km/h, respectively. By 2040, the
+CI dropped to 54 km/h at LPW (80% decline) and to
+52 km/h at LPE (86% decline). Approximately half of
+the SR study site and 1/3 of the LPW and LPE study
+sites were susceptible to crown ﬁre at windspeeds of
+Fig. 7. Comparison of crowning index values, km/h, on North Rim forests in 1880 (relatively resistant to crown ﬁre) and 2040 (relatively
+susceptible to crown ﬁre). The large area classiﬁed as “burn” is the outlet ﬁre, which burned in May, 2000.
+45 km/h or less by 2000. Windspeeds of 45 km/h or
+more are common as gusts and occasionally as sus-
+tained winds in northern Arizona during severe ﬁres
+(McCoy, 1996).
+Modeled across the entire North Rim, 33% of the
+landscape was susceptible to crown ﬁre at a windspeed
+threshold of 45 km/h in 2000, compared to less than
+6% in 1880 (Fig. 7). Both in 1880 and 2000, the lowest
+values of CI were clustered in mixed conifer forests
+located just above the ponderosa forests on the canyon
+rim. By 2000, many higher-elevation spruce ﬁr forests
+
+P.Z. Ful´e et al. / Ecological Modelling 175 (2004) 231–248
+243
+at the center of the plateau were also susceptible, as
+well as linear spruce-ﬁr stands located on north slopes
+of drainages.
+4. Discussion
+4.1. Data reliability
+Model results should always be used with caution
+and accuracy is important in any study modeling eco-
+logical characteristics over time and space. The most
+accurate data were the direct measurements on the
+ﬁeld plots, providing contemporary values of tree den-
+sity and size by species. The accuracy of the forest
+reconstructions at these sites was compared in de-
+tail by Fulé et al. (2002, 2003b) to multiple lines
+of evidence from a historical inventory (Lang and
+Stewart, 1910), other historical accounts (e.g., Dutton,
+1882), and ecological data (e.g., Rasmussen, 1941;
+Mitchell and Freeman, 1993). Reconstructed forest
+structure matched closely with the earliest inventory
+data: forest density was within 5–10% of the historical
+data, similar to the historical distribution by species in
+multi-species sites (Fulé et al., 2002, 2003b). We ex-
+pected vegetation simulation to be relatively accurate
+because we chose a local statistical model, the Cen-
+tral Rockies variant of the FVS, and because we input
+plot-speciﬁc data on regeneration density by year and
+species. This expectation was borne out by the fact
+that simulated densities and basal areas in 2000 were
+within ±20% of ﬁeld-measured values. The tradeoff
+for precision, however, was that the simulation model
+lacked process relationships to explore the potential
+ecological effects of changing climate and disturbance
+regimes (e.g., Peng and Apps, 1999). Therefore we
+limited future projections to the near term, the next 40
+years.
+Canopy biomass was estimated with published
+regression equations with high predictive capability
+(r2 = 0.8–0.9) and local equations were selected
+whenever possible, indicating that canopy biomass
+changes over time should be relatively accurate. How-
+ever, the calculation of canopy bulk density required
+assumptions about canopy volume. We calculated
+canopy volume from the top (height) and bottom
+(crown base height) of the contemporary plots and as-
+sumed the same volume for all simulated decades. An
+alternative choice would have been to use FVS height
+and crown ratio estimates to estimate canopy volume.
+However, while FVS was accurate in simulating tree
+numbers and diameters, we found many inconsisten-
+cies in height even though sites were initialized with
+local site index data. Most importantly, all living trees
+always grew substantially in height in FVS model-
+ing, leading to modeled heights in 2000 that were
+higher than measured heights and continuous expan-
+sion of canopy volume over time. Since most plots
+were dominated by mature trees at the outset, this
+approach would have been problematic. Finally, since
+we used an independent set of diameter-based allo-
+metric biomass equations, rather than FVS-modeled
+crown fuel values, there is no inherent linkage be-
+tween models of tree height and canopy biomass. Our
+use of contemporary canopy volume measurements
+has two implications. First, it meant that current
+canopy bulk density estimates (e.g., 1980–2020) were
+probably more accurate than distant estimates (e.g.,
+1880–1920). In particular, canopy bulk density was
+most likely underestimated in early decades in the
+regenerating stands at high elevation (sites LPW and
+LPE, Fig. 5). Although canopy biomass was very low
+on many of those plots due to severe ﬁres, especially
+in 1879 (Fulé et al., 2003b), canopy volume would
+also have been lower due to the small stature of the
+young trees. Furthermore, the dates of stand-replacing
+ﬁres varied widely and past ﬁre severity was highly
+mixed (Fulé et al., 2003b), so taller surviving trees
+were commonly in close proximity to stand-replacing
+ﬁre patches. Second, the fact that we were not able to
+estimate crown base height in the past or future led
+us to remove torching index (windspeed required for
+passive crown ﬁre) from the ﬁre behavior analysis, be-
+cause simulated torching is highly sensitive to crown
+base height (Scott and Reinhardt, 2001). However,
+by basing our canopy volume estimates on measured
+rather than modeled values, the comparisons over
+time are relatively realistic and consistent.
+The use of allometric canopy biomass equations
+produces estimates that are approximately 40–60%
+lower than the canopy bulk density values based on
+the data of Brown (1978). For example, the “high
+cover” mesic mixed conifer stands in the Gila Na-
+tional Forest (New Mexico) were estimated to have
+canopy bulk density values of 0.25 kg/m3 (Keane et al.,
+2000), in contrast to maximum values of 0.094 kg/m3
+
+244
+P.Z. Ful´e et al. / Ecological Modelling 175 (2004) 231–248
+in the present study (62% lower). Therefore compar-
+isons of canopy bulk density values across studies
+that used different methods should be based on rela-
+tive, not absolute, differences. The FARSITE model
+(Finney, 1998) is calibrated to accept higher canopy
+bulk density values, while the Nexus model (Scott and
+Reinhardt, 2001) used in the present study provides
+realistic crown ﬁre behavior estimates with the lower
+canopy bulk density values (E. Reinhardt, personal
+communication, 2003).
+The assumptions and uncertainties associated with
+ﬁre behavior modeling have been discussed elsewhere
+(Van Wagner, 1977; Rothermel, 1991; Finney, 1998;
+Scott, 1998; Scott and Reinhardt, 2001). Our objective
+was not to improve upon existing models but rather to
+use the Nexus model with detailed local data to de-
+velop a fair comparison of potential ﬁre behavior in
+relative terms. Thus it would be unrealistic to expect
+that CI values are precise estimates of the exact wind-
+speed at which any real crown ﬁre will be sustained.
+However, it is reasonable to compare CI values across
+space and time to assess crown ﬁre susceptibility in
+relative terms.
+Spatial patterns were relatively consistent between
+sites and decades (Figs. 4–6) because sampling was
+done on regular grids, a strategy for minimizing in-
+terpolation error. Spatial accuracy was high at each
+mapped plot (within the ±15 m accuracy of hand-
+held global positioning system units) and unknown
+between plots. However, the same interpolation pro-
+cedures were used for each map, so comparisons be-
+tween maps are consistent.
+4.2. Ecological implications
+Substantial changes in forest composition, structure,
+and susceptibility to ﬁre occurred over the large land-
+scapes of the study sites since 1880 and similar trends
+are forecast for the next few decades, barring distur-
+bance or management intervention. At sites ≥2500 m
+elevation, the majority of the increases occurred in
+mesic species, reversing in a century the 10,000-year
+trend of upward movement of xeric species on the
+Kaibab Plateau (Weng and Jackson, 1999). Future dis-
+turbances are likely to be widespread and severe in
+terms of tree mortality, whether from ﬁre or biologi-
+cal pathogens, especially if inﬂuenced by warmer and
+drier climate (Flannigan et al., 2000).
+The western ponderosa pine sites (PP, FP, and RP)
+were described by Fulé et al. (2002, 2003a) as rare
+examples of unharvested forests with relatively undis-
+rupted surface ﬁre regimes. Each of these sites had
+two or three large surface ﬁres after 1879 and several
+smaller ﬁres (Fulé et al., 2003a). Forest structural
+change as measured by basal area was relatively low
+at these sites, rising from an average of 18.5 m2/ha in
+1880 to 28.3 m2/ha at present; this 53% increase in
+basal area was much less than the 152% increase ob-
+served in another unharvested ponderosa forest where
+ﬁre was completely excluded on the South Rim of
+Grand Canyon (Fulé et al., 2002). The western sites
+remain relatively open, 193–249 pines/ha (Fulé et al.,
+2002), compared to an Arizona-wide average in 1999
+of approximately 618 pines/ha (O’Brien, 2002), and
+arguably present a relatively low fuel hazard due to the
+dominance of tall, old, ﬁre-pruned trees. Nonetheless,
+even these relatively natural forests have increased in
+canopy fuel loading, perhaps reﬂecting an intermedi-
+ate effect of the reduced, but not eliminated, surface
+ﬁre regime.
+At the higher elevation sites, shifts in species com-
+position were as notable as the increase in canopy
+biomass. In every case, ﬁre-resistant ponderosa pine
+declined in relative terms, as has been observed in
+other mixed conifer settings in the absence of ﬁre (e.g.,
+Minnich et al., 1995; Stephenson, 1999). The absolute
+value of ponderosa pine biomass was also estimated to
+decline, as early as 1940 at the intermediate-elevation
+SR site and after 1960 at the higher sites (Fig. 3).
+Douglas-ﬁr, a species with intermediate ﬁre resistance
+(relatively susceptible as a seedling but resistant when
+mature (Miller, 2000)), retained a relatively consis-
+tent proportion of canopy biomass (Fig. 3). The ma-
+jor increases in canopy biomass occurred in white ﬁr
+(Fig. 3), subalpine ﬁr, and spruce (Fig. 3), relatively
+ﬁre-susceptible species.
+Habitat changes associated with forest alteration in-
+clude the decline of early-successional environments
+at high elevation. Approximately 60% of the LPW
+and LPE landscapes were initiated by stand-replacing
+ﬁre between 1782 and 1879 (Fulé et al., 2003b),
+creating open forests with abundant snags. These
+conditions may be important for bird diversity in
+general and especially for certain guilds such as
+woodpeckers, ﬂycatchers, and seedeaters (Hutto,
+1995).
+
+P.Z. Ful´e et al. / Ecological Modelling 175 (2004) 231–248
+245
+Changes in composition of mixed stands affect
+potential ﬁre behavior in several ways. First, since
+1880 surface fuels have become increasingly com-
+prised of relatively more tree litter and relatively less
+herbaceous fuels, tending to reduce ﬁre rate of spread
+but to increase surface heating (Anderson, 1982).
+Second, the proportion of long-needled ponderosa
+pine litter, a resinous and loosely compacted fuel,
+has declined relative to short-needled conifer litter
+(Douglas-ﬁr, spruce, and ﬁr) that is less ﬂammable
+and more compacted, tending to reduce both rate of
+spread and surface heating. However, the presence of
+numerous jackstrawed fallen logs in mixed conifer
+and spruce-ﬁr stands (P.Z. Fulé, unpublished data),
+lead us to select fuel model 10 (“light logging slash,”
+Anderson, 1982) for modeling. In terms of crown ﬁre
+behavior, the historical shift toward mesic species is
+likely to have lowered crown base heights because
+spruce and ﬁrs have relatively long crowns (Miller,
+2000), facilitating crown ﬁre initiation.
+Aspen, the only deciduous species at high elevation,
+formed a very small fraction of canopy biomass (<3%)
+at any site or date. In part this is due to differences in
+tree architecture, with aspen bearing relatively fewer
+and lighter-mass leaves high in the canopy compared
+to the longer crowns and denser leaves of conifers.
+The absence of ﬁre after 1879 probably reduced as-
+pen regeneration but a greater impact may have been
+selective herbivory by deer during the early twenti-
+eth century (Adams, 1925; Rasmussen, 1941; Mitchell
+and Freeman, 1993). Aspen regeneration occurred to
+some extent on the study sites even in the absence of
+ﬁre, but a large demographic gap was observed cor-
+responding with the period of high deer populations
+(Fulé et al., 2002, 2003b). If aspen comprised a rel-
+atively higher proportion of contemporary forest fu-
+els, crown ﬁre hazard would have been reduced (lower
+canopy bulk density and high crown base height) and
+surface ﬁre behavior would have been characterized
+by reduced rate of spread and intensity (Hély et al.,
+2000).
+4.3. Management implications
+National Park management in the U.S. is oriented
+toward restoration of keystone natural processes,
+such as ﬁre, as an integral part of conserving natural
+ecosystems (e.g., Parsons and Van Wagtendonk, 1996;
+Stephenson, 1999). Grand Canyon National Park ﬁre
+management policy is to restore the natural process of
+ﬁre disturbance “to effectively manage wildland ﬁre
+and provide for the protection of life, property, and
+cultural resources, while ensuring the perpetuation
+of park ecosystems and natural resources” (Grand
+Canyon National Park, 1992, p. 57).
+The increasingly dense and connected crown fuels
+of the North Rim have been capable of supporting
+broad-scale crown ﬁre for several decades, as evi-
+denced by the severe ﬁres of recent years. But the
+differences in ﬁre ecology and historical variability
+across the elevational gradient should be reﬂected
+in distinct management goals and actions for the
+different forest types at low, mid, and high eleva-
+tion. In the ponderosa pine-dominated sites at low
+elevation, canopy fuels have increased substantially
+since 1880 but remain lower than in the other forest
+types. Managers could choose to encourage wild-
+land ﬁres to burn for resource beneﬁts, supplemented
+by management-ignited ﬁres, to maintain or restore
+a frequent surface regime. The data in the present
+study suggest that even if burns resulted in substan-
+tial reduction in canopy biomass, up to 40–50%, the
+resulting forest conditions could still be within the
+range of historical conditions if older trees tended to
+survive. In a study conducted in high-elevation forests
+adjacent to the LPE study site, White and Vankat
+(1993) suggested that fuels had become more homo-
+geneous over the past century, presenting a threat of
+larger crown ﬁres. The results of the present study
+support this assessment. However, management plan-
+ning could balance recognition of the increase in ﬁre
+hazard simultaneously with the perspective that severe
+ﬁres have an ecological role in the high-elevation ﬁre
+types. If this ecological role were explicitly addressed
+in management plans and environmental documen-
+tation, then at least some high-elevation crown ﬁres
+might be managed more appropriately as natural dis-
+turbances rather than being treated as catastrophes that
+require costly and often futile wildﬁre suppression
+efforts.
+Mid-elevation mixed conifer forests present the
+greatest management challenge. These forests had
+the highest historical and contemporary canopy bulk
+density (Table 3) but had a regime of frequent surface
+ﬁres before 1880 (Fulé et al., 2003a). Tree groups
+in only 20% (3 of 15) mixed conifer plots in the
+
+246
+P.Z. Ful´e et al. / Ecological Modelling 175 (2004) 231–248
+LP study sites were initiated by stand-replacing ﬁre
+(Fulé et al., 2003b). Alternatives include testing tree
+thinning treatments (Grand Canyon National Park,
+2002), especially where strategically located to try
+to intercept crown ﬁres (Finney, 2000), and using
+relatively severe burning as suggested by Miller
+and Urban (2000) to rapidly restore historical con-
+ditions by preferentially killing ﬁre-susceptible tree
+species and smaller trees. Severe prescribed burns
+would not be simple to execute but there is evi-
+dence from the 1993 NWIII ﬁre, adjacent to the
+SR study site, that forest composition and density
+were reduced to historical levels while maintain-
+ing a native herbaceous understory (Fulé et al.,
+in press).
+The changes in fuel mass, composition, and spa-
+tial arrangement across the North Rim landscape
+are large in both relative and absolute terms. The
+rise in canopy fuels is consistent with the growing
+scale of crown ﬁres in the Southwest and similar dry
+forests across the western U.S. In the lower-elevation
+forests, large-scale stand-replacing ﬁres appear to
+be a novel disturbance regime with uncertain suc-
+cessional outcomes (Mast and Savage, 2003). Even
+though crown ﬁre plays an important ecological
+role in many of the higher-elevation forest types,
+it may be argued that the high ﬁre susceptibility
+across the contemporary landscape has also crossed
+a threshold to represent a novel condition (Romme
+et al., 1998). New environments might emerge from
+broad-scale crown burning instead of the highly
+mixed pattern of burn severity that prevailed on the
+North Rim before 1880 (Fulé et al., 2003b). This
+seems especially likely in the high-elevation forest
+types of the Southwest because they are commonly
+restricted to small and isolated “sky island” habi-
+tats, with limited opportunity for re-introduction of
+propagules. In addition to the ecological effects, the
+consequences of unusually large crown ﬁres on the
+North Rim have management, economic, and social
+implications that should be considered. Such impli-
+cations are beyond the scope of this study, but a
+more comprehensive analysis may ﬁnd merit in ac-
+cepting certain costs or risks (increased funding for
+ﬁre management, higher risk of escaped ﬁres, more
+smoke) in exchange for a more aggressive approach
+to reducing landscape fuels and interrupting fuel
+continuity.
+Acknowledgements
+Thanks to David Huffman, Scott Curran, Tom
+Heinlein, Mike Stoddard, John Paul Roccaforte, H.B.
+“Doc” Smith, Robert Winfree, Della Snyder, Don
+Bertolette, Dan Spotskey, and Bruce Higgins. Discus-
+sion with Joe Scott and Elizabeth Reinhardt was help-
+ful for ﬁre behavior modeling. Funding for this study
+was provided by the U.S. Joint Fire Science Program.
+References
+Adams, C.C., 1925. Ecological conditions in National Forests and
+in National Parks. Sci. Monthly 20, 561–593.
+Agee, J.K., Wright, C.S., Williamson, N., Huff, M.H., 2002. Foliar
+moisture content of Paciﬁc Northwest vegetation and its relation
+to wildland ﬁre behavior. For. Ecol. Manage. 167, 57–66.
+Anderson, H.E., 1982. Aids to Determining Fuel Models for
+Estimating Fire Behavior. USDA Forest Service General
+Technical Report INT-69, Ogden.
+Applequist, M.B., 1958. A simple pith locator for use with
+off-center increment cores. J. For. 56, 141.
+Bradshaw, L., Brittain, S., 1999. FireFamily Plus. Software
+available from USDA Forest Service, Rocky Mountain Research
+Station, Missoula, MT.
+Brown, J.K., 1978. Weight and Density of Crowns of Rocky
+Mountain Conifers. USDA Forest Service Research Note
+INT-197, Ogden.
+Clary, W.P., Tiedemann, A.R., 1986. Distribution of biomass within
+small tree and shrub form Quercus gambelii stands. For. Sci.
+32 (1), 234–242.
+Covington, W.W., Moore, M.M., 1994. Southwestern ponderosa
+forest
+structure
+and
+resource
+conditions:
+changes
+since
+Euro-American settlement. J. For. 92 (1), 39–47.
+Crouse, J.E., Fulé, P.Z., 2003. Species and canopy cover map
+development using Landsat 7 Enhanced Thematic Mapper
+Imagery for Grand Canyon National Park. In: Proceedings of the
+Ninth Forest Service Remote Sensing Applications Conference.
+USDA Forest Service/American Society for Photogrammetry
+and Remote Sensing (electronic publication).
+Dahms, C.W., Geils, B.W., 1997. An Assessment of Forest
+Ecosystem Health in the Southwest. USDA Forest Service
+General Technical Report RM-GTR-296, Fort Collins.
+Dutton, C.E., 1882. Tertiary History of the Grand Canyon. U.S.
+Geological Survey Monograph II, Washington, DC.
+Edminster, C.B., Mowrer, H.T., Mathiasen, R.L., Schuler, T.M.,
+Olsen, W.K., Hawksworth, F.G., 1991. GENGYM: A Variable
+Density Stand Table Projection System Calibrated for Mixed
+Conifer and Ponderosa Pine Stands in the Southwest. USDA
+Forest Service Research Paper RM-297, Fort Collins.
+Fiedler, C.E., Keegan III, C.E., Robertson, S.H., Morgan, T.A.,
+Woodall, C.W., Chmelik, J.T., 2002. A strategic assessment
+of ﬁre hazard in New Mexico. Final report to the Joint Fire
+Science Program, Boise, ID.
+
+P.Z. Ful´e et al. / Ecological Modelling 175 (2004) 231–248
+247
+Finney, M.A., 1998. FARSITE: Fire Area Simulator—Model
+Development and Evaluation. USDA Forest Service Research
+Paper RMRS-RP-4, Ogden.
+Finney, M.A., 2000. Design of regular landscape fuel treatment
+patterns for modifying ﬁre growth and behavior. For. Sci. 47 (2),
+219–228.
+Flannigan, M.D., Stocks, B.J., Wotton, B.M., 2000. Climate change
+and forest ﬁres. Sci. Total Environ. 262, 221–229.
+Fuhlendorf, S.D., Smeins, F.E., Grant, W.E., 1996. Simulation of a
+ﬁre-sensitive ecological threshold: a case study of Ashe juniper
+on the Edwards Plateau in Texas. Ecol. Model. 90, 245–255.
+Fulé, P.Z., Moore, M.M., Covington, W.W., 1997. Determining
+reference conditions for ecosystem management in southwestern
+ponderosa pine forests. Ecol. Appl. 7 (3), 895–908.
+Fulé, P.Z., McHugh, C., Heinlein, T.A., Covington, W.W., 2001a.
+Potential ﬁre behavior is reduced following forest restoration
+treatments. In: Proceedings of the RMRS-P-22. USDA Forest
+Service, Ogden, UT, pp. 28–35.
+Fulé, P.Z., Waltz, A.E.M., Covington, W.W., Heinlein, T.A., 2001b.
+Measuring forest restoration effectiveness in hazardous fuels
+reduction. J. For. 99 (11), 24–29.
+Fulé, P.Z., Covington, W.W., Moore, M.M., Heinlein, T.A., Waltz,
+A.E.M., 2002. Natural variability in forests of Grand Canyon,
+USA. J. Biogeogr. 29, 31–47.
+Fulé, P.Z., Heinlein, T.A., Covington, W.W., Moore, M.M., 2003a.
+Assessing ﬁre regimes on Grand Canyon landscapes with ﬁre
+scar and ﬁre record data. Int. J. Wildland Fire 12 (2), 129–145.
+Fulé, P.Z., Crouse, J.E., Heinlein, T.A., Moore, M.M., Covington,
+W.W., Verkamp, G., 2003b. Mixed-severity ﬁre regime in a
+high-elevation forest: Grand Canyon, Arizona. Landscape Ecol.
+18, 465–486.
+Fulé, P.Z., Cocke, A.E., Heinlein, T.A., Covington, W.W., in press.
+Effects of an intense prescribed forest ﬁre: is it ecological
+restoration? Restor. Ecol.
+Ganey, J.L., Block, W.M., 1994. A comparison of two techniques
+for measuring canopy closure. Western J. Appl. For. 9 (1), 21–
+23.
+Gower, S.T., Vogt, K.A., Grier, C.C., 1992. Carbon dynamics of
+Rocky Mountain Douglas-ﬁr: inﬂuence of water and nutrient
+availability. Ecol. Monogr. 62 (1), 43–65.
+Grand Canyon National Park, 1992. Fire Management Plan. On
+File at Grand Canyon National Park, AZ.
+Grand Canyon National Park, 2002. Research on Wildﬁre Hazard
+Reduction
+in
+Ponderosa
+Pine
+Ecosystems.
+Environmental
+Assessment on ﬁle at Grand Canyon National Park, AZ.
+Grier, C.C., Elliott, K.J., McCullough, D.G., 1992. Biomass
+distribution
+and
+productivity
+of
+Pinus
+edulis-Juniperus
+monosperma woodlands of north-central Arizona. For. Ecol.
+Manage. 50, 331–350.
+Grissino-Mayer, H.D., Baisan, C.H., Swetnam, T.W., 1995.
+Fire History in the Pinaleño Mountains of Southeastern
+Arizona: Effects of Human-Related Disturbances. USDA Forest
+Service General Technical Report RM-GTR-264, Fort Collins,
+pp. 399–407.
+Hawksworth,
+F.G.,
+Geils,
+B.W.,
+1990.
+How
+long
+do
+mistletoe-infected ponderosa pines live? Western J. Appl. For.
+5 (2), 47–48.
+He, H.S., Mladenoff, D.J., 1999. Spatially explicit and stochastic
+simulation of forest-landscape ﬁre disturbance and succession.
+Ecology 80 (1), 81–99.
+Hély, C., Bergeron, Y., Flannigan, M.D., 2000. Effects of stand
+composition on ﬁre hazard in mixed-wood Canadian boreal
+forest. J. Veg. Sci. 11, 813–824.
+Hutto, R.L., 1995. Composition of bird communities following
+stand-replacing ﬁres in northern Rocky Mountain (U.S.A.)
+conifer forests. Conserv. Biol. 9 (5), 1041–1058.
+Keane, R.E., Finney, M.A., 2003. The simulation of landscape
+ﬁre, climate, and ecosystem dynamics. In: Veblen, T.T., Baker,
+W.L., Montenegro, G., Swetnam, T.W. (Eds.), Fire and Climatic
+Change in Temperate Ecosystems of the Western Americas.
+Springer, New York, pp. 32–68.
+Keane, R.E., Garner, J.L., Schmidt, K.M., Long, D.G., Menakis,
+J.P., Finney, M.A., 1998. Development of the Input Data Layers
+for the FARSITE Fire Growth Model for the Selway-Bitterroot
+Wilderness Complex, USA. USDA Forest Service General
+Technical Report RMRS-GTR-3, Fort Collins.
+Keane, R.E., Morgan, P., White, J.D., 1999. Temporal patterns
+of ecosystem processes on simulated landscapes in Glacier
+National Park, Montana, USA. Landscape Ecol. 14, 311–329.
+Keane, R.E., Mincemoyer, S.A., Schmidt, K.M., Long, D.G.,
+Garner, J.L., 2000. Mapping Vegetation and Fuels for Fire
+Management on the Gila National Forest Complex, New
+Mexico. USDA Forest Service General Technical Report
+RMRS-GTR-46-CD, Fort Collins.
+Keane, R.E., Burgan, R., van Wagtendonk, J., 2001. Mapping
+wildland fuels for ﬁre management across multiple scales:
+integrating remote sensing, GIS, and biophysical modeling. Int.
+J. Wildland Fire 10, 301–319.
+Keane, R.E., Parsons, R.A., Hessburg, P.F., 2002. Estimating
+historical range and variation of landscape patch dynamics:
+limitations of the simulation approach. Ecol. Model. 151, 29–
+49.
+Lang, D.M., Stewart, S.S., 1910. Reconnaissance of the Kaibab
+National Forest. Unpublished Report on File at Northern
+Arizona University, Flagstaff, AZ.
+Mast, J.N., Savage, M., in preparation. The fate of ponderosa pine
+forests decades after intense crown ﬁres.
+Mast, J.N., Fulé, P.Z., Moore, M.M., Covington, W.W., Waltz, A.,
+1999. Restoration of presettlement age structure of an Arizona
+ponderosa pine forest. Ecol. Appl. 9 (1), 228–239.
+McCoy, L., 1996. Fire behavior notes, Horseshoe and Hochderffer
+ﬁre. Unpublished Report on File at Mormon Lake Ranger
+District, Coconino National Forest, Flagstaff, AZ.
+Miller,
+M.,
+2000.
+Fire
+Autecology.
+USDA
+Forest
+Service
+General Technical Report RMRS-GTR-42, Vol. 2. Fort Collins,
+pp. 9–34.
+Miller, C., Urban, D.L., 2000. Modeling the effects of ﬁre
+management
+alternatives
+on
+Sierra
+Nevada
+mixed-conifer
+forests. Ecol. Appl. 10 (1), 85–94.
+Minnich, R.A., Barbour, M.G., Burk, J.H., Fernau, R.F., 1995.
+Sixty years of change in Californian conifer forests of the San
+Bernadino Mountains. Conserv. Biol. 9 (4), 902–914.
+Mitchell,
+J.E.,
+Freeman,
+D.R.,
+1993.
+Wildlife-Lifestock-Fire
+Interactions on the North Kaibab: A Historical Review. USDA
+Forest Service General Technical Report RM-222, Fort Collins.
+
+248
+P.Z. Ful´e et al. / Ecological Modelling 175 (2004) 231–248
+O’Brien, R.A., 2002. Arizona’s Forest Resources, 1999. USDA
+Forest Service Resource Bulletin RMRS-RB-2, Ogden.
+Opdam, P., Foppen, R., Vos, C., 2002. Bridging the gap between
+ecology and spatial planning in landscape ecology. Landscape
+Ecol. 16, 767–779.
+Parsons, D.J., van Wagtendonk, J.W., 1996. Fire research and
+management in the Sierra Nevada National Parks. In: Halvorson,
+W.L., Davis, G.E. (Eds.), Science and Ecosystem Management
+in the National Parks. The University of Arizona Press, Tucson,
+AZ, pp. 25–48.
+Peng, C., Apps, M.J., 1999. Modelling the response of net primary
+productivity (NPP) of boreal forest ecosystems to changes in
+climate and ﬁre disturbance regimes. Ecol. Model. 122, 175–
+193.
+Rasmussen, D.I., 1941. Biotic communities of Kaibab Plateau.
+Arizona Ecol. Monogr. 11, 229–275.
+Reeberg, P., 1995. The Western Region Fire Monitoring Handbook.
+USDA Forest Service General Technical Report INT-GTR-320,
+Ogden, pp. 259–260.
+Research Working Group #2, 1999. In: Wood, Turner, Brack
+(Eds.), Code of Forest Mensuration Practice: A Guide to Good
+Tree Measurement Practice in Australia and New Zealand.
+URL:
+http://www.anu.edu.au/Forestry/mensuration/rwg2/code,
+accessed September 23, 2003. ISBN 0-7315-3310-0.
+Rollins, M.G., Morgan, P., Swetnam, T., 2002. Landscape-scale
+controls over 20th century ﬁre occurrence in two large Rocky
+Mountain (USA) wilderness areas. Landscape Ecol. 17, 539–
+557.
+Romme, W.H., Everham, E.H., Frelich, L.E., Moritz, M.A., Sparks,
+R.E., 1998. Are large, infrequent disturbances qualitatively
+different from small, frequent disturbances? Ecosystems 1, 524–
+534.
+Rothermel, R.C., 1972. A Mathematical Model for Predicting Fire
+Spread in Wildland Fuels. USDA Forest Service Research Paper
+INT-115, Intermountain Forest and Range Experiment Station,
+Ogden, UT.
+Rothermel, R.C., 1991. Predicting Behavior and Size of Crown
+Fires in the Northern Rocky Mountains. USDA Forest Service
+General Technical Report INT-438, Ogden.
+Rupp, T.S., Keane, R.E., Lavorel, S., Flannigan, M.D., Cary,
+G.J., 2001. Towards a classiﬁcation of landscape-ﬁre-succession
+models. GCTE News, Newsletter of the Global Change and
+Terrestrial Ecosystems Core Project, Canberra, Australia, No.
+17, pp. 1–4.
+Schmidt, K.M., Menakis, J.P., Hardy, C.C., Hann, W.J., Bunnell,
+D.L., 2002. Development of Coarse-scale Spatial Data for
+Wildland Fire and Fuel Management. USDA Forest Service
+General Technical Report RMRS-87, Fort Collins.
+Scott, J.H., 1998. Sensitivity analysis of a method for assessing
+crown ﬁre hazard in the northern Rocky Mountains, USA. In:
+Proceedings of the III International Conference on Forest Fire
+Research/14th Conference on Fire and Forest Meteorology, Vol.
+II, Luso, November 16–20, 1998, pp. 2517–2532.
+Scott, J.H., Reinhardt, E.D., 2001. Assessing Crown Potential by
+Linking Models of Surface and Crown Fire Behavior. USDA
+Forest Service Research Paper RMRS-RP-29, Fort Collins.
+Stephenson, N.L., 1999. Reference conditions for giant sequoia
+forest restoration: structure, process, and precision. Ecol. Appl.
+9, 1253–1265.
+Stokes, M.A., Smiley, T.L., 1968. An Introduction to Tree-ring
+Dating. University of Chicago Press, Chicago.
+Taylor, A.H., 2000. Fire regimes and forest change in mid
+and upper montane forests of the southern Cascades, Lassen
+Volcanic National Park, California. J. Biogeogr. 27, 87–104.
+Ter-Mikaelian, M.T., Korzuhkin, M.D., 1997. Biomass equations
+for sixty-ﬁve North American tree species. For. Ecol. Manage.
+97, 1–24.
+Thomas, J.W., Anderson, R.G., Maser, C., Bull, E.L., 1979. Snags.
+In: Wildlife Habitats in Managed Forests—The Blue Mountains
+of Oregon and Washington. USDA Agricultural Handbook 553,
+Washington, DC, pp. 60–77.
+United States Geological Survey [USGS]. National Vegetation
+Classiﬁcation
+Standard.
+http://biology.usgs.gov/npsveg/nvcs.
+html, accessed January 14, 2000.
+Van Dyck, M.G., 2000. Keyword Reference Guide for the Forest
+Vegetation Simulator. USDA Forest Service Forest Management
+Service Center, Fort Collins, CO.
+Van Wagner, C.E., 1977. Conditions for the start and spread of
+crown ﬁre. Can. J. For. Res. 7, 23–34.
+Weng,
+C.,
+Jackson,
+S.T.,
+1999.
+Late-glacial
+and
+Holocene
+vegetation history and paleoclimate of the Kaibab Plateau.
+Arizona Paleogeogr. Paleoclimatol. Paleoecol. 153, 179.
+Westman, W.E., 1987. Aboveground biomass, surface area, and
+production relations of red ﬁr (Abies magniﬁca) and white ﬁr
+(A. concolor). Can. J. For. Res. 17, 311–319.
+White, A.S., 1985. Presettlement regeneration patterns in a
+southwestern ponderosa pine stand. Ecology 66 (2), 589–594.
+White, M.A., Vankat, J.L., 1993. Middle and high elevation
+coniferous forest communities of the North Rim region of Grand
+Canyon National Park, Arizona, USA. Vegetatio 109, 161–174.

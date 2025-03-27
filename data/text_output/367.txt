@@ -1,0 +1,1006 @@
+Stand- and landscape-level effects of prescribed
+burning on two Arizona wildfires
+Mark A. Finney, Charles W. McHugh, and Isaac C. Grenfell
+Abstract: Performance of fuel treatments in modifying behavior and effects of the largest wildfires has rarely been
+evaluated, because the necessary data on fire movement, treatment characteristics, and fire severity were not obtainable
+together. Here we analyzed satellite imagery and prescribed fire records from two Arizona wildfires that occurred in
+2002, finding that prescribed fire treatments reduced wildfire severity and changed its progress. Prescribed burning in
+ponderosa pine forests 1–9 years before the Rodeo and Chediski fires reduced fire severity compared with untreated ar-
+eas, despite the unprecedented 1860-km2 combined wildfire sizes and record drought. Fire severity increased with time
+since treatment but decreased with unit size and number of repeated prescribed burn treatments. Fire progression cap-
+tured by Landsat 7 enhanced thematic mapper plus (ETM+) clearly showed the fire circumventing treatment units and
+protecting areas on their lee side. This evidence is consistent with model predictions that suggest wildland fire size and
+severity can be mitigated by strategic placement of treatments.
+Résumé : L’impact de la réduction des combustibles sur le comportement et les effets des incendies de forêt de grande
+envergure a rarement été évalué parce qu’il n’était pas possible de rassembler les données nécessaires sur le mouve-
+ment du feu, les caractéristiques du traitement et la sévérité du feu. Les auteurs ont analysé des images satellitaires et
+des données de brûlages dirigés associés à deux incendies de forêt qui sont survenus en Arizona en 2002. Les résultats
+montrent que les brûlages dirigés ont réduit la sévérité des incendies de forêt et modifié leur progression. Des brûlages
+dirigés dans les forêts de pin ponderosa, un à neuf ans avant que surviennent les incendies de Rodeo et Chediski, ont
+réduit la sévérité du feu comparativement aux zones non traitées, malgré la dimension combinée sans précédent de ces
+incendies, soit 1860 km2, et une sécheresse record. La sévérité du feu a augmenté en fonction du temps écoulé depuis
+le traitement mais a diminué en fonction de la dimension et du nombre de fois que les brûlages dirigés avaient été ré-
+pétés. La progression des incendies captée par Landsat 7 (appareil de cartographie thématique amélioré) a clairement
+démontré que le feu a contourné les aires traitées et que les zones situées du côté sous le vent des aires traitées ont
+ainsi été protégées. Cette observation est consistante avec les prédictions du modèle qui indique que la dimension et la
+sévérité des incendies de forêt peuvent être atténuées en disposant les traitements de façon stratégique.
+[Traduit par la Rédaction]
+Finney et al.
+1722
+Introduction
+Prescribed burning and thinning treatments are of particu-
+lar interest for wildfire hazard reduction in ponderosa pine
+forests now altered after 20th century fire exclusion (Cooper
+1960; Arno and Brown 1991; Covington and Moore 1994).
+Treatments deny fuel to future wildfires and can thereby re-
+duce fire severity (Biswell et al. 1973; Wagle and Eakle
+1979; Pollet and Omi 2002; Fernandes and Botelho 2003).
+Fire severity is a general term for biological and ecological
+effects of different fire behaviors (e.g., vegetation, soil, etc.)
+(Ryan and Noste 1985; Reinhardt et al. 2001; Graham et al.
+2004). Scorching and ignition of tree crowns (Van Wagner
+1973, 1977) are related to fireline intensity, which depends
+on fire spread rate and fuel availability in flaming combus-
+tion (Byram 1959; Alexander 1982). Heating of tree stems,
+roots, and soil is related to fuel consumption and duration of
+smoldering combustion that depends on fuel loading and
+moisture content (Ryan and Frandsen 1991; Albini et al.
+1996). Injuries to trees from both fireline intensity and fuel
+consumption can ultimately cause mortality, depending on
+interactions with tree physiology and insect and disease agents
+(Ryan 1990; Reinhardt et al. 2001).
+Fuel treatments specifically attempt to reduce fuel quantity,
+depth, and continuity (vertical and horizontal) to mitigate
+potential fire behaviors and their ecological and management
+impacts (Graham et al. 2004). Treatment by prescribed fire
+removes surface fuels, kills small trees and shrubs, and
+scorches lower limbs to reduce vertical continuity of the for-
+est stand. Prescribed burning has been used to mitigate wild-
+fire behavior and effects in dry conifer forests (ponderosa
+pine and mixed conifer) of the southwestern United States
+for decades (Weaver 1943; Kallander et al. 1955; Cooper
+1961; Biswell et al. 1973; Wagle and Eakle 1979). Pre-
+scribed burns are consistent with effects of low-intensity
+fires that occurred in these forests every 2–10 years before
+19th century settlement (Weaver 1943; Swetnam and Baisan
+1996). Continued exclusion of these surface fires through
+fire suppression has permitted forest stands to become dense
+Can. J. For. Res. 35: 1714–1722 (2005)
+doi: 10.1139/X05-090
+© 2005 NRC Canada
+1714
+Received 3 September 2004. Accepted 20 April 2005.
+Published on the NRC Research Press Web site at
+http://cjfr.nrc.ca on 23 August 2005.
+M.A. Finney,1 C.W. McHugh, and I.C. Grenfell. USDA
+Forest Service, Missoula Fire Sciences Laboratory, Rocky
+Mountain Research Station, 5775 Highway 10 West,
+Missoula, MT 59808, USA.
+1Corresponding author (e-mail: mfinney@fs.fed.us).
+
+with accumulated living and dead fuels across large land-
+scapes (104–105 km2) (Weaver 1943; Cooper 1960; Fulé et al.
+1997; Allen et al. 2002). Modern wildfires now burn only
+under extreme weather conditions, when suppression efforts
+fail, and when fuel and forest structure contribute to severe
+crown fires (Biswell et al. 1973; Wagle and Eakle 1979;
+Arno and Brown 1991; Covington and Moore 1994). Al-
+though fuel modifications may physically change fire behav-
+ior, the changes may be insufficient to produce the desired
+modification of severity under extreme weather conditions.
+Fuel treatment effectiveness under extreme weather condi-
+tions is open to a number of questions, namely the longevity
+of treatment effects, requirements of maintaining or repeat-
+ing treatments, the importance of the size of treatment units,
+effects of treatments on wildfire growth and progress, and
+the amount of treatment required to change large fire behav-
+ior. These issues span a range of spatial scales, from the
+stand level, where treatments are intended to improve forest
+survival, to the landscape level, where treatments have po-
+tential for disrupting fire growth and reducing fire movement
+and ultimate size. This paper reports on analysis, at several
+spatial scales, of fuel treatment effects on two wildfires that
+encountered prescribed burn units conducted over a range of
+years, sizes, and with repetition.
+Materials and methods
+The opportunity to evaluate fuel treatment effects follow-
+ing extreme wildfires was provided in summer of 2002, when
+the ponderosa pine forests on part of the White Mountain
+Apache lands and the Apache-Sitgreaves National Forest ex-
+perienced the largest fire events in Arizona history. The
+Rodeo and Chediski fires began approximately 15 km apart
+(Fig. 1a) on 18 and 20 June and eventually burned more
+than 1860 km2 (460 000 acres) under record drought condi-
+tions (Kipfmueller 2003). Strong winds pushed the fires north
+into fuel treatments on White Mountain Apache lands and
+then across the Apache-Sitgreaves National Forest. The Lime-
+stone weather station (RAWS No. 020309), located within
+the final fire perimeter, recorded afternoon wind gusts above
+40 km·h–1 (25 mph) for most days and 73 km·h–1 (45 mph)
+on 21 June, sustained relative humidity below 10% for most
+afternoons, and calculated moisture content of dead fuels for
+all size classes below 4%.
+The White Mountain Apache Tribe located in central Ari-
+zona, USA (Fig. 1a), has been conducting prescribed burn-
+ing, thinning, and harvest operations on their commercial
+timberlands since the early 1940s (Weaver 1943; Cooper
+1961; Biswell et al. 1973; Wagle and Eakle 1979). The US
+Forest Service had also conducted prescribed fire treatments
+in conjunction with various forest management activities on
+the adjacent Apache-Sitgreaves National Forest. Management
+records contained the date and boundaries of prescribed fire
+treatment units (Fig. 1b). Our analysis focused only on effects
+of the prescribed fire treatments, because these had relatively
+well-defined boundaries and dates of completion. Treated ar-
+eas received the most recent prescribed burn between 1993
+and 2001, providing 157 polygons that ranged in size from
+0.02 to 22.6 km2 (5–5600 acres). These polygons overlapped
+with smaller units receiving previous prescribed fire treat-
+ments, which resulted in 811 polygons burned one to six
+times since 1950.
+Fire severity for the treated and untreated areas burned by
+the Rodeo–Chediski fires was inferred from the differenced
+normalized burn ratio (dNBR) developed from Landsat 7 en-
+hanced thematic mapper plus (ETM+) imagery at 30-m resolu-
+tion provided by the National Park Service – US Geological
+Survey Burn Severity Mapping Project (http://burnseverity.
+cr.usgs.gov/fire_main.asp). The ratios of near-infrared to mid-
+infrared spectral reflectance (band 4, 0.76–0.90 µm; and band 7,
+2.08–2.35 µm) are calculated on images before and after a
+fire (Miller and Yool 2002; van Wagtendonk et al. 2004).
+Large differences between the pre- and post-fire ratios (dNBR)
+indicate high fire severity because of lower near-infrared
+reflectance associated with foliage on green vegetation (trees
+and understory) and higher mid-infrared reflectance associ-
+ated with increased exposed and blackened soil, and de-
+creased moisture content of surface materials (White et al.
+1996; Miller and Yool 2002). The dNBR index and similar
+band combinations have been found to correspond well with
+burn severity in Arizona, Colorado, Montana, and New Mexico
+(White et al. 1996; Bertolette and Spotskey 2001; Miller and
+Yool 2002; van Wagtendonk et al. 2004). Ranges of dNBR
+are typically classified with respect to levels of tree damage
+visible from ground observation (Fig. 1c), varying from un-
+burned to complete foliar consumption (Key and Benson
+2005).
+We analyzed a subset of the 30-m dNBR pixels, sampled
+on a regular spacing of 90 m, to minimize artifacts from
+coregistration of the separate satellite images taken just be-
+fore the wildfire (5 June 2002) and soon after the wildfire (7
+July 2002) used to calculate dNBR. The selected pixels were
+then identified as inside or outside of treatment units. The
+large number of pixels outside of treatment units was re-
+duced to 21 421 by resampling at a regular spacing of 270 m
+to accommodate statistical software limitations. Pixels inside
+(34 867) were assigned values of time since treatment (years),
+number of repeated prescribed burns, size of the most recent
+treatment unit (square kilometres), and nearest distance from
+the edge of the defining polygon (metres). Having these
+nominal treatment descriptors in common qualifies the pix-
+els as pseudoreplicates within treatment units and even the
+whole Rodeo–Chediski wildfire (van Mantgem et al. 2001).
+Retaining a large sample size, however, was important to our
+objective of understanding variation in local fire severity
+within this data set. There are many independent sources of
+variation in local severity that are only partially related to
+the nominal treatment descriptors or the wildfire event itself,
+including (1) the characteristics and variability of the pre-
+scribed fire treatment (e.g., amount of fuel consumption, in-
+tensity) within a given treatment unit, (2) the structure of the
+forest and fuels at the time of the treatment and in 2002 at
+the time of the wildfire, and (3) the behavior characteristics,
+timing, and movement direction of the wildfire as it encoun-
+tered each pixel location.
+Spatial linear regression was used to explore general rela-
+tionships of the independent variables to dNBR. We used
+conditional spatial autoregression (CAR) (Kaluzny et al. 1998),
+which relaxes the assumption of independent residuals used
+in ordinary least-squares regression by accounting explicitly
+for spatial covariance. Variogram modelling indicated spatial
+© 2005 NRC Canada
+Finney et al.
+1715
+
+autocorrelation out to approximately 3 km, suggesting patchiness
+related to topography, wildfire behavior, and the treatments
+themselves. The CAR routine in the S+ software program
+(Kaluzny et al. 1998) estimates spatial covariance from the
+dNBR values of neighboring pixels. The regression parti-
+tions the variance according to three sources: the fitted trend,
+the spatial covariance component, and residual error. Before
+analysis, the dNBR data were normalized with a square-root
+transformation and range-shifted to offset negative values
+(dNBR + 700)0.5.
+Possible nonlinear or discontinuous relationships between
+the independent variables and dNBR were then explored us-
+ing least-squares regression trees (Breiman et al. 1998). Re-
+gression trees are fit by sequentially splitting data into two
+subsets. Each split is based on the independent variable that
+minimizes the squared deviance from the mean of a continu-
+© 2005 NRC Canada
+1716
+Can. J. For. Res. Vol. 35, 2005
+Fig. 1. Landsat 7 enhanced thematic mapper plus (ETM+) images (path 36, row 36) displayed as a false color composite using bands
+6, 4, and 3 show (a) the general location of the study area and the positions of the Chediski and Rodeo fires spreading north at 1100 h
+on 21 June 2002; (b) locations and dates of the most recent prescribed fire treatments (since 1993) on White Mountain Apache Tribal
+and Apache-Sitreaves National Forest lands reveal that fire spread has circumnavigated a 3-year-old area of treatment and is contacting
+a 1-year-old treatment unit on the right side; (c) fire severity for the entire Rodeo–Chediski fire area was indexed by the differenced
+normalized burn ratio (dNBR) and displayed on a background image from 24 August 2002. The dNBR index is the difference between
+ratios of near-infrared to mid-infrared spectral reflectance (band 4, 0.76–0.90 µm; and band 7, 2.08–2.35 µm) before the fire (5 June 2002)
+and after the fire (7 July 2002). Values of dNBR were classified into general fire severity categories (Key and Benson 2005) based on
+ranges that correspond with visible indications of fire damage to tree crowns. Unburned (dNBR ≤50), low (51–200, foliage still green),
+moderate–low (201–350, green and brown foliage), moderate–high (351–605 mostly brown with some foliage consumed by fire), and
+high (>605, complete consumption of foliage). Treatments reduced fire severity within treatment units (outlined in black) and in three
+cases, marked by an arrow, outside the units on their lee side because heading fire spread was diverted; (d) historic fires greater than
+78 ha (200 acres) within 30 years of the Rodeo–Chediski fire including the Carrizo (1971, 24 708 ha), Day (1974, 1056 ha), Cottonwood
+(1976, 567 ha), Elks (1987, 247 ha), and White Springs (1996, 1663 ha).
+
+ous dependent variable. The tree forms terminal nodes when
+the fractional reduction in total error falls below a specified
+limit, in this case 0.01. The procedure diagrams a hierarchy
+of relative explanatory value of predictors within subsets of
+the data without requiring an explicit nonlinear model form
+to be specified. Thus, regression trees are becoming more
+commonly used in modelling and exploring spatial data (Yang
+et al. 2003; Lawrence and Labus 2003). Since the regression
+tree analysis could not account for spatial autocorrelation of
+the dNBR data (it has the same assumptions of data inde-
+pendence as standard linear regression), the splits were eval-
+uated for significance using the CAR analysis by including
+dummy variables to distinguish the subgroups. Relative mean-
+squared error was estimated for the regression tree (generally
+scaled from 0.0 to 1.0, where 0.0 indicates perfect agree-
+ment) by methods of resubstitution (using mean-squared er-
+ror (MSE) for the regression tree from the entire data set)
+and cross-validation (using MSE for regression trees from
+random subsamples of the data, which are cross-validated
+with remaining subsamples).
+Results
+The spatial linear regression suggested dNBR of 30-m
+pixels within treatments was significantly lower than outside
+treated areas (Table 1). All coefficients were significant, sug-
+gesting that fire severity in treated areas was positively re-
+lated with time since treatment and negatively related to
+number of repeated prescribed burns, treatment size, and dis-
+tance from the edge of the treatment (Table 1). A low pro-
+portion of variance was explained by linear functions of the
+© 2005 NRC Canada
+Finney et al.
+1717
+Variable
+Coefficient
+SE
+t value
+P(>|t|)
+Intercept
+30.6725
+0.136
+226.202
+0
+Treatment
+–0.5533
+0.22
+–2.5150
+0.01
+Time since treatment (years)
+0.1433
+0.02
+5.953
+0
+Treatment size (km)
+–0.0363
+0
+–4.9421
+0
+Distance to nearest edge (m)
+–0.0013
+0
+–4.1313
+0
+No. of burns
+–0.3493
+0.05
+–7.1390
+0
+Note: Proportional variance explained by the model was 0.518, which includes the contribution from
+fitted variables (0.074) and spatial covariance (0.444), leaving a residual error of 0.482. dNBR, differ-
+enced normalized burn ratio.
+Table 1. Results of conditional spatial autoregression relating fire severity (dNBR + 700)0.5
+of 30-m pixels to general treatment descriptors.
+Fig. 2. Regression tree results of differenced normalized burn ratio (dNBR) for the fire area contained within the White Mountain Apache
+Tribal Lands and Apache-Sitgreaves National Forest. Listed at each node are the mean transformed dNBR values ((dNBR + 700)0.5) with
+untransformed dNBR and abbreviation for nominal severity category in parentheses (L, low; ML, moderate–low; MH, moderate–high),
+standard deviation of transformed data, and the number of 30-m data at each split. Variables labelled as size and edge refer to the size
+of treatment unit and distance from nearest edge of treatment boundary, respectively.
+
+© 2005 NRC Canada
+1718
+Can. J. For. Res. Vol. 35, 2005
+Node splits
+Variablea
+Coefficientb
+SEb
+t value
+P(>|t|)
+2–3
+Constant
+30.6816
+0.11359
+225.7646
+0
+Treatment
+–0.8258
+0.0793
+–10.4188
+0
+4–5
+Constant
+31.4142
+0.7047
+420.5321
+0
+Age <4 years
+–1.3630
+0.068
+–20.0448
+0
+6–7
+Constant
+30.5604
+0.0877
+348.566
+0
+Age <2 years
+–1.1477
+0.1237
+–9.2798
+0
+8–9
+Constant
+30.793
+0.1184
+260.0137
+0
+Age ≥4 years, size <11.5 km2
+0.8804
+0.1049
+8.389
+0
+10–11
+Constant
+28.6252
+0.1963
+145.8259
+0
+Age <2 years, size <3.6 km2
+1.5052
+0.2184
+6.8291
+0
+12–13
+Constant
+30.4715
+0.1311
+232.386
+0
+2< age ≤4 years, edge <310 m
+0.1895
+0.0939
+2.0181
+0.04
+14–15
+Constant
+32.2215
+0.1738
+185.3966
+0
+Age ≥4 years, size <10.8 km2
+–0.6717
+0.1609
+–4.1733
+0
+16–17
+Constant
+30.5982
+0.1615
+189.489
+0
+Age ≥4 years, size <8.6 km2
+0.9686
+0.1526
+6.3466
+0
+aVariables labelled as age, size, and edge refer to time since treatment, size of treatment unit, and distance
+from nearest treatment edge, respectively.
+bResults presented for data in transformed units (dNBR + 700)0.5.
+Table 2. Results from conditional spatial autoregression used for testing significance of splits be-
+tween nodes identified in the regression tree (Fig. 2).
+Percentage
+High (>605)
+%Mod-High
+(351-605)
+%Mod-Low
+(201-350)
+%Low
+(51-200)
+%Unburned
+(<50)
+Severity
+Class (dNBR)
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Untreated
+Time Since Prescribed Burn (Years)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+50
+100
+150
+200
+250
+300
+350
+400
+0
+5
+10
+15
+20
+25
+Fire Severity (Mean dNBR)
+Treatment Unit Size (km2)
+Treatments >4 years old
+Treatments 2-3 years old
+Treatments <2 years old
+Distance from Treatment Edge (m)
+0
+100
+200
+300
+400
+500
+0 200 400 600 800 1000
+1200 1400 1600 1800
+Fire Severity (Mean dNBR)
+Treatment >4 years old
+Treatment 2-3 years old
+Treatments <2 years old
+0
+50
+100
+150
+200
+250
+300
+350
+0
+1
+2
+3
+4
+5
+6
+Number of Repeated Prescribed Burns
+Fire Severity (Mean dNBR)
+Treatments <2 years old
+Treatments 2-3 years old
+Treatments >4 years old
+(a)
+(b)
+(d)
+(c)
+Fig. 3. The 30-m data from the Rodeo and Chediski wildfires are summarized to show single-factor treatment effects on burn severity
+(differenced normalized burn ratio, dNBR). Standard error bars are included but may not be visible at every data point. (a) Severity in-
+side treatments was less than untreated areas and decreased as a function of the time since treatment. (b) Mean dNBR (with standard
+errors) decreased with distance inside the edge of treatments younger than 4 years old but not in older treatment units. (c) Mean
+dNBR (with standard errors) decreased with the size of units for treatments older than 3 years. (d) Mean dNBR decreased significantly
+with number of repeated prescribed fire treatments for those units treated 2–4 years and <2 years before the wildfire but not for treat-
+ments conducted earlier (see Table 3).
+
+fitted variables (0.073) compared with the spatial covariance
+(0.444).
+Further analysis with regression trees and spatial regres-
+sion suggested fire severity responded differently to the inde-
+pendent variables depending on time since treatment. Where
+prescribed burning was conducted less than 4 years before
+the wildfire, dNBR was consistently reduced in relation to
+time since treatment (Fig. 2, nodes 4 and 6; Table 2; Fig. 3a).
+In these recent treatments, dNBR was then reduced among
+pixels located farther from the nearest treatment edge (Fig. 2,
+node 12; Fig. 3b) and in units larger than 3.6 km2 (Fig. 2,
+node 10). For treatments conducted 4 years or more prior to
+the wildfire, dNBR decreased significantly for treatments
+larger than about 8.5 km2 (Fig. 2; Table 2; Fig. 3c), except
+between nodes 14 and 15 (Fig. 2), which corresponds with
+particular data variability in treatment unit size around the
+split point of about 10 km2 (Fig. 3c). Fire severity was re-
+duced compared with untreated areas even in units treated
+9 years before the wildfire, as indicated by a χ2 test among
+severity categories in Fig. 3a (P < 0.001). The number of re-
+peated treatments was not identified in the regression tree,
+but spatial regression analysis suggested that dNBR decreased
+significantly with more repeated treatments where the final
+treatment occurred less than 4 years before the wildfire (Ta-
+ble 3, Fig. 3d). The similarity of standard errors among
+nodes in the regression tree suggests the data conformed to
+assumptions of constant variance. The relative MSE of the
+regression tree was estimated at 0.74 by methods of resub-
+stitution and a ninefold cross-validation.
+At the broadest landscape scale, effects of fuel treatments
+were found in the fortuitous Landsat 7 (ETM+) overpass that
+occurred at approximately 1100 h local time on 21 June
+2002. This image provided a rare glimpse of the fire, as it
+actively encountered and circumvented several of the fuel
+treatment units. Unburned inclusions are visible within the
+spreading fire (Fig. 1a), each displaying a chevron-shaped
+edge on its leeward northern side. The largest of these inclusions
+on White Mountain Apache land was found to correspond
+with an area treated 3 years before the wildfire (Fig. 1b).
+Smaller inclusions on the Apache-Sitgreaves National Forest
+each had the same shape characteristics and were each asso-
+ciated with prescribed burn treatment units conducted 2 and
+6 years before the Rodeo–Chediski fires. In all cases, the
+chevron-shaped fire front occurred outside of the treatment
+boundaries and downwind of the leeward treatment edge.
+The image (Figs. 1a and 1b) also shows the right-angled east
+flank of the wildfire was formed as the fire encountered a 1-
+year-old treatment unit. Compared with adjacent untreated
+lands, lower dNBR values appear within the leeward shadow
+of the largest three large treatment units (Fig. 1c).
+Discussion
+Satellite data from the Rodeo–Chediski fires provided ex-
+ceptionally clear examples of both stand-level and landscape-
+level effects of prescribed fire fuel treatments in these south-
+western ponderosa pine forests. The complete coverage and
+large sample sizes of dNBR permitted analysis of fire sever-
+ity in relation to stand-level variables including “time since
+treatment” and number of repeated treatments. Broader-scale
+effects of unit size and edge proximity would have been dif-
+ficult and impractical to obtain for such large wildfires and
+treatments from ground sampling alone. Nonlinear relation-
+ships of all of treatment variables to fire severity were revealed
+by the significance of the splits in the regression tree (Fig. 2;
+Table 2) and low proportion of explained variance in the
+spatial regression (Table 1). As with other studies relying on
+remote sensing of operational fuel treatments (Weatherspoon
+and Skinner 1995; Graham 2003), the high relative MSE of the
+regression tree revealed that local fire effects were dependent
+upon many factors not represented by the independent vari-
+ables available. For landscape-level effects, information on
+changes in fire movement caused by treatment units could
+only be obtained by remote sensing.
+The results of this study were consistent with reports from
+more than a half-century of research showing reduced fire
+severity following fuel treatment in ponderosa pine forests
+(Weaver 1943; Kallander et al. 1955; Cooper 1961; Biswell
+et al. 1973; Wagle and Eakle 1979; Pollet and Omi 2002;
+Graham 2003; Schoennagle et al. 2004). Compared with
+ground-based data, analysis of the satellite data suggested a
+more complex picture of fuel treatment effects, including the
+diminishing of treatment effectiveness over time (Fig. 3a), which
+has been difficult to quantify and only rarely been docu-
+mented (Biswell et al. 1973; van Wagtendonk and Sydoriak
+1987). Repeated treatment was also related to lower fire se-
+verity in more recent treatments (Table 3; Fig. 3d) but was
+not represented in the regression tree. This suggested that
+treatment history was less important than the characteristics
+of the last treatment, including time since treatment and unit
+size. Weak trends related to treatment history may partially
+reflect the high variability in the data set in which treatments
+© 2005 NRC Canada
+Finney et al.
+1719
+Variable
+Coefficient
+SE
+t value
+P(>|t|)
+Intercept
+31.2094
+0.1356
+226.2024
+0
+Treated ≥4 years
+0.2414
+0.1422
+1.6977
+0.09
+No. of burns, ≥4 years since last treatment
+–0.0281
+0.038
+–0.7442
+0.457
+Treated <2 years
+–1.0638
+0.2962
+–3.5916
+0
+No. of burns, <2 years since last treatment
+–0.3363
+0.07
+–4.7877
+0
+No. of burns, 2–4 years since last treatment
+–0.3527
+0.037
+–9.4383
+0
+Note: Proportional variance explained by the model was 0.655, which includes the contribution from fitted
+variables (0.079) and spatial covariance (0.576), leaving a residual error of 0.34. dNBR, differenced normalized
+burn ratio.
+Table 3. Conditional spatial autoregression suggested fire severity (dNBR + 700)0.5 of 30-m pix-
+els decreased significantly with number of repeated prescribed burns only for those units burned
+less than 4 years before the wildfire (see Fig. 3d).
+
+occurred on irregular intervals and over inconsistent time
+spans, some as long as five decades. But, the strong influ-
+ence of the most recent treatment emphasizes the importance
+of repeating treatments to maintain fuel conditions that miti-
+gate wildfire severity.
+The decreasing fire severity with distance from the treat-
+ment edge and in larger units indicated the importance of
+spatial scales broader than the local or stand level. Edge
+proximity likely reflected the abrupt reduction of fireline in-
+tensity as the fire moved from untreated areas into recent
+treatments (Weatherspoon and Skinner 1995) (Fig. 3b). Re-
+duced intensity is responsible for lower scorching and con-
+sumption of tree crowns that are represented in dNBR fire
+severity data. Recent treatments likely limited fire severity
+more than older treatments, because patchy fuel accumula-
+tion and vegetation recovery was not yet sufficient for in-
+tense surface fire and initiation of crown fire (Van Wagner
+1977). In units having treatment 1 year prior to the wildfire,
+about 40% of the area was indicated in the dNBR data as re-
+maining unburned (Fig. 3a), similar to reports by Wagle and
+Eakle (1979) and Graham (2003). Thus, the regression tree
+and spatial regression suggested that unit size was relatively
+less important in these recent treatments than in older treat-
+ments (Figs. 2 and 3c). The role of unit size in older treat-
+ments may reflect the effects of greater fuel and topographic
+heterogeneity that partially compensated for fuel recovery by
+collectively slowing fire movement (Weatherspoon and Skinner
+1995). The fine-scale “fingering” of the wildfire produced
+by such heterogeneity has been shown to increase the pro-
+portion of flanking and backing fire within the area as a
+whole (Finney 2003), thus, reducing fireline intensities and
+tree crown damage or ignition within the unit. The analysis
+suggests that this effect was distinct from edge proximity,
+which was only significant in treatments occurring less than
+4 years before the wildfire. Larger treatment units also re-
+quire longer burn times and, thus, better chances that weather
+will moderate as the fire burns through these areas (e.g.,
+wind shifts, nighttime).
+All studies of fuel treatment effects on wildfire behavior
+or severity are necessarily opportunistic, because large wildfires
+cannot be set to experimentally test treatment performance.
+This leads to high variance in treatment effects and typically
+anecdotal kinds of information restricted to the stand level
+(e.g., Biswell et al. 1973; Wagle and Eakle 1979; Helms
+1979; Martin et al. 1989). Some of the variability in dNBR
+in this study was likely related to the widespread, but un-
+known, forest harvest and thinning activities that occurred
+throughout the Tribal and Forest Service lands. Thinning and
+harvesting can reduce vertical and horizontal continuity of
+the tree canopy and limit initiation and spread of crown
+fires, especially in conjunction with prescribed burning (van
+Wagtendonk 1996; Stephens 1998; Graham et al. 2004). The
+high variance and high relative MSE of the regression tree
+likely reflects the combined influence of these and other fac-
+tors not controllable or knowable for this study. For example,
+we did not have site-specific information on stand structure,
+the silvicultural or burning prescriptions within the treatment
+units, or the wildfire characteristics as it crossed the location
+of every 30-m pixel. Furthermore, the boundaries of the pre-
+scribed fire units were largely independent of the many other
+management activities that have occurred throughout the wild-
+fire and treatment areas. Thus, the large size of the pre-
+scribed burn units and inherent variability of prescribed fire
+within the treated areas precludes a simple characterization
+of the burn prescription or stand structure existing at the
+time of the fire. The interaction of different harvesting and
+burn combinations certainly warrants more study.
+Some of the variations in dNBR outside the recorded
+treatments were associated with past wildfires (Fig. 1d). In
+particular, the Day Fire (1974) center-top, the Cottonwood
+fire (1976) center-right, and the recent White Springs fire
+(1996) within the larger Carrizo fire (1971, described by
+Biswell et al. 1973) are coincident with apparently lower se-
+verity in the Rodeo–Chediski fires. In these cases, the re-
+duced dNBR likely results, because little forest vegetation
+had developed by 2002 limiting the changes in NBR that
+would be detectable between images taken before and after
+the Rodeo–Chediski fires.
+Evidence of landscape-level effects of treatment units was
+visible at several places in the Landsat image from 21 June.
+Most notably, the chevron-shaped holes within the actively
+spreading fire resulted as a wake effect when the wildfire
+flanked around the leeward side of the treatment units. Simi-
+lar lee-side and adjacency effects were reported by Graham
+(2003) and Weatherspoon and Skinner (1995). Fire growth
+modeling has demonstrated the reasons for these chevron-
+shaped fire growth patterns around slower-burning patches
+(Richards and Bryce 1995; Finney 1998, 2001). By burning
+more slowly than untreated stands, these recent treatments
+disrupted fire growth, slowing local fire progress by divert-
+ing it laterally. Lateral detours around the downwind sides of
+treated areas burn by flanking and backing with much lower
+intensity (Catchpole et al. 1982) and consequently produce
+less crown damage (Van Wagner 1973, 1977) detectable by
+the satellite imagery. Such diversions of fire spread are con-
+sistent with assumptions of models of landscape-level treat-
+ment effects (Finney 2001; Hirsch et al. 2001), where certain
+patterns of treatment units efficiently retard fire growth across
+a landscape by causing repeated diversions of fire growth.
+Within the Rodeo–Chediski fires, however, the units were
+not arranged to test or produce collective effects at the land-
+scape level, and the units acted similarly to random patterns
+that disrupt fire growth only when large fractions of the land-
+scape are treated (Finney 2003; Bevers et al. 2004; Loehle
+2004; Gill and Bradstock 1998). Even with random patterns,
+decades of free-burning fires in large wilderness areas can
+produce a jigsaw puzzle mosaic that becomes complete enough
+to limit the growth of new fires (van Wagtendonk 1995;
+Parsons and van Wagtendonk 1996; Rollins et al. 2001).
+Landscape level effects of multiple units will depend on
+complex spatial and temporal interactions between the fre-
+quency of new or repeated treatment, the sizes of the units,
+and the time-dependent lapsing of treatment benefits. The
+single satellite image provided no opportunity to evaluate ef-
+fects on fire spread rate of treatments conducted more than
+3 years before the wildfire, although prescribed burning re-
+duced fire severity for treatments through 9 years old. After
+an unknown period of time, fuel recovery will probably al-
+low fire spread rate and intensity to return to pretreatment
+potential, but prescribed burns conducted on a regular cycle
+would create a perpetual pattern of many recent and slow-
+burning fuel patches (Kallander et al. 1955; Biswell et al.
+© 2005 NRC Canada
+1720
+Can. J. For. Res. Vol. 35, 2005
+
+1973; Wagle and Eakle 1979) that can collectively reduce
+overall fire growth rates. Such mosaic treatments have long
+been advocated as a landscape fuel management strategy
+(Kallander et al. 1955; Brackebusch 1973; van Wagtendonk
+1995; Gill and Bradstock 1998) to limit rapid fire spread
+over large distances (Finney 2001; Hirsch et al. 2001) and
+impose spatial heterogeneity consistent with presettlement
+fire regimes (Kallander et al. 1955; Cooper 1960; Swetnam
+and Baisan 1996; Fulé et al. 1997).
+Conclusions
+Data analyzed for this study suggested that fire growth and
+severity of a large wildfire under extreme weather conditions
+were mitigated by fuel treatments that included prescribed
+burning. Longevity of treatment benefits was suggested to
+improve with unit size, perhaps because the increased spatial
+heterogeneity in larger units compensated for varying treat-
+ment effects and fuel recovery. High-resolution satellite im-
+agery of fire activity, although rare, revealed fuel treatments
+in process of diverting fire movement. This is consistent
+with modelling of landscape treatment patterns that indicates
+overall fire growth and large fire sizes can be reduced (Finney
+2001). The prescribed fire units analyzed here reflect the
+commitment by land managers to implementing large-scale
+prescribed burning for fuel treatment. Prescribed fire alone,
+however, may not be sufficient to achieve structural goals of
+forest restoration (Weaver 1943; Cooper 1960; Swetnam and
+Baisan 1996; Fulé et al. 1997), although it will certainly be
+necessary for long-term maintenance of ecological process.
+Acknowledgements
+The authors thank Robert Lacapa, White Mountain Apache
+Tribe, for the use their land management data, and Ralen
+Hartzell, Bureau of Indian Affairs, Fort Apache Agency, for
+his assistance in conducting field reconnaissance. Gerry Beddow,
+Doug Beal, Harold Riggs, and Steve Richardson graciously
+provided data from the Apache-Sitgreaves National Forest.
+Peter Fulé and Larry Eickstaedt provided comments on an
+earlier version of the manuscript. Jon Graham and Matt Jolly
+provided statistical advice. We appreciate comments and
+suggestions by Carol Miller and an anonymous reviewer,
+which greatly improved the paper.
+References
+Albini, F.A., Amin, M.R., Hungerford, R.D., Frandsen, W.H., and
+Ryan, K.C. 1996. Models for fire-driven heat and moisture trans-
+port in soils. USDA For. Serv. Gen. Tech. Rep. INT-GTR-335.
+Alexander, M.E. 1982. Calculating and interpreting forest fire in-
+tensities. Can. J. Bot. 60: 349–357.
+Allen, C.G., Savage, M., Falk, D.A., Suckling, K.F., Swetnam,
+T.W., Schulke, T. et al. 2002. Ecological restoration of south-
+western ponderosa pine ecosystems: a broad perspective. Ecol.
+Appl. 12: 1418–1433.
+Arno, S.F., and Brown, J.K. 1991. Overcoming the paradox in
+managing wildland fire. West. Wildlands, 17: 40–46.
+Bertolette, D., and Spotskey, D. 2001. Remotely sensed burn sever-
+ity mapping. In Proceedings of the 11th Conference on Research
+and Resource Management in Parks and on Public Lands:
+Crossing Boundaries in Park Management, Denver, Colo., 16–20
+April 2001. Edited by D. Harmon. The George Wright Society,
+Hancock, Mich. pp. 44–51.
+Bevers, M., Omi, P.N., and Hoff, J. 2004. Random location of fuel
+treatments in wildland community interfaces: a percolation ap-
+proach. Can. J. For. Res. 34: 163–173.
+Biswell, H.H., Kallander, H.R., Komarek, R., Vogl, R.J., and
+Weaver, H. 1973. Ponderosa fire management: a task force eval-
+uation of controlled burning in ponderosa pine forest of central
+Arizona. Tall Timbers Res. Stn. Misc. Publ. 2.
+Brackebusch, A.P. 1973. Fuel management: a prerequisite not an
+alternative to fire control. J. For. 71: 637–639.
+Breiman, L., Friedman, J.H., Olshen, R.A., and Stone, C.J. 1998.
+Classification and regression trees. Chapman & Hall/CRC, Boca
+Raton, Fla.
+Byram, G.M. 1959. Combustion of forest fuels. Chapter 3. In For-
+est fire: control and use. Edited by K.P. Davis. McGraw-Hill,
+New York. pp. 61–89.
+Catchpole, E.A., de Mestre, N.J., and Gill, A.M. 1982. Intensity of
+fire at its perimeter. Aust. For. Res. 12: 47–54.
+Cooper, C.F. 1960. Changes in vegetation, structure, and growth of
+southwestern pine forests since white settlement. Ecol. Monogr.
+30: 129–164.
+Cooper, C.F. 1961. Controlled burning and watershed condition in
+the White Mountains of Arizona. J. For. 59: 438–442.
+Covington, W.W., and Moore, M.M. 1994. Southwestern ponder-
+osa pine forest structure: changes since Euro-American settle-
+ment. J. For. 92: 39–47.
+Fernandes, P., and Botelho, H. 2003. A review of prescribed burn-
+ing effectiveness in fire hazard reduction. Int. J. Wildland Fire,
+12: 117–128.
+Finney, M.A. 1998. FARSITE: Fire Area Simulator – model devel-
+opment and evaluation. USDA For. Serv. Res. Pap. RMRS-RP-
+4.
+Finney, M.A. 2001. Design of regular landscape fuel treatment pat-
+terns for modifying fire growth and behavior. For. Sci. 47: 219–
+228.
+Finney, M.A. 2003. Calculation of fire spread rates across random
+landscapes. Int. J. Wildland Fire, 12: 167–174.
+Fulé, P.Z., Covington, W.W., and Moore, M.M. 1997. Determining
+reference conditions for ecosystem management in southwestern
+ponderosa pine forests. Ecol. Appl. 7: 895–908.
+Gill, A.M., and Bradstock, R.A. 1998. Prescribed burning: patterns
+and strategies. In Proceedings of the 13th Conference on Fire
+and Forest Meteorology. Vol. 1., Lorne, Australia, 27–31 Octo-
+ber 1996. International Association Wildland Fire, Moran, Wyo-
+ming. pp. 3–6.
+Graham, R.T. 2003. Hayman fire case study. USDA For. Serv. Gen.
+Tech. Rep. RMRS-GTR-114.
+Graham, R.T., McCaffrey, S., and Jain, T.B. (Technical Editors).
+2004. Science basis for changing forest structure to modify
+wildfire behavior and severity. USDA For. Serv. Gen. Tech. Rep.
+RMRS-GTR-120.
+Helms, J.A. 1979. Positive effects of prescribed burning on wild-
+fire intensities. Fire Manage. Notes, 403: 10–13.
+Hirsch, K., Kafka, V., Tymstra, C., McAlpine, R., Hawkes, B.,
+Stegehuis, H. 2001. Fire-smart forest management: a pragmatic
+approach to sustainable forest management in fire-dominated
+ecosystems. For. Chron. 77: 357–363.
+Kallander, H., Weaver, H., and Gains, E.M. 1955. Additional infor-
+mation on prescribed burning in virgin ponderosa pine in Ari-
+zona. J. For. 53: 730–731.
+Kaluzny, S.P., Vega, S.C., Cardoso, T.P., and Shelly, A.A. 1998. S+
+Spatial Stats: user’s manual for Windows and UNIX [computer
+manual]. Springer-Verlag, New York.
+© 2005 NRC Canada
+Finney et al.
+1721
+
+Key, C., and Benson, N. 2005. Landscape assessment: ground mea-
+sure of severity, the composite burn index, and remote sensing
+of severity, the normalized burn ratio. In FIREMON: fire effects
+monitoring and inventory system. Edited by D.C. Lutes, R.E.
+Keane, J.F. Caratti, C.H. Key, N.C. Benson, and L.J. Gangi.
+USDA For. Serv. Gen. Tech. Rep. RMRS-GTR. In press.
+Kipfmueller, K.F. 2003. Arizona recent and past drought fact sheet.
+Climate assessment for the Southwest (CLIMAS), Laboratory of
+Tree Ring-Research, University of Arizona, Tucson, Ariz. Avail-
+able from http://www.water.az.gov/gdtf/content/files/06262003/drought_
+facts.pdf [accessed 7 May 2003].
+Lawrence, R., and Labus, M. 2003. Early detection of Douglas-fir
+beetle infestation with subcanopy resolution and hyperspectral
+imagery. West. J. Appl. For. 18: 202–206.
+Loehle, C. 2004. Applying landscape principles to fire hazard re-
+duction. For. Ecol. Manage. 198: 261–267.
+Martin, R.E., Kauffman, J.B., and Landsberg, J.D. 1989. Use of
+prescribed fire to reduce wildfire potential. In Proceedings of
+the Symposium on Fire and Watershed Management, Sacra-
+mento, Calif., 26–28 October 1988. Technical Coordinator N.H.
+Berg. USDA For. Serv. Gen. Tech. Rep. PSW-109. pp. 17–22.
+Miller, J.D., and Yool, S.R. 2002. Mapping forest post-fire canopy
+consumption in several overstory types using multi-temporal
+Landsat TM and ETM data. Remote Sens. Environ. 82: 481–
+496.
+Parsons, D.J., and van Wagtendonk, J.W. 1996. Fire research and
+management in the Sierra Nevada. In Science and ecosystem
+management in the National Parks. Edited by W.L. Halvorson
+and G.E. Davis. University Arizona Press, Tucson, Ariz. pp. 25–
+48.
+Pollet, J., and Omi, P.N. 2002. Effect of thinning and prescribed
+burning on crown fire severity in ponderosa pine forests. Int. J.
+Wildland Fire, 11: 1–10.
+Reinhardt, E.D., Keane, R.E., and Brown, J.K. 2001. Modeling fire
+effects. Int. J. Wildland Fire, 10: 373–380.
+Richards, G.D., and Bryce, R.W. 1995. A computer algorithm for
+simulating the spread of wildland fire perimeters for heteroge-
+neous fuel and meteorological conditions. Int. J. Wildland Fire,
+5: 73–80.
+Rollins, M.G., Swetnam, T.W., and Morgan, P. 2001. Evaluating a
+century of fire patterns in two Rocky Mountain wilderness areas
+using digital fire atlases. Can. J. For. Res. 31: 2107–2123.
+Ryan, K.C. 1990. Predicting prescribed fire effects on trees in the
+interior west. In The art and science of fire management. Techni-
+cal Coordinators M.E. Alexander and G.F. Bisgrove. For. Can.
+North. For. Cent. Inf. Rep. NOR-X-309. pp. 148–162.
+Ryan, K.C., and Frandsen, W.H. 1991. Basal injury from smolder-
+ing fires in mature Pinus ponderosa Laws. Int. J. Wildland Fire,
+1: 107–118.
+Ryan, K.C., and Noste, N.V. 1985. Evaluating prescribed fires. In
+Symposium and Workshop on Wilderness Fire. Edited by J.E.
+Lotan, B.M. Kilgfore, W.C. Fisher, and R.W. Mutch. USDA
+For. Serv. Gen. Tech. Rep. INT-GTR-182. pp. 230–238.
+Schoennagle, T., Veblen, T.T., and Romme, W.H. 2004. The inter-
+action of fire, fuels, and climate across Rocky Mountain forests.
+Bioscience, 54: 661–676.
+Stephens, S.L. 1998. Evaluation of the effects of silvicultural and
+fuels treatments on potential fire behavior in the Sierra Nevada
+mixed-conifer forests. For. Ecol. Manage. 105: 21–35.
+Swetnam, T.W., and Baisan, C.H. 1996. Historical fire regime pat-
+terns in the southwestern United States since AD 1700. USDA
+For. Serv. Gen. Tech. Rep. RM-GTR-286.
+van Mantgem, P., Schwartz, M., and Kiefer, M.B. 2001. Moni-
+toring fire effects for managed burns and wildfires: coming to
+terms with pseudoreplication. Nat. Areas J. 21: 266–273.
+Van Wagner, C.E. 1973. Height of crown scorch in forest fires.
+Can. J. For. Res. 3: 373–378.
+Van Wagner, C.E. 1977. Conditions for the start and spread of
+crownfire. Can. J. For. Res. 7: 23–24.
+van Wagtendonk, J.W. 1995. Large fires in wilderness areas. In
+Proceedings of Symposium on Fire in Wilderness and Park
+Management, Missoula, Mont., 30 March – 1 April 1993. Tech-
+nical Coordinators J.K. Brown, R.W. Mutch, C.W. Spoon, and
+R.H. Wakimoto. USDA For. Serv. Gen. Tech. Rep. INT-GTR-
+320. pp. 113–116.
+van Wagtendonk, J.W. 1996. Use of a deterministic fire model to
+test fuel treatments. In Sierra Nevada Ecosystem Project: final
+report to Congress. Vol. II. Centers for Water and Wildland Re-
+sources, University of California, Davis, Calif. pp. 1155–1167.
+van Wagtendonk, J.W., and Sydoriak, C.A. 1987. Fuel accumula-
+tion rates after fires in Yosemite National Park. In Proceedings
+of the 9th Conference on Fire and Forest Meteorology, 21–24
+April 1987, San Diego, Calif. American Meteorological Society,
+Boston, Mass. pp. 101–105.
+van Wagtendonk, J.W., Root, R.R., and Key, C.H. 2004. Compari-
+son of AVIRIS and Landsat ETM+ detection capabilities for
+burn severity. Remote Sens. Environ. 92: 397–408.
+Wagle, R.F., and Eakle, T.W. 1979. A controlled burn reduces the
+impact of a subsequent wildfire in a ponderosa pine vegetation
+type. For. Sci. 25: 123–129.
+Weatherspoon, C.P., and Skinner, C.N. 1995. An assessment of fac-
+tors associated with damage to tree crowns from 1987 wildfires
+in northern California. For. Sci. 41: 430–451.
+Weaver, H. 1943. Fire as an ecological and silvicultural factor in
+the ponderosa pine region of the Pacific slope. J. For. 41: 7–15.
+White, J.D., Ryan, K.C., Key, C.C., and Running, S.W. 1996. Re-
+mote sensing of forest fire severity and vegetation recovery. Int.
+J. Wildland Fire, 6: 125–136.
+Yang, C.-C., Prasher, S.O., Enright, P., Madramootoo, C., Burgess,
+M., Goel, P.K., and Callum, I. 2003. Application of decision tree
+technology for image classification using remote sensing data.
+Agric. Syst. 76: 1101–1117.
+© 2005 NRC Canada
+1722
+Can. J. For. Res. Vol. 35, 2005

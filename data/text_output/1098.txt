@@ -1,0 +1,1291 @@
+ARTICLE
+Mixtures of airborne lidar-based approaches improve
+predictions of forest structure1
+Ryan C. Blackburn, Robert Buscaglia, and Andrew J. Sánchez Meador
+Abstract: The most common method for modeling forest attributes with airborne lidar, the area-based approach, involves
+summarizing the point cloud of individual plots and relating this to attributes of interest. Tree- and voxel-based approaches
+have been considered as alternatives to the area-based approach but are rarely considered in an area-based context. We esti-
+mated three forest attributes (basal area, overstory biomass, and volume) across 1680 ﬁeld plots in Arizona and New Mexico.
+Variables from the three lidar approaches (area, tree, and voxel) were created for each plot. Random forests were estimated
+using subsets of variables based on each individual lidar approach and mixtures of each approach. Boruta feature selection
+was performed on variable subsets, including the mixture of all lidar-approach predictors (KS-Boruta). A corrected paired
+t test was utilized to compare six validated models (area-Boruta, tree-Boruta, voxel-Boruta, KS-Boruta, KS-all, and ridge-all)
+for each forest attribute. Based on signiﬁcant reductions in error (SMdAPE), basal area and biomass were best modeled with
+KS-Boruta, while volume was best modeled with KS-all. Analysis of variable importance shows that voxel-based predictors
+are critical for the prediction of the three forest attributes. This study highlights the importance of multiresolution voxel-
+based variables for modeling forest attributes in an area-based context.
+Key words: voxel, individual-tree detection, area-based approach, random forest, Boruta.
+Résumé : La méthode la plus courante pour modéliser les attributs de la forêt avec le lidar aéroporté, l’approche par zone,
+consiste à résumer le nuage de points des parcelles individuelles et à le relier aux attributs d’intérêt. Les approches basées
+sur les arbres et sur les voxels ont été considérées comme des solutions de rechange à l’approche basée sur la zone, mais
+elles sont rarement considérées dans un contexte basé sur la zone. Nous avons estimé trois attributs de la forêt (la surface
+terrière, la biomasse de l’étage supérieur et le volume) sur 1680 parcelles de terrain en Arizona et au Nouveau-Mexique.
+Pour chaque parcelle, ces variables ont été calculées selon trois approches lidar (par zone, par arbre et par voxel). Des forêts
+d’arbres décisionnels ont été estimées à l’aide de sous-ensembles de variables basés sur chaque approche lidar prise individu-
+ellement et à l’aide d’assemblages de ces approches. Une sélection des caractéristiques a été effectuée sur des sous-ensembles
+des variables à l’aide d’un algorithme de Boruta, y compris un assemblage de tous les prédicteurs de l’approche lidar (KS-Boruta).
+Un test de t apparié corrigé a été utilisé pour comparer six modèles validés (Boruta par zone, Boruta par arbre, Boruta par voxel,
+KS-Boruta, KS-toutes les méthodes, régression ridge-toutes les méthodes) pour chaque attribut de la forêt. Sur la base de la réduc-
+tion signiﬁcative de l’erreur, la surface terrière et la biomasse étaient mieux modélisées avec le KS-Boruta tandis que le volume
+était mieux modélisé avec le KS- outes les méthodes. L’analyse de l’importance des variables montre que les prédicteurs basés sur
+les voxels sont essentiels pour la prédiction des trois attributs de la forêt. Cette étude met en évidence l’importance des varia-
+bles basées sur le voxel multi-résolution pour la modélisation des attributs de la forêt dans une approche basée sur la zone.
+[Traduit par la Rédaction]
+Mots-clés : voxel, détection des arbres individuels, approche basée sur la zone, forêts d’arbres décisionnels, Boruta.
+Introduction
+Forests in the western United States (US) currently face increas-
+ing threats of landscape-scale disturbances such as wildﬁres,
+extreme drought, and bark beetle outbreaks largely attributed to a
+warming climate (Breshears et al. 2005; Westerling 2006; Hicke
+et al. 2016). A large portion of these forests also exist in novel,
+uncharacteristic, conditions created from anthropogenic activities
+(e.g., unregulated livestock grazing, landscape-scale intensive log-
+ging, ﬁre suppression) that drastically altered forest structure and
+composition, exacerbating the impacts of these disturbances
+(Cannon et al. 2018). For example, forests in the southwestern US
+have shifted to more homogenous, dense canopies that favor
+ﬁre-intolerant and shade-tolerant species (Rodman et al. 2016). To
+address this, ecological restoration has been proposed across mil-
+lions of hectares with the goal of shifting the forest structure and
+composition closer to its historical range of variability (HRV)
+(Landres et al. 1999; Huffman et al. 2017). HRV serves as a target
+for western frequent-ﬁre forests that will most likely create more
+Received 30 November 2020. Accepted 28 February 2021.
+R.C. Blackburn. School of Forestry, Northern Arizona University, Flagstaff, Arizona, USA.
+R. Buscaglia. Department of Mathematics and Statistics, Northern Arizona University, Flagstaff, Arizona, USA.
+A.J. Sánchez Meador. School of Forestry, Northern Arizona University, Flagstaff, Arizona, USA; Ecological Restoration Institute, Northern Arizona
+University, Flagstaff, Arizona, USA.
+Corresponding author: Ryan C. Blackburn (email: ryan@iblackburn.com).
+1This article is part of the special issue “Advances in forest mensuration and biometrics, featuring papers presented at the 2020 Western Mensurationists
+Conference”.
+Copyright remains with the author(s) or their institution(s). Permission for reuse (free in most cases) can be obtained from copyright.com.
+Can. J. For. Res. 51: 1106–1116 (2021) dx.doi.org/10.1139/cjfr-2020-0506
+Published at www.cdnsciencepub.com/cjfr on 3 March 2021.
+1106
+Can. J. For. Res. Downloaded from cdnsciencepub.com by NORTHERN ARIZONA UNIVERSITY on 07/30/21
+For personal use only. 
+
+resilient and self-sustaining forest conditions able to withstand
+the increasing threats of climate-driven, landscape-scale distur-
+bances (Allen et al. 2002; Reynolds et al. 2013).
+It is common that a variety of forest structural and composi-
+tional characteristics be used to describe and quantify forest con-
+ditions. Characteristics used for describing forest conditions may
+include measures such as tree density, basal area, canopy cover,
+aboveground biomass (AGB), species composition, and herba-
+ceous understory biomass and composition (Laughlin et al. 2006;
+Huffman et al. 2017; Tenneson et al. 2018). Alternative manage-
+ment goals and outcomes (e.g., improved wildlife habitat vs.
+increased timber production) are often evaluated using these
+characteristics, making the need for accurate estimates even
+more important (Ganey et al. 2017). These characteristics are pri-
+marily measured in small plots (i.e., a few to 100s of square
+metres), which are then extrapolated to landscape-level measure-
+ments (Holl 2017); however, 25.5% (or 75 290 km2) of Arizona
+alone is forested (Shaw et al. 2018), and achieving a scale relevant
+to landscape forest restoration with only ﬁeld inventory data is
+often impractical.
+Remote sensing data provides the opportunity to quantify for-
+est conditions more accurately across various scales. Speciﬁcally,
+airborne light detection and ranging (lidar) data have become
+more widely available and commonly used for assessing forest
+conditions. As a form of active remote sensing, lidar sensors send
+pulses to the ground and measure each return to create a three-
+dimensional (3D) point cloud (Maltamo 2014). In addition to 3D
+locational information, lidar can also provide a measure of the
+energy returned from each pulse, known as intensity (White
+et al. 2016). Lidar data provide direct measurements across the
+entire area of interest, which can be used in conjunction with ﬁeld
+inventory data resulting in a more accurate and cost-effective
+method for obtaining forest metrics from the landscapes to ﬁne-
+scale regions (Latiﬁet al. 2015; White et al. 2016; Jeronimo et al.
+2018). The most common form of lidar analysis to obtain forest
+structural characteristics, the area-based approach, quantiﬁes
+the returns across a grid of pixels in which each pixel represents
+a given area (Næsset 2002; White et al. 2016). The pixel values
+describe a summary (e.g., average) of point cloud distributions
+within a given area that are then used to model forest structure and
+resources. There are, however, additional lidar-based approaches
+that may provide more accurate estimations of forest structure.
+Often contrasted with the area-based approach, individual-tree
+detection (ITD) or segmentation algorithms have been developed
+to delineate individual trees and produce single tree characteristics
+(e.g., tree crown area, height, canopy volume, biomass) across entire
+lidar acquisitions (Latiﬁet al. 2015; Wang et al. 2016; Silva et al. 2016;
+Dalponte and Coomes 2016; Jeronimo et al. 2018); however, ITD algo-
+rithms always occur with omission and commission errors varying
+by tree size (Vastaranta et al. 2012). These errors can also change
+across forest types, structures, and data sets (Jeronimo et al. 2018;
+Wiggins et al. 2019). Recent research has sought to improve ITD
+methodologies and highlight applications in which it is most useful
+(Vastaranta et al. 2012; Jeronimo et al. 2018; Wiggins et al. 2019). One
+potential use for ITD involves summarizing ITD-derived tree charac-
+teristics over a given area similarly to the area-based approach
+(hereafter referred to as the tree-based approach).
+Volumetric pixel, or “voxel”, based descriptions of the point
+cloud provide similar distributional summary statistics to those
+produced using area-based approaches and have been increasing
+in notoriety (Pearse et al. 2019; Goodbody et al. 2020). Although
+voxels were originally designed for ground-based lidar data,
+Pearse et al. (2019) recently showed how plot-level voxel summa-
+ries can improve predictive performance when modeling impor-
+tant forest characteristics such as volume and basal area. Pearse
+et al. (2019) hypothesized that voxels may provide additional de-
+scriptive representation of horizontal structure within the point
+cloud, while area-based summaries are expected to already account
+for most of the vertical structure. Additionally, multiple voxel reso-
+lutions can provide nested scales of information within an area,
+potentially increasing voxel-based model accuracy (Pearse et al.
+2019; Goodbody et al. 2020). Research is needed across a range of
+forest types to fully understand the beneﬁts of using the voxel-
+based approach.
+The large quantity of lidar-derived variables available and their in-
+herent correlations make selecting the correct modeling approaches
+imperative. In forestry, lidar is most commonly used to estimate for-
+est attributes with the goal of increasing prediction accuracy with-
+out being too concerned about interpretability (White et al. 2016).
+Models providing high interpretability such as parametric
+approaches are more restrictive, which results in lower predic-
+tion accuracies (James et al. 2013). Despite this, parametric
+methods are still the most common among remote sensing
+data users (Yu et al. 2014; Maxwell et al. 2018). Machine learning
+techniques are less interpretable but generally have been shown
+to ﬁnd stronger relationships between remote sensing and ﬁeld data
+in comparison with traditional parametric techniques (Yu et al.
+2014). Machine learning techniques are not constrained to the same
+assumptions as in parametric approaches, allowing machine learn-
+ing techniques to be used in situations of high dimensionality and
+(or) highly correlated predictor variables (James et al. 2013; Maxwell
+et al. 2018). Reduction of dimensionality has been shown to increase
+prediction accuracy in some cases, which can be done using various
+feature selection techniques (Maxwell et al. 2018); however, improve-
+ments in accuracy are not guaranteed, and feature selection can
+occasionally reduce model accuracies. As a result, the best way to
+ensure the development of the most accurate model is to compare
+both full and reduced datasets (Maxwell et al. 2018). Due to reasons
+stated above, studies should investigate models with different
+interpretability (i.e., parametric vs. machine learning) and reduced
+vs. full features sets when using lidar-derived data.
+This study aims to determine the most accurate lidar-based
+approach, or combination of approaches, when modeling impor-
+tant forest attributes, including basal area, aboveground biomass
+(AGB), and volume at the landscape scales. We (1) compare each
+approach (area, tree, and voxel based) by assessing prediction
+errors for basal area, AGB, and volume; (2) quantitatively assess
+how well a mixture of variables created from the three approaches
+compare with using a single approach; and (3) identify variables
+that are driving the most accurate predictions of each response. In
+doing so, we provide a framework for comparing new statistical
+and remote sensing techniques, as well as an approach to obtaining
+more accurate forest attribute predictions important for monitor-
+ing during this era of large-scale forest management.
+Materials and methods
+Study area
+This study took place in ﬁve national forests within northern Ari-
+zona and New Mexico (Fig. 1). This area was selected to capitalize on
+available ﬁeld data and lidar acquisitions that were collected for
+speciﬁc forest health and restoration projects. These include the
+Four Forest Restoration Initiative (4FRI) within the Coconino, Tonto,
+and Apache-Sitgreaves National Forests (7911 km2), the Kaibab For-
+est Health Focus project within the Kaibab National Forest and
+Grand Canyon National Park (1853 km2), and the Southwest Jemez
+Mountain Landscape Restoration Project (SWJM) within the Santa
+Fe National Forest (526 km2) (Tenneson et al. 2018). The combined
+area of these projects (10 290 km2) encompasses a wide range of for-
+est conditions (Table 1) creating the opportunity to develop a re-
+gional understanding of lidar-derived forest structure accuracies in
+the southwestern US.
+The study area covered a variety of frequent-ﬁre pine and
+mixed conifer forest community types largely due to variations
+in elevation and moisture availability. This area ranges from 1700
+to 3100 m above sea level and experiences a bimodal precipitation
+Blackburn et al.
+1107
+Published by Canadian Science Publishing
+Can. J. For. Res. Downloaded from cdnsciencepub.com by NORTHERN ARIZONA UNIVERSITY on 07/30/21
+For personal use only. 
+
+pattern with snowfall in winter and monsoonal rains in July and
+August (Tenneson et al. 2018). Overstory communities consist of a
+variety of species including conifers (blue spruce (Picea pungens
+Engelm.), Engelmann spruce (Picea engelmannii Parry ex Engelm.),
+corkbark ﬁr (Abies lasiocarpa var. arizonica (Merriam) Lemmon),
+subalpine ﬁr (Abies lasiocarpa (Hook.) Nutt.), white ﬁr (Abies concolor
+(Gordon & Glend.) Lindl. ex Hildebr.), limber pine (Pinus ﬂexilis
+E. James), southwestern white pine (Pinus strobiformis Engelm.),
+Douglas-ﬁr (Pseudotsuga menziesii (Mirb.) Franco), ponderosa pine
+(Pinus ponderosa Douglas ex P. Lawson & C. Lawson), two-needle
+pinyon (Pinus edulis Engelm.), and Utah juniper (Juniperus osteosperma
+(Torr.) Little)) and hardwoods (bigtooth maple (Acer grandidentatum
+Nutt.), quaking aspen (Populus tremuloides Michx.), New Mexico locust
+(Robinia neomexicana A. Gray), and Gambel oak (Quercus gambelii Nutt.)).
+For more information regarding the study area, refer to Tenneson
+et al. (2018).
+Data collection
+Field data were collected at over 3000 circular plots by the US
+Forest Service (USFS) and the Ecological Restoration Institute
+between 2013 and 2015. We then separated the data into subsets
+to ensure that all plots were 0.04 ha in size. This provided a total
+of 1680 plots, including 1504, 116, and 60 within the 4FRI, North
+Kaibab Plateau, and Southwest Jemez Mountain Landscape
+Restoration Project study areas, respectively. Plot locations
+were recorded with submeter locational accuracy using either a
+Trimble GeoXH6000 with GPS + GLONASS or a Trimble GeoXH
+with GPS (Tenneson et al. 2018). Within each plot, all trees with
+a diameter at breast height (DBH) greater than 12.7 cm (except
+North Kaibab Plateau, where DBH > 20.3 cm) had DBH and spe-
+cies recorded (Tenneson et al. 2018). Some sites also included
+information on tree height and height to live crown, but this was
+not used in the analysis. AGB, volume, and basal area were mod-
+eled using tree-level species-speciﬁc allometric equations within
+the Central Rockies variant of the Forest Vegetation Simulator
+(FVS) (Crookston and Dixon 2005; Dixon 2020; Keyser 2020).
+Because FVS provides estimates per acre, we then converted
+those estimates to metric units (i.e., m2, m3, kg) per plot (0.04 ha),
+which allows our models to predict forest characteristics at a
+400 m2 spatial resolution.
+Lidar data were acquired across four acquisitions between 2012
+and 2014 with various Leica ALS series sensors (Table 1; additional
+details in Tenneson et al. 2018). The acquisitions were ﬂown dur-
+ing leaf-on conditions (i.e., June to September). Average pulse
+densities were ≥8 pulses·m–2, and vertical accuracies were within
+15 cm for each acquisition. As a result, each acquisition falls
+within the US Geological Survey deﬁned quality level one (QL1)
+for lidar data (Heidemann 2012).
+Fig. 1. Study area including plots (maroon points) and lidar acquisitions (orange and yellow polygons) in (a) Arizona and New Mexico, (b) North
+Kaibab, (c) Four Forest Restoration Initiative phase 1 in orange and phase 2 in yellow, and (d) the Southwest Jemez Mountain Landscape
+Restoration Project acquisitions are shown with plot locations. Figure produced with QGIS 3.10.0 using shapeﬁles created from lidar
+acquisitions and recorded plot locations. ESRI “Topographic” [basemap], scale not given. “World Topographic Map”, 13 June 2013, available from
+http://services.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x} (11 June 2020). [Colour online.]
+1108
+Can. J. For. Res. Vol. 51, 2021
+Published by Canadian Science Publishing
+Can. J. For. Res. Downloaded from cdnsciencepub.com by NORTHERN ARIZONA UNIVERSITY on 07/30/21
+For personal use only. 
+
+Lidar-derived variable creation
+Using the lidR (Roussel et al. 2020) and sf (Pebesma 2018) pack-
+ages in R, we clipped the lidar data to each plot and normalized the
+point cloud to heights above ground. Predictor variables from each
+type of lidar approach (Fig. 2) were then calculated for each plot
+using custom functions (https://github.com/RCBlackburn/lidRmts)
+and the lidR package (Supplementary Table S12). This resulted in
+three predictor sets based on each lidar approach. The area-based
+variables were created to emulate the same characteristics commonly
+used to predict forest attributes found in FUSION (McGaughey 2009).
+The variables (n = 119) summarize aspects of point density, return
+numbers, height, and intensity across the plot. All area-based
+variables were calculated using points greater than or equal to
+1.37 m in height.
+Tree-based variables were calculated using the same point clouds
+as for the area-based approach. The watershed ITD algorithm
+within lidR was used to segment individual trees on each plot. To
+run the watershed algorithm, a 0.25 m2 pit-free canopy height
+model (CHM) was created. Based on an inverted topographic relief
+of the CHM, trees with a minimum height of 1.37 m were then iden-
+tiﬁed (Pau et al. 2010).Variables (n = 37) of segmented tree densities,
+tree heights, and crown areas were calculated within the plot (Sup-
+plementary Table S12).
+Voxel-based variables were calculated using the same point
+clouds as above, but without the 1.37 m speciﬁed height cutoff.
+Ground points were removed before voxel-based variables were
+calculated. Using the voxel_metrics() function in lidR, each plot
+was partitioned into a voxelized 3D object and empty voxels
+were added. A variety of voxel-based variables have been used
+with airborne lidar data in previous studies and can be calcu-
+lated based on within, above, or below voxel characteristics (Kim
+et al. 2016; Pearse et al. 2019). For each voxel, a variety of varia-
+bles were calculated based on height, point density, and inten-
+sity. These variables were then summarized to the plot-level to
+provide one observation per plot for each voxel variable (Supple-
+mentary Table S12). This was done at ﬁve spatial resolutions (1, 2,
+3, 4, and 5 m3) resulting in 940 voxel-based plot-level variables.
+In total, 1096 predictor variables were created between the three
+approaches.
+Analysis
+Four sets of predictor variables were created including area-based,
+tree-based, and voxel-based variables and a mixture of all variables
+(hereafter referred to as “kitchen sink” or KS). We performed feature
+selection for each set using the Boruta algorithm from the R package
+Boruta (Kursa and Rudnicki 2010) with a total of 1000 trees per ran-
+dom forest. Boruta has been found to be especially effective in high-
+dimensional settings and with remote sensing data such as in our
+study (Degenhardt et al. 2019; Arjasakusuma et al. 2020). Boruta is a
+machine learning wrapper that introduces shadow variables into the
+predictor variable set. Boruta shufﬂes the original values for each pre-
+dictor, creating new variables (i.e., shadow variables) that have a ran-
+dom relationship with the response. Z scores are then used to
+compare the variable importance of the shadow variables and the
+lidar-derived predictor variables (Fig. 3) (Kursa and Rudnicki 2010).
+Variable importance is calculated for each regression tree within a
+random forest by taking the difference of the mean squared error
+(MSE) between a regression tree and an alternative regression tree in
+which the variable of interest is randomly shufﬂed (i.e., permuted).
+The average of this difference is then taken for all regression trees
+within the random forest, and variables with larger values (i.e., larger
+reductions in MSE) represent more important variables (Kursa and
+Rudnicki 2010; Wright and Ziegler 2017). For each set, predictors were
+retained in the random forest model when their variable importance
+was signiﬁcantly improved (i.e., p ≤0.01) over the shadow features.
+Random forests were estimated for each response with the four
+Boruta-reduced predictor sets and an additional random forest
+with the KS predictor set. All random forests were created using
+the R package ranger and estimated with 1000 trees per random
+forest (Wright and Ziegler 2017). Variable importance was reported
+for each random forest model, and we calculated the mean and
+standard deviation of the variable importance for ﬁnal predictor
+variables falling in the top 95th and 99th percentiles. To provide a
+parametric comparison, we also included a penalized regression
+model using the KS predictor set. Ridge regression allows for coefﬁ-
+cient estimation during conditions of highly correlated predictor
+variables using a penalization parameter (l ). The parameter l
+shrinks coefﬁcient magnitudes and should be selected through
+cross-validation prior to estimation of the ridge model (Friedman
+et al. 2010). In this study, we built a ridge regression model in
+R using the package glmnet with the KS-predictor set, and the mag-
+nitude of l was established prior to ﬁnal model estimation using
+cross-validation (Friedman et al. 2010). This resulted in the follow-
+ing six models available for comparisons: (1) area-Boruta, (2) tree-
+Boruta, (3) voxel-Boruta, (4) KS-Boruta, (5) KS-all, and (6) ridge-all. In
+each case, “-Boruta” refers to the Boruta selected variable set and
+“-all” refers to all variables prior to Boruta feature selection.
+We assessed model performance using 10 repeats of 10-fold
+cross-validation based on symmetric median absolute percentage
+error (SMdAPE; eq. 1) and normalized root mean squared error
+(NRMSE; eq. 2) as a percentage of the mean. The SMdAPE provides
+a robust, less biased measure of scaled error comparable across
+different responses and data sets (Hyndman and Koehler 2006;
+Tofallis 2015; Chung et al. 2019). NRMSE was included for compar-
+ison due to its conventional use in the ﬁeld; however, NRMSE is
+sensitive to large magnitudes of error and can be normalized in a
+variety of ways that makes cross study or statistical comparisons
+less reliable, which is why we based our results on the more sta-
+ble SMdAPE (Armstrong and Collopy 1992; Hyndman and Koehler
+2006). By signiﬁcantly reducing the test set SMdAPE, models are
+selected with an error rate representative of the variation observed
+within the study area. Final models were chosen based on signiﬁ-
+cant reductions (i.e., p ≤0.05) in SMdAPE using a corrected t value
+for repeated k-fold cross-validation (Bouckaert and Frank 2004;
+eq. 3). To account for multiple comparisons, p values were adjusted
+using false discovery rate (Benjamini and Hochberg 1995). If models
+were not signiﬁcantly different, the model with the lowest mean
+SMdAPE (mSMdAPE) was chosen. The same repeated k-fold cross-
+validated t test was conducted with the NRMSE values to contrast
+with SMdAPE.
+For each observation i, SMdAPE and NMRSE are deﬁned as
+ð1Þ
+SMdAPE ¼ 1
+N
+X
+N
+i¼1
+median 200j^yi  yij=j^yi þ yij
+
+
+ð2Þ
+NRMSE ¼
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+1
+N
+XN
+i¼1ðyi  ^yiÞ2=N
+r
+1
+N
+XN
+i¼1yi
+where ^yi is the prediction for each observation yi and N is the
+total number of observations. For each fold i and iteration j, the
+repeated k-fold cross-validated t statistic is deﬁned as
+ð3Þ
+t ¼
+1
+k  r
+Xk
+i¼1
+Xr
+j¼1xij
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+1
+k  r þ n2
+n1
+
+
+s 2
+s
+where s 2 ¼
+1
+k  r  1
+X
+k
+i¼1
+X
+r
+j¼1
+ðxij  mÞ2
+2Supplementary data are available with the article at https://doi.org/10.1139/cjfr-2020-0506.
+Blackburn et al.
+1109
+Published by Canadian Science Publishing
+Can. J. For. Res. Downloaded from cdnsciencepub.com by NORTHERN ARIZONA UNIVERSITY on 07/30/21
+For personal use only. 
+
+k is the number of folds, r is the number of repetitions, xij is the
+difference of the SMdAPE or NRMSE between the two models,
+and n1 and n2 are the sample sizes of training and testing sets,
+respectively. For more details, see Bouckaert and Frank (2004).
+Results
+Boruta feature selection resulted in reduced predictor sets for
+models containing voxel-based variables for basal area, volume,
+and AGB. In contrast, Boruta selected all 119 variables for the
+three area-Boruta models and only removed one variable when
+predicting basal area for the tree-Boruta models. Voxel-Boruta
+models were reduced from 940 to 170, 177, and 180 predictors for
+basal area, volume, and AGB, respectively. KS-Boruta for each
+response retained features largely favoring voxel-based variables,
+including a mixture of voxel resolutions (Table 2). Voxel-based
+variables included a wide range of measures for both intensity
+and height distributions. Due to the large amount of potential
+voxel variables to report on, we only focus on voxel-based variables
+for the ﬁnal models through variable importance. When modeling
+basal area, KS-Boruta was reduced to 159 voxel-based, 6 area-based,
+and 9 tree-based variables. Area-based variables included four meas-
+ures of intensity (m_i, total_i, cv_i, and entropy_1) and two measures
+of height (npoints and z_decile_cumulative_5). Tree-based variables
+were all a measure of the distributions of segmented crown areas
+within the plot. When modeling volume, KS-Boruta was reduced to
+158 voxel-based,17 area-based, and 7 tree-based variables. Area-based
+variables mostly measured distributions of height such as quantiles
+and deciles; however, total_i was also included. Fewer tree-based varia-
+bles were retained in comparison with basal area, but each tree-based
+variable was still a measure of segmented tree crown distributions.
+When modeling AGB, KS-Boruta was reduced to 180 voxel-based, 10
+area-based, and 9 tree-based variables. AGB included many of the
+same area- and tree-based variables that were retained in KS-
+Boruta for volume; however, AGB also included the tree-based pre-
+dictor segmented quadratic mean crown area (qm_tree_crown_area)
+and the skew of point heights within the plot (skew_z).
+Final models were chosen on signiﬁcant reductions in the cross-
+validated test set SMdAPE (Fig. 4). Voxel-Boruta outperformed area-
+Boruta for basal area (p = 1.69  1012), volume (p = 4.57  1012), and
+AGB (p = 2.07  1011). Voxel-Boruta also signiﬁcantly outperformed
+tree-Boruta (Supplementary Table S22). Although voxel-Boruta and
+KS-Boruta are not signiﬁcantly different, KS-Boruta consistently
+had a lower mSMdAPE for each response (Table 3). KS-all and KS-
+Boruta do not have signiﬁcantly different performances, although
+KS-Boruta typically returned the lower mSMdAPE. Volume was
+the only response in which KS-all had a lower mSMdAPE than KS-
+Boruta; however, the mSMdAPE difference between KS-all and
+KS-Boruta for volume was less than 0.1%. Though we consider KS-
+all to be our ﬁnal model for volume based on selection criteria
+(lowest mSMdAPE), KS-Boruta may be the more practical choice
+given the reduced number of variables that need to be computed.
+NRMSE provided the same resulting ﬁnal models except for vol-
+ume, where KS-Boruta had the lowest mean NRMSE (mNRMSE).
+Signiﬁcant differences in NRMSE correlate with SMdAPE results
+(Fig. 4); however, basal area showed a signiﬁcant difference of KS-
+Boruta from voxel-Boruta and ridge-all, which was not found
+with SMdAPE (Supplementary Table S42). NRMSE also provided a
+signiﬁcant difference between KS-Boruta and voxel-Boruta for
+AGB. These minor differences between SMdAPE and NRMSE arise
+because of the larger variance inherent to NRMSE.This variance is a
+component of the repeated-fold corrected t test (eq. 3) and is directly
+observed by higher standard deviations, presented in Table 3.
+The summaries of model performance for both SMdAPE and
+NRMSE indicate that the KS-Boruta modeling strategy optimizes
+predictive models for basal area, volume, and AGB. This includes
+a signiﬁcant reduction in mSMdAPE and mNRMSE over area- and
+tree-based predictor sets, along with the reduction of features in
+Table 1. Lidar acquisition descriptions from Tenneson et al. (2018) and mean and standard deviation (in parentheses) for ﬁeld-measured basal area (m2·0.04 ha–1), volume (m3·0.04 ha–1), and
+aboveground biomass (AGB; kg·0.04 ha–1).
+Lidar acquisition information
+Field data summaries
+Lidar acquisition
+Year
+Sensor
+Pulse
+density (SD)
+Field of
+view (°)
+Flight
+height (m)
+Basal area
+Volume
+AGB
+North Kaibab
+2012
+Leica ALS50 & ALS60
+12.9 (5.12)
+20–28
+900–2000
+0.960 (0.584)
+8.319 (6.506)
+4685.039 (3325.062)
+Four Forest Restoration Initiative (phase 1)
+2013
+Leica ALS50 & ALS60
+9.4 (2.8)
+28
+900
+0.904 (0.518)
+6.284 (4.795)
+3965.576 (2748.616)
+Four Forest Restoration Initiative (phase 2)
+2014
+Leica ALS70
+15.4 (5.5)
+28
+1200–1400
+0.846 (0.479)
+5.827 (5.018)
+3345.798 (2569.793)
+Southwest Jemez Mountain Landscape Restoration Project
+2012
+Leica ALS60
+13.3 (4.8)
+26
+900
+1.094 (0.492)
+6.895 (4.291)
+4233.644 (2375.384)
+1110
+Can. J. For. Res. Vol. 51, 2021
+Published by Canadian Science Publishing
+Can. J. For. Res. Downloaded from cdnsciencepub.com by NORTHERN ARIZONA UNIVERSITY on 07/30/21
+For personal use only. 
+
+comparison with KS-all. KS-Boruta reduced mSMdAPE to 20.1%,
+20.8%, and 21.3% and mNRMSE to 33.3%, 34.6%, and 34.2% for
+basal area, volume, and ABG, respectively. KS-Boruta resulted in
+a reduction of at least 5% in mSMdAPE and mNRMSE in compa-
+rison with area-Boruta and tree-Boruta across all responses. As
+a result, the KS-Boruta modeling is an optimal strategy for
+predicting basal area, volume, and AGB and should be explored
+when modeling other forest attributes.
+Mean variable importance from the cross-validated random
+forests provide insight into the amount of error reduction that
+occurred on average when including a given variable in our ﬁnal
+models. The predictors within the top 95th percentile of variable
+Fig. 2. Visual interpretation of three distinct lidar approaches: (a) area-based approach summarizes the distribution of points at or above
+1.37 m within the plot (purple cylinder); (b) tree-based approach uses an individual-tree detection algorithm to identify individual trees
+(points of the same color) and summarize tree attributes (e.g., number of trees, mean height of trees, standard deviation of crown areas)
+at the plot level; and (c) voxel-based approach divides the plot into three-dimensional cubes (i.e., voxels) at varying resolutions. The
+distribution of points within the voxel of interest (purple voxel) are then summarized within, above (light purple voxels above), and
+below (light purple voxels below) the voxel. [Colour online.]
+Fig. 3. Variable importance computed during the Boruta algorithm for each predictor variable. A model containing only 1 m3 voxel-based
+predictors was used to minimize the number of predictors shown. The predictors that do not signiﬁcantly reduce the error in comparison
+with shadow variables are rejected, while predictors that are either too close to the shadow variable or not chosen enough in the random
+forest runs are considered tentative. For all Boruta models, we only used conﬁrmed predictor variables. [Colour online.]
+Blackburn et al.
+1111
+Published by Canadian Science Publishing
+Can. J. For. Res. Downloaded from cdnsciencepub.com by NORTHERN ARIZONA UNIVERSITY on 07/30/21
+For personal use only. 
+
+importance for basal area and AGB and the top 99th percentile
+for volume are made up of six voxel-based measurements with
+varying resolutions (1, 2, 3, and 4 m3) and measures of distribu-
+tion (Table 4). The 99th percentile was used for the ﬁnal model
+(KS-all) of volume due to the large number of variables (i.e., 1096).
+The frequency ratio of the number of returns above a voxel in
+relation of the total returns (FR_Di), the number of returns below
+a voxel (P_Di), and descriptions of height within a voxel (z_SVi) at
+varying resolutions and summaries of distributions appear as the
+top predictors for all three responses. P_Di at 1 m3 summarized
+by the coefﬁcient of variation improved the accuracy the most
+for basal area and AGB, while the mean FR_Di at 2 m3 improved ac-
+curacy the most for volume. Unique variables were also selected
+within the ﬁnal models for each response. Canopy closure above
+21 m (cc_above_21) measured at 3 m3 resolution only appeared in
+the 95th percentile of variable importance for basal area. The effec-
+tive number of layers measured through the second Hill number
+(ENL_2D) at 2 m3 resolution was also unique to AGB. Volume had
+two unique variables that used the interquartile range to summa-
+rize FR_Di, while all other summary statistics of dispersion were
+measured by the coefﬁcient of variation. Voxel resolutions were
+mostly consistent between responses, though variables with the
+3 m3 dimensions were most common in basal area. Additionally,
+voxel-based variables with 4 m3 dimensions were present for two
+variables for volume and one variable for AGB. The occurrence of
+only voxel-based variables in top percentile importance for each
+response provides even further evidence to support the use of
+voxels.
+Discussion
+With forested landscapes experiencing changes at a rate and
+scale never seen before, accurate large-scale quantiﬁcation of forest
+conditions has never been more important.This study provides fur-
+ther evidence for the use of lidar, speciﬁcally with the voxel-based
+approach, to predict basal area, volume, and AGB with machine
+learning implementations of feature selection and modeling in for-
+est restoration. Based on our three study objectives, we found that
+(1) the voxel-based approach provides statistically signiﬁcant reduc-
+tions in predictions errors in comparison with the tree- and area-
+based approaches; (2) a mixture of all three lidar approaches
+further reduced errors for each response; and (3) a range of differ-
+ent voxel-based predictors at varying resolutions regularly provide
+reductions in error for basal area, volume, and AGB.The mixture of
+lidar-based approaches (i.e., KS-Boruta, KS-all) provides errors that
+facilitate an accurate assessment of forest structure at scales
+needed for sustainable forest management and restoration. Future
+assessments of new remote sensing and statistical techniques can
+use the feature selection and repeated k-fold pairwise comparisons
+of model errors presented in this study as a framework for deter-
+mining the appropriate methodologies to use moving forward.
+Forest attributes have commonly been modeled with lidar data
+using either the area- or tree-based approach that provides esti-
+mates of error that further support the use of voxels for error
+reduction. Tenneson et al. (2018) used the area-based approach
+along with environmental variables (e.g., normalized difference
+vegetation index, ecosystem type) in a combination of stepwise
+regression and Bayesian model averaging to predict AGB per hec-
+tare. Tenneson et al. (2018) achieved a normalized root mean
+squared error (NRMSE) of 32.7% with a larger set of the same data
+in this study, but they did not explore their modeling technique’s
+ability to predict basal area or volume. The NRMSE for the AGB
+KS-Boruta model was close to the NRMSE found in Tenneson
+et al. (2018). The more comparable predictor set, area-Boruta, had
+a NMRSE almost 10% higher than that found in Tenneson et al.
+(2018); however, the use of additional data sources may have con-
+tributed to better predictions and these were not used in our
+study to allow for comparisons across lidar-speciﬁc approaches.
+Area-Boruta was also in line with other studies predicting basal
+area and volume. Within North American conifer forests, basal
+area NRMSEs ranged from 32.3% to 50.1% (Woods et al. 2008;
+Fekety et al. 2018) compared with area-Boruta with a 39.4%
+NMRSE. Volume predictions with the area-based approach have
+resulted in NMRSEs of 34% (Woods et al. 2008) and 37.3%
+(Lindberg and Hollaus 2012). Though these error rates are lower
+than the area-Boruta model for volume (42.6%), these studies
+used different scales of analysis and took place in different
+regions.
+Tree-based approaches provide insights into tree- and plot-level
+forest attributes, but the accuracy of tree-based approaches vary
+greatly depending on how and where they are implemented. For
+example, Yu et al. (2010) achieved a NRMSE of 15.4% when modeling
+volume at the plot level; however, when not manually matching
+segmented trees (such as done in our study), the NRMSE was found
+to be 56.5% (Yu et al. 2010). Tree-based approaches are also com-
+monly used for predicting AGB and have NRMSE ranging from 14%
+to 32% (Bortolot and Wynne 2005; Gleason and Im 2012; Kankare
+et al. 2013; Popescu and Hauglin 2014). These studies cover a range
+of forest types and management practices. The lower errors are
+found in homogenous conditions (e.g., pine plantations), which
+would likely result in more accurate predictions (Bortolot and
+Wynne 2005; Kankare et al. 2013). Basal area has also been modeled
+with some accuracy with tree-based approaches, but percent errors
+were not reported (Chen et al. 2007). Tree-Boruta falls within the
+wide range of error rates for forest attributes, but tree-based mod-
+els are hard to compare given the variety of methods to implement
+tree-based approaches.
+Only a few studies have implemented a voxel-based approach
+with airborne lidar. Kim et al. (2016) introduced a variety of voxel-
+based variables for modeling AGB and achieved a NRMSE of
+24.9% within a deciduous tropical forest. The variables from Kim
+et al. (2016) and additional voxel-based variables were then used
+in Australian pine plantations by Pearse et al. (2019) when model-
+ing basal area and volume with NRMSEs of 19.6% and 18.8%,
+respectively. Goodbody et al. (2020) expanded the concept of voxels
+with the use of multispectral lidar and multiple voxel resolutions
+within a diverse conifer forest in Ontario, Canada. Goodbody et al.
+(2020) achieved NMRSEs of 12.7% and 20.4% for basal area and vol-
+ume, respectively. Similarly, our results provide evidence to support
+the use of voxel-based predictors described at multiple resolutions.
+Though our error rates appeared higher than those in previous
+studies, our lidar data predict across multiple forest types and con-
+ditions within the southwestern US and do not contain multispec-
+tral information.
+Boruta feature selection and mean variable importance allowed
+us to determine what variables were most important for predicting
+forest characteristics. Voxel-based variables were consistently the
+most selected and important in our KS-Boruta models. Pearse et al.
+(2019) also looked at importance values and found that voxel-based
+variables were most important when predicting volume and basal
+area; however, our most important voxel-based variables differ
+between Pearse et al. (2019) apart from canopy closure when
+Table 2. Lidar-based variable type counts
+for KS-Boruta models.
+Variable type
+Basal area
+Volume
+AGB
+Area
+6
+17
+10
+Tree
+9
+7
+9
+Voxel 1 m3
+30
+29
+34
+Voxel 2 m3
+39
+33
+37
+Voxel 3 m3
+32
+31
+42
+Voxel 4 m3
+30
+34
+34
+Voxel 5 m3
+28
+31
+33
+Note: Voxel-based variables are divided into
+resolutions. AGB, aboveground biomass.
+1112
+Can. J. For. Res. Vol. 51, 2021
+Published by Canadian Science Publishing
+Can. J. For. Res. Downloaded from cdnsciencepub.com by NORTHERN ARIZONA UNIVERSITY on 07/30/21
+For personal use only. 
+
+modeling basal area.This may be a result of including different forms
+of summary statistics. For example, we found that the summary sta-
+tistic for measures of dispersion that occurred most frequently was
+the coefﬁcient of variation. Important voxel-based predictors such
+as the coefﬁcient of variation of the frequency ratio (cv_FR_Di)
+may provide more ﬁne-scale measures of three-dimensional heter-
+ogeneity as opposed to the area-based approach. Area- and tree-
+based predictors were still included in the KS-Boruta models and
+provided additional information to help reduce the prediction
+error. Basal area, volume, and AGB all had different predictors
+from these approaches. Segmented tree crown summaries were
+most important for basal area, which may be a result of the known
+relationship between crown and stem diameter (Hemery et al.
+2005). On the other hand, area-based predictors are important for
+describing vertical heterogeneity, which can be closely tied to vol-
+ume and AGB (Pearse et al. 2019). Regardless of the importance of
+the area- and tree-based approaches, voxel-based predictors have a
+stronger relationship with basal area, volume, and AGB.
+Another unique feature of the voxel-based approach in this study
+was the distribution of multiple voxel resolutions selected for each
+response. All voxel resolutions were selected for various voxel-
+based variables in the KS-Boruta models. Uncertainties in the
+Fig. 4. Boxplots displaying the cross-validated symmetric median absolute percentage error (SMdAPE; ac) and normalized root mean
+square error (NRMSE; df) for basal area, volume, and aboveground biomass (AGB) across all models. Groupings of signiﬁcantly similar
+SMdAPE and NRMSE distributions are represented by letters centered over each boxplot. Lines within the boxes represent medians, and
+whiskers represent 25th and 75th percentiles. Purple diamonds represent mean values. For p values associated with multiple
+comparisons, refer to Supplementary Table S2 and Table S3.2
+Table 3. Cross-validated mean and standard deviation (in parentheses) of SMdAPE (%) and NRMSE (%)
+for each response by model set.
+Basal area
+Volume
+AGB
+SMdAPE
+NRMSE
+SMdAPE
+NRMSE
+SMdAPE
+NRMSE
+KS-Boruta
+20.1 (1.9)
+33.3 (3.2)
+20.8 (2.1)
+34.6 (3.5)
+21.3 (2.1)
+34.2 (2.8)
+KS-all
+20.2 (2.0)
+33.5 (3.3)
+20.7 (2.0)
+34.8 (3.5)
+21.7 (1.9)
+34.4 (2.8)
+Voxel-Boruta
+20.3 (2.1)
+33.6 (3.3)
+21.2 (2.1)
+34.8 (3.5)
+21.7 (2.2)
+34.4 (2.8)
+Ridge-all
+21.1 (2.2)
+34.4 (3.4)
+27.3 (10.6)
+42.2 (12.5)
+22.9 (2.1)
+35.7 (3.2)
+Tree-Boruta
+25.1 (2.6)
+38.4 (3.1)
+26.9 (2.3)
+41.7 (3.2)
+26.7 (2.6)
+40.7 (2.6)
+Area-Boruta
+27.5 (3.0)
+39.4 (3.4)
+28.8 (3.0)
+42.6 (3.5)
+28.3 (2.7)
+42.0 (2.9)
+Note: KS-Boruta’s mean SMdAPEs represents ﬁnal error rates for basal area and AGB, and KS-all mean SMdAPE
+represents ﬁnal error rates for volume. AGB, aboveground biomass.
+Blackburn et al.
+1113
+Published by Canadian Science Publishing
+Can. J. For. Res. Downloaded from cdnsciencepub.com by NORTHERN ARIZONA UNIVERSITY on 07/30/21
+For personal use only. 
+
+importance of different voxel resolutions are apparent in the litera-
+ture (Pearse et al. 2019; Goodbody et al. 2020). We hypothesize that
+the occurrence of multiple resolutions selected by Boruta is a result
+of the way in which structural components of the canopy are being
+detected within a voxel at various scales. We did identify a slight
+trend showing each response favoring voxel resolution between 2
+and 4 m3. This may suggest that the 1 m3 and 5 m3 resolutions are
+beginning to hit the limits of resolutions that do not provide useful
+structural information for basal area, volume, and AGB. The build-
+ing evidence from Goodbody et al. (2020) and the work presented
+here support the mixture of voxel resolutions, and we suggest that
+future research should look at a wider range of voxel resolutions
+for different forest attributes.
+One limitation to the voxel-based approach is the computa-
+tional power required to compute these variables at the land-
+scape scale. Many of our voxel-based variables are created at the
+individual voxel level and then are summarized across all voxels
+within a plot. This is then repeated at multiple resolutions.
+Though larger resolutions are processed more quickly because
+less voxels are in a plot, we did not directly compare voxel resolu-
+tions to advocate the use of one resolution over another. Despite
+computational limitation, the improvement in model performance
+with the inclusion of voxel-based variables and their potential for
+discovering unknown relationships between forest structure and
+attributes important for restoration and management (e.g., wildlife
+habitat, fuel distributions) cannot be ignored.
+Further work should be done by expanding the use of all three
+approaches to a variety of forest characteristics. For example, dif-
+ferent voxel-based variables have been found to be important
+indicators of understory communities and canopy leaf area den-
+sity, which both play a role in wildlife habitat and ecological res-
+toration (Kamoske et al. 2019; Venier et al. 2019). Additionally,
+area-based variables are comparable with voxels in which subcanopy
+information is not as important in characteristics such as height
+(Pearse et al. 2019). An area-based approach moving towards a voxel-
+based approach provided improvements when modeling volume,
+basal area, and tree density by dividing the plot horizontally into
+0.5 m2 pixels (Lindberg and Hollaus 2012). Our tree-based approach
+used plot-level estimates of tree characteristics to predict the forest
+attributes of interest. Certain variables such as summary statistics of
+crown area appeared in all KS-Boruta models, which helped reduce
+the mSMdAPE. However, additional tree-based approaches may be
+more useful to compare with our voxel estimates. For example, ITD
+segmented trees can provide individual values for a given forest
+attribute such as AGB (Krofcheck et al. 2016). Additionally, ITD can
+complement area-based approaches by providing area-based
+descriptions of segmented trees and crowns (Bortolot and Wynne
+2005; Gleason and Im 2012; Kankare et al. 2013; Jeronimo et al.
+2018). Jeronimo et al. (2018) used ITD to ﬁnd the proportion of can-
+opy height classes to better describe wildlife habitat. Overall, each
+approach has unique applications answering different questions
+that should all be considered prior to analysis.
+As the lidar approaches presented in this paper continually de-
+velop and new methodologies arise, the model selection and com-
+parison framework outlined in this study can be used to continually
+test their ability in modeling forest conditions. We have shown that
+Boruta feature selection and corrected pairwise comparisons for
+repeated k-fold cross-validation are effective tools for assessing
+remote sensing techniques and optimizing model performance for
+any forest attribute of interest. For example, other variables such as
+the normalized difference vegetation index and ecosystem type var-
+iables used in Tenneson et al. (2018) could be included in the KS-
+Boruta model to determine their performance against the lidar-
+derived variables. Additionally, the wide range of ITD segmentation
+algorithms and tuning parameters could be compared using this
+same selection and comparison framework. The Boruta algorithm
+allows for variable selection even when the amount of predictors in
+the model is greater than the sample size, which is common in
+remote sensing (Kursa and Rudnicki 2010; James et al. 2013; Yu et al.
+2019). However, other selection methods (e.g., stepwise regression,
+criterions based on Bayes method, least absolute shrinkage, and
+selection operator) should still be explored and compared using cor-
+rected pairwise comparison tests. By continually testing and com-
+paring new remote sensing techniques and modeling approaches,
+remote sensing data can provide the most accurate landscape-scale
+assessments for forest management and restoration.
+Conclusions
+This study outlines a feature selection and modeling strategy using
+a heterogenous mixture of predictors signiﬁcantly improving basal
+area, volume, and AGB predictions. By introducing multiresolution
+voxel-based variables, we have shown signiﬁcant improvements in
+crucial forest attributes that are used as criteria for ecological restora-
+tion and wildlife management goals. The ﬁnal models presented
+here can be used to predict these forest attributes across pine and
+Table 4.
+Cross-validated mean and standard deviation (in parentheses) of variable importance for the top 95th
+percentile for predictors in KS-Boruta for basal area and aboveground biomass (AGB) and top 99th percentile for
+predictors in KS-all for volume.
+Basal area
+Volume
+AGB
+Variable
+Importance
+Variable
+Importance
+Variable
+Importance
+cv_P_Di_1
+0.019 (0.004)
+m_FR_Di_2
+0.563 (0.073)
+cv_P_Di_1
+334423.122 (53086.135)
+cv_FR_Di_1
+0.018 (0.004)
+m_FR_Di_1
+0.518 (0.068)
+cv_FR_Di_1
+334374.578 (48375.338)
+cv_FR_Di_2
+0.018 (0.004)
+cv_FR_Di_1
+0.493 (0.070)
+m_FR_Di_2
+305986.135 (33946.099)
+cv_P_Di_2
+0.018 (0.004)
+m_z__SVi_m_1
+0.490 (0.062)
+m_FR_Di_1
+270412.806 (34460.998)
+cv_P_Di_3
+0.017 (0.004)
+m_FR_Di_3
+0.489 (0.068)
+cv_FR_Di_2
+240144.366 (42287.448)
+cv_FR_Di_3
+0.017 (0.004)
+m_z_SVi_md_1
+0.489 (0.081)
+cv_P_Di_2
+234988.115 (39838.821)
+cc_above_21_3
+0.011 (0.002)
+cv_P_Di_1
+0.471 (0.072)
+m_FR_Di_4
+229816.515 (33778.856)
+md_z_SVi_cv_1
+0.010 (0.001)
+cv_P_Di_2
+0.443 (0.064)
+m_FR_Di_3
+225209.528 (30062.504)
+cv_z_SVi_md_1
+0.010 (0.002)
+cv_FR_Di_2
+0.440 (0.069)
+md_z_SVi_cv_1
+216353.792 (29607.832)
+—
+—
+m_FR_Di_4
+0.436 (0.069)
+ENL_2D_2
+214220.942 (26267.546)
+—
+—
+IQR_FR_Di_3
+0.354 (0.064)
+—
+—
+—
+—
+IQR_FR_Di_4
+0.352 (0.057)
+—
+—
+—
+—
+cv_P_Di_3
+0.352 (0.060)
+—
+—
+Note: Variable names begin with the summary statistic used at the plot level (mean (m), median (md), interquartile range (IQR),
+coefﬁcient of variation (cv)), followed by the measurement (frequency ratio (FR_Di), returns above voxel (P_Di), canopy closure
+(cc_above), subvoxel height (z_SVi), effective number of layers (ENL)), followed by the summary statistic used at the voxel level, followed
+by the resolution of the voxel in m3 (1, 2, 3, 4, 5).
+1114
+Can. J. For. Res. Vol. 51, 2021
+Published by Canadian Science Publishing
+Can. J. For. Res. Downloaded from cdnsciencepub.com by NORTHERN ARIZONA UNIVERSITY on 07/30/21
+For personal use only. 
+
+mixed conifer forests in the southwestern US at landscape scales.Tra-
+ditionally, acceptable error rates for forest inventories are 20% with a
+66% conﬁdence level (Hummel et al. 2011). Models based on remote
+sensing data remove the need for a 66% conﬁdence level by providing
+wall-to-wall coverage.The error rates for basal area, volume, and AGB
+presented in this study are more consistent and fall within the ac-
+ceptable error rates for quantifying forest inventories across a variety
+of conditions and cover an area greater than one million hectares.
+Accurate predictions of basal area, volume, and AGB can be used
+across a diverse range of management and restoration assessments.
+Landscape-scale assessments of AGB can be used for quantifying
+wood availability for bio-energy markets or the amount of carbon
+storage for climate modeling. Basal area distributions, commonly
+used as indicators of restoration success (Reynolds et al. 2013), can
+provide a measure of reaching restoration targets. Stand-level pre-
+dictions of volume can identify regions of interest for harvesting
+and provide reassurance to the managers selling timber. Overall,
+the framework and models presented here can be used for devel-
+oping new statistical and remote sensing methodologies, as well
+as creating wall-to-wall assessments of basal area, volume, and
+AGB within the southwestern US.
+Competing interests
+The authors declare there are no competing interests.
+Acknowledgements
+We would like to thank the U.S. Forest Service Southwestern
+Region, Southwestern Jemez Restoration Project, the Four Forest
+Restoration Initiative, North Kaibab Goshawk Study, and the
+Ecological Restoration Institute for providing the lidar and plot
+data that made this study possible. This research was supported
+by the U.S. Department of Agriculture McIntire-Stennis Capacity
+Grant (No. NI20MSCFRXXXG011). R.C.B. and A.S.M. conceived the
+project, designed the research, and compiled the data; A.S.M.
+acquired the funding; R.C.B. and R.B. analyzed the data; and R.C.B.
+wrote the manuscript with input from all authors. All lidar data
+are accessible through the U.S. Geological Survey National Map
+(https://www.usgs.gov/core-science-systems/national-geospatial-
+program/national-map). Field-measured plot data are available
+through the US Forest Service and Ecological Restoration Institute
+upon request.
+References
+Allen, C.D., Savage, M., Falk, D.A., Suckling, K.F., Swetnam, T.W., Schulke, T.,
+et al. 2002. Ecological restoration of southwestern ponderosa pine ecosys-
+tems: A broad perspective. Ecol. Appl. 12(5): 1418–1433. doi:10.1890/1051-0761
+(2002)012[1418:EROSPP]2.0.CO;2.
+Arjasakusuma, S., Swahyu Kusuma, S., and Phinn, S. 2020. Evaluating vari-
+able selection and machine learning algorithms for estimating forest
+heights by combining lidar and hyperspectral data. ISPRS Int. J. Geo. Inf.
+9(9): 507. doi:10.3390/ijgi9090507.
+Armstrong, J.S., and Collopy, F. 1992. Error measures for generalizing about
+forecasting methods: Empirical comparisons. Int. J. Forecasting, 8(1): 69–
+80. doi:10.1016/0169-2070(92)90008-W.
+Benjamini, Y., and Hochberg, Y. 1995. Controlling the false discovery rate: A
+practical and powerful approach to multiple testing. J. R. Stat. Soc. Ser. B.
+(Methodol.), 57(1): 289–300. doi:10.1111/j.2517-6161.1995.tb02031.x.
+Bortolot, Z.J., and Wynne, R.H. 2005. Estimating forest biomass using small
+footprint LiDAR data: An individual tree-based approach that incorpo-
+rates training data. ISPRS J. Photogramm. Remote Sens. 59(6): 342–360.
+doi:10.1016/j.isprsjprs.2005.07.001.
+Bouckaert, R.R., and Frank, E. 2004. Evaluating the replicability of signiﬁ-
+cance tests for comparing learning algorithms. In Advances in Knowledge
+Discovery and Data Mining. Edited by H. Dai, R. Srikant, and C. Zhang.
+Springer Berlin Heidelberg, Berlin, Heidelberg. pp. 3–12. doi:10.1007/978-
+3-540-24775-3_3.
+Breshears, D.D., Cobb, N.S., Rich, P.M., Price, K.P., Allen, C.D., Balice, R.G.,
+et al. 2005. Regional vegetation die-off in response to global-change-type
+drought. Proc. Natl. Acad. Sci. U.S.A. 102(42): 15144–15148. doi:10.1073/
+pnas.0505734102. PMID:16217022.
+Cannon, J.B., Barrett, K.J., Gannon, B.M., Addington, R.N., Battaglia, M.A.,
+Fornwalt, P.J., et al. 2018. Collaborative restoration effects on forest structure
+in ponderosa pine-dominated forests of Colorado. For. Ecol. Manage. 424:
+191–204. doi:10.1016/j.foreco.2018.04.026.
+Chen, Q., Gong, P., Baldocchi, D., and Tian, Y.Q. 2007. Estimating basal area
+and stem volume for individual trees from lidar data. Photogramm. Eng.
+Remote Sens. 73(12): 1355–1365. doi:10.14358/PERS.73.12.1355.
+Chung, Y.-W., Khaki, B., Li, T., Chu, C., and Gadh, R. 2019. Ensemble
+machine learning-based algorithm for electric vehicle user behavior pre-
+diction. Appl. Energy, 254: 113732. doi:10.1016/j.apenergy.2019.113732.
+Crookston, N.L., and Dixon, G.E. 2005. The forest vegetation simulator: A
+review of its structure, content, and applications. Comput. Electron. Agric.
+49(1): 60–80. doi:10.1016/j.compag.2005.02.003.
+Dalponte, M., and Coomes, D.A. 2016. Tree-centric mapping of forest carbon
+density from airborne laser scanning and hyperspectral data. Methods Ecol.
+Evol. 7(10): 1236–1245. doi:10.1111/2041-210X.12575. PMID:28008347.
+Degenhardt, F., Seifert, S., and Szymczak, S. 2019. Evaluation of variable selec-
+tion methods for random forests and omics data sets. Brief. Bioinform.
+20(2): 492–503. doi:10.1093/bib/bbx124. PMID:29045534.
+Dixon, G.E. 2020. A user’s guide to the Forest Vegetation Simulator. USDA
+Forest Service, Forest Manager Service Center, Fort Collins, Colorado.
+Available at https://www.fs.fed.us/fmsc/ftp/fvs/docs/gtr/EssentialFVS.pdf.
+Fekety, P.A., Falkowski, M.J., Hudak, A.T., Jain, T.B., and Evans, J.S. 2018.
+Transferability of lidar-derived basal area and stem density models
+within a northern Idaho ecoregion. Can. J. Remote Sens. 44(2): 131–143.
+doi:10.1080/07038992.2018.1461557.
+Friedman, J., Hastie, T., and Tibshirani, R. 2010. Regularization paths for
+generalized linear models via coordinate descent. J. Stat. Soft. 33(1): 1–22.
+doi:10.18637/jss.v033.i01.
+Ganey, J.L., Wan, H.Y., Cushman, S.A., and Vojta, C.D. 2017. Conﬂicting per-
+spectives on spotted owls, wildﬁre, and forest restoration. Fire Ecol. 13:
+146–165. doi:10.4996/ﬁreecology.130318020.
+Gleason, C.J., and Im, J. 2012. Forest biomass estimation from airborne
+LiDAR data using machine learning approaches. Remote Sens. Environ.
+125: 80–91. doi:10.1016/j.rse.2012.07.006.
+Goodbody, T.R.H., Tompalski, P., Coops, N.C., Hopkinson, C., Treitz, P., and
+van Ewijk, K. 2020. Forest inventory and diversity attribute modelling
+using structural and intensity metrics from multi-spectral airborne laser
+scanning data. Remote Sens. 12(13): 2109. doi:10.3390/rs12132109.
+Heidemann, H., 2012. Lidar Base Speciﬁcation. In Collection and delineation
+of spatial data. USGS. Available at https://pubs.usgs.gov/tm/11b4/pdf/tm11-
+B4.pdf.
+Hemery, G.E., Savill, P.S., and Pryor, S.N. 2005. Applications of the crown
+diameter – stem diameter relationship for different species of broadleaved
+trees. For. Ecol. Manage. 215(1–3): 285–294. doi:10.1016/j.foreco.2005.05.016.
+Hicke, J.A., Meddens, A.J.H., and Kolden, C.A. 2016. Efﬁcacy of resource
+objective wildﬁres for restoration of ponderosa pine (Pinus ponderosa) for-
+ests in northern Arizona. For. Sci. 62(2): 141–153. doi:10.5849/forsci.15-086.
+Holl, K.D. 2017. Restoring tropical forests from the bottom up. Science,
+355(6324): 455–456. doi:10.1126/science.aam5432. PMID:28154033.
+Huffman, D.W., Sánchez Meador, A.J., Stoddard, M.T., Crouse, J.E., and
+Roccaforte, J.P. 2017. Efﬁcacy of resource objective wildﬁres for restora-
+tion of ponderosa pine (Pinus ponderosa) forests in northern Arizona. For.
+Ecol. Manage. 389: 395–403. doi:10.1016/j.foreco.2016.12.036.
+Hummel, S., Hudak, A.T., Uebler, E.H., Falkowski, M.J., and Megown, K.A.
+2011. A comparison of accuracy and cost of LiDAR versus stand exam data
+for landscape management on the Malheur National Forest. J. For. 109(5):
+267–273. doi:10.1093/jof/109.5.267.
+Hyndman, R.J., and Koehler, A.B. 2006. Another look at measures of forecast
+accuracy. Int. J. Forecasting, 22(4): 679–688. doi:10.1016/j.ijforecast.2006.03.001.
+James, G., Witten, D., Hastie, T., and Tibshirani, R. 2013. An introduction to
+statistical learning: with applications in R. Springer, New York.
+Jeronimo, S.M.A., Kane, V.R., Churchill, D.J., McGaughey, R.J., and Franklin, J.F.
+2018. Applying LiDAR individual tree detection to management of structur-
+ally diverse forest landscapes. J. For. 116(4): 336–346. doi:10.1093/jofore/
+fvy023.
+Kamoske, A.G., Dahlin, K.M., Stark, S.C., and Serbin, S.P. 2019. Leaf area density
+from airborne LiDAR: Comparing sensors and resolutions in a temperate
+broadleaf forest ecosystem. For. Ecol. Manage. 433: 364–375. doi:10.1016/j.
+foreco.2018.11.017.
+Kankare, V., Vastaranta, M., Holopainen, M., Räty, M., Yu, X., Hyyppä, J.,
+et al. 2013. Retrieval of forest aboveground biomass and stem volume
+with airborne scanning LiDAR. Remote Sens. 5(5): 2257–2274. doi:10.3390/
+rs5052257.
+Keyser, C., 2020. Southern (SN) variant overview — Forest Vegetation Simu-
+lator. USDA Forest Service, Internal Report, Forest Management Service
+Center, Fort Collins, Colorado. Available at https://www.fs.fed.us/fmsc/ftp/
+fvs/docs/overviews/FVSsn_Overview.pdf.
+Kim, E., Lee, W.-K., Yoon, M., Lee, J.-Y., Son, Y., and Abu Salim, K. 2016. Esti-
+mation of voxel-based above-ground biomass using airborne LiDAR data
+in an intact tropical rain forest, Brunei. Forests, 7(12): 259. doi:10.3390/
+f7110259.
+Krofcheck, D., Litvak, M., Lippitt, C., and Neuenschwander, A. 2016. Woody
+biomass estimation in a southwestern U.S. juniper savanna using LiDAR-
+Blackburn et al.
+1115
+Published by Canadian Science Publishing
+Can. J. For. Res. Downloaded from cdnsciencepub.com by NORTHERN ARIZONA UNIVERSITY on 07/30/21
+For personal use only. 
+
+derived clumped tree segmentation and existing allometries. Remote
+Sens. 8(6): 453. doi:10.3390/rs8060453.
+Kursa, M.B., and Rudnicki, W.R. 2010. Feature selection with the Boruta
+package. J. Stat. Soft. 36(11): 1–13. doi:10.18637/jss.v036.i11.
+Landres, P.B., Morgan, P., and Swanson, F.J. 1999. Overview of the use of nat-
+ural variability concepts in managing ecological systems. Ecol. Appl. 9(4):
+1179–1188. doi:10.1890/1051-0761(1999)009[1179:OOTUON]2.0.CO;2.
+Latiﬁ, H., Fassnacht, F.E., M€uller, J., Tharani, A., Dech, S., and Heurich, M.
+2015. Forest inventories by LiDAR data: A comparison of single tree seg-
+mentation and metric-based methods for inventories of a heterogeneous
+temperate forest. Int. J. Appl. Earth Obs. Geoinf. 42: 162–174. doi:10.1016/j.
+jag.2015.06.008.
+Laughlin, D.C., Moore, M.M., Bakker, J.D., Casey, C.A., Springer, J.D., Fule, P.Z.,
+and Covington, W.W. 2006. Assessing targets for the restoration of herba-
+ceous vegetation in ponderosa pine forests. Restor. Ecol. 14(4): 548–560.
+doi:10.1111/j.1526-100X.2006.00166.x.
+Lindberg, E., and Hollaus, M. 2012. Comparison of methods for estimation of
+stem volume, stem number and basal area from airborne laser scanning
+data in a hemi-boreal forest. Remote Sens. 4(4): 1004–1023. doi:10.3390/
+rs4041004.
+Maltamo, M. 2014. Forestry applications of airborne laser scanning: Con-
+cepts and case studies. Springer, New York.
+Maxwell, A.E., Warner, T.A., and Fang, F. 2018. Implementation of machine-
+learning classiﬁcation in remote sensing: an applied review. Int. J. Remote
+Sens. 39(9): 2784–2817. doi:10.1080/01431161.2018.1433343.
+McGaughey, R.J. 2009. FUSION/LDV: Software for LIDAR data analysis and
+visualization. USDA Forest Service, Paciﬁc Northwest Research Station,
+Seattle, Wash., USA.
+Næsset, E. 2002. Predicting forest stand characteristics with airborne scan-
+ning laser using a practical two-stage procedure and ﬁeld data. Remote
+Sens. Environ. 80(1): 88–99. doi:10.1016/S0034-4257(01)00290-5.
+Pau, G., Fuchs, F., Sklyar, O., Boutros, M., and Huber, W. 2010. EBImage —
+an R package for image processing with applications to cellular pheno-
+types. Bioinformatics, 26(7): 979–981. doi:10.1093/bioinformatics/btq046.
+PMID:20338898.
+Pearse, G.D., Watt, M.S., Dash, J.P., Stone, C., and Caccamo, G. 2019. Compar-
+ison of models describing forest inventory attributes using standard and
+voxel-based lidar predictors across a range of pulse densities. Int. J. Appl.
+Earth Obs. Geoinf. 78: 341–351. doi:10.1016/j.jag.2018.10.008.
+Pebesma, E. 2018. Simple features for R: Standardized support for spatial
+vector data. R Journal, 10(1): 439–446. doi:10.32614/RJ-2018-009.
+Popescu, S.C., and Hauglin, M. 2014. Estimation of biomass components by air-
+borne laser scanning. In Forestry applications of airborne laser scanning:
+Concepts and case studies. Springer, New York. pp. 157–175. doi:10.1007/978-
+94-017-8663-8.
+Reynolds, R.T., Sanchez Meador, A.J., Youtz, J.A., Nicolet, T., Matonis, M.S.,
+Jackson, P.L., et al. 2013. Restoring composition and structure in South-
+western frequent-ﬁre forests: A science-based framework for improving
+ecosystem resiliency. USDA Forest Service, Rocky Mountain Research Sta-
+tion, Ft. Collins, Colorado. doi:10.2737/RMRS-GTR-310.
+Rodman, K.C., Sánchez Meador, A.J., Huffman, D.W., and Waring, K.M. 2016.
+Reference conditions and historical ﬁne-scale spatial dynamics in a dry
+mixed-conifer forest, Arizona, USA. For. Sci. 62(3): 268–280. doi:10.5849/
+forsci.15-136.
+Roussel, J.-R., Auty, D., Coops, N.C., Tompalski, P., Goodbody, T.R.H., Meador, A.S.,
+et al. 2020. lidR: An R package for analysis of Airborne Laser Scanning (ALS)
+data. Remote Sens. Environ. 251: 112061. doi:10.1016/j.rse.2020.112061.
+Shaw, J.D., Menlove, J., Witt, C., Morgan, T.A., Amacher, M.C., Goeking, S.A.,
+and Werstak, C.E. 2018. Arizona’s forest resources, 2001–2014. Resour.
+Bull. RMRS-RB-25. USDA Forest Service, Rocky Mountain Research Sta-
+tion, Fort Collins, Colorado.
+Silva, C.A., Hudak, A.T., Vierling, L.A., Loudermilk, E.L., O’Brien, J.J., Hiers, J.K.,
+et al. 2016. Imputation of individual longleaf pine (Pinus palustris Mill.) tree
+attributes from ﬁeld and LiDAR data. Can. J. Remote Sens. 42(5): 554–573.
+doi:10.1080/07038992.2016.1196582.
+Tenneson, K., Patterson, M., Mellin, T., Nigrelli, M., Joria, P., and Mitchell, B.
+2018. Development of a regional lidar-derived above-ground biomass
+model with Bayesian model averaging for use in ponderosa pine and
+mixed conifer forests in Arizona and New Mexico, USA. Remote Sens.
+10(3): 442. doi:10.3390/rs10030442.
+Tofallis, C. 2015. A better measure of relative prediction accuracy for model
+selection and model estimation. J. Oper. Res. Soc. 66(8): 1352–1362. doi:10.1057/
+jors.2014.103.
+Vastaranta, M., Kankare, V., Holopainen, M., Yu, X., Hyyppä, J., and Hyyppä, H.
+2012. Combination of individual tree detection and area-based approach in
+imputation of forest variables using airborne laser data. ISPRS J. Photo-
+gramm. Remote Sens. 67: 73–79. doi:10.1016/j.isprsjprs.2011.10.006.
+Venier, L.A., Swystun, T., Mazerolle, M.J., Kreutzweiser, D.P., Wainio-Keizer, K.L.,
+McIlwrick, K.A., et al. 2019. Modelling vegetation understory cover using
+LiDAR metrics. PLoS One, 14(11): e0220096. doi:10.1371/journal.pone.0220096.
+PMID:31774813.
+Wang, Y., Hyyppa, J., Liang, X., Kaartinen, H., Yu, X., Lindberg, E., et al. 2016.
+International benchmarking of the individual tree detection methods for
+modeling 3-D canopy structure for silviculture and forest ecology using air-
+borne laser scanning. IEEE Trans. Geosci. Remote Sens. 54(9): 5011–5027.
+doi:10.1109/TGRS.2016.2543225.
+Westerling, A.L. 2006. Warming and earlier spring increase western U.S. for-
+est wildﬁre activity. Science, 313(5789): 940–943. doi:10.1126/science.1128834.
+PMID:16825536.
+White, J.C., Coops, N.C., Wulder, M.A., Vastaranta, M., Hilker, T., and Tompalski, P.
+2016. Remote sensing technologies for enhancing forest inventories: A review.
+Can. J. Remote Sens. 42(5): 619–641. doi:10.1080/07038992.2016.1207484.
+Wiggins, H.L., Nelson, C.R., Larson, A.J., and Safford, H.D. 2019. Using LiDAR
+to develop high-resolution reference models of forest structure and spatial
+pattern. For. Ecol. Manage. 434: 318–330. doi:10.1016/j.foreco.2018.12.012.
+Woods, M., Lim, K., and Treitz, P. 2008. Predicting forest stand variables
+from LiDAR data in the Great Lakes St. Lawrence forest of Ontario. For.
+Chron. 84(6): 827–839. doi:10.5558/tfc84827-6.
+Wright, M.N., and Ziegler, A. 2017. ranger: A Fast Implementation of Ran-
+dom Forests for High Dimensional Data in C++ and R. J. Stat. Soft. 77(1):
+1–17. doi:10.18637/jss.v077.i01.
+Yu, X., Ge, H., Lu, D., Zhang, M., Lai, Z., and Yao, R. 2019. Comparative study
+on variable selection approaches in establishment of remote sensing model
+for forest biomass estimation. Remote Sens. 11(12): 1437. doi:10.3390/rs11121437.
+Yu, L., Liang, L., Wang, J., Zhao, Y., Cheng, Q., Hu, L., et al. 2014. Meta-discov-
+eries from a synthesis of satellite-based land-cover mapping research. Int. J.
+Remote Sens. 35(13): 4573–4588. doi:10.1080/01431161.2014.930206.
+Yu, X., Hyyppä, J., Holopainen, M., and Vastaranta, M. 2010. Comparison of
+area-based and individual tree-based methods for predicting plot-level
+forest attributes. Remote Sens. 2(6): 1481–1495. doi:10.3390/rs2061481.
+1116
+Can. J. For. Res. Vol. 51, 2021
+Published by Canadian Science Publishing
+Can. J. For. Res. Downloaded from cdnsciencepub.com by NORTHERN ARIZONA UNIVERSITY on 07/30/21
+For personal use only. 

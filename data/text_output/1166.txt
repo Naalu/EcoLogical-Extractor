@@ -1,0 +1,315 @@
+The Ecological Restoration Institute is dedicated to the restoration of fire-adapted forests and woodlands. ERI provides services that support the social and economic vitality of 
+communities that depend on forests and the natural resources and ecosystem services they provide. Our efforts focus on science-based research of ecological and socio-economic 
+issues related to restoration as well as support for on-the-ground treatments, outreach and education.  
+Ecological Restoration Institute, P.O. Box 15017, Flagstaff, AZ 86011, 928.523.7182, FAX 928.523.0296, www.nau.edu/eri 
+Forest Patterns Following Wildland Fires Managed for Resource Benefit  
+Differ from Reference Landscapes 
+ 
+By Andrew Sánchez Meador and David Huffman 
+Introduction 
+When a wildfire ignites from natural causes such as lightning, forest managers may opt to allow the fire, 
+or parts of it, to burn and manage the fire to accomplish various resource objectives, including ecological 
+restoration. This practice of managing wildfires for resource objectives (hereafter, managed wildfire) may 
+provide a suitable alternative or complement to mechanical forest restoration treatments. Measuring the 
+effectiveness of managed fire has been limited by a lack of landscape-scale reference metrics and studies 
+that compare fire outcomes to desired conditions. In this study, we compared and contrasted landscape 
+patterns at different spatial extents, across both managed wildfire landscapes and functioning or restored 
+ponderosa pine landscapes (hereafter, reference landscapes) in northern Arizona.  
+ 
+To test the effectiveness of wildfires for restoring landscape patterns, we used Sentinel-2 satellite imagery 
+to classify ponderosa pine forest canopy cover and then compared derived landscape metrics between 
+wildfires and reference landscapes across a range of spatial extents. Reference landscapes included sites 
+with minimal signs of anthropogenic fire exclusion (intact) and mechanically restored forests. These were 
+compared to 16, predominately single-entry, managed wildfire sites. Restored forests were included in the 
+reference group after they were found to be statistically similar in landscape patterns with the intact 
+landscapes. We quantified the importance of a set of landscape metrics (Table 1) for distinguishing 
+between managed wildfire and reference landscapes and explored management implications of the 
+differences observed.  
+ 
+Findings (see Table 2, page 3) 
+• 
+Single-entry managed wildfire patterns differed significantly from those of reference landscapes for 
+nearly all metrics analyzed, and the two landscape types became increasingly different with 
+increasing spatial extent (37–2,075 acres). 
+• 
+Managed wildfire patterns exhibited greater canopy cover, larger patch size, lower patch density, and 
+more divergent shape complexity compared with reference landscapes. 
+• 
+Proportion of the landscape (% canopy cover), mean patch area, and normalized landscape shape 
+index were the most informative metrics for separating managed wildfire and reference landscapes at 
+extents smaller than 600 acres (Table 2, blue text). 
+• 
+Patch area and division index were the most informative for assessing comparisons at larger (up to 
+2,075 acres) extents (Table 2, blue text). 
+• 
+Shape metrics were consistently less important across all scales, while edge density was the least 
+important metric at extents greater than 600 acres. 
+• 
+Of the wildfires examined, only one had greater than 10% of its area classified as moderate burn 
+severity, and only two of the wildfires studied had more than 1% of total area classified as high burn 
+severity. The vast majority of areas experienced unburned/low or low burn severity conditions.     
+July 2023 
+
+ 
+Table 1. Landscape metrics, definitions, and implications. In our study, we derived landscape metrics from 
+modeled canopy cover. Metrics in blue were most important for differences among managed and reference 
+landscapes. Metric descriptions derived from E. Ene and K. McGarigal (2023): Fragstats documentation, 
+https://fragstats.org/index.php/documentation.  
+METRIC CLASS 
+LANDSCAPE METRIC 
+DEFINITION 
+IMPLICATIONS 
+AREA AND EDGE 
+METRICS 
+Proportion of 
+landscape 
+Total proportion of 
+extent covered by 
+individual patches 
+Metric varies with 
+data resolution and 
+provides information 
+on forest density 
+Patch area, mean 
+Summary of 
+individual patches 
+within landscape 
+extent 
+Can inform goals for 
+landscape mosaic. 
+Can be used with 
+patch size distribution 
+information 
+Edge density 
+Quantity of patch 
+edge relative to total 
+area 
+Related to the density 
+and complexity of 
+patches 
+CORE AREA METRICS 
+Core area proportion 
+of landscape (%) 
+% of landscape within 
+patches, buffered a 
+user-set distance from 
+the patch edge 
+Quantifies edge-
+effects; small patches 
+and more complex 
+edges have low core 
+area 
+Core area index, mean 
+Mean of patch % of 
+core area relative to 
+total patch area 
+Patch-level 
+assessment of core 
+habitat area. 
+Core area index, 
+standard deviation 
+Variability of the patch 
+core area within a 
+landscape 
+Quantifies diversity of 
+patch core area 
+availability 
+SHAPE METRICS 
+Shape index, mean 
+A perimeter to area 
+ratio, adjusted for a 
+square “standard” 
+A measure of patch 
+complexity: Index =1 if 
+a square; > 1 
+increasing with 
+complexity 
+Shape index, standard 
+deviation 
+Variability of the 
+shape index 
+Quantifies diversity of 
+patch complexity 
+AGGREGATION METRICS 
+Patch density 
+The number of 
+patches relative to the 
+total extent area 
+Describes number of 
+individual patches 
+within a landscape, 
+regardless of size 
+Division index 
+Measure of patch 
+distribution in terms 
+of probability that 
+random pixels are not 
+in the same patch 
+Can be used to 
+indicate patch 
+distribution; 1 large 
+patch has an index 
+value of 0; many small 
+patches approach 
+index = 1 
+Normalized landscape 
+shape index (LSI) 
+LSI is the total patch 
+perimeter divided by 
+the total patch area, 
+for the landscape as a 
+whole, normalized 
+A landscape metric of 
+perimeter and area, a 
+measure of total 
+geometric complexity 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Conclusions 
+This study is unique in that the reference landscapes provide a set of reference conditions for forest spatial 
+patterns that may have dominated the frequent-fire pine landscapes prior to fire exclusion. Our findings 
+indicated that wildfires managed to improve resource conditions were significantly different from 
+reference landscapes in terms of several ecologically important landscape metrics. These predominately 
+single-entry, low-severity wildfires maintained the original high tree densities and large contiguous 
+canopies of today’s forests. Managed fires did little to restore patterns more typical of ecologically intact 
+and restored forests. These findings align with other studies that report greater restoration effectiveness in 
+areas where wildfire has burned with more moderate severity. More work is needed to help managers 
+identify where, when, and how often wildfires may be managed to meet restoration objectives at 
+landscape scales. 
+ 
+ 
+This fact sheet summaries information from the following publication: 
+Donager, J.J., A.J. Sánchez Meador, and D.W. Huffman. 2021. Southwestern ponderosa pine forest patterns 
+following wildland fires managed for resource benefit differ from reference landscapes. Landscape 
+Ecology, https://doi.org/10.1007/s10980-021-01352-1 
+Table 2. Landscape metric summaries for reference and managed wildfire landscapes for canopy-cover-
+derived patches at an 2,075-acre extent. For example, tree canopy covered a mean of 29.72% of 
+reference landscape extents, whereas managed wildfire landscapes showed canopy cover across 60.39% 
+of their extents. Metrics in blue were most important for differences among managed and reference 
+landscapes.  
+Contact: Andrew Sánchez Meador, Andrew.SanchezMeador@nau.edu  
+NAU is an equal opportunity provider.  
+This research was funded by a grant from the USDA Forest Service.  
+ 
+REFERENCE LANDSCAPES 
+MANAGED WILDFIRES 
+LANDSCAPE METRIC 
+Median 
+Mean 
+Standard 
+Error 
+Median 
+Mean 
+Standard 
+Error 
+Proportion of landscape (%) 
+28.75 
+29.72 
+4.57 
+60.82 
+60.39 
+1.96 
+Patch area, mean (acres) 
+0.59 
+0.64 
+0.2 
+3.68 
+7.81 
+1.56 
+Patch area, standard deviation 
+(acres) 
+4.42 
+5.09 
+2.1 
+55.25 
+71.98 
+8.37 
+Edge density (ft. per acre) 
+418.16 
+420.29 
+10.84 
+467.77 
+448.73 
+11.48 
+Core area proportion of landscape 
+(%) 
+10.62 
+11.29 
+3.45 
+35.27 
+37.27 
+2.06 
+Core area index, mean 
+3.24 
+3.25 
+0.07 
+2.77 
+3.18 
+0.17 
+Core area index, standard deviation 
+8.82 
+8.88 
+0.44 
+8.83 
+9.62 
+0.39 
+Patch density (patches per acre) 
+49.49 
+48.32 
+5.95 
+16.55 
+18.59 
+1.71 
+Shape index, mean 
+1.33 
+1.33 
+0.01 
+1.35 
+1.38 
+0.01 
+Shape index, standard deviation 
+0.79 
+0.81 
+0.07 
+1.65 
+1.67 
+0.07 
+Division index 
+0.99 
+0.99 
+0.01 
+0.69 
+0.68 
+0.03 
+Normalized landscape shape index 
+(LSI) 
+2.77 
+2.74 
+0.35 
+0.73 
+1.04 
+0.09 

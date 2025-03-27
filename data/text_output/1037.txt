@@ -1,0 +1,1040 @@
+ARTICLE
+Soil compaction from cut-to-length thinning operations in
+young redwood forests in northern California
+Kyungrok Hwang, Han-Sup Han, Susan E. Marshall, and Deborah S. Page-Dumroese
+Abstract: In northern California, United States, a cut-to-length (CTL) system was recently used for the ﬁrst time to harvest young
+redwood (Sequoia sempervirens (Lamb. ex D. Don) Endl.) forests. Landowners and public agencies in this region have been
+concerned about the potential negative impacts of CTL on soils during wet-season harvest operations. To determine soil impacts,
+we measured changes in soil bulk density (BD) and hydraulic conductivity (HC) after CTL operations in May and August. Soil
+samples were collected at two locations (track and center) along forwarder trails and at a reference point at three soil depths (0–5,
+10–15, and 20–25 cm), and HC samples were collected only at the 0–5 cm soil depth from the same sample points. We found a
+signiﬁcant difference in BD between the reference point and track at 0–5 cm, which decreased as soil depth increased. There was
+a negative correlation between initial BD values and percent increase of BD, supporting the fact that the percent increase in BD
+was high at the soil surface (25%–30%), but BD did not exceed 1.13 Mg·m–3 at the 0–5 cm depth. However, our HC results were
+different from what we expected and were not as consistent as the BD results, as the HC data had much higher variability.
+Key words: mechanized system, forwarding trails, slash, inﬁltration rate, bulk density.
+Résumé : Dans le nord de la Californie, aux États-Unis, un système de récolte de billes de longueur préétablie (BLPE) a récemment
+été utilisé pour la première fois pour récolter les jeunes forêts de séquoia côtier (Sequoia sempervirens (Lamb. ex D. Don) Endl.). Les
+propriétaires et les organismes publics dans cette région étaient préoccupés par les impacts négatifs potentiels du système BLPE
+sur les sols lors de travaux de récolte réalisés durant la saison humide. Pour déterminer les impacts sur le sol, nous avons mesuré
+les changements de densité apparente (DA) et de conductivité hydraulique (CH) du sol après la récolte effectuée durant les mois
+de mai et août. Plusieurs séries de trois échantillons ont été prélevées : deux échantillons dans les sentiers de débardage (ornière
+et centre) et un troisième servant de point référence, à l’extérieur des sentiers, à trois profondeurs dans le sol (0–5, 10–15 et 20–25 cm).
+Aux points de référence, les échantillons utilisés pour mesurer la CH n’ont été prélevés qu’à 0–5 cm dans le sol. Nous avons trouvé une
+différence signiﬁcative de DA entre les points de référence et les ornières à 0–5 cm qui diminuait avec la profondeur. Il y avait une
+corrélation négative entre les valeurs initiales de DA et le pourcentage d’augmentation de la DA, ce qui valide le fait que le pourcentage
+d’augmentation de la DA était élevé à la surface du sol (25–30 %), mais la DA n’a pas dépassé 1,13 Mg·m–3 à 0–5 cm de profondeur.
+Cependant, nos résultats de CH étaient différents de ceux qui étaient attendus car ils n’étaient pas aussi cohérents que la DA parce que
+les données de CH étaient beaucoup plus variables. [Traduit par la Rédaction]
+Mots-clés : système mécanisé, sentiers de débardage, résidus de coupe, taux d’inﬁltration, densité apparente.
+1. Introduction
+Coastal redwood (Sequoia sempervirens (Lamb. ex D. Don) Endl.)
+forests extend from central and northern California to southern
+coastal Oregon in the United States and are associated with the fog
+belt and a sustainable moisture supply. Coastal redwoods have
+high-value wood, which has caused an increase in thinning oper-
+ations within these forest types (Noss 1999). In addition, cut trees
+sprout vigorously and abundantly in a clump after thinning (Cole
+1983). Because of the great size of old-growth redwood trees, log-
+gers used to harvest trees by using manual felling methods. Over
+time, coastal redwood forests have transitioned from old-growth
+to younger stands (<25 years old) with high densities. These
+changes in stand dynamics have resulted in smaller trees that can
+be harvested using mechanized systems; however, sustainable
+harvest operations must also maintain site and soil productivity
+into the future. One metric of altered productivity from mecha-
+nized harvesting is a change in soil physical properties (e.g., soil
+compaction and hydraulic conductivity).
+We found no studies that evaluate changes in soil physical prop-
+erties associated with thinning operations in the coastal redwood
+forests. Altered soil physical properties result from trafﬁcking,
+which pushes soil aggregates together to increase soil compaction
+(Wolkowski and Lowery 2008). Once this occurs, it affects both soil
+resilience and forest productivity. Compaction increases soil
+strength (Froehlich and McNabb 1984) and reduces air-ﬁlled po-
+rosity, resulting in less root growth (Froehlich et al. 1980). Re-
+duced inﬁltration by soil compaction also leads to increased
+runoff and soil erosion, resulting in reduced nutrient availability
+and cycling by soil organisms, less topsoil for tree growth, and loss
+of surface organic matter (Lowery et al. 1996; Adams 1998).
+The extent, amount, duration, and degree of soil impacts from
+harvesting depend on several factors such as soil texture (Heilman
+1981; Pierce et al. 1983), moisture content (Coder 2000; Han et al.
+Received 23 June 2019. Accepted 3 November 2019.
+K. Hwang. School of Environmental and Forest Sciences, University of Washington, Seattle, WA 98195, USA.
+H.-S. Han. Ecological Restoration Institute, Northern Arizona University, Flagstaff, AZ 86011, USA.
+S.E. Marshall. Department of Forestry and Wildland Resources, Humboldt State University, Arcata, CA 95521, USA.
+D.S. Page-Dumroese. USDA Forest Service Rocky Mountain Research Station, Moscow, ID 83843, USA.
+Corresponding author: Kyungrok Hwang (email: kh2322@uw.edu).
+Copyright remains with the author(s) or their institution(s). Permission for reuse (free in most cases) can be obtained from RightsLink.
+185
+Can. J. For. Res. 50: 185–192 (2020) dx.doi.org/10.1139/cjfr-2019-0225
+Published at www.nrcresearchpress.com/cjfr on 22 November 2019.
+Can. J. For. Res. Downloaded from www.nrcresearchpress.com by USDANALBF on 01/15/20
+For personal use only. 
+
+2006, 2009), machine passes (Armlovich 1995; McDonald and
+Seixas 1997), harvesting system (Lanford and Stokes 1995; Allen
+1998; Han et al. 2009), and the amount of woody residue on the soil
+surface (McDonald and Seixas 1997; Han et al. 2006). Generally,
+coarse-textured soils (e.g., sandy or skeletal) are highly resistant to
+compaction compared with ﬁne-textured soils (e.g., silt and clay)
+(Williamson and Neilsen 2000). Also, when soil moisture is high,
+soils are more prone to the compaction forces of heavy equipment
+(Adams and Froehlich 1984). The use of cut-to-length (CTL) harvest
+systems has become more widespread. The CTL system is com-
+posed of a harvester and forwarder; as the harvester falls and
+processes the trees, slash is placed in front of the harvester. The
+harvester and forwarder use the same trails, and the slash mat can
+signiﬁcantly reduce rutting and soil compaction (McNeel and
+Ballard 1992; Han et al. 2009). Han et al. (2006) reported that soil
+moisture was a major factor affecting the degree of soil compac-
+tion when using CTL harvesting at different levels of moisture
+content, and there are models that can predict the amount of soil
+compaction associated with CTL and whole-tree (WT) harvesting
+systems (Han et al. 2009). These models indicate that the number
+of machine passes is positively correlated with soil compaction,
+but most of the soil compaction occurred within ﬁve passes.
+McDonald and Seixas (1997) noted that there was an interaction
+between the amount of residual woody material left after harvest-
+ing and soil moisture when determining the severity of soil com-
+paction during harvesting. They noted that 20 kg·m–2 of slash on
+moist or wet soils limited the severity of soil compaction, but this
+was not the same for dry soils.
+The type of harvest system can also affect the amount of com-
+paction. For example, Han et al. (2009) compared two ground-
+based systems (WT and CTL) in the Inland Northwest, United
+States, and concluded that CTL systems generated less soil com-
+paction (27%–28%) than WT systems (34%–39%) at 7.5 cm soil depth
+on ashy silt loam soil. This is because CTL harvest systems gener-
+ally impact less land area than WT systems. This is especially
+critical because most compaction occurs during skidding or for-
+warding operations. For example, a greater land area was im-
+pacted when using a skidder as compared with a forwarder system
+(Lanford and Stokes 1995).
+The use of mechanized harvest operations in forestry has in-
+creased rapidly during the last three decades, and CTL harvesting
+has recently been introduced to northern California to harvest
+coastal redwoods. This system is particularly appropriate for use
+on coastal redwoods because it can be used to cut small- to
+medium-sized trees (diameter at breast height (DBH; breast height =
+1.35 m) of 10–41 cm) (Kellogg et al. 1992) and it simpliﬁes opera-
+tions by eliminating the use of a loader (Adebayo et al. 2007). It is
+therefore critical to understand the impact of CTL logging on soils
+in coastal redwood forests to maintain site and soil productivity.
+We designed this study to determine CTL logging impacts on soil
+in two harvest units. The goals of our study were to (i) determine
+the degree of soil compaction after CTL harvesting on soils with
+high soil moisture content and (ii) review the factors that affect
+soil compaction.
+2. Materials and methods
+2.1. Site description
+The commercial thinning operations were performed in two
+harvest units (Fig. 1). Harvesting occurred in the Crannell tract of
+the Green Diamond Resource Company forests in northern Cali-
+fornia, on roads CR 1200 (41°01=27==N, 124°05=50==W) and CR 1003
+(41°01=27==N, 124°05=03==W). The CR 1200 stand was harvested from
+January to April, and the CR 1003 stand was harvested from June
+to August, using CTL systems. We also analyzed the soil character-
+istics by collecting additional soil samples right before each oper-
+ation (Table 1). The soil at CR 1200 was primarily silt loam with a
+bit of sandy loam and included 12%–14% organic matter, whereas
+CR 1003 was mostly covered by loam with some silt loam and
+included 12%–17% organic matter. These two stands were origi-
+nally selected to provide a range of soil moistures, but CR 1200 and
+CR 1003 had mean soil moisture contents of 53% and 45%, respec-
+tively, during harvesting, which was not a large enough difference
+for comparison. After operation, the moisture contents were re-
+duced by 49% and 34% in CR 1200 and CR 1003, respectively. The
+CR 1200 unit was 10.1 ha in size, with a 1.2 ha Watercourse and
+Lake Protection Zone (WLPZ) at an elevation of 126 m, and had a
+relatively ﬂat ground slope (approximately 0%). Detailed informa-
+tion on stand characteristics is displayed in Table 2. Redwood was
+the most dominant species at CR 1200, followed by red alder (Alnus
+rubra Bong.), Douglas-ﬁr (Pseudotsuga menziesii (Mirb.) Franco), and
+Sitka spruce (Picea sitchensis (Bong.) Carrière). The CR 1003 unit was
+12.1 ha in size and had an elevation of 188 m, with slopes ranging
+from 0% to 27%. The site was dominated by redwood, as well as red
+alder, Sitka spruce, and Douglas-ﬁr. The precipitation during har-
+vesting at CR 1200 was 896 mm, whereas the precipitation during
+harvesting at CR 1003 was only 17 mm.
+On unit CR 1200, the redwood forests were harvested using a
+Ponsse Bear harvester (Ponsse, Vieremä, Finland) with a Ponsse H8
+harvester head (mass 24 500 kg) to fell, delimb, and buck the trees.
+On unit CR 1003, harvesting was done using a Ponsse Ergo har-
+vester with a Ponsse H7 harvester head (mass 21 500 kg). Each unit
+had a different equipment operator, with the operator at CR 1200
+having more than 20 years of experience and the operator at CR
+1003 having only 5 years of experience. The forwarding operation
+for each unit was performed by the same machine (Ponsse Buffalo)
+with the same driver. The mass of the forwarder was 14 150 kg,
+and it had a maximum payload of 14 000 kg. The objectives of
+thinning were to (i) remove dead trees, (ii) increase tree spacing,
+and (iii) reduce fuel continuity. The harvest operators were di-
+rected to avoid cutting trees with DBH > 60 cm, maintain at least
+60% canopy closure, and retain the healthiest dominant and
+codominant trees. The harvester operators were also directed to
+use the logging slash to buffer the soil from soil compaction dur-
+ing harvest operations.
+2.2. Data collection
+We collected an initial set of samples to characterize soil phys-
+ical properties such as soil texture and moisture content before
+harvesting. Soil particle size distribution was determined using a
+hydrometer, and soil organic matter was quantiﬁed by conduct-
+ing loss on ignition (LOI) at 375 °C for 16 h (Liu and Evett 1984).
+After harvesting, we collected measurements of soil bulk den-
+sity (BD) and hydraulic conductivity (HC). Soil samples were col-
+lected with a slide hammer corer (AMS Inc., American Falls, Idaho,
+USA; volume 90.59 cm3). Samples were collected from the depths
+of 0–5, 10–15, and 20–25 cm in the mineral soil. Before collecting
+soil cores, we removed the logging residues and forest ﬂoor to
+locate the top of the mineral soil. BD cores were collected on a
+3.6 m transect across the forwarder trail at 150 m intervals. Soil
+cores were collected from three locations: in one of the wheel
+tracks, at centerline, and 2 m away from outside edge of the track
+(reference point) (Fig. 2). We assumed that at the reference point
+there were no passes from either harvester or forwarder, indicat-
+ing no soil disturbance. A total of 33 transects with 297 samples
+were collected in CR 1200, and 31 transects with 279 samples were
+collected in CR 1003. Cores were placed in plastic bags for trans-
+port from the ﬁeld to the laboratory. In the laboratory, soil sam-
+ples were weighed, oven-dried at 105 °C for 24 h, and reweighed to
+the nearest 0.01 g.
+In addition to the BD cores, a mini-disk inﬁltrometer (Decagon
+Devices, Pullman, Wash., USA) with a diameter of 3.1 cm was used
+to measure the inﬁltration, with the suction rate adjusted to 2 cm.
+The ﬁeld data were collected adjacent to each BD sample point.
+Inﬁltration measurement was only performed on the mineral soil
+surface. We recorded water volume every 30 s for a total of 300 s.
+186
+Can. J. For. Res. Vol. 50, 2020
+Published by NRC Research Press
+Can. J. For. Res. Downloaded from www.nrcresearchpress.com by USDANALBF on 01/15/20
+For personal use only. 
+
+Based on the mini-disk data, we calculated HC and the cumulative
+inﬁltration rate over time using the following equations. The re-
+sults were ﬁtted using several functions (Zhang 1997; Decagon
+Devices 2013).
+(1)
+I  C1t  C2t
+where I is the cumulative inﬁltration, t is time (in seconds), and C1
+(in metres per second) and C2 (in metres per square-root second)
+are parameters. C1 is related to HC, and C2 is the soil sorptivity. The
+HC of the soil (k) is computed from
+(2)
+k 
+C1
+A
+(3)
+A  11.65(n0.1  1)e7.5(n1.9)h0
+(r0)0.91
+where C1 is the coefﬁcient of the cumulative inﬁltration curve
+versus t , A is a value relating the van Genuchten parameters for
+a given soil type relative to the suction rate, n and  are the soil
+van Genuchten parameters, and r0 and h0 are the disk radius and
+suction rate at the disk surface, respectively. We used the van
+Genuchten parameters developed by Carsel and Parrish (1988) for
+the silt loam and loam soil in the study area.
+After harvesting, we collected forwarder trail width and length
+data by walking each trail with a Global Positioning System (GPS)
+unit (Garmin Schaffhausen, Switzerland). The width of each trail
+was measured every 20 m to determine mean trail width. Width
+and total length of the trail were used to determine trail coverage
+within each harvest unit. We mapped each trail from the log
+Fig. 1. Map of the study sites and the forwarding trails used by cut-to-length (CTL) systems. WLPZ, Watercourse and Lake Protection Zone.
+Map generated using ArcGIS software. [Color online.]
+Table 1. Soil particle size distribution, organic matter, and gravimetric moisture content within each harvest unit in northern California (n = 18).
+Unit
+Soil texture (%)
+Class
+Organic matter (%)
+Moisture content (%)
+Sand
+Silt
+Clay
+0–5 cm
+10–15 cm
+20–25 cm
+0–5 cm
+10–15 cm
+20–25 cm
+CR 1200
+37
+56
+7
+Ultisols
+14
+13
+12
+58
+52
+51
+CR 1003
+38
+46
+16
+Ultisols
+17
+15
+12
+49
+41
+45
+Note: All values are means.
+Table 2. Stand characteristics and climatic data before thinning.
+Unit
+Area
+(ha)
+Temperature
+(°C)
+DBH
+(cm)
+Height
+(m)
+Trees per
+hectare
+CR 1200
+10.1
+7
+20
+19
+2390
+CR 1003
+12.1
+16
+21
+19
+1970
+Note: All values except areas are means. Trees per hectare only included trees
+with diameter at breast height (DBH; breast height = 1.35 cm) of 5 cm or greater.
+Hwang et al.
+187
+Published by NRC Research Press
+Can. J. For. Res. Downloaded from www.nrcresearchpress.com by USDANALBF on 01/15/20
+For personal use only. 
+
+landing using ArcGIS 10.4.1 (Esri, Redlands, Calif., USA) to deter-
+mine the number of transects needed for soil sampling. This in-
+formation was used to determine the relationship between the
+number of machine passes and BD and was used instead of count-
+ing the number of machine passes manually; as the distance from
+the landing site increases, the number of machine passes de-
+creases (Han et al. 2009).
+2.3. Logging residue determination and statistical analyses
+Slash amounts were estimated by the downed woody debris
+survey method using the Brown transect method (Brown 1974)
+and allometric equations (Jenkins et al. 2004; Kizha and Han 2015).
+All logging residues were placed on the trails as harvesting pro-
+gressed, and we assumed that 90% of the logging residues from
+the thinning operation would be concentrated on the trails based
+on visual observation. Our estimates were on a green-ton basis,
+and we assumed that logging residues had approximately 50% mois-
+ture content and converted from green ton to a mass in kilograms.
+Data were analyzed using SPSS 24 (IBM, Armonk, N.Y., USA) and
+R (R Development Core Team 2008). We tested for normality using
+the Shapiro–Wilk normality test and homogeneity of variance
+tests before comparing sampling locations. The analysis of vari-
+ance (ANOVA) test was performed to identify the interaction of BD
+in each unit, sampling location, and soil depth, and we compared
+the level of soil compaction among the three sampling locations
+(track, center, and reference) at each depth using the Kruskal–
+Wallis test and Holm’s method for multiple comparisons. Like-
+wise, the Kruskal–Wallis test was used to compare the HC among
+sampling locations in each unit. All analyses were performed at an
+alpha level () of 0.05.
+3. Results
+3.1. BD comparison
+As the interaction of depth × location did not have a signiﬁcant
+effect on BD, we herein explore the effects of depth and sampling
+location separately (Table 3). For all sample points (track, center,
+and reference), we found the lowest BD in the surface mineral soil
+(0–5 cm depth). In unit CR 1200, the mean BDs of the reference
+points were 0.70, 0.98, and 1.09 Mg·m–3 at soil depths of 0–5,
+10–15, and 20–25 cm, respectively (Table 4). At both the 0–5 and
+10–15 cm depths, there were signiﬁcant differences between the
+track and reference points, but there were no signiﬁcant differ-
+ences between the track and center points at these same depths.
+At the 20–25 cm depth, there was no signiﬁcant difference among
+the three locations. In unit CR 1003, the mean BDs were 0.71, 0.91,
+and 0.99 Mg·m–3 for the reference points at depths of 0–5, 10–15,
+and 20–25 cm, respectively. At this site, the track had signiﬁcantly
+higher BD than both the center and reference points at the 0–5 cm
+depth, and there was no signiﬁcant difference between the center
+and reference BDs at the 0–5 cm depth. In addition, there were no
+signiﬁcant differences between track and center at the 10–15 and
+20–25 cm soil depths. The largest increase of BD was detected in
+the surface soil: 25.5% in CR 1200 and 30% in CR 1003 (Fig. 3). The
+increase in BD decreased with soil depth.
+3.2. HC comparison
+At the reference point in unit CR 1200, HC was 1.29 cm·h–1,
+whereas in unit CR 1003, HC was only 0.38 cm·h–1, but both had
+relatively high standard deviations (Table 5). In CR 1200, HC in the
+forwarding track was lower than that of the reference point, but
+the differences were not signiﬁcant (p = 0.6439). In CR 1003, how-
+ever, HC in the track was signiﬁcantly higher than that of the
+reference point. In both units, there were no signiﬁcant differ-
+ences in HC between the track and center.
+4. Discussion
+4.1. BD
+We detected differences in BD between the wheel track and
+reference point in the surface mineral soil (0–5 cm) in both units,
+and as soil depth increased, the difference between the two values
+decreased. Han et al. (2009) reported similar results when using
+CTL systems on ashy loamy soil in the Inland Northwest, showing
+that a signiﬁcant difference was detected in the surface mineral
+soil, but there were no detectable differences as the soil depth
+increased. In a study on sandy loam soils, McNeel and Ballard
+(1992) reported that mean preharvest BDs were 0.71, 0.82, and
+0.87 Mg·m–3 at soil depths of 10, 20, and 30 cm, respectively, which
+increased to 0.85, 0.92, and 0.99 Mg·m–3, respectively, with in-
+tense trafﬁc by using a CTL system in a Douglas-ﬁr plantation.
+McDonald and Seixas (1997) found that in the mineral soil (0–5 cm
+depth), BD was signiﬁcantly greater regardless of slash amount,
+but there was no signiﬁcant increase in BD at the 15–20 cm soil
+depth on loamy sand with no vegetative cover. They also noted
+Fig. 2. A diagram showing locations of the sample points (track,
+center, and reference) along the forwarding trails. Blue circles are
+the sample points. [Color online.]
+Table 3. Two-way analysis of variance (ANOVA) from CR 1200 and
+CR 1003 showing the effects of depth and location and their interac-
+tion (depth × location) on bulk density.
+Source
+CR 1200
+CR 1003
+df
+F
+p value
+df
+F
+p value
+Depth
+2
+100.51
+<0.0001***
+2
+33.10
+<0.0001***
+Location
+2
+7.09
+0.0009***
+2
+7.27
+0.0008***
+Depth × location
+4
+0.68
+0.6064
+4
+0.22
+0.9284
+Note: ***, p ≤0.001. df, degrees of freedom.
+Table 4. Mean (± standard deviation) bulk density (Mg·m–3) collected
+from soil samples at the track, center, and reference points.
+Unit
+Soil
+depth (cm) n
+Track
+Center
+Reference
+p value
+CR 1200
+0–5
+33 0.83±0.24a 0.80±0.18a
+0.70±0.17b
+0.0100
+10–15
+33
+1.08±0.13a
+1.04±0.14ab 0.98±0.16b 0.0330
+20–25
+33
+1.14±0.14a
+1.13±0.18a
+1.09±0.17a
+0.6664
+CR 1003
+0–5
+31 0.84±0.22a
+0.71±0.23b
+0.71±0.25b 0.0493
+10–15
+31
+1.05±0.22a 0.92±0.26a
+0.91±0.27a 0.0611
+20–25
+31
+1.06±0.20a 0.99±0.22a
+0.99±0.23a 0.2497
+Note: The same letters indicate no signiﬁcant difference at each soil depth
+within each unit. n, number of transects.
+188
+Can. J. For. Res. Vol. 50, 2020
+Published by NRC Research Press
+Can. J. For. Res. Downloaded from www.nrcresearchpress.com by USDANALBF on 01/15/20
+For personal use only. 
+
+that the percent increase of BD was highest at the 0–5 cm soil
+depth and decreased with soil depth. In our study, there was a
+large percent increase of BD in both units (25% for CR 1200 and
+30% for CR 1003) at the 0–5 cm soil depth. Han et al. (2009) showed
+that when using a CTL system on ashy loamy soil, an increase in
+BD of almost 30% was observed at 7.5 cm soil depth. In addition,
+pretreatment soil moisture contents at our sites were higher than
+those of other studies, ranging from 49% to 58%. Han et al. (2009)
+showed that soil moisture is a signiﬁcant factor affecting the soil
+compaction in a CTL system by differentiating the levels of mois-
+ture content.
+The greater increase of BD at the soil surface may be associated
+with the low initial BD values. For example, Williamson and
+Neilsen (2000) reported that a greater percent increase of BD
+was detected on ﬁne-textured soils with low initial BD. In this
+study, there was a negative relationship between initial BD and
+the percent increase of BD (Fig. 4), similar to the ﬁndings of
+Page-Dumroese et al. (2006). Ampoorter et al. (2012) also suggested
+that if soil BD before harvesting is higher, then there may be only
+a slight increase in BD. A negative correlation between absolute
+BD increase and BD before trafﬁc at 10, 20, and 30 cm soil depth in
+sand and clay soil was also shown, implying that machine passes
+had little effect on soils that were already compacted. In addition,
+Han et al. (2009) developed models that enabled them to predict
+changes in soil BD with 25%–30% moisture content, which pro-
+vides one method for determining soil impacts before logging
+operations begin. In this study, we tried to ﬁnd the effect of ma-
+chine passes using the distance to the landing, but there were so
+many factors, including operating technique, site and stand con-
+dition, volume concentration, and distribution, that distance
+alone could not capture the relationship between these two vari-
+ables.
+4.2. HC
+Generally, as BD increases, water inﬁltration into the soil pro-
+ﬁle decreases because of reduced macropore volume (Jansson and
+Johansson 1998; Wolkowski and Lowery 2008; Han et al. 2009). We
+found no signiﬁcant differences in HC among the three locations
+at CR 1200, and unexpectedly, in-track HC was signiﬁcantly higher
+than off-track HC at CR 1003. Greacen and Sands (1980) reported
+that compaction may not necessarily alter the volume of micro-
+pores, thus the unsaturated HC in our data may be unaffected or
+even increased. Although we found signiﬁcant changes in BD be-
+tween the compacted and uncompacted areas, the porosities were
+likely still high, showing high HC despite machine trafﬁcking.
+Rose (1966) suggested that soil HC is strongly affected by pore
+geometry complexity and water content, so it is recommended to
+conduct soil porosity analysis for more details by separating it
+into macro- and microporosities.
+Researchers have been interested in how fast soils recover after
+increased compaction. This can be a complex question and de-
+pends on the degree of compaction, content of soil organic mat-
+ter, presence of a freeze–thaw cycle, shrink–swell capacity, root
+growth, and movement of belowground fauna (Vanderheyden
+1981; Froehlich and McNabb 1984). Page-Dumroese et al. (2006)
+indicated that on coarse-textured soils, compaction recovery can
+be relatively quick (within 5 years), but on ﬁne-textured soil, re-
+covery may take decades to return to predisturbance levels. Pre-
+vious logging on our site occurred 30 years ago, and we could
+detect a few old skid trails before the current logging operation.
+Therefore, we cannot say if compaction recovery had occurred or
+if the previous trails were masked by the increasing forest ﬂoor.
+Although fast recovery can occur from deep soil proﬁle freezing
+(Mace 1971), the northern California coastal redwood zone is more
+prone to heavy rains and usually has soil temperatures above 0 °C.
+This indicates that any increases in HC from the harvest may not
+have been increased. However, we found no data about earth-
+worm movement or root growth in this area, which may have also
+mitigated compaction or increased porosity.
+Although HC is usually used as a method to understand the
+impacts of soil compaction, it is less reliable than collecting BD
+cores. This is because HC data often have large standard devia-
+tions at all sampling locations. Huang et al. (1996) suggested that
+the lack of signiﬁcant differences in inﬁltration could be due to
+this high spatial variability, but it could also be that we collected
+an insufﬁcient sample size. Nielsen et al. (1973) suggested that the
+true variation in water movement that exists from place to place
+in any area should be examined with a large number of samples.
+We estimated HC from 31–33 transects within a 10–12 ha area,
+making it difﬁcult to be sure that our HC samples fully explain
+each sample location (track, center, and reference) and site vari-
+ability.
+4.3. Factors affecting soil compaction
+CTL harvesting is known to produce a heavy slash mat, which
+can inﬂuence the degree and extent of compaction (McNeel and
+Ballard 1992; McDonald and Seixas 1997; Han et al. 2006, 2009). In
+our study, the equipment operator created large amounts of
+logging residues to prevent soil disturbance (Table 6). Usually,
+logging residues are weighed to determine the total amount
+Fig. 3. Percent increase of bulk density (BD) on the track after
+harvesting at each soil depth (0–5, 10–15, and 20–25 cm) in each unit
+(CR 1200 and CR 1003). [Color online.]
+0
+5
+10
+15
+20
+25
+30
+35
+0-5
+10-15
+20-25
+% increase of BD
+Soil depth (cm)
+CR 1200
+CR 1003
+Table 5. Mean values (± standard deviation) for hydraulic conductivity
+(cm·h–1) collected from soil samples at the track, center, and reference
+points at 0–5 cm soil depth.
+Unit
+n
+Track
+Center
+Reference
+p value
+CR 1200
+33
+1.23±1.45a
+1.95±2.78a
+1.29±1.47a
+0.6439
+CR 1003
+31
+1.61±2.08a
+0.93±1.52ab
+0.38±0.54b
+0.0396
+Note: The same letters indicate no signiﬁcant difference within each unit.
+n, number of transects.
+Fig. 4. The relationship between initial soil bulk density (BD) and
+percent increase of BD. [Color online.]
+0
+50
+100
+150
+200
+0
+0.5
+1
+1.5
+% increase of BD
+Initial soil BD (Mg/m3)
+CR 1003
+CR 1200
+Hwang et al.
+189
+Published by NRC Research Press
+Can. J. For. Res. Downloaded from www.nrcresearchpress.com by USDANALBF on 01/15/20
+For personal use only. 
+
+remaining (Han et al. 2006); however, we had sawlogs and a large
+amount of branches, twigs, and stems that we could not ade-
+quately weigh. Therefore, we used two methods (allometric equa-
+tions and Brown’s method) to determine how much logging
+residue was present. On ashy loamy soil, Han et al. (2009) noted
+that the degree of soil compaction when using CTL was severe
+when the soil was exposed as compared with areas covered in
+logging residues. They also noted that the actual amounts of res-
+idues were not important, only that the mineral soil was buffered
+from direct contact with equipment. Furthermore, McMahon and
+Evanson (1994) reported that changing the amounts of logging
+residues altered the amount of compaction on loamy sands; they
+noted a 16% increase in BD on sites with heavy logging residues
+(18.6 kg·m–2), a 21% increase in BD on sites with light logging
+residues (9.2 kg·m–2), and a 25% increase in BD on bare ground.
+However, the mitigating effects of logging slash can be reduced
+depending on the size of the material (McDonald and Seixas 1997;
+Han et al. 2006). Han et al. (2006) reported that small-diameter
+slash was likely to be crushed, so it could not absorb the tire
+pressure. Also, the amount of logging residues was more effective
+on wet soil than on dry soil, suggesting an interaction between
+moisture content and amounts of logging residues. Plentiful log-
+ging residues on wet soils could have minimized the amount of
+soil compaction that we found. McDonald and Seixas (1997) also
+conﬁrmed that logging residues had a more signiﬁcant effect on
+wet soil than dry conditions when using a forwarder, suggesting
+that as the moisture content increases, the bearing capacity of the
+soil decreases. Thus, the large quantities of logging residues on
+the soil surface potentially reduced equipment impacts on the
+mineral soil even though our soils were relatively wet.
+The amount of organic matter within the mineral soil may also
+affect the amount of soil compaction by equipment (Froehlich
+and McNabb 1984; Dexter 2004). Ares et al. (2005) suggested that
+large areas of forest soils in the Paciﬁc Northwest are covered with
+high organic carbon content with relatively low BD, which dis-
+tinctly minimizes the impacts on forest site productivity. Coastal
+redwood sites in our study had a large amount of soil organic
+matter from understory inputs, a large amount of overstory tree
+litterfall, and slow decomposition rates associated with cool,
+moist climates (Froehlich and McNabb 1984). Williamson and
+Neilsen (2000) found a negative relationship between BD and or-
+ganic matter, showing high R2 value (0.85) regardless of machine
+passes. They also reported that the BDs in wet conditions were
+lower than those in dry conditions as machine passes increased
+(0.9–1.0 Mg·m–3 versus 1.2–1.4 Mg·m–3), suggesting that the soils in
+areas of low rainfall with lower contents of organic matter had the
+highest BDs, whereas soils in areas of high rainfall with higher
+contents of organic matter had the lowest BDs.
+We could not measure the machine characteristics in the ﬁelds
+(e.g., ground pressure or equipment speed); however, we noted
+that bogie tracks were used with the harvester and forwarder.
+Equipment with bogie tracks is used to disperse the load to a
+greater area (i.e., to not concentrate it on a small area), which can
+be effective for minimizing ground pressure on soil compared
+with using conventional wheels (Bygdén et al. 2003; Gerasimov
+and Katarov 2010). In a previous study, bogie tracks produced less
+soil rutting damage and did not raise the resistance to soil pene-
+tration compared with wheel tracks (Bygdén et al. 2003). In addi-
+tion, as previously mentioned, there was a logging operation
+30 years ago on our site, and the soil might be relatively resistant
+to further compaction in each unit. Ampoorter et al. (2012) found
+that once the soil was compacted, any soil would be relatively
+tolerant to further compaction because of an increase in micro-
+pores and a decrease in macropores.
+4.4. The extent of compaction on forwarding trails
+Compared with WT operations, we could detect the forwarding
+trails in CTL operations because of the relative repetitive move-
+ment. The center points in unit CR 1200 were compacted, but we
+did not ﬁnd similar impacts in unit CR 1003. This is due to equip-
+ment trafﬁcking across the centerline of the trail. In unit CR 1200,
+18.8% of the unit was in trail systems, with a similar amount
+compacted. In unit CR 1003, 16.5% of the area was in trails, but
+only 8.3% was compacted, suggesting that the different operators
+moved dissimilarly over the forwarding trails (Table 7). McNeel
+and Ballard (1992) calculated that the forwarding trails accounted
+for 19.7% of the area, and Lanford and Stokes (1995) reported that
+38% of the area was disturbed when using a CTL system. Han et al.
+(2009) suggested a different calculation that distinguishes be-
+tween the centerline and the track. They reported that approxi-
+mately 19%–20% of total harvesting unit was covered by trails from
+the CTL system; however, the actual compacted area was reduced
+by up to 10%.
+4.5. Acceptable levels of soil compaction
+We found an increase in BD of approximately 25%–30% in the
+soil surface (0–5 cm depth), which was an increase in BD from 0.70
+and 0.71 g·cm–3 to 0.83 and 0.84 g·cm–3 in CR 1200 and CR 1003,
+respectively. Several studies have shown that increasing BD can
+limit that the root growth (Daddow and Warrington 1983; Pierce
+et al. 1983). Pierce et al. (1983) suggested that the BD values ranging
+from 1.39 Mg·m–3 in clay to 1.69 Mg·m–3 in sand and loamy sands
+affected root growth. The United States Department of Agricul-
+ture (USDA) Forest Service has used a threshold of a 15% increase
+in BD to ensure long-term soil productivity in the Paciﬁc North-
+west region (Page-Dumroese et al. 2000). Changes in BD on our
+sites may not be severe enough to restrict the root growth in silt
+loam, loam, and sandy loam, but the increase in BD at some loca-
+tions would exceed the threshold of 15%. In addition, Froehlich
+(1979) developed a prediction model to describe how increased BD
+may alter tree growth and showed that there could be a 6%–12%
+reduction in tree growth rate depending on the degree of soil
+compaction. He also suggested that if BD increases by more than
+10%, there will be a decrease in root growth for residual young
+ponderosa pine (Pinus ponderosa Douglas ex P. Lawson & C. Law-
+son), but this change may not be great enough to limit ground-
+based logging. Compaction caused by a vibratory soil compactor
+in plantations of ponderosa pine aged 3–8 years old did not reduce
+the tree growth, but soil texture is important when determining
+the overall growth reductions (Gomez et al. 2002). Likewise,
+Page-Dumroese et al. (2006) found that there is no clear correla-
+tion between compaction and future tree growth, as compaction
+is related to other soil impacts such as displacement, mixing, and
+rutting. They also reported that using a percent increase of BD
+could limit activities with low initial BD, and on sites with high
+Table 6. Amount of slash covering the forwarding
+trails.
+Unit
+Prethinning
+(kg·m–2)
+Postthinning
+(kg·m–2)
+Total
+(kg·m–2)
+CR 1200
+2.3
+29.8
+32.1
+CR 1003
+8.2
+17.1
+25.3
+Table 7. Mean trail width, trail area, and expected compacted area
+from the cut-to-length (CTL) system.
+Unit
+Total
+area (ha)
+Trail width
+Trail area
+Compacted
+area
+N
+Mean
+(m)
+ha
+%
+ha
+%
+CR 1200
+10.1
+162
+3.7
+1.9
+18.8
+1.9
+18.8
+CR 1003
+12.1
+137
+4.0
+2.0
+16.5
+1.0
+8.3
+Note: Trail width is composed of the tracks and center area.
+190
+Can. J. For. Res. Vol. 50, 2020
+Published by NRC Research Press
+Can. J. For. Res. Downloaded from www.nrcresearchpress.com by USDANALBF on 01/15/20
+For personal use only. 
+
+initial BD, the changes in macropores may alter tree growth with-
+out causing an increase in BD.
+4.6. Best management practices (BMPs) for CTL operations
+Powers et al. (1998) suggested that estimations of soil quality
+thresholds for a wide range of soils are difﬁcult and that forest
+soils are susceptible to disturbance (e.g., compaction and forest
+ﬂoor removal). Furthermore, it is difﬁcult to estimate postdistur-
+bance recovery time for individual soils. Many studies have exam-
+ined the impacts of harvest operations on soil properties and
+subsequent stand growth (Ares et al. 2005; Labelle and Jaeger 2011;
+Achat et al. 2015) and, in general, WT harvest operations remove
+forest residues, resulting in an export of soil nutrients such as
+carbon, nitrogen, phosphorus, and potassium, leading to declines
+in residual tree growth (Palviainen and Finér 2012; Naghdi et al.
+2016).
+Unlike WT systems, CTL systems generally require less area to
+transport logs and result in fewer impacts on soil physical prop-
+erties. CTL systems leave a greater amount of forest residues on-
+site to act as a buffer against rutting, compaction, and the mixing
+of forest ﬂoor and topsoil (Froehlich et al. 1986; Han et al. 2009;
+Labelle and Jaeger 2011; Missanjo and Kamanga-Thole 2014).
+There are few soil studies on which to base BMPs for CTL harvest
+operations in young-growth redwood stands. However, perform-
+ing harvest operations at times when the soil is dry can limit the
+severity and extent of soil compaction to ensure adequate growth
+of the residual redwood stands. Retaining forest residues can
+also maintain soil quality for residual tress or the next rotation
+(Ghaffariyan and Apolit 2015). In redwood stands, O’Hara et al.
+(2010) noted that because decomposition occurs quickly, it should
+be relatively easy to manage forest residues while minimizing ﬁre
+danger. Restoration of these stands by silvicultural manipulation
+is key to the acquisition of old-growth properties (Keyes and
+Teraoka 2014); therefore, understanding the impacts of CTL and
+WT harvest operations on soil properties will also help achieve
+restoration targets.
+5. Conclusions
+This is the ﬁrst CTL study on coastal redwoods in northern
+California to assess changes in BD and HC on soils with high
+moisture content (49%–58%). The actual values of BD on the tracks
+were low; however, in both units, there was a high percent in-
+crease in BD (25%–30%) on the tracks. HC data showed inconsistent
+results because of high spatial variability, so we recommend ana-
+lyzing soil porosities for a more detailed analysis by separating
+into macro- and microporosities with a greater number of sam-
+ples. When we separated the forwarding trails (disturbed versus
+undisturbed area) and considered only compacted area, the over-
+all compacted area was reduced. Thus, it is recommended that
+operators move carefully by using the same trails in the CTL sys-
+tem when they drive and avoid crossing the centerline of the
+forwarding trails. In northern California, a CTL system would not
+detrimentally affect the root growth based on actual values of BD;
+however, the percent increases of BD were beyond the standards
+set by the USDA Forest Service. The impact depends on site factors
+such as species and soil texture, so it is recommended that future
+studies examine the long-term impacts from the CTL system on
+forest growth.
+Acknowledgements
+This study was supported by a grant from the Agriculture Re-
+search Institute, 28 California State University: Award No. 17-06-
+004. The authors thank Mike Carol (Green Diamond Resource
+Company) and Matt Mattioda (Miller Timber Services) for their
+cooperation.
+References
+Achat, D.L., Deleuze, C., Landmann, G., Pousse, N., Ranger, J., and Augusto, L.
+2015. Quantifying consequences of removing harvesting residues on forest
+soils and tree growth — a meta-analysis. For. Ecol. Manage. 348: 124–141.
+doi:10.1016/j.foreco.2015.03.042.
+Adams, P.W. 1998. Soil compaction on woodland properties. Oregon State Uni-
+versity, Extension Service, Corvallis, Ore.
+Adams, P.W., and Froehlich, H.A. 1984. Compaction of forest soils. USDA Paciﬁc
+Northwest Extension.
+Adebayo, A.B., Han, H.-S., and Johnson, L. 2007. Productivity and cost of cut-to-
+length and whole-tree harvesting in a mixed-conifer stand. For. Prod. J.
+57(6): 59.
+Allen, M.M. 1998. Soil compaction and disturbance following a thinning of
+second-growth Douglas-ﬁr with a cut-to-length and a skyline system in the
+Oregon Cascades. Oregon State University, Corvallis, Ore.
+Ampoorter, E., De Schrijver, A., Van Nevel, L., Hermy, M., and Verheyen, K. 2012.
+Impact of mechanized harvesting on compaction of sandy and clayey forest
+soils: results of a meta-analysis. Ann. For. Sci. 69(5): 533–542. doi:10.1007/
+s13595-012-0199-y.
+Ares, A., Terry, T.A., Miller, R.E., Anderson, H.W., and Flaming, B.L. 2005.
+Ground-based forest harvesting effects on soil physical properties and
+Douglas-ﬁr growth. Soil Sci. Soc. Am. J. 69(6): 1822–1832. doi:10.2136/sssaj2004.
+0331.
+Armlovich, D. 1995. Soil compaction study on a cut-to-length mechanized har-
+vesting system. Forest Engineering Department, Oregon State University,
+Corvallis, Ore.
+Brown, J.K. 1974. Handbook for inventorying downed woody material. USDA
+Gen. Tech. Rep. INT-16. United States Department of Agriculture, Forest Ser-
+vice, Intermountain Forest and Range Experiment Research Station, Ogden,
+Utah.
+Bygdén, G., Eliasson, L., and Wästerlund, I. 2003. Rut depth, soil compaction and
+rolling resistance when using bogie tracks. J. Terramechanics, 40(3): 179–190.
+doi:10.1016/j.jterra.2003.12.001.
+Carsel, R.F., and Parrish, R.S. 1988. Developing joint probability distributions of
+soil water retention characteristics. Water Resour. Res. 24(5): 755–769. doi:
+10.1029/WR024i005p00755.
+Coder, K.D. 2000. Soil compaction & trees: causes, symptoms & effects. School of
+Forest Resources, University of Georgia, Athens, Ga.
+Cole, D.W. 1983. Redwood sprout growth three decades after thinning. J. For.
+81(3): 148–157. doi:10.1093/jof/81.3.148.
+Daddow, R.L., and Warrington, G. 1983. Growth-limiting soil bulk densities as
+inﬂuenced by soil texture. Group Report. USDA Forest Service Watershed
+Systems Development Group, Fort Collins, Colo.
+Decagon Devices. 2013. Mini-disk inﬁltrometer user’s manual, version 10. Deca-
+gon Devices, Inc., Pullman, Wash.
+Dexter, A.R. 2004. Soil physical quality: Part I. Theory, effects of soil texture,
+density, and organic matter, and effects on root growth. Geoderma, 120:
+201–214. doi:10.1016/j.geoderma.2003.09.004.
+Froehlich, H.A. 1979. Soil compaction from logging equipment: effects on
+growth of young ponderosa pine. J. Soil Water Conserv. 34(6): 276–278.
+Froehlich, H.A., and McNabb, D.H. 1984. Minimizing soil compaction in Paciﬁc
+Northwest forests. In Forest soils and treatment impacts. Department of
+Forestry, Wildlife, and Fisheries, Knoxville, Tenn. pp. 159–192.
+Froehlich, H.A., Azevedo, J., Cafferata, P., and Lysne, D. 1980. Predicting soil
+compaction on forested land. USDA Forest Service Equipment Development
+Center, Missoula, Mont.
+Froehlich, H.A., Miles, D.W.R., and Robbins, R.W. 1986. Growth of young Pinus
+ponderosa and Pinus contorta on compacted soil in central Washington. For.
+Ecol. Manage. 15(4): 285–294. doi:10.1016/0378-1127(86)90165-9.
+Gerasimov, Y., and Katarov, V. 2010. Effect of bogie track and slash reinforce-
+ment on sinkage and soil compaction in soft terrains. Croat. J. For. Eng. 31(1):
+35–45.
+Ghaffariyan, M.R., and Apolit, R. 2015. Harvest residues assessment in pine
+plantations harvested by whole-tree and cut-to-length harvesting methods
+(a case study in Queensland, Australia). Silva Balc. 16: 113–122.
+Gomez, A., Powers, R.F., Singer, M.J., and Horwath, W.R. 2002. Soil compaction
+effects on growth of young ponderosa pine following litter removal in Cali-
+fornia’s Sierra Nevada. Soil Sci. Soc. Am. J. 66(4): 1334–1343. doi:10.2136/
+sssaj2002.1334.
+Greacen, E.L., and Sands, R. 1980. Compaction of forest soils: a review. Aust. J.
+Soil Res. 18(2): 163–189. doi:10.1071/SR9800163.
+Han, H.-S., Page-Dumroese, D., Han, S.-K., and Tirocke, J. 2006. Effects of slash,
+machine passes, and soil moisture on penetration resistance in a cut-to-
+length harvesting. Int. J. For. Eng. 17(2): 11–24.
+Han, S.-K., Han, H.-S., Page-Dumroese, D., and Johnson, L.R. 2009. Soil compac-
+tion associated with cut-to-length and whole-tree harvesting of a coniferous
+forest. Can. J. For. Res. 39(5): 976–989. doi:10.1139/X09-027.
+Heilman, P. 1981. Root penetration of Douglas-ﬁr seedlings into compacted soil.
+For. Sci. 27(4): 660–666. doi:10.1093/forestscience/27.4.660.
+Huang, J., Lacey, S.T., and Ryan, P.J. 1996. Impact of forest harvesting on the
+hydraulic properties of surface soil. Soil Sci. 161(2): 79–86. doi:10.1097/
+00010694-199602000-00001.
+Jansson, K.J., and Johansson, J. 1998. Soil changes after trafﬁc with a tracked and
+Hwang et al.
+191
+Published by NRC Research Press
+Can. J. For. Res. Downloaded from www.nrcresearchpress.com by USDANALBF on 01/15/20
+For personal use only. 
+
+a wheeled forest machine: a case study on a silt loam in Sweden. Forestry,
+71(1): 57–66. doi:10.1093/forestry/71.1.57.
+Jenkins, J.C., Chojnacky, D.C., Heath, L.S., and Birdsey, R.A. 2004. Comprehen-
+sive database of diameter-based biomass regressions for North American tree
+species. USDA Gen. Tech. Rep. NE-319. USDA Forest Service, Northeastern
+Research Station, Newtown Square, Pa. doi:10.2737/NE-GTR-319.
+Kellogg, L., Bettinger, P., Robe, S., and Steffert, A. 1992. Mechanized harvesting:
+a compendium of research. Forest Research Laboratory, College of Forestry,
+Oregon State University, Corvallis, Ore.
+Keyes, C., and Teraoka, E. 2014. Structure and composition of old-growth and
+unmanaged second-growth riparian forests at Redwood National Park, USA.
+Forests, 5(2): 256–268. doi:10.3390/f5020256.
+Kizha, A.R., and Han, H.-S. 2015. Forest residues recovered from whole-tree tim-
+ber harvesting operations. Eur. J. For. Eng. 1(2): 46–55.
+Labelle, E.R., and Jaeger, D. 2011. Soil compaction caused by cut-to-length forest
+operations and possible short-term natural rehabilitation of soil density. Soil
+Sci. Soc. Am. J. 75(6): 2314–2329. doi:10.2136/sssaj2011.0109.
+Lanford, B.L., and Stokes, B.J. 1995. Comparison of two thinning systems. Part 1.
+Stand and site impacts. For. Prod. J. 45(5): 74–79.
+Liu, C., and Evett, J.B. 1984. Soil properties: testing, measurement and evalua-
+tion. Prentice-Hall, Upper Saddle River, N.J.
+Lowery, B., Hickey, W.J., Arshad, M.A., and Lal, R. 1996. Soil water parameters
+and soil quality. In Methods for assessing soil quality. SSSA Spec. Publ. 49.
+Edited by J.W. Doran and A.J. Jones. Soil Science Society of America, Madison,
+Wis. pp. 143–155. doi:10.2136/sssaspecpub49.c8.
+Mace, A.C., Jr. 1971. Recovery of forest soils from compaction by rubber-tired
+skidders. Minn. For. Res. Notes No. 226. School of Forestry, University of
+Minnesota, Minneapolis, Minn.
+McDonald, T.P., and Seixas, F. 1997. Effect of slash on forwarder soil compaction.
+J. For. Eng. 8(2): 15–26.
+McMahon, S., and Evanson, T. 1994. The effect of slash cover in reducing soil
+compaction resulting from vehicle passage. LIRO Rep. 19(1): 1–8.
+McNeel, J.F., and Ballard, T.M. 1992. Analysis of site stand impacts from thinning
+with a harvester–forwarder system. J. For. Eng. 4(1): 23–29. doi:10.1080/08435243.
+1992.10702641.
+Missanjo, E., and Kamanga-Thole, G. 2014. Impact of site disturbances from
+harvesting and logging on soil physical properties and Pinus kesiya tree
+growth. Int. Scholarly Res. Not. 2014: 323626. doi:10.1155/2014/323626.
+Naghdi, R., Solgi, A., Labelle, E.R., and Zenner, E.K. 2016. Inﬂuence of ground-
+based skidding on physical and chemical properties of forest soils and their
+effects on maple seedling growth. Eur. J. For. Res. 135(5): 949–962. doi:10.1007/
+s10342-016-0986-3.
+Nielsen, D.R., Biggar, J.W., and Erh, K.T. 1973. Spatial variability of ﬁeld-
+measured soil-water properties. Hilgardia, 42: 215–259. doi:10.3733/hilg.
+v42n07p215.
+Noss, R.F. (Editor.) 1999. The redwood forest: history, ecology, and conservation
+of the coast redwoods. Island Press, Washington, D.C.
+O’Hara, K.L., Nesmith, J.C., Leonard, L., and Porter, D.J. 2010. Restoration of old
+forest features in coast redwood forests using early-stage variable-density
+thinning. Restor. Ecol. 18: 125–135. doi:10.1111/j.1526-100X.2010.00655.x.
+Page-Dumroese, D., Jurgensen, M., Elliot, W., Rice, T., Nesser, J., Collins, T., and
+Meurisse, R. 2000. Soil quality standards and guidelines for forest sustainabil-
+ity in northwestern North America. For. Ecol. Manage. 138(1–3): 445–462.
+doi:10.1016/S0378-1127(00)00430-8.
+Page-Dumroese, D.S., Jurgensen, M.F., Tiarks, A.E., Ponder, F., Jr., Sanchez, F.G.,
+Fleming, R.L., et al. 2006. Soil physical property changes at the North Amer-
+ican Long-Term Soil Productivity study sites: 1 and 5 years after compaction.
+Can. J. For. Res. 36(3): 551–564. doi:10.1139/x05-273.
+Palviainen, M., and Finér, L. 2012. Estimation of nutrient removals in stem-only
+and whole-tree harvesting of Scots pine, Norway spruce, and birch stands
+with generalized nutrient equations. Eur. J. For. Res. 131(4): 945–964. doi:10.
+1007/s10342-011-0567-4.
+Pierce, F.J., Larson, W.E., Dowdy, R.H., and Graham, W.A.P. 1983. Productivity of
+soils: assessing long-term changes due to erosion. J. Soil Water Conserv. 38(1):
+39–44.
+Powers, R.F., Tiarks, A.E., and Boyle, J.R. 1998. Assessing soil quality: practicable
+standards for sustainable forest productivity in the United States. In Criteria
+and indicators of soil quality for sustainable forest productivity. SSSA Spec.
+Publ. 53. Edited by E.A. Davidson. Soil Science Society of America, Madison,
+Wis. pp. 53–80.
+R Development Core Team. 2008. R: a language and environment for statistical
+computing [online]. R Foundation for Statistical Computing, Vienna, Austria.
+Available from http://www.R-project.org.
+Rose, C.W. 1966. Agricultural physics: a volume in The Commonwealth and
+International Library: Physics Division. Elsevier. doi:10.1016/C2013-0-01995-0.
+Vanderheyden, J. 1981. Chronological variation in soil density and vegetative
+cover of compacted skid trails in clearcuts of the western Oregon Cascades.
+M.Sc. thesis, Oregon State University, Corvallis, Ore.
+Williamson, J.R., and Neilsen, W.A. 2000. The inﬂuence of forest site on rate and
+extent of soil compaction and proﬁle disturbance of skid trails during
+ground-based harvesting. Can. J. For. Res. 30(8): 1196–1205. doi:10.1139/x00-
+041.
+Wolkowski, R., and Lowery, B. 2008. Soil compaction: causes, concerns and
+cures. Division of Cooperative Extension of the University of Wisconsin–
+Extension, Madison, Wis.
+Zhang, R. 1997. Determination of soil sorptivity and hydraulic conductivity from
+the disk inﬁltrometer. Soil Sci. Soc. Am. J. 61(4): 1024–1030. doi:10.2136/
+sssaj1997.03615995006100040005x.
+192
+Can. J. For. Res. Vol. 50, 2020
+Published by NRC Research Press
+Can. J. For. Res. Downloaded from www.nrcresearchpress.com by USDANALBF on 01/15/20
+For personal use only. 

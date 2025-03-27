@@ -1,0 +1,2366 @@
+Cradle-to-gate life cycle impacts of redwood forest resource
+harvesting in northern California
+Han-Sup Han a, *, Elaine Oneil b, 1, Richard D. Bergman c, 2, Ivan L. Eastin b, 3,
+Leonard R. Johnson d, 4
+a Humboldt State University, Arcata, CA 95515, USA
+b University of Washington, Seattle, WA 98195, USA
+c USDA Forest Service Forest Products Laboratory, Madison, WI 53726, USA
+d University of Idaho, Moscow, ID 83843, USA
+a r t i c l e i n f o
+Article history:
+Received 5 August 2014
+Received in revised form
+19 February 2015
+Accepted 28 February 2015
+Available online 13 March 2015
+Keywords:
+Redwood lumber
+Life cycle analysis
+Environmental impacts
+Fuel consumption in timber harvesting
+Air quality impacts
+a b s t r a c t
+The ﬁrst life cycle impact assessment for redwood (Sequoia sempervirens) forest management activities
+(i.e. a cradle-to-sawmill gate input) including the growing, harvesting, and hauling of redwood sawlogs
+to a sawmill was completed. In the stump-to-truck timber harvesting analysis, primary transport ac-
+tivities such as skidding and yarding consumed the largest amount of fuel and consequently generated
+the greatest environmental impacts (50% of the total) compared with the other harvesting stages (felling,
+processing, and loading). Hauling sawlogs to the sawmill was also a major contributor to total green-
+house gas emissions, representing 20% of total emissions. The most efﬁcient harvest method in terms of
+fuel consumption per m3 of wood harvested was the manual ground-based system used in even-aged
+silvicultural operations, followed by the skyline harvesting methods. Relative to even-aged silvicul-
+tural systems, uneven-aged systems, often prescribed to meet environmental goals such as maintaining
+biodiversity and protecting wildlife habitats, used 20% more fuel per m3 of redwood sawlogs harvested.
+This was because uneven-aged systems required an increased number of entries to harvest the same
+amount of wood as even-aged systems. The cradle-to-gate GHG emissions from redwood forest man-
+agement activities including growing, harvesting and hauling the logs represent only 14% (17.13 kg CO2e/
+m3) of the total GHG emissions (i.e. cradle-to-grave) associated with redwood decking lumber. The study
+results showed substantial differences in environmental impacts for the various harvesting operations
+and silvicultural systems for redwood forest management and operations. Therefore, the life cycle impact
+assessment results for the various redwood harvesting and silvicultural systems should be carefully
+considered when evaluating environmental performance of forest management activities along with
+other objectives.
+© 2015 Elsevier Ltd. All rights reserved.
+1. Introduction
+Redwood (Sequoia sempervirens) is a unique species that has a
+limited natural range along the coastal zone of northern California
+(Berrill et al., 2012). Redwood is commonly used to manufacture
+outdoor decking because of its natural beauty and superior resis-
+tance to decay (Wilcox and Piirto, 1976; Clark and Scheffer, 1983).
+Consumers choose to use redwood decking or comparable products
+based on a broad range of product attributes including price,
+quality, durability and intended service application (Ganguly and
+Eastin, 2009). In recent decades, the burdens that a particular
+product may impose on human health and the physical environ-
+ment are receiving increased consideration. In particular there is
+increased public interest, and an ongoing debate, regarding the
+environmental impacts associated with the manufacture, con-
+sumption, disposal, and re-use of products that originate from the
+forest (Bowyer et al., 2014).
+* Corresponding author. Tel.: þ1 707 497 8497.
+E-mail addresses: hh30@humboldt.edu (H.-S. Han), eoneil@uw.edu (E. Oneil),
+rbergman@fs.fed.us (R.D. Bergman), eastin@uw.edu (I.L. Eastin), lrkmjohnson@
+frontier.com (L.R. Johnson).
+1 Tel.: þ1 206 543 6859.
+2 Tel.: þ1 608 231 9477.
+3 Tel.: þ1 206 543 1918.
+4 Tel.: þ1 208 882 0484.
+Contents lists available at ScienceDirect
+Journal of Cleaner Production
+journal homepage: www.elsevier.com/locate/jclepro
+http://dx.doi.org/10.1016/j.jclepro.2015.02.088
+0959-6526/© 2015 Elsevier Ltd. All rights reserved.
+Journal of Cleaner Production 99 (2015) 217e229
+
+To make informed product choices consumers need transparent,
+scientiﬁcally veriﬁed, objective information. Life cycle inventory
+(LCI) and life cycle assessment (LCA) are analytical techniques
+commonly used to quantify the emission proﬁles and environ-
+mental impacts of a wide range of products, respectively. The LCA
+process is well deﬁned by international standards (ISO, 2006a;
+2006b), and has been used extensively over the past decade to
+quantify the environmental footprint of wood products (Puettmann
+and Wilson, 2005), link forest management choices to environ-
+mental performance indices in the forest (Lippke et al., 2005; Oneil
+and Lippke, 2010), and track the carbon consequences of wood
+product manufacturing and use (Lippke et al., 2010). The Con-
+sortium for Research on Renewable Industrial Materials (CORRIM)
+has documented the LCIs of the major wood products manufac-
+tured in the US, but no work has been completed for redwood
+decking products. Existing wood product data are publicly available
+from the US LCI Database (2012).
+This study reports on the environmental impacts of forest
+resource management activities including the growing, harvesting,
+and hauling of redwood sawlogs to the sawmill, referred to as a
+forest resource cradle-to-gate LCA. The forest resource cradle-to-
+gate LCA we report on here was part of a larger study (i.e. cradle-
+to-grave)
+that
+included
+the
+redwood
+decking
+product
+manufacturing processes, transportation to market, product use,
+maintenance, and ﬁnal disposal (Bergman et al., 2013). To assess the
+comprehensive
+environmental
+footprint
+of
+redwood
+decking
+lumber, the framework for data collection used in prior CORRIM
+studies was adapted to gather the speciﬁc information needed to
+produce the forest resources LCI for redwood decking.
+The LCI and LCA methods measure the inputs and outputs per
+unit of product manufactured so that it is easy to calculate the
+embodied energy (the amount of energy required to manufacture a
+product), emissions to land, air and water, and quantify the impacts
+those emissions may have on the environment and human health
+(ISO, 2006a; 2006b).
+Forest management activities, including timber harvesting and
+log hauling in California's forests, are required by law to follow the
+California Forest Practices Rules which are some of the most
+stringent regulations found in the United States today (Dicus and
+Delﬁno, 2003). In addition, all ﬁrms surveyed for this project
+manage their forests consistent with either Forest Stewardship
+Council (FSC) or the Sustainable Forestry Initiative (SFI) certiﬁca-
+tion standards which have additional requirements beyond those
+speciﬁed in the California regulations. Given the stringent regula-
+tions and certiﬁcation standards under which redwood forests are
+managed, there is a high likelihood that the forests harvested to
+produce redwood decking are sustainably harvested and will be for
+the foreseeable future. For that reason we did not track carbon
+increases and decreases in the forest as they are anticipated to be
+negligible under the sustainable management regimes being
+practiced in California today. Under these assumptions of sustain-
+able forest management following ASTM International standard
+D7612-10 (2010) and guide D7480-08 (2014), data were gathered
+that reﬂect the current state of production and are reported
+consistent with the protocols identiﬁed in the North American
+Wood Product Category Rule (PCR; FPInnovations, 2013).
+Environmental impacts associated with forest management
+activities are documented for a wide variety of places and tree
+species (Gonzalez-García et al., 2014; Dias and Arroja, 2012;
+Cambria and Pierangeli, 2012) using life cycle inventory and
+assessment methodologies. Results, some measured and others
+simulated, show high variability among regions, species, and
+management system. For example Dias and Arroja (2012) found a
+global warming potential (GWP) for growth and harvest of pine and
+eucalyptus in Portugal from 4.8 to 18.5 kg CO2e/m3. Cambria and
+Pierangeli (2012) report a GWP of 120 kg/m3 for walnut in Italy
+and Gonzalez-Garcia et al. (2013) report a GWP of 2.3 kg/m3
+including bark for Douglas-ﬁr plantations in Germany. Data from
+Johnson et al. (2005) and Oneil et al. (2010) were used to calculate
+GWP for forest management operations in four US regions
+(Puettmann et al., 2013a,b,c; Puettmann and Oneil, 2013) and found
+values ranging from 9.41 to 14.52 kg CO2e/m3of logs (without bark).
+Differences in methodology, boundary condition such as including
+the fencing (Cambria and Pierangeli, 2012), or excluding hauling
+(Johnson et al., 2005; Oneil et al., 2010) and functional unit deﬁ-
+nition (i.e. with and without bark) contribute to this variability.
+Even with uniform boundary conditions, methodology, and func-
+tional unit there can still be substantial differences in environ-
+mental performance, largely as a result of yield per hectare,
+management intensity, and harvest system (Johnson et al., 2005;
+Oneil et al., 2010; Diaz and Arroja, 2012).
+No life cycle analysis has been conducted to quantify the envi-
+ronmental footprint of redwood forest management activities in
+northern California. Redwood growth, management, and harvest-
+ing systems have some unique attributes that have not been
+quantiﬁed elsewhere. For example, in certain visually and envi-
+ronmentally sensitive areas, helicopters are used to remove logs
+from the forest. The life cycle impact of this harvest system had not
+been quantiﬁed before. Unlike other conifer species in North
+America redwood sprouts from harvested roots therefore the effort
+and time to regenerate redwood forests is greatly reduced. With
+these differences in mind, the goal of this study was to estimate the
+environmental impacts of redwood forest management activities
+associated with the growing, harvesting, and hauling of redwood
+sawlogs that are manufactured into redwood decking lumber.
+Boundary conditions and functional unit used for this study were
+the same as those used for Johnson et al. (2005) and Oneil et al.
+(2010), but primary data which was collected on forest operations
+on a speciﬁc species and region was expected to generate more
+precise results.
+2. Methods
+The scope of this cradle-to-gate study was part of a larger
+cradle-to-grave LCA analysis of redwood decking lumber that
+focused on the life cycle of redwood forest resources (i.e. sawlog
+production; Fig.1). This study conforms to internationally-accepted
+standards (ISO, 2006a, 2006b), used primary data collected from
+redwood forest landowners, as well as secondary data from the US
+LCI Database (2012) which was used to model the LCI of redwood
+forest resources using the SimaPro program. It includes an evalu-
+ation of the following components:
+ nursery operations to grow redwood tree seedlings
+ ﬁll planting of redwood seedlings
+ pre-commercial thinning of redwood forests
+ commercial thinning of redwood forests
+ commercial harvest of redwood sawlogs
+ transportation of redwood sawlogs to sawmills
+Some forest residues (i.e. logging slash) generated from timber
+harvest activities were collected, ground up, and transported to
+local energy plants when the biomass operations were economi-
+cally feasible. Since the electricity produced from burning redwood
+forest residues forms part of the regional power grid that supplies
+electricity to redwood sawmills, the downstream contribution of
+the logging slash was accounted for in a separate redwood decking
+LCA analysis. While the redwood forest residues are an important
+co-product of the cradle-to-grave redwood decking process, they
+were not modeled as part of the present redwood harvesting life
+H.-S. Han et al. / Journal of Cleaner Production 99 (2015) 217e229
+218
+
+cycle impact assessment (LCIA) to prevent double counting of these
+beneﬁts.
+2.1. Life cycle inventory data collection and analysis
+LCI data are developed using a variety of techniques. In this
+study, we collected primary data on forest management and har-
+vesting operations using landowner surveys on four redwood forest
+products companies in northern California that collectively repre-
+sent 90% of redwood decking production. Our survey was to
+develop representative timber harvest and raw material collection
+data including measures of all material inputs such as labor use, and
+fuel and lubrication per unit of collection activity. From these sur-
+vey data we developed scenarios, identiﬁed representative equip-
+ment proﬁles, and established average yield values. Yield was used
+to calculate standing and harvested volume and biomass along
+with many other stand characteristics at selected points in time
+throughout the rotation age of the forest stand. Secondary data
+were synthesized from existing data, including literature reviews,
+published data sources, government and industry reports, and
+synthesis of economic data.
+The survey questionnaire covered elements of forest resource
+management including stand establishment, intermediate forest
+treatment, harvesting system proﬁles, transportation, and forest
+residue recovery operations. Questions related to log harvest vol-
+umes through the rotation age of the forest stand were also
+included in the survey. The survey collected data for the year 2010.
+The primary source of air emissions was from the combustion of
+diesel fuel, gasoline, and jet fuel that was used to operate the
+harvest equipment, log trucks and helicopters. Lubricants were
+consumed through replacement at the end of its life and assumed
+to be recycled. Emissions related to the fertilizers used to grow the
+seedlings in the nursery were also estimated.
+2.1.1. Stand establishment and forest inventory
+Information collected in this section of the survey included
+nursery operations,
+seedling
+planting
+activities,
+intermediate
+treatment activities (fertilization and pre-commercial thinning),
+types of silvicultural systems used (i.e. even-aged or uneven-aged),
+rotation ages, and volume removals at each entry.
+2.1.2. Harvesting systems and productivity
+Landowners were asked to describe typical harvesting systems
+and the type of equipment used to harvest timber from stump to
+truck, including felling, primary transport (stump-to-landing),
+processing, and loading. Three major types of harvesting systems
+were surveyed: ground-based, skyline, and helicopter. These three
+harvesting
+systems
+were
+further
+subdivided
+based
+on
+the
+Fig. 1. System boundaries and process ﬂow diagrams. This ﬁgure shows the system boundaries and process ﬂow diagrams for forest stand establishment and harvesting of Cal-
+ifornia redwood forests.
+H.-S. Han et al. / Journal of Cleaner Production 99 (2015) 217e229
+219
+
+equipment type used and the harvest methods (i.e. uneven-aged,
+even-aged) applied. Questions asked in this section were related
+to harvesting productivity (i.e. thousand board feet (MBF)/h), cost
+($/MBF), and fuel/oil consumption rates for each piece of harvesting
+equipment used. Machine utilization rates were also surveyed and
+used to adjust hourly productivity and fuel and lubrication con-
+sumption rates.
+2.1.3. Log hauling
+Log hauling starts with loaded logs at the landing and ends
+with unloading logs at the sawmill, a process referred to as sec-
+ondary transport. Survey questions included truck types, horse
+power, load volume per trip, and average speed of travel on ﬁve
+different road categories (spur, dirt, gravel, 2-lane highway, and
+interstate highway). Data included machine costs and fuel con-
+sumption rates.
+2.1.4. Slash treatments and biomass recovery for energy
+This section of the survey was used to gather information on
+activities associated with managing the slash resulting from timber
+harvest, including percent utilization of trees cut, type of collection
+equipment used, use of prescribed burning, and biomass recovery
+operations for energy production. Productivity (ton/h), cost ($/ton),
+and fuel consumption rates were obtained for biomass recovery
+equipment and systems that are commonly used to recover forest
+residues left from redwood sawlog harvesting. The data were used
+to estimate the annual recovery volume (%) under current market
+conditions for redwood sawlogs and biomass. Biomass hauling in-
+formation was gathered using the same questions that were used
+for log transportation.
+The survey information was aggregated and summarized to
+calculate weighted average values which represent the mean value
+foreach categoryof interest. Each categoryof the survey information
+was weighted based on each company's annual harvest volume,
+silvicultural methods (uneven-aged or even-aged), and the type of
+harvest system used (Fig. 2). The survey data summary and initial
+calculationvalues wereentered intotheHarvestFactors spreadsheet
+detailingthe input parameters needed fora complete forestresource
+LCI (Johnson, 2008). The spreadsheet framework was developed for
+previous CORRIM reports that summarize the LCI for wood products
+in the US (Johnson et al., 2005; Oneil and Lippke, 2010).
+2.2. Life cycle impact assessment
+Data from the Harvest Factors spreadsheets were entered into
+LCA modeling software package SimaPro 7.3 (PRe Consultants,
+2013) which was used to estimate the environmental impacts to
+the air and water from the redwood forest management activities.
+Primary data summarized in the Harvest Factors spreadsheet were
+entered into the SimaPro program using a functional unit of m3 for
+sawlogs. Key input values included fuel and lubrication consump-
+tion rates and volume of logs removed/hectare that varied based on
+harvesting systems and silvicultural methods used. Each harvesting
+system consisted of a set of machines which are commonly used to
+harvest redwood sawlogs in northern California, with each ma-
+chine consuming different amounts of fuel and lubricant.
+The LCIA was summarized using the TRACI 2 v3.0 (Tool for the
+Reduction and Assessment of Chemical and other environmental
+Impacts) impact estimator which was developed by the US Envi-
+ronmental Protection Agency (Bare, 2011). The impacts were
+grouped into indicators including: global warming potential
+(GWP), ozone depletion, smog, acidiﬁcation, eutrophication, carci-
+nogenics, non-carcinogenics, ecotoxicity and respiratory effects.
+Each environmental impact category was measured relative to a
+common reference unit: GWP (carbon dioxide equivalents, CO2e);
+ozone depletion (chloroﬂuorocarbon equivalents, CFC); smog
+(ozone, O3); acidiﬁcation (mole of hydrogen ions, Hþ); carcino-
+genics (benzene equivalents); non-carcinogenics (toluene equiva-
+lents); and ecotoxicity (2.4-D equivalents). Respiratory effects were
+quantiﬁed relative to the emissions of particulate matter that was
+greater than or equal to 2.5 microns in size (PM 2.5). Eutrophica-
+tion, the only impact category reported that was speciﬁc to emis-
+sions to water, measures the impact of nitrogen emissions on water
+quality and is reported in nitrogen equivalents (N-eq). The TRACI
+method does not account for carbon dioxide emissions from
+burning biomass consistent with existing EPA regulations. How-
+ever, it does track other emissions associated with burning biomass,
+such as those from methane.
+Fig. 2. Redwood forest operations. This ﬁgure shows the redwood forest operations producing sawlogs and biomass using different silvicultural methods and harvesting systems.
+H.-S. Han et al. / Journal of Cleaner Production 99 (2015) 217e229
+220
+
+2.3. Carbon accounting
+Biomass in general and forests in particular have a large capacity
+to remove CO2 from the atmosphere and store it in wood as a stable
+form of carbon while releasing oxygen back into the atmosphere.
+This process is referred to as carbon sequestration and because of
+the perceived beneﬁt of forests as carbon sinks, great interest has
+been shown regarding the forest carbon uptake and CO2 releases
+related to various forest management and harvest practices. Carbon
+uptake can be derived from the mass balance of wood and its
+constituent components and is based on a simple formula that
+includes speciﬁc gravity, the carbon content of wood, and the ratio
+of carbon in a CO2 molecule. The carbon uptake factor calculated as
+part of this study was derived from the following equation:
+Carbon uptake factor for round wood ðkg CO2eÞ
+¼ vol$sg$1000$CO2$C
+Where,
+ vol ¼ volume of wood harvested (m3)
+ sg ¼ speciﬁc gravity of wood ¼ 0.36 for green redwood logs
+when harvested
+ 1000 ¼ converting from speciﬁc gravity to a unit of kg/
+m3CO2 ¼ CO2 uptake factor ¼ the ratio of the atomic mass of a
+carbon dioxide molecule to the atomic mass of a carbon atom
+(44:12; EPA, 2005)
+ C ¼ carbon content of wood ¼ 0.53 as the mass of C per oven dry
+unit of redwood (Jones and O'Hara, 2012)
+The carbon uptake factor reﬂects how much carbon dioxide
+equivalent (CO2e) is stored in the ﬁnal wood product which can
+then be compared to the amount of CO2e emitted during the pro-
+duction process. The amount of carbon uptake stored in the
+growing trees was not included in calculating GWP in the present
+(cradle-to-gate) study. Using the carbon uptake equation, the CO2
+sequestered in the log plus bark was calculated for each silvicultural
+system and a weighted average was generated for all logs delivered
+to the sawmill. Bergman et al. (2013) estimated bark at 9.9% of the
+wood volume with about 40% of the bark lost during log handling.
+This lost bark was included in the carbon uptake calculation. For
+one m3 of harvested redwood logs delivered to the mill gate, the
+amount of carbon stored (including the bark) was equivalent to
+1400 kg CO2 (Bergman et al., 2013).
+2.4. Limitations of study
+Since today's redwood harvest takes place predominantly in
+second growth forests, we assumed that forest roads were already
+in place. Forest roads also serve as infrastructure to support various
+forest management activities that produce an array of wood
+products. For these reasons the environmental effects of building
+and maintaining forest roads were not included in the analysis.
+Manufacturing and installing capital equipment and buildings have
+generally a minor effect on the environment relative to the
+throughput of products over the useful lives of the machines and
+buildings (Mahalle and O'Connor, 2009), and therefore were also
+excluded from the life-cycle analysis.
+3. Results
+Survey data were used to calculate weighted average values for
+the forest management scenarios outlined in Tables 1e3. Infor-
+mation collected included data on nursery operations (Table 1),
+seedling planting activities (Table 2), and intermediate treatment
+activities (fertilization and pre-commercial thinning), silvicultural
+systems used, rotation ages, and volume removed at each entry
+(Table 3). These data were collected on a per seedling and per ha
+basis and then allocated to a per m3 functional unit basis based on
+the amount of log volume recovered for each silvicultural and
+harvesting system reported in the survey.
+3.1. Timber harvest and biomass recovery operations
+The redwood forest resource LCI provides weighted average
+values for all inputs and outputs based on the percent allocation
+between the silvicultural and harvesting systems that were used to
+harvest redwood logs in northern California. The weighted average
+values shown in Fig. 2 were determined from the data reported in
+the 2010 surveys.
+Silvicultural systems were classiﬁed into two general categories:
+even-aged and uneven-aged. Within these categories there were
+several variations that were driven by the inherent characteristics
+of the trees that were being managed and the environmental
+conditions that the trees encountered. In northern California, both
+even-aged and uneven-aged systems were used in redwood forests.
+The even-aged systems used clear-cutting at the ﬁnal harvest to
+remove logs and open the area for regeneration. For even-aged
+systems, the ﬁnal harvest generally occurred at age 50 using the
+clear-cut method. The uneven-aged systems employed various
+levels of thinning to harvest fewer trees at shorter intervals to
+promote regeneration under the canopy of the existing forest. For
+uneven-aged systems, harvesting generally occurred at 20 year
+intervals for trees that are 60 years old. In 2010, a total of
+814,492 m3 of redwood sawlogs were harvested by survey re-
+spondents using both the uneven-aged (45%) and even-aged (55%)
+silvicultural systems (Fig. 2).
+There were four harvesting systems that were commonly used to
+harvest redwood logs in northern California: manual ground-based,
+mechanized ground-based (shovel yarding), skyline and helicopter
+systems. Both manual and mechanical ground-based systems were
+used to harvest trees on gentle slopes (<40% slope) while steep
+slopes (>40% slope) usually required the use of a skyline yarding
+system. Helicopter harvesting was occasionally used for environ-
+mentally sensitive areas or for long yarding distances (>1000 m)
+due to the lack of forest roads. The skyline yarding system was used
+more often (44% e even and uneven-aged combined) than any
+other harvest systems in 2010, followed by mechanized ground-
+based (31%), and manual ground-based (23%). The helicopter sys-
+tem was used to harvest only 2% of the total harvest in 2010.
+Based on our survey, a total of 28,610 bone dry metric tons
+(BDmT) of logging slash was collected and delivered to local energy
+Table 1
+Fertilization rates to grow coast redwood 2-year old seedlings in a tree nursery. The
+values of grams/ha are based on the planting rate of 339 seedlings per ha of even-
+aged forestland.
+Nitrogen (N)
+Phosphate (P)
+Potassium (K)
+Fertilization (grams/ha)
+(grams/seedling)
+137.19
+0.4040
+124.96
+0.3680
+208.50
+1.6140
+Table 2
+Fuel and lubricant consumption rate for tree planting and pre-commercial thinning.
+Gasoline (liters/ha-km)
+Lubricant (liters/ha-km)
+Tree plantinga
+0.05535
+0.00100
+Pre-commercial thinning
+0.09300
+0.00167
+a Based on average distance from a seedling storage place to planting sites.
+H.-S. Han et al. / Journal of Cleaner Production 99 (2015) 217e229
+221
+
+plants in 2010. Of that volume, 43% (or 12,302 BDmT) was redwood
+logging slash (Fig. 2). Relative to even-aged operations, thinning
+generated less logging slash making it more uneconomical and
+therefore it was less common for biomass collection to occur in
+forests that have been thinned. Even for even-aged units which
+generate a high volume (100e240 ton/ha) of logging slash, the
+economics of logging slash recovery operations and transportation
+were not favorable given the current market value of ground slash
+($45/BDmT) in the region. Despite the poor economic returns,
+logging slash recovery was sometimes used as a site preparation
+technique in place of burning the logging slash on site. Burning
+biomass from agricultural and forestry sources for electricity rep-
+resents 1.8% (2008 e-grid data) of the California grid (EPA, 2012)
+and therefore the gains from using this material for generating
+electricity are already represented in the e-grid data used in the
+LCA analysis. For that reason, the electricity produced from burning
+redwood forest residues was not included in the LCIA.
+3.2. Fuel and lubricant consumption during harvesting activities
+Surveys indicated that uneven-aged silvicultural systems that
+rely on thinning used less fuel and lubricant to perform harvest
+operations than did even-aged systems that rely on clear-cut
+methods, but hourly harvesting production rates (m3/h) for thin-
+ning operations were lower than for clear-cutting operations. These
+differences resulted in higher fuel and lubricant consumption per
+m3 of redwood sawlogs harvested for uneven-aged harvest systems
+compared to even-aged silvicultural systems (Table 4). For the
+skyline method, there was 20.19% more fuel used per m3 of logs
+harvested for the uneven-aged system compared to an even-aged
+system. Skyline harvesting system used the same or similar
+equipment for both uneven-aged and even-aged systems.
+There were also large differences in harvesting productivity and
+fuel consumption among the logging systems used to harvest
+redwood timber in northern California. The helicopter system
+consumed substantially more fuel and lubricant than any other
+system. Helicopter yarding alone consumed 624.59 L per hour.
+Helicopter yarding productivity was also the highest of all systems
+(37.93 m3/h in uneven-aged system), resulting in 16.46 L of fuel
+consumption per m3 of wood harvested, which was approximately
+six times the weighted average for all other yarding systems.
+However, the helicopter systems also operated over longer average
+yarding distances than the ground-based or skyline systems. The
+most efﬁcient harvest method in terms of fuel consumption/m3 of
+wood harvested was the manual ground-based system used in
+even-aged silvicultural operations, followed by skyline harvesting
+methods. The mechanized ground-based harvesting system used a
+high volume of fuel (130.97 L per hour) for stump-to-truck har-
+vesting (second highest after helicopter logging), with a corre-
+sponding high production volume. This system was therefore more
+efﬁcient on a liter/m3 basis than both the manual ground-based and
+skyline systems that were used for thinning in uneven-aged silvi-
+cultural operations (Table 4).
+On a per m3 basis, the primary transport activities (e.g., skidding
+and yarding) used the highest amounts (40e93%) of the total fuel
+consumed for the stump-to-truck harvest, followed by loading,
+felling and processing. Fuel and lubricant consumption for primary
+transport activities was highly dependent on the skidding or
+yarding distance which varied by terrain and therefore by the type
+of system used. The survey results indicated that the average
+yarding distances for each harvesting system were: ground-based
+(100e450
+m);
+skyline
+(230e450
+m);
+and
+helicopter
+(600e1500 m). Using the mid-point of these ranges, fuel con-
+sumption rates for primary transport in uneven-aged silvicultural
+operations were 0.0118, 0.0088, and 0.0157 L/m3 per m of one way
+yarding distance for the ground-based, skyline and helicopter
+systems,
+respectively.
+The
+overall
+average
+yarding
+distance,
+weighted based on the harvest volume using each harvesting sys-
+tem, was 202 m. Gasoline powered chainsaws were the most
+common tool for felling and processing redwood logs: 77% of the
+felling and processing tasks were performed using a chainsaw.
+Helicopters used jet fuel while all other harvesting equipment and
+log truck used diesel fuel.
+The most common method used for logging slash recovery op-
+erations in northern California consisted of a loader placing slash
+into modiﬁed dump trucks that hauled the slash to a centralized
+grinding location. The slash was then ground using a grinder and
+loaded onto large vans for transport to an energy plant. The 1050-
+horse power grinder burned 3.68 L of fuel per 27.21 BDmT of slash
+processed, which represented 60.8% of the total fuel consumed
+during
+the
+stump-to-truck
+biomass
+recovery
+operation.
+The
+average haul distance for the modiﬁed dump trucks was 1.28 km
+with a fuel consumption rate of 0.93 L/BDmT.
+3.3. Transportation of sawlogs and biomass
+Hauling sawlogs and biomass used different transportation
+methods. A 475-horse power, stinger-steered logging truck was
+commonly used to haul sawlogs from the forest landing to the
+sawmill. A 92-m3 capacity highway-chip van was used for hauling
+biomass from a grinding location to an energy plant. Hauling routes
+were classiﬁed into ﬁve road categories to account for the variation
+in average traveling speed by road category. The distance traveled
+on each road class and average traveling speed was used to calculate
+a total round trip time which determined the amount of fuel and oil
+consumed. The ﬁve road categories for hauling sawlogs were: spur
+roads (0.8 km at 17.54 km/h), dirt roads (3.22 km at 20.92 km/h),
+gravel roads (11.43 km at 32.19 km/h), 2-lane highway (14.65 km at
+55.84 km/h), and interstate freeway (22.53 km at 81.27 km/h). Chip
+vans traveled on only three different road categories: gravel roads
+(16.09 km at 32.19 km/h), 2-lane highway (3.22 km at 55.84 km/h),
+and interstate freeway (56.33 km at 81.27 km/h). The fuel and
+lubricant consumption rates in Table 5 are average values for log
+transportation including loading and unloading times.
+3.4. Carbon uptake
+The average volume of material harvested was calculated as part
+of the evaluation and the volume varied considerably depending on
+the silvicultural system used. Redwood log yielded averaged
+Table 3
+Assumptions and input values used for the environmental impact analysis of red-
+wood forest resources management. Input values were compiled from responses on
+survey forms.
+Uneven-aged
+Even-aged
+Age of trees (years)
+40e100þ
+50
+Fertilization of trees
+None
+None
+Harvest volume (% total)
+47
+53
+Harvest volume (m3/ha) per entry
+100.13
+290.17
+Harvest unit size (ha)
+14
+10
+Seedling planting density (trees per ha)
+339
+Estimate of bark as percent of solid wood: 9.9% after accounting
+for handling lossesa
+Average skidding/yarding distance: 202 m for all harvesting systems used
+One-way sawlog hauling distance: 52 km on average
+Speciﬁc gravity (green): 0.36b
+Carbon fraction (mass of carbon per unit mass of dry wood): 0.53c
+a Bergman et al. (2013).
+b Miles and Smith (2009).
+c Jones and O'Hara (2012).
+H.-S. Han et al. / Journal of Cleaner Production 99 (2015) 217e229
+222
+
+100.13 m3/ha on a 20-year interval as part of an uneven-aged
+silvicultural
+system
+while
+even-aged
+silvicultural
+systems
+removed 290.17 m3/ha of redwood sawlogs at each 50-year inter-
+val. In mixed conifer stands, additional volumes of other timber
+species were removed during harvest, but this timber volume was
+not included in this analysis which was focused solely on redwood
+as an input into redwood decking production (Bergman et al.,
+2014).
+The total carbon uptake in the redwood forests that were
+managed using an uneven-aged silvicultural system was 77,894 kg/
+ha over 20 years or 3895 kg/ha-yr while it was 225,740 kg/ha over
+50 years or 4515 kg/ha-yr in the redwood forests that were
+managed using an even-aged silvicultural system. The differences
+in carbon uptake between the two systems reﬂected the difference
+in the log volume removed on a per hectare basis since uneven-
+aged systems removed about one-third of the total standing trees
+Table 5
+Hourly productivity and fuel and lubricant consumption rates for hauling redwood sawlogs and biomass in 2010.
+Product type
+Hauling truck and one-way distance
+Production rate
+Fuel usea
+Lubricant usea
+Sawlogs
+Landing to sawmills
+(m3/h)
+(liter/h)
+(liter/m3)
+(liter/m3)
+Hauling at 52 km
+Stinger-steered truck
+8.49
+20.41
+2.4040
+0.0433
+Biomass
+Transportation from central grinding site to energy plant
+(BDmTb/h)
+(liter/h)
+(liter/BDmTb)
+(liter/BDmTb)
+Hauling at 76 km
+Chip van e 92 m3/trip
+4.44
+33.04
+7.4429
+0.1340
+a Including machine idling time (i.e. scheduled machine hour e SMH).
+b Bone dry metric ton.
+Table 4
+Hourly productivity and fuel and lubricant consumption rates for redwood harvesting systems. The values presented in this table were based on each entry into the redwood
+stand to harvest redwood sawlogs and collect logging slash in 2010.
+Machine type
+Production rate
+Fuel usea
+Lubricant usea
+(m3/h)
+(Liter/h)
+(Liter/m3)
+(Liter/m3)
+Uneven-aged (entering every 20-year)
+Manual ground-based system
+Felling
+Chainsaw
+5.30
+1.25
+0.2384
+0.0043
+Skidding
+Tracked crawler
+7.14
+26.50
+3.2537
+0.0586
+Processing
+Chainsaw
+13.60
+2.54
+0.0482
+0.0009
+Loading
+Log loader
+22.87
+21.20
+0.9270
+0.0167
+System total (stump-to-truck)
+51.48
+4.4673
+0.0804
+Skyline system
+Felling
+Chainsaw
+5.30
+1.25
+0.2384
+0.0043
+Yarding
+Skyline yarder
+9.93
+23.09
+3.0034
+0.0541
+Processing
+Chainsaw
+13.60
+2.54
+0.0482
+0.0009
+Loading
+Log loader
+22.87
+21.20
+0.9270
+0.0167
+System total (stump-to-truck)
+48.07
+4.2170
+0.0759
+Helicopter system
+Felling
+Chainsaw
+5.30
+1.25
+0.2384
+0.0043
+Yarding
+Helicopter
+37.93
+624.59
+16.4649
+0.2964
+Processing
+Chainsaw
+13.60
+2.54
+0.0482
+0.0009
+Loading
+Log loader
+22.87
+21.20
+0.9270
+0.0167
+System total (stump-to-truck)
+649.57
+17.6785
+0.3182
+Even-aged (entering every 50-year)
+Manual ground-based system
+Felling
+Chainsaw
+6.03
+1.89
+0.3141
+0.0057
+Skidding
+Tracked crawler
+12.11
+22.33
+2.0824
+0.0375
+Processing
+Chainsaw
+18.93
+1.85
+0.0364
+0.0007
+Loading
+Log loader
+22.87
+21.20
+0.9270
+0.0167
+System total (stump-to-truck)
+47.28
+3.3598
+0.0605
+Mechanized ground-based system
+Felling
+Feller-buncher
+38.85
+37.85
+0.8185
+0.0147
+Yarding
+Shovel
+19.37
+37.85
+1.6008
+0.0288
+Processing
+Delimber
+38.74
+34.07
+0.7321
+0.0132
+Loading
+Log loader
+22.87
+21.20
+0.9270
+0.0167
+System total (stump-to-truck)
+130.97
+4.0783
+0.0734
+Skyline system
+Felling
+Chainsaw
+6.03
+1.89
+0.3141
+0.0057
+Yarding
+Skyline yarder
+12.80
+31.04
+2.2311
+0.0402
+Processing
+Chainsaw
+18.93
+1.85
+0.0364
+0.0007
+Loading
+Log loader
+22.87
+21.20
+0.9270
+0.0167
+System total (stump-to-truck)
+55.99
+3.5085
+0.0632
+Biomass recovery operation
+(BDmTb/h)
+(liter/h)
+(liter/BDmTb)
+(liter/BDmTb)
+Landing to intermediate load site
+Loading:
+Loader
+30.41
+21.84
+0.7177
+0.0129
+Pre-hauling
+Dump truck
+13.82
+34.83
+0.9364
+0.0169
+Centralized grinding
+Feeding:
+Loader
+30.41
+21.84
+0.7177
+0.0129
+Processing:
+Horizontal grinder
+27.21
+100.28
+3.6849
+0.0663
+System total (stump-to-truck)
+178.78
+6.0567
+0.1090
+a Including machine idling time (i.e. scheduled machine hour e SMH).
+b Bone dry metric ton.
+H.-S. Han et al. / Journal of Cleaner Production 99 (2015) 217e229
+223
+
+at each entry whereas even-aged systems removed all trees in areas
+designated for harvest during each entry. For even-aged systems,
+some trees were retained for water quality protection and to pro-
+vide habitat functionality along designated riparian zones and
+wildlife areas adjacent to harvest areas.
+3.5. Life cycle inventory and life cycle impact assessments from
+redwood forest management activities
+The emissions to air values reported in the LCI for the six
+different harvesting operations and the log hauling operational
+stage are summarized in Table 6. The environmental impact results
+for GWP, acidiﬁcation, carcinogenics, non-carcinogenics, respira-
+tory effects, eutrophication, ozone depletion, ecotoxicity and smog
+are shown in Table 7, for each silvicultural system, harvesting
+method, and operations phase with a total weighted average and
+percent allocation by the sawlog volume harvested in 2010. While
+there were slight variations in the individual impact indicator
+rankings between the silvicultural systems, harvest methods, and
+operations, all followed a pattern similar to that shown for GWP in
+Fig. 3 and therefore we used GWP as an example to explain the
+environmental impact differences between harvest systems and
+methods. Fig. 3 shows that uneven-aged silvicultural systems had
+slightly higher greenhouse gas emissions (GHGs) measured in kg of
+CO2e as compared to the even-aged silvicultural systems. This was
+most noticeable with the helicopter harvesting operations. The
+GHG emissions from the other harvesting systems were similar,
+ranging from 14.21 kg CO2e (manual ground-based, even-aged) to
+17.76 (manual ground-based, uneven-aged) kg CO2e. These varia-
+tions were directly correlated to the number of entry for timber
+harvesting and the amount of fuel and lubricant consumed per m3
+of logs during harvesting operations.
+Transporting the log or tree from stump to a landing (i.e. skid-
+ding and yarding), referred as to primary in-woods transport,
+generated the highest level of environmental impacts, almost 50%
+of the GWP (Fig. 4). The second highest level (about 20%) of emis-
+sions was generated from hauling logs from the landing area to the
+sawmill, based on an average 52-km one way hauling distance. The
+environmental impacts generated from stand establishment ac-
+tivities were minimal at less than 2% of the total impacts. The
+weighted average GHG emissions emitted from stand establish-
+ment, harvesting, and hauling activities to supply redwood sawlogs
+to sawmills was 17.13 kg CO2e/m3 which is consistent with
+roundwood supply chain results reported by Handler et al. (2014)
+and Timmermann and Dibdiakova (2014). Since that same m3 of
+redwood logs contains 1400 kg CO2e, the net balance of the system
+was a 1382.7 kg CO2e and the carbon stored in the logs was 81.7
+times (¼1400/17.13 kg CO2e/m3) the GHG released during these
+operations. In other words, the amount of carbon stored (seques-
+tered) in the ﬁnal wood product far exceeded the amount of carbon
+released into the atmosphere during the planting, thinning, har-
+vesting and hauling of the logs to the sawmill.
+3.6. Environmental impacts from logging slash recovery and
+hauling operations
+The LCI calculated emissions to air, water or land from logging
+slash recovery and hauling operations (Table 8). The LCIA results for
+the same operations are given in Table 9. Hauling biomass to an
+energy plant over a 76 km one-way hauling distance resulted in
+higher impacts for all nine impact categories (55.1% of the total) on
+the environment than did all the other logging slash recovery
+operation activities combined. These results were largely due to the
+amount of fuel consumed during the transport phases associated
+with the slash recovery operation (0.109 L/BDmT) in the forest and
+transporting the ground biomass to the power generation facility
+(0.134 L/BDmT). In addition, the grinding process represented the
+second largest contribution to the impact categories, accounting for
+27.3% of the total environmental impact.
+4. Discussion
+On a per m3 basis, primary in-woods transport activities such as
+skidding and yarding represented the largest fuel consuming ac-
+tivities in stump-to-truck timber harvesting operations, ranging
+from 39% (mechanized ground-based system for even-aged) to 93%
+(helicopter system for uneven-aged) of the total fuel consumption
+(Table 4). Skyline yarding activities for even-aged and uneven-aged
+used approximately 64% and 71%, respectively, of the total fuel
+consumption for each m3 of redwood sawlogs harvested. It should
+be noted that the helicopter yarding distances (600e1500 m) were
+much longer than the distance used for the ground-based
+(100e450 m) and skyline systems (230e450 m), which explains
+in part the increase in fuel consumption for helicopter yarding
+relative to ground-based and skyline harvesting systems. Helicop-
+ter harvesting is often used in environmentally sensitive areas such
+as riparian zones and roadless areas because it causes little soil
+disturbance as the logs are lifted into the air and there is no log
+Table 6
+Emissions (kg) to air per m3 of redwood logs from six different harvesting systems used in uneven-aged and even-aged silvicultural systems and hauled 52 km to a sawmill.
+Emissions to air
+Uneven-aged
+Even-aged
+Log hauling
+Manual ground-based
+Skyline
+Helicopter
+Manual ground-based
+Mechanical ground-based
+Skyline
+Aldehydes, unspeciﬁed
+1.73E-04
+1.63E-04
+5.63E-04
+1.30E-04
+1.59E-04
+1.36E-04
+4.09E-05
+Ammonia
+8.71E-05
+8.22E-05
+2.83E-04
+6.57E-05
+8.02E-05
+6.85E-05
+2.06E-05
+Carbon dioxide, biogenic
+1.01E-02
+9.51E-03
+3.28E-02
+7.59E-03
+9.27E-03
+7.92E-03
+2.38E-03
+Carbon dioxide, fossil
+1.36Eþ01
+1.29Eþ01
+4.45Eþ01
+1.02Eþ01
+1.26Eþ01
+1.07Eþ01
+3.26Eþ00
+Carbon monoxide, fossil
+1.65E-01
+1.59E-01
+3.98E-01
+1.44E-01
+1.21E-01
+1.48E-01
+2.83E-02
+Formaldehyde
+8.93E-05
+8.44E-05
+2.72E-05
+6.74E-05
+8.23E-05
+7.03E-05
+2.11E-05
+Hydrogen chloride
+1.28E-04
+1.21E-04
+4.18E-04
+9.68E-05
+1.18E-04
+1.01E-04
+3.04E-05
+Isoprene
+2.53E-04
+2.39E-04
+8.23E-04
+1.91E-04
+2.33E-04
+1.99E-04
+5.98E-05
+Methane, fossil
+1.57E-03
+1.50E-03
+2.65E-03
+1.31E-03
+1.25E-03
+1.35E-03
+3.01E-04
+Nitrogen oxides
+2.46E-01
+2.32E-01
+2.86E-01
+1.83E-01
+2.30E-01
+1.91E-01
+5.94E-02
+Particulates, >2.5 um, and <10um
+7.28E-03
+6.85E-03
+2.55E-03
+5.30E-03
+7.02E-03
+5.55E-03
+1.83E-03
+Particulates, unspeciﬁed
+1.32E-03
+1.24E-03
+4.29E-03
+9.93E-04
+1.21E-03
+1.04E-03
+3.12E-04
+Propene
+1.94E-04
+1.83E-04
+5.45E-05
+1.46E-04
+1.78E-04
+1.52E-04
+4.58E-05
+Sulfur dioxide
+7.03E-03
+6.64E-03
+2.28E-02
+5.31E-03
+6.48E-03
+5.54E-03
+1.66E-03
+Sulfur oxides
+1.39E-02
+1.31E-02
+3.72E-02
+1.05E-02
+1.28E-02
+1.09E-02
+3.29E-03
+VOC, volatile organic compounds
+7.19E-03
+6.83E-03
+3.88E-03
+5.68E-03
+6.21E-03
+5.89E-03
+1.56E-03
+Total
+14.10
+13.31
+45.29
+10.59
+13.04
+11.06
+3.35
+H.-S. Han et al. / Journal of Cleaner Production 99 (2015) 217e229
+224
+
+Table 7
+Impact assessment associated with stand establishment, harvesting, and transportation to supply 1-m3 of redwood sawlogs to sawmills.
+Operations
+phase
+Impact categorya
+Uneven-aged
+Even-aged
+Total
+Manual
+ground-based
+system
+Skyline
+system
+Helicopter
+system
+Manual
+ground-based
+system
+Mechanical
+ground-based
+system
+Skyline
+system
+Weightedb
+(%)c
+Stand
+Global warming
+0.2391
+0.2391
+0.2391
+0.2475
+0.2475
+0.2475
+0.2437
+1.42
+Acidiﬁcation
+0.1429
+0.1429
+0.1429
+0.1479
+0.1479
+0.1479
+0.1457
+1.15
+Carcinogenics
+0.0001
+0.0001
+0.0001
+0.0001
+0.0001
+0.0001
+0.0001
+1.47
+Non carcinogenics
+1.8255
+1.8255
+1.8255
+1.8898
+1.8898
+1.8898
+1.8609
+1.47
+Respiratory effects
+0.0002
+0.0002
+0.0002
+0.0002
+0.0002
+0.0002
+0.0002
+1.20
+Eutrophication
+0.0002
+0.0002
+0.0002
+0.0002
+0.0002
+0.0002
+0.0002
+1.62
+Ozone depletion
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+1.45
+Ecotoxicity
+0.0504
+0.0504
+0.0504
+0.0522
+0.0522
+0.0522
+0.0514
+1.46
+Smog
+0.0035
+0.0035
+0.0035
+0.0036
+0.0036
+0.0036
+0.0035
+1.20
+Felling
+Global warming
+0.6555
+0.6555
+0.6555
+0.8637
+2.6092
+0.8637
+1.3111
+7.65
+Acidiﬁcation
+0.3933
+0.3933
+0.3933
+0.5182
+2.0182
+0.5182
+0.9270
+7.31
+Carcinogenics
+0.0002
+0.0002
+0.0002
+0.0003
+0.0009
+0.0003
+0.0005
+7.75
+Non carcinogenics
+5.0145
+5.0145
+5.0145
+6.6068
+19.2641
+6.6068
+9.8140
+7.74
+Respiratory effects
+0.0004
+0.0004
+0.0004
+0.0006
+0.0022
+0.0006
+0.0010
+7.32
+Eutrophication
+0.0004
+0.0004
+0.0004
+0.0005
+0.0021
+0.0005
+0.0010
+7.24
+Ozone depletion
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+7.74
+Ecotoxicity
+0.1392
+0.1392
+0.1392
+0.1834
+0.5349
+0.1834
+0.2725
+7.74
+Smog
+0.0096
+0.0096
+0.0096
+0.0127
+0.0470
+0.0127
+0.0220
+7.44
+Primary
+Global warming
+10.3723
+9.5743
+42.5113
+6.6383
+5.1031
+7.1124
+8.4142
+49.10
+Acidiﬁcation
+8.0228
+7.4056
+11.6267
+5.1347
+3.9472
+5.5013
+6.0832
+47.96
+Carcinogenics
+0.0037
+0.0034
+0.0150
+0.0024
+0.0018
+0.0025
+0.0030
+49.00
+Non carcinogenics
+76.5786
+70.6876
+315.9924
+49.0111
+37.6762
+52.5109
+62.1649
+49.04
+Respiratory effects
+0.0087
+0.0081
+0.0142
+0.0056
+0.0043
+0.0060
+0.0066
+48.02
+Eutrophication
+0.0083
+0.0077
+0.0111
+0.0053
+0.0041
+0.0057
+0.0063
+47.67
+Ozone depletion
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+49.04
+Ecotoxicity
+2.1263
+1.9627
+8.7752
+1.3608
+1.0461
+1.4580
+1.7261
+49.04
+Smog
+0.1869
+0.1725
+0.2279
+0.1196
+0.0919
+0.1281
+0.1408
+47.71
+Processing
+Global warming
+0.1325
+0.1325
+0.1325
+0.1001
+2.3338
+0.1001
+0.8071
+4.71
+Acidiﬁcation
+0.0795
+0.0795
+0.0795
+0.0601
+1.8052
+0.0601
+0.6098
+4.81
+Carcinogenics
+0.0000
+0.0000
+0.0000
+0.0000
+0.0008
+0.0000
+0.0003
+4.72
+Non carcinogenics
+1.0138
+1.0138
+1.0138
+0.7656
+17.2306
+0.7656
+5.9815
+4.72
+Respiratory effects
+0.0001
+0.0001
+0.0001
+0.0001
+0.0020
+0.0001
+0.0007
+4.80
+Eutrophication
+0.0001
+0.0001
+0.0001
+0.0001
+0.0019
+0.0001
+0.0006
+4.79
+Ozone depletion
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+4.72
+Ecotoxicity
+0.0282
+0.0282
+0.0282
+0.0213
+0.4784
+0.0213
+0.1661
+4.72
+Smog
+0.0020
+0.0020
+0.0020
+0.0015
+0.0420
+0.0015
+0.0143
+4.83
+Loading
+Global warming
+2.9551
+2.9551
+2.9551
+2.9551
+2.9551
+2.9551
+2.9551
+17.25
+Acidiﬁcation
+2.2858
+2.2858
+2.2858
+2.2858
+2.2858
+2.2858
+2.2858
+18.02
+Carcinogenics
+0.0010
+0.0010
+0.0010
+0.0010
+0.0010
+0.0010
+0.0010
+17.22
+Non carcinogenics
+21.8177
+21.8177
+21.8177
+21.8177
+21.8177
+21.8177
+21.8177
+17.21
+Respiratory effects
+0.0025
+0.0025
+0.0025
+0.0025
+0.0025
+0.0025
+0.0025
+17.96
+Eutrophication
+0.0024
+0.0024
+0.0024
+0.0024
+0.0024
+0.0024
+0.0024
+17.97
+Ozone depletion
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+17.21
+Ecotoxicity
+0.6058
+0.6058
+0.6058
+0.6058
+0.6058
+0.6058
+0.6058
+17.21
+Smog
+0.0532
+0.0532
+0.0532
+0.0532
+0.0532
+0.0532
+0.0532
+18.04
+Hauling
+Global warming
+3.4046
+3.4046
+3.4046
+3.4046
+3.4046
+3.4046
+3.4046
+19.87
+Acidiﬁcation
+2.6334
+2.6334
+2.6334
+2.6334
+2.6334
+2.6334
+2.6334
+20.76
+Carcinogenics
+0.0012
+0.0012
+0.0012
+0.0012
+0.0012
+0.0012
+0.0012
+19.84
+Non carcinogenics
+25.1363
+25.1363
+25.1363
+25.1363
+25.1363
+25.1363
+25.1363
+19.83
+Respiratory effects
+0.0029
+0.0029
+0.0029
+0.0029
+0.0029
+0.0029
+0.0029
+20.69
+Eutrophication
+0.0027
+0.0027
+0.0027
+0.0027
+0.0027
+0.0027
+0.0027
+20.70
+Ozone depletion
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+19.83
+Ecotoxicity
+0.6979
+0.6979
+0.6979
+0.6979
+0.6979
+0.6979
+0.6979
+19.83
+Smog
+0.0613
+0.0613
+0.0613
+0.0613
+0.0613
+0.0613
+0.0613
+20.78
+Total
+Global warming
+17.7592
+16.9613
+49.8982
+14.2094
+16.6534
+14.6834
+17.1360
+100.00
+Acidiﬁcation
+13.5578
+12.9406
+17.1617
+10.7801
+12.8377
+11.1467
+12.6849
+Carcinogenics
+0.0063
+0.0060
+0.0176
+0.0051
+0.0059
+0.0052
+0.0061
+Non carcinogenics
+131.3866
+125.4955
+370.8003
+105.2273
+123.0147
+108.7271
+126.7753
+Respiratory effects
+0.0148
+0.0141
+0.0202
+0.0117
+0.0140
+0.0121
+0.0138
+Eutrophication
+0.0141
+0.0135
+0.0168
+0.0112
+0.0134
+0.0116
+0.0132
+Ozone depletion
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+Ecotoxicity
+3.6478
+3.4842
+10.2967
+2.9214
+3.4153
+3.0186
+3.5198
+Smog
+0.3165
+0.3021
+0.3575
+0.2519
+0.2992
+0.2605
+0.2952
+a Units for impact categories are as follows: Global warming, kg CO2; Acidiﬁcation, Hþ moles; Carcinogenics, kg benzene; Non-carcinogenics, kg toluene; Respiratory effects,
+kg PM2.5; Eutrophication, kg N; Ozone depletion, kg CFC-11; Ecotoxicity, kg 2.4-D; Smog, g NOx. All units are equivalent to the unit that is stated for each category.
+b The weighted total was calculated based on % volume harvested using each harvesting system.
+c Percentages were calculated for each impact category.
+H.-S. Han et al. / Journal of Cleaner Production 99 (2015) 217e229
+225
+
+dragging or machine travel in the woods. The trade-off in using this
+kind of harvest system to reduce soil disturbance and maintain
+visual aesthetics is that it generates LCI impacts that are much
+higher than any other harvesting system per m3 of wood harvested.
+The impact from helicopter yarding was higher than other primary
+transport systems evaluated across all the LCI categories we eval-
+uated (Table 7).
+It was expected that primary transport activity would use the
+most fuel of all timber harvesting activities because of the heavy-
+duty machines utilized in these operations and because this ac-
+tivity was the most time-consuming of all of the timber harvesting
+activities. However, the percentage was highly variable, reﬂecting
+differences in machine types and silvicultural methods used as well
+as skidding or yarding distances. Johnson et al. (2005) presented
+similar outcomes to these ﬁndings, but the percentages for those
+were not reported.
+Silvicultural systems used also directly affected fuel consump-
+tion during timber harvesting activities. Uneven-aged systems
+required more frequent entries to the forest stand over the life of
+the stand while harvesting less volume per entry, as compared to
+even-aged. Uneven-aged system using skyline thinning operations
+removed less volume and used about the same amount of fuel per
+hour, which resulted in 4.2 L/m3 of fuel being consumed whereas
+the same method used during the ﬁnal harvest in an even-aged
+system used 3.5 L of fuel per m3 of logs harvested. This repre-
+sented a 20% increase in fuel consumption for sawlog harvesting in
+uneven-aged over even-aged systems. Although an uneven-aged
+system is often prescribed to meet environmental goals such as
+maintaining biodiversity and protecting wildlife habits, it resulted
+in higher air quality impacts compared to even-aged silvicultural
+systems (Table 7 and Fig. 3). This increase was largely driven by
+increased fuel usage due to the increased number of entries into the
+stand, efﬁciency losses caused by having to work around residual
+trees, and removal of less volume per unit area compared to an
+uneven-aged system.
+Excluding hauling, the weighted average GWP for redwood
+harvesting (13.73 kg CO2e) (Table 7) was higher than the compa-
+rable values for the Paciﬁc Northwest (9.41), Southeast (11.32), and
+Inland Northwest (10.14) regions, but lower than the Northeast
+(14.52) region of the US (Puettmann et al., 2013a,b,c; Puettmann
+and Oneil, 2013) when taking into account the same boundary
+condition (i.e. excluding hauling logs to the sawmill as was done in
+the other US regions.)
+Hauling sawlogs and biomass to a market was a major
+contributor to the emission impacts associated with forest man-
+agement activities. Of the total environmental impacts associated
+with
+harvesting
+and
+transportation
+activities,
+sawlog
+trans-
+portation to the sawmill and biomass transportation to the power
+generation facility represented 20% and 55% of the total, respec-
+tively (Tables 7 and 9). Biomass transportation showed a higher
+percentage than sawlog transportation because the hauling dis-
+tance for biomass was longer (76 km vs. 52 km) and the hourly fuel
+consumption for a truck with chip van was higher (33.04 L vs.
+20.41 L) than for a log truck. The one-way forest road distances for
+hauling sawlogs and biomass reported for this study were 15.4 and
+19.2 km, respectively. This distinction was important because
+hauling speeds were slow (16e40 km/h) on forest roads. These
+included spur, single-lane and double-lane dirt and gravel roads
+and the resulting fuel consumption per hour was higher than for
+paved highway roads. Fuel consumption for hauling sawlog and
+biomass increases with hauling distance, but the relationship was
+generally non-linear because consumption was determined not
+only by hauling distance but also by road conditions and road type
+(e.g., dirt forest road vs. paved highway). For example, Johnson et al.
+(2012) noted that the overall whole tree chipping fuel consumption
+increased to 16.23 L/BDmT over a distance of 145 km compared to
+8.52 L/BDmT for a distance of 48 km. For this reason an analysis
+based on time traveled on each road type combined with total
+distance was used to accurately assess the relative impacts asso-
+ciated with transportation.
+Biogenic carbon is part of the natural carbon cycle. Living trees
+uptake carbon dioxide from the atmosphere and sequester carbon
+in the cellular structure of the wood while emitting the resultant
+oxygen back into the atmosphere. When trees die, they release
+biogenic carbon, either rapidly during ﬁre events or more slowly
+during decay. Within this cycle, carbon is sequestered in the forest
+as living trees, but it can also be exported and sequestered in solid
+wood products. Our carbon uptake calculations showed that more
+carbon was exported from the forest per year in even-aged forest
+management systems (4515 kg/ha-yr) than in uneven-aged sys-
+tems (3895 kg/ha-yr). The carbon that was exported was stored in
+long lived wood products as quantiﬁed in the ﬁndings of Bergman
+et al. (2013).
+The higher yield of wood volume per ha in even-aged systems
+might reﬂect greater removal rates than for uneven-aged systems
+Fig. 3. Greenhouse gas emissions from uneven-aged and even-aged harvest units. This
+ﬁgure shows greenhouse gas emissions from uneven-aged and even-aged harvest
+units to produce 1-m3 of redwood sawlogs using three different harvesting and
+transportation systems each.
+Fig. 4. Relative global warming impacts from each phase. This ﬁgure shows the rela-
+tive global warming impacts from each phase of redwood sawlog harvesting activities.
+H.-S. Han et al. / Journal of Cleaner Production 99 (2015) 217e229
+226
+
+during the period covered by this analysis. Over the long term, in
+forests that are continuously managed for wood production the
+volume removed per ha must be balanced by growth through
+sustainable forest management practices. If harvest during the
+period of study was in line with the growth increment, then the
+higher yield likely reﬂected inherent differences in site productivity
+across our study area and between areas managed using the two
+silvicultural systems in question. Higher quality sites would pro-
+duce more volume/ha per year, but site productivity data were not
+collected as part of this study. A third possibility was that histori-
+cally regeneration success and growth in the stands managed using
+an uneven-aged system was lower due to excessive shading (O'Hara
+and Berrill, 2010) and therefore the volume available for harvest
+was reduced.
+The total emissions related to the production of redwood
+decking (i.e. cradle-to-grave) including redwood forest manage-
+ment activities were calculated in a separate study (Bergman et al.,
+2013). Their paper suggested that the emissions from redwood
+forest management activities for GWP, ozone depletion, smog,
+acidiﬁcation, and eutrophication were 14%, 2%, 56%, 75%, and 48%,
+respectively, of the total cradle-to-grave analysis of redwood
+decking. It was noted that the environmental impact factors (e.g.,
+GWP and ozone depletion) from the redwood forest management
+activities were relatively high when compared to the full cradle-to-
+grave LCA values for other species producing sawlogs. The 14% of
+GWP impact for the redwood forest management activities
+component of the cradle-to-grave redwood LCA was higher than for
+the typical cradle-to-gate mill input values for most other wood
+product manufacturing LCAs. This was primarily because redwood
+decking used minimal kiln drying which substantially lowered the
+cumulative
+energy
+consumed
+during
+redwood
+decking
+manufacturing relative to many other wood products (Bergman
+et al., 2014). Typically, primary energy consumed in forest man-
+agement activities is less than 5% of the primary energy consumed
+during
+the
+cradle-to-gate
+wood
+product
+production process
+(Puettmann and Wilson, 2005; Puettmann et al., 2010) and primary
+energy use correlates well with the listed impact categories.
+5. Conclusions
+This was the ﬁrst study to use LCIA methods to quantify the
+environment impacts related to redwood forest management
+practices
+including
+stand
+establishment,
+intermediate
+forest
+treatment, harvesting system proﬁles, and hauling to supply red-
+wood sawlogs. Redwood is a unique species naturally growing
+along the coast of northern California. It is well known as a natu-
+rally durable material for producing wood decking products and
+other wood construction materials. Forest management practices
+to grow redwood trees are somewhat different than other North
+American conifers due to its unique ability to sprout from stumps,
+fast growth, and high yield per hectare. However, post regeneration
+practices found in redwood forests including silvicultural systems
+(even-aged and uneven-aged) and harvest systems (ground-based,
+skyline and helicopter) are in other US forests as well.
+Previous forest resource harvesting studies showed that timber
+harvesting
+activities
+represented
+high
+levels
+of
+emissions
+Table 8
+Emissions (kg) to air from logging slash recovery operations and a chip van hauling to an energy plant for a BDmT delivered.
+Emissions to air
+Total
+Feeding
+Grinding
+Pre-hauling
+Loading
+Hauling
+Aldehydes, unspeciﬁed
+5.17E-04
+2.75E-05
+1.41E-04
+3.59E-05
+2.75E-05
+2.85E-04
+Ammonia
+2.60E-04
+1.38E-05
+7.09E-05
+1.80E-05
+1.38E-05
+1.43E-04
+Carbon dioxide, biogenic
+3.01E-02
+1.60E-03
+8.21E-03
+2.09E-03
+1.60E-03
+1.66E-02
+Carbon dioxide, fossil
+4.12Eþ01
+2.19Eþ00
+1.12Eþ01
+2.85Eþ00
+2.19Eþ00
+2.27Eþ01
+Carbon monoxide, fossil
+3.58E-01
+1.90E-02
+9.78E-02
+2.48E-02
+1.90E-02
+1.97E-01
+Formaldehyde
+2.67E-04
+1.42E-05
+7.29E-05
+1.85E-05
+1.42E-05
+1.47E-04
+Hydrogen chloride
+3.84E-04
+2.04E-05
+1.05E-04
+2.66E-05
+2.04E-05
+2.12E-04
+Isoprene
+7.56E-04
+4.02E-05
+2.06E-04
+5.24E-05
+4.02E-05
+4.17E-04
+Methane, fossil
+3.81E-03
+2.02E-04
+1.04E-03
+2.64E-04
+2.02E-04
+2.10E-03
+Nitrogen oxides
+7.51E-01
+3.99E-02
+2.05E-01
+5.21E-02
+3.99E-02
+4.14E-01
+Non-methane VOC
+2.50E-02
+1.33E-03
+6.83E-03
+1.74E-03
+1.33E-03
+1.38E-02
+Particulates, > 2.5 mm, and <10 mm
+2.31E-02
+1.23E-03
+6.31E-03
+1.60E-03
+1.23E-03
+1.28E-02
+Particulates, unspeciﬁed
+3.94E-03
+2.09E-04
+1.08E-03
+2.73E-04
+2.09E-04
+2.17E-03
+Propene
+5.79E-04
+3.08E-05
+1.58E-04
+4.02E-05
+3.08E-05
+3.19E-04
+Sulfur dioxide
+2.10E-02
+1.11E-03
+5.72E-03
+1.45E-03
+1.11E-03
+1.16E-02
+Sulfur oxides
+4.16E-02
+2.21E-03
+1.13E-02
+2.88E-03
+2.21E-03
+2.29E-02
+VOC, volatile organic compounds
+1.97E-02
+1.05E-03
+5.37E-03
+1.37E-03
+1.05E-03
+1.09E-02
+Total
+4.24Eþ01
+2.26Eþ00
+1.16Eþ01
+2.94Eþ00
+2.26Eþ00
+2.34Eþ01
+%
+100.0
+5.3
+27.3
+6.9
+5.3
+55.1
+Table 9
+Impact assessment associated with redwood logging slash recovery operations and hauling with a chip van to energy plant.
+Impact category
+Unita
+Total
+Feeding
+Grinding
+Pre-hauling
+Loading
+Hauling
+Global warming
+kg CO2
+4.30Eþ01
+2.29Eþ00
+1.17Eþ01
+2.99Eþ00
+2.29Eþ00
+2.37Eþ01
+Acidiﬁcation
+Hþ moles
+3.33Eþ01
+1.77Eþ00
+9.09Eþ00
+2.31Eþ00
+1.77Eþ00
+1.84Eþ01
+Carcinogenics
+kg benzen
+1.53E-02
+8.12E-04
+4.17E-03
+1.06E-03
+8.12E-04
+8.42E-03
+Non carcinogenics
+kg toluen
+3.18Eþ02
+1.69Eþ01
+8.67Eþ01
+2.20Eþ01
+1.69Eþ01
+1.75Eþ02
+Respiratory effects
+kg PM2.5
+3.62E-02
+1.92E-03
+9.88E-03
+2.51E-03
+1.92E-03
+2.00E-02
+Eutrophication
+kg N eq
+3.45E-02
+1.84E-03
+9.43E-03
+2.40E-03
+1.84E-03
+1.90E-02
+Ozone depletion
+kg CFC-11
+1.74E-09
+9.23E-11
+4.74E-10
+1.20E-10
+9.23E-11
+9.57E-10
+Ecotoxicity
+kg 2,4-D
+8.82Eþ00
+4.69E-01
+2.41Eþ00
+6.12E-01
+4.69E-01
+4.86Eþ00
+Smog
+g Nox
+7.75E-01
+4.12E-02
+2.12E-01
+5.38E-02
+4.12E-02
+4.27E-01
+Total
+4.04Eþ02
+2.15Eþ01
+1.10Eþ02
+2.80Eþ01
+2.15Eþ01
+2.23Eþ02
+%
+100.0
+5.3
+27.3
+6.9
+5.3
+55.1
+a All units are equivalent to the unit that is stated for each category per BDmT of biomass delivered.
+H.-S. Han et al. / Journal of Cleaner Production 99 (2015) 217e229
+227
+
+associated with the overall forest management activities. Our study
+conﬁrmed the study results from other studies that timber har-
+vesting
+and
+transportation
+activities
+were
+a
+major
+(>90%)
+contributor to the overall carbon emissions. In addition, we found
+that primary in-woods transport activities such as skidding and
+yarding consumed fuels far more than other activities (felling,
+processing, and loading) in stump-to-truck timber harvesting op-
+erations. These results were especially noticeable with helicopter
+and skyline harvesting systems, compared with ground-based op-
+erations. Hauling sawlogs to the sawmill represented the second
+highest activity of consuming fuels at a 52-km of one-way hauling
+distance, which would be signiﬁcantly increased with increase of
+hauling
+distance.
+Further,
+uneven-aged
+silvicultural
+systems
+resulted in higher fuel consumption compared to even-aged silvi-
+cultural systems. The emissions and the resulting environmental
+impacts associated with different timber harvesting activities and
+silvicultural systems have not been explicitly documented in other
+papers. This study shows substantial differences in harvesting op-
+erations and silvicultural systems that impact the LCIA of forest
+management and operations. These differences should be carefully
+considered when evaluating the environmental performance of
+forest management choices, both in terms of forest operations and
+silvicultural systems. For example, when harvesting redwood
+sawlogs, one could vary the application of even- and uneven-aged
+silvicultural systems to minimize overall environmental impacts. In
+addition, this paper provides LCIA results for harvesting redwood
+sawlogs using helicopters while protecting environmentally sen-
+sitive areas and not building roads.
+Some other studies often relied on average values obtained for a
+large region (e.g. western US or the entire US) based on secondary
+literature sources. However, all the data used for this study repre-
+sented surveyed results of harvesting productivity and fuel con-
+sumption from redwood forest landowners. Because of their
+speciﬁcity, the results from this study need to be carefully evaluated
+as to their appropriateness for use in other places and forest types.
+This study did not consider the environmental impacts related to
+road maintenance and construction or the manufacture of forest
+harvesting equipment. Including these items would alter the ﬁnal
+results presented in this paper and for regions where new infra-
+structure is needed, these elements would need to be included in
+the analysis.
+Acknowledgement
+We gratefully acknowledge the ﬁnancial assistance for this
+research project provided by the California Redwood Association.
+References
+ASTM International, 2010. Standard Practice for Categorizing Wood and Wood-
+based Products According to Their Fiber Source. ASTM D7612-10. American
+Society for Testing and Materials, West Conshohocken, PA, pp. 783e793.
+ASTM International, 2014. Standard Guide for Evaluating the Attributes of a Forest
+Management Plan. ASTM D7480-08. American Society for Testing and Materials,
+West Conshohocken, PA, pp. 787e798.
+Bare, J.C., 2011. TRACI 2.0: the tool for the reduction and assessment of chemical and
+other environmental impacts 2.0. Clean. Tech. Environ. Policy 13, 687e696.
+Bergman, R.D., Han, H.-S., Oneil, E., Eastin, I.L., 2013. Life-cycle Assessment of
+Redwood Decking in the United States with a Comparison to Three Other
+Decking Materials. CORRIM Final Report. University of Washington, Seattle, WA,
+p. 101.
+Bergman, R., Han, H.-S., Oneil, E., Eastin, I., 2014. Life cycle impacts of manufacturing
+redwood decking in northern California. Wood Fiber Sci. 46 (3), 322e339.
+Berrill, J.-P., Deffress, J.L., Engle, J.M., 2012. Coast redwood live crown and sapwood.
+General Technical Report PSW-GTR-238. In: Proceedings of Coast Redwood
+Forests in a Changing California: a Symposium for Scientists and Managers. U.S.
+Department of Agriculture, Forest Service, Paciﬁc Southwest Research Station,
+Albany, CA, pp. 473e484.
+Bowyer, J., Howe, J., Stai, S., Trusty, W., Bratkovich, S., Fernholz, K., 2012. The In-
+ternational Green Construction Code Implications for Materials Selection in
+Commercial Construction. Dovetail Partners, Inc, p. 16 (accessed 18.07.14.).
+http://www.dovetailinc.org/report_pdfs/2012/dovetailigcc0512.pdf.
+Cambria, D., Pierangeli, D., 2012. Application of a life cycle assessment to walnut
+tree (Juglans regia L.) high quality wood production: a case study in southern
+Italy. J. Clean. Prod. 23, 37e46.
+Clark, J.W., Scheffer, T.C., 1983. Natural decay resistance of the heartwood of coast
+redwood Sequoia sempervirens (D. Don) Endl. For. Prod. J. 33 (5), 15e20.
+Dias, A., Arroja, L., 2012. Environmental impacts of eucalypt and maritime pine
+wood production in Portugal. J. Clean. Prod. 23, 368e376.
+Dicus, C.A., Delﬁno, K., 2003. Comparison of the California Forest Practice Rules and
+Two Major Certiﬁcation Systems. Urban Forests Ecosystems Institute Research
+Report 10, p. 63.
+EPA, 2005. Metrics for Expressing Greenhouse Gas Emissions: Carbon Equivalents
+and Carbon Dioxide Equivalents. EPA420-F-05-002, p. 3.
+EPA, 2012. eGRID2012 Version 1.0 Year 2009 GHG Annual Output Emission Rates.
+Environmental
+Protection
+Agency,
+United
+States.
+http://www.epa.gov/
+cleanenergy/documents/egridzips/eGRID2012V1_0_year09_GHGOutputrates.
+pdf.
+FPInnovations, 2013. Product Category Rule (PCR): for Preparing an Environmental
+Product Declaration (EPD) for North American Structural and Architectural
+Wood
+Products.
+UN
+CPC
+31.
+NAICS
+21,
+p. 17.
+https://fpinnovations.ca/
+ResearchProgram/environment-sustainability/epd-program/Documents/wood-
+products-pcr-version-v1.1-may-2013-lastest-version.pdf (accessed 18.07.14.).
+Ganguly, I., Eastin, I.L., 2009. Trends in the US decking market: a national survey of
+deck and home builders. For. Chron. 85 (1), 82e90.
+Gonzalez-García, S., Krowas, I., Becker, G., Feijoo, G., Moreira, M.T., 2013. Cradle-to-
+gate life cycle inventory and environmental performance of Douglas-ﬁr
+roundwood production in Germany. J. Clean. Prod. 54, 244e252.
+Gonzalez-García, S., Bonnesoeur, V., Pizzi, A., Feijoo, G., Moreira, M.T., 2014.
+Comparing environmental impacts of different forest management scenarios
+for maritime pine biomass production in France. J. Clean. Prod. 64, 356e367.
+Handler, R., Shonnard, D., Lautala, P., Abbas, D., Srivastava, A., 2014. Environmental
+impacts of roundwood supply chain options in Michigan: life-cycle assessment
+of harvest and transport stages. J. Clean. Prod. 76, 64e73.
+ISO, 2006a. Environmental ManagementdLife-cycle AssessmentdPrinciples and
+Framework. ISO 14040. International Organization for Standardization, Geneva,
+Switzerland, p. 20.
+ISO, 2006b. Environmental ManagementdLife-cycle AssessmentdRequirements
+and Guidelines. ISO 14044. International Organization for Standardization,
+Geneva, Switzerland, p. 46.
+Johnson, L., 2008. Harvest Factors Spreadsheets for CORRIM Forest Resources
+Module: Documentation and User's Guide. Final report presented to CORRIM,
+p. 21.
+Johnson, L., Lippke, B., Marshall, J., Comnick, J., 2005. Life-cycle impacts of forest
+resource activities in the Paciﬁc Northwest and Southeast United States. Wood
+Fiber Sci. 37, 30e46. CORRIM Special Issue.
+Johnson, L., Lippke, B., Oneil, E., 2012. Biomass collection and wood processing life
+cycle analysis. For. Prod. J. 62 (4), 258e272.
+Jones, D.A., O'Hara, K.L., 2012. Carbon density in managed coast redwood stands:
+implications for forest carbon estimation. Forestry 85, 99e110.
+Lippke, B., Comnick, J., Johnson, L.R., 2005. Environmental performance index for
+the forest. Wood Fiber Sci. 37, 149e155.
+Lippke, B., Wilson, J., Meil, J., Taylor, A., 2010. Characterizing the importance of
+carbon stored in wood products. Wood Fiber Sci. 42, 5e14.
+Mahalle, L., O'Connor, J., 2009. Life Cycle Assessment of Western Red Cedar Siding,
+Decking, and Alternative Products. Final report presented to Western Red Cedar
+Lumber Association, p. 142.
+Miles, P.D., Smith, W.D., 2009. Speciﬁc Gravity and Other Properties of Wood and
+Bark for 156 Tree Species Found in North America. Research Note NRS-38. U.S.
+Department of Agriculture, Forest Service, Northern Research Station, Newtown
+Square, PA, p. 35.
+O'Hara, K.L., Berrill, J.P., 2010. Dynamics of coast redwood sprout clump develop-
+ment in variable light environments. J. For. Res. 15 (2), 131e139.
+Oneil, E., Lippke, B., 2010. Integrating products, emission offsets, and wildﬁre into
+carbon assessments of Inland Northwest forests. Wood Fiber Sci. 42, 144e164.
+Oneil, E.E., Johnson, Leonard R., Lippke, Bruce R., McCarter, James B., McDill, Marc E.,
+Roth, Paul A., Finley, James C., 2010. Life cycle impacts of Inland West and NE/NC
+forest resources. Wood Fiber Sci. 42, 29e51.
+PRe Consultants, 2013. SimaPro Life-cycle Assessment Software Package, Version
+7.3. Printerweg 18, 3821 BB Amersfoort, The Netherlands. http://www.pre-
+sustainability.com/ (accessed 04.02.13.).
+Puettmann, M., Wilson, J., 2005. Life-cycle analysis of wood products: cradle-to-
+gate LCI of residential building materials. Wood Fiber Sci. 37, 18e29 (CORRIM
+Special Issue).
+Puettmann, M., Bergman, R.D., Hubbard, S., Johnson, L., Lippke, B., Wagner, F., 2010.
+Cradle-to-gate life-cycle inventories of US wood products production e COR-
+RIM Phase I and Phase II Products. Wood Fiber Sci. 42, 15e28 (CORRIM Special
+Issue).
+Puettmann, M., Oneil, E., Milota, M., Johnson, L., 2013a. Cradle to Gate Life Cycle
+Assessment of Softwood Lumber Production from the Paciﬁc Northwest.
+American Wood Council. April 2013. http://www.corrim.org/pubs/reports/
+2013/phase1_updates/PNW%20Lumber%20ﬁnal%20May%202013.pdf (accessed
+06.12.14.).
+Puettmann, M., Oneil, E., Milota, M., Johnson, L., 2013b. Cradle to Gate Life Cycle
+Assessment of Softwood Lumber Production from the Southeast. American Wood
+H.-S. Han et al. / Journal of Cleaner Production 99 (2015) 217e229
+228
+
+Council. April 2013. http://www.corrim.org/pubs/reports/2013/phase1_updates/
+SE%20Lumber%20LCA%20may%202013%20ﬁnal.pdf (accessed 06.12.14.).
+Puettmann, M., Oneil, E., 2013. Cradle to Gate Life Cycle Assessment of Softwood
+Lumber Production from the Inland Northwest. American Wood Council.
+April 2013. http://www.corrim.org/pubs/reports/2013/phase1_updates/INW%
+20Lumber%20LCA%20Final%20May%202013.pdf (accessed 06.12.14.).
+Puettmann, M., Oneil, E., Bergman, R., Johnson, L., 2013c. Cradle to Gate Life Cycle
+Assessment of Softwood Lumber Production from the Northeast-north Central.
+American Wood Council. April 2013. http://www.corrim.org/pubs/reports/
+2013/phase1_updates/NENC%20Lumber%20LCA%20ﬁnal%20May%202013.pdf
+(accessed 06.12.14.).
+Timmermann, V., Diabdiabova, J., 2014. Greenhouse gas emissions from forestry in
+East Norway. Int. J. Life Cycle Assess. 19, 1593e1606.
+US LCI Database, 2012. National Renewable Energy Laboratory. https://www.
+lcacommons.gov/nrel/search (accessed 04.02.13.).
+Wilcox, W.W., Piirto, D.D., 1976. Decay resistance in redwood (Sequoia Sempervirens)
+heartwood as related to color and extractives. Wood Fiber Sci. 7 (4), 240e245.
+H.-S. Han et al. / Journal of Cleaner Production 99 (2015) 217e229
+229

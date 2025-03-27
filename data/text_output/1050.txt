@@ -1,0 +1,1263 @@
+1
+Scientific Data |           (2020) 7:194  | https://doi.org/10.1038/s41597-020-0522-7
+www.nature.com/scientificdata
+The Fire and Tree Mortality 
+Database, for empirical modeling of 
+individual tree mortality after fire
+C.Alina Cansler et al.#
+Wildland fires have a multitude of ecological effects in forests, woodlands, and savannas 
+across the globe. A major focus of past research has been on tree mortality from fire, as 
+trees provide a vast range of biological services. We assembled a database of individual-tree 
+records from prescribed fires and wildfires in the United States. The Fire and Tree Mortality 
+(FTM) database includes records from 164,293 individual trees with records of fire injury 
+(crown scorch, bole char, etc.), tree diameter, and either mortality or top-kill up to ten years 
+post-fire. Data span 142 species and 62 genera, from 409 fires occurring from 1981-2016. 
+Additional variables such as insect attack are included when available. The FTM database can 
+be used to evaluate individual fire-caused mortality models for pre-fire planning and post-fire 
+decision support, to develop improved models, and to explore general patterns of individual 
+fire-induced tree death. The database can also be used to identify knowledge gaps that could 
+be addressed in future research.
+Background & Summary
+Wildfires burn millions of forested hectares annually, influencing regional and global carbon storage, wildlife 
+habitat, hydrology, species diversity, and forest structure, along with human society and economy. Wildland 
+fires directly kill trees, but also interact with other stressors and disturbances to cause additional delayed tree 
+mortality1. The impact of a fire on a forest ecosystem (i.e., fire severity) is often quantified by the proportion 
+of fire-caused tree mortality. Likewise, the severity of a fire regime—the aggregated impact of many fires over 
+time—is often described by the range of variability in proportion of trees killed by fire2,3. Because of the economic 
+and ecological importance of fire-caused tree mortality, a great deal of work has gone into developing predictive 
+models of mortality and integrating those models into decision support systems for management4,5. The most 
+commonly utilized models are based on empirical data: field observations of fire injury and subsequent individual 
+tree mortality in the years following fire. Sometimes injury from fire is measured directly (e.g., crown scorch), 
+while other measurements may be a proxy for injury that can be quickly assessed (e.g., char on bark as a proxy for 
+cambium injury). Measurements of fire-caused injuries used in many individual tree mortality models include 
+percentage crown volume scorched, percentage crown length scorched, percentage crown volume killed, bark 
+char height, and cambium kill rating5–8. Many models also use measurements of tree resistance to fire, particularly 
+bark thickness, which scales positively with tree diameter but at different rates among species4,5.
+The most commonly implemented empirical model predicting post-fire tree mortality was developed by Ryan 
+and Reinhardt9 and amended by Ryan and Amman10. This model relies on three parameters to predict probability 
+of mortality within three years of a fire: tree species, injury to the tree crown (in the form of percentage volume of 
+crown scorched by fire), and tree diameter (used to calculate bark thickness). This model has been implemented 
+in many decision support systems predicting post-fire tree mortality, including the First Order Fire Effects Model 
+(FOFEM)11,12, the Fire and Fuels Extension to the Forest Vegetation Simulator (FFE-FVS)13, and BehavePlus14. 
+Within these decision support systems, the model predicts probability of tree mortality. No differentiation is 
+made between obligate seeders and species capable of resprouting; therefore, mortality predictions are more accu-
+rately top-kill predictions for resprouting species. Additional models have been developed that account for spe-
+cies’ unique fire resistance traits (e.g., protected buds15,16), biotic consumers7,17,18, and abiotic stress19–21. Models of 
+post-fire tree mortality and top-kill in landscape-scale models and Dynamic Global Vegetation Models (DGVMs) 
+#A full list of authors and their affiliations appears at the end of the paper. 
+Data Descriptor
+OPEN
+
+2
+Scientific Data |           (2020) 7:194  | https://doi.org/10.1038/s41597-020-0522-7
+www.nature.com/scientificdata
+www.nature.com/scientificdata/
+generally employ simplified approaches to modeling fire injury, but still rely on plant functional traits, such as 
+bark thickness, to make mortality predictions for species’ groups22–24.
+There have been numerous studies conducted to improve ecological understanding of the many factors that 
+contribute to post-fire tree mortality, and to build predictive models with greater accuracy4,5. In an effort to 
+capture the data from these individual studies to facilitate more expansive analyses and to identify knowledge 
+gaps, we assembled the largest and most comprehensive collection of observations of fire-caused individual tree 
+mortality and top-kill in the United States, the Fire and Tree Mortality (FTM) database (https://doi.org/10.2737/
+RDS-2020-0001)25 (Fig. 1). The purpose of the FTM database is to provide access to data on individual tree mor-
+tality or top-kill from wildland and prescribed fire. The FTM database allows for large-scale evaluation of existing 
+post-fire-mortality models over large geographic and climatic ranges for numerous species. Observational data 
+cover the full range of fire injuries and a large proportion of tree sizes for many species, but they also reveal where 
+data are scant or non-existent. By pooling individual datasets and ensuring comparability among variables, it 
+becomes feasible to explore general patterns of fire-induced tree death and top-kill, to develop improved models, 
+and to identify data gaps to inform future research.
+Methods
+Soliciting data contributions. 
+To construct our FTM database, authors Cansler, Hood, Varner, and van 
+Mantgem conducted a literature search for publications reporting on post-fire tree mortality and contacted cor-
+responding authors, related investigators, and managers to inquire if they were willing to contribute data. We 
+also posted data requests on electronic mailing lists, professional management and science exchange networks, 
+and with technical working groups. We identified and obtained archived datasets or entered them manually from 
+archived copies. Lastly, we coordinated with the National Park Service fire ecology program to include the agen-
+cy’s Fire Effects Monitoring data26.
+Data aggregation and standardization. 
+We developed the FTM database with standardized field obser-
+vations from 41 contributed databases from researchers, managers, and archived datasets. Some datasets already 
+contained aggregated data from more than one previous study27,28. At a minimum, datasets had to contain meas-
+urements of individual trees, stem diameter, fire injury, and post-fire status of above-ground stems (i.e., alive 
+or dead). Post-fire injury measurements were collected either in the same season of the fire, or one to two years 
+after fire. Tree diameter and height measurements were recorded either before the fire, or one to two years after 
+fire. For the majority of cases, status of aboveground stems was recorded one to three years after fire; for some 
+trees, status was re-evaluated in the years following fire. A tree or stem was considered dead when no green foli-
+age remained in the crown. For obligate-seeding species, tree status almost always represents the true status of 
+the individual: when the main stem dies, the tree dies. The exception is where the stem splits at or below breast 
+height (BH, 1.37 m); in this situation, stems are considered separate trees, each with its own status. For species 
+that resprout from the base or root structures, tree status in the FTM database represents survival of the main 
+stem (i.e., top-kill). Resprouting from below-ground structures or above-ground epicormic buds are not captured 
+in the database. We included any tree where post-fire status was measured within 10 years of the fire, noting 
+the post-fire year(s) of status assessment. Only trees that were recorded as alive before the fire were included in 
+the database. Many datasets included variables beyond the required minimum; we retained many variables on 
+fire-caused injuries and biotic agents from the original datasets.
+For all contributed datasets, we verified and changed all variable names and units for consistency and labelled 
+the levels of categorical variables. We used summary tables and data visualization to identify outliers, impossible 
+values, and duplicate records. We corresponded with data contributors when additional clarification was needed 
+(Fig. 2). Because many of the contributed datasets were used previously for research, error checking and quality 
+control procedures (QA/QC) had been conducted on much of the data prior to transfer to this project. For most 
+datasets, few errors were found during the QA/QC process. Two large datasets from the National Park Service 
+Fire Effects Monitoring Program26 and the Fire and Fire Surrogate Study28 contained longitudinal data from 
+many sites. In these datasets, we corrected more errors after extensive checking. In the NPS dataset, we identified 
+and removed individual tree records that were likely duplicates. For example, where two records in the same 
+plot shared the same tag number and species, and a similar tree diameter at breast height ("DBH"; 1.37 m above 
+ground), one record was dropped. Likewise, in the Fire and Fire Surrogate dataset (particularly from sites in 
+the Southern USA), some tagged trees were identified as different species in sequential measurements. In these 
+instances we retained the most recent species code, assuming that identities were corrected over time. For all data-
+sets, we enforced consistency in coding of status (live/dead). If a tree was alive in the final assessment year, it was 
+coded as live in previous years. If a tree was dead, it was coded as dead in subsequent years. If a tree re-burned in 
+a second fire and post-fire injury and status information were available following the fire, a new record (row) was 
+made for the tree after the second fire. Database contributors were able to check and offer corrections following 
+the data standardization procedures.
+Standardization of taxa. 
+We standardized all scientific nomenclature and species acronyms to follow the 
+PLANTS Database http://plants.usda.gov. Data represent 142 species and 62 genera (Online-only Table 1). Some 
+trees were unidentified or identified only to genus (14 genera; Online-only Table 1). In some instances, trees 
+were identified to genus, but data contributors noted that the tree could be only one of two species. In total, there 
+are three such identifiers: Abies grandis or A. lasiocarpa, Pinus jeffreyi or P. ponderosa, and Picea pungens or P. 
+engelmannii (Online-only Table 1). Finally, some contributed datasets contained unidentified trees that were alive 
+before the fire. We retained those records and with them, a code for “unknown tree”, but we caution that uniden-
+tified trees may have been removed from other datasets during earlier quality control steps. In total, the FTM 
+database has 161 unique tree identifier codes.
+
+3
+Scientific Data |           (2020) 7:194  | https://doi.org/10.1038/s41597-020-0522-7
+www.nature.com/scientificdata
+www.nature.com/scientificdata/
+Calculating injury variables. 
+The FTM database includes several tree injury variables (Table 1). If variables 
+were measured or visually estimated in the field, then we used field-based observations rather than calculated val-
+ues. When these variables were not measured in the field, if possible, we calculated derived variables from those 
+measured in the field. Specifically, we calculated:
+=
+−
+CL
+HT
+HCB
+(1)
+pre
+pre
+where CLpre is pre-fire crown length (m), HT is tree height (m), and HCBpre is the pre-fire height of the base of the 
+crown. If HT or HCB were measured before the fire, we used pre-fire height and crown base height. Otherwise, 
+HT and CBHpre were measured post-fire, either the season after the fire or within two years. HT measurements 
+taken more than two years after the fire were coded as “NA” (not available) and were not used. Studies have estab-
+lished the validity of reconstructing the pre-fire living portion of the crown after fire to estimate pre-fire height 
+and crown base height29,30.
+Likewise:
+=
+−
+CL
+HT
+HCB
+(2)
+post
+post
+where CLpost is post-fire crown length (m), HT is tree height (m), and HCBpost is the post-fire height of the base of 
+the crown.
+Using the pre- and post-fire crown length, we could calculate the length and percentage of crown length 
+scorched:
+=
+−
+CLS
+CL
+CL
+(3)
+meters
+pre
+post
+and
+=
+
+
+
+
+
+
+CLS
+CLS
+CL
+100
+(4)
+percent
+meters
+pre
+where CLSmeters = crown length scorched measured in meters, CLSpercent = percentage crown length scorched, 
+CLpre = pre-fire crown length (m), and CLpost = post-fire crown length (m). If CLSmeters was measured in the field, 
+we used that measurement of injury, instead of the change from pre-fire to post-fire crown base height for subse-
+quent calculations.
+For studies that separated crown injury as scorch, kill, or consumed, we included the amount of crown con-
+sumed in all calculations of crown scorch or crown kill.
+For trees without observed crown volume scorched values, we followed the equation in the FOFEM Help 
+manual12 (derived from Peterson and Ryan)31.
+=
+
+
+
+−
+
+
+
+(
+)
+CVS
+CLS
+CL
+CLS
+CL
+100
+2
+(5)
+percent
+meters
+pre
+meters
+pre
+2
+Fig. 1  Map of fire locations by year of occurrence in the Fire and Tree Mortality (FTM) database. If a site 
+burned twice, only the most recent fire is shown.
+
+4
+Scientific Data |           (2020) 7:194  | https://doi.org/10.1038/s41597-020-0522-7
+www.nature.com/scientificdata
+www.nature.com/scientificdata/
+where CVSpercent = percentage crown volume scorched, CLSmeters = crown length scorched, and CLpre = pre-fire 
+crown length. Because this calculation includes assumptions about tree crown architecture, it may introduce 
+error. Thus in a separate column we coded whether the CVSpercent value was based on field observation or derived 
+from the canopy volume equation.
+Likewise, for trees with observations of crown length killed (CLKmeters), but not percentage crown volume 
+killed (CVKpercent), we calculated CVKpercent using the same equation form as in Eq. 5, above:
+=
+
+
+
+−
+
+
+
+(
+)
+CVK
+CLK
+CL
+CLK
+CL
+100
+2
+(6)
+percent
+meters
+pre
+meters
+pre2
+Where calculations produced an impossible value (<0 or >100) we assigned the value a code of “NA” (see “Usage 
+Notes” below).
+Damage to tree stems was measured in several ways. The most common method measured the amount (e.g., 
+height, circumference, or percentage) of char on the tree’s bark (Table 1). Char is blackened residue of bark result-
+ing from incomplete combustion and is a coarse indicator of the duration of bole exposure to flames and heat 
+from the fire. Cambium kill rating (CKR) is an estimate of the amount of cambium kill and stem injury from 
+fire15,32. Measurements of CKR require removing a small sample of bark at four locations at a tree’s base to deter-
+mine if the underlying vascular meristematic tissue was killed by the fire. CKR is the number of quadrants (0-4) 
+with dead cambium.
+FTM_trees
+Data review
+Provide data 
+contributors 
+with 
+reformaed 
+data to check 
+for errors. 
+Correct any 
+problems.
+Single merged dataset
+Calculate addional 
+variables when possible
+Check for impossible 
+values and outliers and 
+remove or ﬁx 
+problemac data
+Standardized 
+Tree Dataset 1
+Standardized 
+ﬁelds, factor 
+levels, and units
+Contributed 
+Tree Dataset 1
+(QA/QC by data 
+contributors)
+Field data 
+collecon in 
+burned area
+Field data 
+collecon in 
+burned area
+Standardized 
+Tree Dataset 2
+Standardized 
+ﬁelds, factor 
+levels, and units
+Contributed 
+Tree Dataset 2
+(QA/QC by data 
+contributors)
+Field data 
+collecon in 
+burned area
+Standardized 
+Tree Dataset 3:
+Standardized 
+ﬁelds, factor 
+levels, and units
+Contributed 
+Tree Dataset 3
+(QA/QC by data 
+contributors)
+Field data 
+collecon in 
+burned area
+Field data 
+collecon in 
+burned area
+Field data 
+collecon in 
+burned area
+FTM_ﬁres
+Check locaon Google Earth: 
+Import all ﬁre points and shapeﬁles 
+to Google Earth
+Visually check for evidence that 
+ﬁres occurred, and compare to 
+peer-reviewed publicaons that 
+describe or show ﬁre locaons
+Correct locaon as necessary
+Calculate the mean of all plot 
+locaons
+Standardize coordinate 
+system and datum
+Fires with plot-level 
+coordinates
+Standardize coordinate 
+system and datum
+Fires or sites with only 
+single coordinate for 
+mulple plots
+Calculate ﬁre centroid
+Standardize coordinate 
+system and datum
+Fires from shapeﬁles, 
+with no plot locaons
+Search MTBS database or 
+other GIS datasets for ﬁre 
+name and year
+Download shapeﬁle
+Calculate ﬁre centroid
+Standardize coordinate 
+system and datum
+Fire within only 
+names, dates, and 
+state or land 
+management unit
+Fire locaon data
+Tree data
+Fig. 2  Data collection and processing workflows for individual-tree data and fire-location data used to generate 
+the data outputs. For individual-tree data, we performed quality control measures and developed standardized 
+fields and data from 41 contributed datasets (i.e., datasets 1 through 41). At a minimum, contributed datasets 
+had to contain measurements of individual trees, stem diameter, fire injury, and post-fire status of above-ground 
+stems (i.e., alive or dead). Contributed datasets sometimes contained observations from multiple fires, sites, or 
+studies. Contributed datasets contained post-fire injury measurements and tree status collected either in the 
+same season of the fire, or one to two years after fire. In some datasets tree status was re-evaluated in multiple 
+years following fire. We then combined tree data into a single file. Because locations in contributed datasets 
+were provided at different scales (e.g., tree, plot, research site, and fire) we standardized all location data in the 
+FTM database to the scale of a fire event. QA/QC = Quality assurance and quality control. MTBS = Monitoring 
+Trends in Burn Severity https://www.mtbs.gov.
+
+5
+Scientific Data |           (2020) 7:194  | https://doi.org/10.1038/s41597-020-0522-7
+www.nature.com/scientificdata
+www.nature.com/scientificdata/
+Presence or absence of beetles that are primary mortality agents on a given tree species are used in some 
+species-specific post-fire mortality models5,27. These beetle species include Dendroctonus ponderosae (mountain 
+pine beetle) on Pinus spp.; D. valens (red turpentine beetle), D. ponderosae, D. brevicomis (western pine beetle) or 
+Ips spp. (engraver beetles) on Pinus ponderosa; and D. pseudotsugae (Douglas-fir beetle) on Pseudotsuga menziesii. 
+Individual studies may have collected more detailed beetle-attack data, but for the FTM database, we simplified all 
+attack data as presence or absence. Some studies noted presence or absence of primary bark beetles without iden-
+tifying the species: thus, we combined all presence/absence information for identified and unidentified primary 
+bark beetles into a single “beetle” variable. When studies identified beetles to species, we included species-level 
+presence/absence information. We also included presence/absence information for a few beetle species that are 
+not primary agents of mortality, but have been used as predictors in some models27, such as ambrosia beetle (sub-
+families Scolytinae and Platypodinae) and D. valens.
+Tree identification, plot design, and study purpose. 
+This database was developed for modeling tree 
+mortality and top-kill at the individual-tree scale. In the FTM_trees.csv file we provide plot and tree number 
+identification information to maintain consistency between the FTM database and the original contributed data-
+set. This ensures that each tree in the FTM database can be connected to its original record. Additionally, plot 
+numbers and fire names can be used to track how observations are spatially grouped. We also provide study 
+design information, including whether sampling was conducted at the individual-tree scale or if fixed-area or 
+variable-radius plots were used. For fixed-area plots we define plot size and the minimum DBH sampled. For 
+variable-radius plots, we provide the BA factor used. Finally, we provide standardized descriptions of the pur-
+pose(s) of the original studies.
+Fire locations. 
+We standardized the fire location and year-of-fire data for all observations to a consistent 
+datum and geographic coordinate system (GCS WGS84; Fig. 2). Because locations in contributed datasets were 
+provided at different scales (e.g., tree, plot, research site, and fire) we standardized all location data in the FTM 
+Variable
+Description
+CL_m
+Pre-fire live crown length rounded to the nearest 0.01 meter.
+HT_m
+Either the pre-fire tree height, or if pre-fire height is not measured, the post-fire tree height taken at that same time 
+that fire-injury variables were measured; values are rounded to the nearest 0.01 meter.
+HCB_post
+Post-fire height to live crown base rounded to the nearest 0.01 meter.
+CR_post
+Post-fire live crown ratio. Crown length divided by tree height (proportion rounded to the nearest 0.01).
+CSH_m
+Height of crown scorch, assessed as the highest visible heat injury to leaves from ground level, rounded to the 
+nearest 0.01 meter. Includes scorched and consumed portions of the crown.
+CLS_m
+Length of the pre-fire crown that was scorched or consumed by fire rounded to the nearest 0.01 meter.
+CLK_m
+Length of the pre-fire crown for which fire killed tree buds by scorch or consumption, rounded to the nearest 0.01 
+meter.
+CLS_percent
+Percentage of the pre-fire crown length that was scorched or consumed by fire rounded to the nearest 1.0 percent 
+(ranges from 0 to 100).
+CLK_percent
+Percentage of the pre-fire crown that was scorched, resulting in bud kill or consumption by fire, rounded to the 
+nearest 1% (ranges from 0 to 100).
+CVS_percent
+Percentage of the pre-fire crown volume that was scorched or consumed by fire (ranges from 0 to 100).
+CVS_percent_source
+Denotes whether directly assessed in the field or derived as described in FOFEM help document. F = field; 
+C = calculated.
+CVK_percent
+Percentage of pre-fire crown volume killed by fire (range of 0 to 100).
+CVK_percent_source
+Denotes whether directly assessed in the field or derived as described in FOFEM help document. F = field; 
+C = calculated.
+CVC_percent
+Percentage crown volume consumed or blackened by the fire (range of 0 to 100).
+CBS
+Percentage of the circumference of the bole that was scorch (ranges from 0 to 100).
+BCHA_m
+Average bark char vertical height from the ground on a tree bole, rounded to the nearest 0.01 meter. Heights were 
+visually estimated or computed as the mean of the maximum and minimum bark char height.
+BCHM_m
+Maximum bark char height from the ground on a tree bole, rounded to the nearest 0.01 meter.
+BCH_percent
+Percentage of tree height blackened or charred, based on the maximum bark char height (values 0 to 100).
+BCA
+Average bark char rating. A bark char rank value (numerical code) was given to each of four quadrants at the base 
+of the tree, then values were averaged. If fewer than four quadrents were measured, this is the average of measered 
+sections. Codes: 0 = unburned, 1 = light, 2 = moderate, and 3 = deep32.
+CKR
+Cambium kill rating. Cambium status (live or dead) was assessed in four quadrants of each tree. If fewer than four 
+quadrants were measured, this is the average of measured sections. CKR is the number of quadrants with dead 
+cambium at the ground line (ranges from 0 to 4)32.
+GCA
+Average ground char rating. Severity of soil heating (based on ground char) was assessed in four quadrants around 
+each tree (1 = light, 2 = moderate, and 3 = heavy [or deep]). The four ratings were then averaged100. If fewer than 
+four quadrants were measured, this is the average of measured sections.
+Table 1.  FTM_trees injury-variable names and descriptions. Also included are variables used to calculate 
+fire-injury variables. Most fire-injury variables were measured in the field the season or year after fire. Fire-
+injury variables that were derived from field-measured variables are described in the text. Full descriptions are 
+documented in the metadata in Cansler et al.25.
+
+6
+Scientific Data |           (2020) 7:194  | https://doi.org/10.1038/s41597-020-0522-7
+www.nature.com/scientificdata
+www.nature.com/scientificdata/
+database to the scale of a fire event. If tree or plot coordinates were provided, we took the average of those coor-
+dinates to provide a centroid for the fire event. If only research site coordinates were provided, but multiple fires 
+occurred with different start dates, we replicated those coordinates for each fire event. If a fire name and year 
+were provided without associated geographic coordinates, we searched the Monitoring Trends in Burn Severity 
+database https://www.mtbs.gov for the fire, downloaded the fire geospatial data, and used the coordinates of the 
+centroid of the fire perimeter. In instances where fires were not large enough to be in the MTBS database and we 
+lacked coordinates, we used fire perimeter data from the local land management agency to identify fire locations. 
+All fire-location data were uploaded to Google Earth Pro33, and the available high-resolution pre-fire and post-fire 
+imagery and Google Earth database of place names were used to verify the fire occurrence and location. Errors or 
+discrepancies in fire locations and dates were corrected through correspondence with data contributors.
+Bark thickness coefficients. 
+We provide data to calculate bark thickness for most of the species in the 
+FTM database, following the method used in FOFEM 6.4. Specifically, bark thickness is estimated from a linear 
+relationship with DBH and a species-specific barkthickness coefficient. FOFEM provides bark thickness coeffi-
+cients for 192 tree species. If a species is absent, FOFEM users can substitute a species with similar bark thickness 
+for modeling, or use one of the 24 bark-thickness relationships provided at the genus level. For species lacking 
+a species-level bark thickness coefficient in FOFEM, we provide a coefficient from a morphologically similar 
+species or the genus (if available). Of 159 taxa identifiers in the database, we include bark thickness coefficients 
+for 148.
+Data Records
+The FTM database is available for download from the USDA Forest Service Research Data Archive25. The FTM 
+database includes standardized field observations of fire injury and survival from 164,293 individual trees. Of 
+these, 6,670 trees have records relating to two separate fires, resulting in a total of 170,963 observations. The data 
+span 21 states and include 409 prescribed fires and wildfires from 1981 to 2016 (Fig. 1). The data represent 142 
+species and 62 genera; 97.3% of the trees are identified to species and 99.7%, to genus.The archived data product 
+consists of a metafile in both HTML and XML formats, a TIFF file showing the geographic locations of fires, and 
+five separate data files:
+• 
+Dataset_citations.csv: Comma-delimited ASCII text file containing the main citation for each contributed 
+dataset in the Fire and Tree Mortality (FTM) database.
+• 
+Dataset_primary_contacts.csv: Comma-delimited ASCII text file containing dataset names as they appear in 
+the FTM database and the associated primary contact information.
+• 
+FTM_fires.csv: Comma-delimited ASCII text file containing fire names, year, dataset contact, and location for 
+fires in the FTM database.
+• 
+FTM_trees.csv: Comma-delimited ASCII text file containing tree-level records of fire injury, tree size, and 
+bark beetle attack.
+• 
+Species_BarkThickness.csv: Comma-delimited ASCII text file containing the list of species found in the FTM 
+database and the bark thickness information used to evaluate FOFEM version 6.4 model accuracy.
+Figure 3 shows the common fields and connections among each of the five data files.
+FTM_trees
+• TreeID
+• YrFireName
+• Dataset
+• Species
+• …
+FTM_ﬁres
+• YrFireName
+• yr_ﬁre
+• Fire
+• Dataset
+• …
+Species_BarkThickness
+• Species
+• FOFEM
+BarkThicknessName
+• FOFEM_BT_Code
+• BT_Subs tu on
+• BT_coef
+• Genus_Species
+Dataset_primary_contacts
+• Dataset
+• Dataset_primary_contact
+• Primary_contact_email
+Dataset_cita ons
+• Dataset
+• Cita on
+Fig. 3  Fire and Tree Mortality (FTM) database structure showing individual files contained in the FTM 
+database. Bold arrows indicate common fields that can be used to join files.
+
+7
+Scientific Data |           (2020) 7:194  | https://doi.org/10.1038/s41597-020-0522-7
+www.nature.com/scientificdata
+www.nature.com/scientificdata/
+Technical Validation
+The data used to build the FTM database primarily come from high-quality data sources that have been used in 
+other analyses and peer-reviewed publications, or from long-term institutional monitoring studies. The majority 
+of individual-tree observations are derived from peer-reviewed studies6–8,15,17,18,27,34–74. Data were contributed 
+by corresponding authors, or came from archived datasets from completed projects28,40,75–78. Twelve additional 
+datasets were not peer reviewed, but were summarized in professional reports or theses79–82 or represent ongo-
+ing research or monitoring by land management professionals26,83–89. The contributed database with the largest 
+sample of fires is from the National Park Service Fire Effects Monitoring Program, a long-term institutional 
+monitoring program in which permanent field plots are resampled on a standardized schedule with trained staff 
+and established quality controls26. These studies and monitoring projects were designed for a range of purposes, 
+listed in the FTM_Fires.csv file, including modelling post-fire tree mortality6,7,15,17,18,40,42,47,48,50,58,71,74,79,90–92, under-
+standing the effectiveness of prescribed fire at reducing fuel loading, future fire severity, restoring historical forest 
+structure38,39,56,57,59–61,66,67,69,82,93, tracking post-fire successional dynamics43,45,59,62,63,90,94, developing remote sensing 
+indices to understand landscape fire effects46,70,95, carbon emission modeling65, plant physiological research36,53–55, 
+and research on interactions between fire and bark beetles4,7,10,18,34,35,37,41,43,44,49,51,81. The file Dataset_citations.csv 
+provides the primary citations for each contributed dataset in the FTM database.
+Usage Notes
+We developed the FTM database to validate existing models of individual-stem and tree-scale post-fire tree mor-
+tality96 and to support development of new models. Researchers may find additional uses for these data, but we 
+urge caution in their use. For any use, researchers should consider possible sources of error. Despite multiple 
+procedures for quality control, there are likely to be errors of observation and calculation present in the final 
+FTM database. For example, many post-fire injury measurements, such as crown volume scorch, are subjective 
+Quercus velutina
+Thuja plicata
+Tsuga heterophylla
+Tsuga mertensiana
+Quercus kelloggii
+Quercus laurifolia
+Quercus nigra
+Quercus prinus
+Quercus stellata
+Quercus alba
+Quercus coccinea
+Quercus falcata
+Quercus gambelii
+Quercus garryana
+Pinus taeda
+Pinus virginiana
+Populus tremuloides
+Prunus serotina
+Pseudotsuga menziesii
+Pinus monticola
+Pinus palustris
+Pinus ponderosa
+Pinus resinosa
+Pinus strobiformis
+Pinus edulis
+Pinus elliottii
+Pinus flexilis
+Pinus jeffreyi
+Pinus lambertiana
+Picea mariana
+Pinus albicaulis
+Pinus attenuata
+Pinus contorta
+Pinus echinata
+Larix occidentalis
+Liquidambar styraciflua
+Nyssa sylvatica
+Oxydendrum arboreum
+Picea engelmannii
+Acer rubrum
+Calocedrus decurrens
+Cornus florida
+Juniperus osteosperma
+Juniperus scopulorum
+Abies concolor
+Abies grandis
+Abies lasiocarpa
+Abies magnifica
+Abies species
+0 1 2 3 4 5 6 7 8 9 10
+0 1 2 3 4 5 6 7 8 9 10
+0 1 2 3 4 5 6 7 8 9 10
+0 1 2 3 4 5 6 7 8 9 10
+0 1 2 3 4 5 6 7 8 9 10
+0
+200
+400
+600
+0
+200
+400
+600
+800
+0
+1000
+2000
+0
+100
+200
+300
+400
+500
+0
+1000
+2000
+0
+100
+200
+0
+5000
+10000
+15000
+20000
+0
+100
+200
+300
+0
+50
+100
+150
+0
+200
+400
+0
+50
+100
+150
+200
+0
+200
+400
+600
+0
+5000
+10000
+15000
+0
+250
+500
+750
+1000
+0
+50
+100
+150
+200
+250
+0
+50
+100
+150
+200
+0
+100
+200
+300
+400
+0
+200
+400
+600
+0
+200
+400
+600
+0
+1000
+2000
+3000
+4000
+0
+100
+200
+0
+100
+200
+300
+400
+0
+100
+200
+0
+100
+200
+0
+20000
+40000
+60000
+0
+1000
+2000
+0
+100
+200
+300
+400
+0
+100
+200
+0
+500
+1000
+1500
+0
+500
+1000
+1500
+2000
+0
+1000
+2000
+3000
+0
+100
+200
+300
+0
+400
+800
+1200
+0
+200
+400
+600
+0
+500
+1000
+1500
+0
+100
+200
+300
+0
+100
+200
+300
+0
+200
+400
+600
+0
+100
+200
+300
+400
+500
+0
+5000
+10000
+0
+250
+500
+750
+0
+250
+500
+750
+1000
+0
+200
+400
+600
+0
+100
+200
+300
+0
+50
+100
+150
+200
+0
+500
+1000
+1500
+0
+200
+400
+0
+100
+200
+300
+400
+500
+0
+50
+100
+150
+Years since fire
+n
+Status
+D
+L
+Fig. 4  Number of tree-status observations (n) by years since fire for live (L) and dead (D) trees. Only species 
+with ≥200 samples are shown. We filled in missing values for tree status when possible (e.g., dead trees 
+remained dead after monitoring ceased; live trees were coded as live in previous years). The longer the time 
+since fire, the more likely a database will contain only dead trees for a given species.
+
+8
+Scientific Data |           (2020) 7:194  | https://doi.org/10.1038/s41597-020-0522-7
+www.nature.com/scientificdata
+www.nature.com/scientificdata/
+field estimates, and may vary among observers (although consistency within a study is likely to be higher than 
+consistency across studies). Data from studies that included repeated measurements over time will be more accu-
+rate than those based on a single post-fire measurement. Common errors that can be identified and corrected 
+through repeated measurements include misidentified species, duplicate or missing records, incorrect diameter 
+measurements, and incorrect tree status (e.g., mistakenly identifying trees as dead). We excluded trees that were 
+dead prior to fires, and we excluded ingrowth that reached minimum measurement sizes after the fire that were 
+recorded in longitudinal datasets. For studies where plots were measured post-, but not pre-fire, there may be 
+errors in pre-fire status if trees that died shortly before the fire were erroneously coded as alive. Any calculations 
+of carbon stores from this dataset could only include pre-fire live carbon, since contributed datasets did not con-
+sistently include measurements of trees that were dead before the fire, and therefore we did not include any trees 
+that were dead before the fire in the database.
+Crown injury variables derived from field observations are also susceptible to errors. Most derived variables 
+are based on simple calculations (detailed above) and after each calculation we checked for impossible values. If 
+found, these were coded as “NA”. The most common error of this sort occurred when pre-fire crown base height 
+was slightly higher than post-fire crown base height (resulting in a negative value for crown length scorch). This 
+error likely reflects varying precision in the measurement of crown base height before and after the fire, but it 
+could also reflect a data collection or data entry error. For crown volume scorch and crown volume killed (Eqs. 5 
+and 6), the equation, based on assumptions of tree crown shape and crown length, may introduce error. For trans-
+parency, we coded which observations were based on field observations and which were derived from the crown 
+volume equation. Percentages of crown length and crown volume are positively correlated but are not the same 
+or interchangeable15, and models using field-based measurements perform better96. In addition, users should be 
+aware that observations of crown scorch typically imply that the scorched portions of the crown are killed by the 
+fire (i.e., bud kill or crown kill). However, this is not always true for species with large buds or epicormic sprout-
+ing4. Thus, the FTM database crown scorch values should be understood to represent the proportion of the tree’s 
+leaves that were killed by fire, but not the extent of bud mortality or the potential for branch recovery. For studies 
+Fig. 5  Scatterplots of tree diameter at breast height (DBH) vs. percentage crown volume scorch (CVS) for 
+species with ≥200 observations of both variables. These data displays can show gaps in information, such as 
+small or large trees or species for which there are few or no combinations of DBH and CVS.
+
+9
+Scientific Data |           (2020) 7:194  | https://doi.org/10.1038/s41597-020-0522-7
+www.nature.com/scientificdata
+www.nature.com/scientificdata/
+that differentiated between crown scorch and crown kill levels, the percentage of crown scorched must always be 
+greater than or equal to the percentage of crown killed.
+For tree mortality and top-kill modelling, we note three limitations in particular. First, because different com-
+binations of injury variables were measured in each study, there are many missing values in the FTM database. 
+Second, tree status observations decline—particularly observations of live trees—as time since fire increases 
+(Fig. 4). Because we extrapolated tree status for years when plots were not measured, modeling of plot-scale 
+proportional mortality would not be an appropriate use of the data. Third, in building empirical models, it is 
+important to consider the data range for the variables used, and not simply for the individual variables, but for the 
+combined predictor space represented in the dataset97 (Fig. 5).
+The FTM database includes information on sampling design, and where applicable, plot size and minimum 
+tree diameter sampled. The best use for the fire-scale and plot-scale identifiers is understanding and accounting 
+for the spatial aggregation or nesting of many of the observations (e.g., by using hierarchical or mixed-effects 
+models)98. Although plot-level metrics, such as stem density, basal area, or stand density index can be generated 
+from some datasets, we did not develop the FTM database explicitly for plot-level modeling. Plot-level meas-
+urements can be used to quantify variation in forest structure or intensity of competition, but with caution due 
+to variation in how trees were sampled among studies. There are several possible types of unaccounted varia-
+tion in plot-level statistics: (1) individual tree records that were incomplete and removed from contributed data-
+sets before transfer to the current study; (2) undocumented procedures for subsampling different tree diameter 
+classes; and (3) undocumented exclusion of species (e.g., angiosperms) or growth forms (e.g., tall woody shrubs 
+or hardwoods) that would have influenced stem densities or indices of competition.
+Plots were not the sampling units in all contributed datasets. For many studies—particularly physiology and 
+bark beetle studies—the individual tree was the sampling unit. In other studies, plots were used to structure 
+the sampling, but not all trees were measured within a plot (e.g., only the first three stems of a given species or 
+size class were sampled or only a particular species was sampled). When trees were fully censused within a plot, 
+the minimum DBH differed among studies (noted in the FTM_fires.csv file), thus cross-study comparisons of 
+plot-level statistics must be made with caution.
+Because the FTM database was developed to support individual-tree scale modeling, we devoted considerable 
+effort to identifying incomplete or duplicate records. These were detectable only in datasets with repeated meas-
+urements (e.g., National Park Service datasets). However, optimizing for complete and non-duplicate records may 
+produce erroneous plot-level metrics (e.g., tree density). Finally, for all datasets, tree locations within plots were 
+not recorded, thus indices of neighborhood competition at the individual-tree scale (or any finer scale than the 
+plot) cannot be calculated. Users can refer to the primary literature contained in Dataset_citations.csv for addi-
+tional information on study designs and dataset contents.
+Pooling data from across the United States incorporates taxa that are not well represented in previous studies, 
+such as junipers and oaks. Nevertheless, geographic and taxonomical gaps remain. Data are primarily from the 
+western USA, with some representation of the southeastern USA (Fig. 1). Gymnosperms are better represented 
+than angiosperms (Online-only Table 1). We encourage researchers to identify geographic or taxonomic gaps in 
+the existing data and to target sampling to fill those gaps. We plan to update the FTM database as additional data 
+are collected and made available from the USA and internationally.
+Code availability
+Fire and Tree Mortality Database (FTM) is available from Forest Service Research Data Archive https://doi.
+org/10.2737/RDS-2020-0001. All reformatting of contributed data was completed in R version 3.6.199. Original 
+contributed data are only available by contacting data contributors. The code used to reformat the data may be 
+obtained contacting C. A. Cansler.
+Received: 15 January 2020; Accepted: 14 May 2020;
+Published: xx xx xxxx
+References
+	 1.	 Kane, J. M., Varner, J. M., Metz, M. R. & van Mantgem, P. J. Characterizing fire-disturbance interactions and their potential impacts 
+on tree mortality in western U.S. forests. For. Ecol. Manage. 405, 188–199 (2017).
+	 2.	 Rollins, M. G. & Frame, C. K. The LANDFIRE Prototype Project: Nationally Consistent and Locally Relevant Geospatial Data for 
+Wildland Fire Management. Gen. Tech. Rep. RMRS-GTR-175. (U.S. Department of Agriculture, Forest Service, Rocky Mountain 
+Research Station, 2006).
+	 3.	 LANDFIRE Mapping Team. LANDFIRE/GAP Land Cover Map Unit Descriptions. Modified by GAP/USGS to incorporate 
+descriptions for all LANDFIRE Map Units, and the 2015 NVC Hierarchy Jan. 4, 2016. Based on NatureServe Ecological Systems 
+Version 1.13 Data Date: Oct. 23, 2009. 1377 (2016).
+	 4.	 Hood, S. M., Varner, J. M. M., van Mantgem, P. & Cansler, C. A. Fire and tree death: understanding and improving modeling of 
+fire-induced tree mortality. Environ. Res. Lett. 13, 113004 (2018).
+	 5.	 Woolley, T., Shaw, D. C., Ganio, L. M. & Fitzgerald, S. A review of logistic regression models used to predict post-fire tree mortality 
+of western North American conifers. Int. J. Wildl. Fire 21, 1 (2012).
+	 6.	 Grayson, L. M., Progar, R. A. & Hood, S. M. Predicting post-fire tree mortality for 14 conifers in the Pacific Northwest, USA: Model 
+evaluation, development, and thresholds. For. Ecol. Manage. 399, 213–226 (2017).
+	 7.	 Hood, S. & Bentz, B. Predicting postfire Douglas-fir beetle attacks and tree mortality in the northern Rocky Mountains. Can. J. For. 
+Res 37, 1058–1069 (2007).
+	 8.	 Keyser, T. L. et al. Short-term stem mortality of 10 deciduous broadleaved species following prescribed burning in upland forests 
+of the Southern US. Int. J. Wildl. Fire 27, 42 (2018).
+	 9.	 Ryan, K. C. & Reinhardt, E. D. Predicting postfire mortality of seven western conifers. Can. J. For. Res 18, 1291–1297 (1988).
+	 10.	 Ryan, K. & Amman, G. Interactions between fire-injured trees and insects in the Greater Yellowstone Area. Plants their Environ. 
+Proc. First Bienn. Sci. Conf. Gt. Yellowstone Ecosyst., 259–271, https://digitalcommons.usu.edu/barkbeetles/169/ (1994).
+
+10
+Scientific Data |           (2020) 7:194  | https://doi.org/10.1038/s41597-020-0522-7
+www.nature.com/scientificdata
+www.nature.com/scientificdata/
+	 11.	 Reinhardt, E., Keane, R. E. & Brown., J. K. First Order Fire Effects Model: FOFEM 4.0 User’s Guide. General Technical Report INT-
+GTR-344, USDA Forest Service (1997).
+	 12.	 Lutes, D., Keane, R. E. & Reinhardt, E. D. FOFEM 6.0 User Guide. (USDA Forest Service, Rocky Mountain Research Station: Fort 
+Collins, CO, 2012).
+	 13.	 Reinhardt, E. & Crookston, N. L. Fire and Fuels Extension to the Forest Vegetation Simulator. Gen. Tech. Rep. - Rocky Mt. Res. 
+Station. USDA For. Serv. (2003).
+	 14.	 Andrews, P. L. Current status and future needs of the BehavePlus Fire Modeling System. Int. J. Wildl. Fire 23, 21–33 (2014).
+	 15.	 Hood, S. M., Smith, S. L. & Cluck, D. R. Predicting mortality for five California conifers following wildfire. For. Ecol. Manage. 260, 
+750–762 (2010).
+	 16.	 Menges, E. S. & Deyrup, M. A. Postfire survival in south Florida slash pine: Interacting effects of fire intensity, fire season, 
+vegetation, burn size, and bark beetles. Int. J. Wildl. Fire 10, 53–63 (2001).
+	 17.	 Sieg, C. H. et al. Best predictors for postflre mortality of ponderosa pine trees in the intermountain west. For. Sci 52, 718–728 
+(2006).
+	 18.	 Breece, C., Kolb, T., Dickson, B., Mcmillin, J. & Clancy, K. Prescribed fire effects on bark beetle activity and tree mortality in 
+southwestern ponderosa pine forests. For. Ecol. Manage. 255, 119–128 (2008).
+	 19.	 van Mantgem, P. J., Falk, D. A., Williams, E. C., Das, A. J. & Stephenson, N. L. Pre-fire drought and competition mediate post-fire 
+conifer mortality in western U.S. National Parks. Ecol. Appl. 28, 1730–1739 (2018).
+	 20.	 van Mantgem, P. J. et al. Climatic stress increases forest fire severity across the western United States. Ecol. Lett. 16, 1151–1156 
+(2013).
+	 21.	 Nesmith, J. C. B., Das, A. J., Hara, K. L. O. & Mantgem, P. J. V. The influence of prefire tree growth and crown condition on postfire 
+mortality of sugar pine following prescribed fire in Sequoia National Park. 919, 910–919 (2015).
+	 22.	 Keane, R. E., Loehman, R. A. & Holsinger, L. M. The FireBGCv2 landscape fire and succession model: a research simulation platform 
+for exploring fire and vegetation dynamics. (U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station), 
+https://doi.org/10.2737/RMRS-GTR-255 (2011).
+	 23.	 Thonicke, K. et al. The influence of vegetation, fire spread and fire behaviour on biomass burning and trace gas emissions: Results 
+from a process-based model. Biogeosciences 7, 1991–2011 (2010).
+	 24.	 Sturtevant, B. R., Scheller, R. M., Miranda, B. R., Shinneman, D. & Syphard, A. Simulating dynamic and mixed-severity fire 
+regimes: A process-based fire extension for LANDIS-II. Ecol. Modell, https://doi.org/10.1016/j.ecolmodel.2009.07.030 (2009).
+	 25.	 Cansler, C. A. et al. Fire and Tree Mortality Database (FTM). Forest Service Research Data Archive https://doi.org/10.2737/RDS-
+2020-0001 (2020).
+	 26.	 US Department of the Interior National Park Service. Fire Monitoring Handbook. 274 (2003).
+	 27.	 Hood, S. & Lutes, D. Predicting post-fire tree mortality for 12 western us conifers using the first order fire effects model (FOFEM). 
+Fire Ecol 13, 66–84 (2017).
+	 28.	 McIver, J. D. et al. Data for National Fire and Fire Surrogate study: environmental effects of alternative fuel reduction treatments. 
+Forest Service Research Data Archive https://doi.org/10.2737/RDS-2016-0009 (2016).
+	 29.	 Hood, S., Bentz, B., Gibson, K., Ryan, K. & DeNitto, G. Assessing post-fire Douglas-fir mortality and Douglas-fir beetle attacks in the 
+northern Rocky Mountains. USDA Forest Service - General Technical Report RMRS-GTR, https://doi.org/10.2737/RMRS-GTR-199 
+(2007).
+	 30.	 Ryan, K. C. In Proceedings of the symposium: Fire, its field effects, 19–21 October 1982, Jackson, Wyoming. 1–11 (Intermountain Fire 
+Council, Missoula, MT, 1982).
+	 31.	 Peterson, D. L. & Ryan, K. C. Modeling postfire conifer mortality for long-range planning. Environ. Manage. 10, 797–808 (1986).
+	 32.	 Hood, S. M., Cluck, D. R., Smith, S. L. & Ryan, K. C. Using bark char codes to predict post-fire cambium mortality. Fire Ecol. 4, 
+57–73, ST-Using bark char codes to predict post- (2008).
+	 33.	 Google Inc. Google Earth Pro. Version 7.1.1.188. (2013).
+	 34.	 Agne, M. C., Woolley, T. & Fitzgerald, S. Fire severity and cumulative disturbance effects in the post-mountain pine beetle 
+lodgepole pine forests of the Pole Creek Fire. For. Ecol. Manage. 366, 73–86 (2016).
+	 35.	 Andrus, R. A., Veblen, T. T., Harvey, B. J. & Hart, S. J. Fire severity unaffected by spruce beetle outbreak in spruce-fir forests in 
+southwestern Colorado. Ecol. Appl. 26, 700–711 (2016).
+	 36.	 Lombardero, M. J., Ayres, M. P. & Ayres, B. D. Effects of fire and mechanical wounding on Pinus resinosa resin defenses, beetle 
+attacks, and pathogens. For. Ecol. Manage. 225, 349–358 (2006).
+	 37.	 Santoro, A. E., Lombardero, M. J., Ayres, M. P. & Ruel, J. J. Interactions between fire and bark beetles in an old growth pine forest. 
+For. Ecol. Manage. 144, 245–254 (2001).
+	 38.	 Harrod, R. J., Peterson, D. W., Povak, N. A. & Dodson, E. K. Thinning and prescribed fire effects on overstory tree and snag 
+structure in dry coniferous forests of the interior Pacific Northwest. For. Ecol. Manage, https://doi.org/10.1016/j.foreco.2009.05.011 
+(2009).
+	 39.	 Battaglia, M. A., Smith, F. W. & Shepperd, W. D. Can prescribed fire be used to maintain fuel treatment effectiveness over time in 
+Black Hills ponderosa pine forests? For. Ecol. Manage. 256, 2029–2038 (2008).
+	 40.	 Brown, J. K. & DeByle, N. V. Fire damage, mortality, and suckering in aspen. Can. J. For. Res 17, 1100–1109 (1987).
+	 41.	 Davis, R. S., Hood, S. & Bentz, B. J. Fire-injured ponderosa pine provide a pulsed resource for bark beetles. Can. J. For. Res. Can. 
+Rech. For. 42, 2022–2036 (2012).
+	 42.	 Engber, E. A. & Varner, J. M. Predicting Douglas-fir Sapling Mortality Following Prescribed Fire in an Encroached Grassland. 
+Restor. Ecol 20, 665–668 (2012).
+	 43.	 Harvey, B. J., Donato, D. C., Romme, W. H. & Turner, M. G. Influence of recent bark beetle outbreak on fire severity and postfire 
+tree regeneration in montane Douglas-fir forests. Ecology 94, 2475–2486 (2013).
+	 44.	 Harvey, B. J., Donato, D. C. & Turner, M. G. Recent mountain pine beetle outbreaks, wildfire severity, and postfire tree regeneration 
+in the US Northern Rockies. Proc. Natl. Acad. Sci. U. S. A. 111, 15120–5 (2014).
+	 45.	 Harvey, B. J., Donato, D. C., Romme, W. H. & Turner, M. G. Fire severity and tree regeneration following bark beetle outbreaks: The 
+role of outbreak stage and burning conditions. Ecol. Appl., https://doi.org/10.1890/13-1851.1 (2014).
+	 46.	 Harvey, B. J., Donato, D. C. & Turner, M. G. Drivers and trends in landscape patterns of stand-replacing fire in forests of the US 
+Northern Rocky Mountains (1984–2010). Landsc. Ecol., https://doi.org/10.1007/s10980-016-0408-4 (2016).
+	 47.	 Hood, S. M., McHugh, C. W., Ryan, K. C., Reinhardt, E. & Smith, S. L. Evaluation of a post-fire tree mortality model for western 
+USA conifers. Int. J. Wildl. Fire 16, 679 (2007).
+	 48.	 McHugh, C. W. & Kolb, T. E. Ponderosa pine mortality following fire in northern Arizona. Int. J. Wildl. Fire 12, 7 (2003).
+	 49.	 McHugh, C. W., Kolb, T. E. & Wilson, J. L. Bark Beetle Attacks on Ponderosa Pine Following Fire in Northern Arizona. Environ. 
+Entomol. 32, 510–522 (2003).
+	 50.	 Kobziar, L., Moghaddas, J. & Stephens, S. L. Tree mortality patterns following prescribed fires in a mixed conifer forest. Can. J. For. 
+Res 36, 3222–3238 (2006).
+	 51.	 Lerch, A. P., Pfammatter, J. A., Bentz, B. J. & Raffa, K. F. Mountain pine beetle dynamics and reproductive success in post-fire 
+lodgepole and ponderosa pine forests in Northeastern Utah. PLoS One 11, 1–22 (2016).
+	 52.	 McDaniel, V. L., Perry, R. W., Koerth, N. E. & Guldin, J. M. Evaluation of FOFEM Fuel Loads and Consumption Estimates in Pine-
+Oak Forests and Woodlands of the Ouachita Mountains in Arkansas, USA. For. Sci 62, 307–315 (2016).
+
+11
+Scientific Data |           (2020) 7:194  | https://doi.org/10.1038/s41597-020-0522-7
+www.nature.com/scientificdata
+www.nature.com/scientificdata/
+	 53.	 O’Brien, J. J., Hiers, J. K., Mitchell, R. J., Varner, J. M. & Mordecai, K. Acute physiologicaal stress and mortality following fire in a 
+long-unburned longleaf pine ecosystem. Fire Ecol. 6, 1–12 (2010).
+	 54.	 Perrakis, D. D. B., Agee, J. K. & Eglitis, A. Effects of Prescribed Burning on Mortality and Resin Defenses in Old Growth Ponderosa 
+Pine (Crater Lake, Oregon): Four Years of Post-Fire Monitoring. Nat. Areas J 31, 14–25 (2011).
+	 55.	 Perrakis, D. D. & Agee, J. K. Seasonal fire effects on mixed-conifer forest structure and ponderosa pine resin properties. Can. J. For. 
+Res 36, 238–254 (2006).
+	 56.	 Trappe, M. J. et al. Interactions among prescribed fire, soil attributes, and mycorrhizal community structure at Crater Lake National 
+Park, Oregon, USA. Fire Ecol 5, 30–50 (2009).
+	 57.	 Prichard, S. J., Peterson, D. L. & Jacobson, K. Fuel treatments reduce the severity of wildfire effects in dry mixed conifer forest, 
+Washington, USA. Can. J. For. Res 40, 1615–1626 (2010).
+	 58.	 Ganio, L. M. & Progar, R. A. Mortality predictions of fire-injured large Douglas-fir and ponderosa pine in Oregon and Washington, 
+USA. For. Ecol. Manage. 390, 47–67 (2017).
+	 59.	 Roccaforte, J. P. et al. Delayed tree mortality, bark beetle activity, and regeneration dynamics five years following the Wallow Fire, 
+Arizona, USA: Assessing trajectories towards resiliency. For. Ecol. Manage. 428, 20–26 (2018).
+	 60.	 Huffman, D. W. et al. Effectiveness of fuel reduction treatments: Assessing metrics of forest resiliency and wildfire severity after the 
+Wallow Fire, AZ. For. Ecol. Manage. 334, 43–52 (2014).
+	 61.	 Roccaforte, J. P. et al. Forest structure and fuels dynamics following ponderosa pine restoration treatments, White Mountains, 
+Arizona, USA. For. Ecol. Manage., https://doi.org/10.1016/j.foreco.2014.11.001 (2015).
+	 62.	 Stoddard, M. T., Huffman, D. W., Fulé, P. Z., Crouse, J. E. & Sánchez Meador, A. J. Forest structure and regeneration responses 15 
+years after wildfire in a ponderosa pine and mixed-conifer ecotone, Arizona, USA. Fire Ecol., https://doi.org/10.1186/s42408-018-
+0011-y (2018).
+	 63.	 Stoddard, M. T., Sánchez Meador, A. J., Fulé, P. Z. & Korb, J. E. Five-year post-restoration conditions and simulated climate-change 
+trajectories in a warm/dry mixed-conifer forest, southwestern Colorado, USA. For. Ecol. Manage., https://doi.org/10.1016/j.
+foreco.2015.07.007 (2015).
+	 64.	 Korb, J. E., Fulé, P. Z. & Stoddard, M. T. Forest restoration in a surface fire-dependent ecosystem: An example from a mixed conifer 
+forest, southwestern Colorado, USA. For. Ecol. Manage., https://doi.org/10.1016/j.foreco.2012.01.002 (2012).
+	 65.	 Rogers, B. M. et al. Quantifying fire-wide carbon emissions in interior Alaska using field measurements and Landsat imagery. J. 
+Geophys. Res. G Biogeosciences, https://doi.org/10.1002/2014JG002657 (2014).
+	 66.	 Safford, H. D., Stevens, J. T., Merriam, K., Meyer, M. D. & Latimer, A. M. Fuel treatment effectiveness in California yellow pine and 
+mixed conifer forests. For. Ecol. Manage. 274, 17–28 (2012).
+	 67.	 Stevens, J. T., Safford, H. D. & Latimer, A. M. Wildfire-contingent effects of fuel treatments can promote ecological resilience in 
+seasonally dry conifer forests. Can. J. For. Res 44, 843–854 (2014).
+	 68.	 Das, A. J., Stephenson, N. L. & Davis, K. P. Why do trees die? Characterizing the drivers of background tree mortality. Ecology 97, 
+2616–2627 (2016).
+	 69.	 van Mantgem, P. J., Stephenson, N. L., Knapp, E., Battles, J. & Keeley, J. E. Long-term effects of prescribed fire on mixed conifer 
+forest structure in the Sierra Nevada, California. For. Ecol. Manage., https://doi.org/10.1016/j.foreco.2010.12.013 (2011).
+	 70.	 McCarley, T. R. et al. Landscape-scale quantification of fire-induced change in canopy cover following mountain pine beetle 
+outbreak and timber harvest. For. Ecol. Manage., https://doi.org/10.1016/j.foreco.2017.02.015 (2017).
+	 71.	 Varner, J. M. et al. Overstory tree mortality resulting from reintroducing fire to long-unburned longleaf pine forests: the importance 
+of duff moisture. Can. J. For. Res 37, 1349–1358 (2007).
+	 72.	 Thies, W. G., Westlind, D. J., Loewen, M. & Brenner, G. Prediction of delayed mortality of fire-damaged ponderosa pine following 
+prescribed fires in eastern Oregon, USA. Int. J. Wildl. Fire 15, 19–29 (2006).
+	 73.	 Hanula, J. L., Meeker, J. R., Miller, D. R. & Barnard, E. L. Association of wildfire with tree health and numbers of pine bark beetles, 
+reproduction weevils and their associates in Florida. For. Ecol. Manage. 170, 233–247 (2002).
+	 74.	 McDaniel, V. L. et al. Tree mortality following a drought-year lightning ignition in the Ouachita Mountains, Arkansas: 2 years 
+postburn. Proc. 18th Bienn. South. Silvic. Res. Conf. 206–213 (2016).
+	 75.	 Brown, J. K. & Debyle, N. V. Aspen Mortality and Response. Supplement to Study Plan No. 2108-103 and 1751-24. Fire as a 
+management tool in the western aspen ecosystem - Prescription development and postburn vegetative response in western 
+Wyoming. USDA Forest Service (1982).
+	 76.	 Schwilk, D. W. et al. The National Fire and Fire Surrogate study: effects of fuel reduction methods on forest vegetation structure and 
+fuels. Ecol. Appl. 19, 285–304 (2009).
+	 77.	 Finney, M. A. Fire-related mortality in ponderosa pine in eastern Montana. Unpublished Report INT-93800-RJVA. (USDA Forest 
+Service, RMRS Fire Sciences Laboratory, Missoula., 1999).
+	 78.	 Hanula, J. L. Unpublished data. Post-fire tree data from the 1998 Oak fire, FL, USA. (2018).
+	 79.	 Stuever, M. Fire induced mortality of Rio Grande Cottonwood. (M.S. Thesis. Department of Biology, University of New Mexico, 
+1997).
+	 80.	 Weiss, S. A. & Corace, R. G. III Rapid Ecological Assessment of Forest Cover and Fire Effects at Driggs River Road Prescribed Fire. 
+(2014).
+	 81.	 Ayres, M. P., Lombardero, M. J., Ayres, B. D., Shumate, A. M. & Santoro, A. E. The biology and management of bark beetles in old 
+growth pine forests of Itasca State Park. Gt. Lakes Inst. Pine Ecosyst. Res. 128 pp. (1999).
+	 82.	 Cram, D. S., Baker, T. T. & Boren, J. C. Wildland Fire Effects in Silviculturally Treated vs. Untreated Stands of New Mexico and 
+Arizona. Res. Pap. RMRS-RP-55. USDA For. Serv. Rocky Mt. Res. Stn. 28 (2006).
+	 83.	 Kopper, K. E. Unpublished data. Rapid Assessment Plots from the 2016 Paradise fire, Olympic National Park, WA, USA. (2017).
+	 84.	 Hood, S. M. Unpublished data on file at USDA Forest Service, Rocky Mountain Research Station, Fire Sciences Laboratory. (2019).
+	 85.	 Dickinson, D. M. Unpublished data. Post-fire tree data from the WWETAC project in the Carlton Complex fire, WA, USA. (2019).
+	 86.	 Coleman, T. W. Unpublished data. Post-fire tree injury data from the 2013 Mountain wildfire and 2015 Wooded Hill prescribed fire, 
+CA, USA. (2018).
+	 87.	 Cluck, D. R. Unpublished data. Post-fire tree data from 2013 fires in California. (2018).
+	 88.	 Kreye, J., Cronan, J., Ottmar, R., Restaino, J. & Pulido-Chavez, F. Pre- and post-burn fuel characterization and tree mortality 
+assessment for the Forest Resiliency Burning Pilot. Report to the Washington Department of Natural Resources. (2017).
+	 89.	 Roccaforte, J. P. Evaluating treatment effectiveness following the 2014 San Juan Fire, White Mountains, Arizona. ERI Fact Sheets. 
+Ecological Restoration Institute, Northern Arizona University. 3 p. (2016).
+	 90.	 Battaglia, M., Smith, F. W. & Shepperd, W. D. Predicting mortality of ponderosa pine regeneration after prescribed fire in the Black 
+Hills, South Dakota, USA. Int. J. Wildl. Fire 18, 176–190 (2009).
+	 91.	 Ryan, K. C. & Amman, G. D. Bark Beetle Activity and Delayed Tree Mortality in the Greater Yellowstone Area Following the 1988 
+Fires. Ecol. Implic. fire Gt. Yellowstone Proceedings. Int. Assoc. Wildliand Fire, Fairland, WA 151–158 (1996).
+	 92.	 Keyser, T. L., Smith, F. W., Lentile, L. B. & Shepperd, W. D. Modeling postfire mortality of ponderosa pine following a mixed-
+severity wildfire in the Black Hills: The role of tree morphology and direct fire effects. For. Sci 52, 530–539 (2006).
+	 93.	 Fiedler, C. E., Metlen, K. L. & Dodson, E. K. Restoration treatment effects on stand structure, tree growth, and fire hazard in a 
+ponderosa pine/douglas-fir forest in Montana. For. Sci. 56, 18–31 (2010).
+
+12
+Scientific Data |           (2020) 7:194  | https://doi.org/10.1038/s41597-020-0522-7
+www.nature.com/scientificdata
+www.nature.com/scientificdata/
+	 94.	 Harvey, B. J., Donato, D. C. & Turner, M. G. High and dry: Post-fire tree seedling establishment in subalpine forests decreases with 
+post-fire drought and large stand-replacing burn patches. Glob. Ecol. Biogeogr 25, 655–669 (2016).
+	 95.	 McCarley, T. R. et al. Multi-temporal LiDAR and Landsat quantification of fire-induced changes to forest structure. Remote Sens. 
+Environ., https://doi.org/10.1016/j.rse.2016.12.022 (2017).
+	 96.	 Cansler, C. A., Hood, S. M., Mantgem, P. van & Varner, J. M. A large database supports the use of simple models of post-fire tree 
+mortality in the continental United States. In prep. Fire Ecol.
+	 97.	 Shearman, T. M., Varner, J. M., Hood, S. M., Cansler, C. A. & Hiers, J. K. Modelling post-fire tree mortality: Can random forest 
+improve discrimination of imbalanced data? Ecol. Modell 414, 108855 (2019).
+	 98.	 Gelman, A. & Hill, J. Data Analysis Using Regression and Multilevel/Hierarchical Models. (Cambridge University Press, 2006).
+	 99.	 R Core Team. R: A language and environment for statistical computing. Version 3.1.2 (2014-10-31). (2014).
+	100.	 Ryan, K. C. & Noste, N. V. Evaluating prescribed fires. in Proceedings - symposium and workshop on wilderness fire. Missoula, MT, 
+15-18 November 1983. Gen. Tech. Rep. INT-182. (eds. Lotan, J., Kilgore, B. M., Fischer, W. C. & Mutch, R. W.) 230–238 (U.S. 
+Department of Agriculture, Forest Service, Intermountain Forest and Range Experiment Station, 1985).
+Acknowledgements
+We acknowledge funding from the Joint Fire Science Program under project JFSP 16-1-04-8. Additional support 
+was provided by USDA Forest Service Forest Health Protection, USDA Forest Service, Rocky Mountain Research 
+Station, the National Fire Plan, and our current institutions. Comments from Erik Jules, and two anonymous 
+reviewers improved this manuscript. Any use of trade, firm, or product names is for descriptive purposes only 
+and does not imply endorsement by the U.S. Government. The FTM database would not exist without the hard 
+work of hundreds of individuals who collected data in the field. Thank you.
+Author contributions
+C. Alina Cansler solicited data contributions, co-developed the database structure, reformatted all contributed 
+data, developed the fire-location database, entered and formatted hard-copy data, and co-wrote the manuscript. 
+Sharon M. Hood conceived of the database idea, solicited data contributions, provided input into the database 
+structure and development, co-wrote the manuscript and provided data. Phillip J. van Mantgem and J. Morgan 
+Varner co-developed the project, solicited data contributions, provided input into the database structure and 
+development, assisted with reformatting contributed data, contributed to writing the manuscript, and provided 
+data. Michelle C. Agne, Robert A. Andrus, Matthew P. Ayres, Jonathan D. Bakker, Michael A. Battaglia, Barbara 
+J. Bentz, Carolyn R. Breece, Daniel R. Cluck, Tom W. Coleman, R. Greg Corace III, Douglas S. Cram, James B. 
+Cronan, Adrian J. Das, Ryan S. Davis, Darci M. Dickinson, Jim L. Hanula, Brian J. Harvey, MaryBeth Keifer, 
+Tara L. Keyser, Leda N. Kobziar, Karen E. Kopper, Andrew P. Lerch, Virginia L. McDaniel, Joseph J. O’Brien, 
+Daniel D.B. Perrakis, Susan J. Prichard, Robert A. Progar, John P. Roccaforte, Brendan M. Rogers, Carolyn H. 
+Sieg, Rebecca J. Smith, Mary Steuver, Jens T. Stevens, Nicole M. Vaillant and Douglas J. Westlind, oversaw data 
+collection and analysis of original data, contributed data to the database, helped inform data reformatting, 
+reviewed the FTM database, and contributed to the manuscript. Timothy M. Shearman, Lindsay M. Grayson 
+and Micah Wright helped conduct and inform data reformatting. Bruce D. Ayres, James K. Brown, W. Wallace 
+Covington, Joseph E. Crouse, Stephen A. Fitzgerald, Lisa M. Ganio, Charles B. Halpern, J. Kevin Hiers, David 
+W. Huffman, Tom E. Kolb, Crystal A. Kolden, Jason R. Kreitler, Jesse K. Kreye, Andrew M. Latimer, Maria J. 
+Lombardero, Charles W. McHugh, Joel D. McMillin, Jessica J. Page, David W. Peterson, Kenneth F. Raffa, 
+Elizabeth D. Reinhardt, Joe C. Restaino, Kevin C. Ryan, Hugh D. Safford, Alyson E. Santoro, Alice M. Shumate, 
+Sheri Smith, Nathan L. Stephenson, Michael T. Stoddard, Walter G. Thies, Shelby A. Weiss and Travis J. Woolley 
+oversaw original data collection and analysis and contributed to the manuscript.
+Competing interests
+The authors declare no competing interests.
+Additional information
+Correspondence and requests for materials should be addressed to C.A.C. or S.M.H.
+Reprints and permissions information is available at www.nature.com/reprints.
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and 
+institutional affiliations.
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International 
+License, which permits use, sharing, adaptation, distribution and reproduction in any medium or 
+format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Cre-
+ative Commons license, and indicate if changes were made. The images or other third party material in this 
+article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the 
+material. If material is not included in the article’s Creative Commons license and your intended use is not per-
+mitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the 
+copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+The Creative Commons Public Domain Dedication waiver http://creativecommons.org/publicdomain/zero/1.0/ 
+applies to the metadata files associated with this article.
+This is a U.S. government work and not under copyright protection in the U.S.; foreign copyright protection may 
+apply 2020
+
+13
+Scientific Data |           (2020) 7:194  | https://doi.org/10.1038/s41597-020-0522-7
+www.nature.com/scientificdata
+www.nature.com/scientificdata/
+C. Alina Cansler1,2,57 ✉, Sharon M. Hood2,57 ✉, J. Morgan Varner3,57, Phillip J. van Mantgem4,57, 
+Michelle C. Agne1, Robert A. Andrus5, Matthew P. Ayres6, Bruce D. Ayres7, Jonathan D. Bakker   , 
+Michael A. Battaglia   8, Barbara J. Bentz9, Carolyn R. Breece10, James K. Brown2, 
+Daniel R. Cluck11, Tom W. Coleman12, R. Gregory Corace III13, W. Wallace Covington14,17, 
+Douglas S. Cram15, James B. Cronan16, Joseph E. Crouse17, Adrian J. Das18, Ryan S. Davis19, 
+Darci M. Dickinson20, Stephen A. Fitzgerald21, Peter Z. Fulé14, Lisa M. Ganio22, 
+Lindsay M. Grayson23, Charles B. Halpern1, Jim L. Hanula24, Brian J. Harvey1, J. Kevin Hiers3, 
+David W. Huffman17, MaryBeth Keifer25, Tara L. Keyser26, Leda N. Kobziar27, Thomas E. Kolb14, 
+Crystal A. Kolden28, Karen E. Kopper1,29, Jason R. Kreitler   30, Jesse K. Kreye31, 
+Andrew M. Latimer   32, Andrew P. Lerch33, Maria J. Lombardero34, Virginia L. McDaniel35, 
+Charles W. McHugh2, Joel D. McMillin36, Jason J. Moghaddas37, Joseph J. O’Brien38, 
+Daniel D. B. Perrakis39, David W. Peterson40, Susan J. Prichard1, Robert A. Progar41, 
+Kenneth F. Raffa42, Elizabeth D. Reinhardt2, Joseph C. Restaino43, John P. Roccaforte17, 
+Brendan M. Rogers   44, Kevin C. Ryan45, Hugh D. Safford46, Alyson E. Santoro47, 
+Timothy M. Shearman3, Alice M. Shumate6,48, Carolyn H. Sieg36, Sheri L. Smith49, 
+Rebecca J. Smith50, Nathan L. Stephenson   18, Mary Stuever51, Jens T. Stevens52, 
+Michael T. Stoddard17, Walter G. Thies53, Nicole M. Vaillant54, Shelby A. Weiss55, 
+Douglas J. Westlind53, Travis J. Woolley56 & Micah C. Wright4
+1School of Environmental and Forest Sciences, University of Washington, Box 352100, Seattle, WA, 98195, USA. 
+2USDA Forest Service, Rocky Mountain Research Station, Fire, Fuel, and Smoke Science Program, 5775 US Highway 
+10 W, Missoula, MT, 59808, USA. 3Tall Timbers Research Station, 13093 Henry Beadel Drive, Tallahassee, FL, 32312, 
+USA. 4U.S. Geological Survey, Western Ecological Research Center, 1655 Heindon Road, Arcata, CA, 95521, USA. 
+5Department of Geography, University of Colorado Boulder, Guggenheim 110, 260 UCB, Boulder, Colorado, 80309-
+0260, USA. 6Biological Sciences, Dartmouth College, 78 College St., Hanover, NH, 03755, USA. 7Woodsrun Forest 
+Products, 310 W 3rd Ave, Colfax Wi, 54730, USA. 8USDA Forest Service, Rocky Mountain Research Station, 240 West 
+Prospect Rd, Fort Collins, CO, 80526, USA. 9USDA Forest Service, Rocky Mountain Research Station, 860 N 1200 
+E, Logan, UT, 84321, USA. 10Department of Horticulture, Oregon State University, 4017 ALS Bldg., Corvallis, OR, 
+97331, USA. 11USDA Forest Service, Forest Health Protection, 2550 Riverside Drive, Susanville, CA, 96130, USA. 
+12USDA Forest Service, Forest Health Protection, 200 W. T. Weaver Blvd, Asheville, NC, 28804, USA. 13Forestry 
+Assistance Program, State of Michigan, 1900 M-32 West, Alpena, Michigan, 49707, USA. 14School of Forestry, 
+Northern Arizona University, 200 E Pine Knoll Dr., Flagstaff, AZ, 86011, USA. 15New Mexico State University, 
+MSC 3AE, P.O. Box 30003, Las Cruces, NM, 88003, USA. 16USDA Forest Service, PNW Research Station, 400 N 
+34th St., Ste 201, Seattle, WA, 98103, USA. 17Ecological Restoration Institute, Northern Arizona University, PO 
+Box 15017, Flagstaff, AZ, 86011-5017, USA. 18U.S. Geological Survey, Western Ecological Research Center, 47050 
+Generals Highway, Three Rivers, CA, 93271, USA. 19Department of Biology, Utah State University, 5305 Old Main 
+Hill, Logan, UT, 84322, USA. 20USDA Forest Service, Forest Health Protection 1133 N. Western Ave., Wenatchee, 
+WA, 98801, USA. 21OSU Extension Silviculture & Fire Specialist, 8692 Peavy Arboretum Rd., Corvallis, OR, 97330, 
+USA. 22Department of Statistics, 239 Weniger Hall, Oregon State University, Corvallis, OR, 97333, USA. 23Bureau 
+of Land Management, 777 NW Garden Valley Blvd., Roseburg, OR, 97471, USA. 24USDA Forest Service, Southern 
+Research Station, 320 Green Street, Athens, GA, 30602, USA. 25National Park Service, Fire Management Program 
+Center, 3833 S. Development Ave, Boise, ID, 83705, USA. 26USDA Forest Service, Southern Research Station, 
+Upland Hardwood Ecology and Management, 1577 Brevard Rd., Asheville, NC, 28806, USA. 27University of Idaho, 
+Natural Resources and Society, 875 Perimeter Drive, Moscow, Idaho, 83844, USA. 28University of California, Merced, 
+5200 N Lake Rd, Merced, CA, 95343, USA. 29North Cascades National Park Service Complex, 810 State Route 20, 
+Sedro-Woolley, WA, 98284, USA. 30US Geological Survey, Western Geographic Science Center, Boise, ID, 83706, 
+USA. 31Department of Ecosystem Science and Management, Penn State University, 202 Forest Resources Building, 
+University Park, PA, 16802, USA. 32Department of Plant Sciences, University of California Davis, One Shields Ave., 
+Davis, CA, 95616, USA. 33Department of Entomology, University of Wisconsin, 1630 Linden Dr., Madison, WI, 
+53706, USA. 34Unit for Sustainable Forest and Environmental Management, University of Santiago de Compostela, 
+27002, Lugo, Spain. 35USDA Forest Service, Southern Research Station, PO Box 1270, Hot Springs, AR, 71901, 
+USA. 36USDA Forest Service, Rocky Mountain Research Station, 2500 S Pine Knoll Dr, Flagstaff, AZ, 86001, USA. 
+37Spatial Informatics Group, LLC, 2529 Yolanda Court, Pleasanton, CA, 94566, USA. 38USDA Forest Service, Southern 
+Research Station, 320 Green Street, Athens, GA, 30602-2044, USA. 39Natural Resources Canada-Canadian Forest 
+Service, Pacific Forestry Centre, 506 West Burnside Rd, Victoria, British Columbia, V8Z 1M5, Canada. 40USDA 
+Forest Service, Pacific Northwest Research Station, Threats Characterization and Management Program, 1133 N. 
+Western Ave, Wenatchee, WA, 98801, USA. 41USDA Forest Service, Sustainable Forest Management, 201 14th St 
+SW Mailstop 1115, Washington, DC, 20024, USA. 42Department Entomology, University of Wisconsin-Madison, 1630 
+Linden Drive, Madison, WI, 53706, USA. 43California Department of Forestry and Fire Protection, Fire and Resource 
+Assessment Program, 3141 US 50, South Lake Tahoe, CA, 96155, USA. 44Woods Hole Research Center, 149 Woods 
+Hole Road, Falmouth, MA, 02540, USA. 45FireTree Wildland Fire Sciences, LLC, 523 E. Central Ave, Missoula, MT, 
+59801, USA. 46Department of Environmental Science and Policy, University of California, Davis, Davis, CA, 95616, 
+USA. 47Department of Ecology, Evolution and Marine Biology, University of California, Santa Barbara, CA, 93106, 
+
+14
+Scientific Data |           (2020) 7:194  | https://doi.org/10.1038/s41597-020-0522-7
+www.nature.com/scientificdata
+www.nature.com/scientificdata/
+USA. 48National Institute for Occupational Safety and Health, Centers for Disease Control and Prevention, 315 E. 
+Montgomery Ave., Spokane, WA, 99207, USA. 49USDA Forest Service, Region 5, State and Private Forestry, 1323 
+Club Drive, Vallejo, CA, 94592, USA. 50National Park Service, Yellowstone National Park, PO Box 168, 22 Stable 
+Street, Yellowstone National Park, WY, 82190, USA. 51New Mexico State Forestry, HC 75, Box 100, Chama, NM, 
+87520, USA. 52U.S. Geological Survey, New Mexico Landscapes Field Station, 301 Dinosaur Tr., Santa Fe, NM, 87508, 
+USA. 53USDA Forest Service, Pacific Northwest Research Station, 3200 Jefferson Way, Corvallis, OR, 97331, USA. 
+54USDA Forest Service, Rocky Mountain Research Station, Wildland Fire Management Research Development and 
+Application, 63095 Deschutes Market Road, Bend, OR, 97701, USA. 55Department of Geography, Portland State 
+University, 1721 SW Broadway, Portland, OR, 97201, USA. 56The Nature Conservancy, 114 N., San Francisco Street 
+#205, Flagstaff, Arizona, 86001, USA. 57These authors jointly supervised this work: C. Alina Cansler, Sharon M. Hood, 
+J. Morgan Varner, Phillip J. van Mantgem. ✉e-mail: acansler@uw.edu; sharon.hood@usda.gov

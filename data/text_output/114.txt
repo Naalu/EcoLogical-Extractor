@@ -1,0 +1,1404 @@
+A multivariate model of plant species richness in forested systems:
+old-growth montane forests with a long history of ﬁre
+Daniel C. Laughlin and James B. Grace
+Laughlin, D. C. and Grace, J. B. 2006. A multivariate model of plant species richness in
+forested systems: old-growth montane forests with a long history of fire.  Oikos 114:
+6070.
+Recently, efforts to develop multivariate models of plant species richness have been
+extended to include systems where trees play important roles as overstory elements
+mediating the influences of environment and disturbance on understory richness. We
+used structural equation modeling to examine the relationship of understory vascular
+plant species richness to understory abundance, forest structure, topographic slope, and
+surface fire history in lower montane forests on the North Rim of Grand Canyon
+National Park, USA based on data from eighty-two 0.1 ha plots. The questions of
+primary interest in this analysis were: (1) to what degree are influences of trees on
+understory richness mediated by effects on understory abundance? (2) To what degree
+are influences of fire history on richness mediated by effects on trees and/or understory
+abundance? (3) Can the influences of fire history on this system be related simply to
+time-since-fire or are there unique influences associated with long-term fire frequency?
+The results we obtained are consistent with the following inferences. First, it appears
+that pine trees had a strong inhibitory effect on the abundance of understory plants,
+which in turn led to lower understory species richness. Second, richness declined over
+time since the last fire. This pattern appears to result from several processes, including
+(1) a post-fire stimulation of germination, (2) a decline in understory abundance, and
+(3) an increase over time in pine abundance (which indirectly leads to reduced richness).
+Finally, once time-since-fire was statistically controlled, it was seen that areas with
+higher fire frequency have lower richness than expected, which appears to result from
+negative effects on understory abundance, possibly by depletions of soil nutrients from
+repeated surface fire. Overall, it appears that at large temporal and spatial scales,
+surface fire plays an important and complex role in structuring understory plant
+communities in old-growth montane forests. These results show how multivariate
+models of herbaceous richness can be expanded to apply to forested systems.
+D. C. Laughlin, Ecological Restoration Institute, Northern Arizona University, P.O. Box
+15017, Flagstaff, AZ 86011, USA (daniel.laughlin@nau.edu).  J. B. Grace, U.S.
+Geological Survey, National Wetlands Research Center, 700 Cajundome Boulevard,
+Lafayette, LA 70506, USA.
+A profusion of hypotheses exist concerning specific
+factors that control plant species richness (reviewed by
+Grace 1999). A few of the most important factors
+include primary production and competitive exclusion,
+disturbance history, and the species pool. However, there
+has been no resolution of the question of the relative
+importance of each factor nor an adequate synthesis of
+the subject (Palmer 1994, Waide et al. 1999, Gross et al.
+2000, Mittlebach et al. 2001). Methods that allow for
+multivariate hypothesis development and testing, speci-
+fically structural equation modeling, have, in the past
+few years, inspired efforts to evaluate hypotheses about
+interacting networks of controlling factors (Grace and
+Pugesek 1997, Gough and Grace 1999, Weiher 2003).
+Accepted 15 November 2005
+Subject Editor: Heikki Seta¨la¨
+Copyright # OIKOS 2006
+ISSN 0030-1299
+OIKOS 114: 6070, 2006
+60
+OIKOS 114:1 (2006)
+
+Such methods depend on the use of theoretically-
+specified models of plausible relationships and seek to
+determine which models, if any, are consistent or
+inconsistent with the multivariate relations in the data
+(Bollen 1989, Grace 2006). When acceptable models are
+obtained, the results have the potential to indicate the
+roles that different factors play in a system and the
+strengths of different pathways. Such models have
+provided evidence for a rich array of processes acting
+to regulate species richness in herbaceous plant commu-
+nities. While only a limited number of such studies have
+been conducted to date, the results thus far indicate
+strong influences of abiotic factors, disturbance history,
+colonization, and in productive communities, competi-
+tive interactions (Grace and Pugesek 1997, Gough and
+Grace 1999, Grace and Jutila 1999, Grace et al. 2000).
+More recently, there has been an interest in expanding
+the range of factors considered in multivariate investiga-
+tions of richness patterns. Grace and Guntenspergen
+(1999) evaluated hypotheses about the residual influ-
+ences of past disturbances (specifically, hurricanes and
+tropical storms) in wetlands. Non-equilibrial processes,
+such as fire, have been shown to exhibit both direct
+(Weiher 2003) and indirect (Grace and Keeley 2006)
+effects on diversity. Disturbance can directly affect plant
+species composition through opening niches for fire-
+tolerant species (Watson and Wardell-Johnson 2004) and
+can indirectly affect richness through direct effects on
+light availability and plant structure (Grace and Pugesek
+1997). In addition, landscape influences can affect post-
+fire richness patterns in chapparal (Grace and Keeley
+2006). Hypotheses about the roles of historic, geo-
+graphic, regional, and local factors on patterns of
+endemic richness have been considered by Harrison
+et al. (2006) and exemplify the capacity of multivariate
+hypothesis testing to aid in the interpretation of complex
+intercorrelated relationships at multiple scales.
+The variety of community types considered has also
+recently expanded. Weiher (2003) evaluated the multi-
+variate model developed by Grace and Pugesek (1997) in
+oak savannas and concluded that the inclusion of trees
+creates a new set of relationships to consider in models
+of richness. Further studies by Weiher et al. (2004) in
+prairie containing scattered red cedar trees have pro-
+vided additional support for the idea that trees can act to
+both mediate and alter influences of abiotic factors on
+herbaceous richness. It would seem based on the limited
+information currently available that the factors influen-
+cing understory richness in woodlands and forests
+potentially include all those occurring in grasslands
+plus the moderating and interacting effects of trees.
+In this study, we extend the range of communities
+considered using multivariate modeling to include old-
+growth montane forests and we seek to evaluate multi-
+variate hypotheses that consider the ability of trees to
+moderate influences from fire history on understory
+richness.
+Methods
+The study system
+This study was conducted in old-growth montane
+ponderosa pine (Pinus ponderosa P. & C. Lawson) forests
+(at 22002350 m elevation) on the North Rim of Grand
+Canyon National Park (GCNP), USA. Interspersed
+throughout the pine forest are clumps of Gambel oak
+(Quercus gambelii
+Nutt.), a deciduous species that
+resprouts following fire. Montane plant communities in
+the southwestern United States have evolved in an
+environment that experienced low-intensity surface fires
+every 220 years (Swetnam and Baisan 1996, Moore et
+al. 1999). However, the vast majority of montane forests
+in the western United States have been affected by
+commercial logging, by over-grazing from domestic
+livestock (Belsky and Blumenthal 1997), and by the
+exclusion of surface fires (Agee 1993). As a result, many
+western montane landscapes have grown into overly
+dense forests of small trees with subsequent low unders-
+tory productivity and diversity. In contrast, Grand
+Canyon National Park (GCNP) contains the largest
+never-harvested, minimally grazed, and naturally burned
+(Fule´ et al. 2003) forest ecosystem in Arizona. As a
+result, these relict sites are rare examples of western
+forest landscapes close to the historic range of natural
+variability (Fule´ et al. 2002). As such, they offer a place
+to consider how plant community structure is related to
+abiotic and biotic factors under conditions of minimal
+anthropogenic disturbance.
+Laughlin et al. (2005) used model selection to
+determine the best fitting multiple regression model to
+explain variation in species richness in a broad span of
+montane forests. Understory abundance and species
+richness was negatively correlated with the number
+of years since the last surface fire (hereafter, ‘time-
+since-fire’) and pine abundance (Laughlin et al. 2005).
+Fire is known to affect forest structure (Agee 1993), and
+pine abundance is well known to negatively impact
+understory
+production
+(Moore
+and
+Deiter
+1992)
+through competition for light, water and soil nutrients
+(McLaughlin 1978, Riegel et al. 1995). However, multi-
+ple regression does not allow the researcher to interpret
+why predictor variables, such as pine abundance and
+time-since-fire, were correlated (Grace and Bollen 2005).
+It is likely that time-since-fire directly affects pine
+abundance, which in turn directly affects understory
+plant abundance; hence, in this study we use a structural
+equation modeling approach to test a variety of theore-
+tically-specified multivariate models having compound
+pathways.
+OIKOS 114:1 (2006)
+61
+
+Sampling methods
+We sampled understory and overstory characteristics on
+eighty-two 0.1 ha plots. The plots were separated by at
+least 300 m and arranged on a grid across the landscape
+(i.e. plots were located at intersections of lines on a grid;
+see Fule´ et al. (2002) and Laughlin et al. (2005) for study
+site figures). Plots were oriented uphill-downhill and
+percent slope for each plot was determined using
+clinometer
+readings. Understory
+plant communities
+were sampled using belt and point intercept transects
+that were 50 m in length with points every 30 cm
+(Laughlin et al. 2005). Understory vegetation was
+dominated by C3 graminoids and annual and perennial
+forbs; few shrubs were detected (Laughlin et al. 2005).
+Species richness was determined as the number of
+vascular plant species below breast height that occurred
+within the 0.1 ha plot. Percent foliar cover was calcu-
+lated by dividing the number of points containing a plant
+along the point intercept transect divided by the total
+number of points (/332). Trees greater than 15 cm
+diameter at breast height (dbh) were measured on the
+entire plot and trees between 2.5 and 15 cm dbh were
+measured on one quarter-plot; all diameters and species
+of trees were recorded (Fule´ et al. 2002).
+Previous studies of fire effects on understory vegeta-
+tion have noted potential confounding effects of time-
+since-fire and fire frequency, and have therefore held one
+variable constant to study the effects of the other (Fox
+and Fox 1986) or have taken a multivariate approach
+(Weiher et al. 2004, Watson and Wardell-Johnson 2004).
+We
+estimated time-since-fire for each plot in the
+montane forests with two complimentary sources: fire
+perimeter maps and interpolation of fire scar data
+(Farris et al. 2004, Laughlin et al. 2005). We also
+estimated fire frequency since 1880, which is the date
+of region-wide fire exclusion corresponding to the arrival
+of Euroamericans (Fule´ et al. 2003), by counting the
+number of fires that overlaid each plot. This method was
+quite conservative since we only included fires that
+scarred at least 10% of the recording trees and fire
+maps derived from fire scars can underestimate fire size.
+Multivariate hypotheses
+The general hypotheses of interest in this paper are
+presented in Fig. 1. This model represents an expansion
+of the one presented by Grace and Pugesek (1997) with
+the inclusion of overstory abundance as an important
+element. All of the hypotheses represented are based on
+what we believe to be a plausible set of assumptions that
+include, (1) that current forest overstory abundance may
+be influenced by past disturbance events and abiotic
+gradients, (2) that the abundance of understory plants
+may be influenced by overstory abundance, disturbance
+events, and abiotic gradients, and (3) that understory
+richness may respond to all four of the other system
+properties. We recognize that it cannot be guaranteed
+that the causal relations implied by these assumptions
+fully represent all the processes operating in this system.
+Indeed, potentially important abiotic gradients, such as
+soil properties (which were not measured), are missing
+from the model. Rather, through the analyses in this
+paper we seek to determine whether the relations in the
+data are consistent with expectations from any of the
+multivariate hypotheses considered (Bollen 1989).
+All the hypotheses represented by Fig. 1 seek to
+determine if understory richness relates in some way to
+disturbance (specifically, fire) history in this system.
+There is also interest in seeing what role gradients in
+topographic slope play in this system. Further, we have
+an interest in evaluating hypotheses about moderating or
+altering effects of trees and understory abundance on
+understory richness. By ‘moderating’ we refer to the
+degree to which a presumed effect of fire history or
+topographic slope on understory richness can be ex-
+plained by an intervening effect on either forest overs-
+tory
+or
+understory
+abundance.
+For
+example,
+if
+understory abundance completely moderates the effects
+of disturbance history and forest overstory on richness,
+all compound pathways would go through understory
+abundance and no other pathways would go directly to
+richness. By ‘altering’ we refer to the situation where the
+presence of information about intervening variables (in
+this case, overstory and understory abundance) alters
+our view of the effects of an influencing factor (fire
+history or slope) on a response (understory richness).
+Both kinds of relations are of interest in models that
+imply a cascading chain of influences, as in Fig. 1.
+A number of initial expectations are represented in
+Fig. 1 and are based on previous studies of this system
+(Crawford et al. 2001, Gildar et al. 2004, Laughlin et al.
+2004, 2005, Huisinga et al. in press). First, it is expected
+that forest overstory density varies as a function of fire
+Abiotic
+gradients
+Disturbance
+history
+Overstory
+abundance
+Understory
+abundance
+Understory
+richness
+a
+b
+Abiotic
+gradients
+Disturbance
+history
+Overstory
+abundance
+Understory
+abundance
+Understory
+richness
+a
+b
+Fig. 1. General conceptual (construct) model that expands on
+the model in Grace and Pugesek (1997, Fig. 1) by including
+overstory abundance. Dashed rounded rectangles represent
+general constructs and arrows denoted by ‘a’ and ‘b’ represent
+pathways of a priori interest. Thus, this diagram represents a set
+of alternative models, all of which contain the solid arrows, but
+which differ in the inclusion of direct paths from a) disturbance
+history and b) abiotic gradients to understory richness.
+62
+OIKOS 114:1 (2006)
+
+history. The relations can be potentially complex de-
+pending on the effects of fires on seedlings and saplings,
+the effects on canopy tree growth, and the absolute
+frequency of fires. Generally, fires in this system, though
+frequent prior to 1880, occurred only 05 times per plot
+since 1880, and none were stand-replacing. This means
+that relations of tree abundance to components of fire
+history (time-since-fire or fire frequency) might be either
+positive or negative. Second, it is strongly expected that
+low understory abundance will be associated with high
+abundance of ponderosa pine, the dominant tree in this
+system. Finally, it is expected that where conditions are
+unfavorable for abundant understory growth, there will
+be a low level of species richness due to a lack of
+opportunities for establishment. It is also possible that
+richness is reduced somewhat where understory growth
+is very high, though it is not clear whether understory
+abundance in this system is sufficient to drive a loss of
+species.
+What is less certain for this system is whether
+overstory and understory abundance completely moder-
+ate effects of fire history. It is quite possible that there are
+influences of forest overstory on richness that either
+intensify or ameliorate the influences of fire history. It is
+also possible that fire history has had influences on
+understory richness that are unrelated to overstory or
+understory abundance. The same questions can be asked
+about topographic slope. These less certain pathways,
+arrows denoted by the letters a and b, represent
+alternative models of a priori interest. These alternatives
+will be considered in both specific models (presented
+later in the paper) representing relations among the
+measured properties of the system and in general models
+of the form in Fig. 1.
+Data analyses
+Prior to evaluations of multivariate hypotheses, bivariate
+examinations of relationships among variables were
+examined. All relationships were considered for the
+presence of outliers, evidence of skewness or kurtosis,
+and nonlinear relations. A log transform of understory
+plant cover was used to linearize relations with richness;
+all other variables were analyzed in their native scale.
+Spatial autocorrelation in richness was also examined to
+determine whether there might be contagion in the data
+(Laughlin et al. 2005). Results found no evidence of
+autocorrelation; therefore, the data were analyzed as
+independent samples without modeling proximity.
+Structural equation modeling
+Two types of structural equation models were analyzed
+in this study: ‘specific’ and ‘general’ models. ‘Specific’
+models were evaluated to give a detailed perspective of
+relationships. Figure 2 represents the a priori specific
+model evaluated. In this model, the abundance of
+Gambel oak was separated from the abundance of
+ponderosa
+pine
+because
+of
+the
+potential
+unique
+effects each species may have on understory vegetation
+(Laughlin et al. 2005). In addition, two components of
+fire history were represented separately, time-since-fire
+and the frequency of fires during the past 118 years.
+Time-since-fire and fire frequency covary in the model
+since plots that burned recently tended to have burned
+frequently as well (Fule´ et al. 2003, Laughlin et al. 2005).
+Because oak abundance varied with topographic slope,
+this landscape feature was included in the specific model.
+The models in this paper were formulated using latent
+variables (in circles) and single indicators (observed
+variables represented by rectangles). Two possible in-
+dicators were considered for both oak abundance and
+pine abundance, total basal area (m2 ha1) and tree
+density (trees ha1). Ponderosa pine, which was the
+dominant canopy species in the great majority of plots,
+showed much stronger relationships to all other variables
+when expressed as total basal area compared to when
+expressed as tree density. This is understandable given
+the fact that these trees grow to a large size in low-
+density stands in these forests. Gambel oak, in contrast,
+showed stronger relationships to other variables when
+expressed as tree density. This species is one that
+resprouts, often forming dense thickets, but which does
+not often grow into stands of large trees in these forests.
+Another reason for using oak density rather than oak
+basal area as an indicator of oak abundance is because
+we have observed that understory plants can be abun-
+dant beneath single large oaks, but not beneath dense
+oak thickets; in contrast, plant abundance is often low
+beneath single large pines and beneath dense pine
+thickets.
+Understory
+richness
+Understory
+abundance
+Pine
+abundance
+Oak
+abundance
+Time
+since
+fire
+Fire
+frequency
+Slope
+Understory
+richness
+Understory
+abundance
+Pine
+abundance
+Oak
+abundance
+Time
+since
+fire
+Fire
+frequency
+Slope
+Fig. 2. A priori ‘indirect effects’ (speciﬁc) structural equation
+model representing hypothesized relations between species
+richness and ﬁre history, slope, forest structure, and understory
+abundance. Latent variables are represented by circles and the
+single-indicator observed variables are not shown here for
+simplicity. Model structure follows from earlier work in grass-
+lands and woodlands.
+OIKOS 114:1 (2006)
+63
+
+We considered whether estimates of indicator relia-
+bility (repeatability) should be used to specify the degree
+of measurement error in the model. This was done
+because appropriate assignments of measurement error
+can reduce bias in path coefficients (Bollen 1989, Grace
+2006), and because we were fairly confident that some of
+the indicators were not measured perfectly (and, there-
+fore, without error). Indications of the degree of repeat-
+ability (reliability) were obtained by correlating readings
+taken in different years. Such readings provided an
+underestimate of reliability because they incorporated
+both measurement error and temporal variation. Still,
+reliabilities estimated in this way were generally high (up
+to 90%). Because only approximate measures of relia-
+bility could be obtained, conservative estimates of
+percent error were used in the analyses. Based on our
+scientific judgement, experience, and available data, we
+assigned values of 10% error to the indicators of fire
+frequency and understory richness, 5% to understory
+abundance and time-since-fire, and 0% to pine abun-
+dance, oak abundance, and slope. The effects of relia-
+bility estimates on the stability of model results were
+explored by rerunning the final model using higher or
+lower reliabilities. For comparison, runs were made using
+zero estimates for measurement error (equivalent to an
+observed variable model analysis) and using values
+double those specified.
+We used a competing models approach to compare
+models of initial interest. The structural relationships
+(pathways involving latent variables) shown in Fig. 2
+describe one of the hypotheses of initial interest, which
+we refer to as the ‘indirect effects’ hypothesis. In this
+hypothesis, all effects of slope, fire, and trees on
+understory richness can be explained by their effects
+on understory abundance. The model included both
+first- and second-order polynomial terms for oak density
+to allow for nonlinear relations between this and other
+variables (initial examination of the data indicated that
+the bivariate relation between oak density and both
+richness and plant cover fit a second-order polynomial).
+Though included in the model, we do not illustrate these
+non-linear relations in the final model for simplicity.
+Alternative models to the one shown in Fig. 2 that
+were investigated were those with direct paths to
+understory richness from variables other than unders-
+tory abundance. Analyses proceeded by comparing
+competing models using chi-square difference tests,
+without reference to modification indices. The best
+model selected using this procedure was further exam-
+ined for indications of lack of fit using residual
+covariances and modification indices, as well as by
+examining the significance of pathways. Analyses were
+performed using the program Mplus (Muthe´n and
+Muthe´n 2005) and normal theory maximum likelihood
+estimation.
+The second type of structural equation model exam-
+ined in this study was a ‘general’ model. These models
+are of the form in Fig. 1 and include composite variables
+in which combinations of effects are aggregated so we
+can address more general hypotheses. The effects of
+time-since-fire and fire frequency were combined into
+effects of disturbance. Also, the effects of oak and pine
+were combined into an estimate of the effects of
+overstory
+abundance.
+Composite
+variable
+modeling
+was performed based on the principles in Heise (1972)
+using the procedures developed by Grace and Bollen
+(described in Grace 2006, Ch. 6). These procedures use a
+two-stage approach in which models are estimated
+without composites in the first stage. In the second
+stage, composites are included with zero error variance
+and with one incoming path fixed to a value of 1 so as to
+set the scale for the composites.
+Results
+Understory richness was significantly correlated (PB/
+0.01) with all six of the observed variables in the model
+(Fig. 3). Richness fit a curvilinear relation to total
+understory cover (Fig. 3a). Visual examination indicated
+that richness leveled off when total cover was approxi-
+mately 5060%. A clear drop in richness at the highest
+values of cover was not observed in these data, however.
+For the purposes of modeling a linear relation with
+richness, a log transformation of cover yielded a linear
+graph and a correlation of 0.70. Richness declined
+linearly with increasing pine basal area (Fig. 3b). Oak
+density fit a second-order polynomial relation with
+richness, with richness declining where oak density
+exceeded approximately 1500 trees ha1 (Fig. 3c). Posi-
+tive linear relations to richness were found for slope and
+fire frequency, and a negative linear relation to richness
+was found for time-since-fire (Fig. 3de). Correlations
+among all variables are given in Table 1.
+Analysis of specific structural equation models found
+that the indirect effects model, which includes only those
+paths shown in Fig. 2, was not consistent with the data
+(x2/21.8, 9 df, P/0.01; indicating significant differ-
+ences between model and data). The first alternative
+model (developed from theoretical justifications) in-
+cluded a direct path from time-since-fire to understory
+richness and yielded a chi-square of 8.80 (8 df, P/0.36).
+The drop in chi-square of 13.0 was highly significant
+(PB/0.01), indicating this model was more appropriate.
+The second alternative model included a direct path
+from fire frequency to understory richness and yielded a
+chi-square of 6.6 (7 df, P/0.47). This decline in chi-
+square was not significant, indicating this path should
+not be included in the model. Inclusion of a direct path
+from slope to understory richness likewise failed to
+improve model fit significantly. Thus, the first alternative
+64
+OIKOS 114:1 (2006)
+
+model was deemed the best of those initially considered.
+Examination of residuals and modification indices did
+not reveal substantial discrepancies. However, signifi-
+cance tests for pathways revealed that the paths from the
+fire variables to oak abundance were not significant,
+therefore, we decided to delete these from the final
+model. These deletions permitted estimates of separate
+effects between oak abundance and pine abundance
+(instead of a single net relationship) because the result-
+ing model could be ‘identified’ (i.e. unique estimates of
+all parameters were possible).
+The final model (Fig. 4) fit the data well (x2/11.7,
+9 df, P/0.23), indicating that the covariance structure
+of the data did not significantly deviate from the
+covariance structure implied by the model. The final
+model
+explained
+the
+majority
+of
+total
+variance
+in
+understory
+richness
+(R2/0.64)
+and
+understory
+abundance (R2/0.72), but explained less of the total
+variance of oak abundance (R2/0.21) and pine abun-
+dance (R2/0.22). Standardized path coefficients for this
+model are shown in Fig. 4 and the prediction equations
+that include unstandardized coefficients are provided in
+Table 2.
+The results of our sensitivity analyses showed that
+model fit was not significantly affected by varying the
+amount of measurement error (Table 3). Both the model
+without measurement error and the model with double
+the estimated measurement error fit the data. Also,
+Table 1. Correlations among observed variables. Signiﬁcant correlations are in bold.
+Rich
+LogCov
+PineBA
+Oakden
+Oakden2
+Pctslope
+Firetime
+Firefreq
+Rich
+1.0
+LogCov
+0.67
+1.0
+PineBA
+/0.38
+/0.58
+1.0
+Oakden
+0.29
+0.44
+/0.26
+1.0
+Oakden2
+0.14
+0.29
+/0.14
+0.94
+1.0
+Pctslope
+0.31
+0.39
+/0.21
+0.44
+0.33
+1.0
+Firetime
+/0.66
+/0.63
+0.32
+/0.25
+/0.18
+/0.17
+1.0
+Firefreq
+0.44
+0.23
+/0.02
+0.15
+0.12
+/0.06
+/0.66
+1.0
+Fig. 3. Bivariate relations between
+richness and all other observed
+variables in the model. All relationships
+were signiﬁcant (PB/0.01).
+r = 0.44
+E
+B
+D
+F
+C
+A
+0
+50
+100
+Total cover, pct
+0
+10
+20
+30
+40
+50
+60
+Pine basal area
+0
+1000
+2000
+3000
+Oak density, trees/ha
+0
+10
+20
+30
+40
+50
+60
+Slope, percent
+0
+10
+20
+30
+40
+50
+0
+25
+50
+75
+100
+125
+Time since fire, yrs
+Richness
+0
+10
+20
+30
+40
+50
+0
+1
+2
+3
+4
+5
+Fire frequency, burns/100 yrs
+Richness
+0
+10
+20
+30
+40
+50
+Richness
+0
+10
+20
+30
+40
+50
+Richness
+0
+10
+20
+30
+40
+50
+Richness
+0
+10
+20
+30
+40
+50
+Richness
+r = –0.38 
+r = 0.70
+r = 0.31
+r = 0.45
+r = –0.66
+OIKOS 114:1 (2006)
+65
+
+results supported retention of all the same pathways,
+thus, model structure was stable. As expected, the
+magnitude of certain pathways was found to be sensitive
+to variations in specified measurement error. Most
+responsive were the paths from time-since-fire to un-
+derstory abundance and to pine abundance. The paths
+from fire frequency to pine abundance and to understory
+abundance were also moderately responsive. All other
+path coefficients were relatively unresponsive to varia-
+tions in measurement error.
+Indirect relations contribute to the so-called ‘total
+effects’, which represent the sum of direct and indirect
+pathways (Table 4). Results indicate that for most
+variables, their relationships with understory richness
+were entirely indirect. The one exception was time-since-
+fire, which contributed directly to the explanation of
+variation in understory richness. Even for time-since-fire,
+though, the majority of its total effect on understory
+richness (/0.84) was indirect (/0.46), through relation-
+ships with pine and understory abundance.
+The analysis of the general model in which some
+effects were composited produced a broader perspective
+of relationships (Fig. 5). The general model had a chi-
+square of 13.0 (10 df, P/0.23). The structure of this
+model fit with the findings for specific models, in that
+there was evidence for a direct path from disturbance
+history to understory richness and no support for a
+direct path from overstory abundance.
+Discussion
+Partitioning direct and indirect effects on community
+structure has advanced the understanding of patterns of
+diversity across landscapes. In old-growth montane
+forests that are evolutionarily adapted to a surface fire
+regime, the evidence from this analysis suggests that
+understory richness is influenced by direct and indirect
+effects of fire history. Indirect effects of fire history on
+understory richness are apparently mediated through
+direct effects on pine abundance and understory abun-
+dance. Therefore, over large temporal and spatial scales,
+surface fire plays an important role in structuring
+understory plant communities in old-growth montane
+forests.
+Understory plant abundance was not found to be
+unimodally related to understory richness in this study,
+though a leveling off of richness did occur where plant
+cover was high. This may indicate that competitive
+exclusion limits seedling establishment and persistence
+at high levels of understory plant abundance (Grime
+1979).
+The observation that understory richness was lower
+where overstory abundance was higher can be explained
+entirely by the fact that understory abundance was low
+where overstory abundance was high. Thus, we found no
+evidence of unique effects of forest structure on richness.
+This contrasts with Weiher’s (2003) finding that tree
+Table 2. Prediction equations with unstandardized coefﬁcients.
+Prediction equations*
+RICH/25.66/28.52*ABUN/0.0731*FIRETIME
+ABUN/0.480/0.003*PINE/0.00015*OAK/5.07e8*
+OAK2/0.000244*FIRETIME /0.035*FIREFREQ
+PINE/11.98/0.1715*FIRETIME/4.2*FIREFREQ
+OAK/153.546/18.526*SLOPE/4.71*PINE
+*Where,
+RICH/understory
+richness/number
+of
+species
+per
+0.1 ha;
+ABUN/understory
+abundance/Ln(%cover/
+100/1); FIRETIME/time-since-fire/years since last burn;
+PINE/pine
+abundance/ponderosa
+pine
+basal
+area
+per
+hectare; OAK/oak abundance/Gambel oak trees per hectare;
+OAK2/square of OAK; FIREFREQ/number of fires since
+1880/118 years; SLOPE/% slope
+Fig. 4. Speciﬁc model results (x2/
+11.7, 9 df, P/0.23) with
+standardized path coefﬁcients. The
+size of the arrow is proportional to
+the strength of the path.
+Understory
+richness
+Understory
+abundance
+Pine
+abundance
+Oak
+abundance
+Time
+since
+fire
+Fire
+frequency
+Slope
+0.28
+0.49
+–0.38
+–0.75
+–0.31
+0.62
+0.44
+0.42
+ns
+–0.72
+R2=0.64
+R2=0.22
+R2=0.72
+R2=0.21
+Pctslope
+Firetime
+Firefreq
+Oakden
+PineBA
+LogCover
+Rich
+–0.09
+0.95
+0.97
+1.0
+1.0
+1.0
+0.97
+0.95
+–0.26
+1.0
+0.95
+66
+OIKOS 114:1 (2006)
+
+canopy had a direct effect on richness, yet virtually no
+effect on herbaceous biomass. In this system, pine trees
+intercept light (Naumburg and DeWald 1999), intercept
+precipitation (McLaughlin 1978), produce abundant
+needle-fall, and can compete for soil nutrients, all of
+which can negatively impact herbaceous productivity.
+Riegel et al. (1995) concluded that limiting resources
+such as light, water, and nutrients affected understory
+species composition in ponderosa pine forests based on
+individual species responses’ to resource manipulation.
+It would seem that ponderosa pine has a strong influence
+on the understory plant community. Furthermore, our
+evidence implies that pine abundance may have a slight
+negative effect on oak abundance, likely due to resource
+competition, but oak abundance had no detectable
+reciprocal effect on pine abundance in this case.
+Oak abundance was positively related to topographic
+slope in this system. This result may be specific to North
+Rim forests, as Gambel oak can readily grow on flat
+terrain in other pine forests in northern Arizona. Oak
+abundance was unimodally related to understory abun-
+dance (data not shown). Low to moderate densities of
+oak trees had a positive association with understory
+production, which may be mediated by oak litter, as oak
+positively influences soil fertility (Klemmedson 1987,
+1991). Soil nutrient content, which was not measured in
+this study, may have contributed to unexplained variance
+in the model (Grace et al. 2000, Weiher 2003, Weiher
+et al. 2004). However, understory abundance began to
+decline as oak densities surpassed 1500 trees ha1.
+Therefore, the positive path (0.28) should be interpreted
+as showing that intermediate levels of oak are associated
+with maximum understory abundance. This result clari-
+fies the relationship found in Laughlin et al. (2005),
+where pine-oak forests had much greater plant cover and
+slightly greater plant species richness than pure ponder-
+osa pine forests, and agrees with Weiher (2003) who
+found weak positive effects on a variety of plant species
+when oak canopy was moderate.
+Time-since-fire appears to have a strong negative total
+effect on understory richness (/0.84) in this system,
+with some of the influence mediated by positive influ-
+ences on overstory abundance, some mediated by
+negative
+influences
+on
+understory
+abundance,
+and
+some of the influence represented by a negative direct
+path. Several different processes would seem to be
+operating here. The strong positive association between
+time-since-fire
+and
+pine
+abundance
+exists
+because
+pine abundance increases during long, fire-free intervals
+(/100 years in some cases). Long-term absence of fire
+allowed pine seedlings and saplings to develop into
+–0.43
+–0.58
+–0.39
+0.49
+0.44
+R2=0.64
+R2=0.20
+R2=0.71
+0.44
+ns
+Abiotic
+gradients
+Disturbance
+history
+Overstory
+abundance
+Understory
+abundance
+Understory
+richness
+Fig. 5. General model results (x2/13.0, 10 df, P/0.23) with
+standardized path coefﬁcients. Constructs variously represent
+individual or collections of latent variables. The size of the
+arrow is proportional to the strength of the path.
+Table 3. Sensitivity analysis of model parameters and model ﬁt with respect to changes in estimated measurement error.
+Measurement error
+Model pathways
+Zero
+Used in model (Fig. 4)
+Double
+Understory abundance to understory richness
+0.46
+0.49
+0.52
+Time-since-fire to understory richness
+/0.36
+/0.38
+/0.42
+Oak abundance to understory abundance
+0.28
+0.28
+0.27
+Pine abundance to understory abundance
+/0.29
+/0.26
+/0.19
+Time-since-fire to understory abundance
+/0.62
+/0.75
+/1.0
+Fire frequency to understory abundance
+/0.20
+/0.31
+/0.53
+Slope to oak abundance
+0.42
+0.42
+0.42
+Pine abundance to oak abundance
+/0.09
+/0.09
+/0.10
+Oak abundance to pine abundance
+ns
+ns
+ns
+Time-since-fire to pine abundance
+0.51
+0.62
+0.80
+Fire frequency to pine abundance
+0.33
+0.44
+0.61
+Time-since-fire with fire frequency
+/0.72
+/0.72
+/0.72
+Model fit
+Chi-square
+14.0
+11.7
+9.8
+df
+9
+9
+9
+P
+0.12
+0.23
+0.37
+Table 4. Standardized direct, indirect, and total effects on
+understory richness (ns refers to a nonsigniﬁcant effect).
+Factors
+Direct
+Indirect
+Total
+Understory abundance
+0.49
+0.49
+Oak abundance
+0.14
+0.14
+Pine abundance
+/0.13
+/0.13
+Time-since-fire
+/0.38
+/0.46
+/0.84
+Fire frequency
+/0.21
+/0.21
+Slope
+0.06 ns
+0.06 ns
+OIKOS 114:1 (2006)
+67
+
+mature trees and thereby contribute to larger stand
+volumes. In contrast, the strong negative direct path
+from
+time-since-fire
+to
+understory abundance
+may
+represent post-fire stimulation of herbaceous primary
+production, either through the release of nutrients into
+the soil (Covington and Sackett 1992), or a reduction of
+built-up plant litter on the soil surface. Thus, forests
+without fire show a decline in understory abundance
+above and beyond what can be explained simply by
+increases in pine abundance. These processes ultimately
+resulted in a loss of approximately one plant species per
+0.1 ha per decade (Fig. 3) when fire is excluded from
+these forests.
+The direct path from time-since-fire to understory
+richness implies an effect that is independent of overs-
+tory or understory abundance. We think it is possible
+that this represents post-fire stimulation of richness,
+either by creating previously unavailable habitat, or by
+stimulating fire-tolerant and fire-dependent species. Low
+intensity fires can produce high amounts of small-scale
+heterogeneity, since slight variability in fuel load and
+moisture can determine whether an area will burn or not
+(Huston 1994, Bond and van Wilgen 1996). This
+heterogeneity can potentially create opportunities for
+fire-tolerant
+species
+(Watson
+and
+Wardell-Johnson
+2004), allowing for the coexistence of numerous species.
+Heat and smoke from fires can also stimulate germina-
+tion of understory species (Keeley 1991). For example,
+germination of Penstemon barbatus, a native forb,
+increased dramatically after exposure to smoke (Abella
+2005). This may be another important mechanism of
+post-fire stimulation of plant richness that has been little
+studied in this system. Furthermore, the increased
+availability of light to the soil surface following a burn
+allows for the germination of annual species (Grime
+1977, Gibson 1988). Pine forests that have not burned
+for over 70 years had significantly fewer annual species
+than forests that burned recently (Laughlin et al. 2005),
+and annual species responded positively to a low-
+intensity fire on the North Rim of GCNP (Laughlin et
+al. 2004).
+The implied effects of fire frequency are perhaps the
+most counterintuitive results in the model. The bivariate
+relationships between fire frequency and understory
+abundance and richness (Table 1) were significant and
+positive (r/0.23, 0.44, respectively). However, once
+time-since-fire was statistically controlled, model results
+implied that areas with more frequent fires have lower
+richness than otherwise expected. In other words, these
+results suggest that if we could hold time-since-fire
+constant for all plots, we would see that those plots
+with high fire frequencies have comparatively low
+richness. This appears to result primarily from a positive
+association between frequent fires and pine abundance
+and
+negative
+association
+between
+frequent
+fires
+and understory abundance. We interpret the positive
+association with pine abundance as an indication that
+multiple fires have a thinning effect on pine seedlings and
+saplings, thereby allowing the old-growth pine trees to
+grow larger faster and contribute to greater stand
+volumes (Feeney et al. 1998). We interpret the negative
+association of frequent fires with understory abundance
+as an indication that multiple fires can harm understory
+production, possibly by depletion of soil N after
+repeated exposure to surface fire (Binkley et al. 1992,
+Wright and Hart 1997). Because of the counterintuitive
+nature of the results and the fact that fire frequency was
+very conservatively measured, we consider paths from
+fire frequency as tentative until later confirmed in
+subsequent multivariate studies. However, these results
+exemplify the strength of structural equation modeling
+as a tool for analyzing complex relationships among
+many variables, since traditional univariate techniques
+could not have detected these residual effects (Grace and
+Pugesek 1997, 1998). In other studies, herbaceous
+species richness has been found to be negatively related
+to fire frequency in tallgrass prairie (Collins et al. 1995),
+but positively related to fire frequency in loblolly pine
+forests (Lewis and Harshbarger 1976, Waldrop et al.
+1987). Based on the limited data available at present, it
+appears that fire frequency may not have a consistent
+relationship to richness across systems.
+General theories about disturbance and species diver-
+sity are well supported in surface fire-adapted montane
+forests. Moderate disturbance frequencies increase di-
+versity by reducing rates of competitive displacement,
+but high frequencies can reduce diversity through direct
+species loss. In montane systems, fire history is clearly a
+strong influence on plant species richness, but the
+structural equation model results suggests that there is
+a delicate balance between time-since-fire and fire
+frequency and that some of these effects are mediated
+through overstoryunderstory interactions.
+These data and analyses also suggest that multivariate
+models of richness, such as those used to understand
+patterns in herbaceous communities (Grace and Pugesek
+1997, Gough and Grace 1999, Grace and Jutila 1999,
+Grace et al. 2000), can be expanded to incorporate the
+mediating effects of the forest overstory (Fig. 5). It
+would seem that in general, forest overstories can,
+among other things, reduce understory abundance and
+the importance of competition among herbaceous spe-
+cies in regulating richness. At the same time, while not
+found in this study, there are other cases where the
+overstory has been found to have unique influences on
+understory richness (Weiher 2003), which remain to be
+explored fully. In this case, the overstory completely
+moderated the effects of abiotic gradients on understory
+abundance. Disturbance, on the other hand, had unique
+influences on both understory abundance and richness,
+representing cumulative effects of fire history.
+68
+OIKOS 114:1 (2006)
+
+This example contributes to a growing body of
+literature indicating that abiotic and biotic factors and
+their complex interactions are important in regulating
+spatial and temporal variation in plant species richness
+across landscapes. Structural equation models, while
+often reflecting specific influences in each system stu-
+died, appear to be consistent with a general multivariate
+model in which variations in disturbance, abiotic condi-
+tions, overstory, and understory conditions combine to
+explain broad patterns of plant species richness. Further
+studies, including both a greater range of conditions and
+those that seek to test model predictions, either experi-
+mentally or with additional observational data, should
+provide additional insight into the adequacy of this
+model to represent diversity regulation in fire-adapted
+forest systems.
+Acknowledgements  We thank P. Fule´, E. Weiher and M.
+Bowker for their insight early on in the development of this
+paper, and we are grateful to the National Park Service, the
+Bureau of Land Management, and the Joint Fire Science
+Program for support.
+References
+Abella, S. R. 2005. Environmental and vegetational gradients
+on an Arizona ponderosa pine landscape: implications for
+ecological restoration. PhD thesis.  Northern Arizona
+Univ., Flagstaff, AZ.
+Agee, J. K. 1993. Fire ecology of Paciﬁc Northwest for-
+ests.  Island Press.
+Belsky, A. J. and Blumenthal, D. M. 1997. Effects of livestock
+grazing on stand dynamics and soils in upland forests of the
+Interior West.  Conserv. Biol. 11: 315327.
+Binkley, D., Richter, D., David, M. B. et al. 1992. Soil chemistry
+in a loblolly pine forest with interval burning.  Ecol. Appl.
+2: 157164.
+Bollen, K. A. 1989. Structural equations with latent variables.
+ John Wiley & Sons.
+Bond, W. J. and van Wilgen, B. 1996. Fire and plants.  Chap-
+man & Sons.
+Collins, S. L., Glenn, S. M. and Gibson, D. J. 1995. Experi-
+mental analysis of intermediate disturbance and initial
+ﬂoristic composition: decoupling cause and effect.  Ecol-
+ogy 76: 486492.
+Covington, W. W. and Sackett, S. S. 1992. Soil mineral nitrogen
+changes following prescribed burning in ponderosa pine.
+ For. Ecol. Manage. 54: 175191.
+Crawford, J. A., Wahren, C.-H. A., Kyle, S. et al. 2001.
+Responses of exotic plant species to ﬁres in Pinus ponderosa
+forests in northern Arizona.  J. Veg. Sci. 12: 261268.
+Farris, C., Baisan, C. H. and Swetnam, T. W. 2004. A
+comparison
+of
+ﬁre
+histories
+derived
+from
+ﬁre
+scars
+and mapped perimeters in a frequently burned Arizona
+wilderness area.  89th Annu. Meeting Ecol. Soc. Am.,
+Portland, OR.
+Feeney, S. R., Kolb, T. E., Covington, W. W. et al. 1998.
+Inﬂuence of thinning and burning restoration treatments on
+presettlement ponderosa pines at the Gus Pearson Natural
+Area.  Can. J. For. Res. 28: 12951306.
+Fox, M. D. and Fox, B. J. 1986. The effect of ﬁre frequency on
+the structure and ﬂoristic composition of a woodland
+understorey.  Aust. J. Ecol. 11: 7785.
+Fule´, P. Z., Covington, W. W., Moore, M. M. et al. 2002.
+Natural variability in forests of the Grand Canyon, USA.
+ J. Biogeogr. 29: 3147.
+Fule´, P. Z., Heinlein, T. A., Covington, W. W. et al. 2003.
+Assessing ﬁre regimes on Grand Canyon landscapes with
+ﬁre-scar and ﬁre-record data.  Int. J. Wildland Fire 12:
+129145.
+Gibson, D. J. 1988. Regeneration and ﬂuctuation of tallgrass
+prairie vegetation in response to burning frequency.  Bull.
+Torrey Bot. Club 115: 112.
+Gildar, C. N., Fule´, P. Z. and Covington, W. W. 2004. Plant
+community
+variability
+in
+ponderosa
+pine
+forest
+has
+implications for reference conditions.  Nat. Areas J. 24:
+101111.
+Gough, L. and Grace, J. B. 1999. Predicting effects of
+environmental change on plant species density: experimental
+evaluations in a coastal wetland.  Ecology 80: 882
+890.
+Grace, J. B. 1999. The factors controlling species density in
+herbaceous plant communities: an assessment.  Persp.
+Plant Ecol. Evol. Syst. 2: 128.
+Grace, J. B. 2006. Structural equation modeling and the study of
+natural systems.  Cambridge Univ. Press.
+Grace, J. B. and Pugesek, B. H. 1997. A structural equation
+model of plant species richness and its application to a
+coastal wetland.  Am. Nat. 149: 436460.
+Grace, J. B. and Pugesek, B. H. 1998. On the use of path
+analysis and related procedures for the investigation of
+ecological problems.  Am. Nat. 152: 151159.
+Grace, J. B. and Jutila, H. 1999. The relationship between
+species density and community biomass in grazed and
+ungrazed coastal meadows.  Oikos 85: 398408.
+Grace, J. B. and Guntenspergen, G. R. 1999. The effects of
+landscape position on plant species density: evidence of past
+environmental effects in a coastal wetland.  Ecoscience 6:
+381391.
+Grace, J. B. and Bollen, K. A. 2005. Interpreting the results
+from multiple regression and structural equation models.
+ Bull. Ecol. Soc. Am. 86: 283295.
+Grace, J. B. and Keeley, J. E. 2006. Structural equation model of
+factors affecting postﬁre plant diversity of Mediterranean-
+climate shrublands in California.  Ecol. Appl., in press.
+Grace, J. B., Allain, L. and Allen, C. 2000. Factors associated
+with plant species richness in a coastal tall-grass prairie.
+ J. Veg. Sci. 11: 443452.
+Grime, J. P. 1977. Evidence for the existence of three primary
+strategies in plants and its relevance to ecological and
+evolutionary theory.  Am. Nat. 111: 11691194.
+Grime, J. P. 1979. Plant strategies and vegetation processes.
+
+John Wiley & Sons.
+Gross, K. L., Willig, M. R. and Gough, L. 2000. Patterns of
+species density and productivity at different spatial scales in
+herbaceous plant communities.  Oikos 89: 417427.
+Harrison, S., Safford, H. D., Grace, J. B. et al. 2006. Regional
+and local species richness in an insular environment:
+serpentine plants in California.  Ecol. Monogr., in press.
+Heise, D. R. 1972. Employing nominal variables, induced
+variables, and block variables in path analysis.  Sociol.
+Methods Res. 1: 147173.
+Huisinga, K. D., Laughlin, D. C., Fule´, P. Z. et al. 2005. Effects
+of an intense prescribed ﬁre on understory vegetation in a
+mixed conifer forest.  J. Torrey Bot. Soc. 132: 590601.
+Huston, M.A. 1994. Biological diversity.  Cambridge Univ.
+Press.
+Keeley, J.B. 1991. Seed germination and life history syndromes
+in the California chaparral.  Bot. Rev. 57: 81116.
+Klemmedson, J. O. 1987. Inﬂuence of oak in pine forests of
+central Arizona on selected nutrients of forest ﬂoor and soil.
+ Soil Sci. Soc. Am. J. 51: 16231628.
+Klemmedson, J. O. 1991. Oak inﬂuence on nutrient availability
+in pine forests of central Arizona.  Soil Sci. Soc. Am. J. 55:
+248253.
+Laughlin, D. C., Bakker, J. D., Stoddard, M. T. et al. 2004.
+Toward reference conditions: wildﬁre effects on ﬂora in an
+old-growth ponderosa pine forest.  For. Ecol. Manage. 199:
+137152.
+OIKOS 114:1 (2006)
+69
+
+Laughlin, D. C., Bakker, J. D. and Fule´, P. Z. 2005. Understory
+plant community structure in lower montane and subalpine
+forests, Grand Canyon National Park, USA,  J. Biogeogr.
+32: 2083 2102.
+Lewis, C. E. and Harshbarger, T. J. 1976. Shrub and herbace-
+ous vegetation after 20 years of prescribed burning in the
+South Carolina coastal plain.  J. Range Manage. 29: 13
+18.
+McLaughlin, S. P. 1978. Overstory attributes, light, throughfall,
+and the interpretation of overstory-understory relationships.
+ For. Sci. 24: 550553.
+Mittelbach, G. G., Steiner, C. F., Scheiner, S. M. et al. 2001.
+What is the observed relationship between species richness
+and productivity?  Ecology 82: 23812396.
+Moore, M. M. and Deiter, D. A. 1992. Stand density index as a
+predictor of foreage production in northern Arizona pine
+forests.  J. Range Manage. 45: 267271.
+Moore, M. M., Covington, W. W. and Fule´, P. Z. 1999.
+Reference conditions and ecological restoration: a South-
+western ponderosa pine perspective.  Ecol. Appl. 9: 1266
+1277.
+Muthe´n, L. K. and Muthe´n, B. O. 2005. Mplus user’s guide
+(second edition).  Muthe´n and Muthe´n.
+Naumburg, E. and DeWald, L. E. 1999. Relationships between
+Pinus ponderosa forest structure, light characteristics, and
+understory graminoid species presence and abundance.
+ For. Ecol. Manage. 124: 205215.
+Palmer, M. W. 1994. Variation in species richness: toward a
+uniﬁcation of hypotheses.  Folia Geobot. Phytotaxon. 29:
+511530.
+Riegel, G. M., Miller, R. F. and Krueger, W. C. 1995. The effects
+of aboveground and belowground competition on unders-
+tory species composition in a Pinus ponderosa forest.  For.
+Sci. 41: 864889.
+Swetnam, T. W. and Baisan, C. H. 1996. Historical ﬁre regime
+patterns in the southwestern United States since AD 1700.
+ In: Allen C. D. (ed.), Fire effects in southwestern forests.
+Proc. 2nd La Mesa Fire Symp. USDA For. Service General
+Tech. Rep. RM-GTR-286, pp. 1132.
+Waide, R. B., Willig, M. R., Steiner, C. F. et al. 1999. The
+relationship between productivity and species richness.
+ Annu. Rev. Ecol. Syst. 30: 257300.
+Waldrop, T. A., van Lear, D. H., Lloyd, F. T. et al. 1987. Long-
+term studies of prescribed burning in loblolly pine forests of
+the southeastern coastal plain.
+
+USDA For. Service
+General Tech. Rep. SE-45.
+Watson, P. and Wardell-Johnson, G. 2004. Fire frequency and
+time-since-ﬁre effects on the open-forest and woodland
+ﬂora of Girraween National Park, south-east Queensland,
+Australia.  Aust. Ecol. 29: 225236.
+Weiher, E. 2003. Species richness along multiple gradients:
+testing a general multivariate model in oak savannas.
+ Oikos 101: 311316.
+Weiher, E., Forbes, S., Schauwecker, T. et al. 2004. Multivariate
+control of plant species richness in a blackland prairie.
+ Oikos 106: 151157.
+Wright, R. J. and Hart, S. C. 1997. Nitrogen and phosphorus
+status in a ponderosa pine forest after 20 years of interval
+burning.  Ecoscience 4: 526533.
+70
+OIKOS 114:1 (2006)

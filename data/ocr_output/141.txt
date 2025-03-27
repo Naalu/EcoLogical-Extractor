@@ -1,0 +1,2735 @@
+Page 1:
+Fucks ond Fine fichevior Modeling Using Remotely Sensod Dots om the Sen Framciaco
+Pooks, Arisoae
+
+doacph Edward Crowae
+
+AThesia
+‘Sebanitted in Portia! Fulfillment
+of the Reqquinements fer the Degres of
+Master of Scicmce
+in Foneary
+
+‘Northern Arizoae Univernity
+December 2005
+
+Approved:
+
+Pesce 2. Fuld, PRD. Co-Cheir
+‘Margoret M. Moore, Ph.D. Co-Cheir
+
+Greyden:
+
+
+
+Page 2:
+OUELS AND FIRE BEHAVIOR MODELING WING REMOTELY SENSED
+DATA ON THM SAN FRANCISCO PRAKS, ARIZONA
+
+Joseph Edward Crowne
+
+Mubi-dete Advanced Speceborme Thermal Emiauna sad Refiection Radhometer
+(ASTER) sptcling imagery we classified to develop dats layers for 4 portoe of the Sam
+Fromcasco Peaks im northern Arona. The dats layers were developed tobe ward as
+apes to fe simmlaticn models. Prir-wise compariscns of ll mapped layers showed thet
+cnly four layers were miatcally different. Kappa smalyms showed thet twenty-four of
+he thirty-nine clasaified layer were uatatically beter thea chamce.
+
+(Crown fee activity waa madd wuing the Flambap fic simtation program.
+‘Simelnaons were ron yang 10, 40, ond 70 kent wond speed. Aree of active crow fee
+increouad by 221% between the 10 aad 70 km/hr wind speed sceamrion. At the lomdacape-
+level, mona peach sine of active crown flee mcroeurd over 700% thom tay 1040 70 ater
+‘wind spood scemerioa aad the member of pices Gecrensod by 60% betwen 10 ead 20
+lemte wind apeod scenerin. At te clauctevel active crow fre meen potch sine
+‘ncroaaed seghity moll five forest types (aspen, brutlecane pine, mixed comer,
+pomdere pane, aad sprece fic) with crooning wred apood. The member of patches
+incrosaod, tthe claat-Level, betwen te 10 and 40 banat wind speed sceaneing bt
+(ended to decreas betweee the 40 sad 70 kant wind speed scemenioa. An Erosion lades
+‘mel to wdeatty aren that hed o high potcatil for cromna was created wuing abope,
+
+
+Page 3:
+‘comme wondy drbeis (1000 howe sox nad rotten feels). ond cet-ece layers crested ia
+10, 40, and 70 kant wind epoed simulations, os inpatn
+
+
+Page 4:
+ACKKNOWLEDG IMENTS.
+
+‘This reacerch wo fumed by the USDA Fares Service Rocky Moyatnia Rescerch Station
+208 USO Bereos of Land Momepement,
+
+A lage: heal. you to De. Peter Felt for giving me the opportynity to conve ths
+reseeech and for being auppantive of oll my work with he ERI: to Dr. Margerct
+Moar for eacouraging ne tnroughow! this project sad for hiriag me to wrk cm
+the Woolacy project, wad to Dr. G. Lennie Beslan for shoring bis exieaaive kaowindge
+of remote semsing with me sad for being a mentor for neesty 20 year.
+
+Nome of thia wold have boca posible withow! the erheasive help from thesia
+nd saobents, pact and pescat, with the ERI. Thanks 20 al thet crrid bags of
+eae, jugs of ante, Bed gene. sad everything clue we needed to conduct the
+fieldwork. We dd on incredibie amowat of work ond bad 2. greet time doing it
+‘Special cheaks go out to thane, perticwlety Aliana Cooke, David Maffmge, Rabia Long,
+IP Raccelorte, aad Fedy Springer, thet have bees exiremcly supportive trowghout ke
+vntire praceat
+
+FFinglly. a special thenk: you to my wie Swagm aad opr chldren, Rye, Asean, Jomtien,
+‘ad Keiacy. They hve supported me throvghow! this endeavor sad | coulda’! eve dome
+4 witha them Thanks to Seaen for pusing wp with 21 years of my fickdwork.
+
+
+Page 5:
+UST OF TABLES.
+UST OF MOURES.
+
+Be
+
+?
+
+|
+i
+
+i
+
+CHAPTER THREE
+
+FUELS MAPPING ON THE SAN FRANCISCO PEAKS, ARIZONA, USING HIGH
+RESOLUTION SATELLITE IMAGERY.
+
+®
+
+afl
+
+SESESSRE
+
+
+
+Page 6:
+Fiskd Oom.
+Species and Canopy Cover Claesifcation
+
+Accuracy Aneoomen
+
+‘Sowces of Clenificution Ere.
+Conchaions and Menagement beplicetions
+Canerears Coed,
+
+wesessss
+
+CHAPTER FOUR.
+
+FIRE BEHAVIOR MODELING.
+
+href
+
+(Crown Fave Acaiviy.
+Maw Peach Siw and Wanbor of Peaches end Exosion inden.
+
+f
+
+‘Active Crown Fire Bohevior.
+Fire Etfocs.
+
+Conchaions and Menagement heplicetions
+Cerears Coed.
+
+BREHAISSERaLSESss ¥
+
+Append |
+Appendin 2
+Append 3
+Appendin 4
+Append 5
+
+e#sens8
+
+2
+
+
+
+Page 7:
+List of Taos.
+
+‘Tobie 3.) Stand strectore ond stedy tise cherscteritie toe from the permeneat plot
+sdeda. These deta were vaod to develop the mepervised training sic signenure
+fide. This file we waed to claaify the throe ASTER imege combinetions.... $0
+
+‘Tobie 32 Fecis ummery ctticice, fom the 135 permeneat plots, by fares! type.
+Poniive sewmeas volves indicote dela showed to ae right. Skrwness is
+‘comaiberod significond ifthe cbaolyle vebee is >2. Woody fects in Migfha...$1
+
+‘Tobie 3.3 Total eee (he) and perven cover by fares! type me ctanitied ty the three
+image combinetions, st
+
+‘Tobie 34 Total eee (he) of comapy cover closers wt clnasifid by the tangs image
+‘combineticns. St
+
+‘Tobie 3S Accuracy nascuament romits tor ail Hirer image combinesions. Layers
+secaty beer tam mom ae shown in bold. Alpe 5: Woody
+
+‘Table 6 Poirier comparisons of sl mnpped Inyers. Z ststintic aad (prvobee) ae
+shown. Layers thd are significantly dificreat are shown in bold. Alpha is
+0.05. me = Z amiatic could not be caiceloaed becavar one or mare KHAT
+‘vohecs were megesive or ner. sa
+
+‘Tobie 4.1 Nomber of peices ond mean patch size. in arene of active crow fire. o lw
+smodervic, ond high wind speeds m the loadacape-tevel a
+
+‘Tobie 4.2 Nember of peices, ond mean petch size, in areas of active crown fire, of ow,
+madereic, ond high wind spoeds forthe five forest types. a2
+
+
+Page 8:
+List of Figures
+
+Wigere 3.1 Eicvoticnel grodicat wish 135 permeneat plots oa the Sen Fremciaco Peaks,
+mortherm Arizang, ”
+
+Wigere 4.1, Perceat of lendacape by forest yp. n
+
+igure 4.3 Fire behevior classcs wader how (10 kawfer), moderotc (40 have), ond high
+(70 kav) wind conditions fer graph shows once of the active crown fire
+‘class under wind conditions from 10-40 gad 70 kate to mare cheney
+identity the active cromm fire threshold. nm
+
+Wigere 4.3 Area of active crown fire in the five forest types wader low, madernée, aad
+(high wind conditions. ”
+
+Wigere 44 Hestores vader active crown fire conditions sax low, maernic, aad high
+‘wind conditions. ”
+
+Wigere 45 Hestares vader active crown fire conditions sax low, maernic, aad high
+‘wind conditions far the five fare types. 0
+
+igure 4.6 Arcos of high crosion poteaial wader active crows fic conditions sad tow,
+moderate. sad high wind condition. Model persmcters wacd were slopes >
+10%, coer woody debris > 0 aad eaVoren 229.385 Km’ for the 10 haven
+scenario, 227,554 Kim? for the #0 har acenerin, end 237,393 Kim” for
+‘the 70 have scenario.
+
+
+
+Page 9:
+pmaracx
+
+‘Thi thesis wpe writen im memgacript form. Rect of this eee is aname redundancy
+bergen the ldernture review ond the two mempscript chepters,
+
+
+Page 10:
+CHAPTER ON,
+
+INTRODUCTION
+
+‘Lond ar meangement decisions on fing exchytion sad livestock grezing in pomteross.
+pime-domineaod tikes in the Sonttivest here remelned im increases im tex semaity, comogy
+‘cover, vertical fel commectivity, end feel loadings. These iacrosses hove hod to the
+fpotemtial for mare severe aad larger wikifires (Covington sad Moore 1994, Swetem of
+241999) leginning ny the early 19900, it ws recopnizad thes overgraring sad fine
+supprcasion hed tod to dense forest comfiticns emf exceasive fects nad the the “fee
+Ihezend hes incrcesed tremeadouly wad ix continging to increase” (Weaver 1951). Mixed
+‘conifer and sproce-fisforeans heve elao experienced chenges im tee deasitics.
+
+‘The occurrence of lenget aad mone imtcase Bires requies that more Inad meneger: become
+‘femmes widh fie and the voriables thet determine its bebeviar. Pyme cf af. (1996)
+sdacosacd the concept of the “five cnviscameed” (Covatrymen 1972) wthere iapogrephy,
+foc, weather ond the ine iacHf pee inserective variables thet mike up the fle:
+‘enviroment, The interoction of thea variables determines the charnctenitics ad
+Icheviar of a fire. Vepetntinn, woody, pad forest floor fucks are th only compomcats of
+te fire cavircaancat thes com be memipuleted by lnndvar meangers. Fires of the acsie aad
+severity ofthe ~200,000 be. Rageo-hodiski fee that scrum in egstern Ariza in 2002
+‘are uapsecedented end show thatthe development of methods to accuresely eatimene fuels
+hes become eatentiod
+
+
+Page 11:
+‘The ste far the neaconch presented in chis thesia it the Sa Fromcince Peaks. The Pooks
+ste made wp of a member of peaks, ome of which, Humphreys Penk. isthe tlie! ovata
+in Arizona. The Peaks one sm importend ecological and colterel resource. The seep
+sevetonel prediat of te Peaks slows fr 6 waique opporwaity to work withia meaty
+1 ferent Boar fel conditions fond im tae Sourorat. They aan serve 08 0 souece of
+‘drinking woder for the seroyading aren, provide recreational opporwaitcs. after sine
+in the Kaching Peaks Wildereas, serve aaa nefagin for species thal once ecowred over
+mich of the Scarreal (Mitton ct ol. 2000), sad hd a spiritual significance for Native
+American tribes scram the Colored Plates.
+
+(Cocke (2005) fond thet « moderne imcresuc ia mixed comer wee density bed occured
+21 thin ened aie. Sproce-tie wor Gemaity increases, whike lower thea thet of ponderoas
+Pine ond mized conifer san accwared. Simulor ndings have beca reported im pomdcnnss
+Pine, mixed comifer, ond faeces type in Greed Coayon Necionel Perk, Ariane,
+bby Whine sad. Veni (1993) and Felt ot ol. (20033. Thear anusics conchoded the fees ia
+the ponderose pine end mized conifer foneal types anc bly to be larger in exicat then,
+(peat Frcs ond will bora with a higher acwerity.
+
+Fine hes played a meternl role in meintnining the ecological balsas ca the Pegi
+‘Dictcrich (1980) ond Heinicia (2005) fovnd mesa fre nctor intervala of roughly five
+‘years or leas im stadia conducted im lee pondcsoss pine sad mixed comifer aomet om the
+
+Seance Pocket api geist then es may hve bared wp nts
+higher clevetion aproce-fr sad briatiecome pine foretl types om opcasina. Sprwce-fle
+
+
+Page 12:
+‘eves wauolly burn wih siod-coptocing intensities (Taylor aad Fane 1990, Apket eta
+1990) and the kapcgraphy ofthe Pooks wowkd make sch 2 ie penicelarty dificult
+‘antein. Photographs from ta caty 19008 chow large burned are cn the Peaks. Scam
+of apen onthe Peaks imbicote the larpo-acake dianartomces,lkcty dee t0 fre have
+‘secured. The Pemplin fe, ignitod by lightning in 2000, burmod approsimesety 000 be,
+‘om Kendrick Pook. This 3.100:m peak is located approsimesety 18 han nortiwest of tae
+‘Sem Frenciaco Pooks end hes the seme fares! types. Heavy fect landing sad low feet
+moiatere. he to deougha condita, contritied to high fie acrerity.
+
+Fines have mot occurred ta the high elevation forests of the Peeks for ome or more
+‘ceamerien. The Lerous fre of 2001 began ia the pomderose pine forest type oad quickly
+tbunod ove omce ia veechod the acpen domineted midvetevation forest. Neat average
+smodatore Levels likely prevented it fram reaching the higher elevations (Cocke 2008).
+‘This exnended fie-frve period coupled with high prodhectivity hea reuvlicd in the spruce:
+‘he foes ype heving the preston! smoyat of large woody fvels end forest floor fet.
+(Dering catemdod periads of deough. hres may be expected ko cory tarough the aprece- fir
+‘treat type wie as high ree density ond Icey eccwmulation of forte
+
+‘The question of whet role fiec should cerreatty ploy om the Peaks is complicated by the
+Federal Wilderness designetinn of mych ofthe aren. The Wildermeas Act of 1964 states
+thes wildermcas should have minimal impacts of bagemgm activities ttt alan atgtes chad it
+bbe “meneged a0 9810 preserve itt metws comfitinas” Ecalogicel aad sociel campers
+smal be considered belone re-intradicing fire tothe Peska. lames rcated to emake aad
+
+
+Page 13:
+the potential for fie to crane prescribed Gre boundries ore richa ted lend menegers mist
+‘comider (vem Waghendanh 1995). Preacribod metered Bree howe boon wedi other
+‘wildernoas seces (Perioms 2000) snd because of access ines mey be the mast
+‘ppropriete method offre reintrodection (Miller 2003).
+
+‘My objectives in thin study were: (re decry emg specie, concpmmercr. aad fet
+‘lens lobe to te Pooks lendacape Ihncugh the vac of s meperviaed clensificating, 240
+‘svaleete the ctlctivences of a mukt-acmparel detnact, wi Ges spotielresnivtion thon
+‘Lamdaet Themetic Mapper (TM) and Eahnaced Themetic Mapper Phas (ETM+) dots, 12
+develop overuiory vepstosinn, sad both dead mandy sad forcst flor feel layers, 3) 12
+‘reeks the required inpune (chevetion, shape, aspect, foc! madcl and camopy coves) na well
+‘the optional layers of de Landing ond cogrne mandy debris thet wold slow ne bo
+mode! fie behevior wing the FlamMop model (Finney in preperation), 4) 40 wae
+Flamop to simalate active cromm fire bebnvior aad eet'ares at low, madera, aad high
+‘wind apends, 5} to analyze the chenge in the number of patches wad mean patch sizes
+‘wader low, moder, and high wind sneote, end 6) to develop x made! 10 ieatify wrest
+‘wah a high poteaial for erosion following 2 wide.
+
+
+Page 14:
+Unerstere Cited
+
+‘Aplet Gil, Laven RD, Sanish FW (1998) Patterns of community Gynqmnics ia Colores
+Engelmene proce-aubalpine fi forests. Ecology 312-319.
+
+(Cocke AE, Feld PZ, Crowe JE (200$) Farce change cm a uesp movacnia srodicn efter
+‘eutended fie exclusion: Sea Froaciaco Peeks, Ariane, USA. Joanual of Applied
+Erology $,314-823
+
+(Cocke AE. Feld PZ. Crowe JE (2005) Comperizon of burn acverity ecsamests using
+Differeaced Normalized Burn Ratio and grovad deta. Aniertariona Jomrsal of
+Remnte Sensing 14, 189-198,
+
+‘unarymen CM (19772) The fine eavisonmment concept. USDA Fareat Service. Pacific
+‘Souler Foren aad Range Esperiment Station, Bertctey. CA. 12 pp.
+
+(Covingiom WW, Mocre MM (1994) Sotbwestem pomderaun pine fore snectye:
+‘changes since Euro-American scttement. Journal of Foeestry 1, 347
+
+Dieterich, JL 1980. Chimney Spring foret! fire hiary. USDA Farcat Service Reseach
+Peper RM-220, Rocky Moyainin Fores aad Naage Experimeat Station, Fost
+Collins, CO-3 pp.
+
+Finncy MA In pecperstioa. FlemMap. Missovie. MT: USDA Forest Service. Rocky
+Mowainin Rearerch Seating, Fire Srieares Laks.
+
+Feld PZ, Crowue JE, Heinen TA, Moore MM, Covington WW, Verkemp (200))
+‘Mixod-acveriy fac regime in « high-ctevosion fares! of Gread Comyn, Arizome,
+USA. Lantscape Ecology 18, MSA36.
+
+Meiaicia TA, Moare MM, Feit 92. Covingion WWW (2005) Fie history sad stsad
+sarectere of reo pemderaua ping-mized conifer silex: Sea Froaciace Peeks,
+Arizane, USA. lnrrnational Jomrnal of Wildland Fiee 14, 307-320.
+
+‘Miler ID, Nyhen JW, Yoo! SR (2003) Modeling potestial erosion de t0 tae Cort
+Gayade Fire with 9 GIS based implementation of the Revieed Universal Soil Laas
+Eqeesion, hnerustionat Fournal of Wildland Fire V2. 25-100,
+
+‘Miaiom SB Kreiner GR. Lata RG (2000) Glacial refugia of laser pine (Plans Aenitis
+‘omes) inferned from the popeintina of mitochondria DNA, Malecalar Erodogy 9,
+9197.
+
+
+Page 15:
+Peruone (1) (2000) The Chalage f Restoring Nate! Fire ko Wilder. da Cale,
+‘Dovid N, McCool SF, Borie WT, Lowghiia J comps. 2000, Willemessacience
+i a me of chenge conference - Volume 5: Wilders econystca, eet aad
+meangement, 2000 May 23-27: Minsoule, MT. Proceedings MMRS-P-1S-VOL-
+$. Opden, UT: US. Department of Agricuiere, Forest Service, Rocky Mowstaia
+Resepech Station. pp. 276-282.
+
+Pyne SJ, Andecws PL Laven RD (1996) lntrodiction to wildland fire. Jobe Wiley &
+‘Some, tac., New York, Chichester, Bisbee, Toronto, Siagapare. 769 pp.
+
+‘Swemem TW, Allea CD. Betsacour 1. (1999) Applied hishoricel ecology: wing lke past
+a mame forthe Reture. Erodopina! Apptirations 4, 11NS+1206.
+
+‘Taylor KL Famde RWW (1990) Wondy fel stroctere nad fee im mbelpine fie Soret,
+Ofympic Notional Pack, Weahingion. Canadian Jomraat of Forest Resracch 2,
+19h.I9,
+
+‘Ven Wogtemdanh JW (1995) Lange fires ia wilderneas wees. fo Brown JK, Mutch IW,
+‘Spoos CW. Wakimoto WH editor. Proceedings: symposium on fire in wilderness
+‘ad peck mangement. USIDA Foreat Service General Technicel Report IT-GTR
+‘320 pp. S16.
+
+‘Weaver H (1951) Fire np ccologicel factor in the Southwestern ponderase pine fares.
+fomrnal of Forrary #9, 9398
+
+‘Whine MA, Vomkel JL (1993) Mide and high elevation coniferous fares! commomities
+of the North Rim region of Grand Canyon National Pork, Ariname, USA.
+Vegetatio 109, 161-176.
+
+
+Page 16:
+CMAPTER TWO.
+
+LITERATURE REVIEW
+
+A centery of fine upppeeasion aad livestock grog im the Southwest bps reaulied in a
+beiidep of forcat flo fects wad increnuad toe demuaties. These comfsinns hve fod to
+Axper and more intense wilefiecs (Covingion sad Moore 1994, Swetem ct a. 1999),
+Fine behavior mogelang is mow widely wed to addecas priority sees for farel thinning
+‘and fects wesameats,
+
+‘Thee review addresses previous vepetntion sad fucks mopping projects waing remotely
+sensed deun and the development of fire beheviar modeling inpets. | will alan review fire
+bbchevior timelation nescerch ond landacape metrics vacd 10 aaplyze flac behavior
+simelnaom outpets. Finelly. ampes relood to flee mamageancal in wilderness wens will be
+eencwed,
+
+‘Vegetation Mapying Using Setelite Imagery
+
+‘Setclote imogery. copocialty Landuat Multispectral Scammer (MSS), Landuat Themetic
+‘Mapper (TM) and Landaat Eahencod Thematic Mapper Piss (ETI) deta, bee been
+
+‘eatemsively waed to mop end monsor vegetation (Franklan 1986, Moore ond Bawer 1990,
+Fiorella sad Ripple 1993, Comgelion otal 1999, Colaem etal 1995, He otal. 1996, Xonme
+
+
+Page 17:
+‘fob 2000). Semors with greater spetielreanbution then thet offered by MSS. TM or
+ETM? heve olao been aed in wepetation caedies (Ciolden 1991, Hemry end Hope 1998,
+(Gishowmakia of ol 2002, Lennerts and Congolton 2004). The French SPOT sesciites,
+‘wah the High-Reaobation Viaible (HRV) sensor, have a pomchrometic head with 10 m
+spatial esahetion sad mutiapoctre bende with 20 m apetinlreaniytion. Golden (1991)
+‘compared vegetation claaificotion remplis from the TM sad IR apaaars for pomerase,
+pine ond pinyon:juniper Gominetod aree ia aorthera Arizoas sad found thet the TM
+derived classification wpe mare eccurnie thea the SPOT desived clasaificetion He
+‘comchated the che greater spectral resobtion waa the cy factor i the incsesued,
+lensificetion soceracy. Lonagetz wad Congeion (2004) ward 4 m IKONOS imegery to
+‘leasify ond mop fosca types im the aorthepalere United Staten. They found thet while he
+incrcouod tpetial esolytinn provided a grosier smovat of informesions! detail, oe in-cinat
+‘verieblgy was alan imcreemed. The incrensed varisbilty, along wish on inaufiicicat
+member of socurncy paucsament reference tikes bed to poorer them expected classification,
+socemncy.
+
+Pores Fost Mepping.
+
+‘There have been maches thet have investigated the cometstion of fucl loadings with forest
+stand veriahics bat they have hed mixed were. Ffallion eo. (1968, 1976) sctempted
+to predict foneat floor fuels in the northera Racky Movatnins ving stand age. crown
+‘hamere os predicted by beael area, oad potcatial imaaintion. They comcledied thet nen!
+‘ca wes tae cnly varie thot signiticomtly predicted forest Gaar fet landings. Sache!
+
+
+Page 18:
+(19779 hacked of eximeting deed feel Landings in pandcrase pine ond mixed conifer
+‘ereal types using heal arce sad other sisad variables but concluded thet there were mo
+reliable tticical reltiomahips Secken snribwtcd hia ndings to the wide range of feet
+loading thes com be expected to exiat within sax between stemde of both pomdeross pine
+‘and enixod conifer. Harringsom (1966) townd a sisitical relationship beteeee fares! floor
+‘depth ond foc! londing om four pomdcnaee pine sites ia southern Ariaome. However, hc
+‘veribalty betwen sce, dc to climate anila, stm diatetbomces, tand charncteratics,
+biomes profection rites aad arotle deposition ries, dors ant ellow for» single
+‘egremiion mode! to be vaod scons oll pamderose pine stands. Flt (1990) developed
+‘oneal Boor depth sad bulk density prodiction models for pomderose pine dominated
+‘eneats om the North im of Grond Canyon Nasional Pach. The madcla were compared to
+models developed by Flollion (1968, 1976), Havringson (1966), and Este ond Waghe
+(1979) and were found wo predict within the mid-range of valves of these stein The
+bhagh variability of the deta reslned inno predictive madcts for later ead ail sine classes
+of woady feela.
+
+‘Smadics have alan been conducted to investigate reletinaships between site vars ond
+ec Landings ne well at bermere the Gitirent the sine claaacs. No tignificent
+
+‘elationship wea fownd betwen ste vorisbes (napect, chevatinn, slope) and tel Inediags
+bby Brown ond Scr (1961) ia 0 anedy comected ia the aorthera Rocky Mowninina They
+‘reported ta He! size clans Landings could mot be predicted with lopdings from another
+size cleat. Brows ond Bevins (1966) alao foynd mo easocistion bermecn the varios fel
+
+
+Page 19:
+size claasea. Both tawdics concluded thea high variation in fects betercen ond within
+soma mode prodicting fc! iondings difficult
+
+‘The mopping of fecls bes boca the forge of memercys reacerch projects ¢ g. Parpen ct a.
+1996, Bertoketie and Spotary 1999, Keame eo. 2000, Giokogmohia oa. 2002. Wisma et
+‘#1 2002, Miller ct al 2003, ond vom Wagicmdomk sad Root 200). These projects heve
+‘sod verious forme of remotely sensed dete raging tram USCS Digitsl Orthophote,
+(Querter Quod (DOQQs) with | m spetiel reaohytinn (Bertolet snd Spotaky 1999) to
+imaging spectrometer deta with 20 m spatial reankution (Roberts etal. 1999) to Advenced
+Nery iis Rthaon Rttomcr (AVION gs wi thm pa rich (age
+241998), Lomduad TOM ond ETM doom have bees extensively wiod for wildland fucks
+mapping (Keene l at 2000, Gishoumakia oo. 2002, Rigmo et of. 2002, Miter et a.
+200), ven Wagieadont end Root 2000) becswae of the high svaitability sad temporal
+reschaion of the Gata. Falkowrahi tal. (2005) investigated the wily of ASTER satelite
+dota tox modeling feet magela.
+
+‘Roberts ¢1 al (1999) eaed Aitharme Visible/Introred Lmeging Spectrometer (AVIRIS)
+deta ho map vegetation species of « chepearel dominated ares im snwthera Cakiformie. The
+foci layer was derived by “cenae-wehing” from the species mop. AVIMLS dots comtpine
+228 apoctrlly waigec beads. The high degree of spectral reaobaion lowed them 10 mop
+‘vegetation, both oversiory recs aad daraba, green live bicmens, the ratio of tive to dead,
+‘comapics, sad live fuel maimure. Hyperpectral data wach a8 AVILS requires thet the
+spectral properties ofthe mopped vegetation apecies are hacwe. Spectr bibrerics thet
+
+
+Page 20:
+com be od to ieasify the bed) nemative to te featyres of imerest xia far Somme
+‘vegetation apecies but mot forall. ta chose coset,» handled radiometer wold be mocdied
+a determing the reflectomce of the vepetation of interest. Far thin AVIRIS sandy. over
+(6000 fickd apectra were collected. The authors iacated accuracy sascaameat
+‘challenges sasociated with byperspectral dete bus did mot provide say secrecy mumbert
+Bertolet snd Spotiry (1999) developed fee adel iapets for § porting of the Neth Rim
+of the Grond Canyon, Groad Canyon Nationa! Part. Avizome, from USGS Digital
+(Orthophoto Querter Quedrengice. Homagencova arces were delinestod tesed on image
+Aone! differences sad vegetation density. Over 400 vegetation pahypoms were delineated
+‘and chen fd visited. Dats collected during the field vid wene wacd to lobe cock
+Polygon. Aa accuracy eascammen of the roasting vegetation mop er mot comducted but
+4 woe compared t0 2 1965 vegetation clasification (Werren ct at 1982). Landuat
+‘Mubiapectral Scemner, Thematic Mapper and Eabeaced Themetic Mapper Pius data hewe
+bboes extensively und for wildiond forks mopping. bocwwar of the high eveitabiliy ond
+Aempore reantetion ofthe deta. Burgos ond Shesby (1984) wacd Landuat Multispectral
+‘Sceaner end digial topographic ets to develop a acl made! clesification om 0 400
+sqoere-anibe aren in western Monies. Theis fe! madel coverage hed 2 | cre minima
+mapping orcs ond in compunction wich topogrephic sad wensher Gots, wes intcmdod to
+model “trand.enee fhe potential.
+
+(Reeme oat (2001) diacyanod four methods tht have been ward to map fecia. They
+Aermod the toyr methods ae: (1) fled recommeiaasace, (2) direct emote sensing, (3)
+indinoct remote mcnsing and, (4) biophysical madeling Each methad bes ins adventages
+
+
+Page 21:
+‘and diandvemtages. ‘THhe fret method deecribed is feid reconmeinapmce. ta this method,
+\etiating mops or pial photographs re weed to delineate fel types mike petal in the
+‘leld. Thee major diedventage to this method i the high coll of mapping lorge areas.
+‘Verbyle (1995) described direct remote wesaing as sasigning fuel cherecteristics to aa.
+imoge classification output. Direct remote scmaing ia the satiguencad of fect
+cheaectcratics tothe onspests of image cteuificaina or photo interpretation (Vertyts
+1995). Thi approech i am ete to directly clesify fuels rather thea mopping
+‘vegetation and satigning Mca labela hesod om forest ype. This ia o simple approsch thet
+sminimines possible eres becowae of dhe limited mumber of aps involved. The ania
+‘daedvamtage is thet fete ae often mot visible thnough the forectcomopy, The image
+‘lensificatbona will often be driven try vepctation chorecteriatics rachcr then fet
+chemecteriatica,
+
+‘The indiect approach wacs vegetation cherectriaics to ansign fuel typen. Foc!
+cherectcriatics ere act dinectty mopped but rether are determined through forest iypes thet
+‘are more cauily mapped wuing remotely acmaed deta. However, foreal ype ia not
+‘movenseity dhe beat wrrogate for fucks (Miller et a. 2003) so the addisinn of topogrophic
+Ayer end/ar mut-dete dots arts ore scametiones wand in an effrt ho immpeore
+‘lemsiicaaion pocorscy.
+
+‘The war of mut-temporel detsacts hes been investigated ia vegetation and felt anpping
+stedies. Thor aptics combined reo or more dates of Lamdant TM imagery ints ce
+\detanct. Reno ef ol (2002) waod a May sad Duby combination to Gevetop fuel Type maps,
+
+
+Page 22:
+fo an seca in central Spin. The adfition of »heature temd, Landuat hemd 6 (thermal).
+‘and topographic verables, were slao investigated to descrmine how they affected
+‘lemsificaaion soceracy. Thhe accwracy of cis fel type map incseeued from $7.5% bo
+67.3% when using the mpti-temparel detsact while the greatest ecowrmry (22.7%) wet
+achicved wsing both detcs of imagery. the texture and thermal bend. sad the ‘opogrophic
+varies,
+
+A bend wamupervised/mperviod cleaiicaion appengch wna waod by Miller eto
+(2003) to clon a pir of Lamont TM images i mop fk within vegetation Fype
+screctora age clnace. ‘The overs clasficotion accuracy wat 54%. Anovernil
+esificaion poceracy of 24% was achieved fora map with fel clans within
+‘vegetation types collapsed in singhecheasos.
+
+“The opplicebilty of vepetetion indines hs alas bees investigated. Van Wepicndonk ead
+(Root (2003) wsed anrmalined difference vegetation inder (NIIVI) vobees fram 4 scqpeemce
+of ax Landana TM scenes, sqpeired fram Mey taroggh November, tn mp fc! madcls of
+‘Yonemise Netionel Perk im California. Fecl match ae repeeseatations of fc! loadings
+‘and, in conponction with topographic aad westher deta, com be wed to catimete fee
+behavior. They hypothesized thet acesonel changes in plant phenology would allow tacm
+to Gitingwish fuel madeia. They conchated thet» temporal sogeeace of NDVI vahues,
+Proved adeqwetc to detcrmine fort made types. The overall cleaificetion acowracy wes
+54.39% ‘They found thet for both shost-moedied sad long moedied comers tke NDVI
+
+
+Page 23:
+‘volece mene grosses! in Dene ond Poly. Short mended conifers with a heavy fect
+‘componead exhibised highest NIIVI values ia September.
+
+‘The final opprcech iacwased by Keane ct al. (2001) wars cxvinommentel pradicats aad
+biophysical modeling to mep facia ‘This method com be acd to describe cmvironmenind
+‘orisbes thet com be wacd to prodict fucks. This method requires au extensive smovat of
+‘held dete, aaticical anatyti, and extensive madeling. Keane ct a (1998, 2000) weed «
+biophyticel modeling epproech for mopping fvcls ia the northern Rocky Movainias wad
+‘om the Gils Kuticnel Forest kocened ia sowtheest New Marnics. This appronch smalyzed
+‘erisbes thet influence vegetation and fects cheracteriaict. These veriebles incheded
+slope, pert, elevation, climete, end site duamrbeace. The shove projects pradieced what
+conc 1 al (1996, 2000) described os « “vepetetion iniplet” made wp of clousifications of
+biaphyticel scing. secics composition, sad vertical land etrecture. Facts categories
+‘were hen sasigned to varinys combinations ofthe vegetation wipiet. This approgch
+rogeieed an extensive amova of field deta, complicated modeling. sad intensive
+‘aatictical analysis (Rone ct af 2001). Felhowaik et ol (2005) wand the vegetation biptet
+‘appronch to model crown fects ond feel models for yu area im morthers Koko
+
+Accuracy Amemment
+
+Ancerecy suacammcad ia the comparison of 3 map resting tam » apelie image
+
+‘lemsificetion, for exemple. to peogrophicel dots hel we sumuaned to be irve, i der to
+determine the acowrecy of the clasificetion process. Accwacy mascsamentindacates he
+cffectivences ofthe methods vaod to produce the mep sad slic descrmincs the wacfelmest
+
+
+Page 24:
+of the mop ot 2 to for nnd maangement decisions ead stpbics (Congehion sad Green
+
+19,
+
+“The most common meth ward lo reprcaral che accuracy of oselclie clanificotion is sm
+‘error metrix (Congetion ot al 1963). Am crvor mearis ia a aque aeray of members which
+‘expreat the mumber of pixels satigned 1 « perticeler land cover clans welative to the
+‘actool land cover a8 ideatified ia the fed or tam seril photographs. Clemeralty, the
+‘cohumans represen the reference deta and the rows eeprescat the map deaa (Story sad
+‘Comgolacn 1966). An.crvos metria cam alan be deacribed as 5 way ko compere the map
+lnbcla of 2 certain arco wich reference dete tor the apmne wee. Au error mtr is am,
+effective wey to reproncal map accuracy because individvel cles scowacics as well at
+‘vacrs end preciucens map sccurecy is shown (Verbyle 1995). User's accuracy
+(comminnicn errant) describes how often the map label corresponds withthe ectoel forest
+1ype om the grovad. Producer's accuracy (omiaiioa error} describes how often the sctuel
+‘treat type cm the ground is tabeted ma uch cn che mop (Congelion ond Cacen 1999).
+‘Story and Congelioa (1966) described wer’ accuracy 2s being cstovlated by dividing the
+member of carectty clasitied smmples of » particuler cleat by the ttnl mmber of
+comples thet were chensifid in thet same class. They described producer's accuracy a8
+being colcelatod by dividing che mmber of comectly classified sempies of» particelar
+‘hens by che total member of veferemce semples of tae samme clean. The remul, ia
+[Pevocatag: form, indices the probebiity hol a refereace temple willbe cleaifted
+‘correctly.
+
+
+Page 25:
+‘Mech hes boes mrisica show! sclocting the oppropriate member of sempies to be able to
+perform » statistically valid anelynie (Congelton sad Green 1997, Curren sad Williamson,
+1966, Tortora 1975, ven Genderen otal. 1977). Congalion and Green (1999) comparad
+tae of eqpvations beard cm the bincanial Sstibysion vermes the miltinoméal
+\damribusion. There tends to be bite agreement on the “correct” method to vic. fiom
+‘xqvedions, a presented by vee Genderan t a. (197), provided a tsiaically sound
+method of determining the roqpired sample nine to compute overall map eccurecy or
+‘overall individwel class aocwracy. To achieve am averal acowracy of 90%. the USGS,
+‘aandead for mop secerscy. approniaascly 30-temptes por clans are accensery. Wilkie
+‘and Finn (1996) presested » ditieress metho the dscrmincs the 144 samples nee
+rogeined for an nocwrncy of 90%.
+
+(Congolacn and Groen (1999) meggested the the bincanéal method is act approprienc if sm
+error molriz will be ward. They tinted thet for x cnvar mparis with x cleans, tor» gives
+‘leas there in one correct anawes aad (a-1) incorrect snawers sad thet « sufficiea sumber
+of camplos moat be noquired to be able to represent the comfysion ‘They forther
+supposed chet qeetions beacd om the mpbinomiol datribysinn pe approprinns to war
+‘when 90 crvor matrix will be vaod. The multincanial oquotion pecarated by Torta (197)
+‘and Congation sad Green (1999) cobculated thet roughly 30 semples per cleat are
+rogeieed.
+
+“There are five commonly ward sempling achemes for collecting reference data: simple
+‘endom sempling. strotified random sempling. sysicmetic sempling. chester sampling, amd
+
+
+Page 26:
+scrvtitied eyraceetic wanlegned sampling (Congation sad Groce 1999). Stratified remdom
+sempling les been accepted ss being tae mast spproprivtc in sities ving reanotcly
+sensed deta (ven Gemderen ot sL 1977). The main evaninge of this sempling method ix
+thet oil ae load forest lypes or clanars, rependiess of tar clnas area. will be sempled.
+
+(Fire Rehevier ond Lomducape Fire Soccemion Medals
+
+Fine behevior amatysis hes been om imported componeat of fone eescarch for mamy
+Yea Oviginelly fire behevinr we candied to provide Load anquagers with 4 besis for
+determining flee meppreation crrw sine sad flee uyppresaicn amacpics (Fons 1946). More
+eve, fle behevior smatysis hes bees dome ta tet the effortivencas of fects testmesis
+(Saryenam 2004, Scot ond Reeinhond! 2001).
+
+(Common fire behavior models imchuée FARSITE (Finney 1998), FlamMop (Finacy im
+preporvtion), ond Nexus (Scou pad Reiahendt 2001). FARSITE iso determiniatic mociel
+(Saryenon 2004) the simetes the epetial and temporal spread of fic. apes inchuse
+sapoct. ckevetion, lope, fuels end weather. Ouaputs com be ia tabuler, vector. ond raster
+ferment. FlemAdap requincs mony ofthe teme inves aa FANSITE bud i 3 hazeed model,
+‘mot modeling the spatial end Lempornl spread of fire. Each pizel i treated independently
+fromm thane around it. Fire behewicr (myrtace fine, peative crows fee. or active crown fire)
+i etermined for each pisel Ovspets ae im nbutae formal. Neues ia 2 Geterminitic
+model of serie fee bebavis a is also wae for anessing fuel hazards. Crown fee
+womsition sad crows fire spread is olao madeted (Scot ond Reinhardt 2001).
+
+
+Page 27:
+Feld otal (2001) ward the Nee mae to amsty2e the efloctvencas im three thinaing
+esament ia 2 ponderase pine ecosystem in nowthers Arizome. All toe trostmeats were
+succenutel in rodecing crown fe activity. ta 2 study combectod ia » piayom pine oad
+prniper ecosystem sowtacra Vish, Strom (2008) scported reductions ia crown fire
+‘activity. fre intensity and fame length, and fire size whhen modeting for feel tacetment
+effects vaing FARSITE ond Flambsp. The letir cnady sdemsifod the vaderprodiction of
+row fhe by Flembtap.
+
+(Fecla reetmenls oe om importeat meangrmest tool bet may aot be enough to pecveat
+active crows fee dering perinds of extreme fee wepther. Bessie oad Johmana (1994)
+‘vaod Rothermel’s (1972) warface fire intensity made! sad Vea Wagner's (1977) crows
+{ire initiation model to predic worfoce fire intensity aad crows fre initiation in 2
+(Conedion wtalpine forest. They fownd the» extreme weather comdaioms, the
+importance of feel loading docresacs ss crows ire initiation thretholda are met.
+
+‘Lamdecepe fire effects and mecccasion macels wre ward by load menegemneat epeacics to
+[Provide edditionel informetion to pride memegemcal activities. Modets ere varful for
+idemnifying evens where reacerch is mented (Keane et a. 1990). First-order fe effects
+(Renken ota 2001) mech os vegetation marlin. the pmoyas of feels commanod, nad.
+emcke production can be effectively madeked. The modeling of second-order flee effects
+auch as erosion sad vegetation mocention gives lend manager ihe ability to determine
+‘where econysiem rehebilinain activities shovid be combectod.
+
+
+Page 28:
+Lendecape Metrics
+
+‘Lamdacape metrics provide ecologists with ways to quantify tendacape pettcre pad the
+‘nfrwcnce ia hes om ecological processes (Turner etal 2001). The variows landacope
+metrics give rescaachers ways to saalyze laadacape atrectwre ead function, both of which
+‘e major aeces of santytia in mmdacope ecology (Toth 965). A patch ison importeat
+‘concept in landacape ccotogy thet cae be defined aa “va sece differing in eppeareace from
+ts uprroumtings” (Formen snd Garon 1986). Patch variables mech os size, chop, ond
+member we waed to define tendacape srectere (Farmen sad Godron 1986).
+
+etches on heavily nflvcaced by the groin size pad extent of tae daa, nd by the
+‘leasification scheme wsod to derive the petch (Turner o a. 2001). Shedies have beem
+‘conducted to investigate the effects of changing scale on nmdacape pareanrters (Termer <t
+24 1989, Benson ond MacKenzie 1994, We 2004). These shedics comchudod thes matl
+lendacepe parmmetcrs wene affected by changes in groin size
+
+Fire Management in Wikdernes Areas
+
+‘The qucction of what role fine howld cemrestly piny in wikderncss erees is complicted by
+tae Feder Wildermess designeticn of mpch of the ares. The Wildemest Act of 1964
+sags that wilderacas shoud hove minimel imports of hammen activities ba it alan sisaes
+then be “mameged ao otto preserve is manera comfitinas™. Ecological aad aocied
+
+
+Page 29:
+‘comecras must be considered before re-iatraducing fre to say wilderncas area. taawce,
+elated to emake pad the potential far fic ho crane prescribed tire boundaries are risks thet
+load meangers must consider (van Wagiendaah 1995). Prescribed metwal Gres have berm
+‘vaod ia ther wilderness areas (Parnoms 2000) sad becouse of sevens iamves may te the
+maul appropriate method ofthe reintragetina (Miler 2003).
+
+
+Page 30:
+Unerstere Cited
+
+‘Bence BI, MecKeazic MD (1995) Effects of scaane spatial reanietion on landacepe
+sarectore parameters. Landacepe Ecology 0@, 113-120.
+
+‘Bertolet, Spotakey D (1999) Remotely semad bum severity mapping. la: Harman D.
+(oh, Crossing Bounderies in Park Menegement. Praccodings of the | Ith
+(Conference on Research snd Resowece Masagemeat ia Pass aad an Publ:
+‘Landa. The George Wrighe Society, Hancock. Michigan. USA. pp.
+
+‘Bessie WC, Johaacm EA (1995) The roleaive importance of feta aad weather on fie
+Ibchevioe in tubaipine forests. Erology i, 247-762.
+
+‘Brows JK, Sot TE (1981) Downed end Deed Woody Ferland Baomess in the Northern
+Rocky Mowatsing. USDA Foret! Service latermoyatein Rescerch Stntion Generel
+‘Technical Report INT-117. 68 pp.
+
+‘Baown JK, Bevies CD (1986) Sertece fc! lnedings and predicted fire behavior for
+‘vegettion types im tae northern Rocky Mowainina USDA Fareal Service
+Inlcrmowninin Reacorch Station. Reacsarh mote INT-}SE. Opéea, UT. 9 pp.
+
+‘Perpon RE, Sheaby MBS (1964) Mapping trond eres flee potcatial from digital fect,
+eerin, sad weather dels. Journal of Forestry 82, 223-251
+
+‘Perpon RE, Klaver KW. Klnver JM (1998) Fuel models and fice potential fram exetine
+aad wartace obacrvedion faternatinnal Foul of Wildland Fire 8 19-170.
+
+(Coben WB, Spies TA, Fiorella, (1995) Essimeting the age and srectyr of forests ia.
+melt cernerthip lendacape of western Oregon. USA. iueemarional fournal of
+Remnte Sensing V6, 721-746,
+
+(Compolacn RG, Oderavdd RG. Mend RA (1989) Asacasing Londuat clemification
+ccemncy waing dacretc mptiveriate sapkysis untiatica
+Photopramamartris Engineering and Ressote Sensing 4, 1671-167.
+
+(Comppiam RIG, Gacen W.Teply (1993) Mapping old growl orets cm Natiomgl Fosest
+and Pack onde in the Pacific Norrwec from remotely scmaed dots.
+Protogramurtric Emglncering an Rewte Sensing 9, 529-538
+
+(Compolacn RG, Green K (1999) Asscasing the socwracy of remotely scased dela:
+(principles and prectices. Lewis Publishers, Boca Resse, Lomas, New York,
+Weskingen DC. 137 pp.
+
+(Covingiom WW, Mocre MM (1994) Sothwestem pomderaua pine fore! srecoye:
+changes since Euro-American scttement. Journal of Forestry 1, 347
+
+
+
+Page 31:
+(Curren P, Wallimane HID (1968) Semple size for growad ond remotely scaaed dots.
+Remote Sensing of Environaaret WA
+
+okie TW, Woghe RE (1979) Method of estimating grovad fuels wader 2 iaches in
+diameter in scuireeera ponderats pine amma. Pacific Northwest Forest sad
+‘Range Experiment Sision. USDA Forest Service Reacesch Note PNWW.333
+Ponlead OR. 3 pp.
+
+Felhorwaki MJ, Geasier PE, Morgen P. Mdnk AT, Smith AMS (2005) Charncterizing sad.
+mapping farcal feels wang ASTER imagery aad gradient modeling, Forrss
+rology and Management 107, 129-146,
+
+Flolioa PF. Clary WP, Devis 2k (1968) Some charsctertatics ofthe forest floor wader
+pomderasa pine in Arizane. Rocky Mowatsin Fora aad Reage Experiment
+‘Statice. USIDA Forest Service Rescerch Note RM-127. PL Collins, CO. 4 pp.
+
+Flolioa PF. Clary WP, Baker MB (1976) Cherwcteriatics ofthe forest flor an semfaione
+‘ad albeviel soa im Ariane pondceaae pine type. Rocky Mowainia Fares! sad
+‘Range Experiment Siotion. USDA Fareal Service Nesceech Note RM-JOE. PL
+Collins, CO, 4 pp.
+
+Fiancy MA (1998) FARSITE: Fire Atce Simulaios- Model Developmncal sad Evahgetion.
+Rocky Movatsia Research Station. USDA Fares! Service Reacerch Paper RIS:
+RPA Opies, UT_47 pp.
+
+Finncy MA In pecperstioa. FlemMap. Misaosie. MT: USDA Forest Service. Rocky
+Mowntnin Rearerch Seating, Fire Scieares Lats.
+
+FFiceetla M. Ripple W! (1993) Determining wpecesaionel sage of tempernie comiferos
+‘encate with Landael pice dots. Photogramamrwic Explarering and Rrasote
+Sening 2, 235.266,
+
+Foams WL (1946) Amelysia of fine spend in light forest fcla. Jomrnal of Apricntoanal
+Research 3, 99-212
+
+Formea RTT, Godroa M (1986) Landacepe ecology. Jaha Wiley and Some, New York.
+619 pp.
+
+Franklin ) (1986) Thematic meppe enplysis of conideroya fares! sirectare nad.
+‘composition jatrreasional Journal of Reuiow Sensing 7, 1297-1301
+
+Feld PZ (1990) Predicting fares floor feel londing wader pondcease pine ot Crvad
+(Conyon National Port, Arizome. Fiagataf AZ. Northern Arizang Univer. 95
+PP.
+
+Feld PZ, Mclingh C, Heinicia TA, Covingsan WW (2001) Potential ie bebevior i
+redeced following fosca retiorsina tstments. ta: Praceodings of the RMILS-P-
+22. USDDA Fareat Service, Opden, UT. pp. 20:35.
+
+2
+
+
+Page 32:
+Gishowmekia MN, Gites (7, Sem-Mignet } (2002) Object-oriented clemification madeling
+for feel ype mapping im the Modnterreacss, eaing Landen TM sad IKONS
+imegcry.protminery rota Se Vigo aor Fore Fi Resrarch pa,
+‘liken Fire Say. Ml Pre, Romerdom. pp. 113
+
+Gokien M (1991) Effects of snteline spatial vad spectral peramectert om vegettion
+‘lessifcation of aorthern Arizona. Flagstaff AZ. Northers Arizane University
+175 ep.
+
+Nema MO (1986) Compara of fare Sa epth i nding relainsps om
+‘acvera! Arizase ponders pine manda. Racky Movatn Fores! aad Range
+Eaperimcat Station USDA Fares Service Rocky Mowstein Fares! end Range
+Esperimcat Station Reseprch Note (M863. Ft. Collis, CO. $ pp.
+
+He WS, MisdemofY DI, Radelott VC, Crow TR (1996) Integration of GIS deen aad
+
+‘lensing satellite imegery tr regional forest eacatmeat. Erodogirat Applications
+1 1072-1083.
+
+Heary MC, Hope AS (1998) Monitoring posl-bers recovery of cheperral vegetation ia
+scuticra California ving mubi-tempors etn. international fowrnal of Remote
+‘Sensing 19, 3097-3107
+
+Keone RE, Amo SF, Brown JK (1990) Simmpining comelative lee-cfiocts im pomderose
+pine Douglas Br forests. Exotogy 8, 199-203,
+
+Keane RE, Gommer H.. Schanisht KM. Long DG, Menakis JP. Finney MA (1998)
+‘Development of the input dec layers forthe FARSITE fire growth mode fo the
+‘Sctway-Biervoot Wikdermeas Complex, USA. USDA Fares! Service Generel
+‘Technical Repant RMRS-GTR-3. Ogden, UT. 121 pp.
+
+Keone RE, Mincemoyer SE. Schmidt KA, Lang DG, Gamer J1 (2000) Mappiag
+‘vepetticn and feels for flee menegemen! on the Gila Netiongl Fareal Comptes,
+New Menica. USDA Gener! Technical Report RMIS-GTR-A6-CD.
+
+Keone RE, Borgen I van Wogicmdoak }(2001) Mopping widinnd fects for fire
+mennpemenl crane multiple scoics: lasegrating remote seating, GIS, amd
+biophysical modeling. lnrrnational Journal of Wildland Flee 16, 301-319.
+
+‘Leamertz SP, Congemicn 2G (2004) Classifying sad mopping forest cover types wsing.
+TKONOS imegery in he northenaicen United Sénics. ASFRS Ammeal Conference
+Proceedings. Deaver. Colorado, May 2004.
+
+‘Miller JD, Deazer SR, Wotts JM, Stowe S, Yoo! SW (2003) Chester saalytia of sargctaral
+stoge clonscs to map wildinad fucis im 9 Madrese ecosystem, Journal of
+Enrircwanenaal Manapenene GA, 290-252.
+
+
+Page 33:
+‘Miler ID, Nyhen JW, Yoo! SR (2003) Modeling potestial erosion de t0 tae Cort
+Gayade Fire with 9 GIS based implementation of the Revieed Universal Soil Laas
+Eqeesion, hnerustionat Fournal of Wildland Fire V2. 25-100,
+
+Moore MM, Raver ME (1990) Clesuificetion of fared vepetntion im narth-cestrel
+‘Minacaota using Landuat Mulaispoctrl Sceaner aad Thematic Mapper deme.
+Foeest Science 34, 130-342,
+
+Perscans 1} (2000) The Chelicage of Restoring Netyrd Fi to Wilderncas. ta: Cote,
+‘David N. McCool SF, Home WT, O'Loughlin } comps. 2000. Wilderness acme
+in atime of chenge confercace « Volume $: Wildermeat ecorysicans, treets, sad,
+management, 2000 May 23 - 27: Minaoyia, MT. Prococdings ILMMKS-P.15-VOL-
+5. Opden. UT: U.S. Department of Agricuitere. Forest Service. Rocky Mowstaia
+Resenech Station pp. 276-282
+
+‘Reiaherdt ED, Keane RE, Brown JK (2001) Modeling fie effects detrrnational fomrnal
+of Wildland Fire 18,373-390,
+
+Rinao D, Chavioce F, Sates J, Palaciae-Onecta A. Peatnerika A (2002) Generation of feet
+{ype mops trom Londael TM images sad encillary data im Modiderreacen
+soorytleme. Canadian Journal of Forest Reseaerh 32. 1301-1315.
+
+‘Roberts DA, Deaniaom PE, Morais M, Gerdaer ME, Regetaragge J. Ustin SL (1999)
+‘Mapping WildSiec Fecla ving Imeging Spectrometry slang thc Wend Uten
+Interface, Proc. of the Join Fire Scieace Confercace ond Workshop, Rene 17-19,
+1999, Boag, Woh, Val. 1, 212-225.
+
+‘Rotkermel RC (1972) A madacenaticel model far predicting fee spread in wildland fel.
+LUSIDA Forest Service Research Paper INT-115, Inermouatnin Fareat ead Range
+Eaperimeat Station, Opden, UT. 40 pp.
+
+‘Sechem SS (1979) Nature! foc landing in panderate pine end mixed conifer foretis ofthe
+Sowlrwea. Rocky Movatsin Fores! ad Range Esperimeat Station. USDA Forest
+‘Service Rescorch Paper RM-213. Pt Collims, CO. 10 pp.
+
+‘Scout Jit, Reimherdt ED (2001) Asscasing crown potcalil by linking modcle of apefoce
+‘aad crown fie behavior, Rocky Mowatsia Forest sad Rang: Eaperimeat Static,
+USDA Forest Service Research Paper RMIS-RP.29. Ft. Collins, CO. $9 pp.
+
+‘Story M, Congation RG (1956) Accuracy nasesament: A waer' perspective.
+Prosopranamrtric Engincering and Restote Sensing $2, 397-399.
+
+‘Suptica RD (2004) Asacasing the effectiveness of lamdacape feel treatments om fire
+(Pow snd behevinr fouma of Focratry 32-40-
+
+‘Swemem TW, Allea CD. Betsacour 1. (1999) Applied hishoricel ecology: wing lke past
+a mame forthe Reture. Erodopina! Apptirations 4, 11NS+1206.
+
+u
+
+
+Page 34:
+‘Tortary RD (1978) A mote cm semmplc size cximelion for mtincenial popyigtions Thr
+Aaaericast Satlticiase 32, 100-102.
+
+‘Toth RE: (1963) Theory ond longuage im andacape saelysia, planning. snd cvabeeticn.
+Landacape Erologs 4 193-201
+
+‘Tomer MG. O'Neill RV. Garduer RH, Milme fT (1989) Effects of changing epetial acale
+am the enalyais of lemdacope pancrms. Lanubieape Ecology 3, 153-162.
+
+Temes MG, Gendmer RH, O'Neill RY (2001) Laadacepe ccology im theory sad practice.
+potter and prncens. Springer-Vering. New Voth. 401 pp
+
+‘Ven Genderes Ji. (1977) Testing laadveue mnp sccerncy. Photogrammetric Eagsnresiag
+‘and Remote Sensing 9, 1135-1137
+
+‘Ven Wegner CE (1977) Comfininns far the sige pad spend of crown fire. Canadian
+fomrnal of Forest Research 7, 23-4.
+
+‘Ven Wogtemdanh JW (1995) Lange fires in wilderness wee. fo Brown JK, Mutch IW,
+‘Spoos CW. Wakimato RH, edilon. Proceedings: symposivm on fre in wikéermess
+‘ad peck meangemeat. USIDA Forest Service General Technicel Report (T-CTR
+32011116
+
+‘Ven Wogtemdanh JW, Root WL (2003) The wae of mphinaemparal Laadomt annualized
+difference vegetation imdes (NDVI dots for mapping feel motels in Yoacmie
+Netiongl Park, USA. datrrsarionat Joma! of Reuoee Sensing 34, 1639-1651
+
+‘Verbyle DA. (1995) Sascie remotes sensing of metyrel resoeces. Lewis Pyblishers, CRC
+reas. Bore Radom. 198 pp.
+
+‘Waerea PL. Reighend! KL. Mowet DA, Brown BT, fohmaon UF (1982) Vegetation of
+Gayad Conyon Notional Part. Technical Report No. 9. Naticael Past.
+‘Service University of Arizane, Comtrects No. CX2210-7-0028 aad CX3000-9-
+(0033, Consribytion No. 017/06. On fk af Groad Comyom Netionel Pash, AZ. 140
+PP.
+
+‘Wilkie DS, Fiam FT (1996) Remote Sensing of Natural Nesoyrces. Cobymbia Univertity
+Press, New York, New York. 295 pp.
+
+‘We 2 (2004) Effects of changing scale om landacape peicra enelysia: acaing reletinas.
+Landarape Erologs \9, 125-138,
+
+
+Page 35:
+FUNLS MAPPING ON THE SAN FRANCISCO PEAKS, ARIZONA, USING
+HIGH RESOLUTION SATELLITE DMAGERY
+
+Abatreet
+Mulecdase Advanced Speceborme Thermal Emiaune and Refiection Rachometer
+(ASTER auggge imegery we hii to deveop do yen fr «poston ft San
+Froacaco Peaks ia aorthera Arizona. The data layers were developed tobe waed aa
+‘np to fee simulation model. The following deta layers were produced: overumry tree
+specees,comopy coves, fel model, IK, IK, 100 timetag fete, comrue woody Gcria, and
+‘faneat fone (dnl and lamer) Heels. Overs accuracy of the species Layers ranged from,
+(41% Sar dag 2002-2003 composing image to 47% ar the 2003 mage. Accwrncy fr the
+‘camapy cover layers mages from 33% far dae 2003 image to 45% far te 2002-2003
+‘pompotaie mange. The th, 10h, and 100R fet layers develope from tae 2003 image
+lhed the highest overnl accwmciex Thee canrue woody debra layers (1000 frit)
+developed from the 2003 mmege were dar mast accwrnie across ell yeor. Avernge deff
+amd avermge liner layer created from dae 2003 image and the 2002-2003 compose
+image had the greatest eccurncies. Paie-wine comparisons of al mapped lnyent showed
+(at aly four layers were untiancally different. Kappa anatysas showed that twenty-four
+0 tac tity mine clnasifid layers were sttutically beter then chance.
+
+
+Page 36:
+‘Keywords: Advenced Sprocborme Therm! Emission and Reflection Radiometer
+(ASTER); fire: fre behavior modeling: remote seming: nocerncy ssacasmment
+
+‘The widespread wae of fre behevine simulation programas emong lnad manager, uch a
+FARSITE (Finney 1996), equines the development of deteited sad acowate deta layers.
+‘The moat efficient way to crete the required inputs ver large arene in throvgh he
+lensification of remotely arnard deen mpch a serial photos or aptelie imagery. Fost
+mapping projects vac voriows forma of remotely acmacd etn reaging trom Advanced.
+‘Very High Resobtion Radiometer (AVIDRR) dete wih 1 ham spesie! resohytion (Barges et
+24.1998), to imaging spectrometer deca with 20 m spatial reaniytion (Roberts ¢t al 1999),
+to USGS Digital Orthophoto Qverter Quads (DOQQ) with I m spatin!reaniution
+(Gertotete sad Spotty 1999).
+
+‘Londast Muliapectral Scanner (MSS). Thematic Mapper (TM) sad Enbeaced Thematic
+‘Mapper Phos (ETM®) are wacd extensively for wikdioad fvcts ond fect mode! mapping
+bocowne ofthe high svailebility and semparnd reantetion of the daa. te am corty amady,
+‘Pargon sad Sheary (1964) wsed MSS sad digital \pogrophic dota to map fel models om
+2 1000 kan grea im wester Montane. The Eiurgon sad Shoshy (1964) fet mocel
+‘coverage hed 0 0.4 he miniansen mopping orca sad was intcmied to mode! “browd-eree
+fire potential. Standerd fect models wesc described by Anderaon (1982). Vorisbies wacd.
+to determine fel models inctude loading. fuel bed dept, moismure of extinction, sad the
+
+n
+
+
+Page 37:
+‘ato of warface ores to volume (Pyne el al 1996). Fuel madcls ae represeamions of fc!
+loadings end, ia conjunction with ‘opogrophic end weather dete, com be ward ko cstinate
+re behavior. They are described in rma of both expecied tire behevinr sad vepetmtion
+(Anderion 1982)
+
+‘The we of mesenger! ty smd te ion of er bd compute am ne
+of the viaible bende, heve boca iavesigetod ia vegetation wad fects mapping medics.
+(Riana etal (2002) vaod » May sad July combination to devetop the Iype maps for am
+s+00 in central Spein. The addition of x sexayre bend, TM bend 6 (ahermal, aad
+lopogrophic variables, were alan investigated to determine how they affected
+‘lessification socoracy. Image bexture ia wachel becawse opatial patere, or texhere. ia
+often « dominant cherecteriatic of vepetation ubade (Wondeoch etal. 1954). Coburn aad
+(Roberts (2008) usted chet incorporating 2 texhwe end ia important when wsing higher
+patel reanhation imagery. Rytcrd aud Woaticoch (1996) ford tel adding 2 came
+bend can improve image classification scowacy ia ances with local verience. The
+‘secrecy of tae Riana oi ol. (2002) fect type mop increeacd with tee multi-tempare!
+\detanct while the greene secrecy wea achieved using both dates of imagery. the hexane
+‘and chcrmel bend, wad the topographic vorishe. Miller cf al. (2003) fond chat
+opogrophic variables did mot tignificentty diffcremiste berween tue clones ia 2 exwthern
+‘Arizose onk’pine sad mixed conifer forest
+
+‘The NDVI hes proven effective for menawing vegetation cover Jensen 1996). his
+colovlned 1s the difference i reflectance between the meer infred wad visible red home
+
+
+Page 38:
+vid by the mm ofthe we bance. The NEWT ia semutive ho groca biomeas cover
+becawnc actively photonyaiesising vepctmion hes greater reflection inthe mee infeed
+end. Early or nie aenann vegetation hes prester reflection inthe rod bead {Hordy amd
+‘Pemgen 1999). Vou Wepiendont sed Root (2003) wtod marmelizod difference vegetation
+index (NTIVI) vaboes thom a aequence of ix TM acemcs, quired fram May throvgh
+Nowembes, ko mop fuel model of Yosemite Notional Por ia Califorais. They
+Inypothesiaed tht sconnnel chengcs in pleat phenakogy wovid sow them to dstingwich
+fel meriela. They comcheded thet» temporal sequence of NDVI vabves proved sdegese
+te termine feet made type.
+
+‘Vorioes appronchas ko feels mopping were reviewed by Keone el a. (2001). They
+‘amchedod thet anne of the appenectass was beat. The direc! mapping appronch i aa
+cme gayle feck cer hm mepeing spend ening fc
+Abela hnaed on vepctoion type (Keane cla 2001). Verbyia 1995) defined the direct
+mopping approach a8 sacigning feel characteristics 0 oa imege clesifcation ouput,
+‘Dinoct mopping doce mot imply thot features xsch a feat fcr fects are being detected
+bby ta aneline semana. ‘This method is nlaivcly sample bus i in ificgl to Gating
+‘como fc tam forest fcr fla (Keene ef al. 2001). Wi the indirect mopping
+sppronch, feel cherncteritics ae not directly mapped but nhc ore determined tacgh
+‘vegetation rypes thet are mare couily mapped ving remotely sensed dota (Keone ol.
+2001), However, vegetation ype i mot meventeity th bea! surrogate far fck (Miler et
+21200), ule are not atwnys connclated with vegetation (Kame et al 2001) ond tuts are
+hhnghly voroble acroas a loadacape own and See 1981}. These iames have bees
+‘idresned, in certain madics, with he idtion of topographic myers sation muk-dote
+
+
+Page 39:
+deta acts of higher resobtion (mech os ASTER) in an effort to improve classification
+‘secrecy. Fallows ct al (2005) developed fect mate! crown clomere, and crown bul,
+density layers ing the biophysical madcling opprach described by Kone ot ol (2001).
+Am objective of tae stedy ares ho tec the wiity of ASTER imagery for cresting fects
+
+leyera. Only the bande (groce, rod, mcorintiared) wih 1S a apetid neankytion were weod.
+
+‘My objectives im thia atuady were: 1}t0 directly easign species, comcpy cover. smd thee!
+‘leas labels to « landacape through asaciline imoge ctesificatin, 2)%0 evahvete the
+secwrvey of the ASTER mubitempore detaact, with finer spetied reschetion then Landuet
+‘TM oad ETM» dete, in developing overtiory vegetation snd fc! layers (both woady and
+‘feneal oon) ond 3) ka crcete ke reired inputs (clevetion. slope, nspert. fuel mate ond
+‘comapy cover) aa well a the optional layers of duff Landing end connec wrondy debris thet
+‘wold allow me to made fee behavior.
+
+Matede
+
+‘Seedy Aree
+
+‘The $,000 hoctore sree chases for thia sey wes Located alma catioey within the
+Rechine Pooks Wilderness Ares an the south side of the Som Fromciaco Peaks (Figere
+3.1, The soap clevasbongl gredical of che tise provided » unique oppartonity to work
+‘within meesty al of the foes eel condita fond ia the Scapa! within 9 smell
+(eragrephic seco. Fores! types included pomderose pine, mixed conifer, sproce- fr. ad
+cb-etpine. The pondcrose pine (Plans pandrresa) type occwred at the lomest chevetions
+of tae sedy oren ond wes found wp to chevetions of 2.500 m. The mixed conifer Iype,
+
+wo
+
+
+Page 40:
+‘which incleded limber pine (Pins exis), Dowgtoutie (Puemdouunpe sarnsiesi),
+Pomdeross pine. sad sepa (Papaias trraminades), remged from 2.500 m to 3,000 m The
+proce: fir type generally scowred bermern 3,000 m sad ).500 m ond inchoded
+Engelmann spruce (Picra exgelanndi), corkbech Gr (Abies lsiocarpa var. aricmica),
+‘and trinthecome pine (Pimms arizmta!. The milpine toreal type was found from 3.100 m
+to 3,600. Rriathecome pine wes ae Gomineat Woe species im thia zone. Elevations
+range from 2,440 m to 3,560 m.
+
+‘Weelaes deta fram 1909 - 2001, collected w the Fort Valley weather stating,
+(ware wre: dricd), lncated ia the ponderoas pine none five km soxsrwent of the atady
+sc, were mummerized. Moen Jeauery temperateres were 52°C monimem aad 125°
+inion. Mom Poly Lemperaiones were 26.7" C aad 7.1" C minimem Moen sameal
+(Precipitation mee $6.9 cm. Comiemparery water deta are mot mreieble forte shudy
+2000 in ail panes: however, 5 aries of weather stations wr eatpblihed im the ay sreR.
+
+in 1916 (Peerman 1920). Weether sistinas were located i the tllowing forest rypes:
+
+Ponderase pine, Douglae-fr, limber pine, Eagelmens spruce, snd uvbalpine. Pearaos,
+(1920—) wed dota collected fram tae stations to determine climate facts thet
+inttecnced tae Ghutibation of foros types. ete collected st tee sation
+1913 chow samuel average hompernawes thet range from 5° Cia ponderoas pine. $.4°C
+in Douglas-fir, 3.1°C in Emgetmenn sprwce, ond -0.05°C in the mispine type. Amma!
+precipitation ws 61.7 cm in the pomdeate pine type ond 102.1 cm i the epi Fype
+(Pearce 19200).
+
+7 amd
+
+
+
+Page 41:
+(Remotely Senacd Dots
+
+‘chase ASTER imagery for this project bocowsc of ts relatively high spatial reaobytion
+‘and low cont ASTER hes on extonsive archive of avoilable megs, making it am
+srctive option fo projects thet require a quick ormarovad. The TERRA sete,
+‘Which howses the ASTER scmuat, wt lnumchod in 1999 and ia pert of NASA's Earth
+(Ohacrving System (htp/featcruch jpl-aeas gov). ASTER collects deta im 14 pectral
+bond ranging trom th visible to th acre iran partion of the electromagnetic
+spectrom, The two visible bande (0.60psm-0 62pm sad 0.6) pum 65pm) ond the near
+intrcd bond (0.7Bam-0.86pm) hove 5 1S m spetielreaohaion. The mid-introred bonds
+hove 0 30 m reangion sad the thermal heads have 690 m spotil esoiytion. Each,
+ASTER scene cover 9a wes of 60 hen Stk ASTER scenes (1D
+
+‘SC:AST LI 0032006460499 and 1D SC:AST_1.11.003:2019998738) frum 2 April
+12002 sad 21 October 2003 were porcheaed tham dhe USGS EROS Dota Center, Sioux
+Fella, Sox Dohone.
+
+‘Ancillary dota comsiated of » digital chevetion made! (DEM) of the anedy seve. The DEM
+‘wes recemplod. vaing tae acerca! arighbor method, from 10 m ho 1S m to mech the
+spate! reaahetion of the ASTER dete. Slope aad aspect layers were developed trom the
+(DED to saiea with ideatifying errors in the claasitied layers,
+
+
+Page 42:
+Image Preproceniing
+
+ASTER bends | (green). 2 (red), aad 3 (acarvin freed) from cack tceme were imponted.
+into ERDAS Imagine (Leica 2004). Tm keeping with the goel of vaing higher resolution
+imopery, cnby the bende wich 15 m apetinl resniytion were ward. Each eoeme wee
+(erametrically comected pri to clamsificatinn. A hybrid approgch waing both an image
+Novmap rectification aad oa imageto-image repiaration (Seasen 1996) era ward ko rectify
+‘ch eceme to the UTM Zome 12 projection ond NALD 27 detum ving USGS 7.$ minute
+(Digital Raster Graphic (DRG) fk ond the resempled DEM. A second-order
+pecformetion wa wand (Jensen 1996) de bo the high degree of topographic rete
+‘within the stedy arce. Root meee aquare errors were 7.5 a forthe 2002 image sad 7.}.m.
+‘fr the 2003 image. The rew digital ayanbr (ON) valves of the rectified images were
+thea comvertod to a-eateliae refloctence wsing methads deacribed in Markhom and Becher
+(1966) and theeng ot al. (20022). Solar ieradiomce vahocs weed for the comversion were
+{nken thom Thome ¢t al (2001). Thhe comvernian ho st-nteline refloctance nepety rediees
+tee problema sascciated with sumoapharic efiocts (Heong ct a. 2002b). Comventional
+semoaphieric conmoction methods com heve emiesirable cfiocts thet ane mot eau
+smotiogsble (Cobea ct al. 2001) and che lock of agreement an appropriate methods hes
+reauliod in there being no waivernelly applicable moi (Rieno ol sl 2003). Am
+‘vamupervied clesification was then performed to ideaify mos-forest end turned seces
+‘within the imagery. These prces were mecked tham the imagery to reduce the aout of
+
+
+Page 43:
+spectre voriation wishin the imagery. Normalized difference vegetation inex (NTEVI)
+lepers were crested thom each dete of imagery.
+
+‘A reatase bead, wting 2 323 pine! window, wes created trom head 2 (red)(Ryherd aad
+‘Wondeack 1996). The proce, ed, acer infrared, NDVI. snd teinwe heads from both the
+‘2002 and 2003 ASTER detaacts were combined into 4 single Getsact. All clasificetions
+‘were ram wxing this combined dateect.
+
+Fickd eta
+
+(One hmdeed thirty-five permanent plots bescd on the Nations! Pork Scrvice’s Fise
+‘Monitoring protocol (Recheng 1995), were established during the 2000-2003 fickd
+scence (Figere 3.1) Forest clamgres dee to deougia ond wildfires, edverne westher
+omfiions, and the overall aecparas of the tein prevented completion of the plots ia
+
+‘The plot centers were 300 m apart, in ar montage direction, a 300 m or 600)
+tne coat-wread inocticn (Figpare 3.1). Each 0.1 bn (20/2 $0 m) phot wre oriented withthe
+50 m tides ephill-domabill Lo maximize sampling of veriebility slong the elevational
+(@rdical All overtory trees were nggod om tae uphill side aad troe menauremments
+‘collected included epecies.Giometer at bronal height (dtit), canopy bene height and total
+
+Iecight, Pole recs (25-15 cam dh) were meemyred an 9 2405? axbplot Seething (<2 5
+em Gi) trece were tallied by species, comition, ond high cleat on 2 $0 mi agapiot,
+‘Tree comapy cover wea meemured by vertical projecting every 30-cm (Gemcy sad Bock
+
+“
+
+
+Page 44:
+1994) along the (we $0.m plot edges. Slope and papect were recanted for ail plots. Plot
+‘devotions were inten from 2 digital chevation model. Stand aructore and site
+hemecteriatics one shorn in Table 3.1
+
+‘Wondy debris we mesusred on for 1$.2.m planar tremagcts (Brown 1974) hat
+‘rigineted from enc 10 m paint from che cemtertine (lang exis) of the pha. Woody
+‘dca wes recorded by timcleg cleases (Amderioe 1982) Liter and duff dept
+meomorements were taken every |.$ m slong cock trensoct. Dowmed deed eroody fc!
+‘comaiais of dond twiga, brgmches, stem, sad holes of toes and shrubs thet ed fain sed
+Ae cmc mops the grovmnd (Hiroe aad Sor 1981) ond were claaafied ina fous ammeter
+sine claaaes: 0.0.6 cam depmnser (Ih), 0.6-2 5 cm (1h), 26-75 cam (1008), wad 7.6 6m
+‘and greeter (10008) (Amerson 1962). The largest size clan in divided into anki aad
+‘rotten components becavac they difier im bulk demadty and exhib different fire behevicr.
+
+Imege Clessifiction
+
+‘All mvperviaed cleasificetions were rem wing training sits developed from the dete on the
+135 permanent plot. Treining tikes ore orcas om the growad waed bo repacacal » perticuler
+‘trea type or arecteral inge catepary (Lochowaki ot al. 1995), The wining sites were
+\dageined om the ASTER imagery lo creste a supervised training ute tigneture file. Each
+trining tae potypom hed st cea! 10 pincts including the pixel or pica thet corresponded
+‘wat cach plot comer
+
+
+Page 45:
+‘Thrce mpervined classifications were conducted. Clessificetions mere ren om the 2002
+imopery bende. che 200) imagery heads. aad on the combined imege deta layers. Vise
+‘analysis of cech classified oveput showed comfusion between the diffeseal forest pet.
+For exemple. pomdorss pine sad tristhccome pine pixel ocrwred well oumide thie
+shcvetionel Limite. There mot sao confetion bereves bristleoome ping sad mized comer,
+bbermeen ponderase pine ead sapes. sad between briatiocone pine and sagen. | developed
+2 model thet incorparsied the clevation, uope sad spect files. to sania im the
+deaificotion oad correction of miscleaaed pixels besed om the copagraphic limits of cock
+oreal type. The momforeat layer wes moseived over coc fimel layer. Thin hept the
+wmomforeal comsisieat throvgho all layers sad helped svoid the inawe of incongrocet
+Ayers os dhacwnned by Keane ot al. (2000).
+
+1 satigned clnusifcetion tabels for cech of the cloves tue Layers (Table 3.2), a4 well a8
+‘lessificaon labela forthe species aad comopy cover layer, 0 cech of tac nining sites.
+‘Each fel leyer wes rocaded to three claancs thet mere determined by dividing the range
+of dem into thece quod iatervela. Fue! made! feyers for each image were developed
+lhroogh an indirect mopping approech wsing the spocics wad conopy cover Inyers end
+‘rinrie outlined by Amdernon (1982) Species labels were beard on oa “importence
+‘valve’ (Taylor 2000) cobculoted os tae ym of th relative freqwomcy (percenl ioe stem)
+‘and relative density (percent beanl ence) for cach epeciea. Comopy cover was necaded to
+hour clasaes oF 11-29%, 2 40%, 41-70%, gad 71-10% to moet th inp regeinemeat of
+te fee behavine model.
+
+
+Page 46:
+Ancoracy Ascsament
+
+{oriod ox om accuracy sancstment with pu imbepeadeal uct of refereace pote
+Ancerecy suacammcad indicete the efloctivencas of the methods ward 10 pradice the map
+‘and also determines the vacfuincss ofthe mop os 21004 for lend memepemest Gevinions
+and unsbice (Congelion end Gacen 1999).
+
+‘A comaideroble smowal hea been wriaten abo eclocting the appropriene member of
+‘reference tines to be able to perform o taiaticaly velid eccurecy sasenament. There
+tends to be lite agreement om tke “correct” method t0 vee. Congelion aad Croce {1999}
+‘compere’ the vec of equstions besed on the binomial Gitribution veruvs the mlinomnia!
+damibusion They maggected chet ch: binomial method is mot appropriate if ge error
+smatra will be wsod to prencal che rex, tt thal eqpetions heard cm tay migincanial
+\damribusion ee appropriste. The muktincmial equation preseated by Torts (1978) sad
+(Compolaca and Crees (1999) calcwleacs thes roughly 30 semples per claus ane eequinod.
+However, practice! comiderations often determine the comple sine arlortion (Congedion
+‘amd Gees 1999). Dilficelry ronching portions ofthe wnedy arco and vaprodacable
+‘weather made necestery to wae on approach thet provided both a tstaticaly sound.
+‘method for electing the appeopriasc semple size amd me thet could be eeliaically
+accomplished (vee Genderen 1977, Congelcm and Crees 1999). | ward thirty refereme
+ses pes cla atthe target for this project A total of 146 relereace sites were completed.
+‘White 30 reference ues per vegetation cleat wae my poel, weather conditions snd occeas
+Problems prevented the completinn of thirty reference sises im he sapce sad sprece-fl
+oneal types. Twenty reference sites were completed im cach of these forest types. ta
+
+”
+
+
+Page 47:
+‘abbinin, scone foreat types ended wp with greater thee chity kes beceee of
+sminctoaificotinns in the preliminery vegetation cloatification.
+
+Toombined the atruitied radom templing sad eyuicmatic vempling mcthods bo catsbladh
+‘reference sites. A $00 meckr point grid wes crested sad overieid om the pretiemianry
+‘vegetation clessficasion. Every fith potai wes aclerted oad the forest type thet
+‘corresponded o cach point was acted. Queries were rua to determine which ofthe forest
+Iypes were represented with 30 poimas. Fores! types with fewer then 30 pois were
+supplemented with purpasively artoctod reference sites.
+
+‘Each reference sine wes comprined of three aubplots with plots Locsaed 30m apart, The
+‘cesmrel plot wes faceted in he field using 3 hendtackd GPS wait. The cost and wen! plots
+‘were located wing 2 $0.m tape measure. The distance wae corrected for slope. The tree
+‘erie plots per ste were wued to redhce potential regiamration error between the
+‘reference sae coveruge ond tae cleasifiod layer. Congation and Groce (1993) identified
+‘registrution crvor as 9 factor thet commribuice to comfvaion between the chesified dome sad.
+tne referemce ota.
+
+A variable radio plot wes cabliahed ot cock agirplot cealer. 4.0.9 or 6 BAF prism
+‘wes werd, depending on the ee density, uo tat $10 12 wees were sempled a exch point
+(Avery and Bkdhent 1994). Spocios ond dismeter at resa! eight (dh) were recanted.
+‘fr cach mee. A romdomly located 36m canopy cover imac! wes catpblished from plot
+‘eater. A sighting tube wea yard a cach meter mark to determine whether oversinry
+
+
+Page 48:
+‘vegetation occured sbove the poiat. Cong cover was celcuieted a the porcemtage of
+points with overheed vepetatinn (Gomcy and Rock 1994). A 15.2 m tucks tamarct was
+endomly lncsted fam plot center of the mile plot. Fucks monpremments were
+‘completed vaing the semne methods wood forthe training sites. Date thom cach of he
+thrce reference plot usbplots were combined and wied to calculate importance vahees for
+‘ch apecies pecacal (Taylor 2000). Species cleaslebela were determined vaing these
+‘importance velues just 26 wes dome forthe plots thea were wiod for wining sites.
+
+‘The most commonly wand method to represen the securscy of o classification developed
+rom etclise imagery is 20 crvor matrix (Congalton of al. 1983, Congelion sad Gees
+1990), Am error matria i.» ageare array of members where che cohymes represent the
+‘reference sine Gata and the rows nepresca the satelite imagery classification dem (Story
+‘and Congation 1986). Kappe onclynis ita mesuure of classification accuracy (Cohen
+1960, Lamia ond Roch 197, Congeltan 2001). This paolytia prodieces 2 KHAT statiatic
+thea com be ward ho teat if a cleaaification ix significantly heme them ome prodeced by
+randomly sasigning Inbela. The RHAT ustittic ia alec wand to compare two cleaificetina
+‘error metrices to determine if they are maiatically significantly ifferest.
+
+‘Eevor medrioes ond KHAT sttitics wore computed far cock ofthe clnaitied layers
+derived thom the 2002, 2003, sad combined dete deiner. Landis aad Koch (1977)
+‘etegoriaed KHAT valves a follow: <0 indicwtes paar agrocment 0 - 20% imticetos
+Hight eqrocment, 21 - 40% shows fir agrcemend 41 - 60%, indicates moderate
+‘agrccment. 61 - 90% indicates mbazatil agreement, ead 81 - 100% shows aimost
+
+
+Page 49:
+perfect agreement Rosenficld snd Fiezpetrick-t ie (1966) did mot flow the (emda nad.
+Koch (197) coacgoriea. Thy simply stated thet positive KHAT vahecs indicate greeter
+then cheace agreement. Accerscy seacaumest of he foc! made canopy cover. sad
+‘chewen fects layers wes olan dome by fret ype bo descrmine if car cold be mopped
+‘more peeciacy ia 2 perticular forest Fype.
+
+Roe
+Fickd eta
+
+“The briaslecome pine tore type ed ch: leget amoyat of both srady and forest flor
+fecha. With one exception, the pamderose pine type hed tar mex! hes! amcwat of eroody
+‘feck nad ied leas topes! Noor fycla thea two of the five forest types. ‘The spruces fle ype
+lhed roughly Peice os myc 1000 fects then che rye with Hae hepa! mcwed sad elec hd
+tee proetcet smoyat of tape floor Fela. All fares types bed fect cotegories thet were
+significantly skewed tothe right (Table 3.2). There was lathe varieuion ia the area
+‘covered by cock of the cleven mopped fucks cateparia berwerm the tce image
+‘combingticn clesificelions. The 2002 emf the 2002-2003 clestifications bed the groetost
+‘000 of Hela (3.332 hn) while che 2003 clomsification nd cmdy slightly has wih 3,314 be,
+(Appendis 1).
+
+‘Species end Canopy Cover Classification
+
+‘The ttl forested ores. end area by apecics, varied lathe hetercen the three classifications.
+‘Aspen wee classified os the dominent species in ol three tame periods snd mode wp
+approsimatcly 29% of che sty aren in cach of the theee clamsificstinas. Sproce-fir wn
+
+
+Page 50:
+‘leasifid na the feast dominant spocics om ail tree clessificadioms and mace up roughly
+10% of the stad oven in onch ofthe clamifictions. The clamsified aren ofthe other
+species did mot remeia constant ecroas the Chace claaifications Total oven claasificd 98
+‘treated difiered by amly 14 be betwen dhe three clpaificetinns (Tobie 33). Senmamed
+‘verietion in vegetation plurmalogy withthe corty spring ond corty fall ASTER images
+‘sccowal for the differences in the spocics chesificasions from the taece image
+‘ombingticns,
+
+(Comopry cover ace om al three tame pericds was gresies! im the &1%% 70% clea The bial
+‘ree for thia clans varied by oppraximesety $0 he between the tree classifications.
+(Comapry cover wes conaiacatly lowest by ance ia the 11%-25% clans. Meee camapy
+‘cover wea greatea ia mizod conifes sad lowest in briatiecone pine (Table 3.1)
+
+1 varied comsiderebly, between the thee classifications, by approsiamatcly 200 he (Tobie
+Py
+
+Ancoracy Ascsament
+
+(Overull accuracies and KHAT values for al ners ore preacated in Tobe 3.5. For ell
+mapped layers the classification for pecics wes comsiaheat with aa overol accwrecy
+ranging fromm 41-47%. ‘The fel anode! layers derives tham cach of the tree image
+ombingtions wens tke mast secrvte. Three ofthe fowrtocn layer (feel made, wood I+
+100, and average du) derived from the 2002 image hed the highest scowracy. Three
+leyer (apecics, 1008, snd wrand 1000) created from the 2003 image sad two layers
+(comapy cover and 100% rosea) fram the 2002-200) image combingtion ld dhe highest
+
+a
+
+
+Page 51:
+socwrecien, Wondy fects hed the grostcat average overall acowracy om the 2003
+‘leasification bs ondy fee! layers developed trom all dares images ed retetivety
+‘comaisicat overall accuracies ranging thom 34-47%. While the forest floor feels layers
+derived from the 2002-2003 image hed the highest overall nocwracy (40-55%) again.
+tear layers were comsiaten with ail image combiastions. The species, comopy cover, sad
+feed mate layers hed simile securecics om all three images combinations tut hed »
+slaghtly gronher cvernl eccurecy with the 2002-2003 image. Fowe of te fowrcen Layers
+(epecies, comopy cover, tel made, end 10h) created fram the 2002 image were
+‘aaticsically betics them chance (Congelton sad Groea 1999). Sis of the fowrteca layers
+(epecies, fac! model, th, 10h, wc total, nad evernge limes) derived from the 200) imge
+‘were uainticelly beta chem chamce sad ai of the foxricem layers (apecies, comopy cover,
+fuel mode, 1h, 10h, ond average forest floor) crested waing tke 2002-2003 image
+‘composite were satiticlly beticr then chance. The 2002-2003 image hed the presteat
+member of layers thet hed “alight” sad “felt” agreement (Londia sad Koch 1977) with the
+reference deta weed in the acewracy sascaamen process. The only classed Layers thet
+‘wore signiticomtty diirent from onch other beteecs the Choe image combingtions
+(Congolacn and Groen 1999) wesc the canopy cover layers creatod from the 2002 imege
+‘amd 20022003 image composite (2-2 69 prvahye = 0.00) (Tobe 3.6).
+
+‘Anebyzed by foveal type. sccwrecy remus forall leyer ore shown im Appemices 2.9. amd
+4. Aspen consistently bed the highest wondy fect overall sxcwracy. es high 98 75% for
+thee 10-4 fucka and forest floor feel eccuracics ws high 28 74% om ol three cleaificetinns.
+‘Spruce- fir comaiatently hed the loweal woody fuel overall ecurecien alow 26 21% for
+
+
+Page 52:
+[00h feels, of all foreat types and hed the lowes fore faar feel overall eocwrecics, ba
+lw 24.17%, for Fao of the three cleaifications. Mixed conifer ead spruce fle cock hed
+species layer overall eccuracios thet were considerably lower thea the other foreatIypes
+‘wi al throc image combinations. The avempe forest floor layers crested from the 2002
+‘end 2002-2003 éntoacts wince the only layers sigificemtly differen from omc another
+(22.00 prratee ~ 0.62) (Appendin $). Three of the 2002 dets layers (bristtecome
+verge deff aad. sverage foneat floor sad sprwce-fir canopy coves) were statistically
+beter chem chance, foe of cae 2003 deta layers (aepen Ih and mixed conifer comopy
+‘cover, wand 1000, sad average liner) mese ctatiaialty beter them chence, and sis (nape,
+{th and average forest flor mined comic canopy cover amd average forest ficor, sad
+‘sprece-fir wand 1000 sax mond dota) of the 2002-2003 dota layers were tataticelly
+bern chem cheace. riatlocome pine, mixed comer, aad aprce-fr hed the fewest Layers
+thea have “poor” agroemcnl(Lemfia and Koch 1977) wri the refereace deta. iristlecame
+inc hed the mast layers the have “ubight™ agrecenca’ with the reference Ge.
+(Pritiocone pine. mined comitir, snd sproce-ti, ed layers with “fei agreement.
+
+Oeconten
+
+Providing lend menagert with autho to paces foe! landings and fares! stpmd comfitions
+‘would saat them with the date meceatery to meke well informed flee management
+sdociaioma. These types of Geta ae 6ifficela ko cbtain, 10 lacy ane fem mot collected i
+remote and ditthcwl to ecoeas aces auch atthe Som Fromriaco Penis. Satellite imagery it
+‘eppropriete for developing fect Iype maps over large lamdacepes sad hes boom wood
+‘extensively (Keane et al. 2000, Rigno ct al 2002, von Wagscmdonh nad Root 2001)
+
+a
+
+
+Page 53:
+Ancoracy Ascsament
+
+ASTER imagery, “weinod” with the permencat plot doin, waa wsod to mep spocics,
+‘comapy cover, fuel madels end both woody and forest floor feck. aver 8 wide rage of
+‘vepettion and feel rypes, oting bach» direct sad indirect mopping sppragc (Kiowag etal.
+2001). Overell accurecics ae simiir ho other fe! mapping smeicsthet ward aneline
+imagery sad. more complicated biophysical madcling approach I heve reported.
+‘secrecy enacsumest reais the slow for anacaument by offer reacerchers of our mapped
+leyern Interpecting che wectviness of many fects ond fuct made layers fram other
+[Projects derived from remotely aemaed deta a sometiaes difficult becawac of
+
+incomaiaicncios om how nocerscies ae teparted, or the acowacies re mot reported at all
+
+(Rcenc cal (2000), using Landaet TM imepery, reported sa overell accuracy of 36% aad
+‘a0 overall KHLAT valor of 45% tor tir toneal type layer, which ia smplogs to my
+sposios layer. Their overall sccurecy wos slightly lower thea whet I echicwod bt their
+HAT valve wes lenges. For thei fue! made layer they reported aa averell acewracy of
+39% and a KHLAT velue of 24%, which were both comiternbly Leas ign whl I achieved.
+‘White accwracy wos reported fr indivihual clanacs incdivihoal clans KILAT volves were
+wot reported. This moles it impansible ho Getermine which ofthe individu layers could
+bbe mopped beter then by random chemce. They akan reported lege incrosaes ia
+‘socurecies after ferry logic wee applied. Fuzzy logic recognizes thei the iymaitinn
+
+
+Page 54:
+bbermeen mopped lenses i wekdoam clear-cut ad dhe ot cleas extremes, om item mney
+‘actually belang to reo cleases (Gopel and Wandcock 1994, Cangelton aad Crees 1999).
+
+Felhorwski ct ol (2005). oxing ASTER imagery. achieved an overol sccwrecy of 72% and
+a KHAT vabwe of 63% far ter cover type mop. Thais fect made! claaificotion hed an.
+
+overall accuracy of 2% and a KILAT valor of 54%. The higher accuracies of decir dota
+Ayers indicate het te biophysical mapping approach (Keene ct al 2001) mey be » mare:
+suicsble mopping method wien wting ASTER deta,
+
+(Rina otal (2002) reported overnil nocwrncies of 55% to 67% and KHAT valves of $1%
+and 61% wien evebenting the effectivencas of waing 0 single dele of Landa TM imagery
+‘compared to aing on image comprised of mpbipls deca of Lamdunt TM imagery far
+mapping fuel types. This layer is similar to our fuel madel leyer sad their methodology
+‘ic comporeblec to the methods | employed. Their sccurecies are sightly lower thea ours
+‘while their neported overell KHAT vahec ia qeiac high. Similar to Kewne etal. (2000),
+HAT valves tor inbividel claauct were mot ncported ao a detsled seuraumeat by ovine
+\wacrs of tele mopping project is mot ponaible. Another fee! macel mopping project wing,
+‘mila-dene imagery (vem Waghendoah sad Root 2003) reported the overall accuracy
+(54.3%) and KHAT (29%) vole. ILITAT volvos for individeal mopped clanacs were mot
+reported. My project benefiaed fram the war of 4 mbi-deas image. The 2002-2003
+imoge | wand did mot have olerpe effect ca cverell ecowacies but 4 did proce more
+Ayers thet were significently beter chem readiom.
+
+
+Page 55:
+‘Soerces of Cleasificetion Error
+
+‘Verity in species and comopy cover image cleaificetinn nocwracy ia ow medy cam be
+‘striated tos member of factor. For exemple. sapea trocs were mot telly leafed ow in.
+thee 2002 image. sequined in certy April. well before the stat of the growing senana. ta
+tee 2003 image, scqpined ia late Octabes, the sharace of leaves an the expen tose was
+‘Viawelly evident. Von Wagieadoat end Woot (2003) wsod NDVI vahecs calcelated trom
+‘TM acemes accpired in May. Pune. Duly. September, October, ead November. They fovnd
+thet for both thoracodied und long-acotied conifer, the NDIVI values were grosteal ia
+‘pons and Duty, chowgh acy did flan thea chart mpeced comiters wih» heery feet
+‘componead exhibised highest NTIVI valves in September. This indicated thet fuels layers
+may be more accwatcly mopped at the cad of. snd perhaps at the bepinning of. the
+(owing acescn. Fucts in the aspen forest type may very likely be more accwatety
+mopped with “loaf-off” images.
+
+‘The rcleaively amell increase im accuracy wihen wting the 2002-2003 image ars ogeia.
+likely dee 10 meitieer of the images heving boom noqpeired during the mibile of te proming
+‘scescm. ‘The comopy cover vorietion, capocially with sqpem, com elaa be stributed to the
+\detes of the imagery. Canopy cover om the permencat plot wes meesured during the
+summer fleid scesom (May through August) whhea the sapen ees were leafed out. These
+‘comapy cover Geta were vaed to “waia” the April and Octaber images to produce the
+‘comapy cover ayer. As with the treining deta. dea om the reference plot were collected
+dering the mommcr motes when the trees were folly leafed owt. The diacrepemcics on the
+
+
+Page 56:
+imope Gene, slong with the deta collection cm the pormemced nad rederemce plots limined
+1a he pmaner months de to logistics ond weesicr mace it cxtreamely dittiogl wo develop,
+(90 secernie cemopy coves layer, capecitlly for the napen forest type.
+
+‘Thc majority of che fue layers heve relatively high overoll socurecics but uerprisingly
+ow KHAT valves, Voriobiliry in feels com plan be atribted io impomaiaaent doin
+collection methods, ad with forest fone fete, im the inkeepectnsion of whet comings
+Aimer ond tuff (Brown snd Bievine 1966). | 60.001 fed thet deta collector variability ia
+lexpe factor in this etady becowae our ings were comsatcal with otter smwdics. The
+dead wondy feels dicribeticn om ur plots is highly chewed to the right, ‘This wes
+‘comaiaiesd with whe! i reported by Brown gad See (1961) and fico and Beving (1986).
+“The majority of che tucks being in ane ning cleus made it very hely thet they wil be
+‘lessifiod cornectly and thet the clensificasion wes caly merpinelly beticr then condom.
+(Deed woady tee! Koeding sad tarea floor fvela were plan comaiaien widh oles studies.
+‘The renge of fects in the pondenacs pine lye (oll within the range of variability thet
+Harringion (196) found ia veriows ponderous pine sises throwghow! Arinoae. Pearion
+(19206) ia hia work cm tae Peeks noted thet“... the Dougie-fi and Engelmann wprece
+1ypes (amalogovs to owe mixed comifer sad spruces types. reapectively) the uurfave foot
+‘conteina an appreciable emown of orponic meter” He pocs om to state thet the scien
+of orgenic medics becomes “teas conspicuous a the alpine ype (ow bratiocone pine. or
+sachelpime. type) is epprcected.” frown and Fievine (1986) reported thet asbelpine trees
+ead to retoin dace branches tt to the lack of astwrel proning, Thi variability of fete ia
+‘Pomderose pine sad higher elevation forests acroas the Sovchwest ond the fact thet all
+
+”
+
+
+Page 57:
+‘Soutien forest fel types ane represeatod on the San Framciaco Peaks aad thet this
+‘vortoblty wa shown by the Low KHAT vahpes to be difficelt to detect, anggetis thet
+mapping fucis ing our metaade wom lcly remit im smiles vw eccurncics.
+
+(Conctastons ond Management plicetions
+
+‘The vegetation ond feel conditions of tke Sea Fromciaco Peeks and the frequent Low
+sacverity fire regimes (pomderose pine), mitcd-eeverity fic regimes (ponderase pine,
+‘Dowpiae-Ss, limber pine) sad infroquent high-acverty Bec regimes (Eagetmens sprwce
+‘ad sobeipine fr) ore eeprcscatative of moyatninoys seces hroughoyt the Sovtbwest,
+envy feel loadings combined with the threat of exiemted drovght comitions mey make
+4 mocemtary for ond managers to allow meayrny ignited flees to burn wihee conditions
+sllow. The shift of mare mesic fares! types auch os sprece-fr. deacribed try Cocke
+(2005), toward lower clevotinns further emphasizes the importance of the rintradction,
+of fire. Kaceledge of fee Landings pad forest composition wil saint in these difficult
+sovinions,
+
+
+Page 58:
+AZ .
+
+ass
+AZD
+
+ws
+
+|
+is
+
+Se Ds
+
+fFigas 3.1. Elevesone! grodiont wich 135 permencat plows om te San Francine
+
+el
+nerthor Ariaene,
+
+
+Page 59:
+GG aT
+WEG
+
+ge ee oa a8
+Re ae 0: a8
+
+hh ki
+
+‘Table 3.) Stand stractore ond enady site characterintics thea from the pormencat plot
+deta. Thear deta were wecd to develop the mepervised wating nite signature Ble. This fe
+‘was weed to chanify the chroe ASTER image combinations.
+
+
+
+Page 60:
+i
+§
+j
+|
+i
+ui
+l
+Ff j
+ij a
+l ce |
+ii 3 Ft het ge" ae j
+idl eiel sal shal shal sil j
+ghid gas
+
+n
+
+
+Page 61:
+‘Table 3.3 Total arca (ha) and percent cover by forest type ae ctanified by the rec mage combinetions.
+ET Tee
+
+ee ee en.
+Masco SSM
+ee ae ee ee
+or ar a 7
+Tet Aven 3182 a0 oa
+
+‘Table 3.4 Total area (ha) of canopy cover claaacs a3 cleuaified by the three image combinstions.
+
+st
+
+
+Page 62:
+‘Table 3.5 Accuracy sascsament roasts for ll tree image combinetinas. Layers significently beter thes random are shown ia bod,
+Alpha ic 0.05. Woody fects ia Mgtha.
+me,
+
+By
+
+
+Page 63:
+‘Table 3.6 Peirvwine comperiaons of all mopped leyer. Z susie and (p-vahec) are shown. Layers thet ore significantly differen ore
+shown in bold. Alp is 0.05. m9 ~ 7 satistic could ant be calcvleied becomes ame or mare KHAT valves were mepetive ar 2:70.
+
+Tae = ea ie = co ar
+wersans OO CM AS ANTM OMAIN ORO LATA ONO
+28 02M ONT OI LMAO ONT IMAM BITE ROR | OM OIN
+SION OO TORER OTERZy ORAM EOI ITA OHZAND
+r
+‘oars 2003 7 ~ ONE OMA OOM LAM | CRM
+WNT 8 OLIN OHO Bey ABM OAM IHN IEAM ane
+peer a’ me ARN TOLAIH BIDE AR = OMIT
+
+‘100ans mite 1600 sale toot and HORE hctge OOD cae tee.
+
+
+Page 64:
+Unerstere Cited
+
+Anderon H E (1982) Aide to determining fc! models tor eatimeting fre bcheving
+(USIDA Forest Service General Technicel Report [NT-69, Opéen UT. 22 pp.
+
+Avery TE, Burkhert IIE (1994) Fores! mepuyrements McGrme-Hill, lac. Taromia,
+Oatarin. 408 pp.
+
+‘Bertolet 1, Spotakey D (1999) Remotely sensed bun severity mapping la: Harman D.
+to) Crossing Bounderis in Park Menagement Praccodings of the | Ith
+(Conference on Research sad Resoyece Maaegemeat ia Pats aad an Publ:
+‘Landa. The George Wright Society, Hencock. Michigan, USA. pp. 45-51
+
+‘Beows JK (1976) Handbook far iavemtcrying downed woody materiel General
+‘Technical Repan INT-I6. USDA Farest Service Intermoyataia Fores! & Range
+Eaperimcat Sation, Opdes, Ut 16 pp.
+
+‘Brows JK, Sot TE (1981) Downed end Deed Woody Ferland Baomess in the Northern
+Rocky Mowatsing USDA Foret! Service latermoyatein Research Stntion Generel
+‘Techical Report INT-117. 68 pp.
+
+‘Brown JK. Bevies CD (1986) Sertece foc! Inedings and predicted fire behavior for
+‘vegetation types in he mortherm Rocky Mowainina USDA Fareal Service
+Inlcrmowninin Reacorch Station. Reacsarh mote INT-}SE. Opéea, UT. 9 pp.
+
+‘Perpon RE, Sheaby MB (1964) Mapping trond eres fire potcatial from digital fect,
+ceria, pad weather dels. Jourual of Forestry 82, 223-251
+
+‘Perpon RE, Klaver KW. Klnver JM (1998) Fuct models an fice potential fram exiting
+sad wart obacrveion faternatinnal Foul of Wildland Fire 8199-170.
+
+(Cobra CA. Roberta ACB (2004) A mubiacale texture amalysia provedtre for improved
+fescal sad claasificeticn fatemational Jounal of Rewote Sensing 28,4287.
+son.
+
+(Cocke AE. Feld PZ, Crowsc JE (200$) Farce change cm a weep movacnia srodicn efter
+‘eateaded fire exclusion: Sea Froaciaco Peeks, Ariane, USA. Jomntal of Applied
+Erology $,314-823
+
+(Coben 111960) A coetiiciea of agrocment for memingl scolea, Fulerurional wut
+Peycholopical Meacnreuens 20,746,
+
+(Coben WR, Moicraperger TK, Spies TA, Getter DR (2001) Modeling fares! cover
+‘stiibetcs 06 continous variables ia 2 repicmel conten) with Themeaic Mapper
+doe faderuational Jouruat of Rewtote Sensing 12, 2272510,
+
+4s
+
+
+Page 65:
+‘amgeinon RG (2001) Accurecy enscaumeat sad validation of remotely scaaed ead other
+spatial informacion. faternaticnal Journal of Wikdiand Fire WO. 321-323,
+
+(Compolaca 2G, Green K (1993) A practiced look a the soyeces of coafesina in error
+atria generation Photoprammrtric Enpincering and Reatote Sensing $9, 641-
+os,
+
+(Compolacn RG, Green K (1999) Asacasing the accwracy of remotely scased deta:
+principles and prectices. Lewis Publishers, Boca Reaom, Lomdoa, New York,
+Wakingsen DC. 137 pp.
+
+(Compolacn RU, Oderavdd RG. Mend RA (1989) Asacasing Londuat clesification
+ccuncy waing duacrete mpliveriete aupyni atptaticel technics.
+Photopramamartris Engineering and Ressote Sensing 4, 1671-167.
+
+Felhorwaki MJ, Geasier PE, Morgen P. Mdnk AT, Smith AMS (2005) Charncterizing sad.
+mapping farcal fucks wang ASTER imagery aad gradient modeling, Forrss
+Erology and Management 107, 129-146,
+
+Fiancy MA (1998) FARSITE: Fire Atce Simulaios- Model Developmncal sad Evahgetion.
+Rocky Movatsia Research Station. USDA Fares! Service Research Paper RRS:
+RPA Optes, UT_47 pp.
+
+Gancy 1. Block WML (1994) A Comperiann of re lechaiqucs for mesawing conngy
+samwe. Wren journal of Applied Foersry 1, 2123
+
+Gopal S, Woatcack € (1994) Theory ead methods for eccwrecy pascsament of themelic
+maps ting ferry uct. Photogranamuriric Empincering and Reacts Seasing 2, 181+
+a8.
+
+Handy CC, Bergen RE (1999) Eveleetion of NDVI for monitoring tive moisiyre ia three
+‘vegettion types of the Wesicrn US. Photngrauaartric Empinerring an Rewow
+‘Sensing §, 03-610.
+
+arringloa 4G (1966) Comperiane of forest floor depth to Landing etaticaships fromm
+‘several Arizase pondesats pine atgnda USDA Fareal Service Racky Movatsia
+Foret aad Rong: Esperiment Station Reseeech Note RM-463.$ pp.
+
+Huong C. Zhang Z. Yong 1. Wylie 8, Homes € (20022) MRLC 2000 image
+preprocessing peocedure hap: Nlendcover mgs pov pdOimege. preprocessing pdf,
+US Dept of taterior, USCS.
+
+Heong C. Wylie B. Youg L.. Homer C. Ziftarn G (2008) Derivation of a taacted cap
+pecformation pac) cm Londact 7 st-anaclite reflectance. international Fournal
+of Remove Sensing &17AL-ITA,
+
+
+Page 66:
+‘Jeasca TR (1996) tamnectony digitl imoge processing: » remote seating peaapective
+Prentice Hall. Upper Saddle River, NJ. 318 pp.
+
+Keone RE, Mincemoyer SE. Schmidt KA, Lang DG, Gamer J1 (2000) Mappiag
+‘vepetticn and feels for flee menegemen! on the Gila Netiongl Fareal Comptes,
+New Menica. USDA Gener! Technical Report RMIS-GTR-A6-CD.
+
+Keone RE. Borgen I, von Wogicmdoak }(2001) Mopping wildinnd fers for fire
+menagemcnl scons multipte scalea: lategreting remote seating. GIS. oad
+beaphrysical modeling. berrnational Journal of Wikdland Fire 16, $01-319.
+
+‘Lachowshi H, Maya P. Golden M, Jobasan J, Landrem V, Powell), Verner V, Wirth T,
+Gomapics }, Hin S (195) Cridetines forthe wu of digital imagery for vepstetinn
+mapping. USDA Fareat Service EM-7140+25. 161 pp.
+
+‘Landis JR, Koch GG (1977) The mopmrement of chuerver egrorment for cotegaricel
+dade, Blousewics 29, 159-174,
+
+‘Leice (2004) ERDAS Imaging IL? Lsica Goneysicms AG, SL Gatien, Switresiond.
+
+‘Markhemn BL, Barker JL (1986) Landuad MSS ond TM past-colibration dymemic amges,
+‘cinsamospheric reflectances sad elaatellie hempersawres. EOSAT Landsat
+Technical Notes 13-8.
+
+‘Miller JD, Deazer SR, Wotts JM, Stowe S, Yoo! SW (2003) Chester saalytia of sargctaral
+stoge clonscs to map wildinad fucis im 9 Madrese ecosystem, Journal of
+Enrircwanenaal Manapenene GA, 290-252.
+
+Peerice GA (19200) Fectars controling the Gutribytion of forest Iypes, pentT. Exodagy
+139199.
+
+Peerica GA (19206) Factors canmalling the datribysinn of fares! Iypes part. Erodogy
+1. 299.308.
+
+Pyne SJ, Andecws PL Laven RD (1996) lntrodection to wildland fire. Joba Wiley &
+‘Some, tac.. New York, Chichester, Rriaheae, Toronto, Siagapare. 769 pp.
+
+Recherg P (1995) The Wesern Region fire monitaring beadbock he Proceotings:
+ssymponiom on fire ia wilderness sad park managemcet. USDA Forest Service
+Tedermowninin Rescerch Station General Technical Repart INT-GTR-320. Opdes,
+(Utah pp. 259-261
+
+Rinmo D, Chavioce E, Sates J, Palaciae-Onecta A, Peatnerika A (2002) Generation of feet
+
+{ype mops trom Lendael TM images sad encillary data im Moditerreacen
+scomytleme. Canadian Journal of Forest Reseaerh 32. 1301-1315.
+
+”
+
+
+Page 67:
+‘iano D, Chevioco F. Sates J. ond Aguede 1 (2003) Amesament of differest iopograghic
+‘corrections ia Landuat-TM Gata for mopping vepetation types LEEE Transactions
+a Grnacience anal Rewsote Sensing §, 105-1061
+
+‘Roberts DA, Deaniaom PE, Morais M, Gerdaer ME, Regetinagge J. Ustin SL (1999)
+‘Mapping Wildfiec Fecla ving Imeging Spectrometry slang the Wikiead Utes.
+Interface, Proc. of the Join Fire Scieace Confercace ond Workshop, Rene 17-19,
+1999, Boag, Woh, Val. 1, 212-225.
+
+‘Rosenfield CH, Fiaxpetrich-Lins K (1966) A coefiicical of agreement nt» menaure of
+
+Ryherd S, Woodcock € (1996) Combining apectal and texture dese in the scgmemtation
+of remotely scmsed imeges. Photogrammetric Expinrering at Rote Sensing 2,
+Ia1-194.
+
+‘Story M, Congation RG (1986) Accuracy nasesament: A watr's perspective.
+‘Prosopranamrtric Engineering and Restote Sensing $2, 397-399.
+
+‘Taylor AH (2000) Fite regianes and tones! changes in mid aad opper mostone forests of
+tae southern Coscodes, Lasace Volcanic Notional Port, Californie, USA. fournat
+of Biogeography 27.87-108.
+
+“Thame K, Bigger S, Steer P (2001) Effects of pampmed solar spoctrl ieredinace om
+intercompariacas of corth-obecrving scasnis. Ja Proceedings: Scaanrs, Systems,
+‘nd Wea -Gencrotion Satelites Fujande H, Lurie J. Weber K edionn. SPIE Vol
+4540, pp. 260-269.
+
+‘Fortary RD (1978) A mote cm sgmmplc size cximelion for mutincenial popyietions Thr
+Aare at Satlticiast 32, 100-102.
+
+‘Ven Genderes Jl. (1977) Testing laadveue snmp sccerncy. Phatogrammetric Eagsnresiag
+‘and Remote Sensing 9, 1135-1137
+
+‘Ven Wogtemdanh JW, Root WL (2003) The wae of mphinaemparal Laadomt annualized
+difference vegetation imdes (NDVI dots for mapping feel motels in Yoacmie
+Netiongl Park, USA. datrrsarionat Joma! of Reuoee Sensing 34, 1639-1651
+
+‘Verbyle DA. (1995) Sotcine pemotes sensing of metyrel resoeces. Lewis Pyblishers, CRC
+Press. Bore Raton. 198 pp
+
+‘Wondcock CE, Collins 1B, Gopel S, jokebbery VD, Li X, Macomber S, Ryherd S,
+Harweed V), Levitan J, We Y, Warbingion 8 (1994) Mapping fares! veperntion
+‘ving Londons TM imagery oad.» comapy reflectomce model. Remoue Sensing of
+Evironment 90, 240-254,
+
+
+Page 68:
+CHAPTER FOUR
+FIRE REHAVIOR MODELING
+
+Abstract
+
+Crow fin activity 90a modeled ening the FlamMop flee samattion pogrom. Area of
+scive coun ll mccoy 190% nerwoes the 10 sd 0 ate wind spot seman
+bby a0 addeinmel 10% between the 40 and 70 hav wind apeed scenering, aad by 221%
+tberaccn th 10 ond 70 Lanter wind speed acenerina. At the londacope-lvel, mewn pote
+se of ective crown Bre imrenued aver 700% from tae 1020 70 kant wind peed
+scenerics ond the member of peaches decreased by 647% betweea 10 ond 70 kant wind,
+speed scenariog, At tae clat-evel,ptive crown fire mone patch sine incre slightly
+ina five fone eypes (eapem,bratiocane pine, mined comer, pomderose pine, sad.
+proce: fe) with incronsing wind speed. For oil clasact, the mumber of petces increeued,
+3 the ctae-tevel, betwen ae 10 oad 40 Lanftrwind peed acenorias but kended bo
+sdocrcaae betcen the 40 aad 70 avr wind apood scemarink. Hestioee imcrveued wih
+(ear wind speeds a both che lndacape nd ciet-evela. Ax Enosion Index made! wid
+te identify rene thet hed » high potential for erosion was crested wing slope, conse
+‘woody debra 1000 how sound ond notin fc) ad hea/oren layers crestod in 10,40,
+sad 7Okan/hr wind speed semattions os inpasa. Avon of high cosion poteaial increased
+bby 33% berweca the 10 ond 70 kant wind speed erenerict.
+
+Keywords: crosine: fre behevinr mdeling: fuck; leadacepe: peach tie; watershed
+
+”
+
+
+Page 69:
+Intredection
+
+‘The Sem Francisco Peaks repeeseal. over the elevational gradicml, forest erect sad
+tere conse ce tno the Sooivest. Mein, mach ofthe Peskin
+‘within o federally designated wikderneas, the City of Flagstaff hes municipal water welt
+am the Peeks, ond a major waterbed (ie Fing), et pe i the peat Qoodiod the
+Flagual orca, hes ts origins on the south sick of the Peaks (Zeno 2005), The hase of the
+Pooks ia being cacronched epas, pasticularty on the soul sie, by mrighborkonds sad
+sconered private residences. The whan-wikdinad interface hes become 8 source of
+‘concern for lend managers throughow the Souirwest (Marzoff aad firndicy 2000). Years
+of fre moppreation have led to 9m imcrenaed commectivity of mrtince feta that es the
+potcatil io sypport Bees ovale the hishorcel range of voriablity im size wad severity
+(OAites and Uren 2000), Wiktfire covid, expecially vader drought condita, qvicly
+‘move into the Flaguaff city nits sad, comvericly, residential res couhd quickly move
+‘onto the Pesks. ‘This later acemeric ia more litely de tothe preveiing sousrwent ko
+merthcgc wind directing. The 480/be Lerova fire, which occured an the south side of the
+Pooks in 2001, mode FlagaiatY residemts very aware of the Fire terest.
+
+Fine behevior madcla allow tend manager to simelete fire behavior conditines ia sree
+thea hove boon wadenpone fel reduction eatmemt (Scot 1998, Feit et al 2001) in
+‘reas edjocent te populetion center (Strtion 2004) sad in nondleas snd wilderness orene
+‘where decades of fie muppecasion hes tod to high fuel loadings (Fubt eta 2004).
+(Common fire behevinr models inchuée FANSITE (Fiaacy 1996), FlamMop (Finacy in
+preporvtion), ond Nexus (Scou pad Reiahendt 2001). FARSITE iso determiniatic mociel
+
+
+Page 70:
+thet simu che apetiel and temporal spread of fire (Stratton 2004). lapwes inchude
+‘snpoct. ehevetion, slope. fuels end weather. Ouapets com be ia tabuler, vector. ond reaier
+ferment. FlemAdap requires mony ofthe tome inpwes aa FARSITE but isa hazard model,
+‘mot modeling the spatial end Lemporel spread of fire. Each pincl i treenod independently
+from those srovad a. Fire behewice (murface fie. pesnive crows fee or ative crown fire)
+{a descrmined fox cach pixel Ovspets ae im tabular formel. Neves ia 3 éeterminiatic
+mode! of surtece fre behavior, also warfel tor auacasing feel bacerda. Crown fle:
+womstion sad crows fire spreed is sac modeled (Scott and Reinherdt 2001). FlemAtap
+‘wes chowen for thia project because the aiition of the topographic inputs was deemed
+beter sided to simmatoting fire behavior im the sep terri of the ted area.
+
+‘Landacape metrics provide ecologists with ways to quentify teadacape poticre wad the
+‘nfiycnce it hes om ecological procenace (Torner ct al. 2001). A patch ia aa important
+‘concept in landacape ccotogy thet cea be defined aa “ya sree differing in eppeereace from
+(2s wsrroundings” (Formen snd Godron 1986). White and Picket (1945) sated thet @
+Dich “implies o reietively diacrete spaial petiera™ ond (Temmcr ct al. 2001) mote that
+aches are cevily infiwemced by the grain sine end extcal of che dots and by the
+‘lemsificatbon scheme wsed to derive ke patch.
+
+Ages (2002) usted chet patch sine of burmed areas in cestaide Oregon nad Washington.
+‘treat typos with froquest krw-acverity ie regiamcs. sch os pondcraas pine. tended to be
+smell, renging from 0.02 100.35 oe. Pach sine im mined-ueverity fie regimes hed lerger
+riches reaging from 2510 240he. The Douglas-fir. sepen. oad limber pine types om the
+
+
+Page 71:
+Pooks toll within this repiane. Hlagh-severity Bin: regiancs, mech 98 the aprecetic type om
+tae Peaks, hed comaiderobly lege peices (Agee 2002). This maseic of pesch nines ie
+
+safficgt fon load menage to mimic hough irises ones! chinning wad prescribed.
+
+fre. Allowing wildfires to burn wader armel westher comfitinns of to liow wider war
+of menepement-ignied proscribed fre (Pericns 2000) mey be the moat practical ways bo
+‘etern thi motgic to the lend.
+
+‘Lanps imcrenses im soil eromiom res ater widdfires were reported by Morris yd Manes
+(1987), Aree with severe eratinn aced to be eidreased ao thet rchgbilitetion cea be dame
+to minianize demage to wetcrabed function (Neary ct al. 2000). There hes been 2
+‘corresponding increeac ia paul-fre eration comtpol prtivisos wide lke increas in the size
+‘and severity of wikdtics (Robicheud 2005). This incresse ia posi-fire erosion costal ia
+‘lao crecial becouse lke popelation living ithe wriea-eikdlond intertorc hna nian
+incrcenod (Rabichewd 2005).
+
+My objectives im this study were: 1) 40 yar FlamMop to simagte active cromm fie
+behavior and heev ence ot low, madereée, sad high wind speeds, 2)10 onetyze the change
+in the member of patches and meen patch sizes under low, madera aad high wind
+sponds, 3) to develop om Enation Index made! to identity sees with 3 igh potential for
+‘erosion following » wildfire, aad 4) drew implications for menngcmcat of tae Peaks sad
+simitge sexsiroatora lamdacepen
+
+
+Page 72:
+Matede
+‘Stety Arce
+
+‘The $,000 hoctore sree chases for thia sey wes Located alma catioey within the
+(Reaching Peaks Wildermeat Arce an che south side of che Som Fromciaco Pooks. The steep
+‘devetionel grediest of the site provided aa opparunity to work within nearly aif of the
+‘treat fons fc! comdisinns fond i the Scurerel within 3 compact peagraphic s0ce.
+Foca ypes (Figere 4.1) inchaded pomferate pine, mixed conifer, apnece-i, aad
+‘avhelpine. ‘The pomdcrose pine {Pinas panderoad) type occirmed a tae lowest clevetions,
+of tae sedy oren ond wes found wp to chevetions of 2.500 m. The mixed conifer Iype,
+‘which incleded limber pine (Pins exis), Dowgtoutie (Puemdouunpe sarnsiesi),
+Pomdeross pine. sad sepa (Papaias trraminades), remged from 2.500 m to 3,000 m The
+proce: fir type generally scowred bermern 3,000 m sad ).500 m ond inchoded
+‘Engeimens sprece (Picra expeimanndd), mibelpinc fle (Abies iasiecurpa), oad briathecame
+Pine (Pls ariinate var. aricanices ‘The sbelpine forest type wes townd fram 3,100
+to 3,600. Ririathecome pine wes ae Gomineat Woe species im thia zone. Elevations
+ange from 2,440 m to 9,560 m.
+
+‘Weelaes deta fram 1909 - 2001, collected w the Fort Valley weather stating,
+(were wre: dria), lacated five han aoyrhares ofthe andy ste, were symamrined.
+Meee Jaanery hempernaores were 52°C mesimemm sad 120°C minimgm Moos duly
+Nemperstwres were 26.7°C and 7.1°C minimum. Meen snaue! precipitation wes 56.9.cm.
+
+oy
+
+
+Page 73:
+A series of weather cptions wese extnblithod inthe aiedy s0ce in
+
+16 (Pearnon 1920).
+‘Weather stations were locesed ia the following foreal types: pomderose pine. Douglas-fir,
+limber pine. Engelmann spruce, sad usbalpine. Pearson (19200) vaed deta collected from
+tae stations to determine climete focaors thet infieeacod the distrbytinn of fares! types.
+(Data collocod af tne sitions ia 1917 aud 1918 show temmperoiyes thes roage from 5.37
+(Cin pomdezomn pine, $.4°C ia Douglas: fi, 3.1°C im Enpetmena sprece, ond -0.05°C im
+tae mbolping type. Amma! precipitation wes 102.| cm inthe abolpine type ad 61.7 cm
+‘mn the pomderone pine type (Person 19208).
+
+Fickd eta
+
+(One hmdeed thirty-five permanent plots bescd on the Nations! Pork Scrvice’s Fise
+‘Monitoring protocol (Recheng 1995), were established during the 2000-2003 fickd
+fconcma. Forea cloauecs dic to drovght ead siidiiees. adverac srether conditions, ond
+tee overall sogpacas of the tcrreia prevested the completion of tke plots ia one oF te
+
+‘eld cess,
+
+“The plot centers erre 301m apart in the motbvacush recom, sad 300 mor 600
+the coulweal direction. Each 0.1 he (20 5 $0-m) plot wes orcad with th $0-m sides
+‘phaildowaball tc maximine sompling of varighilty ong the elevational predict. All
+‘verubary trea weve tagged cn ch wpa ade snd tree menaremcats collected included
+
+specios, dameter ot brcest height (dob, comapy har eight and total bright. Pale woes
+(25-15 cm Gh) wore meemured om 2 250m" mubplot. Soothing (<2.$ om dik) trees were
+tallied by apecion, condition, and eight clans om 9 50.m subplot. Tree comopy cover was
+
+
+Page 74:
+meomsred by vertical projection every 30 cm (Gomy wad loch 1994) along the two 50m
+Plot edges. Slope and eapect were recorded fr al plots. Plo elevations were thin from
+2 digital chevetion model.
+
+‘Wondy debris we mesusred on for 1$.2.m planar tremagcts (Brown 1974) hat
+corigineted trom cach 10 m point from the comertine (long oxia) of the pha. Woody
+‘dca wea recorded by timclag cleaues (Anderton 1982). Liter and duff dept
+meomorements were taken every |.$ m slong cock trensoct. Dowmed deed eroody fc!
+‘comaiais of dond twiga, brgmches, stem, sad holes of toes and shrubs thet ed fain sed
+Ae cmc mops the grovmnd (Hiroe aad Sor 1981) ond were claaafied ina fous ammeter
+size claaues of 0.1-0.5,0.6-2 5 cm, 26-75 cm, nad 7.6.¢m sed presser (Anderman 1982)
+“The largest sine cleus is divided inka solid end youicn components becouwns Meese exhibit
+afenend fie bebevioe. The focla size clnaaes were sao cherscterined ny moianere
+iamcing clanacs.
+
+(Development of Fire Made lapets
+
+‘Advanced Speceborne Thermal Emission ond Reflection Radiometer (ASTER) taslisg
+imopery wos wood, in conjunction wih the permonent plot deta, to develop overiory mee
+speci, comnpy coves, tel made, and both wrcaty foc wad forest float fects layers. A,
+lel made i 8 atyléned sad simplified description of feck described in rma of fre
+bbehevios and vepetotinn type. thet are vac in i simoletinn sad behevior madcle (Pyme
+1990). A daceasinm of tae image clesificotion process in dacwaned in Chptes 3 of tis
+thesia.
+
+
+Page 75:
+‘A sinc of dota layer are mecestery ma impute for FlemAtap (Fiaacy in preperation).
+(Reqeieed deta layers inchade chevetion, slope, napect, fuel mate, sad comopy cover.
+(Optionn! dete layers ore sina height. conogry beac height, and canopy bulk density. The
+lhrce topographic eyent were Gerived from digital chevation model (DEM). The apetiol
+retobaicn of the DEM wos retempied from 10
+of the ASTER detect
+
+em 10 metch the spatial resolution
+
+Fect models (Andernan 1992) were sanignod os follows: sapen wes made! I. sapem-
+mized conifer toma were moet 10, bristlocome pine mes made! , mized conifer wes
+
+made! 10, snd sprece-fle wee made! 10. Feel moisture voles, represcating the 90° sad
+97 percentiles of low feel moisiyres were ward ia ol FlamMep simmelatinns. These were
+‘colovleted tram 30 years of wether deta from the Coconino Nationgl Fareal (Felt eta
+oon,
+
+(Comcgry bl demaity ia xm oppionel theme im the FlemMap progrom. It wae mot vad in
+thie uady. fa the sbacace of 2 conopy bull emaity layer. average uned hight ond
+‘comapy bulk dematy cen be weed. The lowest quintile wea vacd ko celrgorize canopy bese
+Incight to bemer represent ectool sad comfitions (Felt ot o. 2002).
+
+‘Wind spend of 10 through 70 kanfhr in 10 kmyfarimcremments, were word. This rage of
+‘wind aponds represeats realistic wind speeds thet oncwr Goring the fre acasom (Fuld cto
+2001). A range of wind speeds is mcceasery ko qonatify the infiweace of wind speed om
+
+
+Page 76:
+‘ective crows fre behavior. High wind spoeds were found to have a stranger infbwcnce
+them fc Landings cm crown fre ecivity im high clevation forests (Basic end Johan,
+1995), Low, moderate, sad high wind spords of 10, 40, pad 70 kanes were wood for
+Ancetiece, can patch size, sad amber of petches simuletions. Wind azimuth was hehd
+‘comainat at 225° becawae of the prevailing aouthrest-tovncrthcest wind direction.
+
+A folips moan contest of 100% wes ward ia the simulation procent. | chose bo wae
+00% flier moisture conta de ko the diverity of foncat types. Agee ef af. (2002)
+‘townd folios moianyre comcal valves of 20-90% tor pamderose pine and Dowgina-fir aad
+100+120% tor alpine fh
+
+‘Simetions were conducted waing cock wind speed to made! hen/ares aad crown Gre
+‘activity. Each FlamMap ovipss wos saved as am ASCT fide and chen comverted to reser
+filca. The Puich Asslyul (version 3.0) extension for Arcview 3.3 (ESRI Rodiands, CA.)
+‘wes weed to calculate erce (he), meen pesch size (he), aad awmber of patches for both the
+Ihcatiece and crows fire FlemMep oxspets. Calcvletions were rua om both the tandacape
+level sad cleastevel. The above landacape metrics were eso computed for hewtaree sad
+‘rom fhe ectivity i onck forest (ype
+
+‘As Erosion Index mae! wes created to mate! potcatiol pst wildfire aod erosion
+‘comme wondy debris (1000 howe soxnd nad rotten feta) layer was integrated with the
+‘active crows fire layer, cock heavaren layer. ond the shape layer to idemtity aces of tom,
+‘madervéc, ond high erosion potemiol. Model persmters wad were slopes > 10%, coante
+
+on
+
+
+Page 77:
+‘wondy debria > 0 ond ewt'sece 229.05 Kier for the 10 kmwfhr acenerin, 227.584 KJim
+‘forthe 40 km/hr scenario, aad 237.993 Kim for the 70 kanthr acemerio.
+
+Roe
+(Crown Fire Activiey
+
+‘Active crown fhe imcroesed acrnas tae stad oren trom roughly 650 be. (19% of study
+‘st00) at 0 wind apeod of 10 kaa to meaty 2,000 bp. (40% of study oree) ot» wind speed
+of 70 kawfar (Figure 4.2). The prostost single imcresar in active crown fe ance occurred.
+‘1 e wind apced of 20 havior. menrty doubling from whe FlemMap simolated for 9 wind
+speed of 10 havtar. Increnars im crown fee aren of roughly 300 be accurred betwen the
+20 m0 40 haves wind speeds. Maden imcroeses ia active crown fre ance of
+approsimatcly $0 bn, were modeled between the 50 to 70 havibr wind spond.
+‘Comverucly. pensive crown fire drometically Gecreesed from 765 he.(15% of sdy area)
+1 9 wind apcod of 10 havfar to leas chm a hectare af 70 kamfar. The largest deceoone,
+95%. occurred between ie 40 ond 50 kuvter wind speeds.
+
+‘Whes enelyzed by species (Figure 4.3). the sree of active crows fire comaiatcathy
+‘incrcesod chroughous the 10 to 40 kawfhr wind apced reage. For ail species, FlamMnp
+madeted a shenp docresae ia active crowm fire aren a the $0 kawthr wind speed. Active
+‘roe fhe oron apei imcresand inthe 60 aad 70 havfar wind speed scemerina. Passive
+crown fhe oren constantly decreesed, with sll species, from the lowes! 10 tae highest
+‘wind apeode.
+
+
+Page 78:
+Hewaree
+
+‘Increancs in average heet‘wail neve occurred st increasing wind apoedi (Figure 4.4).
+Heet/arce, a all wind speeds, wan greatea in the sprocestiecleas (Figure 43}. There was,
+Aim difference betaren heet/are vehecs ia the 10 sad 40) kaye wind speed cleates. The
+mized conifer foneal type hed the accond highest volves aad hed greater varietina
+between the 10 ond 40 kame wind speed classes. The pamderose sad eapen cleases
+vexhibiaed cimalar hona'nce vabees a the 70 have wind apeod cloas. Aspen hed higher
+‘voloce in the 10 ond 40 kame wind speed cleaact. The briaticcne pine clans hed very
+Aim veriation bereeen the cheoe wind speed cleaucs.
+
+Moen Patch Sine ond Number of Petches sad Erasion ladex
+
+1a areas of ecive crow fre the member of crowmnfire peaches decreased na wind spoed
+increeuod from 10 12 40 to 70 havin. Meee peach tine iacreesed by acarty 2 fortar of tem
+between the 10 ond 70 kame wind speed cleases (Toble 4.1)
+
+‘The mumber of pences i the sapien clon dremetically crossed between the 10 aad 70
+lkmfae wind spoed cleases while the mons patch size increeuc was very smell (Teble 42)
+“The brisleccme pine cleus hed o amellincreese between the 10 aad 40 havtiy wind speed
+‘lenses wie the mumber of patches ia the 70 have wind apeod clans Gecrenaed lightly
+trom che member of polcios in the 40 Lamhe wind speed cleat. Micon patch sine increased
+‘Very slightly ia the bristocome pine cleat. ‘The member of pices increeued beter the
+10 and 40 haya wind epood claaacs in the mined comer cla Simite to the bristhecame
+
+
+Page 79:
+pine ype, the member of piches was lower inte 70 kanthe wind speed claus Map i the
+40 kame wind speed clone and the increase mean patch sine wea reltivety umell. These
+‘wes om increene i th amber of pescaes between the 10 amd 40 kanfhr wind speed
+‘lenses im th pondcenae cleat. Asim the britiocome pine ond mined conifer cinaaes, dhe
+member of patches decrentod in the 70 kanfhr wind speed clean. The imcresae in meen
+(ich sine wea premier im the pondcrace pine cleat thea ia the other foe fares! types.
+“There were sight increnses in both ae member of patches aad mncen peach sine in the
+sprece- fi forest ype. Arces of macitod high erosion potcatil veried slightly beterces
+thee 10 (41 ba), 40 (65 he), and 70(7S ha) kawthr wind speed cinanes (Figure 4.6).
+
+Pecomton
+
+Active Crown Fire Behavior
+
+Active crown fre increased in overall orca. ond in potch tze with incresacs ia wind speed.
+(Other anes, in voriogs forest hypes. have hed smite resins. Seaton {2004} reported
+increeucs in seve conmoamod by both peative oad active crown ic in 5 piayon-jomipes
+(Pinas edb taniperns sep.) coceysiem, ia sexier Utah, whhen wing 93° percestie
+‘wether conditions, Bessie sad Jahaace (1995) comchedod the in mobelping forests
+Aacoled in the sosthern Conndion Racty Movaising, wether, in particules wind, played 3
+mare impartnad role in cron Gre activity them did fue. Simiderty, Fuiéctal. (2001)
+‘ewad, in 2 andy combecied in » pomdcroae pine coaaystom of northern Arizome, thet 72
+lem/hr wind sprote wovid lend to crown fire inition in pone that did at wopport crown
+fires a dower wind spends,
+
+
+Page 80:
+11a very lity thet Flambap waderenimates the acted ace of active cron fee. As
+Previowdy diaraned, Flembiep teats cech pixc! independently from those erownd it
+FlamMop requires chat che criteria to warfare fie ond then for» peanive comm fire ate
+met before» pine! com have aa active cron fie valve. ‘The progression tram mefne 10
+sctive crow frei a postble, within Flembtep, ifthe canopy base height vahves are
+tao greet. Comapy hae icigh i the vorisbte eucd in FlomAap chat has che grontes!
+inttgcnce nthe progrestion from 5 murfece fir to wn active crown fee. Active cromm Bre
+behavior. wader the extcme conditions simulated inthe model, oud alma! certainly
+aproed to edjaceat pincls rependicas of canopy hear bcight The cemopy tear height layer
+{acd tor the Flombtap simulations wo crcetod waing the treiming ste din ae described
+in Chega 3 of this thesia. No eocurncy naenament ofthis layer wos performed bet the
+cury is iely ho be quite Low ae thin i a Soret atrectore vari ati few to
+detect with traditional remote scmsing acmanrt, Sarton (2004) sédressod the FlamMop
+‘aac f sctive crown fe emderestimetion by combining he prasive aad sctive crown fire
+‘cobegarica. This combination of tire behaving cotogories wovld hove sided hte ar. 10
+the active crown fie clans in thin cic Deco ofthe email ore. madcked 9 pensive
+
+row fee.
+
+My mote smetenspdiget psc men ad men pc ioe aren
+sacveriy imcrossen, Hoary and Yoo! (2002) sad Romme (1982) found thet the sumer of
+Diches decrosses aficr hang firo-free periods. Meee peach tine imcreeses os lar lemdacepe
+bovomes more hamogencows. Fonesis with 5 feqpwen fine repiane often howe 2 mnanic of
+
+"
+
+
+Page 81:
+cand apce. demaitcs, vad species compoaition thc to the variation ia Bee acveity acroaa 3
+Aendecope (Romane 1962).
+
+‘Topograpity hes born shown to heve significen effects om fic bechevice (Rushle aad
+[Ripple 1997) The veried topography of he Peaks would almast certainly eed to a
+mossic of burned sad vaburned petches. a reflected in the model reusin. The Lerows
+‘re, which burned ender marmel weelier conditions, crested 2 maseic of vabwrned,
+‘modervicly burmed, and acvercly burmod peiches (Cocke 2005). Under extreme weether
+‘conditions thowgh. ‘opogroplty hes a decrosaed infleeace on Ge behavior (Ruse sad
+(Ripple 1997). Bessie and fohascm (1995) and Twrncr and Romme (1994) alao found thet
+in exireme weather conditings, the importence of fuel lading decaceacs othe comfitions
+imoceauery bo attain crown fine nec met. Weelaer is mary claacly pasociated wih fle
+(behavior then ore fecls ond analysis by Bessie and Johnson (1995) found thet weather
+vexploined 83% of the vorionce in in intcmaity
+
+Fine Etfects
+
+Jnvesive plant species often thrive in anon tea were creted by high severity re. These
+specie will often be the domingnt post ic pleat community (Romane ct of 2003}. The
+‘veriogs comitr species im the stay srce vespand differeatly to fre. Pomderose pine hes 2
+Ahn fic resistence, the mized conifer spocios in he ancy aren. Dowghes-fr and ener
+Pine) heve a high fre resistence, sad the aprooe- fi species (Eagetmans spruce wad.
+subalpine fyb 3 low fre vesiatoace. Fritiocome pine, located in the highont points ia
+the sady ore, hove a maceraae resistance to fre. Aspen, fond cheaughous moerhy tt
+
+n
+
+
+Page 82:
+‘entire ody seve, hes 2 very low resiatoare to fre. Although meay of these mpecies here
+‘high rosictonce to low aad maderate severity Gres, high-acverity fre sree may hove
+Aime conifer vegencroticn tec to high aced mortality (Romme ct al 200). Buds aad.
+lua combigan angel uprvive 2 fis in ander fox 9 tex ko rvive (Miller 2000). The lang
+‘moedica om pomderose pine and timber pine help ko shicld the buds aad thin com increnae
+bed aervivel ol 20% ower eight tpn thet mfhcre foliage i hilled (Ryan 1990)
+
+‘Second-order fire efflocts, sch 2a craton end changes im vegetation composition, arc
+imdivoct postfire effects the accor trom joat how wp to decades after » fire (Reinhardt et
+a1 2001). Ercaine ia 3 secomd-andes thre effect of particular amparteace bo the atedy arco.
+“Tle removal of Soest foo te, which oc to ow water rynct? ond allow for water
+iafiltreion, soceleratcs the crosiom process (Morris sad Moses 1967). Poat-fire acdiameat
+‘amounts con be extreme in ences of uiccp herein, perticulerty in erces thet sino cxpericace
+high anes treruoems. Average slope in the sted a0ce i roughly 25%. The
+‘osotf from both anon sad the momar monaoms provide te perfect combimetion for
+lenge omovans of ecdaeat ia be souhed donm-alope. Removal of topsoil i dewimnental
+to vepetasion recovery, loads ho Moading. sad scvercty craded dreimeges (Miller cf al.
+2003).
+
+‘Lees (2005) madeled pou fire fianding om the Rio de Flag wretcrubed, covering much of
+
+my tnedy sec, showing thet peak diacherge could incrosse two to mowrly seven times the
+Aintorical 100 yeor diacherge. chemo. at (1996) found thet in areas of seep torrein
+
+”
+
+
+Page 83:
+hes experience heey mpmaner mmonanna precipitation, ach atthe Peaks, diacherge com
+increne op to 9.400%.
+
+‘Kieatifying secon thes have high crosiom pocatil is importnat to idcatiy high isk areas
+thes mood to be considered far some type of forks trestmcat. High risk ereas ae typically
+‘srees that have experienced a receat high-severity fre es low aad maderssevarverity fees
+do mot have similor cronion and remot? impacts (Cipra cf al. 2003). The Erosion tadex
+Maatel crcetod in this tady mee eaed to high idesify high rik ercea. | fc! thet the
+madel wacerestimated the high rit ance. The nocp slopes and relatively high coerse
+‘woody debvia level theoughows much of the smedy seve wowld soem lo appeal thet the
+otemti! for acvere ruaotT wold be greater.
+
+Model Limictions
+
+‘The Flamiap mat es lmitpticns thet aced to be waderuland before meangemest
+\dociaioms ove mace beaed om the mode! ovsputs. The criteria for ative crown fire
+‘ntigion is nach » limitation. Agoc (1996) found thet the parometer in the Von Wagner
+(1977) crown fee initiation model, wilized ia FlamMop, scemed more acaaitive to
+‘comapy bene hcight thea to flies moimtwre conten. My simulations confirmed thin. All
+smadela ore also acate dependent (Piemsce and MacKazic 1995. Turner tal 2001) amd
+reaslta will differ depending om whet acake i weed. The accuracy of the dots layers wacd,
+‘imps meds to be taken into consideration. ‘The FlamMap ovsprts are not mercangeily
+‘sorwrete eatimetes of active cromm fine, bt they Ho sltow for resscmable comparizons of
+Poteatiel active crow fee activity ia relative home (Felt ct af. 2004),
+
+™
+
+
+Page 84:
+(Conctastons ond Management plicetions
+
+Overs centay of fie muppecaiom hes resuhed in vansturl forest conditions ond loge.
+scvere wildfires (Covingson aad Moore 1994, Seetaem <1 sl 1999), The sine and
+roqeeacy of crown firs have incresued. Crown fires in the 19408 tothe 197708 averaged
+‘rom 100-4 3,000 acres wih fewer then tem Bice per decade. During the 1990s, crown,
+‘ire size imcrenaed to 2.000 ko 7,000 acres and averaged tevaty ais Bice per decode (Maa!
+2003). The potential far crown flee wtiviry cam be seatty rechuced, but ot mecesaaity
+liminaied, tarough menagement of wrface fucis or by raising the comopry bene hight
+(Agee 1996.
+
+“The quccion of wal role fine should cerreaily play cm the Peaks is complicated by the
+
+Federal Wilderness designetinn of much ofthe aren. The Wilderness Act of 1964 ates
+hes wildermcas showld have minimal impacts from hymen sctvitics but it sao atau that
+4 be “mameged a0 os to preserve is manera comfitinas.” Wiliermeas is mameged far both
+imetervinces and wildecas (Cole 2001). Nateraincas in wikderaess describes coméitinas
+
+hes ace largely wnefocted by hnmena sie the wildcat of wilderaces refers to it being,
+
+‘vetromancted snd vamenipuistcd by hnmens (Portons ct af. 2003).
+
+11a difficyi io menege for Both netereines aad wildacas. Over a century of fee
+uppreasion mey make it moceasery to vac humen ignited prescribed fires aad mechanical
+foci eeductina techaigers lo reayrn areas to a mar: meter sae. These types of feet
+
+Iwesaments compteiely go ageinat the idea of an area watouchod by humane (Parsons eta
+
+%
+
+
+Page 85:
+200). The decision to menage wildermens for wikducas or metersineas may be ome of the
+mein wikderncas memagemncat ines of the 21" ceatery (Cale 2001),
+
+(Prescribed fee, boch humen ignited ond wikdiend war fires, hes been weed. but very few of
+tee designated wildemest wees owtinte of Almdcs have approved fire plams. Budget
+Nimitations, interagency bovaderies sad cooperetion, end sir quality comoeras are some of
+tac reescms tet taere hes boom line progreas ia wikdcraces fecls menepemca! (Persans ct
+a 2003)
+
+“The rentrocection of fie to the Sen Froaciaco Peaks may be tke only menepemeat
+alacranaive eveilabie. The sicep terrain ofthe Peeks woukd make say mechanical
+Iwestments ton imprectical. Wildiond vac fires hove been wacd in other wikdermeas areas.
+(Persons 2000} pad boconr of ecoeas inet may te tae mast appropriate method of flee
+‘reiamnadection (Milicr 2003). Ecological snd social concerns mul be considered before
+reimmshecing fee to the Pgh. lames related to umae ead the poteatinl for fe to crane
+[Prescribed fre bownderies ac risks thet land managers mat consider (vam Wagieadoak
+1995), Thene inmpes mapa be addronsed becowae of the ecological sad ancial impects of 2
+‘cotaatrophic wildfiee and the potcatid reusting erosion sad fhooding.
+
+
+Page 86:
+Figure 4.1 Percent of landacape by farest ype
+
+
+Page 87:
+igure 4.2 Fire Bohastor classes under fos 1 brn hr esdcrate 8k hry apa igh
+7H kin hee supa conditions Har graph sheras atca sf the active cron Lire class unt
+saind conan tron 1D and Whe he fonts clears Wnts the ative roan Lis
+Ihrcabat
+
+
+Page 88:
+sulla
+
+
+Page 89:
+Figure 45. Hieeunece ender ective crown fire comfitions aad low, macerate, and high
+‘wind comfisioas for the thee forest ype.
+
+
+Page 90:
+Fopure 4 Areavof hugh cfowon potential under active crunk Fite condom and,
+moderate, apd high wend conditions Model farameten wed acts slopes - 10s, oar
+seedy deters + O and heat area 223,348 KJ mn! forthe 10 Lin be wcehane, 227,504 KJ mn
+foe the 40 kin he sceriaew, aad 237.303 KJ a for the 70 kes he wenats.
+
+
+
+Page 91:
+‘Table 4.1, Number of peiches ond mesa petch size, im aces of active cromm fire. of low.
+smoderoic, ond high wind spords a the loadacepe-ievel
+
+ied Booed Eve aens of Pes, nes Pas Be Fa)
+
+oer
+
+18.
+
+80,
+7
+
+goes
+Bake
+
+‘Table 42 Number of peiches. ond mean petch size, in areas of ective crown fire. at low.
+smadereéc, ond high wind speeds forthe five foreatFype.
+
+* aE
+a
+s oa
+ES ~”
+earcone ” c-]
+= on
+ry
+ES
+Mans owe ” Ce
+» a
+ty
+s ze
+E nn
+oe ” =
+» —-
+Be
+s ze
+ES me
+seve ” -
+» =
+cc]
+s .
+E =
+
+
+Page 92:
+Unerstere Cited
+
+Agee JK (1996) The infheence of foreal tinectre om fire behavior. Preacnied al tie 17"
+‘Anauel Foretl Vegetation Menegemen Conference, Redding CA. feawery 16-11,
+
+Agee 1K (2002) Fie aa a conrne finer for snegs sad logs. dn Ecology sad management of
+dead wood im Western foreata. USDA Fare Service General Technical Report
+PSW-GTH-IBL. pp. 358.68,
+
+‘Agee I, Wright CS, Wilismana N. Huff MI (2002) Foter moiahwre conte of Pocith:
+‘Nontiwes! vegetotion aad ts elation o wildload fre behaving. Foveat Ecology
+as Mangrasrnt WT, 87-66,
+
+Anderon H E (1982) Aide to determining fc! models tor eatimeting fre bcheving
+(USIDA Forest Service General Technicel Report [NT-69, Opéen UT. 22 pp.
+
+‘Bema BJ, MecKcazie MD (1995) Effects of scasor spatial reaniytion on lndacepe
+saroctore parameters, Lanairupe Erodogy V0, 113-120.
+
+‘Beatie WC, Johaacm EA (1995) The roleaive importance of feta aad weather on fre
+Ibchevioe in tubaipine forests. Erology i, 247-762.
+
+‘Beows JK (1976) Handbook far iavemtcrying downed woody materiel General
+‘Technical Repan INT-I6. USDA Farest Service Intermoyataia Fores! & Range
+Eaperimcat Station, Opden, Utah 16 pp.
+
+‘Brows JK, Sot TE (1981) Downed end Deed Woady Ferland Baomess ia the Northern
+Rocky Mowatsing USDA Foret! Service latermoyatein Rescgrch Sttion Generel
+‘Techical Report INT-117. 68 pp.
+
+(Cipen JE. Kelty EF, MacDonald 1, Nermem } (2003) Soil properties, eration, aad.
+‘mplcotions for echabiluntion sad epestic ccoxyacms. Ecological effects of the
+Haymes Fire. USDIA Fares Service Rocky Movataia Research Station General
+‘Technical Repan RMRS-GTR-114. pp. 210219.
+
+(Cocke AE. Feld PZ. Crowe JE (2005) Comperizon of burn acverity ecsamests using
+Differeaced Normalized Burn Ratio and grovad deta. Aniertariona Jomrsal of
+Remnte Sensing 14, 189-198,
+
+(Cole DN (2001) Mamppemeat dices gt will ape wildermcat i the 21° cemtyry.
+fomrnal of Forrary 0, 43,
+
+(Covingiom WW, Mocre MM (1994) Sothwestem pomderaua pine fore! srecoye:
+changes since Euro-American scttement. Journal of Forestry 1, 347
+
+
+Page 93:
+‘Debena LF, Neary DG, Ffollion FF (1998) Fire's effects om sconyenemm. John Wiley
+‘Some, tag. New York, NY. 333 pp.
+
+ESRI (1992-2002) Eavisommental Systema Research leslie lac. ArcView GIS 33.
+
+Fiancy MA (1998) FARSITE: Fire Atce Simulaios- Model Developmncal sad Evahgetion.
+Rocky Movatsia Research Station. USDA Fares! Service Reacerch Paper RRS:
+RPA Opies, UT 47 pp.
+
+Finncy MA In pecperstioa. FlemMap. Missovie. MT: USDA Forest Service. Rocky
+Mowainin Rearerch Seating, Fire Srieares Laks.
+
+Formea RTT, Godroa M (1986) Landacepe ecology. Jaha Wiley and Some, New York.
+619 pp.
+
+Feld PZ, Mciingh C, Heinicia TA, Covingsan WW (2001) Potential ie bebevior i
+eleced following fosca redonstina wesaments. la: Provoodings of the RMILS-P-
+22. USDA Forest Service, Opéen, UT. 20-95.
+
+Felt PZ. Covington WW, Sanita I. Springer JD. Heinkcin TA. Hiainga DIK, Moore
+MM (2002) Comparing ecolagicel reatarntion aineraeaives: Groad Camyaa,
+Arizane. Farr Erology and Management 170, 19-41
+
+Felt FZ. Crowe JE. Cacke AE. Moore MM, Covington WW (2004) Changes ia camopy
+foci nad potcatil flee behevinr 1590-2080: Greed Canyon, Arimaas. Erologirat
+‘Madeting 17S, pp. 231-248.
+
+Gancy 1. Block WML (1994) A Comperiann of re lechaiqucs for mesawing conngy
+samwe. Wren journal of Applied Foersry 1, 2123
+
+Hemry MC. Yool Sit (2002) Characterizing fire-celeaed spetial pauierns in the Artaning sky
+inland wsing Londeat TM doin. Phowsprammurtric Exginerring and Rewoee
+‘Sensing 64, 1011-1019.
+
+Khia JD, Ripple W) (1997) The role of werpin in 2. fle mosaic of» sempernse
+omifcrons fae. Forest Ecology and Mane pemens $8,.97-107.
+
+‘Leso DIS (2005) Waker yield end peak diacherges remsling trom forest dunerteace ia 8
+morther Artaane waterbed Flagu{f AZ. Northern Arizona University. 35 pp.
+
+‘Marchal Ih Baredicy GA (2003) Ecological restoration i the wrbea-wikdtend iaterfac.
+‘x Ecological restorsion of Southwesiera ponderose pine foreais Taland Presa.
+pp. 353-370.
+
+‘Mast IN (2003) Troe colth ond forest structure. da: Ecological restorstioa of
+‘Sowireratern pondcenae pine forests. Wend Press. pp. 215-232
+
+
+
+Page 94:
+‘Miller C. Urhen D {2000} Commectivity of forest flecks sad werface fire regimes.
+Landarape Ecology 18, 148-154,
+
+‘Miller ID, Ryhen JW, Yoo! SR (2003) Modcling poteatial erosion due t0 tae Cort
+Gavade Fire wit 9 GIS based implementation of the Reviecd Universal Soil Laas
+Eqeesion, hnerustionat Fournal of Wildland Fire V2. 25-100,
+
+‘Miller M (2000) Fire swtecalogy. ie Wildtend fire im eccuyscma: effects of fire om flors.
+USDA Foren Service Gener Tecan Repr RMIRS-TR-A2 vole 2 pp
+
+Moers SE, Moses TA (1967) Fosea fire ond the netyra! sil erosion regime ia the
+(Colorado Front Range. Anuats of the Assoriatien of Aaarricae Geographers 72,
+245-256
+
+‘Neer (0G, Rabichand PR, Beyers JL Hubbert K, Teapes J. Netaam BE (2000) Paste
+burned sce cmexgeacy rehabilitation wesumeats: Do try work isthe Soues
+‘Pivdrology anal Water Renoarcet in Arizona wad the Sousbwe t 29, 31-36.
+
+Persons 1} (2000) The Chelicage of Restoring Netyrd Fire so Wilderness. a Cale DY,
+‘McCool SF. Homie WT. O-Lovghiin J comps. 2000. Wikdemeas aciencs in 8 time
+of chenge confercace - Vohume $: Wiidermess oconyanems, rests, nad
+management, 2000 Mey 23 - 27; Minaoyia, MT. Proceedings RLMMKS-P.1S-VOL-
+5. Opden. UT: U.S. Department of Agricuitare. Forest Service. Rocky Mowstaia
+Resenech Station pp. 276-282
+
+Pernome DI. Londres PIS, Miller C (2003) The didcmme of mennging sad restoring natural
+‘re ond foci im United States wilderncas. Mn Clolley KEM, Klinger RC, Sogabere
+NG (eda. Proceodings of Fire Conference 2000: The Frnt Nationel Congress of
+Fine Ecology, Preveation, pad Memapemeat. Miscellearcys Publicetina No. 13,
+‘Tall Timbers Resceech Sastinn, Telghesace, FL Pp. 19-26.
+
+Peerice GA (19200) Fectars controling the Gutribytion of forest Iypes, pentT. Exodagy
+139199.
+
+Peerica GA (19206) Factors canmalling the datribysinn of fares! Iypes part. Erodogy
+1. 299.308.
+
+Pyne SJ, Andecws PL. Lavea RD (1996) latroductinn to wikilend fre. fala Wiley &
+‘Some, tac., New York, Chichester, Rriahee, Toronto, Siagapare. 769 pp.
+
+Recherg P (1995) The Wemer Region fre mondoring headbook. ha Proceosings:
+ssymponiom on fire ia wilderness sad park managemcet. USDA Forest Service
+Tedermowninin Rescerch Station General Technical Repart INT-GTR-320. Opdes,
+(Utah pp. 259-261
+
+
+Page 95:
+Robicheed PR (2008) Mesmurement of post fire hilaiope erosion to <vehuete ond motel
+‘ehebiitation brceimenl effectiveness aad recovery. atrruarional Journal of
+Wikdiand Fire V4, 475-485,
+
+‘Romane WH (1982) Fire sad teadacape diversity in wsbeipine fares of Yellowstone
+‘Notional Park. Ecological Monographs $2, 199-221.
+
+Romane WH, Regen CM, Keuanan MIL Huckaby L, Veblew TT (200)) Ecological
+‘effects of the Hayman Fire. USDA Fareal Service Racky Movatsia Rearerch
+‘Staion General Technical Meport RMRS-GTR-IN4. pp. 220.227.
+
+‘Ryea K (1990) Prodicting prescribed fie effects cm ees im ae inter west. fm
+‘Abemader ME, Baagrove GF, tech. coords. The st and sckemce of fine
+menngomcat: ofthe lterine West Fire Cowacil pameel mecting, 1963,
+October 24-27. Koagmiakis Vilage, AB. Info, Rep. NOM-X.309. Edmonton, AB,
+Foreairy Canada, Nonfaern Fareiry Cea. pp. 148-162,
+
+‘Scout 1(1998) Fuel redaction in residcaliel wad areaic forecia: » comperiann of tarot
+Iestmeats in 2 western Momtaan pondcrate pine send. Rocky Mowainia Reseeech
+‘Station. USDA Fores Service Rescerch Papes MRS-RP-S. Opdea, UT. 19 pp.
+
+‘Scout Jit, Reimhardt ED (2001) Asscating crown potcalil by linking modcle of mprtace
+‘ad crown fie bebevier, USDA Forest Service Reacerch Paper RMRS-RP-29. 59
+.
+
+‘Suptica RD (2004) Asacasing the effectiveness of lamdacope feel westments om fire
+(Pow snd behevinr fouma of Focratry 32-40-
+
+‘Swemem, TW, Allen CD, Betaacowl JL (1999) Apple hiahorical ecology: sing the pt
+a mnmege forthe Ketyre. Erodopina! Apptications 9, 11NS+1206..
+
+‘Tomer MG, Romane WH (1994) Landucape éymemica ia crown fin ecoxysicma.
+Landacape Exolags 9, 9677
+
+Temes MG, Gendmer RH, O'Neill RY (2001) Laadacepe cology im theory sad practice.
+peti and prncens. Springer-Verlag. New Var. 401 pp.
+
+‘Ven Wegner CE (1977) Comfininns far the sige pad spend of crown fire. Canadian
+fomrnal of Forest Research 7, 23-4.
+
+‘Ven Wogtemdanh JW (1994) Larpe fires in wilderness wees. 9 J.K. Brown, 2.6. Mach,
+COW. Spoce, aad (LH. Wokimota, dian. Proceedings: sympotinan ox fee im
+‘wilderncas sad park menapemeal. USDA Forest Service Genera! Technical
+Report INT-GTH 920. pp. 113-116.
+
+‘Whine PS, Picken STA (1985) The ecology of meturel dicturbeace aad patch éymemics.
+‘Acedemic Press, tac. 472 pp.
+
+
+Page 96:
+‘Arca (ha) end perocal (14) of nmdacape wondy sad facet floor fel types forthe tare food facts in Myton,
+image combinesions.
+we
+
+this:
+wel
+
+the:
+ial
+
+ise:
+pant
+
+hivl
+get
+Bake
+a
+Hee
+fees
+gua!
+eee
+panel
+it
+ust
+te
+pa
+ete
+gezel
+“H
+f
+
+its,
+Rees?
+
+ifec,
+B3ae
+
+aut
+ne
+
+1
+Byge®
+
+ifec,
+Epa’
+
+
+
+Page 97:
+Appentts 2
+
+Acceracy sasgamment reads, by forcat type, for layers crceted with the 200? detnart. Layers significently beter hes rendcan we
+shown in bold. Wondy feels in Mg/be.
+
+‘10eahs mice 1600s toot and M00 meso MOOD cae fee
+
+
+Page 98:
+Appetit 3
+
+anoat type. for layers crested wit che 2083 detent
+ecrec remem conan by Gre ty. foley. Layers significantly bene them random are
+
+} ?
+THM TT THLE
+Wy Wy WW i
+
+i
+
+!
+
+
+
+Page 99:
+Appentts 4
+
+Acceracy eascammend roasts, by forest type, for layers crested with the 200262003 detaact. Layers nigniticantty beter then romdem
+ere shown im tokd. Wendy fon in Mg/ta.
+
+
+
+Page 100:
+Appentts S
+
+Peirvaize comperiaons of all mapped layers by forest type. Z sciatic and (p-value) are shown. Layers vignificenty differeat ore
+shown in bold, Alphe is 0.05. s0 © Z matiatic could nt be calculated beceute one er more KHAT values were negative or aera,
+‘Wondy fools ia Move.
+
+=
+=
+=
+
+Teas mvt 1 si ae ond MR ince PO a
+
+n

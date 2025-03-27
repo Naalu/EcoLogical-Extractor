@@ -1,0 +1,94 @@
+The Ecological Restoration Institute is dedicated to the restoration of fire-adapted forests and woodlands. ERI provides services that support the social and 
+economic vitality of communities that depend on forests and the natural resources and ecosystem services they provide. Our efforts focus on science-based 
+research of ecological and socio-economic issues related to restoration as well as support for on-the-ground treatments, outreach and education.  
+Ecological Restoration Institute, P.O. Box 15017, Flagstaff, AZ 86011, 928.523.7182, FAX 928.523.0296, www.nau.edu/eri 
+Understanding LiDAR for Forest Applications 
+ 
+By Jonathon Donager and Andrew Sánchez Meador 
+What is LiDAR? 
+Over landscape scales (≥ 10,000 acres), spatially explicit infor-
+mation on forest conditions is necessary to achieve multiple man-
+agement objectives. LiDAR (Light Detection And Ranging) enables 
+land managers to make inferences on forest conditions. LiDAR sys-
+tems principally operate by emitting pulses of light and recording 
+the precise time it takes for that light to return to the sensor, from 
+which the distance to an object is calculated. Each of these light 
+pulse returns corresponds to a three-dimensional point in a LiDAR 
+point cloud, a collection of many returns representing the landscape 
+(Figures 1 and 2). Dense objects (tree boles, rocks and ground sur-
+faces) typically result in a single return, while less dense objects 
+(tree crowns and foliage), may result in multiple returns. In addition, 
+energy is absorbed by the reflecting object, and the amount of ener-
+gy returning to the sensor, commonly referred to as an intensity val-
+ue, can help further discriminate between various objects. These da-
+ta can be collected from either airborne or fixed terrestrial locations, 
+and mobile terrestrial LiDAR is becoming increasingly common. 
+Terrestrial LiDAR, as the name implies, is typically collected from 
+multiple ground locations, then combined into a single point cloud. 
+Airborne LiDAR is operated from a fixed-wing aircraft, where the 
+LiDAR sensor is coupled with precise location and movement infor-
+mation to accurately place the data in physical space. Airborne Li-
+DAR provides data over larger areas (e.g., > 1,000 acres) at point 
+densities from less than 1 point per m2, up to 15 points per m2, de-
+pending on the quality level of the data collection. Terrestrial Li-
+DAR typically provides data over smaller spatial extents (e.g., < 100 
+acres) and at much higher point densities (e.g., 1,000 points m2). 
+  
+What types of data does LiDAR provide? 
+Specific to forestry and landscape-scale ecological restoration, discrete-return airborne LiDAR proves to be 
+the most widely used, due to large area coverage and penetration of tree canopies by multiple laser returns. 
+Usage typically starts with a pre-processed (removal of spurious returns), classified (ground and vegetation 
+points) LiDAR data point cloud, typically provided by a vendor. From these data, users then can create vari-
+ous products, or data layers, that can be used for assessment, monitoring, and decision-making. For exam-
+ple, direct outputs might include canopy height or ground elevation. Derived products, such as predicted 
+basal area or biomass, could then be used to prioritize restoration treatment areas.  
+ 
+ 
+October 2019 
+Figure 1: Airborne and terrestrial LiDAR use 
+the same principles, but collect data from differ-
+ent platforms. Discrete return LiDAR uses pre-
+cisely recorded travel time of light to provide 
+structural (height and location) information. 
+Full waveform LiDAR collects the entire profile 
+of returned energy. 
+
+ 
+ 
+ 
+ 
+ 
+First-order products consist of rasterized (pixel-based, like a digital image) summaries of point cloud 
+properties (Figures 1 and 2). Common first-order products include digital elevation models (DEMs), dig-
+ital surface models (DSMs), and the difference between the two: a canopy height model (CHM). For esti-
+mating attributes associated with forest conditions, it is common to remove the effect of topography (i.e., 
+transform the data from elevation to height above the ground). Users of first-order products include re-
+mote sensing and spatial analysts in academia, non-government research organizations, federal research 
+stations, and federal regional data centers. These technical users can then derive a variety of LiDAR met-
+rics (Figure 2). These metrics are paired with field measurements to characterize forest characteristics 
+over large landscapes as second-order products (Figure 2). 
+ 
+Second-order products are derived by relating plot data (e.g., basal area, volume, mean tree size) to first-
+order products then using these relationships to predict forest attributes across the landscape (Figure 2). 
+While technical skillsets are needed to create second-order products, the end results can be used by feder-
+al, state, tribal and other land managers to inform natural resource conditions, prioritize management 
+needs, and monitor management effectiveness. Some potential applications include: 
+ 
+ 
+Forest age structure and diversity 
+ 
+Biomass, carbon, and volume estimation 
+ 
+High-resolution habitat and potential biodiversity modeling 
+ 
+Modeling ecosystem services across scales 
+ 
+Forest road mapping or hydrologic flow analyses 
+ 
+ 
+Contact: Tayloe Dubay, Tayloe.Dubay@nau.edu  
+NAU is an equal opportunity provider.  
+This research was funded by a grant from the USDA Forest Service.  
+Figure 2: Diagram depicting how LiDAR data are processed to produce first-order products and LiDAR metrics, 
+which are then paired with field plot data to develop predictive models to produce forest characteristics, or second
+-order products, at stand to landscape scales. 

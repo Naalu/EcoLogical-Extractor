@@ -1,0 +1,1818 @@
+32
+Ecological Restoration Institute 
+Working Paper No. 32
+An Evaluation of Fire Regime 
+Reconstruction Methods
+November 2014
+SOUTHWEST 
+FIRE     SCIENCE 
+CONSORTIUM
+
+Intermountain West Frequent-Fire Forest Restoration
+Ecological restoration is a practice that seeks to heal degraded ecosystems by reestablishing 
+native species, structural characteristics, and ecological processes. The Society for Ecological
+Restoration International defines ecological restoration as “an intentional activity that 
+initiates or accelerates the recovery of an ecosystem with respect to its health, integrity 
+and sustainability….Restoration attempts to return an ecosystem to its historic trajectory” 
+(Society for Ecological Restoration International Science and Policy Working Group 2004).
+Most frequent-fire forests throughout the Intermountain West have been degraded during 
+the last 150 years. Many of these forests are now dominated by unnaturally dense thickets 
+of small trees, and lack their once diverse understory of grasses, sedges, and forbs. Forests 
+in this condition are highly susceptible to damaging, stand-replacing fires and increased 
+insect and disease epidemics. Restoration of these forests centers on reintroducing frequent, 
+low-severity surface fires—often after thinning dense stands—and reestablishing productive 
+understory plant communities.
+The Ecological Restoration Institute at Northern Arizona University is a pioneer in 
+researching, implementing, and monitoring ecological restoration of frequent-fire forests of 
+the Intermountain West. By allowing natural processes, such as low-severity fire, to resume 
+self-sustaining patterns, we hope to reestablish healthy forests that provide ecosystem 
+services, wildlife habitat, and recreational opportunities.
+The Southwest Fire Science Consortium (SWFSC) is a way for managers, scientists, and 
+policy makers to interact and share science. SWFSC’s goal is to see the best available science 
+used to make management decisions and scientists working on the questions managers 
+need answered. The SWFSC tries to bring together localized efforts to develop scientific 
+information and to disseminate that to practitioners on the ground through an inclusive and 
+open process.
+This publication would not have been possible without funding from the USDA Forest 
+Service and the Southwest Fire Science Consortium. The views and conclusions contained 
+in this document are those of the author(s) and should not be interpreted as representing the 
+opinions or policies of the United States Government. Mention of trade names or commercial 
+products does not constitute their endorsement by the United States Government or the ERI.
+Author: Larissa Yocom Kent
+Reviewers: Dan Binkley, Dave Egan, Robert Fahey, Will Flatley, Peter Fulé, David Huffman, Andrea Thode, 
+Barb Satink Wolfson, Amy Waltz 
+Series Editor: Tayloe Dubay
+Cover Photo: Historical photos like this one, which shows evidence of a large severe fire in spruce and aspen 
+forests on the San Francisco Peaks near Flagstaff, AZ, taken in 1910, can provide rich historical information, 
+but they are typically “snapshot” images, meaning that changes over time are not documented. A combination 
+of methods used together is the strongest approach to reconstructing historical fire regimes. Photo courtesy of 
+USDA Forest Service, fs.usda.gov
+Please use the following citation when referring to this Working Paper:
+Kent, L.Y. 2014. An Evaluation of Fire Regime Reconstruction Methods. ERI Working Paper No. 32. 
+Ecological Restoration Institute and Southwest Fire Science Consortium, Northern Arizona University: 
+Flagstaff, AZ. 15 p. 
+
+Table of Contents
+Introduction........................................................................................................... 1
+Identifying the Best Available Historical Data.......................................................... 1
+Historical Documents and Photos..................................................................... 2
+Dendrochronology: Fire-scar Data.................................................................... 3
+Dendrochronology: Tree Age, Death and Growth Data....................................... 5
+Forest Structure Data........................................................................................ 6
+Plant Traits....................................................................................................... 9
+Charcoal........................................................................................................ 10
+Integration of Multiple Lines of Evidence............................................................... 10
+Conclusion........................................................................................................... 13
+References.......................................................................................................... 14
+
+1
+Ecological Restoration Institute
+AN EVALUATION OF FIRE REGIME RECONSTRUCTION METHODS
+Introduction
+Reconstruction of Fire Regimes
+Fire is a fundamental disturbance process in ecology 
+and has been a powerful agent of change in terrestrial 
+ecosystems for millions of years. Understanding the 
+role of ﬁre on a landscape is critical for managing ﬁre 
+and forests for biodiversity, ecosystem function, and 
+resilience to changes in climate. To better understand 
+the role ﬁre can play in forests today, researchers and 
+managers have found it useful to reconstruct attributes 
+of historical ﬁre regimes before the onset of ﬁre 
+exclusion. Fire exclusion in the southwestern United 
+States ofen occurred in the late 1800s, when activities 
+such as grazing of domestic animals, logging, and ﬁre 
+suppression began on a widespread scale. 
+Information about past ﬁre regimes can be a helpful 
+reference to guide and inform land managers about 
+current and future ﬁre regime characteristics, patterns, 
+and forest structure characteristics. Management 
+activities that beneﬁt from understanding past ﬁre 
+regimes include prescribed ﬁre, managed wildﬁres for 
+resource beneﬁt, and mechanical treatments to reduce 
+ﬁre risk. Six ﬁre regime attributes are ofen considered: 
+• 
+Frequency: how ofen ﬁres occur in a given 
+area or region (see Box 1 for more detailed fre-
+quency terminology)
+• 
+Seasonality: time of year
+• 
+Severity: ecological eﬀects of ﬁre
+• 
+Type: surface or crown ﬁre 
+• 
+Size: area burned
+• 
+Spatial complexity: pattern of severity within 
+ﬁre perimeter 
+Fire intensity, which is a measure of the heat of a 
+ﬁre, is a seventh ﬁre regime attribute that cannot be 
+reconstructed directly but is inferred from ﬁre severity. 
+Fire severity refers to the ecological eﬀects of ﬁre and 
+is ofen quantiﬁed by overstory tree mortality. Each 
+ﬁre regime attribute can be characterized by an average 
+condition (for example, an average ﬁre frequency of 8 
+years) as well as a measure of variation (for example, a 
+range in ﬁre frequency of 2 to 20 years).
+Tis working paper discusses several methods for 
+reconstructing historical ﬁre regimes: 
+• 
+Historical documents and photos
+• 
+Dendrochronology: ﬁre-scar data
+• 
+Dendrochronology: tree age, death and growth 
+data
+• 
+Forest structure data
+• 
+Plant traits
+• 
+Charcoal
+Each of these methods will be discussed in terms of 
+advantages, disadvantages, inherent uncertainties, and 
+assumptions as well as temporal and spatial precision. 
+Te potential value and limitations for reconstructing 
+historical forest structure and composition with each 
+method are also brieﬂy covered.
+Identifying the Best Available Historical Data
+Scientiﬁc work can be evaluated for quality based 
+on a few key characteristics. Conﬁdence in scientiﬁc 
+work can be based on the type, amount, quality, 
+and consistency of evidence, as well as the degree of 
+agreement of the evidence (Mastrandrea et al. 2010). 
+“Generally, evidence is most robust when there are 
+multiple, consistent independent lines of high-quality 
+evidence” (Mastrandrea et al. 2010).
+Two kinds of evidence will be discussed in this 
+working paper: direct and indirect evidence. Direct 
+evidence is a measurement of the actual subject of 
+interest. For example, temperature can be measured 
+with a thermometer; therefore a thermometer reading 
+is direct evidence of temperature. Indirect evidence 
+requires an assumption; it is not a measurement of 
+the actual subject of interest but it is a measure of 
+something related. For example, frost-killed tomatoes 
+are indirect evidence of temperature; if the tomatoes 
+have frost damage, we have evidence (we can infer) that 
+temperatures were below freezing. 
+Assumptions should be considered and a best 
+estimate of the level of conﬁdence should be developed 
+for any assumption. It is particularly important to 
+evaluate assumptions if the overall results of a study rest 
+heavily on those assumptions. Uncertainty levels, both 
+for assumptions and for the results, can be quantitatively 
+or qualitatively assigned (Mastrandrea et al. 2010). 
+Box 1. How often do fires occur? 
+Fire frequency definitions (from Agee 1993).
+Fire frequency: a general term referring to the 
+recurrence of ﬁre in a given area over time
+Fire event (ﬁre occurrence, ﬁre incidence): a 
+single ﬁre or series of ﬁres within an area at a 
+particular time
+Fire interval (ﬁre-free interval or ﬁre-return 
+interval): the number of years between two 
+successive ﬁre events in a given area
+Mean ﬁre interval (mean ﬁre-return interval): 
+arithmetic average of all ﬁre intervals in a given 
+area over a given time period
+Fire rotation (natural ﬁre rotation): the length 
+of time necessary for an area equal in size to the 
+study area to burn
+
+2
+Ecological Restoration Institute
+AN EVALUATION OF FIRE REGIME RECONSTRUCTION METHODS
+Historical Documents and Photos
+Historical photos and documents, including timber 
+company records, personal diaries, and expedition 
+notes, can be valuable for understanding historical ﬁre 
+regimes because they provide written or visual evidence 
+of conditions as people experienced them before the 
+eﬀects of ﬁre exclusion changed forests throughout much 
+of the Southwest. An example is an excerpt written by Lt. 
+Edward Beale in 1857 during an expedition in northern 
+Arizona: “... A vast forest of gigantic pines, intersected 
+frequently with open glades, sprinkled all over with 
+mountains, meadows, and wide savannahs, and covered 
+with the richest grasses, was traversed by our party for 
+many days” (Bell 1870). Example photos are shown in 
+Figure 1. Although historical documents and photos 
+can provide rich historical information about a place, 
+they are typically “snapshot” descriptions or images, 
+meaning that changes over time are not documented. 
+One exception is when repeat photography is available 
+(Webb et al. 2010).
+Fire frequency, unless it is directly described in a 
+historical document, must be inferred from descriptions 
+or images of forest structure or ﬁre severity. Old, large, 
+widely-spaced trees, with or without ﬁre-scar catfaces, 
+likely experienced low-severity, high-frequency ﬁre. 
+Even-aged, densely spaced trees or places that were 
+Figure 1. Top: Photo showing evidence of large severe fire in spruce 
+and aspen forests, San Francisco Peaks, near Flagstaff, AZ, 1910. Bot-
+tom: Photo showing grasslands and scattered juniper trees, Reserve 
+Valley, Apache National Forest, 1923. Source of photos: fs.usda.gov.
+Box 2. For more information about 
+concepts and applications of historical 
+ecology, generally and in the Southwest, 
+see the following sources:
+Balee, W. 1998. Advances in historical ecology. 
+Columbia University Press, New York.
+Crumley, C. 1994. Historical ecology: Cultural 
+knowledge and changing landscapes. School 
+of American Research Press, Santa Fe, NM.
+Egan, D. and E. Howell. 2001. Te historical 
+ecology handbook: A restorationist’s guide 
+to reference ecosystems. Island Press, 
+Washington, DC.
+Friederici, P. 2004. Establishing reference 
+conditions for southwestern ponderosa 
+pine forests. Ecological Restoration Institute 
+Working Paper 7. Ecological Restoration 
+Institute, Flagstaﬀ, AZ.
+Kaufmann, M.R., L.S. Huckaby, C.M. Ragan, and 
+J. Popp. 1998. Forest reference conditions for 
+ecosystem management in the Sacramento 
+Mountains, New Mexico. USDA Forest 
+Service, RMRS-GTR-19. USDA Rocky 
+Mountain Research Station, Fort Collins, 
+CO.
+Larson, A.J., and D. Churchill. 2012. Tree spatial 
+patterns in ﬁre-frequent forests of western 
+North America, including mechanisms 
+of pattern formation and implications for 
+designing fuel reduction and restoration 
+treatments. Forest Ecology and Management 
+267: 74–92.
+Moore, M.M., W.W. Covington, and P.Z. Fulé. 
+1999. Reference conditions and ecological 
+restoration: A southwestern ponderosa pine 
+perspective. Ecological Applications 9: 1266-
+1277.
+Rackam, O. 1980. Ancient woodland: Its history, 
+vegetation and uses in England. Edward 
+Arnold, London, England.
+Sheil, J. 1980. Historical ecology: Te 
+documentary evidence. Institute of 
+Terrestrial Ecology, Cambridge, England.
+Smith, H.Y. and S.F. Arno. 1999. Eighty-eight 
+years of change in a managed ponderosa 
+pine forest. USDA Forest Service, RMRS-
+GTR-23. USDA Rocky Mountain Research 
+Station, Ogden, UT.
+Swetnam, T.W., C.D. Allen, and J.L. Betancourt. 
+1999. Applied historical ecology: Using 
+the past to manage the future. Ecological 
+Applications 9: 1189-1206.
+
+3
+Ecological Restoration Institute
+AN EVALUATION OF FIRE REGIME RECONSTRUCTION METHODS
+photographed afer high-severity ﬁre, such as in the 
+top photo in Figure 1, likely experienced infrequent 
+but more high-severity ﬁre. Any inferences about ﬁre 
+frequency from historical documents and photos are 
+likely to have moderate to high degrees of uncertainty.
+Most historical documents and photos are unlikely 
+to provide information about historical ﬁre seasonality, 
+unless the season is directly mentioned in the text. 
+Ofen ﬁre type or severity is referred to in a historical 
+document, and ﬁre type and severity can also be seen 
+in some historical photos. Fire type and severity can 
+also sometimes be inferred from forest structure seen or 
+described in historical documents and photos. Fire size 
+is usually not possible to reconstruct with this method. 
+Photos may not show the extent of a ﬁre, or low-severity 
+ﬁre evidence may not be visible at a distance. Writers 
+rarely explored forested areas thoroughly enough to be 
+able to report ﬁre sizes. A classic exception was  
+F.E. Clements, who, in 1910, wrote a fairly thorough 
+description of recent ﬁres in lodgepole pine in Colorado 
+(Clements 1910). It is also unlikely and rare that 
+spatial complexity of historical ﬁre regimes can be 
+reconstructed from historical documents and photos.
+Length of Reconstruction, Temporal Precision and 
+Spatial Resolution
+Historical documents and photos in the Southwest are 
+available from the time when Europeans began exploring 
+and living in the region. Except for documents associated 
+with Spanish colonization, typically the earliest records are 
+from the late 1800s and early 1900s. Temporal precision 
+of ﬁre evidence from historical documents and photos 
+varies widely, from precise dates of ﬁres published in 
+newspapers (Bahre 1991) to descriptions of forests which 
+contain a mention of a ﬁre sometime in the past. For 
+example, charred bark, which may be described in written 
+documents or captured in photos, can last for many years 
+on live trees. In terms of spatial resolution, photos ofen 
+give a broad, landscape-scale view of a particular place, but 
+detail is diﬃcult to see on landscape-scale photos. Written 
+documents vary in their spatial resolution, from travelers 
+describing a speciﬁc place or route to a general description 
+of a region. 
+Forest Structure and Composition
+Written documents as well as photos can provide 
+information about forest density and species. Good 
+information can be found in surveys of early national 
+forests (Leiberg et al. 1904, Lang and Stewart 1910, Woolsey 
+1911). However, many other historical documents and 
+photos are limited to the places settlers and explorers 
+happened to visit and document, they usually are not 
+quantitative in nature, and qualitative descriptions of forests 
+in historical documents can be interpreted in diﬀerent ways. 
+In addition, the authors of reports may have had biases or 
+poor skill level in identifying species or characterizing forest 
+density (Edmonds 2001). 
+Historical photos and documents may be most useful as 
+supporting lines of evidence when combined with other 
+methods of ﬁre regime reconstruction.
+Dendrochronology: Fire-scar Data
+Fire scars are injuries formed in tree boles by exposure 
+to heat from wildﬁre (Fig. 2). Te injuries are formed 
+when a ﬁre kills a portion of a tree’s cambium. Following 
+the formation of a ﬁre scar, the uninjured portion of a 
+tree’s cambium continues to grow and can begin to grow 
+over the injury. Fire scars can be used to date exact years 
+of ﬁres and sometimes the seasons of past ﬁres as well. 
+Fire-scarred sections of live trees, stumps, snags or logs 
+are sampled in the ﬁeld and analyzed in the laboratory to 
+determine precise years of historical ﬁres.
+Historical ﬁre frequency can be easily calculated 
+using ﬁre scars (see Box 1). In a general sense, this is 
+done by determining the speciﬁc years that ﬁres scarred 
+trees and then averaging the intervals between the scars. 
+See Swetnam and Baisan (1996) for a good description of 
+ﬁre-scar data compilation and statistical description.
+Critiques of ﬁre-scar methods (Johnson and Gutsell 
+1994, Baker and Ehle 2001) have focused on the way 
+ﬁre frequency statistics are calculated from ﬁre-scar 
+Figure 2. Top: multiple fire scars seen in a “catface” on a living tree. 
+Bottom: sample showing multiple fire scars recorded in the wood of a 
+tree, datable to the year and sometimes the season of a fire.
+
+4
+Ecological Restoration Institute
+AN EVALUATION OF FIRE REGIME RECONSTRUCTION METHODS
+dates. Mean ﬁre interval calculations can be strongly 
+inﬂuenced by the area sampled (Falk et al. 2007) as well 
+as how many samples are collected. Te more area that 
+is searched or the more samples collected, the more ﬁre 
+dates will likely be found, as more small ﬁre dates are 
+picked up. Terefore it is important to understand the 
+area and sample basis for reported mean ﬁre interval 
+statistics, especially when comparing statistics among 
+studies or designing ﬁre and forest management 
+practices. Partially to address these issues, most recent 
+ﬁre-scar-based ﬁre history studies report “ﬁltered” 
+mean ﬁre intervals, which are intervals between more 
+widely represented (widespread) ﬁre dates. For example, 
+researchers ofen report ﬁre intervals between ﬁre scars 
+represented on at least 10% or 25% of recording samples 
+(Swetnam and Baisan 1996; Fig. 3). Tis technique 
+usually eliminates ﬁre-scar dates that appear on only 
+one or a few trees, and ﬁltered ﬁre interval statistics 
+are relatively immune to changes in area or sample size 
+(Van Horne and Fulé 2006). Another issue is whether 
+the interval between the pith date of a tree and the date 
+of the ﬁrst ﬁre scar should be included as a ﬁre-free 
+interval when calculating mean ﬁre interval, with some 
+arguing that small trees do not survive ﬁre well and 
+therefore must not have encountered ﬁre until the ﬁrst 
+scar was formed (Baker and Ehle 2001). However, most 
+trees are not scarred by surface ﬁres; the lack of a scar 
+on a tree cannot be used to indicate lack of surface ﬁre 
+around the tree. Tis issue aﬀects the determination 
+of ﬁre frequency, since including the interval between 
+the pith date and the ﬁrst scar would tend to lengthen 
+the mean ﬁre interval calculated in most cases. Most 
+researchers do not include the interval between pith 
+dates and ﬁrst scars in their calculations.
+Another critique of ﬁre-scar-based methods for 
+reconstructing ﬁre history is that researchers tend to 
+collect samples in areas where ﬁre-scarred trees are 
+abundant. If researchers focus on areas with high numbers 
+of ﬁre-scarred trees, they might be bypassing areas that 
+historically experienced high-intensity stand-replacing 
+ﬁres, which today would have few or no ﬁre scars. 
+Finally, researchers typically collect samples from 
+trees that have the largest number of ﬁre scars. It has 
+been argued that this “targeted” method of sampling 
+is biased; it may result in a focus on trees or areas that 
+burned more frequently than the average in the region. 
+However, tests of this question in southwestern forests 
+have shown that targeted sampling is the most eﬃcient 
+way to arrive at the same answer that random sampling 
+would provide, with many fewer samples collected (Van 
+Horne and Fulé 2006, Farris et al. 2013). 
+Using the position of a ﬁre scar within an annual 
+growth ring allows dendrochronologists to determine 
+the approximate season that a ﬁre occurred. Scars in 
+the early part of an annual ring are formed early in 
+the growing season and scars in the later part of an 
+annual ring are formed late in the growing season. 
+More speciﬁc timing of ﬁre scar formation can be 
+reconstructed if the timing of annual growth is known 
+for a given species, region, and elevation. Seasonality 
+ofen is determined for the majority but not all ﬁre scars 
+in a given study.
+Fire scars can be used to reconstruct type and 
+severity of ﬁre. Tey are most ofen used to reconstruct 
+low-severity surface ﬁre regimes because the presence of 
+a ﬁre scar is an indication of low-severity ﬁre at the scale 
+of a tree; a ﬁre injured but did not kill the tree. Where 
+several trees are scarred by low-severity ﬁre in the same 
+year, it is inferred that a ﬁre was a low-severity ﬁre 
+throughout the area, including in the spaces between 
+the ﬁre-scarred trees. Fire scars can also be used to 
+supplement evidence of stand-replacing ﬁres in crown 
+ﬁre regimes. For example, in Rocky Mountain National 
+Park, ﬁre scars were sampled around the edges of even-
+aged stands (the result of past stand-replacing ﬁres) to 
+verify the dates of those stand-replacing ﬁres (Sibold et 
+al. 2006). 
+Fire scars are “point-speciﬁc” evidence that a ﬁre 
+in the past occurred exactly where the tree is located 
+(Swetnam and Baisan 1996). Fire scars usually cannot 
+be used to reconstruct with certainty the size of ﬁres 
+that burned in the past, because “absence of evidence 
+is not evidence of absence”; ﬁres do not scar every tree 
+within a ﬁre perimeter, and some ﬁres may burn few or 
+no trees (Swetnam and Baisan 1996). In addition, ﬁre-
+scar evidence of past ﬁres can rot away or burn up in 
+Figure 3. Example of “filtering” to eliminate fire scars represented on 
+one or few samples. Shown are fire charts from six different sites. 
+Horizontal lines represent sites and vertical dashes represent fires. 
+Top: all fires in each site and in all sites combined. Middle: years when 
+a minimum of two samples were scarred in each site. Bottom: years 
+when a minimum of 25% of recording samples and a minimum of two 
+samples were scarred. Filtered fire interval statistics are relatively im-
+mune to changes in area or sample size. From Yocom and Fulé 2012. 
+
+5
+Ecological Restoration Institute
+AN EVALUATION OF FIRE REGIME RECONSTRUCTION METHODS
+subsequent ﬁres. However, there are methods that can 
+be used to estimate past ﬁre perimeters based on ﬁre-
+scarred trees (Hessl et al. 2007). A study by Farris et al. 
+(2010) compared National Park records with ﬁre scar 
+records and showed that ﬁre scars allowed very accurate 
+reconstruction of spatial patterns of ﬁre (Fig. 4).
+Te ﬁre-scar method alone is not eﬀective for 
+reconstructing spatial complexity of past ﬁres. Because 
+ﬁres do not scar every tree, it cannot be known if a ﬁre 
+burned everywhere within a ﬁre perimeter. Also, patches 
+of high-severity ﬁre within a low-severity ﬁre may not be 
+identiﬁed using only ﬁre scars.
+Length of Reconstruction, Temporal Precision and 
+Spatial Resolution
+Te ﬁre-scar method can be used to reconstruct the 
+ﬁre history of a site as far back in time as the oldest 
+preserved wood in the site. In western North America, 
+this typically means a ﬁre history can be reconstructed 
+for several hundred years (Grissino-Mayer 1995, Fulé 
+et al. 2003, Brown et al. 2008a). In very long-lived trees, 
+ﬁre history from tree rings can be reconstructed for a 
+much longer time period. Te ﬁrst ﬁre recorded in giant 
+sequoias in a 1993 study was in 1125 BCE and most 
+records in the study went back to ~500 AD (Swetnam 
+1993). Exact years of historical ﬁres are known with high 
+precision and accuracy using the ﬁre-scar method. In 
+terms of spatial resolution, the ﬁre-scar method has been 
+used at widely varying spatial scales, from <2.5 acres to 
+many thousands of acres. 
+Forest Structure and Composition
+Te ﬁre-scar method cannot be used to reconstruct 
+forest structure and composition, although identifying 
+the species from which ﬁre-scarred samples are taken is 
+a common practice. Terefore the presence of particular 
+species is known as far back in time as the tree samples 
+extend.
+For further reading on the ﬁre-scar method of 
+reconstructing ﬁre history, see Johnson and Gutsell 
+(1994), Swetnam and Baisan (1996), Minnich et al. 
+(2000), Baker and Ehle (2001), Fulé et al. (2003) and Van 
+Horne and Fulé (2006).
+Dendrochronology: Tree Age, Death and Growth Data
+Tree-ring data besides ﬁre scars can also be used 
+to obtain information about historical ﬁre regimes 
+(Kipfmueller and Swetnam 2001). In particular, 
+researchers use dendrochronology to look for even-
+aged stands of trees that presumably initiated afer 
+a stand-replacing ﬁre. Other tree-ring approaches 
+for determining past ﬁre regime attributes include 
+examining growth releases and determining the death 
+dates of ﬁre-killed trees (Johnson and Gutsell 1994). 
+Caution must be used to diﬀerentiate ﬁre-initiated 
+stand establishment, tree death, or growth release from 
+Figure 4. Spatial patterns of fire frequency from 1937 to 2000 calculated from (A) National Park Service Fire Atlas maps 
+and (B) fire-scar data interpolated with Thiessen polygons. (C) The proportion of the study area occupied by each fire 
+frequency class in the two maps (panels A and B). From Farris et al. (2010).
+
+6
+Ecological Restoration Institute
+AN EVALUATION OF FIRE REGIME RECONSTRUCTION METHODS
+establishment, death, or growth release afer other 
+high-severity disturbances (see Veblen et al. 1994), 
+but they are useful in conjunction with other methods 
+to reconstruct historical ﬁre regime attributes. One 
+example of using multiple lines of tree-ring evidence 
+to reconstruct ﬁre history in the Southwest is a study 
+of mixed conifer forests in northern New Mexico and 
+southern Colorado (Margolis et al. 2007). Tis study 
+used inner-ring dates, outer-ring dates, tree-ring width 
+changes and ﬁre scars to show that stand-replacing ﬁres 
+coincided with strong droughts in the region.
+Using tree age data, ﬁre frequency of high-severity 
+ﬁre can be calculated using a statistical method very 
+diﬀerent from the method for calculating mean ﬁre 
+interval from ﬁre scars. Instead, ﬁre rotation can be 
+estimated. Fire rotation is the time it would take for an 
+area equivalent to the entire study area to burn. Some 
+areas may burn more than once and other areas not at 
+all (see Box 1 and Fig. 5). Tere are assumptions that go 
+into calculating ﬁre rotation. In the example in Figure 5 
+from Agee (1993), it is assumed that the ﬁrst ﬁre event 
+(top right box) burned 100% of the area. However, as 
+little as about 20% may have burned; subsequent high-
+intensity ﬁres wipe away the original evidence. If only 
+20% burned in the ﬁrst event, the natural ﬁre rotation 
+(NFR) would change from 162 years to 286 years.
+Seasonality of historical ﬁres cannot be 
+reconstructed using tree age, growth release, or death 
+data. In terms of ﬁre type and severity, tree age, 
+growth releases, and death dates are most useful in 
+reconstructing high-severity ﬁres. Tree death dates, 
+even-aged germination dates, and tree growth releases 
+all indicate some amount of high-severity historical ﬁre. 
+When tree age can be associated with discrete stands of 
+trees, it is possible to reconstruct, with relatively high 
+conﬁdence, the size of past ﬁres (e.g., Romme 1982, 
+Margolis et al. 2011). With an intensive sampling design, 
+it is also possible to reconstruct spatial complexity using 
+a combination of tree ages and ﬁre scars. For example, 
+Brown et al. (2008b) used a combination of ﬁre-scar data 
+and tree age data in the Black Hills of South Dakota to 
+conclude that the historical ﬁre regime was dominated 
+by low-severity surface ﬁre but had patches of high-
+severity ﬁre at the scale of <250 acres.
+Length of Reconstruction, Temporal Precision and 
+Spatial Resolution
+One drawback to this method is that many times only 
+the most recent high-severity ﬁre can be reconstructed; 
+ofen older evidence is lost in subsequent ﬁres. 
+Reconstructions using tree age data range in length 
+from one ﬁre date to several ﬁres over hundreds of 
+years. Precise dates of ﬁres are diﬃcult to obtain with 
+tree age data alone, but precise dates can be obtained 
+by collecting ﬁre-scar samples from the perimeter of 
+a historical high-severity ﬁre (Sibold et al. 2006). Te 
+spatial resolution of ﬁre regime reconstructions using 
+dendrochronology data is limited only by the sampling 
+design and the presence of trees with datable rings. 
+Forest Structure and Composition
+Historical forest structure and composition are 
+ofen reconstructed using tree-ring information. For 
+example, Mast et al. (1999) reconstructed historical 
+forest composition, age structure, and regeneration 
+patterns in an unharvested ponderosa pine forest in 
+northern Arizona. Te researchers found a multimodal 
+presettlement age distribution with the oldest tree having 
+a center date of 1333 AD.
+Forest Structure Data
+Early forest structure data, including data from General 
+Land Oﬃce (GLO) surveys and data derived from 
+early aerial photographs, have been used in some 
+cases to infer disturbance history of the forests. Tese 
+methods are diﬀerent than tree-age data obtained 
+with dendrochronological methods because they use 
+information like size of trees, tree density, and species 
+composition at the time of sampling to infer disturbance 
+history of forests instead of post-ﬁre tree ages, death 
+dates, or growth releases.
+Figure 5. Example of a natural fire rotation (NFR) calculation. From 
+Agee 1993. Tree age classes are shown in the top left box, resulting 
+from 4 fire events. Fires occurred 300, 250, 100, and 50 years ago (other 
+four boxes). The proportion of area burned in each fire was: 1.0, 0.3, 
+0.35, and 0.2. The total proportion of area burned is 1.85, over a time 
+period of 300 years. The natural fire rotation is therefore 300/1.85, or 
+162 years.
+
+7
+Ecological Restoration Institute
+AN EVALUATION OF FIRE REGIME RECONSTRUCTION METHODS
+Established by the federal government in the early 
+1800s, the General Land Oﬃce sent surveyors across 
+much of the United States to map the country. Surveyors 
+were required to note “bearing” trees at every mile mark 
+(section corner) and half-mile mark (quarter section 
+corner). Species, diameters, bearings, and distances from 
+the corner were recorded for two or more bearing trees 
+at each corner. In addition, surveyors wrote descriptions 
+of vegetation, soil, and disturbances encountered 
+along the lines between section corners (Whitney and 
+Decant 2001). Te GLO Survey data (also called Public 
+Land Survey (PLS) data) have been used extensively 
+to reconstruct historical forest structure, species 
+composition, and forest type (Whitney and Decant 
+2001). Survey data including tree density, tree sizes, and 
+species composition, have also been used less commonly 
+to infer disturbance history. Examples include studies by 
+Baker (2012) and Williams and Baker (2012a, 2013).
+Another method for obtaining information 
+about past forest structure is to use early aerial 
+photographs. For example, Hessburg et al. (2007) 
+used aerial photographs from the 1930s and 1940s in 
+eastern Washington to estimate canopy cover, species 
+composition, size classes of trees, number of canopy 
+layers, and other variables. Tese variables were then 
+used to infer disturbance history of the forest.
+Deriving disturbance history from forest structure 
+information has not been done uniformly across studies. 
+Tis is likely because of diﬀerences in data types and 
+characteristics, forest types, and relationships between 
+ﬁre and forest structure in particular areas. Tis makes 
+comparisons among studies diﬃcult. However, there 
+are assumptions involved with each set of methods. 
+Tree example papers will be presented to illustrate 
+assumptions as well as methods used to infer various 
+ﬁre regime attributes from forest structure data (Taylor 
+and Skinner 1998, Hessburg et al. 2007, and Williams 
+and Baker 2012a). Tese three papers were chosen 
+because they use tree size, tree species, and/or tree 
+density to infer historical ﬁre history. Other studies 
+that have used survey data have also used surveyor 
+notes about disturbances encountered (e.g., Schulte 
+and Mladenoﬀ 2005, Williams and Baker 2012b) and 
+they are not included as examples. In the ﬁrst example 
+paper, Taylor and Skinner (1998) used a combination 
+of dendrochronology techniques and stand structure 
+methods to infer historical ﬁre history in the Klamath 
+National Forest in northern California. Te second 
+example paper, by Hessburg et al. (2007), is described 
+above. Te third example paper, by Williams and Baker 
+(2012a), classiﬁed forests in four areas of the western 
+United States into ﬁre severity categories based on 
+reconstructed stand structure from the GLO data. 
+Although the details of the methods in these three 
+papers vary, some assumptions are consistent across 
+the studies and include: 1) forest structure (size class 
+structure) is related to the disturbance history of the 
+forest, 2) the disturbance that led to the documented 
+forest structure was ﬁre rather than another disturbance 
+type such as wind or an insect outbreak, 3) ﬁre exclusion 
+and succession had little eﬀect on the forest structure 
+documented in photographs or surveys, and 4) some 
+measure of tree size is related to tree age. 
+Because each example study used diﬀerent 
+methodology to infer historical ﬁre regime information, the 
+methods used in each study are summarized in Table 1.
+Severity of historical ﬁres was estimated in diﬀerent 
+ways by the three studies in Table 1. Hessburg et al. 
+(2007) assumed that lower overstory canopy cover 
+(<30%) indicated higher ﬁre severity in the past. 
+Williams and Baker (2012a) assumed that a lower 
+percentage of large trees and a higher percentage 
+of small trees (<20% large trees, >50% small trees, 
+measured by bole size) indicated higher ﬁre severity in 
+the past. Taylor and Skinner (1998) assumed that fewer 
+taller trees (<10 stems per 2.5 acres) indicated higher ﬁre 
+severity in the past.
+Te assumption that tree size and tree age are reliably 
+correlated has been questioned (Fulé et al. 2014), given 
+that “the relationship between age and size is frequently 
+not very strong” (Spies 1998, p. 37), especially in shade-
+tolerant species. Tree size may be limited by site quality, 
+overcrowding, or climate, which would cause trees to 
+remain the same size for decades. Another critique is that 
+even if age and size are reliably correlated, there are other 
+reasons trees could regenerate in cohorts, including bark 
+beetles, wind, climate-induced mortality, climate-induced 
+establishment, or ﬁre exclusion (Fulé et al. 2014). “In some 
+cases, diﬀerent disturbance histories can produce similar 
+size distributions of trees” (Spies 1998, p. 37). Post-wildﬁre 
+regeneration is ofen inconsistent or delayed in dry western 
+forests, with post-ﬁre regeneration being non-existent, 
+delayed, or dense and immediate (Savage and Mast 2005, 
+Roccaforte et al. 2012). 
+For more on using forest structure to infer 
+disturbance history, see Fulé et al. (2014), Williams and 
+Baker (2014), and the three papers described in Table 1.
+Length of Reconstruction, Temporal Precision and 
+Spatial Resolution
+Te GLO surveys were conducted at around the time 
+European settlers were arriving and altering land use and 
+vegetation at a landscape scale (late 1800s in the Southwest). 
+Aerial photos were taken over some areas in the 1930s and 
+later. In many places, widespread changes had probably not 
+yet occurred at the time of the surveys, and aerial photos 
+also may predate heavy human inﬂuence on forests. Te 
+surveys and aerial photos, like historical documents and 
+photos, are “snapshots”; changes through time are not 
+captured. In terms of temporal precision, it is not possible 
+to derive speciﬁc ﬁre dates from forest structure data. 
+A strength of using GLO survey data to reconstruct ﬁre 
+regimes is that the data cover large landscapes across large 
+portions of the country.
+
+8
+Ecological Restoration Institute
+AN EVALUATION OF FIRE REGIME RECONSTRUCTION METHODS
+Fire regime attribute
+Hessburg et al. (2007)
+Williams and Baker (2012a)
+Taylor and Skinner (1998)
+Frequency
+Not reconstructed
+Using GLO survey data, “we 
+estimated ﬁre rotation… as 
+the number of years a ﬁre 
+was detectable divided by the 
+percentage of the landscape 
+burned by high-severity ﬁre.” 
+“We estimated the time a ﬁre was 
+detectable as the time it took for 
+a tree to grow to the cut-oﬀ size 
+for a ‘large’ tree.” For example, “in 
+northern Arizona, an average 40-
+cm tree is about 120 years old.” 120 
+years is therefore “the maximum 
+length of time a ﬁre could be 
+recognized using this structure-
+based approach.”
+Used data from ﬁre-scarred trees 
+(dendrochronology methods)
+Seasonality
+Not reconstructed
+Not reconstructed
+Used data from ﬁre-scarred trees 
+(dendrochronology methods)
+Severity
+Using aerial photos from the 
+1930s and 1940s: “overstory 
+canopy percentage classes (= 
+overstory canopy remaining 
+classes, ≥80%, 30.1–79.9%, 
+≤30%)” [were] used to deﬁne 
+low, mixed and high severity 
+ﬁres.” In some patches, “the 
+ﬁre tolerance of the cover type 
+was also used to predict the 
+most likely ﬁre severity.
+Cover type was used where 
+overstory canopy percentage 
+exceeded 80%, and where it 
+was impossible to discern from 
+structural attributes alone 
+whether severity was high 
+(stand replacing ﬁre from a 
+long time ago) or low (surface 
+ﬁre maintained).”
+Using GLO survey data and forest 
+structure data reconstructed from 
+survey data: “low-severity ﬁre 
+was assigned if: (1) mean tree 
+density was < 178 trees ha-1, (2) 
+the percentage of large trees was > 
+29.2%, and (3) the percentage of 
+small trees was < 46.9%. … High 
+severity was deﬁned as having a 
+percentage of small trees > 50% 
+and a percentage of large trees < 
+20%. … Remaining areas … were 
+classiﬁed as mixed severity.”
+At plot level: tree age obtained using 
+dendrochronology. Ten “we calculated 
+a measure of ﬁre severity as the average 
+number of 60-year periods in which 
+trees regenerated. Presumably, plots 
+with trees in fewer 60-year age-classes 
+characterize stands that have burned 
+more severely than those with more age-
+classes.”
+At stand level, using aerial photographs 
+from 1944 to 1975: “Severity patches 
+were mapped using the relative density 
+of short even-aged stems and taller, 
+older trees that survived successive ﬁres. 
+High-severity patches had <10 tall stems 
+ha-1, moderate-severity patches had 
+10-20 tall stems ha-1, and low-severity 
+patches had >20 tall stems ha-1.”
+Type 
+Not speciﬁcally reconstructed, 
+although ofen “low-severity” 
+implies surface ﬁre and “high-
+severity implies crown ﬁre
+Not speciﬁcally reconstructed, 
+although ofen “low-severity” 
+implies surface ﬁre and “high-
+severity implies crown ﬁre
+Not speciﬁcally reconstructed, although 
+ofen “low-severity” implies surface ﬁre 
+and “high-severity implies crown ﬁre
+Size
+Not reconstructed
+Not reconstructed
+Used data from ﬁre-scarred trees 
+(dendrochronology methods)
+Spatial complexity 
+Not reconstructed
+Not reconstructed
+Not reconstructed
+Table 1. Summary of methods used by three different studies to infer various fire regime attributes 
+
+9
+Ecological Restoration Institute
+AN EVALUATION OF FIRE REGIME RECONSTRUCTION METHODS
+Forest Structure and Composition
+Structure and composition of historical forests has 
+ofen been reconstructed using GLO data (e.g., Radeloﬀ 
+et al. 1999, Leahy and Pregitzer 2003, Whipple et al. 
+2010). Critiques of forest reconstructions using GLO 
+data include the possibility of error and ambiguity in 
+tree identiﬁcation, survey contract fraud, surveyor 
+bias in selection of bearing trees (small and large 
+trees were ofen avoided), the “snapshot” nature of 
+the survey records, and the underestimation of small 
+features on township maps (Bourdo 1956, Schulte and 
+Mladenoﬀ 2001, Whitney and Decant 2001). However, 
+Williams and Baker (2010) quantiﬁed measurement 
+error and selection bias at 384 survey corners in the 
+western United States and concluded that surveyor bias 
+and measurement errors were fairly low. Schulte and 
+Mladenoﬀ (2001) concluded that survey data are most 
+appropriately used over a broad spatial scale and at 
+coarse spatial resolution, and with complementary data 
+from other historical sources. For example, Batek et al. 
+(1999) used survey data to reconstruct vegetation in the 
+Missouri Ozarks and ﬁre-scarred trees to reconstruct 
+ﬁre regimes, which resulted in data that could be 
+compared. Tey concluded that ﬁre played a large role in 
+inﬂuencing vegetation patterns in that region.
+Using GLO data to reconstruct forest density can 
+also be done, but caution should be used because, 
+depending on the methods, it may overestimate tree 
+density. Hagmann et al. (2013) compared tree density 
+reconstructed using GLO data with tree density recorded 
+in historical timber inventories on the former Klamath 
+Indian Reservation in Oregon. Tey found that a GLO-
+based reconstruction (Baker 2012) resulted in tree 
+densities nearly 2.5 times higher than tree densities 
+recorded in the timber inventories. Te authors ruled 
+out diﬀerences in diameter limits, timing of the two 
+datasets, and disturbance events between the time of 
+the GLO surveys and the timber inventories as potential 
+reasons for the diﬀerences in tree density between the 
+GLO-based methods and the timber inventories, and 
+concluded that tree density was overestimated using 
+GLO data and methods (Hagmann et al. 2013). Te 
+results of this study in Oregon have not been replicated 
+in other parts of the western United States.
+Plant Traits
+Plant traits that give plants increased fitness in 
+particular fire regimes can be used to infer that, over 
+long time periods, those species survived and even 
+thrived in those fire regimes. An example that is often 
+cited is the thick bark of ponderosa pine and some 
+other conifers. Thick bark gives trees a competitive 
+advantage over thin-barked tree species in a low-
+intensity surface fire regime because they can live 
+through multiple fires with little to no disruption, 
+while trees with thin bark often die. It is inferred that 
+frequent surface fires were part of the “evolutionary 
+environment” for ponderosa pines and many other 
+conifers with thick bark (Covington 2003). He et al. 
+(2012) found that the development of thick bark in 
+pines coincided 126 million years ago with a rise in 
+low-intensity surface fire. On the other hand, many 
+other tree species with thick bark are not associated 
+with low-intensity surface fire (Paine et al. 2010). 
+Te plant trait method must be used with caution 
+because it is diﬃcult to ascertain that plant traits 
+that currently give plants advantages in particular 
+ﬁre regimes were selected for by ﬁre or if they were 
+selected by some other agent. For example, the ability 
+to resprout is ofen cited as a stand-replacing ﬁre 
+adaptation, but there are other disturbances afer which 
+it is advantageous for plants to be able to resprout. Tose 
+disturbances include ﬂooding, windstorms, drought, 
+landslides, and herbivory (Bond and Midgley 2001). 
+Terefore, it is possible that resprouting species have not 
+experienced stand-replacing ﬁre over an evolutionary 
+time period. However, it has also been argued that no 
+matter what the original conditions particular traits 
+evolved in, plant traits that increase ﬁtness in particular 
+ﬁre regimes today are important and can be used by 
+managers to predict plant dynamics under alternative 
+ﬁre regime scenarios (Keeley et al. 2011).
+Historical ﬁre frequency can be estimated using 
+the ﬁre frequency in which plants can persist today. For 
+example, increased ﬁre frequency due to an invasion of 
+cheatgrass across western North America has resulted in 
+vastly diﬀerent species composition in many areas. It was 
+estimated that before the invasion of cheatgrass on the 
+Snake River Plains in Idaho, ﬁre return intervals were 
+several decades long, but with much more frequent ﬁre 
+(<5 years) it was not possible for native plants to persist 
+on the landscape (Whisenant 1990). Terefore, we can 
+infer that ﬁre frequency was historically on the order of 
+decades rather than years where those native plants lived 
+over an evolutionary time scale.
+Historical ﬁre seasonality can also be inferred from 
+how plants respond to ﬁre in diﬀerent seasons today. 
+For example, in California chaparral, historically ﬁres 
+burned in late summer or fall when soil moisture was 
+low. Spring prescribed burns, when soil moisture is 
+higher, impair the germination of certain native species 
+(Le Fer and Parker 2005). It can be inferred that ﬁres 
+burned in late summer or fall over an evolutionary time 
+span, in at least some locations, for those species to have 
+persisted on the landscape. 
+Fire type and severity can also be inferred from plant 
+traits. Some plants depend on high-severity crown ﬁre to 
+persist. For example, serotinous lodgepole pines have a 
+competitive advantage afer high-severity ﬁres. We can infer 
+that, over an evolutionary time frame, serotinous lodgepole 
+pines experienced some high-severity ﬁres. However, many 
+lodgepole pine trees also produce non-serotinous cones, 
+which would be consistent with conditions that did not 
+include only high-severity ﬁres. Size and spatial complexity 
+
+10
+Ecological Restoration Institute
+AN EVALUATION OF FIRE REGIME RECONSTRUCTION METHODS
+of ﬁres in historical ﬁre regimes cannot be inferred using 
+plant traits.
+Inferences from plant traits come with a low degree 
+of certainty because evolution may not have occurred in 
+response to a homogeneous landscape and ﬁre regime.
+Length of Reconstruction, Temporal Precision and 
+Spatial Resolution
+Plant traits are used to infer ﬁre regimes over thousands 
+to millions of years, rather than at the scale of human 
+history. Plant traits cannot be used speciﬁcally to infer 
+ﬁre regimes at the time of ﬁre exclusion in the late 
+1800s, although the vegetation communities present 
+at that time were shaped in part by the existing ﬁre 
+regimes. Using plant traits gives us zero temporal 
+precision; no particular ﬁre dates can be known by 
+understanding plant traits. Plant traits can be used to 
+understand historical ﬁre attributes at the scale of species 
+distributions. Individual ﬁres, including size or location, 
+cannot be reconstructed. 
+Forest Structure and Composition
+Speciﬁc historical forest structure and composition 
+cannot be determined by knowing plant traits, although 
+generalizations can be made. Species that can resprout 
+and species that have serotinous seeds are likely to form 
+even-aged stands, for example.
+Charcoal
+Charcoal particles formed during wildﬁres are found 
+in lakes, bogs, wetlands, and in soil. Tey are extracted 
+for research purposes with sediment cores in wet areas 
+(Whitlock and Larsen 2001) and with soil cores from the 
+soil proﬁle within forest stands (Carcaillet et al. 2002, 
+Fesenmyer and Christensen 2010). Charcoal particles 
+are dated in the laboratory using radiocarbon dating to 
+estimate individual ﬁre dates. Charcoal can be found 
+at the site of a past ﬁre or deposited by overland ﬂow 
+(Gardner and Whitlock 2001). 
+Fire frequency can be reconstructed with 
+charcoal, but not with the precision of ﬁre-scar 
+records. Seasonality, ﬁre type, and severity cannot be 
+reconstructed using charcoal records. Determining 
+the size of ﬁres using charcoal evidence depends on 
+whether sediment charcoal or soil charcoal is used. 
+With sediment charcoal, a peak in charcoal can mean 
+a ﬁre at the edge of a lake or a ﬁre several kilometers 
+away, depending on wind and other factors (Gardner 
+and Whitlock 2001). However, soil charcoal can be used 
+to reconstruct ﬁre history at or very near the site that 
+the soil charcoal is found (Fesenmyer and Christensen 
+2010). Finally, spatial complexity of historical ﬁre 
+regimes cannot be reconstructed using charcoal records.
+Length of Reconstruction, Temporal Precision and 
+Spatial Resolution
+One strength of the charcoal sediment technique is that 
+it allows the reconstruction of ﬁre history for much 
+longer than the ﬁre-scar method. For example, ﬁre 
+history, vegetation, and paleoclimate were reconstructed 
+for the last 13,500 years on the Kaibab Plateau in 
+northern Arizona (Weng and Jackson 1999), with results 
+indicating dynamic climate, vegetation, and ﬁre regimes 
+over millennia. In terms of temporal precision, historical 
+ﬁres cannot be dated to a precise year using the charcoal 
+method. Tis method is most useful in areas where the 
+historical ﬁre return interval was on the order of decades 
+rather than years, since with very frequent ﬁres a nearly 
+steady stream of charcoal is deposited, and individual 
+events cannot be identiﬁed. 
+Forest Structure and Composition
+Another strength of charcoal studies is that the length of 
+the reconstructions allows the comparison of ﬁre with 
+long-term climate and vegetation changes reconstructed 
+from pollen records (Anderson et al. 2008). Usually 
+charcoal alone is not used to reconstruct forest structure 
+and composition, although wood structure in soil 
+charcoal can be assessed to learn more about forest 
+composition.
+Integration of Multiple Lines of Evidence
+A combination of methods used together is the 
+strongest approach to reconstructing historical ﬁre 
+regimes (example studies that use two or more lines of 
+evidence include Kaye and Swetnam 1999, Whitlock 
+et al. 2004, and Margolis et al. 2011). Multiple lines of 
+evidence that point in the same direction give managers 
+a stronger basis for inferences about characteristics of 
+a historical ﬁre regime. Researchers in the Southwest 
+are extraordinarily fortunate to have several of these 
+methods available for reconstructing historical ﬁre 
+regimes. Tis is not the case in many other parts of the 
+world. For example, ﬁre scars do not form in all tree 
+species, wood may be highly susceptible to rot, historical 
+written and photographic evidence may not be available, 
+an area may not be suitable for charcoal sampling, and 
+land surveys may not have been carried out.
+
+11
+Ecological Restoration Institute
+AN EVALUATION OF FIRE REGIME RECONSTRUCTION METHODS
+Historical 
+documents and 
+photos
+Fire scars
+Tree age, death & 
+growth data
+Forest structure 
+data
+Plant traits
+Charcoal
+Advantages
+Contemporary to 
+time when forests 
+were not altered 
+by a century 
+or more of ﬁre 
+exclusion
+Precise to year 
+(and sometimes 
+season) of ﬁre; 
+most utility in 
+reconstructing 
+surface ﬁre 
+regimes; point-
+speciﬁc direct 
+evidence of past 
+ﬁres
+Most utility in 
+reconstructing 
+high-severity ﬁre 
+regimes
+Can be broad 
+scale across large 
+regions; evidence 
+from time before 
+forests were 
+altered by a 
+century or more 
+of ﬁre exclusion
+Plant traits (and 
+lack of traits) 
+indicate success 
+or lack of success 
+in a particular 
+ﬁre regime; trait 
+success implies 
+fairly long-term 
+relationships 
+between plant 
+traits and ﬁre 
+regimes
+Long 
+reconstructions; 
+most utility in 
+reconstructing 
+mixed-severity or 
+high-severity ﬁre 
+regimes; can be used 
+to compare with 
+long-term pollen 
+records of vegetation 
+and climate
+Disadvantages
+Limited to 
+availability of 
+old photos & 
+documents;
+not available 
+everywhere;
+recorders could 
+have been biased 
+or poorly skilled
+Time period 
+limited by oldest 
+wood; not all ﬁres 
+scar trees; limited 
+to forest types 
+where trees form 
+scars; sampling 
+scheme can result 
+in biases; MFI 
+interpretation 
+inﬂuenced by 
+sample size and 
+area sampled
+Ofen can only 
+reconstruct last 
+stand-replacing 
+ﬁre; older 
+evidence is lost in 
+subsequent ﬁres; 
+dating of ﬁres not 
+precise because 
+regeneration may 
+not be immediate 
+afer disturbance; 
+small-scale 
+ﬁres diﬃcult to 
+reconstruct
+Regeneration 
+uncertain afer 
+ﬁre; “snapshot” of 
+forest structure 
+available from 
+the time the 
+surveys were 
+completed or 
+photos taken; in 
+surveys, sampling 
+intensity low 
+(small number of 
+trees per square 
+mile);
+Fire regimes can 
+change (and have 
+changed) over 
+millennia; traits 
+can’t be pinned to 
+an evolutionary 
+“reason”- could 
+have evolved for 
+other reasons
+Not precise to year 
+of ﬁre; less utility 
+for low-severity ﬁre 
+regimes; cannot 
+reconstruct exact 
+spatial pattern of 
+ﬁre in the watershed 
+(not point-speciﬁc) 
+or area burned
+Amount of 
+uncertainty
+Uncertainty 
+about how 
+applicable photo 
+or description 
+is to larger area; 
+sometimes 
+uncertainty about 
+exact location
+No uncertainty 
+at point scale: a 
+ﬁre scar indicates 
+ﬁre happened at 
+that point, but 
+some uncertainty 
+about ﬁre extent 
+between point 
+samples.
+Uncertain 
+disturbance 
+event unless 
+accompanied 
+by ﬁre scars; 
+uncertain dating 
+of ﬁres unless 
+accompanied by 
+ﬁre scars
+Uncertainty 
+about size/age 
+relationships; 
+uncertain 
+disturbance 
+event unless 
+accompanied by 
+other evidence
+Uncertainty 
+about whether 
+traits evolved as 
+an adaptation 
+speciﬁcally to ﬁre, 
+even if useful now 
+for ﬁre
+Uncertainty about 
+speciﬁc years of ﬁres
+Direct or indirect 
+evidence of 
+historical ﬁres?
+Direct (e.g., 
+photo of burned 
+area) or indirect 
+(e.g., description 
+of open, park-like 
+forest)
+Direct (ﬁre scars 
+are evidence of 
+ﬁre) and indirect 
+(infer ﬁre spread 
+between scarred 
+trees)
+Indirect (even-
+aged cohort of 
+trees or growth 
+release) or direct 
+(dates of ﬁre-
+killed trees)
+Indirect 
+(particular forest 
+structures are the 
+result of historical 
+disturbances)
+Indirect
+Direct (charcoal 
+fragments are 
+evidence of ﬁre)
+Assumptions
+Photos and 
+written 
+descriptions are 
+representative of 
+the larger area.
+Multiple ﬁre-
+scarred trees in 
+a study site in 
+the same year 
+are the result of a 
+spreading surface 
+ﬁre and not 
+individual ﬁres at 
+each tree
+Stand initiated 
+by ﬁre and not 
+some other stand-
+replacing event
+Tree density, 
+tree size, and/
+or forest species 
+composition can 
+be translated 
+into evidence of 
+historical ﬁre and 
+attributes such as 
+ﬁre severity 
+Traits adaptive 
+in particular ﬁre 
+regimes represent 
+long-term 
+conditions for 
+plant species
+Charcoal is the 
+result of forest ﬁre in 
+the study area
+Length of 
+reconstruction
+Limited to 
+time when 
+settlers were 
+writing about 
+explorations and 
+settlements; in 
+SW, usually late 
+1800s
+Several hundred 
+years common 
+in SW, longest 
+reconstructions 
+using ﬁre scars 
+are thousands of 
+years long
+Can be several 
+hundred years, 
+but ofen limited 
+to most recent 
+stand-replacing 
+ﬁre (older 
+evidence is lost)
+Limited to point 
+in time that 
+surveys were 
+conducted or 
+aerial photos 
+were taken
+Evolutionary time 
+scale; not possible 
+to pinpoint ﬁre 
+regime at any 
+particular time
+Many thousands of 
+years
+
+12
+Ecological Restoration Institute
+AN EVALUATION OF FIRE REGIME RECONSTRUCTION METHODS
+Table 3. Fire regime attributes that can be reconstructed by each of six different fire regime reconstruction methods, and an indication of whether the attributes are 
+based on direct or indirect evidence. Boxes that are blank indicate that an attribute is usually not able to be reconstructed using that method.
+Historical documents 
+and photos
+Fire scars
+Tree age, death & 
+growth data
+Forest structure 
+data
+Plant traits
+Charcoal
+Frequency
+Direct
+Indirect
+Indirect
+Indirect
+Direct
+Seasonality
+Direct
+Indirect
+Severity
+Direct or indirect
+Direct
+Direct or indirect
+Indirect
+Indirect
+Fire type
+Direct or indirect
+Direct
+Direct or indirect
+Indirect
+Indirect
+Size
+Direct
+Indirect
+Indirect
+Spatial complexity
+Direct
+Table 2. Summary of advantages and disadvantages, uncertainty, direct/indirect data, assumptions, length of reconstruction possible, spatial and temporal resolution, 
+and whether forest structure and composition can be reconstructed using each of six different reconstruction methods.
+Spatial resolution
+Depends on 
+source; usually 
+descriptions of 
+routes or small 
+regions, photos 
+of stands to 
+landscapes
+<1 to 1000s of 
+hectares
+Usually landscape 
+scale; small ﬁres 
+diﬃcult to detect
+Large spatial scale 
+(many thousands 
+of hectares); small 
+ﬁres diﬃcult to 
+detect
+Scale of species 
+distribution
+Scale of watershed, 
+usually; cannot 
+reconstruct speciﬁc 
+ﬁre perimeters or 
+sizes
+Temporal precision
+Documents and 
+photos are ofen 
+dated precisely, 
+but dates of 
+ﬁres may not 
+be recorded 
+precisely if they 
+are not directly 
+witnessed
+Precise to year 
+of ﬁre and 
+sometimes to 
+season
+Cannot precisely 
+date ﬁres with 
+tree germination 
+dates unless 
+accompanied 
+by ﬁre-scar 
+information; can 
+precisely date ﬁres 
+with ﬁre-killed 
+tree death dates
+No temporal 
+precision; 
+not possible 
+to determine 
+individual ﬁre 
+years
+No temporal 
+precision; 
+not possible 
+to determine 
+individual ﬁre 
+years
+Not precise to 
+year; carbon dating 
+estimates are given 
+conﬁdence limits
+Forest structure 
+and composition 
+reconstruction?
+Can glean some 
+information from 
+documents and 
+photos
+Not possible to 
+reconstruct with 
+ﬁre-scar data 
+alone
+Useful tool for 
+reconstructing 
+forest structure 
+and composition
+Useful tool for 
+reconstructing 
+forest structure 
+and composition
+Not possible
+Not possible with 
+charcoal alone, but 
+ofen accompanied 
+by pollen studies, 
+which can be used 
+to understand forest 
+composition over 
+long time scales
+Historical 
+documents and 
+photos
+Fire scars
+Tree age, death & 
+growth data
+Forest structure 
+data
+Plant traits
+Charcoal
+
+13
+Ecological Restoration Institute
+AN EVALUATION OF FIRE REGIME RECONSTRUCTION METHODS
+Conclusion
+All the methods discussed in this working paper have 
+strengths and weaknesses, and are most appropriate for 
+reconstructing particular ﬁre regimes and ﬁre regime 
+attributes (Table 2) as well as for particular research or 
+resource goals. While historical documents and photos 
+are usually qualitative in nature, they serve as eﬀective 
+communication tools to teach or introduce ﬁre history to 
+diverse audiences. Te ﬁre-scar method provides strong 
+evidence about low-severity historical ﬁre frequency, 
+seasonality, severity, and type. Other dendrochronology 
+methods such as using tree ages, tree death dates, and 
+growth releases, are most appropriate for reconstructing 
+high-severity ﬁre regimes, and can provide evidence of 
+historical ﬁre severity, type, and size. Forest structure 
+data is most useful for reconstructing dominant 
+species composition and tree density, and is valuable 
+because it covers large landscapes. Plant traits can 
+provide information about ﬁre regimes that plants were 
+subjected to over an evolutionary time scale. Fire regime 
+attributes that can be inferred from plant traits include 
+ﬁre frequency, seasonality, severity, and type. Finally, 
+information about charcoal from soil cores is most 
+useful for reconstructing high-severity ﬁre and can be 
+used to gain information about historical ﬁre frequency 
+over thousands of years.
+Historical ﬁre regimes are useful to inform 
+current ﬁre and forest management practices. Results 
+of studies using these methods can contribute to 
+prescribed ﬁre programs that may need to measure 
+tradeoﬀs of ecological beneﬁt with other resources, 
+including threatened and endangered species or human 
+community health. However, it is not advisable to 
+attempt to replicate exactly the historical ﬁre regime in 
+a modern context. Many management variables must 
+be considered, including agency mission and policy, 
+wildlife, smoke, WUI, costs, and climate change. Due 
+to these variables, it is important to think about desired 
+future conditions, which may be very diﬀerent from 
+historical conditions. As always, it is important to 
+incorporate local data, knowledge, and monitoring in 
+any forest restoration plan.
+
+14
+Ecological Restoration Institute
+AN EVALUATION OF FIRE REGIME RECONSTRUCTION METHODS
+References
+Agee, J.K. 1993. Fire Ecology of Paciﬁc Northwest Forests. Island Press, 
+Washington, D.C.
+Anderson, R.S.,  R.B. Jass, J.L. Toney, C.D. Allen, L.M. Cisneros-Dozal, 
+M. Hess, J. Heikoop, J. Fessenden. 2008. Development of the mixed 
+conifer forest in northern New Mexico and its relationship to 
+Holocene environmental change. Quaternary Research 69: 263-275.
+Bahre, C.J. 1991. A Legacy of Change: Historic Human Impact on 
+Vegetation of the Arizona Borderlands. University of Arizona 
+Press, Tucson, AZ.
+Baker, W.L. 2012. Implications of spatially extensive historical data 
+from surveys for restoring dry forests of Oregon’s eastern Cascades. 
+Ecosphere 3(3): 23.
+Baker, W.L. and D. Ehle. 2001. Uncertainty in surface-ﬁre history: 
+the case of ponderosa pine forests in the western United States. 
+Canadian Journal of Forest Research 31: 1205-1226.
+Batek, M.J., A.J. Rebertus, W.A. Schroeder, T.L. Haithcoat, E. Compas, 
+and R.P. Guyette. 1999. Reconstruction of early nineteenth-century 
+vegetation and ﬁre regimes in the Missouri Ozarks. Journal of 
+Biogeography 26: 397-412.
+Bell, W.A. 1870. New tracks in North America. 2nd Ed., 2 Vols. 
+London: Chapman & Hall.
+Bourdo, E.A. 1956. A review of the General Land Oﬃce Survey and of 
+its use in quantitative studies of former forests. Ecology 37: 754-
+768.
+Bond, W.J., and J.J. Midgley. 2001. Ecology of sprouting in woody 
+plants: the persistence niche. Trends in Ecology and Evolution 
+16(1): 45-51.
+Brown, P.M., E.K. Heyerdahl, S.G. Kitchen, and M.H. Weber. 
+2008a. Climate eﬀects on historical ﬁres (1630-1900) in Utah. 
+International Journal of Wildland Fire 17: 28-39.
+Brown, P.M., C.L. Wienk, and A.J. Symstad. 2008b. Fire and forest 
+history at Mount Rushmore. Ecological Applications 18(8): 1984-
+1999.
+Carcaillet, C., H. Almquist, H. Asnong, R.H.W. Bradshaw, J.S. Carrion, 
+M.-J. Gaillard, K. Gajewski, J.N. Haas, S.G. Haberle, P. Hadorn, S.D. 
+Müller, P.J.H. Richard, I. Richoz, M. Rösch, M.F. Sánchez Goñi, 
+H. von Stedingk, A.C. Stevenson, B. Talon, C. Tardy, W. Tinner, 
+E. Tryterud, L. Wick, and K.J. Willis. 2002. Holocene biomass 
+burning and global dynamics of the carbon cycle. Chemosphere 49: 
+845-863.
+Clements, F.E. 1910. Te life history of lodgepole burn forests. USDA 
+Forest Service Bulletin 79, Washington, DC. 56 pp.
+Covington, W.W. 2003. Te evolutionary and historical context. In: 
+Ecological Restoration of Southwestern Ponderosa Pine Forests (P. 
+Friederici, ed.), pp. 26-47. Island Press, Washington, DC.
+Edmonds, M. 2001. Te pleasures and pitfalls of written records. In: 
+Te Historical Ecology Handbook: A Restorationist’s Guide to 
+Reference Ecosystems (D. Egan and E.A. Howell, eds.), pp.73-99. 
+Island Press, Washington, D.C.
+Falk, D.A., C. Miller, D. McKenzie, and A.E. Black. 2007. Cross-scale 
+analysis of ﬁre regimes. Ecosystems 10: 809-823.
+Farris, C.A., C.H. Baisan, D.A. Falk, S.R. Yool, and T.W. Swetnam. 
+2010. Spatial and temporal corroboration of a ﬁre-scar-based ﬁre 
+history in a frequently burned ponderosa pine forest. Ecological 
+Applications 20: 1598-1614.
+Farris, C.A., C.H. Baisan, D.A. Falk, M.L. Van Horne, P.Z. Fulé, and 
+T.W. Swetnam. 2013. A comparison of targeted and systematic 
+ﬁre-scar sampling for estimating historical ﬁre frequency in south-
+western ponderosa pine forests. International Journal of Wildland 
+Fire 22: 1021-1033.
+Fesenmyer, K.A. and N.L. Christensen, Jr. 2010. Reconstructing Holo-
+cene ﬁre history in a southern Appalachian forest using soil char-
+coal. Ecology, 91: 662-670.
+Fulé, P.Z., T.A. Heinlein, W.W. Covington, and M.M. Moore. 2003. 
+Assessing ﬁre regimes on Grand Canyon landscapes with ﬁre-scar 
+and ﬁre-record data. International Journal of Wildland Fire 12: 
+129-145.
+Fulé, P.Z., T.A. Heinlein, W.W. Covington, and M.M. Moore. 2003. 
+Assessing ﬁre regimes on Grand Canyon landscapes with ﬁre-scar 
+and ﬁre-record data. International Journal of Wildland Fire 12: 
+129-145.
+Fulé, P.Z., T.W. Swetnam, P.M. Brown, D.A. Falk, D.L. Peterson, C.D. 
+Allen, G.H. Aplet, M.A. Battaglia, D. Binkley, C. Farris, R.E. 
+Keane, E.Q. Margolis, H. Grissino-Mayer, C. Miller, C. Hull Sieg, 
+C. Skinner, S.L. Stephens, and A. Taylor. 2014. Unsupported 
+inferences of high severity ﬁre in historical western United States 
+dry forests: Response to Williams and Baker. Global Ecology and 
+Biogeography 23: 825-830.
+Gardner, J.J., and C. Whitlock. 2001. Charcoal accumulation following 
+a recent ﬁre in the Cascade Range, northwestern USA, and its 
+relevance for ﬁre-history studies. Te Holocene 11: 541-549.
+Grissino-Mayer, H.D. 1995. Tree-ring reconstructions of climate and 
+ﬁre history at El Malpais National Monument, New Mexico. PhD 
+dissertation, University of Arizona, Tucson, AZ.
+Hagmann, R.K., J.F. Franklin, and K.N. Johnson. 2013. Historical 
+structure and composition of ponderosa pine and mixed-conifer 
+forests in south-central Oregon. Forest Ecology and Management 
+304: 492-504.
+He, T., J.G. Pausas, C.M. Belcher, D.W. Schwilk, and B.B. Lamont. 2012. 
+Fire-adapted traits of Pinus arose in the ﬁery Cretaceous. New 
+Phytologist 194: 751-759.
+Hessburg, P.F., R.B. Salter, and K.M. James. 2007. Re-examining ﬁre 
+severity relations in pre-management era mixed conifer forests: 
+inferences from landscape patterns of forest structure. Landscape 
+Ecology 22: 5-24.
+Hessl, A., J. Miller, J. Kernan, D. Keenum, and D. McKenzie. 2007. 
+Mapping paleo-ﬁre boundaries from binary point data: comparing 
+interpolation methods. Te Professional Geographer 59: 87-104.
+Johnson, E.A. and S.L. Gutsell. 1994. Fire frequency models, methods 
+and interpretations. Advances in Ecological Research 25: 239-287.
+Kaye, M.W. and T.W. Swetnam. 1999. An assessment of ﬁre, climate, 
+and Apache history in the Sacramento Mountains, New Mexico. 
+Physical Geography 20: 305-330.
+Keeley, J.E., J.G. Pausas, P.W. Rundel, W.J. Bond, R.A. Bradstock. 2011. 
+Fire as an evolutionary pressure shaping plant traits. Trends in 
+Plant Science 16(8): 406-411.
+Kipfmueller, K.F. and T.W. Swetnam. 2001. Using dendrochronology 
+to reconstruct the history of forest and woodland ecosystems. In: 
+Te Historical Ecology Handbook: A Restorationist’s Guide to 
+Reference Ecosystems (D. Egan and E.A. Howell, eds.), pp.199-228. 
+Island Press, Washington, D.C.
+Lang D.M., and S.S. Stewart. 1910. Reconnaissance of the Kaibab 
+National Forest. On ﬁle at North Kaibab Ranger District, Kaibab 
+National Forest, Fredonia, Arizona.
+Le Fer, D., and V.T. Parker. 2005. Te eﬀect of seasonality of burn on 
+seed germination in chaparral: the role of soil moisture. Madroño 
+52(3): 166-174.
+Leahy, M.J. and K.S. Pregitzer. 2003. A comparison of presettlement 
+and present-day forests in northeastern lower Michigan. American 
+Midland Naturalist 149: 71–89.
+Leiberg, J.B., T.F. Rixon, and A. Dodwell. 1904. Forest conditions in the 
+San Francisco Mountains Forest Reserve, Arizona. US Geological 
+Survey Professional Paper No. 22. US Government Printing Oﬃce, 
+Washington, DC.
+Margolis, E.Q., T.W. Swetnam, and C.D. Allen. 2007. A stand-replacing 
+ﬁre history in upper montane forests of the southern Rocky 
+Mountains. Canadian Journal of Forest Research 37: 2227-2241.
+___. 2011. Historical stand-replacing ﬁre in upper montane forests 
+of the Madrean Sky Islands and Mogollon Plateau, southwestern 
+USA. Fire Ecology 7: 88-107.
+Mast, J.N., P.Z. Fulé, M.M. Moore, W.W. Covington, and A.E.M. Waltz. 
+1999. Restoration of presettlement age structure of an Arizona 
+ponderosa pine forest. Ecological Applications 9(1): 228-239.
+
+15
+Ecological Restoration Institute
+AN EVALUATION OF FIRE REGIME RECONSTRUCTION METHODS
+Mastrandrea, M.D., C.B. Field, T.F. Stocker, O. Edenhofer, K.L. Ebi, 
+D.J. Frame, H. Held, E. Kriegler, K.J. Mach, P.R. Matschoss, G.-K. 
+Plattner, G.W. Yohe, and F.W. Zwiers. 2010. Guidance Note for 
+Lead Authors of the IPCC Fifh Assessment Report on Consistent 
+Treatment of Uncertainties. Intergovernmental Panel on Climate 
+Change (IPCC). Available at http://www.ipcc.ch.
+Minnich, R.A., M.G. Barbour, J.H. Burk, and J. Sosa-Ramírez. 2000. 
+Californian mixed-conifer forests under unmanaged ﬁre regimes 
+in the Sierra San Pedro Mártir, Baja California, Mexico. Journal of 
+Biogeography 27: 105-129.
+Paine, C.E.T., C. Stahl, E.A. Courtois, S. Patiño, C. Sarmiento, and 
+C. Baraloto. 2010. Functional explanations for variation in bark 
+thickness in tropical rain forest trees. Functional Ecology 24: 1202-
+1210.
+Radeloﬀ, V.C., D.J. Mladenoﬀ, H.S. Hong, and M.S. Boyce. 1999. 
+Forest landscape change in northwestern Wisconsin pine barrens 
+from pre-European settlement to present. Canadian Journal of 
+Forest Research 29: 1649-1659.
+Roccaforte, J.P., P.Z. Fulé, W.W. Chancellor, and D.C. Laughlin. 2012. 
+Woody debris and tree regeneration dynamics following severe 
+wildﬁres in Arizona ponderosa pine forests. Canadian Journal of 
+Forest Research 42: 593-604.
+Romme, W.H. 1982. Fire and landscape diversity in subalpine forests 
+of Yellowstone National Park. Ecological Monographs 52: 199-221.
+Savage, M. and J.N. Mast. 2005. How resilient are southwestern pon-
+derosa pine forests afer crown ﬁres? Canadian Journal of Forest 
+Research 35: 967-977.
+Schulte, L.A., and D.J. Mladenoﬀ. 2001. Te original US Public Land 
+Survey records: their use and limitations in reconstructing pre-
+settlement vegetation. Journal of Forestry 99: 5-10.
+Schulte, L.A., and D.J. Mladenoﬀ. 2005. Severe wind and ﬁre regimes 
+in northern forests: historical variability at the regional scale. Ecol-
+ogy 86: 431-445.
+Sibold, J.S., T.T. Veblen, and M.E. González. 2006. Spatial and 
+temporal variation in historic ﬁre regimes in subalpine forests 
+across the Colorado Front Range in Rocky Mountain National 
+Park, Colorado, USA. Journal of Biogeography 33: 631–647.
+Spies, T.A. 1998. Forest structure: a key to the ecosystem. Northwest 
+Science 72: 34–39.
+Swetnam, T.W. 1993. Fire history and climate change in giant sequoia 
+groves. Science 262: 885-889.
+Swetnam, T., and C. Baisan. 1996. Historical ﬁre regime patterns in 
+the southwestern United States since AD 1700. In: Fire Eﬀects 
+in Southwestern Forest: Proceedings of the 2nd La Mesa Fire 
+Symposium (CD Allen, ed.), pp. 11-32. USDA Forest Service, 
+Rocky Mountain Research Station, General Technical Report RM-
+GTR-286.
+Taylor, A.H. and C.N. Skinner 1998. Fire history and landscape 
+dynamics in a late-successional reserve, Klamath Mountains, 
+California, USA. Forest Ecology and Management 111: 285-301.
+Van Horne, M.L., and P.Z. Fulé. 2006. Comparing methods of 
+reconstructing ﬁre history using ﬁre scars in a southwestern 
+United States ponderosa pine forest. Canadian Journal of Forest 
+Research 36: 855-867.
+Veblen, T.T., K.S. Hadley, E.M. Nel, T. Kitzberger, M. Reid, and R. Villalba. 
+1994. Disturbance regime and disturbance interactions in a Rocky 
+Mountain subalpine forest. Journal of Ecology 82: 125-135.
+Webb, R.H., D.E. Boyer, and R.M. Turner (eds.) 2010. Repeat 
+Photography: Methods and Applications in the Natural Sciences. 
+Island Press, Washington, DC. 337 pp.
+Weng, C., and S.T. Jackson. 1999. Late Glacial and Holocene 
+vegetation history and paleoclimate of the Kaibab Plateau, 
+Arizona. Palaeogeography, Palaeoclimatology, Palaeoecology 153: 
+179-201.
+Whipple, A.A., R.M. Grossinger, and F.W. Davis. 2010. Shifing 
+baselines in a California oak savanna: nineteenth century data to 
+inform restoration scenarios. Restoration Ecology 19: 88-101.
+Whisenant SG. 1990. Changing Fire Frequencies on Idaho’s Snake 
+River Plains: Ecological and Management Implications. 
+Logan (UT): US Department of Agriculture, Forest Service, 
+Intermountain Research Center. General Technical Report INT-
+276.
+Whitlock, C. and C. Larsen. 2001. Charcoal as a ﬁre proxy. In Tracking 
+environmental change using lake sediments, pp. 75-97. Springer 
+Netherlands.
+Whitlock, C., C.N. Skinner, P.J. Bartlein, T. Minckley, and J.A. Mohr. 
+2004. Comparison of charcoal and tree-ring records of recent ﬁres 
+in the eastern Klamath Mountains, California, USA.
+Whitney, G.G., and J.P. DeCant. 2001. Government Land Oﬃce 
+surveys and other early land surveys. In: Te Historical Ecology 
+Handbook: A Restorationist’s Guide to Reference Ecosystems 
+(D. Egan and E.A. Howell, eds.), pp.147-172. Island Press, 
+Washington, D.C.
+Williams, M.A. and W.L. Baker. 2010. Bias and error in using survey 
+records for ponderosa pine landscape restoration. Journal of 
+Biogeography 37: 707-721.
+____. 2012a. Spatially extensive reconstructions show variable-
+severity ﬁre and heterogeneous structure in historical western 
+United States dry forests. Global Ecology and Biogeography 21: 
+1042-1052.
+____. 2012b. Comparison of the higher-severity ﬁre regime in 
+historical (A.D. 1800s) and modern (A.D. 1984–2009) montane 
+forests across 624,156 ha of the Colorado Front Range. Ecosystems 
+15: 832-847.
+____. 2013. Variability of historical forest structure and ﬁre across 
+ponderosa pine landscapes of the Coconino Plateau and south 
+rim of Grand Canyon National Park, Arizona, USA. Landscape 
+Ecology 28: 297-310.
+____. 2014. High-severity ﬁre corroborated in historical dry forests of 
+the western United States: response to Fulé et al. Global Ecology 
+and Biogeography 23: 831-835.
+Woolsey, T.S. 1911. Western yellow pine in Arizona and New Mexico. 
+US Department of Agriculture Bulletin 101. US Department of 
+Agriculture, Washington, DC.
+Yocom, L.L. and P.Z. Fulé. 2012. Human and climate inﬂuences on 
+frequent ﬁre in a high-elevation tropical forest. Journal of Applied 
+Ecology 49: 1356-1364.
+
+For more information about forest restoration, contact the ERI at (928) 523-7182  or nau.edu/eri.
+Northern Arizona University is an Equal Opportunity/Affirmative Action Institution   
+This report was funded by a grant from the USDA Forest Service.
+ NAU Printing Services/77531/300/06-14
+ 
+Working Papers in Intermountain West Frequent-Fire Forest Restoration
+1: 
+Restoring the Uinkaret Mountains: Operational Lessons  and Adaptive Management Practices
+2: 
+Understory Plant Community Restoration in the Uinkaret Mountains, Arizona
+3: 
+Protecting Old Trees from Prescribed Fire
+4: 
+Fuels Treatments and Forest Restoration: An Analysis of Benefits
+5: 
+Limiting Damage to Forest Soils During Restoration
+6: 
+Butterflies as Indicators of Restoration Progress
+7: 
+Establishing Reference Conditions for Southwestern Ponderosa Pine Forests
+8: 
+Controlling Invasive Species as Part of Restoration Treatments
+9: 
+Restoration of Ponderosa Pine Forests to Presettlement Conditions
+10: The Stand Treatment Impacts on Forest Health (STIFH) Restoration Model
+11: Collaboration as a Tool in Forest Restoration
+12: Restoring Forest Roads
+13: Treating Slash after Restoration Thinning
+14: Integrating Forest Restoration Treatments with Mexican Spotted Owl Habitat Needs
+15: Effects of Forest Thinning Treatments on Fire Behavior
+16: Snags and Forest Restoration  
+17: Bat Habitat and Forest Restoration Treatments
+18: Prescribed and Wildland Use Fires in the Southwest: Do Timing and Frequency Matter? 
+19: Understory Seeding in Southwestern Forests Following Wildfire and Ecological Restoration Treatments
+20: Controlling Cheatgrass in Ponderosa Pine and Pinyon-Juniper Restoration Areas 
+21: Managing Coarse Woody Debris in Frequent-fire Southwestern Forests
+22: Restoring Spatial Pattern to Southwestern Ponderosa Pine Forests
+23: Guidelines for Managing Small Mammals in Restored Ponderosa Pine Forests of Northern Arizona
+24: Protecting Old Trees from Prescribed Burning 
+25: Strategies for Enhancing and Restoring Rare Plants and Their Habitats in the Face of Climate Change and Habitat Destruction 
+in the Intermountain West
+26: Wildlife Habitat Values and Forest Structure in Southwestern Ponderosa Pine: Implications for Restoration
+27: Fuel Treatment Longevity
+28: Southwestern Mixed-Conifer Forests: Evaluating Reference Conditions to Guide Ecological Restoration Treatments
+29:  Post-Wildfire Restoration of Structure, Composition, and Function in Southwestern Ponderosa Pine and Warm/Dry Mixed-
+Conifer Forests
+30: Impact of Forest Restoration Treatments on Southwestern Ponderosa Pine Tree Resistance to Bark Beetles
+31: Climate Change Impacts on Bark Beetle Outbreaks and the Impact of Outbreaks on Subsequent Fires
+
+Ecological Restoration Institute
+PO Box 15017
+Flagstaff, AZ 86011-5017
+nau.edu/eri
+G1002207

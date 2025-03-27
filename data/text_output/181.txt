@@ -1,0 +1,683 @@
+136
+USDA Forest Service RMRS-P-53CD.  2008.
+“Growing Trees Backwards”: 
+Description of a Stand 
+Reconstruction Model
+Jonathan D. Bakker, College of Forest Resources, University of Washington, 
+Seattle, WA; Andrew J. Sánchez Meador, USFS Forest Management Service 
+Center, Fort Collins, CO; Peter Z. Fulé, School of Forestry, Northern Arizona 
+University, Flagstaff, AZ; David W. Huffman, Ecological Restoration Institute, 
+Northern Arizona University, Flagstaff, AZ; and Margaret M. Moore, School 
+of Forestry, Northern Arizona University, Flagstaff, AZ
+Abstract—We describe an individual-tree model that uses contemporary measure-
+ments to “grow trees backward” and reconstruct past tree diameters and stand 
+structure in ponderosa pine dominated stands of the Southwest. Model inputs are 
+contemporary structural measurements of all snags, logs, stumps, and living trees, 
+and radial growth measurements, if available. Key steps include the application of 
+inverse decay functions to estimate snag and log death dates, and the estimation 
+of tree size in the reconstruction year via radial growth data or accrued basal area 
+increment. The model is provided as a function for R, and can be modified for other 
+species and regions.
+Introduction
+Understanding stand development is an important line of evidence about refer-
+ence conditions that can guide current restoration activities. Furthermore, biometric 
+measurements such as diameter at breast height (DBH) can be related to tree bio-
+mass, nutrient storage, and other aspects of ecosystem structure and function 
+(Jenkins et al. 2004). We often lack empirical information about stand development 
+and are therefore required to use models to estimate how stands developed. Stand 
+reconstruction models are one means to obtain information on past forest structure 
+such as tree density and diameter classes (Harrod et al. 1999; Groven et al. 2002; 
+Everett et al. 2007).
+In: Olberding, Susan D., and Moore, Margaret M., tech coords. 2008. Fort Valley Experimental Forest—A Century of 
+Research 1908-2008. Proceedings RMRS-P-53CD. Fort Collins, CO: U.S. Department of Agriculture, Forest Service, 
+Rocky Mountain Research Station. 408 p.
+
+USDA Forest Service RMRS-P-53CD.  2008.	
+137
+Fulé et al. (1997) and Huffman et al. (2001) outlined a method of reconstructing 
+past forest structure in southwestern ponderosa pine forests on the basis of contem-
+porary measurements. Their model, which is built upon in this paper, overestimated 
+tree size and forest density by ~ 7% (Huffman et al. 2001). Model accuracy was 
+assessed by comparing reconstructed forest structure with actual data from the 
+Woolsey plots, a unique set of historical stem-mapped plots on the Fort Valley 
+Experimental Forest (FVEF) and throughout Arizona and New Mexico (Moore et 
+al. 2004). However, the model utility is limited by how it was parameterized. First, 
+the allometric equations used in the model were compiled from a variety of sources 
+rather than being locally parameterized, and therefore did not fit the data as good as 
+possible. For example, DBH and diameter at stump height (DSH) were regressed, 
+but the published regression was based on a stump height of 30 cm (12”; Hann 
+1976) while the data used to validate the model were obtained at 40 cm stump 
+height. Second, the model was written using a software language that is no longer 
+commonly used, and thus its utility was greatly diminished. We have ported the 
+model to R, an open-source statistical language (R Development Core Team 2007), 
+and have published the code as a script (Appendix 1) that can be updated for other 
+species and forest types.
+Here, we summarize the model structure, including the improvements we have 
+made to it. We also note some of the limitations of the model as it is currently 
+formulated.
+Model Requirements
+The model operates on an individual-tree basis. It requires data on all trees in the 
+stand, both live and dead. A number of field-collected variables are recorded for 
+each tree (Table 1; Table 3). If available, radial growth data from increment cores 
+can also be incorporated to provide accurate information about individual trees. 
+Although the original model included more species, the revised model presented 
+here is parameterized for ponderosa pine (Pinus ponderosa Laws. var. scopulorum 
+Engelm.) and Gambel oak (Quercus gambelii Nutt.). All variables must be in met-
+ric units.
+Table 1. Variables to be measured, and allowed values for each.
+Variable	
+Values / Comments
+Species	
+Required.
+Condition	
+Required. See Table 3 for details.
+Field-called Age Class	
+Required. 0 (post-plot; ~100 years old), 1 (pre-plot;  
+	
+  >100 years old), or 2 (pre-settlement; >130 years old).  
+	
+  See Moore et al. (2004) for details.
+DBH	
+Outside bark, in cm. Either DBH or DSH is required.
+DSH	
+Outside bark, in cm. Either DBH or DSH is required.
+Increment Core	
+Optional. If a core is taken, the following variables should  
+	
+  be measured on it: i) center date; ii) radial increment from  
+	
+  inventory year back to Year X, in cm; iii) radial increment  
+	
+  from inventory year back to pith, in cm.
+
+138	
+USDA Forest Service RMRS-P-53CD.  2008.
+Model Structure
+Step 1: Parameter Specification
+Parameters to be specified include the inventory year (year when measurements 
+were obtained; can differ among trees), reconstruction year (Year X, a constant; all 
+trees will be reconstructed back to this year), and death dates of stumps, if known. 
+Step 2: Populate Required Inventory Year Variables
+It is often not practical to measure all required variables for all trees. For ex-
+ample, we generally measure DBH on live trees but DSH on dead trees, snags, 
+and logs. Therefore, we used DBH-DSH regressions to estimate missing data val-
+ues. The regressions (Table 2) were developed from trees on the Woolsey plots, a 
+series of permanent plots on the Fort Valley Experimental Forest and throughout 
+Arizona and New Mexico (Moore et al. 2004). For each species, multiple regres-
+sion analysis indicated that this relationship did not differ between trees of different 
+field-called age classes.
+Second, all trees were assigned in the field to one of three field-called age class-
+es, but our model is based on two age classes. In ponderosa pine, these age classes 
+roughly correspond to black jack (trees < 150 years old) and yellow pine (trees 
+> 150 years old; Moore et al. 2004). Calculated age classes are adjusted based on 
+age data, where available, or on the field-called age class and size of the tree.
+Table 2. Regressions between outside-bark diameter at breast height (DBH, in cm) and diameter at a stump height of 
+40 cm (DSH, in cm) and between DSH and annual basal area increment (Annual.BAI, in cm2) for ponderosa pine 
+(PIPO) and Gambel oak (QUGA) trees. Data are from Woolsey plots throughout Arizona and New Mexico.
+	
+	
+	
+	
+	
+Range of	
+Range of
+	
+	
+	
+	
+	
+independent	
+dependent 
+Species	
+Equation	
+N	
+R2	
+SEEa	
+variable	
+variable
+DBH-DSH Regressions
+PIPO	
+DSH = 1.664 + 1.063 DBH	
+8375	
+0.9935	 1.511	
+0.25 to 0.99	
+1.02 to 103.63
+QUGA	
+DSH = 1.093 + 1.034 DBH	
+1400	
+0.9884	 1.268	
+0.25 to 77.98	
+0.25 to 72.14
+DSH-Annual.BAI Regressions
+PIPOb	
+ln(Annual.BAI) = -3.718 + 1.736 ln(DSH)	 3008	
+0.9612	 0.227	
+1.5 to 64.0	
+0.05 to 35.58
+PIPOc	
+ln(Annual.BAI) = -3.216 + 1.541 ln(DSH)	 2014	
+0.6772	 0.314	
+7.6 to 92.0	
+0.62 to 72.97
+QUGAb	
+ln(Annual.BAI) = -3.161 + 1.370 ln(DSH)	
+206	
+0.8777	 0.284	
+1.8 to 25.7	
+0.07 to 6.04
+QUGAc	
+ln(Annual.BAI) = -3.090 + 1.384 ln(DSH)	
+143	
+0.5828	 0.263	
+9.7 to 64.5	
+0.93 to 19.21
+a Standard error of the estimate.
+b “Post-plot” field-called age class.
+c “Pre-plot” and “Presettlement” field-called age classes.
+
+USDA Forest Service RMRS-P-53CD.  2008.	
+139
+Step 3: Estimating Snag and Log Death Dates
+Dead trees, snags, and logs are ‘undecomposed’ to estimate their death dates 
+(Table 3). Decay rates are based on Rogers et al. (1984) and assumed the 50th de-
+composition rate percentile as this percentile has been shown to work well (Huffman 
+et al. 2001).
+Step 4: Back-growth of Trees
+Trees are back-grown from their inventory or death date (whichever is earlier) 
+to Year X. Three methods are used, depending on the availability of increment 
+data. If a complete increment core (i.e., radial increment from Year X to present 
+and from pith to present) is available, diameter in Year X is reconstructed using 
+the proportional reconstruction method (Bakker 2005). If only the radial incre-
+ment from Year X to present is available, diameter in Year X is reconstructed by 
+subtracting twice the radial increment from the inside bark diameter. Inside bark 
+diameters were calculated using published equations for ponderosa pine (Myers 
+1963) and assuming that bark thickness equaled 5% of stem diameter for Gambel 
+oak. Finally, if no increment data are available, diameter in Year X is reconstructed 
+by calculating the expected basal area increment for the interval between Year X 
+and the inventory year and subtracting that increment from the basal area in the 
+inventory year. Diameter-BAI regressions were calculated from trees on Woolsey 
+plots through Arizona and New Mexico (Table 2). Advantages of these regressions 
+are that they are on a log-log scale, are based on large sample sizes from a wide 
+geographic range, and span a much larger DBH range than previous regressions. 
+All back-growth calculations are conducted at DSH since that is the height at which 
+increment cores and BAI data were obtained.
+Table 3. Condition classes and decay rates applied to trees on the Woolsey plots. The example 
+shows the estimated death date for a 50 cm DBH tree measured in 2008. For instance, a 50 cm 
+DBH condition 3 tree is estimated to have died in 2008 while a condition 7 log of the same size 
+is estimated to have died in 1943.
+Condition	
+Description	
+Annual transition rate	
+Example
+  1	
+Live	
+-
+  2	
+Fading	
+-
+  3	
+Recently dead snag	
+0 (assumed to have died in	
+2008 
+	
+	
+  inventory year)
+  4	
+Loose bark snag	
+20%	
+2004
+  5	
+Clean bark snag	
+Condition 4 + 15%	
+1999
+  6	
+Snag broken above breast height (BH)	
+Condition 5 + Diameter	
+1971 
+	
+	
+  dependent snag fall rate
+  7	
+Log (snag broken below BH)	
+Condition 5 + 2(Diameter	
+1943 
+	
+	
+  dependent snag fall rate)
+  8	
+Windthrow (dead and down; log	
+Diameter dependent snag	
+1980 
+	
+  with root ball present)	
+  fall rate
+  9	
+Cut stump	
+Death date = Cut date, if known,  
+	
+	
+  else default date assigned to all  
+	
+	
+  stumps
+  10	
+Stump hole	
+Same as Condition 7	
+1943
+  11	
+Tree missing	
+Same as Condition 7	
+1943
+Note: Transition rates are for ponderosa pine and are derived from Rogers et al. (1984).
+
+140	
+USDA Forest Service RMRS-P-53CD.  2008.
+Discussion
+The accuracy with which individual trees are modeled directly affects the ac-
+curacy of stand-level attributes such as tree density and basal area. There are three 
+main elements that affect model accuracy. First, reconstructions presume that all 
+tree structures in the stand, including highly decomposed snags, logs, and stumps, 
+were identified. This is feasible in arid environments like the Southwest; during 
+sampling in 1997-1999, Moore et al. (2004) missed only 9% of the trees present 
+at plot establishment (1909-1913). In environments with more mesic climates or 
+faster decomposition rates, this model may not be applicable over as long of time 
+periods. Similarly, stand disturbances such as fires that consume woody debris will 
+reduce the number of detectable tree structures.
+Second, there are a number of known issues related to estimates of snag and log 
+death dates. First, these rates were derived for ponderosa pine but are applied to 
+all species since we lack specific rates for other species. Second, tree condition 6 
+(snags broken below BH) is poorly linked to age (Waskiewicz et al. 2007). Third, 
+death dates of condition 8 (logs with root balls) trees appear to be underestimated 
+since they are calculated to be of an age intermediate between conditions 5 and 6 
+(Table 3). Fourth, conditions 10 (stump hole) and 11 (missing) were not included in 
+Rogers et al. (1984); we have assumed that trees of these conditions are at least as 
+old as condition 7 (log; snag broken below BH) trees. Finally, the decay functions 
+are linear and deterministic, and do not capture the range of variability observed 
+(Waskiewicz et al. 2007).
+Third, the three back-growth methods yield different estimates of historical DBH. 
+To assess this, we identified 389 live ponderosa pine trees on the Woolsey plots 
+that have complete increment cores and for which we knew their actual DBH at 
+plot establishment. These particular trees are located on the Coconino and Prescott 
+National Forests (Sánchez Meador and Moore, these proceedings; De Blois et al., 
+these proceedings). Plots on the Coconino were established in 1909-1913 while 
+those on the Prescott were established in 1925-1930. We estimated the DBH of each 
+tree at plot establishment using all three reconstruction methods, and calculated the 
+precision of each estimate as the deviation between the estimated and actual DBH 
+divided by the actual DBH. On average, the proportional reconstruction method 
+underestimated the actual DBH by 3.3% (s = 16.8%) while the radial increment 
+method underestimated DBH by 15.2% (s = 16.0%). Using the BAI method, 6.4% 
+of trees were estimated to have been too small to be present at plot establishment 
+(i.e., their estimated diameters were negative). For those trees large enough to be 
+present, DBH was underestimated by 12.7% (s = 29.1%).
+Future research should address the model limitations identified here and ex-
+plore the effect of time interval on reconstruction accuracy. Future enhancements 
+could include the incorporation of variable stump heights and spatial information 
+such as distance-dependent competition from neighbors. In addition, although the 
+model is currently parameterized for only two species in the Southwest, the code 
+(Appendix 1) can be edited to parameterize it for other species or regions. In spite 
+of these limitations, stand reconstructions permit us to visualize stand development, 
+estimate reference conditions that guide current restoration activities, and quantify 
+the effects of stand development on ecosystem function.
+
+USDA Forest Service RMRS-P-53CD.  2008.	
+141
+Acknowledgments
+We thank R. Everett and W.W. Covington for reviewing an earlier version of this 
+paper. Contemporary measurements of the Woolsey plots were supported by USFS 
+Rocky Mountain Research Station (RMRS) Joint Venture Agreement 28-JV7-939 
+and USDA Cooperative State Research, Education and Extension Service grant 
+2003-35101-12919. Additional funding was provided by McIntire-Stennis  
+appropriations to the School of Forestry and grants from the Ecological Restoration 
+Institute (ERI) at Northern Arizona University. We are grateful to numerous people 
+from the ERI who provided field, laboratory, data entry assistance, and logisti-
+cal support. We thank the USFS RMRS, Coconino National Forest, and Prescott 
+National Forest for permission to sample their lands.
+References
+Bakker, J.D. 2005. A new, proportional method for reconstructing historical tree 
+diameters. Canadian Journal of Forest Research. 35: 2515-2520.
+Everett, R.; Baumgartner, D.; Ohlson, P.; Schellhaas, R.; Harrod, R. 2007. Development 
+of current stand structure in dry fir-pine forests of eastern Washington. Journal of the 
+Torrey Botanical Society. 134: 199-214.
+Fulé, P.Z.; Covington, W.W.; Moore, M.M. 1997. Determining reference conditions 
+for ecosystem management of southwestern ponderosa pine forests. Ecological 
+Applications. 7: 895-908.
+Groven, R.; Rolstad, J.; Storaunet, K.O.; Rolstad, E. 2002. Using forest stand 
+reconstructions to assess the role of structural continuity for late-successional species. 
+Forest Ecology and Management. 164: 39-55.
+Hann, D.W. 1976. Relationship of stump diameter to diameter at breast height for seven 
+tree species in Arizona and New Mexico. Res. Note INT-212. USDA Forest Service, 
+Intermountain Forest and Range Experiment Station, Ogden, UT.
+Harrod, R.J., McRae, B.H.; Hartl, W.E.1999. Historical stand reconstruction in ponderosa 
+pine forests to guide silvicultural prescriptions. Forest Ecology and Management. 114: 
+433-446.
+Huffman, D.W.; Moore, M.M.; Covington, W.W.; Crouse, J.E.; Fulé, P.Z. 2001. 
+Ponderosa pine forest reconstruction: comparisons with historical data. Pages 3-8 in 
+R.K. Vance, C.B. Edminster, W.W. Covington, and J.A. Blake (comps.). Ponderosa 
+pine ecosystems restoration and conservation: steps toward stewardship. 2000 
+April 25-27, Flagstaff, AZ. Proceedings RMRS-P-22. USDA Forest Service, Rocky 
+Mountain Research Station, Ogden, UT.
+Jenkins, J.C.; Chojnacky, D.C.; Heath, L.S.; Birdsey, R.A. 2004. Comprehensive database 
+of diameter-based biomass regressions for North American tree species. Gen. Tech. 
+Rep. NE-319. USDA Forest Service, Northeastern Research Station, Newtown Square, 
+PA.
+Moore, M.M., Huffman, D.W.; Fulé, P.Z.; Covington, W.W.; Crouse, J.E. 2004. 
+Comparison of historical and contemporary forest structure and composition on 
+permanent plots in southwestern ponderosa pine forests. Forest Science. 50: 162-176.
+
+142	
+USDA Forest Service RMRS-P-53CD.  2008.
+Myers, C.A. 1963. Estimating past diameters of ponderosa pines in Arizona and New 
+Mexico. Res. Note RM-7. USDA Forest Service, Rocky Mountain Forest and Range 
+Experiment Station, Fort Collins, CO.
+R Development Core Team. 2007. R: a language and environment for statistical 
+computing. R Foundation for Statistical Computing, Vienna, Austria.
+Rogers, J.J.; Prosser, J.M.; Garrett, L.D.; Ryan, M.G. 1984. ECOSIM: a system for 
+projecting multiresource outputs under alternative forest management regimes. 
+Administrative report, Rocky Mountain Forest and Range Experiment Station, Fort 
+Collins, CO.
+Waskiewicz, J.D.; Fulé, P.Z.; Beier, P. 2007. Comparing classification systems for 
+ponderosa pine snags in northern Arizona. Western Journal of Applied Forestry. 22: 
+233-240.
+
+USDA Forest Service RMRS-P-53CD.  2008.	
+143
+Appendix 1. R function. Text following a ‘#’ on a line are comments, not executable code.  
+ 
+# R code to calculate prior forest structure in northern Arizona ponderosa 
+pine forests 
+#   based on contemporary Data. 
+# J.D. Bakker, May 30, 2008 
+# Based on R code from A.J. Sanchez Meador and a R-Base macro from  
+#   P.Z. Fule, A. Waltz, J. Crouse, D. Huffman, and A.J. Sanchez Meador. 
+ 
+# Formatting Notes: 
+# 1.All Data must be in metric units. 
+# 2.Data must be comma delimited (csv), with headers on the first line. 
+# 3.No spaces in column headings (use '.' instead) 
+ 
+# Model Arguments (variables): 
+# tree.num - Unique tree number. Required. 
+# orig.tree.num - number assigned at plot establishment or remeasurement. 
+Optional. 
+# spp - Species code. Valid codes: PIPO, QUGA. All other species omitted at 
+present. Required. 
+# cond - tree condition. Valid numbers range from 1 to 11. Required. 
+# age - Field call of age class. Valid codes are 0 (post-plot), 1 (pre-plot), 
+or 2 (pre-settlement). Required. 
+# dbh - DBH, outside bark, in cm. Optional, but either dbh or dsh is 
+required. 
+# dsh - DSH, in cm. Usually outside bark. Optional, but either dbh or dsh is 
+required. 
+# core - 0 (no core) or 1 (cored). Optional. 
+# center.date - Center date. Optional. 
+# inc.x.yr - Increment from inventory year to desired reconstruction year 
+(Year X), in cm. Optional. 
+# inc.excl.yr - Increment from inventory year to fire exclusion year, in cm. 
+Optional. 
+# inc.pith - Increment from inventory year to pith of stem, in cm. Optional. 
+# cut.date - Cut date of stump or death date of tree. Optional. 
+# inv.yr - Inventory year. Required. 
+# dbh.inv - Calculated DBH (outside bark) in inventory year for use in model. 
+Returned by model. 
+# dsh.inv - Calculated DSH (outside bark) in inventory year for use in model. 
+Returned by model. 
+# age.inv - Calculated age class in inventory year for use in model. Returned 
+by model. 
+# death.yr - Calculated; last year in which tree was alive (inventory year 
+for live trees) Returned by model.. 
+# dsh.x - Calculated DSH (outside bark) in Year X. Returned by model. 
+# dbh.x - Calculated DBH (outside bark) in Year X. Returned by model. 
+ 
+# Future Enhancements: 
+#  -parameterize for other species 
+#  -incorporate stump height 
+ 
+ 
+##### RECON.MODEL FUNCTION ##### 
+recon.model<-function(Data, xyr, exclyr) { 
+
+144	
+USDA Forest Service RMRS-P-53CD.  2008.
+for(i in 1:nrow(Data)) { 
+  if(Data$cond[i] <= 2) { 
+    if((!is.na(Data$center.date[i]) && Data$center.date[i] <= excl.yr) || 
+!is.na(Data$inc.excl.yr[i]))  { 
+      Data$age.inv[i]=1 } 
+  } 
+  if(Data$cond[i] >= 3 && Data$age[i] > 0) Data$age.inv[i]=1  
+} 
+ 
+cat("Determine Presettlement age class for dead trees/stumps with/without 
+field calls", "\n") 
+for(i in 1:nrow(Data)) { 
+ 
+if(Data$spp[i] == 'PIPO' && Data$cond[i] == 9 && Data$age[i] < 1) { if 
+(Data$dsh.inv[i] >=  31.8) Data$age.inv[i]=1 } 
+ 
+if(Data$spp[i] == 'QUGA' && Data$dbh.inv[i] >= 17) Data$age.inv[i]=1  
+} 
+ 
+cat("Final check for age inconsistencies", "\n") 
+for(i in 1:nrow(Data)) { 
+  if(!is.na(Data$center.date[i]) && Data$center.date[i] <= excl.yr) 
+Data$age.inv[i]=1 
+  if(Data$age[i] > 0 && Data$cond[i] <= 2 && (is.na(Data$center.date[i]) || 
+Data$center.date[i] >=  Data$inv.yr[i]) && (is.na(Data$inc.x.yr[i]) || 
+Data$inc.x.yr[i] == 0)) Data$age.inv[i]=1 
+  if(!is.na(Data$center.date[i]) && Data$center.date[i] > excl.yr && 
+Data$center.date[i] <  Data$inv.yr[i]) Data$age.inv[i]=0  
+} 
+cat("Age/Size Class determination complete", "\n") 
+ 
+ 
+### “UN-DECOMPOSE” DEAD TREES TO DETERMINE DEATH DATES ### 
+cat("Step 4. Estimate Death Dates of Dead Trees", "\n") 
+cat("Initialize death date at inventory year for all trees", "\n") 
+Data$death.yr <- Data$inv.yr 
+pctile = 0.5  # Set decomposition percentile 
+cat("Decomposition percentile =", pctile, "\n") 
+ 
+for(i in 1:nrow(Data)) { 
+# Condition 3 assumed to have died in inventory year 
+  if(Data$cond[i] == 4) { Data$death.yr[i] = Data$inv.yr[i] + ((log(pctile)-
+log(1))/log(1.2)) } 
+  if(Data$cond[i] == 5) { Data$death.yr[i] = Data$inv.yr[i] + ((log(pctile)-
+log(1))/log(1.2)) +  ((log(pctile)-log(1))/log(1.15)) } 
+  if(Data$cond[i] == 6) { Data$death.yr[i] = Data$inv.yr[i] + ((log(pctile)-
+log(1))/log(1.2)) +  ((log(pctile)-log(1))/log(1.15)) + ((log(pctile)-
+log(1))/log(1+(1/(2*(Data$dbh.inv[i]/2.54))))) } 
+  if(Data$cond[i] == 7) { Data$death.yr[i] = Data$inv.yr[i] + ((log(pctile)-
+log(1))/log(1.2)) +  ((log(pctile)-log(1))/log(1.15)) + 2*((log(pctile)-
+log(1))/log(1+(1/(2*(Data$dbh.inv[i]/2.54))))) } 
+  if(Data$cond[i] == 8) { Data$death.yr[i] = Data$inv.yr[i] +  ((log(pctile)-
+log(1))/log(1+(1/(2*(Data$dbh.inv[i]/2.54))))) } 
+  if(Data$cond[i] == 9) { 
+    if(!is.na(Data$cut.date[i])) { Data$death.yr[i] = Data$cut.date[i] } 
+    else { 
+      if(!is.na(Data$orig.tree.num[i])) { Data$death.yr[i] = 1940 } 
+      else { Data$death.yr[i] = 1980 }}} 
+  if(Data$cond[i] == 10) { Data$death.yr[i] = Data$inv.yr[i] + ((log(pctile)-
+
+USDA Forest Service RMRS-P-53CD.  2008.	
+145
+for(i in 1:nrow(Data)) { 
+  if(Data$cond[i] <= 2) { 
+    if((!is.na(Data$center.date[i]) && Data$center.date[i] <= excl.yr) || 
+!is.na(Data$inc.excl.yr[i]))  { 
+      Data$age.inv[i]=1 } 
+  } 
+  if(Data$cond[i] >= 3 && Data$age[i] > 0) Data$age.inv[i]=1  
+} 
+ 
+cat("Determine Presettlement age class for dead trees/stumps with/without 
+field calls", "\n") 
+for(i in 1:nrow(Data)) { 
+ 
+if(Data$spp[i] == 'PIPO' && Data$cond[i] == 9 && Data$age[i] < 1) { if 
+(Data$dsh.inv[i] >=  31.8) Data$age.inv[i]=1 } 
+ 
+if(Data$spp[i] == 'QUGA' && Data$dbh.inv[i] >= 17) Data$age.inv[i]=1  
+} 
+ 
+cat("Final check for age inconsistencies", "\n") 
+for(i in 1:nrow(Data)) { 
+  if(!is.na(Data$center.date[i]) && Data$center.date[i] <= excl.yr) 
+Data$age.inv[i]=1 
+  if(Data$age[i] > 0 && Data$cond[i] <= 2 && (is.na(Data$center.date[i]) || 
+Data$center.date[i] >=  Data$inv.yr[i]) && (is.na(Data$inc.x.yr[i]) || 
+Data$inc.x.yr[i] == 0)) Data$age.inv[i]=1 
+  if(!is.na(Data$center.date[i]) && Data$center.date[i] > excl.yr && 
+Data$center.date[i] <  Data$inv.yr[i]) Data$age.inv[i]=0  
+} 
+cat("Age/Size Class determination complete", "\n") 
+ 
+ 
+### “UN-DECOMPOSE” DEAD TREES TO DETERMINE DEATH DATES ### 
+cat("Step 4. Estimate Death Dates of Dead Trees", "\n") 
+cat("Initialize death date at inventory year for all trees", "\n") 
+Data$death.yr <- Data$inv.yr 
+pctile = 0.5  # Set decomposition percentile 
+cat("Decomposition percentile =", pctile, "\n") 
+ 
+for(i in 1:nrow(Data)) { 
+# Condition 3 assumed to have died in inventory year 
+  if(Data$cond[i] == 4) { Data$death.yr[i] = Data$inv.yr[i] + ((log(pctile)-
+log(1))/log(1.2)) } 
+  if(Data$cond[i] == 5) { Data$death.yr[i] = Data$inv.yr[i] + ((log(pctile)-
+log(1))/log(1.2)) +  ((log(pctile)-log(1))/log(1.15)) } 
+  if(Data$cond[i] == 6) { Data$death.yr[i] = Data$inv.yr[i] + ((log(pctile)-
+log(1))/log(1.2)) +  ((log(pctile)-log(1))/log(1.15)) + ((log(pctile)-
+log(1))/log(1+(1/(2*(Data$dbh.inv[i]/2.54))))) } 
+  if(Data$cond[i] == 7) { Data$death.yr[i] = Data$inv.yr[i] + ((log(pctile)-
+log(1))/log(1.2)) +  ((log(pctile)-log(1))/log(1.15)) + 2*((log(pctile)-
+log(1))/log(1+(1/(2*(Data$dbh.inv[i]/2.54))))) } 
+  if(Data$cond[i] == 8) { Data$death.yr[i] = Data$inv.yr[i] +  ((log(pctile)-
+log(1))/log(1+(1/(2*(Data$dbh.inv[i]/2.54))))) } 
+  if(Data$cond[i] == 9) { 
+    if(!is.na(Data$cut.date[i])) { Data$death.yr[i] = Data$cut.date[i] } 
+    else { 
+      if(!is.na(Data$orig.tree.num[i])) { Data$death.yr[i] = 1940 } 
+      else { Data$death.yr[i] = 1980 }}} 
+  if(Data$cond[i] == 10) { Data$death.yr[i] = Data$inv.yr[i] + ((log(pctile)-
+
+146	
+USDA Forest Service RMRS-P-53CD.  2008.
+log(1))/log(1.2)) +  ((log(pctile)-log(1))/log(1.15)) + 2*((log(pctile)-
+log(1))/log(1+(1/(2*(Data$dbh.inv[i]/2.54))))) } 
+  if(Data$cond[i] == 11) { Data$death.yr[i] = Data$inv.yr[i] + ((log(pctile)-
+log(1))/log(1.2)) +  ((log(pctile)-log(1))/log(1.15)) + 2*((log(pctile)-
+log(1))/log(1+(1/(2*(Data$dbh.inv[i]/2.54))))) } 
+} 
+ 
+Data$death.yr <- as.integer(Data$death.yr) 
+cat("Determination of Death Dates Complete", "\n") 
+ 
+### UN-GROW ALL TREES TO YEAR X ### 
+cat("Step 5. Un-Grow Trees to Year X", "\n") 
+ 
+for(i in 1:nrow(Data)) { 
+  if((!is.na(Data$center.date[i]) & Data$center.date[i] > x.yr) | 
+(Data$death.yr[i] < x.yr)) { 
+    Data$dbh.x[i] = 0 
+  } # Trees obviously not present in Year X 
+  if(Data$spp[i] == 'PIPO') { 
+    if(!is.na(Data$inc.x.yr[i])) { 
+      if(!is.na(Data$inc.pith[i])) { # Proportional reconstruction method if 
+increment to pith measured 
+        prop = (Data$inc.pith[i] - Data$inc.x.yr[i]) / Data$inc.pith[i] 
+        Data$dsh.x[i] = Data$dsh.inv[i] * prop 
+      } 
+      else { # For trees without increment to pith measured 
+        if(Data$age.inv[i] == 1) { # Yellow pine bark thickness equations 
+(Myers 1963) 
+          Data$dsh.x[i] = 1.0524 * (((0.9498 * Data$dsh.inv[i]) - 2.8491) - 
+(2 * Data$inc.x.yr[i])) - 3.0272 
+        } 
+        else { # Blackjack bark thickness equations (Myers 1963) 
+          Data$dsh.x[i] = 1.0698 * (((0.9344 * Data$dsh.inv[i]) - 3.0284) - 
+(2 * Data$inc.x.yr[i])) - 3.2614 
+        } 
+      } 
+      Data$dbh.x[i] = (Data$dsh.x[i] - 1.6643787) / 1.0632921 
+      # Formula from Woolsey plots; r^2 = 0.994; N = 8375 
+      if(Data$dbh.x[i] < 0) { Data$dbh.x[i] == 0 } 
+    } 
+    else { # For trees without increment data 
+      if(Data$age.inv[i] == 1) { # Yellow pine equation from Woolsey plots; 
+r^2 = 0.6772; N = 2014 
+        Data$dbh.x[i] = sqrt(Data$dbh.inv[i]^2 - (4/pi * exp(-3.21600 + 
+1.54140 * log(Data$dbh.inv[i])) * (Data$death.yr[i] - x.yr))) 
+        if(is.nan(Data$dbh.x[i])) { Data$dbh.x[i] = 0 } 
+      } 
+      else { # Blackjack equation from Woolsey plots; r^2 = 0.9612; N = 3008 
+        Data$dbh.x[i] = sqrt(Data$dbh.inv[i]^2 - (4/pi * exp(-3.718047 + 
+1.735790 * log(Data$dbh.inv[i])) * (Data$death.yr[i] - x.yr))) 
+        if(is.nan(Data$dbh.x[i])) { Data$dbh.x[i] = 0 } 
+      } 
+    } 
+  } 
+  if(Data$spp[i] == 'QUGA') { 
+    if(!is.na(Data$inc.x.yr[i])) { # For trees with increment data 
+# NOTE - All formulas here assume 5% bark thickness for QUGA (no literature) 
+
+USDA Forest Service RMRS-P-53CD.  2008.	
+147
+# TODO - Develop QUGA bark thickness equations 
+      if(!is.na(Data$inc.pith[i])) { # Proportional reconstruction method if 
+increment to pith measured 
+        prop = (Data$inc.pith[i] - Data$inc.x.yr[i]) / Data$inc.pith[i] 
+        Data$dsh.x[i] = Data$dsh.inv[i] * prop 
+      } 
+      else { # For trees without increment to pith measured 
+        Data$dsh.x[i] = ((0.95 * Data$dsh.inv[i]) - (2 * Data$inc.x.yr[i])) / 
+0.95 
+      } 
+      Data$dbh.x[i] = (Data$dsh.x[i] - 1.092945) / 1.033582 
+      # Formula from Woolsey plots; r^2 = 0.988; N = 1400 
+      if(Data$dbh.x[i] < 0) { Data$dbh.x[i] = 0 } 
+    } 
+    else { # For trees without increment data 
+      if(Data$age.inv[i] == 1) { # Large/old tree equation from Woolsey 
+plots; r^2 = 0.5828; N = 143 
+        Data$dbh.x[i] = sqrt(Data$dbh.inv[i]^2 - (4/pi * exp(-3.09044 + 
+1.38412 * log(Data$dbh.inv[i])) * (Data$death.yr[i] - x.yr))) 
+        if(is.nan(Data$dbh.x[i])) { Data$dbh.x[i] = 0 } 
+      } 
+      else { # Small tree equation from Woolsey plots; r^2 = 0.8777; N = 206 
+        Data$dbh.x[i] = sqrt(Data$dbh.inv[i]^2 - (4/pi * exp(-3.16137 + 
+1.37009 * log(Data$dbh.inv[i])) * (Data$death.yr[i] - x.yr))) 
+        if(is.nan(Data$dbh.x[i])) { Data$dbh.x[i] = 0 } 
+      } 
+    } 
+  } 
+} 
+# Other species omitted at present 
+cat("Un-Growth of Trees to Year X Complete", "\n") 
+ 
+ 
+### SUMMARIZE DATA ### 
+cat("Step 6. Summarize Data", "\n")  
+ 
+cat("Comparison of field Age Class calls with model age/size classes", "\n") 
+table(Data[c("age", "age.inv", "spp")]) # Creates a contingency table, by 
+species 
+ 
+hist(Data$dbh.x[Data$dbh.x > 0]) 
+ 
+write.csv(Data, file = file.choose())  
+#NOTE - Remember to specify a “.csv” ending to file name, otherwise R will 
+specify no file extension! 
+cat("Data Saved to CSV file", "\n") 
+ 
+#detach(Data) 
+} 
+##### END OF RECON.MODEL FUNCTION ##### 
+ 
+ 
+ 
+### CODE TO RUN RECON.MODEL FUNCTION ### 
+Data <-  read.csv(file.choose(), header = TRUE, sep = ",", quote="\"", 
+dec=".", fill = TRUE,  na.strings = "NA") 
+recon.model(Data, xyr=1909, exclyr=1876) 
+The content of this paper reflects the views of the author(s), who are responsible for the 
+facts and accuracy of the information presented herein.

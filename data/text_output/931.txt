@@ -1,0 +1,842 @@
+Contents lists available at ScienceDirect
+Dendrochronologia
+journal homepage: www.elsevier.com/locate/dendro
+Age-related climate sensitivity in Pinus Edulis at Dinosaur National
+Monument, Colorado, USA
+Dustin P. Hannaa,c,⁎, Donald A. Falka,b, Thomas W. Swetnama, William Rommed
+a Laboratory of Tree-Ring Research, University of Arizona, 1215 E Lowell St, Tucson, AZ, 85721, United States
+b School of Natural Recourses and the Environment, University of Arizona, 1064 E Lowell St, Tucson, AZ, 85721, United States
+c Ecological Restoration Institute, Northern Arizona University, 200 E Pine Knoll Dr, Flagstaﬀ, AZ, 86011, United States
+d Colorado State University, Fort Collins, CO, 80523, United States
+A R T I C L E I N F O
+Keywords:
+Dendrochronology
+Ancient piñon-juniper woodland
+Mean sensitivity
+Climate-growth relationship
+A B S T R A C T
+The inﬂuence of tree age on climate sensitivity is of central importance in dendrochronology. Recent research
+has highlighted the disparate nature of age-dependent growth responses across species and geographic locations.
+We compared growth sensitivity and the inﬂuence of climate in Pinus edulis (Piñon) of varying ages at Dinosaur
+National Monument (DINO, northwestern Colorado, USA. Piñon is a particularly good species for this study
+because of its long life-span and climate sensitivity, and the DINO site is at the northern extreme of the current
+distribution. We evaluated changes in climate-growth relationships in piñon using total ring-width measure-
+ments and running averages of chronology statistics, mean sensitivity (MS) and coeﬃcient of variation (CV), and
+we investigated growth response to climate variability as trees age. These measures indicated initial low growth
+sensitivity, increasing as trees reached mid-life stages, approximately 200–250 years, then relatively constant
+sensitivity from 250-800+ years. First order partial auto correlation (PAC1) declined throughout the life stages
+of piñon at DINO. The trend in declining autocorrelation leads to higher MS values in the older age classes.
+Greater year to year variation indicates less persistence in the study population, hence lower autocorrelation.
+We investigated the degree to which this relationship could be explained by the summer Palmer Drought
+Severity Index (PDSI) and whether this relationship varied with tree age. The strength of the tree-ring growth
+response to PDSI was at a maximum during the ﬁrst two centuries of growth (R2 = 0.54). between two and six
+centuries (R2 = 0.48), after which we detected a decline in the sensitivity of tree growth to PDSI with increasing
+age (R2 = 0.41). This study adds to the literature on age-related climate sensitivity in trees; our ﬁndings indicate
+that age-related changes in climate-tree-ring growth responses should be considered when climate variables are
+reconstructed from tree-ring width chronologies, and speciﬁcally from Pinus edulis.
+1. Introduction
+Tree-ring chronologies are widely used as indicators of ecological
+responses to environmental variability (Fritts and Swetnam, 1989;
+Hofgaard et al., 1999; Ogle et al., 2000; Peterson and Peterson, 2001;
+Suarez
+et al., 2004; Speer, 2010; Swetnam
+and Brown,
+2011;
+Copenheaver et al., 2011). It is often assumed that tree growth re-
+sponses to climate are independent of tree age, but disparate age-re-
+lated trends in climate sensitivity (i.e., diﬀerential growth response to
+climate variation) have been documented (Szeicz and MacDonald,
+1994, Carrer and Urbinati, 2006; Esper et al., 2008; Vieira et al., 2009).
+For example, age-related sensitivity to climate occurred in Larix decidua
+but not in co-dominant Pinus cembra in high altitude forests of the
+Italian Alps (Carrer and Urbinati, 2006). Similarly, Esper et al. (2008)
+found similar climate signals across age groups in Pinus cembra in the
+central
+European
+Alps.
+Young
+Pinus
+sylvestris
+in
+Scandinavia
+(< 100 years
+old)
+had
+a
+higher
+climate
+sensitivity
+than
+older
+(100–250 years old) trees (Linderholm and Linderholm, 2004). Climate
+sensitivity of Juniperus thurifera in Spain decreased with increasing age
+(Rozas et al., 2009). Radial growth response to climate diﬀered in
+trees > 200 years old and < 200 years old in Picea glauca from the
+Northwest Territories, Canada (Szeicz and MacDonald, 1994). Such
+ﬁndings suggest that age-dependent responses to climate are common,
+but could be site and species speciﬁc.
+This research focused on Pinus edulis Engelm., piñon, one of the
+most ubiquitous tree species of the southwestern North American.
+Piñon, along with several species of juniper (Juniperus osteosperma, J.
+monosperma, J. scopulorum, and J. deppeana) dominates one of the most
+https://doi.org/10.1016/j.dendro.2018.09.002
+Received 13 April 2018; Received in revised form 27 August 2018; Accepted 2 September 2018
+⁎ Corresponding author.
+E-mail address: dustin.hanna@nau.edu (D.P. Hanna).
+Dendrochronologia 52 (2018) 40–47
+Available online 07 September 2018
+1125-7865/ © 2018 Elsevier GmbH. All rights reserved.
+T
+
+important ecosystems in the Southwest. Piñon-juniper woodlands are
+valuable for multiple ecological services, including providing structure
+for wildlife habitat, hydrologic regulation, and biogeochemical cycling
+in the arid regions of the Southwest. They are also of signiﬁcant cultural
+importance for indigenous peoples in the region (Gottfried et al., 1995;
+Floyd, 2003; Romme et al., 2009).
+Despite its abundance in drought-prone, high water stress areas,
+piñons are among the most long-lived trees in the world (Brown, 1996)
+and are highly resilient to drought. Even the best-adapted and resilient
+species are not, however, exempt from severe natural disturbances.
+Increasing temperatures and drought in recent decades have created
+conditions that challenge this resiliency (Breshears et al., 2009;
+McDowell et al., 2008; Looney et al., 2012; Gaylord et al., 2013; Hicke
+and Zeppel, 2013; Allen et al., 2015). One result has been massive bark
+beetle (Ips confusus) outbreaks on millions of hectares of piñon-juniper
+woodland in New Mexico, Colorado, and Arizona (Breshears et al.,
+2009; Floyd et al., 2009; Huang et al., 2010). In addition, large ex-
+panses of western forests including large areas of piñon-juniper wood-
+lands have burned (Flannigan et al., 2000; Floyd et al., 2004;
+Westerling et al., 2006). Williams et al. (2010) estimate up to 18% of
+forest and woodland area in the Southwest incurred moderate to high
+tree mortality due to ﬁre, bark beetle and other drought-related mor-
+tality eﬀects between 1984 and 2008. Regionally synchronous natural
+disturbances are generally driven by climate variation, and in the
+Southwest such distinct changes have been shown to occur on decadal
+scales throughout much of the last 2000 years (Swetnam and
+Betancourt, 2010). Disturbance regimes (frequency, intensity, severity,
+duration, and seasonal timing) are changing rapidly, reﬂecting regional
+and global climate inﬂuences (Dale et al., 2001; Allen et al., 2010,
+Williams et al., 2010; Stephens et al. 2013, Macalady and Bugmann,
+2014). Thus, an understanding of piñon responses to climate variation
+over the lifespan of a tree is critical to predicting the species’ long term
+prospects in the region.
+As well as disturbance events, populations can be adversely eﬀected
+by progressively more challenging environmental conditions. Extreme
+drought episodes can lead to widespread tree death. A clear example of
+drought-induced die-oﬀin piñon was demonstrated by shifts at the
+ponderosa-pine/piñon woodland ecotone following the 1950′s drought
+in northern New Mexico (Allen and Breshears, 1998). While piñon is
+considered highly adapted to drought (Lanner and Van Devender, 1998;
+Floyd, 2003), Breshears et al. (2005) showed that lethal sensitivity to
+climate ﬂuctuations can nonetheless occur. Ogle et al. (2000) suggest
+that growth sensitivity to climate variability is an important factor that
+could pre-dispose piñon to mortality; in trees < 200 years old, reduced
+ring growth in the 10–15 years preceding the 1996 drought was evident
+in piñon that died as a consequence of drought. Alongside the physio-
+logical response to drought stress, tree species including pinon are
+susceptible to insect outbreaks increasing the likelihood and extent of
+mortality events (Anderegg et al., 2015; Cliﬀord et al., 2013).
+Populations that are most adversely aﬀected by climate variability
+are often those at the geographic extremes of a species range (Bugmann
+and Pﬁster, 2000; Camarero and Gutiérrez, 2004; Ogle et al., 2000;
+Jackson et al., 2009; Sánchez-Salguero et al., 2012). The location of our
+study, Dinosaur National Monument, CO (DINO) is at the northernmost
+range of Pinus edulis, (Gray et al., 2006) where, at the margin of its
+current distribution, trees may experience signiﬁcant climate-related
+stress. Other studies have found elevated climate sensitivity in alpine
+species
+at
+tree
+line
+(Lloyd
+and
+Fastie,
+2002;
+Linderholm
+and
+Linderholm, 2004; Esper et al., 2008; Yu et al., 2008; Takahashi et al.,
+2011), another line of evidence that marginal populations may be more
+sensitive to extremes in climate variability.
+In DINO, piñon trees generally coexist with juniper species
+(Juniperus osteosperma, J. scopulorum). Macrofossils from these species
+preserved in packrat middens show J. osteosperma arriving in the area
+9000 years before present (B.P.) while piñon arrived in the area only by
+1103
++/−
+30
+years
+B.P.
+(Sharpe
+2002,
+Sharpe
+personal
+communication). Romme et al. (2013) found that piñons reach ages of
+greater than 800 years; the oldest known crossdated living piñon is
+1101 years old and is in close geographic proximity to the DINO study
+site (Brown, 1996). The samples assessed in this study constitute a
+unique tree-ring data set from ancient piñons, approaching the max-
+imum recorded age of the species.
+Our primary objective in this study was to investigate age-related
+tree-ring width responses to climate (climate sensitivity) in piñon across
+a broad range of tree ages in a population on the margin of its dis-
+tribution. We aimed to characterize how trees of various ages diﬀered
+in the magnitude of their response to past climate variability, using a
+variety of statistical measures. Speciﬁcally, this study addressed three
+questions about age-related climate sensitivity in piñon (1) How does
+climate sensitivity change as trees age? (2) How have trees of diﬀerent
+ages responded to the climate variability of the most recent century? (3)
+Does the variation in growth explained by the Palmer Drought Severity
+Index (summer PDSI) vary across age classes? By increasing under-
+standing of factors that may inﬂuence piñon time series interpretation,
+we aim to highlight the potential importance of incorporating the in-
+ﬂuence of tree age when selecting series for chronology building.
+2. Methods
+2.1. Study area
+Dinosaur National Monument (DINO) is located in northwestern
+Colorado
+and
+northeastern
+Utah,
+USA,
+spanning
+elevations
+of
+1400–2700 m. All sampling for this study was conducted in Colorado.
+The study area was the southeastern portion of DINO, an area of
+28,144 ha bounded on the south and east by the Monument boundary,
+the Yampa River to the north, and the western boundary by the
+Monument roadway to Harper’s Corner, known as the “Yampa Bench”
+(Fig. 1). Four sample points were located south of the monument
+boundary on adjacent and ecologically similar Bureau of Land Man-
+agement (BLM) land. The landscape is a patchwork of piñon and juniper
+woodland, Artemisia shrublands, grasslands, and the occasional Dou-
+glas-ﬁr stand on high north facing slopes (Coles, 2008).
+2.2. Research procedures
+We used a recently completed vegetation map of DINO to locate
+piñon-juniper woodlands, and randomly generated 5–10 sample loca-
+tions within each of ﬁve deﬁned piñon-juniper vegetation types using
+ARC GIS (Coles, 2008; ESRI 2010), resulting in a total of 53 sampling
+locations. At each point the oldest age class, estimated visually in the
+ﬁeld by diameter and growth form, was selected (Floyd et al., 2004).
+We used increment borers to extract one core from 10 to 15 trees at
+each sample location. Cores were extracted as close to the ground as
+possible, at a mean sampling height of 30 cm. In the lab, cores were
+mounted and sanded with increasingly ﬁne grits of sandpaper until the
+ring structure was clearly visible. Each core was then crossdated using
+standard dendrochronological techniques (Fritts and Swetnam, 1989;
+Speer, 2010). Crossdating was checked visually against a master
+chronology provided by CA Woodhouse, University of Arizona (for lo-
+cation see Grissino-Mayer and Fritts, 1997; Woodhouse and Lukas,
+2006). To select trees for the climate sensitivity analysis, individual
+trees were grouped in 100-year age classes (0–100, 101-200…701-
+800+). A random sample of 5–20 trees were selected per age class with
+the greatest sample density in the younger classes. The number of trees
+selected for each age class generally represented the proportion of trees
+in each age class of the approximately 800 total trees sampled. The ﬁnal
+test sample consisted of 131 trees representing the full spectrum of ages
+(Fig. 2).
+Annual ring width year was measured for each core to the nearest
+0.001 mm, creating a time series of annual growth for each tree. Ring
+widths were measured on a Velmex TA linear encoder in conjunction
+D.P. Hanna et al.
+Dendrochronologia 52 (2018) 40–47
+41
+
+with Measure J2X software to record all series measurements in decadal
+format (VoorTech Consulting, 2007). The quality control program
+COFECHA was used to ensure accuracy in crossdating (Holmes, 1983)
+by comparing measured ring widths to an existing site chronology from
+the region (Grissino-Mayer and Fritts, 1997; Woodhouse and Lukas,
+2006). Problem cores were inspected and any dating errors identiﬁed in
+COFECHA were corrected. Two cores were removed because of un-
+resolvable crossdating errors and missing sections of outermost rings,
+Fig. 1. Map of Yampa Bench study area, Dinosaur National Monument (DINO), Colorado, USA. Yellow dots represent sampling locations. Sample locations are
+located within the monument boundary and adjacent Bureau of Land Management (BLM) land. Map in bottom right shows general geographic location of DINO (For
+interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this article).
+Fig. 2. Age distribution of 131 Pinus edulis trees used in the climate sensitivity study, Dinosaur National Monument. Inset boxes indicate the number of trees analyzed
+in each age class.
+D.P. Hanna et al.
+Dendrochronologia 52 (2018) 40–47
+42
+
+leaving a total core sample size of 129.
+2.3. Statistical analysis
+2.3.1. Climate sensitivity and tree age
+Tree age was deﬁned in this study as beginning with the innermost
+full ring in each series. Because our focus was on multi-century growth
+relationships, we did not adjust for missing rings in cores that did not
+reach pith, nor for years to coring height.
+Raw ring widths in decadal format were converted into columns
+using the program YUX (Holmes, 2001) and then aligned in separate
+sets based on either calendar or growth year. In the latter case, in-
+dividual ring-width series from each sampled tree were ordered from 1
+to n, 1 being the innermost (oldest) full ring of each series and n being
+the outermost full ring. These data were used to analyze growth sen-
+sitivity by tree age regardless of calendar year (for example, the
+1–100 year group includes the ﬁrst 100 years of growth of all trees; the
+101–200 year group includes the second century of growth of all trees;
+and so on). Growth data were then ﬁltered into 100 year groups over-
+lapping by 50 years (i.e. 1–100, 50–150, 100–200,…750-850) and re-
+formatted into compact format, readable by programs such as ARSTAN
+(Cook and Holmes, 1986), using the program CASE (Holmes, 2001).
+ARSTAN standardizes each individual series, removing the low
+frequency trend associated with the geometry of tree growth, while
+high frequency (year to year) variation in each series is preserved (Cook
+and Holmes, 1986). Within ARSTAN each series was detrended by ﬁt-
+ting a cubic smoothing spline preserving 50% of the variation at a
+wavelength of 50 years. An index value with a mean of 1 was created by
+dividing the raw ring width by the ﬁt line value. The 50 year wave-
+length was chosen to remove the low frequency trends associated with
+stand dynamics, highlighting the high frequency (interannual) varia-
+tion associated with climate (Cook and Peters, 1997). Using ARSTAN
+we calculated descriptive statistics for the detrended series, including
+mean, median, standard deviation, mean sensitivity (MS) and ﬁrst,
+second and third order partial autocorrelation. The running averages of
+these statistics created by shifting the 100 year groups 50 years were
+used to quantify the growth response across tree age which might be
+attributed to climate variability.
+We used mean sensitivity (MS) as an index of climate sensitivity
+across a broad range of tree ages piñon at DINO. MS is a widely-used
+statistical measure of the year to year variations of ring growth (Fritts,
+1976; Peterson and Peterson, 2001; Linderholm and Linderholm, 2004;
+Suarez et al., 2004; Yu et al., 2008; Rozas et al., 2009; Copenheaver
+et al., 2011), and thus an indicator of the climate sensitivity of tree
+growth (Eq. (1)):Stokes aHanse
+∑
+=
+−
+−
++
+=
+−
+−
+MS
+n
+y
+y
+y
+y
+2
+1
+|
+|
+t
+n
+t
+t
+t
+t
+2
+1
+1
+(1)
+where n = series length, t = year from 1…n, and y = annual measured
+ring width. The MS of a given series is a function of the mean, standard
+deviation, and ﬁrst order auto correlation in a series, comparing the
+growth of one year relative to the growth of the previous year (Hoﬀ,
+1983; Bunn et al., 2013). While widely used in dendrochronology lit-
+erature, some authors (Strackee and Jansma, 1992, Bunn 2013) have
+suggested that MS does not provide additional information beyond
+standard deviation, c.v., and ﬁrst order autocorrelation, so these were
+calculated separately. Because our use of MS was for within-tree com-
+parisons across ages, it remains a useful metric of changing growth
+sensitivity to climate. We also calculated the coeﬃcient of variation
+(CV, the standard deviation from the mean divided by the mean of a
+series) and ﬁrst order correlation (PAC1) to characterize growth var-
+iations and characteristics. We tested for normality using Kolmogorv-
+SmirnoﬀGoodness of Fit tests for each dependent variable. We used the
+Kruskal-Wallace alternative to ANOVA where data were not normal to
+determine whether the dependent variables MS and CV varied across
+the running average created by the overlapping age-groups (Sokal and
+Rohlf, 1995). 1st order autocorrelation (PAC-1) statistics were used to
+verify trend apparent in the MS and CV statistics. PAC-1 is deﬁned as
+the correlation between one time series and itself shifted or “lagged”
+one time unit (Hoﬀ, 1983).
+2.3.2. Growth response to climate during the most recent century
+To investigate the growth response of individuals to the climatic
+environment of the most recent century, we analyzed growth response
+(raw ring width) with respect to tree age in calendar year 2009 using
+the program ARSTAN (Cook and Holmes, 1986). The same detrending
+methods used in the ﬁrst objective were applied and the detrended
+descriptive statistics were used to characterize the climate/growth re-
+lationship of each tree-ring series. We ran simple linear and logarithmic
+regressions on the dependent variable (MS) against the independent
+variable (tree age) in 2009 for the entire data set.
+2.3.3. Age-related variation in ring growth response to PDSI
+Historical PDSI data were obtained from the North American
+Drought Atlas; grid point 102 was selected because of its proximity to
+our study site (Dai 2004, www.ncdc.noaa.gov/paleo/pdsidata.html).
+For recent growth analysis we used PDSI data from 1900 to 2003. We
+grouped the 129 trees in 8 age classes (0–100 years, 101–200 years,
+201–300
+years, 301–400
+years, 401–500
+years,
+501–600
+years,
+601–700 years, 700+ years). ARSTAN was used to create standardized
+(Std) chronologies for each age class. Linear regressions were run for
+ring growth index values as a function of summer PDSI. The proportion
+of variance explained (R2) for all age groups greater than 100 years was
+used to evaluate the strength of the relationship between ring growth
+and PDSI across age groups.
+3. Results
+3.1. Changes in growth sensitivity with tree age
+Tree ages ranged from 33 years to 820 years at coring height with a
+mean ± s.d. of 282 ± 205 years.
+The distribution of mean sensitivity (MS) (Table 1) departed from
+Table 1
+Descriptive statistics of mean sensitivity (MS), ﬁrst order partial autocorrelation
+(PAC1) and coeﬃcent of variation (CV) for Pinus edulis cores sampled for cli-
+mate sensitivity, Dinosaur National Monument.
+Age group
+N
+Mean
+Std. Deviation
+MS
+1-100
+27
+.296
+.0585
+101-200
+38
+.339
+.0700
+201-300
+16
+.382
+.0824
+301-400
+14
+.404
+.0747
+401-500
+9
+.417
+.0763
+501-600
+12
+.408
+.0594
+601-700
+9
+.402
+.0517
+> 700
+5
+.360
+.0389
+PAC1
+1-100
+27
+.355
+.1293
+101-200
+38
+.318
+.1019
+201-300
+16
+.255
+.1053
+301-400
+14
+.222
+.1043
+401-500
+9
+.162
+.0643
+501-600
+12
+.190
+.1003
+601-700
+9
+.209
+.0910
+> 700
+5
+.206
+.0517
+CV
+1-100
+27
+31.99
+6.921
+101-200
+38
+33.72
+6.063
+201-300
+16
+35.96
+4.987
+301-400
+14
+36.91
+5.868
+401-500
+9
+37.43
+5.802
+501-600
+12
+36.77
+3.513
+601-700
+9
+35.57
+4.012
+> 700
+5
+33.39
+3.689
+D.P. Hanna et al.
+Dendrochronologia 52 (2018) 40–47
+43
+
+normality (K–S = .049, p < .05); therefore, we used the non-parametric
+Kruskal-Wallace to test for diﬀerences across overlapping age classes.
+There was a signiﬁcant diﬀerence in MS across the age classes
+(H = 120.0, p <
+.001) (Fig. 3A). Non-parametric post-hoc tests de-
+termined that the youngest (1–100 and 50–150) age classes diﬀered
+signiﬁcantly from the older age classes (trees 150–600 years old); there
+were no signiﬁcant diﬀerences among age classes between150 and 600
+years old. The distribution of coeﬃcient of variation (CV) and ﬁrst-
+order partial autocorrelation (PAC-1) (Table 1) were normal; therefore,
+we applied ANOVA to test for diﬀerences across overlapping age
+classes. There was no signiﬁcant diﬀerence in the average CV across
+tree age (F = 1.2, p > .05), (Fig. 3B). First order partial auto corre-
+lation (PAC1) declined steadily with age PAC-1 in the older trees
+(F = 14.3, p < .05) (Fig. 3C). Post-hoc Bonferroni tests indicate that
+the signiﬁcant diﬀerences were among the youngest age classes when
+paired with all age classes greater than 250 years (Appendix A).
+3.2. Response of trees of diﬀerent ages to the climate variability of the most
+recent century
+Tree age explained 23% of the variation in sensitivity (logarithmic
+ﬁt, R2 = 0.23, p < 0.05, n = 96; Fig. 4A [weaker linear ﬁt not
+shown]). Logarithmic regression of ﬁrst order autocorrelation (PAC-1)
+with age (Fig. 4B) showed a declining trend with age (R2 = 0.26,
+p < 0.05, n = 96).
+3.3. Relationship of tree age to instrumental summer PDSI response
+The greatest increase in variation explained occurs in the ﬁrst two
+centuries of tree growth (R2 = 0.36 in trees less than 100, increasing to
+R2 = 0.49 in trees between 101–200 years), followed by a steady de-
+cline in trees from 200-700+ yr (Table 2).
+4. Discussion
+Age-related climate sensitivity in trees is a potentially confounding
+factor in chronology development. We investigated age-dependent
+growth sensitivity in a long-lived species near the northernmost extent
+of its distribution. Pinus edulis, Colorado piñon, is a long-lived conifer
+(Mirov, 1967) and very old individuals occur frequently in DINO,
+especially in undisturbed and ﬁre protected sites (Romme et al., 2013).
+The age structure of the population studied here suggests that some of
+our oldest trees may be from the pioneering population in the region
+that arrived approximately 1100 years BP (Sharpe 2002).
+Our results in piñon mirror ﬁndings in Larix decidua, where the
+magnitude of climate-growth response functions were lower but in-
+creasing in younger trees (< 200years) and stabilized at a higher level
+in older trees, up to 600 years (Carrer and Urbinati, 2004). In contrast,
+climate accounted for a substantial amount of the variation in ring
+growth in Sabina przewalskii, but mean sensitivity (MS) did not change
+signiﬁcantly with age (Yu et al., 2008). Trees in this study were com-
+parable in age to piñons at DINO (100-500 years) and similar in the
+stability of growth sensitivity, yet in this study piñon was less sensitive
+in early life stages and more sensitive in later life stages. These diﬀer-
+ences highlight the species-speciﬁc nature of tree-climate growth
+trends.
+There has been some useful discussion on the descriptive statistics
+used for evaluating growth response and climate/growth relationships
+in tree rings. For this study, we used MS as our primary statistic for
+comparative purposes to assess relative growth variability among age
+classes. Although widely used, mean sensitivity (MS) has been formally
+critiqued as a measure of variable growth response (Strackee and
+Jansma, 1992; Bunn et al., 2013). Mean sensitivity continues to be used
+widely to describe the inherent variability in tree-ring chronologies that
+may be indicative of the potential strength of the climate/growth re-
+lationships (Peterson and Peterson, 2001, Carrer and Urbinati 2004,
+Linderholm and Linderholm, 2004; Suarez et al., 2004; Yu et al., 2008;
+Rozas et al., 2009; Copenheaver et al., 2011). To address the concerns
+over the usefulness of the MS statistic we also evaluated trends in other
+Fig. 3. Trends in (A) mean sensitivity (MS), (B) coeﬃcient of variation (CV),
+and (C) ﬁrst order partial autocorrelation (PACord1) across overlapping
+100 year classes. Points indicate group means; error bars are 95% CI.
+D.P. Hanna et al.
+Dendrochronologia 52 (2018) 40–47
+44
+
+closely related statistics (coeﬃcient of variation and ﬁrst order auto-
+correlation) in piñon of diﬀerent ages.
+Growth responses detected in tree-ring widths at DINO by all three
+measures (MS, CV, PAC1) suggest that sensitivity of growth to climate
+variability changes with age in piñon. All measures of growth sensi-
+tivity were lower in early life stages (< 200–250 years), but did not
+diﬀer among ages > 200–250 years. In the growth response of in-
+dividual trees during the current (20th century) climatic environment,
+growth sensitivity to climate was also lowest in younger trees (up to
+approximately 250 years in age) and stabilized at a higher level in older
+trees.
+We used common-period analysis to determine how much of the
+variation in growth response could be attributed to the Palmer Drought
+Severity Index (PDSI) and whether this varies across age classes
+(Table 2); a higher variance explained by PDSI might reﬂect growth
+responsiveness to the high frequency component of PDSI. Our data
+suggest that there is variation in the responses to PDSI across age classes
+(36–56% of variance in growth explained by tree age), although no
+Fig. 4. Linear and logarithmic linear regressions of (A) mean sensitivity (MS) and (B) ﬁrst order partial autocorrelation (PACord1) by age in the common period.
+D.P. Hanna et al.
+Dendrochronologia 52 (2018) 40–47
+45
+
+strong diﬀerence is apparent in trees less than 200 years (R2 = 0.54)
+compared with trees older than 200 years (R2 = 0.48).
+While climate-growth relationships are one driver of ring growth
+variability, age-dependent physiological factors not addressed in this
+study could have equal bearing on growth response. Some evidence
+suggests that older trees (> 200 years) may devote more energy pro-
+portionally to physiological processes such as masting cone production
+(Krebs et al., 2012; Redmond et al., 2016), herbivore defenses, or car-
+bohydrate storage as a buﬀer to adverse climate conditions (Huang
+et al., 2010), leading to a slight reduction in PDSI response.
+Our evidence suggests that patterns of growth response to climate
+are age-dependent in this long-lived species. Even with an increasing
+trend in climate sensitivity in ring growth as some trees age, the oldest
+trees could be responding to internal physiological changes or factors
+other than climate variation. The implication is that piñon chronologies
+including only centuries-old trees from the DINO area may not be as
+robust if the changing sensitivity of younger trees is not accounted for.
+This study suggests that trees of all ages should be utilized in chron-
+ology building and dendroclimatology studies.
+Acknowledgements
+The authors wish to acknowledge the University of Arizona
+Laboratory of Tree Ring Research, Tucson AZ for supporting this re-
+search, as well as Prescott College, Prescott, AZ for access to lab
+equipment. Special thanks to Tamara Naumann of the National Park
+Service, Dinosaur National Monument for her ongoing support of this
+project. The funding was provided through a Cooperative Agreement
+with the National Park Service. Number: H1200090004.
+References
+Allen, C.D., Breshears, D.D., 1998. Drought-induced shift of a forest–woodland ecotone:
+rapid landscape response to climate variation. Proc. Natl. Acad. Sci. 95,
+14839–14842.
+Allen, C.D., Macalady, A.K., Chenchouni, H., Bachelet, D., McDowell, N., Vennetier, M.,
+Cobb, N., 2010. A global overview of drought and heat-induced tree mortality reveals
+emerging climate change risks for forests. For. Ecol. Manage. 259, 660–684.
+Allen, C.D., Breshears, D.D., McDowell, N.G., 2015. On underestimation of global vul-
+nerability to tree mortality and forest die-oﬀfrom hotter drought in the
+Anthropocene. EcoSphere 6 (8) Art. 29.
+Anderegg, W.R., Hicke, J.A., Fisher, R.A., Allen, C.D., Aukema, J., Bentz, B., Hood, S.,
+2015. Tree mortality from drought, insects, and their interactions in a changing
+climate. New Phytol. 208 (3), 674–683.
+Breshears, D.D., Cobb, N.S., Rich, P.M., Price, K.P., Allen, C.D., Balice, R.G., Romme,
+W.H., Kastens, J., Floyd, M.L., Belnap, J., Anderson, J.J., Myers, O.B., Meyer, C.W.,
+2005. Regional vegetation die-oﬀin response to global-change-type drought. Proc.
+Natl. Acad. Sci. U. S. A. 102, 15144–15148.
+Breshears, D.D., Myers, O.B., Meyer, C.W., Barnes, F.J., Zou, C.B., Allen, C.D., McDowell,
+N.G., Pock, W.T., 2009. Tree die-oﬀin response to global change-type drought:
+mortality insights from a decade of plant water potential measurements. Front. Ecol.
+Environ. 7 (4), 185–189.
+Brown, P.M., 1996. OLDLIST: a database of maximum tree ages. Tree Rings, Environ.
+Human. 727–731.
+Bugmann, H., Pﬁster, C., 2000. Impacts of inter-annual climate variability on past and
+future forest composition. Reg. Environ. Change 1, 112–125.
+Bunn, A.G., Jansma, E., Korpela, M., Westfall, R., Baldwin, J., 2013. Using simulations
+and data to evaluate mean sensitivity as a useful statistic in dendrochronology.
+Dendrochronologia 31 (3), 250–254.
+Camarero, J.J., Gutiérrez, E., 2004. Pace and pattern of recent treeline dynamics: re-
+sponse of ecotones to climatic variability in the Spanish Pyrenees. Clim. Change 63,
+181–200.
+Carrer, M., Urbinati, C., 2004. Age‐dependent tree‐ring growth responses to climate in
+Larix decidua and Pinus cembra. Ecology 85 (3), 730–740.
+Carrer, M., Urbinati, C., 2006. Long‐term change in the sensitivity of tree‐ring growth to
+climate forcing in Larix decidua. New Phytol. 170, 861–872.
+Cliﬀord, M.J., Royer, P.D., Cobb, N.S., Breshears, D.D., Ford, P.L., 2013. Precipitation
+thresholds and drought‐induced tree die‐oﬀ: insights from patterns of Pinus edulis
+mortality along an environmental stress gradient. New Phytol. 200 (2), 413–421.
+Coles, J., 2008. Vegetation classiﬁcation and mapping project report, dinosaur national
+monument. Nat. Res. Tech. Rep. NPS/NCPN/NRTR—2008/112. USDI National Park
+Service, Natural Resource Program Center, Fort Collins, CO 800 pages.
+Cook, E.R., Holmes, R.L., 1986. Program ARSTAN. Version 1, 72.
+Cook, E.R., Peters, K., 1997. Calculating unbiased tree-ring indices for the study of cli-
+matic and environmental change. Holocene 7, 361–370.
+Copenheaver, C.A., Crawford, C.J., Fearer, T.M., 2011. Age-speciﬁc responses to climate
+identiﬁed in the growth of Quercus alba. Trees 25, 647–653.
+Dale, V.H., Joyce, L.A., McNulty, S., Neilson, R.P., Ayres, M.P., Flannigan, M.D., Hanson,
+P.J., Irland, L.C., Lugo, A.E., Peterson, C.J., Simberloﬀ, D., 2001. Climate change and
+forest disturbances: climate change can aﬀect forests by altering the frequency, in-
+tensity, duration, and timing of ﬁre, drought, introduced species, insect and pathogen
+outbreaks, hurricanes, windstorms, ice storms, or landslides. BioScience 51 (9),
+723–734.
+Esper, J., Niederer, R., Bebi, P., Frank, D., 2008. Climate signal age eﬀects—evidence
+from young and old trees in the Swiss Engadin. For. Ecol. Manage. 255, 3783–3789.
+Flannigan, M.D., Stocks, B.J., Wotton, B.M., 2000. Climate change and forest ﬁres. Sci.
+Total Environ. 262, 221–229.
+Floyd, M.L. (Ed.), 2003. Ancient Piñon-Juniper Woodlands: a Natural History of Mesa
+Verde Country. University Press of Colorado, Boulder, CO.
+Floyd, M.L., Hanna, D.D., Romme, W.H., 2004. Historical and recent ﬁre regimes in
+piñon-juniper woodlands on Mesa Verde, USA. For. Ecol. Manage. 198, 269–289.
+Floyd, M.L., Cliﬀord, M., Cobb, N., Hanna, D.P., Delph, R., Ford, P., Turner, D., 2009.
+Relationship of stand characteristics to drought-induced mortality in three
+Southwestern piñon-juniper woodlands. Ecol. Appl. 19, 1223–1230.
+Fritts, H.C., 1976. Tree Rings and Climate.
+567 pp.. Academic, San Diego, California.
+Fritts, H.C., Swetnam, T.W., 1989. Dendroecology - a tool for evaluating variations in past
+and present forest environments. Adv. Ecol. Res. 19, 111–188.
+Gaylord, M.L., Kolb, T.E., Pockman, W.T., Plaut, J.A., Yepez, E.A., Macalady, A.K.,
+McDowell, N.G., 2013. Drought predisposes piñon–juniper woodlands to insect at-
+tacks and mortality. New Phytol. 198, 567–578.
+Gottfried, G.J., Swetnam, T.W., Allen, C.D., Betancourt, J.L., Chung-MacCoubrey, A.,
+1995. Pinyon-juniper woodlands [chapter 6]. tech eds. In: Finch, Deborah M.
+Tainter, Joseph, A. (Eds.), Ecology, Diversity, and Sustainability of the Middle Rio
+Grande Basin. Gen. Tech. Rep. RM-GTR-268.
+Gray, S.T., Betancourt, J.L., Jackson, S.T., Eddy, R.G., 2006. Role of multi-decadal climate
+variability in a range extension of pinyon pine. Ecology 87, 1124–1130.
+Grissino-Mayer, H.D., Fritts, H.C., 1997. The International Tree-Ring Data Bank: an en-
+hanced global database serving the global scientiﬁc community. Holocene 7,
+235–238.
+Hicke, J.A., Zeppel, M.J.B., 2013. Climate‐driven tree mortality: insights from the piñon
+pine die‐oﬀin the United States. New Phytol. 200 (2), 301–303.
+Hoﬀ, J.C., 1983. A Practical Guide to Box-jenkins Forecasting. Lifetime Learning
+Publications, Belmont.
+Hofgaard, A., Tardif, J., Bergeron, Y., 1999. Dendroclimatic response of Picea mariana
+and Pinus banksiana along a latitudinal gradient in the eastern Canadian boreal
+forest. Can. J. For. Res. 29 (9), 1333–1346.
+Holmes, R.L., 1983. Computer-assisted quality control in tree-ring dating and measure-
+ment. Tree-ring bulletin 43.1 69–78.
+Holmes, R., 2001. Dendrochronology Program Library (DPL). The University of Arizona,
+Tucson.
+Huang, Cho-ying, Asner, G.P., Barger, N.N., Neﬀ, J.C., Floyd, M.L., 2010. Regional
+aboveground live carbon losses due to drought-induced tree dieback in piñon–juniper
+ecosystems. Remote Sens. Environ. 114, 1471–1479.
+Jackson, S.T., Betancourt, J.L., Booth, R.K., Gray, S.T., 2009. Ecology and the ratchet of
+events: climate variability, niche dimensions, and species distributions. Proc. Natl.
+Acad. Sci. 106 (Supplement 2), 19685–19692.
+Krebs, C.J., LaMontagne, J.M., Kenney, A.J., Boutin, S., 2012. Climatic determinants of
+white spruce cone crops in the boreal forest of southwestern Yukon. Botany 90,
+113–119.
+Lanner, R.M., Van Devender, T.R., 1998. The recent history of pinyon pines in the
+American Southwest. Ecology and Biogeography of Pinus. pp. 171–180.
+Linderholm, H.W., Linderholm, K., 2004. Age-dependent climate sensitivity of Pinus syl-
+vestris L. in the central Scandinavian Mountains. Boreal Environ. Res. 9, 307–318.
+Lloyd, A.H., Fastie, C.L., 2002. Spatial and temporal variability in the growth and climate
+response of treeline trees in Alaska. Clim. Change 52, 481–509.
+Looney, C.E., Sullivan, B.W., Kolb, T.E., Kane, J.M., Hart, S.C., 2012. Pinyon pine (Pinus
+edulis) mortality and response to water addition across a three million year substrate
+age gradient in northern Arizona, USA. Plant Soil 357 (1-2), 89–102.
+Macalady, A.K., Bugmann, H., 2014. Growth-mortality relationships in piñon pine (Pinus
+edulis) during severe droughts of the past century: shifting processes in space and
+time. PLoS One 9 (5), e92770.
+McDowell, N.G., Pockman, W.T., Allen, C.D., Breshears, D.D., Cobb, N., Kolb, T., Yepez,
+E.A., 2008. Mechanisms of plant survival and mortality during drought: why do some
+Table 2
+Linear regression of tree ring indices with summer PDSI values in piñon trees
+grouped by age classes.
+Age Class
+Sample size
+(n)
+Proportion of ring width variation
+explained by summer PDSI (R2)
+Signiﬁcance (p)
+0-100
+82
+.36
+< .05
+101-200
+99
+.56
+< .05
+201-300
+99
+.44
+< .05
+301-400
+99
+.51
+< .05
+401-500
+99
+.49
+< .05
+501-600
+99
+.37
+< .05
+600-700
+99
+.41
+< .05
+> 700
+99
+.25
+< .05
+D.P. Hanna et al.
+Dendrochronologia 52 (2018) 40–47
+46
+
+plants survive while others succumb to drought? New Phytol. 178, 719–739.
+Mirov, N.T., 1967. The Genus Pinus. Ronald Press, New York, New York, USA 602 pages.
+Ogle, K., Whitham, T.G., Cobb, N.S., 2000. Tree-ring variation in pinyon predicts like-
+lihood of death following severe drought. Ecology 81 (11), 3237–3243.
+Peterson, David W., Peterson, D.L., 2001. Mountain hemlock growth responds to climatic
+variability at annual and decadal time scales. Ecology 82, 3330–3345.
+Redmond, M.D., Weisberg, P.J., Cobb, N.S., Gehring, C.A., Whipple, A.V., Whitham, T.G.,
+2016. A robust method to determine historical annual cone production among slow-
+growing conifers. For. Ecol. Manage. 368, 1–6.
+Romme, W.H., Allen, C.D., Bailey, J.D., Baker, W.L., Bestelmeyer, B.T., Brown, P.M.,
+Eisenhart, K.S., Floyd, M.L., Huﬀman, D.W., Jacobs, B.F., Miller, R.F., 2009.
+Historical and modern disturbance regimes, stand structures, and landscape dy-
+namics in pinon–juniper vegetation of the western United States. Rangel. Ecol.
+Manag. 62 (3), 203–222.
+Romme, W. H., Floyd, M. L., Hanna, D. P., Hanna, D. D., 2013. Landscape Condition
+Analysis, Dinosaur National Monument. Final Report. Chapter 2. Historical Fire
+Regimes and Fire Rotations in Piñon-Juniper Woodlands. Final Report submitted to
+Dinosaur National Monument.
+Rozas, V., DeSoto, L., Olano, J.M., 2009. Sex‐speciﬁc, age‐dependent sensitivity of
+tree‐ring growth to climate in the dioecious tree Juniperus thurifera. New Phytol.
+182, 687–697.
+Sánchez-Salguero, R., Navarro-cerrillo, R.M., Swetnam, T.W., Zavala, M.A., 2012. Is
+drought the main decline factor at the rear edge of Europe? The case of southern
+Iberian pine plantations. For. Ecol. Manage. 271, 158–169. https://doi.org/10.1016/
+j.foreco.2012.01.040.
+Sokal, R.R., Rohlf, F.J., 1995. Biometry. Freeman Publishing, New York.
+Speer, J.H., 2010. Fundamentals of Tree-ring Research. University of Arizona Press,
+Tucson.
+Strackee, J., Jansma, E., 1992. The statistical properties of ‘mean sensitivity’: a re-
+appraisal. Dendrochronologia 10, 121–135.
+Suarez, M.L., Ghermandi, L., Kitzberger, T., 2004. Factors predisposing episodic
+drought‐induced tree mortality in Nothofagus–site, climatic sensitivity and growth
+trends. J. Ecol. 92, 954–966.
+Swetnam, T.W., Betancourt, J.L., 2010. Mesoscale disturbance and ecological response to
+decadal climatic variability in the American Southwest. Tree Rings and Natural
+Hazards. Springer, Dordrecht, pp. 329–359.
+Swetnam, T.W., Brown, P.M., 2011. Climate inferences from dendroecological re-
+constructions. In: In: Hughes, M.K., Swetnam, T.W., Diaz, H.F. (Eds.),
+Dendroclimatology: Progress and Prospects, Developments in Paleoenvironmental
+Research Vol. 11. Springer Netherlands, Dordrecht, pp. 263–295. https://doi.org/10.
+1007/978-1-4020-5725-0.
+Szeicz, J.M., MacDonald, G.M., 1994. Age-dependent tree-ring growth responses of sub-
+arctic white spruce to climate. Can. J. For. Res. 24, 120–132.
+Takahashi, K., Okuhara, I., Tokumitsu, Y., Yasue, K., 2011. Responses to climate by tree-
+ring widths and maximum latewood densities of two Abies species at upper and lower
+altitudinal distribution limits in central Japan. Trees 25 (4), 745–753.
+Vieira, J., Campelo, F., Nabais, C., 2009. Age-dependent responses of tree-ring growth
+and intra-annual density ﬂuctuations of Pinus pinaster to Mediterranean climate.
+Trees 23, 257–265.
+VoorTech Consulting, 2007. MeasureJ2X. VoorTech Consulting, Holderness, N.H.
+Westerling, A.L., Hidalgo, H.G., Cayan, D.R., Swetnam, T.W., 2006. Warming and earlier
+spring increase western US forest wildﬁre activity. Science 313, 940–943.
+Williams, A.P., Allen, C.D., Millar, C.I., Swetnam, T.W., Michael, C.J., Still, J., Leavitt,
+S.W., 2010. Forest responses to increasing aridity and warmth in the southwestern
+United States. Proc. Natl. Acad. Sci. 107, 21289–21294.
+Woodhouse, C.A., Lukas, J.J., 2006. Multi-century tree-ring reconstructions of Colorado
+streamﬂow for water resource planning. Clim. Change 78, 293–315.
+Yu, G., Liu, Y., Wang, X., Ma, K., 2008. Age-dependent tree-ring growth responses to
+climate in Qilian juniper (Sabina przewalskii Kom.). Trees 22 (2), 197–204.
+Websites
+http://www.cefa.dri.edu/Westmap/westmappass.php
+D.P. Hanna et al.
+Dendrochronologia 52 (2018) 40–47
+47

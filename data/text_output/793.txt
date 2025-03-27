@@ -1,0 +1,1241 @@
+Efﬁcacy of resource objective wildﬁres for restoration of ponderosa pine
+(Pinus ponderosa) forests in northern Arizona
+David W. Huffman a,⇑, Andrew J. Sánchez Meador a,b, Michael T. Stoddard a, Joseph E. Crouse a,
+John P. Roccaforte a
+a Ecological Restoration Institute, Northern Arizona University, Flagstaff, AZ 86011-5017, United States
+b School of Forestry, Northern Arizona University, Flagstaff, AZ 86011-5018, United States
+a r t i c l e
+i n f o
+Article history:
+Received 23 September 2016
+Received in revised form 21 December 2016
+Accepted 30 December 2016
+Keywords:
+Restoration objectives
+Historical range of variability
+Forest structure
+Hazardous fuels
+Forest ﬁre management
+a b s t r a c t
+Current conditions in dry forests of the western United State have given rise to policy mandates for accel-
+erated ecological restoration on U.S. National Forest System and other public lands. In southwestern pon-
+derosa pine (Pinus ponderosa Laws.) forests, mechanized tree thinning and prescribed ﬁre are common
+restoration treatments but are not acceptable for all sites. Currently there is much interest in managing
+naturally ignited ﬁres to accomplish restoration objectives but few studies have systematically examined
+the efﬁcacy of such ‘‘resource objective” wildﬁres for restoring historical ranges of variability (HRV). In
+this study we used ﬁeld plots to retrospectively sample 10 resource objective ﬁres on two national forests
+in northern Arizona. We used four burn severity classes identiﬁed on Monitoring Trends in Burn Severity
+(MTBS) maps to stratify ﬁeld sampling and compared post-ﬁre means for 12 structure and hazardous
+fuels attributes to HRV and guidelines for ecosystem management. Results indicated signiﬁcant differ-
+ences among burn severity classes in tree density, basal area, coarse wood loads, canopy cover, and
+canopy fuel loads. Furthermore, areas classiﬁed as moderate (M) burn severity met HRV ranges for more
+attributes (67%) than did other areas in other severity classes. High (H) severity areas were within HRV
+for the fewest (17%) of the 12 attributes. Restoration ranges for large snag density, tree patch density and
+maximum patch size, and tree diameter distribution were not met within any burn severity class.
+Resource objective ﬁre landscapes were comprised mainly (85%) of areas classiﬁed as unburned/low
+(U/L) and low (L) burn severity, whereas the M severity class made up just 12% of ﬁre landscapes on aver-
+age. Overall effectiveness of resource objective ﬁres for meeting restoration objectives was 42%. Results
+suggested that effectiveness may be increased by managing for proportionally more moderate burn
+severity on these landscapes. For this, managers will be required to accept greater risk in terms of escaped
+ﬁres and high-severity ﬁre, which, in turn, will necessitate increasing public awareness of the potential
+beneﬁts and limitations of managing wildﬁres for restoring ponderosa pine forest ecosystems.
+ 2017 Elsevier B.V. All rights reserved.
+1. Introduction
+Landscape-scale changes in ecosystem structure and function
+resulting from intensive livestock grazing and interruption of fre-
+quent surface ﬁre regimes have put dry forests of western North
+America at risk for large, severe wildﬁre and further degradation
+with changing climatic conditions (Covington et al., 1994; Moore
+et al., 1999; Savage and Mast, 2005; Westerling et al., 2006;
+Reynolds et al., 2013). Past land uses and ﬁre exclusion have led
+to abnormally dense stands of trees, many of which have young
+cohorts that create ladder fuels, with high surface and canopy fuel
+loads (Fulé et al., 1997; Agee and Skinner, 2005; Reynolds et al.,
+2013). In addition, ﬁne- and mid-scale spatial patterns such as tree
+point patterns, patch density, and patch sizes have been altered
+since ﬁre regime interruption (Sánchez Meador et al., 2009). Cur-
+rent conditions in these forests have given rise to policy mandates
+for accelerated ecological restoration on US National Forest System
+and other public lands (Vilsack, 2009; Franklin and Johnson, 2012;
+USDA Forest Service, 2012; USDA, 2016). Currently, objectives
+under ecosystem restoration policy call for reestablishing natural
+ranges of variability for structure, pattern, and ecological processes
+to facilitate sustainability and resilience (USDA, 2016). Natural, or
+historical, ranges of variability (HRV) characterize prevalent states
+and dynamics prior to widespread anthropogenic alteration of an
+ecosystem (Morgan et al., 1994; Landres et al., 1999). Generally,
+http://dx.doi.org/10.1016/j.foreco.2016.12.036
+0378-1127/ 2017 Elsevier B.V. All rights reserved.
+⇑Corresponding author.
+E-mail address: David.Huffman@nau.edu (D.W. Huffman).
+Forest Ecology and Management 389 (2017) 395–403
+Contents lists available at ScienceDirect
+Forest Ecology and Management
+journal homepage: www.elsevier.com/locate/foreco
+
+treatment approaches that result in structural and compositional
+patterns more similar to HRV are thought to provide the best
+chances for recovery from degradation and improvement in
+ecosystem function (SER, 2004; Palmer et al., 2006). Thus, in addi-
+tion to informing the development of treatment prescriptions, HRV
+can be used as a baseline for evaluating effectiveness of restoration
+treatments.
+In southwestern ponderosa pine (Pinus ponderosa Laws.) forests,
+mechanized tree thinning and application of prescribed ﬁre are
+common approaches to restoration (Friederici, 2003). These treat-
+ments can be implemented precisely – individual trees can be
+selected for cutting and prescribed ﬁre behavior can be carefully
+managed – and, as a result, they are known to be generally effec-
+tive for accomplishing restoration objectives (Covington et al.,
+1997; Roccaforte et al., 2010). However, thinning and prescribed
+ﬁre are relatively costly, are typically time-consuming to imple-
+ment, and mechanized tree thinning is not an acceptable alterna-
+tive for all sites (e.g., steep slopes, remote locations, designated
+Wilderness areas, etc.). For these reasons, there is currently much
+interest in managing naturally ignited ﬁres to accomplish restora-
+tion and hazardous fuels treatment objectives (e.g., North et al.,
+2015).
+Since the 1970s, national policies for managing wildﬁres for
+resource beneﬁt have gone through numerous changes (van
+Wagtendonk, 2007). For example, such ﬁres have been catego-
+rized variously as ‘‘prescribed natural ﬁres”, ‘‘wildland ﬁre use
+ﬁres”, ‘‘resource beneﬁt ﬁres”, and, most recently, ‘‘resource
+objective ﬁres”. National ﬁre management policy in the U.S. no
+longer differentiates between resource objective and suppression
+ﬁres (Meyer, 2015). In fact, current directives allow objectives to
+change throughout the course of a wildﬁre and different areas
+within a ﬁre may be managed for different objectives. However,
+wildﬁres managed for
+beneﬁcial outcomes commonly
+occur
+when weather and fuels conditions are favorable, and in areas
+where risks to values are low. In contrast, suppression responses
+are typically taken during periods of more extreme weather and
+when risk of damage to resources is high. Thus, in many cases,
+tactics and objectives for individual ﬁres are pointed distinctly
+toward either management for resource objectives, or suppres-
+sion, regardless of policy direction. Although resource objective
+wildﬁres appear to hold promise for restoration and hazardous
+fuels reduction, few studies have systematically examined these
+assumptions across a broad geographic area. Case studies and
+others focused on isolated sites in the Southwest have indicated
+that effects within ﬁres are variable and changes to forest struc-
+ture are related to burn severity (Fulé and Laughlin, 2007;
+Hunter et al., 2011; Higgins et al., 2015). As burn severity clas-
+siﬁcations reﬂect changes to aboveground biomass, higher burn
+severity classes (e.g., moderate to high burn severity) indicate
+greater changes in forest overstory structure, and therefore
+would be expected to move conditions closer to HRV than lower
+severity classes (Miller and Thode, 2007; Hunter et al., 2011).
+However, due to managers’ concerns of the potential for an
+escaped ﬁre, and a need to protect landscape values at risk, sub-
+stantial areas within resource objective wildﬁre perimeters can
+remain unburned, or burned at low severity, and thus represent
+minimal changes in forest structure or crown ﬁre potential.
+To investigate their efﬁcacy for restoring HRV of structural and
+hazardous fuels attributes, we sampled 10 resource objective wild-
+ﬁres on two National Forests in northern Arizona. We asked the
+following research questions: (1) Are there differences in structural
+and hazardous fuels attributes among burn severity classes within
+resource objective wildﬁres? (2) Are structural and fuels attributes
+within HRV and restoration objective ranges? (3) How effective
+have resource objective ﬁres been overall for meeting restoration
+objectives?
+2. Methods
+2.1. Selection of study sites
+To objectively select ﬁres for study, the following criteria were
+used: (1) ﬁres occurred in ponderosa pine or pine-oak forest types
+on National Forests of northern Arizona; (2) ﬁres were documented
+as being naturally ignited and subsequently managed to achieve
+resource objectives; (3) ﬁres were greater than 405 ha in size; (3)
+spatial burn severity data were available (see below); (4) time
+since ﬁre was 10 years or less; (5) the site had experienced no pre-
+vious resource objective ﬁre; (6) ﬁre sites had not been recently
+thinned or salvage-logged. These criteria represented common site
+conditions on National Forest lands in the region, and also allowed
+us to focus on larger ﬁres that had potential to show variation in
+structural patterns at a range of spatial scales (Reynolds et al.,
+2013). To identify ﬁres that met criteria related to forest type, man-
+agement objectives, size, and history, we used the United States
+Department of Agriculture (USDA) Forest Service Region 3 ﬁre his-
+tory database. We cross-referenced these ﬁres with those compiled
+in the Monitoring Trends in Burn Severity (MTBS) database (www.
+mtbs.gov), for which georeferenced burn severity data layers were
+available. MTBS is an interagency project in the United States
+developed to provide a national analysis of trends in burn severity
+for all types of wildland ﬁre (Eidenshink et al., 2007). The selection
+process yielded 17 ﬁres meeting all criteria. From these ﬁres, we
+randomly selected 10 ﬁres for study on the Coconino and Kaibab
+National Forests in northern Arizona (Fig. 1).
+Most ﬁres selected (6 of 10) had burned 65 years prior to sam-
+pling, and one ﬁre selected burned 10 years prior to sampling
+(Table 1). Sites ranged from 1957 to 2423 m in elevation. Average
+maximum summer temperature ranged 26–29 C, minimum win-
+ter temperature ranged 3 to 7 C, and annual precipitation ran-
+ged 495–664 mm (WRCC, 2016). Precipitation in the region of the
+study sites falls in a bimodal pattern of summer, monsoonal rain
+and winter snow. Prior to the monsoon season (mid-July through
+September), spring and early summer is distinctly dry and often
+windy. Soils were variable across the 10 sites, but represented
+those typically found in dry forests of northern Arizona (Table 1).
+Although forests overstories were predominantly composed of
+ponderosa pine, Gambel oak (Quercus gambelii Nutt.) is also com-
+mon in these ecosystems. Other species occasionally found include
+Douglas-ﬁr (Pseudotsuga menziesii (Mirb.) Franco), white ﬁr (Abies
+concolor (Gord. & Glend.) Lindl. ex Hildebr.), quaking aspen (Popu-
+lus tremuloides Michx.), southwestern white pine (P. strobiformis
+Engelm.), alligator juniper (Juniperus deppeana Steud.), Utah juni-
+per (J. osteosperma (Torr.) Little), one seed juniper (J. monosperma
+(Engelm.) Sarg.), and pinyon pine (P. edulis Engelm.). Understories
+of these forests are composed primarily of herbaceous species
+and typify the ponderosa-bunchgrass ecosystem (Brown, 1994).
+To better understand environmental conditions under which
+the ﬁres had been allowed to burn, we used FireFamilyPlus 4.1
+(Bradshaw and McCormick, 2000) to summarize fuels and weather
+parameters on the day of ﬁre ignition (Table 1). Most of the ﬁres
+ignited in June-July on days with average temperatures in the
+mid-upper 20 s (C). Relative humidity on ﬁre start dates ranged
+24–95%, and daily wind speeds averaged 13 k h1 or less. Energy
+release quotient was above 20 for all but two ﬁres, and fuel mois-
+tures ranged 4–20% and 8–15% for 1-h and 1000-h moisture time-
+lag classes, respectively (Table 1).
+2.2. Design and sampling
+To investigate effectiveness of ﬁres in meeting restoration
+objectives, we established ﬁeld plots within the 10 ﬁres using a
+396
+D.W. Huffman et al. / Forest Ecology and Management 389 (2017) 395–403
+
+random, stratiﬁed sampling approach. Stratiﬁcation was based on
+the spatial burn severity maps downloaded from the MTBS data-
+base, and the following burn severity classes were identiﬁed as
+our sampling strata: unburned/low (U/L); low (L); moderate (M);
+and high (H). To classify burn severity, MTBS uses a multi-
+temporal approach wherein differenced normalized burn ratio
+(dNBR) values are calculated using Landsat imagery (30-m resolu-
+tion) as the difference in pre-ﬁre and post-ﬁre reﬂectance in spec-
+tral bands 4 and 7 (near-infrared and shortwave infrared spectral
+ranges, respectively). Resulting values of dNBR are partitioned into
+discrete classes based on interpretation of thresholds apparent in
+the data, along with evaluation of raw pre- and post-ﬁre imagery,
+plot data, and analyst experience. Burn severity classes derived fol-
+lowing this algorithm represent a range of ﬁrst-order ﬁre effects on
+vegetation biomass (Eidenshink et al., 2007). Although the dNBR
+method has been criticized for inaccuracies, particularly as related
+to interpretation of forest conditions within low burn severity (i.e.,
+minimal change) areas, and when common severity thresholds are
+used across forest types without ﬁeld veriﬁcation (Miller and
+Thode, 2007), Cocke et al. (2005) found dNBR classiﬁcation to be
+strongly related to ground based measures of burn severity when
+multiple variables in addition to tree mortality are evaluated. We
+chose to use MTBS burn severity classiﬁcations as strata for our
+sampling for the following reasons: (1) we expected burn severity
+classes to reﬂect relative changes in forest structure and therefore
+inﬂuence interpretation of efﬁcacy of ﬁres for meeting restoration
+objectives; (2) by pooling ﬁeld samples within severity classes, our
+study design was robust to potential errors noted for classiﬁcation
+Fig. 1. Locations of ﬁres selected for study on Coconino and Kaibab National Forests. Shown are ﬁre names (a–g) and proportion of each ﬁre in four MTBS (Monitoring Trends
+in Burn Severity; www.mtbs.gov) burn severity classes: Unburned/Low (U/L), Low (L), Moderate (M), and High (H).
+Table 1
+Land administration, site characteristics, and average weather and fuels conditions on the day of ﬁre ignition (Fire date) for the 10 resource objective ﬁres studied in northern
+Arizona.
+Fuel moisture (%)
+Name
+National
+forest
+Elevation (m)
+Soil parent material
+Fire date
+Maximum
+temperature (C)
+Relative
+humidity (%)
+Wind speed
+(k h1)
+ERC
+1-h
+1000-h
+Size
+(ha)
+Brady
+Coconino
+1957–2161
+Basalt/cinders
+7/20/09
+32
+29
+3
+36
+6
+9
+1612
+Tucker
+Coconino
+2122–2299
+Sandstone/limestone
+5/26/09
+22
+34
+13
+22
+7
+13
+1057
+Ranger
+Coconino
+2029–2255
+Sandstone/limestone
+7/17/10
+33
+26
+13
+34
+4
+10
+864
+Raptor
+Coconino
+2227–2323
+Basalt/cinders
+7/23/09
+28
+38
+6
+24
+7
+11
+780
+Real
+Coconino
+2053–2301
+Basalt/cinders
+6/1/09
+21
+24
+10
+25
+4
+15
+624
+Independence
+Coconino
+2086–2233
+Basalt/cinders
+7/4/09
+28
+27
+6
+34
+4
+11
+555
+Marteen
+Kaibab
+2001–2423
+Basalt
+8/5/08
+24
+64
+8
+14
+12
+13
+4366
+Mudersbach
+Kaibab
+2019–2179
+Limestone
+6/23/05
+27
+35
+8
+22
+7
+13
+3206
+West
+Kaibab
+2136–2239
+Mixed sedimentary
+6/8/06
+25
+95
+3
+4
+20
+8
+851
+Transfer
+Kaibab
+2067–2174
+Limestone/sandstone
+7/18/04
+29
+35
+5
+23
+7
+10
+672
+D.W. Huffman et al. / Forest Ecology and Management 389 (2017) 395–403
+397
+
+of low burn severity areas; (3) our study was restricted to evalua-
+tion of previously untreated ponderosa pine forests in northern
+Arizona; and (4) MTBS maps are readily available and commonly
+used by public forest managers in planning responses to large ﬁres.
+To stratify sampling of ﬁres, we used a geographic information
+system (GIS) to randomly assign sample plot locations within the
+four severity classes To assure that sample plots would be estab-
+lished within the intended burn severity classes in the ﬁeld, we
+buffered plot locations using a 0.81-ha (90  90-m) minimum
+patch size. The 0.81-ha minimum patch size along with variability
+in spatial patterns of burn severity within ﬁres limited the number
+of suitable plot locations for sampling. Thus, two to eight sample
+plot locations were identiﬁed within each severity class, for each
+ﬁre. In the ﬁeld, we used handheld global positioning systems
+(GPS) units to navigate to sample plot locations. At each location,
+a circular, ﬁxed-area sample plot (4400 m2) was established to
+measure forest structure and surface fuels. Within each plot, we
+collected the following measurements for all live trees (P1.37 m
+in height): (1) species; (2) diameter at breast height (dbh; 1.37 m
+above ground level); (3) total height; and (4) crown base height.
+We also recorded species, dbh, and height for all standing dead
+trees within each plot. Surface fuels were measured on two,
+15.2-m planar transects per plot according to methods described
+in Brown (1974). Fuels transects were systematically oriented
+along the south and west cardinal directions from plot center.
+2.3. Analysis
+To address our main research questions, we tested for effects of
+burn severity on a set of structural and hazardous fuels attributes,
+evaluated whether ﬁres were meeting restoration objectives for
+these attributes, and calculated overall efﬁcacy of resource objec-
+tive ﬁres for meeting restoration objectives. We ﬁrst identiﬁed
+ranges of values to represent restoration objectives for a set of 12
+structural and hazardous fuels attributes (Table 2). These ranges
+were obtained from published literature concerning restoration
+and ecosystem management of southwestern ponderosa pine for-
+ests. Because restoration relies on historical ranges of variability
+to guide development of treatment objectives (Moore et al.,
+1999; Sánchez Meador et al., 2011; Reynolds et al., 2013), we used
+published HRV information where possible to identify attribute
+value ranges that served as restoration objectives. For coarse wood
+load and large snag density, HRV information was not available; in
+these cases, we used published guidelines for ecosystem manage-
+ment (Table 2). Next, we calculated values for each of the 12 attri-
+butes from ﬁeld sample plot data and GIS spatial layers. For
+statistical tests, we summarized data within burn severity classes
+and ﬁres to produce one attribute value per burn severity class,
+for each ﬁre (n = 6–10). Attribute values calculated from sample
+plot data were tree density (no. ha1), basal area (m2 ha1), coarse
+wood load (Mg ha1), large snag density (no. ha1), canopy base
+height (m), canopy fuel load (kg m2), and canopy bulk density
+(kg m3). Coarse wood load was calculated from planar transect
+data according to methods in Brown (1974) for surface fuels
+>7.6 cm in diameter. Large snags were deﬁned as standing dead
+trees >45.7 cm dbh, and >9.2 m in height (Ganey et al., 2015).
+Canopy bulk density and canopy fuel load were calculated using
+allometric equations relating dbh to component biomass (i.e., foli-
+age and ﬁne branches) for individual tree species and followed
+methods outlined by Roccaforte et al. (2015).
+Canopy cover (%) and spatial metrics based on canopy cover
+(tree patch density, mean tree patch size, and maximum tree patch
+size) were derived for each ﬁre using National Agricultural Imagery
+Program (NAIP) imagery (1  1 m resolution) acquired in 2015
+(www.usgs.gov). Imagery was loaded into a GIS and a ratio band
+was created by dividing the near infrared and red (bands 4 and
+1, respectively) (Pelz and Dickinson, 2014). The ratio band was
+merged with the red, green, and blue bands using ERDAS Imagine
+software, version 16.0. Test classiﬁcations indicated that 25 classes
+limited confusion between tree canopy and forest openings. Thus, a
+25-class unsupervised classiﬁcation was run and then each class
+was evaluated by overlaying with NAIP imagery to verify canopy,
+no canopy, confused, or canopy shadow classes. Google Earth and
+the original NAIP imagery were used to verify the classiﬁcation.
+Next, confused and canopy shadow classes where used to mask
+the NAIP imagery, and a 12-class unsupervised classiﬁcation was
+run on the masked image. Twelve classes proved most effective
+in distinguishing between tree canopies and openings although
+no formal accuracy assessment was performed on this or any of
+the other classiﬁcations. Again, each individual class was evaluated
+against the NAIP imagery and given the appropriate ‘‘canopy” or
+‘‘no-canopy” label. On ﬁres that had a shrub component, a third
+mask/classiﬁcation/evaluation routine was run to separate shrub
+cover from tree canopies. The resulting ‘‘canopy”/‘‘no-canopy”
+classiﬁcations were combined, and percentages of focal areas clas-
+siﬁed as canopy cover were calculated for each burn severity class
+polygon (i.e., MTBS maps) sampled with ﬁeld plots. To calculate
+tree patch metrics, distinct tree canopy patches (continuous areas
+classiﬁed as canopy cover and thus representing interlocking tree
+canopies) were ﬁltered to include only those patches greater than
+100 m2, thus minimizing the inclusion of single trees. Once ﬁltered,
+patch metrics were quantiﬁed and summarized by MTBS severity
+Table 2
+Attributes and ranges of values used to evaluate efﬁcacy of resource objective ﬁres for restoring ponderosa pine forest structure in northern Arizona.
+Attribute
+Objective range
+Source
+Tree density (no. ha1)
+56–138a
+Reynolds et al. (2013)
+Basal area (m2 ha1)
+9–17a
+Reynolds et al. (2013)
+Tree diameter distribution
+qb = 1.2
+Reynolds et al. (2013)
+Coarse wood (Mg ha1)
+11–45c
+Brown et al. (2003)
+Large snag densityd (no. ha1)
+4.9c
+Lowe (2006), Ganey et al. (2015)
+Tree patch density (no. ha1)
+10–27
+Sánchez Meador et al. (2011)
+Mean tree patch size (ha)
+0.004–0.08
+Sánchez Meador et al. (2010), Sánchez Meador et al. (2011)
+Maximum tree patch size (ha)
+0.013–0.290
+White (1985), Sánchez Meador et al. (2011)
+Canopy cover (%)
+14.0–19.6a
+Reynolds et al. (2013)
+Canopy base height (m)
+5–7
+Roccaforte et al. (2015), Fulé et al. (2002)
+Canopy fuel load (kg m2)
+0.22–0.51
+Fulé et al. (2002), Roccaforte et al. (2008), Roccaforte et al. (2015)
+Canopy bulk density (kg m3)
+0.010–0.034
+Fulé et al. (2002, 2004), Roccaforte et al. (2008, 2015)
+a Interquartile range.
+b Basal area – maximum diameter – diminution quotient (Bdq).
+c Ecosystem management guidelines; lack of HRV information.
+d Large snags were deﬁned as >45.7 cm dbh, and >9.2 m height.
+398
+D.W. Huffman et al. / Forest Ecology and Management 389 (2017) 395–403
+
+class for each ﬁre. Tree patch density, mean tree patch size, and
+maximum tree patch size were estimated from the canopy cover
+layers using the raster (Hijmans and van Etten, 2012) rgdal
+(Bivand et al., 2015) and SDMTools (VanDerWal et al., 2014) pack-
+ages in R version 3.2.1 (R Core Team 2015). As with canopy cover,
+patch metric estimates were generated for the burn severity poly-
+gons that were sampled in the ﬁeld.
+We used analysis of variance (ANOVA) to analyze for effects of
+burn severity class on forest structure and hazardous fuels attri-
+butes. When main effects were found (p 6 0.05) we used the
+Tukey-Kramer HSD (honestly signiﬁcant difference) post-hoc tests
+to compare means among the four burn severity classes (Kuehl,
+1994). To test whether restoration objectives were being met
+within each of the four burn severity classes, we calculated 95%
+conﬁdence intervals (CI; df = 5–9) for each attribute of interest.
+CIs were compared with restoration objective ranges and when
+CIs overlapped with the objective ranges we considered the objec-
+tive to be met. Restoration objectives were considered not met if
+CIs did not overlap with reference ranges, or if the CI included zero.
+We used chi-squared tests (df = 2) to compare live tree diameter
+distributions within burn severity classes sampled in ﬁeld plots
+to
+theoretical
+distributions
+produced
+using
+the
+basal
+area-
+maximum diameter method (BDq) and a diminution quotient (q)
+of 1.2 (Reynolds et al., 2013). Distributions were based on three
+diameter classes: 0–20 cm; 20.1–40 cm, and >40 cm dbh. Effective-
+ness of resource objective ﬁres for restoring forest structure was
+deﬁned as the percentage of the 12 structural and hazardous fuels
+attributes where objective ranges were met. We evaluated effec-
+tiveness in this manner for each of the four burn severity classes.
+Area-weighted effectiveness for each burn severity class was calcu-
+lated as effectiveness ⁄ ‘‘landscape representation”. Landscape rep-
+resentation was the mean percentage of ﬁre areas comprised by
+each burn severity class. Lastly, overall effectiveness was calcu-
+lated as the sum of the area-weighted effectiveness values for each
+burn severity class.
+3. Results
+3.1. Burn severity effects
+Mean landscape representation (i.e., ﬁre area (%) within each
+severity class) of the four burn severity classes were 35.8%,
+50.0%, 12.0%, and 1.9% for U/L (unburned/low), L (low), M (moder-
+ate), and H (high), respectively (Fig. 2). Clear trends in attribute
+means were apparent across burn severity classes, and six of the
+12 restoration and hazardous fuels attributes were signiﬁcantly
+(p < 0.05) affected by burn severity (Table 3). For example, tree
+density was signiﬁcantly higher in the U/L and L severity classes
+compared with the M class, which in turn showed higher density
+than the H class. Compared with the U/L class, ﬁre-related mortal-
+ity reduced tree density by 31.2%, 64.5%, and 97.5% on average in L,
+M, and H classes, respectively. Basal area followed the same pat-
+tern as tree density with signiﬁcantly higher values in U/L and L
+classes, and the lowest mean BA value in the H class (Table 3).
+On average, ﬁres reduced BA by 11.4%, 51.9%, and 98.3% in L, M,
+and H classes, respectively, as compared with BA in the U/L class.
+Coarse wood load was signiﬁcantly lower in U/L an L classes than
+M and H severities, which showed statistically similar amounts
+of course wood. We found no main effects for large snags, and den-
+sities were statistically similar among the burn severity classes.
+Likewise, there were no effects of severity on tree patch density,
+mean tree patch size, or maximum tree patch size (Table 3).
+Canopy cover was signiﬁcantly higher in U/L, L, and M classes com-
+pared with the H severity class. There were no effects of burn
+severity on canopy base height. Canopy fuel load was signiﬁcantly
+affected by burn severity with a clear trend of decrease from the U/
+L to the H severity class (Table 3). Canopy bulk density showed a
+similar pattern as canopy fuel load with signiﬁcantly decreasing
+amounts with increasing burn severity.
+3.2. Restoration objectives
+Restoration objectives for structural and hazardous fuels attri-
+butes were met to various degrees by all burn severity classes
+(Table 3). Tree densities were higher than HRV in the U/L
+(unburned/low) and L (low) severity classes. Tree density in the
+M (moderate) severity class fell within the HRV objective range,
+but was variable in the H (high) severity class (CI included zero)
+(Table 3). Class U/L was above HRV for basal area, whereas BA in
+L and M classes was within HRV. BA in the H burn severity was
+highly variable. All burn severity classes were within the objective
+range for coarse wood load (Table 3). Large snag densities were
+highly variable, and CIs for all burn severity classes included zero
+(Table 3). HRV for tree patch density was not met by any burn
+severity class. In contrast, HRV for mean patch size was met within
+all burn severity classes (Table 3). Maximum tree patch size was
+not met within U/L and L classes, whereas CIs within M and H
+severity classed included zero. Canopy cover means in the U/L
+and L burn severity classes were above HRV. Only the M severity
+class was within HRV for canopy cover (Table 3). Canopy base
+height was below HRV in the U/L class, within the objective range
+in the L and M severity classes, and CI for canopy base height in the
+H severity class included zero. HRV for canopy fuel load was met
+by all burn severity classes except H (Table 3). Canopy bulk density
+was above HRV in the U/L class, whereas both L and M severity
+classes were within HRV. Again, the CI for canopy bulk density in
+the H severity class was highly variable and included zero. No burn
+severity classes met the objective for tree diameter distribution; U/
+L, L, and H classes were deﬁcient in larger trees (>40.0 cm dbh), and
+U/L, L, and M severity classes showed an overabundance in mid-
+sized trees (20.1–40.0 cm dbh) (Fig. 3).
+In terms of effectiveness, the U/L burn severity class met
+restoration objectives for 25% of the attributes and the L severity
+class was 50% effective. The M class met more restoration targets
+than the other classes and was 67% effective. Burn severity class
+H was least effective as it met objectives for just 17% of the attri-
+butes examined. Overall effectiveness (area-weighted for all sever-
+ities) of resource objective ﬁres for restoring ponderosa pine
+structure and fuels characteristics was 42% (Fig. 2).
+0
+20
+40
+60
+80
+100
+U/L
+L
+M
+H
+Percent
+Burn severity
+Effectiveness
+Landscape representation
+Fig. 2. Effectiveness (%) of burn severity classes (Unburned/Low (U/L), Low (L),
+Moderate (M), and High (H)) for meeting restoration and hazardous fuels target
+ranges, and mean landscape representation (ﬁre area (%) within each burn severity
+class) for 10 resource objective ﬁres studied in ponderosa pine forests of northern
+Arizona. Overall effectiveness (area-weighted for all severity classes) was 42%.
+D.W. Huffman et al. / Forest Ecology and Management 389 (2017) 395–403
+399
+
+4. Discussion
+4.1. Efﬁcacy of resource objective ﬁres
+Random sampling of 10, large (>405 ha) resource objective
+wildﬁres on the Coconino and Kaibab National Forests indicated
+that these ﬁres have been variably effective for restoration of stand
+structure and hazardous fuels characteristics in ponderosa pine
+forests of northern Arizona. Effectiveness was related to burn
+severity and we observed clear trends among the four burn sever-
+ity classes in nearly all structural and hazardous fuels attributes.
+Means were statistically different among burn severity classes for
+50% of the attributes examined. These ﬁndings suggest that before
+ﬁres occurred, forests were relatively homogenous in terms of
+structure and fuels. Widespread exclusion of frequent surface ﬁres
+beginning in the latter part of the 19th century resulted in millions
+of acres of dense stand conditions in ponderosa pine forests of the
+American Southwest (Moore et al., 1999). Our results indicate that
+overall recent resource objective wildﬁres have only moderately
+reduced stand structure and hazardous fuel loading; on average,
+more than 85% of the area within the ﬁres was classiﬁed as U/L
+(unburned/low) to L (low) burn severity.
+Areas classiﬁed as M (moderate) burn severity were 33–300%
+more effective than the other severity classes at meeting restora-
+tion objectives. Further, HRV for tree density and canopy cover
+were only met in M severity areas (Table 3). However, areas classi-
+ﬁed as M burn severity made up just 12% of the ﬁre landscapes on
+average (Fig. 2). Other studies of resource objective ﬁres have also
+shown greater effectiveness of moderate-severity ﬁre for meeting
+restoration and hazardous fuels objectives as compared with
+low-severity ﬁre (Fulé and Laughlin, 2007; Taylor, 2010; Hunter
+et al., 2011; Higgins et al., 2015). For example, Hunter et al.
+(2011) found that moderate/high-severity areas of resource objec-
+tive ﬁres in ponderosa pine forests of the Gila National Forest in
+New Mexico showed lower tree density, basal area, and canopy
+bulk density, and higher crown base height than low-severity
+and unburned areas. In their study, low burn-severity areas
+reduced tree density and increased crown base height but showed
+no difference in basal area or crown bulk density compared with
+unburned areas (Hunter et al., 2011). In our study, areas classiﬁed
+as L burn severity comprised more landscape area than any other
+burn severity classes (Fig. 2). Similarly, Meyer (2015) found that
+resource objective wildﬁres in frequent-ﬁre forest types of the
+southern Sierra Nevada were dominated by low-severity ﬁre. In
+this sense, the ﬁres studied by Meyer (2015) were within natural
+ranges of variation (i.e., HRV; see Landres et al., 1999) for burn
+severity; however, effectiveness of these ﬁres for restoring forest
+structure was not examined. We found L-severity areas to be 50%
+effective at meeting restoration objectives but L burn severity
+met no structural or fuels attributes uniquely. Rather, objective
+ranges for all attributes met by L were also met by M burn severity,
+and 50% (3 of 6) of those met by L were also met by the U/L severity
+class. Higgins et al. (2015) found that a low-severity, single-entry
+resource objective ﬁre in a white-ﬁr-encroached ponderosa pine
+forest of Grand Canyon National Park did little to restore tree spe-
+cies composition, but second-entry ﬁres reduced white ﬁr regener-
+ation. It is well known that low-severity prescribed ﬁre meets few
+restoration objectives in these ecosystems if not preceded by
+mechanized tree thinning (Sackett et al., 1996; Fulé et al., 2002;
+Hunter et al., 2011; Roccaforte et al., 2015).
+Areas classiﬁed as H severity showed highly variable mean
+intervals, and intervals for two-thirds of the attributes we exam-
+ined included zero (Table 3). Further, CIs for tree density, basal
+area, canopy cover, canopy fuel load, and canopy bulk density in
+the H severity class were all lower than HRV, and quantities of
+structural elements such as live trees, snags, and logs were very
+low, and often completely absent in H-severity areas. Historically,
+ﬁne-grained forest structural patterns were maintained by fre-
+quent surface ﬁre (Swetnam and Baisan, 1996; Van Horne and
+Fulé, 2006; Abella and Denton, 2009; Sánchez Meador et al.,
+2011), and forest openings are thought to have been generally
+<0.20 ha in size (Pearson, 1923). There is very little documented
+Table 3
+Means* (and 95% CIs) for structural and hazardous fuels attributes evaluated within burn severity classes (see text for deﬁnitions). Gray shading indicates conﬁdence intervals that
+overlap objective ranges (see Table 2), whereas no shading indicates attributes for which restoration objectives were not met.
+* Different lowercase letters denote statistically different means among burn severity classes at p < 0.05.
+Fig. 3. Proportion of trees density (and stand errors) in three tree diameter classes
+for each of the four burn severity classes: Unburned/Low (U/L), Low (L), Moderate
+(M), and High (H). Gray shading indicates theoretical historical range of variability
+as determined using the basal area-maximum diameter method and diminution
+quotient of 1.2 (Reynolds et al., 2013). Diameter distributions for all burn severity
+classes were signiﬁcantly different (p < 0.05) from HRV.
+400
+D.W. Huffman et al. / Forest Ecology and Management 389 (2017) 395–403
+
+evidence of larger high-severity patches in presettlement pon-
+derosa pine forests of the Southwest (but see Iniguez et al.,
+2009). Although Williams and Baker (2012) surmised that large
+landscapes of ponderosa pine and dry mixed conifer forests in
+northern Arizona experienced historical high-severity ﬁre, these
+conclusions, and ﬁndings based on similar assumptions, have been
+sharply criticized and are not supported by dendrochronological
+analyses (Fulé et al., 2013; Huffman et al., 2015; Stephens et al.,
+2015; Stevens et al., 2016). In fact, historical ranges of variability
+for patch metrics (e.g., tree patch density, mean patch size, and
+maximum patch size) based on dendrochronological reconstruc-
+tions suggest that frequent surface ﬁres in ponderosa pine forests
+of the Southwest generally maintained ﬁne-grained structural pat-
+terns, and large openings created by infrequent, high-severity ﬁre
+were rare (Sánchez Meador et al., 2011). Similarly, stand recon-
+structions at several northern Arizona sites have indicated histori-
+cal
+‘‘inverse-J”-shaped
+diameter
+or
+irregular,
+uneven-aged
+distributions, which further supports the hypothesis that stand-
+replacing ﬁres were very uncommon prior to Euro-American set-
+tlement of the region (Fulé et al., 1997, 2002, 2006; Sánchez
+Meador et al., 2010). Thus, the H burn severity class was least effec-
+tive at meeting structural and hazardous fuels objectives, and con-
+ditions within these areas appeared to be less desirable even than
+those within U/L areas. Indeed, H-severity areas showed conditions
+resulting from uncharacteristically severe ﬁre that restoration pre-
+scriptions are commonly developed to mitigate (Reynolds et al.,
+2013).
+Areas classiﬁed as U/L were 25% effective and comprised 36% of
+ﬁre landscapes on average (Fig. 2). Although ﬁre effects on forest
+structure were nonexistent to minimal, these areas surprisingly fell
+within restoration objective ranges for three attributes – coarse
+wood load, mean tree patch size, and canopy fuel load (Table 3).
+This likely resulted, in part, from broad ranges for these attributes.
+For example, Brown et al. (2003) suggested an optimal quantity of
+coarse woody material to be 11–45 Mg ha1 after ﬁre in western
+dry forests, and this broad range was intended to balance accept-
+able ﬁre hazard and potential severity with needs for soil produc-
+tivity as well as wildlife habitat. We adopted this range as an
+objective in our study as very little is known concerning historical
+amounts of coarse wood and HRV information is not readily avail-
+able. Other studies in southwestern ponderosa pine forests have
+reported background (i.e., within untreated areas) coarse wood
+loads to range between 11 and 45 Mg ha1 (Fulé et al., 2002,
+2006). Similar to coarse wood load, relatively little research has
+quantiﬁed historical ranges for spatial metrics such as tree patch
+density or patch size (Reynolds et al., 2013). We found a clear pat-
+tern of decreasing mean tree patch size with increasing burn sever-
+ity (Table 3); however, the reported HRV for tree patch size
+spanned more than two orders of magnitude (Table 2). Thus,
+although large dead and down logs and tree spatial patterns are
+important for wildlife habitat quality and ecosystem function
+(Ganey et al., 2015; Rodman et al., 2016), our results indicate that
+these attributes are relatively poor indicators (i.e., too variable or
+insensitive) of ﬁre effectiveness and restoration success in south-
+western ponderosas pine ecosystems. Canopy fuel load in the U/L
+burn severity class was within the restoration objective range
+and low (0.687 kg m2) compared with other reported values for
+undisturbed ponderosa pine forests. Canopy fuel loads commonly
+range between 0.7 and 1.2 kg m2 in untreated areas where the
+historical ﬁre regime has been disrupted (Fulé et al., 2001, 2002,
+Roccaforte et al., 2008, 2015). Canopy fuel load is important in
+affecting potential ﬁre behavior, and although this attribute in U/
+L areas was within HRV, we found it to be sensitive to burn severity
+(Table 3) and suggest that it is valuable as an indicator to evaluate
+resource objective ﬁre efﬁcacy.
+4.2. Limitations
+In our study, we evaluated resource objective wildﬁres for
+meeting restoration objective ranges for forest structure and haz-
+ardous fuels; however, HRV information was either scant or not
+available for attributes related to coarse woody material (logs
+and large snags) and tree spatial patterns. We chose to include
+these attributes in our analysis due to their importance in inﬂuenc-
+ing ecological function and because they are commonly considered
+in ponderosa pine restoration frameworks (e.g., Reynolds et al.,
+2013). More work is needed to accurately describe coarse wood
+quantities and spatial characteristics of trees and tree groups, per-
+haps by utilizing precise stem mapping and dendrochronological
+reconstruction techniques (see Sánchez Meador et al., 2011).
+In our study we could not examine the importance of pre-ﬁre
+forest conditions in affecting burn severity patterns or resulting
+structural characteristics. However, clear directional trends in
+attribute means across burn severity classes and low variability
+in U/L and L classes suggest relatively homogenous pre-ﬁre struc-
+tural conditions. Thus, dNBR classiﬁcation (MTBS) appeared to be
+adequate for sample stratiﬁcation and coarse assessment of post-
+ﬁre effects. Extensive, dense forest conditions resulting from his-
+torical ﬁre exclusion across large landscapes in the Southwest have
+been widely discussed and are the basis for policy mandates to
+accelerate restoration treatments (Covington et al., 1994; Fulé
+et al., 1997; Moore et al., 1999; Reynolds et al., 2013).
+In our study, we did not evaluate undesirable effects that may
+be associated with different burn severity classes. For example,
+other
+studies
+have
+reported
+expansion
+of
+populations
+and
+increases in cover of exotic plant species after high severity ﬁre
+in western dry forests (Crawford et al., 2001; Rew and Johnson,
+2010; Abella and Fornwalt, 2015), although these patterns are
+inconsistent (Dodge et al., 2008; Kuenzi et al., 2008). Other impor-
+tant effects that may be related to burn severity include insect and
+disease responses, impacts on soils, and undesirable hydrologic
+changes. Lastly, we focused our work on single-entry ﬁres and
+did not study possible additive effects of multiple burns. Based
+on our observations, single-entry ﬁres are more common than
+multiple-entry sites on USDA Forest Service landscapes in the
+Southwest, with the possible exception of some designated
+Wilderness areas. Holden et al. (2007) found that multiple entries
+with resource objective wildﬁres reduced density of small-
+diameter trees in two remote forest locations in Arizona and
+New Mexico. Hunter et al. (2011) reported that areas receiving
+multiple ﬁre entries were similar to single-entry, low-severity ﬁres
+in terms of tree density, basal area, and canopy bulk density. More
+research is needed to better assess whether multiple-entry ﬁres
+result in greater restoration beneﬁts than single-entry ﬁres, partic-
+ularly in the low burn severity areas (i.e., repeated low-severity
+ﬁre) that dominate these ﬁre landscapes.
+4.3. Implications
+National Forest System policy mandates accelerated ecological
+restoration treatments, and for frequent-ﬁre ponderosa pine for-
+ests, restoration of overstory structural patterns more similar to
+HRV can be consistent with improving resistance to drought and
+crown
+ﬁre
+occurrence
+(Fulé,
+2008;
+Reynolds
+et
+al.,
+2013;
+Stephens et al., 2013). We acknowledge that the use of HRV to
+set structural and hazardous fuels treatment objectives may not
+be feasible on many sites due to a variety of social, economic,
+and logistical limitations (Higgs, 1997; Reynolds et al., 2013), and
+indeed, several authors have questioned the continued focus on
+precise approximation of HRV, particularly in light of uncertainties
+associated with climatic change (Falk, 2006; Millar et al., 2007;
+D.W. Huffman et al. / Forest Ecology and Management 389 (2017) 395–403
+401
+
+Hart et al., 2015; Jacobs et al., 2015). Concerns related to climate
+change as well as a desire to incorporate contemporary societal
+values have led some authors to suggest ‘‘future ranges of varia-
+tion” (FRV) as an alternative concept for setting restoration objec-
+tives (Duncan et al. 2010). However, simulation of long-term
+responses suggest that sustaining dry forests in the Southwest is
+tenuous under more severe climate change scenarios, but restora-
+tion treatments that reduce stand density and reintroduce surface
+ﬁre may lower tree mortality and extend persistence of dominant
+species such as ponderosa pine (Shive et al., 2014; Tarancón et al.,
+2014; Stoddard et al., 2015). Similarly, resource objective wildﬁres
+in these systems may meet a greater number of restoration objec-
+tives and increase ecological resilience if managed to allow more
+moderate-severity burning to occur. Our comparison of conditions
+among burn severity classes suggested that HRV objectives are met
+if ﬁre-related mortality reduces tree density by about 64% and
+basal area by 11–52%. In contrast, tree density remained higher
+than HRV when ﬁre-related mortality was 31% or less. Greater burn
+severity may be sought in areas where values at risk are few, such
+as in more remote wildland zones. This may be achieved by per-
+mitting ﬁres to burn under more extreme weather conditions. Fires
+evaluated in our study took place under conditions of high relative
+humidity, low wind speed, and high ﬁne fuel moistures (Table 1)
+(see Fulé et al., 2002; Roccaforte et al., 2008). Moderate weather
+conditions likely resulted in combined areas of U/L and L burn
+severity classes occurring on over 85% of the ﬁre landscapes.
+Allowing ﬁres to burn more actively to achieve greater representa-
+tion of the M severity class requires managers to accept more risk
+in terms of the potential for escaped ﬁres. In addition, we found the
+H burn severity class to meet the fewest restoration objectives, and
+it is likely that landscape representation of this class will increase
+along with increases in M burn severity. These risks may be man-
+aged, however, through increasing public awareness of the poten-
+tial ecological and economic beneﬁts of ﬁre use, and greater
+coordination among public land management agencies (North
+et al., 2015).
+Acknowledgements
+We thank staff and students of the Ecological Restoration Insti-
+tute at Northern Arizona University for ﬁeld data collection and
+logistical support. In particular, W. Chancellor, S. Curran, D. Nor-
+mandin, M. Sensibaugh, and J. Springer were instrumental in
+assisting in the completion of this work. U.S. Forest Service staff
+from Coconino and Kaibab National Forests provided assistance
+in ﬁre location and permitting. We thank A. Thode for discussions
+related to burn severity classiﬁcation, and L. Wadleigh and Q. John-
+son for feedback on project implications. This research was sup-
+ported by a grant from the USDA Forest Service. Northern
+Arizona University is an equal opportunity provider.
+References
+Abella, S.R., Denton, C.W., 2009. Spatial variation in reference conditions: historical
+tree density and pattern on a Pinus ponderosa landscape. Can. J. For. Res. 39,
+2391–2403.
+Abella, S.R., Fornwalt, P.J., 2015. Ten years of vegetation assembly after a North
+American mega ﬁre. Glob. Change Biol. 21, 789–802.
+Agee, J.K., Skinner, C.N., 2005. Basic principles of forest fuel reduction treatments.
+For. Ecol. Manage. 211, 83–96.
+Bivand, R., Keitt, T., Rowlingson, B., 2015. rgdal: Bindings for the Geospatial Data
+Abstraction
+Library.
+R
+package
+version
+1.1-3.
+http://CRAN.R-project.
+org/package=rgdal.
+Bradshaw, L., McCormick, E., 2000. FireFamily Plus user’s guide, version 2.0. USDA
+For. Serv. Gen. Tech. Rep. RMRS-GTR-67-WWW.
+Brown,
+D.E.,
+1994.
+Biotic
+Communities
+Southwestern
+United
+States
+and
+Northwestern Mexico. University of Utah Press, Salt Lake City.
+Brown, J.K., 1974. Handbook for inventorying downed woody material. USDA For.
+Serv. Gen. Tech. Rep. INT-16.
+Brown, J.K., Reinhardt, E.D., Kramer, K.A., 2003. Coarse woody debris: managing
+beneﬁts and ﬁre hazard in the recovering forest. USDA For. Serv. Gen. Tech. Rep.
+RMRS-GTR-105.
+Cocke, A.E., Fulé, P.Z., Crouse, J.E., 2005. Comparison of burn severity assessments
+using differenced normalized burn ratio and ground data. Int. J. Wildland Fire
+14, 189–198.
+Covington, W.W., Everett, R.L., Steele, R., Irwin, L.L., Daer, T.A., Auclair, A.N.D., 1994.
+Historical and anticipated changes in forest ecosystems of the Inland West of
+the United States. J. Sustain. Forest. 2, 13–63.
+Covington, W.W., Fulé, P.Z., Moore, M.M., Hart, S.C., Kolb, T.E., Mast, J.N., Sackett, S.S.,
+Wagner, M.R., 1997. Restoring ecosystem health in ponderosa pine forests of
+the Southwest. J. Forest. 95, 23–29.
+Crawford, J.A., Wahren, C.H.A., Kyle, S., Moir, W.H., 2001. Responses of exotic plant
+species to ﬁres in Pinus ponderosa forests in northern Arizona. J. Veg. Sci. 12,
+261–268.
+Dodge, R.S., Fulé, P.Z., Hull Sieg, C., 2008. Dalmatian toadﬂax (Linaria dalmatica)
+response to wildﬁre in a southwestern USA forest. Ecoscience 15, 213–222.
+Duncan, S.L., McComb, B.C., Johnson, K.N., 2010. Integrating ecological and societal
+ranges of variability in conservation of biodiversity: past present and future.
+Ecol. Soc. 15, 5.
+Eidenshink, J., Schwind, B., Brewer, K., Zhu, Z., Quayle, B., Howard, S., 2007. A project
+for monitoring trends in burn severity. Fire Ecol. 3, 3–21.
+Franklin, J.F., Johnson, K.N., 2012. A restoration framework for federal forests in the
+Paciﬁc Northwest. J. Forest. 110, 429–439.
+Friederici, P., 2003. Healing the region of pines: forest restoration in Arizona’s
+Uinkaret
+Mountains.
+In:
+Friederici,
+P.
+(Ed.),
+Ecological
+Restoration
+of
+Southwestern Ponderosa Pine Forests. Island Press, Washington, pp. 197–214.
+Falk, D.A., 2006. Process-centered restoration in a ﬁre-adapted ponderosa pine
+forest. J. Nat. Conserv. 14, 140–151.
+Fulé, P.Z., 2008. Does it make sense to restore wildland ﬁre in a changing climate?
+Restor. Ecol. 16, 526–531.
+Fulé, P.Z., Covington, W.W., Moore, M.M., 1997. Determining reference conditions
+for ecosystem management of southwestern ponderosa pine forests. Ecol. Appl.
+7, 895–908.
+Fulé, P.Z., Covington, W.W., Stoddard, M.T., Bertolette, D., 2006. ‘‘Minimal-Impact”
+restoration treatments have limited effects on forest structure and fuels at
+Grand Canyon, USA. Restor. Ecol. 14, 357–368.
+Fulé, P.Z., Covington, W.W., Smith, H.B., Springer, J.D., Heinlein, T.A., Huisinga, K.D.,
+Moore, M.M., 2002. Comparing restoration alternatives: Grand Canyon, Arizona.
+For. Ecol. Manage. 170, 19–41.
+Fulé, P.Z., Crouse, J.E., Cocke, A.E., Moore, M.M., Covington, W.W., 2004. Changes in
+canopy fuels and potential ﬁre behavior 1880–2040: Grand Canyon. Arizona.
+Ecol. Model. 175, 231–248.
+Fulé, P.Z., Laughlin, D.C., 2007. Wildland ﬁre effects on forest structure over an
+altitudinal gradient, Grand Canyon National Park, USA. J. Appl. Ecol. 44, 136–
+146.
+Fulé, P.Z., McHugh, C., Heinlein, T.A., Covington, W.W., 2001. Pontential ﬁre
+behavior is reduced following forest restoration treatments. In: Vance, R.K.,
+Edminster,
+C.B.,
+Covington,
+W.W.,
+Blake,
+J.A.
+(comps.),
+Ponderosa
+Pine
+Ecosystems Restoration and Conservation: Steps Twoard Stewardship. USDA
+For. Serv. Proc. RMRS-P-22, pp. 28–35.
+Fulé, P.Z., Swetnam, T.W., Brown, P.M., Falk, D.A., Peterson, D.L., Allen, C.D., Aplet, G.
+H., Battaglia, M.A., Binkley, D., Farris, C., Keane, R.E., Margolis, E.Q., Grissino-
+Mayer, H., Miller, C., Hull Sieg, C., Skinner, C., Stephens, C.L., Taylor, A., 2013.
+Unsupported inferences of high severity ﬁre in historical western United States
+dry forests: Response to Williams and Baker. Global Ecol. Biogeogr. 23, 825–
+830.
+Ganey, J.L., Bird, B., Baggett, L.S., Jennes, J.S., 2015. Density of large snags and logs in
+northern Arizona mixed-conifer and ponderosa pine forests. For. Sci. 61, 353–
+362.
+Hart, J.L., Buchanan, M.L., Cox, L.E., 2015. Has forest restoration been freed from the
+bonds of history? J. Forest. 113, 429–430.
+Higgins, A.M., Waring, K.M., Thode, A.E., 2015. The effects of burn entry and burn
+severity on ponderosa pine and mixed conifer forests in Grand Canyon National
+Park. Int. J. Wildland Fire 24, 495–506.
+Higgs, D., 1997. What is good ecological restoration? Conserv. Biol. 11, 338–348.
+Holden, Z.A., Morgan, P., Rollins, M.G., Kavanagh, K., 2007. Effects of multiple
+wildland ﬁres on ponderosa pine stand structure in two southwestern
+Wilderness areas, USA. Fire Ecol. 3, 18–33.
+Huffman, D.W., Zegler, T.J., Fulé, P.Z., 2015. Fire history of a mixed conifer forest on
+the Mogollon Rim, norther Arizona. Int. J. Wildland Fire 24, 680–689.
+Hijmans, R.J., van Etten, J., 2012. Raster: geographic analysis and modeling with
+raster data. R package version 2.5-2. http://CRAN.R-project.org/package=raster.
+Hunter, M.E., Iniguez, J.M., Lentile, L.B., 2011. Short- and long-term effects on fuels,
+forest structure, and wildﬁre potential from prescribed ﬁre and resource beneﬁt
+ﬁre in southwestern forests, USA. Fire Ecol. 7, 108–121.
+Iniguez, J.M., Swetnam, T.W., Baisan, C.H., 2009. Spatially and temporally variable
+ﬁre regime on Rincon Peak, Arizona, USA. Fire Ecol. 5, 3–21.
+Jacobs, D.F., Oliet, J.A., Aronson, J., Bolte, A., Bullock, J.M., Donoso, P.J., Landhäusser,
+S.M., Madsen, P., Peng, S., Rey-Benayas, J.M., Weber, J.C., 2015. Restoring forests:
+what constitutes success in the twenty-ﬁrst century? New Forest. 46, 601–614.
+Kuehl, R.O., 1994. Statistical Principles of Research Design and Analysis. Duxbury
+Press, Belmont, CA.
+Kuenzi, A.M., Fulé, P.Z., Hull Sieg, C., 2008. Effects of ﬁre severity and pre-ﬁre stand
+treatment on plant community recovery after a large wildﬁre. For. Ecol.
+Manage. 255, 855–865.
+402
+D.W. Huffman et al. / Forest Ecology and Management 389 (2017) 395–403
+
+Landres, P.B., Morgan, P., Swanson, F.J., 1999. Overview of the use of natural
+variability
+concepts
+in
+managing
+ecological
+systems.
+Ecol.
+Appl.
+9,
+1179–1188.
+Lowe, K., 2006. Snags and forest restoration. Ecological Restoration Institute
+Working Paper 16. Northern Arizona University. www.eri.nau.edu.
+Millar, C.I., Stephenson, N.L., Stephens, S.L., 2007. Climate change and forests of the
+future: managing in the face of uncertainty. Ecol. Appl. 17, 2145–2151.
+Miller, J.D., Thode, A.E., 2007. Quatifying burn severity in a heterogenous landscape
+with a relative version of the delta Normalized Burn Ratio (dNBR). Remote Sens.
+Environ. 109, 66–80.
+Meyer, M.D., 2015. Forest ﬁre severity patterns of resource objective wildﬁres in the
+southern Sierra Nevada. J. Forest. 113, 49–56.
+Moore, M.M., Covington, W.W., Fulé, P.Z., 1999. Reference condition and ecological
+restoration: a southwestern ponderosa pine perspective. Ecol. Appl. 9, 1266–
+1277.
+Morgan, P., Aplet, G.H., Hauﬂer, J.B., Humphries, H.C., More, M.M., Wilson, W.D.,
+1994. Historical range of variability: a useful tool for evaluating ecosystem
+change. J. Sustain. Forest. 2, 87–111.
+North, M.P., Stephens, S.L., Collins, B.M., Agee, J.K., Aplet, G., Franklin, J.F., Fulé, P.Z.,
+2015. Reform forest ﬁre management – agency incentives undermine policy
+effectiveness. Science 349, 1280–1281.
+Palmer, M.A., Falk, D.A., Zedler, J.B., 2006. Ecological theory and restoration ecology.
+In: Falk, D.A., Palmer, M.A., Zedler, J.B. (Eds.), Foundations of Restoration
+Ecology. Island Press, Washington, pp. 1–10.
+Pearson, G.A., 1923. Natural Reproduction of Western Yellow Pine in the Southwest.
+USDA For. Serv. Bullet. No. 1105.
+Pelz, K.A., Dickinson, Y.L., 2014. Monitoring forest cover spatial patterns with aerial
+imagery: A tutorial. Colorado Forest Restoration Institute, Colorado State
+University, Tech. Brief CFRI-TB- 1401. Fort Collins, CO. 47 p.
+Core Team, R., 2015. R: A Language and Environment for Statistical Computing. R
+Foundation for Statistical Computing, Vienna, Austria. URL http://www.R-
+project.org/.
+Rew, L.J., Johnson, M.P., 2010. Reviewing the role of wildﬁre on the occurrence and
+spread of invasive plant species in wildland areas of the Intermountain western
+United States. Invasive Plant Sci. Manage. 3, 347–364.
+Reynolds, R.T., Sánchez Meador, A.J., Youtz, J.A., Nicolet, T., Matonis, M.S., Jackson, P.
+L., DeLorenzo, D.G., Graves, A.D., 2013. Restoring composition and structure in
+southwestern frequent-ﬁre forests: a science-based framework for improving
+ecosystem resiliency. USDA For. Serv. Gen. Tech. Rep. RMRS-GTR-310.
+Roccaforte, J.P., Fulé, P.Z., Covington, W.W., 2008. Landscape-scale changes in
+canopy fuels and potential ﬁre behaviour following ponderosa pine restoration
+treatments. Int. J. Wildland Fire 17, 293–303.
+Roccaforte, J.P., Fulé, P.Z., Covington, W.W., 2010. Monitoring landscape-scale
+ponderosa pine restoration treatment implementation and effectiveness.
+Restor. Ecol. 18, 820–833.
+Roccaforte, J.P., Huffman, D.W., Fulé, P.Z., Covington, W.W., Chancellor, W.W.,
+Stoddard, M.T., Crouse, J.E., 2015. Forest structure and fuels dynamics following
+ponderosa pine restoration treatments, White Mountains, Arizona, USA. For.
+Ecol. Manage. 337, 174–185.
+Rodman, K.C., Sánchez Meador, A.J., Huffman, D.W., Waring, K.M., 2016. Reference
+conditions and historical ﬁne-scale spatial dynamics in a dry mixed-conifer
+forest, Arizona, USA. For. Sci. 62, 268–280.
+Sackett, S.S., Haase, S.M., Harrington, M.G., 1996. Lessons learned from ﬁre
+use for restoring southwestern ponderosa pine ecosystems. In Covington,
+W.W.,
+Wagner,
+P.K.
+(tech.
+coords.).
+Conference
+on
+Adaptive
+Ecosystem
+Restoration
+and
+Management:
+Restoration
+of
+Cordilleran
+Conifer
+Landscapes of North America. USDA For. Serv. Gen. Tech. Rep. RM-GTR-
+278, pp. 53–60.
+Sánchez Meador, A.J., Moore, M.M., Bakker, J.D., Parysow, P.F., 2009. 108 years of
+change in spatial pattern following selective harvest of a Pinus ponderosa stand
+in northern Arizona, USA. J. Veg. Sci. 20, 79–90.
+Sánchez Meador, A.J., Parysow, P.F., Moore, M.M., 2010. Historical stem-mapped
+permanent
+plots
+increase
+precision
+of
+reconstructed
+reference
+data
+in
+ponderosa pine forest of northern Arizona. Restor. Ecol. 18, 224–234.
+Sánchez Meador, A.J., Parysow, P.F., Moore, M.M., 2011. A new method for
+delineating
+tree
+patches
+and
+assessing
+spatial
+reference
+conditions
+of
+ponderosa pine forests in northern Arizona. Restor. Ecol. 19, 490–499.
+Savage, M., Mast, J.N., 2005. How resilient are southwestern ponderosa pine forests
+after crown ﬁres? Can. J. For. Res. 35, 967–977.
+SER (Society for Ecological Restoration, International), 2004. The SER International
+primer on ecological restoration. www.ser.og.
+Shive, K.L., Fulé, P.Z., Sieg, C.H., Strom, B.A., Hunter, M.E., 2014. Managing burned
+landscapes: evaluating future management strategies for resilient forests under
+a warming climate. Int. J. Wildland Fire 23, 915–928.
+Stephens, S.L., Agee, J.K., Fulé, P.Z., North, M.P., Romme, W.H., Swetnam, T.W., 2013.
+Managing forests and ﬁre in changing climates. Science 342, 41–42.
+Stephens, S.L., Lydersen, J.M., Collibns, B.M., Fry, D.L., Meyer, M.D., 2015. Historical
+and current landscape-scale ponderosa pine and mixed conifer forest structure
+in the Southern Sierra Nevada. Ecosphere 6, 1–63.
+Stevens, J.T., Safford, H.D., North, M.P., Fried, J.S., Gray, A.N., Brown, P.M., Dolanc, C.
+R., Dobrowski, S.Z., Falk, D.A., Farris, C.A., Franklin, J.F., Fulé, P.Z., Hagman, R.K.,
+Knapp, E.E., Miller, J.D., Smith, D.F., Swetnam, T.W., Taylor, A.H., 2016. Average
+stand age from forest inventory plots does not described historical ﬁre regimes
+in ponderosa and mixed-conifer forests of western North America. PLoS One 11,
+e0147688. http://dx.doi.org/10.1371/journal.pone.0147688.
+Stoddard, M.T., Sánchez Meador, A.J., Fulé, P.Z., Korb, J.E., 2015. Five-year post-
+restoration conditions and simulated climate-change trajectories in a warm/dry
+mixed-conifer forest southwestern Colorado. For. Ecol. Manage. 356, 253–261.
+Swetnam,
+T.W.,
+Baisan,
+C.H.,
+1996.
+Historical
+ﬁre
+regime
+patterns
+in
+the
+southwestern United States since AD 1700. In: Allen, C.D., (Ed.), Fire Effects in
+Southwestern Forests: Proceedings of the Second La Mesa Fire Symposium.
+USDA Forest Service, General Technical Report RM-GTR-286, pp. 11–32.
+Tarancón, A.A., Fulé, P.Z., Shive, K.L., Sieg, C.H., Sánchez Meador, A., Strom, B., 2014.
+Simulating post-wildﬁre forest trajectories under alternative climate and
+management scenarios. Ecol. Appl. 24, 1626–1637.
+Taylor, A.H., 2010. Fire disturbance and forest structure in an old-growth Pinus
+ponderosa forest, southern Cascades, USA. J. Veg. Sci. 21, 561–572.
+USDA, 2016. Forest Service manual (FSM) 2020. Ecosystem restoration policy.
+2000–2016-1.
+USDA Forest Service, 2012. Increasing the pace of restoration and job creation on
+our national forests. www.fs.fed.us/publications/restoration/restoration.pdf.
+VanDerWal, J., Falconi, L., Januchowski, S., Shoo, L., Storlie, C., 2014. SDMTools:
+Species Distribution Modelling Tools: Tools for processing data associated with
+species distribution modelling exercises. R package version 1.1-221. http://
+CRAN.R-project.org/package=SDMTools.
+Van Horne, M.L., Fulé, P.Z., 2006. Comparing methods of reconstructing ﬁre history
+using ﬁre scars in a southwestern United States ponderosa pine forest. Can. J.
+For. Res. 36, 855–867.
+van Wagtendonk, J.W., 2007. The history and evolution of wildland ﬁre use. Fire
+Ecol. 3, 3–17.
+Vilsack, T., 2009. Vision for the forest service: remarks as prepared for delivery
+Seattle, Washington. www. fs.fed.us/video/tidwell/vilsack.pdf.
+Westerling, A.L., Hidalgo, H.G., Cayan, D.R., Swetnam, T.W., 2006. Warming and
+earlier spring increases western U.S. forest wildﬁre activity. Science 313, 940–
+943.
+White, A.S., 1985. Regeneration patterns in a southwestern ponderosa pine stand.
+Ecology 66, 589–594.
+Williams, M.A., Baker, W.L., 2012. Spatially extensive reconstructions show
+variable-severity ﬁre and hetergeneous structure in historical western United
+States dry forests. Global Ecol. Biogeogr. 21, 1042–1052.
+WRCC (Western Regional Climate Center), 2016. Local climate data (LCD) –
+summaries for western US (1997). www.wrcc.dri.edu/summary/lcd.html.
+D.W. Huffman et al. / Forest Ecology and Management 389 (2017) 395–403
+403

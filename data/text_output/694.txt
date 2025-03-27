@@ -1,0 +1,1555 @@
+Forest density preferences of homebuyers in the wildland-urban interface
+Evan Hjerpe a,b,⁎, Yeon-Su Kim c, Leah Dunn a
+a Conservation Economics Institute, Boise, ID, USA
+b Ecological Restoration Institute, Northern Arizona University, Flagstaff, USA
+c School of Forestry, Northern Arizona University, Flagstaff, USA
+a b s t r a c t
+a r t i c l e
+i n f o
+Article history:
+Received 15 December 2015
+Received in revised form 13 May 2016
+Accepted 16 May 2016
+Available online xxxx
+In the ﬁre-prone Western U.S., the scale of surrounding forest density can be realized by homebuyers as an ame-
+nity for aesthetics and cooling effects, or as a disamenity in terms of wildﬁre risk. There has been a lack of academ-
+ic attention to understanding this duality of forest density preferences for homebuyers in at-risk Wildland Urban
+Interfaces (WUIs). To ﬁll this gap, we investigated the inﬂuence of forest density on WUI house sales in four high
+ﬁre-risk zones in dry, mixed conifer forests of the Western U.S with a spatial hedonic pricing model. Explanatory
+attributes related to house structure, neighborhood, and environmental amenities were assessed, along with a set
+of WUI variables that included forest density ranges at two buffer levels— a 100 m radius level and a 500 m radius
+level. Results indicate a strong preference for lower forest density at the 100 m level, but a countering preference
+for higher forest density at the larger 500 m buffer. These ﬁndings suggest the need to reconsider broad ap-
+proaches in public awareness campaigns and regional planning, as well as ﬁre management policies and strate-
+gies. Preference for higher density forests implies that if left to homeowners, fuel treatments in public spaces will
+be underinvested.
+© 2016 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license
+(http://creativecommons.org/licenses/by/4.0/).
+Keywords:
+Wildﬁre economics
+Hedonic pricing
+Wildland-urban interface (WUI)
+Forest density
+1. Introduction
+Expansion of the wildland-urban interface (WUI) has been identi-
+ﬁed as the primary cause of rapid increases in wildﬁre-related losses
+in the United States (Keeley et al., 1999; Radeloff et al., 2005), Canada
+(McFarlane et al., 2011; Goemans and Ballamingie, 2013), Australia
+(Mell et al., 2010) and the Mediterranean (Darques, 2015). This is par-
+ticularly true for ecosystems that once burned frequently with low-
+moderate intensity before old-growth logging, overgrazing, and, per-
+haps most signiﬁcantly, ﬁre exclusion (Covington, 2000). Many forests,
+especially across the western United States, have experienced declining
+ecological health and increased risk of uncharacteristically large and se-
+vere wildﬁres (GAO, 2009a; GAO, 2015). Reducing wildland ﬁre risk and
+damage within residential developments in the WUI has become one of
+the most pressing issues in managing U.S. public lands (Stetler et al.,
+2010).
+Some of the most complicating factors for managing wildland ﬁre
+risk are the costs of ﬁre suppression and risk reduction, and who pays
+for ﬁre management. The costs of ﬁghting wildland ﬁres have been es-
+calating continuously in the United States, doubling to more than $2.9
+billion annually during 2001–2007 from an average $1.2 billion annually
+during 1996–2000 (GAO, 2009b). Many studies have investigated the fac-
+tors affecting wildland ﬁre suppression costs (e.g. Calkin and Gebert,
+2006; Gebert et al., 2007; Liang et al., 2008; Abt et al., 2009; Yoder and
+Gebert, 2012). The primary factors that explained the majority of varia-
+tion in wildland ﬁre suppression costs, other than ﬁre size, were those re-
+lated to the WUI, including proximity to the WUI and the proportion of
+private land within ﬁre perimeters. About 897,000 properties (estimated
+reconstruction value at $237 billion) in the western U.S. are now located
+in high or very high wildﬁre risk areas (CoreLogic, 2015). Expansion of
+the WUI is likely to continue in the future, especially in the intermountain
+west states where the risk of large and severe ﬁres is ever increasing
+(Theobald and Romme, 2007). The majority of wildﬁre suppression
+costs are born at the federal level (Gude et al., 2008). Although more
+than 30% of total wildﬁre costs can be attributed to defending private res-
+idences (Rasker, 2015), there is little incentive for state, county, or local
+governments who make land use decisions to curb the development
+within the WUI (Gude et al., 2008; Abrams et al., 2015).
+Homebuyers, along with locally elected ofﬁcials, may underestimate
+the dangers and ﬁnancial consequences of ﬁre-prone forests (Abrams et
+al., 2015). By assuming much of the ﬁre suppression and management
+burden, the federal government may be providing a perverse incentive
+to locate in hazardous areas (Busby and Albers, 2010). Homebuyers' de-
+cisions to buy homes in the WUI are inﬂuenced by their preferences for
+Forest Policy and Economics 70 (2016) 56–66
+⁎ Corresponding author at: PO Box 755, Boise, ID 83701, USA.
+E-mail address: evan@conservationecon.org (E. Hjerpe).
+http://dx.doi.org/10.1016/j.forpol.2016.05.012
+1389-9341/© 2016 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+Contents lists available at ScienceDirect
+Forest Policy and Economics
+journal homepage: www.elsevier.com/locate/forpol
+
+natural amenities as well as their perceived risk of natural disasters. For-
+est cover provides certain amenities, including shade, privacy, noise re-
+duction and aesthetics, while too many trees may manifest as
+disamenities for blocking viewsheds and increasing the chance of
+home ignitions during wildﬁres. This duality makes it hard to effectively
+communicate with home owners about the needs for reducing forest
+density in the WUI and to inform policy decisions that need to be ap-
+plied in the landscape level. With forest cover representing both ameni-
+ties and disamenities in high ﬁre risk areas, there is a need to
+understand the inﬂuence of surrounding forest density on property
+values in the WUI (Venn and Calkin, 2011; Hansen et al., 2014).
+In this study, we focus our attention on properties in the dry mixed-
+conifer WUI ecosystems of the American west where the rising trend of
+wildﬁre risk is particularly severe. The trend is expected to worsen in
+the future with higher frequency of ﬁre occurrences and longer dura-
+tions of wildland ﬁre seasons with warmer and earlier springs
+(Westerling et al., 2006). With limited evidence of forest density prefer-
+ences of WUI homebuyers, a primary research question remains: How
+does forest density inﬂuence sales value in high ﬁre risk WUI regions,
+and to what scale? To investigate this question, we applied a spatial he-
+donic pricing model to a set of high ﬁre risk WUI house sales in four
+Western regions.
+1.1. Literature review: WUI forest density and hedonic pricing
+By observing home sale prices in the market, we can discern the
+preferences of homebuyers for different attributes of homes in aggre-
+gate form. The idea of measuring the value of certain implicit character-
+istics of property, i.e. hedonic pricing, dates back many years. The ﬁrst
+application of the hedonic method in residential properties was by
+Ridker and Henning (1967), where they investigated the association be-
+tween air quality and property values. Since then, there have been many
+hedonic studies in urban housing markets that show evidence of nega-
+tive impacts of poor air quality on housing prices (e.g. see the meta-
+analysis of more than 160 separate estimates from 37 studies by
+Smith and Huang, 1993).
+However, the inﬂuence of tree density on housing prices has been
+found to be both positive and negative, making results hard to general-
+ize. Although there are many beneﬁts of increasing canopy covers in
+communities, especially in urban areas, there are also costs, such as in-
+creased ﬁre risk, energy costs and water usage (Nowak et al., 2010).
+Thus, homebuyer preferences for tree density depend on the degree of
+urbanization in the area (Cho et al., 2008) and the relative scarcity of
+trees in the neighborhood (Netusil et al., 2010). Natural amenity values
+of forests can vary spatially and temporally depending on forest-patch
+size and density (Cho et al., 2009) and can vary based on prevailing eco-
+logical, social, and economic conditions (Nowak et al., 2010). Addition-
+ally, variations in tree density at the household level can create positive
+and negative externalities for adjacent land owners and can inﬂuence
+neighbors' efforts at creating defensible space (Shafran, 2008).
+Given mixed ﬁndings of direction and scale for forest density prefer-
+ences, we view forest density as a blessing and a curse depending on lo-
+cation-speciﬁc and behavioral contexts reﬂecting home buyers'
+knowledge, attitude, and preferences. Economists treat environmental
+amenities, or avoidance of environmental disamenities, as spillover ef-
+fects that are typically external (externality) to the measurement of
+total economic trade-offs (Mendelsohn and Olmstead, 2009; Mishan,
+1974). Hedonic price models are well suited for determining the ameni-
+ty or disamenity inﬂuence of a perceived attraction or hazard on a par-
+ticular market segment of home buyers. However, hedonic models
+assume buyers and sellers have full and accurate information about
+housing characteristics and that housing markets are mobile enough
+to reﬂect current preference or risk (Mendelsohn and Olmstead, 2009).
+The assumption of complete information may be particularly prob-
+lematic for homeowner's perception of wildﬁre risk and the ﬁnancial
+consequences of experiencing a wildﬁre. Abrams et al. (2015) found a
+large discrepancy between community ﬁre risks perceived by local
+homeowners and assessed by ﬁre ofﬁcials. Mozumder et al. (2009)
+found positive willingness to pay among WUI residents for updated
+wildﬁre risk maps, indicating that residents do not have complete infor-
+mation. Donovan et al. (2007) found no preference for the level of sur-
+rounding vegetation density (e.g., high or low) for WUI homeowners
+outside of Colorado Springs, Colorado, despite ﬁnding a decrease in
+prices after the ﬁre department initiated wildﬁre risk ratings for individ-
+ual houses. Champ et al. (2009) surveyed WUI homeowners in the same
+location and found little consideration (only 27% of WUI homeowners)
+for wildﬁre risk when purchasing their house. They also found higher
+preference for homes closer to “dangerous topography” in terms of
+wildﬁre risk (Champ et al., 2009). Similarly, high natural amenity loca-
+tions are typically correlated with high hazard risk (Loomis, 2004).
+This suggests that in some areas, the attraction of the wilder natural fea-
+tures that are typically associated with greater wildﬁre risk outweigh
+the disamenity, or hazard, represented by wildﬁre risk.
+None of the published hedonic studies were able to separate changes
+in wildﬁre risk perception and natural amenities (Venn and Calkin,
+2011), as it likely requires the use of survey-based stated preferences
+methods as opposed to revealed preference methods. There is little in-
+formation on the role of wildﬁre risk on homebuyer preferences in
+ﬁre-prone areas (Champ et al., 2009). Even for homebuyers with some
+awareness, the full level of risk is poorly deﬁned as many wildﬁre risk
+variables are difﬁcult to quantify at the WUI parcel-speciﬁc level. Fur-
+thermore, homebuyer's risk perceptions in high natural hazard areas
+have largely been shown to be inaccurate for many natural disasters, in-
+cluding ﬁre, ﬂooding, and earthquakes (Mueller et al., 2009). So in this
+case, complete information is unknown and homebuyers have incom-
+plete and varied level of risk assumptions. This is complicated by the
+fact that the federal government assumes much of the ﬁre suppression
+and management burden, providing a government subsidy to WUI
+homeowners (Gude et al., 2008; Busby and Albers, 2010). Federal aid
+and assistance for victims of natural disasters is common practice, but
+the reactionary nature of federal payments and resources used to help
+residents in high risk natural areas (e.g., WUI, ﬂoodplain, or coast) pro-
+vides an incentive to locate in hazardous areas (Kim and Hjerpe, 2011).
+This incentive creates a market failure leading to excessive risk taking by
+individuals with insurance and federal assistance, generating free-rider
+effects whose tabs are collectively paid by society (Loomis, 2004;
+Talberth et al., 2006; Cavallo and Noy, 2009; Busby and Albers, 2010).
+The hedonic ﬁre risk literature has largely been focused on empirical
+ex post investigations of wildﬁres (Huggett, 2004; Loomis, 2004;
+Mueller and Loomis, 2008; Mueller et al., 2009; Stetler et al., 2010).
+They have generally found negative associations between housing
+prices and proximity to a wildﬁre. A couple exceptions to the ex post in-
+vestigations in the hedonic ﬁre risk literature include investigations of
+the effects of a wildﬁre risk rating (Donovan et al., 2007; Champ et al.,
+2009) and forest density variation for one community (Kim and Wells,
+2005). Hedonic studies of other natural disasters, such as hurricanes
+and ﬂoods, showed the effects of recent experience with a disaster on
+perceived risk and property values (Bin and Polasky, 2004; Morgan,
+2007). Although experiences with a disaster tend to increase perceived
+risk and negatively affect property values, those impacts may be short
+lived (Atreya et al., 2013). Much less is known about ex ante behavior
+of WUI homebuyers before experiencing a close ﬁre. Preferences for for-
+est density, prior to major ﬁres, as well as the mechanisms through
+which forest density is processed in home owners' preferences, are in
+need of further investigation and hold important policy implications
+for correcting market failures.
+2. Methods
+We ﬁrst speciﬁed a comprehensive WUI hedonic price model a priori
+of existing data, and then generated a sampling methodology that
+would best ﬁt our model speciﬁcation. Once our hedonic model was
+57
+E. Hjerpe et al. / Forest Policy and Economics 70 (2016) 56–66
+
+fully speciﬁed and populated with observational data, we conducted
+numerous model and regression diagnostics.
+2.1. Specifying a WUI hedonic price model
+A house can be thought as a package of many characteristics. For ex-
+ample, the price of a house is determined by size, number of rooms, and
+natural amenities, as well as proximity to business centers or schools. In
+other words, the ith house price (phi
+0 ) is a function of housing structure
+vectors (Si), neighborhood characteristic vectors (Ni), and location-spe-
+ciﬁc environmental amenity vectors (Ei).
+p0
+hi ¼ ph Si; Ni; Ei
+ð
+Þ
+ð1Þ
+Previous hedonic price models for WUI houses are limited to a few
+studies and generally include the traditional explanatory attributes of
+S, N, and E (e.g., Donovan et al., 2007; Mueller et al., 2009; Stetler et
+al., 2010). However, our interest was to isolate surrounding forest den-
+sity as a potentially explanatory attribute in the most at-risk WUI areas.
+Thus, we incorporate a set of WUI (W) variables that are deﬁned by des-
+ignation of ﬁre-risk (Interface or Intermix), proximity to ﬁre stations,
+and forest density levels surrounding WUI homes at two proximities
+(100 m and 500 m radius circular density buffers). Our hedonic price
+model is speciﬁed as:
+p0
+hi ¼ ph Si; Ni; Ei; Wi
+ð
+Þ
+ð2Þ
+or statistically as:
+P ¼ c þ β X
+ð Þ þ ε
+ð3Þ
+where P is the WUI house sales price, c is a vector of constants, X is a
+vector of house characteristics S, N, E, and W, β is the vector of coefﬁ-
+cients, and ε is a vector of error terms.
+Following previous literature (Graves et al., 1988; Palmquist, 1983;
+Stetler et al., 2010), we have considered a number of structural variables
+known to be signiﬁcant in determining the property price, such as lot
+and living area sizes, total numbers of bedrooms and bathrooms, and
+age of house at the time of purchase. For neighborhood variables, prop-
+erties were categorized by census tracts and social-economic informa-
+tion was estimated at census-tract level according to the 2010 US
+Census. The variables included the WUI city (Flagstaff, Bend, S. Lake
+Tahoe, and Missoula), income level of the neighborhood, distance to
+shopping and business centers (downtowns), and buyer location. Over-
+all, the four WUI regions contained 24 individual census tracts.
+Homebuyer addresses were used to classify all WUI property sales to
+in-region or out-of-region buyers. Zip codes of homebuyers were
+cross-examined with Google Earth ecosystem imagery to indicate
+whether or not the homebuyer was located in a similar dry-mixed coni-
+fer and high wildﬁre risk area. Additional neighborhood variables were
+explored, such as traditional hedonic variables including education
+levels, quality of schools, and crime rates. However, our ﬁnal set of
+WUI homes was similar enough that there was little variation in these
+more urban-oriented variables, leading us to keep them out of the
+model.
+Three environmental amenities were included in our hedonic func-
+tion model—distance of the WUI house to national forest lands,1 dis-
+tance to a lake or reservoir, and distance to a perennial river. WUI
+variables included measures of forest density, WUI designation as either
+WUI Interface or Intermix, and distance to ﬁre stations. Given ﬁndings of
+past wildﬁres inﬂuencing house sales prices, we considered including
+recent wildﬁres as an explanatory WUI variable in our model. However,
+based on aerial imagery, the four regions have not experienced many re-
+cent wildﬁres within the WUI zones, limiting the representation of this
+variable. WUI designations were modeled as dummy variables. Forest
+density was measured in two different sizes of buffers around each
+housing unit: 100 m radius and 500 m radius. We hypothesized that
+homeowners' preference for forest density may differ for the immediate
+surroundings and for the larger vicinity. To control for different regional
+forest densities and variations in climate and geomorphology that affect
+each regions' wildﬁre regime, forest density was classiﬁed into three
+categories for each city: high, medium, and low. The high, medium,
+and low classiﬁcation represented even allocation (one-third each) of
+each region's WUI house forest density percentages. These forest densi-
+ty ranges were entered as dummy variables so they could be combined
+with other regions so as to observe any relative inﬂuence of local forest
+1 Ham et al. (2012) illustrated that the inﬂuence of surrounding public lands on house
+values was dependent on heterogeneity in types of land uses allowed (e.g., motorized
+vs. non-motorized, resulting noise impacts, etc.). To account for this heterogeneity, we
+have sampled from multiple WUI areas with similar forest types and land uses.
+Table 1
+Description of variables included in the analysis.
+Variable name
+Deﬁnition
+Expected
+sign
+Dependent variable:
+log (adj sale price)
+Natural log of sale price of the home in locally
+time-adjusted markets for Quarter 2, 2013 ($)
+Explanatory variables
+Structural variables (S)
+Log living area
+(sq. ft)
+Natural log of house square footage
++
+Bathrooms
+Number of bathrooms
++
+Bedrooms
+Number of bedrooms
++
+Log lot area
+(acreage)
+Natural log of lot acreage
++
+Year built
+Year house was built
+?
+Neighborhood
+variables (N)
+WUI City
+Flagstaff, AZ
+If sale was in Coconino Co., AZ, dummy = 1
+?
+Bend, OR
+If sale was in Deschutes Co., OR, dummy = 1
+?
+S. Lake Tahoe,
+CA
+If sale was in El Dorado Co., CA, dummy = 1
+?
+Missoula, MT
+If sale was in Missoula Co., MT, dummy = 1
+?
+Log income
+Natural log of census tract-level median
+income in $2013
++
+sqrt proximity to
+shopping
+Square root of house distance (meters) to city
+center
+−
+Buyer location
+Dummy variables for In-Region and
+Out-of-Region buyers
+?
+Environmental
+amenity variables (E)
+Log proximity to
+public forests
+Natural log of house distance (meters) to
+closest USFS boundary
+−
+Log proximity to
+water body
+Natural log of house distance (meters) to
+closest lake or reservoir
+−
+Log proximity to
+river
+Natural log of house distance (meters) to
+closest perennial river
+−
+WUI variables (W)
+WUI or WUI-mix
+Dummy variables for WUI designation
+Interface or Intermix
+?
+Log proximity to
+ﬁre station
+Natural log of house distance (meters) to
+closest ﬁre station
+−
+Forest density
+(100 m)
+Low100
+If house's 100 m buffer was Low Forest
+Density, dummy = 1
+?
+Medium100
+If house's 100 m buffer was Med Forest
+Density, dummy = 1
+?
+High100
+If house's 100 m buffer was High Forest
+Density, dummy = 1
+?
+Forest density
+(500 m)
+Low500
+If house's 500 m buffer was Low Forest
+Density, dummy = 1
+?
+Medium500
+If house's 500 m buffer was Med Forest
+Density, dummy = 1
+?
+High500
+If house's 500 m buffer was High Forest
+Density, dummy = 1
+?
+58
+E. Hjerpe et al. / Forest Policy and Economics 70 (2016) 56–66
+
+density in these high ﬁre risk regions. A full description of variables used
+in our analysis is presented in Table 1.
+2.2. Sampling methodology
+We obtained sales records of single family residential housing units
+for four ﬁre-prone WUI regions for multiple years (2011–2014) and
+carefully selected residential development within the WUI only. Our
+primary research question was aimed at isolating the potential inﬂu-
+ence of forest density variation on house values in Western ﬁre-prone
+forests. To do this, we selected WUI areas with similar forest types,
+ﬁre regimes, and natural environmental amenities. Market segmenta-
+tion across locations, geographies, and environmental attributes can
+be a concern for a combined hedonic price function of multiple regions
+and needs to be considered and accounted for in econometric analysis.
+We employed a sampling design that would ensure consistency in
+both the demand and supply structures of each sub-region (Freeman,
+1993) and the subsequent vector of coefﬁcients for each region (Haab
+and McConnell, 2003), allowing for the estimation of a single hedonic
+price function.
+2.2.1. Study area selection
+The four WUI cities selected were: Bend, Oregon, Flagstaff, Arizona,
+South Lake Tahoe, California and Missoula, MT (see Fig. 1).
+These four Western communities have similar degrees of urbaniza-
+tion and economic conditions (See Table 1), and can all be categorized
+as natural amenity-based towns that include many outdoor recreation
+and tourism industries and services. All WUI cities are in close proximity
+to national forest lands and have relatively high percentages of second-
+home ownership. All four cities also have similar ecological conditions
+of dry, mixed conifer and have substantial wildﬁre risk in the surround-
+ing forests. For example, approximately 13,000 houses in Deschutes
+County, Oregon have been designated as “High” or “Very High” risk for
+wildﬁre damage, representing a combined total reconstruction value es-
+timated at more than $3.4 billion (CoreLogic, 2015). As seen in Table 2,
+all four regions contain numerous houses in the WUI.
+2.2.2. Geo-data selection and tabulation
+Sales prices and descriptive characteristics for over 20,000 houses
+from the four Western counties (Coconino, AZ; Deschutes, OR; El Dora-
+do, CA; and Missoula, MT) from 2011 to 2014 were acquired from a real
+estate ﬁrm. Data were cleaned and ﬁltered to remove duplicates, miss-
+ing data, corrupt or incongruous data, and notable outliers. Geographi-
+cal coordinates for each parcel centroid were used to display houses in
+a GIS layer. Numerous manual checks were conducted to make sure
+the coordinates were accurate at high resolution. We obtained National
+Agriculture Imagery Program (NAIP) aerial imagery at 1 m ground sam-
+ple distance (http://www.fsa.usda.gov/programs-and-services/aerial-
+Fig. 1. Selected western dry, mixed-conifer WUI regions.
+59
+E. Hjerpe et al. / Forest Policy and Economics 70 (2016) 56–66
+
+photography/imagery-programs/naip-imagery/index) and overlaid
+wildland-urban interface (WUI) GIS layers as deﬁned by Radeloff et al.
+(2005) and presented by the SILVIS Lab at the University of Wisconsin
+(http://silvis.forest.wisc.edu/maps/wui_main). The WUI classiﬁcations
+from Radeloff et al. (2005) use the Federal Register 66 (USDA and
+USDI, 2001) WUI deﬁnition and include both Intermix and Interface
+WUI areas.2 All houses not designated as either WUI Intermix or Inter-
+face (e.g., uninhabited or too low of housing density) were ﬁltered
+out. Intermix and Interface were then classiﬁed as dummy variables.
+The National Hydrography Data set was used for identifying house dis-
+tances to lakes, reservoirs, and rivers (http://nhd.usgs.gov/index.html),
+and Google Earth was used to indentify house distances to ﬁre stations.
+Following a stepwise selection process, we mapped city boundaries
+for each region, implemented a 7.5-mile buffer surrounding the city
+boundary, and removed all houses from inside the city boundaries.
+We were left with a doughnut-shaped WUI zone surrounding each
+city (see Fig. 2). The 7.5-mile outer WUI buffer was clipped to our
+Land Cover/Forest Area and populated with recently sold houses. Out-
+side of 7.5 miles beyond city boundaries in general, housing density rap-
+idly decreased and became too low compared to our WUI datasets. The
+WUI buffer was created to separate WUI homes based near popular nat-
+ural amenity cities from homes in more remote, rural settings. Homog-
+enizing the most at risk WUI homes for each city was our priority as
+rural homebuyers may exhibit different preferences and demographics
+than our sample. Finally, through visual observation, we eliminated
+WUI buffer areas with very low or no vegetation cover, such as open
+grass lands, water bodies, and golf courses. Additionally, houses located
+in land cover dominated by other forest types, such as pinyon/juniper,
+were removed.3 Final selected WUI houses are illustrated in Fig. 2.
+To determine our forest density WUI variables, each transacted
+property in our WUI region was buffered at two distances. Two circles
+were drawn around each parcel centroid—one with a 100 m radius
+(3.14 ha/7.8 acres) and one with a 500 m radius (78.5 ha/194 acres).
+Background land cover allowed us identify “tree” or “no tree” at a one
+square meter resolution. Forest density buffers at the 100 and 500 m ra-
+dius-level were tabulated by totaling tree and no-tree units. With two
+unique tree percentages for each WUI house, we were able to classify
+and isolate the inﬂuence of forest density in WUI house sales at a
+broad level and at a more immediate level.
+Our data were from a 3 year span from 2011 to 2014. To control for
+regional market trends and timing, both seasonally and annually, we
+adjusted all property sales to a common year (2013) and quarter (2).
+We used quarterly housing price index from the US Federal Housing Fi-
+nance Agency at the three-digit zip code level.
+2.3. Hedonic regression analytics
+The hedonic pricing method is a nonmarket valuation technique
+used to estimate the inﬂuence of latent housing characteristics by gaug-
+ing their individual contribution to overall selling prices. Advancements
+in hedonic methods have addressed a number of analytical issues
+concerning spatial dependence, multicollinearity, and interpretation of
+regression results. Below, we detail our treatment of these hedonic
+considerations.
+2.3.1. Spatial dependence and hedonic regression
+Our WUI dataset represents multiple neighborhoods across four dis-
+parate regions. While we have included as many potentially inﬂuencing
+variables as possible, there is still a chance that clustering of houses, or
+their proximity to neighboring houses, may have an inﬂuence on their
+sales price. This spatial dependence was ﬁrst formally stated by Tobler
+(1970) and the ﬁrst law of geography: “everything is related to every-
+thing else, but near things are more related than distant things.”
+Anselin and Bera (1998) deﬁne spatial autocorrelation as the coinci-
+dence of value similarity with locational similarity. Positive spatial auto-
+correlation is the clustering in space of similar values, whereas negative
+spatial autocorrelation describes the dissimilar values associated with
+different neighborhoods farther out in space. Two types of spatial de-
+pendence can occur. Spatial lag refers to spatial dependencies across ob-
+servations of the dependent variable, while spatial autocorrelation
+refers to dependence across error terms. Maximum likelihood is a com-
+mon technique used for spatial estimation.
+Mueller and Loomis (2008) analyzed effects of correcting for spatial
+dependence in hedonic property models examining amenities and
+disamenities of natural hazards and a wildﬁre risk model. Their ﬁndings
+showed small differences between modeled spatial dependence and
+spatially uncorrected OLS estimates, but highlight that the small differ-
+ences can have serious implications for ﬁnal interpretations and implicit
+prices. Donovan et al.'s (2007) WUI hedonic model, however, did ﬁnd
+large differences for estimated coefﬁcients in spatially corrected regres-
+sions versus uncorrected OLS regressions. Given the numerous ﬁndings
+of spatial dependence in hedonic price functions, we investigated this
+issue in our dataset and addressed the problem in our ﬁnal regression
+models.
+Because spatial data typically violate the assumption of observation
+independence required by ordinary regression methods (Anselin and
+Bera, 1998; LeSage, 2014), we analyzed our data in multiple spatial
+models. Our motivation for accounting for spatial dependence was to
+limit potential omitted variable bias by estimating the spatial effects of
+house clusters (neighborhoods) within each region and to account for
+potential house price association with neighbors (e.g., Anselin and
+Bera, 1998, LeSage and Pace, 2009). Individual houses receive and
+exert inﬂuence on other neighbors just by being in close proximity to
+each other (e.g., selling values are often comprised of average surround-
+ing selling prices) — a focus of the spatial lag function. We also hypoth-
+esize that there may be other explanatory variables (characteristics)
+Table 2
+Description of selected WUI cities.
+WUI city
+Dominant WUI forest typea
+Population 2013
+WUI houses in countyb
+Median income
+Median housing price
+Flagstaff, AZ
+Ponderosa pine woodland
+68,700
+13,983
+$49,800
+$266,200
+Bend, OR
+Ponderosa pine woodland
+81,236
+17,536
+$53,000
+$255,800
+S. Lake Tahoe, CA
+Mesic mixed conifer forest and woodland
+21,387
+29,504
+$41,000
+$319,800
+Missoula, MT
+Dry-mesic montane mixed conifer forest
+69,100
+6771
+$40,700
+$237,600
+Source: US Census Bureau, State and County Quick Facts: http://quickfacts.census.gov/.
+a NAIP Land Cover Imagery.
+b Headwaters Economics at: http://headwaterseconomics.org/dataviz/wui-development-and-wildﬁre-costs
+2 Intermix and Interface deﬁnitions from the SILVIS Lab documentation: “The Wildland-
+Urban Interface (WUI) is composed of both interface and intermix communities. In both in-
+terface and intermix communities, housing must meet or exceed a minimum density of
+one structure per 40 acres (16 ha). Intermix communities are places where housing and
+vegetation intermingle. In Intermix, wildland vegetation is continuous, more than 50%
+vegetation, in areas with more than 1 house per 16 ha. Interface communities are areas
+with housing in the vicinity of contiguous vegetation. Interface areas have more than 1
+house per 40 acres, have less than 50% vegetation, and are within 1.5 mi of an area (made
+up of one or more contiguous Census blocks) over 1325 acres (500 ha) that is more than
+75% vegetated. The minimum size limit ensures that areas surrounding small urban parks
+are not classiﬁed as interface WUI.”
+3 Pinyon pine/juniper forests occur in only two of our four regions and houses located in
+pinyon/juniper were generally of lower value when compared to the primary ponderosa
+and dry-mixed conifers forests of the WUI. Due to these differences, we excluded house
+sales in pinyon/juniper forests to focus on a more homogenous set of WUI homes.
+60
+E. Hjerpe et al. / Forest Policy and Economics 70 (2016) 56–66
+
+shared by certain neighbors that we were unable to isolate in our overall
+model speciﬁcation. These shared characteristics could be a road, a
+unique natural feature, or a particular school that could lead to spatial
+autocorrelation among the error terms of WUI house price estimations.
+These unknown variables may have an inﬂuence on home prices of
+houses spatially clustered around them, indicating the need for a spatial
+error model.
+Estimating spatial models requires the construction of a spatial
+weights matrix that can be applied to our ﬁnal functional form in Eq.
+(3) to estimate spatial lag, spatial error, and combinations of the two
+(e.g., Durbin or mixed). Spatial dependencies across the dependent var-
+iable result in a spatially lagged model. The speciﬁed model for spatial
+lag becomes:
+P ¼ ρW1P þ βX þ ε;
+ð4Þ
+where P is a vector of house selling Prices, X is vector of house charac-
+teristics, β is a vector of characteristic coefﬁcients, and ε is a vector of
+the i.i.d error term. W1 is an N × N spatial weighting matrix describing
+the spatial lag process, and ρ is the scalar spatial lag coefﬁcient
+(Donovan et al., 2007).
+If individual error terms of WUI house prices are spatially
+autocorrelated, spatial error dependence will be present. The spatial
+error model can be represented as:
+P ¼ βX þ ε; where ε ¼ λW2ε þ μ;
+ð5Þ
+where P, X, and β are the same vectors of house price, characteristics,
+and coefﬁcients. However, in the spatial error model, ε represents a
+combined error term that has a spatially weighted matrix (W2) applied
+to the error terms, λ is the scalar spatial error coefﬁcient, and μ is a vec-
+tor of the error term (Elhorst, 2014).
+With two broad categories of spatial dependence, lag and error, and
+sub categories representing the various manners in which they manifest
+(i.e., exhibited on dependent variable, independent variables, and/or
+error term), there are multiple spatial models that provide for combined
+lag and/or error spatial dependence estimates. Two popular models are
+the spatial mixed model (or SAC) and the spatial Durbin model. The
+Fig. 2. Final selected properties for WUI cities (N = 418).
+61
+E. Hjerpe et al. / Forest Policy and Economics 70 (2016) 56–66
+
+spatial mixed model allows for lag and error autocorrelation and can be
+represented as:
+P ¼ ρW1P þ βX þ ε; where ε ¼ λW2ε þ μ;
+ð6Þ
+where matrix W1 may be set equal to W2, and the vectors are the same
+as in Eqs. (4) and (5) (LeSage and Pace, 2009). The spatial Durbin model,
+on the other hand, allows for spatial lags of the dependent variable and
+the explanatory variables, or:
+P ¼ ρW1P þ βX þ W1Xθ þ ε;
+ð7Þ
+where the new addition, W1Xθ, represents the exogenous interaction
+effects among the independent variables (Elhorst, 2014).
+2.3.2. Regression diagnostics
+Variables were observed in scatterplots, histograms, and kernel den-
+sity plots to investigate normality and heteroskedasticity. Our depen-
+dent variable exhibited non-normal probability distributions, being
+skewed to the right. Numeric and visual transformation tests in STATA
+showed that a logarithmic transformation worked the best in reducing
+skewness and kurtosis for the property values (smallest chi-square),
+and more importantly for their residuals. There is little guidance on
+functional form for hedonic property models (Taylor, 2003; Mueller
+and Loomis, 2008; Hussain et al., 2013) and logarithmic transformation
+of our dependent variable is consistent with previous research. Based on
+data exploration, seven independent variables were transformed to log
+and one was estimated as a square root function. Interaction effects
+among primary explanatory variables and the four sub-markets illus-
+trated similar preference structure of attributes on the demand side,
+though some interaction coefﬁcients indicate that supply structures
+are not exact matches among sub-markets. Further analysis showed
+that regional WUI houses were more similar to WUI houses in other re-
+gions, in terms of attributes, than when compared to houses found in
+adjacent city limits. Finding homogeneity among the four WUI housing
+markets provided conﬁdence that inclusion of regional dummies gener-
+ated appropriate intercept shifts so as to estimate a single hedonic price
+function.
+Summary statistics and basic correlations were investigated and a
+set of diagnostic tests were used to determine if multicollinearity or
+heteroskedasticity
+remained
+problems.
+A
+White's
+Test
+on
+heteroskedasticity led us to use Huber-White robust standard errors
+in our ﬁnal analysis. Multicollinearity is especially problematic for he-
+donic pricing models, given the inclusion of similar yet distinct housing
+attributes such as the number of bathrooms and the number of bed-
+rooms (Hussain et al., 2013). While some degree of multicollinearity
+will always be present (Stewart, 2005), we employed various testing
+of the degree and scale of correlation among our hedonic pricing attri-
+butes to help estimate the most relevant model speciﬁcation. Variance
+inﬂation factors (VIF) for all variables were determined, along with
+overall model condition numbers. These diagnostics led to the removal
+of four variables from our ﬁnal model speciﬁcation due to high correla-
+tions with other variables: bedrooms, year built, income, and distance to
+river. Our ﬁnal model estimated had a condition number of 17.02, which
+is in the optimal range between 10 and 30 as suggested by Gujarati
+(1998).
+A Moran's I Test indicated the presence of spatial autocorrelation in
+our communities (p = 0.000), requiring the use of spatial error and lag
+models. A spatial weights matrix and eigenvalue vectors were generat-
+ed and applied to our spatial regression. We used an inverse-distance
+spatial weights matrix as recommended by Mueller and Loomis
+(2008). Sensitivity analysis of varying band distances revealed robust
+results largely insensitive to neighbor distance delineations. Under our
+spatial weights matrix, parcels across regions are not considered neigh-
+bors. Our distance band used was 3 km. The diagonal elements are
+zeroes while the off diagonal elements are the weighted average of
+the particular neighborhood, where rows sum to one. At less than
+3 km, we began to see a few islands (houses with no neighbors) and a
+sparse matrix.
+Prior to spatial regressions, spatially uncorrected OLS regressions
+were estimated and retained for comparison. Estimate statistics such
+as Akaike Information Criterion (AIC) and Bayesian Information Criteri-
+on (BIC) were tabulated and used for guidance on preferred models. Ini-
+tial OLS regressions were estimated as generalized linear models (GLM)
+so as to obtain comparison criteria to our spatial regressions. Based on
+maximum likelihood estimates, and AIC and BIC stats, the spatial regres-
+sions were shown to be a superior ﬁt for our data over the spatially un-
+corrected OLS regression.
+The Moran's I Test provided for a ﬁrst view of spatial dependence in
+our sample. To get more details on the nature of the spatial dependency
+in our communities, we estimated robust Lagrange Multipliers (LM) for
+the weights matrix after an OLS speciﬁcation. Starting with a non-spatial
+linear regression and then investigating whether or not to move to a
+spatial regression is known as the speciﬁc-to-general approach
+(Elhorst, 2014). The robust LMs indicated that the spatial lag process
+was likely present in our sample (p = 0.051), but that spatial error pro-
+cess might not be present (p = 0.228). We continued to estimate four
+spatial models: the lag, error, Durbin, and mixed (see Eqs. (4)-(7)).
+However, as indicated by the robust LM tests, the spatial lag model
+was ultimately the best speciﬁcation.
+The four spatial models were estimated using maximum likelihood
+and evaluated based on the following model selection criteria: signiﬁ-
+cance of rho and lambda (the scalar coefﬁcients for lag and error pro-
+cess), log likelihood function, the AIC, and the BIC. The individual
+spatial dependence models, lag and error, were better speciﬁed than
+the combination spatial models and we present the criteria estimates
+for the lag and error models in Table 4. Of the spatial lag and error
+models, the lag model had the lower AIC and BIC and the larger log like-
+lihood estimate.
+Both the lag and error models yielded a signiﬁcant rho estimate
+(p = 0.053) and lambda estimate (p = 0.059). In the combined spatial
+models (Durbin and mixed) however, neither individual rho nor lamb-
+da were signiﬁcant, and the AIC and BIC estimates were substantially
+larger. The log likelihood estimates are not as comparable across the
+four spatial models due to different degrees of freedom, as the com-
+bined spatial models have interaction parameters along with the ex-
+planatory variables. AIC and BIC incorporate penalties for greater
+model parameters, whereas the log likelihood function does not
+(Stewart, 2005). As a result, AIC and BIC are better suited for evaluating
+the speciﬁcation of multiple spatial models. Based on speciﬁcation tests
+for four spatial models of our data, the spatial lag model is preferred,
+with the spatial error model being next preferred.
+2.3.3. Regression interpretation: implicit prices
+The hedonic pricing method is a nonmarket valuation technique that
+allows for the estimation of preferences for nonmarket attributes such
+as forest density on housing prices. Partial derivatives of the attributes
+are obtained and can be interpreted as implicit marginal prices for
+those attributes. That is, the hedonic regression coefﬁcients of attributes
+measure the rate of change in house price with respect to a one unit
+change in the attribute. These coefﬁcients can be used to infer house-
+holds' WTP for marginal changes in the level of WUI house
+attributes—and is why they are termed implicit prices (Loomis, 2004).
+Evaluation of attributes in a linear hedonic model is straightforward,
+where attribute coefﬁcients represent the dollar increase or decrease in
+home selling value associated with an additional unit of the attribute. In
+transformed functional models, such as the semilog model, coefﬁcients
+of attributes typically represent elasticities, where coefﬁcients are a per-
+centage that is applied to the house value. Interpretation of dummy var-
+iable coefﬁcients, however, is a bit more nuanced because they
+represent relatively large changes in the dependent variable.
+62
+E. Hjerpe et al. / Forest Policy and Economics 70 (2016) 56–66
+
+To interpret our regression coefﬁcients, we incorporate interpretive
+expressions for our semilog model illustrated by Kennedy (1981) and
+Stewart (2005) and applied to a hedonic price function by Hussain et
+al. (2013). Speciﬁcally, the implicit price expression used for continu-
+ous, non-transformed explanatory variables is:
+IMPBathrooms ¼ β1  AdjSalesPrice:
+ð8Þ
+For explanatory variables measured in logarithms:
+IMPLivingArea ¼ β1
+AdjSalesPrice
+LivingArea
+
+
+:
+ð9Þ
+But, for discrete explanatory variables such as dummies, treating at-
+tribute coefﬁcients as direct elasticities as done above results in a heavi-
+ly biased estimator (Stewart, 2005). This is because a large absolute
+change in binary variables (e.g., going from high, to medium, to low for-
+est density) represents a relatively large change in our dependent vari-
+able (WUI house sale price); whereas applying coefﬁcients directly as
+done in the case of continuous variables captures smaller changes at a
+ﬁner scale, resulting in less biased estimators. Thus, we use Kennedy's
+(1981) estimator to reduce bias for interpreting our WUI dummy vari-
+ables:
+IMPForestDensity ¼
+exp β1−0:5s2
+β1
+
+
+−1
+h
+i
+AdjSalesPrice;
+ð10Þ
+where s is the standard error of the ForestDensity dummy variable.
+Additionally, a spatial multiplier may exist when local spillover ef-
+fects result in further neighborhood house price adjustments. Spillover
+effects can be incorporated into the model resulting in a set of indirect
+effects. Indirect effects occur when neighboring house values inﬂuence
+the observed house sales price in that neighborhood, as is often the
+case with real estate markets. So beyond the direct effects of spatially
+corrected regression coefﬁcients calculated above in Eqs. (8)-(10),
+there may be indirect spatial spillover effects that need to be interpreted
+for ﬁnal marginal implicit price calculations. Kim et al. (2003) deﬁne the
+spatial multiplier as the sum of each row of the inverse matrix of row-
+standardized spatial weights, or 1 / (1 −ρ), if a unit change were in-
+duced at every location. Adding this to Eq. (8), we have a ﬁnal implicit
+price expression of:
+IMPBathrooms ¼ β1  AdjSalesPrice 
+1
+1−ρ
+
+
+;
+ð11Þ
+where the scalar parameter ρ is the coefﬁcient for the spatial lag
+process.
+The spatial error model does not allow for the estimation of indirect,
+or spillover, effects. Our Eq. (11) illustrates an implicit price estimation
+adjustment when using the spatial lag model or the spatial mixed model
+(SAC). Elhorst (2014) illustrates that the ratio of spillover effects to di-
+rect effects under the lag and mixed models is the same for every ex-
+planatory variable, meaning that one general spatial multiplier is
+applied to all variables. In many cases however, each explanatory vari-
+able may have a unique spatial multiplier that can be difﬁcult to isolate.
+For advanced interpretation of spatial multipliers for numerous spatial
+speciﬁcations see LeSage and Pace (2009) and Elhorst (2014).
+3. Results
+After the spatial delineation described in Section 2.2.2, we had 418
+property sales records from four communities. Table 3 shows summary
+statistics for the dependent and independent variables in our model.
+Our dependent variable is the log of adjusted home sale prices. Average
+home sale prices in our sample was $358,380 in adjusted 2013 prices,
+which is higher than the average prices of all four cities where the
+study sites are located. Higher house values can be explained by the
+fact that residential properties built in WUI areas tend to be quite a bit
+larger than those in urban centers (averaging 2100 sq. ft., or 195 sq.
+m. in our dataset), and are located on much larger parcel sizes (mean
+WUI lot size was 1.3 acres, or 0.53 ha. in our dataset).
+We present the results from both the spatial error and lag models in
+Table 4. However, with lower AIC and BIC estimates and a higher log-
+likelihood statistic (closer to zero), we focus our presentation of results
+in the text on the spatial lag model. Some of the results followed our
+general expectation. For example, larger houses with more bathrooms
+were sold at higher prices. Housing prices tend to be higher in the
+WUI area in California than places in other states. However, a few de-
+scriptor variables such as proximity to shopping, buyer location, prox-
+imity to public forests, WUI designation (Interface or Intermix), and
+distance to ﬁre station were not signiﬁcant.
+One of the most important ﬁndings was that forest density prefer-
+ences of home owners vary for different buffer sizes. At more immediate
+proximity (100 m buffer) and holding all other attributes constant, we
+ﬁnd that WUI homebuyers prefer low forest density in close vicinity of
+a house (100 m buffer). Speciﬁcally, results of our spatial lag model
+show a $37,910 decrease (p = 0.006) in WUI house value when moving
+from low forest density to medium forest density at the 100 m buffer
+level, and a $26,499 decrease (p = 0.060) when comparing low to
+high forest density. The interpreted implicit prices illustrate a convex
+demand function where the price decrease is greatest between low
+and medium density (see Fig. 3).
+At the 500 m forest density buffer however, higher density was pre-
+ferred. Results indicate a $29,529 decrease (p = 0.044) when moving
+from high to low forest density, and a $25,573 decrease (p = 0.053) in
+WUI home value when comparing high forest density to medium and
+Table 3
+Descriptive statistics for dry, mixed conifer WUI houses (N = 418).
+Variable
+Mean
+Std. dev.
+Min
+Max
+Dependent variable
+Adjusted sale price: $2013,
+regionally-adjusted
+358,380
+205,108.1
+60,507
+1,618,750
+Explanatory variables
+Structural variables (S)
+Living area (sq. ft)
+2116.041
+940.766
+469
+6591
+Bathrooms
+2.469
+1.030
+1
+6
+Bedrooms
+3.232
+0.962
+1
+8
+Lot area (acres)
+1.384
+2.737
+0.013
+25.050
+Year built
+1986.031
+15.617
+1926
+2013
+Neighborhood variables (N)
+WUI City
+Flagstaff, AZ
+0.246
+NA
+0
+1
+Bend, OR
+0.148
+NA
+0
+1
+S. Lake Tahoe, CA
+0.401
+NA
+0
+1
+Missoula, MT
+0.203
+NA
+0
+1
+Income ($)
+59,534.26
+10,221.38
+35,398
+86,211
+Proximity to shopping (meters)
+9013.7
+5059.8
+1295.1
+28,612.6
+Buyer location
+Out-of-region
+0.423
+NA
+0
+1
+In region
+0.576
+NA
+0
+1
+Environmental amenity variables (E)
+Proximity to public forests (meters)
+824.5
+1249.4
+0.144
+5750.8
+Proximity to water body (meters)
+5983.1
+5740.2
+22.6
+28,605.1
+Proximity to river (meters)
+20,135.0
+21,405.6
+0.156
+59,615.9
+WUI Variables (W)
+WUI or WUI-mix
+Intermix
+0.645
+NA
+0
+1
+Interface
+0.354
+NA
+0
+1
+Proximity to ﬁre station (meters)
+5050.0
+4342.5
+146.3
+25,311.9
+Forest density (100 m)
+Low100
+0.330
+NA
+0
+1
+Medium100
+0.339
+NA
+0
+1
+High100
+0.330
+NA
+0
+1
+Forest density (500 m)
+Low500
+0.330
+NA
+0
+1
+Medium500
+0.339
+NA
+0
+1
+High500
+0.330
+NA
+0
+1
+63
+E. Hjerpe et al. / Forest Policy and Economics 70 (2016) 56–66
+
+low densities combined. The difference of moving from high forest den-
+sity to medium forest density for the 500 m buffer was barely insigniﬁ-
+cant (p = 0.123), with a smaller coefﬁcient than comparing high to low
+density. In this case, implicit prices illustrate a ﬂatter decreasing de-
+mand function for broad level forest density preference in the WUI
+when comparing high, medium, and low forest densities.
+4. Discussion
+For western dry-mixed conifer WUI regions of the U.S., we see that
+forest density in close proximity to WUI homes (100 m radius) is nega-
+tively associated with house values, as denser forests are realized as a
+net disamenity. Expanding a WUI property's forest density buffer out
+to the 500 m radius-level, however, shows a positive association with
+proximate forest density, being realized as a net amenity. The conﬂict-
+ing scales of WUI homebuyer preferences illustrate the push and pull ef-
+fects of forests surrounding the examined natural amenity cities.
+In surveys of WUI residents, Brenkert–Smith et al. (2006) noted con-
+ﬂiction among residents concerning the tradeoffs associated with main-
+taining certain aesthetics and views as compared to reducing or
+increasing forest density of individual properties. While it is difﬁcult to
+dis-entangle amenity and view effects related to forests from effects as-
+sociated with ﬁre risk perception, it is likely that ﬁre risk is being capi-
+talized into WUI homebuyer preferences. Our study shows that forest
+density is ﬁgured into homeowners' preference in different ways de-
+pending on the location, which has important policy implications.
+Knowing these preferences can help identify home owners most in
+need of wildﬁre information and awareness programs, can identify re-
+gions where cost-sharing of ﬁre management funds might be most op-
+timal, and can be tracked over time to determine trends.
+Assuming that wildﬁre risk perceptions of WUI homebuyers are par-
+tially responsible for the preference associated with varying forest den-
+sity, we consider a few explanations. First, the preference for lower
+density forests in the immediate vicinity of homes (100 m) suggests
+Table 4
+Spatial regression estimates for dry, mixed conifer WUI houses.
+Spatial error modela
+Spatial lag modela
+Coef.
+Robust std. err.
+P N |z|
+Implicit price ($)b
+Coef.
+Robust std. err.
+P N |z|
+Implicit price ($)b
+Structural variables (S)
+Log living area (sq. ft)⁎
+0.6630
+0.0692
+0.000
+112.3
+0.6633
+0.0692
+0.000
+112.3
+Bathrooms⁎
+0.1218
+0.0303
+0.000
+43,651
+0.1218
+0.0302
+0.000
+43,651
+Log lot area (acreage)⁎⁎⁎
+0.0392
+0.0230
+0.088
+10,145
+0.0396
+0.0230
+0.086
+10,249
+Neighborhood variables (N)
+WUI City (base S. Lake Tahoe, CA)
+Flagstaff, AZ⁎
+−0.1894
+0.0621
+0.002
+−62,408
+−0.1911
+0.0627
+0.002
+−62,922
+Bend, OR⁎
+−0.3146
+0.0645
+0.000
+−97,277
+−0.3153
+0.0650
+0.000
+−97,468
+Missoula, MT*
+−0.3826
+0.0938
+0.000
+−115,007
+−0.3829
+0.0943
+0.000
+−115,092
+sqrt proximity to shopping (m)
+−0.0009
+0.0014
+0.525
+−0.0009
+0.0014
+0.509
+Buyer location (base in region)
+Out-of-region
+0.0076
+0.0387
+0.844
+0.0080
+0.0387
+0.837
+Environ. amenity variables (E)
+log proximity to public forests (m)
+0.0041
+0.0126
+0.744
+0.0040
+0.0127
+0.751
+log proximity to water body (m)
+−0.0357
+0.0237
+0.133
+−0.0359
+0.0238
+0.131
+WUI variables (W)
+WUI or WUI-mix (base Interface)
+Intermix
+−0.0610
+0.0366
+0.661
+−0.0156
+0.0366
+0.670
+Log proximity to ﬁre station (m)
+−0.0079
+0.0369
+0.830
+−0.0078
+0.0371
+0.834
+Forest density 100 m (baseLow100)
+Medium100⁎
+−0.1114
+0.0401
+0.005
+−38,038
+−0.1110
+0.0401
+0.006
+−37,910
+High100⁎⁎⁎
+−0.0764
+0.0404
+0.058
+−26,631
+−0.0760
+0.0404
+0.060
+−26,499
+Forest density 500 m (base High500)
+Low500⁎⁎
+−0.0855
+0.0424
+0.044
+−29,664
+−0.0851
+0.0424
+0.045
+−29,532
+Medium500
+−0.0631
+0.0409
+0.123
+−0.0631
+0.0409
+0.123
+Model statistics
+Number of observations
+418
+418
+Lambda (λ)⁎⁎⁎
+−0.00012
+0.059
+Rho (ρ)⁎⁎⁎
+−0.00007
+0.053
+Variance ratio
+0.634
+0.642
+AIC
+300.30
+300.27
+BIC
+376.97
+376.95
+Log-likelihood
+−131.15
+−131.13
+robust Lagrange Multiplier
+1.456
+0.228
+3.809
+0.051
+a Inverse distance band (0 3) used for spatial weights matrix.
+b Implicit prices represent the amount an additional attribute contributes to overall price, while holding all other attributes constant. Only signiﬁcant variables are calculated.
+⁎ Statistical signiﬁcance for both models at the 99% level.
+⁎⁎ Statistical signiﬁcance for both models at the 95% level.
+⁎⁎⁎ Statistical signiﬁcance for both models at the 90% level.
+Fig. 3. Implicit demand curves for WUI forest density levels.
+64
+E. Hjerpe et al. / Forest Policy and Economics 70 (2016) 56–66
+
+that western WUI homebuyers are concerned with the immediate ﬁre
+risk surrounding their properties. The number of structures burned by
+wildﬁres has been increasing from an average of 209 structures per
+year lost to wildﬁre in the 1960's to 2726 structures per year in the
+2000's (insurance claims for structure losses in the WUI averaged
+$800 million/year) (ICC, 2008). Existing WUI homeowners have more
+awareness and incentives to reduce fuels on their properties. Preference
+for lower density forests immediately surrounding WUI homes repre-
+sents a market signal that wildﬁre risk is being considered for these
+communities, which is notable given that 42% of sampled WUI house
+sales were purchased by out-of-region and potential second-home
+buyers. New arrivals to high risk WUI regions has been a commonly in-
+vestigated theme, being offered as contributing factor to incomplete and
+underestimated ﬁre risk information (Paveglio et al., 2015). In separate
+correlation tests, we found no signiﬁcant association between in-region
+and out-of-region WUI homebuyers and forest density levels; nor was
+there an association between new migrants and WUI house sales price.
+At the broader context however, we see that WUI homebuyers pre-
+fer to be close to higher forest density and higher wildﬁre risk areas. De-
+mand for higher forest density can be explained by personal preferences
+for living in more remote areas with classic natural amenities such as
+public forests and “dangerous topography” (Champ et al., 2009). Our re-
+sults implied homeowners only value low density in their immediate vi-
+cinity, which may be due to partial evaluation of their risk. Real estate
+and insurance industries are now urged to recognize property losses
+due to wildﬁres caused by windblown embers and pay attention to
+risk in larger landscapes (CoreLogic, 2015). With rapidly increasing
+ﬁre risk in these areas, and rapid expansion of WUI house development,
+we believe that two forms of market failure are likely inﬂuencing forest
+densities net amenity status at the broader level.
+Missing and incomplete information concerning the level of wildﬁre
+risk is the ﬁrst form of market failure. Many WUI homebuyers are sim-
+ply not fully aware of the accompanying wildﬁre risk and are willing to
+pay for more information (Mozumder et al., 2009). Donovan et al.'s
+(2007) ﬁndings of changed house prices based on a parcel-level wildﬁre
+risk rating conducted by the municipality suggests that information and
+awareness campaigns can be effective in changing the homebuyer's ﬁ-
+nancial accounting of wildﬁre risk. As wildﬁre risk awareness increases,
+market failures due to incomplete information should decrease.
+The second form of market failure stems from federal and municipal
+subsidies in the form of ﬁre suppression and response, along with insur-
+ance premiums that do not fully reﬂect the natural disaster risk.4 These
+market failures provide incentives for WUI expansion and have shifted
+the burden of ﬁre management in the WUI to the public. WUI residents,
+on the other hand, are receiving partial free-rider effects because they
+are not fully responsible for their decisions to locate in ﬁre-prone for-
+ests. The results of our empirical analysis are in line with the ﬁndings
+from a game theoretic model by Busby and Albers (2010). They con-
+cluded that public liability to protect private values in mixed ownership
+areas like the WUI essentially encourages private landowners to do too
+little fuel treatments. Similar to how suppressing ﬁre today increases
+ﬁre suppression need in the future, assistance and replacement values
+from both federal policies and insurance during and after wildﬁres cre-
+ates greater WUI expansion and protection needs in the future and thus,
+ever increasing taxpayer-funded ﬁre management.
+5. Conclusions and policy recommendations
+Evidence that variation in forest density inﬂuences house sales
+prices in the most at-risk western WUI areas is critical and novel infor-
+mation that should be incorporated in the larger calculus of developing
+broader wildﬁre management policies. Our ﬁndings suggest the need to
+reconsider broad approaches in awareness campaigns (e.g., Firewise
+communities), community wildﬁre protection plans (CWPP), regional
+development polices, and preventive versus reactionary ﬁre manage-
+ment strategies. For example, fuel reduction treatments are a primary
+policy mechanism for decreasing wildﬁre threats and our results indi-
+cate that parcel-level defensible space creation and immediately adja-
+cent fuel reduction efforts may increase WUI home values. However,
+preference for higher density forests implies that if left to homeowners,
+fuel treatments in adjacent public spaces may be underinvested and
+may be opposed by a portion of WUI homeowners. Larger or more ag-
+gressive publicly funded fuel treatments may have a reducing effect
+on WUI house values in the short run and may exacerbate existing mar-
+ket failures by providing further subsidies and incentives to WUI
+homebuyers.
+The preference for high forest density in WUI areas at the larger scale
+(500 m radius-level) may be the result of incomplete information that
+does not accurately reﬂect the wildﬁre hazard. Recommendations for
+reducing these market failures and shifting the burden of wildﬁre risk
+to the WUI homebuyer include greater accounting of societal costs
+and beneﬁts of wildﬁre management, greater education and outreach
+efforts concerning wildﬁre risk and mitigation, and greater coordination
+among federal, state, county, and local governments when considering
+their development policies within high ﬁre risk areas. Often, local policy
+can inﬂuence the direction of WUI development.
+We recommend further research on who pays for wildﬁre manage-
+ment and who beneﬁts from it. Research should include close examina-
+tions of economic incentives and disincentives created by wildﬁre
+insurance, local wildﬁre management and education, and federal wild-
+ﬁre management policies. For forest density in the American West,
+greater sampling of additional communities and homes would provide
+for more robust estimation. Increased collection of parcel characteristics
+that comprise ﬁre risk and avoidance such as building/roof materials
+and slope may identify important variables. Further research on sepa-
+rating the implicit values of view and amenity effects related to forest
+density from ﬁre risk perception is also needed. For example, stated
+preference techniques could be used to survey the same sample used
+in our revealed preference study and comparisons could be made be-
+tween revealed and stated forest density preferences, along with
+being able to directly interpret reasons and drivers for density
+preferences.
+Likewise, there is a need to understand WUI homebuyer behavior
+and preference in the very rural and forested communities. We restrict-
+ed our sample of WUI cities to natural amenity towns greater than
+20,000 people so as to boost our sample size. As such, our ﬁndings
+should not be generalized to the small communities and isolated houses
+far from any communities. Additional research is needed on these ﬁre-
+prone property owners, as they likely represent a large share of the
+wildland ﬁre management responsibility and may behave differently.
+For example, people living in very dense forests in at-risk hinterlands
+may prefer low density openings due to their scarcity in their region.
+They may also have very different budgets and different housing charac-
+teristic preferences from those in our study, along with different local
+development and ﬁre policies.
+Acknowledgments
+We would like to thank Courtney Green for assistance, Diane Vosick
+for reviewing our work, and CoreLogic for data assistance. We appreci-
+ate a review and modeling advice from Anwar Hussain. We also appre-
+ciate anonymous referees for their comments on previous drafts of this
+manuscript. This research was funded by a grant from the USDA Forest
+Service through the Ecological Restoration Institute (ERI) at Northern
+Arizona University (NAU) and by ERI. NAU is an equal opportunity pro-
+vider. In accordance with Federal law and U.S. Department of Agricul-
+ture policy, this institution is prohibited from discriminating on the
+basis of race, color, national origin, sex, age, or disability.
+4 Despite the fact that in some high ﬁre risk areas insurance providers are beginning to
+require some averting activities as a condition of insurance coverage (Talberth et al.,
+2006).
+65
+E. Hjerpe et al. / Forest Policy and Economics 70 (2016) 56–66
+
+References
+Abrams, J.B., Knapp, M., Paveglio, T.B., Ellison, A., Moseley, C., Nielsen-Pincus, M., Carroll,
+M.S., 2015. Re-envisioning community-wildﬁre relations in the US West as adaptive
+governance. Ecol. Soc. 20 (3), 34.
+Abt, K.L., Prestemon, J.P., Gebert, K.M., 2009. Wildﬁre suppression cost forecasts for the US
+Forest Service. J. For. 107 (4), 173–178.
+Anselin, L., Bera, A.K., 1998. Spatial Dependence in Linear Regression Models with an In-
+troduction to Spatial Econometrics. Handbook of Applied Economic Statistics,
+pp. 237–290.
+Atreya, A., Ferreira, S., Kriesel, W., 2013. Forgetting the ﬂood? An analysis of the ﬂood risk
+discount over time. Land Econ. 89 (4), 577–596.
+Bin, O., Polasky, S., 2004. Effects of ﬂood hazards on property values: evidence before and
+after Hurricane Floyd. Land Econ. 80 (4), 490–500.
+Brenkert–Smith, H., Champ, P.A., Flores, N., 2006. Insights into wildﬁre mitigation deci-
+sions among wildland–urban interface residents. Soc. Nat. Resour. 19 (8), 759–768.
+Busby, G., Albers, H.J., 2010. Wildﬁre risk management on a landscape with public and
+private ownership: who pays for protection? Environ. Manag. 45 (2), 296–310.
+Calkin, D.E., Gebert, K., 2006. Modeling fuel treatment costs on Forest Service Lands in the
+Western United States. West. J. Appl. For. 21, 217–221.
+Cavallo, E.A., Noy, I., 2009. The Economics of Natural Disasters: A Survey. IDB Working
+Paper No. 35 (Available at http://dx.doi.org/10.2139/ssrn.1817217).
+Champ, P.A., Donovan, G.H., Barth, C.M., 2009. Homebuyers and wildﬁre risk: a Colorado
+Springs case study. Soc. Nat. Resour. 23 (1), 58–70.
+Cho, S.H., Poudyal, N.C., Roberts, R.K., 2008. Spatial analysis of the amenity value of green
+open space. Ecol. Econ. 66 (2), 403–416.
+Cho, S.H., Kim, S.G., Roberts, R.K., Jung, S., 2009. Amenity values of spatial conﬁgurations of
+forest landscapes over space and time in the Southern Appalachian highlands. Ecol.
+Econ. 68 (10), 2646–2657.
+CoreLogic, 2015. Wildﬁre Hazard Risk Report: Residential Wildﬁre Exposure Estimates for
+the Western United States. CoreLogic (Available at http://corelogic.com).
+Covington, W.W., 2000. Helping western forests heal. Nature 408 (6809), 135–136.
+Darques, R., 2015. Mediterranean cities under ﬁre. A critical approach to the wildland-
+urban interface. Appl. Geogr. 59, 10–21.
+Donovan, G.H., Champ, P.A., Butry, D.T., 2007. Wildﬁre risk and housing prices: a case
+study from Colorado Springs. Land Econ. 83 (2), 217–233.
+Elhorst, J.P., 2014. Spatial Econometrics: From Cross-Sectional Data to Spatial Panels.
+Springer, New York.
+Freeman, A.M.I.I.I., 1993. The Measurement of Environmental and Resource Values. Re-
+sources for the future, Washington, DC:, pp. 367–420.
+GAO, 2009a. Wildland Fire Management: Federal Agencies Have Taken Important Steps
+forward, but Additional, Strategic Action Is Needed to Capitalize on those Steps.
+GAO-09-877.
+GAO, 2009b. Wildland Fire Management: Actions by Federal Agencies and Congress could
+Mitigate Rising Fire Costs and their Effects on Other Agency Programs. GAO-09-444T.
+GAO, 2015. Forest Restoration: Adjusting Agencies' Information-Sharing Strategies could
+Beneﬁt Landscape-Scale Projects. GAO-15-398.
+Gebert, K.M., Calkin, D.E., Yoder, J., 2007. Estimating suppression expenditures for individ-
+ual large wildland ﬁres. West. J. Appl. For. 22 (3), 188–196.
+Goemans, M., Ballamingie, P., 2013. Forest as hazard, forest as victim: community per-
+spectives and disaster mitigation in the aftermath of Kelowna's 2003 wildﬁres. Can.
+Geogr. Geogr. Can 57, 56–71.
+Graves, P., Murdoch, J.C., Thayer, M.A., Waldman, D., 1988. The robustness of hedonic
+price estimation: urban air quality. Land Econ. 84 (3), 220–233.
+Gude, P., Rasker, R., Van den Noort, J., 2008. Potential for future development on ﬁre-
+prone lands. J. For. 106 (4), 198–205.
+Gujarati, D.N., 1998. Basic Econometrics. McGraw-Hill Publishing, New York.
+Haab, T., McConnell, K., 2003. The Econometrics of Non-Market Valuation. Edward Elgar
+Publishing.
+Ham, C., Champ, P.A., Loomis, J.B., Reich, R.M., 2012. Accounting for heterogeneity of pub-
+lic lands in hedonic property models. Land Econ. 88 (3), 444–456.
+Hansen, W.D., Mueller, J.M., Naughton, H.T., 2014. Wildﬁre in hedonic property models.
+West. Econ. Forum 13 (1), 23–35.
+Huggett Jr., R.J., 2004. Fire in the Wildland-Urban Interface: An Examination of the Effects
+of Wildﬁre on Residential Property Markets (PhD Dissertation) North Carolina State
+University (136 pp.).
+Hussain, A., Munn, I.A., Brashier, J., Jones, W.D., Henderson, J.E., 2013. Capitalization of
+hunting lease income into northern Mississippi forestland values. Land Econ. 89
+(1), 137–153.
+ICC, 2008. The Blue Ribbon Panel Report on Wildland Urban Interface Fire. International
+Code Council Headquarters, Washington, DC (Available at http://www.iccsafe.org/
+government/blueribbon/index.html).
+Keeley, J.E., Fotheringham, C.J., Morais, M., 1999. Reexamining ﬁre suppression impacts on
+brushland ﬁre regimes. Science 284 (5421), 1829–1832.
+Kennedy, P.E., 1981. Estimation with correctly interpreted dummy variables in semiloga-
+rithmic equations. Am. Econ. Rev. 71, 4.
+Kim, Y.S., Hjerpe, E.E., 2011. Merging Economics and Ecology in Ecological Restoration. In:
+Egan, D., Hjerpe, E., Abrams, J. (Eds.), Human Dimensions of Ecological Restoration. Is-
+land Press/Center for Resource Economics, pp. 191–206.
+Kim, Y.-S., Wells, A., 2005. The impact of Forest density on property values. J. For. 103
+(156-151).
+Kim, C.W., Phipps, T.T., Anselin, L., 2003. Measuring the beneﬁts of air quality improve-
+ment: a spatial hedonic approach. J. Environ. Econ. Manag. 45 (1), 24–39.
+LeSage, J.P., 2014. What Regional Scientists Need to Know about Spatial Econometrics.
+(Available at SSRN 2420725).
+LeSage, J.P., Pace, R.K., 2009. Introduction to Spatial Econometrics. Chapman &Hall/CRC,
+Boca Raton, FL.
+Liang, J., Calkin, D.E., Gebert, K.M., Venn, T.J., Silverstein, R.P., 2008. Factors inﬂuencing
+large wildland ﬁre suppression expenditures. Int. J. Wildland Fire 17, 650–659.
+Loomis, J., 2004. Do nearby forest ﬁres cause a reduction in residential property values?
+J. For. Econ. 10 (3), 149–157.
+McFarlane, B.L., McGee, T.K., Faulkner, H., 2011. Complexity of homeowner wildﬁre risk
+mitigation: an integration of hazard theories. Int. J. Wildland Fire 20, 921–931.
+Mell, W.E., Manzello, S.L., Maranghides, A., Butry, D., Rehm, R.G., 2010. The wildland–
+urban interface ﬁre problem–current approaches and research needs. Int.
+J. Wildland Fire 19 (2), 238–251.
+Mendelsohn, R., Olmstead, S., 2009. The economic valuation of environmental amenities
+and disamenities: methods and applications. Annu. Rev. Environ. Resour. 34,
+325–347.
+Mishan, E.J., 1974. Economics of Disamenity. Nat. Resour. J. 14, 55.
+Morgan, A., 2007. The impact of Hurricane Ivan on expected ﬂood losses, perceived ﬂood
+risk, and property values. J. Hous. Res. 16 (1), 47–60.
+Mozumder, P., Helton, R., Berrens, R.P., 2009. Provision of a wildﬁre risk map: informing
+residents in the wildland urban interface. Risk Anal. 29 (11), 1588–1600.
+Mueller, J.M., Loomis, J.B., 2008. Spatial dependence in hedonic property models: do dif-
+ferent corrections for spatial dependence result in economically signiﬁcant differ-
+ences in estimated implicit prices? J. Agric. Resour. Econ. 212–231.
+Mueller, J., Loomis, J., Gonzalez-Caban, A., 2009. Do repeated wildﬁres change
+Homebuyers' demand for homes in high-risk areas? A hedonic analysis of the short
+and long-term effects of repeated wildﬁres on house prices in Southern California.
+J. Real Estate Financ. Econ. 38, 155–172.
+Netusil, N.R., Chattopadhyay, S., Kovacs, K.F., 2010. Estimating the demand for tree cano-
+py: a second-stage hedonic price analysis in Portland, Oregon. Land Econ. 86 (2),
+281–293.
+Nowak, D.J., Stein, S.M., Randler, P.B., Greenﬁeld, E.J., Comas, S.J., Carr, M.A., Alig, R.J., 2010.
+Sustaining America's Urban Trees and Forests: A Forests on the Edge Report. Gen.
+Tech. Rep. NRS-62, U.S.Department of Agriculture, Forest Service, Northern Research
+Station
+Palmquist, R.B., 1983. Estimating the demand for the characteristics of housing. Rev. Econ.
+Stat. 66 (394-404212-231).
+Paveglio, T.B., Moseley, C., Carroll, M.S., Williams, D.R., Davis, E.J., Fischer, A.P., 2015. Cat-
+egorizing the social context of the Wildland Urban Interface: adaptive capacity for
+wildﬁre and community “archetypes”. For. Sci. 61 (2), 298–310.
+Radeloff, V.C., Hammer, R.B., Stewart, S.I., Fried, J.S., Holcomb, S.S., McKeefry, J.F., 2005. The
+wildland-urban interface in the United States. Ecol. Appl. 15 (3), 799–805.
+Rasker, R., 2015. Resolving the increasing risk from wildﬁres in the American west. Solu-
+tions 6 (2), 48–55 (- http://www.thesolutionsjournal.com/node/237329).
+Ridker, R., Henning, J.A., 1967. The determinants of residential property values with spe-
+cial reference to air pollution. Rev. Econ. Stat. 1 (49), 246–257.
+Shafran, A.P., 2008. Risk externalities and the problem of wildﬁre risk. J. Urban Econ. 64
+(2), 488–495.
+Smith, V.K., Huang, J.C., 1993. Hedonic models and air pollution: twenty-ﬁve years and
+counting. Environ. Resour. Econ. 3, 381–394.
+Stetler, K.M., Venn, T.J., Calkin, D.E., 2010. The effects of wildﬁre and environmental ame-
+nities on property values in Northwest Montana, USA. Ecol. Econ. 69 (11),
+2233–2243.
+Stewart, K.G., 2005. Introduction to Applied Econometrics. Thomson Brooks/Cole, Bel-
+mont, CA.
+Talberth, J., Berrens, R.P., McKee, M., Jones, M., 2006. Averting and insurance decisions in
+the wildland–urban interface: implications of survey and experimental data for wild-
+ﬁre risk reduction policy. Contemp. Econ. Policy 24 (2), 203–223.
+Taylor, L.O., 2003. The Hedonic Method. In: Champ, P., Brown, T., Boyle, K. (Eds.), A Primer
+on
+Nonmarket
+Valuation.
+Kluwer
+Academic
+Publishers,
+The
+Netherlands,
+pp. 331–393.
+Theobald, D.M., Romme, W.H., 2007. Expansion of the US wildland-urban interface.
+Landsc. Urban Plan. 83 (4), 340–354.
+Tobler, W.R., 1970. A computer movie simulating urban growth in the Detroit region.
+Econ. Geogr. 234–240.
+USDA, USDI, 2001. Urban wildland interface communities within vicinity of federal lands
+that are at high risk from wildﬁre. Fed. Regist. 66, 751–777.
+Venn, T.J., Calkin, D.E., 2011. Accommodating non-market values in evaluation of wildﬁre
+management in the United States: challenges and opportunities. Int. J. Wildland Fire
+20 (3), 327–339.
+Westerling, A.L., Hidalgo, H.G., Cayan, D.R., Swetnam, T.W., 2006. Warming and earlier
+spring increase western U.S. forest wildﬁre activity. Science 313, 940–943.
+Yoder, J., Gebert, K., 2012. An econometric model for ex ante prediction wildﬁre suppres-
+sion costs. J. For. Econ. 18, 76–89.
+66
+E. Hjerpe et al. / Forest Policy and Economics 70 (2016) 56–66

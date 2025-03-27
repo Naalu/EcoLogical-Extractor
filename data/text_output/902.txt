@@ -1,0 +1,1391 @@
+Contents lists available at ScienceDirect
+Forest Policy and Economics
+journal homepage: www.elsevier.com/locate/forpol
+Changes in potential wildland ﬁre suppression costs due to restoration
+treatments in Northern Arizona Ponderosa pine forests☆
+Ryan A. Fitcha,⁎, Yeon Su Kimb, Amy E.M. Waltzc, Joe E. Crousec
+a Alliance Bank Economic Policy Institute, Northern Arizona University, P.O. Box: 15066, Flagstaﬀ, AZ 86011, United States
+b School of Forestry, Northern Arizona University, 200 East Pine Knoll Drive, Flagstaﬀ, AZ 86011, United States
+c Ecological Restoration Institute, Northern Arizona University, P.O. Box 15017, Flagstaﬀ, AZ 86011, United States
+A R T I C L E I N F O
+Keywords:
+Wildﬁre suppression costs
+Wildﬁre management policy
+Burn severity
+Forest restoration treatments
+FlamMap
+Northern Arizona
+A B S T R A C T
+Wildﬁre suppression costs have been increasing since the early 1970's. With growing concern over wildﬁre
+suppression costs, our analysis addresses restoration treatment eﬀectiveness in reducing wildﬁre suppression
+costs. We examine past ﬁres across the Northern Arizona landscape to determine ﬁre behavior characteristics
+that are signiﬁcant in predicting wildﬁre suppression costs and capable of being modeled in ﬁre simulations
+prior to wildﬁre events. We ﬁnd burn severity metrics to be signiﬁcant in predicting wildﬁre suppression costs.
+Three proposed treatment alternatives for the Four Forest Restoration Initiative (4-FRI) are analyzed to de-
+termine treatment eﬀectiveness and policy implications in reducing burn severity metrics and wildﬁre sup-
+pression costs. The more aggressive treatments are more eﬀective in reducing wildﬁre suppression costs except
+in the case of sever wind and weather events.
+1. Introduction
+Federal
+agencies,
+including
+the
+USDA
+Forest
+Service
+and
+Department of Interior (DOI), experienced a rising trend in wildland
+ﬁre management expenditures beginning in 1971. A 2015 GAO report
+documented the average annual expenditure on wildland ﬁre man-
+agement activities at $3.4 billion over the 2004–2014 ﬁscal years
+(GAO, 2015). The appropriation for wildland ﬁre management activ-
+ities by the Forest Service and DOI more than doubled to an annual
+average of $2.9 billion during the 2001–2007-time frame compared to
+an annual average of $1.2 billion from 1996 to 2000 (GAO, 2009). This
+rising trend in wildland ﬁre management expenditures is forecasted to
+continue in the future with higher frequency of wildland ﬁre occur-
+rences, longer durations of wildland ﬁre seasons (Westerling et al.,
+2006), and the expansion of residential development within the wild-
+land-urban interface (WUI) (Radeloﬀet al., 2005a, 2005b).
+In previous studies wildﬁre size has been shown to be correlated with
+estimating suppression costs (Calkin et al., 2005; Liang et al., 2008;
+Thompson et al., 2013). If ﬁre suppression costs are to be mitigated, it
+seems appropriate to focus on the factors, treatments, and policy that re-
+late to ﬁres categorized as “large” in size or where the severe wildﬁre
+threat is greatest (Pollet and Omi, 2002; Holmes et al., 2008). Our analysis
+expands on previous studies by examining burn characteristics of previous
+wildland ﬁres that are signiﬁcant in predicting wildﬁre suppression costs.
+Examining previous wildﬁres near our study area allows us to determine
+which ﬁre behavior characteristics are useful in predicting suppression
+costs. We further seek wildﬁre behavior characteristics that can be mod-
+eled via ﬁre modeling programs to determine wildﬁre suppression costs ex
+ante. Incorporating wildﬁre behavior results, we develop a regression
+model to predict wildland ﬁre suppression costs. However, wildﬁre
+modeling is not without error. Incorrect use of model inputs and under-
+prediction bias from the models impact the model outputs and the con-
+clusions drawn from model outputs (Varner and Keyes, 2009; Cruz and
+Alexander, 2010). Our results are complementary to the future application
+of Risk and Cost Analysis Tools Package (R-CAT) (USDA Forest Service,
+2010). R-CAT's general purpose is to standardize the methods for esti-
+mating risk reduction and cost savings resulting from land management
+proposals and treatments. R-CAT is required for all ﬁre projects funded by
+the USDA Forest Service Collaborative Forest Landscape Restoration Pro-
+gram (CFLRP) and our results are not meant to replace the required pro-
+cedure (USDA Forest Service, 2010).
+2. Background
+There have been considerable eﬀorts to understand the factors af-
+fecting overall costs of wildland ﬁres (e.g. Donovan and Rideout, 2003;
+https://doi.org/10.1016/j.forpol.2017.11.006
+Received 17 August 2016; Received in revised form 18 April 2017; Accepted 18 November 2017
+☆This research did not receive any speciﬁc grant from funding agencies in the public, commercial, or not-for-proﬁt sectors.
+⁎ Corresponding author.
+E-mail address: ryan.ﬁtch@nau.edu (R.A. Fitch).
+)RUHVW3ROLF\DQG(FRQRPLFV²
+(OVHYLHU%9$OOULJKWVUHVHUYHG
+7
+
+Donovan et al., 2004; Gebert et al., 2007; Liang et al., 2008; Lynch,
+2004; Prestemon et al., 2008; Donovan et al., 2011). Intuitively, one
+important factor is the increasing trend in total hectares (ha) burned by
+large wildland ﬁres. Wildland ﬁres < 122 hectares (ha) in size ac-
+counted for approximately 98.5% of the ﬁres managed by the Forest
+Service from 1980 to 2002 but these small ﬁres accounted for 6.2% of
+the total wildland ﬁre suppression expenditures (Strategic Issues Panel
+on Fire Suppression Costs, 2004). A comparison of the average number
+of ha burned by wildland ﬁres from 1970 to 1986 and 1987–2002
+shows a stark increase from approximately 115,340 ha burned to over
+405,000 ha burned annually (Calkin et al., 2005). For another com-
+parison, 1700 ﬁre ignitions burned about 1.21 million ha of forests in
+the Northern Rocky Mountains in 1910, while three ignitions triggered
+the Rodeo-Chediski and Hayman ﬁres, which burned > 200,000 ha in
+2002. While not studied directly, Calkin et al. (2005) reported that total
+hectares burned track wildland ﬁre suppression costs “very well” on an
+annual basis. Large wildﬁres (> 400 ha) constitute a small number of
+total wildland ﬁres that occur across the landscape (1.1%) and these
+large wildland ﬁres accounts for 97.5% of the total hectares burned
+(Calkin et al., 2005). The frequency of large wildﬁres has markedly
+increased since the mid-1980s as there were almost four times as many
+large ﬁres burning nearly seven times more land between 1987 and
+2003 than compared to 1970 through 1986. The trend in the frequency
+of large wildﬁres has gotten worse and is projected to continue with
+warmer temperatures and earlier spring onset via climate change
+(Westerling et al., 2006). Although total ﬁre size (area burned) in-
+creases overall suppression cost, expected suppression cost per ha de-
+creases as ﬁre size increases due to the ﬁxed nature of many ﬁre sup-
+pression related expenditures.
+Total wildland ﬁre suppression cost has been positively correlated
+with various spatial factors in addition to ﬁre size. However, some of
+these factors have produced diﬀering results. In a study that examined
+100 wildland ﬁres > 120 ha in size between 1996 and 2005, ap-
+proximately 58% of the variation in wildland ﬁre suppression costs was
+attributed to ﬁre size and percentage of private land burned (Liang
+et al., 2008). After examining 1550 wildland ﬁres across the US, Gebert
+et al. (2007) found that total housing value within 32 kilometers (km)
+of the wildland ﬁre ignition point had a positive eﬀect on expected
+suppression cost. Yoder and Gebert (2012) also found that housing
+values within a 20 mile radius of the wildﬁre contributes to an increase
+in estimated wildﬁre suppression costs. Complicating the hypothesis
+that the proximity of houses to wildﬁre increases suppression costs,
+Donovan et al. (2004) didn't ﬁnd housing density or total housing to be
+signiﬁcant in predicting wildﬁre suppression costs. Rather, ﬁre size was
+again found to be the most signiﬁcant variable (Donovan et al., 2004).
+Increased wildland ﬁre suppression expenditure has led to a
+growing interest in modeling eﬀectiveness of fuel treatments; namely,
+changes in wildland ﬁre burn probabilities and ﬁre behavior due to fuel
+treatments (e.g. Ager et al., 2011; Calkin et al., 2005; Cochrane et al.,
+2012; Finney, 2005; Finney et al., 2005; Pollet and Omi, 2002; Stratton,
+2004). The results of the ﬁre modeling can be used to strategically lo-
+cate fuel treatments in the landscape (Finney, 2005) and to estimate
+changes in expected suppression costs due to fuel treatments (Wildland
+Fire Management Risk and Cost Analysis Tools Package: R-CAT) (USDA
+Forest Service, 2010).
+Fire modeling used to predict ﬁre size, characteristics, and beha-
+viors has limitations. Because wildland ﬁre behavior is modeled over a
+given area of the landscape, the potential extent of a wildland ﬁre
+cannot be modeled via ﬁre behavior modeling programs (e.g. FlamMap)
+alone. ArcFuels, combined with ﬁre behavior models was used to
+strategically implement optimal fuels treatments in Region 6 (Oregon
+and Washington, USA) by the US Forest Service (Vaillant et al., 2012).
+With the FlamMap ﬁre model, pixels are assessed independently of each
+other regarding ﬁre behavior.
+Large wildland ﬁres usually occur under the most extreme weather
+conditions (Finney, 2005). The creation of the landscape ﬁles that are
+used as inputs for modeling ﬁre behavior are at the discretion of the
+modeler. These inputs determine ﬁre behavior, thus consultation with
+an experienced ﬁre ecologist should be considered to develop appro-
+priate inputs for more accurate results. In addition, inputs such as fuel
+moistures; wind speed and direction; and weather conditions are
+needed in determining ﬁre behavior. Varner and Keyes (2009) caution
+and elaborate on the need for accuracy clear statements of assumptions
+regarding parameter value inputs (e.g. fuel moisture and wind speed)
+(Varner and Keyes, 2009).
+For modeling ﬁre size, the FARSITE simulation system could be
+implemented which simulates wildland ﬁre growth (Finney, 1998;
+Finney, 2004). FARSITE incorporates the above-mentioned inputs that
+FlamMap (Finney, 2006) uses but goes further to include a ﬁre spread
+model, crown ﬁre initiation model, crown ﬁre spread model, and dead
+fuel moisture model.
+Cruz and Alexander (2010) point out three main areas of bias that
+occur in ﬁre modeling (Cruz and Alexander, 2010). Of ﬁrst concern is
+the linkage of ﬁre models that were created independently of one an-
+other but are used in conjunction with modeling ﬁre behavior. Sec-
+ondly, Rothermel's rate of ﬁre spread models and Van Wagner's crown
+ﬁre transition and propagation models have an underprediction bias in
+assessing modeled crown ﬁre behavior. The ﬁnal point of contention is
+the “crown fraction burned functions” (CFB functions) which are un-
+substantiated by comparison to actual wildﬁre activity. We acknowl-
+edge the shortcomings and complexities of current ﬁre behavior mod-
+eling tools and incorporate recommendations presented by Varner and
+Keyes (2009); Cruz and Alexander (2010).
+There are social and political factors that aﬀect ﬁre managers' de-
+cisions and the expenditures committed for ﬁre suppression eﬀorts
+(Donovan et al., 2011). In addition to ﬁre managers' decisions, land
+managers must also allocate resources to achieve goals of diﬀerent
+treatments types (e.g. restoration treatments vs fuel load treatments)
+(Reinhardt et al., 2008; Stratton, 2004). Ecological restoration treat-
+ments can diﬀer from fuel reduction treatments; they are not analogous.
+Ecological restoration is designed to return a current ecosystem to
+conditions representing a range of variation from multiple references.
+In the case of frequent-ﬁre ecosystems like ponderosa pine (Pinus pon-
+derosa) in the southwest USA, conditions from pre-ﬁre exclusion (pre-
+European settlement) are used to describe a restored system (Covington
+and Moore, 1994). These restoration treatments include reintroducing
+pre-settlement ﬁre regimes, species composition, species spatial pat-
+terns, and stand structures. Given today's overly dense ponderosa pine
+stands with larger fuel loads, ecological restoration treatments attempt
+to change ﬁre behavior from high severity crown ﬁres to low severity
+surface ﬁres in modeling studies (Stephens, 1998; Stephens and
+Moghaddas, 2005; Fulé et al., 2001; Fulé et al., 2002; Roccaforte et al.,
+2009; Stephens et al., 2009). Ecological restoration in ponderosa pine
+meets Reinhardt et al.'s (2008) strict fuel treatment's objective as les-
+sening fuel loads thereby reducing ﬁre severity. Fuel treatments can
+achieve this objective. However, in those ﬁre regimes where infrequent,
+stand-replacing ﬁres are natural, fuel treatments could also create forest
+structures that are divergent from their historical structure.
+Budgeting practices have been implemented as a method to help
+reduce expenditures on wildﬁre suppression costs. Eﬀorts for better ﬁre
+budgeting and planning started with the 1995 Federal Wildland Fire
+Policy and the National Fire Management Analysis System (NFMAS), a
+tool developed by the Forest Service (DOI Oﬃce of Policy Analysis,
+2012). The eﬀorts continue with the 2009 Federal Land Assistance,
+Management and Enhancement (FLAME) Act, which requires develop-
+ment of a National Cohesive Wildland Fire Management Strategy. The
+NFMAS seeks to optimize the Forest Service's ﬁre budget for a given
+geographical area by minimizing wildland ﬁre related costs, utilizing
+the known monetary costs associated with the “Cost plus Net Value
+Change”
+(C + NVC).
+However,
+after
+reviewing
+over
+300
+re-
+commendations in the previous ﬁve years, the Strategic Issues Panel on
+Fire Suppression Costs (2004) characterized the federal agencies
+R.A. Fitch et al.
+)RUHVW3ROLF\DQG(FRQRPLFV²
+
+
+approach to ﬁre suppression costs as “blank check management”. Since
+that time, several other spatial wildﬁre risk assessment tools have been
+developed (e.g. Rapid Assessment of Values At Risk (RAVAR) and the
+National Wildﬁre Hazard and Risk Assessment) (Calkin and Gebert,
+2009). The key question remains unanswered: if and how fuel treat-
+ments or ecological restoration treatments reduce wildland ﬁre sup-
+pression costs in any signiﬁcant magnitude. The development of R-CAT
+is to directly address this question for collaborative forest landscape
+restoration programs. Namely, R-CAT provides a standardized tool for
+assessing wildﬁre risk reductions and cost savings for projects that
+might be funded through the USDA Forest Service CFLRP. CFLRP al-
+locates Forest Service funds to projects that are competitively chosen
+with the goals of reducing fuel loads and implementing ecological re-
+storation treatments and monitoring. Up to 50% of these costs can be
+covered by CFLRP funds.
+The C + NVC model oﬀers a theoretical framework to the re-
+lationship between wildland ﬁre suppression costs and fuel treatments.
+The total of wildland ﬁre costs is represented by C + NVC. In the
+general case of the C + NVC, costs, denoted by C (our cost measure of
+interest in this analysis), are all costs associated with wildland ﬁre
+suppression and presuppression eﬀorts, including fuel treatments; NVC
+represents all other ﬁre related loss including property damage, fatal-
+ities and other value changes in marketable goods and non-market
+ecosystem services. Some aspects of fuel treatments can be considered
+as substitutes for suppression costs for a given level of NVC, while some
+components of fuel treatments can complement those in ﬁre suppres-
+sion (Donovan and Rideout, 2003; Rideout et al., 2008). Thus, an in-
+crease in fuel treatments does not necessarily imply a reduction in
+suppression costs unless the desired level of NVC is held ﬁxed. Rather
+than viewing fuel treatments as a substitute for ﬁre suppression, fuel
+treatments and ﬁre suppression expenditures should be viewed as in-
+puts to NVC. Fuel treatments and ﬁre suppression expenditures have
+their individual marginal and joint eﬀects to changes in NVC (Rideout
+et al., 2008). Therefore, if we analyze tradeoﬀs between treatments and
+suppression costs, the NVC must be held constant to directly compare
+the impacts of the two decision variable inputs on costs.
+3. Methods
+3.1. Modeling of ﬁre behavior characteristics
+Our initial study area for ﬁre behavior modeling is a portion of the
+Coconino National Forest (southwestern U.S.A.), south/southeast of the
+city of Flagstaﬀ, Arizona, designated as restoration unit 1 (RU1)
+(Appendix A). At the time of this analyses we utilized the Draft En-
+vironmental Impact Statement proposed by 4FRI. Three of the four
+treatment alternatives were selected for analysis. We summarize the
+three treatment alternatives as the no treatment option, the preferred
+treatment option, and the medium treatment option. The preferred
+treatment option is the most aggressive in terms of treatment thinning
+intensity. Under the preferred alternative, 175,640 ha would be me-
+chanically treated across the entire 4FRI treatment area. In addition,
+240,072 ha would undergo prescribed ﬁre. The medium treatment op-
+tion
+proposes
+mechanically
+treating
+157,221 ha.
+Additionally,
+72,356 ha would be treated using prescribed ﬁre. In this study, we are
+deﬁning prescribed ﬁre as ﬁre's incorporation into land management
+protocols (Ryan et al., 2013). The medium treatment alternative was
+designed to address concerns about prescribed ﬁre emissions. Treat-
+ments alternatives were based on 4FRI's 2013 proposed environmental
+impact statement (EIS) and ﬁnal treatment parameters are expected to
+change.
+The current conditions of the entire 4FRI landscape were used as a
+starting point to create the landscape ﬁles (LCPs) for the ﬁre modeling
+carried out in FlamMap version 3 (Mary Lata, 2013 personal commu-
+nication). LCPs consist of a compilation of data layers that include fuel
+models, canopy cover, height to live crown (canopy base height),
+canopy bulk density, slope, aspect, and elevation. For the RU1 area,
+31% of the landscape had sampled data with the remaining proportion
+extrapolated to create the LPC's. Fuel models and canopy characteristics
+were altered to better capture regionally speciﬁc ﬁre behavior and ef-
+fects based on the recent Schultz Fire. Fuel models represent the fuel
+bed inputs that include the load, bulk density, fuel particle size, heat
+content, and moisture of extinction (Scott and Burgan, 2005). The
+proposed treatments were then implemented at the stand level across
+the LCP ﬁle and the Forest Vegetation Simulator (FVS) (Dixon, 2002;
+Crookston and Dixon, 2005) was used to project forest structure
+changes for the three treatment scenarios.
+The Schultz Fire burned over 6070 ha north/northeast of Flagstaﬀ
+in 2010. We utilized the fuel moisture conditions from the Schulz Fire
+for the RU1 area during the three-month ﬁre season of the analysis
+(Mary Lata, 2013 personal communication). The wind and weather
+conditions for the ﬁre behavior simulations were obtained from the
+Mormon Lake, Arizona remote automated weather station (RAWS) lo-
+cated within the RU1 study area. Wind and weather conditioning ﬁles
+were created from the RAWS weather data from the years 2008–2012
+for the months of May, June, and July which comprise the ﬁre season of
+our analysis. RAWS wind data was used in modeling wildﬁre behavior
+characteristics as an input for average wind speed and direction (azi-
+muth degrees, where 0° implies north to south and 90° implies east to
+west up to 360°). Fire behavior characteristics we modeled at average
+wind speed, average wind speed plus one standard deviation, and
+average wind speed plus two standard deviations.
+FlamMap version 5.0.1.3 was used to simulate the ﬁre behavior
+characteristics of ﬂame length and crown ﬁre activity (Finney, 2006).
+FlamMap is a PC-based ﬁre mapping and analysis program that esti-
+mates potential ﬁre behavior characteristics for given weather and fuel
+conditions (Finney, 2006; Stratton, 2006). Flame length outputs were
+transformed into hauling categories as summarized in Ager et al.'s
+(2011) ﬂame length categorization. Flame length categorization pro-
+vides a metric as to how eﬀective initial wildland ﬁre suppression ac-
+tivities might be. Ager et al. (2011) summarize hauling category ﬂame
+lengths of 0–1.2 m as being able to be held by hand lines at the front or
+on the ﬂanks; 1.2–2.4 m ﬂames are too large for hand lines to attack
+head on but dozers and engines can be eﬀective; 2.4–3.4 m ﬂames
+present problems such as torching, crowning, and spotting and head on
+attacks of the ﬁre are usually ineﬀective; and 3.4 + meter ﬂames result
+in crowing and spotting problems and head on attack eﬀorts are in-
+eﬀective.
+Crown ﬁre activity outputs from FlamMap are expressed in crown
+activity potential. The outputs are classiﬁed by active crown ﬁre, pas-
+sive crown ﬁre, surface ﬁre, and unburned. Crown ﬁre activity was used
+in conjunction with ﬂame length to estimate areas of high burn se-
+verity. In response to Varner and Keyes' (2009) crown ﬁre under-
+prediction bias, we used ﬂame length in conjunction with crown ﬁre
+activity to create a more robust approach for estimating high burn se-
+verity. Flame lengths are derived from ﬁre line intensity outputs
+(Stratton, 2006). Our assumption of high burn severity incorporates a
+ﬁre line intensity model output and a crown ﬁre model output for burn
+severity estimations. If a pixel is in the active crown ﬁre category or had
+a ﬂame length of > 3.4 m, that pixel was estimated as high burn se-
+verity. The Scott and Reinhardt (2001) Crown Fire Calculation Method
+was used to calculate ﬂame length and crown ﬁre activity outputs in
+FlamMap (Scott and Reinhardt, 2001).
+FlamMap outputs were transferred into ArcGIS Desktop 10 Service
+Pack 5 for geospatial referencing and analysis. Speciﬁcally, ArcGIS was
+used to categorize ﬂame lengths and crown ﬁre activity into the metrics
+discussed above and crop the FlamMap outputs within the boundaries
+of the RU1 treatment area. The spatial analyst tool, “Raster Calculator,”
+was used to combine the ﬁre behavior metrics of ﬂame length and
+crown ﬁre activity to estimate burn severity. The number of hectares in
+each of the combined ﬁre behavior metrics within the treatment area
+was calculated. The analysis for categorizing burn severity was grouped
+R.A. Fitch et al.
+)RUHVW3ROLF\DQG(FRQRPLFV²
+
+
+as follows: High burn severity was assumed if any given pixel had a
+ﬂame length > 3.4 m or had an active crown ﬁre classiﬁcation. Mixed
+burn severity was assumed if any given pixel had a ﬂame length >
+2.4 m or had a torching or active crown ﬁre classiﬁcation.
+3.2. Regression analysis and suppression costs estimation
+We conducted a regression analysis based on wildland ﬁres that
+occurred on the four national forests regionally speciﬁc to the treatment
+area proposed by 4FRI (Apache-Sitgreaves, Coconino, Kaibab, and
+Tonto National Forests), with the addition of the Prescott National
+Forest, to estimate wildland ﬁre suppression costs. The Prescott
+National Forest was included to increase sample size in an area with
+ponderosa pine as a landscape cover type. Burn severity maps were
+obtained from the Monitoring Trends in Burn Severity website (MTBS)
+(MTBS, 2013). Data on 67 ﬁres > 324 ha in size on northern Arizona
+National Forests between 2001 and 2011 was collected for the regres-
+sion analysis. Historical wildﬁre suppression cost data was provided by
+the USFS Rocky Mountain Research Station.
+Variables of interest identiﬁed and collected to predict wildﬁre
+suppression cost include dominant vegetation cover type, distance of
+the ﬁre perimeter to the WUI (meters), proportion of private land
+burned, and total wildﬁre size (ha) (Table 1). Distance to WUI was
+calculated using designated WUI areas as deﬁned by each of the na-
+tional forests within the sample. A natural log transformed linear re-
+gression equation for predicting total expenditure and cost per hectare
+of suppression was utilized for analysis (Liang et al., 2008).
+4. Results
+4.1. Fire behavior characteristics
+A lower proportion of the landscape burned at high and mixed se-
+verities in July compared to May and June. May also had the highest
+proportion of the landscape with high and mixed burn severities due to
+dryer weather conditions and higher wind speeds. As expected, the
+proportion of the landscape that burns with high and mixed severities
+increased as wind speed increased across all months.
+Comparing high burn severity proportions of the landscape across
+treatment types, there is a large decrease between no treatment and the
+preferred and medium treatment alternatives. The preferred treatment
+type is the most eﬀective in terms of reducing the proportion of the
+landscape that burns at high severity. With no treatment, the simulated
+proportion of the landscape burning at a high severity under the three
+diﬀerent wind speeds would range between 4.28% and 33.85% (May);
+1.98% and 2.13% (June); and 0.9% and 1.76% (July). The preferred
+treatment alternative results in the largest reductions in the proportion
+of the landscape burning at high severity under the three diﬀerent wind
+speeds with ranges between 0.72% and 4.01% (May); 0.33% and 0.43%
+(June); and 0.02% and 0.13% (July). The medium treatment with less
+prescribed ﬁre also reduces proportions of the landscape burning at
+high severity compared with the no treatment alternative but is not as
+eﬀective as the preferred treatment alternative. The medium treatment
+alternative has proportions of the landscape burning at high severity
+under the three diﬀerent wind speeds ranging between 2.38% and
+8.48% (May); 1.14% and 1.42% (June); and 0.73% and 0.88% (July).
+Thus, treatment eﬀectiveness in reducing burn severity would be
+greater during the month of May. The proportion of the landscape
+burning at high severity during the month of May would be six to eight
+times smaller under the preferred treatment alternative than under the
+no treatment alternative. The preferred treatment alternative reduces
+high burn severity by 2250–18,889 ha. While the reductions in per-
+centage of landscape burning at high severity for diﬀerent treatment
+types over the month of July are not as large compared to the month of
+May, the scale at which the reductions took place was much higher. The
+preferred treatment alternative is 13.5–45 times lower than the no
+treatment alternative in percentage of the landscape burning at high
+severity, corresponding to 558–1037 ha. The medium treatment alter-
+native, in each scenario, falls between the no treatment alternative and
+the preferred treatment alternative in the percentage of the landscape
+burning at high severity.
+Proportions of the landscape expected to burn at a mixed severity
+exhibited more variability between treatment types. In general, simu-
+lated outcomes of the medium treatment alternative were similar to the
+no treatment alternative for the months of July and June. However, a
+larger proportion of the landscape is expected to burn at mixed severity
+under the no treatment alternative than the medium treatment alter-
+native for the month of May. Again, the preferred treatment alternative
+was the most eﬀective in reducing mixed burn severity across the
+landscape for the months of June and July. With wind conditions two
+standard deviations above the average for the month of May, the pre-
+ferred treatment alternative would generate the highest proportion of
+the landscape burning at a mixed severity. The no treatment alternative
+exhibited simulated mixed burn severity ranges under the three dif-
+ferent wind speeds between 13.43% and 68.19% (May); 2.3% and
+2.68% (June); and 1.9% and 1.96% (July). Under the preferred treat-
+ment alternative, the simulated ranges of mixed burn severity under the
+three diﬀerent wind speeds were between 2.09% and 72.95% (May);
+0.59% and 0.7% (June); and 0.12% and 0.24% (July). The simulated
+proportions of landscape burning at mixed severity under the three
+diﬀerent wind speeds for the medium treatment alternative range be-
+tween 4.18% and 58.33% (May); 2.54% and 2.72% (June); and 1.83%
+and 1.97% (July). The correlation between implementing treatments
+and reductions in burn severity were not as distinct using the mixed
+burn severity metric. Under the medium treatment alternative, the si-
+mulated landscape showed increases in the percentage burning at
+mixed severity compared with the no treatment alternative during the
+month of June. Additionally, for the month of July, the medium
+treatment alternative has a higher proportion of the landscape burning
+at mixed severity on the upper range of the simulations compared with
+the no treatment alternative. Comparing simulations of the no treat-
+ment alternative and the preferred treatment alternative at high and
+mixed burn severities, we observe similar patterns of burn severity re-
+ductions over the months of June and July. However, for the month of
+Table 1
+Dependent and independent variables used in the regression analysis.
+Variable
+Description
+Source
+Cost
+Forest Service and DOI suppression expenditure
+US Forest Service
+Size
+Number of hectares burned
+www.mtbs.gov
+Distance to WUI
+Shortest distance from WUI perimeter to ﬁre perimeter
+National Forest website and www.mtbs.gov
+Burn severity
+Proportion of ﬁre that burned at high, medium, and low severity
+www.mtbs.gov
+Private land
+Proportion of ﬁre burned in private land
+www.land.state.az.us
+Dominant vegetation type
+Vegetation type that had the highest percent cover within the ﬁre perimeter
+National Forest website
+Forest
+Dummy variable for the National Forest in which the ﬁre occurred
+National Forest website
+R.A. Fitch et al.
+)RUHVW3ROLF\DQG(FRQRPLFV²
+
+
+May with wind speeds two standard deviations above the mean, the
+simulation for the preferred treatment alternative predicts 72.95% of
+the landscape burning at the mixed burn severity compared to 68.19%
+of the landscape burning at a mixed severity under the no treatment
+alternative. The more open conditions of the landscape resulting from
+the preferred treatment alternative are allowing wind conditions to
+impact ﬂame lengths and crown ﬁre activity more drastically compared
+with the no treatment alternative. Appendix B demonstrates the dis-
+tributions of high burn severities across the RU1 treatment area. Tables
+2–4 report the predicted number of ha and percentage of the RU1
+treatment area that burned at high and mixed burn severities for each of
+the treatment types.
+Table 2
+Estimated high and mixed burn severities in hectares and percentage of landscape burned for the no treatment alternative.
+Total hectares
+Estimated high burn severity
+area (hectares)
+Estimated proportion of high
+burn severity
+Estimated mixed burn severity
+area (hectares)
+Estimated proportions of mixed
+burn severity
+May avg. high wind
+63,298
+2710
+4.3%
+8500
+13.4%
+May avg. high wind
++ 1 std.
+63,298
+12,352
+19.5%
+19,818
+31.3%
+May avg. high wind
++ 2 std.
+63,298
+21,427
+33.9%
+43,161
+68.2%
+June avg. high wind
+63,298
+1255
+2.0%
+1457
+2.3%
+June avg. high wind
++ 1 std.
+63,298
+1304
+2.1%
+1564
+2.5%
+June avg. high wind
++ 2 std.
+63,298
+1349
+2.1%
+1694
+2.7%
+July avg. high wind
+63,298
+569
+0.9%
+1201
+1.9%
+July avg. high wind
++ 1 std.
+63,298
+790
+1.2%
+1216
+1.9%
+July avg. high wind
++ 2 std.
+63,298
+1117
+1.8%
+1238
+2.0%
+Table 3
+Estimated high and mixed burn severities in hectares and percentage of landscape burned for the preferred treatment alternative.
+Total hectares
+Estimated high burn severity
+area (hectares)
+Estimated proportion of high
+burn severity
+Estimated mixed burn severity
+area (hectares)
+Estimated proportion of mixed
+burn severity
+May avg. high wind
+63,298
+459
+0.7%
+1326
+2.1%
+May avg. high wind
++ 1 std.
+63,298
+1211
+1.9%
+17,219
+27.2%
+May avg. high wind
++ 2 std.
+63,298
+2538
+4.0%
+46,175
+72.9%
+June avg. high wind
+63,298
+211
+0.3%
+375
+0.6%
+June avg. high wind
++ 1 std.
+63,298
+245
+0.4%
+413
+0.7%
+June avg. high wind
++ 2 std.
+63,298
+273
+0.4%
+443
+0.7%
+July avg. high wind
+63,298
+11
+0.0%
+75
+0.1%
+July avg. high wind
++ 1 std.
+63,298
+24
+0.0%
+94
+0.1%
+July avg. high wind
++ 2 std.
+63,298
+80
+0.1%
+152
+0.2%
+Table 4
+Estimated high and mixed burn severities in hectares and percentage of landscape burned for the medium treatment alternative.
+Total hectares
+Estimated high burn severity
+area (hectares)
+Estimated proportion of high
+burn severity
+Estimated mixed burn severity
+area (hectares)
+Estimated proportion of mixed
+burn severity
+May avg. high wind
+63,298
+1506
+2.4%
+2644
+4.2%
+May avg. high wind
++ 1 std.
+63,298
+2686
+4.2%
+10,625
+16.8%
+May avg. high wind
++ 2 std.
+63,298
+5366
+8.5%
+36,923
+58.3%
+June avg. high wind
+63,298
+723
+1.1%
+1608
+2.5%
+June avg. high wind
++ 1 std.
+63,298
+803
+1.3%
+1655
+2.6%
+June avg. high wind
++ 2 std.
+63,298
+900
+1.4%
+1722
+2.7%
+July avg. high wind
+63,298
+465
+0.7%
+1160
+1.8%
+July avg. high wind
++ 1 std.
+63,298
+516
+0.8%
+1178
+1.9%
+July avg. high wind
++ 2 std.
+63,298
+556
+0.9%
+1248
+2.0%
+R.A. Fitch et al.
+)RUHVW3ROLF\DQG(FRQRPLFV²
+
+
+4.2. Regression analysis and suppression costs
+The explanatory power of our model is comparable to and exceeds
+other regression equations predicting suppression costs (Donovan et al.,
+2004; Gebert et al., 2007; Liang et al., 2008; Yoder and Gebert, 2012).
+Our regression equations for total suppression costs using the high and
+mixed burn severity metrics have a R2 of 0.62 and 0.61 respectively.
+As expected, total area burned was signiﬁcant in predicting wild-
+land ﬁre suppression costs. However, we also found that the proportion
+of the wildﬁre that burned at high and mixed severity was signiﬁcant
+and the overall model explained more variation in predicting ﬁre sup-
+pression costs than previous studies (Liang et al., 2008). From the re-
+gression equations based on wildﬁres speciﬁc to ﬁve National Forests in
+northern Arizona, the model including the “high burn severity” ex-
+planatory variable rather than the “mixed burn severity” explanatory
+variable showed slightly more predictive power between the two
+models (higher R2 with equal number of predictive variables).
+Our analysis reveals a 1% increase in distance from the WUI results
+in an approximate 0.16% decrease in wildﬁre suppression costs using
+the high burn severity explanatory variable. Using the mixed burn se-
+verity explanatory variable, a 1% increase in distance from the WUI
+results in an approximate 0.17% decrease in wildﬁre suppression costs.
+A 1% increase in the proportion of the wildﬁre burning at high severity
+would
+increase
+suppression
+costs
+by
+approximately
+6.43%.
+Alternatively, a 1% increase in the proportion of the wildﬁre burning at
+mixed severity would increase suppression costs by approximately
+4.91%. Examining wildﬁre size, a 1% increase in ha burned results in an
+approximate increase of 0.53% and 0.7% in total wildﬁre suppression
+costs for the high and mixed burn severity equations respectively. A 1%
+increase in wildﬁre ha burned results in an approximate decrease of
+0.47% and 0.3% in per hectare wildﬁre suppression costs for high and
+mixed burn severity equations respectively. The RU1 treatment area
+falls within the Coconino National Forest so this brings about a decrease
+of approximately 78.27% and 67.96% for high and mixed burn seve-
+rities respectively. The Coconino National Forest neighbors the city of
+Flagstaﬀ, the largest city in northern Arizona. We hypothesize the
+Coconino National Forest's proximity to Flagstaﬀ's infrastructure and
+human capital for ﬁre suppression as drivers in reducing wildﬁre sup-
+pression costs. All our regression models had p-values < 0.0001. In
+addition, each independent variable was signiﬁcant at the 95% con-
+ﬁdence
+interval.
+Table
+5
+summarizes
+the
+regression
+equations
+predicting suppression costs.
+Fire behavior is the only explanatory variable that we allowed to
+vary throughout the regression estimations. Ranges in predicted total
+and per ha costs are similar between high and mixed burn severity for
+the June and July months with a much higher range for the month of
+May. Because of the drier weather conditions and stronger winds, more
+of the landscape is predicted to burn at a mixed severity in the month of
+May resulting in larger cost predictions using the mixed burn severity
+regression equation. The highest estimated wildﬁre suppression costs
+occur when wind inputs were modeled at two standard deviations
+above their mean (24 km/h) during the month of May. In this analysis,
+the no treatment alternative has a total predicted suppression cost
+ranging between $2.4 million and $15.3 million with per ha estimates
+ranging between $38 and $242/ha if a wildﬁre burns the entire study
+area using the high burn severity metric. Under the medium burn se-
+verity metric, the total predicted suppression cost. The preferred
+treatment alternative results in approximately 73% of the landscape
+estimated to burn at mixed severity. From the regression sample, the
+highest proportion mixed severity ﬁre was at approximately 68% of the
+landscape. Because the preferred treatment alternative exceeds the
+upper bound of the sample, we are not using this regression analysis to
+predict ﬁre suppression costs outside the range of model calibration.
+The estimated suppression costs would range between $3.1 million and
+exceeding $19.4 million with cost per ha estimates ranging between
+$20 and exceeding $124/ha. The total predicted suppression costs of
+the medium treatment alternative range between $3.9 million and
+$14.2 million with per ha costs ranging between $25 and $91. Tables
+6–8 summarize all estimated suppression costs under the varying wind
+conditions. However, if other factors of wildland ﬁre costs, including
+rehabilitation and ecosystem service loss, are included in addition to
+suppression costs, the total cost of wildﬁres has been estimated to be in
+the range of 2 to 30 times greater than the costs associated with sup-
+pression alone (Western Forestry Leadership Coalition, 2010).
+5. Discussion and conclusions
+Much of the recent literature on forecasting suppression costs of
+large wildﬁres has indicated that the size of the wildﬁre is a signiﬁcant
+explanatory variable (Calkin et al., 2005; Liang et al., 2008; Thompson
+et al., 2013). However, using wildﬁre behavior characteristics has not
+been examined. Our analysis expands the methodology of predicting
+wildﬁre suppression costs by incorporating a statistically signiﬁcant,
+burn severity variable into a semi-log transformed regression equation.
+Fire behavior characteristics (e.g. burn severity) can be estimated
+through various wildﬁre models. Our analysis links the outputs of
+wildﬁre models into methodology land managers can use to assess the
+eﬀects of fuels and restoration treatments on wildﬁre suppression costs.
+However, using wildﬁre models to predict changes in wildﬁre behavior
+should be approached with caution (Varner and Keyes, 2009; Cruz and
+Alexander, 2010).
+Comparing actual wildﬁre behavior to modeled wildﬁre behavior
+shows an underprediction bias in the models (Cruz and Alexander,
+2010). Wind and weather conditions have a major impact on ﬁre model
+outputs and errors can occur with incorrect inputs (Varner and Keyes,
+2009). FlamMap holds wind and weather conditions constant across the
+landscape (Stratton, 2006). Wildﬁres never operate under the constant
+inputs used in the ﬁre models thereby inﬂuencing model outputs. In
+addition, our study assumes that burn severity can be derived from the
+FlamMap ﬁre model outputs of “crown ﬁre activity” and “ﬂame length”.
+Understanding the limitations of the ﬁre models and limiting model
+bias from wind and weather inputs is a necessity. We used onsite wind
+and weather data to address potential model bias from decision variable
+inputs. Our assumption for measuring burn severity was implemented
+to address the underprediction bias of wildﬁre models (Cruz and
+Alexander, 2010). Until more dynamic ﬁre modeling programs are
+developed, the assumptions and constraints of current ﬁre models must
+Table 5
+Regression Results for Wildﬁre Suppression Estimations. Standard errors are reported in
+parentheses.
+ln total cost
+with high
+burn severity
+ln total cost
+with mixed
+burn severity
+ln per hectare
+cost with
+high burn
+severity
+ln per hectare
+cost with
+mixed burn
+severity
+Constant
+10.1208
+(1.2969)
+8.44
+(1.3219)
+10.1208
+(1.2969)
+8.44
+(1.3219)
+ln ﬁre size
+0.5282b
+(0.1526)
+0.697b
+(0.1441)
+−0.4718b
+(0.1526)
+−0.303a
+(0.1441)
+ln distance to
+WUI
+−0.1565b
+(0.0463)
+−0.1715b
+(0.0458)
+−0.1565b
+(0.0463)
+−0.1715b
+(0.0458)
+% of high burn
+severity
+0.0624b
+(0.0188)
+0.0624b
+(0.0188)
+% of mixed burn
+severity
+0.0479b
+(0.0149)
+0.0479b
+(0.0149)
+Coconino
+national
+forest
+−1.5265b
+(0.4899)
+−1.1382a
+(0.5022)
+−1.5265b
+(0.4899)
+−1.1382a
+(0.5022)
+R-squared
+0.6173
+0.6139
+0.3525
+0.3469
+Number of
+observations
+67
+a Indicates signiﬁcance at the 95%.
+b Indicates signiﬁcance at the 99%.
+R.A. Fitch et al.
+)RUHVW3ROLF\DQG(FRQRPLFV²
+
+
+be understood to interpret the outputs. Our analysis acknowledges
+these constraints but shows how ﬁre modeling techniques can be im-
+plemented into the wildﬁre suppression cost estimation process.
+The results of this study identify several management implications
+and important research areas for the future. Our wildﬁre simulations
+show high severity burn conditions are interspersed throughout the
+landscape under the current conditions while the post-treatment con-
+ﬁgurations change to a disconnected, spotty, conﬁguration (Appendix
+B). This may aﬀect the wildﬁre suppression cost estimates as areas
+under “severe” conditions could be allowed to burn until the wildﬁre
+reaches areas with decreased severity measures where suppression ef-
+forts are more eﬀective. For example, hand crews are not able to deal
+with excessively high ﬂame lengths and crown ﬁre activity (Vaillant
+et al., 2012). Focusing hand crew suppression eﬀorts on areas that
+exhibit lower predicted severity (smaller ﬂame length or surface ﬁres)
+would be more eﬀective. Fuel treatments may create unintended ne-
+gative externalities as they reduce burn severity of the treated area but
+may increase severity in adjacent, non-treated areas. Values at risk in
+the adjacent areas should be examined before treatment implementa-
+tion with respect to wind direction and ﬁre spread probabilities (Calkin
+et al., 2014).
+Results have diﬀered in quantifying the eﬀects that proximity of
+values at risk (e.g. homes) have on wildﬁre suppression costs. This
+study and others (Gebert et al., 2007; Liang et al., 2008; and Yoder and
+Gebert, 2012) found the wildﬁre's proximity to homes or WUI areas to
+be signiﬁcant in predicting suppression costs. However, Donovan et al.
+(2004) found no such relationship signiﬁcant. Other non-spatial factors
+that have been used in predicting wildﬁre suppression costs include
+media coverage and political inﬂuence (Donovan et al., 2011). Given
+the large number of factors that have been shown to inﬂuence wildﬁre
+suppression costs, further investigation into non-spatial factors of
+wildﬁre costs (e.g. length of time the wildﬁre burns and types of re-
+sources deployed, and number of ﬁre crews used) could increase model
+precision.
+Our analysis holds the net value change of ecosystem goods and
+services constant across the landscape to allow for the analysis of tra-
+deoﬀs between suppression costs and treatments (Rideout et al., 2008).
+However, an ecosystem's ability to deal with disturbances (e.g. ﬁre)
+inﬂuences the net value change. A low severity ﬁre in a ﬁre adapted
+ecosystem is not expected to cause a shift in the ecosystem type or the
+services the ecosystem carries out; a low severity surface might even be
+beneﬁcial to the ecosystem and increase or provide beneﬁcial inputs for
+NVC (Hurteau and North, 2009). High burn severity ﬁres have the
+ability to change the southwest ponderosa pine ecosystem and its
+functions (Savage and Mast, 2005). Whether society gains or losses
+from an ecosystem change is beyond the scope of this paper but worth
+further investigation to determine society's preferences and values of
+ecosystem types.
+Table 6
+The no treatment alternative's total cost and per hectare cost estimations under the diﬀerent wind and weather conditions for the ﬁre season months of May, June and July.
+Total cost under high burn
+severity
+Total cost under mixed burn
+severity
+Per hectare cost under high burn
+severity
+Per hectare cost under mixed burn
+severity
+May avg. high wind
+$2,424,239
+$6,266,865
+$38
+$99
+May avg. high wind + 1
+std.
+$6,271,644
+$14,757,512
+$99
+$233
+May avg. high wind + 2
+std.
+$15,343,070
+$86,332,461
+$242
+$1364
+June avg. high wind
+$2,100,303
+$3,677,767
+$33
+$58
+June avg. high wind + 1
+std.
+$2,110,473
+$3,707,667
+$33
+$59
+June avg. high wind + 2
+std.
+$2,119,856
+$3,744,321
+$33
+$59
+July avg. high wind
+$1,962,963
+$3,607,205
+$31
+$57
+July avg. high wind + 1
+std.
+$2,006,198
+$3,611,302
+$32
+$57
+July avg. high wind + 2
+std.
+$2,071,924
+$3,617,319
+$33
+$57
+Table 7
+The preferred treatment alternative's total cost and per hectare cost estimations under the diﬀerent wind and weather conditions for the ﬁre season months of May, June and July.
+Total cost under high burn
+severity
+Total cost under mixed burn
+severity
+Per hectare cost under high burn
+severity
+Per hectare cost under mixed burn
+severity
+May avg. high wind
+$1,941,791
+$3,641,488
+$31
+$58
+May avg. high wind + 1
+std.
+$2,091,213
+$12,122,655
+$33
+$192
+May avg. high wind + 2
+std.
+$2,383,480
+N\A
+$38
+N\A
+June avg. high wind
+$1,894,894
+$3,388,633
+$30
+$54
+June avg. high wind + 1
+std.
+$1,901,256
+$3,398,391
+$30
+$54
+June avg. high wind + 2
+std.
+$1,906,511
+$3,406,115
+$30
+$54
+July avg. high wind
+$1,857,899
+$3,312,570
+$29
+$52
+July avg. high wind + 1
+std.
+$1,860,282
+$3,317,337
+$29
+$52
+July avg. high wind + 2
+std.
+$1,870,580
+$3,331,929
+$30
+$53
+R.A. Fitch et al.
+)RUHVW3ROLF\DQG(FRQRPLFV²
+
+
+Low intensity ﬁre regimes, corresponding to smaller ﬂame length
+ﬁres (0–1.2 m) with crown ﬁre being a low probability event are the
+desired ﬁre type for southwest ponderosa pine ecosystems (Covington
+and Moore, 1994; Swetnam, 1990). Restoration treatments in the
+southwest ponderosa pine ecosystem seek to reintroduce low intensity
+ﬁre as an objective. There are costs associated with these types of ﬁres,
+but we would expect the suppression costs to be lower as ﬁre behavior
+is changed from high and mixed severity to a low severity. Instances
+with a naturally occurring wildﬁre under low burn severity conditions
+could be used as a management tool and ecological beneﬁts of ﬁre
+could outweigh the associated costs in suppressing these wildﬁre types
+(Ryan et al., 2013). This analysis shows that changing wildﬁre behavior
+correlates to changes wildﬁre suppression costs.
+As with any restoration treatment, reducing the number of severe
+wildland ﬁres is only one of the beneﬁts. Other beneﬁts include en-
+hancement of additional ecosystem services like carbon storage, water
+yields and ﬁltration, wildlife habitat, aesthetic quality enhancement,
+and recreational opportunities (Chazdon, 2008). Non-market beneﬁts
+and costs should be included in the overall beneﬁt-cost analysis of
+implementing restoration treatments. Further analysis of the NVC of the
+landscape following treatments and the eﬀects of ﬁre on the landscape
+needs to be carried out to determine a more holistic view of landscape
+value change. Our analysis shows the estimation of wildﬁre suppression
+costs is correlated with wildﬁre burn characteristics. Through wildﬁre
+modeling techniques, land managers can compare the eﬀectiveness of
+restoration and fuel treatment projects in the context of wildﬁre sup-
+pression expenditure changes.
+Acknowledgements
+The authors would like to thank Mary Lata and Neil McCuster for
+assistance in ﬁre modeling landscape ﬁles; Wally Covington, Diane
+Vosick, and the Ecological Restoration Institute for research assistance;
+and Julie Mueller for editing support.
+Appendix A. Appendix A (Study Area)
+Fig. A1. Location of Arizona within the contiguous 48 states.
+Table 8
+The medium treatment alternative's total cost and per hectare cost estimations under the diﬀerent wind and weather conditions for the ﬁre season months of May, June and July.
+Total cost under high burn
+severity
+Total cost under mixed burn
+severity
+Per hectare cost under high burn
+severity
+Per hectare cost under mixed burn
+severity
+May avg. high wind
+$2,155,714
+$4,027,835
+$34
+$64
+May avg. high wind + 1
+std.
+$2,411,966
+$7,365,220
+$38
+$116
+May avg. high wind + 2
+std.
+$3,154,286
+$53,764,797
+$50
+$849
+June avg. high wind
+$1,987,748
+$3,712,847
+$31
+$59
+June avg. high wind + 1
+std.
+$2,012710
+$3,730,674
+$32
+$59
+June avg. high wind + 2
+std.
+$2,025,309
+$3,748,587
+$32
+$59
+July avg. high wind
+$1,938,747
+$3,590,419
+$31
+$57
+July avg. high wind + 1
+std.
+$1,950,883
+$3,607,658
+$31
+$57
+July avg. high wind + 2
+std.
+$1,963,095
+$3,624,981
+$31
+$57
+R.A. Fitch et al.
+)RUHVW3ROLF\DQG(FRQRPLFV²
+
+
+Fig. A2. Overview of the Four Forest Restoration Initiative's boundaries within four of the National Forests in northern Arizona.
+R.A. Fitch et al.
+)RUHVW3ROLF\DQG(FRQRPLFV²
+
+
+Fig. A3. Study Area of Restoration Unit 1 within the Coconino National Forest of the Four Forest Restoration Initiative's treatment area in northern Arizona.
+Appendix B. Appendix B (High Burn Severity)
+Fig. B1. Estimated high burn severity area (active crown ﬁre or ﬂame length > 3.4 m) of Restoration Unit 1 for May average wind conditions (24.8 kph at 160° azimuth) under the three
+treatment alternatives.
+R.A. Fitch et al.
+)RUHVW3ROLF\DQG(FRQRPLFV²
+
+
+Fig. B2. Estimated high burn severity area (active crown ﬁre or ﬂame length > 3.4 m) of Restoration Unit 1 for May average wind conditions plus one standard deviation (31.2 kph at
+160° azimuth) under the three treatment alternatives.
+Fig. B3. Estimated high burn severity area (active crown ﬁre or ﬂame length > 3.4 m) of Restoration Unit 1 for May average wind conditions plus two standard deviations (37.7 kph at
+160° azimuth) under the three treatment alternatives.
+Fig. B4. Estimated high burn severity area (active crown ﬁre or ﬂame length > 3.4 m) of Restoration Unit 1 for June average wind conditions (21.2 kph at 173° azimuth) under the three
+treatment alternatives.
+R.A. Fitch et al.
+)RUHVW3ROLF\DQG(FRQRPLFV²
+
+
+Fig. B5. Estimated high burn severity area (active crown ﬁre or ﬂame length > 3.4 m) of Restoration Unit 1 for June average wind conditions plus one standard deviation (22.5 kph at
+173° azimuth) under the three treatment alternatives.
+Fig. B6. Estimated high burn severity area (active crown ﬁre or ﬂame length > 3.4 m) of Restoration Unit 1 for June average wind conditions plus two standard deviations (23.8 kph at
+173° azimuth) under the three treatment alternatives.
+Fig. B7. Estimated high burn severity area (active crown ﬁre or ﬂame length > 3.4 m) of Restoration Unit 1 for July average wind conditions (17.7 kph at 178° azimuth) under the three
+treatment alternatives.
+R.A. Fitch et al.
+)RUHVW3ROLF\DQG(FRQRPLFV²
+
+
+Fig. B8. Estimated high burn severity area (active crown ﬁre or ﬂame length > 3.4 m) of Restoration Unit 1 for July average wind conditions plus one standard deviation (19.6 kph at
+178° azimuth) under the three treatment alternatives.
+Fig. B9. Estimated high burn severity area (active crown ﬁre or ﬂame length > 3.4 m) of Restoration Unit 1 for July average wind conditions plus two standard deviations (21.6 kph at
+178° azimuth) under the three treatment alternatives.
+References
+Ager, A.A., Vaillant, N.M., Finney, M.A., 2011. Integrating ﬁre behavior models and
+geospatial analysis for wildland ﬁre risk assessment and fuel management planning.
+J. Comb. 2011.
+Calkin, D., Gebert, K.M., 2009. Economics of Wildland Fire Risk Management. Wildland
+Fire Lessons Learned Center.
+Calkin, D.E., Gebert, K.M., Jones, J.G., Neilson, R.P., 2005. Forest Service large ﬁre area
+burned and suppression expenditure trends, 1970–2002. J. For. 103 (4), 179–183.
+Calkin, D.E., Cohen, J.D., Finney, M.A., Thompson, M.P., 2014. How risk management
+can prevent future wildﬁre disasters in the wildland-urban interface. Proc. Natl.
+Acad. Sci. 111 (2), 746–751.
+Chazdon, R.L., 2008. Beyond deforestation: restoring forests and ecosystem services on
+degraded lands. Science 320 (5882), 1458–1460.
+Cochrane, M.A., Moran, C.J., Wimberly, M.C., Baer, A.D., Finney, M.A., Beckendorf, K.L.,
+Eidenshink, J., Zhu, Z., 2012. Estimation of wildﬁre size and risk changes due to fuels
+treatments. Int. J. Wildland Fire 21 (4), 357–367.
+Covington, W.W., Moore, M.M., 1994. Southwestern ponderosa forest structure: changes
+since euro-American settlement. J. For. 92 (1), 39–47.
+Crookston, N.L., Dixon, G.E., 2005. The forest vegetation simulator: a review of its
+structure, content, and applications. Comput. Electron. Agric. 49 (1), 60–80.
+Cruz, M.G., Alexander, M.E., 2010. Assessing crown ﬁre potential in coniferous forests of
+western North America: a critique of current approaches and recent simulation stu-
+dies. Int. J. Wildland Fire 19 (4), 377–398.
+Dixon, G.E., 2002. Essential FVS: A user's Guide to the Forest Vegetation Simulator.
+USDA-Forest Service, Forest Management Service Center, Fort Collins, CO.
+Donovan, G.H., Rideout, D.B., 2003. A reformulation of the cost plus net value change
+(C+ NVC) model of wildﬁre economics. For. Sci. 49 (2), 318–323.
+Donovan, G.H., Noordijk, P., Radeloﬀ, V., 2004. Estimating the impact of proximity of
+houses on wildﬁre suppression costs in Oregon and Washington. In: Proceedings of
+the Second International Symposium on Fire Economics, Planning, and Policy: A
+Global View.
+Donovan, G.H., Prestemon, J.P., Gebert, K., 2011. The eﬀect of newspaper coverage and
+political pressure on wildﬁre suppression costs. Soc. Nat. Resour. 24 (8), 785–798.
+Finney, M.A., 1998. FARSITE users guide and technical documentation. In: USDA Forest
+Service Research Paper RMRS-RP-4.
+Finney, M.A., 2004. FARSITE: Fire Area Simulator: Model Development and Evaluation.
+US Department of Agriculture, Forest Service, Rocky Mountain Research Station,
+Ogden, UT.
+Finney, M.A., 2005. The challenge of quantitative risk analysis for wildland ﬁre. For. Ecol.
+Manag. 211 (1), 97–108.
+Finney, M.A., 2006. An overview of FlamMap ﬁre modeling capabilities. In: Fuels
+Management – How to Measure Success: Conference Proceedings. 2006 March 28–30;
+Portland, Oregon. Proceedings RMRS-P-41 U.S. Department of Agriculture, Forest
+Service, Rocky Mountain Research Station, Fort Collins, CO, pp. 213–220.
+Finney, M.A., McHugh, C.W., Grenfell, I.C., 2005. Stand-and landscape-level eﬀects of
+prescribed burning on two Arizona wildﬁres. Can. J. For. Res. 35 (7), 1714–1722.
+Fulé, P.Z., Waltz, A.E., Covington, W.W., Heinlein, T.A., 2001. Measuring forest re-
+storation eﬀectiveness in reducing hazardous fuels. J. For. 99 (11), 24–29.
+Fulé, P.Z., Covington, W.W., Smith, H.B., Springer, J.D., Heinlein, T.A., Huisinga, K.D.,
+Moore, M.M., 2002. Comparing ecological restoration alternatives: grand Canyon,
+Arizona. For. Ecol. Manag. 170 (1), 19–41.
+Gebert, K.M., Calkin, D.E., Yoder, J., 2007. Estimating suppression expenditures for in-
+dividual large wildland ﬁres. West. J. Appl. For. 22 (3), 188–196.
+Holmes, T.P., Huggett, R.J., Westerling, A.L., 2008. Statistical analysis of large wildﬁres.
+R.A. Fitch et al.
+)RUHVW3ROLF\DQG(FRQRPLFV²
+
+
+In: The Economics of Forest Disturbances: Wildﬁres, Storms, and Invasive Species.
+Springer Science & Business Media, pp. 59–77.
+Hurteau, M., North, M., 2009. Fuel treatment eﬀects on tree-based forest carbon storage
+and emissions under modeled wildﬁre scenarios. Front. Ecol. Environ. 7 (8),
+409–414.
+Liang, J., Calkin, D.E., Gebert, K.M., Venn, T.J., Silverstein, R.P., 2008. Factors inﬂuen-
+cing large wildland ﬁre suppression expenditures. Int. J. Wildland Fire 17 (5),
+650–659.
+Lynch, D.L., 2004. What do forest ﬁres really cost? J. For. 102 (6), 42–49.
+Monitoring trends in burn severity (MTBS), 2013. www.mtbs.gov/data/customquery.
+html (Last access 2016).
+Pollet, J., Omi, P.N., 2002. Eﬀect of thinning and prescribed burning on crown ﬁre se-
+verity in ponderosa pine forests. Int. J. Wildland Fire 11 (1), 1–10.
+Prestemon, J.P., Abt, K., Gebert, K., 2008. Suppression cost forecasts in advance of
+wildﬁre seasons. For. Sci. 54 (4), 381–396.
+Radeloﬀ, V.C., Hammer, R.B., Stewart, S.I., 2005a. Rural and suburban sprawl in the US
+Midwest from 1940 to 2000 and its relation to forest fragmentation. Conserv. Biol. 19
+(3), 793–805.
+Radeloﬀ, V.C., Hammer, R.B., Stewart, S.I., Fried, J.S., Holcomb, S.S., McKeefry, J.F.,
+2005b. The wildland–urban interface in the United States. Ecol. Appl. 15 (3),
+799–805.
+Reinhardt, E.D., Keane, R.E., Calkin, D.E., Cohen, J.D., 2008. Objectives and considera-
+tions for wildland fuel treatment in forested ecosystems of the interior western United
+States. For. Ecol. Manag. 256 (12), 1997–2006.
+Rideout, D.B., Wei, Y., Kirsch, A.G., Botti, S.J., 2008. Toward a uniﬁed economic theory of
+ﬁre program analysis with strategies for empirical modeling. In: The Economics of
+Forest Disturbances: Wildﬁres, Storms, and Invasive Species. Springer Science &
+Business Media, pp. 361–380.
+Roccaforte, J.P., Fule, P.Z., Covington, W.W., 2009. Assessing Changes in Canopy Fuels
+and Potential Fire Behavior Following Ponderosa Pine Restoration. Fire Management
+Today.
+Ryan, K.C., Knapp, E.E., Varner, J.M., 2013. Prescribed ﬁre in North American forests and
+woodlands: history, current practice, and challenges. Front. Ecol. Environ. 11 (s1).
+Savage, M., Mast, J.N., 2005. How resilient are southwestern ponderosa pine forests after
+crown ﬁres? Can. J. For. Res. 35 (4), 967–977.
+Scott, J.H., Burgan, R.E., 2005. Standard ﬁre behavior fuel models: a comprehensive set
+for use with Rothermel's surface ﬁre spread model. Bark Beetles Fuels Fire
+Bibliogr. 66.
+Scott, J.H., Reinhardt, E.D., 2001. Assessing crown ﬁre potential by linking models of
+surface and crown ﬁre behavior. In: Research Paper RMRS-RP-29. U.S. Department of
+Agriculture, Forest Service, Rocky Mountain Research Station, Fort Collins, CO 66 pp.
+Stephens, S.L., 1998. Evaluation of the eﬀects of silvicultural and fuels treatments on
+potential ﬁre behaviour in Sierra Nevada mixed-conifer forests. For. Ecol. Manag. 105
+(1), 21–35.
+Stephens, S.L., Moghaddas, J.J., 2005. Experimental fuel treatment impacts on forest
+structure, potential ﬁre behavior, and predicted tree mortality in a California mixed
+conifer forest. For. Ecol. Manag. 215 (1), 21–36.
+Stephens, S.L., Moghaddas, J.J., Edminster, C., Fiedler, C.E., Haase, S., Harrington, M.,
+Keeley, J.E., Knapp, E.E., McIver, J.D., Metlen, K., Skinner, C.N., 2009. Fire treatment
+eﬀects on vegetation structure, fuels, and potential ﬁre severity in western US forests.
+Ecol. Appl. 19 (2), 305–320.
+Strategic Issues Panel on Fire Suppression Costs, 2004. Large ﬁre suppression cost-
+s—strategies for cost management. In: Report to the Wildland Fire Leadership
+Council, (Unpublished report supplied by authors).
+Stratton, R.D., 2004. Assessing the eﬀectiveness of landscape fuel treatments on ﬁre
+growth and behavior. J. For. 102 (7), 32–40.
+Stratton, R.D., 2006. Guidance on spatial wildland ﬁre analysis: models, tools, and
+techniques. In: General Technical Report RMRS-GTR-183. U.S. Department of
+Agriculture, Forest Service, Rocky Mountain Research Station, Fort Collins, CO 15 pp.
+Swetnam, T.W., 1990. Fire history and climate in the southwestern United States. In:
+Proceedings of the Symposium on Eﬀects of Fire Management of Southwestern United
+States Natural Resources. Gen. Tech. Rep. RM-GTR-191 US Department of
+Agriculture, Forest Service, Rocky Mountain Forest and Range Experiment Station,
+Fort Collins, CO.
+Thompson, M.P., Vaillant, N.M., Haas, J.R., Gebert, K.M., Stockmann, K.D., 2013.
+Quantifying the potential impacts of fuel treatments on wildﬁre suppression costs. J.
+For. 111 (1), 49–58.
+United States Department of Agriculture (USDA), Forest Service, Stockmann, K., Gebert,
+K., 2010. Wildland ﬁre management Risk and Cost Analysis Tools package (R-CAT):
+User's Guide. CFLRP R-CAT User Guide. https://www.fs.fed.us/restoration/
+documents/cﬂrp/R-CAT/CFLRPWildifreR-CATUsersGuide01192011.pdf (Last access
+2017).
+United States Government Accountability Oﬃce (GAO), 2009. Wildland ﬁre manage-
+ment: federal agencies have taken important steps forward, but additional, strategic
+action is needed to capitalize on those steps. In: Report to Congressional Addressees,
+GAO-09-877. www.gao.gov/assets/300/294742.pdf (Last access 2016).
+United States Government Accountability Oﬃce (GAO), 2015. Wildland ﬁre manage-
+ment: agencies have made several key changes but could beneﬁt from more in-
+formation about eﬀectiveness. In: Report to Congressional Addressees, GAO −15-
+772. www.gao.gov/assets/680/672579.pdf (Last access 2016).
+United States Government Oﬃce of Policy Analysis (DOI), 2012. Wildland Fire
+Management Program Beneﬁt-Cost Analysis A Review of Relevant Literature. www.
+doi.gov/sites/doi.gov/ﬁles/migrated/ppa/upload/Wildland_ﬁre_literature_review_
+060812FINAL.pdf (Last access 2017).
+Vaillant, N.M., Ager, A.A., Anderson, J., Miller, J., 2012. ArcFuels User Guide: For Use
+With ArcGIS 9.X. Internal Report. US Department of Agriculture, Forest Service,
+Paciﬁc Northwest Research Station, Western Wildland Environmental Threat
+Assessment Center, Prineville, OR (Revised January 9, 2012). 247 pp.
+Varner, J.M., Keyes, C.R., 2009. Fuels Treatments and Fire Models: Errors and
+Corrections. Fire Management Today.
+Westerling, A.L., Hidalgo, H.G., Cayan, D.R., Swetnam, T.W., 2006. Warming and earlier
+spring increase western US forest wildﬁre activity. Science 313 (5789), 940–943.
+Western Forestry Leadership Coalition, 2010. The True Cost of Wildﬁre in the Western
+U.S. www.wﬂcweb.org (Last access 2016).
+Yoder, J., Gebert, K., 2012. An econometric model for ex ante prediction of wildﬁre
+suppression costs. J. For. Econ. 18 (1), 76–89.
+R.A. Fitch et al.
+)RUHVW3ROLF\DQG(FRQRPLFV²
+

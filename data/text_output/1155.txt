@@ -1,0 +1,1843 @@
+Journal of Forestry, 2022, 1–18
+https://doi.org/10.1093/jofore/fvac037
+Review Article - harvesting & utilization
+ Received: June 16, 2022; Accepted: October 18, 2022
+Advance Access publication 14 December, 2022
+1
+© The Author(s) 2022. Published by Oxford University Press on behalf of the Society of American Foresters. All rights reserved. For permissions, please e-mail: 
+journals.permissions@oup.com.
+Review Article - harvesting & utilization
+The Cost of Forest Thinning Operations in the 
+Western United States: A Systematic Literature 
+Review and New Thinning Cost Model
+Heesol Chang,1 Han-Sup Han,2,*,  Nathaniel Anderson,3 Yeon-Su Kim,4 and 
+Sang-Kyun Han5
+1Ecological Restoration Institute, Northern Arizona University (NAU), Flagstaff, AZ, USA (Heesol.Chang@nau.edu).  
+2Ecological Restoration Institute, Northern Arizona University (NAU), Flagstaff, AZ, USA (Han-Sup.Han@nau.edu).  
+3Rocky Mountain Research Station, USDA Forest Service, Missoula, MT, USA (nathaniel.m.anderson@usda.gov).  
+4School of Forestry, Northern Arizona University (NAU), Flagstaff, AZ, USA (Yeon-Su.Kim@nau.edu).  5Division of 
+Forest Science, Kangwon National University, Chuncheon, Korea (hsk@kangwon.ac.kr). 
+*Corresponding author: Email: Han-Sup.Han@nau.edu 
+Abstract 
+Mechanical forest thinning treatments are implemented across the western United States (US) to im-
+prove forest health and reduce hazardous fuels. However, the main challenge in thinning operations 
+is low financial feasibility. This study synthesized the stump-to-truck cost of forest thinning operations 
+in the western US based on operations research articles published over the last 40 years (1980–2020). 
+We systematically selected and reviewed 20 thinning studies to analyze key variables affecting machine 
+productivity and harvesting costs. The average cost of forest thinning was lowest for a mechanized whole-
+tree thinning operation at $21.34/ton or $2,075/ha. Feller-bunchers and skidders showed the highest 
+productivity in felling and extraction machines, respectively. We found that extraction cost accounted 
+for the largest proportion of the stump-to-truck cost of forest thinning (33%, 43%, and 34% in whole-tree, 
+tree-length, and cut-to-length thinning, respectively). Tree diameter and machine travel distance are 
+common variables affecting thinning productivity and thus cost, regardless of the harvesting methods 
+used. With thinning productivity and cost data from the selected studies, we developed a spreadsheet-
+based model to estimate thinning costs for various harvesting systems. This literature synthesis and 
+new thinning cost model can help foresters develop a cost-effective plan for thinning operations.
+Study Implications:   Forestland managers often have a keen understanding of the cost of operations 
+based on personal experience and rules of thumb and try to increase productivity and reduce costs 
+whenever possible. Unfortunately, it can be difficult to integrate high-resolution operations research 
+into their planning because these studies can be very site specific and tend to use statistical designs 
+that are not always easy to interpret or apply in practice. This review provides a comprehensive syn-
+thesis of research on mechanical thinning operations in the western US with two main implications 
+for managers: (1) broader knowledge of thinning operations with an understanding of key variables 
+and their effects on productivity and cost and (2) better information, data, and tools that can be used 
+to calculate and compare the productivity and cost of thinning for various methods and systems to 
+quickly evaluate alternatives in planning. This literature synthesis, along with a new thinning cost 
+model, can help managers develop more efficient treatments and ultimately reduce treatment costs.
+Keywords: forest harvesting, logging machine, economic feasibility, machine productivity, machine rate
+Downloaded from https://academic.oup.com/jof/advance-article/doi/10.1093/jofore/fvac037/6901967 by Northern Arizona University user on 03 January 2023
+
+2
+Journal of Forestry, 2022, Vol. XX, No. XX
+The increase in frequency and size of landscape-scale 
+wildfires is a challenge for forest managers across the 
+western United States (US). From 2002 to 2013, 55% 
+of forest fires and 95% of the total area burned were 
+concentrated in this region (Brusentsev and Vroman 
+2016). The number of wildfires is increasing by seven 
+fires per year on average, and the area burned is 
+increasing by 355 km² per year (Dennison et al. 2014). 
+To reduce the risk of catastrophic fire and restore forest 
+health, landscape-scale forest restoration projects are 
+being implemented across the western US to reduce 
+stand density and remove hazardous fuels (Waltz et al. 
+2014; Kalies and Yocom Kent 2016).
+Prescribed fires can reduce fuel loads and wildfire 
+intensity because they can effectively consume fuels at 
+a low cost (Chalmers and Hartsough 2001). They also 
+provide ecological benefits (Fulé et al. 2012; Brose et al. 
+2013). However, prescribed burning has several limita-
+tions to its application, such as widespread smoke, es-
+caped wildfire risk, and operational constraints related 
+to forest structure and density, weather conditions, 
+seasonal factors, and higher risk in overstocked forests 
+that have high crown fire potential.
+Mechanical forest thinning treatments do not have 
+the same limitations as prescribed fire and are em-
+ployed to reduce stand density and achieve similar ob-
+jectives. Thinning treatments positively affect wildfire 
+behavior in western US forests by reducing fuel loads 
+and increasing the distance between remaining trees 
+(Fulé et al. 2012). Additionally, forest thinning treat-
+ments can have ecological benefits, including decreased 
+tree mortality, reduced fire severity, and improved 
+forest structure (Stephens and Moghaddas 2005). 
+Treatments can also facilitate prescribed burning in 
+dense stands, which is frequently conducted following 
+mechanical treatments.
+In forest thinning operations, three harvesting 
+methods are commonly used: whole-tree (WT), tree-
+length (TL), and cut-to-length (CTL) (Figure 1). The 
+choice of harvesting method determines the equipment 
+and systems used (Han et al. 2004), where each system 
+typically includes a combination of felling, extraction, 
+and processing machines to complete a stump-to-truck 
+harvesting operation. Each harvesting method is named 
+based on the type of woody materials moved during 
+the extraction process. In a WT harvesting operation, 
+no tree processing activities occur at the stump where 
+felling occurs. Entire trees are extracted to the landing 
+area or roadsides where they are processed. In the TL 
+method, branches and tops are removed at the stump 
+after felling, and the remaining length, often including 
+multiple merchantable logs, is moved to the landing 
+or roadside. In the CTL method, the length of the tree 
+is further processed at the stump into individual mer-
+chantable logs, which are then moved to the landing 
+or roadside.
+Under a single harvesting method, there could be 
+different combinations of harvesting machines that 
+complete a stump-to-truck operation. Here, we refer 
+to the specific configuration of machines as a system. 
+Mechanized felling using feller-bunchers and har-
+vesters is common on gentle ground slopes (<35%), 
+whereas manual felling with chainsaws is typically used 
+for felling on steep slopes (>35%). Typical machines 
+used for extraction are skidders (WT and TL) and for-
+warders (CTL) on gentle slopes and yarders (typically 
+WT or TL) on steep slopes. Processing typically takes 
+place at the stump or landing using a manual chainsaw, 
+harvester, or processor. In some areas, delimbers are 
+also used in processing. The final operation in all these 
+systems is to load logs from the landing or roadside 
+onto a truck, typically using a grapple on an inde-
+pendent loader or a self-loading truck. Because various 
+machines and configurations have different capabil-
+ities, productivities, fixed costs, and variable operating 
+costs, the use of different systems and methods for 
+felling, processing, and extracting trees directly af-
+fects the overall cost of thinning operations (Han et al. 
+2004; Vitorelo et al. 2011; Han and Han 2020).
+Commercial thinning generates revenue from mer-
+chantable products at least equal to the value of the 
+direct costs of treatment (Helms 1998). Often, the 
+main financial challenge of thinning treatments is 
+their high operating cost measured against the low 
+value of the trees being removed, which can result 
+in noncommercial thinnings with high net treatment 
+cost (Bolding and Lanford 2001; Hjerpe et al. 2009; 
+Nicholls et al. 2018). Trees slated for removal are typ-
+ically small in diameter, resulting in low harvesting 
+productivity (Han et al. 2004; Vitorelo et al. 2011; 
+Han and Han 2020). Sometimes they have poor form 
+and lower quality due to insects, disease, and other 
+factors. Another reason for high net costs is the lack 
+of markets for the small-diameter wood and biomass 
+materials produced from thinning treatments. Even if 
+removals generally meet commercial specifications, a 
+lack of nearby markets can make utilization impos-
+sible. The value of small-diameter logs and biomass 
+is often not high enough to offset operating costs, 
+including harvesting and transportation (Lynch 2001; 
+Nicholls et al. 2018). As a result, the unfavorable eco-
+nomic feasibility of thinning operations is one of the 
+Downloaded from https://academic.oup.com/jof/advance-article/doi/10.1093/jofore/fvac037/6901967 by Northern Arizona University user on 03 January 2023
+
+3
+Journal of Forestry, 2022, Vol. XX, No. XX
+key barriers to large-scale forest restoration and fuel 
+treatment efforts (Larson and Mirth 2004; Huffman 
+et al. 2020). The lack of logging and trucking contrac-
+tors adds another layer of challenges because available 
+contractors from distant locations need to move their 
+equipment long distances to job sites and work far 
+from home.
+Because of these challenges, the financial feasibility 
+of thinning is closely tied to marginal operating costs. 
+This study focused on near-term financial costs incurred 
+during forest operations associated with silvicultural 
+prescription implementation and merchantable round-
+wood removal, including sawlogs, pulpwood, and 
+other roundwood. Operational costs of forest thinning 
+treatments, which can be measured and expressed on 
+an area, mass, or volume basis (e.g., dollars per hectare, 
+dollars per tonne, and dollars per cubic meter), are de-
+termined by many different factors, including silvicul-
+tural prescriptions, stand conditions, and operational 
+variables (Puttock 1995; Pan et al. 2008; Rummer 
+2008; Holzleitner et al. 2011). Silvicultural prescrip-
+tions (e.g., single-tree selection, group selection, and 
+variable retention) identify which trees will be retained 
+or removed and what products will be produced if 
+harvesting is required. Stand conditions influence 
+the thinning intensity and tree selection criteria and 
+often determine the amount of tree volume removed. 
+Numerous operational variables, such as ground slope 
+and extraction distance, affect machine productivity 
+and logging costs. Furthermore, logging machine 
+type, size, and technological advances directly affect 
+machine performance (Nordfjell et al. 2010; Conrad 
+et al. 2018; MacDonaugh et al. 2019). High variability 
+in stump-to-truck thinning costs makes it difficult to 
+develop accurate cost estimates and implementation 
+plans for thinning treatments under tight budget con-
+straints. More broadly, there is a need for statistical 
+models that span different conditions, systems, and 
+Figure 1.  Three forest harvesting methods that are commonly used in forest thinning operations. Biomass: wood chips, 
+wood slash, and residues from the harvesting process.
+Roundwood: sawlogs and small-diameter logs produced from thinning operations. 
+Downloaded from https://academic.oup.com/jof/advance-article/doi/10.1093/jofore/fvac037/6901967 by Northern Arizona University user on 03 January 2023
+
+4
+Journal of Forestry, 2022, Vol. XX, No. XX
+configurations relevant to modern fuel treatment im-
+plementation for forestland managers.
+Although logging cost studies exist, there are no 
+systematic reviews or syntheses that focus on thinning 
+treatment costs across the western US. The lack of 
+systematic assessment of thinning costs makes it dif-
+ficult to understand how different key variables affect 
+cost variability and prevent foresters from accurately 
+estimating the costs of planned activities at the project 
+scale. By analyzing previous studies of forest thinning 
+costs, we present a framework to assess how different 
+variables affect cost, thus enabling land managers and 
+planners to make better-informed decisions on thin-
+ning treatment methods or harvesting systems and to 
+better predict and reduce their costs.
+Three forest-thinning cost prediction models have 
+been developed since 2000: ST Harvest (Hartsough 
+et al. 2001), HCR Estimator 2.0 (Becker et al. 2008), 
+and ThinTool (Han et al. 2017). However, these three 
+models have common limitations. For example, their 
+use is restricted to the specific areas and species where 
+they were developed. Also, it is necessary to update the 
+factors applied to the models over time because using 
+outdated information may cause errors in estimating 
+the current cost. To address these limitations, it is 
+necessary to develop a model that can be applied 
+throughout western US forests based on current stand 
+conditions and operational information and adjust to 
+current currency value using inflation for appropriate 
+estimates.
+The goal of this study was to systematically assess 
+operational stump-to-truck costs of forest thinning 
+across the western US. We reviewed and synthesized 
+case studies to address the four study objectives: (1) 
+summarize the costs of forest thinning treatment 
+by weight ( dollars per tonne), volume (dollars per 
+cubic meter), and area (dollars per hectare) across 
+the western US; (2) identify key variables that predict 
+forest-thinning treatment costs; (3) compare the cost 
+and productivity of the machines used for forest thin-
+ning; and (4) develop a spreadsheet-based model to es-
+timate forest-thinning treatment costs that can be used 
+to help guide decision making.
+Study Methods
+Literature Search and Selection
+The literature search and data collection process in-
+volved setting up literature search keywords and se-
+lection criteria (Pullin and Stewart 2006), evaluating 
+published articles for their fit within the context of 
+this study, collecting data from selected articles, and 
+finally, summarizing and analyzing the data (Figure 2). 
+Research papers published from 1980 to 2020 were 
+searched, and our initial search on thinning prod-
+uctivity and cost studies suggested there was lack of 
+research articles investigating the productivity and 
+cost of thinning operations that took place on public 
+forestlands. We specifically looked for research studies 
+examining forest restoration or fuel reduction thinning 
+treatments.
+Forest machines commonly used in today’s thinning 
+operations in this region, such as harvesters and for-
+warders, were first introduced in the US in the 1980s 
+(Kellogg and Bettinger 1994). In aggregating data on 
+machines of different vintages, the basic technologies 
+Figure 2.  Systematic literature search process in this study.
+Downloaded from https://academic.oup.com/jof/advance-article/doi/10.1093/jofore/fvac037/6901967 by Northern Arizona University user on 03 January 2023
+
+5
+Journal of Forestry, 2022, Vol. XX, No. XX
+used in harvesting remained relatively consistent 
+during the study period. For example, data quantifying 
+forwarder productivity in 1994 was combined with 
+data from more recent forwarder studies. Recently, 
+tethered and winch-assisted machines for steep slope 
+operations are becoming more common in the study 
+region, but are still rare compared to traditional equip-
+ment, especially on thinning operations, and are not 
+yet well represented in the operations literature on 
+thinning (Petitmermet et al. 2019). Even so, there were 
+improvements in technology and productivity over the 
+study period. The relationships between technological 
+advances in machines, their productivity, and the cost 
+of operations are discussed in more detail in the Results 
+and Discussion section.
+Five databases were used for the literature search, 
+including Web of Science, BIOSIS, CAB Abstract, 
+GreenFile, and Agricultural & Environmental Science 
+Database, which include almost all relevant English 
+language forestry publications. The search was limited 
+to three main categories of terms describing forest thin-
+ning, cost, and region to find research articles suitable 
+for this study. Literature search keywords were selected 
+for each term and applied to each database. To refer to 
+forest thinning, “forest thinning,” “thinning treatment,” 
+“thinning treatments,” “fuel reduction,” “fuels reduc-
+tion,” “reducing fuels,” “forest operation,” and “forest 
+operations” were used as keywords. For the term cost, 
+“cost,” “costs,” “feasibility,” “merchantable,” “prod-
+uctivity,” “economics,” and “economic” were used. The 
+study region was limited to the continental western 
+US using the following keywords: “western states of 
+USA,” “pacific states of USA,” “southwestern states 
+of USA,” “north central states of USA,” “western US,” 
+“southwestern US,” “northwestern US,” “California,” 
+“Arizona,” “Montana,” “Washington,” “Oregon,” 
+“New Mexico,” “Nevada,” “Utah,” “Colorado,” 
+“Wyoming,” “Idaho,” “Kansas,” “Nebraska,” “South 
+Dakota,” “North Dakota,” and “rocky mountains.” 
+Though western in geography, Alaska and Hawaii 
+were not included in this study.
+To select research articles meeting the study criteria 
+(Table 1), two screening steps were applied to assess 
+suitability for this study. The first screening was to se-
+lect papers by reading the title and abstract of each 
+paper. In this step, the relevance to three categories 
+(forest thinning, cost, and region) was evaluated. Once 
+the papers passed the first screening process, the full 
+texts of the papers were reviewed to evaluate the study 
+subject (e.g., thinning) and data presented (e.g., site de-
+scription and cost). Additional papers were manually 
+selected and added to the final list of papers that were 
+used for this study through citation checking and ref-
+erence tracking. Finally, data were extracted from the 
+selected papers and organized for data analysis. The 
+literature search focused on papers published in peer-
+reviewed journals, but conference proceeding papers 
+that were not peer-reviewed were also used for this 
+study. Requirements for selection were that the studies 
+observed and empirically evaluated forest-thinning op-
+erations and included associated data such as machine 
+productivity, thinning cost, machine cycle time regres-
+sion models, and site information. Studies modeling 
+exercises without primary field data collection were 
+not selected.
+From the literature search process, 20 articles were 
+selected (Table 2), with 47 independent thinning case 
+studies reported. Of the 20 articles, 12 were identified in 
+the database search, and eight were identified through 
+citation checking and reference tracking. The data col-
+lected from the final set of selected studies included 
+forest stand conditions, operational variables, machine 
+productivity, and thinning costs. Stand condition data 
+includes overstory species, stand density, and average 
+diameter at breast height (DBH). The operational vari-
+ables included harvesting system, harvesting method, 
+thinning intensity, ground slope, and travel distance of 
+machines. To evaluate thinning productivity of each 
+machine, the harvest volume and weight of wood pro-
+duced were summarized based on productive machine 
+hour (PMH). Also, the hourly costs of each harvesting 
+machine and the operational stump-to-truck costs 
+(felling, extraction, processing, and loading) were ini-
+tially summarized for further analysis. The cost of 
+on-road transportation was excluded from the data 
+collection in this study because it largely depends on 
+the distance to the mill. Distance ranges vary greatly 
+by site and region. Therefore, the cost calculations in-
+cluded in this study represent stump-to-truck costs.
+Table 1.  Criteria used to select references.
+Category 
+Research paper selection criteria 
+Harvesting 
+method
+Mechanical thinning operations 
+(commercial, fuel reduction, restoration)
+Study 
+period
+Papers published from 1980 to 2020
+Region/
+species
+Conifer forests in the western United 
+States
+Data 
+collection
+Harvesting and stand variables, machine 
+productivity, or thinning costs
+Downloaded from https://academic.oup.com/jof/advance-article/doi/10.1093/jofore/fvac037/6901967 by Northern Arizona University user on 03 January 2023
+
+6
+Journal of Forestry, 2022, Vol. XX, No. XX
+Standardizing Data and Performing Data 
+Analysis
+The data units reported in the selected studies were 
+diverse, so they had to be standardized before being 
+combined for analysis and modeling. The thinning 
+productivity of each machine was calculated and sum-
+marized in metric green tonnes per PMH. PMH re-
+fers to machine’s working hours without delay time. 
+Scheduled machine hour (SMH) refers to machine’s 
+working hours including any form of delay time such 
+as operational delays (e.g., system imbalance), mechan-
+ical delays (e.g., times used for machine repair and gas 
+filling), and personal delays (e.g., personal break time). 
+Machine utilization rate, a ratio between PMH and 
+SMH, can fluctuate greatly, depending on harvesting 
+machines used, harvesting variables, operational lo-
+gistics, and other factors. To avoid productivity vari-
+ability caused by delays in this study, PMH was used 
+in productivity calculations, and we assumed foresters 
+selected the most appropriate and efficient harvesting 
+system available in each case study. Thinning prod-
+uctivity (tonnes per PMH) was calculated with an as-
+sumption of 50% moisture content (wet basis). In cases 
+where the study reported moisture content, reported 
+data were recalculated by applying a 50% moisture 
+content. When only harvest volume was reported 
+without wood weight, thinning productivity in terms 
+of weight was calculated using the specific gravity of 
+the species to standardize productivity to uniform 
+units (Kretschmann 2010). The volume unit of MBF 
+(1,000 board feet) was converted to CCF (100 cubic 
+feet) based on the average DBH to convert units on 
+a cubic-meter basis (Oester and Bowers 2003). When 
+calculating mean values, points considered outliers 
+were excluded if they were greater than 1.5 times the 
+value of the difference between the third and the first 
+quartile (Wan et al. 2014). Relatively few points were 
+excluded on this basis, with the justification that un-
+usual conditions in a handful of particular cases drove 
+extreme values that were not representative of the cen-
+tral tendency of thinning cost and productivity under 
+most conditions. In studies using SMH as the basic 
+unit without reporting utilization rate, the utilization 
+rate of each machine that was reported by Brinker et 
+al. (2002) was used as they are based on an accumula-
+tion of long-term data on machine utilization.
+Reported variables affecting thinning productivity 
+and cost varied by study. Because different machines 
+have different operational activities, the regres-
+sion equations were classified according to machine 
+Table 2.  A summary of thinning productivity and cost papers published over the last 40 years (1980–2020) 
+that were used for this study.
+No 
+Author (year)  
+Species 
+Harvesting method 
+Forest ownership 
+Thinning objectives 
+1
+Han and Han (2020)
+MC
+WT/CTL
+Plc
+FR
+2
+Townsend et al. (2019)
+PP
+WT/CTL
+Plc
+R
+3
+Petitmermet et al. (2019)
+MC
+CTL
+Plc
+FR
+4
+Vitorelo et al. (2011)
+MC
+WT
+Plc
+FR
+5
+Bolding et al. (2009)
+MC
+WT
+Plc
+FR
+6
+Pan et al. (2008)
+PP
+WT
+Plc
+FR
+7
+Halbrook and Han, (2005)
+MC
+WT
+Plc
+FR
+8
+Largo and Han (2004)
+MC
+WT
+Prv
+FR
+9
+Spinelli and Hartsough (2001)
+MC
+WT
+Prv
+Unreported
+10
+Drews et al. (2001)
+MC
+CTL
+Plc
+FR
+11
+Brown and Kellogg (1996)
+MC
+CTL
+Plc
+FR
+12
+Kellogg et al. (1996)
+MC
+TL
+Prv
+C
+13
+Hartsough and McNeel (1994)
+MC/PP
+WT/CTL
+Plc
+FR
+14
+McNeel and Rutherford (1994)
+MC
+CTL
+Prv
+C
+15
+Kellogg and Bettinger (1994)
+MC
+CTL
+Unreported
+C
+16
+Hochrein and Kellogg (1988)
+MC
+Unreported
+Plc
+Unreported
+17
+Tesch and Lysne (1986)
+MC
+WT
+Unreported
+C
+18
+Kellogg et al. (1986)
+MC
+TL
+Plc
+R
+19
+Kellogg and Olsen (1984)
+MC
+TL
+Plc
+R
+20
+Host and Lowery (1983)
+PP
+WT/TL
+Prv
+C
+MC, mixed conifer species growing in the western U.S. including ponderosa pine; PP, ponderosa pine only; Plc, public land; 
+Prv: private land; FR, fuel reduction; R, restoration; C, commercial thinning; WT, whole-tree; CTL, cut-to-length.
+Downloaded from https://academic.oup.com/jof/advance-article/doi/10.1093/jofore/fvac037/6901967 by Northern Arizona University user on 03 January 2023
+
+7
+Journal of Forestry, 2022, Vol. XX, No. XX
+types, and harvesting variables corresponding to each 
+machine were organized. The values of the variables 
+used in each study were equally weighted, and the fre-
+quency of each variable was counted to identify key 
+variables. In this article, cycle time describes the time 
+required to complete a harvesting activity that is re-
+peated to complete each phase of thinning operations. 
+Key variables collected along with each cycle time are 
+used to explain the amount of time required to com-
+plete each cycle. Because the variables were reported 
+independently under the machine type, independent 
+models were developed for each machine type and 
+then combined to summarize thinning costs for each 
+harvesting method.
+For comparative analysis, the reported thinning costs 
+were adjusted to 2021 US dollars using the Producer 
+Price Index (PPI). Although commonly used for in-
+flation adjustment, the Consumer Price Index (CPI) 
+covers many industries and does not clearly explain 
+the variability in the cost (machine costs, wages, etc.) 
+of logging operations as much as PPI (Rummer 2008). 
+Although CPI reflects general cost trends, logging is in-
+cluded as a producer industry and monitored for pro-
+ducing prices over time in the PPI program. This study 
+used PPI values in the logging industry to calculate the 
+average conversion factor for five-year increments to 
+avoid a discrepancy between thinning operation year 
+and publication year in case the operation year is 
+not reported (U.S. Bureau of Labor Statistics 2021). 
+Adjusting to 2021 US dollars using PPI accounts for 
+inflation allows the costs reported in studies from pre-
+vious years to be compared and aggregated but does 
+not account for cost changes due to other factors, such 
+as technological innovation.
+Production costs of machines used for forest thin-
+ning were collected from each study, and data were 
+organized by stand conditions and operational vari-
+ables. Data from studies that reported costs for all four 
+stages of thinning (felling, extraction, processing, and 
+loading) were collected separately and used to show 
+the range of forest thinning costs over the study period. 
+The production cost of each machine was summarized 
+in dollars per tonne and dollars per cubic meter, and if 
+possible, dollars per hectare was also calculated.
+New Forest Thinning Cost Estimation 
+Model: ThinCost_1.0
+Using the data collected in the systematic literature re-
+view, a new model (referred to as ThinCost_1.0) was 
+created for application throughout the western US The 
+model estimates the general productivity and cost of 
+machines in forest-thinning operations and provides 
+a framework and benchmarks to calculate these met-
+rics based on stand conditions. ThinCost_1.0 estimates 
+production costs for roundwood removal in a thinning 
+operation and does not include biomass harvesting 
+(i.e., chipping or grinding and loading biomass). The 
+ThinCost_1.0 model consists of five spreadsheets of 
+input, machine productivity, machine rates, thinning 
+cost, and tree volume. For cost estimation, this model 
+calculates production rate (tonnes per cycle), cycle 
+time, and machine rate (dollars per PMH) based on 
+user input, with default values drawn from analysis 
+included in this review. The input step allows a user 
+to enter thinning prescription data. Allometric equa-
+tions were used for five species (Pinus ponderosa, 
+Pseudotsuga menziesii, Calocedrus decurrens, Abies 
+concolor, and Pinus lambertiana). Prescription data on 
+tree removal is used for the tree volume calculation, 
+and the average DBH of trees is used to estimate the 
+average log volume per tree, which is for estimating 
+production rates per cycle of each machine. Thinning 
+productivity of each machine is calculated based on 
+the calculated log weights per cycle. The cycle time 
+was calculated with 42 independent regression equa-
+tions collected from the literature review and averaged. 
+With the produced weight per cycle (tonnes per cycle) 
+and cycle time (minutes), the machine productivity 
+(tonnes per PMH) was calculated. The machine rate in 
+2021 US dollars (dollars per PMH) is calculated using 
+the standard machine rate calculation method with 
+the machine type data collected from selected studies 
+(Brinker et al. 2002). The current purchasing price of 
+each harvesting machine was obtained from a dealer. 
+The production cost of each phase was calculated 
+with the machine productivity (tonnes per PMH) and 
+machine rate (dollars per PMH) for the stump-to-truck 
+cost calculation. Finally, the model estimates final thin-
+ning costs for three harvesting methods (WT, TL, and 
+CTL).
+Based on this model, machine productivity and 
+production cost were simulated under different 
+harvesting conditions. Commonly used machines were 
+selected according to the harvesting method (Figure 
+1), and the results were compared by changing the 
+key variables. The average DBH was changed to ana-
+lyze the felling machines, and the extraction machines 
+were analyzed by changing the moving distance. For 
+the simulation, the commonly used input value was 
+set to a slope of 15°, species of Ponderosa pine, and 
+thinning intensity of 1,236 trees/ha to be removed. 
+When comparing extraction machines, the average 
+Downloaded from https://academic.oup.com/jof/advance-article/doi/10.1093/jofore/fvac037/6901967 by Northern Arizona University user on 03 January 2023
+
+8
+Journal of Forestry, 2022, Vol. XX, No. XX
+DBH was set to 15 cm, with a lateral distance of 30 
+m for cable yarders.
+Results and Discussion
+Key Harvesting Variables Reported in 
+Regression Models Estimating Thinning 
+Productivity
+In operations research, independent variables are used 
+in regression models to predict machine cycle time 
+and productivity based on material characteristics 
+(e.g., diameter, mass, piece count), site conditions (e.g., 
+slope, ground operability), machine movement (e.g., 
+distance, swing arc) and other measurable variables 
+(e.g., operator experience). Not all regression models 
+used the same variables, but we sought to identify and 
+use the most important key variables across these di-
+verse case studies. For felling machines (Table 3), there 
+were five chainsaw cycle time regression models, eight 
+feller-buncher models, and six harvester models rep-
+resented in the literature we reviewed. The moving 
+distance and DBH were identified as key variables, 
+but DBH was not a key variable for the feller-buncher 
+because feller-bunchers were often used to cut small-
+diameter trees (4–35  cm). Also, the number of trees 
+felled increased with decreasing tree diameter. In the 
+case studies, the feller-buncher felled five trees per cycle 
+on average, whereas the harvester and chainsaw cut 
+one tree per cycle. Because harvesters conduct add-
+itional processing activity at the stump, the number of 
+cuts per log was the key variable in harvester models. 
+Many variables that were significant predictors of thin-
+ning productivity in specific models—such as species, 
+slope, height, and worker experience—were dropped 
+from the aggregate model because they were used only 
+in one or a small number of studies.
+For the cycle time regression models for extraction 
+machines, there were nine skidder models, and five and 
+six models for forwarder and cable yarder, respect-
+ively (Table 4). Each machine moves logs in different 
+ways, but the activity of moving wood to a landing 
+is the same. Since the travel time is the longest part 
+of a cycle compared to other machines (Drews et al. 
+2001; Spinelli and Hartsough 2001; Pan et al. 2008; 
+Han and Han 2020), the travel distance is the most im-
+portant variable explaining extraction productivity, so 
+the travel distance was used as a predictor in every ex-
+traction model. The number of trees or logs per cycle is 
+also an important variable, but it was selected as a key 
+variable only for the skidder. In the reviewed studies, 
+the forwarder and cable yarder harvested relatively 
+large trees in log form compared to skidders, so the 
+count measurement is often replaced by the volume or 
+weight of the timber in each cycle for these machines.
+For the processor and loader, seven and eight models 
+were analyzed, respectively. The number of cuts per tree 
+and the number of trees were the key variables (Table 
+5), with all seven processor models using the number 
+of cuts per tree and six of the eight loader models using 
+the number of trees. The DBH was selected as an add-
+itional key variable for the processor.
+The key variables that affect thinning productivity 
+and cost for each machine varied greatly from study to 
+study. Cycle time estimation models ranged from simple 
+to multiple regression models including up to six vari-
+ables. In previous studies, the reported variables were 
+Table 3.  Variables used in the delay-free cycle time regression models for felling machine productivity. Bold 
+indicates variables determined to be key variables.
+Chainsaw 
+n = 5 
+Feller buncher 
+n = 8 
+Harvester 
+n = 6 
+DBH
+4
+Travel distance
+7
+DBH
+5
+Distance to tree
+3
+The number of trees per cycle
+7
+Travel distance
+5
+Slope
+2
+DBH
+3
+The number of cuts/logs per cycle
+4
+Number of bucking
+2
+Slope
+1
+The number of trees per cycle
+1
+Wedge
+2
+Forest type
+1
+Weight
+1
+Tree volume
+2
+Non-Merchantable pieces
+1
+Height
+1
+Species
+1
+Merchantable Pieces
+1
+Slope
+1
+Cutter experience
+1
+Plots
+1
+Forest type
+1
+Site
+1
+Draws
+1
+Wide treatment
+1
+Strip treatment
+1
+n is the number of papers that included each variable in cycle time regression models. Travel distance includes distance vari-
+ables such as the move distance to tree or intermediate travel distance. The number of logs per cycle includes the number of 
+cuts per cycle.
+Downloaded from https://academic.oup.com/jof/advance-article/doi/10.1093/jofore/fvac037/6901967 by Northern Arizona University user on 03 January 2023
+
+9
+Journal of Forestry, 2022, Vol. XX, No. XX
+selected based on statistical tests and estimates of pre-
+diction error (e.g., F-test, adjusted R-squared value, or 
+Akaike Information Criterion) or to meet different re-
+search objectives to facilitate cost estimation from gen-
+eralizable variables that can be easily measured in the 
+field. For example, Petitmermet et al. (2019) compared 
+regression models, using different variables, with stat-
+istical tests and explained that the results could be dif-
+ferent depending on the data they collected and used. 
+Therefore, many variables not identified as key vari-
+ables in this study significantly affect thinning prod-
+uctivity in the original models used in the studies. Their 
+exclusion here should not be interpreted as a judgment 
+on their statistical significance. Additionally, the vari-
+ables that affect harvested wood volume or weight per 
+cycle were not applied. DBH, height, and species might 
+affect the amount of wood handled per cycle, but it is 
+difficult to estimate the volume or weight based on the 
+data as they were provided in these studies. These vari-
+ables should be explored in future research.
+Productivity and Cost for Machines Used in 
+Thinning Operations
+Because feller-bunchers can cut several trees in one 
+cycle in a relatively short time, the productivity was 
+significantly higher (33.31 tonnes/PMH), on average, 
+than the other felling machines. Also, the feller-buncher 
+has $4.58/tonne of felling cost, which resulted in the 
+most efficient machine among the felling machines 
+(Table 6). Conversely, the chainsaw was less pro-
+ductive, but the production cost ($/tonne) was lower 
+than the harvester. The chainsaw has a longer cycle 
+time than other machines, so productivity was rela-
+tively low (10.65 tonnes/PMH on average) at $6.49/
+tonne. The most expensive felling machine was the 
+harvester at $14.21/ tonne with 14.57 tonnes/PMH. 
+When calculating the machine cost according to the 
+volume (dollars per cubic meter), the harvester showed 
+the highest cost among the felling machines at $10.92/
+m3, followed by the chainsaw and the feller-buncher 
+at $5.47/m3 and $3.30/m3, respectively (Table 7). In 
+WT systems, feller-bunchers and chainsaws do not 
+Table 4.  Variables used in the delay-free cycle time regression models for extraction machine productivity. 
+Bold indicates variables determined to be key variables.
+Skidder 
+n = 9 
+Forwarder 
+n = 5 
+Cable Yarder 
+n = 6 
+Travel distance
+9
+Travel distance
+5
+Lateral distance
+6
+# of trees per cycle
+6
+Slope
+3
+Yarding distance
+6
+Slope
+3
+Product type
+3
+The number of logs per cycle
+2
+# of bunches per cycle
+2
+Log weight/volume
+3
+Volume per cycle
+2
+Machine type
+2
+# of logs per cycle
+2
+preset
+2
+type of material
+1
+The number of choker setter
+1
+Weight
+1
+Slope
+1
+Yarding direction
+1
+The number of chokers
+1
+Crew size
+1
+Damage
+1
+Log angle
+1
+Grapple
+1
+n is the number of papers that used the variable when developing regression models. Log weight includes log volume. Travel 
+distance includes distance variables such as the move to bunch or intermediate travel distance.
+Table 5.  Variables used in the delay-free cycle time 
+regression models to estimate productivity for 
+processors and loaders. Bold indicates variables 
+determined to be key variables.
+Processor 
+n = 7 
+Loader 
+n = 8 
+The number of 
+cuts per tree
+7
+The number of 
+logs per cycle
+6
+DBH
+4
+Log volume
+2
+Material
+2
+Branding
+1
+Forest type
+2
+The number of 
+swings per truck
+1
+species
+1
+Log sort
+1
+Pieces per 
+grapple
+1
+DBH
+1
+Weight
+1
+# of bunches per 
+cycle
+1
+Travel distance
+1
+n is the number of papers that used the variable. The number 
+of cuts per tree includes the number of logs per tree.
+Downloaded from https://academic.oup.com/jof/advance-article/doi/10.1093/jofore/fvac037/6901967 by Northern Arizona University user on 03 January 2023
+
+10
+Journal of Forestry, 2022, Vol. XX, No. XX
+process the trees they fell, so a fair cost comparison 
+to harvesters would include processing in addition to 
+felling. Also, the average DBH felled by each machine 
+was different. The feller-buncher was used to cut rela-
+tively smaller trees (average [avg.] 16 cm in DBH), and 
+the DBH of the removed trees tended to be larger for 
+harvesters (avg. ) and chainsaws (avg. 32 cm). These 
+result suggests that feller-bunchers would be the ideal 
+machine for fuel reduction or forest restoration thin-
+ning on appropriate slopes because the small-diameter 
+tree is the main harvest target, and the productivity 
+of the machine tends to increase as the DBH increases 
+(Kellogg and Bettinger 1994; Nakagawa et al. 2007). 
+Also, due to lower production costs, feller-bunchers 
+may be preferred over harvesters for financial reasons. 
+However, a harvester would be preferred if a thinning 
+prescription requires leaving limbs and branches on 
+site for reasons such as nutrient recycling or lack of 
+local markets for biomass. Therefore, the criteria for 
+machine selection in thinning operations is based not 
+only on financial outcomes but also on harvesting 
+objectives.
+Among the extraction machines, the cable yarder 
+showed the lowest productivity at 14.52 tonnes/PMH 
+with the highest extraction cost at $30.41/tonne. 
+A cable yarding system requires workers (typically 
+3–5) on the ground, so the hourly cost of operation 
+is higher than the other extraction machines. The low 
+productivity of cable yarders can be explained by the 
+timber volume produced in one cycle, which is rela-
+tively smaller than the other extraction machines, and 
+the extra time required to change skyline corridors. 
+However, cable systems can be applied to forests on 
+steep slopes (>35%), so they are often used in areas 
+where skidders or forwarders may be impractical to use 
+or prohibited by policy or best management practices. 
+Recent applications of tethered and winch-assisted ma-
+chines on steep slopes are changing this calculation for 
+operators. For example, Petitmermet et al. (2019) com-
+pared tethered and untethered machine productivity, 
+but adequate data were unavailable to include tethered 
+Table 6.  Productivity and cost of each machine for forest thinning operations, converted into 2021 costs 
+(dollars per tonne).
+Machine 
+Production rate (tonnes/PMH)
+Thinning cost ($/tonne)
+Mean 
+n 
+Median 
+n 
+Mean 
+n 
+Median 
+n 
+Chainsaw
+10.65
+14
+10.04
+14
+6.49
+13
+6.76
+14
+Feller-Buncher
+33.31
+16
+28.98
+16
+4.58
+15
+4.52
+16
+Harvester
+14.57
+16
+11.57
+16
+14.21
+15
+13.85
+13
+Skidder
+21.29
+26
+19.38
+27
+6.56
+24
+5.90
+25
+Cable Yarder
+14.52
+22
+16.09
+22
+30.41
+22
+28.99
+22
+Forwarder
+14.80
+9
+13.68
+10
+10.54
+8
+9.53
+9
+Processor (WT)
+24.18
+10
+25.74
+10
+6.80
+10
+6.98
+10
+Processor (TL)
+22.40
+2
+22.40
+2
+6.84
+2
+6.84
+2
+Loader (CTL)
+25.25
+8
+21.41
+8
+5.33
+8
+5.91
+8
+Loader (TL)
+41.75
+2
+41.75
+2
+3.77
+2
+3.77
+2
+Loader (WT)
+44.04
+16
+43.89
+16
+3.40
+14
+3.25
+15
+Thinning productivity and cost on whole-tree (WT) harvesting equipment (i.e., chainsaw, feller-buncher, and skidder) includes 
+handling both sawlog trees and biomass trees, while other machines handle sawlog trees or roundwood only. Productivity and 
+costs in this table were a summary of the data reported in the past studies. CTL, cut-to-length; PMH, production machine 
+hour; TL, tree-length. 
+Table 7.  Thinning costs of machines (dollars per 
+cubic meter) in the stump-to-truck process (i.e., 
+felling, extraction, processing, and loading) for 
+forest thinning operations converted into standard 
+units.
+Machine 
+Thinning cost ($/m3)
+Mean 
+n 
+Median 
+n 
+Chainsaw
+ 5.47
+13
+4.69
+13
+Feller-buncher
+ 3.30
+12
+3.44
+13
+Harvester
+10.92
+14
+10.27
+16
+Skidder
+ 4.67
+19
+4.43
+19
+Cable yarder
+23.94
+15
+17.17
+15
+Forwarder
+8.07
+8
+7.69
+8
+Processor (WT)
+5.16
+6
+5.24
+6
+Loader (CTL)
+3.49
+7
+3.79
+7
+Loader (WT)
+ 2.43
+10
+2.17
+11
+CTL, cut-to-length; WT, whole-tree.
+Downloaded from https://academic.oup.com/jof/advance-article/doi/10.1093/jofore/fvac037/6901967 by Northern Arizona University user on 03 January 2023
+
+11
+Journal of Forestry, 2022, Vol. XX, No. XX
+machine systems in this study. Skidders and forwarders 
+were highly productive and showed lower costs than 
+cable yarders. The skidder showed the highest effi-
+ciency among the extraction machines at 21.29 tonnes/
+PMH and the lowest cost at $6.56/tonne. Among the 
+extraction machines, the cable yarder showed approxi-
+mately five times higher extraction cost ($23.94/m3) 
+than the skidder ($4.67/m3) and three times higher 
+than the forwarder ($8.07/m3). Although cable yarders 
+are similar to the forwarder in average productivity, 
+their production costs are approximately three times as 
+much. The reason is that the machine rate (dollars per 
+hour) of cable yarders is much higher than forwarders 
+due to machine price and labor costs associated with a 
+higher number of workers.
+Processors and loaders were sorted by harvesting 
+methods. The processor showed high productivity 
+at 24.18 and 22.40 tonnes/PMH, on average, in WT 
+and TL harvesting methods, respectively. The average 
+cost was $6.80/tonne and $6.84/tonne, respectively. 
+However, considering there are only two cases of 
+TL harvesting, it is not appropriate to compare this 
+result on a statistical basis. Similar to the processor, 
+the productivity and costs of the loader showed high 
+productivity and low cost. The loader had the lowest 
+productivity, with an average of 25.25 tonnes/PMH in 
+CTL, 41.75 tonnes/PMH, and 44.04 tonnes/PMH in 
+TL and WT, respectively, which is consistent with past 
+studies (Brown and Kellogg 1996; Hartsough 2003; 
+Townsend et al. 2019).
+Stump-to-Truck Thinning Costs
+Based on the production cost of each machine in Table 
+6, the stump-to-truck cost of the most commonly 
+used harvesting systems was calculated (Table 8). 
+The cheapest scenario for forest thinning is the feller-
+buncher-skidder-processor-loader, with an average cost 
+of $21.34/tonne and a median value of $20.65/tonne. 
+The harvesting system with the highest cost was the 
+chainsaw-yarder-processor-loader ($47.10/tonne). The 
+cost of the harvesting system involving a cable yarder 
+exceeded $40 per tonne. The stump-to-truck cost of 
+CTL was higher than WT except for the cable yarding 
+system because the operating cost of the harvester was 
+more expensive than the sum of the feller-buncher 
+and processor, and the forwarder also had a higher 
+production cost ($10.54/tonne) than the skidder 
+($6.54/tonne). This result shows a simple cost differ-
+ence in harvesting systems, and it does not propose 
+the machine selection for operators; these results are 
+simply the sum of the costs of each machine, and the 
+operator’s machine selection has already been applied 
+in each result. Site conditions and treatment objectives 
+may favor selection of a higher-cost system.
+In the 20 cases reported, all phases (felling, extrac-
+tion, processing, and loading) were considered and the 
+cost ratio of each phase in stump-to-truck cost was 
+compared. There were only two cases of TL (Townsend 
+et al. 2019, Han and Han 2020), as compared to ten 
+and eight cases for WT and CTL harvesting, respect-
+ively (Figure 3). As a result, extraction cost occupied 
+the highest ratio in WT and TL at 33% and 43%, re-
+spectively. This result has been shown in other studies 
+that present each phase of a stump-to-truck operation 
+(Hartsough 2003; McIver et al. 2003; Han et al. 2004). 
+For CTL harvesting, the extraction cost was 37% of 
+the stump-to-truck cost, and combined felling and 
+processing is the highest cost component at 47%. The 
+reason for this high cost is that harvesters were used in 
+CTL, and processing and felling was conducted at the 
+Table 8.  Stump-to-truck costs depending on harvesting methods and systems based on information in 
+Tables 6 and 7, excluding biomass handling activities (i.e., chipping, grinding, and loading).
+Harvesting phase 
+Harvesting method
+Whole-tree
+Tree-length 
+Cut-to-length 
+Felling
+Extraction
+Processing
+Loading
+Chainsaw
+Skidder
+Processor
+Loader 
+Chainsaw
+Yarder
+Processor
+Loader 
+Feller-Buncher
+Skidder
+Processor
+Loader 
+Chainsaw
+Yarder
+Loader
+Harvester
+Forwarder
+Loader
+$/tonne (mean)
+23.25
+47.10
+21.34
+40.30
+30.08
+$/tonne (median)
+22.89
+45.98
+20.65
+39.52
+29.29
+$/m³ (mean)
+17.73
+37.00
+15.56
+N/A
+22.48
+$/m³ (median)
+16.53
+29.27
+15.28
+N/A
+21.75
+$/tonne represents the sum of the thinning costs of each harvesting system.
+Downloaded from https://academic.oup.com/jof/advance-article/doi/10.1093/jofore/fvac037/6901967 by Northern Arizona University user on 03 January 2023
+
+12
+Journal of Forestry, 2022, Vol. XX, No. XX
+stump in one cycle. Comparing the combined ratio of 
+felling and processing, all three methods had similar 
+values. Loading accounted for the lowest percentage of 
+the total cost for all three harvesting methods.
+Comparing the stump-to-truck costs for the 20 
+case studies, the WT harvesting method had lower 
+costs than CTL or TL, ranging from $16.44 to $40.08 
+per tonne (Figure 4). TL harvesting cases ranged from 
+$33.42 to $41.87 per tonne, and CTL thinning cases 
+ranged from $22.87 to $41.78 per tonne. The stump-
+to-truck cost of CTL was slightly higher than that of 
+WT, which was highlighted in some studies (Hartsough 
+2003; Townsend et al. 2019). Those studies explain 
+that the feller-bunchers are mainly used in WT thin-
+ning operations, whereas the harvester is commonly 
+used in CTL operations. Also, high-cost cable yarding 
+was sometimes used when large trees were removed 
+in CTL operations. TL thinning costs were often used 
+for cable yarding as a strategy to minimize costs by 
+leaving limbs and tops on site (Townsend et al. 2019; 
+Han and Han 2020). Distributing and leaving the 
+limbs and tops throughout the treatment unit is less 
+costly. However, this is not always possible because 
+contracts sometimes specify removing limbs and tops 
+from the unit to reduce wildfire risk. Often, this re-
+sidual biomass is collected and burned for disposal to 
+meet this objective.
+When comparing thinning cost per area, WT shows 
+a slightly lower pattern in harvest cost (Figure 5). The 
+cost of WT was in the range of $785/ha to $2,890/ha 
+(Figure 5). In the cases of CTL, the cost ranged from 
+$1,197/ha to $4,291/ha. Considering the harvested 
+volume, WT methods harvested a relatively large 
+volume compared to CTL methods, but the stump-to-
+truck cost was lower in the WT method on average. 
+This result suggests machines in the WT method per-
+formed more efficiently or productively in the stump-
+to-truck harvesting process.
+Development of a Spreadsheet-Based 
+Thinning Cost Model
+The ThinCost_1.0 model focused on estimating stump-
+to-truck thinning costs in the western US and was de-
+signed to estimate thinning productivities of logging 
+machines based on regression equations reported in 
+past studies. The STHarvest (Hartsough et al. 2001) 
+model uses several productivity equations developed 
+under clear-cut operations and in different regions of 
+the US. Harvest Cost-Revenue (HCR) thinning cost 
+model was developed in the southwest US based on a 
+limited number of case studies and may not be applic-
+able in other places where forest conditions and oper-
+ations differ from the Southwest (Becker et al. 2008). 
+Because the model is based on empirical studies of di-
+verse cases in many locations across the western US, 
+ThinCost_1.0 is applicable across the entire region in 
+various stand conditions.
+In the ThinCost simulations for felling machines 
+(Figure 6), the chainsaw in the TL harvesting system 
+had lower productivity than the harvester under 20 cm 
+DBH conditions, and this trend is reversed after 20 cm 
+DBH. The feller-buncher has much higher product-
+ivity than the other two machines. The cost (dollars 
+per tonne) difference between chainsaw and feller-
+buncher was <1$/tonne except in 15 cm DBH condi-
+tions, whereas the chainsaw is more expensive than the 
+feller-buncher for trees less than 30 cm DBH. However, 
+Figure 3.  The ratio of each phase (felling, extraction, 
+processing and loading) of thinning operation to total 
+stump-to-truck harvesting cost.CTL (n=8), TL (n=2), WT 
+(n=10), Felling in CTL includes felling and processing.
+Processing activity in the CTL harvesting system is included 
+in the felling activities.
+Figure 4.  Average costs ($/ton; roundwood only) of 
+thinning operations that were reported in the selected 
+studies.
+Downloaded from https://academic.oup.com/jof/advance-article/doi/10.1093/jofore/fvac037/6901967 by Northern Arizona University user on 03 January 2023
+
+13
+Journal of Forestry, 2022, Vol. XX, No. XX
+the feller-buncher is more expensive than the chainsaw 
+in >30 cm DBH conditions.
+In extraction machines, the skidder showed high 
+productivity at low extraction distances and the for-
+warder was more productive at distances >240 m 
+(Figure 7). The skidder is more cost-efficient than the 
+forwarder in <270 m of extraction distance, and the 
+opposite is true at >270 meters of extraction distance. 
+The cable yarder was more expensive than the other 
+two machines. The processor showed 40 tonnes/PMH 
+of productivity at 15  cm DBH, and the higher the 
+DBH, the higher the productivity (Figure 8). The pro-
+duction costs, on the other hand, started at $5/tonne 
+and went down as DBH went up. The productivity and 
+production cost of the loader is most efficient in 25 cm 
+DBH conditions.
+This model allows for comparing machine prod-
+uctivity and costs in different stand conditions, and 
+the user can effectively perform a sensitivity analysis 
+to evaluate thinning cost and financial feasibility for a 
+wide range of operational scenarios. The model can be 
+used to develop practical operational plans and min-
+imize overall thinning costs. Because the model was 
+developed using many thinning productivity equations 
+developed in field-based empirical studies, it provides 
+cost estimates of thinning treatments reflecting average 
+operational work conditions and stand variables.
+Limitations of the Study and Areas for 
+Future Research
+In this study, we were limited to a fairly narrow slice 
+of forest operations research because of the subject 
+and our requirements for study design, location, and 
+data reporting. As a result, this study does not cover 
+many existing machines that could potentially be used 
+in thinning operations. For example, among feller-
+bunchers, there are different sizes (large versus small 
+horsepower), wheel types (rubber-tired versus tracked), 
+Figure 5.  Average costs ($/ha) of thinning operations and harvested volume (tons/ha) from the reviewed papers. Harvested 
+volumes include both roundwood and biomass in whole-tree and roundwood only in cut-to-length thinning operations.
+Figure 6.  Productivity and cost of felling machine over different size of trees from ThinCost_1.0 model for harvesting round-
+wood only.
+Downloaded from https://academic.oup.com/jof/advance-article/doi/10.1093/jofore/fvac037/6901967 by Northern Arizona University user on 03 January 2023
+
+14
+Journal of Forestry, 2022, Vol. XX, No. XX
+and felling mechanisms (disc saw versus shear) that are 
+not differentiated here. Each type of machine could 
+perform at a different production rate or hourly cost 
+on thinning operations, so future studies may quantify 
+and summarize thinning productivity and cost data for 
+a wide range of machines at higher resolution.
+As previously mentioned, although no major para-
+digm shifts have occurred in this region regarding log-
+ging systems, there were some important advances in 
+technology over the study period (1980 to 2020) that 
+are not explicitly evaluated or quantified. In general, 
+technological advances in logging machines have in-
+creased machine productivity over time (Nordfjell 
+et al. 2010; Conrad et al. 2018; MacDonaugh et al. 
+2019). For example, skidder payloads have increased 
+significantly since the 1980s. More recently, technolo-
+gies for self-leveling cabs and tethered systems have 
+improved productivity for felling and forwarding on 
+steep slopes. As power transmission, hydraulic pres-
+sure, and boom lifting torque have improved, logging 
+capacity and machine speed have increased (Nordfjell 
+et al. 2010). As a result, the productivity of machines 
+has increased in both CTL (Nordfjell et al. 2010) and 
+WT (Conrad et al. 2018) harvesting operations.
+However, there is some evidence that, despite in-
+creases in productivity, the inflation-adjusted cost of 
+harvesting has not decreased significantly since the 
+early 1990s due to high prices of machines and the rela-
+tive escalation of other operational costs. In Sweden, 
+this appears to apply to both thinning and final felling 
+in even-aged stands between 1985 and 2010 (Nordfjell 
+et al. 2010). Along with technological advances in log-
+ging machines, the hourly cost of machines, including 
+machine purchase price, repair and maintenance, and 
+fuel also increased, offsetting the improvement in 
+harvesting productivity and keeping costs flat in many 
+situations. Furthermore, for new technologies to drive 
+down unit costs with higher productivity, they must 
+be adopted. In the US, logging companies are typically 
+small contracting businesses with capital investments 
+Figure 7.  Productivity and production cost of three different extraction machines depending on average skidding distance 
+from the ThinCost_1.0 for round-wood only.
+Figure 8.  Productivity and production cost of processor (left) and loader (right) depending on DBH from the ThinCost_1.0 
+for round-wood only.
+Downloaded from https://academic.oup.com/jof/advance-article/doi/10.1093/jofore/fvac037/6901967 by Northern Arizona University user on 03 January 2023
+
+15
+Journal of Forestry, 2022, Vol. XX, No. XX
+of less than a million dollars (Allen et al. 2008, 
+Vaughan et al. 2021). In this context, the high cost of 
+new machines using the latest technologies can be a 
+barrier to innovation in timber harvesting (Conrad et 
+al. 2018), and many contractors still use older models 
+and machine styles in the western US.
+As technology and productivity are related to this 
+study, we believe that the aggregate data and associ-
+ated models, which are adjusted for inflation to 2021 
+USD using the PPI, can be used effectively to estimate 
+productivity and costs on thinning operations with the 
+understanding that they do not account explicitly for 
+any technological advances in this sector, except as 
+captured by the studies included in the review, which 
+represent the best available science in empirical forest 
+operations research on thinning. The information pro-
+vided can be used as a planning tool to compare the 
+relative performance of different methods and systems 
+under different thinning conditions. As new technolo-
+gies evolve, they should be studied and incorporated 
+into this work. As this article goes to press, the US 
+and much of the world has experienced a period of 
+sustained high inflation and supply chain disruptions, 
+including in the forest sector, that should be accounted 
+for in future estimation of real thinning costs.
+The ThinCost_1.0 model was developed from pub-
+lished research to estimate the stump-to-truck thinning 
+cost for roundwood produced using three harvesting 
+methods (WT, TL, and CTL). Although it was devel-
+oped using empirical data and regression models from 
+field research, it has not undergone an independent 
+field validation process to evaluate its outputs for ac-
+curacy. However, moving forward, new studies that 
+conduct data collection using operations research 
+methods similar to the studies used to develop the 
+tool can easily be used for validation and then be in-
+tegrated into the database of models driving the out-
+puts. The transparent and open-source nature of the 
+spreadsheet-based approach facilitates user validation 
+and modification.
+The current model also needs to be expanded to in-
+clude on-road transportation and thinning treatments 
+that harvest biomass (e.g., limbs, cull, and treetops) 
+using different machine options. The ThinCost model 
+will be further developed to include options for users to 
+tailor operational conditions and machine rates to re-
+flect their work conditions and financial realities closely.
+More broadly, this work supports more innovative 
+data collection for operations research and engineering 
+in forestry, especially thinning treatments for haz-
+ardous fuel reduction. Traditional operations research 
+using time study techniques provides high-quality, 
+high-resolution data, but is highly time-consuming, 
+labor-intensive, and expensive. As a result, it is quite 
+limited in quantity and has been heavily focused on 
+commercial timber production. As federal land man-
+agement agencies increase the scale and pace of 
+forest thinning on public land, they should consider 
+integrating operational data collection. Direct support 
+for real-time data collection and analysis using the next 
+generation of sensors, software, and in-woods commu-
+nications systems is imperative in this industry and can 
+be included in contracting. Better data collection and 
+operations research would bring immediate benefits to 
+operations planning and management. This approach 
+would also help improve cost models like this one and 
+bring agencies into the big data and machine-learning 
+era of precision forestry and Industry 4.0, ultimately 
+improving cost estimation and the efficiency of plan-
+ning and implementation, which would allow more 
+treatment at a lower cost.
+Conclusion
+This study summarized the productivity, variability, 
+and costs of forest thinning studies conducted in 
+the western US. We found that forest thinning costs 
+ranged from $16.44 to $41.87/tonne and $758/ha 
+to $4,291/ha. The prethinning forest conditions (e.g., 
+stand density), volume removed (tonnes per hectare), 
+harvesting methods, and system used all directly affect 
+the final cost of forest thinning operations.
+The system configuration with the most efficient 
+results for the WT harvesting method included the 
+feller-buncher, skidder, processor, and loader. The 
+feller-buncher was the most efficient machine in the 
+felling phase, outperforming the chainsaw and har-
+vester. Among the extraction machines, the cable 
+yarder had three to five times higher production costs 
+than the other machines and had the lowest product-
+ivity but can operate on steep slopes. The skidder ap-
+peared to be the most efficient machine for extraction. 
+Processors and loaders were found to have high prod-
+uctivity and low cost, especially in the CTL and WT 
+harvesting methods.
+To illustrate how to use the detailed information 
+synthesized in this literature review, we developed a thin-
+ning cost estimation model called ThinCost_1.0. It can 
+automatically calculate the cycle time, productivity, and 
+cost of each machine in a system based on user input, 
+with default values and appropriate regression models 
+pulled directly from the reviewed studies. The model 
+Downloaded from https://academic.oup.com/jof/advance-article/doi/10.1093/jofore/fvac037/6901967 by Northern Arizona University user on 03 January 2023
+
+16
+Journal of Forestry, 2022, Vol. XX, No. XX
+needs to be further developed for functionality and field 
+tested to validate the accuracy of its outputs, but it is the 
+most up-to-date model available and is already being 
+used to guide harvest system selection. The goal is to 
+reduce thinning costs by providing useful productivity 
+and cost information and by facilitating efficient forest 
+operations for land managers, fuels planners, woodland 
+owners, contractors, and others conducting critical thin-
+ning operations in the forests of the western US.
+Supplementary Materials
+Supplementary data are available at Journal of Forestry 
+online.
+Acknowledgments
+We would like to thank Tayloe Dubay at Ecological 
+Restoration Institute, Northern Arizona University, for re-
+viewing the manuscript and offering editorial comments 
+and suggestions, which were very helpful in improving the 
+readability of the paper. Our sincere thanks also go to Ola 
+Lindroos and Raffaele Spinelli for providing references 
+describing technological advances and harvesting product-
+ivity in logging machines. 
+Funding
+This study was funded by the Technology and Research 
+Initiative Fund (TRIF) of Arizona. Additional support was 
+provided by the USDA Forest Service. The findings and con-
+clusions in this study are those of the author(s) and do not 
+necessarily represent any official USDA or US Government 
+determination or policy.
+Conflict of Interest
+The authors declare no conflict of interest.
+Literature Cited
+Allen, T., H.-S. Han, and S.R. Shook. 2008. A structural 
+assessment of the contract logging sector in the Inland 
+Northwest. Forest Products Journal 58(5):27–33.
+Becker, D.R., D. Larson, E.C. Lowell, and R.B. Rummer. 2008. 
+User guide for HCR Estimator 2.0: software to calculate 
+cost and revenue thresholds for harvesting small-diameter 
+ponderosa pine (Vol. 748). USDA, Forest Service, Pacific 
+Northwest Research Station.
+Bolding, M.C., L.D. Kellogg, and C.T. Davis. 2009. 
+Productivity and costs of an integrated mechanical forest 
+fuel reduction operation in southwest Oregon. Forest 
+Products Journal 59(3):35–46.
+Bolding, M.C., and B.L. Lanford. 2001. Forest fuel reduc-
+tion through energy wood production using a small 
+chipper and CTL harvesting systems. Proceedings of the 
+24th Annual Council on Forest Engineering Meeting, 
+Snowshoe, WV, July 15–19. 65–70p.
+Brinker, R.W., J. Kinard, B. Rummer, and B. Lanford. 2002. 
+Machine rates for selected forest harvesting machines. 
+Alabama Agricultural Experimental Station at Auburn 
+University Circular 296:32.
+Brose, P.H., D.C. Dey, R.J. Phillips, and T.A. Waldrop. 2013. 
+A meta-analysis of the fire-oak hypothesis: does pre-
+scribed burning promote oak reproduction in Eastern 
+North America? Forestry Science 59(3):322–334.
+Brown, C.G. and L.D. Kellogg. 1996. Harvesting economics 
+and wood fiber utilization in a fuels reduction project: 
+a case study in eastern Oregon. Forest Products Journal 
+46(9):45–52.
+Brusentsev, V., and W. Vroman. 2016. Wildfires in the United 
+States: A primer. https://www.urban.org/sites/default/
+files/publication/77201/2000593-Wildfires-in-the-United-
+States-A-Primer.pdf. 22p.
+Chalmers, S.R., and B.R. Hartsough. 2001. Thinning and 
+prescribed fire as methods to reduce fuel loading—a 
+cost analysis. In: Thinnings, a valuable forest manage-
+ment tool proceedings of an international conference. 
+(CD-ROM). Pointe-Claire, Canada: Forest Engineering 
+Research Institute of Canada.
+Conrad, J.L. IV, W.D. Greene, and P. Hiesl. 2018. A review of 
+changes in US logging businesses 1980s–present. Journal 
+of Forestry 116(3):291–303.
+Dennison, P.E., S.C. Brewer, J.D. Arnold, and M.A. Moritz. 
+2014. Large wildfire trends in the western United States, 
+1984–2011. Geophysical Prospecting 6413:6419p.
+Drews, E.S., B.R. Hartsough, J.A. Doyal, and L.D. Kellogg. 
+2001. Harvester-forwarder and harvester-yarder sys-
+tems for fuel reduction treatments. Journal of Forest 
+Engineering 12(1):81–91.
+Fulé, P.Z., J.E. Crouse, J.P. Roccaforte, and E.L. Kalies. 2012. 
+Do thinning and/or burning treatments in western USA pon-
+derosa or Jeffrey pine-dominated forests help restore natural 
+fire behavior? Forest Ecology and Management 269:68–81.
+Halbrook, J.M. and H.-S. Han. 2005. Costs and constraints 
+of fuel reduction treatments in a recreational area. Soil, 
+Water & Timber Management: Forest Engineering 
+Solutions in Response to Forest Regulation. pp. 11–14.
+Han, S. and H.-S. Han. 2020. Productivity and cost of whole-
+tree and tree-length harvesting in fuel reduction thinning 
+treatments using cable yarding systems. Forest Science 
+and Technology 16(1):41–48.
+Han, S., H.-S. Han, W.J. Elliot, and E.M. Bilek. 2017. 
+Thintool: a spreadsheet model to evaluate fuel reduction 
+thinning cost, net energy output, and nutrient impacts. 
+Forest Science 63(1):118–127.
+Han, H.-S., H.W. Lee, and L.R. Johnson. 2004. Economic 
+feasibility of an integrated harvesting system for small-
+diameter trees in southwest Idaho. Forest Products 
+Journal 54(2):21–27.
+Downloaded from https://academic.oup.com/jof/advance-article/doi/10.1093/jofore/fvac037/6901967 by Northern Arizona University user on 03 January 2023
+
+17
+Journal of Forestry, 2022, Vol. XX, No. XX
+Hartsough, B.R. 2003. Economics of harvesting to maintain 
+high structural diversity and resulting damage to residual 
+trees. Western Journal of Applied Forestry 18(2):133–142.
+Hartsough, B.R. and J.F. McNeel. 1994. Comparison of 
+mechanized systems for thinning ponderosa pine and 
+mixed conifer stands. 1994 international winter meeting 
+sponsored by the American Society of Agricultural 
+Engineers. ASAE Pap. 94-7513. St. Joseph, MI; American 
+Society of Agricultural Engineers. 20 p.
+Hartsough, B.R., X. Zhang, and R.D. Fight. 2001. Harvesting 
+cost model for small trees in natural stands in the Interior 
+Northwest. Forest Products Journal 51(4):54–61.
+Helms, J.A. 1998. The Dictionary of Forestry. Bethesda: 
+Society of American Foresters.
+Hjerpe, E., J. Abrams, and D.R. Becker. 2009. Socioeconomic 
+barriers and the role of biomass utilization in southwestern 
+ponderosa pine restoration. Ecological Restoration 
+27(2):169–177.
+Hochrein, P.H. and L.D. Kellogg. 1988. Production and cost 
+comparison for three skyline thinning systems. Western 
+Journal of Applied Forestry 3(4):120–123.
+Holzleitner, F., K. Stampfer, and R. Visser. 2011. Utilization 
+rates and cost factors in timber harvesting based 
+on long-term machine. Croatian Journal of Forest 
+Engineering 32(2):501–508.
+Host, J.R., and D.P. Lowery. 1983. Salvage and thinning op-
+erations in second-growth ponderosa pine stands. USDA 
+Forest Service Research Paper (No. PB-83-238899). 
+USDA Forest Service, Ogden, UT. Intermountain Forest 
+and Range Experiment Station.
+Huffman, D.W., J.P. Roccaforte, J.D. Springer, and J.E. 
+Crouse. 2020. Restoration applications of resource ob-
+jective wildfires in western US forests: a status of know-
+ledge review. Fire Ecology 16(1):1–13.
+Kalies, E.L. and L. Yocom. 2016. Tamm Review: are fuel 
+treatments effective at achieving ecological and social 
+objectives? A systematic review. Forest Ecology and 
+Management 375:84–95.
+Kellogg, L.D. and P. Bettinger. 1994. Thinning productivity 
+and cost for a mechanized cut- to-length system in the 
+northwest Pacific coast region of the USA. Journal of 
+Forest Engineering 5(2):43–54.
+Kellogg, L.D., G.V. Milota, and M. Miller. 1996. A com-
+parison of skyline harvesting costs for alternative commer-
+cial thinning prescriptions. Journal of Forest Engineering 
+7(3):7–23.
+Kellogg, L.D., and E.D. Olsen. 1984. Increasing the prod-
+uctivity of a small yarder: crew size, skidder swinging, 
+hot thinning. Oregon State University. Forest Research 
+Laboratory, Research Bulletin 46:45.
+Kellogg, L.D., E.D. Olsen, and M.A. Hargrave. 1986. Skyline 
+thinning a western hemlock-Sitka spruce stand: harvesting 
+costs and stand damage. Oregon State University. Forest 
+Research Laboratory, Research Bulletin 53(24):21.
+Kretschmann, D. 2010. Mechanical properties of wood, in 
+Wood Handbook. Madison: USA Forest Service.
+Largo, S., H-S. Han, and L.R. Johnson. 2004. Economics of 
+an integrated whole-tree harvesting system in fuel reduc-
+tion thinning in western Montana. Annual Council on 
+Forest Engineering Meet Proceedings, Hot Springs, AR, 
+April 27–30, 6p.
+Larson, D.S. and R. Mirth. 2004. A case study on the eco-
+nomics of thinning in the wildland urban interface 
+Western Journal of Applied Forestry 19(1):60–65.
+Lynch, D.L. 2001. Financial results of ponderosa pine forest 
+restoration in southwestern Colorado. In: RMRS-P-22. 
+Ogden, UT: USDA Forest Service, Rocky Mountain 
+Research Station. pp. 141–148.
+Mac Donagh, P., J. Roll, G. Hahn, and F. Cubbage. 2019. 
+Timber Harvesting Production, Costs, Innovation, and 
+Capacity in the Southern Cone and the US South. In 
+Timber Buildings and Sustainability. London: IntechOpen. 
+doi:10.5772/intechopen.85412.
+McIver, J.D., P.W. Adams, J.A. Doyal, E.S. Drews, B.R. 
+Hartsough, L.D. Kellogg, C.G. Niwa, et al. 2003. 
+Environmental effects and economics of mechanized log-
+ging for fuel reduction in northeastern Oregon mixed-
+conifer stands. Western Journal of Applied Forestry 
+18(4):238–249.
+McNeel, J.F. and D. Rutherford. 1994. Modelling harvester-
+forwarder system performance in a selection harvest. 
+Journal of Forest Engineering 6(1):7–14.
+Nakagawa, M., J. Hamatsu, T. Saitou, and H. Ishida. 2007. 
+Effect of tree size on productivity and time required 
+for work elements in selective thinning by a harvester. 
+International Journal of Forest Engineering18(2): 
+24–28.
+Nicholls, D.L., J.M. Halbrook, M.E. Benedum, H.-S. Han, 
+E.C. Lowell, D.R. Becker, and R.J. Barbour. 2018. 
+Socioeconomic constraints to biomass removal from 
+forest lands for fire risk reduction in the western U.S. 
+Forests 9(5):2641–2622.
+Nordfjell, T., R. Björheden, M. Thor, and I. Wästerlund. 2010. 
+Changes in technical performance, mechanical avail-
+ability and prices of machines used in forest operations 
+in Sweden from 1985 to 2010. Scandinavian Journal of 
+Forest Research 25(4):382–389.
+Oester, P.T. and S. Bowers. 2003. Measuring timber prod-
+ucts harvested from your woodland. The Woodland 
+Workbook. Oregon State University Extension Service. 
+20p.
+Pan, F., H.-S. Han, L.R. Johnson, and W.J. Elliot. 2008. 
+Production and cost of harvesting, processing, and trans-
+porting small-diameter (≤ 5 inches) trees for energy. Forest 
+Products Journal 58(5):47–53.
+Petitmermet, J., J. Sessions, J. Bailey, and R. Zamora-Cristales. 
+2019. Cost and productivity of tethered cut-to-length 
+systems in a dry-forest fuel-reduction treatment: A case 
+study. Forestry Science 65(5):581–592.
+Pullin, A.S. and G.B. Stewart. 2006. Guidelines for system-
+atic review in conservation and environmental manage-
+ment. Conservation Biology 20(6):1647–1656.
+Downloaded from https://academic.oup.com/jof/advance-article/doi/10.1093/jofore/fvac037/6901967 by Northern Arizona University user on 03 January 2023
+
+18
+Journal of Forestry, 2022, Vol. XX, No. XX
+Puttock, G.D. 1995. Estimating cost for integrated harvesting 
+and related forest management activities. Biomass 
+Bioenergy 8(2):73–79.
+Rummer, B. 2008. Assessing the cost of fuel reduction treat-
+ments: A critical review. Forest Policy and Economics 
+10(6):355–362.
+Spinelli, R. and B.R. Hartsough. 2001. Extracting whole 
+short rotation trees with a skidder and a front-end loader. 
+Biomass Bioenergy 21(6):425–431.
+Stephens, S.L. and J.J. Moghaddas. 2005. Experimental 
+fuel treatment impacts on forest structure, potential fire 
+behavior, and predicted tree mortality in a California 
+mixed conifer forest. Forest Ecology and Management 
+215(1–3):21–36.
+Tesch, S.D. and D.H. Lysne. 1986. Is treetop skidding ef-
+fective in reducing fuel loading? Western Journal of 
+Applied Forestry 1(1):13–15.
+Townsend, L., E. Dodson, N. Anderson, G. Worley-Hood, 
+and J. Goodburn. 2019. Harvesting forest biomass in 
+the US southern Rocky Mountains: Cost and production 
+rates of five ground-based forest operations. International 
+Journal of Forest Management 30(2):163–172.
+U.S. Bureau of Labor Statistics. 2021. PPI industry data for 
+logging, not seasonally adjusted. Retrieved June 28 2021, 
+from 
+https://beta.bls.gov/dataViewer/view/timeseries/
+PCU11331-11331-;jsessionid=E54FB27576842267B815
+8E5C47F36E71.
+Vaughan, D., C. Edgeley, and H.-S. Han. 2021. Forest con-
+tracting businesses in the US Southwest: Current profile 
+and workforce training needs. Journal of Forestry 
+120(2):186–197. doi: 10.1093/jofore/fvab060.
+Vitorelo, B., H.-S. Han, and W. Elliot. 2011. Productivity 
+and cost of integrated harvesting for fuel reduction thin-
+ning in mixed-conifer forest. Forest Products Journal 
+61(8):664–674.
+Waltz, A.E.M., M.T. Stoddard, E.L. Kalies, J.D. Springer, D.W. 
+Huffman, and A.J. Sánchez Meador. 2014. Effectiveness 
+of fuel reduction treatments: Assessing metrics of forest 
+resiliency and wildfire severity after the Wallow Fire, AZ. 
+Forest Ecology and Management 334:43–52.
+Wan, X., W. Wang, J. Liu, and T. Tong. 2014. Estimating the 
+sample mean and standard deviation from the sample size, 
+median, range and/or interquartile range. BMC Medical 
+Research Methodology 14(1):1–13.
+Downloaded from https://academic.oup.com/jof/advance-article/doi/10.1093/jofore/fvac037/6901967 by Northern Arizona University user on 03 January 2023

@@ -1,0 +1,1123 @@
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=tife20
+International Journal of Forest Engineering
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/tife20
+Effectiveness of simulator training compared to
+machine training for equipment operators in the
+logging industry
+Erin Burk, Han-Sup Han, Mathew Smidt & Bruce Fox
+To cite this article: Erin Burk, Han-Sup Han, Mathew Smidt & Bruce Fox (2023): Effectiveness
+of simulator training compared to machine training for equipment operators in the logging
+industry, International Journal of Forest Engineering, DOI: 10.1080/14942119.2023.2194751
+To link to this article:  https://doi.org/10.1080/14942119.2023.2194751
+Published online: 11 Apr 2023.
+Submit your article to this journal 
+View related articles 
+View Crossmark data
+
+Effectiveness of simulator training compared to machine training for equipment 
+operators in the logging industry
+Erin Burka, Han-Sup Hanb, Mathew Smidtc, and Bruce Foxa
+aSchool of Forestry, Northern Arizona University, Flagstaff, AZ, USA; bForest Operations and Biomass Utilization, Ecological Restoration Institute, 
+Northern Arizona University, Flagstaff, AZ USA; cUSDA Forest Service, Southern Research Station, Auburn, AL, USA
+ABSTRACT
+Logging equipment operators traditionally learn the skills required for their job through hands-on training 
+using a real machine in the forest. New developments in simulator technology enable operators to learn 
+and practice operating logging equipment in a virtual setting. This study presents a summary of 
+controlled experiments to evaluate the effectiveness of simulator training compared to machine training 
+for logging equipment operators in terms of performance and cost effectiveness. Sixteen participants 
+were trained on simulated or real logging machinery for 26 hours each. We compared the performance of 
+simulator-trained participants to machine-trained participants by testing operators on real equipment in 
+the forest. No significant differences were found in overall performance between simulator-trained and 
+machine-trained operators; however, machine-trained students showed greater improvement than simu­
+lator-trained students on more complex equipment. A cost analysis of simulator vs. machine training 
+found that contractors should expect to save 36–40% by sending their students to an external training 
+facility using simulator-based training rather than conducting internal, machine-based training. 
+Contractors considering the purchase of a simulator for in-house training would need to use their 
+simulator for around 130 hours each year to break-even on the yearly average costs of owning and 
+operating the simulator.
+ARTICLE HISTORY 
+Received 13 December 2022  
+Accepted 20 March 2023 
+KEYWORDS 
+Simulator; workforce 
+training; logging equipment 
+operator; simulator-based 
+training; forestry simulator
+Introduction
+Over the past two decades, the declining workforce in the 
+logging industry in the United States has been attributed to a 
+lack of newly hired workers (He et al. 2021). Recent surveys of 
+logging business owners have indicated that finding qualified 
+employees is one of the biggest barriers to contactors’ success­
+ful operations (Allen et al. 2008;Baker and Greene 2008;Leon 
+and Benjamin 2012;Conrad et al. 2018;Vaughan et al. 2021). 
+This lack of skilled logging employees points to a need for 
+recruitment and training to increase the logging workforce, 
+among other needs for addressing issues such as deficits in 
+pay and benefits and harsh working conditions (Xu et al. 2014). 
+Without a strong logging workforce, keeping the forest pro­
+ducts industry alive will prove difficult.
+A new employee in the logging industry typically enters the 
+field as an equipment operator. Traditionally, new equipment 
+operators learn the skills required for their job mainly through 
+hands-on training using a real machine in the forest (LaPointe 
+and Robert 2000). Based on our recent visits with logging 
+contractors and training instructors, we learned that whether 
+a logging contractor uses a whole-tree, tree-length, or cut-to- 
+length harvest system, the entry-level machine is generally the 
+one that extracts material from the forest to the landing. In 
+ground-based whole-tree and tree-length operations, this 
+machine is a skidder. In cut-to-length operations, the machine 
+typically used for extraction is a forwarder. A skidder can be 
+wheeled or tracked and features a large grapple or a series of 
+choker cables used to grasp one end of a bundle of trees. This 
+machine “skids” or drags the trees from where they were cut to 
+the landing, where they will be loaded onto log trucks for 
+transportation to the mill (processing occurs either before or 
+after skidding, depending on whether the contractor uses a 
+whole-tree or tree-length harvest system). A forwarder can 
+also be wheeled or tracked and features a boom-mounted 
+grapple, with which an operator can pick up one or several 
+logs and load them onto the “bunk” or the bed of the forwar­
+der. This machine then drives the logs to the landing. Recent 
+visits with logging contractors and training instructors also 
+revealed that skidders and forwarders are considered entry- 
+level machines for loggers because of their relative simplicity 
+compared to other pieces of equipment that complete the 
+harvest system (i.e. processors, loaders, and feller-bunchers in 
+whole-tree and tree-length operations, and harvesters in cut- 
+to-length operations).
+Traditionally, logging equipment operator training occurs 
+on the job. A logging contractor who hires a new operator will 
+typically arrange the training to take place either in a training 
+yard and/or at one of the contractor’s active harvesting sites. 
+An experienced equipment operator, or instructor, is present 
+to mentor the new hire. Training can range from impromptu 
+observation and practice sessions during breaks or after work, 
+to more formal training during the workday with a general 
+curriculum that includes safety briefings, machine orienta­
+tions, curated training exercises, and on-the-job practice 
+CONTACT Erin Burk 
+eeb297@nau.edu 
+School of Forestry, Northern Arizona University, 200 E Pine Knoll Dr, Flagstaff, AZ 86011, USA
+INTERNATIONAL JOURNAL OF FOREST ENGINEERING 
+https://doi.org/10.1080/14942119.2023.2194751
+© 2023 Northern Arizona University 
+
+(Burk 2022). Student-to-trainer ratios are generally low – 
+between one and three students per trainer – as the instructor 
+needs to be present with the students due to the inherent 
+danger of operating heavy equipment. This type of training 
+can be effective for new operators, as the machine they learn 
+their skills on is typically the same model, if not the exact 
+machine, they will later operate as part of the harvest system. 
+Getting a new operator up to speed, however, is both costly and 
+time consuming. It typically takes anywhere from four to 
+twelve months for a new operator to reach a productive oper­
+ating level (i.e. when the operator is producing enough material 
+that the product is worth more than the cost of operating the 
+equipment) (Richardson and Makkonen 1994;Calabrese 2000; 
+Pürfurst 2010;Wenhold et al. 2019;Pagnussat et al. 2021). 
+When training operators during regular working hours, 
+removing a machine from production for training purposes 
+can create substantial opportunity costs for the contractor, as 
+the machine is no longer being used for timber harvesting.
+While access to logging equipment is essential to properly 
+train equipment operators, new developments in simulator 
+technology enable inexperienced operators to learn and prac­
+tice operating logging equipment in a virtual environment. 
+Logging equipment simulators incorporate hardware and soft­
+ware to provide physical and visual replicas of the operating 
+environment. Simulators typically consist of a set of controls 
+attached to a computer with one or more screens. The com­
+puter contains a simulation software that virtually places the 
+user in the cab of a forestry machine. The user can manipulate 
+the controls to “operate” the simulated machinery in a virtual 
+environment portrayed on the screen(s).
+The benefits of simulator-based training are numerous. 
+Logging equipment simulators offer a cost-effective and safe 
+method for students to learn about the basics of operating 
+forestry machines (Ovaskainen 2005). The reduced safety con­
+cerns of operating in a virtual environment allows for higher 
+student to trainer ratios, thereby reducing the cost of simula­
+tor-based training as compared to machine training. The mod­
+ular learning curriculum pre-programmed into most 
+simulators, whereby students are guided through a series of 
+exercises, provides unbiased and standardized feedback to stu­
+dents after each module is completed (Burk 2022). These pre- 
+programmed modules make it easier for an educational plan­
+ner to plan, monitor, manage, and evaluate their training 
+program (Ranta 2009). Simulators alleviate some of the pro­
+blems associated with traditional machine training by reducing 
+wear and tear on real equipment and eliminating opportunity 
+costs associated with removing equipment from production for 
+training purposes (LaPointe and Robert 2000).
+Simulated training does have its drawbacks as well. The 
+reduced need for a trainer in simulator-based training restricts 
+students’ access to immediate and personalized feedback from 
+an instructor. Furthermore, a pre-programmed, modular 
+learning plan allows little room to tailor simulator training to 
+individuals’ needs. Perhaps the biggest drawback to simulator- 
+based training is the fact that the simulated environment is 
+entirely separate and inherently different from the working 
+environment, so it is unlikely that skills will transfer as easily 
+to the working environment as in traditional training (Burk  
+2022).
+While these benefits and drawbacks are important to con­
+sider in deciding whether simulators should be used to train 
+new logging equipment operators, perhaps the most important 
+factor in this decision is whether they are an effective training 
+tool. Few studies have examined how skills transfer from a 
+simulator to real logging equipment (LaPointe and Robert  
+2000;Yates 2000;Hoss 2001;Freedman 2004). Only one study 
+directly observed the effectiveness of simulator-based training 
+as compared to traditional machine training (So et al. 2016), 
+but this study was completed using construction equipment. 
+No studies have evaluated the cost-effectiveness of simulator- 
+based training as compared to traditional machine training for 
+logging equipment operators. The overall goal of this study was 
+to broaden our knowledge regarding how simulators can be 
+effectively used to train new logging equipment operators by 
+addressing the following questions:
+(1) Compared to those who are machine-trained, how well 
+do simulator-trained skidder and forwarder operators 
+perform when operating logging equipment?
+(2) Compared to those who are machine-trained, how do 
+simulator-trained skidder and forwarder operators feel 
+about operating real logging equipment?
+(3) Compared to training new logging equipment operators 
+using traditional machine training, how much does it 
+cost to train them using simulator-based training?
+Materials and methods
+Evaluating operator performance
+Participants
+We trained a total of 16 participants on either a real or simu­
+lated skidder or forwarder (IRBNet ID 1,761,948–3). 
+Participants were split into groups based on their availability 
+and resource availability following a randomized block design. 
+The number of participants was chosen based on being able to 
+effectively train each participant for 20 hours given the 
+resources available during the study period. To be included in 
+the study, participants were required to be fluent English 
+speakers, physically capable of operating heavy machinery, 
+and have less than five hours experience operating heavy 
+machinery. One participant in the simulated skidder training 
+group had more than five hours experience operating farming 
+equipment such as tractors and backhoes, but no experience 
+operating logging equipment. Participants included four 
+females and twelve males aged 18–60. All participants were 
+recruited through partnering forestry agencies or companies. 
+Most individuals had some background in forestry, although 
+we did not distinguish these individuals within the study 
+design due to a small sample size of participants.
+Equipment used: skidder and forwarder
+For the skidder portion of the study, participants were 
+trained on John Deere branded equipment. The skidder we 
+used was the John Deere 648-LII, the smallest of the John 
+Deere grapple skidders. The simulator we used was a prototype 
+of the John Deere Full Simulator with 848-LII skidder software. 
+The controls on this simulator were slightly different from the 
+real skidder – there was no parking brake, ignition switch, or 
+2
+E. BURK ET AL.
+
+blade switch, the driving pedals were different, and the steering 
+direction was reversed from the real skidder. The simulator did 
+not feature motion feedback (i.e. the seat was mounted on a 
+still platform). Some simulators do feature a moving seat plat­
+form that simulates the forces typically felt when operating a 
+machine in the forest.
+For the forwarder portion of the study, participants trained 
+on Ponsse branded equipment. The forwarder we used was the 
+Ponsse ElephantKing, the largest of the Ponsse forwarders. The 
+simulator we used was the Ponsse Full Simulator. This simu­
+lator was equipped with harvester controls rather than forwar­
+der joysticks due to supply shortages during the COVID-19 
+pandemic. It did not feature motion feedback.
+Study sites
+The experiments took place at two different study sites during 
+two different logging seasons. The skidder portion of this study 
+was completed in Raymond, Mississippi during the summer of 
+2022. Simulator training occurred in a classroom at Hinds 
+Community College. Machine training and testing took place 
+at a   2-hectare training yard owned by the Mississippi Forestry 
+Commission.
+The forwarder portion of this study was completed during 
+the summer of 2021 at the Oregon State University Research 
+Forest just outside of Corvallis, Oregon in a coniferous forest 
+dominated by Douglas fir (Pseudotsuga menziesii). The study 
+site was part of a thinning and oak release project being 
+executed by Miller Timber, our contracting partner for this 
+portion of the study. Testing and training took place within 
+about a half-mile radius zone where a harvester operator had 
+created five operating trails on either side of the main road, 
+varying from 100–400 meters in length. Testing occurred in the 
+shortest of these operating trails.
+Training program for participants
+Before arriving at the study site, all participants were required 
+to read the safety manual for their respective machine to ensure 
+all safety protocols were met and participants arrived with a 
+similar level of familiarity with the machine.
+Four participants were trained on a simulated skidder or 
+forwarder over the course of four days for a total of 26 training 
+hours each. The following week, four different participants 
+were trained on a real skidder or forwarder over the course of 
+four days also for a total of 26 training hours each (Table 1). 
+Each participant spent approximately six hours in the opera­
+tor’s seat during the training period. Training modules for the 
+skidder were designed by the research team and based on the 
+training modules used during the forwarder experiment. 
+Training modules for the forwarder reflected those pre-pro­
+grammed into the Ponsse Simulator and were replicated in the 
+woods for the machine training group. Only one simulator or 
+machine was available during each training session, so all four 
+participants rotated between operating the simulator/machine 
+and observing their classmates. Each participant spent approxi­
+mately 10–30 minutes practicing before rotating, depending on 
+the training module. Each participant was able to complete 
+between one and three rotations in the two hours allotted for 
+each training module.
+The short training period (26 hours) limits our ability to 
+evaluate the effectiveness of simulator training over the course 
+of an operator’s entire learning curve. As noted previously, 
+getting a new equipment operator up to a productive perfor­
+mance level can take anywhere from four to twelve months; 
+therefore, our 26-hour training period is not sufficient to make 
+conclusions about the effectiveness of simulators as a long- 
+term training tool. However, logging contractors and training 
+facilities tend to primarily use simulators to train new opera­
+tors at the beginning of their careers (Burk 2022). Therefore, 
+this analysis of the initial learning curve for equipment opera­
+tors reveals insight into the phase of training where simulators 
+are most used.
+Evaluating operator performance on the machine
+For the skidder portion of the study, participants completed a 
+test task on a real skidder before training began and at the end 
+of each training day, for a total of four testing sessions (Table 
+1). The test task was designed to take about three minutes for 
+an expert operator to complete. It involved starting the 
+machine, retrieving a half-load of logs, skidding the logs 50 
+meters to a landing, properly placing them into a neat pile, then 
+returning the machine to its starting position and turning it off 
+(Figure 1A). In having participants begin and end in the same 
+location, the test task was designed to mimic real-world opera­
+tions by replicating one full machine cycle. Participants were 
+unable to be accompanied by an experienced trainer in the cab 
+of the machine, as there was only room for one person in the 
+Table 1. Sample schedule for participants in the study. Training modules differed for the forwarder and skidder.
+Day/Time
+Activity
+Pre-Study 
+Reading
+Participants must read and understand the safety topics in the equipment manual before arriving on-site for the 
+first day of the study. 
+Sub-total: 1.5 hours
+Day 1 
+8:00 
+8:30 
+9:30 
+10:30 
+12:30 
+2:30
+Welcome & Introductions 
+Safety Training 
+Controls Training 
+1st Performance Test 
+Training Module 
+END 
+Sub-total: 6.5 hours
+Days 2–4 
+8:00 
+10:00 
+12:00 
+2:00
+Training Module 
+Training Module 
+Performance Test 
+END 
+Sub-total: 6 hours/day 
+Total: 26 hours
+INTERNATIONAL JOURNAL OF FOREST ENGINEERING
+3
+
+cab. Participants were informed that they would be timed, 
+given time bonuses for loading, transporting, and unloading 
+logs neatly, and given time penalties for collisions and dropped 
+logs. Timing began when the operator started the machine and 
+ended when the operator turned the machine off. Time penal­
+ties and bonuses were applied in the field to reinforce good 
+operating habits, but our data analysis was completed using 
+operators’ raw time scores for consistency. The instructor, who 
+was an expert operator, was timed once while completing the 
+test task to ensure that the task did take them approximately 
+three minutes to complete.
+For the forwarder portion of the study, participants also 
+completed a test task on a real forwarder before training 
+began and at the end of each training day, for a total of four 
+testing sessions (Table 1). The test task was also designed to 
+replicate one full machine cycle and to take about three min­
+utes for an expert operator to complete. Participants were 
+asked to turn the machine on, drive 25 meters to gather three 
+logs from an operating trail, transport the logs back to the 
+starting position, stack them neatly next to the road, then 
+turn the machine off (Figure 1B). Participants were accompa­
+nied by an experienced trainer in the cab of the forwarder for 
+safety purposes. The trainer was instructed to refrain from 
+giving participants information that would improve their 
+time during the testing session. The same timing criteria 
+described above were used for scoring, and the same method 
+described above was used to ensure the test task took an expert 
+operator approximately three minutes to complete.
+All participants were allowed and encouraged to watch each 
+other during all training and testing sessions. The order in 
+which participants completed their training modules and test­
+ing sessions was randomized and changed each day. We pur­
+posefully designed the study’s training schedule to allow 
+interaction among participants, thereby opting for a more 
+practical, real-world training scenario over a perfect statistical 
+model. Furthermore, training and testing all participants inde­
+pendently would have been far too time consuming and costly. 
+Because participants were allowed to interact during training 
+and testing, we could see lower variances within each training 
+group than we might see if each participant trained indepen­
+dently of one another. Training operators in a group setting 
+could have caused us to see a larger difference between the two 
+training groups than if the replicates (operators) were truly 
+independent.
+Subjective ratings on confidence levels, anxiety levels, and 
+mental workload
+Before completing each performance test, each participant was 
+asked to fill out a Confidence and Anxiety Levels survey. After 
+completing each performance test, each participant was asked to 
+fill out a workload survey, the NASA Task Load Index (NASA- 
+Table 2. Variables used in the direct dollar per hour comparison between a Traditional Scenario and Training Facility Scenario.
+Equipment Type
+Machine Rate 
+($/hr)a
+Trainer Wage + Benefits 
+($/hr)
+Opportunity Cost 
+($/hr)b
+Hours on 
+Equipment
+Training Cost 
+($/hr)
+Traditional Scenario: 
+Machine-Based Training with 
+Contractor
+Skidder
+144.79
+40.01
+11.58
+100%
+196.38
+Forwarder
+173.32
+40.01
+13.87
+100%
+227.20
+Training Facility Scenario: 
+Simulator-Based Training at 
+Facility
+Simulator
+56.43
+40.01
+-
+66%
+96.44
+Skidder
+144.79
+40.01
+-
+33%
+184.80
+Forwarder
+173.32
+40.01
+-
+33%
+213.33
+aStandard machine rate assuming productive machine hour (PMH) (Brinker et al. 2002). Values for the machine rate calculation were gathered from Chang et al. (2023) 
+for all machines. Values for the simulator rate calculation were gathered through informal interviews with simulator manufacturers. 
+bTraining Cost = Operating Cost + Trainer Wage and Benefits + Opportunity Cost
+Figure 1. Testing sites for the skidder (A) and forwarder (B) experiments. Operators were asked to start the machine, grab/load the “Logs to Retrieve,” unload the logs in 
+the “Landing” zone, then return to the “Starting/Ending Position” and turn the machine off. Machines, logs to retrieve, and landing zones were oriented as illustrated 
+above for each testing session.
+4
+E. BURK ET AL.
+
+TLX), through an app on the researcher’s phone. The NASA- 
+TLX is the most widely accepted tool to assess subjective work­
+load ratings after completing a task (Said et al. 2020). This rating 
+system calculates an overall score based on a weighted average of 
+ratings in six areas: Mental demand; Physical demand; Temporal 
+demand; Performance; Effort; and Frustration. To calculate the 
+overall NASA-TLX score, operators first complete a pairwise test 
+in which each of these areas is compared to one another, and 
+operators are asked to choose the one that was most important to 
+completing the task. They are then asked to attribute a raw rating 
+to each of these areas using a number scale. The total number of 
+times they chose each area over another is multiplied by the raw 
+rating they attributed to that area to obtain a total score for each 
+area. The scores for each area are then added together for an 
+overall NASA-TLX score. Higher scores signal that the task 
+required more effort from the operator.
+Cost comparison between simulator and machine training
+The purpose of this cost analysis is to consider the cost of two 
+scenarios that involve simulator training and compare them to 
+the cost of traditional machine training carried out internally 
+by a logging contractor (Traditional Scenario). Our intent was 
+to compare two simulator-based training scenarios to the 
+industry standard so that contractors can choose which sce­
+nario fits best with their business. First, we wanted to compare 
+the cost of the industry standard Traditional Scenario to the 
+cost of training a student externally at a facility that uses 
+simulator-based training (Training Facility Scenario). To do 
+so, we used a direct dollar per hour comparison (USD$) for 
+these two scenarios. We also considered a third scenario in 
+which a contractor might wish to purchase their own simulator 
+for in-house training (Simulator Purchase Scenario). To com­
+pare this scenario back to the Traditional Scenario, we con­
+ducted a break-even analysis to find out how many hours per 
+year a contractor would need to use their simulator for training 
+purposes to break-even on the average yearly costs of owning 
+and operating the simulator.
+In conducting the direct dollar per hour comparison between 
+the Traditional Scenario and Training Facility Scenario, we 
+included machine rate, trainer wages and benefits, opportunity 
+cost (if applicable), and hours spent training as factors in our cost 
+analysis (Table 2). We used machine rate calculations from 
+Brinker et al. (2002) to calculate average yearly and hourly costs 
+for skidders, forwarders, and simulators. Data for the factors 
+affecting hourly operating costs of skidders and forwarders 
+were collected from Chang et al. (2023). The operating cost of a 
+simulator was calculated based on the same factors as the 
+machine rate calculation (fuel cost and fuel usage rates were 
+substituted for electricity cost and electricity usage rates). We 
+were unable to find published data for the cost of each factor used 
+in a standard machine rate calculation for simulators, so data for 
+the values of these factors were collected from multiple simulator 
+manufacturers and averaged (LeConte C, John Deere, Iowa, 
+USA; Jurvanen J, Ponsse Oyj, Vieremä, Finland; Najjar J, 
+CMLabs, Québec, Canada; Freedman P, SimLog, Québec, 
+Canada; Morris R, Empire Cat Southwest, Arizona, USA, perso­
+nal communication). In both scenarios, we assume that a student 
+is hired by the contractor and paid during training, so we 
+included the operator’s labor wages and benefits in the machine 
+rate calculations. We used the 50th percentile wage for logging 
+operators in the US as an estimate of operator wages (Bureau of 
+Labor Statistics 2022) and assumed benefits cost an additional 
+32% of wages. We used the 90th percentile wage for logging 
+operators in the US as an estimate of trainer wages (Bureau of 
+Labor Statistics 2022) and assumed trainer benefits cost an addi­
+tional 32% of wages. In the Traditional Scenario, we assume all 
+training hours occur on a machine. For the Training Facility 
+Scenario, we adapted the ratio of hours spent training on the 
+machine (33%) and simulator (66%) from the Forest Equipment 
+Operator Course Program produced by the Forest Operations 
+Training Program in Flagstaff, Arizona (Edwards and Han 2021).
+In conducting the break-even analysis to compare the 
+Traditional Scenario and Simulator Purchase Scenario, we 
+adapted a standard break-even analysis equation from Riggs 
+et al. (1996), which states B=F/(P-V) where B is break-even 
+point, F is fixed costs, P is selling price, and V is variable costs. 
+We began by extracting the fixed and variable costs associated 
+with simulator training found during our machine rate calcu­
+lations. We then substituted P (selling price) for hourly cost 
+savings associated with choosing simulator training over 
+machine training for the skidder and forwarder. We solved 
+the equation to find the break-even point in terms of hours of 
+simulator use per year needed to break-even on the average 
+yearly costs of simulator ownership and operation (Table 3).
+In the Traditional Scenario, we assumed students are trained 
+during standard working hours, and therefore included an 
+opportunity cost associated with removing the machine for 
+production for training purposes. We estimated the opportunity 
+cost in the Traditional Scenario as equal to a 3% administrative 
+overhead fee (Smith 2012) plus a 5% profit margin (Cools 2020). 
+This may be a conservative estimate for a company with higher 
+overhead and profit margins. We assume the productivity of the 
+machine being used remains around zero for the entirety of the 
+Table 3. Direct dollar per hour comparison between machine-based and simulator-based training.
+Equipment Type
+Traditional Scenario: 
+Machine-based Training with Contractor
+Training Facility Scenario: 
+Simulator-based Training at Facility
+Cost Savings ($/hr)c
+Cost Savings (%)d
+Total Training Cost ($/hr)a
+Total Training Cost ($/hr)b
+Skidder
+196
+126
+71
+36%
+Forwarder
+227
+135
+92
+40%
+aTotal Training Cost Scenario1 = Training Cost * Hours on Equipment (Table 3.2) 
+bTotal Training Cost Scenario2 = (Training Cost simulator * Hours on Equipment simulator) + (Training Cost machine * Hours on Equipment machine) (Table 3.2) 
+cCost Savings ($/hr) = Total Training Cost Scenario1 – Total Training Cost Scenario2) 
+dCost Savings (%) = Cost Savings ($/hr) / Total Training Cost Scenario1
+INTERNATIONAL JOURNAL OF FOREST ENGINEERING
+5
+
+training period, as the productivity of a new equipment operator 
+within the first week is minimal (Pürfurst 2010).
+In the Training Facility Scenario, we assume a student is sent 
+by the contractor to a training facility after they have been hired, 
+and therefore the contractor pays the student for their time at the 
+facility. We did not consider a scenario in which an individual 
+signs up to attend the facility on their own accord and is later 
+hired by a contractor; in this scenario, the contractor does not 
+pay for the training of their new hire. We did not include the cost 
+of transporting students to a training facility or the cost of 
+housing students while attending the training facility. These 
+costs will be highly variable depending on how far the students 
+must travel and where the students are able to stay. Opportunity 
+cost was excluded from our training cost calculation, as we 
+assume the training institution does not use their machines for 
+timber production. We also assume the training institution 
+bought their equipment new and owns it outright. This is the 
+most expensive scenario. Depending on available resources, 
+training institutions may be able to purchase used equipment 
+or use new machines from their local equipment dealer at little to 
+no cost. Equipment dealers may be motivated to cut training 
+institutions a deal on borrowing their equipment because if new 
+students are trained on their brand of equipment, local contrac­
+tors might be incentivized to purchase that brand in the future.
+In comparing the Simulator Purchase Scenario back to the 
+Traditional Scenario, we consider the break-even point for 
+average yearly simulator costs rather than the break-even 
+point for upfront costs associated with purchasing a simulator. 
+These yearly costs are averaged over the lifetime of the simu­
+lator, which we assume to be 10 years. We chose to run the 
+analysis in this way because the break-even point for upfront 
+purchasing costs will be highly variable depending on finan­
+cing options available to the contractor.
+Data analysis
+We used a mixed-effects repeated measures analysis of variance 
+to analyze and compare the changes in operator performance 
+over time for the simulator and machine groups (Table 5). 
+Diagnostic tests revealed that the data were somewhat nor­
+mally distributed, though this was difficult to distinguish 
+given our small sample size. One of the assumptions of the 
+repeated measures analysis is that the data is spherical (i.e. the 
+variances of the differences between test trials are equal). Using 
+Mauchly’s test, we found that some of our test groups violated 
+the assumption of sphericity while others met this assumption. 
+Mauchly’s test of sphericity is known to fail at detecting depar­
+tures from sphericity when used for small sample sizes; there­
+fore, we cannot be sure that we accurately identified when 
+sphericity was met. We deliberately avoided making any 
+adjustments to our analysis based on a test result that is likely 
+inaccurate at small sample sizes.
+Analyses of operator performance for each machine type 
+were conducted separately due to the many confounding vari­
+ables that differed between the skidder experiment and for­
+warder experiment (e.g. study site, instructor, training 
+modules, etc.). Time was treated as a categorical variable, 
+which allowed researchers to observe the improvement of 
+operators between each training day. We used the power.t. 
+test function in R to calculate the sample size required to see 
+a significant difference in overall performance between simu­
+lator and machine training groups.
+Confidence levels, anxiety levels, and workload scores were 
+averaged for each operator across all their test sessions to account 
+for the fact that multiple samples from the same individual are not 
+independent of one another. We then averaged the operators’ 
+subjective ratings within each training group and machine type. 
+A t-test was used to compare group means between the simulator 
+and machine training groups for each subjective rating.
+In all statistical analyses for operator performance and sub­
+jective ratings, each operator was treated as an independent 
+replicate. We acknowledge that our small sample size limits the 
+power of our statistical tests and our ability to extend our 
+results to a larger population.
+To calculate the dollar per hour costs associated with the 
+Traditional Scenario and Training Facility Scenario, machine 
+rate, trainer wage, and opportunity cost (if applicable) were 
+summed for each equipment type under each training scenario 
+to calculate the training cost for the simulator, skidder, and 
+forwarder. The number of hours spent training was then multi­
+plied by the training cost for each equipment type under each 
+scenario (Table 2). Total cost savings between the Traditional 
+Scenario and Training Facility Scenario in terms of dollars per 
+hour and percentage was calculated (Table 4). A sensitivity 
+analysis was conducted to check which variable has the largest 
+effect on total cost. Each variable was increased by 10% and the 
+change in total costs were observed.
+To calculate the number of training hours needed each year 
+for a contractor to break-even on owning and operating a 
+simulator (Simulator Purchase Scenario), the fixed yearly cost 
+of simulator ownership was divided by the difference in hourly 
+variable costs between each machine and the simulator (Table 
+Table 4. Simulator training hours needed each year to break-even on yearly simulator ownership and operating costs.
+Equipment Type
+Fixed Costs ($/yr)
+Fixed Costs 
+($/hr)
+Variable Costs ($/hr)a
+Cost Savings ($/hr)b
+Break-Even Point (hrs/yr)c3
+Skidder
+-
+41
+115
+100
+154
+Forwarder
+-
+57
+130
+131
+104
+Simulator
+9,887
+21
+36
+-
+-
+aVariable costs = Opportunity Cost (Table 3.2) + Variable Costs from machine rate calculation 
+bCost savings = (Fixed Costs Machine + Variable Costs Machine) – (Fixed Costs Simulator + Variable Costs Simulator) 
+cBreak-Even Point = Fixed Costs Simulator / (Cost savings – Variable Costs Simulator) (adapted from Riggs et al. 1996; B=F/(P-V))
+6
+E. BURK ET AL.
+
+3). This gave us the hours per year needed to reach the break- 
+even point for each equipment type.
+Results
+Comparison of operator performance between simulator- 
+and machine-trained groups
+There was no significant difference in overall performance 
+between simulator and machine training groups on either 
+machine (p = 0.23 for the skidder; p = 0.56 for the forwarder) 
+(Table 5). The number of days spent training was a significant 
+predictor of performance for both training types on both 
+machines (p = <0.01 for the skidder and forwarder) (Table 5). 
+As operators spent more time training, their performance sig­
+nificantly improved. Using average observed differences and 
+variances in operators’ times between testing days, we found 
+that the sample size required to see statistically significant overall 
+differences in performance between simulator and machine 
+groups was n = 25 for the skidder and n = 7 for the forwarder 
+at power = 0.9 and alpha = 0.1 (n is the number in each group).
+On the skidder, there was no significant difference in per­
+formance trends over time between simulator and machine 
+training groups (p = 0.57) (Table 5) (Figure 2). Operators in 
+each training group did not improve at a consistent rate. The 
+machine and simulator training groups had similar average 
+variances, but the machine-trained group had more outliers 
+than the simulator-trained group (Figure 3A). Within-group 
+variances generally decreased throughout the training period, 
+but there were outliers during many of the testing sessions 
+(Figure 3B). In considering individual operators as a random 
+effect, we found no evidence that variance between individual 
+operators in the skidder experiment had a significant effect on 
+our results (Table 5).
+On the forwarder, there was a significant difference in 
+performance trends over time between the two training groups 
+(p = 0.03) (Table 5) (Figure 2). Operators in each training 
+group improved at a consistent rate. The average within- 
+group variation for the machine-trained group was higher 
+than the simulator-trained group, and each group had a single 
+outlier (Figure 3C). Within-group variances generally 
+decreased throughout the training period on this machine as 
+well, though there were no outliers during any of the testing 
+Figure 2. Trends in operator performance for simulator and machine training groups on the skidder and forwarder, averaged among operators. Each point references 
+the average performance for all operators within the training group. Lines between points were added to help visualize general trends. Learning likely did not occur in a 
+straight line between each point, as the graph may suggest.
+Table 5. Linear mixed model and ANOVA tables for random and fixed effects for the skidder and forwarder experiments.
+INTERNATIONAL JOURNAL OF FOREST ENGINEERING
+7
+
+sessions (Figure 3D). In considering individual operators as a 
+random effect, the variance between individual operators in the 
+forwarder experiment did significantly affect our results 
+(Table 5).
+Subjective ratings on confidence levels, anxiety levels, and 
+mental workload
+There was no significant difference in overall confidence 
+levels between groups (p = 0.93 for the skidder, p = 0.58 for 
+the forwarder), though forwarder trainees reported lower 
+confidence levels, on average, than the skidder trainees. 
+Confidence was a poor predictor of performance. In two 
+of the four training groups, the person who completed the 
+test fastest reported the highest confidence levels, and in 
+another training group, the person who took the longest to 
+complete the task reported the lowest confidence levels; 
+however, as performance levels increased, no trend in con­
+fidence level was observed.
+Individuals who were trained on a simulator reported 
+slightly lower anxiety levels than those trained on a machine, 
+though the difference was not significant (p = 0.33 for the 
+skidder, p = 0.32 for the forwarder). Of all subjective ratings, 
+anxiety was the best predictor of performance. In three of the 
+four training groups, the operator that took longest to com­
+plete the test had the highest anxiety levels, and anxiety levels 
+generally decreased as performance increased.
+Individuals who were trained on a simulator reported simi­
+lar workload (NASA-TLX) scores to those trained on a 
+machine (p = 0.78 for the skidder, p = 0.33 for the forwarder), 
+but forwarder trainees reported higher workload (NASA-TLX) 
+scores than skidder trainees. Workload ratings were a decent 
+predictor of performance. In three of the four training groups, 
+the person who completed the test fastest also reported the 
+highest NASA-TLX score. In two of those groups, the person 
+b
+forwarder
+c
+d
+skidder
+a
+Figure 3. Within-group variation for machine- and simulator-trained groups on the skidder (A) and forwarder (C) averaged across all testing sessions. Parts (B) and (D) 
+show within-group variation for each testing session for the skidder and forwarder, respectively.
+8
+E. BURK ET AL.
+
+who took the longest to complete the test task also reported the 
+lowest NASA-TLX score. Operators did not report any drastic 
+differences in weights for different areas of the NASA-TLX 
+between simulator and machine training groups on either 
+machine (Figure 4). Operators trained on the forwarder 
+reported slightly higher weights for mental demand, temporal 
+demand, and frustration, and lower weights for effort and 
+physical demand compared to those trained on the skidder.
+Cost of simulator-based training
+The cost analysis revealed that simulator-based training at a 
+training institution costs 36% or 40% less than traditional 
+machine training occurring internally with a contractor on a 
+skidder or forwarder, respectively (Table 4). A simple sensitiv­
+ity analysis revealed that the most important variable in this 
+cost model is the ratio of simulator to machine training hours 
+applied by the training facility. Any change in this ratio will 
+impact the hourly cost of training at a facility, and therefore the 
+cost savings potential between the Traditional Scenario and 
+Training Facility Scenario.
+In considering the Simulator Purchase Scenario, we found 
+that on the skidder, the savings associated with simulator 
+training catch up to the average yearly costs of owning that 
+simulator after 154 hours of training each year. On the for­
+warder, the cost savings catch up after 104 hours of training 
+(Table 3).
+Discussion
+Operator performance
+This study found that whether the first four days (26 hours 
+total, six hours per day) of training for an inexperienced 
+forestry operator occur on a simulated or real piece of equip­
+ment, the operators will perform similarly on a real machine 
+throughout the training period. After 26 hours of training on a 
+simulated or real skidder or forwarder (approximately six 
+hours in the operator’s seat), operators tend to show minimal 
+improvements when performing a basic task. This is consistent 
+with the findings of a similar study conducted by So et al. 
+(2016) conducted using a simulated and real hydraulic 
+excavator.
+While learning did appear to level off for the test tasks 
+assigned, we are not convinced that operators would be pre­
+pared to join a harvest system in the woods after this short 
+training period. The tasks were designed to be simple, and the 
+mastery of these tasks do not imply that operators have a full 
+understanding of the challenges within a real operating 
+a 
+b 
+Figure 4. Average weights reported by simulator and machine training groups for the skidder (A) and forwarder (B) during the National Aeronautics and Space 
+Administration Task Load Index (NASA-TLX) survey (n = 4). The survey presented the above demands in pairs and asked operators to choose the factor that was more 
+important to the task. The number of times the operator chose each factor directly translated into the weight of that factor.
+INTERNATIONAL JOURNAL OF FOREST ENGINEERING
+9
+
+environment. More training regarding the complex tasks asso­
+ciated with operating as part of a harvest system would likely be 
+necessary for these operators to work at a productive level.
+We hypothesize that the reason we were unable to detect a 
+difference in performance trends over time on the skidder, but 
+able to detect this effect on the forwarder, has to do with the 
+complexity of the machines and the variability between opera­
+tors in each experiment. A skidder has fewer controls, less 
+functionality, and therefore is easier to operate than a forwar­
+der. The data show that the inexperienced skidder operators 
+consistently completed the test task in less time than the for­
+warder operators (Figure 2), even though both tasks took an 
+expert operator around three minutes to complete. Because the 
+skidder operators spent less time completing their test task, we 
+observed that a small mistake had the power to make a large 
+impact on their performance score (i.e. time to complete the 
+test task). On the forwarder, we observed that a small mistake 
+had less of an impact on an operator’s test time since the 
+operators spent more time completing the test task. This 
+could explain why operators’ learning patterns were more 
+consistent on the forwarder (Figure 3D).
+The power t-test revealed that our sample size was nearly 
+sufficient to see overall differences in performance between the 
+simulator and machine training groups on the forwarder (n =  
+7), but that we would need a much larger sample size to see 
+significant overall differences on the skidder (n = 25). That 
+said, there is no guarantee that even a sample size of n = 25 
+would deliver statistical significance. Every participant will 
+inevitably have different skillsets, different learning styles, 
+and different levels of experience. Even day-to-day perfor­
+mance can vary greatly for the same person depending on 
+how much sleep they got, how focused they are, etc. 
+Furthermore, the power t-test calculation assumes the use of 
+a simple t-test to detect different group means, rather than a 
+repeated measures analysis. It is difficult to say exactly how 
+many individuals we would need to see the simulator effect 
+over time on the skidder when accounting for the repeated 
+measures component of this experiment.
+Subjective ratings to inform performance outcomes
+The higher anxiety levels detected in machine-trained groups 
+could partially explain their greater performance improve­
+ments on the forwarder. This could be a result of the machine 
+group having a better appreciation for the challenges they 
+might encounter during the test. The Yerkes-Dodson law 
+poses that different tasks require different levels of stress for 
+optimal performance (Yerkes and Dodson 1908). Perhaps 
+higher anxiety levels for the specific task required during the 
+forwarder test created a more optimal performance environ­
+ment for the operators. Given our findings that anxiety levels 
+were the best predictor of performance within groups, we 
+expect that taking measures to lower an operator’s anxiety 
+levels, no matter the type of training they receive, can result 
+in better performance.
+The fact that the forwarder operators reported higher 
+NASA-TLX scores than the skidder operators, especially for 
+mental demands and temporal demands (Figure 4), further 
+reinforces our observation that the forwarder takes more effort 
+to operate. Our finding that the operators who performed best 
+typically reported the highest NASA-TLX scores, and vice 
+versa shows that performance seems to be tied to the amount 
+of effort an operator is willing to put into their work. This likely 
+has more to do with the individual’s inherent motivation levels 
+than the type of training they receive. Because simulator and 
+machine groups weighted most NASA-TLX demands similarly 
+on each machine (Figure 4), operators likely had similar learn­
+ing processes whether they trained on a simulated or real 
+machine. This could explain why we didn’t see any significant 
+differences in overall performance between machine and simu­
+lator training groups (Table 5).
+Cost of simulator-based training
+Our Training Facility Scenario does not include the cost of 
+transportation to the facility or housing for students while 
+attending the facility. The distance of the training facility 
+from the contractor’s headquarters and the local housing mar­
+ket where the training facility is located will impact the total 
+cost of this scenario. The 36–40% savings quoted in this sce­
+nario could drop substantially when factoring in these addi­
+tional costs. In our Simulator Purchase Scenario, the 154 and 
+104 simulator training hours per year needed to break-even for 
+the skidder and forwarder, respectively (Table 3), may be a 
+small portion of the training hours conducted each year by a 
+contractor. If so, any additional training hours in which a 
+simulator is used instead of a machine would result in direct 
+cost savings to the contractor.
+These estimates assume that the simulator-based training 
+scenarios produce the same performance results as internal, 
+machine-based training. The results from our controlled 
+experiments largely back this assumption. These estimates 
+also assume that, in all training scenarios, the operator is not 
+contributing to production during their training period. This 
+cost model was developed to give a rough estimate of expected 
+cost savings involved with different avenues of implementing 
+simulator-based training. Contractors and training institutions 
+are encouraged to edit the values for each variable in this model 
+to reflect their unique situations.
+Study limitations
+The biggest limitation this study faced was machine availabil­
+ity. We had to reach a compromise between the number of 
+operators we could train and the length of the training period 
+given the number of hours we had access to the equipment. 
+Simulator-trained individuals in both the skidder and forwar­
+der experiment did spend between five and 30 minutes on the 
+machine each day during their testing session. This could have 
+contributed to better performance scores than if the operators 
+were not exposed to operating a machine. If we had asked the 
+simulator-trained operators to complete their test on the simu­
+lator, however, we would have missed the opportunity to 
+observe how their skills transfer to the machine.
+During the experiment, we observed marked differences 
+between the simulated and real skidder and forwarder. On 
+the skidder simulator, the steering controls were reversed as 
+10
+E. BURK ET AL.
+
+compared to the actual equipment, the pedal functions were 
+not consistent between the skidder and simulator, and there 
+was no startup sequence required for the simulated skidder. 
+The forwarder simulator was outfitted with harvester controls 
+instead of forwarder joysticks. While the buttons were in simi­
+lar locations, switching between the two types of controls likely 
+involved some transfer cost (Proctor et al. 2013). We acknowl­
+edge the differences between the simulator and machine for 
+both the skidder and forwarder likely inhibited maximum skill 
+transfer that could have been achieved when using these simu­
+lator models with controls that better matched the real 
+machines.
+Recommendations for future research
+Future studies to evaluate the effectiveness of simulator train­
+ing should consider using a larger sample size (20 participants) 
+if resources are available. This would allow researchers to better 
+detect the simulator training effect for logging equipment 
+operators and reasonably extend results to a larger population. 
+Similarly, a longer training and testing period would allow 
+more insight into the effectiveness of simulator-based training 
+as a tool throughout an extended training program for a new 
+operator. One factor that this study did not consider is the 
+fidelity of the simulators used. Given that the degree to which 
+skills transfer to the real world is tied to fidelity (i.e. the degree 
+to which the simulated environment emulates the real working 
+environment) (Meyers et al. 2018), future studies could exam­
+ine operator performance results for a range of simulator 
+technology from basic (i.e. simple joysticks that plug into a 
+desktop computer) to full (i.e. a realistic operator’s chair com­
+plete with motion feedback, replica controls, and multiple dis­
+play screens for maximum field of vision). Finally, conducting 
+experiments similar to this one for different types of forest 
+machines (e.g. loader, processor, feller-buncher, harvester) 
+would allow for a better understanding of the effectiveness of 
+simulator training across the forest operations industry.
+Conclusions
+The goal of this study was to evaluate the effectiveness of 
+simulator-based training for logging equipment operators. 
+Due to the minimal differences we detected between simula­
+tor-based training and machine training, we conclude that 
+simulators are an effective training tool for new logging equip­
+ment operators learning simple tasks. The benefits and draw­
+backs of slight differences in operator performance trends over 
+time and the cost savings associated with simulator-based 
+training must be weighed by training programs and contrac­
+tors when considering the effectiveness of simulator training 
+for logging equipment operators.
+This study has laid the groundwork for future studies in skill 
+transfer from forestry simulators to equipment. It provides a 
+model with which contractors and training facilities can conduct 
+a cost analysis of machine training conducted by a contractor vs. 
+simulator-based training occurring either in-house or externally 
+at a training facility. The study also acted as an opportunity to 
+prototype a simulator curriculum to train new forestry machine 
+operators. The outcomes of this project have contributed to 
+developing a stronger logging workforce in the US.
+Acknowledgements
+This study was funded by the Economic Development Administration, US 
+Department of Commerce (Investment No: 07 79 07629). While the grant 
+covered the employment and travel costs of the research team, it did not 
+cover the participants’ time, land, or equipment required to carry out these 
+experiments. This study would not have been possible without the generous 
+support and donations we received from all our partnering companies, 
+agencies, institutions, and individuals. Partnering companies, agencies, and 
+institutions included: Miller Timber in Philomath, Oregon, Oregon State 
+University Research Forest in Corvallis, Oregon, Ponsse Oyj in Coburg, 
+Oregon, Intermountain Wood Energy in Redmond, Oregon, Hinds 
+Community College in Raymond, Mississippi, Stribling Equipment in 
+Richland, Mississippi, Mississippi Forestry Commission, Mississippi 
+Loggers Association, USDA Forest Service, and the Travel Service team 
+and Statistics department at Northern Arizona University in Flagstaff, 
+Arizona. A huge thanks to the everyone who participated in this study.
+Geolocation information
+This study was completed primarily by researchers at Northern Arizona 
+University in Flagstaff, Arizona. The skidder portion of the experiment 
+was completed at Hinds Community College in Raymond, Mississippi. 
+The forwarder portion of the experiment was completed at the Oregon 
+State University Research Forest in Corvallis, Oregon.
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+Funding
+The work was supported by the Economic Development Administration 
+[07 79 07629].
+References
+Allen T, Han H-S, Shook SR. 2008. A structural assessment of the contract 
+logging sector in the Inland Northwest. Forest Prod J. 58:27–33.
+Baker S, Greene D. 2008. Changes in Georgia’s logging workforce, 1987- 
+2007. South J Appl for. 32:60–68. doi:10.1093/sjaf/32.2.60.
+Brinker RW, Kinard J, Rummer B, Lanford B. 2002. Machines rates for 
+selected harvesting machines. Circular 296 (Revised). Alabama Agri 
+Exp Station Auburn Alabama. 32.
+Bureau of Labor Statistics. 2022. Occupational employment and Wages, 
+May 2021: 45- 4022 logging equipment operators. https://www.bls.gov/ 
+oes/current/oes454022.htm (accessed 2022 Sept 8).
+Burk E. 2022. Simulator-based training for logging equipment operators. 
+Master’s Thesis, Flagstaff, AZ, USA: Northern Arizona University.
+Calabrese D 2000. Canadian switches to mechanized, cut-to-length. 
+TimberLine Magazine. http://www.timberlinemag.com/articledata 
+base/view.asp?articleID=222 (accessed 2021 Sept 22).
+Chang H, Han H-S, Anderson N, Kim YS, Han S-K. 2023. The cost of forest 
+thinning operations in the western United States: a systematic literature 
+review and new thinning cost model. J for. 121(2):193–206. In press. 
+doi:10.1093/jofore/fvac037.
+Conrad JL, Greene WD, Hiesl P. 2018. A review of changes in US logging 
+businesses 1980s-present. J for. 116(3):291–303. doi:10.1093/jofore/fvx014.
+Cools E. 2020. 2020 Contractor Survey. Simcoe, Ontario, Canada: 
+Canadian Forest Industries.
+Edwards R, Han H-S. 2021. Forest equipment operator course program 
+and curriculum (draft). Flagstaff, Arizona: Ecological Restoration 
+Institute. Unpublished.
+INTERNATIONAL JOURNAL OF FOREST ENGINEERING
+11
+
+Freedman P 2004. Operator training with simulator-based help in Quebec. 
+Simulator- based training of forest machine operators – A presentation; 
+18 Nov; Quebec, Canada.
+He M, Smidt M, Li W, Zhang Y. 2021. Logging industry in the United States: 
+employment and profitability. Forests. 12(12):1720. doi:10.3390/f12121720.
+Hoss C 2001. Harvester simulators as effective tools in education. 
+Thinnings, a valuable forest management tool – An international con­
+ference; September. Quebec, Canada.
+LaPointe JF, Robert JM. 2000. Using VR for efficient training of forestry 
+machine operators. Educ Inform Technol. 5(4):237–250. doi:10.1023/ 
+A:1012045305968.
+Leon BH, Benjamin JG. 2012. A survey of business attributes, harvest 
+capacity and equipment infrastructure of logging businesses in the 
+northern forest. Orono, ME, USA: University of Maine School of 
+Forest Resources.
+Meyers IP, Starr AW, Mullins K. 2018. Flight simulator fidelity, training 
+transfer, and the role of instructors in optimizing learning. Int J Aviat, 
+Aeronaut, Aerosp. 5. doi:10.15394/ijaaa.2018.1203.
+Ovaskainen H. 2005. Comparison of harvester work in forest and simu­
+lator environments. Silv Fenn. 39(1):89–101. doi:10.14214/sf.398.
+Pagnussat MB, Lopes EDS, Robert RCG. 2021. Machine availability and 
+productivity during timber harvester machine operator training. Can J 
+for. 51(3):433–438. doi:10.1139/cjfr-2020-0164.
+Proctor RW, Dunston PS, So JCY, Lopez-Santamaria BN, Yamaguchi M, Wang 
+X. 2013. Specificity of transfer in basic and applied perceptual-motor tasks. 
+Amer J Psychol. 126(4):401–415. doi:10.5406/amerjpsyc.126.4.0401.
+Pürfurst FT. 2010. Learning curves of harvester operators. Croat J Eng. 31:89–97.
+Ranta P 2009. Added values of forestry machine simulator based training. 
+Proceedings from the International Conference on Multimedia and 
+ICT Education; 22–24 April; Libson, Portugal.
+Riggs JL, Bedworth DD, Randhawa SU 1996. Chapter 12: break even 
+analysis. In: Case K, Wolfe P, editors. Engineering Economics, 4th ed. 
+USA: The McGraw Hill Companies, Inc; p. 473–511.
+Richardson R, Makkonen I 1994. The performance of cut-to-length systems 
+in eastern Canada. For Eng Res Inst Can. Technical Report TR-109.
+Said S, Gozdzik M, Roche TR, Braun J, Rossler J, Kaserer A, Spahn DR, 
+Nothiger CB, Tscholl DW. 2020. Validation of the raw National 
+Aeronautics and Space Administration Task Load Index (NASA-TLX) 
+questionnaire to assess perceived workload in patient monitoring tasks: 
+pooled analysis study using mixed models. J Med Internet Res. 22:9.
+Smith DW. 2012. Logging cost and productivity associated with labor and 
+mechanization in the eastern United States. Theses and Dissertations 
+2969. Mississippi State University.
+So JCY, Macrowski LM, Dunston PS, Proctor RW, Goodney JE 2016. 
+Transfer of operator training from simulated to real hydraulic excava­
+tors. Proceedings from the 2016 Construction Research Congress; 31 
+May 2 June; San Juan, Puerto Rico. doi:10.1061/9780784479827.196.
+Vaughan D, Edgeley CM, Han H-S. 2021. Forest contracting businesses in 
+the southwest: current profile and workforce training needs. J for. 
+120:186–197. doi:10.1093/jofore/fvab060.
+Wenhold R, Ackerman P, Ackerman S, Gagliardi K. 2019. Skills develop­
+ment of mechanized softwood sawtimber cut-to-length harvester 
+operators on the Highveld of South Africa. Int J for Eng. 31:1–10. 
+doi:10.1080/14942119.2019.1578561.
+Yates B. 2000. High tech training of high-tech workforce in the forest 
+industry. ; 11 - 13 September 2000; Kelowna, Canada.
+Xu Y, Smidt M, Zhang Y. 2014. Logging worker wage, performance, and 
+experience. For Prod J. 64(5–6):210–216.
+Yerkes RM, Dodson JD. 1908. The relation of strength of stimulus to 
+rapidity of habit-formation. J Comp Neurol Psychol. 18(5):459–482.
+12
+E. BURK ET AL.

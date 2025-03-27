@@ -1,0 +1,1173 @@
+Climate drives ﬁre synchrony but local factors control
+ﬁre regime change in northern Mexico
+LARISSA L. YOCOM KENT,1, PETER Z. FULE,1 PETER M. BROWN,2 JULIAN CERANO-PAREDES,3
+ELADIO CORNEJO-OVIEDO,4 CITLALI CORTES MONTA ~NO,1,5 STACY A. DRURY,6 DONALD A. FALK,7,8
+JED MEUNIER,9 HELEN M. POULOS,10 CARL N. SKINNER,11 SCOTT L. STEPHENS,12 AND JOSE VILLANUEVA-DIAZ3
+1School of Forestry, Northern Arizona University, P.O. Box 15018, Flagstaff, Arizona 86011 USA
+2Rocky Mountain Tree-Ring Research, 2901 Moore Lane, Fort Collins, Colorado 80526 USA
+3National Institute of Forest, Agriculture, and Livestock Research, National Center of Disciplinary Research on Water, Soil, Plants, and
+Atmosphere, Km. 6.5 Margen Derecha del Canal Sacramento, C.P. 35140 Gomez Palacio, Durango, Mexico
+4Departamento Forestal, Universidad Autonoma Agraria Antonio Narro, Calzada Antonio Narro #1923,
+Buenavista, C.P. 25315 Saltillo, Coahuila, Mexico
+5Instituto de Silvicultura e Industria de la Madera, Universidad Juarez del Estado de Durango,
+Boulevard del Guadiana #501, Ciudad Universitaria, Torre de Investigacion, C. P. 34120 Durango, Mexico
+6USDA Forest Service Paciﬁc Southwest Research Station, 1731 Research Park Drive, Davis, California 95618 USA
+7School of Natural Resources and the Environment, University of Arizona, 1064 Lowell Street, Tucson, Arizona 85721 USA
+8Laboratory of Tree-Ring Research, University of Arizona, 1215 E. Lowell Street, Tucson, Arizona 85721 USA
+9Wisconsin Department of Natural Resources, Science Operations Center, 2801 Progress Road, Madison, Wisconsin 53716 USA
+10College of the Environment, Wesleyan University, 284 High Street, Middletown, Connecticut 06459 USA
+11USDA Forest Service, Paciﬁc Southwest Research Station, 3644 Avtech Parkway, Redding, California 96002 USA
+12Department of Environmental Science, Policy, and Management, University of California,
+130 Mulford Hall, Berkeley, Berkeley, California 94720 USA
+Citation: Yocom Kent, L. L., P. Z. Fule, P. M. Brown, J. Cerano-Paredes, E. Cornejo-Oviedo, C. Cortes Monta~no, S. A.
+Drury, D. A. Falk, J. Meunier, H. M. Poulos, C. N. Skinner, S. L. Stephens, and J. Villanueva-Dıaz. 2017. Climate drives
+ﬁre synchrony but local factors control ﬁre regime change in northern Mexico. Ecosphere 8(3):e01709. 10.1002/ecs2.1709
+Abstract.
+The occurrence of wildﬁre is inﬂuenced by a suite of factors ranging from “top-down” inﬂu-
+ences (e.g., climate) to “bottom-up” localized inﬂuences (e.g., ignitions, fuels, and land use). We carried out
+the ﬁrst broad-scale assessment of wildland ﬁre patterns in northern Mexico to assess the relative inﬂuence
+of top-down and bottom-up drivers of ﬁre in a region where frequent ﬁre regimes continued well into the
+20th century. Using a network of 67 sites, we assessed (1) ﬁre synchrony and the scales at which synchrony
+is evident, (2) climate drivers of ﬁre, and (3) asynchrony in ﬁre regime changes. We found high ﬁre
+synchrony across northern Mexico between 1750 and 2008, with synchrony highest at distances <400 km.
+Climate oscillations, especially El Ni~no-Southern Oscillation, were important drivers of ﬁre synchrony.
+However, bottom-up factors modiﬁed ﬁre occurrence at smaller spatial scales, with variable local inﬂuence
+on the timing of abrupt, unusually long ﬁre-free periods starting between 1887 and 1979 CE. Thirty sites
+lacked these ﬁre-free periods. In contrast to the neighboring southwestern United States, many ecosystems
+in northern Mexico maintain frequent ﬁre regimes and intact ﬁre–climate relationships that are useful in
+understanding climate inﬂuences on disturbance across scales of space and time.
+Key words:
+Atlantic Multidecadal Oscillation; climate; dendrochronology; El Ni~no-Southern Oscillation; ﬁre history;
+ﬁre regime; ﬁre scars; Mexico; Paciﬁc Decadal Oscillation; synchrony.
+Received 5 January 2017; accepted 9 January 2017. Corresponding Editor: Debra P. C. Peters.
+Copyright: © 2017 Yocom Kent et al. This is an open access article under the terms of the Creative Commons Attribution
+License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.
+ E-mail: larissa.yocom@gmail.com
+ ❖www.esajournals.org
+1
+March 2017 ❖Volume 8(3) ❖Article e01709
+
+INTRODUCTION
+The occurrence of wildﬁre in a given ecosystem
+is inﬂuenced by a suite of factors ranging from
+“top-down” inﬂuences such as climatic oscilla-
+tions and regional drought, to “bottom-up” local-
+ized inﬂuences such as ignitions, fuel availability,
+land use, and topography (Falk et al. 2007, Gill
+and Taylor 2009, McKenzie et al. 2011). Top-down
+and bottom-up drivers also interact; for example,
+climate patterns inﬂuence vegetation type and
+fuel availability, and local soil and topography
+can affect how strongly regional drought is
+expressed. Strong top-down control over ﬁre at a
+regional scale is evidenced by synchronous ﬁre
+occurrence at widely separated sites, whereas bot-
+tom-up drivers inﬂuence ﬁre spread and local
+behavior, leading to more asynchronous ﬁre
+occurrence among sites (Heyerdahl et al. 2001,
+Falk et al. 2011). Abrupt and persistent shifts in
+ﬁre regimes that are not related to climatic condi-
+tions could also indicate the inﬂuence of bottom-
+up drivers. A large spatial network is needed for
+evaluating top-down/bottom-up inﬂuences beca-
+use of the linkages between top-down inﬂuences
+and ﬁre synchrony at widely separated sites and
+between bottom-up inﬂuences and asynchrony.
+Understanding cross-scale drivers of ﬁre and cli-
+mate–ﬁre relationships is important for explaining
+tree recruitment patterns (Meunier et al. 2014a),
+carbon cycling (Mouillot and Field 2005), the rela-
+tive importance of human vs. climate drivers of
+ﬁre (Taylor et al. 2016), and for understanding
+how ﬁre-adapted forests may respond to climate
+change (Flannigan et al. 2009).
+Climate is the dominant time-varying top-
+down process regulating ﬁre regimes. Using cen-
+turies-long records of ﬁre from ﬁre scars in tree
+rings and reconstructed climate indices, climate
+has been shown to inﬂuence ﬁre occurrence in
+North American regions such as the southwestern
+United States (e.g., Swetnam 1990, Swetnam and
+Betancourt 1990, Swetnam and Baisan 1996, Gris-
+sino-Mayer and Swetnam 2000), the Paciﬁc North-
+west and southwestern Canada (e.g., Hessl et al.
+2004, Heyerdahl et al. 2008a), the northern Rocky
+Mountains (e.g., Heyerdahl et al. 2008b), and
+Utah (Brown et al. 2008). Climate drives synchro-
+nous ﬁre even at the scale of the North and South
+American continents (e.g., Kitzberger et al. 2001,
+2007,
+Trouet
+et al.
+2010,
+Falk
+et al.
+2011).
+Collectively,
+these
+studies
+comprise
+a
+major
+archive of a key ecological process, as well as how
+climate inﬂuences that process, representing hun-
+dreds of study sites and tens of thousands of trees
+(Falk et al. 2010, 2011). Fire regime reconstruc-
+tions from ﬁre-scarred trees typically represent
+ecosystems with relatively frequent surface ﬁres
+that most dominant trees survive, albeit some-
+times with scars. Evidence from systems with
+infrequent, stand-replacing ﬁre regimes in North
+America suggests that similar ﬁre–climate rela-
+tionships exist, although at longer time scales
+(Schoennagel et al. 2005, Sibold and Veblen 2006).
+These networks of ﬁre history sites have shown
+that large-scale spatial and temporal patterns of
+ﬁre occurrence are highly correlated with the
+occurrence of regional drought (Falk et al. 2010).
+Droughts and pluvials are in turn driven
+by teleconnections with major coupled ocean–
+atmosphere oscillatory modes in the climate sys-
+tem (Diaz et al. 2001, Gray et al. 2003, McCabe
+et al. 2004, Woodhouse et al. 2009). The El
+Ni~no-Southern Oscillation (ENSO) affects ﬁre
+occurrence throughout western North and South
+America, particularly the occurrence of widespread
+ﬁre years across thousands of kilometers (e.g.,
+Swetnam and Betancourt 1990, Kitzberger et al.
+2001). Longer-phase climate oscillations, including
+the Paciﬁc Decadal Oscillation (PDO) and the
+Atlantic Multidecadal Oscillation (AMO), interact
+with ENSO to reinforce or dampen regional
+drought conditions, which in turn inﬂuence histori-
+cal ﬁre occurrence patterns (Hessl et al. 2004,
+Schoennagel et al. 2005, Taylor and Beaty 2005,
+Sibold and Veblen 2006). However, most previous
+studies are limited to analyzing climate–ﬁre rela-
+tionships before the 20th century, because in much
+of North America north of Mexico, ﬁre regimes
+were interrupted in the late nineteenth century by
+human inﬂuence, including livestock grazing and
+other land-use changes (Belsky and Blumenthal
+1997, Heyerdahl et al. 2001, Swetnam et al. 2001).
+Potentially facilitating our understanding of
+the historical and current relationships between
+climate and ﬁre in North America, some areas
+in northern Mexico maintain relatively intact ﬁre–
+climate dynamics. Human impacts in the moun-
+tains of northern Mexico have followed a different
+history
+than
+the
+United
+States,
+with
+large-
+scale livestock introduction largely deferred until
+post-revolutionary land reforms in the mid- to
+ ❖www.esajournals.org
+2
+March 2017 ❖Volume 8(3) ❖Article e01709
+YOCOM KENT ET AL.
+
+late-twentieth century. Comprehensive ﬁre sup-
+pression was never achieved in some areas,
+despite management policies requiring it (e.g.,
+Leopold 1937, Rodrıguez-Trejo and Fule 2003,
+Skinner et al. 2008, Fule et al. 2012). Heyerdahl
+and Alvarado (2003) suggested that ﬁre exclusion,
+where it did occur, was closely associated with
+the formation of ejidos, which are communally
+held and managed lands. When ejidos were
+granted as part of an agrarian land reform in the
+early to mid-twentieth century, ﬁre regimes may
+have changed due to increased livestock grazing,
+road building, logging, and changing the tradi-
+tional role of ﬁre (Heyerdahl and Alvarado 2003).
+A documented example of livestock grazing
+expansion associated with ﬁre regime interrup-
+tion was described by Fule and Covington (1999).
+Although some sites were interrupted around the
+time of ejido formation (e.g., Heyerdahl and Alvar-
+ado 2003, Poulos et al. 2013), a few sites experi-
+enced ﬁre regime interruption in the late 1800s or
+early 1900s, long before the formation of ejidos
+(e.g., Yocom et al. 2010), and ﬁre regimes at other
+sites have ﬁres continuing to the present (e.g.,
+Fule et al. 2011).
+A network of ﬁre history sites has been devel-
+oped in northern Mexico over the past several
+decades. Many of these sites have been used to
+explore ﬁre–climate relationships as well as his-
+torical ﬁre regimes, although climate linkages to
+ﬁre occurrence have been studied only at the scale
+of individual sites or within mountain ranges.
+Only in the last few years are new data sets being
+completed that expand the network to eastern
+Mexico (Yocom et al. 2010, 2014, Poulos et al.
+2013) and northern Chihuahua (Fule et al. 2011,
+Meunier et al. 2014b). Until the establishment of a
+large ﬁre history network, a broad-scale analysis
+of top-down and bottom-up drivers of ﬁre has not
+been possible for this part of North America.
+Our goal was to assess the patterns and drivers
+of ﬁre regimes across northern Mexico. Our ﬁrst
+objective was to quantify synchrony of ﬁre across
+spatial scales. Our second objective was to evalu-
+ate the inﬂuence of climate on ﬁre occurrence
+across the region. Synchrony of ﬁres (and non-
+ﬁre years) at broad scales among distant sites,
+and relationships between ﬁre dates and climatic
+oscillations such as ENSO, are evidence of top-
+down climatic inﬂuences. Our last objective was
+to assess asynchrony in dates of abrupt changes
+in ﬁre regimes, which would reﬂect bottom-up,
+local inﬂuence on the timing of these changes.
+METHODS
+We included 67 ﬁre history sites in northern
+Mexico, originally sampled as individual research
+projects (Fule and Covington 1997, 1999, Heyer-
+dahl and Alvarado 2003, Fule et al. 2005, 2011,
+2012, Drury and Veblen 2008, Skinner et al. 2008,
+Cerano Paredes et al. 2010, Yocom et al. 2010,
+2014, Poulos et al. 2013, Meunier et al. 2014b, P. Z.
+Fulé, unpublished data; Appendix S1: Table S1). The
+sites extend geographically from northern Baja
+California in the west, east to the Sierra Madre Ori-
+ental, north in the Sierra Madre Occidental to close
+to the U.S.–Mexico border, and south in the Sierra
+Madre Occidental to southern Durango (Fig. 1).
+All sites are at 1500 m above sea level or higher
+and are dominated by conifer species. Eighteen
+tree species were sampled across all sites, includ-
+ing 14 species of pine (Appendix S1: Table S2). Fire
+chronologies were assembled from the Interna-
+tional Multiproxy Paleoﬁre Database or con-
+tributed by the original investigators. At each site,
+ﬁre-scar data were sampled in an area ranging
+from 2 to 353 ha (mean 29, SD 49), and the num-
+ber of crossdated ﬁre-scarred tree samples from
+each site ranged from 6 to 104 (mean 29, SD 16;
+Appendix S1: Table S1). Although the area sam-
+pled and the number of samples collected varied
+widely between sites, we used all sites in this anal-
+ysis because we did not calculate statistics such as
+the mean ﬁre interval, where widely variable site
+size or the number of samples could be problem-
+atic for comparison between sites (van Horne and
+Fule 2006). We identiﬁed ﬁre years at each site as
+those years when scars occurred on ≥2 trees (to
+eliminate lightning scars or very small ﬁres that
+scarred only one tree), and these dates were com-
+piled into site chronologies.
+We grouped the 67 sites into ﬁve geographic
+regions,
+designated
+Baja,
+Occidental
+North,
+Occidental Central, Occidental South, and Orien-
+tal (Fig. 1). We identiﬁed “within-region” syn-
+chronous ﬁre years as those in which multiple
+sites in a region recorded ﬁre, to evaluate climate
+impacts on ﬁres separately for each region. To do
+this, we identiﬁed the years of highest ﬁre syn-
+chrony among sites within each region (range 23–
+31 yr identiﬁed per region). We also identiﬁed
+ ❖www.esajournals.org
+3
+March 2017 ❖Volume 8(3) ❖Article e01709
+YOCOM KENT ET AL.
+
+“across-region” synchronous ﬁre years as those
+when ≥4 regions recorded ﬁre synchronously. We
+identiﬁed no-ﬁre years as those when 0 regions
+recorded a ﬁre, and we also identiﬁed years when
+one, two, or three regions recorded a ﬁre.
+To assess ﬁre synchrony across scales, we ﬁrst
+calculated Jaccard distance in ﬁre dates for every
+pair of sites. We then analyzed Jaccard distance as
+a function of geographic distance between each
+pair of sites using a Mantel test (Mantel 1967) and
+a Mantel correlogram (Oden and Sokal 1986, Bor-
+card and Legendre 2012). A Mantel test analyzes
+the correlation between two distance matrices (in
+this case, Jaccard distance and geographic dis-
+tance), while a Mantel correlogram tests for corre-
+lation at different distance classes (Legendre and
+Legendre 1998). We used the functions “mantel”
+and “mantel.correlog,” each with 1000 permuta-
+tions, in the R package “vegan” for these tests
+(Oksanen et al. 2016), and we set breakpoints in
+the Mantel correlogram for every 100 km.
+We compared ﬁre chronologies (from 1750 to
+2005) to an independently derived tree-ring recon-
+struction of ENSO to assess potential climate
+forcing, using a winter NINO3 (December through
+February) SST anomaly index (Cook et al. 2008).
+Negative (positive) NINO3 index values are associ-
+ated with La Ni~na (El Ni~no) conditions. To address
+temporal autocorrelation in the NINO3 index, we
+ﬁt autoregressive integrated moving average mod-
+els and used the resulting white noise residuals in
+our analyses. To evaluate the inﬂuence of ENSO
+on ﬁre occurrence, we used superposed epoch
+analysis (SEA) in FHX2 (Grissino-Mayer 1995) to
+compare ﬁre occurrence with NINO3 climate
+index values during ﬁre years, ﬁve years prior to
+ﬁre years, and two years after ﬁre years. To assess
+statistical signiﬁcance of the SEA results, we calcu-
+lated 95% conﬁdence intervals using bootstrapped
+distributions of climate data in 1000 trials.
+We evaluated the inﬂuence of two-way and
+three-way combinations of the phases of AMO,
+PDO, and ENSO on ﬁre occurrence in northern
+Mexico, from 1750 to 1990 (D’Arrigo et al. 2001,
+Gray et al. 2004, Cook et al. 2008). Although Kipf-
+mueller et al. (2012) suggested that linking PDO
+with historical ﬁres is problematic because differ-
+ent reconstructions yield different results, PDO
+Fig. 1. Map of 67 ﬁre history sites within ﬁve regions in Mexico. Sites follow major mountain ranges. From
+west to east, Sierra San Pedro Martir, Sierra Madre Occidental, Sierra Madre Oriental.
+ ❖www.esajournals.org
+4
+March 2017 ❖Volume 8(3) ❖Article e01709
+YOCOM KENT ET AL.
+
+has been identiﬁed as a potentially important dri-
+ver of regional ﬁre across a range of forested
+ecosystems (Schoennagel et al. 2005, Kitzberger
+et al. 2007, Margolis and Swetnam 2013). We used
+the D’Arrigo et al. (2001) reconstruction because
+it is based on a wide geographic range of trees,
+including trees from northern Mexico (see Mar-
+golis and Swetnam 2013). Expected values of ﬁre
+occurrence in each phase combination were calcu-
+lated from the proportion of years from 1750 to
+1990 in each of the combinations, and observed
+values were the number of across-region ﬁre years
+in each phase combination. We used v2 goodness-
+of-ﬁt tests to compare the expected ﬁre occurrence
+with
+observed
+ﬁre
+occurrence
+to
+determine
+whether ﬁres occurred disproportionately during
+particular phase combinations of large-scale cli-
+mate oscillations (positive and negative phases of
+AMO, PDO, and ENSO). P-values were calculated
+using
+a
+Monte
+Carlo
+simulation,
+randomly
+sampling from the expected ﬁre occurrence distri-
+bution, with 1000 replicates. Statistics were calcu-
+lated using the “Stats” package in R (R Core
+Team 2015).
+To determine dates of ﬁre regime interruption,
+for each site we identiﬁed the last ﬁre date before
+an unusually long ﬁre-free interval, deﬁned as
+greater than the mean ﬁre interval for that site
+plus two standard deviations of the mean, and
+greater than 12 yr, representing half of the inter-
+val commonly used to designate “frequent” ﬁre
+regimes (Heinselman 1973).
+RESULTS
+Between 1750 and 2005, there were 13 yr when
+all ﬁve regions in northern Mexico recorded ﬁre:
+1798, 1820, 1838, 1851, 1860, 1874, 1877, 1894,
+1899, 1902, 1909, 1916, and 1917. There were an
+additional 55 yr when four regions recorded ﬁre;
+we
+designated
+the
+68 yr
+when
+≥4
+regions
+recorded ﬁre as across-region synchronous ﬁre
+years (Appendix S1: Fig. S1). There were 48 yr in
+which only one region recorded a ﬁre, 63 yr
+in which two regions recorded a ﬁre, and 52 yr in
+which three regions recorded a ﬁre. There were
+25 yr in which no ﬁres were recorded in any of
+the regions.
+Jaccard distance in ﬁre dates was signiﬁcantly
+related to geographic distance between sites based
+on results of the Mantel test (r = 0.31, P < 0.001).
+Plotting the Mantel correlogram results (Fig. 2a),
+as well as the Jaccard distance index as a function
+of geographic distance between each pair of sites
+(Fig. 2b), revealed that ﬁre dates were more simi-
+lar at closer geographic distances. Jaccard distance
+was positively and signiﬁcantly associated with
+geographic distance for the ﬁrst four distance
+classes, under 400 km (Fig. 2a).
+El Ni~no-Southern Oscillation by itself was a
+signiﬁcant driver of synchronous ﬁre years.
+Average NINO3 values were signiﬁcantly low
+(La Ni~na-type conditions) in years when ≥4
+regions recorded ﬁre, and signiﬁcantly high (El
+Ni~no-type conditions) in years when 0 regions
+recorded ﬁre (Fig. 3). Average NINO3 values
+Fig. 2. Jaccard dissimilarity among ﬁre dates by
+geographic distance between sites. (a) Mantel correlo-
+gram of Jaccard dissimilarity among ﬁre dates in six
+distance classes (each class = 100 km). A black square
+indicates a signiﬁcant correlation between Jaccard dis-
+similarity and geographic distance for that distance
+class. (b) For each pair of sites, Jaccard dissimilarity
+plotted by geographic distance (km).
+ ❖www.esajournals.org
+5
+March 2017 ❖Volume 8(3) ❖Article e01709
+YOCOM KENT ET AL.
+
+were signiﬁcantly low in within-region ﬁre years
+in Baja, Occidental North, Occidental Central,
+and
+Oriental,
+but
+not
+in
+Occidental
+South
+(Appendix S1: Fig. S2). ENSO in antecedent years
+was important in some regions as well: NINO3
+values were signiﬁcantly above-average one year
+prior to ﬁre years in Occidental North and one
+and two years prior to ﬁre in Occidental South
+(Appendix S1: Fig. S2).
+In the three-way combinations of climate oscilla-
+tion phases, there were more ﬁres than expected in
+the combinations where PDO and ENSO were
+both negative, especially when AMO was positive
+(Fig. 4). The chi-square test for the three-way com-
+binations was signiﬁcant (v2 = 17.1, P = 0.02). In
+two-way combinations, ﬁres occurred more often
+than expected when both the PDO and ENSO
+were in negative phases (v2 = 14.2, P = 0.003), and
+when AMO was positive and ENSO was negative
+(v2 = 12.7,
+P = 0.007).
+Expected
+vs.
+observed
+number of ﬁres were not signiﬁcantly different in
+AMO 9 PDO two-way combinations.
+Fire interruption dates ranged from 1887 to
+1979; 30 (45%) sites never experienced ﬁre inter-
+ruption (Fig. 5). The Sierra Madre Oriental
+experienced ﬁre regime interruption earliest of
+the ﬁve regions (several sites prior to 1920),
+although there was variation within the region,
+with ﬁre interruption dates ranging from 1887
+to 1952. Three sites in that region had uninter-
+rupted ﬁre regimes according to our deﬁnition.
+Fire
+regime
+interruption
+in
+Baja
+California
+occurred between 1932 and 1955, with ﬁve sites
+not experiencing ﬁre interruption. In Occidental
+North, most sites had a ﬁre regime interruption
+between 1932 and 1955, with four sites record-
+ing uninterrupted frequent ﬁre. In Occidental
+Central, seven sites maintained uninterrupted
+Fig. 3. Superposed epoch analysis showing average
+departure from the mean value of NINO3 SST (Cook
+et al. 2008) for years when ≥4, 3, 2, 1, and 0 regions
+recorded ﬁre. Fire years are indicated by 0 on the x-axis,
+and values are also given for 5 yr prior to ﬁre years
+(negative values on x-axis) and 2 yr after ﬁre years.
+Dashed lines represent the 99% conﬁdence interval.
+ ❖www.esajournals.org
+6
+March 2017 ❖Volume 8(3) ❖Article e01709
+YOCOM KENT ET AL.
+
+ﬁre regimes; other sites had a change in ﬁre
+regime as early as 1935 and four experienced a
+change in the 1950s. In Occidental South, ﬁre
+regime interruption dates were again scattered,
+ranging from 1930 through the subsequent dec-
+ades. Eleven sites in this region had a continu-
+ous record of ﬁre.
+DISCUSSION
+Top-down and bottom-up drivers of ﬁre are
+evident in the patterns of ﬁre seen across northern
+Mexico. The inﬂuence of top-down (climatic) fac-
+tors can be seen in the synchrony of ﬁres over
+time and space, with 68 yr (27%) of high ﬁre syn-
+chrony during the period of analysis, and an addi-
+tional 25 synchronous years (10%) in which none
+of the regions recorded ﬁre. Although synchrony
+was noted across the entire study area of northern
+Mexico, spatial autocorrelation is present in ﬁre
+dates, and as would be expected, synchrony of
+ﬁres appears to be stronger at shorter geographic
+distances, up to about 400 km.
+Climate was a signiﬁcant driver of the syn-
+chrony seen in northern Mexico. We found an
+association between La Ni~na conditions (negative
+phase of ENSO) and across-region synchronous
+ﬁre years (≥4 regions), as well as a signiﬁcant
+association between La Ni~na conditions and
+within-region synchronous ﬁre years in four of
+the ﬁve regions. The ENSO–ﬁre association is
+founded on the connection between ENSO and
+precipitation;
+modern
+Mexican
+precipitation
+records show a clear link to ENSO phases (Caso
+et al. 2007). Modern ﬁre atlas records are tempo-
+rally and spatially limited, but our results are also
+corroborated by Navar Chaidez (2011), who
+found that an index of ENSO explained over 30%
+of variation in area burned in the state of Durango
+in recent years. It is notable, however, that within-
+region synchronous years in Occidental South
+were not signiﬁcantly related to La Ni~na years in
+our study; this is the same result that Drury and
+Veblen (2008) found in this region. Drury and
+Veblen (2008) suggested that in the southern
+Sierra Madre Occidental, other climatic drivers
+were more important; it is close to the transition
+zone north of which La Ni~na events are associated
+with dry conditions and south of which El Ni~no
+conditions are associated with dry conditions
+(Stahle et al. 2012, also see climate maps in Caso
+et al. 2007 and Yocom and Fule 2012).
+The PDO and AMO were also inﬂuential in
+driving
+across-regional
+ﬁre
+occurrence,
+with
+greater than expected numbers of synchronous
+ﬁres occurring when PDO was negative and
+AMO was positive, in combination with negative
+ENSO. The PDO has also been shown to be a sig-
+niﬁcant driver of ﬁre in western North America
+Fig. 4. Expected and observed frequencies of ﬁre in
+two-way and three-way combinations of AMO, PDO,
+and ENSO. Warm (positive) phases of these oscilla-
+tions are represented by + symbols, and cool (negative)
+phases are represented by  symbols. Signiﬁcant
+differences between expected and observed propor-
+tions of ﬁre occurrence (represented by ) were eval-
+uated using chi-square tests.
+ ❖www.esajournals.org
+7
+March 2017 ❖Volume 8(3) ❖Article e01709
+YOCOM KENT ET AL.
+
+(Kitzberger et al. 2007) and in regional studies in
+the Paciﬁc Northwest (Hessl et al. 2004, Heyer-
+dahl et al. 2008a), western Colorado (Schoennagel
+et al. 2007), and Utah (Brown et al. 2008). The
+AMO has been shown to drive ﬁre synchrony at a
+continental scale (Kitzberger et al. 2007). Although
+top-down inﬂuences are important, their strength
+in synchronizing ﬁre varies among regions in
+northern Mexico. For example, in Baja California,
+a maximum of 50% of sites (5/10) ever recorded
+ﬁre in the same year, but there were two instances
+when 100% of the 11 sites in Occidental North
+recorded ﬁre in the same year.
+Fire regime interruption dates were highly vari-
+able across sites, spreading over nearly 100 yr.
+Almost half of the sites were classiﬁed as having
+an uninterrupted ﬁre regime. It should be noted,
+however, that although we calculated ﬁre inter-
+ruption using a mathematical deﬁnition to avoid
+bias, several sites that were categorized as having
+continuous ﬁre (e.g., MA in Oriental, CA in Occi-
+dental South, and TM in Occidental North)
+seemed to shift toward longer ﬁre intervals during
+the 20th century (Appendix S1: Fig. S1). This
+means that even in “uninterrupted” sites, ﬁre may
+not be occurring at the same frequency as it did
+historically. We did not ﬁnd evidence across
+northern Mexico of the “hiatus” in ﬁre in the
+transition from the late 18th to the early 19th
+century that has been pointed out in sites in the
+western United States and in Baja California (e.g.,
+Swetnam 1990, Swetnam and Betancourt 1998,
+Stephens et al. 2003), although in some regions
+the ﬁre record may not be long enough to detect
+such a hiatus (Appendix S1: Fig. S1). Stephens
+et al. (2003) suggested three potential reasons for
+the change in ﬁre that was noted in the late 18th
+century in Baja California: grazing, a decline in
+native populations, and changes in regional cli-
+mate. The ﬁrst two reasons were related to the
+establishment of the San Pedro Martir Mission,
+which is a special circumstance not applicable to
+other sites in northern Mexico.
+The variability in ﬁre regime interruption dates
+and the presence of only one site in northern Mex-
+ico (out of 67) with a ﬁre regime interruption date
+before 1900 are in striking contrast to the adjacent
+southwestern United States, where ﬁre regimes
+were typically interrupted in a period between
+about 1870 and 1900 (Fig. 5; Swetnam and Baisan
+2003, although see Grissino-Mayer and Swetnam
+2000, Sakulich and Taylor 2007, and Poulos et al.
+2013 for examples of locations where frequent ﬁres
+continued into the 1920s or later). This interrup-
+tion has been attributed to the removal of Native
+Americans, introduction of sheep and other live-
+stock, other land-use changes, and subsequent ﬁre
+suppression policies (Savage and Swetnam 1990,
+Belsky and Blumenthal 1997, O’Connor et al.
+2014, Taylor et al. 2016). The variability in ﬁre
+regime interruption dates across northern Mexico
+is consistent with the mechanism of human land
+use as the driving force behind changing ﬁre
+regimes over the 19th and 20th centuries in
+Fig. 5. Left: map showing ﬁre interruption dates in the southwestern United States and northern Mexico.
+Unﬁlled circles represent a ﬁre interruption date prior to 1900, and ﬁlled circles represent a ﬁre interruption date
+later than 1900. Right: number of sites in each country that experienced ﬁre interruption by 20-yr category.
+ ❖www.esajournals.org
+8
+March 2017 ❖Volume 8(3) ❖Article e01709
+YOCOM KENT ET AL.
+
+western North America. In a direct cross-border
+comparison between mountain ranges separated
+by only 150 km in Arizona, United States, and
+Chihuahua, Mexico, Fule et al. (2012) found that
+ﬁre regimes in both ranges were indistinguishable
+and synchronized by climate before 1892, after
+which
+ﬁres
+were
+abruptly
+and
+completely
+excluded from the Arizona sites. Fire regimes in
+the four Chihuahua study sites continued uninter-
+rupted until the 1950s with one site burning fre-
+quently up to the present (Fule et al. 2012). Forests
+where modern ﬁres continue in historical patterns
+in synchrony with contemporary climate, such as
+many sites in northern Mexico, provide a rare
+opportunity to examine climate–ﬁre relationships
+without major human-caused alteration.
+In northern Mexico, variable local land-use his-
+tory is the likely reason for the variability in ﬁre
+interruption dates. For example, the three sites at
+Pino Gordo, which have an uninterrupted ﬁre
+regime, are difﬁcult to access, and internal politi-
+cal struggles have kept logging from occurring
+there (Fule et al. 2011). In other sites, ﬁre inter-
+ruption was coincident with the formation of eji-
+dos (Heyerdahl and Alvarado 2003, Drury and
+Veblen 2008, Poulos et al. 2013) or reduction in
+Native American populations that used ﬁre
+(Evett et al. 2007). In contrast to the western Uni-
+ted States, where a wave of settlers, livestock,
+and railways washed across much of the territory
+before 1900 and changed the ﬁre regime of wide-
+spread areas within a short time (Swetnam and
+Baisan 2003, Taylor et al. 2016), many sites in
+Mexico have individual stories of land use,
+human interaction, and ﬁre regime change.
+The climate in the southwest and northern Mex-
+ico is projected to become more arid in the near
+future, with this transition already underway
+(Seager et al. 2007, 2009). Drier conditions are con-
+ducive to ﬁre spread, and longer, warmer sum-
+mers have been linked to greater area burned in
+the western United States (Westerling et al. 2006).
+On the other hand, ﬁne fuel production may be
+limited with drier conditions, resulting in less fre-
+quent ﬁres. As climate change projections and our
+understanding of how climate change will impact
+Mexico
+improve
+(Saenz-Romero
+et al.
+2010),
+explorations of historical climate–ﬁre relationships
+will provide insight into future ﬁre regimes.
+Information from the Mexican network is being
+applied to align national ﬁre policy more closely
+with quantitative data on the ﬁre ecology of speci-
+ﬁc forest types (Rodrıguez-Trejo 2008, Jardel et al.
+2014). Sites with continuing ﬁre regimes have
+provided insights into forest structure (Fule and
+Covington 1997), fuel biomass (Stephens et al.
+2007), ﬁre behavior (Rivera-Huerta et al. 2016),
+and wildlife habitat (unpublished manuscript) that
+are unavailable for study elsewhere. In addition,
+many sites in Mexico that have maintained an
+active disturbance regime may be more resilient
+in the future as climate continues to change,
+providing a valuable model for other North
+American forests considered vulnerable to climate
+change (Stephens et al. 2010, Hurteau et al. 2014).
+ACKNOWLEDGMENTS
+We thank Erica Bigio and the FACS project for
+advice on data management. This research was sup-
+ported by National Science Foundation Grant DEB-
+0640351, and the Ecological Restoration Institute at
+Northern Arizona University.
+LITERATURE CITED
+Belsky, A. J., and D. M. Blumenthal. 1997. Effects of
+livestock grazing on stand dynamics and soils in
+upland forests of the interior West. Conservation
+Biology 11:315–327.
+Borcard, D., and P. Legendre. 2012. Is the Mantel
+correlogram powerful enough to be useful in eco-
+logical analysis? A simulation study. Ecology 93:
+1473–1481.
+Brown, P. M., E. K. Heyerdahl, S. G. Kitchen, and
+M. H. Weber. 2008. Climate effects on historical
+ﬁres (1630–1900) in Utah. International Journal of
+Wildland Fire 17:28–39.
+Caso, M., C. Gonzalez-Abraham, and E. Ezcurra. 2007.
+Divergent
+ecological
+effects
+of
+oceanographic
+anomalies on terrestrial ecosystems of the Mexican
+Paciﬁc coast. Proceedings of the National Academy
+of Sciences 104:10530–10535.
+Cerano Paredes, J., J. Villanueva Dıaz, and P. Z. Fule.
+2010. Reconstruccion de incendios y su relacion
+con el clima para la Reserva “Cerro El Mohinora,
+Chihuahua”. Revista Mexicana de Ciencias Fore-
+stales 1:63–74.
+Cook, E. R., R. D. D’Arrigo, and K. J. Anchukaitis.
+2008. ENSO reconstructions from long tree-ring
+chronologies: Unifying the differences? Talk pre-
+sented at a special workshop on “Reconciling
+ENSO Chronologies for the Past 500 Years”, held in
+Moorea, French Polynesia on April 2–3, 2008. Data
+ ❖www.esajournals.org
+9
+March 2017 ❖Volume 8(3) ❖Article e01709
+YOCOM KENT ET AL.
+
+obtained from https://www.ncdc.noaa.gov/paleo/
+study/8704
+D’Arrigo, R. D., R. Villalba, and G. Wiles. 2001. Paciﬁc
+Decadal Oscillation reconstruction. IGBP PAGES/
+World Data Center for Paleoclimatology Data
+Contribution Series # 2005-020. NOAA/NGDC
+Paleoclimatology
+Program,
+Boulder,
+Colorado,
+USA.
+Diaz, H. F., M. P. Hoerling, and J. K. Eischeid. 2001.
+ENSO
+variability,
+teleconnections
+and
+climate
+change. International Journal of Climatology 21:
+1845–1862.
+Drury, S. A., and T. T. Veblen. 2008. Spatial and tempo-
+ral variability in ﬁre occurrence within the Las
+Bayas Forestry Reserve, Durango, Mexico. Plant
+Ecology 197:299–316.
+Evett, R., E. Franco-Vizcaino, and S. L. Stephens. 2007.
+Comparing modern and past ﬁre regimes to assess
+changes in prehistoric lightning and anthropogenic
+ignitions in a Jeffrey pine-mixed conifer forest in
+the Sierra San Pedro Martir, Mexico. Canadian
+Journal of Forest Research 37:318–330.
+Falk, D. A., E. K. Heyerdahl, P. M. Brown, C. A. Farris,
+P. Z. Fule, D. McKenzie, T. W. Swetnam, A. H.
+Taylor, and M. L. Van Horne. 2011. Multiscale
+controls of historical ﬁre regimes: new insights
+from ﬁre-scar networks. Frontiers in Ecology and
+the Environment 9:446–454.
+Falk, D. A., E. K. Heyerdahl, P. M. Brown, T. W.
+Swetnam, E. K. Sutherland, Z. Gedalof, L. Yocom,
+and T. J. Brown. 2010. Fire and climate variation in
+western North America from ﬁre scar networks.
+Past Global Climates 18:70–72.
+Falk, D. A., C. Miller, D. McKenzie, and A. E. Black.
+2007. Cross-scale analysis of ﬁre regimes. Ecosys-
+tems 10:809–823.
+Flannigan, M. D., M. A. Krawchuk, W. J. de Groot,
+B. M. Wotton, and L. M. Gowman. 2009. Implica-
+tions of changing climate for global wildland ﬁre.
+International Journal of Wildland Fire 18:483–507.
+Fule, P. Z., and W. W. Covington. 1997. Fire regimes
+and forest structure in the Sierra Madre Occidental,
+Durango, Mexico. Acta Botanica Mexicana 41:
+43–79.
+Fule, P. Z., and W. W. Covington. 1999. Fire regime
+changes in La Michilıa Biosphere Reserve, Dur-
+ango, Mexico. Conservation Biology 13:640–652.
+Fule, P. Z., M. Ramos-Gomez, C. Cortes-Monta~no, and
+A. M. Miller. 2011. Fire regime in a Mexican forest
+under indigenous resource management. Ecologi-
+cal Applications 21:764–775.
+Fule, P. Z., J. Villanueva-Dıaz, and M. Ramos-Gomez.
+2005. Fire regime in a conservation reserve in
+Chihuahua, Mexico. Canadian Journal of Forest
+Research 35:320–330.
+Fule, P. Z., L. L. Yocom, C. Cortes Monta~no, D. A. Falk,
+J. Cerano, and J. Villanueva-Dıaz. 2012. Testing a
+pyroclimatic hypothesis
+on the
+Mexico-United
+States border. Ecology 93:1830–1840.
+Gill, L., and A. H. Taylor. 2009. Top-down and bottom-
+up controls on ﬁre regimes along an elevational
+gradient on the east slope of the Sierra Nevada,
+California, USA. Fire Ecology 5:57–75.
+Gray, S. T., J. L. Betancourt, C. L. Fastie, and S. T.
+Jackson. 2003. Patterns and sources of multidecadal
+oscillations in drought-sensitive tree-ring records
+from the central and southern Rocky Mountains.
+Geophysical Research Letters 30:6.
+Gray, S. T., L. J. Graumlich, J. L. Betancourt, and
+G. T. Pederson. 2004. A tree-ring based recon-
+struction of the Atlantic Multidecadal Oscillation
+since 1567 A.D. Geophysical Research Letters 31:
+L12205.
+Grissino-Mayer, H. D. 1995. Tree-ring reconstructions
+of climate and ﬁre history at El Malpais National
+Monument, New Mexico. Dissertation. University
+of Arizona, Tucson, Arizona, USA.
+Grissino-Mayer, H. D., and T. W. Swetnam. 2000.
+Century-scale climate forcing of ﬁre regimes in the
+American Southwest. Holocene 10:213–220.
+Heinselman, M. L. 1973. Fire in the virgin forests of the
+Boundary Waters Canoe Area, Minnesota. Quater-
+nary Research 3:329–382.
+Hessl, A. E., D. McKenzie, and R. Schellhaas. 2004.
+Drought and Paciﬁc Decadal Oscillation linked to
+ﬁre occurrence in the inland Paciﬁc Northwest.
+Ecological Applications 14:425–442.
+Heyerdahl, E. K., and E. Alvarado. 2003. Inﬂuence of
+climate and land use on historical surface ﬁres in
+pine-oak forests, Sierra Madre Occidental, Mexico.
+Pages 196–217 in T. T. Veblen, W. L. Baker,
+G. Montenegro, and T. W. Swetnam, editors. Fire
+and climatic change in temperate ecosystems of the
+western Americas. Springer-Verlag, New York,
+New York, USA.
+Heyerdahl, E. K., L. B. Brubaker, and J. K. Agee. 2001.
+Spatial controls of historical ﬁre regimes: a multi-
+scale example from the Interior West, USA. Ecol-
+ogy 82:660–678.
+Heyerdahl, E. K., D. McKenzie, L. D. Daniels, A. E.
+Hessl, J. S. Littell, and N. J. Mantua. 2008a. Climate
+drivers of regionally synchronous ﬁres in the
+inland Northwest (1651–1900). International Jour-
+nal of Wildland Fire 17:40–49.
+Heyerdahl, E. K., P. Morgan, and J. P. Riser II. 2008b.
+Multi-season climate synchronized historical ﬁres
+in dry forests (1650–1900), northern Rockies, USA.
+Ecology 89:705–716.
+Hurteau, M., J. B. Bradford, P. Z. Fule, A. H. Taylor,
+and K. L. Martin. 2014. Climate change, ﬁre
+ ❖www.esajournals.org
+10
+March 2017 ❖Volume 8(3) ❖Article e01709
+YOCOM KENT ET AL.
+
+management, and ecological services in the south-
+western US. Forest Ecology and Management 327:
+280–289.
+Jardel, E. J., D. Perez-Salicrup, E. Alvarado, and J. E.
+Morfın-Rıos. 2014. Principios y criterios para el
+manejo del fuego en ecosistemas forestales: guıa de
+campo. Comision Nacional Forestal, Guadalajara,
+Jalisco, Mexico.
+Kipfmueller, K. F., E. R. Larson, and S. St George. 2012.
+Does proxy uncertainty affect the relations inferred
+between the Paciﬁc Decadal Oscillation and wild-
+ﬁre activity in the western United States? Geophys-
+ical Research Letters 39:L04703.
+Kitzberger, T., P. M. Brown, E. K. Heyerdahl, T. W.
+Swetnam, and T. T. Veblen. 2007. Contingent
+Paciﬁc-Atlantic Ocean inﬂuence on multicentury
+wildﬁre synchrony over western North America.
+Proceedings of the National Academy of Sciences
+104:543–548.
+Kitzberger, T., T. W. Swetnam, and T. T. Veblen. 2001.
+Inter-hemispheric synchrony of forest ﬁres and the
+El Ni~no-Southern Oscillation. Global Ecology and
+Biogeography 10:315–326.
+Legendre, P., and L. Legendre. 1998. Numerical ecol-
+ogy. Second English edition. Elsevier, Amsterdam,
+The Netherlands.
+Leopold, A. 1937. Conservationist in Mexico. Ameri-
+can Forests 37:118–120.
+Mantel, N. 1967. The detection of disease clustering
+and a generalized regression approach. Cancer
+Research 27:209–220.
+Margolis, E. Q., and T. W. Swetnam. 2013. Historical
+ﬁre–climate relationships of upper elevation ﬁre
+regimes in the south-western United States. Inter-
+national Journal of Wildland Fire 22:588–598.
+McCabe, G. J., M. A. Palecki, and J. L. Betancourt.
+2004. Paciﬁc and Atlantic Ocean inﬂuences on
+multidecadal drought frequency in the United
+States. Proceedings of the National Academy of
+Sciences 101:4136–4141.
+McKenzie, D., C. Miller, and D. A. Falk. 2011.
+Toward a theory of landscape ﬁre. Pages 3–25
+in D. McKenzie, C. Miller, and D. A. Falk, edi-
+tors. The landscape ecology of ﬁre. Ecological
+Studies Series No. 213. Springer, Dordrecht, The
+Netherlands.
+Meunier, J., P. M. Brown, and W. H. Romme. 2014a.
+Tree recruitment in relation to climate and ﬁre in
+northern Mexico. Ecology 95:197–209.
+Meunier, J., W. H. Romme, and P. M. Brown. 2014b.
+Climate
+and
+land-use
+effects
+on
+wildﬁre
+in
+northern Mexico, 1650–2010. Forest Ecology and
+Management 325:49–59.
+Mouillot, F., and C. B. Field. 2005. Fire history and
+the global carbon budget: a 1 9 1 ﬁre history
+reconstruction for the 20th century. Global Change
+Biology 11:398–420.
+Navar Chaidez, J. D. J. 2011. Modelacion del contenido
+de agua de los suelos y su relacion con los incen-
+dios forestales en la Sierra Madre Occidental de
+Durango, Mexico. Madera y Bosques 17:65–81.
+O’Connor, C. D., D. A. Falk, A. M. Lynch, and T. W.
+Swetnam. 2014. Fire severity, size, and climate
+associations
+diverge
+from
+historical
+precedent
+along an ecological gradient in the Pinale~no Moun-
+tains, Arizona, USA. Forest Ecology and Manage-
+ment 329:264–278.
+Oden, N. L., and R. R. Sokal. 1986. Directional auto-
+correlation: an extension of spatial correlograms
+to
+two
+dimensions.
+Systematic
+Zoology
+35:
+608–617.
+Oksanen, J., F. G. Blanchet, R. Kindt, P. Legendre, P. R.
+Minchin, R. B. O’Hara, G. L. Simpson, P. Solymos,
+M. H. H. Stevens, and H. Wagner. 2016. vegan:
+community Ecology Package. R package version
+2.3-4. http://CRAN.R-project.org/package=vegan
+Poulos, H. M., J. Villanueva Dıaz, J. Cerano Paredes,
+A. E. Camp, and R. G. Gatewood. 2013. Human
+inﬂuences on ﬁre regimes and forest structure in
+the Chihuahuan Desert Borderlands. Forest Ecol-
+ogy and Management 298:1–11.
+R Core Team. 2015. R: a language and environment for
+statistical computing. R Foundation for Statistical
+Computing, Vienna, Austria. http://www.R-project.
+org/
+Rivera-Huerta, H., H. D. Safford, and J. D. Miller.
+2016. Patterns and trends in burned area and ﬁre
+severity from 1984 to 2010 in the Sierra de San
+Pedro Martir, Baja California, Mexico. Fire Ecology
+12:52–72.
+Rodrıguez-Trejo, D. A. 2008. Fire regimes, ﬁre ecology,
+and ﬁre management in Mexico. Ambio 37:548–556.
+Rodrıguez-Trejo, D. A., and P. Z. Fule. 2003. Fire
+ecology of Mexican pines and a ﬁre management
+proposal. International Journal of Wildland Fire 12:
+23–37.
+Saenz-Romero, C., G. E. Rehfeldt, N. L. Crookston,
+P. Duval, R. St-Amant, J. Beaulieu, and B. A.
+Richardson. 2010. Spline models of contemporary,
+2030, 2060 and 2090 climates for Mexico and their
+use in understanding climate-change impacts on
+the vegetation. Climatic Change 102:595–623.
+Sakulich, J., and A. H. Taylor. 2007. Fire regimes and
+forest structure in a sky island mixed conifer forest,
+Guadalupe Mountains National Park, Texas, USA.
+Forest Ecology and Management 241:62–73.
+Savage, M., and T. W. Swetnam. 1990. Early 19th-
+century ﬁre decline following sheep pasturing in a
+Navajo
+ponderosa
+pine
+forest.
+Ecology
+71:
+2374–2378.
+ ❖www.esajournals.org
+11
+March 2017 ❖Volume 8(3) ❖Article e01709
+YOCOM KENT ET AL.
+
+Schoennagel, T., T. T. Veblen, D. Kulakowski, and
+A. Holz. 2007. Multidecadal climate variability and
+climate interactions affect subalpine ﬁre occurrence,
+western Colorado (USA). Ecology 88:2891–2902.
+Schoennagel, T., T. T. Veblen, W. H. Romme, J. S.
+Sibold, and E. R. Cook. 2005. ENSO and PDO
+variability affect drought-induced ﬁre occurrence
+in Rocky Mountain subalpine forests. Ecological
+Applications 15:2000–2014.
+Seager, R., M. Ting, M. Davis, M. Cane, N. Naik,
+J. Nakamura, C. Li, E. Cook, and D. W. Stahle.
+2009. Mexican drought: an observational modeling
+and tree ring study of variability and climate
+change. Atmosfera 22:1–31.
+Seager, R., et al. 2007. Model projections of an immi-
+nent transition to a more arid climate in southwest-
+ern North America. Science 316:1181–1184.
+Sibold, J. S., and T. T. Veblen. 2006. Relationships of
+subalpine forest ﬁres in the Colorado Front Range
+with interannual and multidecadal-scale climatic
+variation. Journal of Biogeography 33:833–842.
+Skinner, C. N., J. H. Burk, M. G. Barbour, E. Franco-
+Vizcaıno, and S. L. Stephens. 2008. Inﬂuences of
+climate on ﬁre regimes in montane forests of
+north-western Mexico. Journal of Biogeography
+35:1436–1451.
+Stahle, D. W., D. J. Burnette, J. Villanueva Diaz, R. R.
+Heim Jr., F. K. Fye, J. Cerano Paredes, R. Acuna
+Soto, and M. K. Cleaveland. 2012. Paciﬁc and Atlan-
+tic inﬂuences on Mesoamerican climate over the
+past millennium. Climate Dynamics 39:1431–1446.
+Stephens, S. L., D. L. Fry, E. Franco-Vizcaino, B. M.
+Collins, and J. J. Moghaddas. 2007. Coarse woody
+debris and canopy cover in an old-growth Jeffrey
+pine-mixed conifer forest from the Sierra San Pedro
+Martir, Mexico. Forest Ecology and Management
+240:87–95.
+Stephens, S. L., C. I. Millar, and B. M. Collins. 2010.
+Operational approaches to managing forests of the
+future in Mediterranean regions within a context of
+changing climates. Environmental Research Letters
+5:024003.
+Stephens, S. L., C. N. Skinner, and S. J. Gill. 2003.
+Dendrochronology-based ﬁre history of Jeffrey
+pine – mixed conifer forests in the Sierra San Pedro
+Martir,
+Mexico.
+Canadian
+Journal
+of
+Forest
+Research 33:1090–1101.
+Swetnam, T. W. 1990. Fire history and climate in the
+southwestern United States. Pages 6–17 in J. S.
+Krammes, technical coordinator. Proceedings of
+the Symposium “Effects of Fire Management of
+Southwestern Natural Resources”. General Techni-
+cal Report RM-191. USDA Forest Service, Tucson,
+Arizona, USA.
+Swetnam, T. W., and C. H. Baisan. 1996. Historical ﬁre
+regime patterns in the Southwestern United States
+since AD 1700. Pages 11–32 in C. D. Allen, editor.
+Fire Effects in Southwestern Forests: Proceedings
+of the Second La Mesa Fire Symposium, Los Ala-
+mos, NM March 29–31, 1994. General Technical
+Report RM-GTR-286. USDA Forest Service Rocky
+Mountain Forest and Range Experiment Station,
+Fort Collins, Colorado, USA.
+Swetnam, T. W., and C. H. Baisan. 2003. Tree-ring
+reconstructions of ﬁre and climate history in the
+Sierra Nevada and Southwestern United States.
+Pages 158–195 in T. T. Veblen, W. L. Baker,
+G. Montenegro, and T. W. Swetnam, editors. Fire
+and climate in temperate ecosystems of the western
+Americas. Springer-Verlag, New York, New York,
+USA.
+Swetnam, T. W., C. H. Baisan, and J. M. Kaib. 2001.
+Forest ﬁre histories of the sky islands of La
+Frontera. Pages 95–119 in G. L. Webster and C. J.
+Bahre, editors. Changing plant life of La Frontera:
+observations on vegetation in the United States/
+Mexico borderlands. University of New Mexico
+Press, Albuquerque, New Mexico, USA.
+Swetnam, T. W., and J. L. Betancourt. 1990. Fire –
+Southern Oscillation relations in the southwestern
+United States. Science 249:1017–1020.
+Swetnam, T. W., and J. L. Betancourt. 1998. Mesoscale
+disturbance and ecological response to decadal
+climatic variability in the American Southwest.
+Journal of Climate 11:3128–3147.
+Taylor, A. H., and R. M. Beaty. 2005. Climatic
+inﬂuences on ﬁre regimes in the northern Sierra
+Nevada Mountains, Lake Tahoe Basin, Nevada,
+USA. Journal of Biogeography 32:425–438.
+Taylor, A. H., V. Trouet, C. N. Skinner, and S. Ste-
+phens. 2016. Socioecological transitions trigger ﬁre
+regime shifts and modulate ﬁre-climate interac-
+tions in the Sierra Nevada, USA, 1600–2015 CE.
+Proceedings of the National Academy of Sciences
+113:13684–13689.
+Trouet, V., A. H. Taylor, E. R. Wahl, C. N. Skinner, and
+S. L. Stephens. 2010. Fire-climate interactions in the
+American
+West
+since
+1400
+CE.
+Geophysical
+Research Letters 37:L04702.
+van Horne, M. L., and P. Z. Fule. 2006. Comparing
+methods of reconstructing ﬁre history using ﬁre
+scars in a southwestern United States ponderosa
+pine forest. Canadian Journal of Forest Research
+36:855–867.
+Westerling, A. L., H. G. Hidalgo, D. R. Cayan, and
+T. W. Swetnam. 2006. Warming and earlier spring
+increase
+western
+U.S.
+forest
+wildﬁre
+activity.
+Science 313:940–943.
+ ❖www.esajournals.org
+12
+March 2017 ❖Volume 8(3) ❖Article e01709
+YOCOM KENT ET AL.
+
+Woodhouse, C. A., J. L. Russell, and E. R. Cook. 2009.
+Two modes of North American drought from
+instrumental and paleoclimatic data. Journal of
+Climate 22:4336–4347.
+Yocom, L. L., and P. Z. Fule. 2012. Human and climate
+inﬂuences on frequent ﬁre in a high-elevation tropi-
+cal forest. Journal of Applied Ecology 49:1356–1364.
+Yocom, L., P. Z. Fule, P. M. Brown, J. Cerano-Paredes,
+J. Villanueva, E. Cornejo-Oviedo, and D. A. Falk.
+2010. El Ni~no-Southern Oscillation effect on a ﬁre
+regime in northeastern Mexico has changed over
+time. Ecology 91:1660–1671.
+Yocom, L. L., P. Z. Fule, D. A. Falk, E. Cornejo-Oviedo,
+P. M. Brown, J. Villanueva Dıaz, J. Cerano, and
+C. Cortes Monta~no. 2014. Fine-scale factors inﬂu-
+ence ﬁre regimes in mixed-conifer forests on three
+high mountains in Mexico. International Journal of
+Wildland Fire 23:959–968.
+SUPPORTING INFORMATION
+Additional Supporting Information may be found online at: http://onlinelibrary.wiley.com/doi/10.1002/ecs2.
+1709/full
+ ❖www.esajournals.org
+13
+March 2017 ❖Volume 8(3) ❖Article e01709
+YOCOM KENT ET AL.

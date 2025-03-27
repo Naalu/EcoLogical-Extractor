@@ -1,0 +1,660 @@
+The Relationship of Tree 
+Oversfory and Herbaceous 
+Undersfory 
+Vegetation 
+DONALD 
+A. JAMESON 
+Principal 
+Plant Physiologistl, 
+Rocky 
+Mountain 
+Forest 
+and 
+Range 
+Ex- 
+periment 
+Station, Flagstaff, 
+Arizona. 
+Highlight 
+For study of the effecf of frees on 
+undersfory 
+vegetation 
+a good math- 
+ematical 
+equation 
+is very 
+helpful. 
+This 
+article 
+presenis 
+an 
+equation 
+which fits oversfory-undersfory 
+data 
+better 
+than 
+previously 
+used 
+equa- 
+iions. 
+Trees 
+adversely 
+affect 
+the 
+growth 
+of herbaceous 
+plants 
+around them; clearings 
+in a for- 
+est produce 
+much more herbace- 
+ous material 
+than 
+do similar 
+areas with 
+a dense 
+tree cover. 
+Because of competition 
+for light, 
+water, 
+and nutrients, 
+and pos- 
+sible antagonistic 
+chemical 
+ef- 
+fects, this inverse relationship 
+is 
+entirely reasonable 
+and has often 
+been reported 
+in the literature. 
+A few examples 
+are the ponde- 
+rosa pine 
+(Pinus 
+ponderosaJ2 
+ranges 
+of South 
+Dakota 
+(Pase, 
+1958)) Oregon 
+(McConnell 
+and 
+Smith, 1965)) and Arizona 
+(Rey- 
+nolds, 
+1962; 
+Pearson, 
+1964) ; 
+southern 
+pine ranges 
+(Gaines et 
+al., 1954; Halls 
+and Schuster, 
+1 Research 
+reported 
+here 
+was con- 
+ducted 
+at 
+the 
+Station’s 
+project 
+headquarters 
+at Flagstaff, 
+in co- 
+operation 
+with 
+Northern 
+Arizona 
+University; 
+central 
+headquarters 
+are maintained 
+at Fort Collins 
+in 
+cooperation 
+with 
+Colorado 
+State 
+University. 
+2 Nomenclature 
+follows Kearney and 
+Peebles 
+(1960). 
+1965) ; hardwood 
+areas in Mis- 
+souri (Ehrenreich 
+and Crosby, 
+1960) ; and chaparral 
+and wood- 
+land 
+ranges 
+of Arizona 
+(Pond, 
+1961; Arnold 
+et al., 1964). Math- 
+ematical 
+expressions 
+of the rela- 
+tionship 
+between 
+trees and the 
+herbaceous 
+understory 
+do not 
+point out the basic causes of the 
+relationship; 
+nevertheless, 
+they 
+have many useful applications. 
+Several 
+investigators 
+have 
+fitted 
+regression 
+lines 
+to their 
+data. 
+The 
+measurement 
+of 
+trees is taken as the independent 
+variable 
+(x) 
+and the measure- 
+ment of herbage 
+as the depend- 
+ent variable 
+(y) . The relation- 
+ship between 
+these variables 
+is 
+clearly 
+curvilinear, 
+and mathe- 
+matical 
+models 
+published 
+in- 
+clude log y = a + bx, y = a + b 
+log (x+l),andy=a+bx+ 
+cx2. The model 
+y = 
+a + b log 
+(Kx + 1) has also been suggested 
+(Batschelet, 
+1966). Other models 
+could also be fitted; for example, 
+y = a + bx + cx2 + dx3 gives a 
+good fit in some cases. 
+All of these models were tried 
+with three sets of Arizona 
+data, 
+and none were satisfactory. 
+The 
+simpler models generally 
+gave a 
+poor fit with the data, especially 
+as x approached 
+zero. The poly- 
+nomial 
+models 
+were illogical, 
+a 
+fact which 
+became 
+very 
+appar- 
+ent as the computed 
+lines were 
+extended 
+beyond 
+the limits 
+of 
+the data. 
+Recently, 
+Grosenbaugh 
+(1965) 
+included 
+as one of several 
+gen- 
+eralized 
+growth 
+functions 
+a 5- 
+parameter 
+transition 
+sigmoid 
+growth 
+curve given by 
+where X is the independent 
+vari- 
+able, Y is the estimated value of 
+the dependent 
+variable, 
+and H 
+and A are the upper and lower 
+asymptotes, 
+respectively. 
+B pro- 
+vides the necessary curvature, 
+M 
+adjusts the inflection 
+point, and 
+G adjusts the value of X so that 
+X- 
+G = 0 when Y = H. 
+For overstory-understory 
+rela- 
+tionships, 
+the X origin 
+may be 
+taken as zero so that G = 0. Also 
+the sigmoid shape (M > 0) may 
+not be necessary, 
+so that values 
+of M > -1 were allowed, 
+that is, 
+(M + 1) > 0. For 0 < (M + 1) 
+< 
+1 the inflection 
+point 
+has a 
+negative 
+abscissa value, and the 
+curves 
+are concave 
+upward 
+in 
+the first quadrant. 
+Three 
+sets of data were used 
+for computation. 
+The collection 
+of two of the sets was described 
+by Pearson 
+(1964). 
+These 
+data, 
+were 
+collected 
+in a ponderosa 
+pine forest in northern 
+Arizona. 
+Basal area of trees was measured 
+with a lo-factor 
+prism using the 
+plotless 
+“Bitterlich” 
+method 
+(Grosenbaugh, 
+1952). Basal area 
+ranged 
+from 
+10 ft2 through 
+200 
+ft2/acre. 
+Tree canopy 
+cover was 
+also measured at each point with 
+a canopy 
+mirror 
+(Lemmon, 
+1956). In addition, 30 points were 
+taken 
+at random 
+in a cleared 
+area. At each point all herbace- 
+ous vegetation 
+from a 9.6-ft2 cir- 
+cular plot was clipped to ground 
+level, ovendried 
+at 104 C for 48 
+
+248 
+JAMESON 
+hr, and weighed. About 36% of 
+the weight of the herbaceous ma- 
+terial was made up of Arizona 
+fescue (Festuca arizonica) 
+and 
+49% of mountain muhly (Muh- 
+Zenbergia montana). The remain- 
+ing 15% included 4 species of 
+grass, 1 sedge, and some 40 forbs. 
+y z 672 
+- 626 
+(I - e -‘o4*x)5’4 
+(X = Ponderoso 
+pine 
+basal 
+areo) 
+The results of these clippings 
+were first averaged 
+for each 
+basal area class, and expressed 
+as total pounds of herbage per 
+acre. The data were then re- 
+grouped by canopy classes, and 
+the average herbage weights for 
+each class were determined for 
+the second set of data. 
+IOO- 
+The third set of data was from 
+Arnold et al. (1964). These data 
+were collected at 14 locations in 
+the pinyon-juniper 
+(Pinus 
+edu- 
+Zis, Juniperus spp.) type in north- 
+ern and central Arizona. A total 
+of 220 50-ft transects were mea- 
+sured. Tree cover was measured 
+with the line intercept technique 
+of Canfield (1941). Herbage sam- 
+ples were obtained by clipping a 
+4-inch strip along each transect. 
+Important herbaceous species in- 
+cluded blue grama (Bouteloua 
+gracilis) and herbaceous portions 
+of snakeweed (Gutierrexia 
+saro- 
+the.) 
+The results of these clip- 
+pings were grouped by cover 
+classes, and 
+means 
+of 
+each 
+canopy class were calculated. 
+015 
+.I5 
+l 
+9 
+.9 
+‘2 
+-5 
+.2 
+00 
+20 I 
+40 1 
+60 I 
+60 I 
+100 
+I 
+120 
+I 
+140 
+I 
+J 
+160 
+I60 
+200 
+700 
+F 
+Basal 
+Area 
+(square 
+feet 
+per acre) 
+30 
+B 
+y = 662 - 643 
+(, -e -.o76x)3’4 
+(X =Ponderoso 
+pine 
+canopy 
+cover) 
+A computer program3 was de- 
+signed to approximate values of 
+B and M + 1 in the equation by 
+iteration, and solve for H and A 
+in the usual least squares pro- 
+cedure for regression equations. 
+For the three sets of data, the 
+best fit, with the equations, is 
+shown in Fig. 1. The curve for 
+pine basal area (Fig. 1A) was the 
+only one that was sigmoid. 
+When X = 0 the maximum 
+departure of Y from the actual 
+plot values was 9 lb/acre, and 
+the curve fit the data well along 
+the rest of the lines. Since the 
+3 The computer 
+program 
+was written 
+in FORTRAN 
+II-D 
+for 
+the 
+IBM 
+1620, 20 K storage. 
+Copies of the 
+program 
+can be obtained 
+from the 
+author, 
+although 
+other 
+available 
+programs 
+can also be used. 
+-15 
+-10 
+‘17 
+16 
+.,?I 
+I3 
+*I2 
+‘I4 
+‘12 
+-11 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+1 
+20 
+30 
+40 
+50 
+60 
+70 
+60 
+90 
+100 
+Canopy 
+(percent) 
+C 
+- h 
+Y=597-527(l-e-.036Xf'2 
+if 
+:500 
+(X=Pinyon 
+8 juniper 
+canopy 
+cover) 
+‘5 
+-4 
+l 
+4 
+.2 
+OO 
+IO 
+I 
+20 
+I 
+30 
+I 
+40 
+I 
+50 
+1 
+60 
+I 
+70 
+I 
+60 
+1 
+4 
+90 
+100 
+1 
+Canopy 
+( percent 1 
+curves do fit the data well, this 
+model for overstory-understory 
+model is suggested as a general 
+relationships. 
+FIG. 1. Relationship 
+of herbage 
+production 
+(Y) 
+to tree 
+measurements 
+(X). 
+Num- 
+bers 
+near 
+the data 
+points 
+refer 
+to the 
+number 
+of plots for the class. 
+
+OVERSTORY-UNDERSTORY 
+249 
+LITERATURE 
+CITED 
+ARNOLD, JOSEPH F., DONALD A. JAME- 
+SON, AND ELBERT H. REID. 1964. The 
+pinyon-juniper 
+type 
+of Arizona; 
+effects 
+of grazing, 
+fire, 
+and tree 
+control. U.S. Dep. Agr. Prod. Res. 
+Rep. No. 84. 28 p. 
+southern Alabama. 
+Ecology 35: 59- 
+62. 
+BATSCHELET, EDWARD. 1966. The ap- 
+plication 
+of mathematics 
+to bio- 
+logical problems. Bioscience 
+16: 22- 
+0” 
+C:;FIELD, R. H. 1941. Application 
+of 
+the line 
+interception 
+method 
+in 
+sampling range vegetation. J. For- 
+est. 39: 388-394. 
+EHRENREICH, JOHN H., AND JOHN S. 
+CROSBY. 1960. Herbage 
+production 
+is 
+related 
+to 
+hardwood 
+crown 
+cover. J. Forest. 58: 564-565. 
+GAINES, E. M., R. S. CAMPBELL, AND 
+J. J. BRASINGTON. 1954. Forage pro- 
+duction on longleaf 
+pine stands of 
+GROSENBAUGH, L. R. 1952. Plotless 
+timber estimates-new, 
+fast, easy. 
+J. Forest. 50: 32-37. 
+GROSENBAUGH, 
+L. R. 1965. Generaliza- 
+tion 
+and 
+reparameterization 
+of 
+some sigmoid and other nonlinear 
+functions. Biometrics 
+21: 708-714. 
+HALLS, LOWELL K., AND JOSEPH L. 
+SCHUSTER. 1965. Tree-herbage 
+rela- 
+tions in pine-hardwood 
+forests of 
+Texas. J. Forest. 63: 282-283. 
+KEARNEY, THOMAS H., AND ROBERT H. 
+PEEBLES. 1960. Arizona Flora. 2 ed. 
+Univ. 
+Calif. 
+Press. 
+Berkeley. 
+1,085 p. 
+three years after thinning pine. J. 
+Range Manage. 18: 129-132. 
+PASE, C. P. 1958. Herbage production 
+and composition 
+under immature 
+ponderosa pine stands in the Black 
+Hills. 
+J. Range 
+Manage. 
+11: 238- 
+243. 
+PEARSON, HENRY A. 1964. Studies of 
+forage digestibility 
+under pondero- 
+sa pine stands. 
+1964. Sot. Amer. 
+Forest. Proc. p. 71-73. 
+POND, FLOYD W. 1961. Basal 
+cover 
+and production 
+of weeping 
+love- 
+grass under 
+varying 
+amounts 
+of 
+shrub 
+live 
+oak crown 
+cover. 
+J. 
+Range Manage. 14: 335-337. 
+LEMMON, P. E. 1956. A 
+spherical 
+densiometer 
+for estimating 
+forest 
+overstory 
+density. 
+Forest 
+Sci. 2: 
+314-320. 
+MCCONNELL, BURT R., AND JUSTIN G. 
+SMITH. 1965. Understory 
+response 
+REYNOLDS, HUDSON G. 1962. Effect of 
+logging 
+on understory 
+vegetation 
+and deer use in a ponderosa 
+pine 
+forest of Arizona. U.S. Forest Serv. 
+Rocky 
+Mountain 
+Forest & Range 
+Exp. Sta. Res. Note 80, 7 p. Fort 
+Coilins, Colo. 

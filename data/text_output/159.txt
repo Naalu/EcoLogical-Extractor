@@ -1,0 +1,1534 @@
+Populus tremuloides mortality near the southwestern edge of its range
+Thomas J. Zegler a,⇑, Margaret M. Moore a, Mary L. Fairweather b, Kathryn B. Ireland a, Peter Z. Fulé a
+a School of Forestry, Northern Arizona University, Flagstaff, AZ 86011, USA
+b USDA Forest Service, Arizona Zone of Forest Health Protection, Flagstaff, AZ 86011, USA
+a r t i c l e
+i n f o
+Article history:
+Received 3 May 2012
+Received in revised form 5 July 2012
+Accepted 5 July 2012
+Available online 2 August 2012
+Keywords:
+Quaking aspen
+Decline
+Conifer encroachment
+Canker disease
+Wood-boring insect
+Ungulate herbivore
+a b s t r a c t
+Mortality and crown dieback of quaking aspen (Populus tremuloides) were extensive on the Williams Ran-
+ger District, Kaibab National Forest in northern Arizona. We collected data from a random sample of 48
+aspen sites to determine the relationship of predisposing site and stand factors and contributing agents to
+ramet mortality. Mortality of overstory (P10.1 cm DBH) aspen stems averaged 50% (44% by basal area).
+Pine–oak type aspen stands suffered greater basal area mortality (57%) than stands in mixed conifer type
+(38%). An average of 48% of live overstory aspen stems had >33% crown dieback, and mortality signiﬁ-
+cantly increased with increasing crown dieback. Based upon univariate relationships, elevation was the
+most signiﬁcant site factor and relative conifer basal area was the most signiﬁcant stand factor related
+to overstory mortality. Canker diseases and wood-boring insects were signiﬁcantly related to overstory
+mortality. Sapling (P5.1–10.1 cm DBH) and tall regeneration (<5.1 cm DBH) aspen mortality were high
+(>80% and 70%, respectively), while short regeneration (<1.37 m tall) mortality was low (16%). Many sites
+did not have live aspen sapling or tall regeneration stems; therefore, relationships were often inconclu-
+sive or weak. Based on a null size–density model, there was a lack of tall regeneration, sapling, and 10.1–
+15 cm DBH overstory aspen recruitment. Multiple regression was used to explore multivariate relation-
+ships among aspen mortality and site, stand, and damaging agent factors. Forest type, relative conifer
+basal area, and incidence of canker diseases and wood-boring insects were signiﬁcantly associated with
+overstory mortality. Slope, relative conifer density, and incidence of animal damages were signiﬁcantly
+associated with short regeneration mortality. Ungulate damages to aspen stems were common across
+all size classes, but signiﬁcant relationships were limited to short regeneration mortality. The Southwest
+is forecasted to transition to a more arid climate, and aspen in pine–oak sites are already experiencing a
+population crash. If high mortality and low recruitment continues, conifer will replace aspen stands after
+overstory aspen stems die.
+ 2012 Elsevier B.V. All rights reserved.
+1. Introduction
+Mortality of quaking aspen (Populus tremuloides) has rapidly in-
+creased over the past 15 years in parts of western North America
+(Fairweather et al., 2008; Hogg et al., 2008; Worrall et al., 2008).
+In many western landscapes, aspen is the principal upland decidu-
+ous tree species and is biologically and economically important be-
+cause it provides disproportionally high amounts of critical plant
+and animal habitat and esthetics (White et al., 1998; Romme
+et al., 2001; McCool, 2001). Therefore, the loss of aspen is a loss
+of biodiversity and landscape diversity and has the potential to
+negatively impact local economies.
+As a concept, the loss of aspen trees and stands over time suffers
+from loose usage of terminology. Forest scientists use the term
+‘‘aspen decline’’ to describe reduction in aspen forest type on a
+broad range of temporal and spatial scales, driven mostly by suc-
+cessional processes under altered disturbance regimes (Bartos
+and Campbell, 1998; Kulakowski et al., 2004; Di Orio et al.,
+2005). Worrall et al. (2008) coined the term ‘‘sudden aspen de-
+cline’’ (SAD) to distinguish the rapid and synchronous mortality
+of aspen on a landscape-scale in Colorado from the slower succes-
+sional processes described by Bartos and Campbell (1998) and oth-
+ers. Similar discrete episodes of heavy aspen mortality have been
+reported in parts of Arizona, Utah, and the prairie provinces of
+Canada (Gitlin et al., 2006; Guyon, 2006; Fairweather et al.,
+2008; Hogg et al., 2008).
+The conceptual framework of a decline disease is a useful way
+to categorize the causes of large-scale episodes of abrupt aspen
+mortality (Frey et al., 2004). Forest pathologists deﬁne a tree de-
+cline disease as rapid mortality of a tree species due to a complex
+of predisposing, inciting, and contributing factors (Manion, 1991;
+Manion and LaChance, 1992). Predisposing factors are long-term,
+slowly changing factors (e.g., site and stand conditions). Inciting
+factors are short-term factors that cause acute stress (e.g., episodic
+drought). Contributing factors are mostly biological agents (e.g.,
+fungi and insects) that kill trees already weakened by predisposing
+and inciting factors (Worrall et al., 2008). Trees affected by any one
+0378-1127/$ - see front matter  2012 Elsevier B.V. All rights reserved.
+http://dx.doi.org/10.1016/j.foreco.2012.07.004
+⇑Corresponding author. Tel.: +1 619 607 3397; fax: +1 928 523 1080.
+E-mail address: tzegler2@yahoo.com (T.J. Zegler).
+Forest Ecology and Management 282 (2012) 196–207
+Contents lists available at SciVerse ScienceDirect
+Forest Ecology and Management
+journal homepage: www.elsevier.com/locate/foreco
+
+type of factor do not suffer from a decline disease; a decline disease
+is characterized by the interacting effect of many factors. This is
+why the decline disease concept is not an appropriate frame for
+long-term, successional aspen decline. In the case of aspen decline
+disease (abrupt, heavy aspen mortality consistent with a tree de-
+cline disease), previous workers across western North America
+have already identiﬁed many of the probable predisposing, incit-
+ing, and contributing factors (see Frey et al., 2004; Kashian et al.,
+2007; Fairweather et al., 2008; Hogg et al., 2008; Worrall et al.,
+2008, 2010; Rehfeldt et al., 2009; St. Clair et al., 2010; Marchetti
+et al., 2011).
+Arizona and northern Mexico contain the southwestern edge of
+contiguous aspen habitat in North America (Burns and Honkala,
+1990), and, as a result, aspen stands at this edge often grow on war-
+mer and drier sites than stands in the more northerly parts of its
+geographical range. The northern and central regions of Arizona
+have experienced recent aspen crown dieback, defoliation, and
+mortality over thousands of hectares (Gitlin et al., 2006; Fairweath-
+er et al., 2008). The extent of aspen dieback and/or defoliation in
+Arizona detected by Forest Health Protection (FHP) aerial survey in-
+creased from 27,100 ha in 2006 to 49,800 ha in 2008 (USDA For-
+est Service, 2007, 2008, and 2009). Of the dieback and/or defoliation
+detected in 2008, 53% occurred on the Kaibab National Forest.
+Fine-scale (site-level) aspen mortality information has been
+gathered in parts of Arizona. Gitlin et al. (2006) examined local
+and regional patterns of drought-associated mortality near Flag-
+staff, AZ and found that average mortality of aspen by site varied
+from 7–24%, with an average of 18% at lower elevation sites and
+9% at higher elevation sites. On the Coconino National Forest in
+northern Arizona, Fairweather et al. (2008) reported a cumulative
+mortality level of 55% between 2000 and 2007, with 95% mortality
+in low-elevation xeric sites (<2300 m), 61% mortality in mid-eleva-
+tion sites (2300–2600 m), and 16% mortality in high-elevation me-
+sic sites (>2300 m). On the Apache-Sitgreaves National Forest in
+eastern Arizona, cumulative mortality was 46% between 2001
+and 2006 (M. Fairweather, USFS FHP, May 2011, unpublished
+observation). All studies noted an accelerated rate of mortality fol-
+lowing a frost event in June 1999 and severe drought and high
+temperatures during the growing season in 2002. Additionally,
+canker diseases and wood-boring and defoliating insects contrib-
+uted to the mortality of already stressed aspen (Fairweather
+et al., 2008), while wild ungulate browsing severely limited aspen
+sucker height growth (Bailey and Whitham, 2002; Fairweather
+et al., 2008). Although some site-level information about aspen
+mortality has been collected in Arizona, the relationships among
+aspen mortality to speciﬁc biotic and abiotic factors (damaging
+agents) at the southwestern fringe of contiguous aspen habitat
+are still largely speculative. Furthermore, site-level information
+for the Kaibab National Forest (west of both the Coconino and
+Apache-Sitgreaves National Forests) is practically unknown.
+To investigate the extent and characteristics of aspen mortality
+on a landscape located near the southwestern edge of its contigu-
+ous range, we quantiﬁed the current condition of aspen stands on
+the south zone of the Kaibab National Forest. Our objectives were
+to: (i) determine the current structure, composition, and mortality
+and crown dieback levels of aspen stands; and (ii) examine how
+predisposing site and stand factors and contributing agents relate
+to aspen mortality.
+2. Methods
+2.1. Study area
+The study area was the Williams Ranger District of the Kaibab
+National Forest in northern Arizona (Fig. 1), located near the cities
+of Williams and Flagstaff. Aspen stands are distributed over
+382,400 ha, but occupy only <1% of that area (970 ha in 330
+loosely deﬁned stands). The majority of stands are discontinuous
+and small (0.1–25 ha) and occur at lower elevations (<2400 m).
+Larger stands tend to occur on north-facing slopes at higher eleva-
+tions (>2400 m) on Bill Williams, Kendrick, and Sitgreaves Moun-
+tains. Aspen stands are intermingled with Gambel oak (Quercus
+gambelii) and ponderosa pine (Pinus ponderosa) at lower elevations,
+and white pine (Pinus strobiformis or Pinus ﬂexilis var. reﬂexa),
+Douglas-ﬁr (Pseudotsuga menziesii var. glauca), white ﬁr (Abies con-
+color var. concolor), and corkbark ﬁr (Abies lasiocarpa var. arizonica)
+at higher elevations. Pure aspen stands are rare, and the Kaibab
+National Forest has not formally deﬁned aspen-dominated forest
+types (e.g., aspen forests in parts of Colorado, Utah, and Wyoming).
+Therefore, the two dominant forest types that contain aspen are
+low-elevation pine–oak and high-elevation mixed conifer.
+The Williams Ranger District is browsed and grazed by domes-
+tic cattle and sheep (Family: Bovidae) and wild deer and elk
+(Family: Cervidae). Domestic ungulate use is managed by a permit
+system, with contract speciﬁcations on location, number of ani-
+mals, and duration of use. Wild ungulate grazing is unregulated;
+deer and elk graze the study area year-round, except when they
+move to lower elevations to escape deep snow.
+2.2. Site selection
+We used stratiﬁed random sampling proportional to aspen’s
+distribution to select a subset of aspen sites across the Williams
+Ranger District. Based upon a digital elevation model and a map
+of the distribution of aspen stands (provided by Williams Ranger
+District personnel), we stratiﬁed aspen stands by two elevation
+(62400 m;>2400 m), two slope (628%;>28%), and ﬁve aspect (ﬂat,
+north, east, south, and west) classes. These classes were then com-
+bined into 20 unique strata and we selected a random sample of
+201 potential sampling points (site centers) based upon the pro-
+portion of each stratum to the total population (ArcGIS, Sampling
+tool). Therefore, common strata received more potential sampling
+points but a diverse range of stands were selected for sampling.
+Of the 201 potential sampling points, we sampled 48 sites and
+rejected 153 sites for the following reasons: (i)<10 standing live
+or dead aspen stems (n = 66); (ii)<200 m from a previously in-
+stalled site (n = 36); (iii)>4 h hike (n = 24); (iv) within a ﬁre closed
+area (n = 15); (v) within an ungulate exclosure (n = 10); or (vi) high
+human impact (n = 2). We decided to sample areas open to ungu-
+late browsers because an analysis of exclosed versus unexclosed
+sites was beyond the scope of this study.
+2.3. Plot design and data collection
+We used a nested plot design adapted from Brown et al. (2006)
+to collect detailed site, stand, and damaging agent data. At each site
+to be sampled, we established four 8 m radius overstory plots
+(0.02 ha) at cardinal directions 20 m from the site center. Within
+each of the 8 m subplots, one 4 m radius nested regeneration plot
+(0.005 ha) was installed. The site was the sampling unit; all data
+from the 8 and 4 m plots were combined and converted to a per-
+hectare basis (Brown et al., 2006).
+Site center was permanently marked with rebar, tagged, and
+geo-referenced with a global positioning system. Elevation, percent
+slope, aspect, and forest type were recorded at site center. Sites
+were assigned as pine–oak if aspen were present with only Gambel
+oak and/or ponderosa pine, and as mixed conifer if aspen were
+present with only two or more conifer species.
+Stems P10.1 cm in diameter measured at 1.37 m above ground
+(diameter at breast height, DBH) were deﬁned as ‘‘overstory’’. Tree
+species, condition class, DBH, crown dieback, and damaging agent
+T.J. Zegler et al. / Forest Ecology and Management 282 (2012) 196–207
+197
+
+variables were collected for overstory stems. Condition class cate-
+gories for all tree species were live and standing dead. Stems with
+any amount of green foliage or live cambial tissue were ‘‘live’’ even
+though death may have been imminent. Percent crown dieback
+was estimated only for live aspen. We estimated based upon the
+percentage of dead branches in the tree crown in three classes:
+light (0–33%), moderate (34–66%), and heavy (67–100%). Incidence
+of disease, insect, and abiotic and animal damages (Ostry et al.,
+1989) were collected for all live and dead aspen with bark present.
+Damaging agents were identiﬁed by signs and symptoms. Recently
+dead stems were included because the signals of many damaging
+agents cited in previous research to be ‘‘important’’ are detectable
+even with minimal bark (Ostry et al., 1989). A maximum of three
+present and harmful damaging agents per stem were recorded
+(Steed and Kearns, 2010). When more than three damaging agents
+were apparent, preference was given to agents with the greatest
+severity of impact. Damaging agents were collected individually
+and then pooled into disease, insect, and abiotic and animal dam-
+age groups (Appendix A) to create site averages. Of the animal
+damages caused by ungulates, ‘‘barking and rubbing’’ is only
+known to occur from members of the cervidae family (Debyle,
+1985), which here include Rocky Mountain elk and white-tailed
+and mule deer.
+We divided regeneration stems into three size classes and de-
+ﬁned each as ‘‘sapling’’ (P5.1–10.1 cm DBH), ‘‘tall regeneration’’
+(<5.1 cm DBH), and ‘‘short regeneration’’ (<1.37 m tall). The short
+regeneration class was determined by height alone because the
+height of aspen suckers, rather than the age or diameter, is a better
+indicator of the likelihood of recruitment into the canopy (Baker
+et al., 1997). Tree species, condition class, and damaging agent
+variables were collected for sapling, tall regeneration, and short
+regeneration stems. For tall and short regeneration stems, the inci-
+dence of a maximum of three present and harming individual dam-
+aging agents were tallied for aspen in each class, and then pooled
+into groups to create site averages. We were not able to distinguish
+between the ‘‘browsing’’ and ‘‘trampling’’ damages of domestic
+versus wild ungulates.
+2.4. Data analysis
+We selected a set of predisposing and contributing factors sug-
+gested by previous research to be associated with aspen decline
+disease (Frey et al., 2004; Table 1). Data from the four plots per site
+were used to calculate mean aspen DBH, total tree and aspen only
+live density, total tree and aspen only live basal area (BA), relative
+conifer density and/or BA among living stems, grouped damaging
+agent percentages, and percent aspen stem and/or BA mortality.
+Raw aspect was transformed into a continuous scaled variable with
+a 0–2 range (set to maximum for northeast slopes) following the
+equations in Beers et al. (1966). This was necessary to calculate
+‘‘heat load’’ following the methods outlined in McCune and Keon
+(Equation 3, 2002). Heat load is an index of temperature based
+on steepness of slope, aspect about a northeast-southwest line,
+and latitude. JMP 8.0.2 (SAS Institute, 2009) was used for all anal-
+yses and signiﬁcance for all tests was set at a = 0.05.
+Fig. 1. Locations of aspen study sites on the Williams Ranger District, Kaibab National Forest, Arizona.
+198
+T.J. Zegler et al. / Forest Ecology and Management 282 (2012) 196–207
+
+Two-tailed t-tests were used to test differences between contin-
+uous variables in the pine–oak and mixed conifer forest types. The
+Wilcoxon rank-sum test was used when normality assumptions
+were not met. Tukey’s honestly signiﬁcant difference was used
+for multiple comparisons of means among overstory, sapling, tall
+regeneration, and short regeneration aspen mortality. Paired,
+two-tailed t-tests were used to compare live versus dead aspen
+DBH and density.
+Simple linear regression was used to determine the univariate
+relationships
+between
+variables
+(Zegler,
+2011).
+Relationships
+among explanatory variables were used to check for collinearity.
+Percent aspen BA mortality was the overstory response variable
+and percent aspen stem mortality was the response variable for
+regeneration classes. The explanatory variables for overstory and
+regeneration tests were site, stand, and damaging agent factors
+(Appendices A and B). For the ordinal variable ‘‘forest type’’, indica-
+tor (dummy) variables were used: pine–oak type = 0 and mixed
+conifer type = 1. All 48 sites were used for overstory mortality anal-
+yses. Regeneration mortality analyses were problematic because of
+small sample sizes, many 100% mortality values, and possible non-
+linear relationships. Sample size was: n = 32 (with 20 100% values)
+for sapling analyses; n = 24 (with 14 100% values) for tall regener-
+ation analyses; and n = 43 (with zero 100% values) for short regen-
+eration analyses. Additional tests with sample sizes limited to the
+sites where live sapling (n = 12) and tall regeneration (n = 10) as-
+pen stems occurred were run to remove 100% mortality values
+from sapling and tall regeneration analyses. For short regeneration,
+percent aspen stem mortality was log-transformed to meet
+assumptions of linearity.
+We used stepwise-forward multiple linear regression analyses
+to explore multivariate relationships of overstory and short regen-
+eration mortality as a function of site, stand, and contributing fac-
+tors. The stepwise regression technique allowed us to screen a
+large number of potentially useful explanatory variables to isolate
+those few that contribute most to the explanation of aspen mortal-
+ity; it is the ﬁrst step to more complex multivariate techniques. No
+models were produced for sapling or tall regeneration stems due to
+small sample sizes. Sample size was n = 35 for short regeneration
+mortality because ﬁve sites had no live or dead short regeneration
+aspen stems (5 null percentage values) and 8 sites had 0% mortality
+(8 null log-transformed values). Candidate explanatory variables
+were tested in various combinations using a probability of 0.05 to
+both enter and leave the model (Draper and Smith, 1998). Selected
+variables were ranked by how much variation each explained based
+upon F-values (Draper and Smith, 1998). Models were tested for
+homoscedasticity, normality, and variance inﬂation. Homoscedas-
+ticity of errors was validated by visual inspection of the predicted
+versus residual plot and a constant variance test. Normality of er-
+rors was validated by visual inspection of a normal quantile plot
+and a Shapiro–Wilk test. Calculations of the variance inﬂation factor
+showed no evidence of multicollinearity among explanatory vari-
+ables in each model. No outliers were identiﬁed from visual inspec-
+tion of residuals by predicted values and outlier box plots.
+3. Results
+3.1. Predisposing Site and Stand Factors
+During the summers of 2009 and 2010, 48 sites were sampled
+from a range of elevations, slopes, and aspects (Zegler, 2011;
+Appendix B). Site elevations ranged from 2094 to 2888 m. Percent
+slope ranged from 3 to 59, with a mean of 25. Aspen sites occurred
+on all aspects, but the majority of sites (59%) were on northerly as-
+pects (between 315 and 45). The average heat load was 0.91, and
+69% of sites were in the hotter and drier upper 20th percentile of
+the heat load scale (0.03–1.11). Results of regression among
+explanatory site factors showed that with increasing elevation,
+slope
+increased
+(R2 = 0.23,
+P = 0.0004),
+heat
+load
+decreased
+(R2 = 0.13, P = 0.01), and aspect was not signiﬁcant (P = 0.87). Of
+48 sites, 15 were in were in pine–oak and 33 were in mixed conifer.
+In the mixed conifer forest type, slope (P = 0.0002) was greater and
+heat load was lower (P = 0.03) than in pine–oak type. Most sites
+(63%) were within livestock grazing allotments.
+3.1.1. Overstory and univariate relationships
+Of the 48 sites, 47 had live aspen stems in the overstory class.
+Mean live aspen DBH (21.7 cm) was greater than dead aspen
+DBH (18.2 cm) (P < 0.0001). Mean aspen BA ranged from 0 to
+52 m2 ha1, with a median of 5.3 m2 ha1. Relative conifer BA for
+this size class was 67%. Aspen stem mortality averaged 50%, with
+59% in pine–oak and 45% in mixed conifer. Aspen BA mortality
+averaged 44%, with 57% in pine–oak and 38% in mixed conifer.
+Aspen stems with light, moderate, and heavy recent crown dieback
+averaged 52%, 28%, and 20%, respectively (48% had at least moder-
+ate crown dieback), and there was a positive relationship between
+BA mortality and crown dieback (R2 = 0.28, P < 0.0001). Aspen mor-
+tality decreased with elevation and increased with relative conifer
+BA. There was signiﬁcantly more mortality in pine–oak than mixed
+conifer type (Table 2), but there was no difference between relative
+conifer BA in pine–oak and mixed conifer type (P = 0.09).
+3.1.2. Regeneration and univariate relationships
+Of the 48 sites, 40 had stems in the sapling class, 32 had aspen
+saplings, and only 12 had live aspen saplings. Density of aspen sap-
+lings ranged from 0 to 298 stems ha1, with a median of 0 stems
+ha1. Relative conifer density for this size class was 85%. Sapling
+aspen stem mortality was 82%. Aspen mortality increased with
+relative conifer density (Table 2) and had no relationship with total
+Table 1
+List of predisposing, inciting, and contributing factors associated with abrupt
+mortality of aspen (adapted from Frey et al., 2004) and variables analyzed. All
+variables were measured at a discrete time and analyzed at the site spatial scale.
+Factor
+Scale of
+measurement
+Variable(s) analyzed
+Predisposing
+Climate
+–
+Not measured in this study
+Ecosite
+Continuous
+Elevation, slope, aspect, and heat
+loada
+Successional
+processes
+Continuous
+Relative conifer densityb and BAc (%)
+Stand structure
+Continuous
+DBHd (cm), height (m), density,
+and BA
+Stand compositione
+Ordinal
+Forest type (0–1)f
+Age
+–
+Not measured in this study
+Clonal aspects
+–
+Not measured in this study
+Inciting
+Drought
+–
+Not measured in this study
+Frost events
+–
+Not measured in this study
+Contributing
+Diseases
+Continuous
+Incidence of diseases (%)
+Insect borers
+Continuous
+Incidence of wood-boring insects (%)
+Insect defoliatorsg
+Continuous
+Incidence of defoliating insects (%)
+Abiotic damagesg
+Continuous
+Incidence of abiotic damages (%)
+Animal damagesg
+Continuous
+Incidence of animal damages (%)
+a Calculated; McCune and Keon (2002).
+b Density = stems ha1.
+c BA = basal area (m2 ha1).
+d DBH = diameter measured at 1.37 m above ground.
+e Not speciﬁcally addressed by Frey et al. (2004).
+f 0 = pine–oak, 1 = mixed conifer.
+g Considered inciting factors by Frey et al. (2004).
+T.J. Zegler et al. / Forest Ecology and Management 282 (2012) 196–207
+199
+
+live density (P = 0.06). Limiting the sample and analysis to sites
+with live aspen saplings produced a slight negative relationship
+with slope (Table 2).
+Of the 48 sites, 38 had stems in the tall regeneration class, 24
+had tall regeneration aspen stems, and only 10 had live tall regen-
+eration aspen stems. Density of tall regeneration aspen ranged
+from 0 to 3332 stems ha1, with a with a median of 0 stems
+ha1. Relative conifer density for this size class was 89%. Tall regen-
+eration aspen stem mortality was 72%. Aspen mortality decreased
+with elevation, slope, and total live density, and increased with
+heat load. The mixed conifer forest type tended to have less aspen
+mortality (Table 2). Except for heat load and total live density, the
+above relationships were also signiﬁcant when the sample was
+limited to sites with live tall regeneration aspen stems (Table 2).
+Of the 48 sites, all had stems in the short regeneration class
+and 43 had short regeneration aspen stems. Of these 43 sites,
+all had a live aspen component. Density of short regeneration as-
+pen ranged from 0 to 17,109 stems ha1, with a median of 1517
+stems ha1. Relative conifer density for this this size class was
+52%. Short regeneration aspen stem mortality was 16%. This level
+of mortality was signiﬁcantly lower than aspen mortality in other
+size classes (P < 0.0001 for all pair-wise comparisons). Aspen mor-
+tality decreased with slope, increased with relative conifer density
+(Table
+2),
+and
+had
+no
+relationship
+with
+total
+live
+density
+(P = 0.59).
+3.2. Size distributions
+We produced a size–density distribution of live and dead aspen
+trees by size class across all sites (Fig. 2). The best-ﬁt, negative
+exponential, null model was generated from the density of live
+aspen stems P 15.1 cm DBH. Based upon the best-ﬁt or expected
+line, there was a lack of live aspen stems in the tall regeneration,
+sapling, and smallest overstory (10.1–15 cm DBH) size classes.
+There were signiﬁcantly more dead than live aspen in the sapling
+and smallest overstory size classes (P < 0.0001 for both). Separate
+distributions of live and dead aspen were also determined for
+pine–oak and mixed conifer forest types (Fig. 3). Consistent with
+overall trends, there were signiﬁcantly more dead than live aspen
+in the sapling and smallest overstory size classes for both forest
+types (P < 0.05 for all). However, unlike the overall and mixed coni-
+fer distributions, pine–oak sites had more dead than live tall regen-
+eration aspen (P = 0.004). There was no signiﬁcant difference in the
+density of short regeneration aspen stems between pine–oak and
+mixed conifer (P = 0.19).
+3.3. Contributing damaging agents
+We collected data for 45 aspen damaging agents on individual
+aspen stems (Appendix A). We assessed 1805 overstory stems,
+115 sapling stems, 220 tall regeneration stems, and 2984 short
+regeneration stems for damaging agents, and analyzed damaging
+agents by site averages per damaging agent group. Fig. 4 provides
+a summary of the site averages of grouped damaging agent by size
+class. In general, canker diseases, wood-boring insects, and animal
+damages were the most common damaging agent groups for over-
+story and sapling aspen, while animal damages was the most com-
+mon agent group for tall and short regeneration aspen. Cytospora
+canker (Valsa sordida), sooty-bark canker (Encoelia pruinosa),
+bronze poplar borer (Agrilus liragus), ﬂathead poplar borer (Dicerca
+tenebrica), and ungulate damages were widespread and common.
+We observed high amounts of ungulate damages across all sites
+regardless of site location inside or outside of livestock grazing
+allotments (data not shown).
+3.3.1. Overstory and univariate relationships
+The top three damaging agent groups in the overstory class
+were wood-boring insects (68%), canker diseases (53%), and animal
+damages (51%) (Fig. 4). The top wood-boring insect was bronze
+poplar borer (24%), the top canker was Cytospora (27%), and the
+top animal damage was ungulate barking and rubbing (49%). Aspen
+mortality increased with canker diseases and wood-boring insects
+(Table 2) and had no relationship with animal damages (P = 0.12).
+3.3.2. Regeneration and univariate relationships
+The top three damaging agent groups in the sapling class were
+canker diseases (74%), animal damages (66%), and wood-boring in-
+sects (53%) (Fig. 4). The top canker was Cytospora (66%), the top
+animal damage was ungulate barking and rubbing (66%), and the
+top wood-boring insect was bronze poplar borer (30%). Aspen mor-
+tality had a slight positive relationship with canker diseases
+(Table 2) and no relationship with wood-boring insects (P = 0.08)
+or animal damages (P = 0.19). Limiting the sample and analysis to
+sites with live aspen saplings produced a slight positive relation-
+ship with wood-boring insects (Table 2).
+The tall regeneration class had two common damaging agent
+groups; animal damages (68%) and canker diseases (30%) (Fig. 4).
+The top animal damage was ungulate barking and rubbing (51%)
+and the top canker was Cytospora (28%). Aspen mortality increased
+with canker diseases (Table 2) and had no relationship with animal
+damages (P = 0.12). The relationship with canker diseases was also
+positive and signiﬁcant when the sample was limited to sites with
+live tall regeneration aspen stems (Table 2).
+Animal damages (58%) was the only common short regenera-
+tion class damaging agent group (Fig. 4). The top animal damage
+was ungulate browsing (58%). Aspen mortality increased with
+animal damages (Table 2).
+Table 2
+Signiﬁcant (a = 0.05) univariate relationships between aspen mortality and explan-
+atory factors.
+Factor
+Signa
+R2
+P-value
+Overstory BAb mortality (%)
+Elevation (m)
+
+0.24
+0.0004
+Forest type [0–1]c
+
+0.10
+0.0275
+Overstory relative conifer densityd (%)
++
+0.45
+<0.0001
+Overstory relative conifer BA (%)
++
+0.43
+<0.0001
+Overstory canker diseases (%)
++
+0.18
+0.0028
+Overstory wood-boring insects (%)
++
+0.56
+<0.0001
+Sapling stem mortality (%)
+Slope (%)e
+
+0.35
+0.0422
+Sapling relative conifer density (%)
++
+0.20
+0.0187
+Sapling canker diseases (%)
++
+0.16
+0.0341
+Sapling wood-boring insects (%)e
++
+0.35
+0.0423
+Tall regen stem mortality (%)
+Elevation (m)
+
+0.22
+0.0201
+Elevation (m)e
+
+0.57
+0.0115
+Slope (%)
+
+0.60
+<0.0001
+Slope (%)e
+
+0.56
+0.0127
+Heat loadf
++
+0.21
+0.0238
+Forest type (0–1)
+
+0.17
+0.0441
+Forest type (0–1)e
+
+0.81
+0.0004
+Tall regen total live density
+
+0.58
+<0.0001
+Tall regen canker diseases (%)
++
+0.27
+0.0091
+Tall regen canker diseases (%)e
++
+0.62
+0.0068
+Log (short regen stem mortality) (%)
+Slope (%)
+
+0.16
+0.0182
+Short regen relative conifer density (%)
++
+0.16
+0.0167
+Short regen animal damages (%)
++
+0.15
+0.0198
+a Sign indicates a positive (+) or negative () relationship.
+b BA = basal area (m2 ha1).
+c 0 = pine–oak, 1 = mixed conifer.
+d Density = stems ha1.
+e Sample size limited to sites where live aspen stems occurred.
+f McCune and Keon (2002); unitless index with 0.03–1.11 scale.
+200
+T.J. Zegler et al. / Forest Ecology and Management 282 (2012) 196–207
+
+3.4. Multiple regression models
+We examined multiple regression models for aspen mortality.
+The model for overstory mortality (Table 3) accounted for 78% of
+the variation based on adjusted R2 (F4,43 = 41.47, P < 0.0001). Mor-
+tality decreased from pine–oak to mixed conifer (F1,43 = 5.92) and
+increased with increasing relative conifer BA (F1,43 = 8.24) and
+higher incidences of canker diseases (F1,43 = 33.05) and wood-bor-
+ing insects (F1,43 = 33.29) (Table 3). The contributing damaging
+agents explained far more variation in mortality than predisposing
+factors.
+The model for short regeneration mortality (Table 3) accounted
+for 34% of the variation based on adjusted R2 (F3,31 = 6.80, P = 0.001).
+Mortality decreased with increasing slope (F1,31 = 4.90) and in-
+creased with increasing relative conifer density (F1,31 = 5.00) and
+higher incidence of animal damages (F1,31 = 6.85) (Table 3). The
+contributing damaging agent explained the most variation of the
+three variables, but the predisposing factors combined explained
+more variation mortality than the contributing damaging agent.
+4. Discussion
+Our results document extensive aspen crown dieback and mor-
+tality in the pine–oak and mixed conifer forests of the Williams Ran-
+ger District, Kaibab National Forest. Predisposing site and stand
+factors, and contributing damaging agents were signiﬁcantly related
+to aspen mortality, and contributed to the generally poor condition
+of aspen observed across the study area. These ﬁndings are consis-
+tent with the conceptual framework of a decline disease. The most
+important predisposing and contributing factors depended on the
+aspen size class, and, in general, aspen mortality related most
+strongly to relative conifer density or BA and damaging agents.
+4.1. Overstory
+The only signiﬁcant site factor related to overstory aspen mor-
+tality was elevation (inverse relationship), which spanned 800 m
+and is related to moisture availability (Pearson, 1920; Gitlin
+et al., 2006; McDowell et al., 2011; Vankat, 2011). Other site factors
+such as aspect, slope, and heat load were not strongly related to
+mortality because they did not represent a wide range of condi-
+tions (e.g., most sites were on north-facing slopes). Since the aspen
+stands occurred on relatively similar sites, stand factors and dam-
+aging agents were more important for describing mortality.
+Of the stand factors, only relative conifer BA and forest type
+were signiﬁcantly related to overstory aspen mortality. As relative
+conifer BA increased, so did aspen mortality. The gradual replace-
+ment of aspen by confers is a well-documented successional pro-
+cess (Baker, 1925; Mueggler, 1985; Jones, 1974; Rogers, 2002;
+Strand et al., 2009; and others). Aspen mortality was higher in
+the pine–oak than mixed conifer forest type. Because there was
+no difference in relative conifer BA between forest types, this dif-
+ference is likely explained by the higher elevations and more favor-
+able moisture conditions of the mixed conifer forest type. Though
+it was beyond the scope of this study, an analysis of how aspen
+mortality relates to climate variables is the next logical step, and
+we plan to explore the relationships between aspen annual
+ring growth and climate (especially drought) (see Hanna and
+Kulakowski, 2012).
+Damaging agents, speciﬁcally canker diseases and wood-boring
+insects, were the most important group of factors that explained
+overstory aspen mortality. Of the cankers, only two were wide-
+spread and common: Cytospora and sooty-bark. Sooty-bark is
+widely considered the most aggressive and primary killer of aspen
+in western North America, as it can kill an otherwise healthy ma-
+ture aspen stem in just a few years (Juzwik et al., 1978; Hinds,
+1985). While Cytospora canker and all of the wood-boring insects
+are important killers of aspen, they are secondary agents that at-
+tack after something else weakens host condition (Hart and Hart,
+2001; Frey et al., 2004). Despite a high level of animal wounding
+and the possible infection courts they provide (Hinds, 1985), over-
+story mortality did not have positive relationships with animal
+damages. This conﬂicts with a study conducted in northwestern
+Wyoming (Hart and Hart, 2001), but agrees with as study con-
+ducted in Rocky Mountain National Park (Baker et al., 1997).
+Fig. 2. Size–density distribution of live and dead aspen stems from 48 sites on the Williams Ranger District, Kaibab National Forest, Arizona. Expected line is a single, two
+parameter, negative exponential relationship. Error bars are ± standard error.
+T.J. Zegler et al. / Forest Ecology and Management 282 (2012) 196–207
+201
+
+The overstory aspen mortality levels we observed were gener-
+ally higher than those reported in other studies. This is remarkable
+because our sample of sites was random. We found 50% aspen stem
+mortality across all sites compared to: (i) 7% in the northern
+Rocky Mountains (Steed and Kearns, 2010); (ii) 26% in damaged
+stands across the Intermountain West (St. Clair et al., 2010); (iii)
+7% in healthy stands and 45% in damaged stands in southwest-
+ern Colorado (Worrall et al., 2010); (iv) 15% near Flagstaff, Ari-
+zona (Gitlin et al., 2006); and (v) 50% cumulative between 2000
+and 2007 in damaged stands in northern Arizona (M. Fairweather,
+USFS FHP, May 2011, unpublished observation).
+4.2. Regeneration
+In addition to high levels of overstory mortality, many of our
+sites did not have aspen sapling or tall regeneration stems, and a
+few sites had no aspen regeneration at all. This is intriguing be-
+cause death of the aspen overstory promotes vigorous vegetative
+regeneration
+through
+a
+well-documented
+hormonal
+process
+(Shier et al., 1985; Bartos, 2001). Our best explanations for miss-
+ing size classes (cohorts) include: (i) the positive association of
+root mortality with overstory mortality (Worrall et al., 2010). It
+is possible that the aspen stands in our study suffered extensive
+root mortality; (ii) the timing of the study compared to the
+death of the overstory. With the high amounts of browse ob-
+served on short regeneration aspen stems, the evidence may
+have been consumed; and (iii) past mortality events that af-
+fected these size classes (e.g., droughts or episodes of intense
+browsing similar to those detected by Binkley et al. (2006) on
+the North Kaibab).
+Mortality of aspen regeneration varied with size class. Sapling
+and tall regeneration aspen mortality were high (greater than
+80% and 70%, respectively), while short regeneration aspen mortal-
+ity was low (16%). However, our ability to detect short regenera-
+tion mortality was limited because tiny dead stems do not
+persist upright for as long as larger size classes and ungulates
+Fig. 3. Size–density distribution of live and dead aspen stems on the Williams Ranger District, Kaibab National Forest, Arizona by forest type: (a) pine–oak type (n = 15) and b)
+mixed conifer type (n = 33). Error bars are ± standard error.
+202
+T.J. Zegler et al. / Forest Ecology and Management 282 (2012) 196–207
+
+browse away the evidence of the mortality they cause. Sapling
+aspen mortality was greatest where relative conifer density was
+highest.
+Tall
+regeneration
+aspen
+mortality
+decreased
+with
+increasing slope, elevation, and total live density, and increased
+with heat load and location within the pine–oak type. Short regen-
+eration aspen mortality increased with decreasing slope and
+increasing relative conifer density. Overall, regeneration mortality
+was not density-dependent. Canker diseases and animal damages
+were common in the sapling and tall regeneration size classes.
+The only common short regeneration damaging agent was ungu-
+late browsing. We found that higher levels of canker diseases
+(almost exclusively Cytospora) increased sapling and tall regener-
+ation aspen mortality. Cytospora is a common, well-documented
+mortality agent of aspen regeneration throughout western North
+America, and the severity and extent of Cytospora canker increases
+with drought stress (Hinds, 1985; Guyon et al., 1996). While ani-
+mal damages did not appear to relate to sapling or tall regeneration
+aspen mortality, these size classes had small sample sizes and high
+levels of animal damages regardless of mortality levels. Short
+regeneration mortality, however, increased with ungulate brows-
+Fig. 4. Aspen damaging agent group percentages by size class averaged across 48 sites on the Williams Ranger District, Kaibab National Forest, Arizona. Percentages by size
+class do not add up to 100 because a maximum of three damaging agents per stem were recorded.
+Table 3
+Multiple regression models for aspen mortality. All factors were signiﬁcant at a = 0.05.
+Factor
+Parameter estimate
+Standard error
+t-ratio
+P-value
+Overstory BAa mortality (%)b
+Forest type [0–1]c
+11.74
+4.82
+2.43
+0.0192
+Overstory relative conifer BA (%)
+0.26
+0.09
+2.87
+0.0063
+Overstory canker diseases (%)
+0.39
+0.07
+5.75
+<0.0001
+Overstory wood-boring insects (%)
+0.35
+0.06
+5.77
+<0.0001
+Log (short regen stem mortality) (%)d
+Slope (%)
+0.02
+0.01
+2.21
+0.0344
+Short regen relative conifer densitye (%)
+0.01
+<0.01
+2.24
+0.0327
+Short regen animal damages (%)
+0.02
+0.01
+2.62
+0.0136
+a BA = basal area (m2 ha1).
+b n = 48; R2 = 78% (F4,43 = 41.47, P < 0.0001).
+c 0= pine–oak, 1 = mixed conifer.
+d n = 35; R2 = 34% (F3,31 = 6.80, P = 0.0012).
+e Density = stems ha1.
+T.J. Zegler et al. / Forest Ecology and Management 282 (2012) 196–207
+203
+
+ing. Abundant previous research has shown that heavy, persistent
+ungulate browsing can prevent successful regeneration of aspen
+(Rolf, 2001; Bailey and Whitham, 2002; Binkley et al., 2006;
+Fairweather et al., 2008). We observed high browsing pressure
+across the entire study area.
+While most sites were within livestock grazing allotments, the
+steep terrain of many sites likely deterred cattle and sheep from
+accessing aspen regeneration. Slopes P 40% are thought to deter
+cattle and sheep (J. Stevens, USFS, January 2012, personal commu-
+nication). Out of the 48 sites, we estimated that 61% were not
+grazed by cattle and sheep (38% outside allotments; 23% inside
+but too steep).
+4.3. Size distributions
+Shepperd et al. (2001) showed the size–density relationship of
+healthy, self-regenerating aspen stands to follow a negative expo-
+nential (reverse-J) shaped curve, where smaller, younger size clas-
+ses are more abundant than larger, older size classes. Steed and
+Kearns (2010) found the condition of aspen in Montana and north-
+ern Idaho to be generally healthy, with low levels of mortality and
+crown dieback, sufﬁcient aspen regeneration, and a reverse-J size–
+density distribution. Except for missing or dead intermediate size
+classes, the distribution of all 48 sites (Fig. 2) appears to follow a
+reverse-J. Based upon a null model that we calculated from the
+data (versus forced on our data), there was a lack of recruitment
+in tall regeneration, sapling, and smallest overstory stems, suggest-
+ing that aspen will not be able to replace current and future over-
+story losses. However, these classes had many dead stems. Given
+that mortality was not density-dependent, why did aspen in the
+sapling and smallest overstory size classes die before recruiting
+to the larger size classes? In both the sapling and overstory classes,
+aspen mortality increased with increasing relative conifer density.
+The smallest (and likely youngest) overstory aspen stems are the
+ﬁrst to succumb to overtopping by conifer (Shepperd et al.,
+2001). Additionally, small-circumference stems are easier for can-
+kers and cambial-feeding ﬂathead borers to girdle than larger
+stems. Because of this, secondary agents of normally resistant ma-
+ture aspen stems (e.g., Cytospora) are available to kill regeneration
+stems (Jacobi and Shepperd, 1991). This holds especially true if
+some other inciting factor (e.g., drought and high temperatures)
+allows for the successful attack of contributing, secondary agents.
+4.4. Diseases, insects, and inciting factors
+Many interacting factors contributed to aspen mortality on the
+Williams Ranger District. The interaction of factors in a decline dis-
+ease scenario makes it impractical to deduce single cause (Ostry
+et al., 2011), especially because these interactions are complex
+and poorly understood (Gitlin et al., 2006). However, signs and
+symptoms of canker and wood-boring insect activity were perva-
+sive on dead and crown damaged aspen. Based upon our univariate
+relationships and multiple regression models, we have little doubt
+that contributing damaging agents ultimately killed most of the
+currently standing dead aspen stems. However, we concluded, as
+did Fairweather et al. (2008) in Arizona and Marchetti et al.
+(2011) in Colorado, that cankers and insects played a secondary
+role in observed aspen mortality and were likely facilitated by
+long-term climate trends and short-term extreme weather events,
+such as severe drought and frost events (USDA, 2000; Williams
+et al., 2010; Ganey and Vojta, 2011). The Southwest has experi-
+enced a regional drought since 1996, with particularly dry condi-
+tions from 1996 to 2007 and severe drought in 2000 and 2002
+(Breshears et al., 2005; Ganey and Vojta, 2011). These extremely
+hot and dry conditions rendered aspen susceptible to the attacks
+of cankers and insects (Hogg et al., 2008; Marchetti et al., 2011).
+5. Conclusions
+Quaking aspen populations in the Southwest, as elsewhere in
+the western United States, are experiencing recent and rapid crown
+dieback and mortality. We initiated this study to quantify the
+crown dieback and mortality of aspen and to explore relationships
+between mortality and site and stand characteristics and contribut-
+ing biotic agents. We found that half of the aspen overstory recently
+died, and of the remaining living stems, roughly half suffer from
+considerable recent crown dieback. We can expect many of these
+living but crown damaged stems to succumb to mortality in the
+near future. As with other studies that have observed signiﬁcant
+tree mortality in southwestern forests at this elevation (Gitlin
+et al., 2006; Ganey and Vojta, 2011), we may be observing signs
+of long-term climate trends and short-term extreme weather
+events. The Southwest is forecasted to transition to a more arid cli-
+mate (Seager et al., 2007; Seager and Vecchi, 2010). Under climate
+change, the aspen stands we see in decline today may not just be a
+temporary phase but a shift in this species’ distribution (Gitlin et al.,
+2006; Rehfeldt et al., 2009), as the aspen in our low-elevation
+pine–oak sites are experiencing a population crash as described
+by Breshears et al. (2008). Since our study area is located near the
+southwestern edge of aspen’s contiguous geographical range, it will
+likely experience some of the greatest drought-related impacts.
+Long-term aspen decline is not primarily a mortality issue, nor
+is it a decline disease; it is a reduction in aspen type, driven mostly
+by long-term successional processes under altered disturbance re-
+gimes, and often ampliﬁed by heavy ungulate browsing (Ripple
+and Larsen, 2000). Sudden aspen decline (SAD) describes the rapid
+deterioration of aspen on a landscape scale, and often accompanied
+by root mortality and insufﬁcient regeneration to replace overstory
+losses (Worrall et al., 2008). While the extensive mortality and
+crown dieback exhibited by aspen in the study area is comparable
+to a rapid decline of aspen elsewhere, successional processes also
+play a signiﬁcant role in the current health of aspen forests on
+the Williams Ranger District. Aspen in our study area suffer from
+extensive mortality relating to predisposing and contributing
+factors of a decline disease, and, in addition, an important inciting
+factor: frequent intense drought.
+The lack of live small-diameter aspen stems across the study
+area epitomizes aspen’s poor current condition, and, in the absence
+of intensive management, likely forecasts a grim future. The
+authors of a recent summary document about aspen restoration
+(O’Brien et al., 2010) assert that self-replacing (self-regenerating)
+aspen stands require two regeneration size classes each to
+maintain live densities of at least 1250 stems ha1 (Bartos and
+Campbell, 1998; Kurzel et al., 2007; Rogers et al., 2010). The com-
+bined live density for aspen sapling and tall regeneration stems
+(roughly one of their classes) was below this level at 96% of our
+sites, while the density of live short regeneration stems (roughly
+their other class) was below this level 48% of our sites. If current
+trends in depleted recruitment continue, conifer will come to dom-
+inate aspen stands after mature overstory aspen stems die.
+Acknowledgements
+We thank Daniel C. Laughlin for statistical advice and the staff
+of the Kaibab National Forest and Williams Ranger District for ini-
+tiating and facilitating this project. We appreciate the helpful re-
+views of earlier versions of this manuscript by John C. Guyon II
+and James J. Worrall. We are also obliged to many people in the
+Ecological Restoration Institute at Northern Arizona University,
+especially Donald P. Normandin and Scott O. Curran for ﬁeld and
+laboratory assistance. Funding for this project was provided by
+USDA Forest Service, Rocky Mountain Research Station, Award
+204
+T.J. Zegler et al. / Forest Ecology and Management 282 (2012) 196–207
+
+#08-JV-11221633-244 and USDA Forest Service, Forest Health
+Monitoring Program, Awards
+#INT-EM-B-10-04 and
+#10-CR-
+11031600-026.
+Appendix A
+List of 45 (not including generic) aspen damaging agents by
+groups on the Williams Ranger District, Kaibab National Forest.
+The list excludes 18 aspen damaging agents that were looked for
+but not observed in the study area.
+Group
+Common name
+Scientiﬁc name
+Diseases
+Foliar and shoot
+Generica
+–
+Ink spot
+Ciborinia whetzelii
+Shoot blight
+Venturia tremulae
+Canker
+Generic
+–
+Sooty-bark
+Encoelia pruinosa
+Black
+Ceratocystis ﬁmbriata
+Cytospora
+Valsa sordida
+Snake
+Cryptosphaeria populina
+Nectria
+Nectria galligena
+Root and butt
+Generic
+–
+Artist’s conk
+Ganoderma applanatum
+Armillaria
+Armillaria spp.
+Aspen velvet foot
+Flammulina populicola
+Stem decay
+Generic
+–
+White trunk rot
+Phellinus tremulae
+Inky cap
+Coprinus atramentarius
+Peniophora
+Peniophora polygonia
+Rough-bark
+Macrophoma tumefaciens
+Corky-bark
+Diplodia tumefaciens
+Insects
+Wood-boring
+Generic roundhead
+Family: Cerambycidae
+Generic ﬂathead
+Family: Buprestidae
+Poplar borer
+Saperda calcarata
+Poplar branch borer
+Oberea schaumii
+Bronze poplar borer
+Agrilus liragus
+Ambrosia beetle
+Trypodendron retusum
+Aspen bark beetle
+Trypophloeus populi
+Flathead poplar borer
+Dicerca tenebrica
+Defoliating
+Generic
+–
+Western tent
+caterpillar
+Malacosoma californicum
+Large aspen tortrix
+Choristoneura conﬂictana
+Aspen leaf tier
+Pseudosciaphila duplex
+Aspen two-leaf tier
+Enargia decolor
+Aspen leafroller
+Pseudexentera oregonana
+Sucking and gall-
+forming
+Oystershell scale
+Lepidosaphes ulmi
+Eriophyid gall mite
+Family: Eriophyidae
+Poplar gall saperda
+Saperda moesta
+Twig gall ﬂy
+Hexomyza schineri
+Cecidomyiid gall
+midge
+Family: Cecidomyiidae
+Poplar leaf aphids
+Chaitophorus populicola and
+others
+Leaf-curl galls
+Aculus lobulifera and
+Mordvilkoja vagabunda
+Physical damages
+Abiotic
+Fire
+–
+Appendix A (continued)
+Group
+Common name
+Scientiﬁc name
+Frost crack
+–
+Mechanical damage
+–
+Broken top
+–
+Windthrow
+–
+Sunscald
+–
+Animal
+Bear clawing
+Ursus americanus
+Ungulate barking and
+rubbing
+Family: Cervidae
+Ungulate trampling
+Family: Bovidae and Cervidae
+Ungulate browsing
+Family: Bovidae and Cervidae
+Wildlife Hole
+Class: Aves
+Sapsucker pecking
+Sphyrapicus spp.
+a Generic was used when damage could only be identiﬁed to the agent group.
+Appendix B
+Site and stand factors of 48 study sites on the Williams Ranger
+District, Kaibab National Forest, Arizona.
+Factor
+Mean
+Standard
+deviation
+Range
+Site
+Elevation (m)
+2438
+217
+2094–2888
+Slope (%)
+25
+15
+3–59
+Aspecta
+1.3
+0.6
+0–2
+Heat loadb
+0.91
+0.10
+0.66–1.06
+Overstory structure
+Live total densityc
+638
+348
+162–1766
+Live aspen density
+271
+265
+0–1156
+Live total BAd
+31.8
+15.8
+5.1–76.5
+Live aspen BA
+11.7
+13.2
+0.0–51.9
+Relative conifer density (%)
+59
+26
+0–100
+Relative conifer density BA (%)
+67
+26
+0–100
+Aspen stem mortality (%)
+50
+25
+5–100
+Aspen BA mortality (%)
+44
+28
+1–100
+Aspen crown dieback >33% (%)
+48
+26
+10–100
+Sites with live aspen (%)
+98
+–
+–
+Sapling structure
+Live total density
+217
+209
+0–1044
+Live aspen density
+25
+56
+0–298
+Relative conifer density (%)
+85
+30
+0–100
+Aspen stem mortality (%)
+82
+29
+0–100
+Sites with live aspen (%)
+25
+–
+–
+Tall sucker structure
+Live total density
+793
+1018
+0–3332
+Live aspen density
+145
+529
+0–3332
+Relative conifer density (%)
+89
+28
+0–100
+Aspen stem mortality (%)
+72
+41
+0–100
+Sites with live aspen (%)
+21
+–
+–
+Short sucker structure
+Live total density
+5324
+4608
+99–19596
+Live aspen density
+2550
+3280
+0–17109
+Relative conifer density (%)
+52
+35
+0–100
+Aspen stem mortality (%)
+16
+19
+0–88
+Sites with live aspen (%)
+90
+–
+–
+a Beers et al. (1966); 0–2 scale (0 = 225, 1 = 315 or 135, 2 = 45).
+b McCune and Keon (2002); unitless index with 0.03–1.11 scale.
+c Density = stems ha1.
+d BA = basal area (m2 ha1).
+References
+Bailey, J.K., Whitham, T.G., 2002. Interactions among ﬁre, aspen, and elk affect insect
+diversity: reversal of a community response. Ecology 83, 1701–1712.
+Baker, F.S., 1925. Aspen in the Central Rocky Mountain Region. USDA Bulletin 1291,
+47 p.
+T.J. Zegler et al. / Forest Ecology and Management 282 (2012) 196–207
+205
+
+Baker, W.L., Munroe, J.A., Hessl, A.E., 1997. The effects of elk on aspen in the winter
+range in Rocky Mountain National Park. Ecography 20, 155–165.
+Bartos, D.L., 2001. Landscape dynamics of aspen and conifer forests. In: Shepperd,
+W.D., Binkley, D., Bartos, D.L., Stohlgren, T.J., Eskew, L.G. (Compilers), Sustaining
+aspen in western landscapes: Symposium proceedings; 13–15 June 2000;
+Grand Junction, CO. Proceedings RMRS-P-18. Fort Collins, CO: U.S. Department
+of Agriculture, Forest Service, Rocky Mountain Research Station, pp. 5–14.
+Bartos, D.L., Campbell Jr., R.B., 1998. Decline of quaking aspen in the Interior West:
+examples from Utah. Rangelands 20, 17–24.
+Beers,
+T.W.,
+Dress,
+P.E.,
+Wensel,
+L.C.,
+1966.
+Aspect
+transformation
+in
+site
+productivity research. J. For. 64, 691–692.
+Binkley, D., Moore, M.M., Romme, W.H., Brown, P.M., 2006. Was Aldo Leopold right
+about the Kaibab deer herd? Ecosystems 9, 227–241.
+Breshears, D.D., Cobb, N.S., Rich, P.M., Price, K.P., Allen, C.D., Balice, R.G., Romme,
+W.H., Kastens, J.H., Floyd, M.L., Belnap, J., Anderson, J.J., Myers, O.B., Meyer, C.W.,
+2005. Regional vegetation die-off in response to global-change-type drought.
+Proc. Natl. Acad. Sci. USA 102, 15144–15148.
+Breshears, D.D., Huxman, T.E., Adams, H.D., Zou, C.B., Davidson, J.E., 2008.
+Vegetation synchronously leans upslope as climate warms. Proc. Natl. Acad.
+Sci. USA 105, 11591–11592.
+Brown, K., Hansen, A.J., Keane, R.E., Graumlich, L.J., 2006. Complex interactions
+shaping aspen dynamics in the Greater Yellowstone Ecosystem. Landscape Ecol.
+21, 933–951.
+Burns, R.M., Honkala, B.H., (tech. Coords.), 1990. Silvics of North America: 2.
+Hardwoods. Agriculture Handbook 654, U.S. Dept. of Agriculture, Forest Service,
+Washington, DC, vol. 2, 877 p.
+DeByle, N.V., 1985. Vegetation associations. In: DeByle, N.V., Winokur, R.P. (editors),
+Aspen: Ecology and management in the western United States, General
+Technical Report RM-119. Rocky Mountain Forest and Range Experiment
+Station, USDA Forest Service, Fort Collins, Colorado, pp. 115–123.
+Di Orio, A.P., Callas,
+R., Schaefer, R.J.,
+2005. Forty-eight year
+decline
+and
+fragmentation of aspen (Populus tremuloides) in the South Warner Mountains
+of California. For. Ecol. Manage. 206, 307–313.
+Draper, N.R., Smith, H., 1998. Applied Regression Analysis, third ed. John Wiley &
+sons, New York, NY, 736 p.
+Fairweather, M.L., Geils, B.W., Manthei, M., 2008. Aspen decline on the Coconino
+National Forest. In: McWilliams, M. (Compiler), Proceedings of the 55th
+Western International Forest Disease Work Conference, Oregon Department
+of Forestry, Salem, OR, pp. 53–62.
+Frey, B.R., Lieffers, V.J., Hogg, E.H., Landhäusser, S.M., 2004. Predicting landscape
+patterns of aspen dieback: mechanisms and knowledge gaps. Can. J. For. Res. 34,
+1379–1390.
+Ganey, J.L., Vojta, S.C., 2011. Tree mortality in drought-stressed mixed-conifer and
+ponderosa pine forests, Arizona, USA. For. Ecol. Manage. 261, 162–186.
+Gitlin, A.R., Sthultz, C.M., Bowker, M.A., Stumpf, S., Paxton, K.L., Kennedy, K., Muñoz,
+A., Bailey, J.K., Whitham, T.G., 2006. Mortality gradients within and among
+dominant plant populations as barometers of ecosystem change during extreme
+drought. Cons. Biol. 20, 1477–1486.
+Guyon II, J.C., 2006. Are the changes in aspen forests in western North America a
+forest decline? In: Guyon, II, J.C. (Ed.), Proceedings of the 53rd Western
+International
+Forest
+Disease
+Work
+Conference,
+September
+26–29,
+2005,
+Jackson,WY. Intermountain Region, USDA Forest Service, Ogden, UT, pp. 95–101.
+Guyon II, J.C., Jacobi, W.R., McIntyre, G.A., 1996. Effects of environmental stress on
+the development of Cytospora canker of aspen. Plant Dis. 80, 1320–1326.
+Hanna, P., Kulakowski, D., 2012. The inﬂuences of climate on aspen dieback. Forest
+Ecol. Manage. 274, 91–98.
+Hart, J.H., Hart, D.L., 2001. Interaction among cervids, fungi, and aspen in northwest
+Wyoming. In: Shepperd, W.D., Binkley, D., Bartos, D.L., Stohlgren, T.J., Eskew,
+L.G.
+(Compilers),
+Sustaining
+aspen
+in
+western
+landscapes:
+Symposium
+proceedings; 13–15 June 2000; Grand Junction, CO. Proceedings RMRS-P-18.
+Fort Collins, CO: U.S. Department of Agriculture, Forest Service, Rocky Mountain
+Research Station, pp. 197–206.
+Hinds, T.E., 1985. Diseases. In: DeByle, N.V., Winokur, R.P. (editors), Aspen: Ecology
+and management in the western United States, General Technical Report RM-
+119. Rocky Mountain Forest and Range Experiment Station, USDA Forest
+Service, Fort Collins, Colorado, pp. 87–106.
+Hogg, E.H., Brandt, J.P., Michaelian, M., 2008. Impacts of a regional drought on the
+productivity, dieback, and biomass of western Canadian aspen forests. Can. J.
+Forest Res. 38, 1373–1384.
+Jacobi, W.R., Shepperd, W.D., 1991. Fungi associated with sprout mortality in aspen
+clearcuts in Colorado and Arizona. Res. Note. RM-513. Fort Collins, CO: U.S.
+Department of Agriculture, Forest Service, Rocky Mountain Forest and Range
+Experiment Station, 5 p.
+Jones, J.R., 1974. Silviculture of southwestern mixed conifers and aspen: the status
+of our knowledge. USDA For. Serv. Res. Paper RM-122, 45 p.
+Juzwik, J., Nishijima, W.T., Hinds, T.E., 1978. Survey of aspen cankers in Colorado.
+Plant Dis. Rep. 62, 906–910.
+Kashian,
+D.M.,
+Romme,
+W.H.,
+Regan,
+C.M.,
+2007.
+Reconciling
+divergent
+interpretations of quaking aspen decline on the northern Colorado Front
+Range. Ecol. Appl. 5, 1296–1311.
+Kulakowski, D., Veblen, T.T., Drinkwater, S., 2004. The persistence of quaking aspen
+(Populus tremuloides) in the Grand Mesa Area, Colorado. Ecol. Appl. 5, 1603–
+1614.
+Kurzel, B.P., Veblen, T.T., Kulakowski, D., 2007. A typology of stand structure and
+dynamics of quaking aspen in northwestern Colorado. For. Ecol. Manage. 252,
+176–190.
+Manion, P.D., 1991. Tree Disease Concepts. Prentice-Hall, Englewood Cliffs, NJ, 416 p.
+Manion, P.D., LaChance, D. (Eds.), 1992. Forest Decline Concepts. APS Press, St. Paul,
+MN, 249 p.
+Marchetti, S.B., Worrall, J.J., Eager, T., 2011. Secondary insects and diseases
+contribute to sudden aspen decline in southwestern Colorado, USA. Can. J.
+Forest Res. 41, 2315–2325.
+McCool, S.F., 2001. Quaking aspen and the human experience. dimensions, issues,
+and challenges. In: Shepperd, W.D., Binkley, D., Bartos, D.L., Stohlgren, T.J.,
+Eskew, L.G. (Compilers), Sustaining aspen in western landscapes: Symposium
+proceedings; 13–15 June 2000; Grand Junction, CO. Proceedings RMRS-P-18.
+Fort Collins, CO: U.S. Department of Agriculture, Forest Service, Rocky Mountain
+Research Station, pp. 147–162.
+McCune, B., Keon, D., 2002. Equations for potential annual direct incident radiation
+and heat load. J. Veg. Sci. 13, 603–606.
+McDowell, N.G., Beerling, D.J., Breshears, D.D., Fisher, R.A., Raffa, K.F., Stitt, M., 2011.
+The interdependence of mechanisms underlying climate-driven vegetation
+mortality. Trends Ecol. Evol. 26, 523–532.
+Mueggler, W.F., 1985. Vegetation associations. In: DeByle, N.V., Winokur, R.P. (Eds.),
+Aspen: Ecology and management in the western United States, General
+Technical Report RM-119. Rocky Mountain Forest and Range Experiment
+Station, USDA Forest Service, Fort Collins, Colorado, pp. 45–55.
+O’Brien, M., Rogers, P., Mueller, K., MacWhorter, R., Rowley, Allen., Hopkin, B.,
+Christensen, B., Dremann, P., (Utah Forest Restoration Working Group - Ecology
+Committee), 2010. Guidelines for Aspen Restoration on the National Forests in
+Utah, Western Aspen Alliance, Utah State University, Logan, UT, 48 p.
+Ostry, M.E., Wilson, L.W., McNabb Jr., H.S., Moore, L.M., 1989, A guide to insect,
+disease and animal pests of poplars. Agricultural Handbook 677, Washington,
+D.C.: U.S. Department of Agriculture, 118 p.
+Ostry, M.E., Venette, R.C., Juzwik, J., 2011. Decline as a disease category: is it
+helpful? Phytopathology 101, 404–409.
+Pearson, G.A., 1920. Factors controlling the distribution of forest types, part II.
+Ecology 1, 289–308.
+Rehfeldt, G.E., Ferguson, D.E., Crookston, N.L., 2009. Aspen, climate, and sudden
+decline in western USA. Forest Ecol. Manage. 258, 2353–2364.
+Ripple, W.J., Larsen, E.J., 2000. Historic aspen recruitment, elk, and wolves in
+northern Yellowstone National Park, USA. Biol. Conserv. 95, 361–370.
+Rogers, P., 2002. Using Forest Health Monitoring to assess aspen forest cover change
+in the southern Rockies ecoregion. Forest Ecol. Manage. 155, 223–236.
+Rogers, P.C., Lefﬂer, A.J., Ryel, R.J., 2010. Landscape assessment of a stable aspen
+community in southern Utah, USA. Forest Ecol. Manage. 259, 487–495.
+Rolf, J.A., 2001. Aspen fencing in northern Arizona: a 15-year perspective. In:
+Shepperd, W.D., Binkley, D., Bartos, D.L., Stohlgren, T.J., Eskew, L.G. (Compilers),
+Sustaining aspen in western landscapes: Symposium proceedings; 13–15 June
+2000; Grand Junction, CO. Proceedings RMRS-P-18. Fort Collins, CO: U.S.
+Department of Agriculture, Forest Service, Rocky Mountain Research Station,
+pp. 193–196.
+Romme, W.H., Floyd-Hanna, L., Hanna, D.D., Bartlett., E., 2001. Aspen’s ecological
+role in the West. In: Shepperd, W.D., Binkley, D., Bartos, D.L., Stohlgren, T.J.,
+Eskew, L.G. (Compilers), Sustaining aspen in western landscapes: Symposium
+proceedings; 13–15 June 2000; Grand Junction, CO. Proceedings RMRS-P-18.
+Fort Collins, CO: U.S. Department of Agriculture, Forest Service, Rocky Mountain
+Research Station, pp. 243–260.
+SAS Institute, 2009. JMP 8.0.2. SAS Institute, Inc., Cary, NC.
+Seager,
+R.,
+Vecchi,
+G.,
+2010.
+Greenhouse
+warming
+and
+the
+21st
+century
+hydroclimate of southwestern North America. Proc. Natl. Acad. Sci. USA 107,
+21277–21282.
+Seager, R., Ting, M., Held, I., Kushnir, Y., Lu, J., Vecchi, G., Huang, H., Harnik, N.,
+Leetmaa, A., Lau, N., Li, C., Velez, J., Naik, N., 2007. Model projections of an
+imminent transition to a more arid climate in southwestern North America.
+Science 316, 1181–1184.
+Shepperd, W.D., Bartos, D.L., Mata, S.A., 2001. Above- and below-ground effects of
+aspen clonal regeneration and succession to conifers. Can. J. For. Res. 31, 739–
+745.
+Shier, G.A., Jones, J.R., Winokur, R.P. 1985. Vegetative Regeneration. In: DeByle, N.V.,
+Winokur, R.P. (Eds.), Aspen: Ecology and management in the western United
+States, General Technical Report RM-119. Rocky Mountain Forest and Range
+Experiment Station, USDA Forest Service, Fort Collins, Colorado, pp. 29–33.
+St. Clair, S.B., Guyon, J., Donaldson, J., 2010. Quaking aspen’s current and future
+status in western North America: the role of succession, climate, biotic agents
+and its clonal nature. Progr. Botany 71, 371–400.
+Steed, B., Kearns, H.S.J., 2010. Damage agents and condition of mature aspen stands
+in Montana and northern Idaho. Report 10–03. Missoula, MT, U.S. Department
+of Agriculture, Forest Service, Northern Region, 26 p.
+Strand, E.K., Vierling, L.A., Bunting, S.C., Gessler, P.E., 2009. Quantifying successional
+rates in western aspen woodlands: current conditions, future predictions. For.
+Ecol. Manage. 257, 1705–1715.
+USDA Forest Service, 2000. Forest insect and disease conditions in the Southwestern
+Region,
+1999.
+Rep.
+R3–00-01.
+Albuquerque
+NM,
+USDA,
+Forest
+Service,
+Southwestern Region. 17 p.
+USDA Forest Service, 2007. Forest insect and disease conditions in the Southwestern
+Region,
+2006.
+Rep.
+R3–16-02.
+Albuquerque
+NM,
+USDA,
+Forest
+Service,
+Southwestern Region, 46 p.
+USDA Forest Service, 2008. Forest insect and disease conditions in the Southwestern
+Region,
+2007.
+Rep.
+R3–16-03.
+Albuquerque
+NM,
+USDA,
+Forest
+Service,
+Southwestern Region, 38 p.
+206
+T.J. Zegler et al. / Forest Ecology and Management 282 (2012) 196–207
+
+USDA Forest Service, 2009. Forest insect and disease conditions in the Southwestern
+Region,
+2008.
+Rep.
+R3–16-05.
+Albuquerque
+NM,
+USDA,
+Forest
+Service,
+Southwestern Region, 46 p.
+Vankat, J.L., 2011. Post-1935 changes in forest vegetation of Grand Canyon National
+Park, Arizona, USA: Part 2 – mixed conifer, spruce-ﬁr, and quaking aspen
+forests. For. Ecol. Manage. 261, 326–341.
+White, C.A., Olmsted, C.E., Kay, C.E., 1998. Aspen, elk, and ﬁre in the Rocky Mountain
+National Parks of North America. Wildlife Soc. Bull. 26, 449–462.
+Williams, A.P., Allen, C.D., Millar, C.I., Swetnam, T.W., Michaelsen, J., Still, C.J.,
+Leavitt, S.W., 2010. Forest responses to increasing aridity and warmth in the
+southwestern United States. Proc. Natl. Acad. Sci. USA 107, 21289–21294.
+Worrall, J.J., Egeland, L., Eager, T., Mask, R.A., Johnson, E.W., Kemp, P.A., Shepperd,
+W.D., 2008. Rapid mortality of Populus tremuloides in southwestern Colorado,
+USA. For. Ecol. Manage. 255, 686–696.
+Worrall, J.J., Marchetti, S.B., Egeland, L., Mask, R.A., Eager, T., Howell, B., 2010. Effects
+and etiology of sudden aspen decline in southwestern Colorado, USA. For. Ecol.
+Manage. 260, 638–648.
+Zegler, T.J., 2011. Aspen crown dieback and mortality on the Williams Ranger
+District, Kaibab National Forest, Arizona. Masters thesis, Northern Arizona
+University, Flagstaff, AZ, 54 p.
+T.J. Zegler et al. / Forest Ecology and Management 282 (2012) 196–207
+207

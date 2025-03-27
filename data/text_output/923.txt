@@ -1,0 +1,1277 @@
+Contents lists available at ScienceDirect
+Forest Ecology and Management
+journal homepage: www.elsevier.com/locate/foreco
+Plant community dynamics following hazardous fuel treatments and mega-
+wildﬁre in a warm-dry mixed-conifer forest of the USA
+Judith D. Springera,⁎, David W. Huﬀmana, Michael T. Stoddarda, Andrew J. Sánchez Meadorb,
+Amy E.M. Waltza
+a Ecological Restoration Institute, Northern Arizona University, P.O. Box 15017, Flagstaﬀ, AZ 86011-5017, USA
+b School of Forestry, Northern Arizona University, P.O. Box 15018, Flagstaﬀ, AZ 86011, USA
+A R T I C L E I N F O
+Keywords:
+Ecological restoration
+Wildﬁre
+Seeding
+Temporal dynamics
+Understory
+Plant species composition
+A B S T R A C T
+The greater than 200,000 ha Wallow Fire of May-July 2011 burned through mixed-conifer and ponderosa pine
+forests in Arizona and New Mexico in the southwestern U.S. This “mega-ﬁre” set the stage for an opportunistic
+study to examine understory plant community responses to pre-ﬁre fuel reduction treatments in areas dominated
+by dry mixed-conifer forests. In 2016, ﬁve years after the ﬁre, we remeasured nine pairs of treated and untreated
+sites that were installed in 2012 and compared understory characteristics including species cover, richness and
+community composition. Native plant cover was signiﬁcantly higher (20% total cover) in areas that were treated
+for fuel reduction before the ﬁre compared with untreated areas (17% cover), despite the variability in ﬁre
+severity and tree mortality. Non-native plant cover was not signiﬁcantly diﬀerent between treated and untreated
+units. Herbaceous understory cover was negatively correlated (p < 0.05) with total tree basal area and tree
+canopy cover in treated as well as untreated units, and positively correlated with tree mortality and basal area
+mortality in the untreated units. In the treated units, species richness and diversity were negatively (r = −0.62
+to −0.63) correlated with insolation and elevation. Non-metric multidimensional scaling ordinations along with
+univariate results suggested that community composition was driven by increased insolation following loss of
+tree canopy. Cover of species that beneﬁt from high light and warmer temperatures, such as some shrubs and
+perennial graminoids, increased from 2012 to 2016. Overall, fuel reduction treatments led to persistent increases
+in cover of native species, lending weight to the usefulness of hazardous fuel reduction treatments in promoting
+native plant cover.
+1. Introduction
+Mega-ﬁres are often deﬁned by their size (e.g. > 10,000 ha) while
+also carrying “enormous and often lasting unwanted human, economic,
+and environmental consequences” and frequently result in wide ranging
+political actions (Williams, 2013). The heightened risk of unnaturally
+severe mega-ﬁres in warm-dry mixed-conifer forests has led to ecolo-
+gical restoration and hazardous fuel reduction eﬀorts across the
+southwestern USA. These endeavors generally involve tree thinning,
+prescribed burning and/or managed ﬁre to restore forest structure and
+reduce hazardous fuel levels (Mason et al., 2007; Margolis et al., 2013;
+Abella and Springer, 2015). Strategic fuel treatments and managing low
+intensity wildﬁres for resource objectives are additional actions that
+may assist in conservation of mixed-conifer forest ecosystems (Wilkin
+et al., 2016). With expected increases in large wildﬁres in conjunction
+with climate change (Westerling et al., 2006; Littell et al., 2009;
+Schoennagel et al., 2017), determining the impact of pre-ﬁre fuel
+treatments on understory plant communities is key for decision making.
+Wildﬁres that burn over treated areas provide important opportunities
+to examine eﬀects of pre-ﬁre treatments on ecosystem responses
+(Stevens-Rumann et al., 2013; Waltz et al., 2014).
+The southwestern mixed-conifer forest habitat type covers ca 1
+million ha in the states of Arizona and New Mexico (Dieterich, 1983).
+Occurring at approximately 2250–3000 m elevation, this forest type is
+situated between the ponderosa pine zone below and the spruce-alpine
+ﬁr zone above (Pase and Brown, 1994; Grissino-Mayer et al., 1995).
+Southwestern mixed-conifer forests display wide variation in species
+composition and environmental characteristics and are further sub-
+divided into cool/wet and warm/dry phases related to aspect, slope
+position, etc. (see Romme et al., 2009; Margolis et al., 2013; Reynolds
+et al., 2013). Diﬀerences between dry and wet types may have major
+impacts on ﬁre behavior. Wetter and cooler forests generally occupy
+https://doi.org/10.1016/j.foreco.2018.06.022
+Received 15 March 2018; Received in revised form 14 June 2018; Accepted 16 June 2018
+⁎ Corresponding author.
+E-mail address: Judy.Springer@nau.edu (J.D. Springer).
+Forest Ecology and Management 429 (2018) 278–286
+0378-1127/ © 2018 Published by Elsevier B.V.
+T
+
+north-facing aspects, often contain ﬁr and spruce species, and are
+mostly forb-dominated, while warm-dry forests tend toward more
+grass-dominated understories, lower elevations, and more southerly
+aspects (Romme et al., 2009). Research based on evidence from ﬁre-
+scarred trees indicates warm-dry forests of this region have experienced
+a disruption of the natural frequent low-severity surface ﬁre regime
+over the last century (Reynolds et al., 2013). In addition to Pinus pon-
+derosa (ponderosa pine), which is often an indicator of the warm-dry
+type, dominant tree species include Pseudotsuga menziesii (Douglas-ﬁr),
+Abies concolor (white ﬁr), Populus tremuloides (quaking aspen), as well as
+Pinus ﬂexilis (limber pine) and/or P. strobiformis (southwestern white
+pine) (Pase and Brown, 1994). Plant species richness and diversity in
+these forests is often high. Because of the complexity of these forests in
+terms of soils, slope, aspect, moisture and ﬁre regimes and dominant
+overstory species, the eﬀects of fuel treatments and ﬁre on community
+responses can be correspondingly variable.
+Fire scar records indicate that until roughly the beginning of the
+20th century, southwestern warm-dry mixed-conifer forests displayed a
+low-severity, frequent-ﬁre regime at roughly 2–30 year intervals with
+only small patches of high severity ﬁre (Fulé et al., 2009; Margolis
+et al., 2013; Reynolds et al., 2013; Huﬀman et al., 2015). Recurring ﬁre
+likely constrained conifer regeneration, limited the accumulation of
+woody surface fuels on the forest ﬂoor and may have created conditions
+for a greater abundance of herbaceous vegetation that contributed to
+ﬁne fuel loading and surface ﬁre spread. With increased grazing pres-
+sure and the active suppression of ﬁre, concurrent with climate
+changes, there has since been an inﬂux of tree species, some of which
+are shade-tolerant and ﬁre-intolerant. These include white ﬁr and
+Douglas-ﬁr, which would have historically been limited by a frequent
+ﬁre regime (Moir and Ludwig, 1979; Romme et al., 2009; Strahan et al.,
+2016). Fire exclusion in combination with selective logging have re-
+sulted in forests now dominated by a homogeneous structure of young,
+small, mostly shade-tolerant and ﬁre-intolerant conifer species (Romme
+et al., 2009; Margolis et al., 2013). Whether these changes reﬂect si-
+milar changes in understory composition or among certain forest stand
+types is unknown (Korb et al., 2007), but the overall eﬀect, not only in
+the Southwest but across western North America, appears to be a de-
+crease in understory plant cover in mixed-conifer forests over the past
+century (Abella and Springer, 2015). Research from yellow pine and
+mixed-conifer montane forests on the west side of the central Sierra
+Nevada of California indicates that disturbances such as severe wildﬁre
+leading to canopy opening can further accelerate species compositional
+changes to favor those species that exhibit a more xeric or southern
+biogeographic aﬃnity while disfavoring those with a more mesic or
+north-temperate aﬃnity that may be less ﬁre-adapted (Stevens et al.,
+2015). Although we don’t yet know if this pattern also occurs following
+wildﬁre in Arizona mixed-conifer forests, it is worthy of further in-
+vestigation.
+In a systematic review of published literature, Abella and Springer
+(2015) reported that thinning and prescribed ﬁre tended to reduce
+understory abundance in the ﬁrst four years following hazardous fuels
+reduction
+treatments
+in
+mixed-conifer
+forests
+of
+western
+North
+America. Similarly, numerous other studies have investigated unders-
+tory responses to fuel treatments in frequent-ﬁre forests; however, re-
+sults have been mixed in terms of cover, biomass and non-native species
+cover responses, likely due to factors other than treatment, such as soil
+type, treatment intensity, ﬁre severity and time since ﬁre (Strom and
+Fulé, 2007; Stevens-Rumann et al., 2012; Shive et al., 2013a, 2013b;
+Stevens-Rumann et al., 2013; Cram et al., 2015; Kalies and Yocom Kent,
+2016). Stevens et al. (2015) found that community traits in Sierra Ne-
+vada mixed-conifer forests were altered after wildﬁre and thinning,
+shifting toward greater abundance of drought-tolerant species. Others
+have noted immediate increases in non-native species after wildﬁre in
+southwestern ponderosa pine and mixed-conifer forests (Kuenzi et al.,
+2008; Shive et al., 2013b; Fornwalt and Kaufmann, 2014). Few data are
+available that describe more than ﬁve years of understory responses to
+fuels treatments in mixed-conifer ecosystems (Abella and Springer,
+2015), or that can be used to compare dynamics of pre-ﬁre-treated sites
+with those of untreated sites following wildﬁre (but see Waltz et al.,
+2014). Lastly, little is understood concerning species composition shifts
+after fuels treatments and wildﬁre, and their implications with respect
+to climate change.
+In 2004, a landscape-scale stewardship project, the White Mountain
+Stewardship Project, was implemented to reduce hazardous fuels and to
+protect human communities from severe ﬁre in the White Mountains of
+eastern Arizona at the wildland-urban interface (WUI) (Sitko and
+Hurteau, 2010; Hurteau, 2016). Subsequent to the project, the human-
+caused Wallow Fire of May-July 2011 burned over 200,000 ha of
+mixed-conifer and ponderosa pine forest and set the stage for an op-
+portunistic examination of longer-term understory plant community
+responses to pre-ﬁre fuel reduction treatments in areas dominated by
+mixed-conifer forests. In 2016, we remeasured nine pairs of treated and
+untreated sites that were installed in 2012 to examine the connection
+between treatments and ecosystem resilience and to test plant com-
+munity responses to fuel treatments, particularly in terms of diﬀerences
+in native cover and species richness between treated and untreated
+areas (Waltz et al., 2014). Our main research questions were the fol-
+lowing: (1) Five years after wildﬁre, were there diﬀerences in native
+and non-native species cover, richness, and diversity between treated
+and untreated areas? (2) Was there a convergence in species composi-
+tion between treated and untreated areas after ﬁve years? (3) What
+environmental factors, such as ﬁre severity, tree mortality, slope, or
+aspect, aﬀected species composition? (4) Were there shifts in compo-
+sition toward drought- and/or heat-tolerant species over time?
+2. Methods
+2.1. Study sites
+We located our study sites in warm-dry mixed-conifer forest eco-
+systems on the Apache-Sitgreaves National Forest (A-S NF) in eastern
+Arizona in areas that had been thinned prior to the Wallow Fire by the
+U.S. Forest Service as part of the White Mountain Stewardship Project
+(Sitko and Hurteau, 2010; Hurteau, 2016). In some areas, logging slash
+was piled and burned, and in others the slash was removed and pro-
+cessed oﬀ-site. This endeavor encompassed WUI-associated fuel re-
+duction treatments near the human communities of Greer, Alpine and
+Nutrioso (Fig. 1). Elevations ranged from 2469 to 2838 m. Co-dominant
+tree species included Pinus ponderosa, Pseudotsuga menziesii and Quercus
+gambelii (Gambel oak) with dispersed patches of Populus tremuloides and
+Robinia neomexicana (New Mexico locust), particularly following the
+ﬁre (Waltz et al., 2014). Characteristic understory species of more
+mesic microsites included Maianthemum stellatum (starry false Solo-
+mon’s-seal), Pyrola picta (white-veined wintergreen), Goodyera ob-
+longifolia (rattlesnake plantain), Viola spp. (violet), and Valeriana acu-
+tiloba (Cordilleran valerian) and various species of orchids and gentians.
+In drier and sunnier openings, common species included grasses such as
+Agrostis spp. (bentgrass), Bromus spp. (brome), Festuca spp. (fescue), Poa
+fendleriana (muttongrass), Koeleria macrantha (Junegrass) Muhlenbergia
+montana (mountain muhly) and Carex geophila (White Mountain sedge),
+and a wide variety of forbs, particularly members of the Asteraceae
+family. Common shrubs included Symphoricarpos spp. (snowberry),
+Ribes spp. (currant), and Rubus spp. (raspberry). The majority of the
+study site was on soils classiﬁed as Eutric Glossoboralfs (ﬁne-loamy,
+mixed, and loamy-skeletal, mixed). These soils are moderately deep and
+well-drained and formed in residuum and/or colluvium from basalt and
+sandstone. They are on nearly level to moderately steep elevated plains
+and hills with slopes of 0–40%. Most of the remaining study area was on
+soils classiﬁed as Mollic Eutroboralfs which consist of moderately deep
+and deep, well-drained soils that formed in residuum, colluvium and
+alluvium derived from basalt, cinders and sandstone. They are formed
+on nearly level plains to steep slopes of 0–40% (Laing et al., 1989).
+J.D. Springer et al.
+Forest Ecology and Management 429 (2018) 278–286
+279
+
+The human-caused Wallow Fire was ignited on May 29, 2011 and
+eventually consumed 217,741 ha in eastern Arizona and Catron County
+in western New Mexico before being fully contained on July 8, 2011
+(Inciweb, 2012). Our study sites were located at the northern extent of
+the ﬁre in an area that burned June 4–9, 2011. During this timeframe,
+the ﬁre burned between 16,250 and 30,850 total ha each day (Inciweb,
+2012; Waltz et al., 2014). The two closest Remote Automated Weather
+Stations (RAWS) at Alpine and Greer, AZ recorded maximum air tem-
+peratures during this time period between 23.3 and 25.0 °C; daily
+minimum and maximum relative humidity of 6–16 and 23–53%, re-
+spectively; dew points of −14 to −3 °C; and maximum wind speeds of
+38.6–67.6 kph out of the south-southwest (Waltz et al., 2014; Western
+Regional Climate Center, 2017). Over the entire ﬁre footprint, the
+Burned Area Reﬂectance Classiﬁcation process (BARC), a satellite-de-
+rived data layer of post-ﬁre vegetation condition, identiﬁed approxi-
+mately 17% of the area as experiencing high soil burn severity, 14%
+was identiﬁed as moderate severity and 69% fell into the low or un-
+burned category (Wadleigh, 2011). Total annual precipitation in the
+study area averages 52.7 cm and falls in a bimodal pattern with winter
+snowfall and summer monsoonal precipitation. However, a strong bi-
+modal precipitation pattern was absent the year prior to the ﬁre, and
+winter precipitation provided only about 8% of annual total pre-
+cipitation in the winter of 2010–2011 (Waltz et al., 2014). Total pre-
+cipitation in the twelve months prior to data collection in 2012 and
+2016 was 45.1 and 50.1 cm (86% and 95% of average total annual
+precipitation), respectively (Fig. 2).
+Seed mixes, which often include sterile cereal grains, are widely
+used for erosion mitigation following high-severity ﬁres (Beyers, 2004;
+Robichaud et al., 2013). As a part of Burned Area Emergency Response
+(BAER) rehabilitation treatments based partially on soil burn severity
+classiﬁcation from BARC, BAER teams mulched and seeded 21% of
+plots in the treated units and 36% of plots in the untreated units with a
+high elevation commercial seed mix consisting of ﬁve native and two
+non-native grass species (20 seeds per square foot PLS). The seed mix
+included native grass species (Festuca arizonica (Arizona fescue), Festuca
+idahoensis (Idaho fescue), Poa fendleriana (muttongrass), Elymus tra-
+chycaulus ssp. trachycaulus (slender wheatgrass), and Bromus marginatus
+(mountain brome)), and two non-native sterile cereal grains (Triticum
+aestivum (annual wheat) and Hordeum vulgare (annual barley)).
+2.2. Experimental design
+We utilized a quasi-experimental design (Shadish et al., 2002) and
+sampled nine pairs of treated–untreated units (as described in Waltz
+et al., 2014) (Fig. 1). Treated units were selected based on the following
+set of criteria: (1) warm-dry mixed-conifer forest type with similar
+slopes and soil types; (2) treated for fuel hazard reduction within ten
+years prior to the Wallow Fire; (3) greater than twelve ha in size; and
+(4) burned by the Wallow Fire. The untreated paired units were located
+geographically close to treated units (but independent of or not aﬀected
+by them), presented similar topography, and were within the same ﬁre
+progression day (24-hr period) (Waltz et al., 2014). A geographic in-
+formation system (GIS) was used to overlay systematic point grids
+(100 × 100 m) on treated and untreated site polygons. Ten points were
+randomly selected at each site for the establishment of ﬁeld sample
+plots (18 units × 10 plots = 180 plots). We avoided edge eﬀects with a
+100-m buﬀer separating plots from the treatment perimeter (Waltz
+et al., 2014). Treatments studied included non-commercial or pre-
+commercial mechanical thinning followed by residual fuel removal
+(mechanically or broadcast burned) prior to the ﬁre. Due to incomplete
+information we were unable to determine exactly where each of these
+treatments was conducted in relation to our study plots, so speciﬁc
+types of treatments were not included as a part of our analysis.
+2.3. Data collection
+Sample plots were measured July-August in 2012 and 2016. Fifty-
+meter herbaceous transects were installed in 2012 and aligned per-
+pendicular to the general slope of each plot, with the halfway point
+located at plot center. Understory measurements were collected along
+the 50-m transect. Species richness was collected in a 500-m2 (10 × 50-
+m) rectangle spanning both sides of the transect. Cover (%) of vascular
+plant species < 137 cm (DBH) in height was visually estimated and
+Fig. 1. Location of study sites and extent of 2011 Wallow Fire in eastern
+Arizona, Apache-Sitgreaves National Forest, USA (courtesy of Joe Crouse, NAU
+ERI).
+Fig. 2. Total annual (January-December) precipitation from 1990 to 2016,
+including the year of the Wallow Fire (2011) and the two years of data col-
+lection (2012 and 2016), at the nearest weather station in Alpine, AZ. Dashed
+line indicates yearly average (52.15 cm) (data compiled from www.wwrc.dri.
+edu).
+J.D. Springer et al.
+Forest Ecology and Management 429 (2018) 278–286
+280
+
+recorded in ﬁve 1-m2 (0.5 × 2-m) quadrats systematically located at
+10-m intervals along the transect. There is incongruity in the literature
+over the deﬁnition of cover estimates for plant species. Fehmi (2010)
+deﬁnes species cover as “the cover for each plant species evaluated
+independently from the cover of other species. It is the independent
+aerial cover of each species, as if no others occurred in the sample area,
+expressed as a percentage of the area occupied by each species. The sum
+of the combined species covers can exceed 100%, but each individual
+species cannot have a cover that exceeds 100%.” In addition, we also
+estimated total percent basal cover of all vascular plants < 137 cm, as
+well as percent cover of substrates (litter, bare soil, wood, rock, etc.) in
+each quadrat. Unknown plant species were collected and keyed. Tax-
+onomy was assigned using the Integrated Taxonomic System (www.itis.
+gov), and nativity of plant species was assigned using the USDA Plants
+Database (www.plants.usda.gov). We also collected data on all trees in
+a 400 m2 plot surrounding the understory transect, and these data were
+used in our correlation analysis. Measurements included species, con-
+dition (living or snag/log classes), height, and DBH.
+2.4. Data analysis
+To address our research questions focusing on whether there were
+diﬀerences in plant cover between treated and untreated areas and
+whether species composition began to converge over time in treat-
+ments, we analyzed diﬀerences in pre- and post-ﬁre species cover
+(Fehmi, 2010) and richness of all woody and herbaceous species <
+137 cm, one and ﬁve years after the ﬁre, using a Wilcoxon signed-rank
+test (SAS JMP Version Pro 13 (SAS Institute Inc.)). Quadrat data were
+summarized for each plot and plot data within units were averaged to
+produce a single value for each understory variable in each treated and
+untreated unit (n = 9). To determine which environmental factors, such
+as ﬁre severity, tree mortality, slope, or aspect, aﬀected species com-
+position, we examined how species cover, richness and diversity of
+understory species varied between the treatments and assessed re-
+lationships between biotic and abiotic variables and understory vege-
+tation with tree mortality and basal area mortality calculated as sur-
+rogates of ﬁre severity, using Pearson’s correlation coeﬃcients (SAS
+JMP Version Pro 13 (SAS Institute Inc.)). To assess compositional dif-
+ferences we used nonmetric multidimensional scaling (NMS) (PC-ORD
+software version 7.02; McCune and Meﬀord, 2015) using both year and
+treatment as factors to ordinate the plant community data (Peck, 2016).
+We
+also
+calculated
+a
+distance-based
+MANOVA
+(perMANOVA)
+(Anderson, 2001) with Bray–Curtis dissimilarity distance measure
+(Faith et al., 1987), and an indicator species analysis (ISA) using the
+Dufrêne and Legendre (1997) method (PC-ORD version 7.02). Topo-
+graphic Position Index (TPI) and other landform variables were ob-
+tained using Topographic Position Index (TPI) v. 1.2 (Jenness, 2006),
+which is an extension that calculates TPI grids from elevation grids and
+then classiﬁes the landscape into slope position and landform cate-
+gories. These same analyses were used to assess whether shifts in
+composition toward drought- and/or heat-tolerant species occurred
+over time.
+3. Results
+3.1. Species cover, richness, and diversity
+By 2016, total plant cover in untreated units had increased to nearly
+the same levels as the treated units, which had the advantage of several
+years of growth following the fuel treatments that were implemented
+prior to the Wallow Fire. Total cover was signiﬁcantly greater in treated
+units at 22.3% compared with untreated units at 19.6% (p > 0.05)
+(Table 1). Of the various functional groups, understory tree cover was
+signiﬁcantly higher in treated units (2.4%) than untreated units (1.4%),
+whereas cover of annual forbs was distinctively higher in untreated
+units (1.7%) compared to treated units (0.7%).
+In 2012, the overall mean native plant cover was 10.9% in treated
+units and 6.8% in untreated units (Waltz et al., 2014). It increased to
+20.0% in treated and 17.0% in untreated units by 2016 and remained
+signiﬁcantly higher in treated units compared with untreated units (p-
+value = 0.05). The overall mean for non-native cover was not sig-
+niﬁcantly diﬀerent between treated and untreated units in either 2012
+or 2016, ranging from 1% for both treated and untreated units in 2012
+to 2.3 and 2.6% in the treated and untreated units, respectively, in 2016
+(Fig. 3). The ratio of non-native to native plant cover was signiﬁcantly
+higher in untreated units in 2012 but not in 2016 (Fig. 3). The most
+common non-native species in 2012 in terms of frequency in the treated
+units were Taraxacum oﬃcinale (common dandelion), Verbascum
+thapsus, Poa pratensis, and the two seeded grains Triticum aestivum and
+Hordeum vulgare. These same species were also the most common non-
+native species recorded in the untreated units. In 2016 Verbascum
+thapsus and Poa pratensis were the most frequently recorded non-native
+species in both treated and untreated units. Although relatively low in
+mean absolute cover both years, Bromus tectorum (cheatgrass) con-
+tinued to increase in coverage and frequency by 2016, particularly in
+the units near Greer and Nutrioso. In addition to B. tectorum, species
+Table 1
+Average total species cover, species richness and native cover and richness by
+functional groups ( ± SE) for treated and untreated areas post wildﬁre. Treated
+and untreated unit diﬀerences in total and functional groups (within year) are
+indicated by bold diﬀerent letter (a, b for 2012* and x, y for 2016).
+2012*
+2016
+Treated
+Untreated
+Treated
+Untreated
+% Cover (m2)
+Total cover
+12.2a (1.6)
+8.1b (1.3)
+22.3x (1.3)
+19.6y (1.6)
+Annual forb
+1.9 (0.7)
+0.9 (0.1)
+0.7x (0.1)
+1.7y (0.4)
+Fern
+0.4 (0.2)
+0.3 (0.2)
+0.4 (0.2)
+0.6 (0.3)
+Graminoid
+3.8a (1.0)
+1.8b (0.4)
+9.9 (1.6)
+6.9 (0.8)
+Perennial forb
+3.0 (0.6)
+2.5 (0.5)
+4.4 (0.5)
+4.3 (0.5)
+Shrub
+0.3 (0.1)
+0.3 (0.3)
+2.2 (0.7)
+2.1 (0.6)
+Tree
+1.6 (0.5)
+1.0 (0.4)
+2.4x (1.0)
+1.4y (0.6)
+Richness (500 m2)
+Total richness
+50.3 (3.5)
+48.3 (3.8)
+50.6x (3.1)
+54.9y (2.4)
+Annual forb
+7.2 (0.7)
+7.4 (0.6)
+5.0 (0.3)
+5.5 (0.4)
+Fern
+0.3 (0.1)
+0.2 (0.1)
+0.2 (0.1)
+0.3 (0.1)
+Graminoid
+9.4 (0.4)
+8.4 (0.5)
+10.2x (0.4)
+11.3y (0.5)
+Perennial forb
+36.5 (2.3)
+34.9 (2.5)
+25.5 (2.1)
+27.2 (1.5)
+Shrub
+1.8 (0.3)
+2.6 (0.5)
+2.1 (0.4)
+2.9 (0.5)
+Tree
+1.4 (0.3)
+1.7 (0.3)
+2.0 (0.3)
+2.4 (0.8)
+* 2012 data is from Waltz et al. (2014).
+0
+5
+10
+15
+20
+25
+Na ve
+Non-na ve
+Na ve
+Non-na ve
+2012
+2016
+Mean Species Cover (%)
+Treated
+Untreated
+*
+*
+Fig. 3. Average native and non-native aerial species cover within treated and
+untreated units. Bars represent one standard error of the mean (N = 9).
+Signiﬁcant diﬀerences are indicated by asterisks (2016 was signiﬁcant at
+p = 0.05).
+J.D. Springer et al.
+Forest Ecology and Management 429 (2018) 278–286
+281
+
+recorded in 2016 and considered to be noxious or invasive weeds in-
+cluded Carduus nutans (musk thistle), Cirsium vulgare (bull thistle),
+Erodium cicutarium (redstem ﬁlaree), Leucanthemum vulgare (oxeye
+daisy), Melilotus oﬃcinalis (yellow sweetclover) and Tragopogon dubius
+(common salsify).
+Graminoids, and speciﬁcally perennial grasses, were primary drivers
+of the plant community richness response in 2016. Graminoids re-
+presented 9.9% and 6.9% total cover, respectively, in treated and un-
+treated units (Table 1). Thirteen sedges (Carex sp.), ﬁve rushes (Juncus
+sp.) and 62 grass species were recorded over the course of the study.
+Over the ﬁve years of the study, we recorded 437 unique species,
+representing 65 plant families, in both the treated and untreated units.
+In 2012, we recorded 294 species in the treated units and 314 in the
+untreated units (371 species total). In 2016 we recorded 271 species in
+the treated units and 304 in the untreated units (347 total). Species
+richness was not signiﬁcantly aﬀected by treatment or by year, nor did
+richness of functional groups vary signiﬁcantly by treatment or year.
+There were also no signiﬁcant diﬀerences detected in diversity between
+treated and untreated units in 2016 (based on the Shannon diversity
+index).
+3.2. Correlations with environmental variables
+Species cover at the sample plot-level was signiﬁcantly and nega-
+tively correlated with total tree basal area and tree canopy cover in
+treated units as well as untreated units, and positively correlated with
+tree mortality and basal area mortality in the untreated units, but not
+the treated units, in 2016 (Table 2). Species richness showed positive
+signiﬁcant correlations with tree mortality and basal area mortality in
+the untreated units, and negative, signiﬁcant correlations with topo-
+graphic position index (TPI) (Jenness, 2006), insolation, and elevation
+in both the treated and untreated units. Similar patterns were observed
+with species diversity (Shannon diversity index) (Table 2). We found no
+signiﬁcant correlations between species cover and percent mineral soil
+cover, TPI, insolation, elevation, slope or aspect. In either treated or
+untreated units, there was a negative correlation between species cover
+and tree basal area (BA) (Table 2). Tree mortality and basal area
+mortality both indicated a signiﬁcant, positive correlation with species
+cover (r = 0.60 for both; p-value < 0.001). In the treated units, we
+found signiﬁcant negative correlations (ranging from r = −0.62 to
+−0.63; p-value < 0.001) between species richness and diversity and
+insolation and elevation (Table 2).
+3.3. Community analysis
+Nonmetric multidimensional scaling ordinations (NMS) of treat-
+ments within years, and treatments between years, indicated that ele-
+vation and richness were reﬂective of plant community compositional
+diﬀerences between treated and untreated units in 2012 at a plot level
+(Fig. 4a). In 2016 the main drivers of plant community diﬀerences were
+slope and aspect (Fig. 4b). An ordination comparing treated units in
+2012 and 2016 yielded no explanatory variables (Fig. 4c). However, a
+comparison of 2012 to 2016 in the untreated units indicated that four
+explanatory environmental variables (insolation, elevation, aspect, and
+slope) were correlated with the ordination axes and were primary dri-
+vers of the plant community over time (Fig. 4d; only insolation and
+slope are shown due to overlap on the graph between slope/aspect and
+insolation/elevation).
+Based on an indicator species analysis (ISA), several of the species
+responsible for compositional diﬀerences between the treated and un-
+treated units at a plot level were woody species, including Pinus pon-
+derosa (IV of 43), Populus tremuloides (45) Pseudotsuga menziesii (26),
+Ribes pinetorum (orange gooseberry) (33) and Rubus idaeus (32) (all p
+values signiﬁcant at < 0.05) (Table 3). A large number of species were
+indicative of diﬀerences between the plant communities in 2012 and
+2016 (Table 3). Those indicative of conditions in 2012 tended to be
+ruderal, wind-dispersed or those that are emergent during the monsoon
+season. This group also included the two seeded cereal grains. While
+many of these ruderal species also had high IVs in 2016, several woody
+species, perennial graminoids and wind-dispersed perennial forbs also
+exceeded the cutoﬀvalue. The results of a perMANOVA, which tested
+for diﬀerences in means between treatments revealed no signiﬁcant
+diﬀerence in plant community composition in either 2012 or 2016.
+Table 2
+Spearman’s ρ and P values for rank correlation tests between environmental factors and species cover, richness and diversity for 2016. Diversity is Shannon diversity
+index. Bold values indicate signiﬁcant correlations (N = 9) at P < 0.05.
+Species cover
+P
+Richness
+P
+Diversity
+P
+Untreated
+Trees Per Ha (TPH)
+−0.0981
+0.452
+−0.229
+0.0759
+−0.2015
+0.1194
+Tree Basal Area
+−0.6022
+< 0.0001
+−0.2854
+0.0258
+−0.2551
+0.0472
+Tree Mortality
+0.596
+< 0.0001
+0.3084
+0.0031
+0.2782
+0.0079
+Basal Area Mortality
+0.5943
+< 0.0001
+0.3552
+0.0006
+0.3416
+0.001
+O Horizon Cover (%)
+−0.2641
+0.0397
+−0.2002
+0.1218
+−0.1974
+0.1272
+Mineral Soil Cover (%)
+0.0958
+0.4629
+0.0946
+0.4683
+0.0994
+0.4462
+Tree Canopy Cover
+−0.4547
+0.0002
+−0.2503
+0.0517
+−0.2243
+0.0822
+Topographic Position Index
+−0.1921
+0.138
+−0.3555
+0.0049
+−0.3318
+0.009
+Insolation
+−0.2489
+0.0531
+−0.3807
+0.0025
+−0.389
+0.0019
+Elevation
+−0.275
+0.0319
+−0.5439
+< 0.0001
+−0.5327
+< 0.0001
+Slope
+0.1029
+0.43
+0.2004
+0.1215
+0.2136
+0.0983
+Aspect
+0.006
+0.9637
+−0.042
+0.7477
+−0.0327
+0.8022
+Treated
+Trees Per Ha (TPH)
+−0.1421
+0.2667
+−0.0864
+0.5009
+−0.1135
+0.3759
+Tree Basal Area
+−0.3091
+0.0137
+0.1398
+0.2744
+0.141
+0.2704
+Tree Mortality
+0.0947
+0.3772
+0.0295
+0.784
+0.0306
+0.7762
+Basal Area Mortality
+0.1011
+0.3456
+0.0874
+0.4156
+0.0889
+0.4076
+O Horizon Cover (%)
+−0.0902
+0.482
+0.0872
+0.4966
+0.0721
+0.5744
+Mineral Soil Cover (%)
+−0.0966
+0.4515
+0.0342
+0.7902
+0.0492
+0.7017
+Tree Canopy Cover
+−0.3077
+0.0141
+−0.0199
+0.8769
+−0.0055
+0.9657
+Topographic Position Index
+−0.1508
+0.238
+−0.3574
+0.004
+−0.3536
+0.0045
+Insolation
+−0.1246
+0.3307
+−0.6277
+< 0.0001
+−0.6344
+< 0.0001
+Elevation
+−0.1899
+0.136
+−0.6247
+< 0.0001
+−0.6236
+< 0.0001
+Slope
+−0.0905
+0.4807
+0.1819
+0.1535
+0.1832
+0.1506
+Aspect
+−0.0525
+0.6826
+−0.1665
+0.1922
+−0.1727
+0.176
+J.D. Springer et al.
+Forest Ecology and Management 429 (2018) 278–286
+282
+
+4. Discussion
+4.1. Species cover, richness, and diversity
+Five years after the Wallow Fire, total species cover was sig-
+niﬁcantly higher in areas treated for fuel reduction prior to the ﬁre,
+when compared to untreated areas. The increased cover of perennial
+graminoids between 2012 (one-year post-ﬁre) and 2016 appeared to be
+a driving factor, regardless of treatment. Although we did not ﬁnd
+signiﬁcant diﬀerences between the plant community composition in
+treated and untreated areas based on perMANOVA, there were large
+increases in cover of some species spanning a range of functional groups
+in both treated and untreated areas, most likely due to the colonization
+and persistence of more xeric species following ﬁre-induced tree mor-
+tality.
+Non-native cover was relatively low in 2016, (2.3 and 2.6% in the
+treated and untreated units, respectively) and non-native species made
+up 10–13% of the total cover from 2012 to 2016. Our non-native cover
+percentages as absolute values are in alignment with several other
+studies in Arizona frequent-ﬁre forests. As an example, Huisinga et al.
+(2005) reported what they considered to be low cover and richness of
+non-native species in an intensely burned area of mixed-conifer forest
+on the North Rim of the Grand Canyon six years (richness of one non-
+native species per plot, < 3% cover) and eight years (1.9 species per
+plot, 5% cover) after ﬁre. Kuenzi et al. (2008) reported low cover
+(< 4% that did not diﬀer signiﬁcantly between treatments) and rich-
+ness of non-native species in a previously treated ponderosa pine forest
+burned by the Rodeo-Chediski Fire, a mega-ﬁre that also occurred in
+eastern Arizona not far from our study area. Data collected eight years
+later on the Rodeo-Chediski site revealed slightly lower non-native
+cover across the study area (< 2%) (Shive et al., 2013b).
+Of the thirty non-native species we recorded across the study site in
+2016, only one is listed as the highest priority of noxious or invasive
+species on the A-S NF. Carduus nutans is a Class A, Treatment Priority 1
+noxious or invasive weed (poses a serious threat to agricultural crops,
+rangelands or listed plants and other natural resources in the state)
+(White, 2008). Bromus tectorum, Cirsium vulgare, Erodium cicutarium,
+Melilotus oﬃcinalis and Verbascum thapsus are all listed as Class C,
+Treatment Priority 3 weeds (noxious and invasive weeds receiving the
+lowest priority for treatment) (White, 2008). Carduus nutans can invade
+large areas of the landscape in these forests in the absence of control
+measures. Bromus tectorum also presents a risk but has proven diﬃcult
+to eradicate in the Southwest.
+Several compositional dynamics were observed on both treated and
+untreated sites and between years. Factors other than treatment that
+likely inﬂuenced our results included rates of seed dispersal and
+Fig. 4. Nonmetric multidimensional scaling ordinations (NMS) between years and treatments: (a) 2012 only, (b) 2016 only, (c) treated only, 2012 vs. 2016 (r2 cutoﬀ
+of 0.300), (d) untreated only, 2012 vs. 2016 (r2 cutoﬀof 0.300). Because of overlap between insolation/elevation and slope/aspect, only two variables are shown in
+Fig. 4d.
+J.D. Springer et al.
+Forest Ecology and Management 429 (2018) 278–286
+283
+
+weather patterns. When we compared species frequency and indicator
+values between 2012 and 2016, we observed an increase in frequency
+of wind-dispersed species, including primarily grasses and members of
+the Asteraceae (composite) family. Accurate data on long-term seed
+dispersal rates have been lacking in the published research until re-
+cently (Cain et al., 2000). Large, gravity- or mammal-dispersed seeds
+have generally been believed to recruit along the edge of a disturbance,
+particularly a large, high-severity event such as wildﬁre (Turner et al.,
+1998). However, plant height has been found to more strongly predict
+dispersal distance than does seed mass, and species dispersed by ani-
+mals through ingestion, attachment or seed caching generally disperse
+farther than species that utilize wind for dispersal (Thomson et al.,
+2011; Heydel et al., 2014). Our results suggest that wind-dispersed
+species quickly colonized the area burned by the ﬁre and continued to
+increase and persist into 2016.
+In addition, we observed a decrease in 2016 of species such as
+Dysphania graveolens and Muhlenbergia minutissima (annual muhly) that
+typically emerge in response to summer monsoonal rains. The absence
+of a strong monsoonal precipitation pattern and an overall below
+average amount of precipitation in 2016 likely contributed to decreased
+richness in 2016 when compared to 2012. Several species that emerge
+following summer rains, and that were commonly recorded in 2012,
+were much reduced in cover and abundance or not recorded at all in
+2016. We expect that many of these monsoonal species will persist in
+the soil seed bank and will be present during years of average or above-
+average monsoonal precipitation.
+Likewise, many of the early-successional or ruderal species were not
+as common in 2016. A pattern of increased abundance of ruderals
+would be expected immediately following such a large-scale dis-
+turbance event, but would be expected to gradually decrease through
+time (Laughlin and Fulé, 2008). Although we observed a decrease in
+some ruderal or disturbance-dependent species, such as Chenopodium
+capitatum (strawberry-blite) and Corydalis aurea (golden corydalis),
+other ruderal species continued to increase in frequency and to become
+dominant species in the plant community through 2016.
+We also observed a sharp decrease in the two seeded grains in 2016.
+It is not surprising that the seeded sterile wheat and barley decreased
+over time and eventually moved out of the burned area. Kuenzi et al.
+(2008) similarly found that seeded sterile wheat declined by three years
+after the Rodeo-Chediski Fire. Five native grass species were seeded by
+BAER teams after the Wallow Fire. All were already present in the A-S
+NF, so we were unable to determine if their presence and increases in
+cover and frequency post-ﬁre were due to seeding or natural occur-
+rence.
+4.2. Correlations with environmental variables
+Using BARC to assess soil burn severity, a USFS Rapid Assessment
+Team reported that 22% of the Wallow Fire footprint was unburned,
+47% was low severity, 14% was moderate severity, and 17% was high
+severity (Wadleigh, 2011). Vegetation burn severity is diﬃcult to assess
+(Saﬀord et al., 2008). However, within the dry mixed-conifer type,
+high-severity ﬁre was more prevalent than on the ﬁre as a whole.
+Roccaforte (2013) reports that 16% of the dry mixed-conifer within the
+Wallow Fire perimeter within Arizona was classiﬁed as unburned, 21%
+as low severity, about 15% as moderate severity, and about 48% as high
+severity.
+Our study was not designed to assess vegetation burn severity or to
+examine cause and eﬀect of various environmental factors, but in the
+untreated areas, we did ﬁnd positive correlations between ﬁre-induced
+tree mortality and plant cover as well as negative correlations between
+TPI, insolation and elevation and plant cover. These results suggest a
+shift primarily toward higher perennial graminoid cover at lower ele-
+vations in areas that experienced high severity ﬁre and high tree mor-
+tality. However, variation in species richness and diversity, rather than
+showing obvious and signiﬁcant trends between treated and untreated
+areas, may be occurring at smaller scales (e.g., unit/site or plot level).
+For example, microsites along streams typically have much higher
+richness and diversity than the surrounding forest.
+4.3. Community responses
+Strahan et al. (2016) found contemporary mixed-conifer forest tree
+assemblages to have signiﬁcantly lower multitrait functional diversity
+than pre-settlement forests and to be less dominated by ﬁre-tolerant and
+shade-intolerant tree species than in the late 19th century. Such func-
+tional shifts are thought to be due to anthropogenic ﬁre exclusion and
+selective timber harvests (Strahan et al., 2016). It would be reasonable
+to assume that the understory plant community in untreated units of
+our study had a signiﬁcant component of ﬁre-intolerant and shade-
+tolerant species prior to the Wallow Fire. Decreases in cover of shade-
+tolerant understory species, such as Pyrola sp. and recruitment of an-
+nual and biennial forbs can occur following ﬁre-induced tree mortality
+(Laughlin and Fulé, 2008). Results of our analyses indicated that
+Table 3
+Indicator species for treatments and years, with an arbitrary indicator value
+cutoﬀof 25, and calculated with the method of Dufrêne and Legendre (1997).
+All values signiﬁcant at p < 0.05.
+Untreated
+Achillea millefolium
+Common yarrow
+38
+Pinus ponderosa
+ponderosa pine
+43
+Treated
+Chenopodium sp.
+goosefoot
+39
+Conyza canadensis
+Canada horseweed
+30
+Elymus trachycaulus
+slender wheatgrass
+26
+Populus tremuloides
+quaking aspen
+45
+Pseudotsuga menziesii
+Douglas-ﬁr
+26
+Ribes pinetorum
+orange gooseberry
+33
+Rubus idaeus
+American red raspberry
+32
+2012
+Arenaria lanuginosa
+spreading sandwort
+46
+Chenopodium sp.
+goosefoot
+48
+Chenopodium capitatum
+blite goosefoot
+36
+Corydalis aurea
+golden corydalis
+33
+Dysphania graveolens
+fetid goosefoot
+61
+Elymus elymoides
+bottlebrush squirreltail
+39
+Erigeron divergens
+spreading ﬂeabane
+25
+Erigeron ﬂagellaris
+trailing ﬂeabane
+25
+Festuca arizonica
+Arizona fescue
+34
+Hordeum vulgare
+common barley
+46
+Koeleria macrantha
+junegrass
+40
+Laennecia schiedeana
+pineland marshtail
+37
+Muhlenbergia minutissima
+annual muhly
+46
+Noccaea fendleri
+Fendler’s pennycress
+25
+Oxalis decaphylla
+tenleaf woodsorrel
+40
+Taraxacum oﬃcinale
+common dandelion
+35
+Triticum aestivum
+common wheat
+56
+2016
+Agrostis scabra
+rough bentgrass
+40
+Antennaria parvifolia
+smalleaf pussytoes
+36
+Arenaria lanuginosa
+spreading sandwort
+27
+Carex geophila
+White Mountain sedge
+61
+Conyza canadensis
+Canada horseweed
+27
+Elymus elymoides
+bottlebrush squirreltail
+52
+Erigeron divergens
+spreading ﬂeabane
+36
+Erigeron ﬂagellaris
+trailing ﬂeabane
+45
+Erigeron speciosus
+aspen ﬂeabane
+37
+Festuca arizonica
+Arizona fescue
+48
+Heliomeris multiﬂora
+showy goldeneye
+37
+Koeleria macrantha
+junegrass
+48
+Laennecia schiedeana
+pineland marshtail
+51
+Muhlenbergia straminea
+screwleaf muhly
+35
+Muhlenbergia tricholepis
+pine dropseed
+33
+Pinus ponderosa
+ponderosa pine
+41
+Poa pratensis
+Kentucky bluegrass
+47
+Populus tremuloides
+quaking aspen
+36
+Pseudognaphalium macounii
+Macoun's cudweed
+43
+Rubus idaeus
+American red raspberry
+26
+Senecio wootonii
+Wooton's ragwort
+38
+Taraxacum oﬃcinale
+common dandelion
+47
+Verbascum thapsus
+common mullein
+57
+J.D. Springer et al.
+Forest Ecology and Management 429 (2018) 278–286
+284
+
+untreated units became more similar to treated units ﬁve years after the
+ﬁre and treated and untreated communities began to converge com-
+positionally, as well as in overall understory cover. This was likely due
+to tree mortality and reduced canopy cover in untreated units as well as
+reduced belowground competition (Metlen and Fiedler, 2006), leading
+to increases in shade intolerant, ﬁre-tolerant species in the community.
+In addition, Bray-Curtis distance measures and NMS ordinations
+suggest that species composition changes are also being driven by
+physical environmental factors including slope, aspect, insolation and
+elevation. Thus, reduced tree canopy in concert with site factors such as
+slope and aspect have favored increases in ruderal and wind-dispersed
+species, particularly grasses and members of the Asteraceae. Fornwalt
+and Kaufmann (2014) reported that the degree of post-ﬁre composi-
+tional change following the Hayman Fire in central Colorado was highly
+dependent on burn severity. Shive et al. (2013b) found plant commu-
+nities to be distinctly diﬀerent following the Rodeo-Chediski in the
+early years of the study between pre-ﬁre treated and untreated areas.
+However, six and seven years later, the communities had begun to
+converge, possibly due to colonization across these areas through wind
+dispersal and other modes of seed transport. Likewise, the treated and
+untreated areas in our study were fairly similar compositionally in
+2016, even as they have shifted over time toward communities domi-
+nated by perennial grasses and other species that can tolerate more
+xeric conditions promoted by loss of live tree canopy cover (Stevens
+et al., 2015).
+5. Conclusions
+In this study we examined species compositional changes ﬁve years
+after a mega-wildﬁre in areas that were treated as part of a landscape
+hazardous fuel reduction project. Understory species cover was sig-
+niﬁcantly higher ﬁve years after the Wallow Fire in areas that were
+treated as part of the fuel reduction project despite the variability in ﬁre
+severity and tree mortality across the ﬁre. Our results suggest that fuel
+reduction treatments led to increased cover of native species im-
+mediately following the ﬁre and that this increased cover is still evident
+and persistent ﬁve years later, lending weight to the usefulness of ha-
+zardous fuel reduction treatments in promoting native plant cover.
+However, likely because of more open conditions across much of the
+ﬁre’s footprint, non-native species such as Bromus tectorum, Carduus
+nutans, Cirsium vulgare, Poa compressa (Canada bluegrass), Poa pratensis,
+Rumex acetosella (sheep sorrel), and Tragopogon dubius (yellow salsify)
+are increasing in frequency across the study area. Our results suggest
+that community composition is being driven by increased insolation
+following loss of tree canopy. Species that beneﬁt from the increased
+light and temperatures, such as some shrubs, wind-dispersed forbs, and
+perennial graminoids, have increased in cover and frequency following
+hazardous fuel treatments and wildﬁre. Warmer drier climatic condi-
+tions are likely to drive increases in large mega-ﬁres in mixed-conifer
+forests of the Southwest and to lead to a plant community more tolerant
+of drought and warm temperatures. Additional long-term studies that
+elucidate interactions of wildﬁre, ecological restoration, and hazardous
+fuel treatments are extremely useful. These studies will be valuable for
+improving conservation of forest ecosystems in a changing climate.
+Acknowledgements
+The authors would like to thank staﬀand students of the Ecological
+Restoration Institute at Northern Arizona University for ﬁeld support,
+particularly J. Archibald, J. Beale, C. Berlioux, M. Daniels, S. Davis, S.
+Dragic, A. Formanack, C. Gildar, K. Guetz, E. Haworth, K. Kralicek, C.
+LeFevre, C. McGlone, T. Neitupski, M. Prentice, T. Ridlinghafer, C.
+Schroeder, A. Simpson, A. Sturgill, L. Thompson, S. Till, Z. Timmons, S.
+Turner, and J. Vignochi for collecting botanical survey data. In addi-
+tion, we thank S. Curran, J. Kursky, and D. Normandin for assistance in
+data collection, management, and logistical assistance. The authors also
+thank the Apache-Sitgreaves National Forest staﬀfor treatment and
+seeding information, Wallow Fire information and permitting. This
+research was funded by a grant from the USDA Forest Service. NAU is
+an equal opportunity provider.
+References
+Abella, S.R., Springer, J.D., 2015. Eﬀects of tree cutting and ﬁre on understory vegetation
+in mixed conifer forests. For. Ecol. Manage. 335, 281–299. https://doi.org/10.1016/
+j.foreco.2014.09.009.
+Anderson, M.J., 2001. A new method for non-parametric multivariate analysis of var-
+iance. Austral Ecol. 26, 32–46. https://doi.org/10.1111/j.1442-9993.2001.01070.
+pp. x.
+Beyers, J.L., 2004. Postﬁre seeding for erosion control: eﬀectiveness and impacts on
+native plant communities. Cons. Biol. 18, 947–956. https://doi.org/10.1111/j.1523-
+1739.2004.00523.x.
+Cain, M.L., Milligan, B.G., Strand, A.E., 2000. Long-distance seed dispersal in plant po-
+pulations. Am. J. Bot. 87, 1217–1227.
+Cram, D.S., Baker, T.T., Fernald, A.G., Cibils, A.F., VanLeeuwen, D.M., 2015. Fuel and
+vegetation trends after wildﬁre in treated versus untreated forests. For. Sci. 61,
+753–762. https://doi.org/10.5849/forsci.13-138.
+Dieterich, J.H., 1983. Fire history of southwestern mixed-conifer - a case-study. For. Ecol.
+Manage. 6, 13–31. https://doi.org/10.1016/0378-1127(83)90003-8.
+Dufrêne, M., Legendre, P., 1997. Species assemblages and indicator species: the need for a
+ﬂexible asymmetrical approach. Ecol. Monogr. 67, 345–366. https://doi.org/10.
+1890/0012-9615(1997) 067[0345:SAAIST]2.0.CO;2.
+Faith, D.P., Minchin, P.R., Belbin, L., 1987. Compositional dissimilarity as a robust
+measure of ecological distance. Vegetatio 69, 57–68.
+Fehmi, J.S., 2010. Confusion among three common plant cover deﬁnitions may result in
+data unsuited for comparison. J. Veg. Sci. 21, 273–279. https://doi.org/10.1111/j.
+1654-1103.2009.01141.x.
+Fornwalt, P.J., Kaufmann, M.R., 2014. Understorey plant community dynamics following
+a large, mixed severity wildﬁre in a Pinus ponderosa-Pseudotsuga menziesii forest,
+Colorado USA. J. Veg. Sci. 25, 805–818. https://doi.org/10.1111/jvs.12128.
+Fulé, P.Z., Korb, J.E., Wu, R., 2009. Changes in forest structure of a mixed-conifer forest,
+southwestern Colorado USA. For. Ecol. Manage. 258, 1200–1210. https://doi.org/10.
+1016/j.foreco.2009.06.015.
+Grissino-Mayer, H.D., Baisan, C.H., Swetnam, T.W., 1995. Fire history in the Pinaleño
+Mountains of southeastern Arizona: eﬀects of human-related disturbances. In:
+Debano, L.F., Gottfried, G.J., Hamre, R.H., Edminster, C.B., Ffolliott, P.F., Ortega-
+Rubio, A. (Eds.), Biodiversity and Management of the Madrean Archipelago: The Sky
+Islands of Southwestern United States and Northwestern Mexico. USDA For. Serv.
+GTR-RM-264, pp. 399–407.
+Heydel, F., Cunze, S., Bernhardt-Römermann, M., Tackenberg, O., 2014. Long-distance
+seed dispersal by wind: disentangling the eﬀects of species traits, vegetation types,
+vertical turbulence and wind speed. Ecol. Res. 29, 641–651. https://doi.org/10.
+1007/s11284-014-1142-5.
+Huﬀman, D.W., Zegler, T.J., Fulé, P.Z., 2015. Fire history of a mixed conifer forest on the
+Mogollon Rim, northern Arizona USA. Int. J. Wildland Fire. 24, 680–689. https://doi.
+org/10.1071/WF14005.
+Huisinga, K.D., Laughlin, D.C., Fulé, P.Z., Springer, J.D., McGlone, C.M., 2005. Eﬀects of
+an intense prescribed ﬁre on understory vegetation in a mixed conifer forest. J.
+Torrey Bot. Soc. 132, 590–601. https://doi.org/10.3159/1095-5674(2005)
+132[590:EOAIPF]2.0.CO;2.
+Hurteau, S., 2016. White Mountains Stewardship Project: Evaluating the Impacts of the
+Nation’s First Long-Term Stewardship Contract. Final Report, Integrated Biological
+Solutions LLC.
+Inciweb, 2012. Wallow Fire Maps. accessed 14 March 2012. http://inciweb.nwcg.gov/
+incident/maps/2262/1/.
+Integrated Taxonomic Information System (ITIS), 2017. (24 August 2017).
+Jenness, J. 2006. Topographic Position Index (tpi_jen.avx) extension for ArcView 3.x, v. 1.
+2. Jenness Enterprises. Available at: http://www.jennessent.com/arcview/tpi.htm.
+Kalies, E.L., Yocom Kent, L.L., 2016. Tamm Review: are fuel treatments eﬀective at
+achieving ecological and social objectives? A systematic review. For. Ecol. Manage.
+375, 84–95. https://doi.org/10.1016/j.foreco.2016.05.021.
+Korb, J.E., Daniels, M.L., Laughlin, D.C., Fulé, P.Z., 2007. Understory communities of
+warm/dry mixed conifer in southwestern Colorado Southwest. Naturalist 52,
+493–503. https://doi.org/10.1894/0038-4909(2007) 52[493:UCOWMF]2.0.CO;2.
+Kuenzi, A.M., Fulé, P.Z., Sieg, C.H., 2008. Eﬀects of ﬁre severity and pre-ﬁre stand
+treatment on plan community recovery after a large wildﬁre. For. Ecol. Manage. 255,
+855–865. https://doi.org/10.1016/j.foreco.2007.10.001.
+Laing, L., Ambos, N., Subirge, T., McDonald, C., Nelson, C., Robbie, W., 1989. Terrestrial
+Ecosystems Survey of the Apache-Sitgreaves National Forest. USDA For. Serv,
+Southwestern Region, Albuquerque, NM.
+Laughlin, D.C., Fulé, P.Z., 2008. Wildland ﬁre eﬀects on understory plant communities in
+two ﬁre-prone forests. Can. J. For. Res. 38, 133–142. https://doi.org/10.1139/X07-
+118.
+Littell, J.S., McKenzie, D., Peterson, D.L., Westerling, A.L., 2009. Climate and wildﬁre
+area burned in western U.S. ecoprovinces, 1916–2003. Ecol. Appl. 19, 1003–1021.
+Margolis, E.Q., Huﬀman, D.W., Iniguez, J.M., 2013. Southwestern mixed-conifer forests:
+evaluating reference conditions to guide ecological restoration treatments. Ecological
+Restoration Institute, Working Paper 28. AZ, Flagstaﬀ, pp. 8 p..
+Mason, G.J., Baker, T.T., Cram, D.S., Boren, J.C., Fernald, A.G., VanLeeuwen, D.M., 2007.
+Mechanical fuel treatment eﬀects on fuel loads and indices of crown ﬁre potential in a
+J.D. Springer et al.
+Forest Ecology and Management 429 (2018) 278–286
+285
+
+south central New Mexico dry mixed conifer forest. For. Ecol. Manage. 251, 195–204.
+https://doi.org/10.1016/j.foreco.2007.06.006.
+McCune, B., Meﬀord, M.J., 2015. PC-ORD. Multivariate Analysis of Ecological Data.
+Version 7.02. MjM Software. Gleneden Beach, Oregon.
+Metlen, K.L., Fiedler, C.E., 2006. Restoration treatment eﬀects on the understory of
+ponderosa pine/Douglas-ﬁr forests in western Montana. USA. For. Ecol. Manage. 222,
+355–369. https://doi.org/10.1016/j.foreco.2005.10.037.
+Moir, W.H., Ludwig, J.A., 1979. A classiﬁcation of spruce-ﬁr and mixed conifer habitat
+types of Arizona and New Mexico. Fort Collins, CO: USDA For. Serv. RM-207. 47 p.
+Pase, C.E., Brown, D.E., 1994. Madrean montane conifer forest. In: Brown, D.E. (Ed.),
+Biotic Communities: Southwestern United States and Northwestern Mexico.
+University of Utah Press, Salt Lake City, Utah, pp. 43–48.
+Peck, J.E., 2016. Multivariate analysis for ecologists: step-by-step, second edition. MjM
+Software Design, Gleneden Beach, OR.
+Reynolds, R.T., Meador, A.J.S., Youtz, J.A., Nicolet, T., Matonis, M.S., Jackson, P.L.,
+DeLorenzo, D.G., Graves, A.D., 2013. Restoring composition and structure in south-
+western frequent-ﬁre forests: a science-based framework for improving ecosystem
+resiliency. USDA For. Serv RMRS-GTR-310.
+Robichaud, P.R., Lewis, S.A., Wagenbrenner, J.W., Ashmun, L.F., Brown, R.E., 2013. Post-
+ﬁre mulching for runoﬀand erosion mitigation: Part I: eﬀectiveness at reducing
+hillslope erosion rates. Catena. 105, 75–92. https://doi.org/10.1016/j.catena.2012.
+11.015.
+Roccaforte, J.P., 2013. The Wallow Fire and its eﬀects on mixed-conifer forest: compar-
+ison with reference conditions. Special report to the Apache-Sitgreaves National
+Forests, USDA Forest Service, Region 3. Ecological Restoration Institute, Northern
+Arizona University, Flagstaﬀ, AZ.
+Romme, W.H., Floyd, M.L., Hanna, D., 2009. Historical range of variability and current
+landscape condition analysis: South Central Highlands Section, Southwestern
+Colorado & Northwestern New Mexico. Colorado State University, Colorado Forest
+Restoration Institute, Fort Collins, CO, and USDA Forest Service, Rocky Mountain
+Region, Golden, CO.
+Saﬀord, H.D., Miller, J., Schmidt, D., Roath, B., Parsons, A., 2008. BAER soil burn severity
+maps do not measure eﬀects to vegetation: A comment on Odion and Hanson (2006).
+Ecosystems. http://www.jstor.org/stable/40296263.
+SAS JMP®, Version < Pro 13 > . SAS Institute Inc., Cary, NC, 1989–2007.
+Schoennagel, T., Balch, J.K., Brenkert-Smith, H., Dennison, P.E., Harvey, B.J., Krawchuk,
+M.A., Mietkiewicz, N., Morgan, P., Moritz, M.A., Rasker, R., Turner, M.G., Whitlock,
+C., 2017. Adapt to more wildﬁre in western North American forests as climate
+changes. PNAS 114, 4582–4590. https://doi.org/10.1073/pnas.1617464114.
+Shadish, W., Cook, T., Campbell, D., 2002. Experimental and Quasi-Experimental Designs
+for Generalized Causal Inference. Houghton Miﬄin, New York, pp. 656.
+Shive, K.L., Sieg, C.H., Fulé, P.Z., 2013a. Pre-wildﬁre management treatments interact
+with ﬁre severity to have lasting eﬀects on post-wildﬁre vegetation response. For.
+Ecol. Manage. 297, 75–83. https://doi.org/10.1016/j.foreco.2013.02.021.
+Shive, K.L., Kuenzi, A.M., Sieg, C.H., Fulé, P.Z., 2013b. Pre-ﬁre fuel reduction treatments
+inﬂuence plant communities and exotic species 9 years after a large wildﬁre. Appl.
+Veg. Sci. 16, 457–469. https://doi.org/10.1111/avsc.12015.
+Sitko, S., Hurteau, S., 2010. Evaluating the impacts of forest treatments: The ﬁrst ﬁve
+years of the White Mountain Stewardship Project. The Nature Conservancy,
+Phoenix, AZ.
+Stevens, J.T., Saﬀord, H.D., Harrison, S., Latimer, A.M., 2015. Forest disturbance accel-
+erates thermophilization of understory plant communities. J. Ecol. 103, 1253–1263.
+https://doi.org/10.1111/1365-2745.12426.
+Stevens-Rumann, C.S., Sieg, C.H., Hunter, M.E., 2012. Ten years after wildﬁres: how does
+varying tree mortality impact ﬁre hazard and forest resiliency? For. Ecol. Manage.
+267, 199–208. https://doi.org/10.1016/j.foreco.2011.12.003.
+Stevens-Rumann, C., Shive, K., Fulé, P., Sieg, C.H., 2013. Pre-wildﬁre fuel reduction
+treatments result in more resilient forest structure a decade after wildﬁre. Int. J.
+Wildland Fire 22, 1108–1117. https://doi.org/10.1071/WF12216.
+Strahan, R.T., Sánchez-Meador, A.J., Huﬀman, D.W., Laughlin, D.C., 2016. Shifts in
+community-levels traits and functional diversity in a mixed conifer forest: a legacy of
+land-use change. J. Appl. Ecol. 53, 1755–1765. https://doi.org/10.1111/1365-2664.
+12737.
+Strom, B.A., Fulé, P.Z., 2007. Pre-wildﬁre fuel treatments aﬀect long-term ponderosa pine
+forest dynamics. Int. J. Wildland Fire 16, 128–138. https://doi.org/10.1071/
+WF0605.
+Thomson, F.J., Moles, A.T., Ault, T.D., Kingsford, R.T., 2011. Seed dispersal distance is
+more strongly correlated with plant height than with seed mass. J. Ecology 99,
+1299–1307. https://doi.org/10.1111/j.1365-2745.2011.01867.x.
+Turner, M.G., Baker, W.L., Peterson, C.J., Peet, R.K., 1998. Factors inﬂuencing succession:
+lessons from large, infrequent natural disturbances. Ecosystems 1, 511–523. http://
+www.jstor.org/stable/3658752.
+USDA, NRCS, 2017. The PLANTS Database. http://plants.usda.gov (last accessed 29 June
+2017). National Plant Data Team, Greensboro, NC 27401-4901 USA.
+Wadleigh, L., 2011. Wallow Fire Large Scale Event Recovery Rapid Assessment Team
+Fire/fuels Report. Apache-Sitgreaves National Forests.
+Waltz, A.E.M., Stoddard, M.T., Kalies, E.L., Springer, J.D., Huﬀman, D.W., Sánchez-
+Meador, A., 2014. Eﬀectiveness of fuel reduction treatments: assessing metrics of
+forest resiliency and wildﬁre severity after the Wallow Fire AZ. For. Ecol. Manage.
+334, 43–52. https://doi.org/10.1016/j.foreco.2014.08.026.
+Westerling, A.L., Hidalgo, H.G., Cayan, D.R., Swetnam, T.W., 2006. Warming and earlier
+spring increase western US forest wildﬁre activity. Science 313, 940–943. https://
+doi.org/10.1126/science.1128834.
+Western Regional Climate Center, Remote Automated Weather Stations, 2017. https://
+raws.dri.edu/cgi-bin/rawMAIN.pl?azAALP (accessed 22 March 2017).
+White, M., 2008. Field guide to noxious and invasive weeds known to occur or are po-
+tentially occurring on the apache-sitgreaves. National Forests. USDA For. Serv, MR-
+R3-01-2.
+Wilkin, K.M., Ackerly, D.D., Stephens, S.L., 2016. Climate change refugia, ﬁre ecology
+and management. Forests. 7 (4), 77. https://doi.org/10.3390/f7040077.
+Williams, J., 2013. Exploring the onset of high-impact mega-ﬁres through a forest land
+management prism. For. Ecol. Manage. 294, 4–10. https://doi.org/10.1016/j.foreco.
+2012.06.030.
+J.D. Springer et al.
+Forest Ecology and Management 429 (2018) 278–286
+286

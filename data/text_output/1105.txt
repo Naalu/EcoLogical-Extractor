@@ -1,0 +1,1591 @@
+ORIGINAL RESEARCH
+Open Access
+Moisture and vegetation cover limit
+ponderosa pine regeneration in high-
+severity burn patches in the southwestern
+US
+Megan P. Singleton1*
+, Andrea E. Thode1, Andrew J. Sánchez Meador1,2 and Jose M. Iniguez3
+Abstract
+Background: Fire regimes are shifting in ponderosa pine (Pinus ponderosa Lawson & C. Lawson)-dominated forests,
+raising concern regarding future vegetation patterns and forest resilience, particularly within high-severity burn
+patches. The southwestern US has recently experienced a marked increase in large fires that produce large, high-
+severity patch interiors, with few surviving trees. These areas could be more susceptible for forest loss and
+conversions to alternative vegetation types than areas closer to the forest edge with more available seed sources.
+To better understand forest recovery, we surveyed ponderosa pine regeneration within edge and core areas
+(>200 m from edge) of high-severity patches in ten fires that burned between 1996 to 2008 across Arizona
+and New Mexico, USA. Specifically, we compared regeneration density, height, and canopy cover in patch
+edge and core areas and used generalized linear models to investigate the abiotic and biotic factors that
+contribute to ponderosa pine seedling establishment and density.
+Results: High-severity burn-patch edge and core plots were not significantly different in seedling density,
+height, or canopy cover across fires. Seedling establishment was more likely at higher-elevation mesic sites
+and less likely when Gambel oak (Quercus gambelii Nutt.) was more abundant. Seedling density was
+negatively impacted by shrub, grass, and Gambel oak cover.
+Conclusions: Regeneration density varied among fires but analysis of regeneration in aggregated edge and
+core plots showed that abundance of seed availability was not the sole factor that limited ponderosa pine
+regeneration, probably because of surviving tree refugia within high-severity burn patches. Furthermore, our
+findings emphasize that ponderosa pine regeneration in our study area was significantly impacted by xeric
+topographic environments and vegetation competition. Continued warm and dry conditions and increased
+wildfire activity may delay the natural recovery of ponderosa pine forests, underscoring the importance of
+restoration efforts in large, high-severity burn patches.
+Keywords: Arizona, fire ecology, high severity, New Mexico, ponderosa pine, seedling establishment, tree
+regeneration
+© The Author(s). 2021 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+* Correspondence: mp754@nau.edu
+1Northern Arizona University, School of Forestry, PO Box 15018, Flagstaff,
+Arizona 86011, USA
+Full list of author information is available at the end of the article
+Fire Ecology
+Singleton et al. Fire Ecology           (2021) 17:14 
+https://doi.org/10.1186/s42408-021-00095-3
+
+Resumen
+Antecedentes: Los regímenes de fuego están cambiando en bosques dominados por pino ponderosa (Pinus
+ponderosa Lawson & C. Lawson), lo que suscita preocupación sobre los patrones de vegetación y la resiliencia del
+bosque, particularmente en parches quemados con alta severidad. El suroeste de los EEUU ha experimentado un
+incremento marcado en el número de incendios que producen grandes parches, en los cuales sobreviven muy
+pocos árboles. Esas áreas pueden ser más susceptibles a la pérdida de bosques y a su conversión a tipos
+alternativos de vegetación que aquellas áreas cercanas a los bordes del bosque, que tienen más disponibilidad de
+fuentes de semillas. Para entender mejor la recuperación del bosque, relevamos la regeneración de pino ponderosa
+dentro del borde y en áreas centrales (>200 m del borde) de parches quemados con alta severidad en 10
+incendios que quemaron desde 1996 a 2008 a lo largo de Arizona y Nuevo México, EEUU. Específicamente,
+comparamos la densidad de la regeneración, altura, y cobertura del dosel en bordes y áreas centrales, y usamos
+modelos lineares generalizados para investigar los factores bióticos y abióticos que contribuyen al establecimiento y
+densidad de plántulas de pino poderosa.
+Resultados: Los parches de bordes y áreas centrales quemados con alta severidad no mostraron diferencias
+significativas en la densidad de plántulas, en altura, o cobertura del dosel entre los distintos incendios. El
+establecimiento de plántulas fue más probable en sitios mésicos elevados y menos probables cuando el roble
+gambel (Quercus gambelii Nutt.) era más abundante. La densidad de plántulas fue impactada negativamente por la
+cobertura de arbustos, pastos y roble gambel.
+Conclusiones: La densidad de la regeneración varió entre distintos incendios, aunque el análisis de la regeneración
+en bordes agregados y parcelas en áreas centrales mostraron que la abundancia en la disponibilidad de semillas no
+fue el único factor que limitó la regeneración de pino ponderosa, probablemente debido a los refugios de pinos
+sobrevivientes dentro de los parques quemados a alta severidad. Además, nuestros resultados enfatizan que la
+regeneración del pino ponderosa en nuestra área de estudios fue impactada significativamente por las condiciones
+topográficas xéricas y la competencia de la vegetación. La continuación de condiciones secas y cálidas y el
+incremento en la actividad de los incendios puede demorar la recuperación natural de los bosques de pino
+ponderosa, subrayando la importancia de los esfuerzos de restauración en grandes parches quemados con alta
+severidad.
+Introduction
+In the last century, fire regimes have shifted drastically
+in dry forests across the southwestern US, particularly
+those dominated by ponderosa pine (Pinus ponderosa
+Lawson & C. Lawson). Prior to Euro-American settle-
+ment, frequent, low-severity fire limited fuel accumula-
+tions and tree densities and promoted open, uneven-
+aged stands (Swetnam and Baisan 1996; Covington et al.
+1997). However, human-induced disruptions to fire re-
+gimes (e.g., livestock grazing, fire exclusion) have re-
+sulted in changes in forest structure and composition
+such that they now support anomalous crown fire
+(Covington and Moore 1994; Fulé et al. 1997; Moore
+et al. 1999; Agee and Skinner 2005; Savage and Mast
+2005). Current forest conditions, in combination with a
+warmer and drier climate, have given rise to an increase
+in high-severity fire in Southwestern forests over the
+past several decades (Singleton et al. 2019; Mueller et al.
+2020). Given that ponderosa pines are poorly adapted to
+such rapid shifts in fire regime and climate, there is
+heightened concern that forests will not return to prior
+composition, structure, and function. Furthermore, ex-
+pected
+increases
+in
+fire
+activity,
+fire
+severity,
+and
+temperatures may further limit recovery and threaten
+the sustainability of ponderosa pine-dominated forest.
+One key component of forest resilience (i.e., the ability
+of a system to absorb disturbance and return to a similar
+state following disturbance) is the recovery of natural re-
+generation (Johnstone et al. 2016). Ponderosa pine re-
+generation is governed by life history traits that facilitate
+persistence under a regime of frequent, low-severity fire
+(Pearson 1923). Various adaptations allow mature pines
+to survive surface fires including thick, insulating bark,
+self-pruning limbs, long needles that protect buds, and
+thick bud scales that protect meristem tissue. (Schubert
+1974; He et al. 2012; Keeley 2012). Ponderosa pine is an
+obligate-seeding species, with heavy, small-winged seed
+that does not facilitate long-distance wind dispersal or
+rapid colonization of a site after stand-replacing fire.
+Following severe wildfire, seedling recruitment is heavily
+dependent upon seed availability from adjacent mature
+conifers where areas near the edges of high-severity
+patches (<200 m from edge) tend to have greater seed-
+ling densities (Haire and McGarigal 2010; Chambers
+et al. 2016; Harvey et al. 2016; Kemp et al. 2016; Haffey
+et al. 2018). However, these adaptive traits are at odds
+Singleton et al. Fire Ecology           (2021) 17:14 
+Page 2 of 15
+
+with rapid changes in fire severity and climate, making
+continued survival of ponderosa pine in post-high-
+severity fire landscapes uncertain.
+Contemporary increases in fire size in the Southwest
+are associated with large high-severity burn-patch sizes
+outside the historical range of variation (HRV) for dry
+forests (Singleton 2020). Over the past three decades,
+large high-severity patches >100 ha account for 61% of
+the landscape burned at high severity across all forest
+types (M. Singleton, Northern Arizona University, Flag-
+staff, Arizona, USA, unpublished data). In contrast, his-
+torical high-severity burn-patch sizes in dry forests were
+typically less than 1 ha (Pearson 1923) but up to 60 ha
+(Iniguez et al. 2009). Increasing fire size also corresponds
+with large high-severity burn-patch interiors >200 m
+from forest edges (i.e., total core area, Singleton 2020)
+leaving expansive areas without surviving trees. Since
+ponderosa pine regeneration is limited to shorter dis-
+tances from seed trees, it is unclear if pine regeneration
+will occur within these large, high-severity burn-patch
+interiors (hereafter, core areas). Under a warming cli-
+mate, altered fire regimes, and a lack of abundant seed
+sources, high-severity core areas are predicted to be in-
+creasingly susceptible to forest loss and conversion to
+non-forest states (Walker et al. 2018; Parks et al. 2019;
+Coop et al. 2020). Therefore, understanding regeneration
+patterns in large, severely burned areas is critical in
+managing for forest resilience.
+In addition to seed dispersal, successful ponderosa
+pine seedling establishment also depends on site condi-
+tions including biotic (i.e., fungal communities, grass
+and shrub competition) and abiotic (i.e, topography,
+slope, moisture environments) factors (Marcolin et al.
+2019; Owen et al. 2019). Site conditions in large, high-
+severity burn patches can potentially vary between edge
+and core areas, thereby influencing conifer regeneration.
+For example, recent greenhouse research points to
+slower growth rates of ponderosa pine in high-severity
+burn-patch core areas (J. Lippert, Northern Arizona
+University, Flagstaff, Arizona, USA, unpublished data),
+suggesting that seedbed conditions may be less favorable
+or may have less suitable site conditions (i.e., lack of
+shade, less moisture) for successful seedling regeneration
+than areas closer to patch edges (but see Owen et al.
+2020). Furthermore, Owen et al. (2019) found that high-
+severity burn-patch core areas have lower density and
+richness of ectomycorrhizal fungi, which play a role in
+nutrient uptake and plant growth, compared to edge
+plots in two Southwestern fires. Since burn-patch edges
+contain more available seed trees, shade, and potentially
+different moisture environments and fungal communi-
+ties, we would expect to see increased seedling densities,
+more vigorous growth, and decreased abundance of
+other plant species compared to the potentially harsher
+environmental
+conditions
+within
+patch
+core
+areas.
+However, more research is needed in assessing differ-
+ences between burn-patch edge and core areas across
+many fires in the Southwest, particularly if ponderosa
+pine regeneration density and growth characteristics
+(i.e., height, canopy cover) and vegetation abundance
+differ. Understanding such differences will enable man-
+agers to make better informed decisions to understand
+and manage post-fire landscapes.
+Given expected projections of climate and fire activity,
+it is also important to understand which biotic and
+abiotic factors contribute to regeneration success and
+densities in the Southwest. Previous research assessing
+drivers of post-fire conifer regeneration in high-severity
+burn patches demonstrated highly variable results be-
+tween studies (Korb et al. 2019). Thus, it remains un-
+clear if this variation is natural (i.e., geographic) or
+related to differences in methods. For example, most of
+these studies were based on a small number of fires
+(Haire and McGarigal 2010; Owen et al. 2017), on small
+plot sizes (Haffey et al. 2018), or were conducted outside
+the Southwest (Bonnet et al. 2005; Dodson and Root
+2013; Chambers et al. 2016; Kemp et al. 2016; Rother
+and Veblen 2016). Since there is potential site variation
+within burn patches and large geographic variation in
+factors that drive conifer regeneration between regions
+in the US (Korb et al. 2019), the goal of this study was
+to assess ponderosa pine regeneration in high-severity
+burn-patch edge and core areas and provide a regionally
+focused assessment of the biotic and abiotic factors that
+affect ponderosa pine forest recovery across the South-
+west. Here we quantified natural regeneration in ten
+wildfires in northern Arizona and New Mexico, USA, in
+high-severity areas next to the forest edge and in core
+areas (>200 m from forest edges) and asked:
+(1) Do site conditions such as regeneration
+characteristics (density, height, canopy cover) and
+vegetation competition differ between edge and
+core plots?
+(2) What are the abiotic (i.e., topography and climate)
+and biotic (i.e., plant competition) drivers of
+ponderosa pine establishment?
+(3) Given successful regeneration, what are the drivers
+of seedling density?
+Methods
+Study area and site selection
+We collected field data during the summers of 2018 and
+2019 in high-severity burn patches from ten recent fires
+(1996 to 2008) across northern Arizona and New
+Mexico (Fig. 1). These fires burned in five national for-
+ests and ranged from approximately 1650 to 181 000 ha
+in area burned, of which 430 to 60 000 ha burned
+Singleton et al. Fire Ecology           (2021) 17:14 
+Page 3 of 15
+
+severely. We selected fires and burn patches based on
+the following criteria: (1) fire must have occurred prior
+to 2010 to allow for enough time for natural regener-
+ation; (2) fire must have burned in ponderosa pine-
+dominated vegetation type; (3) burn patches must not be
+reburned or had occurrence of management activities
+such as planting or thinning; (4) burn patches must con-
+tain core area, defined as area exceeding 200 m distance
+from
+forest
+edge;
+and
+(5)
+burn
+patches
+must
+be
+accessible by foot. The number of sites per fire were
+based on these criteria.
+Additional tree species found in the study area were
+most commonly Gambel oak (Quercus gambelii Nutt.),
+pinyon pine (Pinus edulis), alligator juniper (Juniperus
+deppeana Steud.), Rocky Mountain juniper (Juniperus
+scopulorum Sarg.), and oneseed juniper (Juniperus mono-
+sperma [Engelm.] Sarg.). Understory plant communities
+included a variety of short-statured shrubs including
+rubber
+rabbitbrush
+(Ericameria
+nauseosa
+[Pall.]
+ex
+Pursh) G.L. Nesom & Baird), kinnikinnick (Arctostaphy-
+los uva-ursi [L.] Spreng.), broom snakeweed (Gutierrezia
+sarothrae), Fendler’s ceanothus (Ceanothus fendleri A.
+Gray), and big sagebrush (Artemisia tridentata Nutt.).
+Taller shrubs included Utah serviceberry (Amelanchier
+utahensis Koehne), New Mexico locust (Robinia neo-
+mexicana A. Gray), cliffrose (Purshia mexicana [D. Don]
+Henrickson), blue elderberry (Sambucus nigra L. spp.
+cerulea [Raf.] R. Bolli), skunkbush sumac (Rhus trilobata
+Nutt.), gooseberry (Ribes montigenum McClathie), and
+wax currant (Ribes cereum Douglas).
+The climate within the study area is warm and semi-
+arid with monsoon rains in late summer (July to
+September) and winter snow providing the primary
+sources of moisture for the region (Sheppard et al. 2002).
+Within fire perimeters, mean winter (January) and sum-
+mer (July) temperatures ranged from −4.6 to 3.5 °C and
+13.9 to 23.2 °C, respectively. Mean annual precipitation
+ranged from 362 to 878 mm (Prism Climate Group,
+Fig. 1 Map of study area showing location of ten fires (black polygons) surveyed for post-fire regeneration in dry conifer forests across northern
+Arizona and New Mexico, USA, in 2018 and 2019. Fire occurrence dates ranged from 1996 to 2008. Green area represents the distribution of
+forested and woodland area
+Singleton et al. Fire Ecology           (2021) 17:14 
+Page 4 of 15
+
+https://prism.oregonstate.edu/).
+Elevation
+ranged
+from
+1539 to 3173 m as recorded by the lowest and highest
+pixels within fire perimeters in digital elevation models,
+and fires spanned approximately 2.5 degrees in latitude
+(~320 km)
+Field data collection
+We used satellite-derived relative differenced normalized
+burn ratio (RdNBR) from the Monitoring Trends in
+Burn Severity Project and classified burned areas as high
+severity
+using
+a
+field-calibrated
+threshold
+(≥643;
+Eidenshink et al. 2007; Miller and Thode 2007; Singleton
+et al. 2019). We used the Southwest Ecological Restor-
+ation Unit (ERU) vegetation layer to identify burn
+patches that were ponderosa pine-dominated forests.
+The ERU framework identifies pre-fire vegetation by
+grouping homogenous vegetation classes based on simi-
+lar site potential and historical disturbance regimes
+(Wahlberg et al. 2014). Using ArcGIS 10.7 (ESRI,
+Redlands, California, USA), we generated core areas by
+buffering classified high-severity 30 m pixels 200 meters
+inward (Haire and McGarigal 2010). We define a high-
+severity patch as contiguous area of classified high-
+severity pixels within the ponderosa pine vegetation class
+that is large enough to contain core area. Within
+mapped high-severity burn patches, we established two
+transects in a random direction (azimuth 0° to 359°) from
+the centroid of the burn patch. Along each transect, we
+established two circular 30 m radius plots (0.28 ha), one
+near the forest edge (≤60 m) and the other within the core
+area (≥200 m). One transect was established when a burn
+patch was smaller and its area did not permit two tran-
+sects. (Table 1). We did not exclude establishing core plots
+near small groups of surviving trees that were undetected
+as “unburned islands” during burn severity classification
+(generally <10 trees), as this represents the heterogeneity
+of burned areas and small islands are important for regen-
+erating high-severity patch interiors (Coop et al. 2019;
+Coop et al. 2020). Plot sizes were sufficiently large to
+minimize the likelihood of seedling absences, to capture
+variability in all other biotic variables, and to better match
+the coarse-scale satellite-derived variables (Table 2).
+Within each plot, we tallied the number of tree seed-
+lings >15 cm tall, categorized seedlings into six height
+size classes (15 to 30 cm, 30 to 50 cm, 50 to 75 cm, 75
+to 100 cm, 100 to 137 cm, >137 cm), and recorded tree
+species. If seedlings were greater than 1.37 m tall, we re-
+corded diameter at breast height (dbh) or diameter at
+root collar for juniper species. We also established a
+nested 15 m radius subplot in which we measured the
+canopy cover for each seedling by taking perpendicular
+measurements of the long and short side of the canopy.
+To quantify vegetation competition, we estimated
+shrub and grass cover within each plot by establishing
+four 30 m transects in each cardinal direction from the
+plot center. Along each transect, we sampled shrubs
+using the line-intercept method and recorded species.
+We also used this method to estimate Quercus gambelii
+Nutt. (hereafter, Gambel oak) cover since stems tended
+be less than 1.37 m dbh and were most often in dense
+thickets. We measured Gambel oak separately from shrub
+cover because of its potential facilitative effect on ponder-
+osa pine regeneration in Southwestern fires (Owen et al.
+2017). We measured grass cover by making ocular esti-
+mates within two 1 m2 quadrats along each 30 m transect
+spaced at 10 m and 20 m (n = 8 per plot). From the plot
+center, we recorded elevation using a global positioning
+system and recorded the distance to the nearest living
+Table 1 Summary information of the ten fires surveyed for ponderosa pine regeneration across Arizona and New Mexico, USA, that
+burned severely in ponderosa pine forests. Field data were collected in 2018 and 2019. Within each fire perimeter, table includes
+total area burned in forests and woodlands, percent of area burned severely, the number of plots and transects established in high-
+severity burn patches, and ponderosa pine regeneration density (mean and median). High-severity fire was mapped using a RdNBR
+threshold of ≥643 (Singleton et al. 2019)
+Year
+Fire name
+National forest
+Area (ha)
+High severity fire (%)
+Number of plots (transects)
+Mean (median) (stems ha−1)
+1996
+Bridgerknoll
+Kaibab
+11 863
+27.6
+12 (6)
+87 (0)
+1996
+Horseshoe
+Coconino
+3 273
+26.5
+2 (1)
+361 (361)
+2000
+Pumpkin
+Coconino
+6 431
+26.9
+2 (1)
+734 (734)
+2002
+Ponil Complex
+Carson
+35 071
+23.5
+4 (2)
+11 (9)
+2002
+Rodeo-Chediski
+Apache-Sitgreaves
+180 759
+33.2
+10 (5)
+555 (145)
+2005
+Mudersbach
+Kaibab
+3 203
+13.4
+2 (1)
+14 (14)
+2005
+Pine Canyon
+Carson
+1 651
+45.4
+6 (3)
+46 (37)
+2006
+Warm
+Kaibab
+23 536
+38.7
+10 (5)
+355 (95)
+2008
+Big Springs
+Cibola
+2 020
+56.9
+2 (1)
+5 (5)
+2008
+Trigo
+Cibola
+5 590
+32.5
+4 (2)
+24 (11)
+Singleton et al. Fire Ecology           (2021) 17:14 
+Page 5 of 15
+
+mature ponderosa pine using a laser rangefinder. If the
+nearest tree exceeded the limits of the rangefinder (>500
+m) or was obstructed, we used 60 cm National Agriculture
+Imagery Program (NAIP; www.usgs.gov) aerial imagery to
+locate and measure the distance to the nearest seed tree.
+We also recorded slope and aspect for each plot.
+To quantify climate in each plot, we used the
+TerraClimate
+(Abatzoglou
+et
+al.
+2018)
+gridded
+Table 2 Description of abiotic and biotic predictor variables used in ponderosa pine seedling establishment and seedling density
+models, using field data that were collected in high-severity burn patches in ten fires across Arizona and New Mexico, USA, in 2018
+and 2019. Topographic variables were derived from 30 m resolution digital elevation models (DEM). Climate variables were
+calculated from 4 km resolution TerraClimate data (Abatzoglou et al. 2018)
+Variable name
+Description
+Units
+Field measurements
+Time since fire
+Difference between fire year and year when field measurements took place.
+years
+Conifer seedling
+density
+Count of all conifer species.
+stems ha−1
+Seedling height
+Height of seedlings >15 cm tall measured in six height classes.
+m
+Canopy cover
+Area of canopy measured for each seedling (averaged in a 15 m radius subplot).
+m2
+Shrubs
+Percent cover of woody understory vegetation on 30 m transects using line-intercept method (four transects
+averaged).
+percent
+Gambel oak cover
+Percent cover on 30 m transects using line-intercept method (four transects averaged)
+percent
+Grass and forb
+cover
+Ocular estimates of percent cover of grasses and forbs within 1 m2 quadrats (eight quadrats averaged)
+percent
+Elevation
+Elevation at plot center with a global positioning system unit.
+m
+Slope
+Slope from clinometer.
+percent
+Aspect
+Aspect from compass.
+degrees
+Distance to
+nearest tree
+Distance to nearest living mature ponderosa pine measured from plot center with laser rangefinder.
+meters
+Edge or core
+Binary variable representing either core or edge plot.
+unitless
+Post-fire canopy
+cover
+Image classification of percent canopy cover of post-fire mature conifers using 4-band 60 cm National Agri-
+culture Imagery Program imagery within 60 to 300 m radii circular plots from plot center (sensu Rodman
+et al. 2020b).
+percent
+Topographic
+Abs-aspect
+Absolute value of 180° minus aspect of plot.
+degrees
+Slope cosine
+Cosine (aspect)*slope (Stage 1976). Higher values represent steep northern aspects.
+radians*percent
+slope
+Slope sine
+Sine (aspect)*slope (Stage 1976). Higher values represent steep eastern aspects.
+radians*percent
+slope
+Northness
+cos*aspect. Values range from −1 to 1 with positive values indicating more northern aspects.
+radians
+Eastness
+sine*aspect. Values range from −1 to 1 with negative values indicating more eastern aspects.
+radians
+Curvature
+Describes shape of the slope. Positive values indicate convex slopes while negative values represent concave
+slopes (drainages).
+unitless (0.01z)
+Climate
+AET 30-yr average
+Actual evaportranspiration. 30-year average (1981 to 2010) of monthly AET values. AET is the amount of
+water used (evoptranspired) given water availability. Higher numbers represent higher site productivity.
+mm
+AET 3-yr post-fire
+3-year post-fire average of monthly AET values.
+mm
+CWD 30-yr
+average
+Climate water deficit. 30-year average (1981 to 2010) of monthly CWD values. CWD is a measure of drought
+and is the evaporative demand of a site minus the amount actually evpotranspired. Higher numbers indicate
+higher drought stress on a site, since it is not meeting its evaporative demand.
+mm
+CWD 3-yr post-fire 3-year post-fire average of monthly CWD values.
+mm
+PPT 30-yr average
+30-year average (1981 to 2010) of monthly precipitation values.
+mm
+PPT 3-yr post-fire
+3-year post-fire average of monthly precipitation values.
+mm
+PPT 1-yr post-fire
+1-year post-fire annual mean of monthly precipitation values.
+mm
+Singleton et al. Fire Ecology           (2021) 17:14 
+Page 6 of 15
+
+dataset (4 km resolution) and calculated 30 yr aver-
+age (1981 to 2010) and 3 yr post-fire average of pre-
+cipitation,
+actual
+evapotranspiration
+(AET),
+and
+climate water deficit (CWD) (Abatzoglou et al. 2018; Rod-
+man et al. 2020a, b). We also calculated a 1 yr post-fire
+average of precipitation (Welch et al. 2016). Actual evapo-
+transpiration is defined as the evaporative water loss from
+land surfaces given the supply of water (precipitation and
+snowmelt; Stephenson 1998; Abatzoglou et al. 2018). Since
+AET represents the interaction of available energy and
+water, it is an index of site productivity (Dobrowski et al.
+2015). Climate water deficit is an index of drought stress
+and represents the evaporative demand of a given site that
+is not met by the available water supply (Stephenson 1998).
+We expected that higher densities of regeneration will cor-
+respond with high site productivity (i.e., high values of AET
+represent high availability of water and energy) and low
+drought stress (lower values of CWD).
+In addition to biotic variables data collected in the
+field, we also calculated abiotic topographical variables
+including the slope cosine and sine index (Stage 1976),
+abs-aspect (Welch et al. 2016), northness, eastness,
+and curvature (Table 2). Following methods in Rod-
+man et al. (2020b), we used an image-classification ap-
+proach to quantify post-fire canopy cover surrounding
+each plot. Specifically, we used the 2017 60 cm 4-band
+color infrared aerial photography from NAIP and cal-
+culated percent
+canopy
+cover of
+mature conifers
+within 60 to 300 m circular windows, at 30 m incre-
+ments from each plot center (sensu Rodman et al.
+2020b). We performed an accuracy assessment of
+these methods by generating 950 random points strati-
+fied equally in non-forest and forest classified areas.
+We received an overall accuracy of 91% and a kappa
+value of 0.83 (Additional file 1)
+Statistical analysis
+Differences between edge and core plots
+We compared three regeneration characteristics and three
+vegetation competition variables between edge and core
+plots using the one-way Kruskal-Wallis rank sum test (α =
+0.05; Kruskal and Wallis 1952) since data were not nor-
+mally distributed. Specifically, we compared ponderosa pine
+seedling count, height, and canopy cover, as well as percent
+grass, Gambel oak, and shrub cover. We calculated ponder-
+osa pine seedling height by taking the mean of each seed-
+ling’s height class, multiplying it by the number of seedlings
+within the height class, and summing by plot. To compare
+canopy cover data, we calculated the area of canopy (i.e.,
+area of an ellipse) for each seedling and summed by plot.
+For cover estimates, we averaged percent grass cover (n = 8
+1 m2 quadrats) and averaged shrub and Gambel oak cover
+(n = 4 30 m transects) for each plot.
+Logistic regression for seedling presence or absence
+(hereafter, presence/absence)
+To determine which factors influenced ponderosa pine re-
+generation, we fit a binomial generalized mixed model
+and included fire as a random effect to account for
+within-fire variation and potential spatial autocorrelation.
+Generalized linear mixed effect models are an extension
+of linear mixed models that allow for response variables to
+have non-normal distributions and allow for random ef-
+fects (Bolker et al. 2009). We completed all statistical ana-
+lyses in R version 3.6.1 (R Development Core Team 2019)
+and developed the logistic mixed model in the lme4 pack-
+age version 1.1-23 using the glmer function with the
+family specification set to “binomial” and the link specifi-
+cation set to “logit” (Bates et al. 2015).
+To improve model stability and increase the likelihood
+of model convergence, we scaled all predictor variables
+prior to model fitting. We used a stepwise model selec-
+tion process based on minimizing the Akaike Informa-
+tion Criterion (AIC) statistic and selected models with
+the lowest AIC score (Burnham and Anderson 2004). In
+cases where competing models had ΔAIC < 2, the most
+parsimonious
+model
+was
+selected.
+In
+addition
+to
+minimizing AIC, we also minimized predictor collinear-
+ity by calculating the variance inflation factor (VIF) for
+each candidate model and only retained predictors if the
+VIF < 3 among terms.
+We assessed logistic model fit using the area under
+curve (AUC) of the Receiver Operating Curve (ROC) in
+the AUC package version 0.3.0 (Ballings and Van den
+Poel 2013), which gives the probability that the model
+correctly classifies observed values. AUC values closer to
+1 (AUC values >0.8) indicate excellent model prediction
+while values near 0.5 indicate that the model is no better
+than random (Hosmer and Lemeshow 2000). We also
+assessed model fit by calculating the marginal and condi-
+tional R2 using the performance package version 0.5.1
+(Lüdecke et al. 2020). Marginal R2 describes the pro-
+portion of variance explained by fixed effects while
+conditional R2 describes the proportion of variance ex-
+plained by both fixed and random effects (Nakagawa
+and Schielzeth 2013).
+Count models for regeneration abundance
+To assess drivers of seedling density, we fit ponderosa
+pine stems per hectare using a generalized mixed model
+(GLMM) using the glmmTMB package version 1.0.1
+(Brooks et al. 2017). Since conifer density data were
+right skewed (28% of plots did not contain regeneration)
+and were overdispersed, we modeled the data with a
+negative binomial distribution (family = nbinom2). We
+scaled all predictors and used the buildmer package
+version 1.6 (Voeten 2020) using the AIC selection criter-
+ion to select the best fit model from all possible
+Singleton et al. Fire Ecology           (2021) 17:14 
+Page 7 of 15
+
+predictor variables. To mitigate multicollinearity, we ex-
+cluded
+correlated
+variables
+in
+the
+model
+builder
+(>|0.70|), but added them independently to candidate
+models, and made selections that minimized AIC scores
+(Burnham and Anderson 2004). We did not include fire
+as a random effect since there was no improvement in
+AIC score and since the random effect variance was
+close to zero. Thus, to assess model fit, we calculated
+only the marginal R2. Residual diagnostics, as well as
+over-dispersion and zero-inflation tests were completed
+using the DHARMa package version 0.3.2.0 (Hartig 2020).
+Results
+Differences between edge and core plots
+From the 54 plots that we sampled, we counted a total
+of 4136 conifer seedlings. Of these post-fire coniferous
+seedlings, 3615 seedlings were ponderosa pine (87%).
+Although highly variable, we observed ponderosa pine
+regeneration
+across
+all
+ten
+fires
+with
+a
+mean
+regeneration density of 237 (±76 SE) and median density
+of 19.5 seedlings ha−1. Mean (median) seedling density
+was higher in Arizona fires 325 (57) stems ha−1 com-
+pared to New Mexico fires 27 (9) stems ha−1. Mean per-
+cent grass cover was the dominant cover type across all
+fires (18.1%), followed by Gambel oak (15.2%) and then
+shrub cover (11.9%).
+There were no significant differences between edge and
+core plots in all six regeneration characteristics and vege-
+tation
+competition
+variables
+assessed
+(Kruskal-Wallis
+0.064 ≤χ2 ≤1.177, df = 1, P ≥0.278). Median densities in
+edge plots were 28.3 stems ha−1 and 10.6 stems ha−1 in
+core plots. Edge and core plots had similar median cover
+estimates: edge plots had a median percent shrub, Gambel
+oak, and grass cover of 6.2%, 14.5%, and 15.1%, respect-
+ively, while core plots had 7.4%, 13.2%, and 16.8%, respect-
+ively. Median canopy cover in edge plots was 0.29 m2
+compared to 0.05 m2 in core plots.
+Seedling presence/absence
+We found that a combination of topographic and biotic
+variables predicted the presence of ponderosa pine seed-
+lings within high-severity burn patches in the study area.
+The most important variable predicting seedling pres-
+ence was the slope cosine index (β = 2.160, P = 0.006;
+Table 3; Fig. 2A), indicating that the likelihood of pine
+establishment increased as the interaction of aspect and
+slope increased (i.e., on steeper northern slopes). Curva-
+ture was another important topographic variable in the
+model and was positively related to pine regeneration,
+when seedling presence was more likely on convex ter-
+rain (β = 1.547, P = 0.021; Table 3; Fig. 2C). Elevation
+was also a significant topographic predictor in the model
+and had a positive relationship with seedling establish-
+ment, for which increasing elevation had a positive effect
+on predicting the likelihood of ponderosa pine presence
+(β = 18.477, P = 0.029; Table 3; Fig. 2D). Percent Gam-
+bel oak cover was the only significant biotic variable in
+the model and had a negative effect on the likelihood of
+seedling presence (β = −2.315, P = 0.019; Table 3), with
+a lower probability of seedling presence with increasing
+Gambel oak cover (Fig. 2B).
+The area under the ROC curve was 0.93 which indi-
+cates that our model had high predictive performance in
+discriminating sites that are likely for ponderosa pine re-
+generation to establish. Marginal R2 was 0.738 while
+conditional R2 was 0.777.
+Seedling density
+We found that biotic variables largely predicted the abun-
+dance of ponderosa pine regeneration in the study area.
+Percent Gambel oak cover was the only variable that was
+significant in both the seedling presence/absence model
+and the seedling abundance model and with the same
+directionality (i.e., negative coefficient). Percent Gambel
+oak cover had a negative relationship with regeneration
+density and was the most important variable in predict-
+ing seedling density (P = 0.0001; Table 3), indicating
+that, as percent Gambel oak cover increased, the pre-
+dicted density of regeneration decreased (Fig. 3D).
+Percent grass cover and shrub cover, and distance to
+nearest living mature conifer were also negatively
+related to ponderosa pine regeneration densities (P ≤0.048;
+Table 3, Fig. 3B, C). The only important topographic vari-
+able in the model was the northness index, which had a
+Table 3 Results of generalized linear mixed effect models used
+to predict ponderosa pine seedling presence/absence (top) and
+seedling density (bottom) from ten fires surveyed across Arizona
+and New Mexico, USA, in 2018 and 2019. Predictor variables
+were scaled prior to model fitting. Table includes beta
+coefficient (β), standard error (SE), Z-statistic, and P-value of each
+predictor. Boldfaced P-value indicates significance (α = 0.05)
+β
+SE
+Z
+P
+Seedling presence/absence model
+Intercept
+−15.429
+7.906
+−1.952
+0.051
+Slope cosine
+2.160
+0.782
+2.764
+0.006
+Oak cover (%)
+−2.315
+0.990
+−2.338
+0.019
+Curvature
+1.547
+0.669
+2.312
+0.021
+Elevation (m)
+18.477
+8.440
+2.189
+0.029
+Seedling density model
+Intercept
+8.490
+0.760
+11.160
+<0.001
+Northness
+1.100
+0.320
+3.460
+<0.001
+Grass cover
+−1.630
+0.494
+−3.290
+<0.001
+Shrub cover
+−0.850
+0.352
+−2.430
+0.015
+Oak cover (%)
+−2.580
+0.495
+−5.210
+<0.001
+Distance to nearest tree (m)
+−0.750
+0.378
+−1.970
+0.048
+Singleton et al. Fire Ecology           (2021) 17:14 
+Page 8 of 15
+
+positive effect on density, with more northern aspects posi-
+tively effecting tree densities (P = 0.0005; Fig. 3A).
+Our model overpredicted seedling density and had a
+median of 76 seedlings ha−1 compared to the median of
+19 seedlings ha−1 for the observed data. However, 72%
+of the observed values fell within two standard errors of
+the predicted values and marginal R2 was 0.862.
+Discussion
+Following severe wildfire, forest resilience depends on
+the recovery of tree species. One goal of this study was
+to investigate ponderosa pine forest recovery within
+large high-severity core areas >200 m from residual live
+forest edges, where seedling densities rapidly decline
+(Haire and McGarigal 2010). To understand differences
+in recovery patterns within high-severity burn patches,
+we compared seedling and site characteristics between
+core and edge areas. We also identified factors that
+contribute to ponderosa pine establishment and abun-
+dance in the Southwest. Our results highlighted three
+important findings with respect to high-severity burn
+patches: (1) ponderosa pine seedling densities, height,
+and canopy cover do not significantly differ between
+patch core and edge areas across fires; (2) the likelihood
+of ponderosa pine establishment is largely controlled by
+topographic variables; and (3) vegetation competition
+limits seedling abundance.
+Are patch interiors more vulnerable?
+Our results suggest that ponderosa pine regeneration
+characteristics as well as competitive abiotic environ-
+ments were similar across high-severity burn patches.
+That is, we found that ponderosa pine seedling density,
+height, and canopy cover did not significantly differ
+Fig. 2 Prediction probabilities of generalized linear mixed model used to predict ponderosa pine seedling establishment (presence/absence) in
+ten fires surveyed in Arizona and New Mexico, USA, in 2018 and 2019. Solid blue lines are the marginal effects of each predictor while other
+covariates are held at their mean. Blue shaded ribbon represents the 95% confidence interval of predicted values. Ponderosa pine seedling
+presence is more likely on (A) steep northern aspects, (B) areas with less oak cover, (C) convex terrain, and (D) higher elevations. See Additional
+file 2 for graphs with observed data
+Singleton et al. Fire Ecology           (2021) 17:14 
+Page 9 of 15
+
+between areas within the interior of high-severity burn
+patches and areas adjacent to forest edges. Similarly, we
+found that vegetative competition within high-severity
+core areas did not significantly differ in percent grass,
+shrub, and Gambel oak cover between patch edge and
+core areas. Within high-severity burn patches, many
+studies have documented that seedling densities signifi-
+cantly decline past 150 to 200 m from mature conifers
+(Haire
+and
+McGarigal
+2010;
+Haffey
+et
+al.
+2018).
+Although we documented fewer seedlings in core plots,
+median densities were similar to edge plots across our
+study area, thus suggesting that core areas may not be
+experiencing complete regeneration failures. Our results
+were likely due to fire “refugia,” or unburned islands of
+surviving trees remaining after wildfire (Krawchuk et al.
+2016). Fire refugia are important in providing seed
+sources
+and
+are
+critical
+for
+natural
+regeneration,
+especially within large contiguous patches of tree mor-
+tality (Coop et al. 2019). Within our dataset, 31% of core
+plots had at least one living mature conifer that was <
+150 m from plot center, which highlights the heterogen-
+eity of the burn mosaic within severe fires and patch in-
+teriors. Interestingly, within four core plots, we observed
+seedling densities ranging from 170 622 stems ha−1 at
+distances 272 to 513 m from the nearest living pine
+within the Bridgerknoll and Rodeo-Chediski fires. This
+finding suggests that, despite increasing distances from
+seed sources, other long-distance dispersal mechanisms,
+such as animals, may play an important role in regener-
+ating some burn patches (Haire and McGarigal 2010;
+Owen et al. 2017). In contrast to our findings, Owen
+et al. (2017) and Owen et al. (2020) found that edge
+plots within the Pumpkin and Rodeo-Chediski fires in
+Arizona had significantly more seedling densities than
+Fig. 3 Prediction probabilities of generalized linear mixed model used to predict ponderosa pine seedling densities in ten fires surveyed in
+Arizona and New Mexico, USA, in 2018 and 2019. Solid blue lines are the marginal effects of each predictor while other covariates are held at
+their mean. Blue shaded ribbon represents the 95% confidence interval of predicted values. Ponderosa pine seedling densities are greater on (A)
+northern aspects, but are limited in areas with greater (B) grass cover, (C) shrub cover, and (D) Gambel oak cover, and (E) at greater distances
+from nearest seed tree. See Additional file 3 for graphs with observed data
+Singleton et al. Fire Ecology           (2021) 17:14 
+Page 10 of 15
+
+core plots, and found no differences in seedling height
+or other growth characteristics between plot types.
+These contrasts in findings were likely due to the in-
+crease in fires sampled in our study potentially capturing
+more between-fire variability across the Southwest.
+Additionally, we found that seedling canopy cover and
+height in core areas were not significantly different from
+those in edge areas. These findings suggest that, since
+seedling vigor (i.e., canopy cover) and growth rate (i.e.,
+height) are similar, site conditions and resources to assist
+regeneration success, such as moisture availability or soil
+nutrients, are also similar. Furthermore, vegetation cover
+was similar between plot types, suggesting that a similar
+level of competition was also present. It is important to
+note, however, that seedling densities and all other site
+characteristics were highly variable across fires. Although
+our goal was to assess the effects of high-severity fire on
+ponderosa pine regeneration across the Southwest, it will
+be beneficial to assess post-fire recovery within fires for
+more targeted vulnerability assessments.
+Seedling presence/absence
+Overall, our model suggested that ponderosa pine seed-
+ling presence in high-severity burn patches was most
+strongly influenced by topographic variables. Similar to
+other studies, we found that increasing elevation in-
+creased the likelihood of seedling presence (Haire and
+McGarigal 2010; Dodson and Root 2013; Chambers
+et al. 2016; Rother and Veblen 2016; Haffey et al. 2018;
+Lopez Ortiz et al. 2019). Environmental gradients, such
+as increasing elevation, also reflect gradients in resource
+availability, particularly soil moisture and decreased
+heat load that are important for seedling establish-
+ment (Dodson and Root 2013; Chambers et al. 2016;
+Kemp et al. 2016). Additionally, we found that in-
+creasing slope cosine index and curvature had a posi-
+tive
+effect
+on
+seedling
+presence
+in
+our
+logistic
+regression model. Although areas with greater slopes
+tend to have dry, shallow soils that may limit regener-
+ation density, a study in inland Northwest USA found
+that
+shade-intolerant
+coniferous
+species
+are
+more
+likely to occur on rising slopes due to the increased
+light
+availability (Shen and Nelson
+2018).
+In our
+study, the likelihood of ponderosa pine occurrence in-
+creased on more northern aspects on greater slopes,
+highlighting the importance of moisture (north as-
+pects) and micro-climates for seedling establishment
+(Ziegler et al. 2017). Furthermore, according to our
+model, the shape of the slope was also important.
+Topographic curvature is commonly used to identify
+convex, concave, or flat surfaces to assess the move-
+ment of water and subsequent erosion processes. Upwardly
+convex (positive curvature) surfaces such as hills or
+ridges indicate areas that decelerate water movement
+and have divergent water flow, while concave curvature
+represent depressions and valleys that have convergent
+flow and accelerate water movement. Seedling estab-
+lishment may be more probable on convex surfaces be-
+cause post-fire soil erosion is lessened and, thus, may
+be more favorable for seed germination. However,
+these results may also be attributed to an interactive
+effect of curvature and Gambel oak cover. Gambel oak
+generally dominated drainage bottoms (i.e., concave
+terrain) throughout our study area, so it is likely that
+competition is driving seedling establishment on con-
+vex slopes. Given that unburned patches are associated
+with moister, cooler land surfaces, increased Gambel
+oak in drainages over time may have important eco-
+logical implications for future fire refugia and, in turn,
+further decrease ponderosa pine regeneration (Dwire
+and Kauffman 2003).
+Seedling density
+We found that post-fire ponderosa pine regeneration
+density in high-severity burn patches across the Southwest
+was most influenced by vegetation competition. Although
+the composition of understory varied across the study
+area, we found that increasing percent grass, shrub, and
+Gambel oak cover negatively affected ponderosa pine
+seedling density. Competition between ponderosa pine
+seedling and coexisting vegetation can vary greatly de-
+pending on species and other factors such as soil type,
+moisture availability, or plant root structure (Abella 2008;
+Abella and Fulé 2008; Puhlick et al. 2012). For example,
+grasses quickly develop superficial roots following fire and
+can deplete soil moisture to outcompete ponderosa pine
+regeneration, particularly during the pre-monsoon period
+(Pearson 1942). Gambel oak also has an immediate
+post-fire competitive advantage over ponderosa pine
+because it vigorously resprouts following severe crown
+fire and grows rhizomatous roots that absorb water
+deep within the soil profile (Abella and Fulé 2008;
+Kaufmann et al. 2016).
+Previous studies have demonstrated similar competitive
+(i.e., negative) relationships between post-fire conifer re-
+generation and grasses, Gambel oak, and other resprout-
+ing shrubs (Bonnet et al. 2005; Savage and Mast 2005;
+Haire and McGarigal 2010; Roccaforte et al. 2012; Welch
+et al. 2016; Rodman et al. 2020b). However, vegetation
+competition was not a ubiquitous factor that affected
+conifer regeneration across all studies in the western US,
+as results from these studies varied both regionally and by
+fire (see Owen et al. 2017). The Southwest is a region
+where resprouting shrubs and grasses are rapidly recolon-
+izing sites after high-severity fire (Barton 2002; Savage and
+Mast 2005), and our results provide further evidence that
+herbaceous and woody plants are limiting ponderosa pine
+tree densities.
+Singleton et al. Fire Ecology           (2021) 17:14 
+Page 11 of 15
+
+Unexpectedly, we found that seedling density was
+not affected by percent canopy cover of surrounding
+mature conifers, suggesting that higher (or lower)
+seed availability does not
+yield higher (or lower)
+densities, at least within the study region. This may
+be in part due to the metric we used, whereas metrics
+that incorporate both proximity and abundance of
+multiple seed sources (i.e., distance-weighted density)
+show stronger correlations with tree densities (Haire
+and McGarigal 2010; Coop et al. 2019; Downing et al.
+2019). However, our finding suggests that seed abun-
+dance is not the only factor that limits post-fire tree
+recovery, and that not all mature trees produce abun-
+dant seed. For example, Puhlick et al. (2012) found a
+strong positive correlation of seed tree superiority
+(i.e., dominant seed tree) and ponderosa pine seedling
+densities in unburned areas across Arizona, suggesting
+that the size and productivity of mature trees plays a
+larger role in regeneration than maturity alone. Future
+studies could use Puhlick et al. (2012) methods for
+identifying superior seed trees in high-severity burn
+patches to better understand their influence compared
+to seed tree abundance on post-fire recovery.
+Although ponderosa pine seed germination is highly
+dependent on climate, our models did not identify cli-
+mate as a significant factor in seedling establishment or
+density. Annual climate conditions have become warmer
+and drier in the Southwest in recent decades (Mueller
+et al. 2020). As a result, post-fire environments are in-
+creasingly moisture stressed and have less suitable cli-
+matic windows for regeneration (Savage et al. 2013).
+Studies in the Southwest implicate precipitation as an
+important factor in influencing increased tree densities
+(Pearson 1923; Cooper 1960; Puhlick et al. 2012) and
+drought conditions that favor the establishment of dense
+shrubfields or grasses (Savage et al. 2013). Although
+there is growing evidence that climatic conditions, par-
+ticularly drought stress, reduces conifer establishment
+and densities in montane coniferous forests (Rother and
+Veblen 2016; Stevens-Rumann et al. 2018; Rodman et al.
+2020a, b), climate variables were not an influential driver
+in our study. This may be in part due to seasonal or an-
+nual climate conditions playing a larger role in episodic
+tree recruitment (Iniguez et al. 2016), which were not
+thoroughly assessed in this study. Furthermore, studies
+that document climate factors as strong predictors of
+tree densities have utilized fine-resolution (250 m) gridded
+datasets that may better capture smaller topo-climatic var-
+iations compared to coarser resolutions (4 km or 800 m;
+Rodman et al. 2020a, b). Thus, further research is needed
+in applying downscaled climatic datasets to better assess
+impacts of climate on seedling regeneration in the
+Southwest. It is well known, however, that warmer, drier
+conditions can stress trees and can trigger higher rates of
+tree mortality or inhibit conifer germination (Breshears
+et al. 2009; Savage et al. 2013). Under adverse climatic
+conditions, in conjunction with contemporary shifts in fire
+regime, Southwestern ponderosa pine recruitment rates
+may be increasingly constrained.
+Management implications and conclusions
+Assessing regeneration in high-severity burn patches
+within ten fires across the US Southwest allowed us to
+describe general patterns. First, we documented that ag-
+gregated core areas of high-severity burn patches are not
+regenerating differently or have different abundance of
+vegetation competition
+than aggregated
+forest
+edge
+areas. Although patch interiors are farther away from a
+greater abundance of seed sources, seed abundance is
+not the sole cause of limited regeneration. Importantly,
+our results suggest that ponderosa pine regeneration in
+edge and core areas are equally constrained by the abi-
+otic and biotic factors assessed in this study. Second, we
+found that factors driving both edge- and core-area
+seedling establishment and densities are largely related
+to topographic moisture gradients and competition, re-
+spectively. Areas that are less xeric (i.e., higher in eleva-
+tion and on north aspects) were more favorable to
+successful regeneration, while shrub, grass, and Gambel
+oak cover were increasing their competitive pressure and
+limiting tree densities. Although we found strong rela-
+tionships of predictor variables with regeneration in this
+study, seedling regeneration may also be due to other
+factors that were not assessed, such as soil type and con-
+ditions, ectomycorrhizal associations, nurse logs, plant
+associations, and pre-fire basal area. Further research is
+needed in examining these and other potential factors.
+Overall, we observed regeneration in all fires, but abun-
+dance was highly variable among edge and core plots
+across different patches in fires that burned between 1996
+and 2008. Overall, we observed that seven out of ten fires
+had median conifer densities that do not meet the mini-
+mum 125 stems ha−1 target that will produce mature trees
+that are consistent with historical range of variation
+(HRV) and ecological restoration targets (Reynolds et al.
+2013; Ouzts et al. 2015). Although we documented low
+seedling densities across fires, the seedlings currently
+found at these sites may be the first of several regeneration
+pulses over time and, thus, ponderosa pine could poten-
+tially recover to its previous density (Haire and McGarigal
+2010). However, it remains unclear exactly how much
+time and the minimum number of seedlings needed to re-
+forest an area to its HRV, especially under contemporary
+conditions. It is likely that subsequent reburning and in-
+creasing competitive pressure from other plant species,
+along with warmer and drier conditions, will continue to
+affect mechanisms of ponderosa pine forest recovery and
+Singleton et al. Fire Ecology           (2021) 17:14 
+Page 12 of 15
+
+resilience in Southwestern post-high-severity fire land-
+scapes (Coop et al. 2016).
+Wildfires are becoming larger and more severe in the
+Southwest, resulting in large patches of high-severity burn
+areas (Singleton 2020) that can potentially threaten the sus-
+tainability of dry, forested systems (Coop et al. 2020). Given
+this reality, managers need to develop strategies to create
+more resilient conditions. To this end, we suggest increased
+use of managed fires during shoulder fire seasons when
+weather and fuel conditions are milder (Young et al. 2020)
+and therefore less likely to create more large high-severity
+burn core areas (Singleton 2020). Managed fires are an ef-
+fective tool for reducing fuel loads at landscape scales and,
+thus, reducing the size and severity of future fires (North
+et al. 2012; Hunter et al. 2014). In addition to avoidance of
+high-severity burn patches, we also recommend that man-
+agers identify and map areas more likely to develop regen-
+eration based on the important topographic variables
+described in this study. Given that post-fire seedlings are
+often vulnerable to other disturbances, these maps could
+then be used to protect reforested areas from future distur-
+bances including future fires that can reset the system and
+contribute to type-conversion of forested systems (Savage
+et al. 2013; Coop et al. 2020).
+Supplementary Information
+The online version contains supplementary material available at https://doi.
+org/10.1186/s42408-021-00095-3.
+Additional file 1. Results of accuracy assessment of 950 randomly
+generated points in classified 2017 National Agriculture Imagery Program
+(NAIP) imagery. Image classification was performed to map forest and
+non-forest classes to quantify mature conifer canopy cover in ten fires
+surveyed for post-fire ponderosa pine regeneration across Arizona and
+New Mexico, USA (sensu Rodman et al. 2020b). Columns indicate class
+types determined from reference data (i.e., NAIP imagery) and rows indi-
+cate class types determined from classified maps. Table includes pro-
+ducer’s accuracy (errors of omission) and user’s accuracy (errors of
+commission). The overall map accuracy was 91.4% and the kappa value
+was 0.83. The kappa statistic reflects the difference between observed ac-
+curacy and agreement expected by chance (Congalton and Green 2008).
+Kappa values close to 1 indicate higher agreement between reference
+and classified data.
+Additional file 2. Prediction probabilities of generalized linear mixed
+model plotted with observed values. Model was used to predict
+ponderosa pine seedling establishment (presence/absence) in ten fires
+surveyed in Arizona and New Mexico, USA, in 2018 and 2019. Solid blue
+lines are the marginal effects of each predictor while other covariates are
+held at their mean. Black dots represent observed values, and the blue
+shaded ribbon represents the 95% confidence interval of predicted
+values. Ponderosa pine seedling presence was more likely on (A) steep
+northern aspects, (B) areas with less oak cover, (C) convex terrain, and (D)
+higher elevations.
+Additional file 3. Prediction probabilities of generalized linear mixed
+model plotted with observed values. Model was used to predict
+ponderosa pine seedling densities in ten fires surveyed in Arizona and
+New Mexico, USA, in 2018 and 2019. Solid blue lines are the marginal
+effects of each predictor while other covariates are held at their mean.
+Black dots represent observed values, and blue shaded ribbon represents
+the 95% confidence interval of predicted values. Ponderosa pine seedling
+densities were greater on (A) northern aspects, but are limited in areas
+with greater (B) grass cover, (C) shrub cover, and (D) Gambel oak cover,
+and (E) at greater distances from nearest seed tree. Density values >1000
+seedlings ha−1 are not shown to improve graph interpretability.
+Acknowledgements
+We thank J. Lippert, H. Johnson, T. Sypkens, and C. Thornton for their
+dedication and hard work in field data collection. We thank all personnel at
+USFS Southwest region and district offices for logistical and safety assistance
+with field crews. Finally, we also thank two anonymous reviewers for
+providing helpful feedback.
+Authors’ contributions
+MPS, AET, AJSM, and JI conceived of the study. MPS performed field data
+collection, formal analysis, curated data, and wrote the original draft. AJSM
+assisted with the methodology and validation of the analysis. AET and JI
+acquired funding for the project and reviewed the draft. All authors
+contributed to writing and editing and all authors reviewed and approved
+the final manuscript.
+Funding
+Funding was provided by US Department of Agriculture, Forest Service,
+Rocky Mountain Research Station.
+Availability of data and materials
+The datasets used or analyzed during the current study are available from
+corresponding author on reasonable request.
+Declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1Northern Arizona University, School of Forestry, PO Box 15018, Flagstaff,
+Arizona 86011, USA. 2Northern Arizona University, Ecological Restoration
+Institute, PO Box 15017, Flagstaff, Arizona 86011, USA. 3USDA Forest Service
+Rocky Mountain Research Station, 2500 South Pine Knoll Drive, Flagstaff,
+Arizona 86001, USA.
+Received: 6 October 2020 Accepted: 18 February 2021
+References
+Abatzoglou, J.T., S.Z. Dobrowski, S.A. Parks, and K.A. Hegewisch. 2018.
+TerraClimate, a high-resolution global dataset of monthly climate and
+climatic water balance from 1958-2015. Scientific Data 5: 170191. https://doi.
+org/10.1038/sdata.2017.191.
+Abella, S.R. 2008. Managing Gambel oak in southwestern ponderosa pine forests:
+the status of our knowledge. Gen. Tech. Rep. RMRS-GTR-218, 27. Fort Collins: U.
+S. Department of Agriculture, Forest Service, Rocky Mountain Research
+Station. https://doi.org/10.2737/RMRS-GTR-218.
+Abella, S.R., and P.Z. Fulé. 2008. Fire effects on Gambel oak in southwestern
+ponderosa pine-oak forests. USDA Forest Service Research Note RMRS-RN-34 1-6.
+https://doi.org/10.2737/RMRS-RN-34.
+Agee, J.K., and C.N. Skinner. 2005. Basic principles of forest fuel reduction
+treatments. Forest Ecology and Management 211: 83–96. https://doi.org/10.1
+016/j.foreco.2005.01.034.
+Ballings, M., and D. Van den Poel. 2013. AUC: Threshold independent
+performance measures for probabilistic classification algorithms. https://cran.
+r-project.org/web/packages/AUC.
+Barton, A.M. 2002. Intense wildfire in southeastern Arizona: Transformation of a
+Madrean oak-pine forest to oak woodland. Forest Ecology and Management
+165: 205–212. https://doi.org/10.1016/S0378-1127(01)00618-1.
+Singleton et al. Fire Ecology           (2021) 17:14 
+Page 13 of 15
+
+Bates, D., M. Mächler, B. Bolker, and S. Walker. 2015. Fitting Linear Mixed-Effects
+Models Using lme4. Journal of Statistical Software 67 (1): 1–48. https://doi.
+org/10.18637/jss.v067.i01.
+Bolker, B.M., M.E. Brooks, C.J. Clark, S.W. Geange, J.R. Poulsen, M.H.H. Stevens, and
+J.S. White. 2009. Generalized linear mixed models: a practical guide for
+ecology and evolution. Trends in Ecology and Evolution 24 (3): 127–135.
+https://doi.org/10.1016/j.tree.2008.10.008.
+Bonnet, V.H., A.W. Schoettle, and W.D. Shepperd. 2005. Postfire environmental
+conditions in-fluence the spatial pattern of regeneration for Pinus ponderosa.
+Canadian Journal of Forest Research 35: 37–47. https://doi.org/10.1139/x04-157.
+Breshears, D.D., O.B. Myers, C.W. Meyer, F.J. Barnes, C.B. Zou, C.D. Allen, N.G.
+McDowell, and W.T. Pockman. 2009. Tree die-off in response to global
+change-type drought: Mortality insights from a decade of plant water
+potential measurements. Frontiers in Ecology and the Environment 7 (4): 185–
+189. https://doi.org/10.1890/080016.
+Brooks, M.E., K. Kristensen, K.J. van Benthem, A. Magnusson, C.W. Berg, A. Nielsen,
+H.J. Skaug, M. Maechler, and B.M. Bolker. 2017. glmmTMB balances speed
+and flexibility among packages for zero-inflated generalized linear mixed
+modeling. R Journal 9: 378–400. https://doi.org/10.1890/080016.
+Burnham, K.P., and D.R. Anderson. 2004. Multimodel Inference: Understanding
+AIC and BIC in Model Selection. Sociological Methods and Research 33 (2):
+261–304. https://doi.org/10.1177/0049124104268644.
+Chambers, M.E., P.J. Fornwalt, S.L. Malone, and M.A. Battaglia. 2016. Patterns of
+conifer regeneration following high severity wildfire in ponderosa pine-
+dominated forests of the Colorado Front Range. Forest Ecology and
+Management 378: 57–67. https://doi.org/10.1016/j.foreco.2016.07.001.
+Congalton, R. G. and Green, K. 2008. Assessing the Accuracy of Remotely Sensed
+Data: Principles and Practices. CRC Press.
+Coop, J.D., T.J. DeLory, W.M. Downing, S.L. Haire, M.A. Krawchuk, C. Miller, M.
+Parisien, and R.B. Walker. 2019. Contributions of fire refugia to resilient
+ponderosa pine and dry mixed-conifer forest landscapes. Ecosphere 10 (7):
+e02809. https://doi.org/10.1002/ecs2.2809.
+Coop, J.D., S.A. Parks, S.R. McClernan, and L.M. Holsinger. 2016. Influences of prior
+wildfires on vegetation response to subsequent fire in a reburned
+southwestern landscape. Ecological Applications 26: 346–354. https://doi.org/1
+0.1890/15-0775.
+Coop, J.D., S.A. Parks, C.S. Stevens-Rumann, S.D. Crausbay, P.E. Higuera, M.D.
+Hurteau, A. Tepley, E. Whiteman, T. Assal, B.M. Collins, K.T. Davis, S. Dobrowski,
+D.A. Falk, P.J. Fornwalt, P.Z. Fulé, B.J. Harvey, V.R. Kane, C.E. Littlefield, E.Q.
+Margolis, M. North, M. Parisien, S. Prichard, and K.C. Rodman. 2020. Wildfire-
+Driven Forest Conversion in Western North American Landscapes. BioScience
+XX: 1–15. https://doi.org/10.1093/biosci/biaa061.
+Cooper, C.F. 1960. Changes in vegetation, structure, and growth of southwestern
+pine forests since white settlement. Ecological Monographs 30 (2): 130–164.
+https://doi.org/10.2307/1948549.
+Covington, W.W., P.Z. Fulé, M.M. Moore, S.C. Hart, T.E. Kolb, J.N. Mast, S.S. Sackett,
+and M.R. Wagner. 1997. Restoring ecosystem health in ponderosa pine
+forests of the southwest. Journal of Forestry 95 (4): 23–29.
+Covington, W.W., and M.M. Moore. 1994. Southwestern ponderosa forest
+structure: Changes since Euro-American settlement. Journal of Forestry 92 (1):
+39–47. https://doi.org/10.1093/jof/92.1.39.
+Dobrowski, S.Z., A.K. Swanson, J.T. Abatzoglou, Z.A. Holden, H.D. Safford, M.K.
+Schwartz, and D.G. Gavin. 2015. Forest structure and species traits mediate
+projected recruitment declines in western US tree species. Global Ecology
+and Biogeography 24: 917–927. https://doi.org/10.1111/geb.12302.
+Dodson, E.K., and H.T. Root. 2013. Conifer regeneration following stand-replacing
+wildfire varies along an elevation gradient in a ponderosa pine forest,
+Oregon, USA. Forest Ecology and Management 302: 163–170. https://doi.org/1
+0.1016/j.foreco.2013.03.050.
+Downing, W.M., M.A. Krawchuk, G.W. Meigs, S.L. Haire, J.D. Coop, R.B. Walker, E.
+Whitman, G. Chong, and C. Miller. 2019. Influence of fire refugia spatial
+pattern on post-fire forest recovery in Oregon's Blue Mountains. Landscape
+Ecology 34: 771–792. https://doi.org/10.1007/s10980-019-00802-1.
+Dwire, K.A., and J.B. Kauffman. 2003. Fire and riparian ecosystems in landscapes of
+the western USA. Forest Ecology and Management 178: 61–74. https://doi.
+org/10.1016/S0378-1127(03)00053-7.
+Eidenshink, J., B. Schwind, K. Brewer, Z. Zhu, B. Quayle, S. Howard, S. Falls, and S.
+Falls. 2007. A project for monitoring trends in burn severity. Fire Ecology 3: 3–
+21. https://doi.org/10.4996/fireecology.0301003.
+Fulé, P.Z., W.W. Covington, and M.M. Moore. 1997. Determining reference
+conditions for ecosystem management of southwestern ponderosa pine
+forests. Ecological Applications 7 (3): 895–908. https://doi.org/10.1890/1051-
+0761(1997)007[0895:DRCFEM]2.0.CO;2.
+Haffey, C., T.D. Sisk, C.D. Allen, A.E. Thode, and E.Q. Margolis. 2018. Limits to
+ponderosa pine regeneration following large high-severity forest fires in the
+United States southwest. Fire Ecology 14: 143–162. https://doi.org/10.4996/
+fireecology.140114316.
+Haire, S.L., and K. McGarigal. 2010. Effects of landscape pat- terns of fire severity
+on regenerating ponderosa pine forests (Pinus ponderosa) in New Mexico
+and Arizona, USA. Landscape Ecology 25: 1055–1069. https://doi.org/10.1007/
+s10980-010-9480-3.
+Hartig, F. 2020. DHARMa: residual diagnostics for hierarchical (multi-level/mixed)
+regression models. https://cran.r-project.org/web/packages/DHARMa
+Harvey, B.J., D.C. Donato, and M.G. Turner. 2016. High and dry: Post-fire tree
+seedling establishment in subalpine forests decreases with post-fire drought
+and large stand-replacing burn patches. Global Ecology and Biogeography 25:
+655–669. https://doi.org/10.1111/geb.12443.
+He, T., J.G. Pausas, C.M. Belcher, D.W. Schwilk, and B.B. 2012. Lamont. Fire-adapted
+traits of Pinus arose in the fiery Cretaceous. New Phytologist 194 (3): 751–759.
+https://doi.org/10.1111/j.1469-8137.2012.04079.x.
+Hosmer, D.W. and S. Lemeshow. 2000. Applied Logistic Regression, 2nd edn. New
+York: Wiley.
+Hunter, M.E., J.M. Iniguez, and C.A. Farris. 2014. Historical and current fire
+management practices in two wilderness areas in the southwestern United
+States: The Saguaro Wilderness Area and the Gila-Aldo Leopold Wilderness
+Complex. Gen. Tech. Rep. RMRS- GTR-325, 38. Fort Collins: U.S. Department of
+Agriculture, Forest Service, Rocky Mountain Research Station. https://doi.
+org/10.2737/RMRS-GTR-325.
+Iniguez, J.M., T.W. Swetnam, and C.H. Baisan. 2009. Spatially and temporally
+variable fire regime on Rincon Peak, Arizona, USA. Fire Ecology 5 (1): 3–21.
+https://doi.org/10.4996/fireecology.0501003.
+Iniguez, J.M., T.W. Swetnam, and C.H. Baisan. 2016. Fire history and moisture influences
+on historical forest age structure in the sky islands of southern Arizona, USA.
+Journal of Biogeography 43: 85–95. https://doi.org/10.1111/jbi.12626.
+Johnstone, J.F., C.D. Allen, J.F. Franklin, L.E. Frelich, B.J. Harvey, P.E. Higuera, M.C.
+Mack, R.K. Meentemeyer, M.R. Metz, G.L.W. Perry, T. Shoennagel, and M.G.
+Turner. 2016. Changing disturbance regimes, ecological memory, and forest
+resilience. Frontiers in Ecology and the Environment 14 (7): 369–378. https://
+doi.org/10.1002/fee.1311.
+Kaufmann, M.R., D.W. Huisjen, S. Kitchen, M. Babler, S.R. Abella, T.S. Gardiner, D.
+McAvoy, J. Howie, and D.H. Page Jr. 2016. Gambel Oak Ecology and
+Management in the Southern Rockies: The Status of Our Knowledge. SRFSN
+Publication 2016-1. Fort Collins: Colorado State University, Southern Rockies
+Fire Sciences Network.
+Keeley, J.E. 2012. Ecology and evolution of pine life histories. Annals of Forest
+Science 69 (4): 445–453. https://doi.org/10.1007/s13595-012-0201-8.
+Kemp, K.B., P.E. Higuera, and P. Morgan. 2016. Fire legacies impact conifer
+regeneration across environmental gradients in the U.S. Northern Rockies.
+Landscape Ecology 31: 619–635. https://doi.org/10.1007/s10980-015-0268-3.
+Korb, J.E., P.J. Fornwalt, and C.S. Stevens-Rumann. 2019. What drives ponderosa
+pine regeneration following wildfire in the western United States? Forest
+Ecology and Management 454: 117663. https://doi.org/10.1016/j.foreco.201
+9.117663.
+Krawchuk, M.A., S.A. Haire, J. Coop, M. Parisien, E. Whitman, G. Chong, and C.
+Miller. 2016. Topographic and fire weather controls of fire refugia in forested
+ecosystems of northwestern North America. Ecosphere 7 (2): e01632. https://
+doi.org/10.1002/ecs2.1632.
+Kruskal, W.H., and W.A. Wallis. 1952. Use of ranks in one-criterion variance analysis.
+Journal of the American statistical Association 47: 583–621. https://doi.org/10.1
+080/01621459.1952.10483441.
+Lopez Ortiz, M.J., T. Marcey, M.S. Lucash, D. Hibbs, J.P.A. Shatford, and J.R.
+Thompson. 2019. Post-fire management affects species composition but not
+Douglas-fir regeneration. Forest Ecology and Management 432: 1030–1040.
+https://doi.org/10.1016/j.foreco.2018.10.030.
+Lüdecke, D., D. Makowski, P. Waggoner, and I. Patil. 2020. Performance:
+Assessment of regression models performance. https://easystats.github.io/
+performace/
+Marcolin, E., R. Marzano, A. Vitali, M. Garbarino, and E. Lingua. 2019. Post-fire
+management impact on natural forest regeneration through altered
+microsite conditions. Forests 10: 1014. https://doi.org/10.3390/f10111014.
+Miller, J.D., and A.E. Thode. 2007. Quantifying burn severity in a heterogeneous
+landscape with a relative version of the delta Normalized Burn Ratio (dNBR).
+Singleton et al. Fire Ecology           (2021) 17:14 
+Page 14 of 15
+
+Remote Sensing Environment 109: 66–80. https://doi.org/10.1016/j.rse.2006.12.
+006.
+Moore, M.M., W.W. Covington, and P.Z. Fulé. 1999. Reference condition and
+ecological restoration: a southwestern ponderosa pine perspective. Ecological
+Applications 9 (4): 1266–1277. https://doi.org/10.1890/1051-0761(1999)009[12
+66:RCAERA]2.0.CO;2.
+Mueller, S.M., A.E. Thode, E.Q. Margolis, L.L. Yocum, J.D. Young, and J. Iniguez.
+2020. Climate relationships with increasing wildfire in the southwestern US
+from 1984-2015. Forest Ecology and Management 460: 117861. https://doi.
+org/10.1016/j.foreco.2019.117861.
+Nakagawa, S., and H. Schielzeth. 2013. A general and simple method for obtaining R
+2 from generalized linear mixed-effects models. Methods in Ecology Evolution 4:
+133–142. https://doi.org/10.1111/j.2041-210x.2012.00261.x.
+North, M., B.M. Collins, and S. Stephens. 2012. Using fire to increase scale,
+benefits, and future maintenance of fuels treatments. Journal of Forestry 110:
+392–401. https://doi.org/10.5849/JOF.12-021.
+Ouzts, J.R., T.E. Kolb, D.W. Huffman, and A.J. Sánchez Meador. 2015. Post-fire
+ponderosa pine regeneration with and without planting in Arizona and New
+Mexico. Forest Ecology and Management 354: 281–290. https://doi.org/10.101
+6/j.foreco.2015.06.001.
+Owen, S.M., A.M. Patterson, C.A. Gehring, C.H. Sieg, L.S. Baggett, and P.Z. Fulé.
+2019. Large, high-severity patches limit fungal recovery 13 years after wildfire
+in a ponderosa pine forest. Soil Biology and Biochemistry 139: 107616. https://
+doi.org/10.1016/j.soilbio.2019.107616.
+Owen, S.M., C.H. Sieg, A.J. Sánchez Meador, P.Z. Fulé, C.A. Gehring, L. Baggert, J.M.
+Iniguez, P.J. Fornwalt, and M.A. Battaglia. 2020. Persistent effects of fire
+severity on ponderosa pine regeneration niches and seedling growth. Forest
+Ecology and Management 477: 118502. https://doi.org/10.1016/j.foreco.202
+0.118502.
+Owen, S.M., C.H. Sieg, A.J. Sánchez Meador, P.Z. Fulé, J.M. Iniguez, L.S. Baggett, P.J.
+Fornwalt, and M.A. Battaglia. 2017. Spatial patterns of ponderosa pine
+regeneration in high-severity burn patches. Forest Ecology and Management
+405: 134–149. https://doi.org/10.1016/j.foreco.2017.09.005.
+Parks, S.A., S.Z. Dobrowski, J.D. Shaw, and C. Miller. 2019. Living on the edge:
+trailing edge forests at risk of fire-facilitated conversion to non-forest.
+Ecosphere 10(3): e02651. https://doi.org/10.1002/ecs2.2651.
+Pearson, G.A. 1923. Natural Reproduction of Western Yellow Pine in the Southwest.
+USDA Forest Service Bullet. No. 1105. https://doi.org/10.5962/bhl.title.64666.
+Pearson, G.A. 1942. Herbaceous Vegetation a Factor in Natural Regeneration of
+Ponderosa Pine in the Southwest. Ecological Monographs 12 (3): 315–338.
+https://doi.org/10.2307/1943545.
+Puhlick, J.J., D.C. Laughlin, and M.M. Moore. 2012. Factors influencing ponderosa
+pine regeneration in the southwestern USA. Forest Ecology and Management
+264: 10–19. https://doi.org/10.1016/j.foreco.2011.10.002.
+R Development Core Team. 2019. R: A language and environment for statistical
+computing. R Foundation for Statistical Computing. https://www.R-project.
+org/.
+Reynolds, R.T., A.S. Sánchez Meador, J.A. Youtz, T. Nicolet, M.S. Matonis, P.L.
+Jackson, D.G. DeLorenzo, and A.D. Graves. 2013. Restoring Composition and
+Structure in Southwestern Frequent-Fire Forests: A Science-Based Framework for
+Improving Ecosystem Resiliency. Gen. Tech. Rep. RMRS-GTR-310, U.S. Fort Collins:
+Department of Agriculture, Forest Service, Rocky Mountain Research Station.
+https://doi.org/10.2737/RMRS-GTR-310.
+Roccaforte, J.P., P.Z. Fulé, W.W. Chancellor, and D.C. Laughlin. 2012. Woody debris
+and tree Regeneration dynamics following severe wildfires in Arizona
+ponderosa pine forests. Canadian Journal of Forest Research 42 (3): 593–604.
+https://doi.org/10.1139/X2012-010.
+Rodman, K.C., T.T. Veblen, M.A. Battaglia, M.E. Chambers, P.J. Fornwalt, Z.A.
+Holden, T.E. Kolb, J.R. Ouzts, and M.T. Rother. 2020a. A Changing Climate is
+Snuffing Out Post-Fire Recovery in Montane Forests. Global Ecology and
+Biogeography 29: 2039–2051. https://doi.org/10.1111/geb.13174.
+Rodman, K.C., T.T. Veblen, T.B. Chapman, M.T. Rother, A.P. Wion, and M.D.
+Redmond. 2020b. Limitations to recovery following wildfire in dry forests of
+southern Colorado and northern New Mexico, USA. Ecological Applications 30
+(1): e02001. https://doi.org/10.1002/eap.2001.
+Rother, M.T., and T.T. Veblen. 2016. Limited conifer regeneration following
+wildfires in dry ponderosa pine forests of the Colorado Front Range.
+Ecosphere 7 (12): e01594. https://doi.org/10.1002/ecs2.1594.
+Savage, M., and J.N. Mast. 2005. How resilient are southwestern ponderosa pine
+forests after crown fires? Canadian Journal of Forest Research. https://doi.
+org/10.1139/x05-028.
+Savage, M., J.N. Mast, and J.J. Feddema. 2013. Double whammy: high-severity fire
+and drought in ponderosa pine forests of the Southwest. Canadian Journal
+of Forest Research 43: 570–583. https://doi.org/10.1139/cjfr-2012-0404.
+Schubert, G.H. 1974. Silviculture of southwestern ponderosa pine: the status of our
+knowledge, 71. Fort Collins, CO: USDA Forest Service Research Paper RM-123.
+https://doi.org/10.5962/bhl.title.98816.
+Shen, C., and A.S. Nelson. 2018. Natural conifer regeneration patterns in
+temperate forests across the Inland Northwest, USA. Annals of Forest Science
+75: 54. https://doi.org/10.1007/s13595-018-0724-8.
+Sheppard, P.R., A.C. Comrie, G.D. Packin, K. Angersbach, and M.K. Hughes. 2002.
+The Climate of the US Southwest. Climate Research 21: 219–238. https://doi.
+org/10.3354/cr021219.
+Singleton, M.P., A.E. Thode, A.J. Sánchez Meador, and J.M. Iniguez. 2019.
+Increasing trends in high-severity fire in the southwestern USA from 1984-
+2015. Forest Ecology and Management 433: 709–719. https://doi.org/10.1016/j.
+foreco.2018.11.039.
+Singleton, M.P. 2020. The shape of fire: Quantifying tree regeneration, key drivers,
+and spatial complexity of high-severity burn patches [Doctoral dissertation,
+Northern Arizona University]. ProQuest Dissertation Publishing.
+Stage, A.R. 1976. An expression of the effects of aspect, slope, and habitat type
+on tree growth. Forest Science 22 (3): 457–460.
+Stephenson, N.L. 1998. Actual evapotranspiration and deficit: biologically
+meaningful correlates of vegetation distribution across spatial scales. Journal of
+Biogeography 25: 855–870. https://doi.org/10.1046/j.1365-2699.1998.00233.x.
+Stevens-Rumann, C.S., K.B. Kemp, P.E. Higuera, B.J. Harvey, M.T. Rother, D.C.
+Donato, P. Morgan, and T.T. Veblen. 2018. Evidence for declining forest
+resilience to wildfires under climate change. Ecology Letters 21: 243–252.
+https://doi.org/10.1111/ele.12889.
+Swetnam, T.W., and C.H. Baisan. 1996. Historical Fire Regime Patterns in the
+Southwestern United.
+Voeten, C. 2020. buildmer: Stepwise Elimination and Term Reordering for Mixed-
+Effects Regression. https://CRAN.R-project.org/package=buildmer
+Wahlberg, M., F.J. Triepke, W. Robbie, S.H. Stringer, D. Vandendriesche, E.
+Muldavin, and J. Malusa. 2014. Ecological Response Units of the
+southwestern United States. In USDA Forest Service Forestry Report FR-R3-XX-
+XX, 201. Albuquerque: Southwestern Region, Regional Office.
+Walker, R.B., J.D. Coop, S.A. Parks, and L. Trader. 2018. Fire regimes approaching
+historic norms reduce wildfire-facilitated conversion from forest to non-
+forest. Ecosphere 9 (4): e02182. https://doi.org/10.1002/ecs2.2182.
+Welch, K.R., H.D. Safford, and T.P. Young. 2016. Predicting conifer establishment 5-
+7 years after wildfire in middle elevation yellow pine and mixed conifer
+forests of the North American Mediterranean-climate zone. Ecosphere 7: 1–29.
+https://doi.org/10.1002/ecs2.1609.
+Young, J.E., A.M. Evans, J.M. Iniguez, A.E. Thode, M.D. Meyer, S.J. Hedwall, S.
+McCaffrey, P. Shin, and C. Huang. 2020. Effects of policy change on wildland
+fire management strategies: evidence for a paradigm shift in the western
+US? International Journal of Wildland Fire. https://doi.org/10.1071/WF19189.
+Ziegler, J.P., C.M. Hoffman, P.J. Fornwalt, C.H. Sieg, M.A. Battaglia, M.E. Chambers,
+and J.M. Iniguez. 2017. Tree Regeneration Spatial Patterns in Ponderosa Pine
+Forests Following Stand-Replacing Fire: Influence of Topography and
+Neighbors. Forests 8:391. https://doi.org/10.3390/f8100391.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Singleton et al. Fire Ecology           (2021) 17:14 
+Page 15 of 15

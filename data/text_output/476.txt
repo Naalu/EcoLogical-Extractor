@@ -1,0 +1,2710 @@
+ 
+ 
+ESTIMATING GROUNDWATER YIELD FOLLOWING FOREST RESTORATION 
+ALONG THE MOGOLLON RIM, ARIZONA 
+ 
+By Clinton J. W. Wyatt 
+A Thesis 
+Submitted in Partial Fulfillment 
+of the Requirements for the degree of 
+Master of Science 
+in Geology 
+ 
+Northern Arizona University 
+May 2013 
+ 
+Approved: 
+ 
+_______________________________ 
+Abraham E. Springer, Ph.D., Chair 
+ 
+ 
+_______________________________ 
+Deborah N. Huntzinger, Ph.D. 
+ 
+ 
+_______________________________ 
+Peter M. Kroopnick, Ph.D., RG, PH 
+ 
+ 
+
+ii 
+ 
+ABSTRACT 
+ 
+ESTIMATING GROUNDWATER YIELD FOLLOWING FOREST RESTORATION 
+ALONG THE MOGOLLON RIM, ARIZONA 
+ 
+Clinton J. W. Wyatt 
+ 
+Landscape-scale forest restoration treatments are planned for four national forests 
+in Northern Arizona: the Coconino, Kaibab, Tonto, and Apache-Sitgreaves National 
+Forests. The first analysis area comprises 900,000 acres on the Coconino and Kaibab 
+National Forests were the U.S. Forest Service is proposing restoration activities on 
+approximately 600,000 acres over a ten year period pending acceptance of an 
+Environmental Impact Statement. These forest restoration treatments are intended to 
+accomplish a number of objectives including reducing the threat of catastrophic wild fire 
+and subsequent flooding and to restore forest health, function, and resiliency. Previous 
+studies have shown that in semi-arid, ponderosa pine watersheds there was a possibility 
+to increase surface water yields 15-40% when basal area was reduced by 30-100%. 
+Because of these results, there is considerable interest in the amount of increased water 
+that may recharge from these activities.  
+The objectives of this study were two-fold: 1) examine the state of knowledge of 
+forest restoration thinning and its hydrological responses and to evaluate the quality and 
+type of references that exist within the literature; and 2) simulate possible changes in 
+recharge and groundwater yield following forest restoration treatments and climate 
+change. A systematic review process following the guidelines suggested by the 
+
+iii 
+ 
+Collaboration for Environmental Evidence was conducted to examine literature relevant 
+to this topic. The Northern Arizona Regional Groundwater-Flow Model was used to 
+simulate the changes expected from forest restoration treatments and climate change.  
+The systematic review returned 37 references that were then used to answer our 
+questions regarding tree removal and its hydrological responses. Data from individual 
+studies suggested that forest treatments that reduce tree density, increase water yield and 
+groundwater recharge while reducing evapotranspiration. Specifically, when 20-100% of 
+a conifer-dominated watershed was treated, the literature shows a 0-40% increase in 
+water yield. Although one study showed a correlation, there was no overall correlation 
+for all studies between percent area treated and groundwater recharge. Results are highly 
+variable, and diminish within five to ten years for water yield increases and even quicker 
+(< 4 years) for groundwater table heights.  
+Using a groundwater-flow model, it was estimated that over the ten-year period of 
+forest restoration treatment, a 1% increase in annual recharge to regional aquifers was 
+estimated compared to 2000-2005 conditions. However, these increases were assumed to 
+quickly decline after treatment due to regrowth of vegetation and forest underbrush. 
+Furthermore, predicted groundwater recharge increases were masked by decreases in 
+water levels, stream baseflow, and groundwater storage resulting from surface water 
+diversions and groundwater pumping. These results showed that there is an imbalance 
+between water supply and demand, that current practices are not likely to be sustainable 
+into the far future, and that comprehensive action should be taken to minimize this 
+imbalance. 
+ 
+
+iv 
+ 
+ACKNOWLEDEGMENTS 
+ 
+ 
+I would like to thank Salt River Project and the National Science Foundation for 
+funding this project. Thank you to Abe Springer for giving me this opportunity, guidance 
+through this research, and helping me to become a better scientist and student. Thank you 
+to my committee members Drs. Deborah Huntzinger and Peter Kroopnick for providing 
+their expertise and support to this research.  Thank you to Sharon Masek Lopez for all her 
+help retrieving data and information, editing, and for providing her expertise. Thank you 
+to the numerous individuals and agencies that provided technical support, including, but 
+not limited to: Liz Kalies, Jim Rumbaugh, Mark Nigrelli, Neil McCusker, and Northern 
+Arizona University’s Ecological Restoration Institute including Dave Huffman and 
+Tayloe Dubay, 
+ 
+I would also like to thank my family, especially my parents, for always providing 
+their love and support. I wouldn’t be who I am today without them. I would also like to 
+thank all my friends back home (Missouri) and all the new friends I made in Flagstaff 
+over the past two years. I would also like to think my dear friend and partner Emily 
+White for all of her love and support.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+v 
+ 
+TABLE OF CONTENTS 
+ 
+ABSTRACT……………………………………………………………………………… ii 
+ACKNOWLEDEGMENTS………………………………………………………………iv 
+LIST OF APPENDICES (DIGITAL)…………………………………………………....vii 
+LIST OF TABLES……………………………………………………………………....viii  
+LIST OF FIGURES………………………………………………………………………ix 
+PREFACE………………………………………………………………………………..x 
+CHAPTER 1 – INTRODUCTION……………………………………………………….. 1 
+1.1 STATEMENT OF SIGNIFICANCE ........................................................................ 1 
+1.2 BACKGROUND ....................................................................................................... 2 
+1.2.1 THE FOUR FOREST RESTORATION INITIATIVE ...................................... 3 
+1.2.2 DOWNSCALED CLIMATE DATA ................................................................. 6 
+1.2.3 THE NOTHERN ARIZONA REGIONAL GROUNDWATER-FLOW 
+MODEL ....................................................................................................................... 7 
+1.3 PURPOSE AND OBJECTIVES ............................................................................. 10 
+1.4 STUDY AREA ........................................................................................................ 11 
+1.4.1 GEOLOGIC SETTING .................................................................................... 12 
+1.4.2 GENERAL HYDROGEOLOGY ..................................................................... 16 
+CHAPTER 2 – SYSTEMATIC REVIEW OF FOREST TREATMENT EFFECTS ON 
+WATERSHED BUDGETS – IMPLICATIONS FOR SURFACE WATER AND 
+GROUNDWATER……………………………………………………………………… 21 
+2.1 ABSTRACT ............................................................................................................ 21 
+2.2 BACKGROUND ..................................................................................................... 21 
+2.3 OBJECTIVES ......................................................................................................... 23 
+2.4 METHODOLOGY .................................................................................................. 23 
+2.5 RESULTS................................................................................................................ 26 
+2.6 DISCUSSION ......................................................................................................... 35 
+2.6.1 Question #1 ....................................................................................................... 36 
+2.6.2 Question #2 ....................................................................................................... 37 
+2.6.3 Implications for 4FRI ....................................................................................... 38 
+2.6.4 Uncertainty and Error ...................................................................................... 39 
+2.6.5 Recommendations for Future Research ........................................................... 41 
+2.7 CONCLUSIONS ..................................................................................................... 42 
+2.8 ACKNOWLEDGEMENTS .................................................................................... 44 
+CHAPTER 3 – RESPONSES OF REGIONAL SEMI-ARID AQUIFERS TO LARGE-
+SCALE FOREST RESTORATION TREATMENTS AND CLIMATE CHANGE…… 45 
+
+vi 
+ 
+3.1 ABSTRACT ............................................................................................................ 45 
+3.2 INTRODUCTION ................................................................................................... 45 
+3.3 PREVIOUS STUDIES ............................................................................................ 47 
+3.4 THE NORTHERN ARIZONA REGIONAL GROUNDWATER-FLOW MODEL
+ ....................................................................................................................................... 48 
+3.5 THE FOUR FOREST RESTORATION INITIATIVE .......................................... 51 
+3.6 INCORPORATING CLIMATE CHANGE INTO MODEL SIMULATIONS ...... 54 
+3.7 Objectives ................................................................................................................ 54 
+3.8 METHODS.............................................................................................................. 55 
+3.9 RESULTS................................................................................................................ 59 
+3.10 DISCUSSION AND CONCLUSIONS ................................................................. 66 
+3.11 ACKNOWLEDGEMENTS .................................................................................. 69 
+CHAPTER 4 – DISCUSSION AND CONCLUSIONS………………………………… 70 
+4.1 SUMMARY OF FINDINGS .................................................................................. 70 
+4.2 LIMITATIONS ....................................................................................................... 72 
+4.3 IMPLICATIONS ..................................................................................................... 76 
+4.4 RECOMMENDATIONS FOR FUTURE STUDIES ............................................. 77 
+4.5 RECOMMENDATIONS FOR WATER MANAGEMENT IN THE 
+SOUTHWESTERN UNITED STATES ....................................................................... 79 
+REFERENCES………………………………………………………………………….. 81 
+ 
+ 
+ 
+ 
+ 
+
+vii 
+ 
+LIST OF APPENDICES (DIGITAL) 
+ 
+APPENDIX A. Systematic Review References 
+APPENDIX B. Systematic Review Supplemental Information 
+APPENDIX C. Systematic Review Table Question #1 Reference Data Summary 
+APPENDIX D. Systematic Review Table Question #2 Reference Data Summary 
+APPENDIX E. Recharge Change Factor Explanation 
+APPENDIX F. Groundwater Model Details 
+APPENDIX G. Groundwater Model Changes 
+APPENDIX H. MODFLOW Files 
+APPENDIX I. Forest Treatment Data 
+APPENDIX J. Climate Change Data 
+ 
+
+viii 
+ 
+LIST OF TABLES 
+ 
+Table  
+ 
+ 
+ 
+ 
+ 
+ 
+         Page #/Appendix Letter 
+Table 1. Hierarchy of Evidence Quality ........................................................................... 25 
+Table 2. Details of the systematic review elimination process ......................................... 26 
+Table 3. Conceptualized stress periods developed for the NARGFM forest restoration and 
+climate change scenarios................................................................................................... 51 
+Table 4. Forest restoration treatment recharge recharge factors by zone as applied to 
+stress period 12 ................................................................................................................. 57 
+Table 5. Average climate change scenario recharge change factors by stress period ...... 59 
+Table 6. The types of references reviewed and their research location ............................ .A 
+Table 7. Number of accepted and rejected references ...................................................... .A 
+Table 8. Hierarchy of Evidence Quality ........................................................................... .A 
+ 
+ 
+
+ix 
+ 
+LIST OF FIGURES 
+ 
+Figure 1. Four Forest Restoration Initiative (4FRI) map .................................................... 3 
+ 
+Figure 2. Northern Arizona Regional Groundwater-Flow Model boundaries and 
+vegetative cover map .......................................................................................................... 8 
+ 
+Figure 3. Generalized stratigraphic cross section of rock units located within 
+physiographic provinces of the Northern Arizona Regional Groundwater-Flow Model 
+study area .......................................................................................................................... 13 
+ 
+Figure 4. Map showing the distribution of experimental studies...................................... 27 
+ 
+Figure 5. The distribution of increased water yield as a function of mean annual 
+precipitation ...................................................................................................................... 29 
+ 
+Figure 6. The distribution of mean water yield percent-increase as a function of mean 
+percent area treated.. ......................................................................................................... 30 
+ 
+Figure 7. The distribution of groundwater table rise as a function of mean annual 
+precipitation. ..................................................................................................................... 31 
+ 
+Figure 8. The distribution of groundwater table rise as a function of percent area of the  
+forest treated...................................................................................................................... 32 
+ 
+Figure 9. Length of response for water yield studies that reported on multiple annual 
+values. ............................................................................................................................... 33 
+ 
+Figure 10. Annual precipitation for Arizona Climatological Division #2 with 5- and 10-
+year moving averages. ...................................................................................................... 46 
+ 
+Figure 11. Conceptual model of the NARGFM detailing the relationships between 
+geographic locations, hydrogeologic units, and model layers .......................................... 50 
+ 
+Figure 12. Simulated pre-development groundwater-flow system in the Verde Valley .. 53 
+ 
+Figure 13. Changes in recharge in the Verde Valley sub-basin by scenario.. .................. 61 
+ 
+Figure 14. Observed and simulated baseflow at Oak Creek near Sedona clipped from 
+1980-2099. ........................................................................................................................ 62 
+ 
+Figure 15. Observed and simulated groundwtaer levels at wells in the Verde Valley sub-
+basin .................................................................................................................................. 63 
+ 
+Figure 16. Changes in groundwater storage for the Verde Valley sub-basin clipped to the 
+years 2000-2100. ............................................................................................................... 64 
+
+x 
+ 
+PREFACE 
+ 
+Chapter 2 and 3 of this thesis were written as separate manuscripts and contain 
+some material that is repeated from each other and Chapter 1. Chapter 4 summarizes 
+conclusions from Chapter 2 and 3.  
+ 
+
+1 
+ 
+CHAPTER 1 – INTRODUCTION  
+ 
+1.1 STATEMENT OF SIGNIFICANCE 
+ 
+There have been very few studies that have attempted to quantify the relationship 
+between forest thinning and groundwater recharge; even fewer studies have looked at this 
+relationship in arid and semi-arid climates. Many studies have looked at the effect that 
+removing trees, often by clear-cutting, will have on surface water runoff (Bosch and 
+Hewlett, 1982, Brown 2005). Other studies have looked at the effect that tree removal has 
+on evapotranspiration, soil moisture storage, and snowpack accumulation (Kolb et al., 
+2009, Bazan et al., 2012, Stegman, 1996). Because of the dearth of groundwater studies 
+in these areas, there is significant uncertainty with regards to how regional aquifers, 
+streams, and springs in northern Arizona will be affected by landscape-scale forest 
+restoration thinning that is planned on four national forests beginning in 2014. There is a 
+need to fill this knowledge gap so that appropriate management practices can incorporate 
+any change in groundwater recharge following restoration.  
+ 
+Based on previous research it is anticipated that forest restoration thinning 
+treatments planned for the Four Forest Restoration Initiative (Draft EIS Chapter 1, 2012) 
+will increase groundwater recharge by a modest yet significant amount. The reasoning for 
+this increase is that removing trees will cause a decrease in ET (sublimation is included in 
+this variable) and an increase in snowpack accumulation. With more snow and less ET, 
+more water will be available to infiltrate into the soils, increasing soil moisture storage 
+and enhancing percolation down to the regional aquifers. This could result in an increase 
+
+2 
+ 
+in groundwater recharge and water available for storage to regional aquifers in northern 
+Arizona.  
+ 
+A numerical groundwater flow-model recently developed by the U. S. Geological 
+Ssurvey (USGS) (Pool et al., 2011) called the Northern Arizona Regional Groundwater 
+Flow-Model (NARGFM) will be used to simulate how these forest restorations will 
+impact groundwater recharge to the Coconino and Redwall-Muav aquifers in northern 
+Arizona. Downscaled climate data available through the U. S. Bureau of Reclamation 
+(Reclamation) will also be used to determine future climatic impact on the water budget 
+for the area of interest. Five scenarios, including one baseline scenario, one historical 
+scenario, and three scenarios derived from IPCC climate scenarios will be simulated with 
+the NARGFM.  
+ 
+1.2 BACKGROUND 
+ 
+This research is part of a larger project: a collaboration between Salt River Project 
+(SRP) and Northern Arizona University’s Ecological Restoration Institute (ERI).  The 
+goal of this project is to determine the effects of alternative forest treatments and wildfire 
+on hydrologic and natural resource responses. These effects have important implications 
+for landscape-scale ecosystem restorations, long-term forecasting and planning for water 
+availability, water quality and sedimentation, and adaptive management practices being 
+implemented for the 4FRI. The research presented here fulfilled two tasks of the work 
+that was planned. Other tasks included the design and implementation of a paired 
+watershed study, development of a data server where data, results, and findings will be 
+made accessible to cooperators and managers, and the development of a monitoring 
+
+3 
+ 
+program following forest restoration. Results from this and other research will be used to 
+inform management decisions for the Four Forest Restoration Initiative.      
+ 
+1.2.1 THE FOUR FOREST RESTORATION INITIATIVE 
+ 
+The Four Forest Restoration Initiative (4FRI) is a proposal by the United States 
+Department of Agriculture’s (USDA) Forest Service to conduct restoration thinning and 
+burning treatments in four national forests located along the Mogollon Rim in northern 
+Arizona (Figure 1). These forests are ponderosa pine (Pinus  
+ 
+Figure 1. Four Forest Restoration Initiative (4FRI) map detailing national forests, major 
+roads, and boundaries (from 4FRI.org). 
+
+4 
+ 
+ponderosa) dominated ecosystems located at elevations between 6000-8000 feet. These 
+forests receive between 20-30 inches of precipitation annually. The Apache-Sitgreaves, 
+Coconino, Kaibab, and Tonto National Forests, comprise 2.4 million acres of federal 
+forest land. Additional treatments are being planned for non-federal forest lands. There 
+are four alternatives being considered for the 4FRI treatments: A-D. For this project we 
+used alternative C. This alternative focuses on addressing concerns about the preservation 
+of large trees and incorporates key components from the stakeholder-created Large Tree 
+Retention Strategy.  
+ 
+The purpose of these treatments is to reduce the threat of catastrophic wild fire 
+and subsequent flooding and to restore forest health, function, and resiliency. Because 
+historical practices such as old-growth logging and fire suppression have increased the 
+density of young trees and forest underbrush, these forests are considered high risk for 
+crown-fires. Crown-fires are fires that burn extremely hot – too hot for naturally, fire-
+adapted ecosystems like ponderosa pine forests – and burn all the way up the tree to the 
+crown. These types of fires are considered unnatural and cause significant damage to the 
+forest ecosystem, water resources, and structures in the immediate vicinity of the fire, 
+including businesses, schools, and homes. The 4FRI treatments will remove this excess 
+fuel and significantly reduce the risk of crown-fires. 
+Healthy forested watersheds are life-support systems that are critical to the 
+survival of flora and fauna living within and around a watershed. They also provide 
+numerous ecosystem services that benefit humans and are important to the well-being and 
+livelihood of nearby communities. These natural assets include provisioning (food and 
+water), regulating (climate and carbon storage), supporting (soil formation and nutrient 
+
+5 
+ 
+cycling), and cultural (education and aesthetic) services (Deal, 2008). Overuse of healthy 
+ecosystems can diminish their capacity to provide these services. Of critical importance 
+in the southwestern U. S. and other semi-arid regions is the preservation and restoration 
+of forested watersheds to ensure and restore their ability to provide clean and abundant 
+water. The 4FRI plans to make these forested ecosystems healthy enough to provide these 
+benefits to natural and human communities. 
+The first analysis area slated for treatment includes approximately 900,000 acres 
+on the Coconino and Kaibab National Forests (Draft EIS Chapter 1, 2012). 
+Approximately 600,000 acres of this area is expected to receive some sort of treatment. 
+The treatments are expected to last a decade, and to begin sometime in 2014. Not 
+included in 4FRI are additional areas, called shelf-stock, which will be treated in a similar 
+manner along a similar timeline. These areas were included in the model simulations. A 
+second round of restoration treatments is anticipated for additional parts of the Coconino 
+and Kaibab National Forests, as well as areas within the Apache-Sitgreaves and Tonto 
+National Forests. However, the exact details of these treatments for the second analysis 
+area are uncertain. Because of this treatment uncertainty, only the first analysis area was 
+included in the model simulations. Currently, an EIS is being prepared to analyze the 
+environmental, social, and economic impacts that forest restoration thinning and burning 
+treatments will have. 
+ 
+The forest restoration treatments are intended to accomplish a number of 
+objectives. The treatments will reduce stand density within selected areas up to >50% 
+(Draft EIS Chapter 1, 2012).  They will restore a balance of age and class sizes to the 
+forest, 50% of which lacks this diversity and is instead an even-aged structure. Uneven-
+
+6 
+ 
+aged thinning (UEA) will be the most heavily used tree-removal treatment in the 4FRI 
+area. This method will establish interspaces between adjacent groups of 50 to 70 square 
+feet of basal area, establish tree groups of 0.1 to 1 acre in size with 4 to 20 dominant and 
+co-dominant trees per 1/10 acre, produce interlocking crowns between mid-age and older 
+trees to produce >40% canopy cover, as well as a number of other features. 
+ 
+Additional thinning treatments include intermediate thinning and stand 
+improvement thinning. These treatments will increase vegetation diversity and 
+composition, including reestablishing aspen, grasslands, pine-sage, and a variety of oak 
+size classes and forms that are important to many wildlife species. They will restore 
+natural fire regimes and reduce the estimated 41% of the project area able to support 
+crown fires to 5-10%. The treatments will also restore the function of a number of 
+springs, and ephemeral streams throughout the forests, of which there are thousands, all 
+of which are important to wildlife habitat, forest health, and water users in Arizona. 
+ 
+1.2.2 DOWNSCALED CLIMATE DATA 
+ 
+Bias corrected and downscaled climate data from the World Climate Research 
+Programme’s (WCRP) Coupled Model Intercomparison Project phase 3 (CMIP3) multi-
+model data set were used to simulate future changes in precipitation in the study area 
+(Maurer et. al., 2007). These datasets include monthly climate projections over the 
+contiguous United States as well as monthly hydrologic projections over the western 
+United States. Both sets of data are simulated to the year 2099. The goal of the project 
+was to coordinate the activities of climate modeling groups that have produced hundreds 
+of simulations of past and future climates for the Intergovernmental Panel on Climate 
+
+7 
+ 
+Change’s (IPCC) Fourth Assessment Report (AR4). These simulations are available 
+through the U.S. Department of the Interior’s Bureau of Reclamation’s Research and 
+Development office. Over 100 projections of monthly temperature and precipitation from 
+16 models are available at 1/8 by 1/8 (12 km x 12 km) spatial resolution over the lower 
+48 states (Reclamation, 2012). We used the multi-model mean from all 16 models for the 
+A1B, A2, and B1 climate scenarios to set our climate change boundaries. This way we 
+were able to utilize the full ensemble of climate simulations for each model emission 
+scenario.  
+ 
+1.2.3 THE NOTHERN ARIZONA REGIONAL GROUNDWATER-FLOW MODEL 
+ 
+A numerical groundwater-flow model (MODFLOW), called the Northern Arizona 
+Regional Groundwater-Flow Model, or NARGFM, was recently developed by the USGS 
+to simulate the interactions between regional aquifers, streams, and springs in northern 
+Arizona and to assess the adequacy of groundwater resources and the effect of increased 
+pumping, especially in the Verde River basin, would have on these resources (Pool et al., 
+2011) (Figure 2). For this project, the model was used as a tool to estimate how the 4FRI 
+forest restoration thinning treatments and climate scenarios will impact recharge to 
+recharge aquifers, streams, and springs. Because this is a groundwater model, recharge, 
+not precipitation, was modified to determine these impacts.  
+ 
+The origin of the NARGFM is the Arizona Department of Water Resources’ 
+Rural Watershed Initiative (RWI), a program with a goal to understand the adequacy of 
+water supplies in rural areas with growing populations, a characteristic of the 
+southwestern United States. RWI reports for three areas have been studied, including the  
+
+8 
+ 
+ 
+ 
+Figure 2. Northern Arizona regional groundwater flow model boundaries and vegetative 
+cover map. (From Pool et. al. 2011.)  
+ 
+ 
+Coconino Plateau (Bills et al., 2007), the upper and middle Verde River watersheds 
+(Blasch et al., 2006), and the Mogollon Highlands (Parker et al., 2005). These areas, 
+which comprise over 17,000 sq. mi. of federal, state, private, and tribal lands, are among 
+the fastest growing locations in the United States. Because of this growth, and the relative 
+scarcity of water in the dry, southwestern U.S., a numerical flow model was deemed 
+necessary so that future investigators such as cities, land managers, and tribal authorities 
+
+9 
+ 
+could investigate the effect that anticipated increases in pumping may have on 
+groundwater resources. 
+ 
+The model was developed using hydrologic data and information acquired from 
+the three RWI studies. Rather than developing groundwater flow models for each distinct 
+region and/or administratively defined basin or sub-basin, a regional framework was used 
+to simulate the interconnectedness and dependency of groundwater basins and sub-basins 
+– and their respective communities – on each other. This allowed and will allow resource 
+managers to examine the hydrologic consequences of groundwater development not only 
+on their own resources, but on the resources of surrounding communities. This increases 
+the scope of projects undertaken by and the awareness of water users. 
+ 
+Though the NARGFM was developed to assess the adequacy of groundwater 
+supplies in the study area, with an emphasis on the effects of groundwater withdrawals on 
+regional water tables and flow systems, for this project it is used to explore how land-use 
+and climate change will affect groundwater resources. Rather than adjusting pumping 
+scenarios based on anticipated population growth and groundwater withdrawal, recharge 
+rates were modified to simulate how restoration forest thinning, an event that will remove 
+trees and is likely to decrease evapotranspiration and increase snowpack, and how 
+climate change, an event that is very likely to occur and affect precipitation and 
+temperature in the area, will impact the regional water budget and groundwater system. A 
+systematic review was conducted following the Collaboration for Environmental 
+Evidence’s systematic review guidelines to resolve the state of knowledge with respect to 
+forest restoration thinning and its hydrological responses and to evaluate the quality and 
+type of references that exist within the literature (CEE, 2010).  The results from the 
+
+10 
+ 
+systematic review were used to determine appropriate factors of change in recharge. We 
+then applied these factors to the NARGFM to simulate changes in groundwater recharge 
+following forest treatments. Similar recharge-change factors were used to simulate 
+changes in precipitation from regional climate change. 
+  
+1.3 PURPOSE AND OBJECTIVES 
+ 
+The purpose of this study was to review estimate how the 4FRI treatments, 
+additional shelf-stock treatments, and future climate scenarios will impact the water 
+budget in northern Arizona.  
+ 
+The following were the main objectives of this research: 
+1) Determine through a systematic review process the effect of removing trees on the 
+water budget, including surface water runoff, groundwater recharge, soil moisture 
+storage, transpiration, evaporation and sublimation, 
+2) Conduct five model simulations of the NARGFM from 2006 to 2099 based on the 
+interaction of 4FRI alternative C and downscaled precipitation estimates from the 
+multi-model ensemble and three of the IPCC climate scenarios A1B, A2, and B1, 
+and based on extending the sixth (1940-1949) and tenth (2000-2005) stress 
+periods in the published NARGFM into the future (to 2099) for comparison.  
+3) Make recommendations to Salt River Project on the responses of the watersheds 
+which supply their water supplies following the 4FRI treatments. 
+ 
+
+11 
+ 
+1.4 STUDY AREA 
+ 
+The study area encompasses over 30,000 square miles and is located in northern 
+Arizona and adjacent parts of western New Mexico and southern Utah (Figure 2). This 
+area has an arid to semi-arid climate and temperature and precipitation in the study area 
+vary considerably spatially and temporally. Lower altitudes have extremely hot summers 
+but mild winters, while higher altitudes have moderate summers and severe winters. 
+Precipitation varies; basins receive 10 to 15 inches per year, surrounding mountain slopes 
+receive 15 to 30 inches per year, and the mountains and Coconino Plateau receive 20 to 
+40 inches per year (Blasch et al., 2006). However, only about 10% of the annual 
+precipitation in the area is recovered and used by people; the other 90% is lost to 
+evapotranspiration (Ffolliott and Baker, 2000). Winter snowfall accounts for 
+approximately 60% of annual precipitation but is responsible for 80-95% of streamflow 
+(Baker, 2003) and almost all recharge (Blasch et al., 2006). Elevation ranges from 
+approximately 750 to 800 feet in the lowest reaches of the Colorado River, to 12,633 feet 
+at Humphreys Peak, the highest natural point in Arizona.  
+ 
+Included in the study area are parts of four national forests: the Apache-
+Sitgreaves, Coconino, Kaibab, and Tonto National Forests, which comprise 
+approximately 2.4 million acres of federal forest land. These forests are mostly located 
+between the elevations of 6000 and 8000 feet, receive an annual average of 20 to 30 
+inches of precipitation per year as roughly equal proportions of summer monsoon rains 
+and winter snowfall, and include predominately ponderosa pine trees as well as alligator 
+juniper, quaking aspen, and other mixed conifer species. The remainder of the model 
+
+12 
+ 
+domain includes a wide variety of ecosystems including riparian/wetland vegetation, 
+grassland, and desert scrub (Figure 2).   
+ 
+Major rivers in the study area include the Colorado, Little Colorado, Verde, and 
+Salt Rivers, and their associated tributaries. These major rivers are supported by a 
+number of perennial streams and springs, as well as intermittent, or ephemeral, streams 
+and springs that feed into them on either a regular (seasonal) or irregular (event-based) 
+basis. Major springs included in the study area include Blue, Del Rio, and Havasu 
+springs, as well as Verde headwater springs and springs adjacent to Verde tributaries, and 
+springs that discharge to the Colorado River. There are a number of other surface water 
+bodies included in the study area, such as springs and lakes that are not modeled in the 
+Northern Arizona Regional Groundwater Flow-Model, either due to lack of data or the 
+inability of the model to simulate at those resolutions.  
+ 
+1.4.1 GEOLOGIC SETTING 
+ 
+The study area is predominately located in the Colorado Plateau Structural 
+Province and Transition Zone, with smaller parts located in the Basin and Range 
+Structural Province. These provinces contain a number of similar geologic units that have 
+a different structural history (Figure 3). The Colorado Plateau is an area of uplifted 
+sedimentary rock, underlain by basement rock and overlain by relatively young volcanic 
+deposits and unconsolidated sediments. Proterozoic basement rocks include granite, 
+metamorphic rocks, and Grand Canyon Super Group rocks. Basement rocks underlay 
+younger units and are exposed in the Grand Canyon, Big and Little Chino Valleys, Verde 
+Valley, Mazatzal Mountains, Bradshaw Mountains, and Sierra Ancha Mountains.  
+
+13 
+ 
+ 
+Figure 3. Generalized stratigraphic cross section of rock units located within 
+physiographic provinces of the Northern Arizona Regional Groundwater-Flow Model 
+study area (from Pool et al., 2011). 
+ 
+ 
+ 
+The sedimentary rocks include Phanerozoic sandstone, conglomerate, siltstone, 
+mudstone, shale, limestone and dolomite units. Paleozoic rocks included Cambrian 
+
+14 
+ 
+(Tapeats Sandstone) to Permian (Kaibab Limestone) sedimentary rocks. These units dip 
+approximately 2 degrees southwest, thicken westward, and are characterized by east-to-
+west facies changes. These rocks underlie most of the study area and are exposed along 
+the Mogollon Rim and in canyons of the Colorado River. The Redwall Limestone, Martin 
+Formation, and Muav Limestone are all units of the Redwall-Muav Aquifer, an important 
+source of groundwater for much of the northern part of the state. Additionally, the Middle 
+Supai through Kaibab Formations are important units that make up the Coconino 
+Aquifer. 
+ 
+Mesozoic Rocks include mostly the Triassic Moenkopi formation and younger 
+unconsolidated sediments. The Moenkopi formation has a low permeability and serves as 
+the confining unit for the Coconino Aquifer below, as well as some of the alluvial basin-
+fill aquifers above. Overlying sediments have good permeability and form disconnected 
+aquifers throughout the study area. However, these aquifers were not included in the 
+model domain and are therefore not important for this study. These units have undergone 
+consider structural disturbance and are therefore highly deformed and regionally 
+discontinuous at the present time. Many of the sediments produced from this disturbance 
+were later deposited in the basins located in the study area. These sediments include sand 
+and gravels deposits at basin boundaries and silt, clay, and evaporates deposited in the 
+basin center. These latter sediments often act as a confining unit to the basin-fill aquifers 
+made up of the sand and gravel units. Some basins may have volcanic deposits 
+interbedded with the basin-fill deposits. These volcanic units may form locally important 
+zones of high permeability.  
+
+15 
+ 
+ 
+The structural history of the study area is complex. Major structural events 
+include the Grand Canyon Orogeny, the Laramide Orogeny, and the basin and range 
+structural disturbance. The Grand Canyon Orogeny was an event that occurred 
+approximately 830 Ma (Elston, 1979). This orogeny significantly tilted, folded, and 
+faulted members of the Grand Canyon Supergroup and marked the end of deposition of 
+what would become the pre-Camrbian rocks of the region. After these events there was a 
+relatively long period of erosion until the deposition of the Tapeats Sandstone and 
+associated units over the now tilted Grand Canyon Supergroup and exposed basement 
+rocks 460 million years later. These events created the iconic angular unconformity found 
+two-thirds of the way down the Grand Canyon. 
+ 
+The Laramide Orogeny was a compressional event that occurred between 75 and 
+35 Ma that was largely responsible for the uplift of both the Rocky Mountains and the 
+Colorado Plateau. This event lifted a large block of relatively horizontal sedimentary 
+strata in the study area and surrounding area approximately 10,000 feet. The Laramide 
+Orogeny was also responsible for a period of increased erosion that stripped most of the 
+Colorado Plateau of its Mesozoic units (Pool et al., 2011). This event produced the 
+regional 1 to 2 degree dip characteristic of the Colorado Plateau and resulted in the 
+formation major features such as the Kaibab Uplift, Mesa Butte Fault, and Black Mesa 
+Basin. The Mogollon Rim, where a majority of the 4FRI treatments are planned, is the 
+erosional edge of the Colorado Plateau and marks the onset of the Transition Zone from 
+plateau to basin and range.  
+ 
+The basin and range structural disturbance was an event that occurred during the 
+middle Tertiary, roughly 10-17 Ma (Eaton, 1982). This marked the change from 
+
+16 
+ 
+compressional stresses of the Laramide Orogeny to extensional stresses associated with 
+basin and range formation. This event was characterized by normal faulting that created 
+alternating series of horsts and grabens – basins and ranges – all the way from southern 
+Oregon to northwestern Mexico, including major extension in southern Arizona, Utah, 
+and eastern California (Eaton, 1982). This established a number of north-northwest 
+trending valleys in the study area including Big Chino Valley, Williamson Valley, Little 
+Chino Valley, Verde Valley, and Tonto Creek Basin, all of which were created by 
+extensional faulting (Pool et al., 2011). Basin-fill sediments associated with this 
+disturbance constitute the primary water bearing units of the basin-fill aquifers. 
+ 
+A final major event – the establishment of the Colorado River in the Grand 
+Canyon by 9 to 6 Ma – created the heavily dissected landscape of northern Arizona 
+including the Grand Canyon, where over a mile of down cutting has occurred (Pool et al., 
+2011). This rapid erosion has dewatered regional aquifers in the area, significantly 
+altering the associated groundwater flow systems. This has led to the establishment of 
+several major springs in the area, the most prominent of which is Havasu Spring in 
+western Grand Canyon. These springs are important to communities in the region, 
+especially the Havasupai tribe living at the bottom of the Grand Canyon at Havasu Creek, 
+northwest of Grand Canyon Village. 
+ 
+1.4.2 GENERAL HYDROGEOLOGY 
+ 
+The major aquifers in the study area include the Redwall-Muav (R-aquifer), 
+Coconino (C-aquifer), and basin-fill aquifers (Pool et al., 2011). The R- and C-aquifers 
+have groundwater divides that are largely coincident with the Mogollon Rim and trend 
+
+17 
+ 
+northwest-southeast. This divides the regional flow systems into two parts: one part flows 
+northward into the Colorado and Little Colorado Rivers and one part flows south to the 
+Verde and Salt Rivers. The focus of this thesis is on the flow system in and around the 
+Verde River groundwater catchment basin as simulated by the NARGFM. There are a 
+number of smaller aquifers that are not as important regionally but are used extensively to 
+meet local demand. Some of these local aquifers include Quaternary alluvial aquifers and 
+the Payson Granite, which are connected to the regional aquifers, and smaller 
+disconnected aquifers in the alluvium, volcanic rocks, Kaibab Formation, Coconino 
+Sandstone, Supai Group, and Proterozoic rocks. These minor aquifers were included in 
+the model because of their ability to transmit water to the regional aquifers via 
+percolation after discharging.  Regional recharge in the study area is estimated to be 
+approximately 4% of annual precipitation and as high as 8% along the Mogollon (Parker, 
+2005).  
+ 
+The R-aquifer is the deepest aquifer in the study and comprises the Tapeats 
+Sandstone, Bright Angel Shale, Muav Limestone, Temple Butte Limestone, and Redwall 
+Limestone (Pool et al., 2011). Some portions of this layer also include lower parts of the 
+Supai Formation, Naco Formation, or Surprise Canyon Formation, all of which form an 
+upper confining unit. Minor stratigraphic variations can be found throughout the study 
+area. The Redwall and Muav Limestones are the main water-bearing units of the R-
+aquifer (Bills et al., 2007). The aquifer is underlain and confined by Proterozoic basement 
+rock. The units of the R-aquifer are exposed in the northern, southern, and western 
+portions of the study area in steep canyons and escarpments (Pool et al., 2011). Most of 
+the R-aquifer is overlain by younger units and is usually found at considerable depth, 
+
+18 
+ 
+often exceeding 3000 feet (Bills et al., 2000). The units of the R-aquifer underlie most of 
+the study area, with the exception of Little Chino sub-basin, and therefore make up most 
+of model layer 3 of the NARGFM. Recharge to the aquifer occurs mainly through 
+downward leakage from overlying, fractured units of the C-aquifer and from direct 
+infiltration where the units of the R-aquifer are exposed, mostly south of the Mogollon 
+Rim (Pool et al., 2011). Recharge can also occur through percolation through 
+unconsolidated alluvium and porous volcanic rocks that are associated with faulting and 
+fracturing. Underflow may also contribute groundwater flow to the aquifer, mostly from 
+the Little Colorado River Plateau, but higher elevations and faulting through the R-
+aquifer prohibit underflow from surrounding areas. The R-aquifer discharges mainly as 
+spring flow to the Colorado, Little Colorado, and Verde River and their tributaries, as 
+underflow to basin-fill aquifers in Little Chino Valley and Big Chino Valley, as discharge 
+from wells, and as ET where the water table is at our near land surface. 
+ 
+The C-aquifer lies above the R-aquifer and comprises the Kaibab Formation, 
+Coconino Sandstone, Schnebly Hill Formation, and Upper Supai Formation (Pool et al., 
+2011). Minor stratigraphic variations can be found throughout the study area. The top of 
+the aquifer, the Kaibab Limestone, is typically unsaturated but provides a conduit for 
+infiltration into the units below. The Coconino Sandstone is the main water-bearing unit 
+of the C-aquifer (Hart, 2002). The aquifer is confined below by the Lower Supai 
+Formation. The units of the C-aquifer crop out in the western, southwestern, and 
+northeastern parts of the study area. In other areas, the aquifer is overlain by younger 
+units and can be found at considerable depth, often exceeding 1000 feet (Bills et al., 
+2000). The C-aquifer extends throughout approximately half of the study area, making up 
+
+19 
+ 
+half of model layer 1 of the NARGFM. Recharge to the aquifer occurs mainly by direct 
+infiltration from runoff through the Kaibab Limestone and by percolation from fractured 
+volcanic rocks and overlying perched zones (Hart, 2002). This occurs predominately in 
+the southern and western edges of the study area, and in the northeastern edge of the 
+study area on the Defiance Uplift. Groundwater discharges from the C-aquifer as spring 
+discharge to the Little Colorado and Verde River drainage systems, downward leakage to 
+the R-aquifer, flow to streams in the Little Colorado River basin, and ET where the water 
+table is at or near land surface.  
+ 
+The alluvial basin-fill aquifers found throughout the study area include Big Chino 
+Valley and Williamson Valley, Little Chino Valley and Lonesome Valley, Upper Agua 
+Fria Basin, Verde Valley, and Tonto Creek Basin (Pool et al., 2011). These aquifers are 
+associated with the basin and range physiography characteristic of the Transition Zone 
+and comprise upper and lower layers, a coarse- and fine-grained facies, and interbedded 
+basalt flows.  As described earlier, these valleys trend north-northwest. The coarse-
+grained facies are found at the basin boundaries and the fine-grained facies are found in 
+the basin center. Generally, the basin boundaries are unconfined while the centers are 
+confined. Furthermore, the upper basin fill facies are usually more permeable than the 
+lower basin fill facies. Interbedded basalt flows are generally poor aquifers but are 
+associated with zones of high permeability in the upper basin fill in the Paulden area of 
+the Big Chino Basin and the lower basin fill in the Little Chino Basin. Local perched 
+aquifers are associated with quaternary flood-plain alluvium that overlies low 
+permeability rocks or fine-grained facies at basin centers. These basin-fill aquifers are 
+generally a few hundred feet thick but thicknesses exceed a thousand feet in some 
+
+20 
+ 
+locations, such as the Big Chino Valley where the maximum recorded thickness of the 
+basin is 1800 feet (Blasch et al., 2006). The basin-fill aquifers, their upper and lower 
+layers, and the associated volcanic deposits cover approximately half of model layers 1 
+and 2 and are important mainly in the southern and western parts of the study area. 
+Recharge to these aquifers occurs mainly through percolation through fractured Paleozoic 
+rocks associated with areas of high elevation, through ephemeral stream channel allvium, 
+and from underflow from the R-aquifer. Groundwater discharges in different places 
+depending on the aquifer but, generally, groundwater discharges as underflow to other 
+basin-fill aquifers, underflow to the R- and C-aquifers, discharge to wells, discharge to 
+streams and springs, and as ET where the water table is at or near land surface and 
+phreatophytes have access to the shallow water table (Pool et al., 2011).  
+ 
+ 
+
+21 
+ 
+CHAPTER 2 – SYSTEMATIC REVIEW OF FOREST TREATMENT EFFECTS 
+ON WATERSHED BUDGETS – IMPLICATIONS FOR SURFACE WATER AND 
+GROUNDWATER 
+ 
+Clinton J. Wyatt, Sharon Masek Lopez, and Abraham E Springer 
+School of Earth Sciences and Environmental Sustainability, Northern Arizona University, 
+Flagstaff, Arizona 86011, USA 
+ 
+2.1 ABSTRACT 
+A systematic review was conducted to examine the state of knowledge of forest 
+restoration thinning and its hydrological responses and to evaluate the quality and type of 
+references that exist within the literature. Two questions guided the systematic review: 1) 
+how do restoration thinning treatments conducted on conifer-dominated watersheds affect 
+the water budget? And, 2) how do restoration thinning treatments impact the groundwater 
+system? A total of 37 references met the systematic review criteria and were considered 
+appropriate for answering these two questions. Data from individual studies suggested 
+that forest treatments that reduce tree density, increase water yield and groundwater 
+recharge while reducing evapotranspiration. Specifically, when 20-100% of a conifer-
+dominated watershed was treated, the literature shows a corresponding 0-40% increase in 
+water yield. Although most studies showed an increase in groundwater table height 
+following tree removal, there was no overall correlation for all studies between percent 
+area treated and groundwater recharge. Results are highly variable, and diminish within 
+five to ten years for water yield increases and even quicker (< 4 years) for groundwater 
+table heights.  
+ 
+ 
+2.2 BACKGROUND 
+The purpose of this systematic review was to examine forest restoration thinning 
+treatments on conifer-dominated forested catchments and their effects on watershed 
+hydrology, as well as the broader issue of the impacts of changing forest cover on 
+groundwater recharge. Pre-European-settlement forest structures in the southwestern 
+United States (Arizona, New Mexico, and adjacent parts of Utah and Colorado) have 
+
+22 
+ 
+been significantly altered from these previous conditions by old-growth logging, fire 
+suppression, cattle grazing, and road building (Covington, 2003). This has increased the 
+density of younger trees and forest underbrush providing fuel to alter regular, low-
+intensity fire regimes and produce devastating crown fires (Harrington and Sackett, 
+1990).  
+To minimize the likelihood of large-scale crown fires throughout the southwestern 
+U.S., the U.S. Forest Service (USFS), with assistance from collaborators, is planning to 
+restore these at-risk forests to increase forest resiliency and function and reduce the threat 
+of catastrophic wildfires. This project, called the Four Forest Restoration Initiative 
+(4FRI), is a collaborative effort to reduce the threat of catastrophic wildfires and restore 
+forest ecosystem health throughout four national forests along the Mogollon Rim, 
+Arizona (Draft EIS Chapter 1, 2012). The initial treatments will include mechanical 
+thinning and burning and will be applied to about 2400 km2 (600,000 acres) of Kaibab 
+and Coconino National Forest lands as early as 2014, pending approval of the 
+Environmental Impact Statement (EIS). Subsequent treatments will treat at-risk areas on 
+the Coconino, Tonto and Apache-Sitgreaves National Forests.  
+An important issue the 4FRI addresses is how changing forest cover affects 
+watershed hydrology. A number of studies have attempted to answer this question 
+(Hibbert, 1967; Bosch and Hewlett 1982; Stednick, 1996; Brown et. al., 2005; Zou et. al., 
+2010). Based on these previous studies, the expected outcome of the 4FRI treatments is 
+an overall increase in surface-water runoff and groundwater recharge on the treated 
+watersheds. A simple relationship was reported by Baker (2003) as: when there is a 30 to 
+100 % reduction in basal-area reduction in semi-arid, Ponderosa pine watersheds there is 
+
+23 
+ 
+a 15 to 40 % increase in water yield. This goal of this review was to identify this 
+relationship in the literature and any relationship that might exist between tree removal 
+and groundwater.  
+ 
+2.3 OBJECTIVES  
+The objectives of this systematic review were: 
+1) Design and conduct a systematic review of all relevant literature relating to 
+the removal of trees and the effects this has on the water budget following the 
+guidelines suggested by the Collaboration for Environmental Evidence (CEE, 
+2010); 
+2) Determine the quality of evidence for collected literature; 
+3) Quantify the relationship between variables in water budget and tree removal; 
+4) Determine if this relationship is significant; and 
+5) Determine how applicable these results are to proposed 4FRI treatments. 
+ 
+2.4 METHODOLOGY 
+We hypothesized that a significant number of references examining the effects of 
+forest restoration thinning on watershed hydrology existed to undertake a systematic 
+review following the guidelines of the Collaboration for Environmental Evidence (CEE, 
+2010). Because this systematic review is targeted at providing reliable data for the 4FRI, 
+we tailored our question so that only the most relevant studies would be collected. We 
+formulated the following questions: 1) how do restoration thinning treatments conducted 
+
+24 
+ 
+on conifer-dominated watersheds affect the water budget? And, 2) how do restoration 
+thinning treatments impact the groundwater system? We determined this question was 
+specific enough because it would  give us results that are reliable and useful and broad 
+enough that it would capture any references that may have been marginalized with more 
+specific interventions (e.g. “treatment” instead of “restoration” or “harvest”) and forest 
+type (e.g. “conifer” instead of “ponderosa pine” or “Douglas-Fir"). 
+Two appropriate reference search strategies were developed based on the above 
+questions and following the systematic review procedures as defined by Collaboration for 
+Environmental Evidence (CEE, 2010). These included relevant search terms and 
+combinations of these terms. A number of publication types and research databases were 
+used for this search including peer reviewed articles, dissertations and theses, and books. 
+We used search engines that were considered adequate for finding these references, 
+including Web of Knowledge, Proquest Dissertations and Theses, and World Cat, 
+respectively. Gray literature was also used as a source of data and found with various 
+popular search engines.  
+ 
+Study inclusion criteria included the most relevant information for answering each 
+of the two questions. If the title appeared to include relevant criteria the reference was 
+kept for further review. Abstracts were then reviewed to further constrain the studies 
+meeting the inclusion criteria and filter out those that did not. Criteria included variables 
+like forest type, climate, type of intervention, water budget variables measured, and 
+quality of study. A kappa analysis, a statistical technique used to test inter-rater 
+agreement for qualitative items, was used to test reviewer agreement when conducting 
+
+25 
+ 
+the abstract review stage (Carletta, 1996) (see Appendix B). The studies that passed the 
+abstract review stage were kept for full text review. 
+A modified version of Pullin and Knight’s (2003) hierarchy of evidence quality 
+(HEQ) was used to determine which studies reported reliable and strong evidence, which 
+studies were considered with caution, and which studies’ data were excluded due to lack 
+of strong evidence (Table 1). Each study that passed the title and abstract review stage 
+and underwent a full text review was assigned to one of these categories. These 
+categories were designed to rate the studies with respect to their relevance in answering 
+the two questions.   
+ 
+Table 1. Hierarchy of Evidence Quality (modified from Pullin and Knight, 2003). 
+Category 
+Quality of Evidence 
+ 
+I 
+ 
+Strong evidence obtained on multiple water budget variables from multi-year, 
+randomized, controlled trials of appropriate size. 
+ 
+II-1 
+Evidence from well-designed, multi-year controlled trial(s) with 
+randomization. 
+ 
+II-2 
+Evidence or a comparison of differences between sites with and without 
+controls. 
+ 
+II-3 
+Evidence obtained from multi-year study or from dramatic results in 
+uncontrolled experiments or from a controlled, single-year study. 
+ 
+III 
+Opinions of respected authorities based on qualitative field evidence, 
+descriptive studies or reports of expert committees.  
+ 
+ 
+ 
+Relevant data were extracted and recorded on a master spreadsheet during full 
+text review (see Appendices C and D). Relevant data included author, year, location, 
+climate, forest type, soil, mean annual precipitation, treatment type, percent of area 
+
+26 
+ 
+treated, and observed effects. This information was then used to determine the quality of 
+evidence and apply a category to each reference. This category reflects the relative 
+usefulness and reliability of each study in answering the systematic review questions. 
+Additional information and tables relating to methodology are provided as supporting 
+material. 
+ 
+2.5 RESULTS 
+ 
+Over 2,000 references were reviewed to find relevant studies that would help to 
+answer the systematic review questions (Table 2).  
+ 
+Table 2. Details of the systematic review elimination process.   
+Elimination 
+Number of references 
+Study captured from electronic databases 
+~2000 
+Studies remaining after title elimination 
+102 
+Studies remaining after abstract elimination 
+84 
+Studies remaining after full text elimination 
+82 
+Studies remaining after Quality of Evidence  
+80 
+Reviews 
+43 
+Experiments 
+37 
+ 
+Description of Studies 
+ 
+After quality of evidence elimination, there were 80 studies remaining. 37 of these 
+were original research papers and were used in this review (Figure 4). The types of
+
+ 
+27 
+ 
+Figure 4. Map showing the distribution of experimental studies located in Northern America that were 
+included in this review. Numbers correspond to identification numbers (see Appendices C and D). 
+Studies not shown include those located in China, Japan, and Australia.  
+
+ 
+28 
+ 
+ studies included peer-reviewed journal articles as well as technical reports, dissertations, 
+and popular literature articles. Two papers that passed the abstract review were rejected 
+during the full-text review. Two more papers were rejected during the quality of evidence 
+review. As mentioned, 37 studies were original research. The remaining 43 studies were 
+summary articles.  
+ 
+There were three types of summary articles found. The first type was the 
+quantitative review which reviewed a large number of studies and used tables to 
+summarize those studies, usually listing important details such as reference, location, 
+area, elevation, aspect, vegetation, mean annual precipitation, mean annual streamflow, 
+% area cut, and water yield increase (mm). The second type of review was the qualitative 
+review that reviewed data from previous studies to draw general conclusions about forest 
+treatment effects on the water budget. The third type of review was the single-study 
+review where previous experiments were re-visited but no new data were collected. All 
+three types were included past the initial review stages for reference.  
+ 
+Experimental studies comprised 37 of the references that were reviewed.   
+Results from 23 studies were used to answer question #1: How do restoration thinning 
+treatments conducted on conifer-dominated watersheds affect the water budget? Results 
+from fifteen studies were used to answer question #2: How do restoration thinning 
+treatments impact the groundwater system? One study (Rockefeller, 2004) was included 
+in both. Of these 37 studies, 31 were peer-reviewed journal articles, five were project or 
+technical reports from an academic institution or public institution, and one was a 
+dissertation. Thirty five were assigned to quality of evidence category II-1 and the other 
+two were assigned to quality of evidence category II-3 because of their short post-
+
+ 
+29 
+ 
+treatment observation period (less than 1 year) (see Appendix C and D). Data were 
+plotted to visualize any relationships that might exist between mean annual precipitation 
+(MAF), percent area cut, water yield increase, and groundwater levels (Figures 5-8). 
+ 
+ 
+Figure 5. The distribution of increased water yield as a function of mean annual 
+precipitation 
+ 
+Numbers indicate studies located in Arizona that report water yields following forest 
+treatment. 
+1 Castle Creek, AZ (Rich, 1972) 
+
+ 
+30 
+ 
+2 Workman Creek, AZ (Rich, 1976) 
+3 Beaver Creek, AZ (Baker 1986) 
+4 White Mountains, AZ (Gottfried, 1991) 
+ 
+ 
+ 
+Figure 6. The distribution of mean water yield percent-increase as a function of mean 
+percent area treated. Water yield increase was determined by taking water yield increase 
+divided by mean annual streamflow to arrive at percent increase. Therefore, only those 
+studies that reported mean annual streamflow are included in figure.  
+ 
+Numbers indicate studies located in Arizona that report water yields following forest 
+treatment. 
+1 Castle Creek, AZ (Rich, 1972) 
+2 Workman Creek, AZ (Rich, 1976) 
+
+ 
+31 
+ 
+3 Beaver Creek, AZ (Baker 1986) 
+4 White Mountains, AZ (Gottfried, 1991) 
+ 
+ 
+ 
+Figure 7. The distribution of groundwater table rise as a function of mean annual 
+precipitation. 
+ 
+Numbers indicate significant outliers, author, year of publication, and their location. 
+1Borg, 1987 – Western Australia 
+2 Reprecht, 1991 – Western Australia 
+ 
+
+ 
+32 
+ 
+ 
+ 
+Figure 8. The distribution of groundwater table rise as a function of percent area treated. 
+ 
+
+ 
+33 
+ 
+ 
+Figure 9. Length of response for water yield studies that reported on multiple annual 
+values. 
+ 
+ 
+The results from the semi-arid watershed studies reported increased surface-water 
+yields ranging from 14.7 mm to 98 mm following treatments. This is close to the 25 mm 
+to 75 mm range cited in earlier reviews (Bosch and Hewlett, 1982 and Stednick, 1996). 
+Only one semi-arid study reported results that were not significant (Troendle and King, 
+1987). Common reasons given for an increase in water yield were an overall reduction in 
+
+ 
+34 
+ 
+evapotranspiration (ET) and interception and increase in snowpack accumulation. A 
+reduction in ET following treatment is supported by a study that measured ET using the 
+tower-based eddy covariance approach (Kolb, 2009). Though data were collected for 
+only two years, there was a 17% reduction in ET for the first year and a 15% reduction in 
+ET in the second year. An increase in snowpack accumulation is supported by a paper 
+that looked at reduced interception and a redistribution of snow following forest 
+restoration treatments (Stegman, 1996). Groundwater recharge was not measured or 
+analyzed by any of the studies in semi-arid areas.   
+ 
+The continental-maritime studies reported observed water yield increases ranging 
+from 6 mm to 578 mm with an average response of 210 mm for all studies. The main 
+reason given for increases in water yield was similar to those reasons given in the semi-
+arid studies: a reduction in ET and interception and an increase in snowpack 
+accumulation or rain availability. Results from three studies were not significant; the 
+reason given was because of the natural variability in precipitation and runoff. One study 
+reported calculated ET reduction using the water budget method (Hubbart, 2007). The 
+authors reported a 35% reduction in ET on one watershed and a 14% reduction on 
+another. Another study reported a 6% to 107% increase in water-table elevations 
+following treatments (Rockefeller, 2004). All results were highly dependent on 
+precipitation.  
+ 
+The groundwater studies that were reviewed came from low-elevation locations 
+around the world. Because of the variety of climates, elevations, and precipitation 
+regimes, the forest and soil type was variable. Most treatments were clear-cuts with only 
+two instances of selective cutting. Study area size ranged from 0.052 ha to 350 ha and an 
+
+ 
+35 
+ 
+average water table depth from 0.3 meters to 25 meters. All but two studies produced 
+significant results that were attributed to forest treatments. One non-response study 
+attributed this to low precipitation and another, where a shallow cave system was 
+instrumented, concluded that secondary recharge via fracture flow was not affected by 
+treatment (Bazan et al., 2012). Generally, relationships weren’t significant for the 
+groundwater studies taken together (Figure 8). Studies that observed results observed 
+increases in the water table ranging from 22 mm 2150 mm and an increase in 
+groundwater recharge rates, where measured, ranging from 10 mm to 60 mm. All data 
+extracted from all references are collected in Appendices C and D.  
+ 
+Generally, reported annual mean water yield increases were used to generate a 
+response time-graph where comprehensive annual data was available (Figure 9). This 
+shows a diminishment of treatment effects over time for each study-watershed that was 
+graphed, with effects becoming negligible between 4-10 years after forest restoration for 
+both semi-arid and maritime/continental region types. 
+ 
+2.6 DISCUSSION  
+ 
+The studies examined in this review included a variety of forest treatments with 
+clear-cutting being by far the most common, being used exclusively or with other 
+treatment types in 26 of the 37 studies. Other treatments included single-cuts, patch-cuts, 
+group-cuts, thinning methods, conversion to grassland, shelterwood-cuts, alternative-cuts, 
+overstory removal, partial-cuts, strip-cuts, selective-cuts, and other techniques like 
+specific tree type removal (Cypress-cuts and hand-removing Alligator Juniper) and 
+various forms of light and heavy disturbances. This wide application of different forest 
+
+ 
+36 
+ 
+treatments within and across studies made it difficult to draw conclusions that would be 
+applicable to the 4FRI treatments.  
+ 
+2.6.1 Question #1 
+ 
+How do restoration thinning treatments conducted on conifer-dominated 
+watersheds affect the water budget?  
+ 
+Analyses of results from the 23 collected studies demonstrated several important 
+lessons. First, there were relatively few studies that examined restoration thinning and the 
+resulting effects on the entire water budget. Furthermore, only three of the 23 studies 
+found in this systematic review used a thinning method to treat their watersheds. Most of 
+the studies used clear-cuts, as well as strip-cuts, group-cuts, patch-cuts, and variety of 
+other methods. This had important implications for answering Question #1. Another 
+lesson was that regardless of treatment type or the percent of the watershed treated, there 
+was usually an increase in water yield following treatment. Only rarely were non-
+significant results reported. Roughly, water yield increased between 0-40% percent when 
+20-100% of a conifer-dominated watershed was treated, with slightly higher yields for 
+semi-arid regions (Figure 6). Only a few studies lie outside this range. This value is 
+comparable to the value reported by Baker (2003) where water yield increases of 15-40% 
+were observed when reducing basal area by 30-100% on a ponderosa pine watershed. 
+While area treated and basal area reductions are not exactly correlative, the data show a 
+trend of increasing water yield with increasing the area of a watershed that is treated.  
+ 
+The most common reasons given for these responses were a decrease in 
+evapotranspiration and increased snowpack accumulation (Kolb, 2009 and Stegman, 
+
+ 
+37 
+ 
+1996). The data presented here answer question #1: forest treatments on conifer-
+dominated watersheds can alter water yield. Treatments that remove trees have the 
+potential to increase annual water yields depending on the intensity and type of treatment. 
+The effect of increase water yields diminish rapidly, however, usually between 4-10 years 
+after forest restoration. This is attributed to the regrowth of underbrush and new forest 
+stands that occurs when there are no measures taken to maintain post-treatment 
+conditions. 
+ 
+2.6.2 Question #2 
+ 
+How do restoration thinning treatments impact the groundwater system?  
+ 
+Summaries of the results from the 15 studies to answer question #2 indicated that 
+the data were insufficient to answer the question. Similar to the results for the first 
+question, most of these studies used clear-cutting to treat the watersheds, with only one 
+study using a thinning treatment (Shanley, 1995). A correlation between percent area 
+treated and change in groundwater table level cannot be established because the 
+relationship was not considered significant (Figure 8). Only three of the 15 studies 
+reported non-significant results, with one of those reporting significant results on other 
+experimental watersheds within the same study. Because 12 of 15 studies reported an 
+increase in groundwater level following tree removal, it was considered probable that 
+when forested watersheds have trees removed, an increase in the groundwater table level, 
+and thus groundwater recharge, is possible. No other significant hydrologic response was 
+deemed supported by the available data.  
+
+ 
+38 
+ 
+ 
+The lack of correlation between the two variables was attributed to the wide 
+variety of climates, precipitation regimes, forest types, soil types, and treatment types 
+used in all studies. Groundwater response is largely attributed to a reduction in 
+evapotranspiration and canopy interception. These reductions allowed more of the 
+precipitation to reach the soil surface and thus infiltrate increasing soil moisture storage. 
+Once precipitation falls on the thinned forest, less trees means less water is used from soil 
+water storage and more is available for recharge (Bazan et al., 2012). Most hydrological 
+responses, while positive, diminished rapidly. One study found increasing groundwater 
+levels immediately returning to normal after four months (Bliss and Comerford, 2002) 
+while another study recorded significant responses for four years (Borg et al., 1987). This 
+indicates that responses can be both immediate and intense but short-lived and 
+unsustainable if watersheds are allowed to naturally regenerate or are re-vegetated. These 
+results are similar to those found by Sun et al. (2001) in a review that summarized the 
+studies of treatments effects on the hydrologic system in the wetland forests of the 
+southern United States.    
+ 
+2.6.3 Implications for 4FRI 
+ 
+It was unclear how significant the surface water and groundwater results were to 
+estimate the impact of the 4FRI treatments on the water balance. As stated, the restoration 
+thinning treatments that will be used in 4FRI are different from those used in the studies 
+collected in this systematic review. The authors conclude that it is probable that an 
+increase in water yield will accompany the proposed thinning treatments conducted on 
+the 4FRI area. The results are expected to be variable. The results of the groundwater 
+
+ 
+39 
+ 
+studies were not considered meaningfully significant or useful for answering any 
+questions 4FRI might have about forest treatments and groundwater recharge. The studies 
+reviewed by the researchers were located in low elevations and wet climates with shallow 
+water tables and forest types mostly comprised of either eucalyptus or conifer species. In 
+contrast, the 4FRI treated will be on ponderosa pine dominated watersheds in a semi-arid 
+climate with basalt-derived soils at elevations of 1828-2438 m [6000-8000 feet] that 
+provide recharge to deep aquifers (91-1100 m). Only one study reported using thinning as 
+a treatment while the rest used various types of cuts, including mostly clear-cuts. In 
+contrast, none of the 4FRI treatments will use clear-cutting. Intuitively one would expect 
+that removing trees has the potential to increase groundwater recharge. However, any 
+recharge to the local aquifers would take considerable time, possibly decades, to 
+recognize because of the significant seasonal and annual variations in precipitation in this 
+semi-arid climate. In addition, other factors may mask the effects of restoration thinning 
+treatments, including variations in climate and groundwater pumping.  
+ 
+2.6.4 Uncertainty and Error 
+ 
+Some sources of error acknowledged by the researchers included but, were not 
+limited to, publication bias, study errors, and poor systematic review methodology. There 
+is a potential that publication bias could have contributed to the types of studies collected 
+in this review. Only seven of the 37 studies reported non-significant results. Furthermore, 
+two of these seven studies reported significant results on other experimental watersheds. 
+There may have been other non-significant studies or studies that reported decreasing 
+water yields following tree removal that were not published.  
+
+ 
+40 
+ 
+ 
+Study errors may have affected the data within this systematic review. It was 
+outside the scope of this paper to analyze every method used within each study. Control-
+watershed experiments were determined to be the most reliable method. This is an 
+assumption made by the authors of this paper and reflected a methodological value 
+judgment that may have biased the types of experiments collected in this review. It was 
+unclear how many possibly sources of error there could be within and between all studies 
+collected in this systematic review.  It was assumed that most of these errors were 
+excluded during the peer-review process.  
+ 
+A final source of error considered was poor systematic review methodology. The 
+purpose of this systematic review was to collect references in a systematic, standardized 
+way to minimize publication and author bias and make the review process as rigorous, 
+transparent, and well-defined as possible. While the objectives of this review were 
+relatively constrained, it was not possible to eliminate all bias, error, or uncertainty when 
+conducting the stages of this systematic review. A few examples included a search 
+strategy and study inclusion criteria that may have placed emphasis on journal 
+publications over gray literature or an emphasis on studies reporting increased water yield 
+over studies reporting non-significant results or decreased water yields. This may have 
+led to the extraction of data that were not useful, the missing of significant data, and/or 
+the reporting of results that that may have been inappropriate for the data collected.  
+ 
+These sources of error and uncertainty were not considered limiting. However, it 
+was considered appropriate to acknowledge these sources of error as well as the 
+possibility of others because of the compounded uncertainty that may accrue from each 
+error. This may have contributed to obscuring actual relationships or magnifying 
+
+ 
+41 
+ 
+perceived ones that therefore contributed to asserting a poorly supported, misleading, or 
+even false conclusions. The results obtained from this systematic review are considered 
+by the authors as reliable.  
+ 
+ 
+2.6.5 Recommendations for Future Research 
+ 
+It is unclear if additional research will significantly eliminate the uncertainties and 
+variance found within water yield and groundwater studies or if there is an inherent 
+structural limitation to how fine and conclusive the results drawn from them can be. The 
+authors recommend several areas of future research that may better determine any 
+possible relationships and minimize uncertainty.  
+ 
+The development of a more systematized and structured approach to developing a 
+controlled-watershed experiment, developing water and energy balances for the 
+watershed, and reporting these variables will lead to more structured data sets that will be 
+useful to compare across studies. This approach would facilitate data accumulation and 
+manipulation as well as the ability to recognize relationships between studies, especially 
+those with similar climates and forest types. The methods used in measuring variables 
+and collecting data appear to be appropriate, but a more rigorous application of testing 
+against the null hypothesis as well as the transparency of results and description of 
+methods would help future researchers and decision-makers draw useful conclusions. 
+Many of the studies found in this systematic review only reported mean annual results. 
+Full disclosure of data and methods, while beyond the scope of most references collected, 
+would have facilitated the recognition of any actual relationships and the drawing of 
+conclusions from these data.  
+
+ 
+42 
+ 
+ 
+There was a lack of groundwater studies related to tree removal in semi-arid to 
+arid locations. Groundwater studies have the potential to make significant contributions 
+to the literature and the understanding of those dynamic systems. Measuring multiple 
+water budget variables at different sites would contribute to reducing uncertainty when 
+estimating these parameters and lead to greater likelihood of accurate results and 
+predictions. Most of these studies looked at water yield or groundwater table height, but 
+neglected other variables that are important to the water budget like evapotranspiration 
+and soil water storage. A focus on measuring all water budget variables would reduce 
+uncertainty and ambiguity in these types of studies and make useful contributions to 
+accumulated data within and across studies.  
+ 
+ A focus on restoration thinning treatments rather than harvesting would provide 
+important information for the 4FRI. Because forest restoration projects focus on restoring 
+forest health and resiliency, as well as stream, spring, and biologic function, the approach 
+will not be like those used in the majority of the studies reviewed. Instead forest 
+restoration studies would be geared towards creating a forest structure that is conducive 
+to these functions. Any information on how restoration thinning treatments affect the 
+water budget, as well as any other contributing factors, would be useful in the planning 
+and adaptive management processes of these projects.  
+ 
+2.7 CONCLUSIONS 
+ 
+Numerous studies throughout the world have attempted to quantify the hydrologic 
+effects of removing trees from forested watersheds. The reasons for these disturbances 
+have been many, including timber harvest, tree stand improvement, deforestation, and 
+
+ 
+43 
+ 
+ecological restoration. There is an impetus for the restoration of catastrophic fire-prone 
+forested watersheds, especially in the semi-arid southwestern United States. For example, 
+the 4FRI restoration treatments will help minimize the threat of catastrophic wildfires 
+while returning forests to a healthy condition. It is believed that improved forest health 
+coincides with improved hydrologic conditions on these watersheds. This review 
+summarized the state of knowledge with respect to forest harvest and treatments and their 
+hydrologic effects. Generally, as conifer-dominated forested watersheds have their forest 
+cover reduced there is an increase in the water yield from the watershed. When 20-100% 
+of conifer-dominated watersheds were treated, there was an increase of 0-40% increase in 
+water yields. Groundwater levels increased, but no relationships were significant. 
+ 
+There have been very few forest treatment experiments on conifer-dominated 
+watersheds that focused on the effects to groundwater levels.  For this reason, the authors 
+include all studies that looked at the impact of tree removal on groundwater. Most effects 
+on the groundwater system are variable and site-specific. A treatment that removes trees 
+will, generally, result in increased groundwater recharge and groundwater levels. These 
+effects are short lived and unsustainable unless it is the express intent of the agency to 
+produce a sustainable increase. Otherwise, natural vegetation or replacing forest stands 
+with agriculture causes diminishing returns that become negligible within just a few 
+years.  
+ 
+One of the knowledge gaps found in this review was the impact that restoration 
+thinning treatments have on conifer-dominated watersheds in semi-arid climates. For 
+instance, only one of the references studied groundwater and semi-arid conifer-dominated 
+watersheds.  Understanding water balance changes due to semi-arid forest management is 
+
+ 
+44 
+ 
+vital to planned landscape-scale treatments on about one million acres of ponderosa pine 
+watersheds throughout four national forests in Arizona. The implications from such 
+studies would help to define expected hydrologic response to such treatments and could 
+be used for different purposes, such as the development of adaptive management 
+practices, projects to increase watershed function, or a payment for ecosystem services 
+system to support forest restoration. 
+ 
+2.8 ACKNOWLEDGEMENTS 
+We gratefully acknowledge the assistance of Liz Kailles and Dave Huffman of the 
+Ecological Restoration Institute for helping design and review the manuscript. Support 
+was provided by the Salt River Project and the National Science Foundation. The 
+statistics consulting center at Northern Arizona University provided statistical analysis 
+support.  
+ 
+ 
+
+ 
+45 
+ 
+CHAPTER 3 – MODELING RESPONSES OF REGIONAL SEMI-ARID 
+AQUIFERS TO LARGE-SCALE FOREST RESTORATION TREATMENTS AND 
+CLIMATE CHANGE 
+ 
+Clinton J. W. Wyatt and Abraham E. Springer 
+School of Earth Sciences and Environmental Sustainability, Northern Arizona University, 
+Flagstaff, Arizona 86011, USA 
+ 
+3.1 ABSTRACT 
+ 
+ Previous studies have shown that in semi-arid, conifer-dominated watersheds 
+there was a possibility to increase surface water yields 15-40% when basal area was 
+reduced by 30-100%. The purpose of this study was to assess the impacts that proposed 
+forest restoration treatments and climate change will have on large regional, deep, semi-
+arid aquifers. We modeled how basal area reductions may result in increased 
+groundwater recharge from historic conditions to 2099. Spatial analyses of proposed 
+forest restoration treatments were conducted to determine areas and rates of potential 
+increases in groundwater recharge. Changes in recharge were applied to the model by 
+identifying zones of basal area reduction from forest restoration treatments and applying 
+recharge-change factors to these zones. Over a ten-year period of forest restoration 
+treatment, a 1% increase in annual recharge to regional aquifers was estimated compared 
+to conditions that existed from 2000-2005. However, this increase was assumed to 
+quickly decline after treatment due to regrowth of vegetation and forest underbrush. 
+Furthermore, predicted groundwater recharge increases were masked by decreases in 
+water levels, stream baseflow, and groundwater storage resulting from surface water 
+diversions and groundwater pumping. These results showed that there is an imbalance 
+between water supply and demand in northern Arizona, that current practices are not 
+likely to be sustainable into the far future, and that comprehensive action should be taken 
+to minimize this imbalance.  
+ 
+3.2 INTRODUCTION 
+ Landscape-scale forest restoration thinning and burning treatments are planned 
+for approximately 243,000 ha (600,000 acres) of ponderosa pine forest within the 
+Coconino and Kaibab National Forests along the Mogollon Rim in northern Arizona. 
+This area has a semi-arid climate and receives 50-76 cm (20-30 in) of precipitation per 
+year as summer monsoon rain and winter snow (Figure 10).  This area also has two deep 
+(>300m) regional aquifers: the Redwall-Muav (R-) and Coconino (C-) aquifers. Basin-fill 
+
+ 
+46 
+ 
+aquifers also exist in the transition zone and basin and range provinces found in south 
+central Arizona. 
+ 
+ 
+Figure 10. Annual precipitation for Arizona Climatological Division #2 with 5- and 10-
+year moving averages (NOAA, 2009). 
+ 
+ 
+Restoration treatments are planned to begin within the next decade and are 
+expected to take approximately ten years to complete (Draft EIS Chapter 1, 2012). The 
+
+ 
+47 
+ 
+purpose of this endeavor, called the Four Forest Restoration Initiative (4FRI), is to reduce 
+the threat of catastrophic wildfire, restore forest health and resiliency, and restore 
+streams, springs, and biologic functions of forested watersheds. Based on previous 
+regional and international studies that show surface water yield increasing after similar 
+reductions in tree basal area in forested lands (Bosch and Hewlett, 1982; Baker 2003), it 
+was hypothesized that groundwater recharge would increase to both the deep regional 
+Redwall-Muav and Coconino aquifers following forest restoration treatments. Through 
+groundwater modeling and estimations of recharge effects as a result of changing forest 
+cover and climate change, we assessed how this landscape-scale forest restoration may 
+affect groundwater recharge along the Mogollon Rim, Arizona. 
+ 
+3.3 PREVIOUS STUDIES 
+ 
+Many previous studies have looked at the relationship between land use/land 
+cover change and the hydrologic system. Specifically, researchers have attempted to 
+quantify the effect that removing trees would have on the water budget. Most of these 
+studies focused on the relationship between tree cover and surface water yield. Some 
+studies have investigated arid and semi-arid conifer-dominated watersheds and have 
+attempted to quantify the treatment/yield relationship. Baker (2003) reported that water 
+yield increased by 15-40% when basal area was reduced by 30-100% in ponderosa pine 
+watersheds in north central Arizona.  A systematic review of scientific papers from semi-
+arid coniferous forests worldwide, which was conducted in conjunction with this study 
+were similar, found  an average 0-40% increase in water yield when conifer basal area is 
+reduced by 20-100% (Wyatt et al., in review, Chapter 2).  
+
+ 
+48 
+ 
+ 
+Fewer studies have attempted to quantify variables in the water budget other than 
+surface water yield, such as evapostranspiration (ET), soil water storage, and 
+groundwater recharge. A study by Kolb et al. (2009) reported a 17% and 15% reduction 
+in ET in the first two years, respectively, following a 35% reduction in basal area in the 
+Centennial Forest near Flagstaff, AZ. Other studies reported increases in snow pack 
+accumulation following tree removal (Troendle and King, 1987 and Stegman, 1996). 
+There have been even fewer studies that investigated the effect that removing trees has on 
+groundwater recharge and soil moisture storage in arid and semi-arid forested watersheds 
+(Bazan et al., 2012 and Scanlon et al., 2005). Because of the deficiency of published 
+literature on the effects of tree removal on groundwater recharge, we used a groundwater 
+model to understand how a large landscape-scale, forest restoration treatment might 
+impact groundwater recharge.  
+ 
+ 
+3.4 THE NORTHERN ARIZONA REGIONAL GROUNDWATER-FLOW MODEL 
+  
+The Northern Arizona Regional Groundwater-Flow Model (Pool et al. 2011), 
+hereafter referred to as the NARGFM, was used in this study to simulate changes in 
+recharge to aquifers of the Mogollon Rim in northern Arizona following planned forest 
+restoration treatments. The NARGFM was developed using the three-dimensional finite-
+difference modular groundwater-flow model code MODFLOW-2005 (Harbaugh, 2005). 
+The model was originally developed to simulate the interactions between deep regional 
+aquifers, streams, and springs in northern Arizona and to assess the adequacy of 
+groundwater resources and to determine the effect that increased pumping, especially in 
+the Verde River basin, would have on these resources.  
+
+ 
+49 
+ 
+ 
+The boundary conditions that were used for the model include surface watershed 
+boundaries, groundwater basin divides, and low-permeability crystalline rocks along the 
+southern boundary of the Verde River basin and adjacent sub-basins. By simulating a 
+large region and defining known physical boundaries, defined major groundwater-flow 
+divides within the model area were simulated rather than set at arbitrary locations. The 
+entire boundary of the model was represented as a no-flow boundary except where 
+groundwater outflow was simulated at discrete locations along streams. There was 
+assumed to be no groundwater inflow anywhere along the model boundary.     
+ 
+The NARGFM model grid comprises 600 rows, 400 columns, and three layers 
+totaling 720,000 cells with grid cell dimensions of 1 km by 1 km (0.62 by 0.62 mi). The 
+total domain size of the model is approximately 717,000 km2 (277,000 mi2). The model 
+grid is rotated counterclockwise 60 degrees west of north to better align with regional 
+structural trends that are assumed to influence groundwater flow. The NARGFM has 
+three model layers that were used to represent hydrostratigraphic units within northern 
+Arizona (Figure 11). Layer 3, the lowest layer, extends across the entire model area and 
+represents the Redwall-Muav aquifer, except in the southern and eastern parts of the 
+model domain where the Redwall-Muav aquifer is absent and crystalline rocks are 
+present. Layer 2 is less extensive and represents the Supai Formation, a confining unit, 
+which extends over most of the Colorado Plateau as well as sands and gravels in the 
+Verde and Big Chino Valley extensional basins and the lower volcanic unit in Little 
+Chino Valley and Upper Agua Fria sub-basins. Layer 1 is the least extensive layer within 
+the model and represents the Coconino aquifer, the alluvial basin-fill aquifers located in 
+Big Chino Valley, Little Chino Valley, and Agua Fria sub-basins, and the Verde 
+
+ 
+50 
+ 
+Formation in the Verde Valley. 
+ 
+ 
+Figure 11. Conceptual model of the NARGFM detailing the relationships between 
+geographic locations, hydrogeologic units, and model layers. Confining beds are shaded 
+red-brown (Pool et al., 2011). 
+ 
+ 
+Inflows and outflows were simulated at locations of natural and artificial 
+recharge, evapotranspiration, streams, springs, and groundwater withdrawals. 
+Hydrostratigraphic properties were distributed across the model domain, based on 
+literature, and calibration values were applied where appropriate. These include variables 
+such as hydraulic conductivity, transmissivity, anisotropy (vertical and horizontal), 
+specific storage, and specific yield.     
+ 
+The NARGFM simulates groundwater flow for steady-state conditions that were 
+assumed to exist in 1910 and for transient conditions during 1910 to 2005 (Pool et al 
+2011). Nine multi-year, transient stress periods were used during the simulation period. 
+The initial period of simulation was the years 1910-1938 (10,227 days).  The second 
+period simulated initial groundwater development in the Little Chino sub-basin for the 
+
+ 
+51 
+ 
+years 1938-1939. Thereafter, each stress period was approximately decadal in length 
+(3652 to 3653 days), except for the last stress period which simulated the years 2000-
+2005 (2192 days).  Each stress period was simulated using five time steps with each 
+successive time-step length 1.2 times longer than the previous time-step length. The sixth 
+(1940-1949) and tenth stress periods (2000-2005) of the published model were used as 
+the historical and baseline scenarios, respectively, and were extended from 2006-2009. 
+No changes were made to recharge, pumping, or any other variable. Stress periods were 
+created for the end of the published transient model (2005) to the present (2006-2013), 
+the assumed period of 4FRI treatment (2014-2023), and the end of each successive 
+decade to 2099 (Table 3).  
+ 
+Table 3. Conceptualized stress periods developed for the NARGFM forest restoration and 
+climate change scenarios. 
+Stress Period 
+Years 
+Length (years) 
+Length (days) 
+Condition 
+11 
+2006-2013 
+8 
+2922 
+Transient 
+12 
+2014-2023 
+10 
+3652 
+Transient 
+13 
+2024-2029 
+6 
+2192 
+Transient 
+14 
+2030-2039 
+10 
+3652 
+Transient 
+15 
+2040-2049 
+10 
+3653 
+Transient 
+16 
+2050-2059 
+10 
+3652 
+Transient 
+17 
+2060-2069 
+10 
+3653 
+Transient 
+18 
+2070-2079 
+10 
+3652 
+Transient 
+19 
+2080-2089 
+10 
+3653 
+Transient 
+20 
+2090-2099 
+10 
+3652 
+Transient 
+ 
+3.5 THE FOUR FOREST RESTORATION INITIATIVE 
+The 4FRI, proposed by the U.S. Forest Service, is a collaborative effort to reduce 
+the threat of catastrophic wildfires and restore forest ecosystem health throughout four 
+national forests along the Mogollon Rim, Arizona – the Kaibab, Coconino, Tonto, and 
+
+ 
+52 
+ 
+Apache-Sitgreaves National Forests (Draft EIS Chapter 1, 2012). The initial treatments 
+will include mechanical thinning and burning that will be applied to approximately 
+243,000 ha (600,000 acres) of Kaibab and Coconino National Forest land as early as 
+2014, pending approval of the Environmental Impact Statement. Treatments will target 
+at-risk catastrophic wildfire areas.  
+ 
+The 4FRI first analysis area EIS has four treatment alternatives.  Alternative A is 
+the no action plan; Alternative B would thin 388,489 acres and burn 587,923 acres; 
+Alternative C proposes the conservation of large trees and would thin 434,001 acres and 
+burn 593,211 acres; Alternative D would reduce potential estimated fire emissions by 
+thinning 388,439 acres and burning only 178,790 acres (Draft EIS Chapter 1, 2012). 
+Alternative C was selected for the groundwater model simulations because it was one of 
+two (B and C) that were considered likely to be implemented. Additionally, non-4FRI 
+forest restoration treatments within these forests called shelf-stock were previously 
+analyzed under separate NEPA processes.  These other non-4FRI treatments were taken 
+into consideration for the model simulations reported here. There is considerable interest 
+in how these treatments will impact area of high water use, such as the Verde Valley 
+(Figure 12). 
+
+ 
+53 
+ 
+Figure 12. Simulated pre-development groundwater-flow system in the Verde Valley area with 4FRI analysis 
+area, stream boundary conditions, drain boundaries conditions, wells, and gages of analysis shown. 
+ 
+
+ 
+54 
+ 
+3.6 INCORPORATING CLIMATE CHANGE INTO MODEL SIMULATIONS 
+ 
+ 
+This study used bias-corrected and downscaled climate projections derived from 
+the World Climate Research Programme's (WCRP's) Coupled Model Intercomparison 
+Project phase 3 (CMIP3) multi-model ensemble to provide estimates of future 
+precipitation for the study area (Maurer et. al., 2007). The WCRP CMIP3 climate 
+projections include a multi-model ensemble of results produced from 16 climate models 
+that simulated three of the potential emission scenarios identified by the 
+Intergovernmental Panel on Climate Change (IPCC) Fourth Assessment Report (IPCC, 
+2007). The emission scenarios include the A1B, A2, and B1 scenarios. These scenarios 
+are based on socio-economic changes that could occur in the future and their resulting 
+impact on greenhouse gas emissions.  
+ 
+A1B scenario represents an energy balance between fossil fuels and renewable 
+energy and is assumed to result in a balance between hot and cold, and dry and wet 
+conditions across the United States. The A2 scenario represents continued use of fossil 
+fuels and assumed to result in more greenhouse gas emissions than currently projected, 
+producing a warmer, drier climate. The B1 scenario represents an emphasis on renewable 
+energy and other “green” technologies and is assumed to emit less greenhouse gas 
+emissions, resulting in a recovering climate that is cooler and wetter over time compared 
+to current conditions.  
+ 
+3.7 OBJECTIVES 
+
+ 
+55 
+ 
+ 
+To determine the response of the regional Redwall-Muav and Coconino aquifers 
+to the 4FRI treatments and climate change, the following objectives were designed for 
+this study. 
+1. Conduct five model simulations of the NARGFM from 2006 to 2099 for the 
+interaction of 4FRI alternative C and downscaled precipitation estimates 
+based on the multi-model ensemble and three of the IPCC climate scenarios 
+A1B, A2, and B1, and based on extending the sixth (1940-1949) and tenth 
+(2000-2005) stress periods in the published NARGFM into the future (2006-
+2099) for comparison.  
+2. Assess the impacts that forest restoration treatments and climate change may 
+have on the groundwater budget of northern Arizona, with a focus on the 
+Verde Valley groundwater catchment area and associated tributaries.  
+3. Make recommendations to regional water use stakeholders on the responses of 
+the watersheds which supply their surface water and groundwater supplies 
+following the 4FRI treatments. 
+3.8 METHODS 
+ 
+A set of relatively novel methods were used for estimating changes in recharge 
+from forest restoration treatments in this study. Because the NARGFM is a groundwater 
+model, and therefore does not model surface vegetation or precipitation, the only 
+hydrologic parameter in the model that was manipulated to simulate these changes was 
+the recharge property. All other parameters including pumping and ET were kept at the 
+same values that were used for the last time step of the published transient model, which 
+covers the years 2000-2005. Other regional water supply studies have simulated changes 
+
+ 
+56 
+ 
+in pumping that may result with an increased population. This study did not change these 
+variables because the purpose was to isolate the impact of forest treatments and climate 
+change on groundwater recharge.  
+ 
+Because of the relatively few studies that have quantified groundwater recharge 
+following tree removal in semi-arid, conifer-dominated watersheds, the authors assumed 
+that groundwater recharge responded in a similar way as literature documents runoff and 
+streamflow responding after tree removal in these ecosystems. Specifically, when 
+ponderosa pine tree basal area is reduced by 30-100%, surface water yield may increase 
+15-40% (Baker, 2003).  Therefore, the assumption was made that as ponderosa pine basal 
+area is reduced 30-100%, groundwater recharge may increase 15-40% 
+ 
+Shapefiles containing all relevant data to 4FRI treatment scenario C were received 
+from the GIS specialist for 4FRI (Mark Nigrelli, personal communication, 2012). These 
+included information on pre-treatment and post-treatment basal area projections for forest 
+stands within 4FRI treatment areas. Change in tree basal area was calculated by finding 
+the percent difference between pre- and post-treatment basal area projections. This 
+percent change was put into equation 1 as the independent variable.  
+y = 0.357x + 4.29 
+ 
+ 
+ 
+(equation 1) 
+where 
+x = percent basal area change 
+y = percent increase in surface water yield 
+This equation is the relationship between basal area reduction and water yield change 
+described by Baker (2003). This percent change was applied to the groundwater model as 
+
+ 
+57 
+ 
+a factor of change in recharge based on zones of 10% change in basal area (eg. 30-40%, 
+40-50%, etc). 
+As an example of how the basal area change relationship was applied, areas that 
+corresponded to a basal area reduction of approximately 30-39% (an average change of 
+34.5%) were given 16% increase in recharge (y=1.16) (Table 4). Any treatments that 
+reduced basal area by less than 30% were assumed to produce no discernible effect. This 
+is supported by evidence found in Baker (2003) where was little to no discernible 
+increase in water yield when basal area reduction in ponderosa pine forests was reduced 
+by less than 30%. Additional forest restoration treatments other than 4FRI were simulated 
+as well. These areas, labeled shelf-stock, include portions of the Coconino and Kaibab 
+National Forests that were not included in the 4FRI assessment area but are currently 
+undergoing forest restoration treatments or are planned to undergo treatment in the near 
+future. Data received for these other forest treatment projects data did not consistently 
+include  changes in basal area, so an assumption was made that these treatments would 
+have similar proportions of treatment intensities (ie. basal area changes) as in 4FRI and 
+would produce a similar hydrologic effect. This hydrologic effect was assumed to be 
+equal to the average change in recharge from 4FRI.  
+ 
+Table 4. Forest restoration treatment recharge change factors. 
+Zone 
+% BA Red.* 
+% Increase 
+Recharge Change Factor 
+1 
+2 
+3 
+4 
+> 0 
+0 
+1-29 
+30-39 
+N/A 
+N/A 
+N/A 
+16.275 
+N/A 
+N/A 
+N/A 
+1.16 
+5 
+40-49 
+19.775 
+1.19 
+6 
+50-59 
+23.275 
+1.23 
+7 
+60-69 
+26.775 
+1.26 
+8 
+70-79 
+30.275 
+1.3 
+
+ 
+58 
+ 
+11 
+31.87 
+15.3545 
+1.15 
+*Zones were delineated based on each 10% reduction in basal area (BA), then averaged 
+before calculating percent increase in groundwater recharge. Zone 11 corresponds to 
+shelf-stock treatment areas where basal area reduction was assumed to be equal to the 
+4FRI average. Factors were only applied to areas where 4FRI treatments are planned to 
+occur. These factors were applied to stress period 12, or the years 2014-2023. 
+ 
+ 
+To simulate changes in precipitation resulting from the A1B (moderate), A2 
+(hotter and drier), and B1 (cooler and wetter) climate change scenarios, recharge-change 
+factors were applied to the model (Table 5). These recharge factors were calculated by 
+finding the difference between precipitation values for the PRISM projections used in last 
+stress period of the NARGFM (the stress period 2000-2005 where precipitation and 
+recharge were ~70% of 1971-2000 annual average) and the decadal mean projections of 
+precipitation based on the downscaled CMIP3 climate projects over the period 2006-2099 
+(2020-2029, 2030-2039…). Precipitation values were averaged over the model domain 
+and the residual, or percent difference, between the data sets was calculated.  
+To understand changes in recharge from forest restoration treatments and climate 
+change the sixth (1940-1949) and tenth (2000-2005) stress periods of the published 
+NARGFM were used to compare against. The recharge conditions for this period were 
+held constant for the years 2006-2099. The years 1940-1949, our “Historical Scenario”, 
+represent pre-development conditions, which were estimated to be close to annual 
+average for the entire model period (1910-2005). This period was chosen because it 
+represents average historical recharge conditions against which to compare. The years 
+2000-2005, our “Baseline Scenario”, represent a relatively dry period in the historical 
+record where precipitation and groundwater recharge was estimated to be 70% of the 
+1971-2000 annual average. This period was chosen as our 2000-2005 scenario because 
+
+ 
+59 
+ 
+the recharge values for the years 2000-2005 were assumed to be similar to current 
+conditions. Calibration for the years between the end of the published model simulation 
+period (2005) and the beginning of this study (2012) were beyond the scope of this study.  
+All spatial information was manipulated with ArcGIS 10.1 (ESRI, 2011). The 
+NARGFM was simulated with MODFLOW 2005 (Harbaugh, 2005) using the  
+Groundwater Vistas 6 user interface (Rumbaugh and Rumbaugh, 2012). All groundwater 
+catchments basins for this research are delineated by model simulation and may not 
+coincide with Arizona Department of Water Resources designations (Figure 12). 
+ 
+Table 5. Average climate change scenario recharge change factors by stress period. 
+Stress Period 
+Years 
+Length (Years) 
+A1B Factors 
+A2 Factors 
+B1 Factors 
+11 
+2006-2013 
+8 
+1.082 
+1.090 
+1.079 
+12 
+2014-2023 
+10 
+1.074 
+1.083 
+1.109 
+13 
+2024-2029 
+6 
+1.075 
+1.098 
+1.113 
+14 
+2030-2039 
+10 
+1.068 
+1.085 
+1.103 
+15 
+2040-2049 
+10 
+1.084 
+1.068 
+1.100 
+16 
+2050-2059 
+10 
+1.044 
+1.025 
+1.057 
+17 
+2060-2069 
+10 
+1.046 
+1.009 
+1.044 
+18 
+2070-2079 
+10 
+1.026 
+1.014 
+1.073 
+19 
+2080-2089 
+10 
+1.015 
+1.025 
+1.078 
+20 
+2090-2099 
+10 
+1.048 
+0.980 
+1.052 
+* These values were calculated based on changes from the NARGFM conditions that 
+were simulated for the period of record 2000-2005. Note, this was a considerably dry 
+period (see Figure 10) and therefore climate change precipitation projections generally 
+show a recovery from these low conditions. 
+ 
+3.9 RESULTS  
+In the model, simulated 4FRI treatments from 2014-2023 resulted in an increase 
+in groundwater recharge of approximately 4.6 x 107 m3 (38,000 acre-feet)  over three 
+adjoining groundwater sub-basins: the Coconino Plateau, Little Colorado River, and 
+Verde Valley sub-basins (Figure 13) following simulation of forest restoration 
+
+ 
+60 
+ 
+treatments. This was a 1% increase in annual recharge over baseline conditions that 
+existed in 2000-2005 for the entire model domain. Out of this, there was approximately 
+2.2 x 107 m3 (18,000 acre-feet) of additional recharge to the Verde Valley sub-basin or 
+about 2.2 x 106 m3 (1,800) acre-feet of additional recharge per year over the ten year 
+forest restoration treatment period. This was a 5% increase in annual recharge from 
+baseline conditions for the Verde Valley. The additional 2.4 x 107 m3 (20,000 acre-feet) 
+of water was recharged to the Coconino Plateau and Little Colorado Plateau sub-basins. 
+Despite these increases, the historical scenario shows recharge conditions were 
+significantly higher (>10,000 acre-feet per year) in the past.  
+The A1B, A2, and B1 climate change scenario simulations estimated a slight 
+recovery from 2000-2005 recharge conditions – estimated to be 70% of annual average – 
+with the exception of the last stress period (2090-2099) of the A2 scenario where 
+recharge was estimated to be 69% of historical annual average. The range of changes in 
+recharge over all scenarios and stress periods was 69%-78% historical annual average 
+with a continuing decline in recharge over time (Figure 13). So while the A1B, A2, and 
+B1 climate scenarios all estimate recharge to exceed baseline recharge conditions (70% 
+of historical annual average), they are still historically low and show that annual average 
+recharge for the end of the simulation period (2099) for the A2 scenario will be as dry as 
+the two driest periods in the previous 100 years (2000s and 1950s). 
+ 
+Stream baseflow at USGS stream gaging stations in the Verde Valley sub-basin 
+was evaluated to discern responses of the Verde River and its tributaries to forest 
+restoration treatments and different climate change scenarios. Simulated baseflow 
+declines over the years 2006-2099 compared with the historical annual average range 
+
+ 
+61 
+ 
+from less than 3.7 x 106 m3 (3,000 acre-feet) on the Verde River near Clarkdale stream 
+gage to approximately 2.1 x 107 m3(17,000 acre-feet) on the Verde River near Camp  
+  
+ 
+Figure 13. Changes in recharge in the Verde Valley sub-basin by scenario. Values are 
+clipped to the years 2000-2100 to highlight differences between IPCC climate scenarios, 
+baseline and historical scenarios, and 4FRI increases. 
+ 
+ 
+
+ 
+62 
+ 
+  
+ 
+Figure 14. Observed and simulated baseflow at Oak Creek near Sedona clipped from 
+1980-2099. Observed baseflow estimates provided by Natalie Coston (NAU Senior 
+Thesis, 2010). 
+
+ 
+63 
+ 
+Figure 15. Observed and simulated groundwater levels at wells in the Middle Verde sub-basin. (A-13-05)05BDC and (A-14-
+05)17AAC are located in the Verde Valley at Camp Verde.  (A-14-10)32DBD is completed in the Coconino aquifer near the 
+surface water and groundwater divides near Happy Jack (Pool et al., 2011). Values clipped to the year 1940-2099 for better 
+resolution. 
+
+ 
+64 
+ 
+ 
+ 
+  
+ 
+ 
+Figure 16. Changes in groundwater storage, by scenario, for the Verde Valley sub-basin 
+clipped to the years 2000-2100.  
+   
+Verde stream gage. Simulated declines of approximately 2.7 x 106 m3 (2200 acre-feet) 
+and 1.2 x 106 m3 (960 acre-feet) were observed on the Oak Creek near Sedona stream 
+gage (Figure 14) and the Wet Beaver Creek near Rimrock stream gage, respectively. The 
+A1B, A2, and B1 climate change scenarios predicted a slight increase in baseflow when 
+
+ 
+65 
+ 
+compared to the baseline scenario but, as noted above, decreases in baseflow when 
+compared to the historical scenario. 
+ 
+Water-level data at seven wells were selected to analyze groundwater response to 
+forest restoration treatments and climate changes. These wells were pre-defined by Pool 
+et al. (2011) as representative of the groundwater system in the Verde Valley sub-basin. 
+These include five wells – (A-13- 05)05BDC, (A-14-05) 17AAC, (A-15-03)12ADB1, 
+(A-15- 04)04DDC1, and (A-16-03)22DCD – that are in the confined part of the Verde 
+Formation of the alluvial basin-fill aquifer and two wells—(A-17-06)E30BBB and (A-
+14-10)32DBD – that are in the unconfined part of the Coconino aquifer. None of these 
+wells were within the 4FRI treatment area but were assumed to show changes in the 
+groundwater system that resulted from 4FRI treatments and climate changes (Figure 12). 
+No long-term water-level data were available for the Redwall-Muav aquifer in the Verde 
+Valley sub-basin (Pool et al., 2011).  
+ 
+Well data from two confined alluvial basin-fill wells – (A-13-05)05BDC and (A-
+14-05)17AAC – and one Coconino well aquifer well– (A-14-10)32DBD – are given 
+(Figure 15). Well levels declined in all wells for the period of simulation 2006-2099, 
+from a minimum of 2 feet ((A-13-05)05BDC) to a maximum of  >42 feet ((A-15-
+03)12ADB1) when compared with the baseline scenario. The historical scenario 
+estimated less drawdown and in one case (well (A-14-10)32DBD) predicted an increase 
+in well water elevation if recharge conditions were to return to historical averages. Note, 
+this done not take into account changes in pumping for the years 2005-2013, nor for 
+changes that may exist from 2014-2099. 
+
+ 
+66 
+ 
+ 
+Storage change from 2000-2100 showed a continuing decline in groundwater 
+storage for all scenarios (Figure 16). Blasch et al. (2006) estimates a change of -4.8 x 107 
+m3 (39,000 acre-feet) for the Verde Valley sub-basin for the year 2005, the last year 
+simulated by the NARGFM (Pool et al. 2011). The declining storage trend continued into 
+the future and by 2099 produced a net change in storage that exceeded approximately -
+3.7 x 109 m3 (-3,000,000 acre-feet) from pre-development conditions in 1910 the Verde 
+Valley sub-basin under the baseline, A1B, and A2 climate change scenarios. The B1 
+climate change scenario estimated a change of approximately -3.6 x 109 m3 (-2,900,000 
+acre-feet) by the year 2099. The historical scenario estimated significantly less storage 
+loss (2.9 x 109 m3 or 2,350,000 acre-feet) by 2099 when compared to the other scenarios.  
+The rate of storage change for all scenarios decreased over time but was still high (ie. 
+>29,000 acre-feet for the year 2100 for scenario B1 as compared with Blasch et al.’s 
+figure of 39,000 for the year 2005).  
+ 
+3.10 DISCUSSION AND CONCLUSIONS 
+ 
+The variation in recharge detailed in Figure 13 has important implications for 
+model simulation results. All three climate change projections considered in this study 
+showed increases in recharge above that of the last stress period (2000-2005) but were 
+still historically low. Despite the positive impact on recharge from 4FRI restoration 
+treatments, increases in recharge were eclipsed by low precipitation projections (relative 
+to historical averages), which were in turn eclipsed by increased groundwater 
+withdrawals. A qualitative sensitivity analysis showed that the model was sensitive to 
+changes in recharge from 4FRI and climate change scenarios. Based on model simulation 
+
+ 
+67 
+ 
+results, even with forest restoration impacts and precipitation recovery from 2000-2005 
+conditions, recharge is likely to continue to decrease over time and deviate from 
+historical averages. These decreases are attributed to there being less precipitation 
+available than was historically available for groundwater recharge and groundwater 
+overdrafting, or pumping more groundwater than naturally replenishes.  
+ 
+Baseflow in Oak Creek, a tributary of the Verde River, through the USGS gage 
+near Sedona, decreases for all simulated forest restoration treatments and climate change 
+scenarios. While there is a small difference in baseflow by climate scenario – with the 
+historical scenario providing the most baseflow and the baseline scenario providing the 
+least – all simulated baseflow values are below annual average and continue to decrease 
+over time. Blasch et al. (2006) reports that discharge upstream from the streamflow gages 
+on the Verde River near Clarkdale and Camp Verde, Oak Creek near Sedona, and Wet 
+Beaver Creek near Rimrock is likely sensitive to variations in recharge rates. However, 
+even with increased recharge from forest restoration treatments and increased 
+precipitation relative to 2000-2005, baseflow continued to decline into the future under 
+current pumping conditions. Differences between baseflow projections for the four 
+scenarios for the Verde River at Camp Verde were not considered significant because 
+they were within the limits of error for baseflow estimations for the period of record 
+1934-1945, 1988-2005. However, overall baseflow declines at this location exceeded this 
+limit to error and are considered significant.  
+ 
+The three wells given showed declining trends in water levels for all scenarios 
+(Figure 15), with the exception being well (A-14-10)32DBD in the historical scenario. 
+Model simulations with the climate change scenarios produce a slight increase in water 
+
+ 
+68 
+ 
+levels over baseline projections but not enough to overcome declining water levels 
+attributed to groundwater overdrafting. The other four wells that were analyzed – three in 
+the Verde Formation of the alluvial basin-fill aquifer of the Verde Valley and one in the 
+Coconino aquifer below the basin-fill – showed similar declining trends. This means 
+current pumping trends, which were held constant for this modeling exercise and are 
+likely to increase in the future because of increased population, may not be sustainable. 
+The difference in head between all five scenarios was within the range of mean absolute 
+simulation error for wells in the Verde Valley (Pool et al 2011), which was 
+approximately +/- 20.2 feet for wells located in alluvial aquifers and +/- 72.5 feet for 
+wells located in the Coconino aquifer, meaning that these results are not statistically 
+significant. 
+ 
+These results have important implications for water sustainability in the 
+southwestern United States and northern Arizona. Model simulations of both land-use 
+and climate change show that even with increases in recharge, groundwater overdrafting 
+continues to reduce well water levels, stream baseflow, and groundwater storage. These 
+effects are detrimental to wildlife and their ecosystems, as well as communities in the 
+southwestern United States. Communities will need to develop sustainable water 
+management strategies to combat these issues. These strategies may include, but are not 
+limited to, rain- and storm water harvesting, water recycling, new and innovative water 
+pricing, and water rationing.  
+ 
+
+ 
+69 
+ 
+3.11 ACKNOWLEDGEMENTS 
+ 
+We would like to acknowledge Drs. Deborah Huntzinger and Peter Kroopnick, 
+and Sharon Masek Lopez for their help and support.   
+
+ 
+70 
+ 
+CHAPTER 4 – DISCUSSION AND CONCLUSIONS 
+ 
+4.1 SUMMARY OF FINDINGS 
+ 
+This study had two objectives: 1) to determine, through a systematic review 
+process, how restoration forest thinning and burning impacts the water budget of semi-
+arid, forested regions, and 2) to simulate how restoration forest thinning and burning and 
+climate change impacts groundwater recharge in Northern Arizona. The systematic 
+review revealed that there are few studies that quantify the effects that removing trees 
+have on groundwater recharge and even fewer that focus on the semi-arid, southwestern 
+United States. Instead, the focus was on surface water in general and groundwater in 
+more humid locations with relatively low-depth to the water table. This made it difficult 
+to determine how 4FRI treatments in Northern Arizona would affect groundwater 
+recharge to aquifers located at considerable depths (>1000 feet) and therefore required a 
+number of important assumptions.  
+ 
+Results from the systematic review show that a rough relationship exists between 
+tree removal and water yield: when basal area in a conifer-dominated watershed is 
+reduced 20-100% annual water yield may increase by as much as 40%. These results 
+were similar to those reported by Baker (2003). Using these numbers, I assumed that 
+groundwater recharge was affected in a similar way to surface water yield and used this 
+relationship to establish zones of recharge change based on basal area reduction in 4FRI 
+and shelf stock treatment areas. By applying recharge-change factors to these zones and 
+incorporating precipitation projections with a similar recharge change factor, it was 
+estimated that recharge increased by approximately 38,000 acre-feet to the entire study 
+
+ 
+71 
+ 
+area and, more specifically, by approximately 18,000 acre-feet to the Verde Valley sub-
+basin. This is approximately 1,800 acre-feet per year of treatment for ten years. All three 
+IPCC climate scenarios – A1b, A2, and B1 – estimate a recovery from 2000-2005 
+conditions, where precipitation was approximately 70% of annual average for the period 
+1971-2000. The one exception is the last stress period of the A2 scenario for the years 
+2090-2099. These climate change forecasts estimate precipitation will still be 
+substantially less than historic averages, but more than 2000-2005 precipitation, from 
+approximately 69% to 78% of annual average in the next 100 years. 
+ 
+Regardless of increases in recharge from 4FRI treatments and precipitation 
+recovery, water levels, baseflow, and groundwater storage continued to decline under 
+current pumping conditions. Blasch et al. (2006) estimated a change of -39,000 acre-feet 
+per year in storage for the Verde Valley during 2005. This declining trend continues into 
+the future for all scenarios, with minor variations. This is attributed to surface-water 
+diversions and overdrafting of groundwater supplies, a practice that is likely not 
+sustainable and may have – and has likely already had – detrimental impacts to the 
+environment, future surface and groundwater supplies, and natural and human 
+communities that depend on these supplies. Summing up these findings, it is estimated 
+that 4FRI treatments and projected changes in precipitation may increase recharge to 
+regional aquifers, but these effects are likely to be masked by decreases in water levels, 
+stream baseflow, and storage associated with groundwater pumping and surface-water 
+diversions.   
+ 
+
+ 
+72 
+ 
+4.2 LIMITATIONS 
+ 
+The data and methods used for this project were considered adequate but there 
+were a number of limitations associated with the research. For example, the methods used 
+to simulate changes in recharge from 4FRI treatments and climate change were based on 
+a set of assumptions, the most important of which assumed that groundwater recharge 
+was affected by tree removal in a similar way that surface water is reported to be 
+affected. This relationship describes that when basal area in a semi-arid, ponderosa pine 
+forest was reduced by 30-100%, water yields were observed to increase 15-40%. 
+Treatments that reduced basal area by less than 30% were expected to show no increase 
+in groundwater recharge. This assumption was made because the results from the 
+systematic review were inconclusive as to how treatments in semi-arid, conifer-
+dominated forests would affect recharge. This assumption was derived from a conceptual 
+understanding of the hydrologic system in northern Arizona and there is no 
+comprehensive empirical data to support this relationship, only data to show that it is 
+likely that additional water will be available for recharge following forest restoration 
+treatments.  
+ 
+Another limitation is the reliability of the original recharge values built into the 
+Northern Arizona Regional Groundwater- Flow Model, estimates which were derived 
+from the Basin Characterization Model (Flint and Flint, 2008). The Basin 
+Characterization Model (BCM) is a spatially distributed water-balance model that was 
+developed to analyze how factors such as climate, topography, soils, geology, and 
+vegetation affect recharge and runoff variability in the arid and semi-arid southwestern 
+United States. Eight study-site basins, classified on the basis of climate, runoff, and in-
+
+ 
+73 
+ 
+place recharge, were analyzed to determine recharge at site-specific locations. Because of 
+the variation between locations, a regional framework was developed so results from the 
+eight study basins could be extrapolated across 194 basins in the region. The modelers 
+assumed that these eight basins were representative of the entire study area. The BCM 
+used the Parameter-elevation Regressions on Independent Slopes Model (PRISM) to 
+model precipitation for the region of interest (PRISM Climate Group, 2012). PRISM uses 
+point measurements of variables like precipitation and temperature to produce estimates 
+of monthly, yearly, and event-based climatic parameters. Also built into the model are 
+digital elevation models and expert knowledge of characteristics of complex climate 
+systems in the semi-arid southwest, including rain shadows, coastal effects, and 
+temperature inversions. PRISM data sets were initially produced for the period of record 
+1971-2000. Subsequently, a data set for the period of record 1940-2005 was made 
+available. Both of these data sets were available as monthly or annual data, and as map 
+graphics or gridded data. In the case of the BCM, average annual recharge was calculated 
+from the first set of available data (1971-2000). The NARGFM used these estimates to 
+calculate annual recharge and subsequently used BCM data sets produced from the 1940-
+2005 PRISM data to calculate recharge variability by decade.  
+ 
+As briefly described above, the NARGFM used a multi-tiered approach to 
+estimate groundwater recharge. Rather than using only historic data available for the 
+region to estimate recharge – methods used estimate parameters like hydraulic 
+conductivity and specific yield – the NARGFM relied on complex data sets from the 
+BCM that relied on complex data sets from the PRISM. Because of this approach, there is 
+considerable potential for accumulating errors. The possibility of compounding 
+
+ 
+74 
+ 
+uncertainties and assumptions can lead to results which may be inaccurate. Another 
+limitation is that because model results are often non-unique, data may be produced that 
+appears accurate yet may come from an incorrect description of the natural system being 
+modeled (Oreskes et al., 1994). Ideally, rigorous and comprehensive model calibration 
+would minimize the potential for a false model to produce accurate results. An important 
+point to remember is that models in general, and groundwater models specifically, can 
+never be validated, only invalidated (Konikow and Bredehoeft, 1992). Therefore, the best 
+way to determine the usefulness of a model is a comprehensive post-audit. A more 
+detailed list of limitations associated with the NARGFM can be found in its published 
+report (Pool et al 2011).  
+ 
+Another limitation associated with this research was the method used to derive 
+recharge-change factors for the precipitation projections. To find this recharge-change 
+factor, two different climate data-sets were compared against each other. One set of data 
+from the PRISM was described above. These data were produced for the period of record 
+and provided the climate data that were used in the NARGFM to estimate recharge 
+decadal variations in recharge. Against these data were compared the downscaled data 
+from the WCRP’s CMIP3 multi-model projections, as retrieved through Reclamation’s 
+research and development office. As described in Chapter 3, we used the multi-model 
+mean from 16 models to set our climate change boundaries. We assumed that the 
+individual datasets were compatible. Finally, to find the recharge-change factor we 
+compared precipitation data from the PRISM with precipitation data from the downscaled 
+CMIP projections. The percent difference between the two was converted to a factor of 
+difference and then applied to the NARGFM as either an increase or decrease in recharge 
+
+ 
+75 
+ 
+to simulate an increase or decrease in regional precipitation. These are indirect methods 
+for modeling recharge but there was no compatibility between software used to run the 
+NARGFM and software used to manipulate the climate data sets.  
+ 
+Additional limitations include the timing of recharge to the regional aquifers, and 
+a need for a re-calibration, post-audit, and sensitivity analysis of the NARGFM. The 
+NARGFM simulates recharge as instantaneous and does not account for the delay that 
+occurs from when additional rainwater infiltrates into the soil and that portion of water 
+that percolates downward to regional aquifers. This is a process that can take anywhere 
+from days to centuries and in some cases, millennia. Because recharge is not 
+instantaneous, there is a likelihood that the additional recharge derived from treatments 
+and climate change would not be seen in the system for many years. However, there is 
+good reason to believe recharge may occur relatively quickly following 4FRI thinning 
+and burning because these treatment occur along the Mogollon Rim, the area of primary 
+recharge to regional aquifers in northern Arizona (Parker, 2005).  A re-calibration of the 
+NARGFM to the years 2006-2013, a comprehensive post-audit, and a rigorous, 
+quantitative sensitivity analysis were considered outside the scope of this project. These 
+are considered necessary to increase the overall confidence and usefulness of the model 
+but would require additional resources that were not available for this research. However, 
+some of these features have been incorporated into sub-sections of the model including 
+work done by the USGS in response to Prescott-area concerns about details of the Big 
+Chino portion of the model, refinements made by AMEC to their Flagstaff Model for the 
+City of Flagstaff, and possible, further refinements to the Flagstaff Model regarding 
+pumping at Red Gap Ranch 40 miles east of Flagstaff.  
+
+ 
+76 
+ 
+ 
+Because models are approximations of natural systems, with a number of 
+assumptions built in, their primary value is heuristic. The results produced here are 
+simulations of the groundwater-flow system in northern Arizona, projected land-use/land-
+cover change associated with the Four Forest Restoration Initiative and non-4FRI 
+treatments, and projected precipitations values based on IPCC climate change scenarios, 
+and are not considered predictions of future well levels, baseflow discharge, and recharge 
+values. Instead, they are considered useful for identifying changes in the groundwater 
+budget, in trend and magnitude, following forest treatments and changes in climate. They 
+should be used in conjunction with others data such as those recovered from paired-
+watershed studies to help guide decision-making with respect to groundwater supply and 
+demand issues, operations, and balancing the needs of both natural and human 
+communities.  
+  
+4.3 IMPLICATIONS 
+ 
+If groundwater outflow exceeds groundwater inflow, we expect a decrease in well 
+water levels, baseflow to streams, and groundwater storage. Because both natural and 
+human communities depend on these resources to survive, a reduction in these supplies 
+will present a problem for both communities. A 2008 publication by the Arizona Water 
+Institute, The Natural Conservancy, and Northern Arizona University detailed some of 
+the likely ecological impacts that could result from reduced groundwater supplies (Haney 
+et al., 2008). These impacts include decreased discharge at springs, change of streams 
+from perennial to ephemeral conditions, increased depth to and fluctuations of the water 
+table, and increased average annual depth to saturated soils. These impacts may reduce 
+
+ 
+77 
+ 
+native vegetative diversity and abundance, and increase the abundance of non-native 
+“weedy” species such as tamarisk. These changes in vegetation may change the structure 
+and resiliency of native fish, bird, mammal, herptofauna, and invertebrate populations 
+along the Verde River, a number of which are listed as threatened or endangered (Haney 
+et al., 2008). Concerns already exist about the effects that pumping groundwater from the 
+Big Chino aquifer may have on the flow of the Upper Verde River, where Verde 
+headwater springs discharge. These and other issues have important implications for 
+water rights and use in the study area.  
+ 
+Human populations are also likely to be impacted by these changes. Blasch et al. 
+(2006) estimated approximately 46,400 acre-feet per year of water use and subirrigation 
+in the Verde Valley sub-basin. These uses include surface-water diversions, pumping 
+wells, and transpiration from agriculture. Under current water use and recharge 
+conditions, water levels and stream baseflow are expected to decline. This trend, as 
+described in Chapter 3, is similar for all scenarios, even the B1 scenario which predicts 
+considerable recovery of precipitation values over 2000-2005 conditions or 
+approximately 8% more recharge from baseline conditions. The consequences of these 
+results are that there will be an imbalance between water supply and demand. This may 
+result in a significant amount of unmet demands for water users across the region.   
+ 
+4.4 RECOMMENDATIONS FOR FUTURE STUDIES 
+ 
+Collection of hydrologic data and elimination of data deficiencies are one of the 
+most important avenues of future research. The NARGFM was built with these 
+deficiencies and requires re-calibration with seven years of additional data (2006-2013). 
+
+ 
+78 
+ 
+Additional refinements to the BCM, PRISM, and CMIP datasets would be useful. 
+However, these would require input from a number of agencies and is likely outside the 
+scope of future researchers who are attempting to quantify how land cover/land use and 
+climate change affect the regional water budgets. Therefore a number of smaller-scope 
+recommendations include incorporating future paired watershed study results into 
+modeling assumptions. As described in Chapter 1, in addition to the systematic review 
+and groundwater modeling associated with this research, a paired watershed study is also 
+in development. The purpose of the paired watershed study is to collect water, mass, and 
+energy balance data from 12 watersheds to quantify the benefits from 4FRI restoration 
+treatment scenarios. This will include groundwater recharge data. This recharge study 
+will help fill in the gaps in knowledge that was found with the systematic review 
+completed for this study. A quantitative sensitivity analysis is also considered useful for 
+the NARGFM as it will help better identify which variables are critical to the reliability 
+and usefulness of the model and should be scrutinized the most.  
+ 
+Another recommendation includes the application of different methods to 
+simulate changes in recharge. For this study a recharge-change factor was used as an 
+indirect method but in the future it may be beneficial to try and couple a groundwater 
+model, vegetation model, and climate model. An example of a model that couples 
+multiple processes is Hydrogeosphere (Therrien et al., 2004). This method would allow a 
+more direct application of effects between variables. This will significantly increase the 
+resources and personnel needed to determine impacts of land use/land cover and climate 
+change but could significantly decrease the assumptions, limitations, and errors 
+associated with the method used for this study. This may provide more reliable results 
+
+ 
+79 
+ 
+that could then be used to make more informed adaptive-management decisions with 
+regards to forest restoration thinning and burning and the maximization of surface water 
+and groundwater yield. Because recharge is highly variable across Northern Arizona and 
+similar semi-arid landscapes, it is not recommended that broad zones of recharge, similar 
+to those used to simulate hydraulic conductivity and storativity, be used.  
+ 
+4.5 RECOMMENDATIONS FOR WATER MANAGEMENT IN THE 
+SOUTHWESTERN UNITED STATES 
+ 
+A suggestion to the Forest Service for maximizing both surface-water runoff and 
+groundwater recharge can be summed up in the findings published by Reclamation’s 
+Colorado River Basin Water Supply and Demand Study (Reclamation, 2012). The 
+purpose of this study was to define current and future imbalances in water supply and 
+demand in the Colorado River Basin and adjacent areas that will receive Colorado River 
+water for the next 50 years. This area includes northern Arizona, and the Grand Canyon 
+through which the Colorado River runs, as well as the Verde River, Salt River, and Gila 
+River basins that feed into the Colorado River system. A median water supply and 
+demand projection estimates an imbalance between supply and demand of 3.2 million 
+acre-feet per year by the year 2060 for the entire Colorado River Basin. A more detailed 
+report aimed at the Verde River was commissioned by The Nature Conservancy and 
+published in 2011 (Limbrunner et al., 2011).  
+ 
+Potential strategies to resolve water supply and demand imbalances may include 
+options that 1) increase water supply, 2) decrease water demand, 3) modify operations, 
+and 4) use governance and implementation strategies related to water management and 
+
+ 
+80 
+ 
+allocation (Reclamation, 2012). Options to increase water supply include desalination, 
+reuse, development of local supplies, watershed management, and importation; options to 
+decrease water demand include municipal, industrial, and agricultural water conservation, 
+and water use efficiency; options to modify operations include evaporation control and 
+water transfers, exchanges, and banking. These solutions are not considered exhaustive 
+but met the criteria that were used to evaluate all options and are therefore considered 
+representative. These criteria included technical, environmental, and social concerns like 
+technical feasibility, energy needs, and recreation, respectively. Other concerns include 
+costs, timing, and water quality.  
+ 
+When all options are considered, potential yield to the Colorado River Basin was 
+estimated to be 5.7 million acre-feet per year by 2035 and 11 million acre-feet per year 
+by 2060. When accounting for options that are not technologically feasible or have low 
+estimates of reliability, this yield is reduced to 3.7 million acre-feet per year by 2035 and 
+7 million acre-feet per year by 2060. The latter figure is more than double the estimated 
+imbalance of 3.2 million acre-feet per year.  However, these figures are considered highly 
+optimistic and are likely to be met with serious technical, economic, environmental, and 
+social challenges. Nevertheless, the water supply and demand issues facing communities 
+in the southwestern United States, like the estimations made here, are problems that will 
+not solve themselves. Therefore strategies like these and others are needed to meet the 
+required demands of both natural and human communities now and in the future. 
+ 
+ 
+
+ 
+81 
+ 
+REFERENCES 
+ 
+ 
+The Four Forest Restoration Initiative. Four Forest Restoration Initiative. N.p., n.d. 
+Accessed 14 February 2013 from: http://4fri.org/. 
+ 
+Baker, Jr., M.B., 1986. Effects of Ponderosa Pine Treatments on Water Yield in Arizona. 
+Water Resources Research 22(1): 67-73. 
+ 
+Baker, M. B. 2003. Hydrology. In: Friederici, P. Ecological Restoration of Southwestern 
+Ponderosa Pine Forests. Arizona: Arizona Board of Regents: 161-174. 
+ 
+Bazan, R.A., Wilcox, B.P., Munster, C., and Gary, M. 2012. Removing woody vegetation 
+has little effect on conduit flow recharge. Echohydrology doi: 10.1002/eco. 1277. 
+9 p. 
+ 
+Bills, D.J., Truini, M., Flynn, M.E., Pierce, H.A., Catchings, R.D., and Rymer, M.J. 2000. 
+Hydrogeology of the Regional Aquifer near Flagstaff, Arizona, 1994-1997: U.S. 
+Geological Survey Water-Resources Investigations Report 00-4120: 142 p, 4 
+plates. 
+ 
+Bills, D.J., Flynn, M.E., and Monroe, S.A. 2007. Hydrogeology of the Coconino Plateau 
+and Adjacent Areas, Coconino and Yavapai Counties, Arizona: U.S. Geological 
+Survey Scientific Investigations Report 2005-5222: 101 p., 4 plates. 
+ 
+Blasch, K.W., Hoffman, J.P., Graser, L.F., Bryson, J.R., and Flint, A.L. 2006. 
+Hydrogeology of the Upper and Middle Verde River Watersheds, Central 
+Arizona: U.S. Geological Survey Scientific Investigations Report 2005-5198: 102 
+p., 3 plates.  
+ 
+Bliss, C.M., and Comerford, N.B., 2002. Forest Harvesting Influence on Water Table 
+Dynamics in a Florida Flatwoods Landscape. Soil Science Society of America 
+Journal 66: 1344-1349. 
+ 
+Borg, H., Stoneman, G.L., and Ward, C.G., 1988. The effect of logging and regeneration 
+on groundwater, streamflow and stream salinity on the southern forest of Western 
+Australia. Journal of Hydrology 99: 253-270. 
+ 
+Bosch, J.M., and Hewlett, J.D. 1982. A review of catchment experiments to determine 
+the effect of vegetation changes on water yield and evapotranspiration. Journal of 
+Hydrology 55: 3-23. 
+ 
+Brown, A.E., Zhang, L., McMahon, T.A., Western, A.W., and Vertessy, R.A. 2005. A 
+review of paired catchment studies for determining changes in water yield 
+resulting from alterations in vegetation. Journal of Hydrology 310: 28-61.  
+ 
+
+ 
+82 
+ 
+Carletta, J. 1996. Assessing agreement on classification tasks: The kappa statistic. 
+Computational Linguistics 22(2): 249–254. 
+ 
+Centre for Evidence-Based Conservation. 2010. Guidelines for Systematic Review in 
+Environmental Management, Version 4.0. Environmental Evidence: 
+www.environmentalevidence.org/Authors.htm. 
+ 
+Covington, W.W. 2003. The Evolutionary and Historical Context for Restoration. In: 
+Friederici, P. Ecological Restoration of Southwestern Ponderosa Pine Forests. 
+Arizona: Arizona Board of Regents: 26-47. 
+ 
+Coston, Natalie. 2010. Statistical Examination of Water Data in the Coconino Plateau for 
+ 
+Use as Sustainability Indicators. Unpublished NAU Senior Thesis. 
+ 
+Deal, Robert L., tech. ed. 2008. Integrated restoration of forested ecosystems to achieve 
+multiresource benefits: proceedings of the 2007 national silviculture workshop. 
+Gen. Tech. Rep. PNW-GTR-733. U.S. Department of Agriculture, Forest Service, 
+Pacific Northwest Research Station, Portland, OR. 306 p. 
+ 
+Eaton, G.P. 1982. The Basin and Range Province: Origin and Tectonic Significance. 
+Annual Review of Earth and Planetary Sciences 10: 409-440.  
+ 
+Elston, D.P. 1979. Late Precambrian Sixtymile Formation and Orogeny at Top of the 
+Grand Canyon Supergroup, Northern Arizona: U.S. Geological Survey 
+Professional Paper 1092: 20 p.  
+ 
+ESRI 2011. ArcGIS Desktop: Release 10. Redlands, CA: Environmental Systems 
+Research Institute. 
+ 
+Ffolliott, P.F., Baker, M.B., and Gottfried, G.J. 2000. Heavy Thinning of Ponderosa Pine 
+ 
+Stands: An Arizona Case Study: Research Paper RMRS-RP-22. Fort Collins, CO: 
+ 
+US. Department ofAgriculture, Forest Service, Rocky Mountain Research Station. 
+ 
+6 p. 6 p. 
+ 
+Gottfried, G.J., 1991. Moderate timber harvesting increases water yields from an Arizona 
+mixed conifer watershed. Water Resources Bulletin 27(5): 537-547. 
+ 
+Haney, J.A., D.S. Turner, A.E. Springer, J.C. Stromberg, L.E. Stevens, P.A. Pearthree, 
+ 
+and V. Supplee. 2008. Ecological Implications of Verde River Flows. A report by 
+ 
+the Arizona Water Institute, The Nature Conservancy, and the Verde River Basin 
+ 
+Partnership. viii + 114 pages. 
+ 
+Harbaugh, A.W., 2005, MODFLOW-2005, the U.S. Geological Survey modular ground-
+ 
+water model -- the Ground-Water Flow Process: U.S. Geological Survey 
+ 
+Techniques and Methods 6-A16, variously p. 
+ 
+
+ 
+83 
+ 
+Harrington, M. G. and Sackett, S. S. 1990. Using fire as a management tool in 
+southwestern ponderosa pine. In: Krammes, J. S., technical coordinator, Effects of 
+fire management of Southwestern natural resources: USDA Forest Service, Rocky 
+Mountain Forest and Range Experiment Station, Fort Collins, CO.: 122-133.  
+ 
+Hart, R.J., Ward, J.J., Bills, D.J., and Flynn, M.E. 2002. Generalized Hydrogeology and 
+ 
+Ground-Water Budgetfor the C Aquifer, Little Colorado River Basin and Parts of 
+ 
+the Verde and Salt River Basins, Arizona and New Mexico: U.S. Geological 
+ 
+Survey Water-Resources Investigations Report 02-4026, 46 p.  
+ 
+Hibbert, A. R. 1967. Forest Treatment Effects on Water Yield. In: Sopper, W.E. and Lull, 
+H.W., Int. Symp. For. Hydrol., Pennysilvania, September, 1965. Pergamon Press, 
+Oxford. 527-543. 
+ 
+Hubbart, J.A., Link, T.E., Gravelle, J.A., and Elliot, W.J.. 2007. Timber Harvest Impacts 
+on Water Yield in the Continental/Maritime Hydroclimatic Region of the United 
+States. Forest Science 53(2): 169-180. 
+ 
+IPCC Core Writing Team. 2007. Climate Change 2007: Synthesis Report, Contribution 
+of  
+Working Groups I, II and III to the Fourth Assessment Report of the 
+ 
+Intergovernmental Panel on Climate Change, IPCC, 104 p. 
+ 
+Kolb, T.E. (PI), Breshears, D., Montes-Helu, M., and Flikkema, P. (CoPIs), 2009. 
+ 
+Impacts of Thinning on Water Balance Final Report. AWI-08-23. 13 p. 
+ 
+Konikow, L.F. and Bredehoeft, J.D. 1992. Ground-water models cannot be validated. 
+ 
+Advances in Water Resources 15:75-83.  
+ 
+Limburner, J., Sheer, D., Heberger, M., Cohen, M., Henderson, J., and Raucher, B. 2011. 
+ 
+Policy Options for Water Management in the Verde Valley, Arizona. Prepared for 
+ 
+The Nature Conservancy 24 June 2011. Retrieved 6 February 2013 from: 
+ 
+http://www.pacinst.org/reports/verde_river/verde_river.pdf. 
+ 
+Maurer, E. P., L. Brekke, T. Pruitt, and P. B. Duffy. 2007. Fine-resolution climate 
+ 
+projections enhance regional climate change impact studies, in Eos Transactions 
+ 
+American Geophysical Union 88(47): 504. 
+ 
+National Oceanic and Atmospheric Association: Satellite and Information Services. 2009.  
+ 
+National Climate Data Center. Accessed 18 February 2013. 
+ 
+Nigrelli, M. personal communication, 2012. Acquisition of Four Forest Restoration 
+ 
+Initiative GIS data from 4FRI GIS Specialist. 
+ 
+Oreskes, N., Shrader-Frechette, K., and Belitz, K. 1994. Verification, Validation, and 
+ 
+Confirmation of Numerical Models in the Earth Sciences. Science 263(5147): 
+ 
+641-646. 
+
+ 
+84 
+ 
+ 
+Parker, J.T.C., Steinkampf, W.C., and Flynn, M.E. 2005. Hydrogeology of the Mogollon 
+Highlands, Central Arizona: U.S. Geological Survey Scientific Investigations 
+Report 2004-5294, 87 p.  
+ 
+Pool, D.R., Blasch, K.W., Callegary, J.B., Leake, S.A., and Graser, L.F. 2011. Regional 
+groundwater-flow model of the Redwall-Muav, Coconino, and alluvial basin 
+aquifer systems of northern and central Arizona: U.S. Geological Survey 
+Scientific Investigations Report 2010-5180, v. 1.1, 101 p. 
+ 
+PRISM Climate Group, Oregon State University, http://prism.oregonstate.edu. Accessed 
+Fall 2012. 
+ 
+Pullin, A.S. and T.M. Knight. 2003. Support for decision making in conservation 
+practice: An evidence-based approach. Journal for Nature Conservation 11: 83-90. 
+ 
+Rich, L.R., and Gottfried, G.J., 1976. Water Yields Resulting From Treatments on the 
+Workman Creek Experimental Watersheds in Central Arizona. Water Resources 
+Research 12(5): 1053-1060. 
+ 
+Rich, L.R., 1972. Managing a Ponderosa Pine Forest to Increase Water Yield. Water 
+Resources Research 8(2): 422-428. 
+ 
+Rockefeller, S.L., McDaniel, P.A., and Falen, A.L., 2004. Perched Water Table 
+Responses to Forest Clearing in Northern Idaho. Soil Science Society of America 
+Journal 68: 168-174. 
+ 
+Rumbaugh, J. and Rumbaugh, D. 2011. Groundwater Vistas (Version 6.17 Build 
+17)[software]. Environmental Simulations, Inc.  
+ 
+Ruprecht, J.K., and Schofield, N.J., 1991. Effects of partial deforestation on hydrology 
+and salinity in high salt storage landscapes. I. Extensive block clearing. Journal of 
+Hydrology 129: 19-38. 
+ 
+Scanlon, B.R., Reedy, R.C., Stonestrom, D.A., Prudic, D.E., and Dennehy, K.F. 2005. 
+Impact of land use and land cover change on groundwater recharge and quality in 
+the southwestern US. Global Change Biology 11: 1577-1593.  
+ 
+Shanley, J.B., Strause, J.L., and Risley, J.C., 1995. Effects of Selective Forest Clearing, 
+Fertilization, and Liming on the Hydrology and Water Quality of a Small 
+Tributary to the Quabbin Reservoir, Central Massachusetts. USGS WRIR 95-
+4124. 63 p. 
+ 
+Stednick, J.D. 1996. Monitoring the effects of timber harvest on annual water yield. 
+Journal of Hydrology 176: 79-95.  
+ 
+
+ 
+85 
+ 
+Stegman, S.V. 1996. Snowpack changes resulting from timber harvest: interception, 
+redistribution, and evaporation. Water Resources Bulletin 32(6): 1353-1360.  
+ 
+Sun, G., McNulty, S. G., Shepard, J. P., Amatya, D. M., Riekerk, H., Comferford, 
+Nicholas B., Skaggs, Wayne, and Swift Jr., Lloyd. 2001. Effects of timber 
+management on the hydrology of wetland forests in the southern United States. 
+Forest Ecology and Management 143: 227-236. 
+ 
+Therrien, R., McLaren, R.G., Sudicky, E.A., and Panday, S.M. 2004. 
+ 
+HYDROGEOSPHERE – A three-dimensional numerical model describing fully-
+ 
+integrated subsurface and surface flow and solute transport. Université Laval, 
+ 
+University of Waterloo.  
+ 
+Troendle, C.A., and King, R.M., 1987. The effect of partial and clearcutting on 
+streamflow at Deadhorse Creek, Colorado. Journal of Hydrology 90: 145-157. 
+United States Department of the Interior Bureau of Reclamation. 2012. Colorado River 
+ 
+Basin Water Supply and Demand Study Executive Summary (Pre-Production 
+ 
+Copy). 26 Pages. Retrieved 7 January 2013 from: 
+ 
+http://www.usbr.gov/lc/region/programs/crbstudy/finalreport/Executive%20Sum
+ 
+mary/Executive_Summary_FINAL_Dec2012.pdf 
+ 
+United States Department of Agriculture Forest Service. 2012. 4FRI Draft Environmental 
+ 
+Impact Statement Chapter 1. 75 p. Retrieved 14 February 2013 from: 
+ 
+http://www.fs.usda.gov/detail/4fri/planning/?cid=stelprdb5408763. 
+ 
+Wyatt, C.J.W., Springer, A.E., Masek Lopez, S. 2013. Systematic Review of Forest 
+Treatment Effects on Watershed Budgets – Implications for Surface Water and 
+Groundwater. In Review.  
+ 
+Zou, C.B., Ffolliott, P.F., and Wine, M. 2010. Streamflow responses to vegetation 
+manipulations along a gradient of precipitation in the Colorado River Basin. 
+Forest Ecology and Management 259: 1268-1276. 
+ 

@@ -1,0 +1,1170 @@
+AN T H ROPOLOGY
+Indigenous fire management and cross-scale fire-
+climate relationships in the Southwest United States
+from 1500 to 1900 CE
+Christopher I. Roos1*, Christopher H. Guiterman2,3*, Ellis Q. Margolis4, Thomas W. Swetnam5,
+Nicholas C. Laluk6, Kerry F. Thompson7, Chris Toya8, Calvin A. Farris9, Peter Z. Fulé10,
+Jose M. Iniguez11, J. Mark Kaib12, Christopher D. O’Connor13, Lionel Whitehair10
+Prior research suggests that Indigenous fire management buffers climate influences on wildfires, but it is unclear
+whether these benefits accrue across geographic scales. We use a network of 4824 fire-scarred trees in South-
+west United States dry forests to analyze up to 400 years of fire-climate relationships at local, landscape, and
+regional scales for traditional territories of three different Indigenous cultures. Comparison of fire-year and prior
+climate conditions for periods of intensive cultural use and less-intensive use indicates that Indigenous fire man-
+agement weakened fire-climate relationships at local and landscape scales. This effect did not scale up across
+the entire region because land use was spatially and temporally heterogeneous at that scale. Restoring or em-
+ulating Indigenous fire practices could buffer climate impacts at local scales but would need to be repeatedly
+implemented at broad scales for broader regional benefits.
+Copyright © 2022
+The Authors, some
+rights reserved;
+exclusive licensee
+American Association
+for the Advancement
+of Science. No claim to
+original U.S. Government
+Works. Distributed
+under a Creative
+Commons Attribution
+NonCommercial
+License 4.0 (CC BY-NC).
+INTRODUCTION
+Fire is a fundamental ecological process with impacts across geo-
+graphic scales from ecosystems (1) to the Earth system (2). In
+recent decades, wildfires across the globe have stressed human soci-
+eties and infrastructure and driven biome transformations often re-
+sulting in reduced ecosystem services including carbon storage (3),
+runoff control (4), and biodiversity (5). This is the result of a century
+of land-use changes, including active fire suppression and acceler-
+ating climate changes. By contrast, Indigenous people coexisted
+with wildfire for centuries or millennia before Euro-American col-
+onization (6). Improved understanding of Indigenous fire histories
+may support growing calls for integration of traditional and modern
+fire management practices wherever and whenever possible (7).
+Paleoecological, neo-ecological, and anthropological research
+indicates that in at least some contexts, Indigenous fire management
+includes benefits to biodiversity (8, 9), weakening of climate linkag-
+es with fire activity (e.g., the importance of climate effects on fuel
+types, accumulation, and moisture content) (10, 11), and reductions
+in fire intensity (12). These studies have tended to focus on local- to
+landscape-scale impacts of traditional fire management. However,
+the geographic and temporal scales of human activities are variable
+and heterogeneous (13). Some paleoecological studies have
+suggested that climate, not cultural burning, was the key driver of
+fire activity at regional to continental scales (14, 15) and that Indig-
+enous influences on fire were ephemeral in particular areas (16, 17).
+An assessment of cross-scale impacts of Indigenous fire manage-
+ment on fire-climate relationships would assist contemporary fire
+policy and management strategies by benchmarking our expecta-
+tions of supporting cultural burning by Indigenous practitioners
+or increasing anthropogenic (prescribed and deliberate) burning
+in general. We use the term “fire-climate relationships” to describe
+the mechanistic way by which properties of interannual climate in-
+fluence fuel production and fuel aridity. We assess the strength of
+these relationships by testing for statistically significant patterns in
+interannual hydroclimate relative to tree-ring dated fire years across
+periods of varying Indigenous cultural influence.
+Here, we use a network of 4824 fire-scarred trees in the South-
+west United States (Arizona and New Mexico) to explore the pat-
+terns of fire-climate relationships across geographic scales and
+across traditional territories of three different Indigenous cultural
+groups (Fig. 1). Dry conifer forests dominated by ponderosa pine
+(Pinus ponderosa) and related species in the Southwest United
+States are one of the most sampled contexts for tree-ring–based
+fire histories. Fire scars are created at the base of these thick-
+barked trees when fire raises temperatures high enough to kill the
+cambium on only part of the tree. After the damage, the tree heals
+by growing new tissue from the margins of the damaged area, thus
+enabling the annual dating of the fire damage via dendrochronolog-
+ical examination (18). Regional syntheses of tree-ring climate and
+fire history reconstructions of widespread fire years across the
+Southwest (19), California (20), and the entire western United
+States (11) indicate that fire activity in fuel-limited dry pine
+forests was strongly driven by the broad-scale, regional controls of
+hydroclimate, at least partially entrained by the El Niño Southern
+Oscillation (ENSO) (21). Specifically, one to three wet years
+before a dry fire year produced sufficient fuels for fire to spread
+(prior wet) and cured them to burn (fire-year drought). Although
+1Department of Anthropology, Southern Methodist University, Dallas, TX, USA.
+2CIRES, University of Colorado, Boulder, CO, USA. 3NOAA’s National Centers for En-
+vironmental Information, Boulder, CO, USA. 4U.S. Geological Survey, Fort Collins
+Science Center, New Mexico Landscapes Field Station, Santa Fe, NM, USA.
+5Laboratory of Tree-Ring Research, University of Arizona, Tucson, AZ, USA.
+6Department of Anthropology, University of California, Berkeley, CA, USA.
+7Department of Anthropology, Northern Arizona University, Flagstaff, AZ, USA.
+8Natural Resources Department, Pueblo of Jemez, Jemez, NM, USA. 9National
+Park Service Regions 8, 9, 10, and 12, PO Box 1713, Klamath Falls, OR, USA.
+10School of Forestry, Northern Arizona University, Flagstaff, AZ, USA. 11Rocky
+Mountain Research Station, USDA Forest Service, Flagstaff, AZ, USA. 12U.S. Fish
+and Wildlife Service, Albuquerque, NM, USA. 13Rocky Mountain Research Station,
+USDA Forest Service, Missoula, MT, USA.
+*Corresponding author. Email: croos@smu.edu (C.I.R.); Christopher.guiterman@
+noaa.gov (C.H.G.)
+Roos et al., Sci. Adv. 8, eabq3221 (2022)
+7 December 2022
+1 of 12
+SC I EN C E A D VA N CE S | RESE A RCH ARTI CL E
+Downloaded from https://www.science.org at Northern Arizona University on December 09, 2022
+
+much recent attention has been drawn to the relationships between
+drought, vapor pressure deficit, and area burned in the western
+United States in recent decades (22, 23), interannual climate
+drivers on fuel production are still evident in modern fire activity
+in the Southwest (24).
+Here, we test the prevailing hypothesis that Indigenous societies
+had only local, ephemeral impacts on fire regimes and that these
+impacts were undetectable at landscape and regional scales. Previ-
+ous studies that focused on measures of fire frequency have strug-
+gled to unambiguously identify Indigenous fire management in fire
+history data (25, 26). We propose to test this by focusing on fire-
+climate relationships across geographic scales and three cultural
+landscapes (referred to as Navajo, Jemez, and Apachería). The
+primary mechanism by which Indigenous land and fire manage-
+ment could influence fire-climate dynamics is through impacts on
+fuels, affecting fuel patchiness and heterogeneity (through
+anthropogenic pyrodiversity) or fuel removal (via grazing). We
+further test the hypothesis that Indigenous impacts on fire
+regimes, when present, varied on the basis of cultural and economic
+practices. Human activities impinge upon fire and fuelwood uses
+and fuel removal. Specifically, large populations of settled farmers
+(Jemez) might supplement the burn area but decrease burn patch
+sizes (6, 11, 27), mobile pastoralists (Navajo) might reduce fire ac-
+tivity by removing fuels via grazing (28–30), and mobile hunter-
+gatherers (Apache) might have undetectable impacts because their
+populations were smaller and dispersed across a wide area, thereby
+affecting fuel loads the least (26, 31).
+Cultural landscapes
+The Southwest United States has a rich and complex Indigenous
+cultural history. Native peoples of the Southwest maintain oral his-
+tories and traditions that connect culture, language, animals,
+Fig. 1. Maps of the distribution of dry pine forests across western North America and the Southwest United States with regional fire-climate analyses. The
+distribution of dry pine and mixed conifer forests across western North America and the Southwest are indicated in (A) and (B). The location of tree-ring sites (dots; i.e., the
+local scale sites) and cultural areas (orange outlines; i.e., cultural landscapes) are indicated in (B). Superposed epoch analysis plots at the regional-scale for Palmer Drought
+Severity Index (PDSI) (C) (77), winter precipitation (D) (78), summer precipitation (E) (78), El Niño Southern Oscillation (ENSO) (F) (79), and temperature (G) (80) indicate the
+“canonical pattern” of prior wet and fire-year dry (and warm) conditions using the combined regional dataset for the entire record (1500-1900 CE). Solid line indicates
+significance at the p < 0.05 level, dotted line at the p < 0.01 level. Red/orange bars indicate dry/warm years. Blue bars indicate wet/cool years. Dark red/blue indicate years
+significant at the p < 0.05 level. Orange and light blue bars are not statistically significant. Photo of ponderosa pine (Pinus ponderosa) forest in the Chuska Mountains by
+C. Guiterman.
+Roos et al., Sci. Adv. 8, eabq3221 (2022)
+7 December 2022
+2 of 12
+SC I EN C E A D VA N CE S | RESE A RCH ARTI CL E
+Downloaded from https://www.science.org at Northern Arizona University on December 09, 2022
+
+people, plants, and other resources to home landscapes since time
+immemorial. History, ethnography, and archaeology document
+spatial and temporal variability in the timing, intensity, and charac-
+ter of land use and settlement by different groups across the region.
+Documentation of traditional fire knowledge and practices,
+however, is largely incomplete due to the historical and ongoing
+consequences of colonialism, hence the importance of long-term
+archaeological and paleofire studies in collaboration with Indige-
+nous descendent communities. We concentrate on three subregion-
+al areas of the Southwest where distinct groups that have unique
+languages, cultures, and economies define cultural landscape
+study units. Three cultural landscapes (Navajo, Jemez, and Apache-
+ría) were used to define the landscape scale of analysis and to serve
+as units of observation to cluster tree-ring sites (table S1) for com-
+parisons of local-scale records (Fig. 2). Historically or archaeologi-
+cally defined periods of light and intensive Indigenous use are used
+to define time periods for comparative analysis at local, landscape,
+and regional scales.
+Diné (Navajo) people have traditional homelands and contem-
+porary reservations in the Four Corners area of northwestern New
+Mexico, northeastern Arizona, southwest Colorado, and southeast
+Utah (32). Historically, Diné lived in small, family-based commu-
+nities organized around sheep pastoralism, hunting, gathering, gar-
+dening, and domestic dwellings called hogans (33). Earliest
+archaeological and historical evidence suggest that, by 1500 CE,
+the center of hogan-building, pastoral Diné life, and culture was
+in an area called the Dinetah in the Largo and Gobernador basins
+of northwestern New Mexico. By the mid-1700s, the cultural center
+for pastoral Diné populations shifted westward with increased use
+of the Chuska and Lukachukai mountains, partially in response to
+overhunting in the Dinetah and the abundance of large game and
+good forage for domestic sheep in the forested mountains, among
+other factors (34). Previous studies have suggested that Navajo pas-
+toralism reduced fire activity in pine forests (28), although burning
+practices may also have kept fires burning frequently in heavily trav-
+eled areas (29). For our analysis, the Navajo landscape includes the
+Defiance Plateau, Chuska, and Lukachukai Mountains, which have
+394 fire-scarred tree samples from 62 sites (median area = 5 ha per
+site, mean area = 9.0 ± 15.6 ha per site) across dry conifer forests
+dominated by ponderosa pine and Douglas-fir (Pseudotsuga men-
+ziesii) with widespread fire years between 1520 and 1879 CE
+(Fig. 2A) (29, 30).
+Hemish (Jemez) people have lived in the region of the southwest-
+ern Jemez Mountains since migrating to the area from an ancestral
+homeland in southern Colorado (35). Hemish people were farmers
+and hunters who were organized into dozens of pueblo villages
+across the pine forests and woodlands on the south-facing mesas
+of the Jemez Plateau. Archaeological and paleoecological evidence
+indicates that at least some Hemish people were living, farming, and
+burning in the area since 1100 CE (6). By the mid-17th century,
+Hemish people were forced off the forested mesas by a Spanish co-
+lonial policy of Congregación (27). In the wake of this active colo-
+nialism and missionization, Hemish populations were reduced by
+more than 85%. Previous studies indicated that Hemish fire man-
+agement (ignitions and fuel use) resulted in a fire regime character-
+ized by small fires and may have reduced fire-climate relationships
+(6, 11). For our analysis, the Jemez landscape includes the area of
+Hemish agricultural activity and greatest land-use intensity, in the
+southwestern quarter of the Jemez Mountains, which has 456 fire-
+scarred tree samples from 48 sites (median area = 1 ha per site, mean
+area = 12.3 ± 35.3 ha per site) with widespread fire years between
+1516 and 1896 CE (Fig. 2B) (6, 11, 36–38).
+Ndée (Apache) people have traditional homelands stretching
+from central Arizona across New Mexico and into Texas and
+through southeast Arizona into northwest Mexico (39). Ndée are
+generally grouped into loosely connected bands that varied in
+their degree of reliance upon gardening and raiding (40). Western
+Apaches and Chiricahua Apaches have overlapping homelands in
+the western part of Ndée traditional territories (Fig. 2C) (41). In
+Apachería, Ndée were mobile hunter-forager-gardeners who sea-
+sonally lived in and used pine forests for hunting, gardening, and
+wild plant management. Fire use in gathering, gardening, and
+hunting is well documented among Western Apaches because
+these practices persisted into the 20th century (42). Apaches were
+often the subject of colonial military persecution from the
+Spanish, Mexican, and American governments, which drove them
+to be even more highly mobile and minimize evidence of their pres-
+ence to reduce pursuit. We concentrate on two mountain ranges
+(Chiricahua and Pinaleño Mountains) as areas of Apachería that
+were important loci to Western Apaches (43) and Chiricahua
+Apaches (44) and that remained at a distance from Euroamerican
+settlement until after the establishment of the San Carlos and
+Fort Apache Indian Reservations in the 1870s. Together, Chiricahua
+and Pinaleño Mountains have 502 fire-scarred tree samples from 72
+sites (median area = 100 ha per site, mean area = 83.9 ± 34.3 ha per
+site) and widespread fires between 1573 and 1894 CE (45–50).
+Here, we use archaeological and historical evidence to define
+periods of (i) intensive land use and settlement when Indigenous
+fire management would have been most pronounced and (ii)
+periods with light, qualitatively different, or undetectable land use
+when Indigenous fire management would have been least influen-
+tial (Table 1). For the Navajo landscape, we identify a period of in-
+tensive use by pastoral Diné people as they moved westward out of
+the Dinetah area after 1760 CE (34). For the Jemez landscape, we
+identify a period of intense use before Congregación and population
+decline (i.e., before ca. 1650 CE) (27). In the sky island landscapes of
+Apachería, Ndée land use likely varied on the basis of the intensity
+Table 1. Cultural periods of the fire-climate analysis. The years for which
+intensive and light use were defined for each cultural landscape and the
+primary sources for defining these periods. Only fires after 1500 and before
+1900 CE were included in the analysis, and this is reflected in the
+periodization below.
+Cultural
+landscape
+Intensive
+use
+Light use
+Sources
+Navajo (Diné)
+1760–
+1900 CE
+1500–
+1759 CE
+Archaeology and
+history
+(32, 34)
+Jemez
+(Hemish)
+1500–
+1650 CE
+1651–
+1900 CE
+Archaeology and
+history
+(27)
+Apachería
+(Ndée)
+1500–1679,
+1711–1747,
+1791–1830,
+and 1887–
+1900 CE
+1680–
+1710,
+1748–
+1790,
+and 1831–
+1886 CE
+History
+(51)
+Roos et al., Sci. Adv. 8, eabq3221 (2022)
+7 December 2022
+3 of 12
+SC I EN C E A D VA N CE S | RESE A RCH ARTI CL E
+Downloaded from https://www.science.org at Northern Arizona University on December 09, 2022
+
+of warfare (51). We identify periods of light use during heightened
+warfare (51) when traditional cultural burning would have been
+risky because it would have exposed the locations of Apache
+bands, although fire may have been used to facilitate escape or
+destroy forage for pursuing cavalry. By contrast, intensive-use
+periods in Apachería occurred during peacetime when traditional
+land-use and burning practices would have been less risky (51).
+Ethnography suggests some common forms of burning in wild
+plant management, hunting, and garden maintenance, as well as
+potential religious and other cultural uses of fire across Diné,
+Fig. 2. Local-scale analysis within cultural landscapes. Maps of tree-ring sites in the Navajo (A), Jemez (B), and Apachería (C) cultural areas that also define the columns
+for time series data in subsequent rows. White dots indicate the location of tree-ring sites used in the analysis (see table S1 for a complete list of sites). The percentage of
+tree-ring sites with significant climate drivers in local SEA for intensive- and light-use periods is plotted on the Niño 3 reconstruction of ENSO (79) (D to F) (see Table 2).
+Sample depth (number of recording sites) and percentage of those sites that burned each year are in (G) to (I). These are restricted to the set of sites used in the local SEA
+(i.e., sites with at least five trees and at least five fires in one or both cultural periods). The bottom row plots annual PDSI with local fire years by percentage scarred (J to L)
+(77). Dotted lines in this row indicate the mean PDSI values for each cultural period. Note that fire year PDSI changed very little at the landscape scale across periods.
+Roos et al., Sci. Adv. 8, eabq3221 (2022)
+7 December 2022
+4 of 12
+SC I EN C E A D VA N CE S | RESE A RCH ARTI CL E
+Downloaded from https://www.science.org at Northern Arizona University on December 09, 2022
+
+Hemish, and Ndée groups despite different cultures, languages, and
+economies (6, 42). We use the term “Indigenous fire management”
+to include all land-use practices by Indigenous people that affect ig-
+nitions, fuels, fire behavior, or fire spread, such as anthropogenic
+burning and wood harvesting for various cultural purposes (6),
+and pastoral land use (29). Discerning intentionality is a challenge
+for archaeologists, and whether these practices were done to delib-
+erately manipulate fire regimes cannot be known with certainty. The
+importance here is that their net effect was to influence fuels, igni-
+tions, and fire spread. In this way, the past century of grazing,
+logging, and active fire suppression are all part of recent fire man-
+agement, even if these activities were not explicitly part of policy or
+performed to deliberately modify fire regimes (52). For all fire-
+climate analyses, we only use fires that occurred after 1500 CE
+and before 1900 CE to exclude periods of low sample depth due
+to the fading record problem (before 1500 CE) and after the
+impacts of widespread fire exclusion due to overgrazing, logging,
+curtailment of Indigenous fire practices and confinement to reser-
+vations, and fire suppression (after 1900 CE).
+RESULTS
+Across the entire Southwest U.S. dataset (N = 4824 trees and
+N = 451 sites; table S1) and over the entire record from 1500 to
+1900 CE, climate exerted strong controls on fire activity. Seasonal
+climate was significantly wetter in 1 to 3 years before regional
+fires (>10% trees scarred) and significantly warmer and drier
+during the year of fires, corroborating previous observations
+(Fig. 1, C to G) (11, 21). We call this the “canonical pattern”
+wherein wet years before fires were important for producing abun-
+dant and continuous fuels that would carry surface fires widely
+during unusually warm and dry years. These patterns were
+evident when using each of four different hydroclimate reconstruc-
+tions and the temperature reconstruction, so we use the Palmer
+Drought Severity Index (PDSI), which integrates temperature and
+precipitation for our analyses. The canonical pattern is partly
+driven by ocean-atmospheric phenomena that create global-scale
+teleconnections, the epitome of broad-scale climate controls on
+fire regimes (53).
+Local sites were grouped by cultural landscape to examine vari-
+ability in site-level fire-climate patterns across the three different
+landscape contexts. At these small (ca. 5 to 100 ha) local scales,
+climate drivers of fire were rarely significant during periods of in-
+tensive cultural use but were more consistently significant at most
+sites during periods of light use (Fig. 2, D to F). This pattern was
+statistically significant at the P < 0.05 level for every landscape but
+the Navajo area (Table 2 and tables S2 and S3). In the Navajo area,
+sites with significant fire-climate relationships were more common
+during the light-use period (72%) than the intensive-use period
+(53%), but this difference was not significant at the P < 0.05 level.
+In aggregate, while climate drove local fire activity at nearly all cul-
+tural landscape sites during periods of light use (85.1% of all sites
+across cultural landscapes), significant climate drivers were only ob-
+served from a minority of sites during intensive cultural periods
+(32.3% of all sites; Fisher’s exact test, P < 0.0001).
+At the landscape scale (i.e., Navajo, Jemez, and Apachería study
+units), fire-climate relations differed during periods of intensive and
+light use, but not in the same ways as the local-scale patterns. In all
+cultural landscapes, periods with light use displayed statistically sig-
+nificant canonical wet-dry patterns (Fig. 3, B, E, and H). During in-
+tensive-use periods, prior-year wet conditions were not a significant
+driver of fire activity, but fire-year drought was, despite cultural,
+economic, and population size variability among the three cultural
+areas. This pattern of weakened prior wet conditions during inten-
+sive-use periods occurred across all climate variables, even as signif-
+icant fire-year drought and warm conditions persisted (figs. S1 to
+S3). This suggests that the fire-year climate conditions that drove
+widespread landscape-scale fire years were similar across intensive-
+and light-use periods (Fig. 2, J to L) but that Indigenous fire man-
+agement, by changing the timing of ignitions to periods of less
+abundant fuels, reduced the significance of wet conditions and
+fuel production before fire years.
+The landscape-scale patterns are not unique features of the
+climate during these periods because t test comparisons of PDSI
+and ENSO across intensive- and light-use periods reveal no signifi-
+cant differences for all cultural areas (Fig. 2, B to D and J to L). The
+exception is at Jemez when examining ENSO (t = −2.6844,
+df = 132.35, P = 0.008194) where Niño 3 conditions during the in-
+tensive-use period were significantly cooler (−0.085 ± 0.848,
+N = 151) than during the light-use period (−0.056 ± 0.869,
+N = 250). The difference is slight and would actually suggest a
+more common role for La Niña and drought than is evident
+during the Jemez intensive-use period (Fig. 3, D and E).
+Using cultural periods of intensive and light use to partition the
+Southwest U.S. regional-scale dataset (all 4824 trees across the
+region), every period demonstrated the canonical pattern of signifi-
+cantly wetter climate in the 1 to 3 years before fire, and significant
+drought during the fire year, regardless of the intensity of use
+(Fig. 4). Therefore, the influence of Indigenous burning on fire-
+climate relationships is undetectable at this scale. The dilution of
+human influences results from variability in the timing and loca-
+tions of the most intensive Indigenous fire management. Land
+use was spatially heterogeneous because the resources that people
+Table 2. Local-scale analysis and summaries of site, tree, and fire
+numbers for analyzed cultural landscapes. Total number of sites, trees,
+and fires in the intensive- and light-use fire periods for all cultural
+landscapes investigated in the paper. The percentage (and number) of
+local fire records that have significant climate drivers during each period,
+along with statistical significance at the P = 0.05 level for Fisher’s exact
+tests, is also shown (significant patterns at P = 0.05 level are in bold). Only
+sites with at least five trees and periods with at least five fires were
+included in the Fisher’s exact test.
+Jemez
+Navajo
+Apachería
+Total sites
+48
+62
+72
+Total trees
+456
+394
+502
+Intensive-use fire years
+13
+25
+32
+Light-use fire years
+36
+41
+26
+Sites with significant
+climate drivers in
+intensive-use period, %
+(# sites)
+18.2%
+(2)
+53.6%
+(15)
+16.7%
+(4)
+Sites with significant
+climate drivers in light-use
+period, % (# sites)
+100%
+(38)
+72.0%
+(18)
+75%
+(18)
+P
+<0.0001
+0.2565
+0.0001
+Roos et al., Sci. Adv. 8, eabq3221 (2022)
+7 December 2022
+5 of 12
+SC I EN C E A D VA N CE S | RESE A RCH ARTI CL E
+Downloaded from https://www.science.org at Northern Arizona University on December 09, 2022
+
+used and managed were not evenly distributed, generating consid-
+erable spatial variability in human impacts on ignitions and fuels.
+The intensive-use periods are different for the Navajo and Jemez
+landscapes, and each of these only partially overlaps with the inten-
+sive-use period in Apachería (Fig. 2 and Table 1). It follows that for
+any given period, the regional-scale record is composed of a mix of
+local sites with reduced climate influences and sites with significant
+fire-climate relationships, but even during periods of intensive use
+at a given cultural landscape, the number of local sites with muted
+climate drivers was always lower as the geographic scale broadened.
+DISCUSSION
+Our work further indicates the lessons that can be learned from the
+historical ecology of Indigenous burning practices over centuries or
+longer, particularly in contexts like the Southwest United States that
+have experienced centuries of colonial impacts on traditional eco-
+logical knowledge and practices (27). The past is full of lessons for
+contemporary society to coexist with wildfire (54–56). Integrations
+of archaeology, history, dendrochronology, and paleoecology offer
+unique opportunities to enrich our understanding of coupled
+human-natural fire regimes and their consequences. As climate
+change (57), land-use histories (12), and settlement patterns (58)
+make human communities more vulnerable to fire, the past can
+Fig. 3. Landscape-scale fire-climate analyses by cultural period. SEAs of the intensive-use (A, D, and G) and light-use (B, E, and H) periods for each of the culture areas
+(Jemez, Navajo, and Apachería) using PDSI (77). Sample N = the total number of widespread fire years for that period in that landscape. Solid line indicates significance at
+the P < 0.05 level, and dotted line indicates significance at the P < 0.01 level. Red/orange bars indicate dry years. Blue bars indicate wet years. Dark red/blue indicate years
+significant at the P < 0.05 level. Orange and light blue bars are not statistically significant. Percentage of recording trees scarred each year and total numbers of recording
+trees for each cultural landscape are plotted with each set of SEA plots (C, F, and I).
+Roos et al., Sci. Adv. 8, eabq3221 (2022)
+7 December 2022
+6 of 12
+SC I EN C E A D VA N CE S | RESE A RCH ARTI CL E
+Downloaded from https://www.science.org at Northern Arizona University on December 09, 2022
+
+offer a spectrum of possibilities to reduce those vulnerabilities (6,
+11, 20, 59, 60).
+Fire-climate relationships across the western United States indi-
+cate that interannual wet-dry switching exerted strong controls on
+fire activity in dry pine forests for at least the past five centuries (11,
+61). Our regional synthesis of the Southwest United States corrob-
+orates these patterns. During all cultural time periods analyzed here,
+regional-scale fire activity was preceded by 1 to 3 years of above
+average moisture followed by significant drought during the year
+of burning. This was also true of local- and landscape-scale fire
+activity in periods when Indigenous land use, and presumably fire
+management, was light. However, in all cultural areas, regardless of
+differences in language, cultural practices, and economy, when In-
+digenous occupation and land management was most pronounced,
+fire-climate relationships were buffered at local and landscape
+scales. Local burning was probably in small patches, reducing
+surface fuel continuity but retaining unburned fuel capable of
+burning in future fires (6, 10, 11, 62)—a classic feature of anthropo-
+genic pyrodiversity (62). Previous research has observed that fires
+were more frequent during Hemish fire management, but fewer
+trees were scarred during fires (Fig. 3F) and fewer sites recorded
+fires (Fig. 2H) than during light-use periods (6, 11, 27). This indi-
+cates frequent but relatively small, patchy fires during intensive land
+use. A similar pattern may be evident in the Navajo dataset (Figs. 2G
+and 3C), whereas Apache wartime (light use) fires have been ob-
+served to be synchronous and widespread (51, 63). Light grazing
+—predominantly on the Navajo landscape—may have had a
+similar effect as Hemish patch burning on the heterogeneity of land-
+scape fuel loads, although more intensive grazing would have sub-
+stantially reduced fire spread (28, 30).
+At the landscape scale, drought remained a potent driver of fire
+activity even during intensive use, suggesting that even in heteroge-
+neous fuelscapes created by Indigenous patch burning, climate
+could overcome limitations in fuel continuity and promote spread-
+ing fires. These observations corroborate prior research that Indig-
+enous patch burning can buffer—but not entirely eliminate—local-
+to landscape-scale climate influences on widespread fire activity
+(10). We show that this effect is scale dependent. Locally, the buf-
+fering of climate influences was strongest. At the landscape scale,
+climate impacts were moderated, but drought persisted as an impor-
+tant influence on fire activity. At the regional scale, the canonical
+climate pattern continued to be the primary driver of fire activity
+through time. The repetition of this cross-scale variation in fire-
+climate drivers across all cultural regions and periods hints at a
+common cause—human impacts on fire regimes were scale depen-
+dent, in space and time (13). This scale dependency means that pa-
+leofire records composited and assessed at regional scales can mask
+important, localized Indigenous influences on fire activity and the
+ecological and social influences of this management (13).
+This study highlights both the lacuna of our knowledge about
+Indigenous fire management practices in the western United
+States and the benefits of collaborative research between archaeolo-
+gists, paleoecologists, and Indigenous communities and scientists
+(54, 56). Colonialism by Euro-Americans has affected access to tra-
+ditional lands and, in many cases, traditional fire practices of Indig-
+enous people around the world (64). Working together, scientists
+and Indigenous communities can develop new approaches to recon-
+struct traditional practices and document the ecological effects of
+Indigenous practices (64).
+These results also have implications for modern fire manage-
+ment and policy. In the wake of recent wildfire disasters—fires
+that damages homes, infrastructure, water sources, and kill
+humans—there have been calls to restore traditional Indigenous
+burning practices in western North America (7, 65) and elsewhere
+(66). Indigenous-managed pyrodiversity offers the opportunity to
+reduce fire hazard (6), support fire-sensitive plant and animal
+species (8), reduce carbon emissions (67), and empower Indigenous
+people (7, 65, 68). Our results show that a further benefit of support-
+ing, restoring, or emulating Indigenous burning practices, including
+Fig. 4. Regional-scale fire-climate analyses by cultural period. SEAs of the in-
+tensive-use (A, C, and E) and light-use (B, D, and F) periods for each of culture area
+using the combined regional tree-ring dataset using PDSI (77). Sample N = the
+total number of fire years for that period in the regional dataset. Solid line indicates
+significance at the P < 0.05 level, and dotted line indicates significance at the
+P < 0.01 level. Red/orange bars indicate dry years. Blue bars indicate wet years.
+Dark red/blue bars indicate years significant at the P < 0.05 level. Orange and
+light blue bars are not statistically significant.
+Roos et al., Sci. Adv. 8, eabq3221 (2022)
+7 December 2022
+7 of 12
+SC I EN C E A D VA N CE S | RESE A RCH ARTI CL E
+Downloaded from https://www.science.org at Northern Arizona University on December 09, 2022
+
+modern prescribed burning efforts, would be the buffering of the
+impact of increasing fuel aridity on fire activity. To achieve land-
+scape and regional scale fire-climate buffering, however, these
+applied burning practices would need to be conducted often and
+at the scales of interest or in strategic locations that have particularly
+important influence on landscape-scale fire behavior (69). Land
+managers have struggled to accomplish this goal (70), but future
+management aims for increasing prescribed burning by more
+than an order of magnitude (56, 71). As was the case in recent cen-
+turies, climate will continue to play a strong role in influencing fire
+activity even in the best-case management scenarios. However, In-
+digenous burning, prescribed burning, and managed wildfire at the
+appropriate scales (7, 65) can all contribute to undermine climate as
+a “force multiplier” in our wildfire challenges as we endeavor to get
+more “good fire” on the ground (22, 72).
+MATERIALS AND METHODS
+All fire-scar chronologies used in the analysis are archived in the
+International Multiproxy Paleofire Database (IMPD) and were
+compiled as part of the North American Fire Scar Network
+(NAFSN) (73, 74). All Superposed Epoch Analyses (SEAs) were
+conducted using the burnr (75) library [function sea()] in the R pro-
+gramming environment (76). SEA isolates the climate reconstruc-
+tion values for each fire event year (lag 0), and prior (lags −1 to −4)
+and posterior years (lags 1 and 2), calculates mean values for these
+lag years for all fire events in a particular period, and then assesses
+their statistical significance against bootstrapped resampling of a
+random set of “event” years of the same sample size from the
+entire dataset. In this fashion, SEA reveals the statistically significant
+patterns of prior-year and fire-year climate for any single temporal
+or spatial domain. At each spatial scale and for time periods ana-
+lyzed, we used SEA (21, 75) of fire years and four reconstructions
+of hydroclimate: (i) summer PDSI (77), (ii) standardized winter
+precipitation anomalies (78), (iii) standardized summer precipita-
+tion anomalies (78), and (iv) the Niño 3 index of ENSO (79), as
+well as regional temperature anomalies (80), to analyze fire-
+climate relationships. Interpolated drought and seasonal precipita-
+tion were delimited to the geographic extent of the landscape
+defined by the extent of tree-ring sample locations.
+Fire-scar chronologies were aggregated from individual tree-ring
+sites for landscape- and regional-scale collections of individual tree
+records. Individual fire scar sites (i.e., the local scale) were over-
+whelmingly, but not exclusively, small (mean area = 48 ± 247.1
+ha, median area = 3.5 ha), representing individual tree stands to
+patches of forest. Local, landscape, and regional groupings were fil-
+tered to isolate all presuppression fire years (1500 to 1900 CE), and
+archaeological and historical records (27, 34, 51) were used to define
+intensive- and light-use periods for the Hemish, Diné, and Ndée
+(Table 1). The composite record for analyses at the regional scale
+included 4824 individual trees for 451 sites in Arizona and New
+Mexico (table S1). Landscape-scale datasets had between 48 and
+72 sites and 394 and 502 trees for each cultural landscape (Table 2).
+For the local-scale analyses, the tree-ring site was the fundamen-
+tal unit of analysis and observation, but sites were grouped by cul-
+tural landscape for comparison and aggregate analysis. For sites, all
+fire years were analyzed with SEA using the PDSI paleoclimate
+dataset (77) for intensive- and light-use periods. The presence/
+absence of statistically significant departures from average climate
+conditions was classified into three categories: (i) one to three
+prior years of above average moisture, (ii) above average drought
+in the fire year, or (iii) canonical wet-dry switching. These three
+types of fire-climate relationship were then tallied for all sites that
+had at least five trees, had at least five fires, and had undergone rig-
+orous quality control to reduce the impact of misdated fire years for
+the cultural period of interest (tables S2 and S3). Sites were grouped
+by landscape-scale cultural areas (Navajo, Jemez, and Apachería; see
+Figs. 1 and 2), and the number of sites with and without significant
+climate relationships was summed for each cultural period for four-
+cell Fisher’s exact tests for each landscape to determine whether
+fire-climate relationships were significantly more common in
+light-use periods than in intensive-use periods at P < 0.05. We cal-
+culated percentages of sites with significant climate drivers for each
+period and each landscape using these tallies. Table 2 reports the
+percentage (and number) of sites with statistically significant
+climate drivers for the intensive- and light-use periods, and the
+Fisher’s exact test results for that landscape. Tables S2 and S3
+present the tallies for sites/periods with or without significant
+climate drivers used in the Fisher’s exact tests.
+At the landscape and regional scales, trees were the fundamental
+unit of measure. For analysis, these were aggregated by cultural
+landscape (for the landscape-scale) or the entire region (regional
+scale). For landscape and regional analysis, widespread fire years
+were those years represented by at least 10% of recording trees
+scarred within the entire landscape when a minimum of 11 record-
+ing trees were present in the aggregate record. A recording tree is
+one that was scarred that year or had been previously scarred.
+Thus, a fire year at the landscape and regional scales refers to fires
+at a larger spatial extent than that represented in local-scale fires.
+SEA was done for each cultural period for landscape- and region-
+al-scale aggregations to identify the presence/absence of signifi-
+cantly wet years before widespread fire events and significantly
+dry fire years. SEA with all climate variables can be found in figs.
+S1 to S3.
+Supplementary Materials
+This PDF file includes:
+Figs. S1 to S3
+Tables S1 to S4
+References
+REFERENCES AND NOTES
+1. K. K. McLauchlan, P. E. Higuera, J. Miesel, B. M. Rogers, J. Schweitzer, J. K. Shuman,
+A. J. Tepley, J. M. Varner, T. T. Veblen, S. A. Adalsteinsson, J. K. Balch, P. Baker, E. Batllori,
+E. Bigio, P. Brando, M. Cattau, M. L. Chipman, J. Coen, R. Crandall, L. Daniels, N. Enright,
+W. S. Gross, B. J. Harvey, J. A. Hatten, S. Hermann, R. E. Hewitt, L. N. Kobziar,
+J. B. Landesmann, M. M. Loranty, S. Y. Maezumi, L. Mearns, M. Moritz, J. A. Myers,
+J. G. Pausas, A. F. A. Pellegrini, W. J. Platt, J. Roozeboom, H. Safford, F. Santos, R. M. Scheller,
+R. L. Sherriff, K. G. Smith, M. D. Smith, A. C. Watts, Fire as a fundamental ecological process:
+Research advances and frontiers. J. Ecol. 108, 2047–2069 (2020).
+2. D. M. J. S. Bowman, J. K. Balch, P. Artaxo, W. J. Bond, J. M. Carlson, M. A. Cohrane,
+C. M. D’Antonio, R. S. DeFries, J. C. Doyle, S. P. Harrison, F. H. Johnston, J. E. Keeley,
+M. A. Krawchuck, C. A. Kull, J. B. Marston, M. A. Moritz, I. C. Prentice, C. I. Roos, A. C. Scott,
+T. W. Swetnam, G. R. van der Werf, S. J. Pyne, Fire in the earth system. Science 324,
+481–484 (2009).
+3. M. D. Hurteau, G. W. Koch, B. A. Hungate, Carbon protection and fire risk reduction:
+Toward a full accounting of forest carbon offsets. Front. Ecol. Environ. 6, 493–498 (2008).
+Roos et al., Sci. Adv. 8, eabq3221 (2022)
+7 December 2022
+8 of 12
+SC I EN C E A D VA N CE S | RESE A RCH ARTI CL E
+Downloaded from https://www.science.org at Northern Arizona University on December 09, 2022
+
+4. C. Wilson, S. K. Kampf, S. Ryan, T. Covino, L. H. MacDonald, H. Gleason, Connectivity of
+post-fire runoff and sediment from nested hillslopes and watersheds. Hydrol. Process. 35,
+e13975 (2021).
+5. J. D. Coop, S. A. Parks, C. S. Stevens-Rumann, S. D. Crausbay, P. E. Higuera, M. D. Hurteau,
+A. Tepley, E. Whitman, T. Assal, B. M. Collins, K. T. Davis, S. Dobrowski, D. A. Falk,
+P. J. Fornwalt, P. Z. Fulé, B. J. Harvey, V. R. Kane, C. E. Littlefield, E. Q. Margolis, M. North, M.-
+A. Parisien, S. Prichard, K. C. Rodman, Wildfire-driven forest conversion in western north
+american landscapes. Bioscience 70, 659–673 (2020).
+6. C. I. Roos, T. W. Swetnam, T. J. Ferguson, M. J. Liebmann, R. A. Loehman, J. R. Welch,
+E. Q. Margolis, C. H. Guiterman, W. C. Hockaday, M. J. Aiuvalasit, J. Battillo, J. Farella,
+C. A. Kiahtipes, Native American fire management at an ancient wildland-urban interface
+in the Southwest United States. Proc. Natl. Acad. Sci. U.S.A. 118, e2018733118 (2021).
+7. J. W. Long, F. K. Lake, R. W. Goode, The importance of Indigenous cultural burning in
+forested regions of the Pacific West, USA. Forest Ecol. Manag. 500, 119597 (2021).
+8. R. Bliege Bird, D. W. Bird, L. E. Fernandez, N. Taylor, W. Taylor, D. Nimmo, Aboriginal
+burning promotes fine-scale pyrodiversity and native predators in Australia’s Western
+Desert. Biol. Conserv. 219, 110–118 (2018).
+9. R. Bliege Bird, D. Nimmo, Restore the lost ecological functions of people. Nat. Ecol. Evol. 2,
+1050–1052 (2018).
+10. R. Bliege Bird, B. F. Codding, P. G. Kauhanen, D. W. Bird, Aboriginal hunting buffers climate-
+driven fire-size variability in Australia’s spinifex grasslands. Proc. Natl. Acad. Sci. U.S.A. 109,
+10287–10292 (2012).
+11. T. W. Swetnam, J. Farella, C. I. Roos, M. J. Liebmann, D. A. Falk, C. D. Allen, Multiscale
+perspectives of fire, climate and humans in western North America and the Jemez
+Mountains, USA. Philos. Trans. R. Soc. B Biol. Sci. 371, 20150168 (2016).
+12. C. I. Roos, T. M. Rittenour, T. W. Swetnam, R. A. Loehman, K. L. Hollenback, M. J. Liebmann,
+D. D. Rosenstein, Fire suppression impacts on fuels and fire intensity in the Western U.S.:
+Insights from archaeological luminescence dating in Northern New Mexico. Fire 3,
+32 (2020).
+13. C. I. Roos, Scale in the study of Indigenous burning. Nat. Sustain. 3, 898–899 (2020).
+14. J. R. Marlon, P. J. Bartlein, D. G. Gavin, C. J. Long, R. S. Anderson, C. E. Briles, K. J. Brown,
+D. Colombaroli, D. J. Hallett, M. J. Power, E. A. Scharf, M. K. Walsh, Long-term perspective
+on wildfires in the western USA. Proc. Natl. Acad. Sci. U.S.A. 109, E535–E543 (2012).
+15. S. Mooney, S. Harrison, P. Bartlein, A. L. Daniau, J. Stevenson, K. Brownlie, S. Buckman,
+M. Cupper, J. Luly, M. Black, Late quaternary fire regimes of Australasia. Quat. Sci. Rev. 30,
+28–46 (2011).
+16. C. H. Baisan, T. W. Swetnam, Interactions of Fire Regimes and Land Use in the Central Rio
+Grande Valley (Research Paper RM-RP-330, U.S. Department of Agriculture, Forest Service,
+Rocky Mountain Forest and Range Experiment Station, 1997), p. 20.
+17. M. W. Kaye, T. W. Swetnam, An assessment of fire, climate, and Apache history in the
+Sacramento Mountains, New Mexico. Phys. Geogr. 20, 305–330 (1999).
+18. J. H. Dieterich, T. W. Swetnam, Dendrochronology of a fire scarred ponderosa pine. Forest
+Sci. 30, 238–247 (1984).
+19. T. W. Swetnam, C. H. Baisan, Tree-ring reconstructions of fire and climate history of the
+Sierra Nevada and Southwestern United States, in Fire and Climate Change in Temperate
+Ecosystems of the Western Americas, T. T. Veblen, C. M. Baker, G. Montenegro,
+T. W. Swetnam, Eds. (Springer, 2003), pp. 158–195.
+20. A. H. Taylor, V. Trouet, C. N. Skinner, S. Stephens, Socioecological transitions trigger fire
+regime shifts and modulate fire–Climate interactions in the Sierra Nevada, USA, 1600–
+2015 CE. Proc. Natl. Acad. Sci. U.S.A. 113, 13684–13689 (2016).
+21. T. W. Swetnam, J. L. Betancourt, Mesoscale disturbance and ecological response to
+decadal climatic variability in the american southwest. J. Climate 11, 3128–3147 (1998).
+22. J. T. Abatzoglou, C. A. Kolden, A. P. Williams, J. A. Lutz, A. M. S. Smith, Climatic influences on
+interannual variability in regional burn severity across western US forests. Int. J. Wildland
+Fire 26, 269–275 (2017).
+23. P. E. Higuera, J. T. Abatzoglou, Record-setting climate enabled the extraordinary 2020 fire
+season in the western United States. Glob. Change Biol. 27, 1–2 (2021).
+24. M. A. Crimmins, A. C. Comrie, Interactions between antecedent climate and wildfire var-
+iability across south-eastern Arizona. Int. J. Wildland Fire 13, 455–466 (2004).
+25. C. D. Allen, Lots of lightning and plenty of people: An ecological history of fire in the
+upland Southwest, in Fire, Native Peoples, and the Natural Landscape, T. R. Vale, Ed. (Island
+Press, 2002), pp. 143–193.
+26. C. I. Roos, G. J. Williamson, D. M. J. S. Bowman, Is anthropogenic pyrodiversity invisible in
+paleofire records? Fire 2, 42 (2019).
+27. M. J. Liebmann, J. Farella, C. I. Roos, A. Stack, S. Martini, T. W. Swetnam, Native American
+depopulation, reforestation, and fire regimes in the Southwest United States, 1492–1900
+CE. Proc. Natl. Acad. Sci. U.S.A. 113, E696–E704 (2016).
+28. M. Savage, T. W. Swetnam, Early 19th-century fire decline following sheep pasturing in a
+Navajo ponderosa pine forest. Ecology 71, 2374–2378 (1990).
+29. L. Whitehair, P. Z. Fulé, A. S. Meador, A. Azpeleta Tarancón, Y.-S. Kim, Fire regime on a
+cultural landscape: Navajo Nation. Ecol. Evol. 8, 9848–9858 (2018).
+30. C. H. Guiterman, E. Q. Margolis, C. H. Baisan, D. A. Falk, C. D. Allen, T. W. Swetnam, Spa-
+tiotemporal variability of human–Fire interactions on the Navajo Nation. Ecosphere 10,
+e02932 (2019).
+31. H. T. Lewis, Hunter-gatherers and problems for fire history, in Proceedings of the Fire History
+Workshop: October 20–24, 1980, Tucson, Arizona, M. A. Stokes, J. H. Dieterich, Eds. (General
+Technical Report RM-81, U.S. Department of Agriculture, Forest Service, Rocky Mountain
+Research Station, 1980), pp. 115–119.
+32. R. H. Towner, J. S. Dean, Questions and problems in pre-Fort Sumner Navajo archaeology,
+in The Archaeology of Navajo Origins, R. H. Towner, Ed. (University of Utah Press, 1996),
+pp. 1–18.
+33. C. Kluckhohn, D. Leighton, The Navaho (Harvard Univ. Press, 1956).
+34. R. H. Towner, The navajo depopulation of Dinétah. J. Anthropol. Res. 64, 511–527 (2008).
+35. P. Tosa, M. J. Liebmann, T. J. Ferguson, J. R. Welch, Movement encased in tradition and
+stone: Hemish migration, land use, and identity, in The Continuous Path: Pueblo Movement
+and the Archaeology of Becoming, S. Duwe, R. W. Preucel, Eds. (Amerind Foundation and
+University of Arizona Press, 2019), pp. 60–77.
+36. E. Q. Margolis, C. A. Woodhouse, T. W. Swetnam, Drought, multi-seasonal climate, and
+wildfire in northern New Mexico. Clim. Change 142, 433–446 (2017).
+37. E. Q. Margolis, S. B. Malevich, Historical dominance of low-severity fire in dry and wet
+mixed-conifer forest habitats of the endangered terrestrial Jemez Mountains salamander
+(Plethodon neomexicanus). Forest Ecol. Manag. 375, 12–26 (2016).
+38. J. J. Dewar, D. A. Falk, T. W. Swetnam, C. H. Baisan, C. D. Allen, R. R. Parmenter,
+E. Q. Margolis, E. J. Taylor, Valleys of fire: Historical fire regimes of forest-grassland eco-
+tones across the montane landscape of the Valles Caldera National Preserve, New Mexico,
+USA. Landsc. Ecol. 36, 331–352 (2021).
+39. J. D. Forbes, Apache, Navaho, and Spaniard (University of Oklahoma Press, 1960).
+40. K. H. Basso, Ed., Western Apache Raiding and Warfare: From the Notes of Grenville Goodwin
+(University of Arizona Press, 1998).
+41. K. H. Basso, Western Apache, in Handbook of North American Indians, A. Ortiz, Ed.
+(Smithsonian Institution Press, 1983), vol. 10, pp. 462–488.
+42. W. Buskirk, The Western Apache: Living with the Land Before 1950 (University of Oklahoma
+Press, 1986).
+43. J. R. Welch, White Eyes’ lies and the battle for dzil nchaa si’an. Am. Indian Q. 21,
+75–109 (1997).
+44. N. C. Laluk, “Historical-period Apache occupation of the Chiricahua Mountains in South-
+eastern Arizona: An exercise in collaboration,” thesis, University of Arizona, Tucson,
+AZ (2015).
+45. J. M. Iniguez, T. W. Swetnam, C. H. Baisan, C. H. Sieg, P. Z. Fulé, M. Hunter, C. D. Allen,
+M. L. Brooks, R. G. Balice, Spatially and temporally variable fire regime on Rincon Peak,
+Arizona, USA. Fire Ecol. 5, 3–21 (2009).
+46. S. R. Danzer, “Fire histories and stand structure in the Huachuca Mountains of south-
+eastern Arizona,” thesis, University of Arizona, Tucson, AZ (1998).
+47. M. Kaib, C. H. Baisan, H. D. Grissino-Mayer, T. W. Swetnam, Fire history in the gallery Pine-
+Oak forests and adjacent grasslands of the Chiricahua Mountains of Arizona, in Effects of
+Fire on Madrean Province Ecosystems: A Symposium Proceedings, March 11–15, 1996,
+Tucson, Arizona, P. F. Ffolliott, L. F. DeBano, M. B. Baker Jr., G. J. Gottfried, G. Solis-Garza,
+C. B. Edminster, D. G. Neary, L. S. Allen, R. H. Hamre, Eds. (General Technical Report RM-
+GTR-289, U.S. Department of Agriculture, Forest Service, Rocky Mountain Research
+Station, 1996), pp. 253–264.
+48. C. H. Baisan, C. H. Morino, H. D. Grissino-Mayer, T. W. Swetnam, Fire History in Ponderosa
+Pine and Mixed Conifer Forests of the Catalina Mountains (Laboratory of Tree-Ring Re-
+search, 1998).
+49. C. D. O’Connor, D. A. Falk, A. M. Lynch, T. W. Swetnam, Fire severity, size, and climate
+associations diverge from historical precedent along an ecological gradient in the Pina-
+leño Mountains, Arizona, USA. Forest Ecol. Manag. 329, 264–278 (2014).
+50. T. W. Swetnam, C. H. Baisan, J. M. Kaib, Forest fire histories in the sky islands of La Frontera,
+in Changing Plant Life of La Frontera: Observations on Vegetation in the United States/
+Mexico Borderlands, G. L. Webster, C. J. Bahre, Eds. (University of New Mexico Press, 2001),
+pp. 95–119.
+51. M. Kaib,“Fire history in riparian canyon pine-oak forests and the intervening grasslands of
+the southwestern borderlands: A dendroecological, historical, and cultural inquiry,”
+thesis, University of Arizona, Tucson, AZ (1998).
+52. S. J. Pyne, Fire: A Brief History (University of Washington Press, 2011).
+53. D. A. Falk, E. K. Heyerdahl, P. M. Brown, C. Farris, P. Z. Fulé, D. McKenzie, T. W. Swetnam,
+A. H. Taylor, M. L. van Horne, Multi-scale controls of historical forest-fire regimes: New
+insights from fire-scar networks. Front. Ecol. Environ. 9, 446–454 (2011).
+Roos et al., Sci. Adv. 8, eabq3221 (2022)
+7 December 2022
+9 of 12
+SC I EN C E A D VA N CE S | RESE A RCH ARTI CL E
+Downloaded from https://www.science.org at Northern Arizona University on December 09, 2022
+
+54. G. Snitker, C. I. Roos, A. P. Sullivan, S. Y. Maezumi, D. W. Bird, M. R. Coughlan, K. M. Derr,
+L. Gassaway, A. Klimaszewski-Patterson, R. A. Loehman, A collaborative agenda for ar-
+chaeology and fire science. Nat. Ecol. Evol. 6, 835–839 (2022).
+55. A. M. S. Smith, C. A. Kolden, D. M. J. S. Bowman, Biomimicry can help humans to coexist
+sustainably with fire. Nat. Ecol. Evol. 2, 1827–1829 (2018).
+56. J. K. Shuman, J. K. Balch, R. T. Barnes, P. E. Higuera, C. I. Roos, D. W. Schwilk, E. N. Stavros,
+T. Banerjee, M. M. Bela, J. Bendix, S. Bertolino, S. Bililign, K. D. Bladon, P. Brando,
+R. E. Breidenthal, B. Buma, D. Calhoun, L. M. V. Carvalho, M. E. Cattau, K. M. Cawley,
+S. Chandra, M. L. Chipman, J. Cobian-Iñiguez, E. Conlisk, J. D. Coop, A. Cullen, K. T. Davis,
+A. Dayalu, F. De Sales, M. Dolman, L. M. Ellsworth, S. Franklin, C. H. Guiterman,
+M. Hamilton, E. J. Hanan, W. D. Hansen, S. Hantson, B. J. Harvey, A. Holz, T. Huang,
+M. D. Hurteau, N. T. Ilangakoon, M. Jennings, C. Jones, A. Klimaszewski-Patterson,
+L. N. Kobziar, J. Kominoski, B. Kosovic, M. A. Krawchuk, P. Laris, J. Leonard, S. M. Loria-
+Salazar, M. Lucash, H. Mahmoud, E. Margolis, T. Maxwell, J. L. McCarty, D. B. McWethy,
+R. S. Meyer, J. R. Miesel, W. K. Moser, R. C. Nagy, D. Niyogi, H. M. Palmer, A. Pellegrini,
+B. Poulter, K. Robertson, A. V. Rocha, M. Sadegh, F. Santos, F. Scordo, J. O. Sexton,
+A. S. Sharma, A. M. S. Smith, A. J. Soja, C. Still, T. Swetnam, A. D. Syphard, M. W. Tingley,
+A. Tohidi, A. T. Trugman, M. Turetsky, J. M. Varner, Y. Wang, T. Whitman, S. Yelenik,
+X. Zhang, Reimagine fire science for the anthropocene. PNAS Nexus 1, pgac115 (2022).
+57. J. T. Abatzoglou, A. P. Williams, Impact of anthropogenic climate change on wildfire across
+western US forests. Proc. Natl. Acad. Sci. U.S.A. 113, 11770–11775 (2016).
+58. A. A. Ager, P. Palaiologou, C. R. Evers, M. A. Day, C. Ringo, K. Short, Wildfire exposure to the
+wildland urban interface in the western US. Appl. Geogr. 111, 102059 (2019).
+59. C. A. Knight, L. Anderson, M. J. Bunting, M. Champagne, R. M. Clayburn, J. N. Crawford,
+A. Klimaszewski-Patterson, E. E. Knapp, F. K. Lake, S. A. Mensing, D. Wahl, J. Wanket,
+A. Watts-Tobin, M. D. Potts, J. J. Battles, Land management explains major trends in forest
+structure and composition over the last millennium in California’s Klamath Mountains.
+Proc. Natl. Acad. Sci. U.S.A. 119, e2116264119 (2022).
+60. C. I. Roos, M. N. Zedeño, K. L. Hollenback, M. M. H. Erlick, Indigenous impacts on North
+American great plains fire regimes of the past millennium. Proc. Natl. Acad. Sci. U.S.A. 115,
+8143–8148 (2018).
+61. V. Trouet, A. H. Taylor, E. R. Wahl, C. N. Skinner, S. L. Stephens, Fire-climate interactions in
+the American West since 1400 CE. Geophys. Res. Lett. 37, L04702 (2010).
+62. C. Trauernicht, B. W. Brook, B. P. Murphy, G. J. Williamson, D. M. J. S. Bowman, Local and
+global pyrogeographic evidence that indigenous fire management creates pyrodiversity.
+Ecol. Evol. 5, 1908–1918 (2015).
+63. C. I. Roos, T. W. Swetnam, M. J. Liebmann, Rebound of fire regimes in Southwest US forests
+and woodlands, 1200–1900 CE, in Questioning Rebound: People and Environmental
+Change in Protohistoric and Early Historic Americas, E. L. Jones, J. Fisher, Eds. (University of
+Utah Press, 2022), pp. 54–65.
+64. M.-S. Fletcher, R. Hamilton, W. Dressler, L. Palmer, Indigenous knowledge and the shackles
+of wilderness. Proc. Natl. Acad. Sci. U.S.A. 118, e2022218118 (2021).
+65. F. K. Lake, V. Wright, P. Morgan, M. McFadzen, D. McWethy, C. Stevens-Rumann, Returning
+fire to the land: Celebrating traditional knowledge and fire. J. Forestry 115,
+343–353 (2017).
+66. M.-S. Fletcher, A. Romano, S. Connor, M. Mariani, S. Y. Maezumi, Catastrophic bushfires,
+indigenous fire knowledge and reframing science in Southeast Australia. Fire 4, 61 (2021).
+67. O. F. Price, J. Russell-Smith, F. Watt, The influence of prescribed fire on the extent of
+wildfire in savanna landscapes of western Arnhem Land, Australia. Int. J. Wildland Fire 21,
+297–305 (2012).
+68. R. W. Kimmerer, F. K. Lake, The role of indigenous burning in land management. J. Forest
+99, 36–41 (2001).
+69. P. Belavenutti, A. A. Ager, M. A. Day, W. Chung, Designing forest restoration projects to
+optimize the application of broadcast burning. Ecol. Econ. 201, 107558 (2022).
+70. C. A. Kolden, We’re not doing enough prescribed fire in the Western United States to
+mitigate wildfire risk. Fire 2, 30 (2019).
+71. USDA Forest Service, Confronting the Wildfire Crisis: A Strategy for Protecting Communities
+and Improving Resilience in America’s Forests (Wildfire Crisis Strategy, U.S. Department of
+Agriculture, 2022).
+72. A. P. Williams, E. R. Cook, J. E. Smerdon, B. I. Cook, J. T. Abatzoglou, K. Bolles, S. H. Baek,
+A. M. Badger, B. Livneh, Large contribution from anthropogenic warming to an emerging
+North American megadrought. Science 368, 314–318 (2020).
+73. E. Q. Margolis, C. H. Guiterman, R. Chavardès, J. Coop, K. Copes-Gerbitz, D. Dawe, D. A. Falk,
+J. Johnston, E. R. Larson, H. Li, J. M. Marschall, C. Naficy, A. T. Naito, M.-A. Parisien,
+S. A. Parks, J. Portier, H. M. Poulos, K. M. Robertson, J. Speer, M. C. Stambaugh,
+T. W. Swetnam, A. J. Tepley, I. Thapa, C. D. Allen, Y. Bergeron, L. Daniels, P. Z. Fulé,
+D. Gervais, M. P. Girardin, G. L. Harley, J. Harvey, K. Hoffman, J. Huffman, M. D. Hurteau,
+L. B. Johnson, C. W. Lafon, M. Lopez, R. S. Maxwell, J. Meunier, M. North, M. T. Rother,
+M. Schmidt, R. Sherriff, L. A. Stachowiak, A. Taylor, E. J. Taylor, V. Trouet, M. Villarreal,
+L. L. Yocom, K. Arabas, A. Arizpe, D. Arseneault, A. A. Tarancón, C. H. Baisan, E. Bigio,
+F. Biondi, G. Cahalan, A. C. Caprio, J. Cerano-Paredes, B. M. Collins, D. C. Dey, I. Drobyshev,
+C. Farris, M. Fenwick, W. Flatley, M. L. Floyd, Z. E. Gedalof, A. Holz, L. Howard,
+D. W. Huffman, J. M. Iniguez, K. F. Kipfmueller, S. G. Kitchen, K. Lombardo, D. McKenzie,
+A. Merschel, K. Metlen, J. Minor, C. D. O’Connor, L. Platt, W. J. Platt, T. Saladyga, A. B. Stan,
+S. L. Stephens, C. Sutheimer, R. Touchan, P. J. Weisberg, The North American fire scar
+network. Ecosphere 13, e4159 (2022).
+74. E. Q. Margolis, C. H. Guiterman, North American tree-ring fire-scar site descriptions (U.S.
+Geological Survey data release, 2022); https://doi.org/10.5066/P9PT90QX.
+75. S. B. Malevich, C. H. Guiterman, E. Q. Margolis, burnr: Fire history analysis and graphics in R.
+Dendrochronologia 49, 9–15 (2018).
+76. R Core Team, R: A Language and Environment for Statistical Computing (R Foundation for
+Statistical Computing, 2021).
+77. E. R. Cook, R. Seager, R. R. Heim, R. S. Vose, C. Herweijer, C. Woodhouse, Megadroughts in
+North America: Placing IPCC projections of hydroclimatic change in a long-term palae-
+oclimate context. J. Quat. Sci. 25, 48–61 (2010).
+78. D. W. Stahle, E. R. Cook, D. J. Burnette, M. C. A. Torbenson, I. M. Howard, D. Griffin, J. V. Diaz,
+B. I. Cook, A. P. Williams, E. Watson, D. J. Sauchyn, N. Pederson, C. A. Woodhouse,
+G. T. Pederson, D. Meko, B. Coulthard, C. J. Crawford, Dynamics, variability, and change in
+seasonal precipitation reconstructions for North America. J. Climate 33,
+3173–3195 (2020).
+79. C. Dätwyler, M. Grosjean, N. J. Steiger, R. Neukom, Teleconnections and relationship
+between the El Niño–Southern Oscillation (ENSO) and the Southern Annular Mode (SAM)
+in reconstructions and models over the past millennium. Clim. Past 16, 743–756 (2020).
+80. E. R. Wahl, J. E. Smerdon, Comparative performance of paleoclimate field and index re-
+constructions derived from climate proxies and noise-only predictors. Geophys. Res. Lett.
+39, (2012).
+81. K. A. Morino, C. H. Baisan, T. W. Swetnam, Historical Fire Regimes in the Chiricahua
+Mountains, Arizona: And in Mixed-Conifer Forest (Laboratory of Tree-Ring Research, The
+University of Arizona, 2000).
+82. T. W. Swetnam, C. H. Baisan, Historical fire regime patterns in the southwestern United
+States since AD 1700, in Fire Effects in Southwestern Forests: Proceedings of the Second La
+Mesa Fire Symposium, Los Alamos, New Mexico, March 29–31, 1994, C. D. Allen, Ed. (General
+Technical Report RM-GTR-286, U.S. Department of Agriculture, Forest Service, Rocky
+Mountain Research Station, 1996), pp. 11–32.
+83. T. W. Swetnam, C. H. Baisan, “Fire histories of montane forests in the Madrean Border-
+lands” (United States Department of Agriculture Forest Service General Technical Report
+RM, 1996), pp. 15–36.
+84. H. D. Grissino-Mayer, C. H. Baisan, T. W. Swetnam, Fire history in the Pinaleño Mountains of
+southeastern Arizona: Effects of human-related disturbances, in Biodiversity and Man-
+agementof the Madrean Archipelago: The Sky Islands of Southwestern United States and
+Northwestern Mexico, L. F. DeBano, G. J. Gottfried, R. H. Hamre, C. B. Edminster,
+P. F. Ffolliott, A. Ortega-Rubio, Eds. (Technical Report RM 264, USDA Forest Service, Rocky
+Mountain Research Station, 1995), pp. 399–407.
+85. A. M. Barton, T. W. Swetnam, C. H. Baisan, Arizona pine (Pinus arizonica) stand dynamics:
+Local and regional factors in a fire-prone madrean gallery forest of Southeastern Arizona
+USA. Landsc. Ecol. 16, 351–369 (2001).
+86. M. T. Seklecki, H. D. Grissino-Mayer, T. W. Swetnam, Fire history and the possible role of
+Apache-set fires in the Chiricahua Mountains of Southeastern Arizona, in Effects of Fire on
+Madrean Province Ecosystems: A Symposium Proceedings, March 11–15, 1996, Tucson,
+Arizona, P. F. Ffolliott, L. F. DeBano, M. B. Baker Jr., G. J. Gottfried, G. Solis-Garza,
+C. B. Edminster, D. G. Neary, L. S. Allen, R. H. Hamre, Eds. (General Technical Report RM-
+GTR-289, U.S. Department of Agriculture, Forest Service, Rocky Mountain Research
+Station, 1996), pp. 238–246.
+87. C. D. Allen, R. S. Anderson, R. B. Jass, J. L. Toney, C. H. Baisan, Paired charcoal and tree-ring
+records of high-frequency Holocene fire from two New Mexico bog sites. Int. J. Wildland
+Fire 17, 115–130 (2008).
+88. K. Morino, C. Baisan, T. Swetnam, “Expanded fire regime studies in the Jemez Mountains,
+New Mexico” (National Biological Service, Bandelier National Monument, 1998).
+89. J. Farella, “Terminus ante quem constraint of Pueblo occupation periods in the Jemez
+Province, New Mexico,” thesis, University of Arizona, Tucson, AZ (2015).
+90. R. Touchan, C. D. Allen, T. W. Swetnam, Fire history and climatic patterns in Ponderosa Pine
+and Mixed-Conifer Forests of the Jemez Mountains, Northern New Mexico, in Fire Effects in
+Southwestern Forests: Proceedings of the Second La Mesa Fire Symposium, Los Alamos, New
+Mexico, March 29–31, 1994, C. D. Allen, Ed. (General Technical Report RM-GTR-286, U.S.
+Department of Agriculture, Forest Service, Rocky Mountain Research Station, 1996),
+pp. 33–46.
+91. C. H. Guiterman, E. Q. Margolis, T. W. Swetnam, Dendroecological methods for recon-
+structing high-severity fire in pine-oak forests. Tree Ring Res. 71, 67–77 (2015).
+Roos et al., Sci. Adv. 8, eabq3221 (2022)
+7 December 2022
+10 of 12
+SC I EN C E A D VA N CE S | RESE A RCH ARTI CL E
+Downloaded from https://www.science.org at Northern Arizona University on December 09, 2022
+
+92. C. H. Guiterman, E. Q. Margolis, C. D. Allen, D. A. Falk, T. W. Swetnam, Long-term persis-
+tence and fire resilience of oak shrubfields in dry conifer forests of Northern New Mexico.
+Ecosystems 21, 943–959 (2018).
+93. J. H. Dieterich, A. R. Hibbert, Fire history in a small ponderosa pine stand surrounded by
+chaparral, in Effects of Fire Management of Southwestern Natural Resources: Proceedings of
+the Symposium, November 15–17, 1988, Tucson, AZ, J. S. Krammes, Ed. (General Technical
+Report RM-191, U.S. Department of Agriculture, Forest Service, Rocky Mountain Research
+Station, 1990), pp. 168–172.
+94. C. H. Baisan, T. W. Swetnam, “NOAA/WDS Paleoclimatology—Baisan fire data from Bear
+Wallow—IMPD USBER001” (NOAA National Centers for Environmental Information, 2004);
+https://doi.org/10.25921/nzv2-0e79.
+95. C. H. Baisan, T. W. Swetnam, “NOAA/WDS Paleoclimatology—Baisan fire data from Black
+Mountain—IMPD USBKM001” (NOAA National Centers for Environmental Information,
+2004); https://doi.org/10.25921/22pr-sn52.
+96. P. Z. Fulé, W. W. Covington, M. M. Moore, Determining reference conditions for ecosystem
+management of southwestern ponderosa pine forests. Ecol. Appl. 7, 895–908 (1997).
+97. H. D. Grissino-Mayer, T. W. Swetnam, “NOAA/WDS Paleoclimatology—Grissino-Mayer fire
+data from Candelaria—IMPD USCAN001” (NOAA National Centers for Environmental In-
+formation, 2009); https://doi.org/10.25921/b4v7-ej85.
+98. C. H. Baisan, A. C. Caprio, “NOAA/WDS Paleoclimatology—Baisan fire data from Capilla
+Peak Campground—IMPD USCPC001” (NOAA National Centers for Environmental Infor-
+mation, 2004); https://doi.org/10.25921/8exz-nj91.
+99. R. Touchan, T. W. Swetnam, C. D. Allen,“NOAA/WDS Paleoclimatology—Touchan fire data
+from Capulin Canyon Upper—IMPD USCPU001” (NOAA National Centers for Environ-
+mental Information, 2004); https://doi.org/10.25921/c73m-mx03.
+100. D. W. Huffman, P. Z. Fulé, K. M. Pearson, J. E. Crouse, Fire history of pinyon–Juniper
+woodlands at upper ecotones with ponderosa pine forests in Arizona and New Mexico.
+Can. J. For. Res. 38, 2097–2108 (2008).
+101. J. M. Iniguez, T. W. Swetnam, S. R. Yool, Topography affected landscape fire history pat-
+terns in southern Arizona, USA. For. Ecol. Manage. 256, 295–303 (2008).
+102. J. M. Iniguez, T. W. Swetnam, C. H. Baisan, Fire history and moisture influences on historical
+forest age structure in the sky islands of southern Arizona, USA. J. Biogeogr. 43,
+85–95 (2016).
+103. H. D. Grissino-Mayer, T. W. Swetnam, “NOAA/WDS Paleoclimatology—Grissino-Mayer fire
+data from Cerro Bandera East—IMPD USCBE001” (NOAA National Centers for Environ-
+mental Information, 2008); https://doi.org/10.25921/c16b-9s83.
+104. H. D. Grissino-Mayer, T. W. Swetnam, “NOAA/WDS Paleoclimatology—Grissino-Mayer fire
+data from Cerro Bandera North—IMPD USCBN001” (NOAA National Centers for Envi-
+ronmental Information, 2008); https://doi.org/10.25921/f6wd-g957.
+105. H. D. Grissino-Mayer, T. W. Swetnam, “NOAA/WDS Paleoclimatology—Grissino-Mayer fire
+data from Cerro Rendija—IMPD USCER001” (NOAA National Centers for Environmental
+Information, 2004); https://doi.org/10.25921/xxh7-8803.
+106. P. M. Brown, M. W. Kaye, L. S. Huckaby, C. H. Baisan, Fire history along environmental
+gradients in the Sacramento Mountains, New Mexico: Influences of local patterns and
+regional processes. Ecoscience 8, 115–126 (2001).
+107. C. H. Baisan, T. W. Swetnam, Fire history on a desert mountain range: Rincon Mountain
+Wilderness, Arizona, U.S.A. Can. J. For. Res. 20, 1559–1569 (1990).
+108. C. A. Farris, C. H. Baisan, D. A. Falk, S. R. Yool, T. W. Swetnam, Spatial and temporal cor-
+roboration of a fire-scar-based fire history in a frequently burned ponderosa pine forest.
+Ecol. Appl. 20, 1598–1614 (2010).
+109. J. H. Dieterich, “Chimney Spring forest fire history” (USDA Forest Service Research Paper
+RM-220, 1980).
+110. C. H. Baisan, K. A. Morino, R. Touchan, J. P. Riser, “NOAA/WDS Paleoclimatology—Baisan
+fire data from Continental Divide Peak—IMPD USCDP001” (NOAA National Centers for
+Environmental Information, 2004); https://doi.org/10.25921/tc9d-3c34.
+111. H. D. Grissino-Mayer, T. W. Swetnam, “NOAA/WDS Paleoclimatology—Grissino-Mayer fire
+data from El Calderon—IMPD USCAL001” (NOAA National Centers for Environmental
+Information, 2004); https://doi.org/10.25921/ng46-2540.
+112. D. W. Huffman, M. L. Floyd, D. P. Hanna, J. E. Crouse, P. Z. Fulé, A. J. Sánchez Meador,
+J. D. Springer, Fire regimes and structural changes in oak-pine forests of the Mogollon
+Highlands ecoregion: Implications for ecological restoration. For. Ecol. Manage. 465,
+118087 (2020).
+113. K. A. Morino,“Reconstruction and interpretation of historical patterns of fire occurrence in
+the Organ Mountains, New Mexico,” thesis, University of Arizona, Tucson, AZ (1996).
+114. P. Z. Fulé, T. A. Heinlein, W. W. Covington, M. M. Moore, Assessing fire regimes on Grand
+Canyon landscapes with fire-scar and fire-record data. Int. J. Wildland Fire 12,
+129–145 (2003).
+115. P. Z. Fulé, J. E. Crouse, T. A. Heinlein, M. M. Moore, W. W. Covington, G. Verkamp, Mixed-
+severity fire regime in a high-elevation forest of Grand Canyon, Arizona USA. Landsc. Ecol.
+18, 465–486 (2003).
+116. T. W. Swetnam, J. H. Dieterich, Fire history of ponderosa pine forests in the Gila Wilderness,
+New Mexico, in Effects of Fire on Madrean Province Ecosystems, A Symposium Proceedings,
+J. E. Lotan, B. M. Kilgore, W. C. Fischer, R. W. Mutch, Eds. (USDA Forest Service, General
+Technical Report RM-GTR-289, 1985), pp. 15–36.
+117. H. D. Grissino-Mayer, “Tree-ring reconstructions of climate and fire history at El Malpais
+National Monument, New Mexico,” thesis, University of Arizona, Tucson, AZ (1995).
+118. C. H. Baisan, A. C. Caprio, “NOAA/WDS Paleoclimatology—Baisan fire data from Ice
+Canyon—IMPD USICE001” (NOAA National Centers for Environmental Information, 2004);
+https://doi.org/10.25921/3991-nd66.
+119. W. Ortloff, J. G. Goldammer, F. Schweingruber, T. W. Swetnam, Fire history study in a stand
+of Pinus ponderosa Dougl. ex Laws. in Santa Rita Mountains, Arizona, USA. Forstarchiv
+(Germany) 66, 206–214 (1995).
+120. L. B. Johnson, E. Q. Margolis, Surface fire to crown fire: Fire history in the Taos Valley
+Watersheds, New Mexico, USA. Fire 2, 14 (2019).
+121. C. H. Baisan, J. P. Riser, “NOAA/WDS Paleoclimatology—Baisan fire data from Lomas
+Animas West—IMPD USLAW001” (NOAA National Centers for Environmental Information,
+2004); https://doi.org/10.25921/wxq0-nb04.
+122. A. B. Stan, P. Z. Fulé, K. B. Ireland, J. S. Sanderlin, Modern fire regime resembles historical
+fire regime in a ponderosa pine forest on Native American lands. Int. J. Wildland Fire 23,
+686 (2014).
+123. R. A. P. Abolt,“Fire histories of upper elevation forests in the Gila Wilderness, New Mexico
+via fire scar and stand age structure analyses,” thesis, University of Arizona, Tucson,
+AZ (1997).
+124. A. Azpeleta Tarancón, P. Z. Fulé, A. J. Sánchez Meador, Y.-S. Kim, T. Padilla, Spatiotemporal
+variability of fire regimes in adjacent Native American and public forests, New Mexico
+USA. Ecosphere 9, e02492 (2018).
+125. M. C. Wilkinson, “Reconstruction of historical fire regimes along an elevation and vege-
+tation gradient in the Sacramento Mountains, New Mexico,” thesis, University of Arizona,
+Tucson, AZ (1997).
+126. C. A. Farris, C. H. Baisan, D. A. Falk, M. L. van Horne, P. Z. Fulé, T. W. Swetnam, A comparison
+of targeted and systematic fire-scar sampling for estimating historical fire frequency in
+south-western ponderosa pine forests. Int. J. Wildland Fire 22, 1021 (2013).
+127. S. R. Danzer, C. H. Baisan, T. W. Swetnam, The influence of fire and land-use history on
+stand dynamics in the Huachuca Mountains of Southeastern Arizona, in Effects of fire on
+Madrean Province Ecosystems, A symposium proceedings (U.S. Department of Agriculture,
+Forest Service, Rocky Mountain Forest and Range Experiment Station, 1996).
+128. C. H. Baisan, T. W. Swetnam, “NOAA/WDS Paleoclimatology—Baisan fire data from Pino
+Canyon, Sandia Mountains—IMPD USPNO001” (NOAA National Centers for Environ-
+mental Information, 2004); https://doi.org/10.25921/r5k1-gm02.
+129. R. Touchan, “NOAA/WDS Paleoclimatology—Touchan fire data from Round Mountain
+—IMPD USROM001” (NOAA National Centers for Environmental Information, 2004);
+https://doi.org/10.25921/jcqm-a912.
+130. E. Q. Margolis, Fire regime shift linked to increased forest density in a piñon–Juniper
+savanna landscape. Int. J. Wildland Fire 23, 234–245 (2014).
+131. T. A. Heinlein, M. M. Moore, P. Z. Fulé, W. W. Covington, Fire history and stand structure of
+two ponderosa pine-mixed conifer sites: San Francisco Peaks, Arizona, USA.
+Int. J. Wildland Fire 14, 307–320 (2005).
+132. E. Q. Margolis, J. Balmat, Fire history and fire–climate relationships along a fire regime
+gradient in the Santa Fe Municipal Watershed, NM, USA. For. Ecol. Manage. 258,
+2416–2430 (2009).
+133. J. H. Dieterich, Fire history of Southwestern mixed conifer: A case study. For. Ecol. Manage.
+6, 13–31 (1983).
+Acknowledgments: The findings and conclusions in this publication are those of the author(s)
+and should not be construed to represent any official USDA or U.S. government determination
+or policy. This article has been peer reviewed and approved for publication consistent with
+USGS Fundamental Science Practices (https://pubs.usgs.gov/circ/1367/). Funding: This work
+was supported in part by the NOAA Cooperative Agreement with CIRES, NA17OAR4320101
+(C.H.G.), the USGS Ecosystems Mission Area Climate Research and Development (E.Q.M.), and
+Ecological Restoration Institute at Northern Arizona University via a grant (Award 21-DG-
+11030000-019) from the U.S. Forest Service (C.H.G.). Publication of this article was funded in part
+by the University of Colorado Boulder Libraries Open Access Fund. Author contributions:
+Conceptualization: C.I.R. Methodology: C.I.R., C.H.G., and E.Q.M. Software: C.I.R., C.H.G., and
+E.Q.M. Formal analysis: C.I.R., C.H.G., E.Q.M., and T.W.S. Visualization: C.I.R., C.H.G., and E.Q.M.
+Writing—original draft: C.I.R., C.H.G., E.Q.M., T.W.S., N.C.L., and K.F.T. Writing—review and
+editing: C.I.R., C.H.G., E.Q.M., T.W.S., N.C.L., K.F.T., C.T., C.A.F., P.Z.F., J.M.I., J.M.K., C.D.O., and L.W.
+Data curation: C.H.G., C.A.F., P.Z.F., J.M.I., C.D.O., and L.W. Competing interests: The authors
+Roos et al., Sci. Adv. 8, eabq3221 (2022)
+7 December 2022
+11 of 12
+SC I EN C E A D VA N CE S | RESE A RCH ARTI CL E
+Downloaded from https://www.science.org at Northern Arizona University on December 09, 2022
+
+declare that they have no competing interests. Data and materials availability: All data
+needed to evaluate the conclusions in the paper are present in the paper and/or the
+Supplementary Materials.
+All fire-scar data were compiled by the North American Fire Scar Network (https://doi.org/
+10.5066/P9PT90QX) (74) and are available via the International Multiproxy Paleofire Database
+(www.ncei.noaa.gov/products/paleoclimatology/fire-history). DOI for each fire history site used
+can be found in table S1. All climate data are available through the NOAA paleoclimate
+database (www.ncei.noaa.gov/products/paleoclimatology). Specific paleoclimate datasets
+include the following: PDSI (https://doi.org/10.25921/0qmn-2k23), seasonal precipitation data
+(https://doi.org/10.25921/phr4-1961), ENSO (https://doi.org/10.25921/d2pw-qm53), and
+temperature (https://doi.org/10.25921/hx0x-m820). The burnr package and related code for
+conducting SEAs with fire-scar and climate data are available at https://cran.r-project.org/
+package=burnr.
+Submitted 29 April 2022
+Accepted 2 November 2022
+Published 7 December 2022
+10.1126/sciadv.abq3221
+Roos et al., Sci. Adv. 8, eabq3221 (2022)
+7 December 2022
+12 of 12
+SC I EN C E A D VA N CE S | RESE A RCH ARTI CL E
+Downloaded from https://www.science.org at Northern Arizona University on December 09, 2022
+
+Use of this article is subject to the Terms of service
+Science Advances (ISSN ) is published by the American Association for the Advancement of Science. 1200 New York Avenue NW,
+Washington, DC 20005. The title Science Advances is a registered trademark of AAAS.
+Copyright © 2022 The Authors, some rights reserved; exclusive licensee American Association for the Advancement of Science. No claim
+to original U.S. Government Works. Distributed under a Creative Commons Attribution NonCommercial License 4.0 (CC BY-NC).
+Indigenous fire management and cross-scale fire-climate relationships in the
+Southwest United States from 1500 to 1900 CE
+Christopher I. RoosChristopher H. GuitermanEllis Q. MargolisThomas W. SwetnamNicholas C. LalukKerry F.
+ThompsonChris ToyaCalvin A. FarrisPeter Z. FuléJose M. IniguezJ. Mark KaibChristopher D. O’ConnorLionel Whitehair
+Sci. Adv., 8 (49), eabq3221. • DOI: 10.1126/sciadv.abq3221
+View the article online
+https://www.science.org/doi/10.1126/sciadv.abq3221
+Permissions
+https://www.science.org/help/reprints-and-permissions
+Downloaded from https://www.science.org at Northern Arizona University on December 09, 2022

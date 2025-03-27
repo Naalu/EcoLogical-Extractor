@@ -1,0 +1,822 @@
+Article
+Predicting Aboveground Biomass in Second Growth
+Coast Redwood: Comparing Localized with Generic
+Allometric Models
+Anil Raj Kizha 1,* and Han-Sup Han 2
+1
+School of Forest Resources, University of Maine, Orono, ME 04469, USA
+2
+Department of Forestry and Wildland Resources, Humboldt State University, Arcata, CA 95521, USA;
+Han-Sup.Han@humboldt.edu
+*
+Correspondence: anil.kizha@maine.edu; Tel.: +1-207-581-2851
+Academic Editor: Timothy A. Martin
+Received: 28 December 2015; Accepted: 19 April 2016; Published: 27 April 2016
+Abstract: Biomass amounts predicted by generalized models are often not applicable for small
+regions. Localized allometric models were developed relating tree/biomass components to diameter
+at breast height (dbh) for coast redwood (Sequoia sempervirens (D. Don) Endl.) from an industrial
+timberland in northwestern California, USA. dbh for the candidate trees ranged from 2.54 cm to
+84.07 cm. Biomass of tree components, such as bole, foliage, bark, live and dead branches, along with
+the total aboveground biomass (TAGB) were estimated. Other tree dimensions such as tree height,
+height to live crown, weight and volume of bole wood were also modeled. Localized allometric
+models were able to explain more than 93% of the variability for most of the tree components
+(p < 0.001). Biomass amounts predicted from the widely used generalized models were different
+from that estimated by the localized allometric model developed from this study. However, the
+results presented in this study should be used carefully to predict the biomass components, if applied
+outside the stated dbh range or stand conditions on which this study was based.
+Keywords: biomass components; California redwood; northern California; Sequoia sempervirens;
+tree dimensions; tree volume estimation
+1. Introduction
+Predicting the biomass of various tree parts using allometric models is crucial in multiple
+disciplines including forest utilization, management, and ecology. An allometric equation is a formula
+that helps quantitatively explain the relationship between various tree (or biomass) components and
+measurable tree attributes. Allometric models can be applied to all trees regardless of size, as long as
+they are growing under the same conditions [1]. These models consist of measureable independent
+variables, such as tree diameter or height, and have been used to obtain structural and functional
+characteristics for estimating biomass, net primary production, and biogeochemical budgets for forest
+ecosystems [2,3]. Traditionally, the determination of aboveground tree biomass and structural tree
+dimensions (for instance height of the live crown, height of the tree, weight, and volume of bole)
+was conducted to ensure sustainable planning of forest resources [4] and to determine amounts of
+carbon and carbon sequestration rates [5,6]. Currently, biomass models are ﬁnding a wide variety of
+other applications. They have been applied in predicting crown ﬁre behavior [7], estimating potential
+conditions for drought, insect and disease outbreaks [8], estimating tree volume in remote sensing [9],
+and determining productivity and actual amount of biomass recovered during forest harvesting
+operations [10,11].
+The US Forest Service has compiled a list of the most well-known published diameter-based
+biomass models for major tree species throughout the nation [5,6,12–14]. Yet, most of these generalized
+Forests 2016, 7, 96; doi:10.3390/f7050096
+www.mdpi.com/journal/forests
+
+Forests 2016, 7, 96
+2 of 13
+regional models are not suited for stand speciﬁc estimates, resulting in a need for localized allometric
+models. The need for localized models becomes even more crucial when the species of interest have
+high timber value or when accurate estimates are needed for various research activities.
+In northwestern California, redwood trees (Sequoia sempervirens (D. Don) Endl.) are a major
+commercial timber species. Redwood forests are found in 12 counties of California. However, more
+than 75% of the redwood forests are concentrated in three northern counties—Del Norte, Humboldt,
+and Mendocino [15]. From 1978 to 2011, on average, the price for redwood timber has increased
+by 2.4% annually. From 1984 to 2000, the price saw a rapid increase, at almost 10.2%. As a result,
+redwoods are today considered to be the most valuable tree species in California, and are extensively
+used for fencing, decking, and paneling [16]. Additionally, coast redwood trees are the tallest in the
+world, adding further signiﬁcance from an ecological standpoint. The redwood forests are considered
+to have the highest terrestrial biomass levels on earth (>3000 Mg¨ ha´1) [17–19]. However, there have
+hardly been any localized allometric models developed to predict the total aboveground biomass
+(TAGB) and other tree components for coast redwood. This might be due to the difﬁculties associated
+with destructive sampling. Today, the most widely used models for predicting biomass in redwoods
+are generic allometric models published on a national level scale developed for cedar and larch [5,6,12].
+Other allometric models developed for predicting stem volume for redwood trees had diameter
+at breast height (dbh) less than 10 cm (n = 9) [17–19]. However, due to its narrow dbh range, the
+applicability of this model is very limited. Other studies done on coast redwood includes, determining
+mensurational relationships for estimating the gross volume and taper for bolewood using dbh [20–24].
+The Forest Inventory and Analysis (FIA) also has models to estimate the tree gross volume for trees
+above 13 cm in diameter [22–25].
+This study developed a localized allometric model for estimating TAGB in oven-dry kilograms
+(ODKg) for coast redwood in northwestern California based on the tree dbh. Regression models
+were also developed for other tree components such as bole (stem), bark, branch, foliage, live and
+dead branches using dbh in ODKg (Table 1). Tree dimension components such as height of the tree,
+height to live crown, weight and volume of bole were also regressed to develop allometric models.
+The allometric model developed by this study was further compared to the existing national level
+models and the models used in the FIA model [5,6,12,21–25].
+Table 1. Description of tree components and dimensions used for the study to develop localized
+allometric models for coast redwood.
+Tree/Biomass
+Components
+Description
+dbh
+Diameter at breast height; measured in centimeters (cm).
+Height (H)
+Total height of the tree from the ground to tip of the crown; measured in meters (m).
+Stump
+Remaining portion (0.30 m above ground) of the stem after the tree is felled with roots still in
+the ground. For calculating TAGB, the biomass in stump was included in the bole.
+Bole (stem)
+Biomass in stump, bole and bark up to 2.54 cm top; measured in oven dry kilograms (ODkg).
+Live branch
+Biomass in living branches; measured in ODkg.
+Dead branch
+Biomass in dead branches; measured in ODkg.
+Foliage
+Biomass in entire foliage (both live and dead); measured in ODkg.
+Wood weight
+Biomass in bole (main stem) above the stump including bark; measured in ODkg.
+Bark
+Biomass in bark; measured in ODkg.
+Total aboveground
+biomass (TAGB)
+Biomass in all tree components including bole, branch (dead and live), and foliage;
+measured in ODkg.
+Height to live
+crown base
+Height from an imaginary horizontal line drawn across the stem from the bottom of the
+lowest live foliage of the live crown for trees and from the lowest live foliage of the lowest
+twig for saplings [25]; measured in m.
+Volume
+Volume of bole (including bark) above the stump up to the top 2.54 cm; measured in m3.
+
+Forests 2016, 7, 96
+3 of 13
+2. Materials and Methods
+2.1. Description of Coast Redwood
+The coast redwoods (family: Cupressaceae), named after the color of their bark and heartwood,
+are evergreen, long-living (in some cases more than 2200 years), monoecious trees endemic to the
+Paciﬁc temperate rainforest eco-region [26–28]. They naturally occur from southern Oregon to central
+California within a relatively narrow strip (50 km) along the Paciﬁc Ocean [29,30]. Hence, these trees
+are also referred to California redwood. The coast redwoods thrive in the moist, humid coastal climate,
+where marine fog provides favorable conditions necessary for their growth. Exceptionally massive
+stands of redwoods occur in the central redwood forest, which ranges from southern Humboldt County
+to San Francisco Bay [28]. Redwood self-prunes well in dense stands and the base of the bole in natural
+conditions is strongly buttressed. The ﬁbrous bark of the tree can reach up to 30 cm in thickness [31].
+Old growth trees can attain heights of 61 m with many reaching over 91 m. Such trees could reach dbh
+of up to 610 cm [30].
+2.2. Study Sites
+The candidate trees used for this study were selected from an industrial timberland property
+approximately 15 km from the Paciﬁc coast in Humboldt County, California (123˝56117” W and
+40˝57151” N) (Figure 1). The dominant species in the study area consisted of even-aged second growth
+redwood (Sequoia sempervirens), Douglas-ﬁr (Pseudotsuga menziessii (Mirb.) Franco), western hemlock
+(Tsuga heterophylla (Raf.) Sarg.), and tanoak (Notholithocarpus densiﬂorus (Hook. & Arn.) Rehd.), with
+stands averaging 60 years in age. The sites were located approximately 220 to 460 m above mean
+sea level with ground slopes ranging from ﬂat terrain to 111% (48˝). The climate for the region is
+characterized by summers averaging 29 ˝C, and winter being cool and wet averaging 8 ˝C. On average,
+the region receives 1200 mm of rain annually, mostly from December through April [32]. Furthermore,
+the study sites fall within the Paciﬁc temperate rainforests ecoregion, which are amongst the richest
+and most diverse temperate forests in the world [33]. The study region probably has a ﬁre return
+interval of less than 100 years [34]. However, after the ﬁre suppression policies instigated in 1900s, ﬁre
+occurrences have greatly reduced for at least the last 50 years [35,36]. According to forest management
+records, trees were planted via aerial seed spraying and the stands were not thinned.
+Figure 1. The locations of the study site used to develop the localized allometric models for coast
+redwood (Sequoia sempervirens) in Humboldt County, CA, USA. The stand was situated in an industrial
+timberland property.
+
+Forests 2016, 7, 96
+4 of 13
+2.3. Sampling Procedures and Data Collection
+A stand inventory was done at 10% sampling intensity using 11 m line transects for 0.04 ha
+ﬁxed-radius circular sampling plots and recorded species, height, and dbh for all standing trees over
+2.54 cm (Table 2). The sample plots were evenly spaced at 76 m on transects lines drawn at random
+azimuths. The average basal area and dbh for the redwood trees in the two stands were 3.14 m2¨ ha´1
+and 21.89 cm, respectively. The average tree density was around 296 trees per hectare with an average
+dbh of around 10 cm (both these values includes all species).
+Table 2. Summary of stand conditions (A and B) and inventory for the localized redwood allometric
+model study on a per hectare basis.
+Stands
+Tree Types
+A
+B
+Ground slope range (%)
+3–37
+0–50
+Average slope (%)
+22
+31
+Basal area (m2¨ ha´1)
+C
+9
+9
+H
+4
+2
+D
+0.4
+1
+SD
+0.5
+2
+Trees density
+(Number of trees ha´1)
+C
+75
+84
+H
+45
+42
+D
+17
+23
+SD
+126
+194
+Average dbh (cm)
+C
+35
+37
+H
+31
+25
+D
+14
+14
+SD
+9
+10
+C—Conifer species, H—Hardwood species, D—Dead trees, SD—Small-diameter trees (hardwood and conifer
+species below 15.24 cm dbh).
+Twenty-nine trees, spanning a range of dbh from 2.54 cm to 84.07 cm (Table 3), were selected
+for destructive sampling following the methods outlined by Monserud and Marshall [37]. The stand
+inventory showed that this diameter range encompassed 99% of the redwood trees in the study site.
+A minimum of two trees were selected from all dbh classes observed in the sample plot inventories.
+Candidate trees excluded those that were open grown, obviously deformed, defected, and diseased.
+Trees were selected across two stands so that concentrations of either species or size classes in one
+stand were avoided. Moreover, trees that were adjacent to recent clear-cuts were given priority in the
+candidate tree selection process because the various tree components were more effectively recoverable
+(Table 1). Other non-candidate trees were cleared from the area to assist the feller with landing the
+candidate trees while reducing breakage. Trees selected for sampling were felled at the soil surface
+by a professional faller into nearby roadways or clearings to reduce stem breakage and loss of crown
+components in an attempt to facilitate sampling techniques. Sampling was initiated by compartilizing
+the tree into bole, branches (live and dead), and foliage.
+
+Forests 2016, 7, 96
+5 of 13
+Table 3. Distribution of candidate trees by diameter and height class, which were used to predict the
+biomass and other tree components for coast redwood (Sequoia sempervirens) on industrial timberlands.
+Diameter at Breast Height (cm)
+1–10
+11–20
+21–30
+31–40
+41–50
+51–60
+61–70
+71–80
+81–90
+Total
+Height
+(m)
+1–5
+3
+3
+5–10
+1
+1
+11–15
+1
+2
+3
+16–20
+2
+2
+1
+1
+6
+21–25
+1
+1
+2
+26–30
+1
+1
+31–35
+2
+3
+2
+1
+8
+36–40
+1
+1
+2
+1
+5
+Total
+5
+4
+3
+4
+5
+2
+2
+2
+2
+29
+2.4. Bole Measurements
+The bole was divided into 1.52 m sections from the bottom to the top of the live crown. For each
+section, the large- and small-end diameters were measured (to the nearest centimeter) until the top
+2.54 cm. The outer bark diameter was measured at the stump top (0.31 m above the ground) and
+ground level, to account for stump volume (Table 1). A millimeter caliper was used to measure bark
+thickness, at the same location where the outside bark diameter was measured. Finally, length to the
+tip of the crown and diameter at the tip were recorded. To obtain bole wood densities, three sample
+disks (approximately 2.54 cm thick) were cut from the lower, middle, and upper portions of the bole.
+The bark was removed from the wood, and both components were sent to the lab for further analysis.
+2.5. Branch Measurements
+The crown was divided into three equal sections from the base to the tip of the tree. Within each
+section, the largest and two randomly selected sample branches were removed with a chainsaw [38].
+To facilitate measurements, all branches were cut into portions of approximately 1–2 m in length and
+then weighed in the ﬁeld for calculating the fresh weight. The branches were further classiﬁed as
+dead and live. The dead branches were below the live crown and were leaﬂess, and brittle. The live
+branches constituted from the ﬁrst live branch up till the tip of the crown.
+“Branch-summation” was the approach taken to estimate the branch-level measurement. Samples
+of live and dead branch on the stem were measured for basal diameter to the nearest 0.25 cm using
+calipers. In addition, length, and distance from the tip of the tree top to the branch node were also
+measured. The fresh weights of all sample branches less than 15 cm were measured in the ﬁeld. Bigger
+samples of branches removed were labeled and kept, while the rest were discarded. During sampling,
+each branch location was marked on the stem to avoid double counting. The tree was then rolled over
+to measure branches on the other side. If a branch was missing due to breakage, the branch basal
+diameter was measured at the stem and branch weight was later estimated using regression models
+developed for the measured branches.
+2.6. Laboratory Measurements
+The volume and density of wood (debarked discs/cookies) were calculated using the water
+displacement method. The volume of wood was determined from the volume of water displaced
+when submerged. The wood density was estimated as the oven dry weight divided by the volume.
+Drying was done at a temperature of 105 ˘ 2 ˝C and the dry weight of the samples were achieved
+when the change of weight was less than 0.2% within a 60 m period [39]. Additionally, the wood
+density and bark to wood weight ratio was calculated for each tree by averaging the speciﬁc gravities
+obtained from respective cookies of the tree bole. Needles, branches, wood discs, and bark were
+weighed separately to calculate the speciﬁc dry to fresh weight ratios.
+
+Forests 2016, 7, 96
+6 of 13
+The branch weights were regressed against their respective basal diameter, length, and distance
+from the tree top, for estimating the weight of each unsampled component for every branch. These
+regression models were developed combining measurements from all trees and was transformed
+using natural logarithm. The oven dry weights for unsampled tree components were calculated by
+multiplying fresh weight with dry/wet ratio of each sample component [4]. The total oven dry biomass
+of each stem was then calculated by summing the dry biomass over all stem sections. The biomass in
+each section (i.e., bole, foliage, bark, live, and dead branches) were summed to obtain the TAGB for
+each tree. The bole wood volume was estimated using Smalian’s formula, which was later converted
+to weight by applying the speciﬁc gravity of stem wood cookies (dry weight/wet volume) derived
+from water displacement.
+2.7. Statistical Analysis
+The tree components estimated in this study were bole (stem), bark, foliage (needle), live and
+dead branches from which the TAGB was estimated. Allometric models were also developed for
+tree dimensions, such as height to live crown, total height of the tree (H), weight, and volume of
+bole (Table 1). Before establishing the allometric model, scatter plots were used to check whether
+the relationships between transformed independent and dependent variables were linear. Several
+transformation models were developed and compared; however, logarithmic transformed models with
+base 10 were selected [40]. Therefore, all allometric models reported for this study used logarithmic
+transformation with base 10 of various tree components, dimensions and dbh as independent variables
+for the regression. The logarithmic transformation equalized the variance over the entire range of
+biomass components and satisﬁed the assumptions of linear regression [4,41,42]. Multi-collinearity
+was tested using a tolerance value greater than 0.1 and variance inﬂation factor less than 10. Eleven
+models similar to the published biomass equations were developed for predicting respective biomass
+and tree dimensions in SAS statistical program version 9.3 [43]. Models were transformed back to
+the original units and corrected for bias using a correction factor (CF) for each model [44]. The R2
+reported for the regression model was calculated before it was back-transformed. The general form of
+allometric models reported was:
+log10 pBq “ a ` b log10 pdbhq ` CF
+where: B—Total biomass of the tree component (ODKg) or tree dimensions; dbh—Diameter at
+breast height (cm); log to base 10 a; b—Regression coefﬁcients; Correction factor—CF “
+SE2
+2 ;
+SE—standard error.
+3. Results and Discussion
+Eleven allometric coefﬁcients were developed for coast redwood to predict biomass in
+various tree components and other structural tree dimensions by sampling trees from an industrial
+timberland (Table 4).
+The TAGB estimated for this study, averaged at 910.56 ODKg and ranged from 1.20 to 3018.40
+ODKg (n = 29). The average height of the candidate trees was 26.09 m, ranging from 9.45 to 34.05 m
+(n = 26, the three saplings were not included). The logarithmic transformed model (based on dbh)
+provided a highly signiﬁcant (p < 0.001) ﬁt for the all tree components (Figure 2) and met all of the
+assumptions for regression. Additionally, the residual plots and quantile-quantile (Q-Q) plots were
+also inspected to conﬁrm the validity of the model. All components were estimated in ODKg based on
+log to the base of 10 and produced R2 values ranging from 55% to 99% for the log transformed models
+(Table 4). Biomass for dead branches (R2 = 0.58) and the height to live crown using dbh (R2 = 0.55)
+explained the least amount of variability among the various tree components and dimensions reported.
+When dbh was modeled for predicting the speciﬁc gravity and bark to stem wood ratio, very low
+R2 values (ď0.04) were generated and did not meet several assumptions of normality for regression.
+
+Forests 2016, 7, 96
+7 of 13
+The speciﬁc gravity of the wood estimated for the study ranged between 0.37 and 0.48, which fell in the
+range for the Cupressaceae family (i.e., median speciﬁc gravity 0.43) estimated by Chojnacky et al. [6].
+Interestingly, during the development of this database no redwood trees were included [6]. While
+the oven-dry weight for wood (comprising merchantable sawlog) and volume of bole were estimated
+from a timber production point of view, TAGB and other tree component models were generated
+considering the ecological signiﬁcance of the species in the region.
+The destructive sampling techniques used to create allometric model for this study did not
+completely sample the crown. Instead, the total biomass of the crown was estimated by regressing
+branch weight based on basal diameter and other parameters, rather than crown mass ratio [4,37].
+Models for estimating TAGB and foliage were developed using 29 trees, while all other tree
+components were estimated using 26 trees because the additional three trees were 1–3 years old
+saplings (dbh below 6.35 cm) (Table 3). Regressions done on the live, and dead branch components
+using 29 trees lowered the R2 from 0.88 to 0.79 and 0.57 to 0.13 respectively. The high reduction
+in R2 for the dead branches were due to low sampling population for the saplings. Consequently,
+for these biomass components, models having 29 observations were also not included in the ﬁnal
+results. Allometric models developed for other species, like Cordia alliodora, have also shown similar
+trends, with trees (saplings) with diameter lesser than 5 cm not generating reasonable prediction
+(R2 = 0.02) [45]. This possibly suggests that dbh might not perhaps be a good indicator of biomass
+components and tree dimensions for small diameter trees. Enquist [46] explains that ﬁtting data
+for shrubs and saplings (with relatively few branches) can result in different exponents from trees.
+Additionally, the very concept behind scaling theories is based on sample populations being consistent
+across size classes; ﬁtting models to sub-sets of data is contrary to that principle [44,47,48]. Hence, the
+dbh range for TAGB and foliage was 2.54–84.07 cm and for all other tree components and dimensions
+were 8.25–84.07 cm.
+Table 4.
+Localized allometric regression models developed to predict biomass and other tree
+components for coast redwood (Sequoia sempervirens) from industrial timberlands. All components
+were expressed in oven dry kilograms (ODKg); except for total height (H) and height to live crown
+(m) and volume of bole (m3). The number of observations for all components was 26, except for total
+aboveground biomass (TAGB) and foliage (n = 29). All models and their parameters were signiﬁcant
+at p < 0.001.
+Intercept
+dbh a
+H b
+R2
+Adjusted R2
+RMSE c
+CF d
+TAGB
+´0.8252
+2.2607
+0.9878
+0.9874
+0.1036
+0.0054
+Biomass Components
+Bole (stem) e
+´0.9180
+2.2931
+0.9740
+0.9729
+0.1118
+0.0062
+Live branch
+´1.8562
+2.0382
+0.8804
+0.8754
+0.2242
+0.0251
+Dead branch
+´3.5952
+2.3257
+0.5766
+0.5589
+0.5948
+0.1769
+Foliage
+´1.3094
+1.5819
+0.9386
+0.9364
+0.1669
+0.0139
+Bark
+´1.9063
+2.4469
+0.9787
+0.9779
+0.1076
+0.0058
+Tree dimensions
+Wood f
+´0.9553
+2.2613
+0.9710
+0.9698
+0.1167
+0.0068
+Height
+0.4943
+0.5808
+0.8511
+0.8449
+0.0725
+0.0026
+Volume of bole g
+´3.5879
+2.2859
+0.9690
+0.9677
+0.1220
+0.0074
+Height to live crown
+´0.1241
+0.8791
+0.6715
+0.6572
+0.1176
+0.0069
+Height to live crown
+0.3275
+0.5034
+0.5529
+0.5335
+0.1372
+0.0094
+a dbh—diameter at breast height in centimeters; b H—total tree height in meters; c RMSE—root mean square
+error; d correction factor, CF “ SE2
+2 , where SE is the standard error; e Biomass in stump, bole and bark up to the
+top 2.54 cm diameter; f Biomass in bole (main stem) including bark above the stump; g volume of bole including
+bark above the stump.
+
+Forests 2016, 7, 96
+8 of 13
+Figure 2. The logarithmic regression transformation for selected tree components for coast redwood
+(Sequoia sempervirens), including (1) total aboveground biomass; (2) bole; (3) live branch; (4) foliage;
+(5) bark and tree dimensions; (6) weight of wood; (7) height to live crown; (8) height of tree; and
+(9) volume of bole. All models were signiﬁcant (p < 0.001).
+3.1. Model Selection
+Attempts were made to develop models for estimating TAGB and volume of bole wood based on
+both dbh and H. However, both these models only had a slight increase in R2, (around 2% increase
+compared to R2 for the model only with dbh) and it had higher Akaike Information Criterion (AIC)
+(~134) than the dbh based model (AIC~108), suggesting that the model with both dbh and H was a bad
+ﬁt. Or in other words, H did not contribute more to the reduction in mean square error than the loss of
+a degree of freedom cost. Additionally, dbh and H of trees are usually highly correlated for trees from
+the same site [49]. Coon’s [50] efforts on validating existing biomass models for Douglas-ﬁr uncovered
+a strong bias for managed stands where the relationship between H and dbh had been manipulated
+through thinning and fertilization. For estimating the height to live crown, the allometric equation
+using H as the independent variable was able to explain more variance (R2 = 0.88) as compared to dbh
+(R2 = 0.50). However, the dbh model was also reported, as dbh is a convenient independent variable
+that can be easily measured in the ﬁeld.
+3.2. Comparing with Previous Studies
+The results of this study were not compared with the models developed by Fujimori [17] due
+to its limited dbh range (less than 10 cm) and the study being carried out in a different ecological
+
+Forests 2016, 7, 96
+9 of 13
+conditions (i.e., old growth stand). However, the model developed in this study was compared with
+the widely used model to predict TAGB for coast redwood trees (Equation (1)) [12] and recently
+developed (Equation (2)) [6]. The models developed by Jenkins et al. [12] for Equation (1) were initially
+modeled for a species group called “Cedar–Larch” and consisted of meta-data from ﬁve genera of
+trees. The recently developed model had three subsets of equations for the Cupressaceae family based
+on the median speciﬁc gravity (i.e., 0.29, 0.34 and 0.43) [6]. For this comparison, Equation (2) which
+has median speciﬁc gravity of 0.43, was chosen because the speciﬁc gravity for wood in this study
+averaged 0.40.
+ln pTAGBq “ ´2.0336 ` 2.2592 ln pdbhq
+(1)
+ln pTAGBq “ ´2.6327 ` 2.4757 ln pdbhq
+(2)
+where ln—natural log to base “e” (2.7182); TAGB—total aboveground biomass in ODKg; dbh—diameter
+at breast height (cm).
+Results showed the national generalized models had different effects when compared to the
+localized equation developed for the study. While Equation (1) tended to underrepresent TAGB
+by approximately 14%, Equation (2) over-represented (Figure 3). The deﬂection from the values
+predicted by the localized equation increased with increments in dbh. However, the values of “b”
+coefﬁcient from both generic models were found to be very similar to the value developed in this
+study (2.2592 and 2.4757 vs. 2.2607). The minimal change could be attributed to the 'local' inﬂuence in
+this study compared to the more extensive area and wider range of species used for the nationalized
+model. Previous research has also recorded this inconsistency for other species while estimating TAGB
+using generalized models for local regions [51,52]. Additionally, comparisons were done with the
+models used by the FIA to predict biomass present in the bolewood [22–24]. The results showed that
+FIA models under represented biomass in bole by around 24%.
+Figure 3. Graph of localized allometric models compared with Jenkins et al. [12] and Chojnacky et al. [6]
+for predicting total aboveground biomass of coast redwood in Oven Dry Kilogram (ODKg) against
+dbh (diameter at breast height).
+Berrill et al. [53] reported that in redwood trees several factors, such as H, crown ratio, and H:
+dbh ratio were often affected to different degreees by stand density which must therefore impact the
+TAGB and other biomass components. Thus, the model provided in this study may be more suitable
+for research and management decisions for the second growth even-aged timberstands.
+The study site represented a typical industrial timberland in the region based on species
+composition, terrain features and basal area factors. Models for estimating biomass for other species
+have also been done on small sampling area, and population size, especially for artiﬁcially planted
+industrial timberland in temperate regions where species variability is lesser when compared to natural
+tropical forest having higher variability among and within species. The case is also similar for single
+
+Forests 2016, 7, 96
+10 of 13
+species than for a group of species [1]. Sampling area in natural habitats has also been as low as with
+19 tree [4,54,55]. Cole and Ewel [45] developed allometric models for four species, Cedrela odorata,
+Cordia alliodora, Hyeronima alchorneoides, and Euterpe oleracea, from data drawn from an 8 ha study site.
+One of the probable reasons for this limitation could be the high cost of sampling larger populations.
+Additionally, the previous two studies done to estimate above ground biomass for coast redwood were
+conducted on a single plot with an area of 1.44 ha [17,18].
+3.3. Scope and Limitations of Application
+Since the study focused on developing a localized model, application outside the particular
+ecosystem should be done with caution [51]. The stands in this study can be characterized as even-aged,
+with multiple species and having a maritime inﬂuence. Furthermore, the samples collected in the
+study did not include trees in clumps. Therefore, this model would not be suitable for such conditions.
+Additionally, due to the huge size that certain redwood trees can reach, the use of these models should
+be restricted to the given dbh range. Application outside the range may produce biased estimates.
+The possible model veriﬁcation options were limited for this study due to the small sample
+size [48]. However, an in-model veriﬁcation was done to check the behavior of the models by randomly
+sub-classifying the observations (K-fold cross validation) and results showed a signiﬁcant difference (p
+> 0.05). Future studies for estimating total above ground biomass in coastal redwood may incorporate
+collecting more samples from a broader range of regions. It would also be advisable to include trees in
+different stand density and height classes [50,53]. Finally, the difference in total above ground biomass
+between trees regenerated from sprouts and seeds would be interesting.
+4. Conclusions
+Redwood is a major merchantable timber species in northwestern California. They also have a
+critical role in the ecosystem. Six models were developed in this study to predict biomass components,
+including TAGB, bole, bark, foliage, live and dead branches. Additionally, ﬁve allometric models were
+developed for structural tree dimensions including height to live crown, height of the tree, weight and
+volume of bole. The following highlights the main results from this study:
+1.
+Compared to the results of this study, previous generic allometric models published [5,6,12,21–25]
+estimated different values for TAGB.
+2.
+Biomass components and tree dimensions, in general, were closely related to the dbh and were
+able to account for around 90% of the variance.
+3.
+The study site can be characterized as a second-growth even-aged stand and the dbh range for
+candidate trees used to estimate TAGB and foliage was 2.54–84.07 cm, while for all other tree
+components and dimensions the range was 8.25–84.07 cm.
+Acknowledgments: This project was supported by the Agriculture and Food Research Initiative, Biomass Research
+and Development Initiative, Competitive Grant No. 2011-10006-30357 from the USDA National Institute of
+Food and Agriculture, USA. We would also like to express our gratitude to San-Kyun Han, Timothy Montgomery,
+and Joel Bisson, Humboldt State University, Arcata, CA, USA for assisting in data collection, R. Coltrin, for the
+roles he took during the initial part of the study, and to Martin Ritchie, Aaron Weiskittel, Jereme Frank, and
+John-Pascal Berrill, for their valuable suggestions during the manuscript preparation. Our appreciation goes to
+Michael Alcorn and Daniel Opalach (Green Diamond Resource Co.) for their cooperation on the operational
+aspect of the study.
+Author Contributions: Han-Sup Han conceived, designed and performed the experiments; Anil Raj Kizha
+analyzed the data and wrote the article.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+
+Forests 2016, 7, 96
+11 of 13
+Abbreviations
+The following abbreviations are used in this manuscript:
+dbh
+diameter at breast height
+H
+Height
+Ln
+natural logarithm
+log10
+Log to the base of 10
+ODKg
+Oven dry kilogram
+TAGB
+Total Aboveground Biomass
+References
+1.
+Picard, N.; Saint-André, L.; Henry, M. Manual for building tree volume and biomass allometric equations
+from ﬁeld measurement to prediction. In Food and Agriculture Organization of the United Nations and Centrede
+Coopération; Internationale en Recherche Agronomique pour le Développement (CIRAD): Rome, Italy, 2012;
+p. 215.
+2.
+Niklas, K.J. Plant Allometry: The Scaling of Form and Process; University of Chicago Press: Chicago, IL, USA, 1994.
+3.
+Wang, C. Biomass allometric equations for 10 co-occurring tree species in Chinese temperate forests.
+For. Ecol. Manag. 2006, 222, 19–16. [CrossRef]
+4.
+Basuki, T.M.; van Laake, P.E.; Skidmore, A.K.; Hussin, Y.A. Allometric equations for estimating the
+above-ground biomass in tropical lowland Dipterocarp forests. For. Ecol. Manag. 2009, 257, 1684–1694.
+[CrossRef]
+5.
+Jenkins, J.C.; Chojnacky, D.C.; Heath, L.S.; Birdsey, R.A. National-scale biomass estimators for United States
+tree species. For. Sci. 2003, 49, 12–35.
+6.
+Chojnacky, D.C.; Jenkins, J.C.; Heath, L.S. Updated generalized biomass equations for North American tree
+species. Forestry 2014, 87, 129–151. [CrossRef]
+7.
+Koukoulomatis, K.; Mitsopoulos, J.D. Crown fuel weight estimation of Black pine (Pinus nigra) plantations
+in southern Bulgaria. Silva Balc. 2007, 8, 57–65.
+8.
+Cobb, R.C.; Chan, M.N.; Meentemeyer, R.K.; Rizzo, D.M. Common factors drive disease and coarse woody
+debris dynamics in forests impacted by Sudden Oak death. Ecosystems 2012, 15, 242–255. [CrossRef]
+9.
+Huang, S.; Crabtree, R.L.; Potter, C.; Gross, P. Estimating the quantity and quality of coarse woody debris in
+Yellowstone post-ﬁre forest ecosystem from fusion of SAR and optical data. Remote Sens. Environ. 2009, 113,
+1926–1938. [CrossRef]
+10.
+Vitorelo, B.D.; Han, H.-S.; Elliot, W. Cost and productivity of two mechanical ﬁre hazard reduction methods:
+Mastication and thinning. For. Prod. J. 2011, 61, 664–674.
+11.
+Kizha, A.R.; Han, H.-S. Forest residues recovered from whole-tree timber harvesting operations. Eur. J.
+For. Eng. 2015, 1, 46–55.
+12.
+Jenkins, J.C.; Chojnacky, D.C.; Heath, L.S.; Birdsey, R.A. Comprehensive Database of Diameter-Based Biomass
+Regressions for North American Tree Species; USDA Forest Service General Technical Report NE-319;
+Northern Research Station: Burlington, VT, USA, 2004; p. 48.
+13.
+Woodall, C.W.; Heath, L.S.; Domke, G.M.; Nichols, M.C. Methods and Equations for Estimating Aboveground
+Volume, Biomass, and Carbon for Trees in the U.S. Forest Inventory 2010; USDA Forest Service General Technical
+Report NRS-88; Northern Research Station: Newtown Square, PA, USA, 2011; p. 34.
+14.
+Woudenberg, S.W.; Conkling, B.L.; O’Connell, B.M.; LaPoint, E.B.; Turner, J.A.; Waddell, K.L. The Forest
+Inventory and Analysis Database: Database Description and Users Manual Version 4.0 for Phase 2; USDA Forest
+Service General Technical Report RMRS-GTR-245; Rocky Mountain Research Station: Fort Collins, CO, USA,
+2010; p. 344.
+15.
+Stewart, W. The New Economies of the Redwood Region in the 21st Century; USDA Forest Service General
+Technical Report PSW-GTR-194; Paciﬁc Southwest Research Station: Albany, CA, USA, 2007; pp. 393–401.
+16.
+Standiford, R.B. Trends in harvest levels and stumpage prices in coastal California. In Forest Research and
+Outreach; Cooperative Extension Forestry; University of California: Berkeley, CA, USA, 2012.
+17.
+Fujimori, T. Ecological and Silvicultural Strategies for Sustainable Forest Management; Elsevier Science:
+Amsterdam, Netherland, 2001.
+
+Forests 2016, 7, 96
+12 of 13
+18.
+Busing, R.T.;
+Fujimori, T. Biomass, production and woody detritus in an old coast redwood
+(Sequoia sempervirens) forest. Plant Ecol. 2005, 177, 177–188. [CrossRef]
+19.
+Fujimori, T. Stem biomass and structure of a mature Sequoia sempervirens stand on the Paciﬁc Coast of
+northern California. J. Jpn. For. Soc. 1977, 59, 435–441.
+20.
+Lindquist, J.L.; Palley, M.N. Empiricial Yield Tables for Young-Growth Redwood; California Agricultural
+Experiment Station; University of California: Berkeley, CA, USA, 1963.
+21.
+Wensel, L.C.; Krumland, B. Volume and Taper Relationships for Redwood, Douglas Fir Other Conifers in California’s
+North Coast; Division of Agricultural Sciences; University of California: Berkeley, CA, USA, 1983.
+22.
+Wensel, L.C.; Olson, C.M. Tree taper models for major commercial California conifers. Hilgardia 1995, 62,
+1–18.
+23.
+Wensel, L.C.; Krumland, B.E.; Meerschaert, W.J. CRYPTOS User's Guide: Cooperative Redwood Yield
+Project Timber Output Simulator; Bulletin 1924, Agricultural Experiment Station; University of California:
+Berkeley, CA, USA, 1987; p. 89.
+24.
+Krumland, B.E.; Wensel, L.C. Preliminary Young Growth Volume Tables for Coastal California Counties; Res. Note
+No. 1; Cooperative Redwood Yield Research Project; University of California: Berkeley, CA, USA, 1975;
+p. 18.
+25.
+Forest Inventory and Analysis (FIA). National Core Field Guide: Field Data Collection Procedures for
+Phase 2 Plots Version 6.0. Available online: http://www.nrs.fs.fed.us/ﬁa/data-collection/ﬁeld-guides/p2/
+NRS_FG_6.0-Apri_2014-Complete_Document_NRSP2plus.pdf (accessed on 22 April 2016).
+26.
+California Department of Park and Recreation (CaDPR). About Coast Redwoods.
+Available online:
+http://www.parks.ca.gov/?page_id=24200 (accessed on 23 October 2014).
+27.
+Grifﬁth, R.S. Sequoia sempervirens. In Fire Effects Information System; USDA Forest Service; Available online:
+http://www.fs.fed.us/database/feis/ (accessed on 1 September 1992).
+28.
+Busing, R.T.; Fujimori, T. NPP Temperate Forest: Humboldt Redwoods State Park, California, U.S.A.,
+1972–2001. Available online: http://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=803 (accessed on 22 April 2016).
+29.
+Munz, P.A. A Flora of Southern California; University of California Press: Berkeley, CA, USA, 1974.
+30.
+Olson, D.F.; Roy, D.F.; Walters, G.A. Sequoia Sempiervirens (D. Don) Endl. In Silvics of North America. Conifers;
+Burns, R.M., Honkala, B.H., Eds.; USDA Forest Service: Washington, DC, USA, 1990; pp. 541–552.
+31.
+Preston, R.J. North American Trees; the Iowa State College Press: Ames, IA, USA, 1948.
+32.
+Western Regional Climate Center (WRCC). Willow Creek 1 NW, California-Climate Summary. Available
+online: http://www.wrcc.dri.edu/cgi-bin/cliMAIN.pl?cawilc+nca (accessed on 29 May 2015).
+33.
+WWF Global. Paciﬁc Temperate Rainforests. Available online: http://wwf.panda.org/about_our_earth/
+ecoregions/paciﬁc_temperate_rainforests.cfm (accessed on 20 October 2014).
+34.
+Stuart, J.D. Fire history of an old-growth forest of Sequoia sempervirens (Taxodiaceae) forest in Humboldt
+Redwoods State Park, California. Madrono 1987, 4, 128–141.
+35.
+Stone, E.C.; Vasey, R.B. Preservation of coast redwoods on alluvial ﬂats. Science 1968, 15, 157–161. [CrossRef]
+[PubMed]
+36.
+Veirs, S.D. Coast redwood forest: Stand dynamics, successional status, and the role of ﬁre. In Forest Succession
+and Stand Development Research in the Paciﬁc Northwest; Means, J.E., Ed.; Oregon State University Forest
+Research Lab: Corvallis, OR, USA, 1982; pp. 119–141.
+37.
+Monserud, R.A.; Marshall, J.D. Allometric crown relations in three northern Idaho conifer species. Can. J.
+For. Res. 1999, 29, 521–535. [CrossRef]
+38.
+Snell, J.A.K.; Little, S.N. Predicting Crown Weight and Bole Volume of Five Western Hardwoods; USDA Forest
+Service General Technical Report PNW-151; Paciﬁc Northwest forest and range experiment station: Portland,
+OR, USA, 1983; p. 37.
+39.
+European Committee for Standardization.
+Solid Biofuels-Determination of Moisture Content-Oven Dry
+Method-Part 1: Total Moisture-Reference Method; FprEN 14774-1; Management Centre: Brussels, Belgium,
+2009; p. 8.
+40.
+Parresol, B.R. Assessing tree and stand biomass: A review with examples and critical comparisons. For. Sci.
+1999, 45, 573–593.
+41.
+Sokal, R.R.; Rohlf, F.J. Biometry: The Principles and Practice of Statistics in Biological Research; W.H. Freeman and Co.:
+New York, NY, USA, 1995.
+
+Forests 2016, 7, 96
+13 of 13
+42.
+Spruge, D.G. Correcting for bais in Log transformed allometric equations. Ecology 1983, 64, 209–210.
+[CrossRef]
+43.
+SAS Institute Inc. SAS 9.1.3 Help and Documentation; SAS Institute Inc.: Cary, NC, USA, 2004.
+44.
+Baskerville, G.L. Use of Logarithmic regression in the estimation of plant biomass. Can. J. For. Res. 1972, 2,
+49–53. [CrossRef]
+45.
+Cole, T.G.; Ewel, J.J. Allometric equations for four valuable tropical tree species. For. Ecol. Manag. 2006, 229,
+351–360. [CrossRef]
+46.
+Enquist, B.J. Universal scaling in tree and vascular plant allometry: Toward a general quantitative theory
+linking plant form and function from cells to ecosystems. Tree Physiol. 2002, 22, 1045–1064. [CrossRef]
+[PubMed]
+47.
+Gould, S.J. Allometry and size in ontogeny and phylogeny. Biol. Rev. 1966, 41, 587–640. [CrossRef] [PubMed]
+48.
+Sileshi, G.W. A critical review of forest biomass estimation models, common mistakes and corrective
+measures. For. Ecol. Manag. 2014, 329, 237–254. [CrossRef]
+49.
+Fehrmann, L.; Kleinn, C. General considerations about the use of allometric equations for biomass estimation
+on the example of Norway spruce in central Europe. For. Ecol. Manag. 2006, 236, 412–421. [CrossRef]
+50.
+Coons, K.L. Douglas–ﬁr (Psuedotsuga menziesii) Biomass and Nutrient Removal under Varying Harvest Scenarios
+Involving Co-Production of Timber and Feedstock for Liquid Biofuels; Master of Science; Oregon State University:
+Corvallis, OR, USA; 19; December; 2014.
+51.
+Fried, J.S.; Zhou, X. Forest Inventory-Based Estimation of Carbon Stocks and Flux in California Forests in 1990;
+USDA Forest Service General Technical Report PNW-GTR-750; Paciﬁc northwest forest and range experiment
+station: Portland, OR, USA, 2008; p. 32.
+52.
+Case, B.S.; Hall, R.J. Assessing prediction errors of generalized tree biomass and volume equation for the
+boreal forest region of west-central Canada. Can. J. For. Res. 2008, 38, 878–889. [CrossRef]
+53.
+Berrill, J.-P.; Jeffress, J.L.; Engle, J.M. Coast redwood live crown and sapwood dynamics. In Proceedings
+of Coast Redwood Forests in a Changing California: A Symposium for Scientists and Managers; Standiford, R.B.,
+Weller, T.J., Piirto, D.D., Stuart, J.D., Eds.; USDA Forest Service General Technical Report PSW-GTR-238;
+Paciﬁc Southwest Research Station: Albany, CA, USA, 2012; pp. 473–484.
+54.
+Segura, M.; Kanninen, M. Allometric models for tree volume and total aboveground biomass in a tropical
+humid forest in Costa Rica. Biotropica 2005, 37, 2–8. [CrossRef]
+55.
+Litton, C.M.; Kauffman, J.B. Allometric models for predicting aboveground biomass in two widespread
+woody plants in Hawaii. Biotropica 2008, 4, 313–320. [CrossRef]
+© 2016 by the authors; licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC-BY) license (http://creativecommons.org/licenses/by/4.0/).
