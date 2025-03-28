@@ -24,13 +24,14 @@ openai-whisper>=20231117      # Audio transcription (CPU version)
 spacy>=3.8.4                  # NLP for named entity recognition
 spacy-legacy>=3.0.12          # Legacy support for spaCy models
 spacy-loggers>=1.0.5          # Logging for spaCy
+en_core_web_lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.8.0/en_core_web_lg-3.8.0-py3-none-any.whl#sha256=293e9547a655b25499198ab15a525b05b9407a75f10255e405e8c3854329ab63 # spacy model
 # Install language models separately: python -m spacy download en_core_web_md
 fuzzywuzzy>=0.18.0            # Fuzzy string matching
 python-Levenshtein>=0.22.0    # Optional speedup for fuzzywuzzy
 
 # Occasionally, fasttext installation can be challenging
 # When using another option, comment out line below
-fasttext>=0.1                 # Word embeddings - may require special handling
+#fasttext>=0.1                 # Word embeddings - may require special handling
 # Option 1: Install pre-built wheel:
 # pip install "build-resources\fasttext-0.9.2-cp311-cp311-win_amd64.whl"
 # Option 2: Use fasttext-wheel: pip install fasttext-wheel
