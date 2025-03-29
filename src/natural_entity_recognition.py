@@ -1,5 +1,6 @@
 import os
 
+import pandas as pd
 import en_core_web_lg
 from tqdm import tqdm  # Progress bar
 
@@ -69,7 +70,7 @@ def ner_all_txts(force_extract=False):
 
     for filename in tqdm(txt_files, desc="Parsing TXTs", unit="file"):
         txt_path = os.path.join(DATA_DIR, filename)
-        output_filename = os.path.splitext(filename)[0] + ".txt"
+        output_filename = os.path.splitext(filename)[0] + ".csv"
         output_path = os.path.join(OUTPUT_DIR, output_filename)
 
         # Skip if text file already exists (unless force_extract is set)
@@ -86,9 +87,15 @@ def ner_all_txts(force_extract=False):
         # Save text to output file
         with open(output_path, "w", encoding="utf-8") as f:
             doc = nlp(text)
+            entities = {"Entity":[], "Start":[], "End":[], "Label":[]}
             for ent in doc.ents:
                 if ent.label_ in ["GPE", "LOC"]:
-                    f.write(f"Text: {ent.text}, Start: {ent.start_char}, End: {ent.end_char}, Label: {ent.label_}\n")
+                    entities["Entity"] += [ent.text]
+                    entities["Start"] += [ent.start_char]
+                    entities["End"] += [ent.end_char]
+                    entities["Label"] += [ent.label_]
+            df = pd.DataFrame(entities).fillna("")
+            df.to_csv(output_path, index=False)
 
     print("\n✅ Natural Entity Recognition complete! All available TXTs have been processed.")
     print(f"Number of Skipped Files (no text or too long): {skipped}")
