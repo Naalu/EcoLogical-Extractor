@@ -1,7 +1,15 @@
 import os
 
-import whisper
-from tqdm import tqdm  # Progress bar
+# Add SSL workaround for macOS certificate issues
+import ssl
+
+import openai_whisper as whisper  # type: ignore
+from tqdm import tqdm  # progress bar for file processing
+
+# WARNING: This workaround is not recommended for production use.
+# It disables SSL certificate verification, which can expose you to security risks.
+# This is a temporary fix for macOS users who encounter SSL certificate issues.
+ssl._create_default_https_context = ssl._create_unverified_context
 
 # Define paths relative to the project root
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -10,6 +18,7 @@ OUTPUT_DIR = os.path.join(BASE_DIR, "data", "text_output")
 
 # Ensure output directory exists
 os.makedirs(OUTPUT_DIR, exist_ok=True)
+
 
 def extract_text_from_mp3(mp3_path, model):
     """
@@ -28,7 +37,8 @@ def extract_text_from_mp3(mp3_path, model):
     except Exception as e:
         print(f"❌ Skipping {os.path.basename(mp3_path)} (error: {str(e)})")
         return None
-    
+
+
 def process_all_mp3s(force_extract=False):
     """
     Extract text from all MP3s in the extracted folder and save them as text files.
@@ -60,7 +70,7 @@ def process_all_mp3s(force_extract=False):
     print(f"📂 Processing {num_files} MP3s...\n")
 
     # Load Whisper model
-    model = whisper.load_model("turbo")
+    model = whisper.load_model("turbo", fp16=False)  # FFP16 is not supported on CPU
 
     for filename in tqdm(mp3_files, desc="Extracting MP3s", unit="file"):
         mp3_path = os.path.join(DATA_DIR, filename)
@@ -82,6 +92,7 @@ def process_all_mp3s(force_extract=False):
             f.write(text)
 
     print("\n✅ Extraction complete! All available MP3s have been processed.")
+
 
 if __name__ == "__main__":
     import argparse

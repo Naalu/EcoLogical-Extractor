@@ -1,8 +1,8 @@
 import os
 
 import pandas as pd
-import en_core_web_lg
-from tqdm import tqdm  # Progress bar
+import spacy  # Load the spaCy library
+from tqdm import tqdm  # type: ignore
 
 # Define paths relative to the project root
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -48,7 +48,9 @@ def ner_all_txts(force_extract=False):
     if not os.path.exists(DATA_DIR) or not any(
         f.endswith(".txt") for f in os.listdir(DATA_DIR)
     ):
-        print("❌ No TXTs found in text_output directory. Run pdf_text_extraction.py and mp3_text_extraction.py first.")
+        print(
+            "❌ No TXTs found in text_output directory. Run pdf_text_extraction.py and mp3_text_extraction.py first."
+        )
         return
 
     txt_files = [
@@ -66,7 +68,7 @@ def ner_all_txts(force_extract=False):
 
     print(f"📂 Processing {num_files} TXTs...\n")
 
-    nlp = en_core_web_lg.load()
+    nlp = spacy.load("en_core_web_lg")
 
     for filename in tqdm(txt_files, desc="Parsing TXTs", unit="file"):
         txt_path = os.path.join(DATA_DIR, filename)
@@ -85,19 +87,20 @@ def ner_all_txts(force_extract=False):
             continue
 
         # Save text to output file
-        with open(output_path, "w", encoding="utf-8") as f:
-            doc = nlp(text)
-            entities = {"Entity":[], "Start":[], "End":[], "Label":[]}
-            for ent in doc.ents:
-                if ent.label_ in ["GPE", "LOC"]:
-                    entities["Entity"] += [ent.text]
-                    entities["Start"] += [ent.start_char]
-                    entities["End"] += [ent.end_char]
-                    entities["Label"] += [ent.label_]
-            df = pd.DataFrame(entities).fillna("")
-            df.to_csv(output_path, index=False)
+        doc = nlp(text)
+        entities = {"Entity": [], "Start": [], "End": [], "Label": []}
+        for ent in doc.ents:
+            if ent.label_ in ["GPE", "LOC"]:
+                entities["Entity"] += [ent.text]
+                entities["Start"] += [ent.start_char]
+                entities["End"] += [ent.end_char]
+                entities["Label"] += [ent.label_]
+        df = pd.DataFrame(entities).fillna("")
+        df.to_csv(output_path, index=False)
 
-    print("\n✅ Natural Entity Recognition complete! All available TXTs have been processed.")
+    print(
+        "\n✅ Natural Entity Recognition complete! All available TXTs have been processed."
+    )
     print(f"Number of Skipped Files (no text or too long): {skipped}")
 
 

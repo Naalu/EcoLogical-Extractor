@@ -1,10 +1,10 @@
 import os
 
 import cv2
-import fitz  # PyMuPDF
+import fitz  # type: ignore
 import numpy as np
-import pytesseract
-from tqdm import tqdm  # Progress bar
+import pytesseract  # type: ignore
+from tqdm import tqdm  # type: ignore
 
 # Define paths relative to the project root
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))

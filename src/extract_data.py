@@ -61,6 +61,19 @@ def extract_zip(force_extract=False):
                 if src_path != dest_path:  # Prevent unnecessary moves
                     shutil.move(src_path, dest_path)
 
+    # Remove unwanted directories (e.g., __MACOSX, p17192coll1) and their contents
+    for dir_name in ["__MACOSX", "p17192coll1"]:
+        dir_path = os.path.join(EXTRACT_DIR, dir_name)
+        if os.path.exists(dir_path):
+            shutil.rmtree(dir_path)
+
+    # Remove empty directories
+    for root, dirs, _ in os.walk(EXTRACT_DIR):
+        for dir_name in dirs:
+            dir_path = os.path.join(root, dir_name)
+            if not os.listdir(dir_path):  # Check if directory is empty
+                os.rmdir(dir_path)
+
     print("✅ Cleanup complete: All PDFs and MP3s moved to the extracted directory.")
 
 

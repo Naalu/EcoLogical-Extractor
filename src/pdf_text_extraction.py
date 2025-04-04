@@ -1,7 +1,7 @@
 import os
 
-import fitz  # PyMuPDF
-from tqdm import tqdm  # Progress bar
+import fitz  # type: ignore
+from tqdm import tqdm  # type: ignore
 
 # Define paths relative to the project root
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))

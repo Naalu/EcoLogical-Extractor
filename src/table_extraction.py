@@ -29,19 +29,37 @@ import warnings
 from contextlib import contextmanager
 from datetime import datetime
 from pathlib import Path
-from typing import Dict, List, Union
+from typing import Any, Dict, Iterator, List, Optional, Tuple, TypedDict, Union
 
-import camelot
-import pandas as pd
-import pdfplumber
-from tqdm import tqdm
+import camelot  # type: ignore
+import pandas as pd  # type: ignore
+import pdfplumber  # type: ignore
+from tqdm import tqdm  # type: ignore
 
+# Suppress specific warnings from Camelot
 warnings.filterwarnings("ignore", category=UserWarning, module="camelot")
 
-# Type hints for clarity
+# Type definitions for clarity
 BASE_DIR = Path(__file__).resolve().parent.parent
-ProcessingStatus = Dict[str, Union[str, bool, int, float]]
+logger = logging.getLogger(__name__)
+
+
+class ProcessingStatus(TypedDict, total=False):
+    filename: str
+    processed_date: str
+    is_scanned: bool
+    has_tables: bool
+    num_tables: int
+    extraction_method: Optional[str]
+    quality_scores: List[float]
+    saved_files: Optional[Dict[str, Union[str, List[str]]]]
+    success: bool
+    error: Optional[str]
+
+
 ManifestDict = Dict[str, ProcessingStatus]
+TableType = List[List[Optional[str]]]
+ExtractedTable = Dict[str, Any]
 
 # Path configuration
 DATA_DIR = BASE_DIR / "data"
@@ -87,7 +105,7 @@ HEADER_KEYWORDS = {
 
 
 @contextmanager
-def suppress_stdout():
+def suppress_stdout() -> Iterator[None]:
     """Context manager to suppress stdout temporarily."""
     from contextlib import redirect_stdout
     from io import StringIO
@@ -130,7 +148,7 @@ def setup_logging() -> None:
     logger = logging.getLogger(__name__)
 
 
-def compute_table_quality(table: List[List[str]], page_number: int) -> float:
+def compute_table_quality(table: TableType, page_number: int) -> float:
     """
     Compute the Table Quality Score (TQS).
 
@@ -153,7 +171,7 @@ def compute_table_quality(table: List[List[str]], page_number: int) -> float:
     try:
         # Get metrics
         total_cells, non_empty, special_chars, numeric = compute_content_metrics(table)
-        col_consistency = compute_structure_metrics(table)  # This was missing
+        col_consistency = compute_structure_metrics(table)
         cluster_penalty = compute_empty_cell_clustering(table)
         header_score = compute_header_analysis(table)
 
@@ -177,7 +195,7 @@ def compute_table_quality(table: List[List[str]], page_number: int) -> float:
         return 0.0
 
 
-def compute_content_metrics(table: List[List[str]]) -> tuple:
+def compute_content_metrics(table: TableType) -> Tuple[int, int, int, int]:
     """Compute content metrics for the table."""
     total_cells = 0
     non_empty = 0
@@ -197,7 +215,7 @@ def compute_content_metrics(table: List[List[str]]) -> tuple:
     return total_cells, non_empty, special_chars, numeric
 
 
-def compute_structure_metrics(table: List[List[str]]) -> float:
+def compute_structure_metrics(table: TableType) -> float:
     """Compute structure metrics for the table."""
     col_lengths = [len(row) for row in table]
     col_variance = statistics.pvariance(col_lengths) if len(col_lengths) > 1 else 0
@@ -205,14 +223,14 @@ def compute_structure_metrics(table: List[List[str]]) -> float:
     return col_consistency
 
 
-def compute_empty_cell_clustering(table: List[List[str]]) -> float:
+def compute_empty_cell_clustering(table: TableType) -> float:
     """Compute empty cell clustering penalty for the table."""
     empty_clusters = sum(1 for row in table if row.count("") > len(row) // 2)
     cluster_penalty = empty_clusters / len(table)
     return cluster_penalty
 
 
-def compute_header_analysis(table: List[List[str]]) -> float:
+def compute_header_analysis(table: TableType) -> float:
     """Compute header analysis score for the table."""
     if not table or not table[0]:
         return 0.0
@@ -224,11 +242,11 @@ def compute_header_analysis(table: List[List[str]]) -> float:
     return header_score
 
 
-def extract_tables_with_pdfplumber(pdf_path: str) -> List[Dict]:
+def extract_tables_with_pdfplumber(pdf_path: Union[str, Path]) -> List[ExtractedTable]:
     """Extract tables using PDFPlumber."""
     extracted_tables = []
     try:
-        with pdfplumber.open(pdf_path) as pdf:
+        with pdfplumber.open(str(pdf_path)) as pdf:
             for page_num, page in enumerate(pdf.pages, start=1):
                 for table in page.extract_tables():
                     quality_score = compute_table_quality(table, page_num)
@@ -247,14 +265,16 @@ def extract_tables_with_pdfplumber(pdf_path: str) -> List[Dict]:
             f"PDFPlumber extraction failed for {pdf_path} due to a file not found error: {e}"
         )
     return extracted_tables
-def extract_tables_with_camelot(pdf_path: str) -> List[Dict]:
+
+
+def extract_tables_with_camelot(pdf_path: Union[str, Path]) -> List[ExtractedTable]:
     """Extract tables using Camelot, trying 'lattice' first, then 'stream'."""
     extracted_tables = []
 
     try:
         with suppress_stdout():
             # Try lattice mode first
-            tables = camelot.read_pdf(pdf_path, flavor="lattice")
+            tables = camelot.read_pdf(str(pdf_path), flavor="lattice")
             if tables and tables.n > 0:
                 for table in tables:
                     if not table.df.empty:
@@ -279,22 +299,24 @@ def extract_tables_with_camelot(pdf_path: str) -> List[Dict]:
     return extracted_tables
 
 
-def extract_tables(pdf_path: str) -> List[Dict]:
+def extract_tables(pdf_path: Union[str, Path]) -> List[ExtractedTable]:
     """Extract tables using PDFPlumber first, falling back to Camelot if needed."""
     if is_image_based_pdf(pdf_path):
         logger.info(f"🔍 {pdf_path} is image-based, skipping extraction.")
         return []
-        
+
     tables = extract_tables_with_pdfplumber(pdf_path)
     if not tables:
         tables = extract_tables_with_camelot(pdf_path)
         if not tables:
-            logger.warning(f"No tables extracted from {pdf_path} using both pdfplumber and camelot.")
-    
+            logger.warning(
+                f"No tables extracted from {pdf_path} using both pdfplumber and camelot."
+            )
+
     return tables
 
 
-def is_image_based_pdf(pdf_path: str) -> bool:
+def is_image_based_pdf(pdf_path: Union[str, Path]) -> bool:
     """
     Check if the PDF is image-based (scanned).
 
@@ -305,7 +327,7 @@ def is_image_based_pdf(pdf_path: str) -> bool:
         bool: True if the PDF is image-based (scanned), False otherwise.
     """
     try:
-        with pdfplumber.open(pdf_path) as pdf:
+        with pdfplumber.open(str(pdf_path)) as pdf:
             for page in pdf.pages[:2]:  # Check the first 2 pages
                 text = page.extract_text()
                 if text and text.strip():
@@ -334,46 +356,42 @@ def load_manifest() -> ManifestDict:
 
 def save_manifest(manifest: ManifestDict) -> None:
     """
-        Save the processing manifest to disk.
-    
-        This function writes the manifest dictionary to a JSON file.
-    
-        Args:
-            manifest: Dictionary of processed files and their status
-        """
+    Save the processing manifest to disk.
+
+    This function writes the manifest dictionary to a JSON file.
+
+    Args:
+        manifest: Dictionary of processed files and their status
+    """
     with open(PROCESSED_MANIFEST, "w", encoding="utf-8") as f:
-            json.dump(manifest, f, indent=2, ensure_ascii=False)
+        json.dump(manifest, f, indent=2, ensure_ascii=False)
 
 
-def normalize_table_data(table: List[List[str]]) -> List[List[str]]:
+def normalize_table_data(table: TableType) -> List[List[str]]:
     """
     Normalize table data to ensure all rows have the same length.
-    
+
     Args:
         table: Raw table data as 2D list
-        
+
     Returns:
         Normalized table with consistent row lengths
     """
     if not table:
         return []
-    
+
     try:
         # Convert None values to empty strings
         cleaned_table = [
-            ['' if cell is None else str(cell) for cell in row]
-            for row in table
+            ["" if cell is None else str(cell) for cell in row] for row in table
         ]
-        
+
         # Find the maximum row length
         max_length = max(len(row) for row in cleaned_table)
-        
+
         # Pad shorter rows with empty strings
-        normalized = [
-            row + [''] * (max_length - len(row))
-            for row in cleaned_table
-        ]
-        
+        normalized = [row + [""] * (max_length - len(row)) for row in cleaned_table]
+
         return normalized
     except Exception as e:
         logger.error(f"Error normalizing table: {str(e)}")
@@ -381,7 +399,7 @@ def normalize_table_data(table: List[List[str]]) -> List[List[str]]:
 
 
 def save_extracted_tables(
-    pdf_name: str, tables: List[Dict], save_csv: bool = False
+    pdf_name: str, tables: List[ExtractedTable], save_csv: bool = False
 ) -> None:
     """Save extracted tables to a single JSON file per PDF, and optionally to CSV."""
     if not tables:
@@ -403,14 +421,18 @@ def save_extracted_tables(
                     # Normalize table data before creating DataFrame
                     normalized_table = normalize_table_data(table_data["table"])
                     if not normalized_table:
-                        logger.warning(f"Empty or invalid table found in {pdf_name}, table {idx}")
+                        logger.warning(
+                            f"Empty or invalid table found in {pdf_name}, table {idx}"
+                        )
                         continue
-                        
+
                     # Ensure all rows have the same number of columns
                     if len(set(len(row) for row in normalized_table)) > 1:
-                        logger.warning(f"Inconsistent row lengths in {pdf_name}, table {idx}")
+                        logger.warning(
+                            f"Inconsistent row lengths in {pdf_name}, table {idx}"
+                        )
                         continue
-                        
+
                     df = pd.DataFrame(normalized_table).fillna("")
                 else:  # camelot
                     try:
@@ -420,10 +442,12 @@ def save_extracted_tables(
                         continue
 
                 # Clean column names
-                df.columns = [
-                    str(col).strip() if col is not None else f"column_{i}"
-                    for i, col in enumerate(df.columns)
-                ]
+                df.columns = pd.Index(
+                    [
+                        str(col).strip() if col is not None else f"column_{i}"
+                        for i, col in enumerate(df.columns.tolist())
+                    ]
+                )
 
                 # Add table metadata and data to the PDF's JSON
                 table_info = {
@@ -437,7 +461,11 @@ def save_extracted_tables(
                     "column_names": df.columns.tolist(),
                     "table_data": df.to_dict(orient="records"),
                 }
-                pdf_data["tables"].append(table_info)
+
+                # Ensure tables is always a list before appending
+                if not isinstance(pdf_data["tables"], list):
+                    pdf_data["tables"] = []
+                pdf_data["tables"].append(table_info)  # type: ignore
 
                 # Optionally save as CSV
                 if save_csv:
@@ -455,8 +483,10 @@ def save_extracted_tables(
         with open(json_path, "w", encoding="utf-8") as f:
             json.dump(pdf_data, f, indent=2, ensure_ascii=False)
 
+        tables_list = pdf_data.get("tables", [])
+        tables_count = len(tables_list if isinstance(tables_list, list) else [])
         logger.info(
-            f"Saved {len(pdf_data['tables'])} tables from {pdf_name}"
+            f"Saved {tables_count} tables from {pdf_name}"
             f"{' (with CSV files)' if save_csv else ''}"
         )
     except Exception as e:
@@ -465,7 +495,7 @@ def save_extracted_tables(
 
 def process_pdf(
     pdf_path: Path, manifest: ManifestDict, save_csv: bool = False
-) -> Dict[str, Union[str, bool, int, float, list, dict]]:
+) -> ProcessingStatus:
     """
     Process a single PDF file and extract tables.
 
@@ -507,33 +537,38 @@ def process_pdf(
         save_extracted_tables(pdf_name, high_quality_tables, save_csv)
 
     # Step 5: Update status
-    status = {
+    status: ProcessingStatus = {
         "filename": pdf_name,
         "processed_date": datetime.now().isoformat(),
         "is_scanned": False,
         "has_tables": bool(high_quality_tables),
         "num_tables": len(high_quality_tables),
-        "extraction_method": high_quality_tables[0]["method"]
-        if high_quality_tables
-        else None,
-        "quality_scores": [t["quality_score"] for t in high_quality_tables]
-        if high_quality_tables
-        else [],
-        "saved_files": {
-            "json": f"{pdf_name}.json",
-            "csv": [
-                f"{pdf_name}_table_{i + 1}.csv" for i in range(len(high_quality_tables))
-            ],
-        }
-        if high_quality_tables
-        else None,
+        "extraction_method": (
+            high_quality_tables[0]["method"] if high_quality_tables else None
+        ),
+        "quality_scores": (
+            [t["quality_score"] for t in high_quality_tables]
+            if high_quality_tables
+            else []
+        ),
+        "saved_files": (
+            {
+                "json": f"{pdf_name}.json",
+                "csv": [
+                    f"{pdf_name}_table_{i + 1}.csv"
+                    for i in range(len(high_quality_tables))
+                ],
+            }
+            if high_quality_tables
+            else None
+        ),
         "success": True,
     }
 
     return status
 
 
-def main():
+def main() -> None:
     """Main execution function with manifest tracking."""
     parser = argparse.ArgumentParser(
         description="Extract tables from PDFs using multiple methods."
