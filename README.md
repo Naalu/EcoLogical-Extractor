@@ -1,28 +1,52 @@
-# EcoLogical Extractor
+# EcoLogical-Extractor
 
 <img src="docs/images/logo.png" alt="EcoLogical Extractor Logo" width="150" align="right"/>
 
 **EcoLogical Extractor** is a specialized data extraction system that parses, analyzes, and structures geographic and keyword information from ecological research publications. This tool helps researchers discover relevant studies by location and topic, significantly reducing search time and revealing connections across research projects.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
-[![Last Commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/EcoLogical-Extractor.svg)](https://github.com/YOUR_GITHUB_USERNAME/EcoLogical-Extractor/commits/main)
-[![Issues](https://img.shields.io/github/issues/YOUR_GITHUB_USERNAME/EcoLogical-Extractor.svg)](https://github.com/YOUR_GITHUB_USERNAME/EcoLogical-Extractor/issues)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Last Commit](https://img.shields.io/github/last-commit/Naalu/EcoLogical-Extractor.svg)](https://github.com/Naalu/EcoLogical-Extractor/commits/main)
+[![Issues](https://img.shields.io/github/issues/Naalu/EcoLogical-Extractor.svg)](https://github.com/Naalu/EcoLogical-Extractor/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
+***
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Why EcoLogical Extractor?](#why-ecological-extractor)
-- [Quick Start](#quick-start)
-- [Detailed Setup Guide](#detailed-setup-guide)
-- [Usage Examples](#usage-examples)
-- [Project Structure](#project-structure)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [Architecture & Development](#architecture--development)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+- [EcoLogical-Extractor](#ecological-extractor)
+  - [📋 Table of Contents](#-table-of-contents)
+  - [🌟 Overview](#-overview)
+  - [🚀 Key Features](#-key-features)
+  - [💡 Why EcoLogical Extractor?](#-why-ecological-extractor)
+    - [Impact Metric Goals](#impact-metric-goals)
+  - [🚀 Quick Start](#-quick-start)
+    - [Prerequisites](#prerequisites)
+    - [Basic Installation](#basic-installation)
+  - [📋 Detailed Setup Guide](#-detailed-setup-guide)
+    - [Virtual Environment Setup](#virtual-environment-setup)
+    - [Platform-Specific Setup](#platform-specific-setup)
+      - [Windows](#windows)
+      - [macOS](#macos)
+      - [Linux (Ubuntu/Debian)](#linux-ubuntudebian)
+    - [Verifying External Dependencies](#verifying-external-dependencies)
+  - [📊 Usage Examples](#-usage-examples)
+    - [Processing Documents](#processing-documents)
+    - [Extracting Geographic Information](#extracting-geographic-information)
+    - [Visualization](#visualization)
+  - [📁 Project Structure](#-project-structure)
+  - [⚠️ Troubleshooting](#️-troubleshooting)
+    - [Common Issues](#common-issues)
+      - [Tesseract Not Found Error](#tesseract-not-found-error)
+      - [SpaCy Model Not Found Error](#spacy-model-not-found-error)
+      - [ffmpeg Not Found Error](#ffmpeg-not-found-error)
+      - [PDF Processing Errors](#pdf-processing-errors)
+      - [Virtual Environment Issues](#virtual-environment-issues)
+  - [🤝 Contributing](#-contributing)
+  - [📄 License](#-license)
+  - [🙏 Acknowledgements](#-acknowledgements)
+  - [🆘 Getting Help](#-getting-help)
 
 ## 🌟 Overview
 
@@ -56,7 +80,7 @@ This transformation unlocks hidden connections between studies and dramatically 
 - **Preserves Legacy Knowledge**: Makes older scanned documents as searchable as digital ones
 - **Empowers Visual Analysis**: Transform text data into interactive maps and visualizations
 
-### Impact Metrics
+### Impact Metric Goals
 
 - **80-90%** reduction in search time for location-based queries
 - **85%+** accuracy in geographic entity recognition
@@ -67,24 +91,29 @@ This transformation unlocks hidden connections between studies and dramatically 
 
 ### Prerequisites
 
-- Python >= 3.8 & <= 3.11
+- Python >3.8 and <3.12
+- pip (Python package manager)
 - Git
 - Tesseract OCR (see platform-specific setup below)
+- spaCy and its language models
 
 ### Basic Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_GITHUB_USERNAME/EcoLogical-Extractor.git
+git clone https://github.com/Naalu/EcoLogical-Extractor.git
 cd EcoLogical-Extractor
 
 # Create and activate virtual environment
-uv venv
+python -m venv .venv
 source .venv/bin/activate  # macOS/Linux
 .venv\Scripts\activate     # Windows
 
 # Install dependencies
-uv pip install -r requirements.txt
+pip install -r requirements.txt
+
+# Install spaCy language model
+python -m spacy download en_core_web_lg
 
 # Verify installation
 python src/setup_test.py
@@ -95,26 +124,6 @@ python src/setup_test.py
 ### Virtual Environment Setup
 
 We strongly recommend using a virtual environment for development and deployment.
-
-#### Using UV (Recommended)
-
-UV is a modern, fast package manager and virtual environment tool for Python.
-
-```bash
-# Install UV
-# macOS/Linux
-curl -sSf https://raw.githubusercontent.com/astral-sh/uv/main/install.sh | sh
-
-# Windows (PowerShell)
-irm https://raw.githubusercontent.com/astral-sh/uv/main/install.ps1 | iex
-
-# Create and activate virtual environment
-uv venv
-source .venv/bin/activate  # macOS/Linux
-.venv\Scripts\activate     # Windows
-```
-
-#### Using venv (Python's built-in tool)
 
 ```bash
 # Create virtual environment
@@ -149,15 +158,16 @@ source .venv/bin/activate  # macOS/Linux
    - Run the installer (it will add to PATH automatically)
    - Verify installation: `gswin64c -version`
 
-4. **FastText Installation**:
-   The standard fasttext installation may fail on Windows. Try these alternatives:
+4. **Install spaCy language model**:
 
    ```bash
-   # Option 1: Install pre-built wheel
-   pip install "build-resources\fasttext-0.9.2-cp311-cp311-win_amd64.whl"
+   python -m spacy download en_core_web_lg
+   ```
 
-   # Option 2: Use fasttext-wheel
-   pip install fasttext-wheel
+5. **Install requirements**:
+
+   ```bash
+   pip install -r requirements.txt
    ```
 
 #### macOS
@@ -174,11 +184,16 @@ source .venv/bin/activate  # macOS/Linux
    brew install ffmpeg
    ```
 
-3. **Verify installations**:
+3. **Install spaCy language model**:
 
    ```bash
-   tesseract --version
-   ffmpeg -version
+   python -m spacy download en_core_web_lg
+   ```
+
+4. **Install requirements**:
+
+   ```bash
+   pip install -r requirements.txt
    ```
 
 #### Linux (Ubuntu/Debian)
@@ -190,19 +205,24 @@ source .venv/bin/activate  # macOS/Linux
    sudo apt-get install -y tesseract-ocr libtesseract-dev ffmpeg
    ```
 
-2. **Verify installations**:
+2. **Install spaCy language model**:
 
    ```bash
-   tesseract --version
-   ffmpeg -version
+   python -m spacy download en_core_web_lg
+   ```
+
+3. **Install requirements**:
+
+   ```bash
+   pip install -r requirements.txt
    ```
 
 ### Verifying External Dependencies
 
-Run the setup test script with the `--debug` flag to get detailed information about your environment:
+Run the setup test script to get detailed information about your environment:
 
 ```bash
-python src/setup_test.py --debug
+python src/setup_test.py
 ```
 
 This will check for:
@@ -296,15 +316,14 @@ EcoLogical-Extractor/
 │   ├── api/            # API documentation
 │   ├── examples/       # Usage examples
 │   └── images/         # Documentation images
-├── notebooks/          # Jupyter notebooks for examples
 ├── src/                # Source code
 │   ├── cms_integration.py      # ContentDM integration
 │   ├── data_structuring.py     # Data transformation and storage
 │   ├── main.py                 # Main entry point
-│   ├── mp3transcriber.py       # Audio transcription
+│   ├── mp3_text_extraction.py  # Audio transcription
 │   ├── nlp_extraction.py       # NLP analysis
 │   ├── ocr_processing.py       # OCR for scanned documents
-│   ├── pdf_processing.py       # PDF utilities
+│   ├── pdf_text_extraction.py  # PDF text extraction
 │   ├── setup_test.py           # Environment verification
 │   ├── table_extraction.py     # Table extraction
 │   └── visualization.py        # Data visualization
@@ -313,8 +332,6 @@ EcoLogical-Extractor/
 ├── LICENSE             # MIT License
 ├── pyproject.toml      # Project configuration
 ├── README.md           # This file
-├── CONTRIBUTING.md     # Contribution guidelines
-├── DEVELOPMENT.md      # Technical architecture details
 ├── requirements.txt    # Package dependencies
 └── setup.py            # Installation script
 ```
@@ -338,6 +355,25 @@ EcoLogical-Extractor/
    pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
    ```
 
+#### SpaCy Model Not Found Error
+
+**Symptoms**: `OSError: [E050] Can't find model 'en_core_web_lg'`
+
+**Solutions**:
+
+1. Install the model manually:
+
+   ```bash
+   python -m spacy download en_core_web_lg
+   ```
+
+2. Verify installation:
+
+   ```python
+   import spacy
+   nlp = spacy.load("en_core_web_lg")
+   ```
+
 #### ffmpeg Not Found Error
 
 **Symptoms**: `FileNotFoundError: [Errno 2] No such file or directory: 'ffmpeg'`
@@ -349,30 +385,6 @@ EcoLogical-Extractor/
 3. On Windows, download from [ffmpeg.org](https://ffmpeg.org/download.html) and add to PATH
 4. On macOS: `brew install ffmpeg`
 5. On Linux: `sudo apt-get install ffmpeg`
-
-#### FastText Installation Issues
-
-**Symptoms**: `ModuleNotFoundError: No module named 'fasttext'` or compilation errors
-
-**Solutions**:
-
-1. For Windows, try alternative installation methods:
-
-   ```bash
-   pip install fasttext --no-deps
-   # or
-   pip install fasttext-wheel
-   ```
-
-2. For macOS/Linux, ensure you have build tools:
-
-   ```bash
-   # macOS
-   brew install cmake
-
-   # Ubuntu/Debian
-   sudo apt-get install build-essential cmake
-   ```
 
 #### PDF Processing Errors
 
@@ -401,16 +413,6 @@ EcoLogical-Extractor/
    print(doc.metadata)  # Check if PDF is valid
    ```
 
-#### Table Extraction Issues on Windows
-
-**Symptoms**: Table extraction fails on Windows with Camelot
-
-**Solutions**:
-
-1. Verify Ghostscript is installed: `gswin64c -version`
-2. Download from [Ghostscript Downloads](https://ghostscript.com/releases/gsdnld.html)
-3. If using Camelot directly, ensure you have poppler-utils installed as well
-
 #### Virtual Environment Issues
 
 **Symptoms**: Package not found errors despite installation
@@ -428,40 +430,21 @@ EcoLogical-Extractor/
 3. Reinstall dependencies:
 
    ```bash
-   uv pip install --force-reinstall -r requirements.txt
+   pip install --force-reinstall -r requirements.txt
    ```
 
 ## 🤝 Contributing
 
-We welcome contributions to the EcoLogical Extractor project! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on how to contribute, including:
+We welcome contributions to the EcoLogical Extractor project! Please see CONTRIBUTING.md for detailed guidelines on how to contribute, including:
 
 - Development environment setup
 - Coding standards
 - Testing requirements
 - Pull request process
 
-## 🏗️ Architecture & Development
-
-For developers interested in the technical architecture, component interactions, and design decisions, please refer to our [DEVELOPMENT.md](DEVELOPMENT.md) guide. This document provides insights into:
-
-- System architecture
-- Component interactions
-- Key design decisions
-- Development principles
-- Debugging and performance tips
-
-The system follows a modular pipeline architecture that allows for flexible component integration and extension:
-
-```
-┌──────────────┐    ┌───────────────┐    ┌─────────────┐    ┌─────────────┐
-│ Extraction   │ => │ NLP Analysis  │ => │ Structured  │ => │ CMS         │
-│ Subsystem    │    │ Subsystem     │    │ Data        │    │ Integration │
-└──────────────┘    └───────────────┘    └─────────────┘    └─────────────┘
-```
-
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgements
 
@@ -471,10 +454,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Getting Help
 
-- **Issues**: Open a [GitHub Issue](https://github.com/YOUR_GITHUB_USERNAME/EcoLogical-Extractor/issues)
-- **Discussion**: Join our [GitHub Discussions](https://github.com/YOUR_GITHUB_USERNAME/EcoLogical-Extractor/discussions)
-- **Contact**: Reach out to project maintainers at [maintainer@example.com](mailto:maintainer@example.com)
+- **Issues**: Open a [GitHub Issue](https://github.com/Naalu/EcoLogical-Extractor/issues)
+- **Discussion**: Join our [GitHub Discussions](https://github.com/Naalu/EcoLogical-Extractor/discussions)
+- **Contact**: Reach out to project maintainers at [kcr28@nau.edu](mailto:kcr28@nau.edu)
 
 ---
 
-For questions or support, please open an issue on GitHub or contact the repository maintainers. Thank you for using EcoLogical Extractor! 🌿
+For questions or support, please open an issue on GitHub or contact the project maintainers. Thank you for using EcoLogical Extractor! 🌿

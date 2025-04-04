@@ -42,20 +42,13 @@ def extract_zip(force_extract=False):
         for file in zip_ref.namelist():
             if file.lower().endswith(".pdf"):
                 zip_ref.extract(file, EXTRACT_DIR)
-            if file.lower().endswith(".mp3"):
-                zip_ref.extract(file, EXTRACT_DIR)
 
-    print(f"✅ Extracted PDFs and MP3s to {EXTRACT_DIR}")
+    print(f"✅ Extracted PDFs to {EXTRACT_DIR}")
 
     # Cleanup: Move PDFs from nested directories to the root `extracted/`
     for root, _, files in os.walk(EXTRACT_DIR):
         for file in files:
             if file.lower().endswith(".pdf"):
-                src_path = os.path.join(root, file)
-                dest_path = os.path.join(EXTRACT_DIR, file)
-                if src_path != dest_path:  # Prevent unnecessary moves
-                    shutil.move(src_path, dest_path)
-            if file.lower().endswith(".mp3"):
                 src_path = os.path.join(root, file)
                 dest_path = os.path.join(EXTRACT_DIR, file)
                 if src_path != dest_path:  # Prevent unnecessary moves
@@ -67,14 +60,14 @@ def extract_zip(force_extract=False):
         if os.path.isdir(folder_path):
             shutil.rmtree(folder_path, ignore_errors=True)
 
-    print("✅ Cleanup complete: All PDFs and MP3s moved to the extracted directory.")
+    print("✅ Cleanup complete: All PDFs moved to the extracted directory.")
 
 
 if __name__ == "__main__":
     import argparse
 
     parser = argparse.ArgumentParser(
-        description="Extract PDFs and MP3s from a zip file in data/raw to data/extracted."
+        description="Extract PDFs from a zip file in data/raw to data/extracted."
     )
     parser.add_argument(
         "--force-extract",
